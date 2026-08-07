@@ -1,0 +1,47 @@
+---
+tipas: zodyno_irasas
+pavadinimas: 'Sigenokai (sąvoka)'
+identifikacija: 'sąvoka'
+variantai:
+  - 'Sigenokai'
+aliases:
+  - 'Sigenokai'
+saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Sigenokai (sąvoka)
+
+## Santrauka
+
+Tai turėjo būti sigenokai.
+
+## Santrauka
+
+Tai turėjo būti sigenokai.
+
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Tai turėjo būti sigenokai.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
+  citata_originali: |
+    Tai turėjo būti sigenokai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
