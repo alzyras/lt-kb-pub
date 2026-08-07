@@ -37,7 +37,17 @@ jobs:
       - name: Build and audit DB-authoritative projection
         run: npm run build
       - name: Check representative external image hosts
-        run: npm run audit:media-hosts
+        run: |
+          for attempt in 1 2 3; do
+            if npm run audit:media-hosts; then
+              exit 0
+            fi
+            if [ "$attempt" -lt 3 ]; then
+              echo "Representative media-host audit failed on attempt $attempt; retrying..."
+              sleep 20
+            fi
+          done
+          exit 1
       - name: Upload media host audit
         uses: actions/upload-artifact@v4
         with:
