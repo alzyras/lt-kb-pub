@@ -1,0 +1,114 @@
+@use "../../styles/variables.scss" as *;
+
+.object-directory {
+  --directory-purple: var(--bm-purple, #54205b);
+  --directory-red: var(--bm-red, #d63e1c);
+  --directory-ink: var(--bm-ink, #271f2c);
+  --directory-muted: var(--bm-muted, #6e6170);
+  --directory-rule: color-mix(in srgb, var(--directory-purple) 18%, transparent);
+  width: min(100%, 1120px);
+  margin: 0 auto;
+  padding: clamp(1.5rem, 4vw, 3.25rem) clamp(1rem, 3vw, 2.25rem) 4.5rem;
+  color: var(--directory-ink);
+  font-family: var(--bm-font, system-ui, sans-serif);
+}
+
+.object-directory a { color: inherit; }
+
+.object-directory-hero {
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 2.5rem;
+  min-height: 22rem;
+  align-items: end;
+  overflow: hidden;
+  padding: clamp(2rem, 6vw, 5rem);
+  background:
+    linear-gradient(112deg, rgba(43, 19, 48, 0.98), rgba(88, 31, 83, 0.93) 58%, rgba(150, 48, 31, 0.9)),
+    url("/static/collection-images/category-asmenys-960.webp") center / cover;
+  color: #fff;
+}
+
+.object-directory-hero::after {
+  content: "";
+  position: absolute;
+  inset: auto -7rem -9rem auto;
+  width: 25rem;
+  height: 25rem;
+  border: 1px solid rgba(255, 255, 255, 0.22);
+  border-radius: 50%;
+  box-shadow: 0 0 0 2.5rem rgba(255, 255, 255, 0.04), 0 0 0 5.5rem rgba(255, 255, 255, 0.025);
+  pointer-events: none;
+}
+
+.object-directory-hero-copy, .object-directory-stats { position: relative; z-index: 1; }
+.object-directory-kicker {
+  margin: 0 0 0.75rem;
+  color: var(--directory-red);
+  font-family: var(--codeFont);
+  font-size: 0.7rem;
+  font-weight: 850;
+  letter-spacing: 0.12em;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.object-directory-hero .object-directory-kicker { color: #ffad91; }
+.object-directory h1, .object-directory h2 { margin: 0; font-family: Georgia, "Times New Roman", serif; font-weight: 500; letter-spacing: -0.025em; }
+.object-directory h1 { max-width: 8ch; font-size: clamp(3.4rem, 8vw, 7rem); line-height: 0.88; }
+.object-directory-lead { max-width: 38rem; margin: 1.35rem 0 0; color: rgba(255, 255, 255, 0.82); font-size: clamp(1rem, 1.5vw, 1.25rem); line-height: 1.45; }
+
+.object-directory-actions { display: flex; flex-wrap: wrap; gap: 0.7rem 1.25rem; margin-top: 2rem; align-items: center; }
+.object-directory-actions a, .object-directory-footer-card > a { display: inline-flex; align-items: center; gap: 0.65rem; font-family: var(--codeFont); font-size: 0.75rem; font-weight: 850; letter-spacing: 0.07em; text-decoration: none; text-transform: uppercase; }
+.object-directory-primary { padding: 0.75rem 1rem; background: var(--directory-red); color: #fff !important; }
+.object-directory-primary:hover, .object-directory-primary:focus-visible { background: #ef5835; }
+.object-directory-secondary { color: #fff !important; text-decoration: underline !important; text-decoration-color: rgba(255, 255, 255, 0.45) !important; text-underline-offset: 0.3em; }
+.object-directory-actions a:focus-visible, .object-directory-footer-card a:focus-visible, .object-directory-card:focus-visible { outline: 2px solid var(--directory-red); outline-offset: 3px; }
+
+.object-directory-stats { display: flex; gap: 1.5rem; align-self: end; margin: 0; }
+.object-directory-stats div { min-width: 5.5rem; padding-top: 0.65rem; border-top: 1px solid rgba(255, 255, 255, 0.42); }
+.object-directory-stats dt { color: rgba(255, 255, 255, 0.68); font-family: var(--codeFont); font-size: 0.65rem; font-weight: 800; letter-spacing: 0.08em; text-transform: uppercase; }
+.object-directory-stats dd { margin: 0.25rem 0 0; color: #fff; font-size: 1.5rem; font-weight: 750; }
+
+.object-directory-browse { padding-top: clamp(3.5rem, 7vw, 6rem); }
+.object-directory-section-heading { display: flex; justify-content: space-between; gap: 2rem; align-items: end; margin-bottom: 1.6rem; padding-bottom: 1.2rem; border-bottom: 1px solid var(--directory-rule); }
+.object-directory-section-heading h2 { color: var(--directory-purple); font-size: clamp(2.2rem, 4vw, 4rem); line-height: 0.98; }
+.object-directory-section-heading > p { max-width: 30rem; margin: 0; color: var(--directory-muted); font-size: 0.95rem; line-height: 1.5; }
+
+.object-directory-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; }
+.object-directory-card { position: relative; display: grid; grid-template-columns: minmax(8rem, 34%) minmax(0, 1fr); min-height: 11.5rem; overflow: hidden; border: 1px solid var(--directory-rule); background: var(--light, #fff); text-decoration: none; transition: transform 180ms ease, border-color 180ms ease, box-shadow 180ms ease; }
+.object-directory-card:hover { transform: translateY(-3px); border-color: var(--directory-red); box-shadow: 0 0.65rem 1.5rem rgba(42, 15, 42, 0.1); }
+.object-directory-card-image { min-height: 100%; overflow: hidden; background: #302031; }
+.object-directory-card-image img { display: block; width: 100%; height: 100%; min-height: 11.5rem; object-fit: cover; filter: saturate(0.78) contrast(1.04); transition: transform 220ms ease, filter 220ms ease; }
+.object-directory-card:hover .object-directory-card-image img { filter: saturate(1) contrast(1.06); transform: scale(1.045); }
+.object-directory-card-body { display: flex; min-width: 0; flex-direction: column; gap: 0.45rem; padding: 1.2rem 1.15rem 1.05rem; }
+.object-directory-card-index { color: var(--directory-red); font-family: var(--codeFont); font-size: 0.66rem; font-weight: 850; letter-spacing: 0.08em; }
+.object-directory-card strong { color: var(--directory-purple); font-family: Georgia, "Times New Roman", serif; font-size: clamp(1.35rem, 2.4vw, 2rem); font-weight: 550; line-height: 0.98; }
+.object-directory-card-description { color: var(--directory-muted); font-size: 0.83rem; line-height: 1.35; }
+.object-directory-card-meta { display: flex; justify-content: space-between; gap: 0.5rem; align-items: center; margin-top: auto; color: var(--directory-red); font-family: var(--codeFont); font-size: 0.68rem; font-weight: 850; letter-spacing: 0.05em; text-transform: uppercase; }
+.object-directory-card-meta span { font-size: 1.1rem; line-height: 1; }
+.object-directory-card-2, .object-directory-card-4 { background: color-mix(in srgb, var(--directory-purple) 4%, var(--light, #fff)); }
+
+.object-directory-footer-card { display: grid; grid-template-columns: 1fr minmax(16rem, 0.9fr) auto; gap: 2rem; align-items: center; margin-top: clamp(3.5rem, 7vw, 6rem); padding: 1.5rem 0; border-top: 1px solid var(--directory-rule); border-bottom: 1px solid var(--directory-rule); }
+.object-directory-footer-card h2 { color: var(--directory-purple); font-size: clamp(1.7rem, 3vw, 2.6rem); }
+.object-directory-footer-card > p { margin: 0; color: var(--directory-muted); font-size: 0.9rem; line-height: 1.45; }
+.object-directory-footer-card > a { justify-self: end; color: var(--directory-red); white-space: nowrap; }
+
+@media all and ($tablet) {
+  .object-directory-grid { grid-template-columns: 1fr; }
+  .object-directory-section-heading { align-items: start; flex-direction: column; gap: 1rem; }
+}
+
+@media all and ($mobile) {
+  .object-directory { padding-inline: 0.9rem; }
+  .object-directory-hero { grid-template-columns: 1fr; min-height: auto; gap: 2.2rem; padding: 2rem 1.35rem 1.7rem; }
+  .object-directory h1 { font-size: clamp(3.2rem, 17vw, 5rem); }
+  .object-directory-stats { align-self: start; }
+  .object-directory-card { grid-template-columns: 7rem minmax(0, 1fr); min-height: 10.5rem; }
+  .object-directory-card-image img { min-height: 10.5rem; }
+  .object-directory-card-body { padding: 0.9rem 0.85rem; }
+  .object-directory-card-description { font-size: 0.78rem; }
+  .object-directory-footer-card { grid-template-columns: 1fr; gap: 1rem; }
+  .object-directory-footer-card > a { justify-self: start; }
+}
