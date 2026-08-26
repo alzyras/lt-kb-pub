@@ -9,7 +9,14 @@ const Content: QuartzComponent = ({ fileData, tree }: QuartzComponentProps) => {
 
   const content = htmlToJsx(fileData.filePath!, tree) as ComponentChildren
   const classes: string[] = fileData.frontmatter?.cssclasses ?? []
-  const classString = ["popover-hint", ...classes].join(" ")
+  // Topic pages are content pages (rather than folder pages), but deserve the
+  // same calm, full-width collection treatment as the topic index. Keeping a
+  // dedicated class here lets the global shell stay unchanged for articles and
+  // source pages.
+  const isTopicPage = String(fileData.slug ?? "").startsWith("temos/")
+  const classString = ["popover-hint", isTopicPage ? "topic-page-content" : "", ...classes]
+    .filter(Boolean)
+    .join(" ")
   return <article class={classString}>{content}</article>
 }
 

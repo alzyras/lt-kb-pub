@@ -1,8 +1,9 @@
 import FlexSearch, { DefaultDocumentSearchResults } from "flexsearch"
 import { SearchIndexDetails } from "../../plugins/emitters/contentIndex"
 import { registerEscapeHandler, removeAllChildren } from "./util"
-import { FullSlug, normalizeRelativeURLs, resolveRelative } from "../../util/path"
-import { createRequestTracker, ensureSuccessfulSearchPreviewResponse } from "./searchPreview"
+import { FullSlug } from "../../util/path"
+import { createRequestTracker, searchResultUrl } from "./searchPreview"
+import { splitSearchText } from "./search-safe-text"
 
 type ContentIndex = Record<FullSlug, SearchIndexDetails>
 
@@ -12,6 +13,10 @@ interface Item {
   title: string
   content: string
   tags: string[]
+  itemType?: string
+  claimCount?: number
+  quoteCount?: number
+  claimTopics?: string[]
   [key: string]: any
 }
 
@@ -20,6 +25,11 @@ type SearchOptionsState = {
   showPersonParentheticals?: boolean
   sourceSelectionMode: "all" | "custom"
   selectedSourceIds: string[]
+  contentType: string
+  objectType: string
+  period: string
+  evidenceMin: number
+  topic: string
 }
 
 // Can be expanded with things like "term" in the future
@@ -29,9 +39,14 @@ let currentSearchTerm: string = ""
 let idDataMap: FullSlug[] = []
 const OPTIONS_STORAGE_KEY = "ltkb-options-v4"
 const DEFAULT_SEARCH_OPTIONS_STATE: SearchOptionsState = {
-  minClaimCount: 5,
+  minClaimCount: 0,
   sourceSelectionMode: "all",
   selectedSourceIds: [],
+  contentType: "",
+  objectType: "",
+  period: "",
+  evidenceMin: 0,
+  topic: "",
 }
 
 const isCJKCodePoint = (code: number) =>
@@ -111,8 +126,6 @@ let index = new FlexSearch.Document<Item>({
   },
 })
 
-const p = new DOMParser()
-const fetchContentCache: Map<FullSlug, Element[]> = new Map()
 const contextWindowWords = 30
 const numSearchResults = 12
 const searchCandidateLimit = 80
@@ -169,6 +182,13 @@ function readSearchOptionsState(): SearchOptionsState {
           : undefined,
       sourceSelectionMode: parsed.sourceSelectionMode === "custom" ? "custom" : "all",
       selectedSourceIds,
+      contentType: typeof parsed.contentType === "string" ? parsed.contentType : "",
+      objectType: typeof parsed.objectType === "string" ? parsed.objectType : "",
+      period: typeof parsed.period === "string" ? parsed.period : "",
+      evidenceMin: Number.isFinite(parsed.evidenceMin)
+        ? Math.max(0, Number(parsed.evidenceMin))
+        : 0,
+      topic: typeof parsed.topic === "string" ? parsed.topic : "",
     }
   } catch {
     return { ...DEFAULT_SEARCH_OPTIONS_STATE }
@@ -176,7 +196,22 @@ function readSearchOptionsState(): SearchOptionsState {
 }
 
 function searchOptionFiltersActive(options: SearchOptionsState): boolean {
-  return options.minClaimCount > 0 || options.sourceSelectionMode === "custom"
+  return (
+    options.minClaimCount > 0 ||
+    options.sourceSelectionMode === "custom" ||
+    Boolean(options.contentType || options.objectType || options.period || options.topic) ||
+    options.evidenceMin > 0
+  )
+}
+
+function pageContentType(page: SearchIndexDetails | undefined): string {
+  const slug = String(page?.slug ?? "")
+  if (slug.startsWith("objektai/saltiniai/")) return "saltiniai"
+  if (slug.startsWith("objektai/")) return "objektai"
+  if (slug.startsWith("straipsniai/")) return "straipsniai"
+  if (slug.startsWith("parodos/")) return "parodos"
+  if (slug.startsWith("galerija/")) return "galerija"
+  return "kita"
 }
 
 function searchOptionsMatchPage(
@@ -194,6 +229,20 @@ function searchOptionsMatchPage(
   if (claimCount < options.minClaimCount) {
     return false
   }
+
+  if (options.contentType && pageContentType(page) !== options.contentType) return false
+  if (options.objectType && String(page?.itemType ?? "") !== options.objectType) return false
+  if (options.period) {
+    const periods = [...(page?.periodGroups ?? []), ...(page?.centuries ?? [])].map(String)
+    if (!periods.includes(options.period)) return false
+  }
+  if (options.topic) {
+    const topics = [...(page?.claimTopics ?? []), ...(page?.claimTopicLabels ?? [])].map((value) =>
+      normalizeSearchText(String(value)),
+    )
+    if (!topics.includes(normalizeSearchText(options.topic))) return false
+  }
+  if (Number(page.quoteCount ?? 0) < options.evidenceMin) return false
 
   if (options.sourceSelectionMode === "all") {
     return true
@@ -238,8 +287,7 @@ function highlight(searchTerm: string, text: string, trim?: boolean) {
       // see if this tok is prefixed by any search terms
       for (const searchTok of tokenizedTerms) {
         if (tok.toLowerCase().includes(searchTok.toLowerCase())) {
-          const regex = new RegExp(searchTok.toLowerCase(), "gi")
-          return tok.replace(regex, `<span class="highlight">$&</span>`)
+          return tok
         }
       }
       return tok
@@ -251,48 +299,7 @@ function highlight(searchTerm: string, text: string, trim?: boolean) {
   }`
 }
 
-function highlightHTML(searchTerm: string, el: HTMLElement) {
-  const p = new DOMParser()
-  const tokenizedTerms = tokenizeTerm(searchTerm)
-  const html = p.parseFromString(el.innerHTML, "text/html")
-
-  const createHighlightSpan = (text: string) => {
-    const span = document.createElement("span")
-    span.className = "highlight"
-    span.textContent = text
-    return span
-  }
-
-  const highlightTextNodes = (node: Node, term: string) => {
-    if (node.nodeType === Node.TEXT_NODE) {
-      const nodeText = node.nodeValue ?? ""
-      const regex = new RegExp(term.toLowerCase(), "gi")
-      const matches = nodeText.match(regex)
-      if (!matches || matches.length === 0) return
-      const spanContainer = document.createElement("span")
-      let lastIndex = 0
-      for (const match of matches) {
-        const matchIndex = nodeText.indexOf(match, lastIndex)
-        spanContainer.appendChild(document.createTextNode(nodeText.slice(lastIndex, matchIndex)))
-        spanContainer.appendChild(createHighlightSpan(match))
-        lastIndex = matchIndex + match.length
-      }
-      spanContainer.appendChild(document.createTextNode(nodeText.slice(lastIndex)))
-      node.parentNode?.replaceChild(spanContainer, node)
-    } else if (node.nodeType === Node.ELEMENT_NODE) {
-      if ((node as HTMLElement).classList.contains("highlight")) return
-      Array.from(node.childNodes).forEach((child) => highlightTextNodes(child, term))
-    }
-  }
-
-  for (const term of tokenizedTerms) {
-    highlightTextNodes(html.body, term)
-  }
-
-  return html.body
-}
-
-async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
+async function setupSearch(searchElement: Element) {
   const container = searchElement.querySelector(".search-container") as HTMLElement
   if (!container) return
 
@@ -300,12 +307,15 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
 
   const searchButton = searchElement.querySelector(".search-button") as HTMLButtonElement
   if (!searchButton) return
+  const closeButton = searchElement.querySelector(".search-close") as HTMLButtonElement | null
 
   const searchBar = searchElement.querySelector(".search-bar") as HTMLInputElement
   if (!searchBar) return
 
   const searchLayout = searchElement.querySelector(".search-layout") as HTMLElement
   if (!searchLayout) return
+  const inertTargets = [...document.body.children].filter((child) => !child.contains(searchElement))
+  let previouslyFocused: HTMLElement | null = null
 
   const appendLayout = (el: HTMLElement) => {
     searchLayout.appendChild(el)
@@ -321,6 +331,115 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
   results.className = "results-container"
   appendLayout(results)
 
+  const filterToggle = searchElement.querySelector(".search-filters-toggle") as HTMLButtonElement | null
+  const filterClear = searchElement.querySelector(".search-filters-clear") as HTMLButtonElement | null
+  const filterPanel = searchElement.querySelector(".search-filters") as HTMLDivElement | null
+
+  const facetValues = (read: (page: SearchIndexDetails) => string[]) => {
+    const values = new Set<string>()
+    for (const page of Object.values(searchData ?? {})) {
+      for (const value of read(page)) if (value) values.add(value)
+    }
+    return [...values].sort((a, b) => a.localeCompare(b, "lt-LT"))
+  }
+
+  const createFacet = (
+    key: keyof SearchOptionsState,
+    label: string,
+    values: string[],
+    current: SearchOptionsState,
+  ) => {
+    const wrapper = document.createElement("label")
+    wrapper.className = "search-filter-field"
+    const caption = document.createElement("span")
+    caption.textContent = label
+    const select = document.createElement("select")
+    select.dataset.filterKey = String(key)
+    const all = document.createElement("option")
+    all.value = ""
+    all.textContent = "Visi"
+    select.append(all)
+    for (const value of values) {
+      const option = document.createElement("option")
+      option.value = value
+      option.textContent = value
+      select.append(option)
+    }
+    select.value = key === "sourceSelectionMode"
+      ? String(current.selectedSourceIds[0] ?? "")
+      : String(current[key] ?? "")
+    select.addEventListener("change", () => {
+      const next = readSearchOptionsState()
+      if (key === "sourceSelectionMode") {
+        next.sourceSelectionMode = select.value ? "custom" : "all"
+        next.selectedSourceIds = select.value ? [select.value] : []
+      } else {
+        ;(next as any)[key] = select.value
+      }
+      writeSearchOptionsState(next)
+      updateFilterCount(next)
+      searchBar.dispatchEvent(new Event("input", { bubbles: true }))
+    })
+    wrapper.append(caption, select)
+    return wrapper
+  }
+
+  const updateFilterCount = (options: SearchOptionsState = readSearchOptionsState()) => {
+    const count = [
+      options.contentType,
+      options.objectType,
+      options.period,
+      options.topic,
+      options.evidenceMin > 0 ? String(options.evidenceMin) : "",
+      options.minClaimCount > 0 ? String(options.minClaimCount) : "",
+      options.sourceSelectionMode === "custom" ? "source" : "",
+    ].filter(Boolean).length
+    const badge = searchElement.querySelector(".search-filter-count")
+    if (badge) badge.textContent = count ? `(${count})` : ""
+    if (filterToggle) filterToggle.setAttribute("aria-expanded", String(Boolean(filterPanel && !filterPanel.hidden)))
+  }
+
+  const renderFilterPanel = () => {
+    if (!filterPanel || !searchData) return
+    removeAllChildren(filterPanel)
+    const current = readSearchOptionsState()
+    filterPanel.append(
+      createFacet("contentType", "Turinys", ["objektai", "straipsniai", "parodos", "galerija", "saltiniai", "kita"], current),
+      createFacet("objectType", "Objekto tipas", facetValues((page) => (page.itemType ? [String(page.itemType)] : [])), current),
+      createFacet("period", "Laikotarpis", facetValues((page) => [...(page.periodGroups ?? []), ...(page.centuries ?? [])]), current),
+      createFacet("topic", "Teiginio tema", facetValues((page) => [...(page.claimTopicLabels ?? []), ...(page.claimTopics ?? [])]), current),
+      createFacet("sourceSelectionMode", "Šaltinis", facetValues((page) => page.citationSourceIds ?? []), current),
+    )
+    const evidence = document.createElement("label")
+    evidence.className = "search-filter-field"
+    evidence.innerHTML = `<span>Įrodymų minimumas</span><select data-filter-key="evidenceMin"><option value="0">Nesvarbu</option><option value="1">1+</option><option value="3">3+</option><option value="10">10+</option><option value="25">25+</option></select>`
+    const evidenceSelect = evidence.querySelector("select") as HTMLSelectElement
+    evidenceSelect.value = String(current.evidenceMin)
+    evidenceSelect.addEventListener("change", () => {
+      const next = readSearchOptionsState()
+      next.evidenceMin = Number(evidenceSelect.value) || 0
+      writeSearchOptionsState(next)
+      updateFilterCount(next)
+      searchBar.dispatchEvent(new Event("input", { bubbles: true }))
+    })
+    filterPanel.append(evidence)
+    filterPanel.hidden = true
+    updateFilterCount(current)
+  }
+
+  filterToggle?.addEventListener("click", () => {
+    if (!filterPanel) return
+    filterPanel.hidden = !filterPanel.hidden
+    updateFilterCount()
+  })
+  filterClear?.addEventListener("click", () => {
+    const next = { ...DEFAULT_SEARCH_OPTIONS_STATE }
+    writeSearchOptionsState(next)
+    renderFilterPanel()
+    updateFilterCount(next)
+    searchBar.dispatchEvent(new Event("input", { bubbles: true }))
+  })
+
   if (enablePreview) {
     preview = document.createElement("div")
     preview.className = "preview-container"
@@ -331,6 +450,9 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
     previewRequests.invalidate()
     searchRequests.invalidate()
     container.classList.remove("active")
+    container.setAttribute("aria-hidden", "true")
+    searchButton.setAttribute("aria-expanded", "false")
+    for (const target of inertTargets) (target as HTMLElement).inert = false
     searchBar.value = "" // clear the input when we dismiss the search
     if (sidebar) sidebar.style.zIndex = ""
     removeAllChildren(results)
@@ -339,16 +461,22 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
     }
     searchLayout.classList.remove("display-results")
     searchType = "basic" // reset search type after closing
-    searchButton.focus()
+    ;(previouslyFocused ?? searchButton).focus()
+    previouslyFocused = null
   }
 
   function showSearch(searchTypeNew: SearchType) {
     previewRequests.invalidate()
     searchType = searchTypeNew
     if (sidebar) sidebar.style.zIndex = "1"
+    previouslyFocused =
+      document.activeElement instanceof HTMLElement ? document.activeElement : null
     container.classList.add("active")
+    container.setAttribute("aria-hidden", "false")
+    searchButton.setAttribute("aria-expanded", "true")
+    for (const target of inertTargets) (target as HTMLElement).inert = true
     searchBar.focus()
-    void loadSearchData()
+    void loadSearchData().then(renderFilterPanel)
   }
 
   let currentHover: HTMLInputElement | null = null
@@ -388,7 +516,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
         await displayPreview(anchor)
         anchor.click()
       }
-    } else if (e.key === "ArrowUp" || (e.shiftKey && e.key === "Tab")) {
+    } else if (e.key === "ArrowUp") {
       e.preventDefault()
       if (results.contains(document.activeElement)) {
         // If an element in results-container already has focus, focus previous one
@@ -401,7 +529,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
         if (prevResult) currentHover = prevResult
         await displayPreview(prevResult)
       }
-    } else if (e.key === "ArrowDown" || e.key === "Tab") {
+    } else if (e.key === "ArrowDown") {
       e.preventDefault()
       // The results should already been focused, so we need to find the next one.
       // The activeElement is the search bar, so we need to find the first result and focus it.
@@ -418,15 +546,40 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
     }
   }
 
+  const appendHighlightedText = (parent: HTMLElement, text: string, term: string) => {
+    const terms = tokenizeTerm(term)
+      .map((value) => value.trim())
+      .filter(Boolean)
+      .sort((a, b) => b.length - a.length)
+    if (terms.length === 0) {
+      parent.append(document.createTextNode(text))
+      return
+    }
+    for (const part of splitSearchText(text, terms)) {
+      if (!part.highlighted) {
+        parent.append(document.createTextNode(part.text))
+        continue
+      }
+      const mark = document.createElement("mark")
+      mark.className = "highlight"
+      mark.textContent = part.text
+      parent.append(mark)
+    }
+  }
+
   const formatForDisplay = (term: string, id: number) => {
     const slug = idDataMap[id]
     const page = searchData?.[slug]
     return {
       id,
       slug,
-      title: searchType === "tags" ? (page?.title ?? "") : highlight(term, page?.title ?? ""),
+      title: page?.title ?? "",
       content: highlight(term, page?.content ?? "", true),
       tags: highlightTags(term.substring(1), page?.tags ?? []),
+      itemType: page?.itemType,
+      claimCount: Number(page?.claimCount ?? 0),
+      quoteCount: Number(page?.quoteCount ?? 0),
+      claimTopics: page?.claimTopicLabels ?? page?.claimTopics ?? [],
     }
   }
 
@@ -441,6 +594,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
     const haystack = normalizeSearchText(
       [
         page?.title ?? "",
+        ...(page?.aliases ?? []),
         page?.content ?? "",
         ...(page?.tags ?? []),
         String(slug).replaceAll("/", " "),
@@ -481,29 +635,58 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
     return tags
       .map((tag) => {
         if (tag.toLowerCase().includes(term.toLowerCase())) {
-          return `<li><p class="match-tag">#${tag}</p></li>`
+          return tag
         } else {
-          return `<li><p>#${tag}</p></li>`
+          return tag
         }
       })
       .slice(0, numTagResults)
   }
 
   function resolveUrl(slug: FullSlug): URL {
-    return new URL(resolveRelative(currentSlug, slug), location.toString())
+    return searchResultUrl(slug, location.origin)
   }
 
-  const resultToHTML = ({ slug, title, content, tags }: Item) => {
-    const htmlTags = tags.length > 0 ? `<ul class="tags">${tags.join("")}</ul>` : ``
+  const resultToHTML = ({ slug, title, content, tags, itemType, claimCount, quoteCount, claimTopics }: Item) => {
     const itemTile = document.createElement("a")
     itemTile.classList.add("result-card")
     itemTile.id = slug
     itemTile.href = resolveUrl(slug).toString()
-    itemTile.innerHTML = `
-      <h3 class="card-title">${title}</h3>
-      ${htmlTags}
-      <p class="card-description">${content}</p>
-    `
+    const heading = document.createElement("h3")
+    heading.className = "card-title"
+    appendHighlightedText(heading, title, currentSearchTerm)
+    const description = document.createElement("p")
+    description.className = "card-description"
+    appendHighlightedText(description, content, currentSearchTerm)
+    itemTile.append(heading)
+    const meta = document.createElement("p")
+    meta.className = "result-meta"
+    const typeLabel = itemType || pageContentType(searchData?.[slug])
+    const parts = [typeLabel]
+    if ((claimCount ?? 0) > 0) parts.push(`${claimCount} teig.`)
+    if ((quoteCount ?? 0) > 0) parts.push(`${quoteCount} įr.`)
+    meta.textContent = parts.join(" · ")
+    itemTile.append(meta)
+    if ((claimTopics ?? []).length > 0) {
+      const topicRow = document.createElement("p")
+      topicRow.className = "result-topics"
+      topicRow.textContent = (claimTopics ?? []).slice(0, 3).join(" · ")
+      itemTile.append(topicRow)
+    }
+    if (tags.length > 0) {
+      const list = document.createElement("ul")
+      list.className = "tags"
+      for (const tag of tags) {
+        const item = document.createElement("li")
+        const label = document.createElement("p")
+        label.className = "match-tag"
+        appendHighlightedText(label, `#${tag}`, currentSearchTerm)
+        item.append(label)
+        list.append(item)
+      }
+      itemTile.append(list)
+    }
+    itemTile.append(description)
     itemTile.addEventListener("click", (event) => {
       if (event.altKey || event.ctrlKey || event.metaKey || event.shiftKey) return
       hideSearch()
@@ -550,11 +733,14 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
       const card = document.createElement("button")
       card.type = "button"
       card.className = "result-card no-match filtered-match"
-      card.innerHTML = `
-        <h3>Rezultatai paslėpti filtro</h3>
-        <p>Rasta ${filteredResultCount}, bet dabartinis filtras rodo tik objektus su bent ${options.minClaimCount} teiginiais.</p>
-        <p class="filter-hint">Spausk čia, kad šiai paieškai sumažintum minimumą iki 0.</p>
-      `
+      const heading = document.createElement("h3")
+      heading.textContent = "Rezultatai paslėpti filtro"
+      const description = document.createElement("p")
+      description.textContent = `Rasta ${filteredResultCount}, bet dabartinis filtras rodo tik objektus su bent ${options.minClaimCount} teiginiais.`
+      const hint = document.createElement("p")
+      hint.className = "filter-hint"
+      hint.textContent = "Spausk čia, kad šiai paieškai sumažintum minimumą iki 0."
+      card.append(heading, description, hint)
       card.addEventListener("click", () => {
         writeSearchOptionsState({ ...options, minClaimCount: 0 })
         searchBar.dispatchEvent(new Event("input", { bubbles: true }))
@@ -566,10 +752,14 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
       if (filteredResultCount > 0) {
         results.append(createFilteredCard())
       } else {
-        results.innerHTML = `<a class="result-card no-match">
-            <h3>No results.</h3>
-            <p>Try another search term?</p>
-        </a>`
+        const empty = document.createElement("div")
+        empty.className = "result-card no-match"
+        const heading = document.createElement("h3")
+        heading.textContent = "Rezultatų nėra."
+        const description = document.createElement("p")
+        description.textContent = "Pabandykite kitą paieškos žodį."
+        empty.append(heading, description)
+        results.append(empty)
       }
     } else {
       results.append(...finalResults.map(resultToHTML))
@@ -587,27 +777,6 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
     }
   }
 
-  async function fetchContent(slug: FullSlug): Promise<Element[]> {
-    if (fetchContentCache.has(slug)) {
-      return fetchContentCache.get(slug) as Element[]
-    }
-
-    const targetUrl = resolveUrl(slug).toString()
-    const response = await fetch(targetUrl)
-    ensureSuccessfulSearchPreviewResponse(response, targetUrl)
-    const responseBody = await response.text()
-    const html = p.parseFromString(responseBody, "text/html")
-    normalizeRelativeURLs(html, targetUrl)
-    const contents = [...html.getElementsByClassName("popover-hint")]
-    if (contents.length === 0) {
-      throw new Error(`Search preview content is missing for ${targetUrl}`)
-    }
-
-    // Only successful, usable previews belong in the cache.
-    fetchContentCache.set(slug, contents)
-    return contents
-  }
-
   async function displayPreview(el: HTMLElement | null) {
     if (!searchLayout || !enablePreview || !el || !preview) return
     const slug = el.id as FullSlug
@@ -615,34 +784,15 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
 
     const requestId = previewRequests.begin()
     const searchTerm = currentSearchTerm
-    let innerDiv: Element[]
-    try {
-      const contents = await fetchContent(slug)
-      if (!previewRequests.isCurrent(requestId)) return
-      innerDiv = contents.flatMap((content) => [
-        ...highlightHTML(searchTerm, content as HTMLElement).children,
-      ])
-    } catch (error) {
-      if (!previewRequests.isCurrent(requestId)) return
-      console.warn(error)
-      const errorPreview = document.createElement("div")
-      errorPreview.classList.add("preview-inner", "search-preview-error")
-      const heading = document.createElement("h3")
-      heading.textContent = "Peržiūros nepavyko įkelti"
-      const description = document.createElement("p")
-      description.textContent = "Rezultato puslapį vis tiek galite atidaryti."
-      const link = document.createElement("a")
-      link.href = el instanceof HTMLAnchorElement ? el.href : resolveUrl(slug).toString()
-      link.textContent = "Atidaryti rezultatą"
-      errorPreview.append(heading, description, link)
-      preview.replaceChildren(errorPreview)
-      return
-    }
-
     if (!previewRequests.isCurrent(requestId)) return
     previewInner = document.createElement("div")
     previewInner.classList.add("preview-inner")
-    previewInner.append(...innerDiv)
+    const page = searchData?.[slug]
+    const heading = document.createElement("h3")
+    heading.textContent = page?.title ?? slug
+    const description = document.createElement("p")
+    appendHighlightedText(description, page?.content ?? "", searchTerm)
+    previewInner.append(heading, description)
     preview.replaceChildren(previewInner)
 
     // scroll to longest
@@ -732,8 +882,13 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
 
   document.addEventListener("keydown", shortcutHandler)
   window.addCleanup(() => document.removeEventListener("keydown", shortcutHandler))
-  searchButton.addEventListener("click", () => showSearch("basic"))
-  window.addCleanup(() => searchButton.removeEventListener("click", () => showSearch("basic")))
+  const onSearchButtonClick = () => showSearch("basic")
+  searchButton.addEventListener("click", onSearchButtonClick)
+  window.addCleanup(() => searchButton.removeEventListener("click", onSearchButtonClick))
+  if (closeButton) {
+    closeButton.addEventListener("click", hideSearch)
+    window.addCleanup(() => closeButton.removeEventListener("click", hideSearch))
+  }
   searchBar.addEventListener("input", onType)
   window.addCleanup(() => searchBar.removeEventListener("input", onType))
   const onOptionsChange = () => {
@@ -765,7 +920,7 @@ async function fillDocument(data: ContentIndex) {
       index.addAsync(itemId, {
         id: itemId,
         slug: slug as FullSlug,
-        title: fileData.title,
+        title: [fileData.title, ...(fileData.aliases ?? [])].join(" "),
         content: fileData.content,
         tags: fileData.tags,
       }),
@@ -776,10 +931,9 @@ async function fillDocument(data: ContentIndex) {
   indexPopulated = true
 }
 
-document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
-  const currentSlug = e.detail.url
+document.addEventListener("nav", async () => {
   const searchElement = document.getElementsByClassName("search")
   for (const element of searchElement) {
-    await setupSearch(element, currentSlug)
+    await setupSearch(element)
   }
 })

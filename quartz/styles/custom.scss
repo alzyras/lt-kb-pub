@@ -688,6 +688,29 @@ body[data-slug$="/galerija"] .object-media-grid {
   }
 }
 
+/* Object reading takes precedence over navigation at tablet and phone widths.
+   Sidebars remain available after the article instead of squeezing the article
+   into a 75–110px column. */
+@media all and (max-width: 1024px) {
+  body[data-slug^="objektai/"] .page > #quartz-body,
+  body[data-slug^="objektai/"] .page > #quartz-body:has(.object-section-nav) {
+    grid-template-areas:
+      "grid-header"
+      "grid-object-nav"
+      "grid-center"
+      "grid-sidebar-left"
+      "grid-sidebar-right"
+      "grid-footer" !important;
+    grid-template-columns: minmax(0, 1fr) !important;
+    grid-template-rows: auto auto auto auto auto auto !important;
+  }
+
+  body[data-slug^="objektai/"] .page > #quartz-body > .sidebar {
+    width: min(100%, 56rem);
+    margin: 0 auto;
+  }
+}
+
 body[data-slug="index"] .page > #quartz-body {
   grid-template-areas:
     "grid-header"
@@ -1790,6 +1813,195 @@ body.graph-explorer-active .page {
     display: block;
     max-width: 100%;
     overflow-x: auto;
+  }
+}
+
+/* Topic pages ------------------------------------------------------------
+   A topic is a browse surface, not a regular note. Keep it in the same
+   full-width visual language as the collection pages and turn the long
+   generated object list into an easy-to-scan card grid. */
+body[data-slug^="temos/"] .page > #quartz-body {
+  grid-template-areas:
+    "grid-header"
+    "grid-center"
+    "grid-footer" !important;
+  grid-template-columns: minmax(0, 1fr) !important;
+  grid-template-rows: auto auto auto !important;
+  gap: 0 !important;
+  max-width: min(100%, var(--bm-site-max, 1600px));
+  padding: 0 !important;
+}
+
+body[data-slug^="temos/"] .page > #quartz-body > .left.sidebar,
+body[data-slug^="temos/"] .page > #quartz-body > .right.sidebar {
+  display: none !important;
+}
+
+body[data-slug^="temos/"] .page > #quartz-body > .center {
+  display: contents;
+  width: 100%;
+  min-width: 0;
+}
+
+body[data-slug^="temos/"] .page-header {
+  width: 100%;
+  margin: 0 !important;
+  padding: 0 0 clamp(1.4rem, 3vw, 2.6rem);
+  border-bottom: 1px solid var(--bm-border);
+  background:
+    radial-gradient(circle at 78% 22%, color-mix(in srgb, var(--bm-red) 10%, transparent), transparent 28rem),
+    var(--bm-white);
+}
+
+body[data-slug^="temos/"] .page-header > header,
+body[data-slug^="temos/"] .page-header > .popover-hint {
+  box-sizing: border-box;
+  width: min(100% - 2rem, 1064px);
+  max-width: none;
+  margin-inline: auto;
+}
+
+body[data-slug^="temos/"] .page-header .breadcrumb-container {
+  margin: 0;
+  padding-top: 1rem;
+}
+
+body[data-slug^="temos/"] .page-header .article-title {
+  max-width: 18ch;
+  margin: clamp(1.5rem, 4vw, 3.2rem) 0 0 !important;
+  color: var(--bm-purple);
+  font-size: clamp(2.8rem, 7vw, 5.6rem);
+  line-height: .92;
+  letter-spacing: -.025em;
+}
+
+body[data-slug^="temos/"] .page-header .content-meta {
+  margin-top: 1rem;
+}
+
+body[data-slug^="temos/"] article.topic-page-content {
+  box-sizing: border-box;
+  width: min(100% - 2rem, 1064px);
+  max-width: none;
+  margin: 0 auto;
+  padding: clamp(1.8rem, 4vw, 3.6rem) 0 clamp(3rem, 6vw, 5.5rem);
+  font-size: 1.03rem;
+  line-height: 1.65;
+}
+
+body[data-slug^="temos/"] article.topic-page-content > h1:first-child {
+  display: none;
+}
+
+body[data-slug^="temos/"] article.topic-page-content > p:first-of-type {
+  max-width: 46rem;
+  margin: 0 0 .6rem;
+  color: var(--bm-muted);
+  font-family: var(--codeFont);
+  font-size: .78rem;
+  font-weight: 800;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+}
+
+body[data-slug^="temos/"] article.topic-page-content > p:nth-of-type(2) {
+  display: inline-flex;
+  margin: .75rem 0 1.7rem;
+  padding: .65rem .85rem;
+  border: 1px solid var(--bm-border);
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--bm-purple) 7%, var(--bm-white));
+  color: var(--bm-purple);
+  font-size: .88rem;
+  font-weight: 750;
+}
+
+body[data-slug^="temos/"] article.topic-page-content > h2 {
+  margin: clamp(2.2rem, 5vw, 4rem) 0 1rem;
+  padding-top: 1.1rem;
+  border-top: 1px solid var(--bm-purple);
+  color: var(--bm-purple);
+  font-family: var(--bm-font);
+  font-size: clamp(1.8rem, 4vw, 3rem);
+  line-height: 1;
+}
+
+body[data-slug^="temos/"] article.topic-page-content > h2 + ul {
+  max-width: 46rem;
+  margin: 0 0 1.4rem;
+  padding-left: 1.15rem;
+}
+
+body[data-slug^="temos/"] article.topic-page-content > h3 {
+  margin: 1.8rem 0 .75rem;
+  color: var(--bm-red);
+  font-family: var(--codeFont);
+  font-size: .74rem;
+  font-weight: 850;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+
+body[data-slug^="temos/"] article.topic-page-content > h3 + ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 15rem), 1fr));
+  gap: .7rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+body[data-slug^="temos/"] article.topic-page-content > h3 + ul > li {
+  min-width: 0;
+  margin: 0;
+}
+
+body[data-slug^="temos/"] article.topic-page-content > h3 + ul > li > a {
+  display: flex;
+  min-height: 3.5rem;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: space-between;
+  gap: .8rem;
+  padding: .85rem 1rem;
+  border: 1px solid var(--bm-border);
+  border-radius: 10px;
+  background: var(--bm-white);
+  color: var(--bm-purple);
+  font-size: .98rem;
+  font-weight: 700;
+  line-height: 1.25;
+  text-decoration: none;
+  transition: border-color .16s ease, background .16s ease, transform .16s ease;
+}
+
+body[data-slug^="temos/"] article.topic-page-content > h3 + ul > li > a::after {
+  flex: 0 0 auto;
+  color: var(--bm-red);
+  content: "↗";
+  font-size: 1.05rem;
+}
+
+body[data-slug^="temos/"] article.topic-page-content > h3 + ul > li > a:hover,
+body[data-slug^="temos/"] article.topic-page-content > h3 + ul > li > a:focus-visible {
+  border-color: var(--bm-red);
+  background: color-mix(in srgb, var(--bm-red) 6%, var(--bm-white));
+  transform: translateY(-2px);
+}
+
+@media all and ($mobile) {
+  body[data-slug^="temos/"] article.topic-page-content,
+  body[data-slug^="temos/"] .page-header > header,
+  body[data-slug^="temos/"] .page-header > .popover-hint {
+    width: min(100% - 1.5rem, 1064px);
+  }
+
+  body[data-slug^="temos/"] .page-header .article-title {
+    font-size: clamp(2.5rem, 13vw, 4rem);
+  }
+
+  body[data-slug^="temos/"] article.topic-page-content > h3 + ul {
+    grid-template-columns: 1fr;
   }
 }
 

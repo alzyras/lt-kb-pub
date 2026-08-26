@@ -30,6 +30,11 @@ import {
 } from "../../util/objectMedia"
 import { loadExhibitions } from "../../util/exhibitions"
 import { isPoorSeoPage } from "../../util/seo"
+import {
+  isObjectDetailSlug,
+  objectDetailEvidence,
+  objectPageIndexable,
+} from "../../util/objectDetail"
 
 export type ContentIndexMap = Map<FullSlug, ContentDetails>
 export type SitemapExtraEntry = {
@@ -41,6 +46,7 @@ export type ContentDetails = {
   slug: FullSlug
   filePath: FilePath
   title: string
+  aliases?: string[]
   links: SimpleSlug[]
   allLinks?: SimpleSlug[]
   tags: string[]
@@ -61,6 +67,8 @@ export type ContentDetails = {
   dateEnd?: number
   centuries?: string[]
   periodGroups?: string[]
+  claimTopics?: string[]
+  claimTopicLabels?: string[]
   claimEntries?: GraphExplorerClaimDetails[]
   quoteEntries?: GraphExplorerQuoteDetails[]
   noindex?: boolean
@@ -138,12 +146,20 @@ export type SearchIndexDetails = Pick<
   ContentDetails,
   | "slug"
   | "title"
+  | "aliases"
   | "tags"
   | "content"
   | "citationFilterable"
   | "quoteCount"
   | "citationSourceIds"
   | "claimCount"
+  | "itemType"
+  | "dateStart"
+  | "dateEnd"
+  | "centuries"
+  | "periodGroups"
+  | "claimTopics"
+  | "claimTopicLabels"
 >
 
 export type RandomClaimsDetails = Pick<
@@ -253,7 +269,7 @@ function parseFrontmatterYear(value: unknown): number | undefined {
 }
 
 function extractSummary(markdown: string): string {
-  const match = markdown.match(/^##\s+Santrauka\s*\n([\s\S]*?)(?=^##\s+|\s*$)/m)
+  const match = markdown.match(/^##\s+Santrauka\s*\n([\s\S]*?)(?=^##\s+|$)/m)
   if (!match) {
     return ""
   }
@@ -398,17 +414,6 @@ function edgeEvidence(
   }
 }
 
-function compactSearchContent(content: ContentDetails): string {
-  const parts = [
-    content.title,
-    ...(content.claims ?? []),
-    ...(content.tags ?? []).map((tag) => `#${tag}`),
-  ]
-    .map((part) => String(part ?? "").trim())
-    .filter(Boolean)
-  return parts.join("\n")
-}
-
 function asContentMeta(content: ContentDetails): ContentMetaDetails {
   return {
     slug: content.slug,
@@ -424,16 +429,38 @@ function asContentMeta(content: ContentDetails): ContentMetaDetails {
   }
 }
 
+function compactSearchContent(content: ContentDetails): string {
+  return [
+    content.title,
+    ...(content.aliases ?? []),
+    content.summary,
+    ...(content.claims ?? []),
+    ...(content.tags ?? []).map((tag) => `#${tag}`),
+    ...(content.claimTopicLabels ?? content.claimTopics ?? []).map((topic) => `tema: ${topic}`),
+  ]
+    .map((part) => String(part ?? "").trim())
+    .filter(Boolean)
+    .join("\n")
+}
+
 function asSearchIndex(content: ContentDetails): SearchIndexDetails {
   return {
     slug: content.slug,
     title: content.title,
+    aliases: content.aliases,
     tags: content.tags,
     content: compactSearchContent(content),
     citationFilterable: content.citationFilterable,
     quoteCount: content.quoteCount,
     citationSourceIds: content.citationSourceIds,
     claimCount: content.claimCount,
+    itemType: content.itemType,
+    dateStart: content.dateStart,
+    dateEnd: content.dateEnd,
+    centuries: content.centuries,
+    periodGroups: content.periodGroups,
+    claimTopics: content.claimTopics,
+    claimTopicLabels: content.claimTopicLabels,
   }
 }
 
@@ -526,7 +553,9 @@ function canonicalUrl(baseUrl: string, slug: SimpleSlug): string {
     base.pathname = `${base.pathname}/`
   }
 
-  return new URL(slug === "/" ? "" : stripSlashes(encodeURI(slug)), base).toString()
+  const cleanSlug =
+    slug === "/" ? "" : stripSlashes(encodeURI(slug)).replace(/\/(?:index|index\.html)$/i, "")
+  return cleanSlug ? new URL(`${cleanSlug}/`, base).toString() : base.toString()
 }
 
 function parseFrontmatterDate(value: unknown): Date | undefined {
@@ -554,8 +583,9 @@ export function gallerySitemapEntries(files: MediaCatalogFile[]): SitemapExtraEn
   if (!catalog.length) return []
   const byObject = mediaEntriesByObject(catalog)
   const imageUrl = (entry: (typeof catalog)[number]) => mediaImageUrl(entry)
-  const modifiedDate = (entry: (typeof catalog)[number]) =>
-    entryModifiedDate(entry.reviewedAt || entry.firstDiscoveredAt)
+  // Review/import timestamps are internal QA metadata; do not leak them via
+  // public sitemap lastmod values.
+  const modifiedDate = (_entry: (typeof catalog)[number]) => undefined
   const entries: SitemapExtraEntry[] = [
     {
       slug: "galerija" as FullSlug,
@@ -591,9 +621,7 @@ export function gallerySitemapEntries(files: MediaCatalogFile[]): SitemapExtraEn
       modifiedDate: newestDate(
         exhibitions.map((exhibition) => entryModifiedDate(exhibition.updatedAt)),
       ),
-      imageUrls: exhibitions
-        .map((exhibition) => mediaImageUrl(exhibition.hero))
-        .filter(Boolean),
+      imageUrls: exhibitions.map((exhibition) => mediaImageUrl(exhibition.hero)).filter(Boolean),
     })
   }
   for (const exhibition of exhibitions) {
@@ -631,13 +659,22 @@ export function generateSiteMap(
   }
   const urls = [
     ...Array.from(idx)
-      .filter(([, content]) => !content.noindex)
+      .filter(
+        ([slug, content]) =>
+          !content.noindex &&
+          !new Set(["nustatymai", "duomenu-istrynimas"]).has(String(slug).replace(/\/index$/, "")),
+      )
       .map(([slug, content]) => ({
-      slug: simplifySlug(slug),
-      modifiedDate: content.modifiedDate,
-      imageUrls: [] as string[],
+        slug: simplifySlug(slug),
+        modifiedDate: content.modifiedDate,
+        imageUrls: [] as string[],
       })),
     ...extraEntries.map((entry) => ({ ...entry, slug: simplifySlug(entry.slug) })),
+    ...["objektai", "temos", "laikotarpiai", "straipsniai", "parodos"].map((slug) => ({
+      slug: slug as SimpleSlug,
+      modifiedDate: undefined,
+      imageUrls: [] as string[],
+    })),
   ]
     .filter(
       (entry, index, all) => all.findIndex((candidate) => candidate.slug === entry.slug) === index,
@@ -657,15 +694,24 @@ ${urls}
 function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndexMap, limit?: number): string {
   const base = cfg.baseUrl ?? ""
 
-  const createURLEntry = (slug: SimpleSlug, content: ContentDetails): string => `<item>
+  const createURLEntry = (slug: SimpleSlug, content: ContentDetails): string => {
+    const itemUrl = canonicalUrl(base, slug)
+    return `<item>
     <title>${escapeHTML(content.title)}</title>
-    <link>https://${joinSegments(base, encodeURI(slug))}</link>
-    <guid>https://${joinSegments(base, encodeURI(slug))}</guid>
+    <link>${escapeHTML(itemUrl)}</link>
+    <guid>${escapeHTML(itemUrl)}</guid>
     <description><![CDATA[ ${content.richContent ?? content.description} ]]></description>
     <pubDate>${content.date?.toUTCString()}</pubDate>
   </item>`
+  }
 
   const items = Array.from(idx)
+    .filter(
+      ([slug, content]) =>
+        (slug.startsWith("straipsniai/") || slug.startsWith("parodos/")) &&
+        !content.noindex &&
+        Boolean(content.date),
+    )
     .sort(([_, f1], [__, f2]) => {
       if (f1.date && f2.date) {
         return f2.date.getTime() - f1.date.getTime()
@@ -728,7 +774,7 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
           const contentText = file.data.text ?? ""
           const descriptionSource =
             frontmatter?.socialDescription ?? frontmatter?.description ?? file.data.description
-          const noindex = isPoorSeoPage({
+          const standardNoindex = isPoorSeoPage({
             slug,
             title: frontmatter?.title,
             description: descriptionSource,
@@ -736,10 +782,17 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
             itemType: frontmatter?.tipas,
             noindex: frontmatter?.noindex,
           })
+          const noindex = isObjectDetailSlug(slug)
+            ? Boolean(frontmatter?.noindex === true || frontmatter?.noindex === "true") ||
+              !objectPageIndexable(objectDetailEvidence(markdownSource))
+            : standardNoindex
           linkIndex.set(slug, {
             slug,
             filePath: relativePath,
             title: frontmatter?.title!,
+            aliases: Array.isArray(frontmatter?.aliases)
+              ? frontmatter.aliases.map((alias) => String(alias))
+              : [],
             links: filterPublicNavigationLinks(file.data.links ?? [], slug),
             allLinks: file.data.links ?? [],
             tags: frontmatter?.tags ?? [],
@@ -762,6 +815,10 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
             dateEnd: parseFrontmatterYear(frontmatter?.date_end),
             centuries: frontmatterArray(frontmatter?.amziai),
             periodGroups: frontmatterArray(frontmatter?.periodo_grupes),
+            claimTopics: frontmatterArray(frontmatter?.claim_topics ?? frontmatter?.teiginiu_temos),
+            claimTopicLabels: frontmatterArray(
+              frontmatter?.claim_topic_labels ?? frontmatter?.teiginiu_temu_pavadinimai,
+            ),
             claimEntries,
             quoteEntries,
             noindex,
