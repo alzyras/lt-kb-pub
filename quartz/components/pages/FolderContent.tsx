@@ -12,6 +12,7 @@ import { trieFromAllFiles } from "../../util/ctx"
 import { resolveRelative } from "../../util/path"
 import { themeEntries } from "../../util/themeCatalog"
 import ObjectDirectory from "../ObjectDirectory"
+import objectDirectoryStyle from "../styles/objectDirectory.scss"
 
 const ObjectDirectoryComponent = ObjectDirectory()
 
@@ -219,6 +220,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
   FolderContent.css = concatenateResources(
     style,
     PageList.css,
+    objectDirectoryStyle,
     `
 .theme-catalog-lead { max-width: 48rem; margin: 1rem 0 1.5rem; color: var(--darkgray); }
 .theme-catalog-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); gap: 0.85rem; }
