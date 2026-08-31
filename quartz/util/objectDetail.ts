@@ -89,7 +89,9 @@ function summaryFromMarkdown(markdown: string): string {
   return clean(match[1])
 }
 
-function relationsFromMarkdown(markdown: string): Array<{ label: string; target: string; display: string }> {
+function relationsFromMarkdown(
+  markdown: string,
+): Array<{ label: string; target: string; display: string }> {
   const match = markdown.match(/^##\s+Ryšiai\s*\n([\s\S]*?)(?=^##\s+|(?![\s\S]))/mu)
   if (!match) return []
   const relations: Array<{ label: string; target: string; display: string }> = []
@@ -99,7 +101,12 @@ function relationsFromMarkdown(markdown: string): Array<{ label: string; target:
     // Older projections use `Santykis: [[…]]`; newer canonical relations
     // also use natural-language predicates without a colon, e.g.
     // `Vytautas valdė [[Lietuva]]`.  The first wikilink is the stable split.
-    const label = clean(line.slice(0, linkStart).replace(/^\s*-\s+/u, "").replace(/:\s*$/u, ""))
+    const label = clean(
+      line
+        .slice(0, linkStart)
+        .replace(/^\s*-\s+/u, "")
+        .replace(/:\s*$/u, ""),
+    )
     for (const link of line.slice(linkStart).matchAll(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/gu)) {
       const target = clean(link[1])
       if (target.startsWith("objektai/")) {
@@ -218,9 +225,20 @@ export function objectDetailEvidenceFromFile(filePath: string | undefined): Obje
   return evidence
 }
 
-export function objectEvidenceDisplayItems(evidence: ObjectDetailEvidence): ObjectEvidenceDisplayItem[] {
+export function objectEvidenceDisplayItems(
+  evidence: ObjectDetailEvidence,
+): ObjectEvidenceDisplayItem[] {
+  const claimNumber = (id: string) => Number(id.match(/\d+/u)?.[0] ?? Number.MAX_SAFE_INTEGER)
   return [
-    ...evidence.claims.map((value) => ({ kind: "claim" as const, value })),
+    // The complete-evidence view is an archive, not the overview: preserve a stable,
+    // comprehensible global-claim order (`t-001`, `t-002`, …) instead of the relevance
+    // ranking used for selecting the overview cards.
+    ...[...evidence.claims]
+      .sort(
+        (left, right) =>
+          claimNumber(left.id) - claimNumber(right.id) || left.id.localeCompare(right.id),
+      )
+      .map((value) => ({ kind: "claim" as const, value })),
     ...evidence.citationRecords
       .filter((record) => record.standalone || record.significantMention)
       .map((value) => ({ kind: "citation" as const, value })),

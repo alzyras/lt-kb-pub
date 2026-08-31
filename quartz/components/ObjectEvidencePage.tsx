@@ -107,13 +107,10 @@ const ObjectEvidencePage: QuartzComponent = ({ fileData }: QuartzComponentProps)
   const titleValue = title(frontmatter)
   const currentSlug = fileData.slug as FullSlug
   const view = objectPageViewModel(frontmatter, evidence)
+  const pagePath = (pageNumber: number) =>
+    pageNumber === 1 ? `${objectSlug}/irodymai` : `${objectSlug}/irodymai/${pageNumber}`
   const pageUrl = (pageNumber: number) =>
-    resolveRelative(
-      currentSlug,
-      (pageNumber === 1
-        ? `${objectSlug}/irodymai`
-        : `${objectSlug}/irodymai/${pageNumber}`) as FullSlug,
-    )
+    resolveRelative(currentSlug, pagePath(pageNumber) as FullSlug)
 
   return (
     <main class="object-detail-page object-evidence-page" data-object-evidence-page="true">
@@ -179,7 +176,12 @@ const ObjectEvidencePage: QuartzComponent = ({ fileData }: QuartzComponentProps)
       </nav>
       {displayed.length > 0 ? (
         <section class="object-detail-evidence" aria-label="Teiginiai ir citatos">
-          <p class="object-evidence-count">
+          <p
+            class="object-evidence-count"
+            data-object-evidence-count="true"
+            data-total={items.length}
+            data-start={start + 1}
+          >
             {start + 1}–{start + displayed.length} iš {items.length} rodomų įrašų
           </p>
           <div class="object-detail-claims">
@@ -192,25 +194,39 @@ const ObjectEvidencePage: QuartzComponent = ({ fileData }: QuartzComponentProps)
             )}
           </div>
           {pages > 1 && (
-            <nav class="object-evidence-pagination" aria-label="Teiginių puslapiai">
-              {page > 1 ? (
-                <a href={pageUrl(page - 1)}>
-                  <ChevronLeft size={16} /> Ankstesni
-                </a>
-              ) : (
-                <span />
+            <>
+              {page < pages && (
+                <button
+                  type="button"
+                  class="object-evidence-load-more"
+                  data-object-evidence-load-more="true"
+                  data-next-url={`/${pagePath(page + 1)}`}
+                  data-total={items.length}
+                  data-start={start + 1}
+                >
+                  Rodyti daugiau (dar {items.length - (start + displayed.length)})
+                </button>
               )}
-              <span>
-                {page} / {pages}
-              </span>
-              {page < pages ? (
-                <a href={pageUrl(page + 1)}>
-                  Kiti <ChevronRight size={16} />
-                </a>
-              ) : (
-                <span />
-              )}
-            </nav>
+              <nav class="object-evidence-pagination" aria-label="Teiginių puslapiai">
+                {page > 1 ? (
+                  <a href={pageUrl(page - 1)}>
+                    <ChevronLeft size={16} /> Ankstesni
+                  </a>
+                ) : (
+                  <span />
+                )}
+                <span>
+                  {page} / {pages}
+                </span>
+                {page < pages ? (
+                  <a href={pageUrl(page + 1)}>
+                    Kiti <ChevronRight size={16} />
+                  </a>
+                ) : (
+                  <span />
+                )}
+              </nav>
+            </>
           )}
         </section>
       ) : (
@@ -234,6 +250,10 @@ ObjectEvidencePage.css = `${style}
 .object-evidence-pagination a { display: inline-flex; align-items: center; gap: .25rem; font-weight: 800; }
 .object-evidence-pagination a:last-child { justify-self: end; }
 .object-evidence-pagination > span { color: var(--gray); font-size: .9rem; }
+.object-evidence-load-more { display: flex; width: 100%; justify-content: center; margin-top: 1.4rem; padding: .75rem 1rem; border: 1px solid var(--object-rule); background: var(--object-wash); color: var(--dark); cursor: pointer; font: 800 .82rem var(--codeFont); letter-spacing: .04em; }
+.object-evidence-load-more:hover, .object-evidence-load-more:focus-visible { border-color: var(--secondary); background: var(--secondary); color: var(--light); }
+.object-evidence-load-more:disabled { cursor: wait; opacity: .68; }
+[data-object-evidence-lazy-ready="true"] .object-evidence-pagination { display: none; }
 .object-evidence-empty { max-width: 44rem; padding: 1rem; border-left: 4px solid var(--secondary); background: var(--object-wash); }
 .object-standalone-citation blockquote { margin: .7rem 0 0; }
 .object-evidence-search { max-width: 56rem; margin-top: 1rem; padding: 1rem; border: 1px solid var(--object-rule); background: var(--object-wash); }

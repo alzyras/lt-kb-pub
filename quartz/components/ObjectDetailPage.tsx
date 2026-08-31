@@ -491,7 +491,7 @@ const ObjectDetailPage: QuartzComponent = (props) => {
         )}
       </section>
       {galleryItems.length > 0 && (
-        <section class="object-detail-gallery-peek">
+        <section class="object-detail-gallery-peek" data-object-panel="apzvalga">
           <div class="object-section-heading">
             <p>Vaizdų archyvas</p>
             <h2>Atvaizdai ir dokumentai</h2>
