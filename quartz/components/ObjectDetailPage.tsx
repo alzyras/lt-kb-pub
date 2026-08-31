@@ -10,7 +10,6 @@ import {
   cleanText,
   directnessLabel,
   displayCaption,
-  displayMeta,
   mediaDetailUrl,
   objectGallerySlug,
   objectMediaSet,
@@ -143,6 +142,40 @@ function heroImage(media: MediaEntry | undefined): string {
   return media ? cleanText(media.thumbUrl || media.displayUrl || media.sourceUrl) : ""
 }
 
+function galleryPreview(media: MediaEntry[], primary?: MediaEntry): MediaEntry[] {
+  const seen = new Set<string>()
+  const unique = media.filter((entry) => {
+    const key = cleanText(
+      entry.mediaId || entry.canonicalUrl || heroImage(entry) || displayCaption(entry),
+    )
+    if (!key || seen.has(key) || !heroImage(entry)) return false
+    seen.add(key)
+    return true
+  })
+  const primaryId = cleanText(primary?.mediaId || primary?.canonicalUrl || heroImage(primary))
+  return unique
+    .sort((a, b) => {
+      const score = (entry: MediaEntry) => {
+        const id = cleanText(entry.mediaId || entry.canonicalUrl || heroImage(entry))
+        const ratio =
+          Number(entry.width) > 0 && Number(entry.height) > 0
+            ? Number(entry.width) / Number(entry.height)
+            : 1
+        const balancedFrame = ratio >= 0.65 && ratio <= 1.8 ? 1 : 0
+        return (
+          (id === primaryId ? 100 : 0) +
+          (entry.directness === "direct" ? 30 : 0) +
+          (entry.reviewStatus === "accepted" ? 20 : 0) +
+          Number(entry.isPrimary || 0) * 10 +
+          balancedFrame * 4 +
+          Number(entry.confidence || 0)
+        )
+      }
+      return score(b) - score(a) || displayCaption(a).localeCompare(displayCaption(b), "lt")
+    })
+    .slice(0, 3)
+}
+
 function relationGroups(
   relations: Array<{ label: string; target: string; display: string }>,
   index: ObjectPageIndexes,
@@ -266,6 +299,7 @@ const ObjectDetailPage: QuartzComponent = (props) => {
   const media = objectMediaSet(frontmatter as any)
   const primary =
     media.primary?.directness === "direct" ? media.primary : (media.direct[0] ?? media.primary)
+  const galleryItems = galleryPreview(media.all, primary)
   const sources = sourceLinks(
     [...new Set([...evidence.sourceTitles, ...asStrings(frontmatter.saltiniai)])],
     index,
@@ -307,18 +341,6 @@ const ObjectDetailPage: QuartzComponent = (props) => {
       </nav>
       <header class="object-detail-intro">
         <div class="object-detail-identity">
-          {heroImage(primary) && (
-            <a class="object-detail-portrait" href={mediaDetailUrl(primary!)}>
-              <img
-                src={heroImage(primary)}
-                alt={displayCaption(primary!)}
-                width={primary?.width || undefined}
-                height={primary?.height || undefined}
-                fetchPriority="high"
-                decoding="async"
-              />
-            </a>
-          )}
           <div>
             <p class="object-detail-eyebrow">{typeLabel(type)}</p>
             <h1>{title.title}</h1>
@@ -339,20 +361,24 @@ const ObjectDetailPage: QuartzComponent = (props) => {
           <h2>{title.title}</h2>
         </div>
         {summary ? (
-          <p class="object-detail-summary">{summary}</p>
+          <div class="object-detail-summary-layout">
+            <p class="object-detail-summary">{summary}</p>
+            {heroImage(primary) && (
+              <a class="object-detail-summary-media" href={mediaDetailUrl(primary!)}>
+                <img
+                  src={heroImage(primary)}
+                  alt={displayCaption(primary!)}
+                  width={primary?.width || undefined}
+                  height={primary?.height || undefined}
+                  fetchPriority="high"
+                  decoding="async"
+                />
+                <span>{displayCaption(primary!)}</span>
+              </a>
+            )}
+          </div>
         ) : (
           <p class="object-detail-summary object-detail-summary-pending">{fallbackMessage}</p>
-        )}
-        {externalLinks.length > 0 && (
-          <div class="object-detail-reading">
-            <span>Skaityti toliau</span>
-            {externalLinks.slice(0, 6).map((source) => (
-              <a href={source.url} target="_blank" rel="noreferrer noopener">
-                {source.title}
-                <ExternalLink size={13} />
-              </a>
-            ))}
-          </div>
         )}
         {evidence.claims.length > 0 && (
           <div class="object-detail-overview-evidence">
@@ -464,14 +490,14 @@ const ObjectDetailPage: QuartzComponent = (props) => {
           </p>
         )}
       </section>
-      {media.all.length > 0 && (
+      {galleryItems.length > 0 && (
         <section class="object-detail-gallery-peek">
           <div class="object-section-heading">
             <p>Vaizdų archyvas</p>
             <h2>Atvaizdai ir dokumentai</h2>
           </div>
           <div class="object-detail-gallery-grid">
-            {media.all.slice(0, 3).map((entry) => (
+            {galleryItems.map((entry) => (
               <a class="object-detail-gallery-card" href={mediaDetailUrl(entry)}>
                 {heroImage(entry) && (
                   <img
@@ -494,11 +520,6 @@ const ObjectDetailPage: QuartzComponent = (props) => {
             Visa galerija ({view.counts.gallery}) <Images size={15} />
           </a>
         </section>
-      )}
-      {primary && (
-        <p class="object-detail-image-credit">
-          Pagrindinis atvaizdas: {displayCaption(primary)}. {displayMeta(primary)}
-        </p>
       )}
     </main>
   )

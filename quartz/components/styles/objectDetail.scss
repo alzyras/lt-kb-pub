@@ -78,28 +78,7 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
 }
 
 .object-detail-identity {
-  display: flex;
-  align-items: flex-start;
-  gap: clamp(0.85rem, 2vw, 1.35rem);
   min-width: 0;
-}
-
-.object-detail-portrait {
-  flex: 0 0 clamp(5.25rem, 11vw, 8.75rem);
-  align-self: flex-start;
-  aspect-ratio: 1;
-  overflow: hidden;
-  border: 1px solid var(--object-rule);
-  background: color-mix(in srgb, var(--dark) 7%, var(--light));
-}
-
-.object-detail-portrait img {
-  display: block;
-  width: 100%;
-  height: 100%;
-  max-height: none;
-  object-fit: cover;
-  object-position: center;
 }
 
 .object-detail-eyebrow,
@@ -246,6 +225,33 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
   color: var(--darkgray);
   font-size: clamp(1.05rem, 1.8vw, 1.32rem);
   line-height: 1.6;
+}
+.object-detail-summary-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) clamp(8.5rem, 17vw, 12rem);
+  align-items: start;
+  gap: clamp(1rem, 3vw, 2rem);
+  max-width: 78rem;
+}
+.object-detail-summary-media {
+  display: grid;
+  gap: 0.45rem;
+  color: var(--darkgray);
+  font-size: 0.78rem;
+  line-height: 1.3;
+  text-decoration: none;
+}
+.object-detail-summary-media img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1;
+  object-fit: cover;
+  background: var(--object-wash);
+}
+.object-detail-summary-media:hover img {
+  outline: 2px solid var(--secondary);
+  outline-offset: 3px;
 }
 .object-detail-summary-pending {
   padding-left: 1rem;
@@ -442,8 +448,8 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
 
 .object-detail-gallery-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 0.8rem;
+  grid-template-columns: repeat(3, minmax(12rem, 1fr));
+  gap: 1rem;
 }
 .object-detail-gallery-card {
   display: grid;
@@ -454,7 +460,8 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
 .object-detail-gallery-card img {
   display: block;
   width: 100%;
-  aspect-ratio: 1.35;
+  height: auto;
+  aspect-ratio: 4 / 3;
   object-fit: cover;
   background: var(--object-wash);
 }
@@ -462,10 +469,6 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
   font-weight: 800;
   line-height: 1.25;
 }
-.object-detail-image-credit {
-  margin-top: 1.2rem;
-}
-
 .object-evidence-subfilters {
   display: flex;
   flex-wrap: wrap;
@@ -501,23 +504,28 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
   .object-detail-gallery-grid {
     grid-template-columns: 1fr 1fr;
   }
+  .object-detail-summary-layout {
+    grid-template-columns: minmax(0, 1fr) 9rem;
+  }
 }
 
 @media (max-width: 560px) {
   .object-detail-page {
     padding-inline: 0.8rem;
   }
-  .object-detail-identity {
-    gap: 0.75rem;
-  }
-  .object-detail-portrait {
-    flex-basis: 4.75rem;
-  }
   .object-detail-identity h1 {
     font-size: clamp(1.9rem, 10vw, 2.75rem);
   }
   .object-detail-gallery-grid {
     grid-template-columns: 1fr;
+  }
+  .object-detail-summary-layout {
+    grid-template-columns: 1fr;
+  }
+  .object-detail-summary-media {
+    grid-template-columns: 6.5rem minmax(0, 1fr);
+    align-items: center;
+    max-width: 25rem;
   }
   .object-detail-sources {
     grid-template-columns: 1fr;
