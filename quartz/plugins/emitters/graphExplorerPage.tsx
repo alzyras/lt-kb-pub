@@ -28,7 +28,7 @@ function withCanonicalRelations(
   relations: ReturnType<typeof buildCanonicalRelationIndex>,
 ): any {
   const nodes = Array.isArray(topology.nodes) ? topology.nodes : []
-  const nodeBySlug = new Map(nodes.map((node: any) => [String(node.slug ?? ""), node]))
+  const nodeBySlug = new Map<string, any>(nodes.map((node: any) => [String(node.slug ?? ""), node]))
   const ensureNode = (slug: string) => {
     if (nodeBySlug.has(slug)) return
     const title = slug.split("/").filter(Boolean).at(-1) ?? slug
@@ -101,6 +101,87 @@ function withCanonicalRelations(
   }
 }
 
+function objectGraphShards(topology: any): Array<{ slug: string; payload: unknown }> {
+  const nodes = Array.isArray(topology?.nodes) ? topology.nodes : []
+  const nodeBySlug = new Map<string, any>(
+    nodes.map((node: any) => [String(node.slug ?? ""), node] as [string, any]),
+  )
+  const linksBySlug = new Map<string, any[]>()
+  for (const edge of Array.isArray(topology?.edges) ? topology.edges : []) {
+    // A preview must never turn an arbitrary wikilink into a factual relation.
+    // The full explorer still keeps its other layers as optional exploration aids.
+    if (String(edge.layer ?? "") !== "semantic") continue
+    const from = String(edge.from ?? "")
+    const to = String(edge.to ?? "")
+    if (!from || !to || !nodeBySlug.has(from) || !nodeBySlug.has(to)) continue
+    const add = (source: string, target: string) => {
+      const targetNode = nodeBySlug.get(target)
+      if (!targetNode) return
+      ;(linksBySlug.get(source) ?? (linksBySlug.set(source, []), linksBySlug.get(source)!)).push({
+        edgeId: String(edge.id ?? ""),
+        target,
+        targetTitle: String(targetNode.title ?? target),
+        targetType: String(targetNode.type ?? ""),
+        evidenceCount: Number(edge.evidenceCount ?? 0),
+        confidence: Number(edge.confidence ?? 0),
+        relationKind: String(edge.kind ?? ""),
+        relationGroup: String(topology.relationKinds?.[edge.kind]?.group ?? ""),
+        direction: source === from ? "forward" : "inverse",
+        claimIds: Array.isArray(edge.claimIds) ? edge.claimIds : [],
+        quoteIds: Array.isArray(edge.quoteIds) ? edge.quoteIds : [],
+      })
+    }
+    add(from, to)
+    add(to, from)
+  }
+
+  return nodes
+    .filter((node: any) => String(node.slug ?? "").startsWith("objektai/"))
+    .map((node: any) => {
+      const slug = String(node.slug)
+      const byTarget = new Map<string, any>()
+      for (const link of linksBySlug.get(slug) ?? []) {
+        const existing = byTarget.get(String(link.target))
+        if (!existing || Number(link.evidenceCount) > Number(existing.evidenceCount)) {
+          byTarget.set(String(link.target), link)
+        }
+      }
+      const allNeighbours = [...byTarget.values()].sort(
+        (a, b) =>
+          Number(b.evidenceCount) - Number(a.evidenceCount) ||
+          String(a.targetTitle).localeCompare(String(b.targetTitle), "lt"),
+      )
+      // Object pages use this compact shard rather than loading the complete
+      // graph. Keep enough neighbours for the enlarged hero preview while
+      // still bounding each per-object network response.
+      const links = allNeighbours.slice(0, 200)
+      return {
+        slug,
+        payload: {
+          focus: {
+            slug,
+            title: String(node.title ?? slug),
+            type: String(node.type ?? ""),
+            claimCount: Number(node.claimCount ?? 0),
+            quoteCount: Number(node.quoteCount ?? 0),
+          },
+          neighbourCount: allNeighbours.length,
+          previewLimit: 200,
+          neighbours: links,
+        },
+      }
+    })
+}
+
+function objectShardFile(slug: string): string {
+  let hash = 2166136261
+  for (const byte of new TextEncoder().encode(`shard:${slug}`)) {
+    hash ^= byte
+    hash = Math.imul(hash, 16777619)
+  }
+  return (hash >>> 0).toString(16).padStart(8, "0")
+}
+
 export const GraphExplorerPage: QuartzEmitterPlugin = () => {
   const opts: FullPageLayout = {
     ...sharedPageComponents,
@@ -147,6 +228,14 @@ export const GraphExplorerPage: QuartzEmitterPlugin = () => {
         slug: "static/graph-data/topology" as FullSlug,
         ext: ".json",
       })
+      for (const shard of objectGraphShards(completeTopology)) {
+        yield write({
+          ctx,
+          content: JSON.stringify(shard.payload),
+          slug: `static/graph-data/objects/${objectShardFile(shard.slug)}` as FullSlug,
+          ext: ".json",
+        })
+      }
       yield write({
         ctx,
         content: JSON.stringify(slugMap),

@@ -1,4 +1,4 @@
-import { ExternalLink, Images, MapPinned } from "lucide-preact"
+import { ExternalLink, Images } from "lucide-preact"
 import { FullSlug, resolveRelative, simplifySlug, slugifyFilePath } from "../util/path"
 import {
   citationQuote,
@@ -220,7 +220,15 @@ function ClaimCard({
   )
 }
 
-function ObjectMapPreview({ title, graphSlug }: { title: string; graphSlug: string }) {
+function ObjectMapPreview({
+  title,
+  graphSlug,
+  relationCount,
+}: {
+  title: string
+  graphSlug: string
+  relationCount: number
+}) {
   const mapHref = `/zemelapis/?focus=${encodeURIComponent(graphSlug)}&depth=1&panel=details`
   return (
     <aside
@@ -229,6 +237,7 @@ function ObjectMapPreview({ title, graphSlug }: { title: string; graphSlug: stri
       data-object-slug={graphSlug}
       data-object-title={title}
       data-object-map-href={mapHref}
+      data-object-semantic-count={relationCount}
     >
       <div class="object-detail-map-heading">
         <span>Ryšių žemėlapis</span>
@@ -241,9 +250,6 @@ function ObjectMapPreview({ title, graphSlug }: { title: string; graphSlug: stri
       >
         <canvas class="object-map-preview-canvas" data-object-map-canvas="" />
         <span class="object-map-preview-status" data-object-map-status="" />
-      </a>
-      <a class="object-detail-map-all" href={mapHref}>
-        <MapPinned size={15} /> Atidaryti visą žemėlapį
       </a>
     </aside>
   )
@@ -324,7 +330,7 @@ const ObjectDetailPage: QuartzComponent = (props) => {
             </p>
           </div>
         </div>
-        <ObjectMapPreview title={title.title} graphSlug={graphSlug} />
+        <ObjectMapPreview title={title.title} graphSlug={graphSlug} relationCount={relationCount} />
       </header>
       <ObjectPageTabs currentSlug={slug} objectSlug={slug} counts={view.counts} active="overview" />
       <section class="object-detail-overview" id="apzvalga" data-object-panel="apzvalga">

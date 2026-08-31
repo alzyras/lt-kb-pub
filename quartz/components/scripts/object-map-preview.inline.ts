@@ -15,6 +15,7 @@ type ObjectMapPreviewNode = {
   claimCount?: number
   quoteCount?: number
   links?: ObjectMapPreviewLink[]
+  totalNeighbourCount?: number
 }
 
 type ObjectMapPreviewRuntime = typeof globalThis & {
@@ -89,15 +90,8 @@ type ObjectMapLabelBounds = {
 }
 
 const objectMapRuntime = globalThis as ObjectMapPreviewRuntime
-let objectMapIndexPromise: Promise<Record<string, ObjectMapPreviewNode>> | undefined
-let objectMapSlugMapPromise:
-  | Promise<{
-      publicToGraph: Record<string, string>
-      aliases: Record<string, string>
-    }>
-  | undefined
 const objectMapPreviewInitialized = new WeakSet<HTMLElement>()
-const objectMapPreviewNeighbourLimit = 42
+const objectMapPreviewNeighbourLimit = 200
 
 const objectMapVisual = objectMapRuntime.__ltkbGraphVisualRegistry ?? {
   typeColors: {},
@@ -176,71 +170,39 @@ function objectMapIndexFromTopology(topology: {
   return index
 }
 
-async function loadObjectMapIndex(): Promise<Record<string, ObjectMapPreviewNode>> {
-  if (!objectMapIndexPromise) {
-    objectMapIndexPromise = (async () => {
-      if (objectMapRuntime.loadGraphTopology) {
-        try {
-          const topology = await objectMapRuntime.loadGraphTopology()
-          return objectMapIndexFromTopology(topology)
-        } catch {
-          // Fall back to stable static paths; object pages live several folders deep.
-        }
-      }
-
-      const candidates = [
-        "/static/graph-data/topology.json",
-        "../static/graph-data/topology.json",
-        "../../static/graph-data/topology.json",
-        "../../../static/graph-data/topology.json",
-      ]
-
-      for (const candidate of candidates) {
-        try {
-          const response = await fetch(candidate, { cache: "force-cache" })
-          if (response.ok) {
-            const topology = (await response.json()) as {
-              nodes?: Array<{
-                slug: string
-                title: string
-                type: string
-                claimCount: number
-                quoteCount: number
-              }>
-              edges?: Array<{
-                from: string
-                to: string
-                kind: string
-                evidenceCount: number
-                confidence: number
-              }>
-            }
-            return objectMapIndexFromTopology(topology)
-          }
-        } catch {
-          // Try the next candidate.
-        }
-      }
-
-      throw new Error("Failed to fetch graph explorer index")
-    })()
+async function loadObjectMapIndex(slug: string): Promise<Record<string, ObjectMapPreviewNode>> {
+  let hash = 2166136261
+  for (const byte of new TextEncoder().encode(`shard:${slug}`)) {
+    hash ^= byte
+    hash = Math.imul(hash, 16777619)
   }
-  return objectMapIndexPromise
-}
-
-async function loadObjectMapSlugMap(): Promise<{
-  publicToGraph: Record<string, string>
-  aliases: Record<string, string>
-}> {
-  if (!objectMapSlugMapPromise) {
-    objectMapSlugMapPromise = objectMapRuntime.loadGraphSlugMap
-      ? objectMapRuntime.loadGraphSlugMap().then((value) => ({
-          publicToGraph: value.publicToGraph ?? {},
-          aliases: value.aliases ?? {},
-        }))
-      : Promise.resolve({ publicToGraph: {}, aliases: {} })
+  const shardFile = (hash >>> 0).toString(16).padStart(8, "0")
+  const response = await fetch(`/static/graph-data/objects/${shardFile}.json`, {
+    cache: "force-cache",
+  })
+  if (!response.ok) throw new Error("Failed to fetch object graph shard")
+  const shard = (await response.json()) as {
+    focus?: ObjectMapPreviewNode
+    neighbours?: ObjectMapPreviewLink[]
+    neighbourCount?: number
   }
-  return objectMapSlugMapPromise
+  if (!shard.focus?.slug) throw new Error("Object graph shard is missing its focus node")
+  const focus = {
+    ...shard.focus,
+    links: shard.neighbours ?? [],
+    totalNeighbourCount: Number(shard.neighbourCount ?? 0),
+  }
+  const index: Record<string, ObjectMapPreviewNode> = { [String(focus.slug)]: focus }
+  for (const link of focus.links ?? []) {
+    if (!link.target) continue
+    index[link.target] = {
+      slug: link.target,
+      title: link.targetTitle,
+      type: link.targetType,
+      links: [],
+    }
+  }
+  return index
 }
 
 function objectMapNodeType(slug: string, node?: ObjectMapPreviewNode): string {
@@ -540,7 +502,6 @@ function drawObjectMapPreview(
   const styles = window.getComputedStyle(canvas)
   const surfaceColor = objectMapThemeColor(styles, "--ui-surface", "#ffffff")
   const textColor = objectMapThemeColor(styles, "--ui-text", "#241c18")
-  const accentColor = objectMapThemeColor(styles, "--bm-red", "#d6421f")
   ctx.setTransform(pixelRatio, 0, 0, pixelRatio, 0, 0)
   ctx.clearRect(0, 0, width, height)
   const canvasBackground = objectMapVisual.canvasBackground ?? "transparent"
@@ -666,12 +627,6 @@ function drawObjectMapPreview(
     ctx.strokeText(label, pos.x, labelY)
     ctx.fillText(label, pos.x, labelY)
   }
-
-  ctx.font = "700 10px var(--codeFont, monospace)"
-  ctx.textAlign = "left"
-  ctx.textBaseline = "bottom"
-  ctx.fillStyle = accentColor
-  ctx.fillText(`${neighbours.length.toLocaleString("lt-LT")} RYS.`, 12, height - 12)
 }
 
 function setObjectMapStatus(root: HTMLElement, text: string, hidden = false) {
@@ -688,10 +643,8 @@ async function renderObjectMapPreview(root: HTMLElement) {
   if (!slug || !canvas) return
 
   try {
-    const [index, slugMap] = await Promise.all([loadObjectMapIndex(), loadObjectMapSlugMap()])
-    const mappedSlug = slugMap.publicToGraph[slug] ?? slugMap.aliases[slug] ?? slug
-    const canonicalSlug = slugMap.aliases[mappedSlug] ?? mappedSlug
-    const resolved = objectMapResolveNode(index, canonicalSlug)
+    const index = await loadObjectMapIndex(slug)
+    const resolved = objectMapResolveNode(index, slug)
     if (!resolved) {
       if (count) count.textContent = "Objekto nepavyko susieti su žemėlapio duomenimis."
       setObjectMapStatus(root, "Žemėlapio tapatybės klaida")
@@ -700,8 +653,10 @@ async function renderObjectMapPreview(root: HTMLElement) {
 
     const [resolvedSlug, node] = resolved
     const neighbours = objectMapNeighbours(index, resolvedSlug, node)
+    const semanticCount = Number(root.dataset.objectSemanticCount ?? 0)
+    const total = semanticCount || Number(node.totalNeighbourCount ?? 0) || neighbours.length
     if (count) {
-      count.textContent = `${neighbours.length.toLocaleString("lt-LT")} ryšiai`
+      count.textContent = `${total.toLocaleString("lt-LT")} patvirtinti ryšiai`
     }
     setObjectMapStatus(root, "", true)
     drawObjectMapPreview(canvas, neighbours, index, resolvedSlug, node)
