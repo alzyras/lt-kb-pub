@@ -178,7 +178,9 @@ async function loadObjectMapIndex(slug: string): Promise<Record<string, ObjectMa
   }
   const shardFile = (hash >>> 0).toString(16).padStart(8, "0")
   const response = await fetch(`/static/graph-data/objects/${shardFile}.json`, {
-    cache: "force-cache",
+    // Object shards are replaced in place by local and incremental builds. Revalidate so a
+    // previously cached 12-node preview cannot outlive the newer shard.
+    cache: "no-cache",
   })
   if (!response.ok) throw new Error("Failed to fetch object graph shard")
   const shard = (await response.json()) as {
