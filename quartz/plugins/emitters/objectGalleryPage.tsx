@@ -27,17 +27,43 @@ import {
   MEDIA_GALLERY_PAGE_SIZE,
   type MediaGalleryBootstrap,
 } from "../../util/mediaGallery"
+import { objectDetailEvidenceFromFile } from "../../util/objectDetail"
+import { objectPageViewModel } from "../../util/objectPageView"
 
-function lightEntry(entry: MediaEntry): MediaEntry {
-  const {
-    rightsNote: _rightsNote,
-    attribution: _attribution,
-    visualEvidence: _visualEvidence,
-    metadataEvidence: _metadataEvidence,
-    judgeReason: _judgeReason,
-    ...light
-  } = entry
-  return light
+function publicEntry(entry: MediaEntry): MediaEntry {
+  return {
+    mediaId: entry.mediaId,
+    detailUrl: entry.detailUrl,
+    title: entry.title,
+    caption: entry.caption,
+    originalTitle: entry.originalTitle,
+    creator: entry.creator,
+    provider: entry.provider,
+    providerLabel: entry.providerLabel,
+    license: entry.license,
+    rightsNote: entry.rightsNote,
+    licenseUrl: entry.licenseUrl,
+    attribution: entry.attribution,
+    dateDisplay: entry.dateDisplay,
+    dateStart: entry.dateStart,
+    dateEnd: entry.dateEnd,
+    width: entry.width,
+    height: entry.height,
+    canonicalUrl: entry.canonicalUrl,
+    sourceUrl: entry.sourceUrl,
+    // Source URLs are embedded directly; no local derivative is created.
+    displayUrl: entry.displayUrl,
+    institution: entry.institution,
+    collection: entry.collection,
+    country: entry.country,
+    language: entry.language,
+    tags: entry.tags?.map(({ code, label, facetKind }) => ({ code, label, facetKind })),
+    relatedObjects: entry.relatedObjects?.map(({ notePath, title, itemType }) => ({
+      notePath,
+      title,
+      itemType,
+    })),
+  }
 }
 
 function mediaDescription(entry: MediaEntry): string {
@@ -53,7 +79,8 @@ function mediaDescription(entry: MediaEntry): string {
 }
 
 function absolutePageUrl(baseUrl: string | undefined, slug: FullSlug): string {
-  return new URL(`/${encodeURI(slug)}`, `https://${baseUrl ?? "example.com"}`).toString()
+  const route = encodeURI(String(slug)).replace(/^\/+|\/+$/g, "")
+  return new URL(`/${route}/`, `https://${baseUrl ?? "example.com"}`).toString()
 }
 
 function mediaStructuredData(entry: MediaEntry, pageUrl: string, description: string): string {
@@ -112,7 +139,7 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
       const allFiles = content.map((c) => c[1].data)
       const catalog = buildMediaCatalog(allFiles)
       const objectEntries = mediaEntriesByObject(catalog)
-      const lightCatalog = catalog.map(lightEntry)
+      const lightCatalog = catalog.map(publicEntry)
       const catalogContent = JSON.stringify(lightCatalog)
       const catalogVersion = createHash("sha256").update(catalogContent).digest("hex").slice(0, 12)
       yield write({
@@ -125,7 +152,7 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
         if (!entry.mediaId) continue
         yield write({
           ctx,
-          content: JSON.stringify(entry),
+          content: JSON.stringify(publicEntry(entry)),
           slug: joinSegments("static", "media", entry.mediaId) as FullSlug,
           ext: ".json",
         })
@@ -193,10 +220,15 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
           continue
         const objectSlug = rawObjectSlug as FullSlug
         const notePath = `${objectSlug}.md`
-        if (!objectEntries.has(notePath)) continue
         const objectTitle =
           cleanText(file.data.frontmatter?.title) || objectSlug.split("/").at(-1) || "Objektas"
-        const entries = mergeMediaEntries(objectEntries.get(notePath) ?? []).map(lightEntry)
+        const entries = mergeMediaEntries(objectEntries.get(notePath) ?? []).map(publicEntry)
+        const evidence = objectDetailEvidenceFromFile(String(file.data.filePath ?? ""))
+        const view = objectPageViewModel(
+          (file.data.frontmatter ?? {}) as Record<string, unknown>,
+          evidence,
+          { gallery: entries.length },
+        )
         const galleryTitle = `${objectTitle} – vaizdų galerija`
         yield* emitPage(
           objectGallerySlug(objectSlug),
@@ -207,7 +239,9 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
             object_title: objectTitle,
             object_slug: objectSlug,
             object_note_path: notePath,
+            object_source_path: String(file.data.filePath ?? ""),
             object_gallery_page: true,
+            object_page_counts_json: JSON.stringify({ counts: view.counts }),
           },
         )
       }
@@ -226,7 +260,7 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
             title,
             description,
             media_detail_page: true,
-            media_detail_json: JSON.stringify(entry),
+            media_detail_json: JSON.stringify(publicEntry(entry)),
             media_primary_thumb_url: mediaImageUrl(entry),
             media_primary_width: entry.width,
             media_primary_height: entry.height,

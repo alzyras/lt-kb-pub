@@ -8,8 +8,15 @@ import {
   X,
 } from "lucide-preact"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { ObjectPageTabs } from "./ObjectPageTabs"
+import { objectDetailEvidenceFromFile } from "../util/objectDetail"
+import { objectPageViewModel } from "../util/objectPageView"
+import { FullSlug } from "../util/path"
+// @ts-ignore Quartz bundles inline lifecycle scripts as strings.
+import tabsScript from "./scripts/object-detail-tabs.inline"
 import style from "./styles/objectMediaGallery.scss"
 import photoswipeStyle from "./styles/photoswipe.scss"
+import objectDetailStyle from "./styles/objectDetail.scss"
 import {
   cleanText,
   displayCaption,
@@ -310,6 +317,15 @@ const ObjectMediaGallery: QuartzComponent = ({ fileData }: QuartzComponentProps)
   const galleryTitle =
     cleanText(fileData.frontmatter?.title) || "Lietuvos istorijos vaizdų galerija"
   const galleryDescription = cleanText(fileData.frontmatter?.description)
+  const objectSlug = cleanText(fileData.frontmatter?.object_slug) as FullSlug
+  const galleryEvidence = isObjectGallery
+    ? objectDetailEvidenceFromFile(String(fileData.frontmatter?.object_source_path || ""))
+    : objectDetailEvidenceFromFile("")
+  const objectView = objectPageViewModel(
+    (fileData.frontmatter ?? {}) as Record<string, unknown>,
+    galleryEvidence,
+    { gallery: bootstrap.totalCount },
+  )
 
   return (
     <main
@@ -342,6 +358,14 @@ const ObjectMediaGallery: QuartzComponent = ({ fileData }: QuartzComponentProps)
           {bootstrap.totalCount} vaizdų
         </strong>
       </header>
+      {isObjectGallery && objectSlug && (
+        <ObjectPageTabs
+          currentSlug={fileData.slug as FullSlug}
+          objectSlug={objectSlug}
+          counts={objectView.counts}
+          active="gallery"
+        />
+      )}
 
       <div class="media-gallery-workspace">
         <aside class="media-gallery-facets" data-media-facet-panel aria-label="Galerijos filtrai">
@@ -460,7 +484,7 @@ const ObjectMediaGallery: QuartzComponent = ({ fileData }: QuartzComponentProps)
   )
 }
 
-ObjectMediaGallery.css = [photoswipeStyle, style]
-ObjectMediaGallery.afterDOMLoaded = script
+ObjectMediaGallery.css = [photoswipeStyle, style, objectDetailStyle]
+ObjectMediaGallery.afterDOMLoaded = `${script}\n${tabsScript}`
 
 export default (() => ObjectMediaGallery) satisfies QuartzComponentConstructor
