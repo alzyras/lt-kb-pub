@@ -78,15 +78,19 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
 }
 
 .object-detail-identity {
-  display: grid;
-  grid-template-columns: clamp(6.5rem, 13vw, 10rem) minmax(0, 1fr);
-  align-items: start;
-  gap: clamp(0.9rem, 2vw, 1.45rem);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  min-width: 0;
+}
+.object-detail-identity-copy {
   min-width: 0;
 }
 .object-detail-portrait {
   display: block;
   overflow: hidden;
+  width: min(100%, 14rem);
+  margin-top: 1.15rem;
   aspect-ratio: 4 / 5;
   background: var(--light);
 }
@@ -115,7 +119,7 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
   max-width: 18ch;
   margin: 0;
   color: var(--dark);
-  font-size: clamp(2rem, 4vw, 3.9rem);
+  font-size: clamp(2rem, 3.5vw, 3.25rem);
   line-height: 0.95;
   letter-spacing: -0.055em;
 }
@@ -526,7 +530,10 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
     grid-template-columns: 1fr;
   }
   .object-detail-identity {
-    grid-template-columns: 5.5rem minmax(0, 1fr);
+    width: 100%;
+  }
+  .object-detail-portrait {
+    width: min(100%, 12rem);
   }
   .object-detail-relation-line {
     grid-template-columns: 1fr auto;

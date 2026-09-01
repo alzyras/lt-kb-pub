@@ -142,6 +142,33 @@ function heroImage(media: MediaEntry | undefined): string {
   return media ? cleanText(media.thumbUrl || media.displayUrl || media.sourceUrl) : ""
 }
 
+function heroMedia(
+  media: MediaEntry[],
+  primary: MediaEntry | undefined,
+  type: string,
+): MediaEntry | undefined {
+  if (type !== "asmuo" && type !== "autorius") return primary
+  const portrait = media
+    .filter((entry) => heroImage(entry))
+    .filter((entry) =>
+      /portret|atvaizd|gravi\u016br|biust|skulpt\u016br/iu.test(displayCaption(entry)),
+    )
+    .sort((a, b) => {
+      const score = (entry: MediaEntry) => {
+        const ratio =
+          Number(entry.width) > 0 && Number(entry.height) > 0
+            ? Number(entry.width) / Number(entry.height)
+            : 1
+        const portraitFrame = ratio > 0.55 && ratio < 1.05 ? 8 : 0
+        return (
+          portraitFrame + (entry.directness === "direct" ? 3 : 0) + Number(entry.confidence || 0)
+        )
+      }
+      return score(b) - score(a)
+    })[0]
+  return portrait || primary
+}
+
 function galleryPreview(media: MediaEntry[], primary?: MediaEntry): MediaEntry[] {
   const seen = new Set<string>()
   const unique = media.filter((entry) => {
@@ -299,7 +326,8 @@ const ObjectDetailPage: QuartzComponent = (props) => {
   const media = objectMediaSet(frontmatter as any)
   const primary =
     media.primary?.directness === "direct" ? media.primary : (media.direct[0] ?? media.primary)
-  const galleryItems = galleryPreview(media.all, primary)
+  const hero = heroMedia(media.all, primary, type)
+  const galleryItems = galleryPreview(media.all, hero)
   const sources = sourceLinks(
     [...new Set([...evidence.sourceTitles, ...asStrings(frontmatter.saltiniai)])],
     index,
@@ -348,19 +376,7 @@ const ObjectDetailPage: QuartzComponent = (props) => {
       </nav>
       <header class="object-detail-intro">
         <div class="object-detail-identity">
-          {heroImage(primary) && (
-            <a class="object-detail-portrait" href={mediaDetailUrl(primary!)}>
-              <img
-                src={heroImage(primary)}
-                alt={displayCaption(primary!)}
-                width={primary?.width || undefined}
-                height={primary?.height || undefined}
-                fetchPriority="high"
-                decoding="async"
-              />
-            </a>
-          )}
-          <div>
+          <div class="object-detail-identity-copy">
             <p class="object-detail-eyebrow">{typeLabel(type)}</p>
             <h1>{title.title}</h1>
             {title.qualifier && <p class="object-detail-qualifier">{title.qualifier}</p>}
@@ -370,6 +386,18 @@ const ObjectDetailPage: QuartzComponent = (props) => {
               <span>{relationCount} ryšiai</span>
             </p>
           </div>
+          {heroImage(hero) && (
+            <a class="object-detail-portrait" href={mediaDetailUrl(hero!)}>
+              <img
+                src={heroImage(hero)}
+                alt={displayCaption(hero!)}
+                width={hero?.width || undefined}
+                height={hero?.height || undefined}
+                fetchPriority="high"
+                decoding="async"
+              />
+            </a>
+          )}
         </div>
         <ObjectMapPreview title={title.title} graphSlug={graphSlug} relationCount={relationCount} />
       </header>
