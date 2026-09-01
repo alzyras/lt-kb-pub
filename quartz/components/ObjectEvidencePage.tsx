@@ -239,8 +239,8 @@ const ObjectEvidencePage: QuartzComponent = ({ fileData }: QuartzComponentProps)
 }
 
 ObjectEvidencePage.css = `${style}
-.object-evidence-header { max-width: 56rem; padding: clamp(1.3rem, 4vw, 3rem); border-top: 5px solid var(--secondary); background: var(--object-wash); }
-.object-evidence-header h1 { max-width: 18ch; margin: 0; font-size: clamp(2rem, 5vw, 4.1rem); line-height: .98; letter-spacing: -.05em; }
+.object-evidence-header { width: 100%; max-width: 62rem; box-sizing: border-box; padding: clamp(1rem, 2.5vw, 1.65rem); border-top: 4px solid var(--secondary); border-bottom: 1px solid var(--object-rule); background: var(--object-wash); }
+.object-evidence-header h1 { max-width: 24ch; margin: 0; font-size: clamp(1.85rem, 3.5vw, 3.15rem); line-height: .98; letter-spacing: -.05em; }
 .object-evidence-header > p:not(.object-detail-eyebrow) { max-width: 45rem; line-height: 1.55; }
 .object-evidence-header > a { display: inline-flex; align-items: center; gap: .35rem; font-weight: 800; }
 .object-evidence-count { color: var(--gray); font-size: .9rem; }
@@ -256,7 +256,7 @@ ObjectEvidencePage.css = `${style}
 [data-object-evidence-lazy-ready="true"] .object-evidence-pagination { display: none; }
 .object-evidence-empty { max-width: 44rem; padding: 1rem; border-left: 4px solid var(--secondary); background: var(--object-wash); }
 .object-standalone-citation blockquote { margin: .7rem 0 0; }
-.object-evidence-search { max-width: 56rem; margin-top: 1rem; padding: 1rem; border: 1px solid var(--object-rule); background: var(--object-wash); }
+.object-evidence-search { width: 100%; max-width: 62rem; box-sizing: border-box; margin-top: 1rem; padding: clamp(1rem, 2vw, 1.3rem); border: 1px solid var(--object-rule); background: var(--object-wash); }
 .object-evidence-search label { display: grid; gap: .4rem; color: var(--dark); font-size: .88rem; font-weight: 800; }
 .object-evidence-search input { width: 100%; min-height: 2.5rem; box-sizing: border-box; padding: .45rem .6rem; border: 1px solid var(--object-rule); font: inherit; }
 .object-evidence-search [data-object-evidence-results] { display: grid; gap: .35rem; margin-top: .8rem; }
