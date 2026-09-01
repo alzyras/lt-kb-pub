@@ -21,9 +21,19 @@ function initObjectDetailTabs() {
     }
 
     for (const link of links) {
-      link.addEventListener("click", () => window.requestAnimationFrame(activate))
+      link.addEventListener("click", (event) => {
+        // Overview, relations and sources are real URL fragments, but switching them
+        // should keep the reader at the tab strip instead of letting the browser jump
+        // down to the hidden section in the document.
+        if (!link.hash) return
+        event.preventDefault()
+        const next = `${window.location.pathname}${window.location.search}${link.hash}`
+        window.history.pushState(null, "", next)
+        activate()
+      })
     }
     window.addEventListener("hashchange", activate)
+    window.addEventListener("popstate", activate)
     activate()
   })
 }

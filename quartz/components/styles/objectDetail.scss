@@ -78,7 +78,24 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
 }
 
 .object-detail-identity {
+  display: grid;
+  grid-template-columns: clamp(6.5rem, 13vw, 10rem) minmax(0, 1fr);
+  align-items: start;
+  gap: clamp(0.9rem, 2vw, 1.45rem);
   min-width: 0;
+}
+.object-detail-portrait {
+  display: block;
+  overflow: hidden;
+  aspect-ratio: 4 / 5;
+  background: var(--light);
+}
+.object-detail-portrait img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
 }
 
 .object-detail-eyebrow,
@@ -158,6 +175,10 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
   overflow: hidden;
   background: transparent;
 }
+.object-detail-map .object-map-preview-link:focus-visible {
+  outline: 2px solid var(--secondary);
+  outline-offset: -2px;
+}
 .object-detail-map .object-map-preview-canvas {
   display: block;
   width: 100%;
@@ -227,33 +248,6 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
   color: var(--darkgray);
   font-size: clamp(1.05rem, 1.8vw, 1.32rem);
   line-height: 1.6;
-}
-.object-detail-summary-layout {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) clamp(8.5rem, 17vw, 12rem);
-  align-items: start;
-  gap: clamp(1rem, 3vw, 2rem);
-  max-width: 78rem;
-}
-.object-detail-summary-media {
-  display: grid;
-  gap: 0.45rem;
-  color: var(--darkgray);
-  font-size: 0.78rem;
-  line-height: 1.3;
-  text-decoration: none;
-}
-.object-detail-summary-media img {
-  display: block;
-  width: 100%;
-  height: auto;
-  aspect-ratio: 1;
-  object-fit: cover;
-  background: var(--object-wash);
-}
-.object-detail-summary-media:hover img {
-  outline: 2px solid var(--secondary);
-  outline-offset: 3px;
 }
 .object-detail-summary-pending {
   padding-left: 1rem;
@@ -377,42 +371,38 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
   color: var(--gray);
   line-height: 1.5;
 }
-.object-detail-relation-groups {
+.object-detail-relation-lines {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
-  gap: 0.85rem;
+  max-width: 62rem;
+  border-top: 1px solid var(--object-rule);
 }
-.object-detail-relation-group {
-  padding: 0.9rem;
-  border-top: 3px solid var(--secondary);
-  background: var(--object-wash);
-}
-.object-detail-relation-group h3 {
-  margin: 0 0 0.65rem;
-  color: var(--dark);
-  font-size: 1rem;
-}
-.object-detail-relation-group ul {
+.object-detail-relation-line {
   display: grid;
-  gap: 0.45rem;
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-.object-detail-relation-group a {
-  display: grid;
-  gap: 0.12rem;
+  grid-template-columns: minmax(7rem, auto) minmax(8rem, 1fr) minmax(9rem, 1.25fr) auto;
+  align-items: baseline;
+  gap: 0.45rem 0.7rem;
+  padding: 0.85rem 0.15rem;
+  border-bottom: 1px solid var(--object-rule);
   color: var(--darkgray);
-  font-weight: 700;
   text-decoration: none;
 }
-.object-detail-relation-group a:hover {
+.object-detail-relation-line:hover {
   color: var(--secondary);
+  background: var(--object-wash);
 }
-.object-detail-relation-group a span {
+.object-detail-relation-subject {
+  color: var(--dark);
+  font-weight: 800;
+}
+.object-detail-relation-predicate {
   color: var(--gray);
-  font-size: 0.75rem;
-  font-weight: 500;
+}
+.object-detail-relation-line strong {
+  color: inherit;
+}
+.object-detail-relation-line small {
+  color: var(--gray);
+  font-size: 0.72rem;
 }
 
 .object-detail-sources {
@@ -424,52 +414,39 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
   grid-column: 1 / -1;
   margin-bottom: 0;
 }
-.object-detail-source-group {
-  min-width: 0;
-  padding: 1.1rem 1.2rem;
+.object-detail-source-table-wrap {
+  overflow-x: auto;
   border: 1px solid var(--object-rule);
-  background: color-mix(in srgb, var(--object-wash) 72%, var(--light));
+  background: color-mix(in srgb, var(--object-wash) 68%, var(--light));
 }
-.object-detail-source-group-heading {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 0.75rem;
-  margin-bottom: 0.8rem;
+.object-detail-source-table {
+  width: 100%;
+  min-width: 34rem;
+  border-collapse: collapse;
+  color: var(--darkgray);
+  font-size: 0.9rem;
 }
-.object-detail-source-group h3 {
-  margin: 0;
-  color: var(--dark);
-  font-size: 1rem;
+.object-detail-source-table th,
+.object-detail-source-table td {
+  padding: 0.8rem 0.9rem;
+  text-align: left;
+  vertical-align: top;
+  border-bottom: 1px solid var(--object-rule);
 }
-.object-detail-source-group-heading > span {
+.object-detail-source-table th {
   color: var(--gray);
   font: 800 0.7rem var(--codeFont);
-  letter-spacing: 0.07em;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
 }
-.object-detail-sources ul {
-  display: grid;
-  gap: 0.5rem;
-  margin: 0;
-  padding: 0;
-  list-style: none;
+.object-detail-source-table tbody tr:last-child td {
+  border-bottom: 0;
 }
-.object-detail-sources li {
-  line-height: 1.35;
+.object-detail-source-table td:nth-child(2),
+.object-detail-source-table th:nth-child(2) {
+  width: 11rem;
 }
-.object-detail-sources li::before {
-  content: "↗";
-  margin-right: 0.48rem;
-  color: var(--secondary);
-}
-.object-detail-external-links li {
-  display: grid;
-  gap: 0.13rem;
-}
-.object-detail-external-links li::before {
-  grid-row: span 2;
-}
-.object-detail-external-links a {
+.object-detail-source-table a {
   display: inline-flex;
   align-items: center;
   gap: 0.3rem;
@@ -536,9 +513,6 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
   .object-detail-gallery-grid {
     grid-template-columns: 1fr 1fr;
   }
-  .object-detail-summary-layout {
-    grid-template-columns: minmax(0, 1fr) 9rem;
-  }
 }
 
 @media (max-width: 560px) {
@@ -551,13 +525,20 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
   .object-detail-gallery-grid {
     grid-template-columns: 1fr;
   }
-  .object-detail-summary-layout {
-    grid-template-columns: 1fr;
+  .object-detail-identity {
+    grid-template-columns: 5.5rem minmax(0, 1fr);
   }
-  .object-detail-summary-media {
-    grid-template-columns: 6.5rem minmax(0, 1fr);
-    align-items: center;
-    max-width: 25rem;
+  .object-detail-relation-line {
+    grid-template-columns: 1fr auto;
+  }
+  .object-detail-relation-subject,
+  .object-detail-relation-predicate,
+  .object-detail-relation-line strong {
+    grid-column: 1;
+  }
+  .object-detail-relation-line small {
+    grid-column: 2;
+    grid-row: 1 / span 3;
   }
   .object-detail-sources {
     grid-template-columns: 1fr;

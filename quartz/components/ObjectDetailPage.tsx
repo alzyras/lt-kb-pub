@@ -173,7 +173,7 @@ function galleryPreview(media: MediaEntry[], primary?: MediaEntry): MediaEntry[]
       }
       return score(b) - score(a) || displayCaption(a).localeCompare(displayCaption(b), "lt")
     })
-    .slice(0, 3)
+    .slice(0, 5)
 }
 
 function relationGroups(
@@ -305,6 +305,13 @@ const ObjectDetailPage: QuartzComponent = (props) => {
     index,
     slug,
   )
+  const sourceClaimCounts = new Map<string, number>()
+  for (const claim of evidence.claims) {
+    for (const sourceTitle of new Set(claim.sourceTitles)) {
+      const key = normalized(sourceTitle)
+      sourceClaimCounts.set(key, (sourceClaimCounts.get(key) ?? 0) + 1)
+    }
+  }
   const sourceHrefs = new Map(sources.map((source) => [normalized(source.title), source.href]))
   const view = objectPageViewModel(frontmatter, evidence, { gallery: media.all.length })
   const relations = relationGroups(
@@ -341,6 +348,18 @@ const ObjectDetailPage: QuartzComponent = (props) => {
       </nav>
       <header class="object-detail-intro">
         <div class="object-detail-identity">
+          {heroImage(primary) && (
+            <a class="object-detail-portrait" href={mediaDetailUrl(primary!)}>
+              <img
+                src={heroImage(primary)}
+                alt={displayCaption(primary!)}
+                width={primary?.width || undefined}
+                height={primary?.height || undefined}
+                fetchPriority="high"
+                decoding="async"
+              />
+            </a>
+          )}
           <div>
             <p class="object-detail-eyebrow">{typeLabel(type)}</p>
             <h1>{title.title}</h1>
@@ -361,22 +380,7 @@ const ObjectDetailPage: QuartzComponent = (props) => {
           <h2>{title.title}</h2>
         </div>
         {summary ? (
-          <div class="object-detail-summary-layout">
-            <p class="object-detail-summary">{summary}</p>
-            {heroImage(primary) && (
-              <a class="object-detail-summary-media" href={mediaDetailUrl(primary!)}>
-                <img
-                  src={heroImage(primary)}
-                  alt={displayCaption(primary!)}
-                  width={primary?.width || undefined}
-                  height={primary?.height || undefined}
-                  fetchPriority="high"
-                  decoding="async"
-                />
-                <span>{displayCaption(primary!)}</span>
-              </a>
-            )}
-          </div>
+          <p class="object-detail-summary">{summary}</p>
         ) : (
           <p class="object-detail-summary object-detail-summary-pending">{fallbackMessage}</p>
         )}
@@ -430,22 +434,17 @@ const ObjectDetailPage: QuartzComponent = (props) => {
           kaip faktiniai ryšiai.
         </p>
         {relationCount > 0 ? (
-          <div class="object-detail-relation-groups">
-            {relations.map((group) => (
-              <section class="object-detail-relation-group">
-                <h3>{group.label}</h3>
-                <ul>
-                  {group.targets.map((target) => (
-                    <li>
-                      <a href={resolveRelative(slug, target.slug)}>
-                        <span>{typeLabel(target.type)}</span>
-                        {target.label || target.title}
-                      </a>
-                    </li>
-                  ))}
-                </ul>
-              </section>
-            ))}
+          <div class="object-detail-relation-lines">
+            {relations.map((group) =>
+              group.targets.map((target) => (
+                <a class="object-detail-relation-line" href={resolveRelative(slug, target.slug)}>
+                  <span class="object-detail-relation-subject">{title.title}</span>
+                  <span class="object-detail-relation-predicate">{group.label}</span>
+                  <strong>{target.label || target.title}</strong>
+                  <small>{typeLabel(target.type)}</small>
+                </a>
+              )),
+            )}
           </div>
         ) : (
           <p class="object-detail-panel-note">
@@ -459,36 +458,52 @@ const ObjectDetailPage: QuartzComponent = (props) => {
           <h2>Šaltiniai ir tolesnis skaitymas</h2>
         </div>
         {sources.length > 0 && (
-          <section class="object-detail-source-group">
-            <div class="object-detail-source-group-heading">
-              <h3>Vidiniai šaltiniai</h3>
-              <span>{sources.length}</span>
-            </div>
-            <ul>
-              {sources.map((source) => (
-                <li>{source.href ? <a href={source.href}>{source.title}</a> : source.title}</li>
-              ))}
-            </ul>
-          </section>
+          <div class="object-detail-source-table-wrap">
+            <table class="object-detail-source-table">
+              <thead>
+                <tr>
+                  <th scope="col">Vidinis šaltinis</th>
+                  <th scope="col">Teiginių apie objektą</th>
+                  <th scope="col">Atverti</th>
+                </tr>
+              </thead>
+              <tbody>
+                {sources.map((source) => (
+                  <tr>
+                    <td>{source.href ? <a href={source.href}>{source.title}</a> : source.title}</td>
+                    <td>{sourceClaimCounts.get(normalized(source.title)) ?? 0}</td>
+                    <td>{source.href ? <a href={source.href}>Šaltinį</a> : "—"}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
         )}
         {externalLinks.length > 0 && (
-          <section class="object-detail-source-group object-detail-external-links">
-            <div class="object-detail-source-group-heading">
-              <h3>Išoriniai šaltiniai</h3>
-              <span>{externalLinks.length}</span>
-            </div>
-            <ul class="object-detail-external-links">
-              {externalLinks.map((source) => (
-                <li>
-                  <a href={source.url} target="_blank" rel="noreferrer noopener">
-                    {source.title}
-                    <ExternalLink size={13} />
-                  </a>
-                  {source.publisher && <span>{source.publisher}</span>}
-                </li>
-              ))}
-            </ul>
-          </section>
+          <div class="object-detail-source-table-wrap">
+            <table class="object-detail-source-table">
+              <thead>
+                <tr>
+                  <th scope="col">Tolesnis skaitymas</th>
+                  <th scope="col">Leidėjas</th>
+                  <th scope="col">Atverti</th>
+                </tr>
+              </thead>
+              <tbody>
+                {externalLinks.map((source) => (
+                  <tr>
+                    <td>{source.title}</td>
+                    <td>{source.publisher || "—"}</td>
+                    <td>
+                      <a href={source.url} target="_blank" rel="noreferrer noopener">
+                        Nuorodą <ExternalLink size={13} />
+                      </a>
+                    </td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
         )}
         {sources.length === 0 && externalLinks.length === 0 && (
           <p class="object-detail-panel-note">
