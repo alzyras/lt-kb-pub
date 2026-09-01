@@ -552,7 +552,8 @@ function drawObjectMapPreview(
   const maxY = Math.max(...bounds.map((bound) => bound.maxY))
   const graphWidth = Math.max(1, maxX - minX)
   const graphHeight = Math.max(1, maxY - minY)
-  const padding = graph.nodes.length > 96 ? 26 : 30
+  // Keep dense preview nodes and their labels clear of the surrounding hero banner.
+  const padding = graph.nodes.length > 96 ? 46 : 38
   const scale = Math.min((width - padding * 2) / graphWidth, (height - padding * 2) / graphHeight)
   const offsetX = width / 2 - ((minX + maxX) / 2) * scale
   const offsetY = height / 2 - ((minY + maxY) / 2) * scale

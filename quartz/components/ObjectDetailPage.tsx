@@ -459,18 +459,24 @@ const ObjectDetailPage: QuartzComponent = (props) => {
           <h2>Šaltiniai ir tolesnis skaitymas</h2>
         </div>
         {sources.length > 0 && (
-          <div>
-            <h3>Vidiniai šaltiniai</h3>
+          <section class="object-detail-source-group">
+            <div class="object-detail-source-group-heading">
+              <h3>Vidiniai šaltiniai</h3>
+              <span>{sources.length}</span>
+            </div>
             <ul>
               {sources.map((source) => (
                 <li>{source.href ? <a href={source.href}>{source.title}</a> : source.title}</li>
               ))}
             </ul>
-          </div>
+          </section>
         )}
         {externalLinks.length > 0 && (
-          <div>
-            <h3>Išoriniai šaltiniai</h3>
+          <section class="object-detail-source-group object-detail-external-links">
+            <div class="object-detail-source-group-heading">
+              <h3>Išoriniai šaltiniai</h3>
+              <span>{externalLinks.length}</span>
+            </div>
             <ul class="object-detail-external-links">
               {externalLinks.map((source) => (
                 <li>
@@ -482,7 +488,7 @@ const ObjectDetailPage: QuartzComponent = (props) => {
                 </li>
               ))}
             </ul>
-          </div>
+          </section>
         )}
         {sources.length === 0 && externalLinks.length === 0 && (
           <p class="object-detail-panel-note">
