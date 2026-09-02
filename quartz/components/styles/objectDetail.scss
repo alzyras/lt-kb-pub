@@ -419,13 +419,16 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
   margin-bottom: 0;
 }
 .object-detail-source-table-wrap {
+  grid-column: 1 / -1;
+  width: 100%;
   overflow-x: auto;
   border: 1px solid var(--object-rule);
   background: color-mix(in srgb, var(--object-wash) 68%, var(--light));
 }
 .object-detail-source-table {
   width: 100%;
-  min-width: 34rem;
+  min-width: 0;
+  table-layout: fixed;
   border-collapse: collapse;
   color: var(--darkgray);
   font-size: 0.9rem;
@@ -448,7 +451,15 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
 }
 .object-detail-source-table td:nth-child(2),
 .object-detail-source-table th:nth-child(2) {
-  width: 11rem;
+  width: 18%;
+}
+.object-detail-source-table td:first-child,
+.object-detail-source-table th:first-child {
+  width: 62%;
+}
+.object-detail-source-table td:last-child,
+.object-detail-source-table th:last-child {
+  width: 20%;
 }
 .object-detail-source-table a {
   display: inline-flex;
