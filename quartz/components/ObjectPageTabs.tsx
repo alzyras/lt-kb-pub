@@ -31,7 +31,7 @@ export function ObjectPageTabs({
   )
   return (
     <nav class="object-detail-tabs" aria-label="Objekto skyriai">
-      {tab("overview", `${overview}#apzvalga`, "Apžvalga")}
+      {tab("overview", overview, "Apžvalga")}
       {tab("evidence", evidence, "Teiginiai", counts.claims)}
       {tab("relations", `${overview}#rysiai`, "Ryšiai", counts.relations)}
       {tab("gallery", gallery, "Galerija", counts.gallery)}
