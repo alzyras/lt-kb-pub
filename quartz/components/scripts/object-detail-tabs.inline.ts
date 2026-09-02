@@ -30,6 +30,7 @@ function initObjectDetailTabs() {
         const next = `${window.location.pathname}${window.location.search}${link.hash}`
         window.history.pushState(null, "", next)
         activate()
+        window.scrollTo({ top: 0, behavior: "auto" })
       })
     }
     window.addEventListener("hashchange", activate)

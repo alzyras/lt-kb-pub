@@ -452,7 +452,7 @@ const ObjectDetailPage: QuartzComponent = (props) => {
           </details>
         )}
       </section>
-      <section class="object-detail-relations" id="rysiai" data-object-panel="rysiai">
+      <section class="object-detail-relations" id="rysiai" data-object-panel="rysiai" hidden>
         <div class="object-section-heading">
           <p>Struktūruoti ryšiai</p>
           <h2>Su kuo susijęs objektas</h2>
@@ -480,7 +480,7 @@ const ObjectDetailPage: QuartzComponent = (props) => {
           </p>
         )}
       </section>
-      <section class="object-detail-sources" id="saltiniai" data-object-panel="saltiniai">
+      <section class="object-detail-sources" id="saltiniai" data-object-panel="saltiniai" hidden>
         <div class="object-section-heading">
           <p>Provenansas</p>
           <h2>Šaltiniai ir tolesnis skaitymas</h2>
