@@ -74,6 +74,32 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
   pagrindžia:
     - c-178679
 
+<a id="claim-t-205655"></a>
+- t-004
+  teiginys: "Teodoras Narbutas aprašo, kad apgultai Naujojo Malūno piliai padėti pasiųstam daliniui vadovavo Karaliaučiaus komtūras Bertoldas Briuhavenas, o kartu atvyko Livonijos magistru paskirtas Gotfridas Rogė."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-188270
+
+<a id="claim-t-205656"></a>
+- t-005
+  teiginys: "Po pergalės Karaliaučiaus komtūras Bertoldas Briuhavenas surengė žygį į Rygą, šturmu paėmė arkivyskupo pilį ir apiplėšė jos iždą bei bažnyčias."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-188271
+
 ## Citatos
 
 - id: c-169459
@@ -156,6 +182,54 @@ Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įr
   pagrindzia:
     - t-001
     - t-003
+
+- id: c-188270
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 319"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 319."
+  citata_originali: |
+    Nesėkmės, patirtos Livonijoje, sujaudino visą vokie­
+    čių ordiną. Didysis magistras Gotfridas Hohenlohė, pen-
+    kiasdešimčia kryžiuočių riterių vedinas, nuskubėjo iš
+    Vokietijos į Prūsiją. Apgulta Naujojo Malūno pilis buvo
+    reikalinga skubios pagalbos, tad buvo išsiųstas stiprus
+    riterių ir ginkluotų žmonių dalinys, vadovaujamas Kara­
+    liaučiaus komtūro Bertoldo Briuhaveno, su kuriuo kartu
+    vietoj Brunono atvyko Livonijos magistru paskirtas Gotf­
+    ridas Rogė.
+  citata_rodoma: "Apgulta Naujojo Malūno pilis buvo \nreikalinga skubios pagalbos, tad buvo išsiųstas stiprus \nriterių ir ginkluotų žmonių dalinys, vadovaujamas Kara­\nliaučiaus komtūro Bertoldo Briuhaveno, su kuriuo kartu \nvietoj Brunono atvyko Livonijos magistru paskirtas Gotf­\nridas Rogė."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-188271
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 320"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 320."
+  citata_originali: |
+    Komtūras Bertoldas, naudodamasis ta pergale, su­
+    rengė žygį į Rygą ir šturmu paėmė arkivyskupo pilį;
+    apiplėšęs iždą ir bažnyčias, vien aukso ir sidabro rykų
+    prisigraibstė už šešis tūkstančius sidabro griviną; tuo
+    dar nesitenkindamas, įsakė dvasininkų dvaruose baisių
+    piktadarysčių imtis. Paskui nusivijo Lietuvos kariauną,
+    netgi įsibrovė į Didžiosios Kunigaikštystės žemes ir už­
+    grobė keletą pilių. Vienas kitas šalies didikas, tikriausiai
+    norėdamas nuraminti priešą, be gailesčio jų valsčius nio­
+    kojantį, prižadėjo priimti krikščioniškąjį tikėjimą arba iš
+    tiesų jį priėmė.
+  citata_rodoma: "Komtūras Bertoldas, naudodamasis ta pergale, su­\nrengė žygį į Rygą ir šturmu paėmė arkivyskupo pilį; \napiplėšęs iždą ir bažnyčias, vien aukso ir sidabro rykų \nprisigraibstė už šešis tūkstančius sidabro griviną;"
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 ## Ryšiai
 - Bertoldas Briuhavenas surengė žygį į [[objektai/vietos/Junigeda]]

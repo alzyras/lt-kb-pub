@@ -83,6 +83,19 @@ Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marij
   pagrindžia:
     - c-60773
 
+<a id="claim-t-205386"></a>
+- t-003
+  teiginys: "Henrikas Valpotas pagelbėjo užimant Akrą ir narsiai ją gynė."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187898
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Henrikas Valpotas buvo pirmasis Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistras, daug metų vadovavo ir buvo palaidotas Akone.'
@@ -167,6 +180,30 @@ Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-187898
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 324"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 324."
+  citata_originali: |
+    Atsispyrė prieš tas pagundas, išsisuki­
+    nėdamas nurodė, esą jo sužadėtinė turi būti Dievo gim­
+    dytoja iš Šventosios žemės, ir iškeliavo paskui imperato­
+    riaus Fridriko Rudabarzdžio
+    karius,
+    pažymėtus
+    kry­
+    žiaus ženklais. Bebaimis mūšio lauke, ištvermingas sto­
+    vykloje, dešimtį metų garbingai vadovavo ordinui. Jis pa­
+    gelbėjo užimant Akrą ir narsiai ją gynė.
+  citata_rodoma: "Bebaimis mūšio lauke, ištvermingas sto­\nvykloje, dešimtį metų garbingai vadovavo ordinui. Jis pa­\ngelbėjo užimant Akrą ir narsiai ją gynė."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 ## Ryšiai
 - Henrikas Valpotas buvo palaidotas [[objektai/vietos/Akonas]]

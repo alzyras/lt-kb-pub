@@ -147,6 +147,19 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
   pagrindžia:
     - c-124185
 
+<a id="claim-t-205134"></a>
+- t-006
+  teiginys: "Atrodo, kad šis posakis būdingas net ir to limesniems Baltijos jūros pakrantės gyventojams ir yra vartojamas, kuo įsitikinau lankydamasis Klaipėdoje, Ry goje, Pernu, Taline, Kronštate, Fredrikshamne ir Sveaborge 1806—1810 metais."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-187935
+
 ## Citatos
 
 - id: c-124185
@@ -275,3 +288,28 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
+
+- id: c-187935
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 466"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 466."
+  citata_originali: |
+    Panašų pasakymą aptinkame vokiškame dia­
+    lekte, vadinamame Platdeutsch, ir olandų kalboje. Jo
+    reikšmė artima karties arba baslio reikšmei: balta, be
+    žievės, kartis, ant jos galėjo būti kabinamas koks nors
+    ženklas; kuolas — ant viršutinės laivo stiebo rėjos mažai
+    vėliavėlei užkabinti, olandų — Witpel, rusų '— Wimpel
+    vadinamas. Atrodo, kad šis posakis būdingas net ir to­
+    limesniems Baltijos jūros pakrantės gyventojams ir yra
+    vartojamas, kuo įsitikinau lankydamasis Klaipėdoje, Ry­
+    goje, Pernu, Taline, Kronštate, Fredrikshamne ir Svea-
+    borge 1806—1810 metais.
+  citata_rodoma: "Atrodo, kad šis posakis būdingas net ir to­\nlimesniems Baltijos jūros pakrantės gyventojams ir yra \nvartojamas, kuo įsitikinau lankydamasis Klaipėdoje, Ry­\ngoje, Pernu, Taline, Kronštate, Fredrikshamne ir Svea- \nborge 1806—1810 metais."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006

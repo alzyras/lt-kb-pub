@@ -88,6 +88,32 @@ Juozapas Pomarnackis 1840 metų pradžioje pranešė T. Narbutui apie Obelių ka
   pagrindžia:
     - c-173780
 
+<a id="claim-t-205689"></a>
+- t-003
+  teiginys: "1840 m. Juozapas Pomarnackis Teodorui Narbutui atsiuntė K. Kozakovskio tirto Obelių kapinyno aprašymus ir ne vieną jame rastą radinį."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188304
+
+<a id="claim-t-205690"></a>
+- t-004
+  teiginys: "Juozapas Pomarnackis, Subačių seniūnas, gerai pažinojo vietovę, kurioje vyko kariniai veiksmai, nes gyveno Daugailių dvare, ir 1838 m. lapkričio 18 d. laiške Teodorui Narbutui išsakė pastabas apie vietos paminklus."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188305
+
 ## Citatos
 
 - id: c-173049
@@ -133,3 +159,46 @@ Juozapas Pomarnackis 1840 metų pradžioje pranešė T. Narbutui apie Obelių ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-188304
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 32"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 32."
+  citata_originali: |
+    Kaip visuomet visiškai priešingai reagavo paprasti skai-
+    tylojai— T. Narbutas gavo ne vieno gerbėjo laišką. Bene
+    įdomiausias buvo Juozapo Pomarnackio, Ukmergės apskri­
+    ties bajoro, rašinys. J. Pomarnackis, kurio vardas tikrai
+    vertas būti paminėtas vien todėl, kad vėliau, jau 1840 me­
+    lais, T. Narbutui jis atsiuntė K. Kozakovskio tirto Obe­
+    lių kapinyno aprašymus ir ne vieną tenykštį radinį39, su­
+    sirašinėti su T. Narbutu pradėjo kaip tik pasirodžius ket­
+    virtam LTI tomui.
+  citata_rodoma: "Bene \nįdomiausias buvo Juozapo Pomarnackio, Ukmergės apskri­\nties bajoro, rašinys. J. Pomarnackis, kurio vardas tikrai \nvertas būti paminėtas vien todėl, kad vėliau, jau 1840 me­\nlais, T. Narbutui jis atsiuntė K. Kozakovskio tirto Obe­\nlių kapinyno aprašymus ir ne vieną tenykštį radinį39, su­\nsirašinėti su T. Narbutu pradėjo kaip tik pasirodžius ket­\nvirtam LTI tomui"
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-188305
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 34"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 34."
+  citata_originali: |
+    Gerbiamas veteranas, a [mžiną] a [tilsį]
+    Juozapas Pomarnackis, Subačių seniūnas, gerai pažinojęs
+    tas apylinkes (nes gyveno vietoje, kur vyko minėti kari­
+    niai veiksmai, tai yra Daugailių dvare), man adresuota­
+    me laiške (rašytame 1838 metų lapk [ričio] 18 dieną Brat-
+    navoje) išsakė savo pastabas apie tenykščius paminklus
+    < ...> “43.
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

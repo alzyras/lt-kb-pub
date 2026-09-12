@@ -86,8 +86,21 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   pagrindžia:
     - c-83576
 
-<a id="claim-t-193900"></a>
+<a id="claim-t-193899"></a>
 - t-003
+  teiginys: "Ginvila vedė Tverės didžiojo kunigaikščio Boriso dukterį Mariją, dėl jos perėjo į rusų tikėjimą ir gavo Jurgio vardą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-176524
+
+<a id="claim-t-193900"></a>
+- t-004
   teiginys: "Kunigaikštis Borisas, Ginvilos sūnus ir Polocko įpėdinis, prie Berezinos upės įkūrė savo vardo miestą Borisovą."
   atnaujinta: "2026-07-12 22:45"
   sprendimo_priezastis: "auto"
@@ -100,7 +113,7 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
     - c-176525
 
 <a id="claim-t-204006"></a>
-- t-004
+- t-005
   teiginys: "1377 m. Podolės kunigaikštis Borisas perėjo tarnauti Vengrijos ir Lenkijos karaliui Liudvikui Anžu."
   atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
@@ -115,28 +128,45 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   pagrindžia:
     - c-186610
 
+<a id="claim-t-205272"></a>
+- t-006
+  teiginys: "Pasak Narbuto, Borisas pastatydino Šv. Sofijos soborą Polocke, Išganytojo cerkvę prie Polotos ir Šv. Boriso bei Šv. Glebo cerkvę su vienuolynu prie Belčicos."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187799
+
+<a id="claim-t-206269"></a>
+- t-007
+  teiginys: "Kunigaikštis Borisas, kaip nurodo Teodoras Narbutas, pasiuntinybei atvykus į Budą, karalienės Elžbietos priėmime pasakė kalbą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188884
+
+<a id="claim-t-206270"></a>
+- t-008
+  teiginys: "Teodoras Narbutas Borisą nurodo kaip pasiuntinybės vadovą ir svarbiausią tarpininką rengiant Jogailos santuoką su Jadvyga, taip pat mini, kad po 1365 m. emigracijos į Prūsiją Borisas dažnai lankėsi Karolio IV rūmuose."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188885
+
 ## Reikšmingi paminėjimai
-- c-003
-  santrauka: 'Ginvila vedė Tverės didžiojo kunigaikščio Boriso dukterį Mariją, dėl jos perėjo į rusų tikėjimą ir gavo Jurgio vardą.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ginvila vedė Tverės didžiojo kunigaikščio Boriso
-    dukterį, vardu M ariją9 , dėl kurios perėjo į rusų tikė­
-    jimą, jam buvo duotas Jurgio vardas, ir tasai Jurgis1 0 ,
-    trumpai tepavaldęs, pasimirė.
-    Savo įpėdiniu Polocke paliko savo sūnų Borisą",
-    ir šis kunigaikštis Borisas prie Berezinos upės įkūrė
-    savo vardo miestą ir pavadino jį Borisovu l2 . Būda­
-    mas rusų tikėjimo, buvo labai pamaldus ir pastatydino
-    Polocke mūrinę šventosios Sofijos cerkvę l3; antrą —
-    šventojo Išganytojo nekaltų mergelių vienuolyną 1 4  prie
-    Polotos upės, pusę mylios aukščiau pilies; trečią —
-    Boriso ir Glebo cerkvę Belčičių vienuolyne l6 .
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: not_found
 - c-004
   santrauka: 'Kunigaikštis Borisas, Ginvilos sūnus ir Polocko įpėdinis, prie Berezinos upės įkūrė savo vardo miestą Borisovą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -232,6 +262,31 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   pagrindzia:
     - t-002
 
+- id: c-176524
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Ginvila vedė Tverės didžiojo kunigaikščio Boriso
+    dukterį, vardu M ariją9 , dėl kurios perėjo į rusų tikė­
+    jimą, jam buvo duotas Jurgio vardas, ir tasai Jurgis1 0 ,
+    trumpai tepavaldęs, pasimirė.
+    Savo įpėdiniu Polocke paliko savo sūnų Borisą",
+    ir šis kunigaikštis Borisas prie Berezinos upės įkūrė
+    savo vardo miestą ir pavadino jį Borisovu l2 . Būda­
+    mas rusų tikėjimo, buvo labai pamaldus ir pastatydino
+    Polocke mūrinę šventosios Sofijos cerkvę l3; antrą —
+    šventojo Išganytojo nekaltų mergelių vienuolyną 1 4  prie
+    Polotos upės, pusę mylios aukščiau pilies; trečią —
+    Boriso ir Glebo cerkvę Belčičių vienuolyne l6 .
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-176525
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -260,7 +315,7 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-186610
   autorius: "Rimvydas Petrauskas"
@@ -278,7 +333,69 @@ Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas. 1430 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-005
+
+- id: c-187799
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 239"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 239."
+  citata_originali: |
+    Ta pati kronika
+    teigia jį buvus labai dievotą ir pastatydinusį šias cerk­
+    ves: Sv. Sofijos, arba Aukščiausiojo apvaizdos soboro,
+    Polocke bei Išganytojo cerkvę prie Polotos upės, ,per pusę
+    mylios nuo miesto, prie kurio buvo moterų vienuolynas;
+    trečioji, Sv. Boriso ir Sv. Glebo su vienuolynu buvo prie
+    Belčicos upės1.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
+- id: c-188884
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 323-324"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 323-324."
+  citata_originali: |
+    Skirgaila, perleidęs savo
+    1 Jadvygai tuo metu buvo penkiolika metų*.
+    325
+
+    valdžią, grįžo Lietuvon, o pastarasis su Hamilionu ir lenkais,
+    kuriems vadovavo Zavichosto kaštelionas Mikalojus iš Bogo-
+    rijos, nuvyko į Vengriją1. Šiai pasiuntinybei atvykus į Budą,
+    kunigaikštis Borisas karalienės Elžbietos priėmime sakė kal­
+    bą, kreipdamasis šiais žodžiais
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
+- id: c-188885
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 325"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 325."
+  citata_originali: |
+    Neginčijamas dalykas, kad minėtajai pasiuntiny­
+    bei vadovavo Borisas, tikras Jogailos brolis, kitaip sakant, Al­
+    girdo sūnus, gimęs santuokoje su Marija. Tas kunigaikštis po
+    savo emigracijos į Prūsiją 1365 metais dažnai lankydavosi Vo­
+    kietijoje, imperatoriaus Karolio IV rūmuose (§ 1261, 1264),
+    taigi nesunku susivokti, kad jis buvo svarbiausias įrankis ren­
+    giant brolio sutuoktuves su Jadvyga.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
 
 ## Ryšiai
 - Dukterys: [[objektai/asmenys/Sofija (Švitrigailos žmona)]]

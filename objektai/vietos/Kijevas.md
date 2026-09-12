@@ -34,18 +34,19 @@ tags:
 amziai:
   - 'XII'
   - 'XVI'
-media_total_count: '0'
-media_primary_thumb_url: ''
-media_primary_canonical_url: ''
-media_primary_directness: ''
-media_primary_relation_type: ''
-media_primary_json: ''
+media_total_count: '13'
+media_primary_thumb_url: 'https://www.epaveldas.lt/static/vub-bucket/VUB01-000495507/thumbnail-original/VUB01-000495507_00001.jpg'
+media_primary_canonical_url: 'https://www.epaveldas.lt/preview?id=VUB01-000495507'
+media_primary_directness: 'direct'
+media_primary_relation_type: 'map_of'
+media_primary_json: |-
+  {"mediaId":"m-df1a080fc4145f693d326a88","title":"„Poloniae finitimarumque locorum descriptio...\"","caption":"Istoriniame Abiejų Tautų Respublikos žemėlapyje pažymėtas Kijevas ir jo apylinkės.","originalTitle":"„Poloniae finitimarumque locorum descriptio...\"","creator":"Godreccio, Wenceslao, apie 1535-1591, ctg.","provider":"epaveldas","providerLabel":"Vilniaus universiteto biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"[18--],-orig. 1570.","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=VUB01-000495507","sourceUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000495507/original/VUB01-000495507_00001.jpg","thumbUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000495507/thumbnail-original/VUB01-000495507_00001.jpg","displayUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000495507/original/VUB01-000495507_00001.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"abieju-tautu-respublika","label":"Abiejų Tautų Respublika","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"lenkija","label":"lenkija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kijevas.md","title":"Kijevas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-08-10T11:51:24.669322+03:00","reviewedAt":"2026-08-10T12:17:49.231118+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis LDK ir aplinkinių kraštų žemėlapis, kuriame pažymėta Kijevo sritis ir miesto vietovardis.","metadataEvidence":"Aprašas identifikuoja Abiejų Tautų Respublikos žemėlapį ir rankraštinę J. Lelevelio kopiją; vaizdas apima Kijevo regioną.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo istorinį žemėlapį, kuriame pavaizduotas Kijevas.","isPrimary":1}
 media_direct_json: |-
-  []
+  [{"mediaId":"m-df1a080fc4145f693d326a88","title":"„Poloniae finitimarumque locorum descriptio...\"","caption":"Istoriniame Abiejų Tautų Respublikos žemėlapyje pažymėtas Kijevas ir jo apylinkės.","originalTitle":"„Poloniae finitimarumque locorum descriptio...\"","creator":"Godreccio, Wenceslao, apie 1535-1591, ctg.","provider":"epaveldas","providerLabel":"Vilniaus universiteto biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"[18--],-orig. 1570.","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=VUB01-000495507","sourceUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000495507/original/VUB01-000495507_00001.jpg","thumbUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000495507/thumbnail-original/VUB01-000495507_00001.jpg","displayUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000495507/original/VUB01-000495507_00001.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"abieju-tautu-respublika","label":"Abiejų Tautų Respublika","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"lenkija","label":"lenkija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kijevas.md","title":"Kijevas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-08-10T11:51:24.669322+03:00","reviewedAt":"2026-08-10T12:17:49.231118+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis LDK ir aplinkinių kraštų žemėlapis, kuriame pažymėta Kijevo sritis ir miesto vietovardis.","metadataEvidence":"Aprašas identifikuoja Abiejų Tautų Respublikos žemėlapį ir rankraštinę J. Lelevelio kopiją; vaizdas apima Kijevo regioną.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo istorinį žemėlapį, kuriame pavaizduotas Kijevas.","isPrimary":1},{"mediaId":"m-e91f9119d417626b8bd969d4","title":"Tarybų Lietuva Nr. 19","caption":"Kijevo panorama nuo Dniepro šlaitų: Dniepras, tiltas ir miesto apylinkės.","originalTitle":"Tarybų Lietuva Nr. 19","creator":"Pajėdienė Bytautė, Liubošicas Nota, Blyža Antanas, Gabalis Romas","provider":"epaveldas","providerLabel":"Lietuvos centrinis valstybės archyvas","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1960–1969","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LCVA-0695-35","sourceUrl":"https://www.epaveldas.lt/static/lcva-bucket/LCVA-0695-35/original/0695-35.png","thumbUrl":"https://www.epaveldas.lt/static/lcva-bucket/LCVA-0695-35/thumbnail-original/0695-35.png","displayUrl":"https://www.epaveldas.lt/static/lcva-bucket/LCVA-0695-35/original/0695-35.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"upė","label":"upė","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kijevas.md","title":"Kijevas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-08-10T11:51:24.712292+03:00","reviewedAt":"2026-08-10T12:17:49.253519+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma plati upė, tiltas ir Kijevui būdingas kraštovaizdis nuo kalvoto kranto; metaduomenyse aiškiai įvardyti Kijevo vaizdai ir kelionė Dniepru.","metadataEvidence":"Aprašas tiesiogiai nurodo „Kijevo vaizdus“, kelionę Dniepro upe ir išvykimą iš Kijevo.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo konkretų Kijevo miesto kraštovaizdį, o metaduomenys tai patvirtina.","isPrimary":0},{"mediaId":"m-5ba06b0fd0d95e9db20c7fac","title":"Žemėlapis „Possessions Polono – Lithuaniennes Depuis la 1re. union politique des deux nations en 1386 sous Wladislas Jagiellon et Hedwige. Expeditions militaries et voyages diplomatiques du Grand Duc de Lithuanie Alexandre Witold“","caption":"Žemėlapyje pavaizduotos Lietuvos Didžioji Kunigaikštystė, Vytauto žygiai ir Kijevas.","originalTitle":"Žemėlapis „Possessions Polono – Lithuaniennes Depuis la 1re. union politique des deux nations en 1386 sous Wladislas Jagiellon et Hedwige. Expeditions militaries et voyages diplomatiques du Grand Duc de Lithuanie Alexandre Witold“","creator":"Leonard Chodźko","provider":"epaveldas","providerLabel":"Trakų istorijos muziejus","license":"CC BY","rightsNote":"CC BY","licenseUrl":"","attribution":"","dateDisplay":"2022-10","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIMIS-518440173","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-518440173/original/657019674.jpg","thumbUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-518440173/thumbnail-original/657019674.jpg","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-518440173/original/657019674.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kijevas.md","title":"Kijevas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-08-10T11:51:24.681626+03:00","reviewedAt":"2026-08-10T12:17:49.248057+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Žemėlapyje matoma Lenkijos ir Lietuvos teritorija, o Ukrainos dalyje aiškiai įrašytas Kijevas („Kiow“).","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo Lietuvos Didžiąją Kunigaikštystę bei Vytauto žygius; vaizde pažymėtas Kijevas.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Kijevas aiškiai pavaizduotas ir įvardytas istoriniame žemėlapyje.","isPrimary":0}]
 media_contextual_json: |-
-  []
+  [{"mediaId":"m-f0f224a5dfa58ecf493f210c","title":"Kelionės iš Vilniaus į Kijevą išlaidų apskaičiavimas.","caption":"Kelionės iš Vilniaus į Kijevą išlaidų apskaičiavimas","originalTitle":"Kelionės iš Vilniaus į Kijevą išlaidų apskaičiavimas.","creator":"","provider":"epaveldas","providerLabel":"Vilniaus universiteto biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"[18??].","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=VUB01-000693042","sourceUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000693042/original/VUB01-000693042_00001.jpg","thumbUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000693042/thumbnail-original/VUB01-000693042_00001.jpg","displayUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000693042/original/VUB01-000693042_00001.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kijevas.md","title":"Kijevas","itemType":"vieta","relationType":"event_documentation_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T13:21:24.077401+03:00","reviewedAt":"2026-08-10T14:39:14.924928+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas rankraštinis kelionės išlaidų sąrašas.","metadataEvidence":"Pavadinime tiesiogiai nurodyta kelionė iš Vilniaus į Kijevą.","confidenceLevel":"high","relationType":"event_documentation_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškiai pagrįstas dokumentinis ryšys su Kijevu, nors pats miestas nevaizduojamas.","isPrimary":0},{"mediaId":"m-69ebe25a57c008f25a77d96e","title":"Laiškas Vilniaus Medicinos-chirurgijos akademijos rektoriui Mikalojui Mianovskiui.","caption":"1842 m. laiškas, dokumentuojantis į Kijevą atvežtas Vilniaus Medicinos-chirurgijos akademijos mokslo priemones.","originalTitle":"Laiškas Vilniaus Medicinos-chirurgijos akademijos rektoriui Mikalojui Mianovskiui.","creator":"Fonberg, Ignacy, 1801-1891, aut.","provider":"epaveldas","providerLabel":"Vilniaus universiteto biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1842 03 17.","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=VUB01-000695594","sourceUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000695594/original/VUB01-000695594_00001.jpg","thumbUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000695594/thumbnail-original/VUB01-000695594_00001.jpg","displayUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000695594/original/VUB01-000695594_00001.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"laiškas","label":"laiškas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kijevas.md","title":"Kijevas","itemType":"vieta","relationType":"manuscript_depiction_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:51:25.013146+03:00","reviewedAt":"2026-08-10T13:18:58.290463+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas autentiškas rankraštinis laiškas lenkų kalba.","metadataEvidence":"Pavadinime ir apraše aiškiai nurodyta, kad laiškas yra apie į Kijevą atvežtas priemones.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškus archyvinis dokumentas apie konkretų ryšį su Kijevu, tinkamas kaip kontekstinis šaltinis.","isPrimary":0},{"mediaId":"m-1ae13c5d57092f99dfde51f7","title":"Lietuvos TSR kino kronika","caption":"Karinio parado Kijeve dokumentacija Lietuvos TSR kino kronikoje.","originalTitle":"Lietuvos TSR kino kronika","creator":"Miščenka V, Pamprechtas P, Golubovas Georgijus, Berovas Moisiejus","provider":"epaveldas","providerLabel":"Lietuvos centrinis valstybės archyvas","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1940–1949","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LCVA-0993-35","sourceUrl":"https://www.epaveldas.lt/static/lcva-bucket/LCVA-0993-35/original/0993-35.png","thumbUrl":"https://www.epaveldas.lt/static/lcva-bucket/LCVA-0993-35/thumbnail-original/0993-35.png","displayUrl":"https://www.epaveldas.lt/static/lcva-bucket/LCVA-0993-35/original/0993-35.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"karinis-terminas","label":"karinis-terminas","facetKind":"tema","confidence":0.95},{"code":"kariuomenė","label":"kariuomenė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"sovietmetis","label":"sovietmetis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kijevas.md","title":"Kijevas","itemType":"vieta","relationType":"event_documentation_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:51:25.011647+03:00","reviewedAt":"2026-08-10T13:18:58.265587+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Kadroje matoma masinė demonstracija miesto gatvėje; pateiktame siužete identifikuotas karinis paradas Kijeve.","metadataEvidence":"Aprašas tiesiogiai nurodo „karinį paradą Kijeve“ ir identifikuoja kino kronikos siužetą.","confidenceLevel":"high","relationType":"event_documentation_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai identifikuotas Kijeve vykusio įvykio dokumentinis kontekstas, nors ne miesto panorama.","isPrimary":0},{"mediaId":"m-b4b8b0e613d470b3a4ae3a5f","title":"Aviamodelinis variklis „Ritm M“","caption":"Kijeve pagamintas aviamodelinis variklis „Ritm M“","originalTitle":"Aviamodelinis variklis „Ritm M“","creator":"Nežinomas","provider":"epaveldas","providerLabel":"Lietuvos aviacijos muziejus","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"XX a. 8 deš.","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIMIS-80000006250288","sourceUrl":"https://www.epaveldas.lt/static/lam-bucket/LIMIS-80000006250288/original/get.jpg","thumbUrl":"https://www.epaveldas.lt/static/lam-bucket/LIMIS-80000006250288/thumbnail-original/get.jpg","displayUrl":"https://www.epaveldas.lt/static/lam-bucket/LIMIS-80000006250288/original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"daiktas","label":"daiktas","facetKind":"tema","confidence":0.82},{"code":"muziejaus-eksponatas","label":"muziejaus-eksponatas","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kijevas.md","title":"Kijevas","itemType":"vieta","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T13:21:24.080203+03:00","reviewedAt":"2026-08-10T14:39:14.936821+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas metalinis aviamodelinis vidaus degimo variklis.","metadataEvidence":"Apraše nurodytas įspaudas „г. КИЕВ“ ir Kijevo gamybos kilmė.","confidenceLevel":"medium","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Objektas nėra Kijevo vaizdas, tačiau jo kilmė konkrečiai siejama su Kijevu.","isPrimary":0},{"mediaId":"m-5c0de91852d1cf81ca4a5537","title":"Dviejų mergaičių portretas","caption":"Dviejų mergaičių portretas, fotografuotas Kijeve","originalTitle":"Dviejų mergaičių portretas","creator":"Fr. de Mezer","provider":"epaveldas","providerLabel":"Žemaičių muziejus „Alka“","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"XIX a. II p.","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIMIS-1150463208","sourceUrl":"https://www.epaveldas.lt/static/zam-bucket/LIMIS-1150463208/original/get.jpg","thumbUrl":"https://www.epaveldas.lt/static/zam-bucket/LIMIS-1150463208/thumbnail-original/get.jpg","displayUrl":"https://www.epaveldas.lt/static/zam-bucket/LIMIS-1150463208/original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.82},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.82},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kijevas.md","title":"Kijevas","itemType":"vieta","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T13:21:24.078917+03:00","reviewedAt":"2026-08-10T14:39:14.936745+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas dviejų mergaičių XIX a. portretas.","metadataEvidence":"Apraše nurodyta fotografo Fr. de Mezer Kijevo firminė etiketė.","confidenceLevel":"medium","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne Kijevo vaizdas, bet aiškiai su Kijevu susijęs fotografijos kontekstas.","isPrimary":0},{"mediaId":"m-c6f3412aa57d9d172c92dbe1","title":"Tarybų Lietuva Nr. 17 (Skanaus-Smačnego)","caption":"Kinožurnalo „Skanaus–Smačnego“ titulinė kortelė apie lietuvių ir ukrainiečių virtuvę Vilniuje ir Kijeve.","originalTitle":"Tarybų Lietuva Nr. 17 (Skanaus-Smačnego)","creator":"Blyža Antanas, Skvarnavičius Gediminas, Maculevičius Liudgardas","provider":"epaveldas","providerLabel":"Lietuvos centrinis valstybės archyvas","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1960–1969","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LCVA-1468-35","sourceUrl":"https://www.epaveldas.lt/static/lcva-bucket/LCVA-1468-35/original/1468-35.png","thumbUrl":"https://www.epaveldas.lt/static/lcva-bucket/LCVA-1468-35/thumbnail-original/1468-35.png","displayUrl":"https://www.epaveldas.lt/static/lcva-bucket/LCVA-1468-35/original/1468-35.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.82},{"code":"kultūrinis-įvykis","label":"kultūrinis-įvykis","facetKind":"tema","confidence":0.82},{"code":"sovietmetis","label":"sovietmetis","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kijevas.md","title":"Kijevas","itemType":"vieta","relationType":"event_documentation_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:51:24.713379+03:00","reviewedAt":"2026-08-10T12:17:49.258535+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma kinožurnalo titulinė kortelė „SKANAUS SMAČNEGO“; pats Kijevo vaizdas nerodomas.","metadataEvidence":"Aprašas konkrečiai nurodo lietuvių virtuvės patiekalus Kijeve ir Dniepro pakrantės vietas.","confidenceLevel":"medium","relationType":"event_documentation_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne tiesioginis Kijevo atvaizdas, bet aiškiai su Kijevu susijusio dokumentinio siužeto titulinis dokumentas.","isPrimary":0},{"mediaId":"m-1d4e079029fe4ecc8adb584b","title":"[Laiškai (152) Vilniaus universiteto rektoriui Jonui Sniadeckiui].","caption":"Laiškų rinkinio, susijusio su Kijevo Edukacine komisija, viršelis.","originalTitle":"[Laiškai (152) Vilniaus universiteto rektoriui Jonui Sniadeckiui].","creator":"Czacki, Tadeusz, 1765-1813, aut.","provider":"epaveldas","providerLabel":"Vilniaus universiteto biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1807-1809.","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=VUB01-000612740","sourceUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000612740/original/VUB01-000612740_00001.jpg","thumbUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000612740/thumbnail-original/VUB01-000612740_00001.jpg","displayUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000612740/original/VUB01-000612740_00001.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.82},{"code":"laiškas","label":"laiškas","facetKind":"tema","confidence":0.82},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.82},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.82},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kijevas.md","title":"Kijevas","itemType":"vieta","relationType":"manuscript_depiction_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:51:24.537062+03:00","reviewedAt":"2026-08-10T11:52:47.079341+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinio laiškų rinkinio viršelis; Kijevo pavadinimo vaizde nematyti.","metadataEvidence":"Aprašas aiškiai nurodo Podolės ir Kijevo Edukacinės komisijos sekretoriaus Juozapo Kručkovskio prierašus.","confidenceLevel":"medium","relationType":"manuscript_depiction_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Priimtina kaip dokumentinis, kontekstinis ryšys su Kijevu.","isPrimary":0},{"mediaId":"m-dc4fc66068df3d6178ab0382","title":"[Mato Šalčiaus atvirlaiškis žmonai Bronislavai Šalčiuvienei, Kijevas, Ukraina, 1914 m. birželio 17 d.]","caption":"Mato Šalčiaus 1914 m. atvirlaiškis žmonai iš Kijevo.","originalTitle":"[Mato Šalčiaus atvirlaiškis žmonai Bronislavai Šalčiuvienei, Kijevas, Ukraina, 1914 m. birželio 17 d.]","creator":"Šalčius, Matas (1890-09-20 - 1940-05-26), Rožanskaitė-Šalčiuvienė, Bronislova (1891-01-26 - 1972-05-29)","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1914.VI.17","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=C10002483015","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/C10002483015/original/0001-552E2F8372CB1F94A1C236E8568E68ED.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/C10002483015/thumbnail-original/C10002483015.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/C10002483015/original/0001-552E2F8372CB1F94A1C236E8568E68ED.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.82},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.82},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.82},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kijevas.md","title":"Kijevas","itemType":"vieta","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:51:24.533113+03:00","reviewedAt":"2026-08-10T11:52:47.063940+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis iliustruotas atvirlaiškis; jo vaizdas pats savaime Kijevo neparodo.","metadataEvidence":"Pavadinime ir apraše aiškiai nurodyta Kijevas, Ukraina, 1914 m.","confidenceLevel":"medium","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Priimtina kaip dokumentinis, kontekstinis ryšys su Kijevu, bet ne kaip tiesioginis miesto vaizdas.","isPrimary":0},{"mediaId":"m-c3fa1cc8990bdb5584667bbd","title":"[Mato Šalčiaus atvirlaiškis žmonai Bronislavai Šalčiuvienei, Kijevas, Ukraina, 1914 m. birželio 22 d.]","caption":"Mato Šalčiaus 1914 m. atvirlaiškis žmonai iš Kijevo.","originalTitle":"[Mato Šalčiaus atvirlaiškis žmonai Bronislavai Šalčiuvienei, Kijevas, Ukraina, 1914 m. birželio 22 d.]","creator":"Šalčius, Matas (1890-09-20 - 1940-05-26), Rožanskaitė-Šalčiuvienė, Bronislova (1891-01-26 - 1972-05-29)","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1914.VI.22","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=C10002483018","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/C10002483018/original/0001-B6FB2DFB809118FFC7198919FFDA7B3A.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/C10002483018/thumbnail-original/C10002483018.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/C10002483018/original/0001-B6FB2DFB809118FFC7198919FFDA7B3A.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.82},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.82},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.82},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kijevas.md","title":"Kijevas","itemType":"vieta","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:51:24.531990+03:00","reviewedAt":"2026-08-10T11:52:47.057347+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis atvirlaiškis su kraštovaizdžio vaizdu; pats vaizdas Kijevo aiškiai neidentifikuoja.","metadataEvidence":"Pavadinime ir apraše aiškiai nurodyta Kijevas, Ukraina, 1914 m.","confidenceLevel":"medium","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Priimtina kaip dokumentinis, kontekstinis ryšys su Kijevu, bet ne kaip tiesioginis miesto vaizdas.","isPrimary":0},{"mediaId":"m-dfe8050325ae05d7bacc1398","title":"Владимиръ Степановичъ Иконниковъ... : [laiškas].","caption":"Rankraštis, susijęs su Kijevo Šv. Vladimiro universiteto profesoriumi Vladimiru Ikonnikovu","originalTitle":"Владимиръ Степановичъ Иконниковъ... : [laiškas].","creator":"Иконниковъ, Владимир, Kijevo Šv. Vladimiro universiteto profesorius. autorius.","provider":"epaveldas","providerLabel":"Vilniaus universiteto biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1906.","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=VUB01-000457297","sourceUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000457297/original/VUB01-000457297_00001.jpg","thumbUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000457297/thumbnail-original/VUB01-000457297_00001.jpg","displayUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000457297/original/VUB01-000457297_00001.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"institucija","label":"institucija","facetKind":"tema","confidence":0.82},{"code":"laiškas","label":"laiškas","facetKind":"tema","confidence":0.82},{"code":"mokslininkas","label":"mokslininkas","facetKind":"tema","confidence":0.82},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kijevas.md","title":"Kijevas","itemType":"vieta","relationType":"manuscript_depiction_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:51:24.519140+03:00","reviewedAt":"2026-08-10T11:52:47.040251+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas ranka rašytas laiškas su parašu ir antraštiniais įrašais.","metadataEvidence":"Kūrėjas identifikuotas kaip Kijevo Šv. Vladimiro universiteto profesorius; dokumentas datuotas 1906 m.","confidenceLevel":"medium","relationType":"manuscript_depiction_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne Kijevo vaizdas, bet aiškiai su Kijevu susijęs istorinis dokumentas per autoriaus institucinę tapatybę.","isPrimary":0}]
 media_all_json: |-
-  []
+  [{"mediaId":"m-df1a080fc4145f693d326a88","title":"„Poloniae finitimarumque locorum descriptio...\"","caption":"Istoriniame Abiejų Tautų Respublikos žemėlapyje pažymėtas Kijevas ir jo apylinkės.","originalTitle":"„Poloniae finitimarumque locorum descriptio...\"","creator":"Godreccio, Wenceslao, apie 1535-1591, ctg.","provider":"epaveldas","providerLabel":"Vilniaus universiteto biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"[18--],-orig. 1570.","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=VUB01-000495507","sourceUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000495507/original/VUB01-000495507_00001.jpg","thumbUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000495507/thumbnail-original/VUB01-000495507_00001.jpg","displayUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000495507/original/VUB01-000495507_00001.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"abieju-tautu-respublika","label":"Abiejų Tautų Respublika","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"lenkija","label":"lenkija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kijevas.md","title":"Kijevas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-08-10T11:51:24.669322+03:00","reviewedAt":"2026-08-10T12:17:49.231118+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis LDK ir aplinkinių kraštų žemėlapis, kuriame pažymėta Kijevo sritis ir miesto vietovardis.","metadataEvidence":"Aprašas identifikuoja Abiejų Tautų Respublikos žemėlapį ir rankraštinę J. Lelevelio kopiją; vaizdas apima Kijevo regioną.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo istorinį žemėlapį, kuriame pavaizduotas Kijevas.","isPrimary":1},{"mediaId":"m-e91f9119d417626b8bd969d4","title":"Tarybų Lietuva Nr. 19","caption":"Kijevo panorama nuo Dniepro šlaitų: Dniepras, tiltas ir miesto apylinkės.","originalTitle":"Tarybų Lietuva Nr. 19","creator":"Pajėdienė Bytautė, Liubošicas Nota, Blyža Antanas, Gabalis Romas","provider":"epaveldas","providerLabel":"Lietuvos centrinis valstybės archyvas","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1960–1969","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LCVA-0695-35","sourceUrl":"https://www.epaveldas.lt/static/lcva-bucket/LCVA-0695-35/original/0695-35.png","thumbUrl":"https://www.epaveldas.lt/static/lcva-bucket/LCVA-0695-35/thumbnail-original/0695-35.png","displayUrl":"https://www.epaveldas.lt/static/lcva-bucket/LCVA-0695-35/original/0695-35.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.95},{"code":"upė","label":"upė","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kijevas.md","title":"Kijevas","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-08-10T11:51:24.712292+03:00","reviewedAt":"2026-08-10T12:17:49.253519+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma plati upė, tiltas ir Kijevui būdingas kraštovaizdis nuo kalvoto kranto; metaduomenyse aiškiai įvardyti Kijevo vaizdai ir kelionė Dniepru.","metadataEvidence":"Aprašas tiesiogiai nurodo „Kijevo vaizdus“, kelionę Dniepro upe ir išvykimą iš Kijevo.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai rodo konkretų Kijevo miesto kraštovaizdį, o metaduomenys tai patvirtina.","isPrimary":0},{"mediaId":"m-5ba06b0fd0d95e9db20c7fac","title":"Žemėlapis „Possessions Polono – Lithuaniennes Depuis la 1re. union politique des deux nations en 1386 sous Wladislas Jagiellon et Hedwige. Expeditions militaries et voyages diplomatiques du Grand Duc de Lithuanie Alexandre Witold“","caption":"Žemėlapyje pavaizduotos Lietuvos Didžioji Kunigaikštystė, Vytauto žygiai ir Kijevas.","originalTitle":"Žemėlapis „Possessions Polono – Lithuaniennes Depuis la 1re. union politique des deux nations en 1386 sous Wladislas Jagiellon et Hedwige. Expeditions militaries et voyages diplomatiques du Grand Duc de Lithuanie Alexandre Witold“","creator":"Leonard Chodźko","provider":"epaveldas","providerLabel":"Trakų istorijos muziejus","license":"CC BY","rightsNote":"CC BY","licenseUrl":"","attribution":"","dateDisplay":"2022-10","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIMIS-518440173","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-518440173/original/657019674.jpg","thumbUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-518440173/thumbnail-original/657019674.jpg","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-518440173/original/657019674.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kijevas.md","title":"Kijevas","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-08-10T11:51:24.681626+03:00","reviewedAt":"2026-08-10T12:17:49.248057+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Žemėlapyje matoma Lenkijos ir Lietuvos teritorija, o Ukrainos dalyje aiškiai įrašytas Kijevas („Kiow“).","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo Lietuvos Didžiąją Kunigaikštystę bei Vytauto žygius; vaizde pažymėtas Kijevas.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Kijevas aiškiai pavaizduotas ir įvardytas istoriniame žemėlapyje.","isPrimary":0},{"mediaId":"m-f0f224a5dfa58ecf493f210c","title":"Kelionės iš Vilniaus į Kijevą išlaidų apskaičiavimas.","caption":"Kelionės iš Vilniaus į Kijevą išlaidų apskaičiavimas","originalTitle":"Kelionės iš Vilniaus į Kijevą išlaidų apskaičiavimas.","creator":"","provider":"epaveldas","providerLabel":"Vilniaus universiteto biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"[18??].","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=VUB01-000693042","sourceUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000693042/original/VUB01-000693042_00001.jpg","thumbUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000693042/thumbnail-original/VUB01-000693042_00001.jpg","displayUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000693042/original/VUB01-000693042_00001.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kijevas.md","title":"Kijevas","itemType":"vieta","relationType":"event_documentation_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T13:21:24.077401+03:00","reviewedAt":"2026-08-10T14:39:14.924928+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas rankraštinis kelionės išlaidų sąrašas.","metadataEvidence":"Pavadinime tiesiogiai nurodyta kelionė iš Vilniaus į Kijevą.","confidenceLevel":"high","relationType":"event_documentation_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškiai pagrįstas dokumentinis ryšys su Kijevu, nors pats miestas nevaizduojamas.","isPrimary":0},{"mediaId":"m-69ebe25a57c008f25a77d96e","title":"Laiškas Vilniaus Medicinos-chirurgijos akademijos rektoriui Mikalojui Mianovskiui.","caption":"1842 m. laiškas, dokumentuojantis į Kijevą atvežtas Vilniaus Medicinos-chirurgijos akademijos mokslo priemones.","originalTitle":"Laiškas Vilniaus Medicinos-chirurgijos akademijos rektoriui Mikalojui Mianovskiui.","creator":"Fonberg, Ignacy, 1801-1891, aut.","provider":"epaveldas","providerLabel":"Vilniaus universiteto biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1842 03 17.","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=VUB01-000695594","sourceUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000695594/original/VUB01-000695594_00001.jpg","thumbUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000695594/thumbnail-original/VUB01-000695594_00001.jpg","displayUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000695594/original/VUB01-000695594_00001.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"laiškas","label":"laiškas","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kijevas.md","title":"Kijevas","itemType":"vieta","relationType":"manuscript_depiction_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:51:25.013146+03:00","reviewedAt":"2026-08-10T13:18:58.290463+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas autentiškas rankraštinis laiškas lenkų kalba.","metadataEvidence":"Pavadinime ir apraše aiškiai nurodyta, kad laiškas yra apie į Kijevą atvežtas priemones.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškus archyvinis dokumentas apie konkretų ryšį su Kijevu, tinkamas kaip kontekstinis šaltinis.","isPrimary":0},{"mediaId":"m-1ae13c5d57092f99dfde51f7","title":"Lietuvos TSR kino kronika","caption":"Karinio parado Kijeve dokumentacija Lietuvos TSR kino kronikoje.","originalTitle":"Lietuvos TSR kino kronika","creator":"Miščenka V, Pamprechtas P, Golubovas Georgijus, Berovas Moisiejus","provider":"epaveldas","providerLabel":"Lietuvos centrinis valstybės archyvas","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1940–1949","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LCVA-0993-35","sourceUrl":"https://www.epaveldas.lt/static/lcva-bucket/LCVA-0993-35/original/0993-35.png","thumbUrl":"https://www.epaveldas.lt/static/lcva-bucket/LCVA-0993-35/thumbnail-original/0993-35.png","displayUrl":"https://www.epaveldas.lt/static/lcva-bucket/LCVA-0993-35/original/0993-35.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"karinis-terminas","label":"karinis-terminas","facetKind":"tema","confidence":0.95},{"code":"kariuomenė","label":"kariuomenė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"sovietmetis","label":"sovietmetis","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kijevas.md","title":"Kijevas","itemType":"vieta","relationType":"event_documentation_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:51:25.011647+03:00","reviewedAt":"2026-08-10T13:18:58.265587+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Kadroje matoma masinė demonstracija miesto gatvėje; pateiktame siužete identifikuotas karinis paradas Kijeve.","metadataEvidence":"Aprašas tiesiogiai nurodo „karinį paradą Kijeve“ ir identifikuoja kino kronikos siužetą.","confidenceLevel":"high","relationType":"event_documentation_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai identifikuotas Kijeve vykusio įvykio dokumentinis kontekstas, nors ne miesto panorama.","isPrimary":0},{"mediaId":"m-b4b8b0e613d470b3a4ae3a5f","title":"Aviamodelinis variklis „Ritm M“","caption":"Kijeve pagamintas aviamodelinis variklis „Ritm M“","originalTitle":"Aviamodelinis variklis „Ritm M“","creator":"Nežinomas","provider":"epaveldas","providerLabel":"Lietuvos aviacijos muziejus","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"XX a. 8 deš.","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIMIS-80000006250288","sourceUrl":"https://www.epaveldas.lt/static/lam-bucket/LIMIS-80000006250288/original/get.jpg","thumbUrl":"https://www.epaveldas.lt/static/lam-bucket/LIMIS-80000006250288/thumbnail-original/get.jpg","displayUrl":"https://www.epaveldas.lt/static/lam-bucket/LIMIS-80000006250288/original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"daiktas","label":"daiktas","facetKind":"tema","confidence":0.82},{"code":"muziejaus-eksponatas","label":"muziejaus-eksponatas","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kijevas.md","title":"Kijevas","itemType":"vieta","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T13:21:24.080203+03:00","reviewedAt":"2026-08-10T14:39:14.936821+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas metalinis aviamodelinis vidaus degimo variklis.","metadataEvidence":"Apraše nurodytas įspaudas „г. КИЕВ“ ir Kijevo gamybos kilmė.","confidenceLevel":"medium","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Objektas nėra Kijevo vaizdas, tačiau jo kilmė konkrečiai siejama su Kijevu.","isPrimary":0},{"mediaId":"m-5c0de91852d1cf81ca4a5537","title":"Dviejų mergaičių portretas","caption":"Dviejų mergaičių portretas, fotografuotas Kijeve","originalTitle":"Dviejų mergaičių portretas","creator":"Fr. de Mezer","provider":"epaveldas","providerLabel":"Žemaičių muziejus „Alka“","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"XIX a. II p.","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIMIS-1150463208","sourceUrl":"https://www.epaveldas.lt/static/zam-bucket/LIMIS-1150463208/original/get.jpg","thumbUrl":"https://www.epaveldas.lt/static/zam-bucket/LIMIS-1150463208/thumbnail-original/get.jpg","displayUrl":"https://www.epaveldas.lt/static/zam-bucket/LIMIS-1150463208/original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.82},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.82},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kijevas.md","title":"Kijevas","itemType":"vieta","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T13:21:24.078917+03:00","reviewedAt":"2026-08-10T14:39:14.936745+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas dviejų mergaičių XIX a. portretas.","metadataEvidence":"Apraše nurodyta fotografo Fr. de Mezer Kijevo firminė etiketė.","confidenceLevel":"medium","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne Kijevo vaizdas, bet aiškiai su Kijevu susijęs fotografijos kontekstas.","isPrimary":0},{"mediaId":"m-c6f3412aa57d9d172c92dbe1","title":"Tarybų Lietuva Nr. 17 (Skanaus-Smačnego)","caption":"Kinožurnalo „Skanaus–Smačnego“ titulinė kortelė apie lietuvių ir ukrainiečių virtuvę Vilniuje ir Kijeve.","originalTitle":"Tarybų Lietuva Nr. 17 (Skanaus-Smačnego)","creator":"Blyža Antanas, Skvarnavičius Gediminas, Maculevičius Liudgardas","provider":"epaveldas","providerLabel":"Lietuvos centrinis valstybės archyvas","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1960–1969","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LCVA-1468-35","sourceUrl":"https://www.epaveldas.lt/static/lcva-bucket/LCVA-1468-35/original/1468-35.png","thumbUrl":"https://www.epaveldas.lt/static/lcva-bucket/LCVA-1468-35/thumbnail-original/1468-35.png","displayUrl":"https://www.epaveldas.lt/static/lcva-bucket/LCVA-1468-35/original/1468-35.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.82},{"code":"kultūrinis-įvykis","label":"kultūrinis-įvykis","facetKind":"tema","confidence":0.82},{"code":"sovietmetis","label":"sovietmetis","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kijevas.md","title":"Kijevas","itemType":"vieta","relationType":"event_documentation_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:51:24.713379+03:00","reviewedAt":"2026-08-10T12:17:49.258535+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma kinožurnalo titulinė kortelė „SKANAUS SMAČNEGO“; pats Kijevo vaizdas nerodomas.","metadataEvidence":"Aprašas konkrečiai nurodo lietuvių virtuvės patiekalus Kijeve ir Dniepro pakrantės vietas.","confidenceLevel":"medium","relationType":"event_documentation_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne tiesioginis Kijevo atvaizdas, bet aiškiai su Kijevu susijusio dokumentinio siužeto titulinis dokumentas.","isPrimary":0},{"mediaId":"m-1d4e079029fe4ecc8adb584b","title":"[Laiškai (152) Vilniaus universiteto rektoriui Jonui Sniadeckiui].","caption":"Laiškų rinkinio, susijusio su Kijevo Edukacine komisija, viršelis.","originalTitle":"[Laiškai (152) Vilniaus universiteto rektoriui Jonui Sniadeckiui].","creator":"Czacki, Tadeusz, 1765-1813, aut.","provider":"epaveldas","providerLabel":"Vilniaus universiteto biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1807-1809.","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=VUB01-000612740","sourceUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000612740/original/VUB01-000612740_00001.jpg","thumbUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000612740/thumbnail-original/VUB01-000612740_00001.jpg","displayUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000612740/original/VUB01-000612740_00001.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.82},{"code":"laiškas","label":"laiškas","facetKind":"tema","confidence":0.82},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.82},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.82},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kijevas.md","title":"Kijevas","itemType":"vieta","relationType":"manuscript_depiction_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:51:24.537062+03:00","reviewedAt":"2026-08-10T11:52:47.079341+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinio laiškų rinkinio viršelis; Kijevo pavadinimo vaizde nematyti.","metadataEvidence":"Aprašas aiškiai nurodo Podolės ir Kijevo Edukacinės komisijos sekretoriaus Juozapo Kručkovskio prierašus.","confidenceLevel":"medium","relationType":"manuscript_depiction_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Priimtina kaip dokumentinis, kontekstinis ryšys su Kijevu.","isPrimary":0},{"mediaId":"m-dc4fc66068df3d6178ab0382","title":"[Mato Šalčiaus atvirlaiškis žmonai Bronislavai Šalčiuvienei, Kijevas, Ukraina, 1914 m. birželio 17 d.]","caption":"Mato Šalčiaus 1914 m. atvirlaiškis žmonai iš Kijevo.","originalTitle":"[Mato Šalčiaus atvirlaiškis žmonai Bronislavai Šalčiuvienei, Kijevas, Ukraina, 1914 m. birželio 17 d.]","creator":"Šalčius, Matas (1890-09-20 - 1940-05-26), Rožanskaitė-Šalčiuvienė, Bronislova (1891-01-26 - 1972-05-29)","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1914.VI.17","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=C10002483015","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/C10002483015/original/0001-552E2F8372CB1F94A1C236E8568E68ED.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/C10002483015/thumbnail-original/C10002483015.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/C10002483015/original/0001-552E2F8372CB1F94A1C236E8568E68ED.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.82},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.82},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.82},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kijevas.md","title":"Kijevas","itemType":"vieta","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:51:24.533113+03:00","reviewedAt":"2026-08-10T11:52:47.063940+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis iliustruotas atvirlaiškis; jo vaizdas pats savaime Kijevo neparodo.","metadataEvidence":"Pavadinime ir apraše aiškiai nurodyta Kijevas, Ukraina, 1914 m.","confidenceLevel":"medium","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Priimtina kaip dokumentinis, kontekstinis ryšys su Kijevu, bet ne kaip tiesioginis miesto vaizdas.","isPrimary":0},{"mediaId":"m-c3fa1cc8990bdb5584667bbd","title":"[Mato Šalčiaus atvirlaiškis žmonai Bronislavai Šalčiuvienei, Kijevas, Ukraina, 1914 m. birželio 22 d.]","caption":"Mato Šalčiaus 1914 m. atvirlaiškis žmonai iš Kijevo.","originalTitle":"[Mato Šalčiaus atvirlaiškis žmonai Bronislavai Šalčiuvienei, Kijevas, Ukraina, 1914 m. birželio 22 d.]","creator":"Šalčius, Matas (1890-09-20 - 1940-05-26), Rožanskaitė-Šalčiuvienė, Bronislova (1891-01-26 - 1972-05-29)","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1914.VI.22","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=C10002483018","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/C10002483018/original/0001-B6FB2DFB809118FFC7198919FFDA7B3A.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/C10002483018/thumbnail-original/C10002483018.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/C10002483018/original/0001-B6FB2DFB809118FFC7198919FFDA7B3A.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.82},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.82},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.82},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kijevas.md","title":"Kijevas","itemType":"vieta","relationType":"depicts","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:51:24.531990+03:00","reviewedAt":"2026-08-10T11:52:47.057347+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis atvirlaiškis su kraštovaizdžio vaizdu; pats vaizdas Kijevo aiškiai neidentifikuoja.","metadataEvidence":"Pavadinime ir apraše aiškiai nurodyta Kijevas, Ukraina, 1914 m.","confidenceLevel":"medium","relationType":"depicts","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Priimtina kaip dokumentinis, kontekstinis ryšys su Kijevu, bet ne kaip tiesioginis miesto vaizdas.","isPrimary":0},{"mediaId":"m-dfe8050325ae05d7bacc1398","title":"Владимиръ Степановичъ Иконниковъ... : [laiškas].","caption":"Rankraštis, susijęs su Kijevo Šv. Vladimiro universiteto profesoriumi Vladimiru Ikonnikovu","originalTitle":"Владимиръ Степановичъ Иконниковъ... : [laiškas].","creator":"Иконниковъ, Владимир, Kijevo Šv. Vladimiro universiteto profesorius. autorius.","provider":"epaveldas","providerLabel":"Vilniaus universiteto biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1906.","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=VUB01-000457297","sourceUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000457297/original/VUB01-000457297_00001.jpg","thumbUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000457297/thumbnail-original/VUB01-000457297_00001.jpg","displayUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000457297/original/VUB01-000457297_00001.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"institucija","label":"institucija","facetKind":"tema","confidence":0.82},{"code":"laiškas","label":"laiškas","facetKind":"tema","confidence":0.82},{"code":"mokslininkas","label":"mokslininkas","facetKind":"tema","confidence":0.82},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/vietos/Kijevas.md","title":"Kijevas","itemType":"vieta","relationType":"manuscript_depiction_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:51:24.519140+03:00","reviewedAt":"2026-08-10T11:52:47.040251+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas ranka rašytas laiškas su parašu ir antraštiniais įrašais.","metadataEvidence":"Kūrėjas identifikuotas kaip Kijevo Šv. Vladimiro universiteto profesorius; dokumentas datuotas 1906 m.","confidenceLevel":"medium","relationType":"manuscript_depiction_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne Kijevo vaizdas, bet aiškiai su Kijevu susijęs istorinis dokumentas per autoriaus institucinę tapatybę.","isPrimary":0}]
 entity_id: "ent-7d664ed0c82df9af7daeed4d"
 canonical_name: "Kijevas"
 entity_roles: ["place"]
@@ -1473,6 +1474,150 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   vertinimo_atnaujinta: "2026-07-30T23:44:51Z"
   pagrindžia:
     - c-186559
+
+<a id="claim-t-205290"></a>
+- t-087
+  teiginys: "Tų metų (1169) kovo 8 dieną Kijevas buvo užkariau tas kaimyninių kunigaikščių kariuomenės, savarankiška ir gimininga tauta ibuvo sunaikinta su kunigaikščių valdo mis visiškai, taip, kad nuo tada įstatymų leidybos autori tetas kitoms kunigaikštystėms visam."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-187952
+
+<a id="claim-t-205419"></a>
+- t-088
+  teiginys: "Chronologiniame priede nurodoma, kad Askoldas Kijeve pastatė pirmąją krikščionių Šv. pranašo Elijo šventyklą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-188122
+
+<a id="claim-t-205420"></a>
+- t-089
+  teiginys: "Brunonas, kaip piOpiežiaus legatas ir šiaurės tautų apaštalas, dviejų be nediktinų ordino vienuolių — Jono ir Benedikto lydimas, be to, dar su šešiolika kitų asmenų krikščionių, kurie sudarė jo svitą, nuvyko į Kijevą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "kelionės data: 1008 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Ištaisytas OCR triukšmas ir aiškiai įvardyti kelionės dalyviai bei data. Šaltinio titulai sąmoningai neperkelti, nes jie reikalautų atribucijos."
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-188147
+
+<a id="claim-t-205436"></a>
+- t-090
+  teiginys: "Sis valdovas atvyko į Kijevą ir kai pamatė, kokie dalykai dedasi .su žydais, 1113 metų sausio 7 dieną paskelbė įsa kymą, kad žydai visiems laikams paliktų žemes, priklau sančias Rusios valstybei."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-187838
+
+<a id="claim-t-205485"></a>
+- t-091
+  teiginys: "Narbutas nurodo, kad Boniako dalinys apsiautė Kijevą, padegė priemiesčius ir apiplėšė Pečioros vienuolyną."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-188046
+
+<a id="claim-t-205779"></a>
+- t-092
+  teiginys: "Kijeve didžiojo kunigaikščio vietininku buvo kunigaikštis Teodoras, išpažinęs krikščionių tikėjimą."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188394
+
+<a id="claim-t-205780"></a>
+- t-093
+  teiginys: "Kunigaikštis Teodoras su totoriais sulaikė Vosylių ir Naugardo bajorus, grįžtančius per Kijevo kunigaikštystę."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188395
+
+<a id="claim-t-206503"></a>
+- t-094
+  teiginys: "Kijevo kunigaikštis Vladimiras Teodoro Narbuto pasakojime nevykdė įsipareigojimų, priešinosi Skirgailai ir telkė triukšmadarių girtuoklių būrius, todėl Vytautas buvo priverstas iškelti jį į Žitomirą ir Ovručą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189118
+
+<a id="claim-t-206504"></a>
+- t-095
+  teiginys: "Vytautas Teodoro Narbuto pasakojime asmeniškai įvedė Rusios didįjį kunigaikštį į Kijevą, kur per iškilmes Skirgaila viešai įžeidė Vytautą, o vėliau tarp brolių kilo kivirčai."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189119
+
+<a id="claim-t-206505"></a>
+- t-096
+  teiginys: "Pasak Teodoro Narbuto, Skirgaila, susirgęs Miloslavičiuose, buvo atvežtas į Kijevą ir ten septintąją dieną mirė."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189120
+
+<a id="claim-t-206506"></a>
+- t-097
+  teiginys: "Teodoro Narbuto pasakojime Vytautas pripažino Kiprijoną visos Rusios ganytoju, turinčiu dvasininkijos valdžią Vytauto valstybėse, ir pakvietė Kiprijoną į Kijevą, kur šis per 18 mėnesių įvedė hierarchinį valdymą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189121
 
 ## Reikšmingi paminėjimai
 - c-026
@@ -4024,7 +4169,8 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
 - id: c-186093
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 248"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 248."
   citata_originali: |
     13 6906 m-=1398 m., o skaičiuojant metus nuo 1.1 — 1399 m.
     13 BK
@@ -4066,6 +4212,245 @@ Maskvos metropolitas Fotijas siekė Kijevo metropoliją prijungti prie Maskvos, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-086
+
+- id: c-187838
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 207"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 207."
+  citata_originali: |
+    Galop kijeviečiai, visiškai netekę kantrybės, sukėlė prieš
+    žydus ginkluotą maištą, per kurį keletą jų mirtinai nuga­
+    lavo. Si aplinkybė, be kitų, gal dar svarbesnių, privertė
+    Vladimirą palikti savo mėgstamą buveinę Perejaslavlyje.
+    Sis valdovas atvyko į Kijevą ir kai pamatė, kokie dalykai
+    dedasi .su žydais, 1113 metų sausio 7 dieną paskelbė įsa­
+    kymą, kad žydai visiems laikams paliktų žemes, priklau­
+    sančias Rusios valstybei.
+  citata_rodoma: "Sis valdovas atvyko į Kijevą ir kai pamatė, kokie dalykai \ndedasi .su žydais, 1113 metų sausio 7 dieną paskelbė įsa­\nkymą, kad žydai visiems laikams paliktų žemes, priklau­\nsančias Rusios valstybei."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-090
+
+- id: c-187952
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 435"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 435."
+  citata_originali: |
+    Valdant Jurgiui ir jo sūnui Andriui, Suzdalės kuni­
+    gaikščiams, turintiems didžiųjų kunigaikščių titulą ir au­
+    toritetą, arba įstatymų leidybą, visai Rusiai, tokiu pat
+    titulu, bet su menka įtaka pietinei Rusiai, Kijeve išsilaikė
+    (išliko) šie kunigaikščiai:
+    Izeslavas D'ovydovičius nuo 1157 iki 1159 metų
+    Rostislavas, arba Mykolas, antrąkart, 1167
+    Mstislavas Izeslavičius 1169
+    Tų metų (1169) kovo 8 dieną Kijevas buvo užkariau­
+    tas kaimyninių kunigaikščių kariuomenės, savarankiška ir
+    gimininga tauta ibuvo sunaikinta su kunigaikščių valdo­
+    mis visiškai, taip, kad nuo tada įstatymų leidybos autori­
+    tetas kitoms kunigaikštystėms visam laikui išslydo iš Ki­
+    jevo kunigaikščių rankų.
+    Riterių ordinų vyresnieji
+    Livonijos kalavijuočiai
+    Venas iš Rorbacho, išrinktas ir nužudytas
+  citata_rodoma: "Tų metų (1169) kovo 8 dieną Kijevas buvo užkariau­\ntas kaimyninių kunigaikščių kariuomenės, savarankiška ir \ngimininga tauta ibuvo sunaikinta su kunigaikščių valdo­\nmis visiškai, taip, kad nuo tada įstatymų leidybos autori­\ntetas kitoms kunigaikštystėms visam laikui išslydo iš Ki­\njevo kunigaikščių rankų."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-087
+
+- id: c-188046
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 205"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 205."
+  citata_originali: |
+    Para­
+    ginti kunigaikščio Vladimiro Monomacho, jie įsibrovė į
+    anų žemes, nešdami ten baisias negandas. Polovieeiai grie­
+    bėsi ginklo', puolė Rusią ir, aplink visa, įkas tik gyvas pa­
+    kliūdavo, iki paskutiniųjų naikindami, apgulė Perejeslav-
+    lį. Vladimiras su Sviatopotku iš tikro juos triuškinte triuš­
+    kino, ¡bet antrasis dalinys, vadovaujamas Boniako, ap­
+    siautė Kijevą, padegė priemiesčius, apiplėšė Pečioros vie­
+    nuolyną, išžudė vienuolius.
+  citata_rodoma: "Vladimiras su Sviatopotku iš tikro juos triuškinte triuš­\nkino, ¡bet antrasis dalinys, vadovaujamas Boniako, ap­\nsiautė Kijevą, padegė priemiesčius, apiplėšė Pečioros vie­\nnuolyną, išžudė vienuolius."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-091
+
+- id: c-188122
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 428"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 428."
+  citata_originali: |
+    Rusios monarchijos
+    pradžia.
+    Rusios variagas Askoldas, Kijevo valdo­
+    vas, Konstantinopolyje krikštijasi beveik
+    tuo pačiu laiku kaip ir Bulgarijos caras
+    Borisas.
+    Rusios variagas Askoldas pastato Kijeve
+    Sv. pranašo Elijo pirmąją krikščionių
+    šventyklą.
+  citata_rodoma: "Rusios variagas Askoldas pastato Kijeve \nSv. pranašo Elijo pirmąją krikščionių \nšventyklą."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-088
+
+- id: c-188147
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 148"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 148."
+  citata_originali: |
+    O karaliaus nugalėtojo globa atvėrė
+    tiesius kelius krikščionybės skleidėjams. Brunonas, kaip
+    piOpiežiaus legatas ir šiaurės tautų apaštalas, dviejų be­
+    nediktinų ordino vienuolių — Jono ir Benedikto lydimas,
+    be to, dar su šešiolika kitų asmenų krikščionių, kurie
+    sudarė jo svitą, nuvyko į Kijevą. Visa tai vyko 1008 m.
+  citata_rodoma: "Brunonas, kaip \npiOpiežiaus legatas ir šiaurės tautų apaštalas, dviejų be­\nnediktinų ordino vienuolių — Jono ir Benedikto lydimas, \nbe to, dar su šešiolika kitų asmenų krikščionių, kurie \nsudarė jo svitą, nuvyko į Kijevą. Visa tai vyko 1008 m."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-089
+
+- id: c-188394
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 460"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 460."
+  citata_originali: |
+    filį jam ir esančių jo vasalėmis, reikalus. Didžiojo kuni­
+    gaikščio vietininku Kijeve buvo kažkoks kunigaikštis Teo­
+    doras, išpažįstantis krikščionių tikėjimą. Be to, totorių
+    baskakai, arba duoklės Didžiosios ordos chanui rinkėjai,
+    turėjo tam tikros įtakos Kijevo kunigaikštystės valdžiai,
+    tikriausiai sričiai, esančiai kairiajame Dnepro krante.
+  citata_rodoma: "Didžiojo kuni­\ngaikščio vietininku Kijeve buvo kažkoks kunigaikštis Teo­\ndoras, išpažįstantis krikščionių tikėjimą. Be to, totorių \nbaskakai, arba duoklės Didžiosios ordos chanui rinkėjai, \nturėjo tam tikros įtakos Kijevo kunigaikštystės valdžiai, \ntikriausiai sričiai, esančiai kairiajame Dnepro krante."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-092
+
+- id: c-188395
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 461"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 461."
+  citata_originali: |
+    Tuo labiau darė nemalonų
+    įspūdį Gediminui, nes tasai Vosylius buvo naugardiečių
+    rekomenduojamas asmuo. Tačiau didysis kunigaikštis,
+    laikydamasis savo nuosaikios politikos, gerbdamas tikė­
+    jimą, viešpataujantį didžiojoje savo valstybės dalyje, iš­
+    kentė tą dvasininkų vadovo nepaklusnumą, bet Vosylių
+    ir Naugardo bajorus įsakė sulaikyti, kai jie grįš iš Vo-
+    luinės į Naugardą per Kijevo kunigaikštystę. Kunigaikš­
+    tis Teodoras su totoriais įvykdė tą įsakymą, tačiau paliko
+    juos Uždneprėje, saugojamus totorių baskakų.
+  citata_rodoma: "Tačiau didysis kunigaikštis, \nlaikydamasis savo nuosaikios politikos, gerbdamas tikė­\njimą, viešpataujantį didžiojoje savo valstybės dalyje, iš­\nkentė tą dvasininkų vadovo nepaklusnumą, bet Vosylių \nir Naugardo bajorus įsakė sulaikyti, kai jie grįš iš Vo- \nluinės į Naugardą per Kijevo kunigaikštystę. Kunigaikš­\ntis Teodoras su totoriais įvykdė tą įsakymą, tačiau paliko \njuos Uždneprėje, saugojamus totorių baskakų."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-093
+
+- id: c-189118
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 423"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 423."
+  citata_originali: |
+    Kijevo kunigaikštis
+    Vladimiras nenorėjo vykdyti neseniai Vilniaus giminės suva­
+    žiavime skirtų ir savo noru prisiimtų įsipareigojimų, priešino­
+    si Skirgailai ir pagaliau tiek pridarė savo valiūkystėmis,
+    besivaišindamas ir telkdamas būrius triukšmadarių girtuok­
+    lių, kad didysis kunigaikštis Vytautas buvo priverstas pats vyk­
+    ti į Kijevą, taikyti besivaidijančių brolių, pagaliau tiesiog
+    prievarta turėjo iškeldinti padūkusį lėbautoją į jam skirtas vie­
+    tas - Žitom irą ir Ovručą1.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-094
+
+- id: c-189119
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 423"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 423."
+  citata_originali: |
+    Vytautas asme­
+    niškai įvesdino Kijevan Rusios didįjį kunigaikštį; ten, vienų
+    iškilmių metu, Skirgaila tiek užsimiršo, kad ėmė Vytautą vie­
+    šai užgaulioti; nors pastarasis nusileido įgėrusiam broliui, bet­
+    gi nuo to laiko tarp jų prasidėjo nesutarimai, tad kilo kivirčų,
+    nenaudingų valstybės interesams.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-095
+
+- id: c-189120
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 456"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 456."
+  citata_originali: |
+    Po tų iškilmių, vos tik Skirgaila
+    atvyko į Miloslavičių, tuojau pat smarkiai susirgo, nusilpęs buvo
+    atvežtas į Kijevą, septintąją dieną jis mirė.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-096
+
+- id: c-189121
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 459"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 459."
+  citata_originali: |
+    Vytautas geranoriškai išklausė
+    jo samprotavimų, pripažino jį visuotiniu visos Rusios ganyto­
+    ju, turinčiu dvasininkijos valdžią visose jo valstybėse ir pakvietė
+    į metropolijos sostinę Kijevą, tad Kiprijonas, ištaikęs progą,
+    ten atvyko; per aštuoniolika mėnesių įvedė hierarchinį valdy­
+    mą.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-097
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Švitrigaila]]

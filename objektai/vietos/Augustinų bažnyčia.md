@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Augustinų bažnyčia"]
 sameAs: []
 canonical_biography: "Užpuolikai mušė žmones kapinėse prie bažnyčios, įsiveržė į vidų, šaudė ir smurtavo; teismo pareigūnas konstatavo kraujo dėmes bažnyčioje."
+place_authority: true
+historical_names: []
 ---
 # Augustinų bažnyčia
 

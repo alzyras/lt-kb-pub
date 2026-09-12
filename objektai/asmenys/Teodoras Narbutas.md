@@ -777,6 +777,35 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   pagrindžia:
     - c-179357
 
+<a id="claim-t-206400"></a>
+- t-043
+  teiginys: "Teodoras Narbutas pratarmėje nurodė, kad penktasis „Lietuvių tautos istorijos“ tomas buvo baigtas rašyti 1837 m. sausio 20 d."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1837 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Fragmentiška formuluotė pakeista aiškiu sakiniu, tiesiogiai susiejančiu Narbutą, pratarmę, tomą ir nurodytą datą."
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189015
+
+<a id="claim-t-206401"></a>
+- t-044
+  teiginys: "Teodoras Narbutas penktojo tomo pabaigoje nurodė, kad tomą rašė Šamuose 1837 m. sausio 20 d."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189016
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Nuo 1838 m. Teodoras Narbutas rūpinosi Bychovco kronikos spausdinimu, o 1844 m. lapkričio 23 d. išsiuntė rankraštį į Vilnių A. Renjerui.'
@@ -2030,3 +2059,39 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   patikimumo_saltinis: ai
   pagrindzia:
     - t-042
+
+- id: c-189015
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 4"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 4."
+  citata_originali: |
+    Penktasis „Lietuvių tautos istorijos“ (toliau - LTI) tomas
+    buvo baigtas rašyti 1837 m etų sausio 20 dieną. Bent jau tokią
+    datą Teodoras Narbutas nurodė pratarmėje.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-043
+
+- id: c-189016
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 61"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 61."
+  citata_originali: |
+    Šis tomas baigiamas paskutiniaisiais XIV amžiaus metais,
+    būtent nuo to laikotarpio Lietuvoje politiniai įvykiai pasuka
+    kita linkme; apie tai kitas, o iš eilės šeštasis, tomas maloniojo
+    skaitytojo dėmesiui.
+    Teodoras Narbutas
+    Rašiau Šamuose
+    1837 metų sausio 20 dieną
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-044

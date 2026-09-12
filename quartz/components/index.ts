@@ -13,6 +13,8 @@ import HomeCollection from "./HomeCollection"
 import LIHeader from "./LIHeader"
 import GoogleTranslate from "./GoogleTranslate"
 import ObjectMapCTA from "./ObjectMapCTA"
+import ObjectDetailPage from "./ObjectDetailPage"
+import ObjectEvidencePage from "./ObjectEvidencePage"
 import ObjectMediaGallery from "./ObjectMediaGallery"
 import ExhibitionPage from "./ExhibitionPage"
 import Head from "./Head"
@@ -50,6 +52,8 @@ export {
   LIHeader,
   GoogleTranslate,
   ObjectMapCTA,
+  ObjectDetailPage,
+  ObjectEvidencePage,
   ObjectMediaGallery,
   ExhibitionPage,
   Head,

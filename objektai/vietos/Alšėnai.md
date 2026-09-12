@@ -67,6 +67,19 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
   pagrindžia:
     - c-170513
 
+<a id="claim-t-205743"></a>
+- t-002
+  teiginys: "Prie Neries upės priešais Rokantiškes įkurta rezidencinė pilis buvo pavadinta Alšėnais pagal jos įkūrėjo vardą."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188358
+
 ## Citatos
 
 - id: c-82037
@@ -112,6 +125,28 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188358
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 535"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 535."
+  citata_originali: |
+    Mums atrodo, kad Traidenis buvo trečias (kaip
+    matome genealoginėje lentelėje), Alšys — ketvirtas, o
+    Giedrius — penktas.
+    Alšio valdoms priklausė žemė, esanti kylant į viršų
+    nuo Vilnios ¡tekėjimo į Nerį vietos. Ten jis, išrinkęs pa­
+    togią vietą prie Neries upės, per mylią nutolusią nuo
+    pirmosios, priešais Rokantiškes, įkūrė savo rezidencinę pi­
+    lį, kurią pavadino Alšėnais pagal savo vardą.
+  citata_rodoma: "Ten jis, išrinkęs pa­\ntogią vietą prie Neries upės, per mylią nutolusią nuo \npirmosios, priešais Rokantiškes, įkūrė savo rezidencinę pi­\nlį, kurią pavadino Alšėnais pagal savo vardą."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]

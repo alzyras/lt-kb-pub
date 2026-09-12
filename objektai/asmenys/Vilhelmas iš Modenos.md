@@ -111,6 +111,19 @@ Dusburgietis teigia, kad poliakuvna dar labiau praplėtė dokumentų skaičių; 
   pagrindžia:
     - c-60708
 
+<a id="claim-t-205478"></a>
+- t-005
+  teiginys: "Kuršo pa siuntinių apsilankymas Romoje ir atsidavimas Šventojo sosto globai padarė tenykštei dvasininkijai tokį įspūdį, kad garbusis Modenos vyskupas Vilhelmas, pats tiesio giai pažinęs tuos šiaurės kraštus, savo vyskupystę atida vė į popiežiaus rankas ir."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187971
+
 ## Citatos
 
 - id: c-60708
@@ -181,3 +194,24 @@ Dusburgietis teigia, kad poliakuvna dar labiau praplėtė dokumentų skaičių; 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-187971
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 365"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 365."
+  citata_originali: |
+    1237 m. Kuršo paskirstymas j vyskupystes. Kuršo pa­
+    siuntinių apsilankymas Romoje ir atsidavimas Šventojo
+    sosto globai padarė tenykštei dvasininkijai tokį įspūdį,
+    kad garbusis Modenos vyskupas Vilhelmas, pats tiesio­
+    giai pažinęs tuos šiaurės kraštus, savo vyskupystę atida­
+    vė į popiežiaus rankas ir pasiryžo teikti dvasininko pa­
+    slaugas ką tik apkrikštytajai padermei.
+  citata_rodoma: "Kuršo pa­\nsiuntinių apsilankymas Romoje ir atsidavimas Šventojo \nsosto globai padarė tenykštei dvasininkijai tokį įspūdį, \nkad garbusis Modenos vyskupas Vilhelmas, pats tiesio­\ngiai pažinęs tuos šiaurės kraštus, savo vyskupystę atida­\nvė į popiežiaus rankas ir pasiryžo teikti dvasininko pa­\nslaugas ką tik apkrikštytajai padermei."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005

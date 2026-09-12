@@ -91,6 +91,48 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
   pagrindžia:
     - c-60675
 
+<a id="claim-t-205694"></a>
+- t-004
+  teiginys: "Teodoras Narbutas aprašo, kad prieš pat 1303 m. pavasarį Prūsijos magistras Konradas Žakas sutelkė karines pajėgas pulti Karšuvos pavietą."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1303 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslintas laikas ir taisyklingai suformuluotas puolimo objektas. Šaltinio vertinamasis priešo motyvas sąmoningai neperteiktas."
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188309
+
+<a id="claim-t-205695"></a>
+- t-005
+  teiginys: "Teodoro Narbuto pasakojimu, Konradas Žakas, sužinojęs, kad Gardine nėra karių, pasiuntė Albertą iš Hageno su būriu brolių ir 400 Natangijos raitelių užimti Gardino pilies."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188310
+
+<a id="claim-t-205696"></a>
+- t-006
+  teiginys: "Teodoras Narbutas nurodo, kad vasaros pradžioje magistravęs Konradas dėl silpnos sveikatos, regis, liepą pasitraukė iš pareigų."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188311
+
 ## Citatos
 
 - id: c-60675
@@ -158,3 +200,64 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188309
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 331"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 331."
+  citata_originali: |
+    1303 m. Svarbesni puolimai. Prieš pat 1303 metų pa­
+    vasarį Prūsijos magistras Konradas sutelkė nemažas ka­
+    rines pajėgas pulti Karšuvos pavietui, vienam iš tų, kurį
+    užvaldyti kryžiuočiams labiausiai magėjo.
+  citata_rodoma: "Prieš pat 1303 metų pa­\nvasarį Prūsijos magistras Konradas sutelkė nemažas ka­\nrines pajėgas pulti Karšuvos pavietui, vienam iš tų, kurį \nužvaldyti kryžiuočiams labiausiai magėjo."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-188310
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 338"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 338."
+  citata_originali: |
+    Rengtis tam žygiui buvo pra­
+    dėta Gardine. Kryžiuočių sekliai pranešė Prūsijai viską,
+    dar ir nuo savęs pridėdami. Prūsijos magistras Konradas
+    Žakas, iš tų žinių supratęs, kad Gardine suvis nėra ka­
+    reivių, paskubėjo išsiųsti patyrusį kariūną Albertą iš Ha-
+    geno, lydimą nemažo būrio brolių ir keturių šimtų rink­
+    tinių raitelių iš Natangijos, užimti minėtosios pilies.
+  citata_rodoma: "Prūsijos magistras Konradas \nŽakas, iš tų žinių supratęs, kad Gardine suvis nėra ka­\nreivių, paskubėjo išsiųsti patyrusį kariūną Albertą iš Ha- \ngeno, lydimą nemažo būrio brolių ir keturių šimtų rink­\ntinių raitelių iš Natangijos, užimti minėtosios pilies."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
+- id: c-188311
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 339"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 339."
+  citata_originali: |
+    Buvo sužeista
+    dvylika riterių, o kitokių karių — trisdešimt. Abiejų pusių
+    užmuštųjų skaičiaus Dusburgiečio ordino kronika nenu­
+    rodo tyčiomis, matyt, todėl, kad kryžiuočiai tikriausiai
+    patyrė nemažai nuostolių1 2. Be jokios abejonės, tatai vyko
+    vasaros pradžioje, magistraujant Konradui, kuris dėl silp­
+    nos sveikatos (regis, liepos mėnesį) pasitraukė iš pa­
+    reigų**.
+  citata_rodoma: "Be jokios abejonės, tatai vyko \nvasaros pradžioje, magistraujant Konradui, kuris dėl silp­\nnos sveikatos (regis, liepos mėnesį) pasitraukė iš pa­\nreigų"
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006

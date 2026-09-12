@@ -63,6 +63,58 @@ Taip 1396 m. Vytautas su magistru susivažiavo Dubysos saloj.
   pagrindžia:
     - c-35402
 
+<a id="claim-t-206467"></a>
+- t-002
+  teiginys: "Jogaila su broliais ir aukštaisiais valstybės pareigūnais buvo Dubysos saloje, o gausus riterių būrys įsikūrė stovykloje gretimame krante."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189082
+
+<a id="claim-t-206468"></a>
+- t-003
+  teiginys: "Pasak Teodoro Narbuto, rugpjūčio 15 d. Dubysos saloje vykusiame suvažiavime lietuviams atstovavo didieji kunigaikščiai Vytautas ir Skirgaila, o Ordinui – maršalka Verneris Tetingenas su vyresniaisiais."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189083
+
+<a id="claim-t-206469"></a>
+- t-004
+  teiginys: "Dubysos saloje buvo numatyta surengti suvažiavimą taikos reikalams išsamiau aptarti."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189084
+
+<a id="claim-t-206470"></a>
+- t-005
+  teiginys: "Pasak Teodoro Narbuto, kryžiuočių įgaliotiniai atvyko į Dubysos salą ir susitiko su keturiais lietuvių patarėjais, tačiau derybos žlugo, nes karaliaus bei didžiojo kunigaikščio Vytauto įgaliojimai paskelbti nepakankamais."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189085
+
 ## Citatos
 
 - id: c-35402
@@ -85,3 +137,76 @@ Taip 1396 m. Vytautas su magistru susivažiavo Dubysos saloj.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-189082
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 294"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 294."
+  citata_originali: |
+    Jogaila su broliais ir aukštaisiais valstybės pareigū­
+    nais jau buvo Dubysos saloje, gausus riterių būrys įsikūrė sto­
+    vykloje gretim am e krante.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-189083
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 431"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 431."
+  citata_originali: |
+    Susitarta svarstyti šiuos reikalus. Rugpjūčio 15 die­
+    ną Dubysos saloje įvyko suvažiavimas; lietuviams atstovavo
+    abu didieji kunigaikščiai: Lietuvos ir Žemaitijos - Vytautas,
+    Rusios - Skirgaila1 2; ordinui - maršalka Verneris Tetingenas,
+    lydimas kai kurių vyresniųjų.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-189084
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 468"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 468."
+  citata_originali: |
+    Taip įvykiams klostantis, kai didy­
+    sis kunigaikštis rūpinosi sutvarkyti tiek Vitebsko kunigaikš­
+    tystės, tiek kitų rytinių valstybės valdų administravimą, buvo
+    gautas didžiojo magistro kvietimas į suvažiavimą, turintį įvyk­
+    ti liepos pabaigoje Dubysos saloje, kurio tikslas buvo smul­
+    kiau aptarti taikos reikalus.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-189085
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 471"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 471."
+  citata_originali: |
+    Atėjo suvažiavimo diena, šv. Arkangelo Mykolo, kry­
+    žiuočiai įgaliotiniai atvyko į Dubysos salą, kur susitiko su ke­
+    turiais lietuvių patarėjais, įgaliotais ir turinčiais Lenkijos
+    karaliaus bei didžiojo kunigaikščio Vytauto instrukcijas. Bet­
+    gi kryžiuočiai, radę visai nereikšmingų dingsčių, o būtent, kad
+    įgaliojimai, karaliaus valia išduoti, esą nepakankami, sužlug­
+    dė visą derybų eigą1 2.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005

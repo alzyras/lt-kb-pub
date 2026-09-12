@@ -68,6 +68,32 @@ historical_names: []
   pagrindžia:
     - c-175629
 
+<a id="claim-t-206605"></a>
+- t-002
+  teiginys: "Voluinės Vladimirą apgulė kunigaikštis Liubartas, pasikvietęs brolį Kęstutį ir prie jo kariaunos prijungęs savo pajėgas."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189220
+
+<a id="claim-t-206606"></a>
+- t-003
+  teiginys: "Liubartas, netikėtai užėmęs Voluinės Vladimirą, įkurdino mieste stiprią kariauną ir pastatydino medinę pilį."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189221
+
 ## Citatos
 
 - id: c-175629
@@ -94,3 +120,49 @@ historical_names: []
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-189220
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 201"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 201."
+  citata_originali: |
+    Kunigaikštis Liubartas, naudodamasis proga, mat būtent
+    tuo metu minėtojo karaliaus vasalas Aleksandras Karijotaitis,
+    kuris turėjo Voluinės Vladimirą, atimtą iš Liubarto, lankėsi
+    Krokuvoje, pasikvietė Kęstutį, savo brolį, prie kurio kariau­
+    nos prijungęs savo pajėgas, apgulė Voluinės Vladimirą. Tą pi­
+    lį gynė kunigaikščio Konstantino vietininkas Petras Turskis iš
+    Lenčicos, su tokia drąsa, kad nebuvo vilties lengvai ją užimti.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-189221
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 201-202"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 201-202."
+  citata_originali: |
+    Liubartas, netikėtai užėmęs šią valdą,
+    įkurdino mieste stiprią kariauną, pastatydino medinę pilį. Toks
+    jo poelgis buvo gana keistas, nes prieš dvejus metus karaliaus
+    1 Susituokė 1371 metų rugsėjį (Karamzin. - T. V - S. 19).
+    2 Danilavičiaus „Metraštininkas“ (p. 181); Karamzin. - T. V. - S. 17-19.
+    Negalima sutikti su Rusijos istoriku, kad esą Kęstutis dalyvavo tame žygyje.
+    Jis buvo užsiėmęs kryžiuočių stebėjimais, ir būtent tada, kai buvo žygiuoja­
+    ma į Maskvą, rėmė Voluinės Liubartą, kaip kad matysime vėliau.
+    203
+
+    Kazimiero įsakymu buvo pradėta ir beveik baigta statyti mū­
+    rinė pilis. Liubartas įsakė ją iki pamatų sugriauti ir vietoj jos
+    statyti medinę pilį1
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

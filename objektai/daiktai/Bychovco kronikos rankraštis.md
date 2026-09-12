@@ -82,8 +82,29 @@ Nenurodyta
   pagrindžia:
     - c-169990
 
-<a id="claim-t-186810"></a>
+<a id="claim-t-186809"></a>
 - t-002
+  teiginys: "Bychovco kronikos rankraščio spraga leidime buvo užpildyta tekstu iš Lietuvos metraščių PS antrosios redakcijos Račinskių nuorašo."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bychovco kronikos rankraštis: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=69"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bychovco kronikos rankraštis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: 1766 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinti pasikartojantys komentaro minėjimai ir paliktas aiškus faktas."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  pagrindžia:
+    - c-169994
+
+<a id="claim-t-186810"></a>
+- t-003
   teiginys: "Bychovco kronikos rankraštis buvo pirmykščio kirilica rašyto teksto transkripcija lotyniškais lenkiškais rašmenimis."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -101,7 +122,7 @@ Nenurodyta
     - c-169993
 
 <a id="claim-t-186811"></a>
-- t-003
+- t-004
   teiginys: "Aleksandras Bychovcas perdavė Bychovco kronikos rankraštį Vincentui Janovskiui, kuris 1834.II.4 persiuntė jį Teodorui Narbutui į Saurus."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
@@ -173,26 +194,6 @@ Nenurodyta
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   statusas: verified
-- c-005
-  santrauka: 'Bychovco kronikos rankraščio spraga leidime buvo užpildyta tekstu iš Lietuvos metraščių PS antrosios redakcijos Račinskių nuorašo.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    1 1  Po šio žodžio BK rankraštyje buvo spraga, kurią T. Narbutas
-    pažymėjo daugtaškiu. M. Strijkovskis savo kronikoje (1766 m. lei­
-    dimas, p. 2391 tęsia pasakojimą tokiu sakiniu: „Tuo pat metu mirė
-    Kukovaitis, 2ivinbudo iš Kentauro herbo giminės sūnus. Užnerto
-    Lietuvos valdovas". Lietuvos metraščių PS toje pačioje vietoje apie
-    Kukovaičio mirt) nekalbama, o  vietoj spragos, buvusios BK rank­
-    raštyje, yra pasakojimas apie Kukovaičio motinos Pajautos mirti-
-    Užpildydami spragą, dedame tos vietos vertim ą iš PS antrosios re­
-    dakcijos Račinskių nuorašo (PSRL, t. 17, p. 302—304), kadangi ligi
-    spragos BK tekstas beveik pažodžiui sutampa su PS antrosios re­
-    dakcijos nuorašų tekstais.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  statusas: verified
 ## Citatos
 
 - id: c-169990
@@ -256,7 +257,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-169993
   autorius: "Anoniminis metraštininkas"
@@ -276,6 +277,31 @@ Nenurodyta
   citata_rodoma: "lapas tuščias ir jo antrojoje pusėje, t. y. paskutiniame \nrankraščio puslapyje, XVII a. rašysena buvę lenkiškai \nužrašyta: „Kronika Litewska z ruskiego języka na pols- \nki przettumaczona\", nors iš tikrųjų rankraštis buvo ne \nvertimas iš vakarų rusų į lenkų kalbų, o tik pirmykš­\nčio, kirilica rašyto teksto transkripcija lotyniškai len­\nkiškais rašmenimis. Rankraščio pradžioje (1 . 1 —8) teks­\nto paraštėse būta tos pačios rašysenos trumpų pastabų \napie turinį lenkų kalba"
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-169994
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    1 1  Po šio žodžio BK rankraštyje buvo spraga, kurią T. Narbutas
+    pažymėjo daugtaškiu. M. Strijkovskis savo kronikoje (1766 m. lei­
+    dimas, p. 2391 tęsia pasakojimą tokiu sakiniu: „Tuo pat metu mirė
+    Kukovaitis, 2ivinbudo iš Kentauro herbo giminės sūnus. Užnerto
+    Lietuvos valdovas". Lietuvos metraščių PS toje pačioje vietoje apie
+    Kukovaičio mirt) nekalbama, o  vietoj spragos, buvusios BK rank­
+    raštyje, yra pasakojimas apie Kukovaičio motinos Pajautos mirti-
+    Užpildydami spragą, dedame tos vietos vertim ą iš PS antrosios re­
+    dakcijos Račinskių nuorašo (PSRL, t. 17, p. 302—304), kadangi ligi
+    spragos BK tekstas beveik pažodžiui sutampa su PS antrosios re­
+    dakcijos nuorašų tekstais.
+  citata_rodoma: "Po šio žodžio BK rankraštyje buvo spraga, kurią T. Narbutas \npažymėjo daugtaškiu. M. Strijkovskis savo kronikoje (1766 m. lei­\ndimas, p. 2391 tęsia pasakojimą tokiu sakiniu: „Tuo pat metu mirė \nKukovaitis, 2ivinbudo iš Kentauro herbo giminės sūnus. Užnerto \nLietuvos valdovas\". Lietuvos metraščių PS toje pačioje vietoje apie \nKukovaičio mirt) nekalbama, o  vietoj spragos, buvusios BK rank­\nraštyje, yra pasakojimas apie Kukovaičio motinos Pajautos mirti- \nUžpildydami spragą, dedame tos vietos vertim ą iš PS antrosios re­\ndakcijos Račinskių nuorašo (PSRL, t. 17, p. 302—304), kadangi ligi \nspragos BK tekstas beveik pažodžiui sutampa su PS antrosios re­\ndakcijos nuorašų tekstais."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

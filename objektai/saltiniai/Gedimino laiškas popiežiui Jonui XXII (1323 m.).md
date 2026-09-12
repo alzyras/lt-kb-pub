@@ -107,6 +107,32 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
   pagrindžia:
     - c-84111
 
+<a id="claim-t-205640"></a>
+- t-006
+  teiginys: "Gediminas laiške popiežiui Jonui XXII pripažino priklausymo Apaštališkajai Sostinei teisėtumą, prisiminė Mindaugo krikštą ir savo bei Lietuvos valstybės netikėjimą siejo su Vokiečių ordino išdavystėmis bei patirtomis nuoskaudomis."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188255
+
+<a id="claim-t-205641"></a>
+- t-007
+  teiginys: "Gediminas laiške popiežiui Jonui XXII teigė, kad Mindaugas su visa savo karalyste buvo atsivertęs į Kristaus tikėjimą, tačiau dėl Vokiečių ordino brolių ir magistro žiaurių nuoskaudų bei išdavysčių valstybė nuo jo atpuolė."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188256
+
 ## Citatos
 
 - id: c-84110
@@ -261,3 +287,57 @@ Apie Lietuvos valdovo Gedimino laiškų, rašytų popiežiui Jonui XXII, dominik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+- id: c-188255
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 408"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 408."
+  citata_originali: |
+    Šventasis Tėvas, sužavėtas tuo, jog turės
+    tokią didžiulę dvasinę kaimenę, privalėjo visomis galio­
+    mis to imtis. Tuomet kryžiuočių grupuotė sustabdė tuos
+    gražius renginius, kaip tai rodo tolesni įvykiai*.
+    1130* *
+    Paskui Gediminas rašė popiežiui Jonui XXII laišką***,
+    kuriame pabrėžė, kad pripažindamas teisingumą priklau­
+    syti Apaštališkajai sostinei, kokį turi kitos galingos Eu­
+    ropos valstybės, prisimena savo pirmtako Mindaugo at­
+    sivertimą į krikščionybę su visa Lietuvos valstybe, ta­
+    čiau dėl klastingumo, begalės išdavysčių ir daugiakarčių
+    nuoskaudų, vokiečių ordino atseikėtų, toji valstybė dėl
+    savo atokumo ir jis pats iki šiol pasilieka netikėjimo
+    klystkeliuose.
+  citata_rodoma: "Paskui Gediminas rašė popiežiui Jonui XXII laišką***, \nkuriame pabrėžė, kad pripažindamas teisingumą priklau­\nsyti Apaštališkajai sostinei, kokį turi kitos galingos Eu­\nropos valstybės, prisimena savo pirmtako Mindaugo at­\nsivertimą į krikščionybę su visa Lietuvos valstybe, ta­\nčiau dėl klastingumo, begalės išdavysčių ir daugiakarčių \nnuoskaudų, vokiečių ordino atseikėtų, toji valstybė dėl \nsavo atokumo ir jis pats iki šiol pasilieka netikėjimo \nklystkeliuose."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
+- id: c-188256
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 551"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 551."
+  citata_originali: |
+    (Didžiai prakilniam Tėvui Viešpačiui Jonui, Romos
+    sosto aukščiausiajam kunigui, Gediminas, lietuvių ir dau­
+    gelio rutėnų ir 1.1, karalius. Jau seniai esame girdėję, kad
+    visi krikščionių tikėjimo išpažinėjai turi paklusti tavo va­
+    liai bei tėviškai [globai] ir kad pats katalikų tikėjimas
+    yra tvarkomas Romos bažnyčios rūpesčiu. Tai ir yra prie­
+    žastis, ¡kad Jūsų kilnybei šiuo laišku pareiškiame, jog
+    mūsų pirmtakas karalius Mindaugas su visa savo kara­
+    lyste buvo atsivertęs į Kristaus tikėjimą, bet dėl brolių iš
+    Teutonų namo magistro [daromų] žiaurių nuoskaudų ir
+    nesuskaičiuojamų išdavysčių jie visi nuo to tikėjimo at­
+    krito; kaip tik dėl to ir mes, deja, ligi šios dienos esame
+    priversti kartoti savo senolių klaidą.
+  citata_rodoma: "Jau seniai esame girdėję, kad \nvisi krikščionių tikėjimo išpažinėjai turi paklusti tavo va­\nliai bei tėviškai [globai] ir kad pats katalikų tikėjimas \nyra tvarkomas Romos bažnyčios rūpesčiu. Tai ir yra prie­\nžastis, ¡kad Jūsų kilnybei šiuo laišku pareiškiame, jog \nmūsų pirmtakas karalius Mindaugas su visa savo kara­\nlyste buvo atsivertęs į Kristaus tikėjimą, bet dėl brolių iš \nTeutonų namo magistro [daromų] žiaurių nuoskaudų ir \nnesuskaičiuojamų išdavysčių jie visi nuo to tikėjimo at­\nkrito; kaip tik dėl to ir mes, deja, ligi šios dienos esame \npriversti kartoti savo senolių klaidą."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007

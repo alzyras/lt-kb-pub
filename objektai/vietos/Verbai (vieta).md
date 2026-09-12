@@ -35,6 +35,8 @@ entity_view_role: "place"
 entity_aliases: ["Verbai","Verbai (vieta)"]
 sameAs: []
 canonical_biography: "1741 m. tarp Gembičių dvarelį prie pilies užpuolusių Jono Prušako Benevskio žmonių buvo žmonių iš Verbų."
+place_authority: true
+historical_names: []
 ---
 # Verbai (vieta)
 

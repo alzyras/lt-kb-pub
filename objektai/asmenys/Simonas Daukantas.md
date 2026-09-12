@@ -3,8 +3,11 @@ tipas: asmuo
 pavadinimas: 'Simonas Daukantas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Lietuvių tautos istorija, t. 5'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.)'
 datos:
   - '1793 m.'
   - '1875 m.'
@@ -45,7 +48,7 @@ canonical_biography: "Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (S
 
 ## Santrauka
 
-Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu. Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu. Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m. parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų plito nuorašais.
+Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi. Simonas Daukantas buvo parašęs veikalą „Darbai žemaičių ir lietuvių“. P. Malevskis buvo tiesioginis istoriko Simono Daukanto viršininkas Lietuvos Metrikos padalinyje prie Senato Trečiojo departamento.
 
 ## Teiginiai
 
@@ -199,6 +202,83 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   pagrindžia:
     - c-176301
 
+<a id="claim-t-205711"></a>
+- t-010
+  teiginys: "Simonas Daukantas laiške Teodorui Narbutui stebėjosi, kad Danilavičius ginčijo Rimgaudo buvimą."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188326
+
+<a id="claim-t-206375"></a>
+- t-011
+  teiginys: "S. Daukanto darbą šaltame Peterburgo Senato archyve Narbutas apibūdina kaip alinantį praeities tyrinėtojo darbą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188990
+
+## Reikšmingi paminėjimai
+- c-007
+  santrauka: 'Manoma, kad Simonas Daukantas tuo metu jau buvo parašęs „Darbus senųjų lietuvių ir žemaičių“.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Tokia būtų pagrindinė šio straipsnio, rašyto 1829 me­
+    tais, t. y. T. Narbutui sisteminant jau sukauptą istorijos me­
+    džiagą, išvada. Kaip rodo antro LTI tomo parankinis egzem­
+    pliorius, istorikas gerai žinojo šį rašinį, be to, ir kitus D. Poš­
+    kos darbus, juolab kad Šaurų dvaro bibliotekoje buvo saugo­
+    ma nemažai šio žemaičių literato rankraščių. Antra vertus, var­
+    gu ar būtume teisūs kalbėdami apie šį D. Poškos testamentą,
+    kaip apie išskirtinį, programinį dokumentą, turėjusį ypatingą
+    poveikį to meto šviesuomenei, besidominčiai Lietuvos praei­
+    timi.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-008
+  santrauka: 'Savo „Darbų“ pratarmėje Simonas Daukantas rašė: „<...> aš ne dėl mokytų vyrų ir galvočių, bet dėl tų motinų rašiau“.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Kaip rodo antro LTI tomo parankinis egzem­
+    pliorius, istorikas gerai žinojo šį rašinį, be to, ir kitus D. Poš­
+    kos darbus, juolab kad Šaurų dvaro bibliotekoje buvo saugo­
+    ma nemažai šio žemaičių literato rankraščių. Antra vertus, var­
+    gu ar būtume teisūs kalbėdami apie šį D. Poškos testamentą,
+    kaip apie išskirtinį, programinį dokumentą, turėjusį ypatingą
+    poveikį to meto šviesuomenei, besidominčiai Lietuvos praei­
+    timi. Ir vis dėlto šis straipsnis rodo bendrą lygį, bendrą nuotai­
+    ką, gimstantį norą rašyti patiems, t. y. tokiu būdu išvengti klai­
+    dų, kurias sąmoningai ar nesąmoningai darė kiti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-012
+  santrauka: 'Simono Daukanto interpretacijoje žalčiai buvo lietuviškosios kultūros ir religijos ženklas.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    Tie-
+    sa, Daukantui žalčiai yra lietuviškosios kultūros ir religijos ženklas, o miškai ir vyrai
+    su meškenomis – laisvės simbolis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-21971
@@ -400,3 +480,39 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-009
+
+- id: c-188326
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 31"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 31."
+  citata_originali: |
+    Antra vertus, T. Narbutas neslė­
+    pė, kad I. Danilavičiaus kritika jam buvo netikėta. Beje,
+    kaip ir S. Daukantui, kuris buvo ne mažiau nustebintas.
+    Laiške T. Narbutui jis sakė: „Keista, kad ponui Danila­
+    vičiui kažkodėl atėjo mintis ginčyti Rimgaudo buvimą“36.
+  citata_rodoma: "Beje, \nkaip ir S. Daukantui, kuris buvo ne mažiau nustebintas. \nLaiške T. Narbutui jis sakė: „Keista, kad ponui Danila­\nvičiui kažkodėl atėjo mintis ginčyti Rimgaudo buvimą“36."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+
+- id: c-188990
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 55"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 55."
+  citata_originali: |
+    Kol kas
+    to m eto praeities tyrinėtojo darbą daugiausia įsivaizduoja­
+    me iš klasikinio pavyzdžio - alinančio S. Daukanto darbo
+    šaltame Senato archyve Peterburge.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011

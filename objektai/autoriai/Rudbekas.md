@@ -55,6 +55,19 @@ Narbutas Rudbeką minėjo tarp autorių nuo Jordano iki Basės, rašiusių apie 
   pagrindžia:
     - c-174538
 
+<a id="claim-t-205135"></a>
+- t-002
+  teiginys: "Narbutas rašo, kad Rudbeko veikalas buvo sukėlęs daug triukšmo ir prilygintas fantastinėms svajonėms, tačiau jame esama pagrįstinų minčių ir teisingų tyrinėjimų krypčių."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187927
+
 ## Citatos
 
 - id: c-174538
@@ -82,3 +95,25 @@ Narbutas Rudbeką minėjo tarp autorių nuo Jordano iki Basės, rašiusių apie 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-187927
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 64"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 64."
+  citata_originali: |
+    Pirmąjį spėjimą paremia naujausi geo­
+    logų stebėjimai, taip pat ir Rudbeko darbų išvados3. Anot
+    jo, visa, ką senovė mums porina apie Atlantidą, šiaurės
+    rojų ir žmonių visuomenės susikūrimą tenykščiuose kraš­
+    tuose, yra taikoma Skandinavijai. Tiesa, kad šis švedų
+    filosofo veikalas buvo sukėlęs daug triukšmo ir prilygin­
+    tas fantastinėms svajonėms, tačiau jame yra minčių, ku­
+    rias galima pagrįsti arba kurios nurodo teisingus ieško­
+    jimų būdus.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

@@ -263,6 +263,35 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   pagrindžia:
     - c-179407
 
+<a id="claim-t-205820"></a>
+- t-014
+  teiginys: "Teodoro Narbuto aprašyme 1282 m. Prūsijos kryžiuočiai nuniokojo Sūduvą ir sugaudė miškuose pasislėpusius žmones."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1282 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys suformuluotas kaip išbaigtas sakinys, išlaikant šaltinio priešo veiksmų vaizdavimą su atribucija. Nauji faktai nepridėti."
+  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
+  pagrindžia:
+    - c-188435
+
+<a id="claim-t-205821"></a>
+- t-015
+  teiginys: "Teodoro Narbuto aprašyme 1283 m. žiemos pradžioje magistras Konradas Tirbergas su didele kariauna perėjo Sūduvos kraštą Širvintos ir Šešupės upių vagų link."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
+  pagrindžia:
+    - c-188436
+
 ## Reikšmingi paminėjimai
 - c-009
   santrauka: 'Narbutas spėjo, kad Sūduvos šiaurinė siena buvo Pisos upė, skyrusi ją nuo Salavijos ir Nadruvos.'
@@ -536,6 +565,50 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   patikimumo_saltinis: ai
   pagrindzia:
     - t-013
+
+- id: c-188435
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 256"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 256."
+  citata_originali: |
+    1282 m. Gedeto žudynės. Tuo pačiu metu Prūsijoje
+    kryžiuočiai, nuniokoję Sūduvą, iš tiesų suvis dar sugaudė
+    ir žmones, pasislėpusius miške.
+  citata_rodoma: "Tuo pačiu metu Prūsijoje \nkryžiuočiai, nuniokoję Sūduvą, iš tiesų suvis dar sugaudė \nir žmones, pasislėpusius miške."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014
+
+- id: c-188436
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 275"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 275."
+  citata_originali: |
+    Kryžiuočiai ir
+    siūlomas Karaliaučiuje pretendentas Pelužis, vos sužino­
+    ję apie žygio į Lenkiją nesėkmę, tuoj pat, naudodamiesi
+    anų karinių jėgų nusilpimu, sumanė pulti vieną iš svar­
+    biausių vietovių, t. y. įtvirtintą Palemono pilį, vadintą
+    Bisėna, kadangi ji saugojo Romuvos šventovę Dubysos
+    upės saloje, prie jos žiočių, kur įteka į Nemuną. Ten
+    buvo vyriausiojo žynio prieglobstis; vėliau, kai Prūsijoje
+    buvo sugriauta Romuva, jis gan ilgai turėjo ten savo
+    būstinę. Galop, kai ankstyvieji šalčiai stipriai užšaldė
+    vandenis, pačioje 1283 metų žiemos pradžioje magistras
+    Konradas Tirbergas su didžiule kariauna perėjo Sūduvos
+    kraštą, sukdamas Širvintos ir Šešupės upės vagos link.
+  citata_rodoma: "Galop, kai ankstyvieji šalčiai stipriai užšaldė \nvandenis, pačioje 1283 metų žiemos pradžioje magistras \nKonradas Tirbergas su didžiule kariauna perėjo Sūduvos \nkraštą, sukdamas Širvintos ir Šešupės upės vagos link."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Kryžiuočių ordinas]]

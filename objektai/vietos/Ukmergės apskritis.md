@@ -131,6 +131,19 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
   pagrindžia:
     - c-175537
 
+<a id="claim-t-205827"></a>
+- t-005
+  teiginys: "Teodoro Narbuto cituojamas J. Pomarnackis nurodė, kad Ukmergės apskrityje esantį ponų Strutinskių Daugailių palivarką jo tėvai nuomojo 53 metus, o nuo 1795 m. nuomojo ir jis su šeima."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
+  pagrindžia:
+    - c-188442
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Narbutas iš Ukmergės apskrities gautą dainelę laikė įrodymu, kad Dauguvos pavadinimas kilo iš „Dewine Upes“.'
@@ -244,3 +257,26 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
+
+- id: c-188442
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 33"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 33."
+  citata_originali: |
+    tent šiame tome jis rado ir savo gimtųjų vietų istorijos
+    fragmentą. Ketvirto tomo § 844 skyriuje buvo pasakojama
+    apie XIII amžiaus pradžioje prie Užpalių vykusį didelį
+    mūšį tarp Livonijos riterių ir lietuvių, vadovaujamų di­
+    džiojo kunigaikščio Rimgaudo. „Daugailių palivarką,—
+    rašė J. Pomarnackis,— kuris yra ponų Strutinskių nuo­
+    savybė, Ukmergės apskrityje penkiasdešimt trejus metus
+    nuomojo mano tėvai, o nuo 1795 metų — ir aš su savo
+    šeimyna.
+  citata_rodoma: "„Daugailių palivarką,— \nrašė J. Pomarnackis,— kuris yra ponų Strutinskių nuo­\nsavybė, Ukmergės apskrityje penkiasdešimt trejus metus \nnuomojo mano tėvai, o nuo 1795 metų — ir aš su savo \nšeimyna."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005

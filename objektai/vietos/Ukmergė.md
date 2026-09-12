@@ -499,6 +499,19 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   pagrindžia:
     - c-185014
 
+<a id="claim-t-205826"></a>
+- t-027
+  teiginys: "Teodoro Narbuto aprašyme magistras Andrius Stirietis, sutelkęs kryžiuočius ir riterius, puolė Lietuvą Ukmergės link ir mūšyje su didžiuoju kunigaikščiu laimėjo."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
+  pagrindžia:
+    - c-188441
+
 ## Reikšmingi paminėjimai
 - c-018
   santrauka: 'Narbutas Ukmergės apskritį priskyrė „Tikrajai Lietuvai“, kurioje nuo seniausių laikų buvusios vietos sudegintų žmonių pelenams laikyti.'
@@ -1018,6 +1031,29 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   patikimumo_saltinis: ai
   pagrindzia:
     - t-026
+
+- id: c-188441
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 139"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 139."
+  citata_originali: |
+    Karas su kryžiuočiais. Po šio nutikimo
+    įvykiai pirmiausia klostėsi taip: Tautvilą, surinkęs gau­
+    sius pulkus rusinu karių, įsiveržė į Lietuvos Užnerio ku­
+    nigaikštystę, kur ugnimi ir kalaviju sunaikino valsčius,
+    nepanorėjusius prisidėti prie jo kovų su tėvyne. Vėlei pats
+    magistras Andrius Stirietis, sutelkęs kryžiuočius ir viso­
+    keriopus riterius, iš kitos pusės puolė Lietuvą, pasuko
+    savo voras Ukmergės link, su didžiuoju kunigaikščiu sto­
+    jo į mūšį, kurį visiškai laimėjo.
+  citata_rodoma: "Vėlei pats \nmagistras Andrius Stirietis, sutelkęs kryžiuočius ir viso­\nkeriopus riterius, iš kitos pusės puolė Lietuvą, pasuko \nsavo voras Ukmergės link, su didžiuoju kunigaikščiu sto­\njo į mūšį, kurį visiškai laimėjo."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-027
 
 ## Ryšiai
 - Ukmergė priklausė [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]

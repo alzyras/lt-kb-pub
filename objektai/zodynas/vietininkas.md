@@ -45,7 +45,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 <a id="claim-t-176252"></a>
 - t-001
   teiginys: "Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -453,6 +453,18 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-160269
+
+<a id="claim-t-206247"></a>
+- t-027
+  teiginys: "Smolensko kunigaikštystę paverčiant Lietuvos provincija, vietininkais paskirti Jomantas ir Bazilijus Boreikis."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188862
 
 ## Reikšmingi paminėjimai
 - c-013
@@ -1074,8 +1086,7 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
 - id: c-183757
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 102"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 102."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Didysis kunigaikštis Vytautas, sutelkęs visas savo
     pajėgas, ištraukė į Naugardo žemę2 , prastovėjo šešis
@@ -1357,3 +1368,19 @@ Iš vietininko pasidaręs savarankišku Lietuvos valdovu, Vytautas niekad nenor�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+- id: c-188862
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 455"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 455."
+  citata_originali: |
+    Smolensko kunigaikštystė, savo pa­
+    čios ir visos valstybės labui, nuo šiol tampa Lietuvos provincija,
+    valdoma dviejų vietininkų. Jais šį kartą skiriami Jomantas ir Ba­
+    zilijus Boreikis, garsūs Lietuvos didikai.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-027

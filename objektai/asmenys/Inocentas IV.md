@@ -92,6 +92,19 @@ Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiež
   pagrindžia:
     - c-184347
 
+<a id="claim-t-205685"></a>
+- t-004
+  teiginys: "Teodoro Narbuto pasakojime tuo metu Inocentas IV užėmė šventojo Petro sostą ir gyveno Milane."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188300
+
 ## Citatos
 
 - id: c-60965
@@ -148,6 +161,26 @@ Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiež
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-188300
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 144"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 144."
+  citata_originali: |
+    Tuo metu šventojo
+    Petro sostą turėjo Inocentas IV. Pasiuntiniai rado jį Mi­
+    lane, kuriame tuo metu gyveno. Popiežius su didžiu
+    džiaugsmu priėmė siūlymą, juk žinojo, kas dedasi Lietu­
+    voje, suprato, kokia galinga yra tauta, narsiai užkirtusi
+    kelią totoriams, ir neturėjo vilčių greitai atversti lietuvius
+    į krikščionybę.
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 ## Ryšiai
 - Inocentas IV siuntė į [[objektai/vietos/Prūsija]]

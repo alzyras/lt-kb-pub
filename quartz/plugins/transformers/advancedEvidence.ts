@@ -292,8 +292,15 @@ function normalizeLabelKey(label: string): string {
   return slugTag(markdownText(label)).toLowerCase()
 }
 
-function buildSlugResolveIndex(ctx: BuildCtx): SlugResolveIndex {
-  const index: SlugResolveIndex = new Map()
+type CachedSlugResolveIndex = {
+  buildId: string
+  index: SlugResolveIndex
+  indexedSlugCount: number
+}
+
+const slugResolveIndexCache = new WeakMap<BuildCtx, CachedSlugResolveIndex>()
+
+function addSlugToResolveIndex(index: SlugResolveIndex, rawSlug: FullSlug) {
   const add = (key: string, slug: FullSlug | null) => {
     if (!key) return
     const existing = index.get(key)
@@ -303,17 +310,44 @@ function buildSlugResolveIndex(ctx: BuildCtx): SlugResolveIndex {
       index.set(key, null)
     }
   }
-  for (const rawSlug of (ctx.allSlugs ?? []) as FullSlug[]) {
-    const basename = simplifySlug(rawSlug).split("/").filter(Boolean).at(-1)
-    if (!basename) {
-      continue
+
+  const basename = simplifySlug(rawSlug).split("/").filter(Boolean).at(-1)
+  if (!basename) {
+    return
+  }
+  add(normalizeLabelKey(basename), rawSlug)
+  add(normalizeLabelKey(simplifySlug(rawSlug)), rawSlug)
+}
+
+function buildSlugResolveIndex(ctx: BuildCtx): SlugResolveIndex {
+  const allSlugs = (ctx.allSlugs ?? []) as FullSlug[]
+  const cached = slugResolveIndexCache.get(ctx)
+  if (cached && cached.buildId === ctx.buildId && cached.indexedSlugCount <= allSlugs.length) {
+    for (const rawSlug of allSlugs.slice(cached.indexedSlugCount)) {
+      addSlugToResolveIndex(cached.index, rawSlug)
     }
-    add(normalizeLabelKey(basename), rawSlug)
-    add(normalizeLabelKey(simplifySlug(rawSlug)), rawSlug)
+    cached.indexedSlugCount = allSlugs.length
+    return cached.index
+  }
+
+  const index: SlugResolveIndex = new Map()
+  for (const rawSlug of allSlugs) {
+    addSlugToResolveIndex(index, rawSlug)
   }
   for (const [key, slug] of relationMapEntries(ctx.relationTargetMap ?? {})) {
-    add(key, slug)
+    const existing = index.get(key)
+    if (existing === undefined) {
+      index.set(key, slug)
+    } else if (existing !== slug) {
+      index.set(key, null)
+    }
   }
+
+  slugResolveIndexCache.set(ctx, {
+    buildId: ctx.buildId,
+    index,
+    indexedSlugCount: allSlugs.length,
+  })
   return index
 }
 
@@ -400,7 +434,10 @@ function renderLinkifiedAdvancedCell(text: string, resolveIndex: SlugResolveInde
 
 const RELATION_WIKILINK = /\[\[([^\]|#]+)(#[^\]|]+)?(?:\|([^\]]+))?\]\]/g
 
-function relationWikilinks(line: string, resolveIndex: SlugResolveIndex): Array<{
+function relationWikilinks(
+  line: string,
+  resolveIndex: SlugResolveIndex,
+): Array<{
   slug: FullSlug
   label: string
 }> {
@@ -430,7 +467,9 @@ function renderRelationsSection(
   sectionLines: string[],
   resolveIndex: SlugResolveIndex,
 ): string[] | null {
-  const directLines = sectionLines.filter((line) => line.trim() && relationWikilinks(line, resolveIndex).length > 0)
+  const directLines = sectionLines.filter(
+    (line) => line.trim() && relationWikilinks(line, resolveIndex).length > 0,
+  )
   const output = ["", ""]
 
   for (const line of directLines) {
@@ -677,9 +716,10 @@ function renderClaimsSection(
     const domKey = claimDomKey(entry, index, usedDomKeys)
     const localAnchorId = `claim-${domKey}`
     const globalId = claimGlobalId(entry)
-    const globalAnchor = globalId && !usedGlobalAnchorIds.has(globalId)
-      ? `<a id="claim-${escapeHtml(globalId)}" class="claim-global-anchor" data-claim-global-anchor="true" aria-hidden="true"></a>`
-      : ""
+    const globalAnchor =
+      globalId && !usedGlobalAnchorIds.has(globalId)
+        ? `<a id="claim-${escapeHtml(globalId)}" class="claim-global-anchor" data-claim-global-anchor="true" aria-hidden="true"></a>`
+        : ""
     if (globalId) usedGlobalAnchorIds.add(globalId)
     const claimPill = claimDeeplinkPill(entry.id, globalId ? `claim-${globalId}` : localAnchorId)
     const detailId = `claim-evidence-${domKey}`

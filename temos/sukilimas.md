@@ -6,7 +6,7 @@ tema_kategorija: "ivykiai"
 tema_kategorijos_pavadinimas: "Įvykiai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 70
+tema_objektu_skaicius: 71
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 70.
+Objektų skaičius: 71.
 
 ## Kaip naudoti
 
@@ -24,6 +24,9 @@ Objektų skaičius: 70.
 - Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
 
 ## Susiję objektai
+
+### Asmenys
+- [[objektai/asmenys/Tadas Kosciuška]]
 
 ### Įvykiai
 - [[objektai/ivykiai/1794 m. sukilimas Lietuvoje|1794 m. sukilimas Lietuvoje (sukilimas, XVIII a.)]]
@@ -50,7 +53,7 @@ Objektų skaičius: 70.
 - [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
 - [[objektai/ivykiai/Kosciuškos sukilimas (1794 m.)]]
 - [[objektai/ivykiai/Kuršių sukilimas prieš danus (853 m.)]]
-- [[objektai/ivykiai/LDK 1-osios Tautinės brigados sukilimo pradžia Šiauliuose (1794 m. balandžio 16 d.)]]
+- [LDK 1-osios Tautinės brigados sukilimo pradžia Šiauliuose (1794 m. balandžio 16 d.)](../objektai/ivykiai/LDK%201-osios%20Tautin%C4%97s%20brigados%20sukilimo%20prad%C5%BEia%20%C5%A0iauliuose%20%281794%20m.%20baland%C5%BEio%2016%20d.%29)
 - [Lenkų sąmokslas Lietuvoje (P.O.W.) (1919 m. rugpiūčio 28–29 d. naktis)](../objektai/ivykiai/Lenk%C5%B3%20s%C4%85mokslas%20Lietuvoje%20%28P.O.W.%29%20%281919%20m.%20rugpi%C5%AB%C4%8Dio%2028%E2%80%9329%20d.%20naktis%29)
 - [Liuteronų maištas Gdanske ir jo numalšinimas](../objektai/ivykiai/Liuteron%C5%B3%20mai%C5%A1tas%20Gdanske%20ir%20jo%20numal%C5%A1inimas)
 - [M. Balinskio apkaltinimas „lenkiškuoju patriotizmu“ Varšuvoje](../objektai/ivykiai/M.%20Balinskio%20apkaltinimas%20%E2%80%9Elenki%C5%A1kuoju%20patriotizmu%E2%80%9C%20Var%C5%A1uvoje)

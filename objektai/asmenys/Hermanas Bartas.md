@@ -62,6 +62,35 @@ Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magis
   pagrindžia:
     - c-60957
 
+<a id="claim-t-205229"></a>
+- t-002
+  teiginys: "Narbutas nurodo, kad Hermanas Bartas mirė 1210 m. kovo 20 d., tikriausiai nuo žaizdų, gautų mūšyje su Ikonos sultonu."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187877
+
+<a id="claim-t-205309"></a>
+- t-003
+  teiginys: "Po Otono mirties lemta buvo tapti išrinktam Hermanui Bartui."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1206 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pakeista gramatiškai ydinga konstrukcija ir įtraukti šaltinyje nurodyti metai. Aiškiai įvardytas Hermano Barto vaidmuo."
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188072
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Hermanas Bartas buvo trečiasis magistras, mirė gegužės 20 dieną ir buvo palaidotas Akone.'
@@ -112,6 +141,46 @@ Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-187877
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 326"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 326."
+  citata_originali: |
+    Vis dėlto savo legatui, Jeruzalės patriarchui, nurodė rei­
+    kalą ištirti ir pateikti sprendimą. Dalyką nuodugniai iš­
+    gvildenus, galop buvo paskelbtas popiežiaus sprendimas,
+    kuriuo nurodyta, kad kryžiuočiai, gavę teisę vilkėti ap­
+    siaustus tokios spalvos, kaip kad buvo patvirtinta Ino­
+    cento pirmtakų, skirtųsi nuo tamplierių tik ypatingos rū­
+    šies audeklu. Tačiau didysis magistras Hermanas, nesu­
+    laukęs šio ginčo baigties, 1210 metų kovo 20-ąją mirė,
+    matyt, nuo žaizdų, gautų mūšyje su Ikonos sultonu.
+  citata_rodoma: "Tačiau didysis magistras Hermanas, nesu­\nlaukęs šio ginčo baigties, 1210 metų kovo 20-ąją mirė, \nmatyt, nuo žaizdų, gautų mūšyje su Ikonos sultonu."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-188072
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 325"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 325."
+  citata_originali: |
+    1206 m. Hermanas Bartas tampa didžiuoju magistru.
+    Po Otono mirties lemta buvo tapti išrinktam Hermanui
+    Bartui.
+  citata_rodoma: "Po Otono mirties lemta buvo tapti išrinktam Hermanui \nBartui."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 ## Ryšiai
 - Hermanas Bartas buvo palaidotas [[objektai/vietos/Akonas]]

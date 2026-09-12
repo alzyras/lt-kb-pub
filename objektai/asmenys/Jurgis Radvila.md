@@ -3,9 +3,9 @@ tipas: asmuo
 pavadinimas: 'Jurgis Radvila (vyskupas, XVI a.)'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
-  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - '„Mes, Lietuva.“ LDK bajorija XVI a.'
 datos: []
 date_start: ''
 date_end: ''
@@ -19,18 +19,19 @@ tags:
 amziai:
   - 'XVI'
 periodo_grupes: []
-media_total_count: '0'
-media_primary_thumb_url: ''
-media_primary_canonical_url: ''
-media_primary_directness: ''
-media_primary_relation_type: ''
-media_primary_json: ''
+media_total_count: '1'
+media_primary_thumb_url: 'https://www.limis.lt/api/media/image/891092367/891092980/false'
+media_primary_canonical_url: 'https://www.limis.lt/valuables/e/805535/891092367'
+media_primary_directness: 'direct'
+media_primary_relation_type: 'painting_of'
+media_primary_json: |-
+  {"mediaId":"m-c8a9a055aef8dc977606f748","title":"Jurgis Radvila Kardinolas (1556–1600)","caption":"Jurgio Radvilos, kardinolo (1556–1600), tapytas atvaizdas iš ciklo „Radviliana“.","originalTitle":"Jurgis Radvila Kardinolas (1556–1600)","creator":"Juozas Galkus","provider":"limis","providerLabel":"Biržų krašto muziejus „Sėla“","license":"Public Domain","rightsNote":"Public Domain | https://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"https://creativecommons.org/publicdomain/mark/1.0/","attribution":"","dateDisplay":"1999–2017 m.","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.limis.lt/valuables/e/805535/891092367","sourceUrl":"https://www.limis.lt/api/media/image/891092367/891092980/false","thumbUrl":"https://www.limis.lt/api/media/image/891092367/891092980/false","displayUrl":"https://www.limis.lt/api/media/image/891092367/891092980/false","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"dvasininkas","label":"dvasininkas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Jurgis Radvila.md","title":"Jurgis Radvila (vyskupas, XVI a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-08-08T15:42:50.669955+03:00","reviewedAt":"2026-08-08T15:43:46.764449+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas stilizuotas istorinis vyro portretas su identifikuojančiu užrašu „Jurgis Radvila Kardinolas 1556–1600“.","metadataEvidence":"Pavadinimas tiksliai nurodo Jurgį Radvilą kardinolą ir datas 1556–1600; tai sutampa su targetu.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų targetą ir jo istorinį atvaizdą.","isPrimary":1}
 media_direct_json: |-
-  []
+  [{"mediaId":"m-c8a9a055aef8dc977606f748","title":"Jurgis Radvila Kardinolas (1556–1600)","caption":"Jurgio Radvilos, kardinolo (1556–1600), tapytas atvaizdas iš ciklo „Radviliana“.","originalTitle":"Jurgis Radvila Kardinolas (1556–1600)","creator":"Juozas Galkus","provider":"limis","providerLabel":"Biržų krašto muziejus „Sėla“","license":"Public Domain","rightsNote":"Public Domain | https://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"https://creativecommons.org/publicdomain/mark/1.0/","attribution":"","dateDisplay":"1999–2017 m.","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.limis.lt/valuables/e/805535/891092367","sourceUrl":"https://www.limis.lt/api/media/image/891092367/891092980/false","thumbUrl":"https://www.limis.lt/api/media/image/891092367/891092980/false","displayUrl":"https://www.limis.lt/api/media/image/891092367/891092980/false","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"dvasininkas","label":"dvasininkas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Jurgis Radvila.md","title":"Jurgis Radvila (vyskupas, XVI a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-08-08T15:42:50.669955+03:00","reviewedAt":"2026-08-08T15:43:46.764449+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas stilizuotas istorinis vyro portretas su identifikuojančiu užrašu „Jurgis Radvila Kardinolas 1556–1600“.","metadataEvidence":"Pavadinimas tiksliai nurodo Jurgį Radvilą kardinolą ir datas 1556–1600; tai sutampa su targetu.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų targetą ir jo istorinį atvaizdą.","isPrimary":1}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  []
+  [{"mediaId":"m-c8a9a055aef8dc977606f748","title":"Jurgis Radvila Kardinolas (1556–1600)","caption":"Jurgio Radvilos, kardinolo (1556–1600), tapytas atvaizdas iš ciklo „Radviliana“.","originalTitle":"Jurgis Radvila Kardinolas (1556–1600)","creator":"Juozas Galkus","provider":"limis","providerLabel":"Biržų krašto muziejus „Sėla“","license":"Public Domain","rightsNote":"Public Domain | https://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"https://creativecommons.org/publicdomain/mark/1.0/","attribution":"","dateDisplay":"1999–2017 m.","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.limis.lt/valuables/e/805535/891092367","sourceUrl":"https://www.limis.lt/api/media/image/891092367/891092980/false","thumbUrl":"https://www.limis.lt/api/media/image/891092367/891092980/false","displayUrl":"https://www.limis.lt/api/media/image/891092367/891092980/false","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"dvasininkas","label":"dvasininkas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Jurgis Radvila.md","title":"Jurgis Radvila (vyskupas, XVI a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-08-08T15:42:50.669955+03:00","reviewedAt":"2026-08-08T15:43:46.764449+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas stilizuotas istorinis vyro portretas su identifikuojančiu užrašu „Jurgis Radvila Kardinolas 1556–1600“.","metadataEvidence":"Pavadinimas tiksliai nurodo Jurgį Radvilą kardinolą ir datas 1556–1600; tai sutampa su targetu.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų targetą ir jo istorinį atvaizdą.","isPrimary":1}]
 entity_id: "ent-6ccc190e2660890bccb6c041"
 canonical_name: "Jurgis Radvila (vyskupas, XVI a.)"
 entity_roles: ["person"]
@@ -43,7 +44,7 @@ canonical_biography: "Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutor
 
 ## Santrauka
 
-Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveldėjo mūrinį Goštautų namą priešais Šv. Jono bažnyčią. Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti. Jurgis Radvila nusprendė Vilniaus diecezijoje įsteigti ir funduoti kolegiją lietuvių ir rusų jaunuoliams auklėti.
+verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos tėvas, 1510— 1514 m.Kijevo vaivada; 1522—1527 m Trakų, o 1527-1541 m. Vilniaus kaštelionas; 1521 — 1531 m. lauko (kiemo) hetmonas, 1531—1541 m. d. hetmonas. Jurgis Radvila 1582 m. įkūrė visiškai atskirą kunigų seminariją (joje turėjo būti 12 klierikų).
 
 ## Teiginiai
 
@@ -326,6 +327,18 @@ Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveld
   pagrindžia:
     - c-96270
 
+## Reikšmingi paminėjimai
+- c-013
+  santrauka: 'Jurgis Radvila buvo Vilniaus kaštelionas ir LDK didysis etmonas.'
+  šaltinis: 02-kiaupiene-mes-lietuva-ldk-bajorija
+  citata_originali: |
+    Jurgis Radvila (apie 1480-1541), Vilniaus kaštelionas, LDK didysis etmonas.
+    Gyvenimo ir veiklos aprašymą pi. žr.: Błaszczyk Grzegorz. Radziwiłł Jerzy h.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-42038

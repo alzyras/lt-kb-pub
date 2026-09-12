@@ -64,6 +64,32 @@ Is­ torija yra nustačiusi tokią Kęstučio vaikų eilę; sūnūs: Patirgas, B
   pagrindžia:
     - c-36484
 
+<a id="claim-t-206368"></a>
+- t-002
+  teiginys: "Patirgas, pasak Narbuto, įvardijamas kunigaikščiu, vadovavusiu Gardinui, kai kryžiuočių kariauna žygiavo miesto link."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188983
+
+<a id="claim-t-206369"></a>
+- t-003
+  teiginys: "Patirgo sumanymas, pasak Narbuto, išgelbėjo Gardiną, tačiau nepatiko Kęstučiui, nes Patirgas persikėlė vadu prie Rusios sienos, tikriausiai į Polesę."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188984
+
 ## Citatos
 
 - id: c-36484
@@ -91,6 +117,41 @@ Is­ torija yra nustačiusi tokią Kęstučio vaikų eilę; sūnūs: Patirgas, B
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188983
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 156"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 156."
+  citata_originali: |
+    Kariauna žygiavo tiesiai Gardino
+    link, kur vadovavo kunigaikštis Patirgas. Greitai kryžiuočių ka­
+    riai pasirodė prie Nemuno, priešais miestą, tasai vadas, neži­
+    nia kodėl, pasiuntė gyventojus pasitikti maršalką su duona ir
+    druska, kartu su jais buvo žynių su kryžiais ir visokiais krikš­
+    čionių simboliais.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-188984
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 156"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 156."
+  citata_originali: |
+    Tas sumanymas išgelbėjo Gardiną, tik
+    nepatiko kunigaikščiui Kęstučiui, nes Patirgas persikėlė vadu
+    prie Rusios sienos, tikriausiai į Polesę.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

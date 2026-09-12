@@ -84,8 +84,29 @@ Nenurodyta
   pagrindžia:
     - c-169957
 
-<a id="claim-t-186740"></a>
+<a id="claim-t-186739"></a>
 - t-002
+  teiginys: "Redakcinė pastaba nurodo, kad Jurgis Lengvenaitis pateko į Žygimanto Kęstutaičio nelaisvę Ašmenos mūšyje ir pabėgo iki 1433 m. spalio 3 d."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Ašmena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigailos užpuolimas Ašmenoje: owner_note_path, event"
+  ryšio_targeto_parinkimas: "Ašmena: mention_match, place, gap=91"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigailos užpuolimas Ašmenoje\" parinktas kaip owner_note_path. Targetas \"Ašmena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: iki 1433 m.; įvykio data: 1399 m.; įvykio data: 1433 m.; įvykio data: 1457 m.; įvykio data: apie 1457 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Taisyta gramatika ir išlaikyta atribucija redakcinei pastabai."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  pagrindžia:
+    - c-169954
+
+<a id="claim-t-186740"></a>
+- t-003
   teiginys: "1432 m. rugsėjo 1 d. naktį Žygimanto Kęstutaičio ir jo sąjungininkų ginkluoti būriai užpuolė Švitrigailą Ašmenoje."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -106,8 +127,29 @@ Nenurodyta
   pagrindžia:
     - c-169957
 
+<a id="claim-t-186741"></a>
+- t-004
+  teiginys: "Redakcinė pastaba Simoną Jonaitį Alšėniškį laiko vienu svarbiausių 1432 m. rugsėjo 1 d. Švitrigailos užpuolimo Ašmenoje dalyvių."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Ašmena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigailos užpuolimas Ašmenoje: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Ašmena: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigailos užpuolimas Ašmenoje\" parinktas kaip owner_note_path. Targetas \"Ašmena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: 1432 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Vertinimas „vienas svarbiausių“ turi būti aiškiai atribuuotas."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  pagrindžia:
+    - c-169958
+
 <a id="claim-t-186742"></a>
-- t-003
+- t-005
   teiginys: "Redakcinė pastaba nurodo, kad Petras Mantgirdaitis už dalyvavimą 1432 m. rugsėjo 1 d. Švitrigailos užpuolime Ašmenoje nuo 1434 m. gavo krašto vyriausiojo maršalo vietą."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
@@ -128,24 +170,6 @@ Nenurodyta
     - c-169956
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Redakcinė pastaba nurodo, kad Jurgis Lengvenaitis pateko į Žygimanto Kęstutaičio nelaisvę Ašmenos mūšyje ir pabėgo iki 1433 m. spalio 3 d.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    1 1  Kalbama apie Jurgi, Mstislavlio kunigaikšti, Jogailos brolio
-    Simono Lengvenio Algirdaičlo Ir Maskvos didžiojo kunigaikščio Di-
-    mltro Donlškio dukters Marijos sūnų, gimus) tarp 1395 Ir 1399 m.,
-    mirusi apie 1457 m. Jurgio Lengvenaičio patekimų Žygimanto Kęs-
-    tutaičlo nelaisvėn Ašmenos mūšyje mini J . Dlugošas. Iš nelaisvės
-    jis pabėgo su 14 kilų Švitrigailos šalininkų 1433 m  prieš spa­
-    lio 3 d.
-    ”  Kituose Lietuvos metraščių nuorašuose M itka Zubrcvickis
-    šioje vieloje neminimas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: not_found
 - c-002
   santrauka: 'Redakcinė pastaba nurodo, kad Petras Mantgirdaitis už dalyvavimą 1432 m. rugsėjo 1 d. Švitrigailos užpuolime Ašmenoje nuo 1434 m. gavo krašto vyriausiojo maršalo vietą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -170,23 +194,30 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- c-004
-  santrauka: 'Redakcinė pastaba Simoną Jonaitį Alšėniškį laiko vienu svarbiausių 1432 m. rugsėjo 1 d. Švitrigailos užpuolimo Ašmenoje dalyvių.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+## Citatos
+
+- id: c-169954
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    31.
-    3 0  Mykolas Jonaitis Alšėniškis d ar buvo gyvas žymiai vėliau
-    (1439— 1448), todėl šioje BK vietoje turėtų būti kalbama apie M y­
-    kolo brol| Simoną Jonaiti Alšėniškj, vieną iš svarbiausių 1432.1X1
-    Švitrigailos užpuolimo Ašmenoje dalyvių. Tačiau šiuo atveju lieka
-    neaišku, kodėl Mykolas Jonaitis Alšėniškis buvęs suimtas „ne­
-    kaltai".
-  citata_rodoma: ''
+    1 1  Kalbama apie Jurgi, Mstislavlio kunigaikšti, Jogailos brolio
+    Simono Lengvenio Algirdaičlo Ir Maskvos didžiojo kunigaikščio Di-
+    mltro Donlškio dukters Marijos sūnų, gimus) tarp 1395 Ir 1399 m.,
+    mirusi apie 1457 m. Jurgio Lengvenaičio patekimų Žygimanto Kęs-
+    tutaičlo nelaisvėn Ašmenos mūšyje mini J . Dlugošas. Iš nelaisvės
+    jis pabėgo su 14 kilų Švitrigailos šalininkų 1433 m  prieš spa­
+    lio 3 d.
+    ”  Kituose Lietuvos metraščių nuorašuose M itka Zubrcvickis
+    šioje vieloje neminimas.
+  citata_rodoma: "1 1  Kalbama apie Jurgi, Mstislavlio kunigaikšti, Jogailos brolio \nSimono Lengvenio Algirdaičlo Ir Maskvos didžiojo kunigaikščio Di- \nmltro Donlškio dukters Marijos sūnų, gimus) tarp 1395 Ir 1399 m., \nmirusi apie 1457 m. Jurgio Lengvenaičio patekimų Žygimanto Kęs- \ntutaičlo nelaisvėn Ašmenos mūšyje mini J . Dlugošas. Iš nelaisvės \njis pabėgo su 14 kilų Švitrigailos šalininkų 1433 m  prieš spa­\nlio 3 d."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: not_found
-## Citatos
+  pagrindzia:
+    - t-002
 
 - id: c-169956
   autorius: "Anoniminis metraštininkas"
@@ -206,7 +237,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-005
 
 - id: c-169957
   autorius: "Anoniminis metraštininkas"
@@ -237,4 +268,25 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-002
+    - t-003
+
+- id: c-169958
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    31.
+    3 0  Mykolas Jonaitis Alšėniškis d ar buvo gyvas žymiai vėliau
+    (1439— 1448), todėl šioje BK vietoje turėtų būti kalbama apie M y­
+    kolo brol| Simoną Jonaiti Alšėniškj, vieną iš svarbiausių 1432.1X1
+    Švitrigailos užpuolimo Ašmenoje dalyvių. Tačiau šiuo atveju lieka
+    neaišku, kodėl Mykolas Jonaitis Alšėniškis buvęs suimtas „ne­
+    kaltai".
+  citata_rodoma: "3 0  Mykolas Jonaitis Alšėniškis d ar buvo gyvas žymiai vėliau \n(1439— 1448), todėl šioje BK vietoje turėtų būti kalbama apie M y­\nkolo brol| Simoną Jonaiti Alšėniškj, vieną iš svarbiausių 1432.1X1 \nŠvitrigailos užpuolimo Ašmenoje dalyvių. Tačiau šiuo atveju lieka \nneaišku, kodėl Mykolas Jonaitis Alšėniškis buvęs suimtas „ne­\nkaltai\"."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

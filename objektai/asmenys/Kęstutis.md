@@ -889,6 +889,219 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   pagrindžia:
     - c-184359
 
+<a id="claim-t-206335"></a>
+- t-053
+  teiginys: "Kęstutis ir Liubartas su Jurgiu Narimantaičiu bei Jurgiu Karijotaičiu buvo Lietuvos įgaliotiniai, sudarę taiką su mazoviečiais ir Lenkijos karaliumi."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188950
+
+<a id="claim-t-206336"></a>
+- t-054
+  teiginys: "Algirdas, pasikvietęs Kęstutį ir sūnų Andrių, stojo Lietuvos ir Vitebsko pulkų priešakyje, o Kęstutis dalyvavo šiame žygyje."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188951
+
+<a id="claim-t-206337"></a>
+- t-055
+  teiginys: "Kęstutis atvedė Vilniaus riterius, o jo sūnus Andrius, palikęs vietininką, atvyko su pskoviečių kariais."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188952
+
+<a id="claim-t-206338"></a>
+- t-056
+  teiginys: "Kęstutis su dešimties tūkstančių kariuomene taip greitai ir slapta priartėjo prie kryžiuočių sekamo miesto, kad jiems atsitraukus pasirodė Sambijos viduryje."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188953
+
+<a id="claim-t-206339"></a>
+- t-057
+  teiginys: "Spalį kunigaikštis Kęstutis palei kairįjį Nemuno krantą įsiveržė į Ragainės sritį, kur tris dienas buvo plėšiamas ir siaubiamas valsčius."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188954
+
+<a id="claim-t-206341"></a>
+- t-058
+  teiginys: "Narbutas rašo, kad 1349 m. pabaigoje Kęstutis, pasinaudojęs dingstimi pulti lenkus, su broliais iš kelių pusių apsupo Voluinę ir vėl prijungė ją prie Lietuvos."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1349 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleisti datą, sąjungininkus, veiksmą ir rezultatą. Kęstučio tariama dingstis pulti lenkus palikta priskirta Narbutui."
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188956
+
+<a id="claim-t-206342"></a>
+- t-059
+  teiginys: "Kęstutis su savo riteriais stojo į mūšį brolio pusėje, tačiau stipresnių pajėgų priremti Kęstutis ir jo brolis pateko į nelaisvę, o Kęstutis vėliau ištrūko iš lenkų sargybos."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188957
+
+<a id="claim-t-206343"></a>
+- t-060
+  teiginys: "1358 m. rugpjūčio 13 d. Gardino kunigaikščių suvažiavime Kęstutis, atstovaudamas didžiajam kunigaikščiui, kartu su kitais sudarė sutartį, numačiusią stabilios sienos nustatymo komisiją."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188958
+
+<a id="claim-t-206344"></a>
+- t-061
+  teiginys: "Narbutas pasakoja, kad Kęstutį nuo žirgo nubloškė riteris Hanke iš Ekersbergo, o Kranigfeldas paėmė Kęstutį į nelaisvę; kryžiuočiai šį įvykį laikė ypatingu Dangaus palaiminimu."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188959
+
+<a id="claim-t-206345"></a>
+- t-062
+  teiginys: "Kęstutis su gausia kariauna artėjo anapus Nemuno, o Algirdas su Rusios gvardija žygiavo palei Nerį; susijungusios kariuomenės rengėsi stoti pagalbon."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188960
+
+<a id="claim-t-206346"></a>
+- t-063
+  teiginys: "Po Kauno pilies užėmimo Kęstutis pasiuntė didžiajam magistrui prašymą pateikti paimtųjų į nelaisvę sąrašą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188961
+
+<a id="claim-t-206347"></a>
+- t-064
+  teiginys: "Kryžiuočiams pasitraukus iš Lietuvos, Kęstutis su gausiu raitelių daliniu įsiveržė į Prūsiją ir Jurgenburgo apylinkėse nusiaubė bei padegė daugelį kaimų."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188962
+
+<a id="claim-t-206348"></a>
+- t-065
+  teiginys: "1374 m. rugsėjo 22 d. Kęstutis su kariauna per Mazoviją įsiveržė į Prūsiją."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1374 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, turi aiškų subjektą ir predikatą bei tiesiogiai atitinka šaltinyje nurodytą Kęstučio žygį."
+  pagrindžia:
+    - c-188963
+
+<a id="claim-t-206349"></a>
+- t-066
+  teiginys: "Narbutas rašo, kad Kęstutis su Vytautu ir Skirgaila, gavęs užtikrinimą, nuvyko pas Jogailos karius, tačiau šį žingsnį vertina kaip pernelyg neatsargų."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188964
+
+<a id="claim-t-206350"></a>
+- t-067
+  teiginys: "Narbutas pasakoja, kad į Vilnių atvykęs Kęstutis buvo atiduotas didžiausiems Kęstučio priešams, sukaustytas grandinėmis ir išvežtas į Krėvos pilies kalėjimą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188965
+
+<a id="claim-t-206351"></a>
+- t-068
+  teiginys: "Narbutas, remdamasis genealogine lentele, nurodo, kad Kęstutį, ketvirtąjį Gedimino sūnų, 1297 m. pagimdė Rusios kunigaikštytė Olga."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188966
+
 ## Reikšmingi paminėjimai
 - c-023
   santrauka: 'Kojelavičius Kęstutį laikė didžiausios autoriaus pagarbos nusipelniusiu Lietuvos istorijos veikėju.'
@@ -2275,6 +2488,320 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-052
+
+- id: c-188950
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 66"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 66."
+  citata_originali: |
+    Lietuvių įga­
+    liotiniai sudaryti taiką su mazoviečiais ir Lenkijos karaliumi
+    buvo Kęstutis bei Liubartas su savo sūnėnais Jurgiu Nari-
+    m antaičiu ir Jurgiu Karijotaičiu, betgi veikė didžiojo kuni­
+    gaikščio Jaunučio, taip pat jo brolio Algirdo, Karijoto ir kitų
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-053
+
+- id: c-188951
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 71"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 71."
+  citata_originali: |
+    Algirdas priėmė tą pareiškimą ir suskubo išsiųsti ka­
+    riauną, vadovaujamą kažkokio kunigaikščio Jurgio Vytautai-
+    čio; po to ir pats, pasikvietęs brolį Kęstutį, kartu su savo sūnumi
+    Andrium1 2 nuskubėjo, stojęs Lietuvos ir Vitebsko pulkų prie­
+    šakyje
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-054
+
+- id: c-188952
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 73"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 73."
+  citata_originali: |
+    Kęstutis atvedė Vilniaus riterius, sūnus Andrius, palikęs vie­
+    toj savęs valdytoją, atvyko su pskoviečiais.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-055
+
+- id: c-188953
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 90"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 90."
+  citata_originali: |
+    Betgi retai pasitaiko karo mene, o dar rečiau is­
+    torijoje, taip, kaip kad kunigaikštis Kęstutis su dešimties tūks­
+    tančių žmonių kariauna prisiartino prie to paties miesto, kurį
+    sekė kryžiuočiai, visada turintys rinktinių žvalgų, ir taip spar­
+    čiai, ir taip slaptai, kad kai tik šie atsitraukė, paleido kariau­
+    ną ir didysis magistras išvyko į Gdanską, pasirodė Sambijos
+    viduryje.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-056
+
+- id: c-188954
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 91"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 91."
+  citata_originali: |
+    Spalio m ėnesį
+    kunigaikštis Kęstutis keliu palei kairįjį Nem uno krantą įsi­
+    veržė į Ragainės sritį, kur tris dienas valsčius buvo plėštas ir
+    siaubtas. Po to skubiai per Girdavos miškus buvo mestasi į
+    Insterburgo sritį, taip pat viską plėšiant; nusigavo į Vėluvą ir
+    be pasipriešinimo šį miestą spalio 6 dieną užėmė, nes gyven­
+    tojai, jį sudeginę, suskubo pabėgti;
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-057
+
+- id: c-188956
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 101"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 101."
+  citata_originali: |
+    Tad vos Kęstutis į 1349 m etų pabaigą, sura­
+    dęs kažkokią dingstį pulti lenkus, kreipėsi į kai kuriuos bro­
+    lius, iš kelių pusių apsupo Voluinę ir jų kariaunų pulkai vienu
+    metu smogė lenkų priešakinėms pozicijoms; per trum pą laiką
+    visas tas kraštas iš naujo buvo užvaldytas ir prijungtas prie Lie­
+    tuvos1.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-058
+
+- id: c-188957
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 104"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 104."
+  citata_originali: |
+    Kęstutis su savo riteriais paskubėjo broliui pagal­
+    bon ir narsiai kovos lauke stojo mūšin, tačiau, stipresnių pajė­
+    gų priremti, abu pateko nelaisvėn. Vladimiras užkariautas,
+    Belzas, Kulmas ir visa toji Voluinės dalis, išskyrus Lucką ir
+    Belską, buvo užimta. Liubartą Vengrijos karalius išleido, ga­
+    vęs žodį, kad duos sutartą išpirką arba pašauktas stos nurody­
+    tu laiku ir vietoj, ko, kaip pasakoja lenkų metraštininkai, tasai
+    kunigaikštis neištesėjo. Kęstutis, visados sukrus ėmęsis ką da­
+    ryti, surado būdą laimingai ištrūkti iš lenkų sargybinių apsau-
+    gos1.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-059
+
+- id: c-188958
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 126"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 126."
+  citata_originali: |
+    Jie 1358 metų rugpjūčio 13 dieną Gardi­
+    ne, kunigaikščių suvažiavime, kur Kęstutis, dalyvaudamas pats
+    ir atstovaudamas didžiajam kunigaikščiui, taip pat broliai Jau­
+    nutis, Karijotas, Jurgis ir kiti1 sudarė transakcinę sutartį, ku­
+    rios potvarkiu sudaryta komisija, įgaliota nustatyti stabilią
+    sieną.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-060
+
+- id: c-188959
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 135"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 135."
+  citata_originali: |
+    Kunigaikštis Kęstutis rite­
+    rio Hankės iš Ekersbergo taip pat buvo nublokštas nuo žirgo
+    ir paties Kranigfeldo paimtas nelaisvėn. Kryžiuočiai, nudžiu­
+    ginti tokio svarbaus laimikio, suskubo nugabenti kunigaikštį į
+    Marienburgą, kur visų buvo labai džiūgauta, ir padėkai pa­
+    reikšti suruoštos viešos pamaldos, nes tas įvykis buvo palaiky­
+    tas ypatingu Dangaus palaiminimo
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-061
+
+- id: c-188960
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 144"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 144."
+  citata_originali: |
+    Kaip labai šios atsargumo prie­
+    monės ir tas skubotumas pasirodė besą pačiu laiku, paaiškėjo,
+    kai kunigaikštis Kęstutis su gausia kariauna ėmė artėti keliu
+    anapus Nemuno ir bem at pasirodė kita kariauna, vedama di­
+    džiojo kunigaikščio Algirdo, atžygiuojančio palei pat Nerį, ku­
+    rioje šmėkščiojo Rusios gvardija. Šie kariai, nuo dabartinio
+    Šv. Kryžiaus vienuolyno pusės per aukštumas perėję ir susi­
+    jungę, ruošėsi stoti pagalbon.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-062
+
+- id: c-188961
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 153"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 153."
+  citata_originali: |
+    Skaudu buvo didžiajam kunigaikščiui
+    Kęstučiui nuo kalno stebėti tą baisią Kauno pilies pražūtį. Kai
+    tik ji buvo užimta, pasiuntė didžiajam magistrui prašymą, kad
+    pateiktų jam paimtųjų nelaisvėn sąrašą. Laužė senolis rankas
+    regėdamas tiek mažai gyvų išlikusių ir nuo skausmo ašarų su­
+    drėko jo skruostai, nors sūnų rado tarp
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-063
+
+- id: c-188962
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 164"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 164."
+  citata_originali: |
+    Kai iš Lietuvos išsidan­
+    gino kryžiuočiai, kunigaikštis Kęstutis su gausiu raitelių dali­
+    niu tiesiog įkandin jiem s įsiveržė į Prūsiją, Jurgenburgo
+    apylinkes, kraštą, priklausantį Sambijos vyskupui, kur dauge­
+    lis kaimų buvo apiplėšta ir padegta.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-064
+
+- id: c-188963
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 213"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 213."
+  citata_originali: |
+    Atsilygindamas kunigaikštis Kęstutis kitą rudenį (1374 m e­
+    tų rugsėjo 22 dieną) sukvietė savo kariauninkus, ir perėjęs
+    per Mazoviją, įsibrovė į Prūsiją. Pirmiausia Salduvos apylin­
+    kėse lietuviai pasidalijo į tris būrius, prasigavo prie Neiden-
+    burgo, sudegino apie keturiasdešim t kaimų, ėmė žmones ir
+    besipriešinančius be gailesčio žudė, galop paėm ę nelaisvėn
+    aštuonetą ar devynetą šimtų, be kliūčių grįžo atgalios savo
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-065
+
+- id: c-188964
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 269"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 269."
+  citata_originali: |
+    Gavęs tokį užtik­
+    rinimą, kunigaikštis Kęstutis su Vytautu ir Skirgaila nuvyko pas
+    Jogailos karius. Žingsnis - perdėm neatsargus, vargu ar galima
+    patikėti, kad toks įtarus senolis būtų su tuo sutikęs; tik Vytauto
+    nuoširdumas, pastangos ir rūpestis, tikrai iš patriotizmo kilęs,
+    labiausiai įtikino saugumu; pagaliau kiekvieno žmogaus gyve­
+    nime yra minučių, kai pasiduodama silpnumui.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-066
+
+- id: c-188965
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 270-271"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 270-271."
+  citata_originali: |
+    Išduoti kunigaikščiai, atvy­
+    kę į Vilnių, buvo išskirti; Kęstutį ištiko pasibaisėtinas likimas.
+    Atiduotas į didžiausių savo priešų rankas, keršto ir žiaurumo
+    apimto šalininko būrio pirmiausia buvo sukaustytas grandinė­
+    mis, po to, lydimas Švitrigailos, ekskortu išvežtas į Krėvą. Ten
+    įmestas į tamsų kalėjimą pilyje su stipriais įtvirtinimais, se­
+    1 Rankraštinė Lietuvos (Bychovco) kronika. - P. 47-50.
+    2 Alte Preusische Cron. - P. 40; Wigand (ap. Voigt. - B. V. - S. 371);
+    Schütz. - Fol. 84.
+    272
+
+    noviniame jos bokšte, kurio dunksančius aukštus mūrus m ato­
+    me ligi šiol
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-067
+
+- id: c-188966
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 274"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 274."
+  citata_originali: |
+    Kęstutį, kaip žinoma, ketvirtąjį Gedimino sūnų, pagimdė, pa­
+    gal genealoginę lentelę, Rusios kunigaikštytė Olga 1297 me­
+    tais. Išauklėtas savo protėvių tikėjimo dvasia ir griežtai jo
+    laikęsis, dora, riterio elgesiu, išmintim ir išsiauklėjimu buvo
+    pralenkęs savo laiką bei artimuosius.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-068
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Birutė]]

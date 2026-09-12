@@ -35,6 +35,8 @@ entity_view_role: "place"
 entity_aliases: ["Lieponiai","Lieponiai (vieta)"]
 sameAs: []
 canonical_biography: "1534 m. Žygimantas Senasis Rūdninkų medžioklės dvare įsakė Jurgiui Mikalojaičiui Radvilai atleisti nuo karinės tarnybos Lieponių ir Valkininkų dvarų laikytoją."
+place_authority: true
+historical_names: []
 ---
 # Lieponiai (vieta)
 

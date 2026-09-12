@@ -56,6 +56,18 @@ Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės gro
   pagrindžia:
     - c-168614
 
+<a id="claim-t-205521"></a>
+- t-002
+  teiginys: "1214 metais Narbutas Svavabuną vadina Liubavo žemės savininku."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187782
+
 ## Citatos
 
 - id: c-168614
@@ -86,3 +98,31 @@ Liubavą apiplėšęs lietuvių būrys neteko penkiolikos karių ir didelės gro
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-187782
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 287"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 287."
+  citata_originali: |
+    Sužinojęs apie tai, popiežius parašė ar­
+    kivyskupui ir Lenkijos bei Pamario kunigaikščiams, vėl
+    pavesdamas jų globai ne tik krikštytojus, bet ir apkrikš­
+    tytuosius, paliepęs jiems būti atlaidiems ir saugotis vi­
+    sokių persekiojimų, o ką jau kalbėti apie tas pastangas,
+    kurių buvo imtasi Romoje, taip pat ir grumiantis su vie­
+    tinėmis kliūtimis, — visur Kristijonui sklandžiai ėjosi
+    apaštalavimas. Kiekvieną dieną galėjo džiaugtis nauja
+    sėkme. 1214 metais jam pavyko atversti į krikščionybę
+    dvejetą įžymių prūsų didikų — vienas jų buvo vadina­
+    mas Varpoda, didžiulių valsčių savininkas, tvarkęs Lan-
+    zanijos žemes, kitaip sakant, jų valdytojas1, antrasis —
+    Liubavo žemės savininkas — buvo vadinamas Svavabu-
+    nu.
+  citata_rodoma: "1214 metais jam pavyko atversti į krikščionybę \ndvejetą įžymių prūsų didikų — vienas jų buvo vadina­\nmas Varpoda, didžiulių valsčių savininkas, tvarkęs Lan- \nzanijos žemes, kitaip sakant, jų valdytojas1, antrasis — \nLiubavo žemės savininkas — buvo vadinamas Svavabu- \nnu."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

@@ -265,8 +265,32 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   pagrindžia:
     - c-180644
 
-<a id="claim-t-198580"></a>
+<a id="claim-t-198578"></a>
 - t-013
+  teiginys: "Jotvingių pavyzdys rodo, kad jų žemės ūkis buvo greitai pažeidžiamas priešų antpuolių."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Perrašyta į savarankišką sakinį su aiškiu objektu ir faktiniu predikatu."
+  susije_objektai: "mentioned_object: [[objektai/daiktai/Klėtis|Klėtis]]; mentioned_place: Viena; mentioned_place: Volinija"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-180635
+
+<a id="claim-t-198579"></a>
+- t-014
+  teiginys: "Jotvingių pavyzdys rodo, kad jų žemės ūkis buvo greitai pažeidžiamas priešų ir badmečių."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Perrašyta į aiškesnį faktinį sakinį apie jotvingius."
+  susije_objektai: "mentioned_object: [[objektai/daiktai/Klėtis|Klėtis]]; mentioned_place: Jotvingija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Volinija"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-180639
+
+<a id="claim-t-198580"></a>
+- t-015
   teiginys: "Apie prūsus ir įsakmiai apie jotvingius yra žinoma, jog, norėdami apsisaugoti nuo priešų, jie turėjo susimesti į sustiprintus kaimus."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -286,7 +310,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     - c-186029
 
 <a id="claim-t-198581"></a>
-- t-014
+- t-016
   teiginys: "1282 m. lietuviai drauge su jotvingiais teriojo Liublino ir Sandomiero žemes."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -302,7 +326,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     - c-180633
 
 <a id="claim-t-198582"></a>
-- t-015
+- t-017
   teiginys: "Tautvilas, pabėgęs pas Vykintą į Žemaitiją, pasiėmė jotvingius, žemaičius ir Danieliaus pagalbą žygiui prieš Mindaugą."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -324,7 +348,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     - c-180632
 
 <a id="claim-t-203038"></a>
-- t-016
+- t-018
   teiginys: "Zenono Ivinskio teigimu, badmečiai, marai ir žiaurūs to laiko karai galėjo būti jotvingių sunykimo priežastys."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -334,7 +358,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     - c-180636
 
 <a id="claim-t-203114"></a>
-- t-017
+- t-019
   teiginys: "Iš XIII a. duomenų galima spręsti, kad Jotvingija tęsėsi į šiaurę nuo Bebro aukštupio ir Nemuno prie Gardino."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -344,7 +368,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
     - c-180638
 
 <a id="claim-t-203578"></a>
-- t-018
+- t-020
   teiginys: "Michał Baliński teigimu, jotvingiai, pasistūmėję į Rusios gilumą, kalba ir papročiais buvo panašūs į slavus."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -353,6 +377,32 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-180634
+
+<a id="claim-t-205118"></a>
+- t-021
+  teiginys: "1058 metais, susijungę su jotvingiais, o tiksliau — jų va dovaujam i, įniršę nusitrenkė su gro bikišku žygiu net ik i Sochačiovo."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187856
+
+<a id="claim-t-205590"></a>
+- t-022
+  teiginys: "Lemiamame mūšyje prie Suchodolės Konrado karius ištiko didelė nesėkmė, o Konrado sąjungininkai — jotvingiai ir lietuviai — ypač nukentėjo."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
+  pagrindžia:
+    - c-188205
 
 ## Citatos
 
@@ -512,7 +562,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-017
 
 - id: c-180633
   autorius: "Zenonas Ivinskis"
@@ -531,7 +581,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-010
-    - t-014
+    - t-016
 
 - id: c-180634
   autorius: "Michał Baliński"
@@ -569,7 +619,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-020
 
 - id: c-180635
   autorius: "Zenonas Ivinskis"
@@ -589,10 +639,12 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   citata_rodoma: "Dar neturint masinio šakniavaisių pakaitalo,\nkokiu tik labai vėlai (XIX amž.) tapo bulvė, sausros ar didelės\nliūtys privesdavo prie žiaurių badmečių, kurie trukdė gyventojų\ndaugėjimą.\nKaip žemės ūkis buvo greit pažeidžiamas, rodo jotvingių\npavyzdys. Iš vienos pusės buvo minima, kad priešai (lenkai) ten\nrado klėtis su javais (MPH, II, 422), ir Volinijos Danieliaus ka­\nriuomenė, su arkliais, iš dviejų sodybų ne tik prisisotino, bet dar\njavų likučius sudegino (PSRL, II, 834)."
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
+
 - id: c-180636
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -616,7 +668,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-018
 
 - id: c-180637
   autorius: "Zenonas Ivinskis"
@@ -656,7 +708,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-019
 
 - id: c-180639
   autorius: "Zenonas Ivinskis"
@@ -682,6 +734,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   pagrindzia:
     - t-006
     - t-008
+    - t-014
 
 - id: c-180640
   autorius: "Teodoras Narbutas"
@@ -934,7 +987,50 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-015
+
+- id: c-187856
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 181"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 181."
+  citata_originali: |
+    1058— 1063 m. Grobikiški žygiai, užkariavimai Rusio­
+    je, Tuo laikotarpiu lietuviai buvo aktyvūs: rengė karo žy­
+    giu s į tolim us kraštus, užkariaudavo kaim ynines šalis.
+    1058 metais, susijungę su jotvingiais, o tiksliau — jų va­
+    dovaujam i, įniršę nusitrenkė su gro bikišku žygiu net ik i
+    Sochačiovo.
+  citata_rodoma: "1058 metais, susijungę su jotvingiais, o tiksliau — jų va­\ndovaujam i, įniršę nusitrenkė su gro bikišku žygiu net ik i \nSochačiovo."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-021
+
+- id: c-188205
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 122"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 122."
+  citata_originali: |
+    Kai Treniota driokojo vokiečių valdas ir gyvenvietes
+    Prūsijoje, jo dalinys, siųstas į Mazoviją, prisidėjo prie
+    Mazovijos kunigaikščio Konrado vidaus karo su Kroku­
+    vos kunigaikščiu Boleslovu, jo paties sūnėnu. Tos kariau­
+    nos brovėsi prisiplėšti grobio, pirmiausia kėsindamosi į
+    dvasininkų turtus; taip nusigavo net iki Sandomiro. Lemia­
+    mas mūšis įvyko prie Suchodolės, kur Konrado karius iš­
+    tiko nemaža nesėkmė, ypač prisikentėjo sąjungininkai —
+    jotvingiai ir lietuviai.
+  citata_rodoma: "Lemia­\nmas mūšis įvyko prie Suchodolės, kur Konrado karius iš­\ntiko nemaža nesėkmė, ypač prisikentėjo sąjungininkai — \njotvingiai ir lietuviai."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-022
 
 ## Ryšiai
 - Kariavo prieš: [[objektai/asmenys/Vasilka]]

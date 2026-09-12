@@ -131,6 +131,19 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
   pagrindžia:
     - c-11918
 
+<a id="claim-t-206210"></a>
+- t-005
+  teiginys: "Prie Strėvos ties Žiežmariais kryžiuočiai, tikriausiai dešiniuoju sparnu atsirėmę į upės krantą, susitiko su vieškeliu iš Vilniaus atžygiavusia gausesne lietuvių kariauna."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-188825
+
 ## Citatos
 
 - id: c-11915
@@ -228,6 +241,29 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
+
+- id: c-188825
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 92-93"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 92-93."
+  citata_originali: |
+    Už Strėvos upės, tekančios
+    94
+
+    dabartinėje Trakų apskrityje, kryžiuočiai sustojo prie Žiežm a­
+    rių, Strėvininkų kaimo link, tikriausiai dešiniuoju sparnu atsi­
+    remdami į upės krantą. Lietuviai, kurių pajėgos buvo kur kas
+    gausesnės, patraukė vieškeliu, vedančiu iš Vilniaus į Žiežma­
+    rius, vieninteliu tinkamu keliu žygiuoti kariaunai. Vasario an­
+    trą dieną, šeštadienį, per pačią Svč. M ergelės M arijos
+    įvesdinimo dieną, susiėjo abi kariaunos
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Lietuviai]], [Zygfridas iš Da[he]nfeldo](/objektai/asmenys/Zygfridas%20i%C5%A1%20Da%5Bhe%5Dnfeldo)

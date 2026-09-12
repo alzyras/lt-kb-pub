@@ -145,6 +145,19 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
   pagrindžia:
     - c-178886
 
+<a id="claim-t-205358"></a>
+- t-006
+  teiginys: "Talse, arba Tilžė, Tilželė, — miestas ir upė kairiajame Nemuno žemupio krante."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-188045
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Tarnaudamas Rusijos kariuomenėje, T. Narbutas 1807 m. dalyvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas.'
@@ -267,3 +280,22 @@ Slapta Lietuvos bajorų delegacija vyko į Tilžę pas Napoleoną, tikėdamasi n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
+
+- id: c-188045
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 23"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 23."
+  citata_originali: |
+    driekęs kažkur kairiajame Neries krante. Tulkenrage va­
+    dinamas kaimas Prūsijoje, Kampės — Nemuno intako —
+    žemupyje, žemiau Rusnės, netoli Krokų Lankos ežero.
+    Talse, arba Tilžė, Tilželė, — miestas ir upė kairiajame
+    Nemuno žemupio krante.
+  citata_rodoma: "Talse, arba Tilžė, Tilželė, — miestas ir upė kairiajame \nNemuno žemupio krante."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006

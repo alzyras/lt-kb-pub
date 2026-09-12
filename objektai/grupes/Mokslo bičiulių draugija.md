@@ -75,6 +75,19 @@ m. Varšuvoje Mokslo bičiulių drau- 3 skyrius • R U S I J O S I M P E R I J 
   pagrindžia:
     - c-48034
 
+<a id="claim-t-205619"></a>
+- t-003
+  teiginys: "Kauno apylinkėse rastą bronzinę figūrėlę, iš pradžių laikytą Perkūno figūra, Mokslo bičiulių draugijos Dailiųjų menų skyriaus atstovai priskyrė indų dievybėms, kaip aprašė Teodoras Narbutas."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
+  pagrindžia:
+    - c-188234
+
 ## Citatos
 
 - id: c-48034
@@ -101,3 +114,26 @@ m. Varšuvoje Mokslo bičiulių drau- 3 skyrius • R U S I J O S I M P E R I J 
   pagrindzia:
     - t-001
     - t-002
+
+- id: c-188234
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 595"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 595."
+  citata_originali: |
+    Apie ją
+    minėtos draugijos nuomonė, kaip matyti iš jos „Metraš­
+    čiuose“ (t. XIV.— P. 277) esančios prezidento Stašico
+    kalbos pradedant viešą susirinkimą 1820 metų lapkričio
+    22 dieną, buvo tokia: „Draugijai buvo atsiųsta bronzinė
+    figūrėlė, aptikta Kauno apylinkėse, buvo spėjama, jog
+    tai figūra Perkūno, kitados Kauno miestą globojusios die­
+    vybės. Dailiųjų menų skyriaus atstovai įsitikinę, kad ši
+    figūrėlė priklauso prie įvairių indų dievybių.
+  citata_rodoma: "Draugijai buvo atsiųsta bronzinė \nfigūrėlė, aptikta Kauno apylinkėse, buvo spėjama, jog \ntai figūra Perkūno, kitados Kauno miestą globojusios die­\nvybės. Dailiųjų menų skyriaus atstovai įsitikinę, kad ši \nfigūrėlė priklauso prie įvairių indų dievybių"
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

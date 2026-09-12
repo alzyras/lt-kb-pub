@@ -230,6 +230,18 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   pagrindžia:
     - c-184296
 
+<a id="claim-t-206223"></a>
+- t-012
+  teiginys: "Ignotas Onacevičius buvo Vilniaus universiteto profesorius."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188838
+
 ## Citatos
 
 - id: c-55568
@@ -469,3 +481,27 @@ Ignacas Onacevičius minimas kaip istorikas ir lietuvių istorijos žinovas, tei
   patikimumo_saltinis: ai
   pagrindzia:
     - t-011
+
+- id: c-188838
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 56-57"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 56-57."
+  citata_originali: |
+    Bene pirm ieji apie šias
+    problem as viešai prabilo Dionizas Poška ir Ignotas O nace­
+    vičius. D. Poškos mintis jau aptarėm e kiek anksčiau ir kiek
+    54Kraszewski J. I. Wilno od początkovv jego do roku 1750. - T. I. - Wilno:
+    nakladem i drukiem Jozefą Zawadzkiego, 1840. - S. XIV-XV.
+    57
+
+    kitame kontekste55, todėl šiandien kiek ilgiau sustokime prie
+    Vilniaus universiteto profesoriaus I. Onacevičiaus svarsty­
+    mų, juolab, kad vėliau visa tai jau privačiai jis pakartojo ir
+    korespondencijoje T. N arbutui56
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012

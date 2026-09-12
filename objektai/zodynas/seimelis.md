@@ -64,7 +64,7 @@ Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie 
 <a id="claim-t-200632"></a>
 - t-003
   teiginys: "Vėliau seimeliai buvo šaukiami atskiriems reikalams: priešseiminiuose rinkti atstovai į seimą, reliaciniuose pranešta apie seimo darbus."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "gap::vocabulary"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Karolis Eidžiatovičius (Smolensko pavieto žemės teisėjas, 1749 m.): 0.83"

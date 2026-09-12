@@ -64,6 +64,19 @@ Dusburgietis teigia, kad galop, nukirtus virvę, kuria buvo pririštas, laivas n
   pagrindžia:
     - c-167511
 
+<a id="claim-t-205712"></a>
+- t-002
+  teiginys: "Skaldonį, kaip jį apibūdina Teodoras Narbutas, Surmino sūnėną ir kilmingos giminės lietuvį, žuvo kovoje užimant laivą, kurio įgula buvo išžudyta."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188327
+
 ## Citatos
 
 - id: c-167511
@@ -89,6 +102,28 @@ Dusburgietis teigia, kad galop, nukirtus virvę, kuria buvo pririštas, laivas n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188327
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 360"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 360."
+  citata_originali: |
+    jaunos pilies lankininkai labai sumaniai pastatė ją pa-
+    lugloje vietoje, vis dėlto lietuviams pavyko perkirsti in­
+    karo lyną, ir laivas nuplaukė pasroviui. Dar kurį laiką
+    buvo smarkiau puolama, pagaliau buvo užimtas tasai
+    balsus laivas, o jo įgula išžudyta. Šioje kovoje žuvo kil­
+    mingos giminės lietuvis Skaldonis, Surmino sūnėnas,
+    bt* lo, buvo nemažai sužeistų. į laivą, užplaukusį ant sek­
+    lumos, buvo paleista ugnis.
+  citata_rodoma: "Dar kurį laiką \nbuvo smarkiau puolama, pagaliau buvo užimtas tasai \nbalsus laivas, o jo įgula išžudyta. Šioje kovoje žuvo kil­\nmingos giminės lietuvis Skaldonis, Surmino sūnėnas, \nbt* lo, buvo nemažai sužeistų. į laivą, užplaukusį ant sek­\nlumos, buvo paleista ugnis."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Surminas]]

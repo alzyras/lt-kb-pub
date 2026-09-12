@@ -73,8 +73,27 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
   pagrindžia:
     - c-14174
 
-<a id="claim-t-12399"></a>
+<a id="claim-t-12398"></a>
 - t-002
+  teiginys: "Sutartis grąžino Vytautui Lietuvos valdžią didžiojo kunigaikščio teisėmis kaip lėną."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Astravos sutartis: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Astravos sutartis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "sutarties data: 1392 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-14174
+    - c-15978
+
+<a id="claim-t-12399"></a>
+- t-003
   teiginys: "Po Astravos sutarties Jogaila Vilniuje išplėtė Vytauto valdžią visose Lietuvos ir Rusijos žemėse."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -90,7 +109,7 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     - c-15979
 
 <a id="claim-t-176169"></a>
-- t-003
+- t-004
   teiginys: "1392 m. Astravos dvare prie Lydos Vytautas, atsimetęs nuo Ordino, susitaikė su Jogaila."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -109,7 +128,7 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     - c-160214
 
 <a id="claim-t-176170"></a>
-- t-004
+- t-005
   teiginys: "Astravos sutartį atskirais dokumentais patvirtino Jogailos ir Vytauto pusės."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -144,6 +163,7 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+    - t-002
 
 - id: c-15978
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -159,10 +179,12 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     tuota, nežinia, nes pats aktas apie tai nieko nekalba.
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-15979
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -183,7 +205,7 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-160212
   redaktorius: "A. Šapoka"
@@ -204,7 +226,7 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-005
 
 - id: c-160214
   redaktorius: "A. Šapoka"
@@ -227,4 +249,4 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004

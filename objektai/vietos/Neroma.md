@@ -78,6 +78,19 @@ Teodoras Narbutas Neromą aprašė kaip atskirai pažymėtą tikrosios Lietuvos 
   pagrindžia:
     - c-175596
 
+<a id="claim-t-205480"></a>
+- t-003
+  teiginys: "Mantvilos sūnus Erdvilas tuo žygiu visiškai iš vadavo Neromą ir Peluziją iš Rusios kunigaikščių valios."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-188138
+
 ## Citatos
 
 - id: c-175595
@@ -127,3 +140,29 @@ Teodoras Narbutas Neromą aprašė kaip atskirai pažymėtą tikrosios Lietuvos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-188138
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 185"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 185."
+  citata_originali: |
+    Betgi sun­
+    ku tiksliai nustatyti to Mantvilos sumanyto, o Erdvilo
+    surengto žygio datą, tik sprendžiant iš genealoginėje len­
+    telėje nurodytų pirmojo jų mirties metų, būtent 1070-ųjų,
+    galima būtų tą laiką nukelti dar penkeriais metais anks­
+    čiau, tai yra į 1065 metus. Si data neprieštarautų kroni­
+    kos pasakojimams, jeigu tik atsiribosime nuo painiavos,
+    kuri radosi per įmaišytus čia XIII amžiaus įvykius, mat
+    tada buvo pasiekęs savo klestėjimo laikus kitas Erdvilas,
+    būtent Rimgaudo sūnus, pažymėtas I genealoginėje len­
+    telėje. Mantvilos sūnus Erdvilas tuo žygiu visiškai iš­
+    vadavo Neromą ir Peluziją iš Rusios kunigaikščių valios.
+  citata_rodoma: "Mantvilos sūnus Erdvilas tuo žygiu visiškai iš­\nvadavo Neromą ir Peluziją iš Rusios kunigaikščių valios."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

@@ -234,6 +234,19 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   pagrindžia:
     - c-186709
 
+<a id="claim-t-206452"></a>
+- t-012
+  teiginys: "1392 m. sausį prie Alytaus, maršalkai pasiūlius Vytautui tolimo žygio sumanymą, atvyko kryžiuočių pulkai: Ragainės komtūras Jonas Rumpenheimas, Sambijos vaitas Konradas Lichtenšteinas ir Insterburgo valdytojai su kitais atvykėliais."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189067
+
 ## Citatos
 
 - id: c-12696
@@ -544,3 +557,22 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   patikimumo_saltinis: ai
   pagrindzia:
     - t-011
+
+- id: c-189067
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 410"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 410."
+  citata_originali: |
+    Įprastu žiemos žygių laiku maršalka
+    pasiūlė Vytautui mintį imtis tolimo žygio; tad pagal bendrą
+    susitarimą 1392 metų sausį prie Alytaus atvyko kryžiuočių pul­
+    kai - Ragainės komtūras Jonas Rumpenheimas, Sambijos vai­
+    tas Konradas Lichtenšteinas ir Insterburgo valdytojai su
+    kažkokiais atvykėliais iš svetur.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012

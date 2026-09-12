@@ -61,8 +61,21 @@ media_all_json: |-
   pagrindžia:
     - c-168782
 
-<a id="claim-t-193466"></a>
+<a id="claim-t-187769"></a>
 - t-003
+  teiginys: "Turkų sultono didysis paša Malkočas su Moldavijos vaivada Steponu kariavo Lenkijos žemėje iki Lvovo ir Tarnovo apylinkių."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  pagrindžia:
+    - c-170708
+
+<a id="claim-t-193466"></a>
+- t-004
   teiginys: "1429 m. valdovų posėdyje imperatorius Zigmantas ragino po husitų numalšinimo nukreipti kariuomenę prieš turkus ir saracėnus."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -136,23 +149,6 @@ media_all_json: |-
   statusas: verified
 - t-004
 
-- c-003
-  santrauka: 'Turkų sultono didysis paša Malkočas su Moldavijos vaivada Steponu kariavo Lenkijos žemėje iki Lvovo ir Tarnovo apylinkių.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Tais pačiais metais Lietuvos žemę ištiko baisus ba­
-    das, ir paplito žmonėse prancūziškos ligos4 0 . Paskui,
-    sekančių metų vasarą bei rudenį4 I, atėjo Moldavijos
-    vaivada Steponas, o su juo — turkų sultono didysis pa­
-    ša, vardu Malkočas 4 2 , vedinas daugeliu žmonių, ir ka­
-    riavo po Lenkijos žemę, Kamenecu pradedant, ir ligi
-    Lvovo, ir net ligi Tamovo, už dešimties mylių nuo Kro­
-    kuvos 4 3 . Sugrįžo, padarę Lenkijos žemei daug žalos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: not_found
 ## Citatos
 
 - id: c-168781
@@ -219,4 +215,25 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+    - t-004
+
+- id: c-170708
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Tais pačiais metais Lietuvos žemę ištiko baisus ba­
+    das, ir paplito žmonėse prancūziškos ligos4 0 . Paskui,
+    sekančių metų vasarą bei rudenį4 I, atėjo Moldavijos
+    vaivada Steponas, o su juo — turkų sultono didysis pa­
+    ša, vardu Malkočas 4 2 , vedinas daugeliu žmonių, ir ka­
+    riavo po Lenkijos žemę, Kamenecu pradedant, ir ligi
+    Lvovo, ir net ligi Tamovo, už dešimties mylių nuo Kro­
+    kuvos 4 3 . Sugrįžo, padarę Lenkijos žemei daug žalos.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
     - t-003

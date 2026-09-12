@@ -142,6 +142,19 @@ Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinka
   pagrindžia:
     - c-175511
 
+<a id="claim-t-205815"></a>
+- t-007
+  teiginys: "Teodoras Narbutas rašo, kad lietuviai, genami troškimo prisiplėšti, per miškus ir pasienio klampynes prasiveržė į Rogačiovo apylinkes ir jas puolė."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188430
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinkapių, kuriuos priskiria skitams.'
@@ -285,3 +298,25 @@ Narbutas Dnepro pakrantėse tarp Mogiliovo ir Rogačiovo mini daugybę milžinka
   pagrindzia:
     - t-004
     - t-006
+
+- id: c-188430
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 73"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 73."
+  citata_originali: |
+    Kaip kad tvirtina Rusijos istorikas, šis karas rusinams ge­
+    rai sekėsi1. Turime apie jį liudijimų, aprašytų Strijkovs­
+    kio1 2. Lietuviai, sužinoję apie riaušes Rusioje ir kruvinus
+    tenykščių kunigaikščių tarpusavio vaidus, genami troški­
+    mo prisiplėšti, su nemažomis .pajėgomis per tankius miš­
+    kus ir pasienio klampynes prasibrovė tad prie Dnepro
+    žemupio, kitaip sakant, į Rogačiovo apylinkes, ir plačiai
+    puolė.
+  citata_rodoma: "Lietuviai, sužinoję apie riaušes Rusioje ir kruvinus \ntenykščių kunigaikščių tarpusavio vaidus, genami troški­\nmo prisiplėšti, su nemažomis .pajėgomis per tankius miš­\nkus ir pasienio klampynes prasibrovė tad prie Dnepro \nžemupio, kitaip sakant, į Rogačiovo apylinkes, ir plačiai \npuolė."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007

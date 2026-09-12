@@ -31,6 +31,8 @@ entity_view_role: "place"
 entity_aliases: ["Savičiaus gatvė"]
 sameAs: []
 canonical_biography: "1724 m. per Dievo Kūno šventės procesiją Savičiaus gatvėje buvusi Augustinų (Augustijonų) bažnyčia buvo užpulta maždaug 40 žmonių ginkluotos gaujos. 1741 m. Stanislovas Pioro su kareiviais nakčia užpuolė Benedikto Aleksandravičiaus dvarelį Savičiaus gatvėje. Augustinų (Augustijonų) bažnyčia buvo Savičiaus gatvėje."
+place_authority: true
+historical_names: []
 ---
 # Savičiaus gatvė
 

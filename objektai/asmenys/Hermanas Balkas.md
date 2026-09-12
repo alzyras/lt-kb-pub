@@ -117,6 +117,47 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
   pagrindžia:
     - c-85741
 
+<a id="claim-t-205079"></a>
+- t-005
+  teiginys: "1230 m. balandžio 19 d. Hermanas Balkas perleido Plocko katedrai Kulmo žemės dešimtinę ir pajamas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187982
+
+<a id="claim-t-205445"></a>
+- t-006
+  teiginys: "1228 m. Hermanas Balkas atvyko į Mozūriją ir užėmė savo valdą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "kelionės data: 1228 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškiai nurodo Hermaną Balką, datą ir jo veiksmą Mozūrijoje. Jis tiesiogiai pagrįstas citata."
+  pagrindžia:
+    - c-187707
+
+<a id="claim-t-205684"></a>
+- t-007
+  teiginys: "Magistras Hermanas Balkas prie Izborsko nugalėjo į mūšį stojusius pilėnus, nukovė aštuonis šimtus karių, užėmė pilį ir atžygiavo prie Pskovo."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188299
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: '1230 m. didysis magistras Hermanas iš Zalcos pasiuntė Hermaną Balką eiti magistro pareigų Prūsijoje.'
@@ -238,3 +279,62 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-187707
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 304"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 304."
+  citata_originali: |
+    1228 m. Kryžiuočių įsikūrimas. Naujasis kryžiuočių va­
+    das Hermanas Balkas atvyko į Mozūriją 1228 metais ir
+    tuojau pat užėmė savo valdą, o tų pačių metų balandžio
+    23 dieną Konrado Mazoviečio jam suteikta privilegija bu­
+    vo patvirtinta Kulmo žemės nuosavybė jo valdomo ordi­
+    no reikalams1 2.
+  citata_rodoma: "Naujasis kryžiuočių va­\ndas Hermanas Balkas atvyko į Mozūriją 1228 metais ir \ntuojau pat užėmė savo valdą"
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
+- id: c-187982
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 307"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 307."
+  citata_originali: |
+    Kristijonas, per riterių vienuolius gavęs patirti tūkstan­
+    čius nemalonumų, galop nuvyko į Kulmą, kur įkurdino
+    savo vyskupystės centrą. Ten, apsuptas vienuolių, visiš­
+    kai atsidėjo ganytojiškiems darbams. Bet Hermanas Bal-
+    kas, net ir to nepakentęs, 1230 metų balandžio 19-ąją1
+    nuvyko pas Plocko vyskupą, kurio dvasinei valdžiai pa­
+    vedė Kulmo žemę, dešimtinę ir visas ten gaunamas paja­
+    mas perleisdamas Plocko katedrai.
+  citata_rodoma: "Bet Hermanas Bal- \nkas, net ir to nepakentęs, 1230 metų balandžio 19-ąją1 \nnuvyko pas Plocko vyskupą, kurio dvasinei valdžiai pa­\nvedė Kulmo žemę, dešimtinę ir visas ten gaunamas paja­\nmas perleisdamas Plocko katedrai"
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
+- id: c-188299
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 98"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 98."
+  citata_originali: |
+    Pats magistras Hermanas Balkas vedė kry­
+    žiuočių būrius prie Izborsko, kur, iškovojęs pergalę prieš
+    mūšin stojusius pilėnus, aštuonis šimtus paguldęs kovos
+    lauke, užėmė pilį ir atžygiavo prie Pskovo.
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007

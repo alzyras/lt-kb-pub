@@ -64,6 +64,19 @@ Dusburgietis teigia, kad versti jis pradėjo dar didžiojo Ordino magistro Liute
   pagrindžia:
     - c-61012
 
+<a id="claim-t-205701"></a>
+- t-002
+  teiginys: "Teodoras Narbutas nurodo, kad po Vernerio mirties kryžiuočiai Liuterį iš Braunšveigo išrinko didžiuoju magistru."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188316
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Liuterio iš Braunšveigo valdymo laikais Mikalojus iš Jerošino pradėjo versti Dusburgiečio kroniką į vokiečių kalbą.'
@@ -97,3 +110,23 @@ Dusburgietis teigia, kad versti jis pradėjo dar didžiojo Ordino magistro Liute
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188316
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 462"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 462."
+  citata_originali: |
+    Konfliktai su kryžiuočiais. Tuo laiku,
+    kai tiek garbės teko Gedimino rūmams, amžinas Lietuvos
+    priešas rengė jai naujas nelaimes iš Prūsijos. Po tragiš­
+    kos Vernerio mirties didžiuoju magistru kryžiuočiai iš­
+    rinko Liuterį iš Braunšveigo, kurio valdymo pradžia buvo
+    labai karinga ir nesėkminga.
+  citata_rodoma: "Po tragiš­\nkos Vernerio mirties didžiuoju magistru kryžiuočiai iš­\nrinko Liuterį iš Braunšveigo, kurio valdymo pradžia buvo \nlabai karinga ir nesėkminga."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

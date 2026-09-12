@@ -104,6 +104,19 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
   pagrindžia:
     - c-77038
 
+<a id="claim-t-205063"></a>
+- t-004
+  teiginys: "Rusų kunigaikštystė Tartu (Dorpate)."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-187900
+
 ## Citatos
 
 - id: c-32454
@@ -164,6 +177,23 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-187900
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 431"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 431."
+  citata_originali: |
+    Žemgaliai priima <krikščionybę.
+    Pirmasis kryžiaus žygis į Prūsiją.
+    Rusų kunigaikštystė Tartu (Dorpate).
+  citata_rodoma: "Rusų kunigaikštystė Tartu (Dorpate)."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 ## Ryšiai
 - Užėmė Tartu: [[objektai/grupes/Maskvos kariuomenė]]

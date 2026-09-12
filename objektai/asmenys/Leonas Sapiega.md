@@ -1,16 +1,23 @@
 ---
 tipas: asmuo
-pavadinimas: 'Leonas Sapiega'
+pavadinimas: 'Leonas Sapiega (kunigaikštis, XVI a.)'
 saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - '„Mes, Lietuva.“ LDK bajorija XVI a.'
 datos:
   - '1585 m.'
+  - '1594 m.'
 date_start: '1585'
-date_end: ''
+date_end: '1594'
+variantai:
+  - 'Leonas Sapiega'
+aliases:
+  - 'Leonas Sapiega'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - valstybė
   - didikas
   - pareigūnas
 amziai:
@@ -30,14 +37,14 @@ media_contextual_json: |-
 media_all_json: |-
   []
 entity_id: "ent-39a2fe04229ee2dfdc14fe17"
-canonical_name: "Leonas Sapiega"
+canonical_name: "Leonas Sapiega (kunigaikštis, XVI a.)"
 entity_roles: ["person"]
 entity_view_role: "person"
-entity_aliases: ["Leonas Sapiega"]
+entity_aliases: ["Leonas Sapiega","Leonas Sapiega (kunigaikštis, XVI a.)"]
 sameAs: []
 canonical_biography: "Nuo seno didžiuojamasi Lietuvos Statutais, iš tikrųjų sistemingumo lygiu pralenkusiais Vidurio Europos šalių teisines sistemas, bei jų kūrimo iniciatoriais Albertu Goštautu ar Leonu Sapiega."
 ---
-# Leonas Sapiega
+# Leonas Sapiega (kunigaikštis, XVI a.)
 
 ## Santrauka
 
@@ -64,6 +71,47 @@ Nuo seno didžiuojamasi Lietuvos Statutais, iš tikrųjų sistemingumo lygiu pra
   pagrindžia:
     - c-157525
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Leonas Sapiega buvo Lietuvos Didžiosios Kunigaikštystės kancleris ir aukštas valstybės pareigūnas.'
+  šaltinis: 02-kiaupiene-mes-lietuva-ldk-bajorija
+  citata_originali: |
+    B
+    s
+    j
+    o
+    r
+    l
+    i
+    k
+    o
+    j
+    o
+    p
+    a
+    s
+    a
+    u
+    l
+    i
+    o
+    p
+    r
+    o
+    f
+    i
+    l
+    i
+    a
+    i
+    Tai Lietuvos Didžiosios Kunigaikštystės kanclerio Leono Sa-
+    piegos, aukšto valstybės pareigūno, diplomato praktiko ne iš nuogirdų, o iš kas-
+    dienio darbo patirties 1594 m. pasakyti žodžiai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-157525

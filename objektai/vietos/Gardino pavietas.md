@@ -31,6 +31,8 @@ entity_view_role: "place"
 entity_aliases: ["Gardino pavietas"]
 sameAs: []
 canonical_biography: "1724 ir 1725 m. Gardino pavieto pataurininkio Kazimiero Piontkovskio žmonės užpuolė Antakalnyje buvusį Simono Mošcickio dvarelį."
+place_authority: true
+historical_names: []
 ---
 # Gardino pavietas
 

@@ -74,6 +74,19 @@ Nenurodyta
   pagrindžia:
     - c-184294
 
+<a id="claim-t-205565"></a>
+- t-003
+  teiginys: "Viena karo grobio dalis buvo aukojama globėjams dievams kaip padėkos auka, o kita atiduodama Kriviui ir jo žyniams."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187954
+
 ## Citatos
 
 - id: c-09936
@@ -129,3 +142,27 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-187954
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 51"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 51."
+  citata_originali: |
+    Vyriausiasis žynys sušaukė karius į Romuvos šven­
+    tyklą padėti dievams prakilnias dėkingumo aukas. O kad
+    žmonės ir ateityje po laimėtų mūšių pareikštų dievams
+    dėkingumą, visiems laikams buvo nustatyta, jog kiekvie­
+    nas į namus pargabentas karo grobis turės būti dalijamas
+    į keturias dalis, iš kurių viena turės būti aukojama globė­
+    jams dievams, kaip padėkos auka, kita — atiduodama
+    Kriviui ir jo žyniams, kurie meldė dievus atsiųsti pergalę,
+    trečioji turi priklausyti kovojusiems priešo šalyje kariams
+    ir jpagaliau ketvirtoji — tiems kariams, kurie žygio metu
+    saugojo šalies sienas.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

@@ -1,0 +1,95 @@
+---
+tipas: ivykis
+pavadinimas: 'Totorių nugalėjimas prie Dono'
+saltiniai:
+  - 'į Ą'
+datos:
+  - '1393 m.'
+date_start: '1393'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Totorių nugalėjimas prie Dono
+
+## Santrauka
+
+Narbutas pasakoja, kad Vytautas, jo vadinamas didžiuoju kunigaikščiu, dėl Tochtamyšo skriaudų ir totorių žygių į Podolę pasiuntė kariauną, kuri prie Dono nugalėjo tris totorių cariukus.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+
+<a id="claim-t-206897"></a>
+- t-001
+  teiginys: "Narbutas pasakoja, kad Vytautas, jo vadinamas didžiuoju kunigaikščiu, dėl Tochtamyšo skriaudų ir totorių žygių į Podolę pasiuntė kariauną, kuri prie Dono nugalėjo tris totorių cariukus."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189512
+
+## Santrauka
+
+Narbutas pasakoja, kad Vytautas, jo vadinamas didžiuoju kunigaikščiu, dėl Tochtamyšo skriaudų ir totorių žygių į Podolę pasiuntė kariauną, kuri prie Dono nugalėjo tris totorių cariukus.
+
+## Citatos
+
+- id: c-189512
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 461-462"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 461-462."
+  citata_originali: |
+    Bemaž tuoj pat didysis kunigaikš­
+    tis Vytautas, norėdamas atlyginti už Tochtamyšo skriaudas ir
+    nubausti totorius už žygius į Podolę, gan dažnai tuo laikotar­
+    piu rengtus, pasiuntė savo kariauną, vadovaujamą vieno lietu­
+    vių didiko, Kromerio vadinto Algirdu1 2, kurį lydėjo ir pabėgėlis
+    chanas. Jie, sustoję prie Dono, stepėse, vadintose Laukinėmis
+    1 Danilavičiaus „Metraštininkas“. - P. 216; Naugardo kronika, įdėta Ka-
+    ramzino veikale (t. V - Pastaba nr. 172), kalba apie 1393 metais Naugardo
+    sudarytą sutartį su Vytautu; Karamzin. - T. V. - S. 140, 141. - Nota nr. 169.
+    2 Strijkovskis (p. 475) skelbtąjį buvus tik lietuvių didiku. Kromeris (kn.
+    XVI. - P. 252) vadina kunigaikščiu.
+    463
+
+    stepėmis (Dzikie Pola), užklupo tris totorių cariukus, visus tris
+    brolius, valdžiusius tris mažas ordas, vadintas Krymo, Kirkelsko
+    ir M ankopo1, kuriuos visiškai nugalėjo, netgi patys tie vadai
+    atgulė mūšyje. Nemažai totorių paimta nelaisvėn, juos Toch-
+    tamyšas išsivarė kartu
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

@@ -38,8 +38,26 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
 
 ## Teiginiai
 
-<a id="claim-t-187417"></a>
+<a id="claim-t-187415"></a>
 - t-001
+  teiginys: "Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus ir Žemaičių žemę."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žemaičių žemė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaičių žemė\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
+  pagrindžia:
+    - c-170408
+
+<a id="claim-t-187417"></a>
+- t-002
   teiginys: "Kęstutis, sušaukęs savo Žemaičių žemę ir kariuomenę, traukė prie Neries, kur susijungė su Vytauto kariuomene."
   atnaujinta: "2026-07-12 22:30"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
@@ -55,6 +73,24 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
   vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
   pagrindžia:
     - c-170407
+
+<a id="claim-t-187418"></a>
+- t-003
+  teiginys: "Lietuvos metraštyje Vytautas, būdamas pas magistrą Marienburge, už tris šimtus tūkstančių auksinų užstato vokiečiams Žemaičių žemę."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žemaičių žemė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=117"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemaičių žemė\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  pagrindžia:
+    - c-170406
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -102,25 +138,6 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   statusas: verified
-- c-003
-  santrauka: 'Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus ir Žemaičių žemę.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Didžiajai kunigaikštienei Onai 1 5  mirus, didysis ku­
-    nigaikštis Algirdas vedė Tverės didžiojo kunigaikščio
-    dukterį, kunigaikštytę Julijoną Oljevną ia, ir su ja tu­
-    rėjo šešis sūnus1 7 . Vyriausias—Jogaila Vladislovas1 8 ;
-    antras — Skirgaila1 9 , trečias — Švitrigaila3 0 , ketvir­
-    tas— Kaributas2 1 , penktas — Dimitrijus2 2 , Koreco ku­
-    nigaikštis 2 3 , šeštas — kunigaikštis Vasilijus 2 4 .
-    O didžiojo kunigaikščio Algirdo broliui Kęstučiui,
-    kuris valdė Trakus ir Žemaičių žemę, buvo šeši sū­
-    nūs2 5 .
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  statusas: not_found
 - c-004
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -139,25 +156,26 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
   statusas: verified
 - t-005
 
-- c-005
-  santrauka: 'Lietuvos metraštyje Kęstutis, Algirdo brolis, vaizduojamas kaip Trakų ir Žemaičių žemės valdovas, turėjęs šešis sūnus.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+## Citatos
+
+- id: c-170406
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
-    Vyriausias—Jogaila Vladislovas1 8 ;
-    antras — Skirgaila1 9 , trečias — Švitrigaila3 0 , ketvir­
-    tas— Kaributas2 1 , penktas — Dimitrijus2 2 , Koreco ku­
-    nigaikštis 2 3 , šeštas — kunigaikštis Vasilijus 2 4 .
-    O didžiojo kunigaikščio Algirdo broliui Kęstučiui,
-    kuris valdė Trakus ir Žemaičių žemę, buvo šeši sū­
-    nūs2 5 . Pirmas — Vytautas2 6 , o kai krikštijosi pravos­
-    lavu, buvo jam duotas Jurgio vardas, o kai priėmė len­
-    kų tikėjimo krikštą, jam davė Aleksandro vardą2 7 .
-  citata_rodoma: ''
+    Didysis kunigaikštis Vytautas, būdamas pas magist­
+    rą Vokietijoje3 0 , Marienburgo pilyje, sudarė sąjungą
+    su vokiečiais — su livoniečiais ir su prūsais, sukėlė vi­
+    sus juos, už* tris šimtus tūkstančių auksinų užstatė
+    jiems Žemaičių žemą3 1 .
+  citata_rodoma: "Didysis kunigaikštis Vytautas, būdamas pas magist­\nrą Vokietijoje3 0 , Marienburgo pilyje, sudarė sąjungą \nsu vokiečiais — su livoniečiais ir su prūsais, sukėlė vi­\nsus juos, už* tris šimtus tūkstančių auksinų užstatė \njiems Žemaičių žemą3 1 ."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: not_found
-## Citatos
+  pagrindzia:
+    - t-003
 
 - id: c-170407
   autorius: "Anoniminis metraštininkas"
@@ -170,6 +188,30 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
   citata_rodoma: "Didysis kunigaikštis Kęstutis, sušaukęs savo Žemai­\nčių žemę ir visą kariuomenę, traukia prie Neries."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-170408
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Didžiajai kunigaikštienei Onai 1 5  mirus, didysis ku­
+    nigaikštis Algirdas vedė Tverės didžiojo kunigaikščio
+    dukterį, kunigaikštytę Julijoną Oljevną ia, ir su ja tu­
+    rėjo šešis sūnus1 7 . Vyriausias—Jogaila Vladislovas1 8 ;
+    antras — Skirgaila1 9 , trečias — Švitrigaila3 0 , ketvir­
+    tas— Kaributas2 1 , penktas — Dimitrijus2 2 , Koreco ku­
+    nigaikštis 2 3 , šeštas — kunigaikštis Vasilijus 2 4 .
+    O didžiojo kunigaikščio Algirdo broliui Kęstučiui,
+    kuris valdė Trakus ir Žemaičių žemę, buvo šeši sū­
+    nūs2 5 .
+  citata_rodoma: "O didžiojo kunigaikščio Algirdo broliui Kęstučiui, \nkuris valdė Trakus ir Žemaičių žemę, buvo šeši sū­\nnūs2 5 ."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -191,6 +233,26 @@ Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus
   citata_rodoma: "Mūsų tėvas grįžo iš karo žygio, o kunigaikštis Jo­\ngaila be jo žinios užėmė ir Trakus. Ir mūsų tėvas ku­\nnigaikštis Kęstutis nujojo tada į 2emaičius, norėdamas\ngauti pagalbos. Ir atėjo mūsų tėvas su žemaičiais prie\nTrakų, aš pats irgi buvau ten su savo tėvu kunigaikš­\nčiu Kęstučiu."
   statusas: verified
   atnaujinta: "2026-07-12 22:57"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-176658
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Vyriausias—Jogaila Vladislovas1 8 ;
+    antras — Skirgaila1 9 , trečias — Švitrigaila3 0 , ketvir­
+    tas— Kaributas2 1 , penktas — Dimitrijus2 2 , Koreco ku­
+    nigaikštis 2 3 , šeštas — kunigaikštis Vasilijus 2 4 .
+    O didžiojo kunigaikščio Algirdo broliui Kęstučiui,
+    kuris valdė Trakus ir Žemaičių žemę, buvo šeši sū­
+    nūs2 5 . Pirmas — Vytautas2 6 , o kai krikštijosi pravos­
+    lavu, buvo jam duotas Jurgio vardas, o kai priėmė len­
+    kų tikėjimo krikštą, jam davė Aleksandro vardą2 7 .
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

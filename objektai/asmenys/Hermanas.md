@@ -72,6 +72,19 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
   pagrindžia:
     - c-167128
 
+<a id="claim-t-206284"></a>
+- t-003
+  teiginys: "Teodoras Narbutas rašo, kad kryžiuotis Hermanas suardė antrą pastatytą pabūklo pakoją."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188899
+
 ## Citatos
 
 - id: c-44346
@@ -124,3 +137,18 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-188899
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 317"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 317."
+  citata_originali: |
+    Buvo pastatytas ki­
+    tas, ir šį suardė kryžiuotis Hermanas.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

@@ -124,6 +124,32 @@ media_all_json: |-
   pagrindžia:
     - c-168697
 
+<a id="claim-t-206250"></a>
+- t-006
+  teiginys: "Žygūnas iš Vilniaus pranešė apie sutartą taiką, todėl Kęstučio kariuomenė iširo, o Žemaitijoje pasklido gandai, kad įtūžę kryžiuočiai, grįždami atgal, nusiaubsią visus valsčius."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-188865
+
+<a id="claim-t-206251"></a>
+- t-007
+  teiginys: "Vytautienės pasiųstas žygūnas į Vilnių grįžo su atsakymu, apsaugos raštu ir Marijos Vaidilienės laišku Prokšai, kuriame raginta susidoroti su Vytautu."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-188866
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Į Pinską išsiųsti žygūnai turėjo pakviesti vienuolį Vaišvilką perimti tėvo paliktą valdžią.'
@@ -350,3 +376,43 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
+
+- id: c-188865
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 270"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 270."
+  citata_originali: |
+    Tad kai kitą dieną atvyko žygūnas iš Vilniaus su pra­
+    nešimu, kad sutarta dėl taikos ir kad kunigaikščiui Kęstučiui
+    sava kariauna nebereikalinga, ji tučtuojau iširo - visi skubiai
+    veržėsi važiuoti į namus, kur greitai buvo paskleisti gandai, jog
+    esą įtūžę kryžiuočiai, išsiskaidę į mažus būrius, grįžta atgal, kad
+    esą, atsilygindami už savo kelionę į Lietuvą, nusiaubtų visus vals­
+    čius Žemaitijoje.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
+- id: c-188866
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 279"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 279."
+  citata_originali: |
+    Galop
+    kunigaikštienė Vytautienė išsiuntė žygūną Vilniun, prašyda­
+    ma Hanulą kaip nors gauti didžiojo kunigaikščio apsaugos raštą
+    jos kelionei į Mazoviją. Žygūnas, grįždamas su atsakymu ir
+    apsaugos raštu, atvežė Marijos Vaidilienės laišką Prokšai**,
+    skubinantį susidoroti su Vytautu, kai tik šio žmona išvažiuos
+    iš Krėvos, nes dėl to kalinio Jogaila ima tižti.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007

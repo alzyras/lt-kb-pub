@@ -79,6 +79,19 @@ Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, 
   pagrindžia:
     - c-170567
 
+<a id="claim-t-205797"></a>
+- t-003
+  teiginys: "Karalius, pasak Teodoro Narbuto, pasiuntė kariauną, vadovaujamą neįvardyto žmogaus, ir paliepė Daumantui atvykti į pagalbą su Nalšios kunigaikštystės pulkais."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188412
+
 ## Citatos
 
 - id: c-168690
@@ -129,3 +142,23 @@ Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-188412
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 199"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 199."
+  citata_originali: |
+    pridaręs kažkokių skriaudų, tad buvo stota su juo į kovą.
+    Karalius nusiuntė kariauną, vadovaujamą žmogaus, ku­
+    rio vardo kronikos nemini, ir paliepė Daumantui atvykti
+    pagalbon su Nalšios kunigaikštystės pulkais. Šis buvo jo
+    vasalas, tad atvyko į kovos lauką ir susijungė su kara­
+    liaus pulkais.
+  citata_rodoma: "Karalius nusiuntė kariauną, vadovaujamą žmogaus, ku­\nrio vardo kronikos nemini, ir paliepė Daumantui atvykti \npagalbon su Nalšios kunigaikštystės pulkais."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

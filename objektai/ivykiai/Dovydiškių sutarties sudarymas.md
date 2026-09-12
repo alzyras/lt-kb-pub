@@ -144,6 +144,19 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   pagrindžia:
     - c-66738
 
+<a id="claim-t-206211"></a>
+- t-006
+  teiginys: "Teodoras Narbutas Dovydiškių sutarties sudarymą datuoja 1380 m. ir nurodo, kad ji sudaryta lauke prie Dovydiškių per Dievo Kūno aštuntadienį."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188826
+
 ## Citatos
 
 - id: c-14177
@@ -247,3 +260,18 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
+
+- id: c-188826
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 248"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 248."
+  citata_originali: |
+    Transakcijos data: lauke prie Dovydiškių, Vieš­
+    paties metais 1380, per Dievo Kūno aštuntadienį
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006

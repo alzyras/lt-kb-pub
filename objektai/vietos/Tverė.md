@@ -471,8 +471,28 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   pagrindžia:
     - c-168528
 
-<a id="claim-t-193236"></a>
+<a id="claim-t-187665"></a>
 - t-024
+  teiginys: "Tverė teikė karinę pagalbą Švitrigailai, nes jos didysis kunigaikštis Borisas Aleksandravičius buvo jo giminaitis ir laikėsi sutarties su LDK."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> didysis kunigaikštis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tverė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "didysis kunigaikštis: mention_match, thing, gap=49"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tverė\" parinktas kaip owner_note_path. Targetas \"didysis kunigaikštis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  pagrindžia:
+    - c-170607
+
+<a id="claim-t-193236"></a>
+- t-025
   teiginys: "Norėdamas turėti sąjungininką prieš Maskvą, jis vedė Tverės kunigaikščio seserį Julijoną."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -484,7 +504,7 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     - c-175973
 
 <a id="claim-t-193237"></a>
-- t-025
+- t-026
   teiginys: "Švitrigaila ne tik kad nenutraukė ryšių su savo sąjungininku ordinu, bet dar padarė naują sąjungą su Maskva ir Tvere."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -496,7 +516,7 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     - c-175974
 
 <a id="claim-t-193238"></a>
-- t-026
+- t-027
   teiginys: "Dėl šio kunigaikščio titulo varžėsi Vladimiro, Tverės ir Maskvos kunigaikščiai."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -507,25 +527,6 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   pagrindžia:
     - c-175975
 
-## Reikšmingi paminėjimai
-- c-018
-  santrauka: 'Tverė teikė karinę pagalbą Švitrigailai, nes jos didysis kunigaikštis Borisas Aleksandravičius buvo jo giminaitis ir laikėsi sutarties su LDK.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    * Jaroslavas tikrai buvo Tverės didžiojo kunigaikščio Boriso
-    Aleksandravičiaus brolis. Talkininkaudamas Svitrigai'ai, žuvo Pa­
-    baisko (Ukmergės) m ūšyje 1435 m.
-    Tverė teikė karinę pagalbų Svitrigai'ai. kadangi jos didysis
-    kunigaikšl s (nuo 1425 m.) Boruos Aleksandravičius (1399— I4fil|
-    buvo Švitrigailos giminaitis (Švitrigaila buvo vedęs spėjamų Bonso
-    Aleksandrovičiaus pusseserę Onų); be to, Tverės didysis kunigaikš­
-    tis Borisas Aleksandravičius dar 1427 m. buvo sudaręs su LDK su­
-    tarti, kurios laikėsi ir Vytautui mirus.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: not_found
 ## Citatos
 
 - id: c-43926
@@ -954,6 +955,28 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   pagrindzia:
     - t-023
 
+- id: c-170607
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    * Jaroslavas tikrai buvo Tverės didžiojo kunigaikščio Boriso
+    Aleksandravičiaus brolis. Talkininkaudamas Svitrigai'ai, žuvo Pa­
+    baisko (Ukmergės) m ūšyje 1435 m.
+    Tverė teikė karinę pagalbų Svitrigai'ai. kadangi jos didysis
+    kunigaikšl s (nuo 1425 m.) Boruos Aleksandravičius (1399— I4fil|
+    buvo Švitrigailos giminaitis (Švitrigaila buvo vedęs spėjamų Bonso
+    Aleksandrovičiaus pusseserę Onų); be to, Tverės didysis kunigaikš­
+    tis Borisas Aleksandravičius dar 1427 m. buvo sudaręs su LDK su­
+    tarti, kurios laikėsi ir Vytautui mirus.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-024
+
 - id: c-175973
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -972,7 +995,7 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-025
 
 - id: c-175974
   redaktorius: "A. Šapoka"
@@ -995,7 +1018,7 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
+    - t-026
 
 - id: c-175975
   redaktorius: "A. Šapoka"
@@ -1016,7 +1039,7 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
+    - t-027
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Michailas Aleksandrovičius]]

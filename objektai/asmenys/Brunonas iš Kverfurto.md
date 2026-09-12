@@ -63,6 +63,35 @@ Dusburgietis teigia, kad 224 Burggrafas Burchardas iš Magdeburgo, kilęs iš to
   pagrindžia:
     - c-60888
 
+<a id="claim-t-205571"></a>
+- t-002
+  teiginys: "Brunonas, kilęs iš Kverfurto."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188153
+
+<a id="claim-t-205574"></a>
+- t-003
+  teiginys: "Brunonas, kaip piOpiežiaus legatas ir šiaurės tautų apaštalas, dviejų be nediktinų ordino vienuolių — Jono ir Benedikto lydimas, be to, dar su šešiolika kitų asmenų krikščionių, kurie sudarė jo svitą, nuvyko į Kijevą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "kelionės data: 1008 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Susklandintas sakinys, aiškiai nurodant 1008 metus, kelionę į Kijevą ir palydovus. Popiežiaus legato bei šiaurės tautų apaštalo titulai palikti Narbuto atribucijoje."
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188128
+
 ## Citatos
 
 - id: c-60888
@@ -82,3 +111,48 @@ Dusburgietis teigia, kad 224 Burggrafas Burchardas iš Magdeburgo, kilęs iš to
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188128
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 148"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 148."
+  citata_originali: |
+    O karaliaus nugalėtojo globa atvėrė
+    tiesius kelius krikščionybės skleidėjams. Brunonas, kaip
+    piOpiežiaus legatas ir šiaurės tautų apaštalas, dviejų be­
+    nediktinų ordino vienuolių — Jono ir Benedikto lydimas,
+    be to, dar su šešiolika kitų asmenų krikščionių, kurie
+    sudarė jo svitą, nuvyko į Kijevą. Visa tai vyko 1008 m.
+  citata_rodoma: "Brunonas, kaip \npiOpiežiaus legatas ir šiaurės tautų apaštalas, dviejų be­\nnediktinų ordino vienuolių — Jono ir Benedikto lydimas, \nbe to, dar su šešiolika kitų asmenų krikščionių, kurie \nsudarė jo svitą, nuvyko į Kijevą. Visa tai vyko 1008 m."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-188153
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 145"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 145."
+  citata_originali: |
+    Šio įžado vykdymas abiem monarchams — ir
+    imperatoriui, ir Lenkijos karaliui — padarė daug nuosto­
+    lių, bet šis susitikimas davė ir nemažą naudą abiem pu­
+    sėm, juolab lietuvių tautai, nes paakino atsiradimą tame
+    krašte naujų krikščionybės skelbėjų, vienas iš kurių —
+    Brunonas, kilęs iš Kverfurto. Tai buvo uolus pagonybei
+    atsidavusių sielų ganytojas, gahbingų ir aukštas kilmės
+    tėvų sūnus, žymaus metraštininko ir Merseburgo vyskupo
+    Ditmaro giminaitis. Gerai išauklėtas ir pagal anuos laikus
+    ganėtinai išsilavinęs, iš pradžių buvo tapęs Magdeburgo
+    šv. Mauricijaus bažnyčios kanauninku.
+  citata_rodoma: "Brunonas, kilęs iš Kverfurto. Tai buvo uolus pagonybei \natsidavusių sielų ganytojas, gahbingų ir aukštas kilmės \ntėvų sūnus, žymaus metraštininko ir Merseburgo vyskupo \nDitmaro giminaitis. Gerai išauklėtas ir pagal anuos laikus \nganėtinai išsilavinęs, iš pradžių buvo tapęs Magdeburgo \nšv. Mauricijaus bažnyčios kanauninku."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

@@ -19,18 +19,19 @@ tags:
 amziai:
   - 'XIII'
   - 'XIV'
-media_total_count: '0'
-media_primary_thumb_url: ''
-media_primary_canonical_url: ''
-media_primary_directness: ''
-media_primary_relation_type: ''
-media_primary_json: ''
+media_total_count: '4'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/4/4b/Paul_M%C3%BCller-Kaempff_-_Einsame_Hofstelle_in_Rauschen_%28Samland%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3APaul_M%C3%BCller-Kaempff_-_Einsame_Hofstelle_in_Rauschen_%28Samland%29.jpg'
+media_primary_directness: 'direct'
+media_primary_relation_type: 'painting_of'
+media_primary_json: |-
+  {"mediaId":"m-cbe6c1e973a3f38ecfbafa88","title":"Paul Müller-Kaempff - Einsame Hofstelle in Rauschen (Samland).jpg","caption":"Paulio Müllerio-Kaempffo tapyba, vaizduojanti vienišą sodybą Raušene, Sambijoje (Samlande).","originalTitle":"Paul Müller-Kaempff - Einsame Hofstelle in Rauschen (Samland).jpg","creator":"Paul Müller-Kaempff","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"paul-mueller-kaempff.de","dateDisplay":"circa 1891 date QS:P571,+1891-00-00T00:00:00Z/9,P1480,Q5727902","dateStart":null,"dateEnd":null,"width":700,"height":540,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APaul_M%C3%BCller-Kaempff_-_Einsame_Hofstelle_in_Rauschen_%28Samland%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Paul_M%C3%BCller-Kaempff_-_Einsame_Hofstelle_in_Rauschen_%28Samland%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Paul_M%C3%BCller-Kaempff_-_Einsame_Hofstelle_in_Rauschen_%28Samland%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Paul_M%C3%BCller-Kaempff_-_Einsame_Hofstelle_in_Rauschen_%28Samland%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"sodyba","label":"sodyba","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1891 landscape paintings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"East Prussia in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-auto-expired)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-80-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paul Müller-Kaempff","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Rauschen","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sambia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sambia Peninsula","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Sambija.md","title":"Sambija","itemType":"vieta","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-08-11T10:09:44.024463+03:00","reviewedAt":"2026-08-11T14:44:52.377721+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma XIX a. pabaigos peizažinė tapyba: sodyba, laukai ir pakrantės kraštovaizdis.","metadataEvidence":"Pavadinime ir apraše aiškiai nurodyta Rauschen (Samland), lietuviškai Raušeną Sambijos krašte.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkrečią Sambijos vietą.","isPrimary":1}
 media_direct_json: |-
-  []
+  [{"mediaId":"m-cbe6c1e973a3f38ecfbafa88","title":"Paul Müller-Kaempff - Einsame Hofstelle in Rauschen (Samland).jpg","caption":"Paulio Müllerio-Kaempffo tapyba, vaizduojanti vienišą sodybą Raušene, Sambijoje (Samlande).","originalTitle":"Paul Müller-Kaempff - Einsame Hofstelle in Rauschen (Samland).jpg","creator":"Paul Müller-Kaempff","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"paul-mueller-kaempff.de","dateDisplay":"circa 1891 date QS:P571,+1891-00-00T00:00:00Z/9,P1480,Q5727902","dateStart":null,"dateEnd":null,"width":700,"height":540,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APaul_M%C3%BCller-Kaempff_-_Einsame_Hofstelle_in_Rauschen_%28Samland%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Paul_M%C3%BCller-Kaempff_-_Einsame_Hofstelle_in_Rauschen_%28Samland%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Paul_M%C3%BCller-Kaempff_-_Einsame_Hofstelle_in_Rauschen_%28Samland%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Paul_M%C3%BCller-Kaempff_-_Einsame_Hofstelle_in_Rauschen_%28Samland%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"sodyba","label":"sodyba","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1891 landscape paintings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"East Prussia in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-auto-expired)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-80-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paul Müller-Kaempff","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Rauschen","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sambia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sambia Peninsula","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Sambija.md","title":"Sambija","itemType":"vieta","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-08-11T10:09:44.024463+03:00","reviewedAt":"2026-08-11T14:44:52.377721+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma XIX a. pabaigos peizažinė tapyba: sodyba, laukai ir pakrantės kraštovaizdis.","metadataEvidence":"Pavadinime ir apraše aiškiai nurodyta Rauschen (Samland), lietuviškai Raušeną Sambijos krašte.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkrečią Sambijos vietą.","isPrimary":1},{"mediaId":"m-aefc59b7af5b5a90309c1018","title":"Kaliningradsky peninsula DE.svg","caption":"Sambijos (Samland) krašto žemėlapis Kaliningrado pusiasalyje.","originalTitle":"Kaliningradsky peninsula DE.svg","creator":"Insider Andrein ( Original )","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"File:Kaliningradsky_peninsula_RU.svg","dateDisplay":"2015-03-27","dateStart":null,"dateEnd":null,"width":485,"height":325,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKaliningradsky_peninsula_DE.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/67/Kaliningradsky_peninsula_DE.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kaliningradsky_peninsula_DE.svg/1920px-Kaliningradsky_peninsula_DE.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/67/Kaliningradsky_peninsula_DE.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Kaliningrad Oblast","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sambia Peninsula","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Sambija.md","title":"Sambija","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-08-11T10:09:43.986953+03:00","reviewedAt":"2026-08-11T13:09:04.532416+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Žemėlapio centre aiškiai pažymėtas „Samland“, vokiškas istorinis Sambijos pavadinimas; rodomas visas Kaliningrado pusiasalis ir jo pakrantės.","metadataEvidence":"Pavadinimas nurodo Kaliningrado pusiasalio žemėlapį; vizualus „Samland“ užrašas tiesiogiai sieja jį su Sambija.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Žemėlapis tiesiogiai vaizduoja istorinį Sambijos (Samland) regioną.","isPrimary":0},{"mediaId":"m-d3361c0557f246a06eeb85cb","title":"Sambia Peninsula Linguistic Map 1905.png","caption":"Sambijos (Samlando) kalbinis žemėlapis pagal 1905 m. surašymą.","originalTitle":"Sambia Peninsula Linguistic Map 1905.png","creator":"Ascended Dreamer","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2026-04-26","dateStart":null,"dateEnd":null,"width":8453,"height":6883,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASambia_Peninsula_Linguistic_Map_1905.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Sambia_Peninsula_Linguistic_Map_1905.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sambia_Peninsula_Linguistic_Map_1905.png/1920px-Sambia_Peninsula_Linguistic_Map_1905.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Sambia_Peninsula_Linguistic_Map_1905.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"History of Königsberg","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sambia Peninsula","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Sambija.md","title":"Sambija","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-08-11T10:09:44.027073+03:00","reviewedAt":"2026-08-11T14:44:52.403114+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas detalus Samlando teritorijos žemėlapis su gyvenvietėmis, upėmis, sienomis ir kalbų pasiskirstymo legenda.","metadataEvidence":"Pavadinime ir apraše aiškiai nurodyta Sambia Peninsula, Samland ir 1905 m. surašymas.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis target teritorijos žemėlapis.","isPrimary":0},{"mediaId":"m-d446d0187a083ca1da516975","title":"Samland Physical Map.png","caption":"Sambijos (Samlando) fizinis žemėlapis pagal 1905 m. duomenis.","originalTitle":"Samland Physical Map.png","creator":"Ascended Dreamer","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2024-10-12","dateStart":null,"dateEnd":null,"width":8453,"height":6883,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASamland_Physical_Map.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/69/Samland_Physical_Map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Samland_Physical_Map.png/1920px-Samland_Physical_Map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/69/Samland_Physical_Map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"gamtinis-objektas","label":"gamtinis-objektas","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"East Prussia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sambia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sambia Peninsula","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Sambija.md","title":"Sambija","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-08-11T10:09:44.028199+03:00","reviewedAt":"2026-08-11T14:44:52.414124+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Samlando teritorija su miestais, upėmis, vandens telkiniais, miškais ir pelkėmis.","metadataEvidence":"Pavadinime aiškiai nurodyta Samland Physical Map, o apraše apibrėžta Sambijos teritorija ir jos fiziniai objektai.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis target teritorijos fizinis žemėlapis.","isPrimary":0}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  []
+  [{"mediaId":"m-cbe6c1e973a3f38ecfbafa88","title":"Paul Müller-Kaempff - Einsame Hofstelle in Rauschen (Samland).jpg","caption":"Paulio Müllerio-Kaempffo tapyba, vaizduojanti vienišą sodybą Raušene, Sambijoje (Samlande).","originalTitle":"Paul Müller-Kaempff - Einsame Hofstelle in Rauschen (Samland).jpg","creator":"Paul Müller-Kaempff","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"paul-mueller-kaempff.de","dateDisplay":"circa 1891 date QS:P571,+1891-00-00T00:00:00Z/9,P1480,Q5727902","dateStart":null,"dateEnd":null,"width":700,"height":540,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APaul_M%C3%BCller-Kaempff_-_Einsame_Hofstelle_in_Rauschen_%28Samland%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Paul_M%C3%BCller-Kaempff_-_Einsame_Hofstelle_in_Rauschen_%28Samland%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Paul_M%C3%BCller-Kaempff_-_Einsame_Hofstelle_in_Rauschen_%28Samland%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4b/Paul_M%C3%BCller-Kaempff_-_Einsame_Hofstelle_in_Rauschen_%28Samland%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"sodyba","label":"sodyba","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1891 landscape paintings","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"East Prussia in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-auto-expired)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-80-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings without Wikidata item","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paul Müller-Kaempff","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Rauschen","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sambia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sambia Peninsula","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Sambija.md","title":"Sambija","itemType":"vieta","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-08-11T10:09:44.024463+03:00","reviewedAt":"2026-08-11T14:44:52.377721+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma XIX a. pabaigos peizažinė tapyba: sodyba, laukai ir pakrantės kraštovaizdis.","metadataEvidence":"Pavadinime ir apraše aiškiai nurodyta Rauschen (Samland), lietuviškai Raušeną Sambijos krašte.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkrečią Sambijos vietą.","isPrimary":1},{"mediaId":"m-aefc59b7af5b5a90309c1018","title":"Kaliningradsky peninsula DE.svg","caption":"Sambijos (Samland) krašto žemėlapis Kaliningrado pusiasalyje.","originalTitle":"Kaliningradsky peninsula DE.svg","creator":"Insider Andrein ( Original )","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"File:Kaliningradsky_peninsula_RU.svg","dateDisplay":"2015-03-27","dateStart":null,"dateEnd":null,"width":485,"height":325,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKaliningradsky_peninsula_DE.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/67/Kaliningradsky_peninsula_DE.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kaliningradsky_peninsula_DE.svg/1920px-Kaliningradsky_peninsula_DE.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/67/Kaliningradsky_peninsula_DE.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Maps of Kaliningrad Oblast","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sambia Peninsula","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Sambija.md","title":"Sambija","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-08-11T10:09:43.986953+03:00","reviewedAt":"2026-08-11T13:09:04.532416+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Žemėlapio centre aiškiai pažymėtas „Samland“, vokiškas istorinis Sambijos pavadinimas; rodomas visas Kaliningrado pusiasalis ir jo pakrantės.","metadataEvidence":"Pavadinimas nurodo Kaliningrado pusiasalio žemėlapį; vizualus „Samland“ užrašas tiesiogiai sieja jį su Sambija.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Žemėlapis tiesiogiai vaizduoja istorinį Sambijos (Samland) regioną.","isPrimary":0},{"mediaId":"m-d3361c0557f246a06eeb85cb","title":"Sambia Peninsula Linguistic Map 1905.png","caption":"Sambijos (Samlando) kalbinis žemėlapis pagal 1905 m. surašymą.","originalTitle":"Sambia Peninsula Linguistic Map 1905.png","creator":"Ascended Dreamer","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2026-04-26","dateStart":null,"dateEnd":null,"width":8453,"height":6883,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASambia_Peninsula_Linguistic_Map_1905.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Sambia_Peninsula_Linguistic_Map_1905.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sambia_Peninsula_Linguistic_Map_1905.png/1920px-Sambia_Peninsula_Linguistic_Map_1905.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Sambia_Peninsula_Linguistic_Map_1905.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"History of Königsberg","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sambia Peninsula","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Sambija.md","title":"Sambija","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-08-11T10:09:44.027073+03:00","reviewedAt":"2026-08-11T14:44:52.403114+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas detalus Samlando teritorijos žemėlapis su gyvenvietėmis, upėmis, sienomis ir kalbų pasiskirstymo legenda.","metadataEvidence":"Pavadinime ir apraše aiškiai nurodyta Sambia Peninsula, Samland ir 1905 m. surašymas.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis target teritorijos žemėlapis.","isPrimary":0},{"mediaId":"m-d446d0187a083ca1da516975","title":"Samland Physical Map.png","caption":"Sambijos (Samlando) fizinis žemėlapis pagal 1905 m. duomenis.","originalTitle":"Samland Physical Map.png","creator":"Ascended Dreamer","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2024-10-12","dateStart":null,"dateEnd":null,"width":8453,"height":6883,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASamland_Physical_Map.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/69/Samland_Physical_Map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Samland_Physical_Map.png/1920px-Samland_Physical_Map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/6/69/Samland_Physical_Map.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"gamtinis-objektas","label":"gamtinis-objektas","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.95},{"code":"kraštas","label":"kraštas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"East Prussia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sambia","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Sambia Peninsula","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/vietos/Sambija.md","title":"Sambija","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-08-11T10:09:44.028199+03:00","reviewedAt":"2026-08-11T14:44:52.414124+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma Samlando teritorija su miestais, upėmis, vandens telkiniais, miškais ir pelkėmis.","metadataEvidence":"Pavadinime aiškiai nurodyta Samland Physical Map, o apraše apibrėžta Sambijos teritorija ir jos fiziniai objektai.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis target teritorijos fizinis žemėlapis.","isPrimary":0}]
 entity_id: "ent-27149070965dbce2a1bf6ca8"
 canonical_name: "Sambija"
 entity_roles: ["place"]
@@ -204,6 +205,71 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184455
+
+<a id="claim-t-205071"></a>
+- t-011
+  teiginys: "Lukas Davidas, tą liudydamas, ¡pasakoja apie Sambijos kunigaikštį Dorgą, kuris negalėjo laikyti baltų žirgų, o kai vienas žymus pareigūnas, vokietis, Sam bijos vyskupo advokatas, norėjo tuo įsitikinti, pikti dievai uždusino ¡kunigaikščio Dorgo pilyje ano."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-187973
+
+<a id="claim-t-205097"></a>
+- t-012
+  teiginys: "Labiausiai juos traukė Sambijos gamtos lobiai ir gyventojų gerovė."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-187723
+
+<a id="claim-t-205105"></a>
+- t-013
+  teiginys: "Kurį laiką, pra tindamas savuosius prie pavojų ir kankynių, skriejo jū romis, visur skleisdamas baisiausią siaubą, kol pagaliau išsilaipino Sambijos krantuose."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-187749
+
+<a id="claim-t-205286"></a>
+- t-014
+  teiginys: "Po šio žygio prasidėjo nauji įvykiai ir juos lydinčios aplinky bės — tai įsikūrimas Sambijoje Danijos karių, kurie iki ¡pat kryžiuočių laikų buvo vadinami ir žinomi vitingų vardu."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-188194
+
+<a id="claim-t-205817"></a>
+- t-015
+  teiginys: "Teodoras Narbutas aprašo įsakymą į Sambiją nuvaryti žmones tarsi galvijų bandą."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
+  pagrindžia:
+    - c-188432
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -467,6 +533,126 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-010
+
+- id: c-187723
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 196"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 196."
+  citata_originali: |
+    Skandinavų puldinėjimai. Paskutiniame XI amžiaus
+    ketvirtyje nuo jūros pusės buvo užgriuvę plėšikaujantys
+    skandinavų pulkai ir vyko karai. Labiausiai juos traukė
+    Sambijos gamtos lobiai ir gyventojų gerovė.
+  citata_rodoma: "Labiausiai juos traukė \nSambijos gamtos lobiai ir gyventojų gerovė."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
+
+- id: c-187749
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 117"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 117."
+  citata_originali: |
+    Vienas iš Haroldo
+    sūnų, vardu Hakvinas, stojo vadovauti nepaprastam žy­
+    giui su gausia kariauna iš tarnauti pašauktų jaunų ka­
+    rių, visiškai atsidavusių vadui, iš tiesų jaunam, bet pri­
+    gimties apdovanotam puikiais būdo bruožais ■— pasižy­
+    mėjo pavojingiausiais sumanymais, panieka viskam, kas
+    vadinama gailestingumu, žodžiu, viskuo, ką anais laikais
+    ir tame krašte vadindavo didvyriškumu. Kurį laiką, pra­
+    tindamas savuosius prie pavojų ir kankynių, skriejo jū­
+    romis, visur skleisdamas baisiausią siaubą, kol pagaliau
+    išsilaipino Sambijos krantuose. Bet, visų nuostabai, susi­
+    dūrė su pasiryžimu priešintis tolesniam skverbimuisi į
+    kraštą.
+  citata_rodoma: "Kurį laiką, pra­\ntindamas savuosius prie pavojų ir kankynių, skriejo jū­\nromis, visur skleisdamas baisiausią siaubą, kol pagaliau \nišsilaipino Sambijos krantuose. Bet, visų nuostabai, susi­\ndūrė su pasiryžimu priešintis tolesniam skverbimuisi į \nkraštą."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
+
+- id: c-187973
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 403"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 403."
+  citata_originali: |
+    giausiai gyvulius apeidavo: sunkiu žiemos laiku dalyda­
+    vosi su jais būstu, vadintu numais, ir, žemdirbiai būdami,
+    labiau vertino gyvulį, kuris žmogui padeda dirvą suarti,
+    negu ką nors kita, kitokiu būdu padedantį jam duoną
+    užsidirbti. Bet ankstesnėse lietuvių religijose savita buvo
+    tai, kad kai kurie ūkininkai, netgi kai kurios apylinkės ir
+    provincijos kartais apsižiūrėjusios susigriebdavo neau­
+    ginti vienokios ar kitokios vilnos spalvos gyvulių, ne
+    todėl, kad tuo būtų kaip nors nusižengiama, bet todėl,
+    kad pikti dievai paslapčiomis esą užmuša būtent tokios
+    spalvos gyvulius. Lukas Davidas, tą liudydamas, ¡pasakoja
+    apie Sambijos kunigaikštį Dorgą, kuris negalėjo laikyti
+    baltų žirgų, o kai vienas žymus pareigūnas, vokietis, Sam­
+    bijos vyskupo advokatas, norėjo tuo įsitikinti, pikti dievai
+    uždusino ¡kunigaikščio Dorgo pilyje ano baltą žirgą.
+  citata_rodoma: "Lukas Davidas, tą liudydamas, ¡pasakoja \napie Sambijos kunigaikštį Dorgą, kuris negalėjo laikyti \nbaltų žirgų, o kai vienas žymus pareigūnas, vokietis, Sam­\nbijos vyskupo advokatas, norėjo tuo įsitikinti, pikti dievai \nuždusino ¡kunigaikščio Dorgo pilyje ano baltą žirgą."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
+
+- id: c-188194
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 116"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 116."
+  citata_originali: |
+    Lote-
+    nekas — sūnus Švedijos karaliaus Olafo, kuris 902 me­
+    tais, mirus Erikui Barnui, užkariavo Daniją, o kartu ir
+    venedų slavus ■*— iš pastarųjų
+    išsirinko
+    kas
+    trečią
+    kariauti tinkantį, vyrą. Taip sustiprinęs savo plėšikišką
+    kariuomenę, 907 metais užpuolė Prūsiją, Žemgalą ir nu­
+    kariavo visą Baltijos pajūrį iki pat Karelijos1. Po šio
+    žygio prasidėjo nauji įvykiai ir juos lydinčios aplinky­
+    bės — tai įsikūrimas Sambijoje Danijos karių, kurie iki
+    ¡pat kryžiuočių laikų buvo vadinami ir žinomi vitingų
+    vardu.
+  citata_rodoma: "Po šio \nžygio prasidėjo nauji įvykiai ir juos lydinčios aplinky­\nbės — tai įsikūrimas Sambijoje Danijos karių, kurie iki \n¡pat kryžiuočių laikų buvo vadinami ir žinomi vitingų \nvardu."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014
+
+- id: c-188432
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 257"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 257."
+  citata_originali: |
+    galėtų tapti beginklių žmonių budeliu. Tad paliepė vy­
+    resniesiems pasukti galvą dėl tų pagonių laukiančios
+    ateities. Buvo įsakyta nelyginant galvijų bandą nuvaryti
+    į Sambiją.
+  citata_rodoma: "Buvo įsakyta nelyginant galvijų bandą nuvaryti \nį Sambiją."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015
 
 ## Ryšiai
 - Puolė Sambiją: [[objektai/grupes/Lietuviai]]

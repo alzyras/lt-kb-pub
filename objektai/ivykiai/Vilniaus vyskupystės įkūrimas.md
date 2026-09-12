@@ -122,7 +122,6 @@ Nenurodyta
   ryšio_targeto_parinkimas: "Dobrogostas: llm_allowed_candidate, person"
   ryšio_paaiskinimas: "Popiežiaus įgaliojimas Dobrogostui tiesiogiai atitinka paskyrimo santykį."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Urbonas VI paskyrė Dobrogostas (0.90)"
   pagrindžia:
     - c-37072
 

@@ -288,6 +288,19 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   pagrindžia:
     - c-176828
 
+<a id="claim-t-206321"></a>
+- t-015
+  teiginys: "Teodoras Narbutas rašo, kad karalius Kazimieras, gavęs kryžiuočių, čekų, pamarėnų ir kitų kaimynų pagalbą bei Vengrijos karaliaus armijos paramą, įsiveržė į Voluinę ir pirmiausia prirėmė Liubartą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188936
+
 ## Citatos
 
 - id: c-36414
@@ -534,6 +547,26 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-014
+
+- id: c-188936
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 104"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 104."
+  citata_originali: |
+    Karalius Kazimieras
+    nesiryžo savo kariaunos įvesti į Rusią negavęs kryžiuočių, če­
+    kų, pam arėnų ir kitų kaimynų pagalbos, galiausiai sulaukė ir
+    visos Vengrijos karaliaus armijos paramos. Su tomis didžiulė­
+    mis pajėgomis, gavęs popiežiaus palaiminimą visiems kovo­
+    jantiems riteriams, įsiveržė į Voluinę ir pirmiausia prirėmė
+    Liubartą.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015
 
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Aldona Gediminaitė]]

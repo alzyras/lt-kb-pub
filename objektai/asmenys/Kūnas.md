@@ -114,6 +114,19 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
   pagrindžia:
     - c-178946
 
+<a id="claim-t-205149"></a>
+- t-006
+  teiginys: "Borkaus brolis Kūnas, irgi turėjęs valdas prie Nemuno, ties Neries žiotimis, nusi driekusias dešiniajame jos krante, naujausiais chronolo giniais apskaičiavimais, 1030 metais pasistatydino Kauno tvirtovę."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187951
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Kūnas gyvas būdamas padalijo valdžią Kerniui ir Gimbutui, kad sūnums nepaliktų paveldimos neapykantos šaltinio.'
@@ -296,3 +309,21 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
+
+- id: c-187951
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 169"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 169."
+  citata_originali: |
+    Borkaus brolis Kūnas, irgi
+    turėjęs valdas prie Nemuno, ties Neries žiotimis, nusi­
+    driekusias dešiniajame jos krante, naujausiais chronolo­
+    giniais apskaičiavimais, 1030 metais pasistatydino Kauno
+    tvirtovę.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006

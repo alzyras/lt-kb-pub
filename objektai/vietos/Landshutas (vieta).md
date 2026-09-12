@@ -35,6 +35,8 @@ entity_view_role: "place"
 entity_aliases: ["Landshutas","Landshutas (vieta)"]
 sameAs: []
 canonical_biography: "1475 m. Landshuto vestuvėse dalyvavo Albertas Jonaitis Manvydas su 50 žmonių palyda."
+place_authority: true
+historical_names: []
 ---
 # Landshutas (vieta)
 

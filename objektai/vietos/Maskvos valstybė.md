@@ -30,6 +30,8 @@ entity_view_role: "place"
 entity_aliases: ["Maskvos valstybė"]
 sameAs: []
 canonical_biography: "Eustachijus Daškovičius, kaltintas valdovo išdavyste, prieš 1504 m. Brastos seimo išteisinimą buvo pabėgęs į Maskvos valstybę."
+place_authority: true
+historical_names: []
 ---
 # Maskvos valstybė
 

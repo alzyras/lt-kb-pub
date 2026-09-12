@@ -74,6 +74,19 @@ media_all_json: |-
   pagrindžia:
     - c-184288
 
+<a id="claim-t-205633"></a>
+- t-004
+  teiginys: "Žemgaliai atsisakė klausyti kryžiuočių, išsiuntė ordino vaitus iš savo šalies ir, kaip pasakoja Teodoras Narbutas, jų nenuskriaudė."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
+  pagrindžia:
+    - c-188248
+
 ## Citatos
 
 - id: c-175737
@@ -159,3 +172,24 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-188248
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 172"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 172."
+  citata_originali: |
+    Kai visa tai dėjosi, kilo nauji neramumai
+    toje karalystės pusėje. Žemgaliai, neapsikęsdami „fogtų“
+    {Vogtom), kitaip sakant, ordino vaitų, valdžios, atsisakė
+    kryžiuočių klausyti, savo valdytojus išsiuntė iš šalies, nė
+    mažiausios skriaudos jiems nepadarę. Tad riteriams te­
+    ko griebtis paveikesnių priemonių, kad būtų įsitikinę
+    dėl savo valdžios tame krašte.
+  citata_rodoma: "Žemgaliai, neapsikęsdami „fogtų“ \n{Vogtom), kitaip sakant, ordino vaitų, valdžios, atsisakė \nkryžiuočių klausyti, savo valdytojus išsiuntė iš šalies, nė \nmažiausios skriaudos jiems nepadarę. Tad riteriams te­\nko griebtis paveikesnių priemonių, kad būtų įsitikinę \ndėl savo valdžios tame krašte."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

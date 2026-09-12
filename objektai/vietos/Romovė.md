@@ -94,8 +94,28 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   pagrindžia:
     - c-171784
 
-<a id="claim-t-188897"></a>
+<a id="claim-t-188896"></a>
 - t-004
+  teiginys: "Narbutas rašo, kad kol prūsų Romovė nebuvo sunaikinta, iškilmingas aukas vyriausiems dievams kitur atnašauti nederėjo."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Prūsai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Romovė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, group, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romovė\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-171785
+
+<a id="claim-t-188897"></a>
+- t-005
   teiginys: "Narbutas nurodo, kad Dusburgietis Romovę aprašė kaip kadaise buvusį šventą miestą ir krivio buveinę."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -116,7 +136,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
     - c-171786
 
 <a id="claim-t-192742"></a>
-- t-005
+- t-006
   teiginys: "Narbuto pateikimu, vyskupo Kristijono kronikoje turėjo būti žinių apie sieros šaltinį netoli prūsų Romovės."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -136,7 +156,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
     - c-175512
 
 <a id="claim-t-192743"></a>
-- t-006
+- t-007
   teiginys: "Narbutas Romovę vaizdavo kaip dievų šventovę didelės šventos girios viduryje Prūsijos provincijos vakaruose."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -157,7 +177,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
     - c-175513
 
 <a id="claim-t-194746"></a>
-- t-007
+- t-008
   teiginys: "Narbutas teigia, kad taip pat kronikos liudija, jog šio dievo stabas, spirale susi raitęs žaltys, stovėjęs Romovės šventykloje, į kairę nuo Perkū no; varinis dievas buvęs su vidutinio amžiaus žmogaus galva."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -170,7 +190,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
     - c-177142
 
 <a id="claim-t-194747"></a>
-- t-008
+- t-009
   teiginys: "Jau mes mūsų istorijos tyrimais įrodėme, kad paskutiniais stabmeldystės amžiais Romovių būta ne vienoje vietoje ir jose gyveno atskiri kriviai, taigi Dusburgietis apie vieną Nadruvos krivį pasakė tai, kas tiko ir daugeliui kitų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -182,7 +202,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
     - c-177143
 
 <a id="claim-t-197918"></a>
-- t-009
+- t-010
   teiginys: "Būtent provincijos vakaruose plytėjo didelė šventa giria, kurios viduryje buvo dievų šventovė Romovė; šis miškas ošė beveik nuo pat šiaurinės pakrantės galo net iki prie Aistmarių esančių pakrantės žemių."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -194,7 +214,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
     - c-179396
 
 <a id="claim-t-201101"></a>
-- t-010
+- t-011
   teiginys: "Pats vardas upės Nemuno Niemon regimai yra len kiškas žodis, taip pat Romovė neženklina žinyčios, kaip pasakoj skelbia, bet trobesį, kuriame viešpats ir visų vyriausias valdymieras visos tautos gyvenęs, kaipogi šiandien dar žemaičiai namus viešpaties ir."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -400,10 +420,12 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   citata_rodoma: "Kai dėl atskirų aukų atnašavimo kuriam nors iš dievų, kro­\nnikininkai specialistai to neaprašo, tik priduria, kad senais lai­\nkais, kai svarbiausioji šventykla -  prūsų Romovė -  dar nebuvo\ngalutinai sunaikinta, kur nors kitur atnašauti iškilmingų aukų\nvyriausiems dievams nederėjo. Vėliau žyniai, ištaškyti po Lie­\ntuvos kraštus, tam įkūrė daugybę asmeninių šventyklų arba\nvisur pristatė aukurų. Saulės tekėjimas buvo aukų atnašavimo\nlaikas*."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-171786
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -428,7 +450,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-005
 
 - id: c-175512
   autorius: "Teodoras Narbutas"
@@ -447,7 +469,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-006
 
 - id: c-175513
   autorius: "Teodoras Narbutas"
@@ -475,7 +497,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-007
 
 - id: c-177142
   autorius: "Teodoras Narbutas"
@@ -495,7 +517,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-008
 
 - id: c-177143
   autorius: "Teodoras Narbutas"
@@ -517,7 +539,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-009
 
 - id: c-179396
   autorius: "Teodoras Narbutas"
@@ -541,7 +563,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-010
 
 - id: c-184451
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -569,7 +591,7 @@ citataoriginali: | Pačius ragus žvėrių vienus ant kesčių^159 galų maustė
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-011
 
 ## Ryšiai
 - Romovė priklausė [[objektai/vietos/Prūsija]], [[objektai/vietos/Sambija]]

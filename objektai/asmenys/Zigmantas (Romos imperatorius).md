@@ -269,6 +269,19 @@ canonical_biography: "2 Apie Lietuvos ir Žemaitijos tapatu­ mą ir apie tą jo
   pagrindžia:
     - c-184055
 
+<a id="claim-t-206443"></a>
+- t-016
+  teiginys: "Teodoras Narbutas nurodo, kad Brandenburgo markgrafas Zigmantas, praradęs viltį gauti Lenkijos sostą, planavo per santuoką su Marija įgyti Vengriją."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189058
+
 ## Reikšmingi paminėjimai
 - c-008
   santrauka: 'Zigmantas sukvieIšsiskiisto Lucko sutė Korčine seimą, norėdamas, važiavimo dalyviai kad karalystės luomai nuspręstų, kaip dera priešintis nesaikingiems Vytauto potroškiams.'
@@ -690,6 +703,43 @@ canonical_biography: "2 Apie Lietuvos ir Žemaitijos tapatu­ mą ir apie tą jo
   atnaujinta: "2026-07-26 20:29"
   pagrindzia:
     - t-015
+
+- id: c-189058
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 325-326"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 325-326."
+  citata_originali: |
+    Juk kai Brandenburgo
+    markgrafas Zigmantas, jau praradęs visas viltis pasiekti Len­
+    kijos sostą, buvo užsiėmęs kitais planais, tai yra gauti Vengriją
+    per vedybas su vyresniąja Jadvygos* 1 seserimi Marija, nesiliovė
+    Naruševičius anksčiau nurodytoje vietoje, stengėsi turėti tvirtus žentų pečius,
+    tad tuo atveju, jeigu santuoka įvyktų, skiria du šimtus tūkstančių raudonųjų
+    auksinų, laiduodama ta sumą kai kuriomis savo valdomis. Savo ruožtu, jeigu
+    dėl kitos pusės kaltės vedybos iširtų, jam ši kvota taip pat turėtų būti išmokėta
+    (Pray. - P. 174, senajame Belsko leidime: p. 268*). Naruševičius (t. VII. - Kn.
+    IV - Nuoroda nr. 129) cituoja šią priešvedybinę sutartį pažodžiui.
+    1 Stenzel. Gesch. der Preuss. Staats. - Th. I. - S. 132; taip pat: Kurz.
+    Gesch. unter. H. Albrecht III. - B. I. - S. 109. Šie autoriai tvirtai teigia, kad
+    jau 1384 metais Zigmantas buvo Marijos vyras. Tačiau Helvigas chronolo­
+    giniame leidinyje (Zeitrechnung. - S. 161) vienoje transakcijoje pažymi,
+    kad tai įvyko 1385 metais, tikriausiai pradžioje; kas mūsų išdėstyto reikalo
+    nesumenkina.
+    327
+
+    pavydžia akimi sekęs Vilhelmo, anos sužadėtinio, gal tiesiog
+    savo politiniais sumetimais; išsiuntė kunigaikštį Henriką Bu­
+    tautą, žinomą mums rusišku Boriso vardu, pas Jogailą, ir pas­
+    tarasis ar dar sutvirtino jau būtą sumanymą vesti Jadvygą, ar
+    pats tokią mintį broliui įpiršo, žodžiu, apsiėmė tuo pasirūpin­
+    ti
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Barbora Cyleikaitė]]

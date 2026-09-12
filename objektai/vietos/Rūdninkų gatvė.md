@@ -30,6 +30,8 @@ entity_view_role: "place"
 entity_aliases: ["Rūdninkų gatvė"]
 sameAs: []
 canonical_biography: "1791 m. Rūdninkų gatvėje buvo Jono Radzevičiaus mūrinis namas."
+place_authority: true
+historical_names: []
 ---
 # Rūdninkų gatvė
 

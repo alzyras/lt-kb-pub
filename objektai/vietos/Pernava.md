@@ -36,6 +36,20 @@ historical_names: []
 
 Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburgas, Bauskė, Pernava, Kaskhauzenas, Hel- 314 ## Puslapis 331 IV KNYGA menas, Trikačius, Hermesas, Veisenšteinas, Kirchholmas, Volmera, Vendenė, Kokenhauzenas, Rundborgas, Diunamundė.
 
+## Teiginiai
+
+<a id="claim-t-205804"></a>
+- t-001
+  teiginys: "Pasak Narbuto, Treniota užėmė Pernavą ir sugriovė ją ligi pamatų."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188419
+
 ## Citatos
 
 - id: c-82284
@@ -74,3 +88,23 @@ Li­ vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas, Rosytė, Dinaburga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+- id: c-188419
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 195"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 195."
+  citata_originali: |
+    Tuo
+    tarpu magistras Verneris jau artinosi su kariauna; apie
+    tai užgirdę Rusios kunigaikščiai patraukė atgalios į savo
+    kraštą. Kryžiuočiai, norėdami atimti grobį, puolė įkandin
+    vytis. O Treniota, likęs su savais atkirstas, mat uždelsė
+    trauktis, turėjo skverbtis Pernavos link, kurią užėmė ir
+    ligi pamatų sugriovė.
+  citata_rodoma: "O Treniota, likęs su savais atkirstas, mat uždelsė \ntrauktis, turėjo skverbtis Pernavos link, kurią užėmė ir \nligi pamatų sugriovė."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

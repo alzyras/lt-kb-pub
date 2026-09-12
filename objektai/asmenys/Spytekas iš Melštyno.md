@@ -53,6 +53,19 @@ canonical_biography: "Čia buvo ir Tochtamišo totoriai (keli tūkstančiai), 40
   pagrindžia:
     - c-44513
 
+<a id="claim-t-206387"></a>
+- t-002
+  teiginys: "Pasak Narbuto, karalius prie Kijevo stovyklos atsiuntė prityrusių vadų, tarp jų – vaivadą Spitką iš Melštyno."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189002
+
 ## Citatos
 
 - id: c-44513
@@ -81,6 +94,24 @@ canonical_biography: "Čia buvo ir Tochtamišo totoriai (keli tūkstančiai), 40
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-189002
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 499"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 499."
+  citata_originali: |
+    Kariai iš visų pusių traukė
+    Kijevo link, j stovyklą, nusidriekusią kairiajame Dnepro kran­
+    te: karalius atsiuntė savanorių iš Lenkijos ir prityrusių vadų,
+    tarp kurių vyriausieji buvo: vaivados - Jonas iš Tarnovo, Spitka
+    iš Melštyno ir Jonas iš Glovačinų;
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Spytekas iš Melštyno valdė [[objektai/vietos/Podolė]]

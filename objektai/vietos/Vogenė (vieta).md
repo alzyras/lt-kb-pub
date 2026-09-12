@@ -52,6 +52,18 @@ Nujautęs tą, valdymieras Pleskavo Ditrichą paleido ir paskui jį savo siuntin
   pagrindžia:
     - c-184504
 
+<a id="claim-t-205471"></a>
+- t-002
+  teiginys: "Sutartą dieną prie Vogenės susirinko ginkluoti latviai."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187788
+
 ## Citatos
 
 - id: c-184504
@@ -75,3 +87,24 @@ Nujautęs tą, valdymieras Pleskavo Ditrichą paleido ir paskui jį savo siuntin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-187788
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 279"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 279."
+  citata_originali: |
+    Vysku­
+    pas nenorėjo pasitikėti nei Djakonu, nei latviais, atsisakė
+    kunigaikščio tarpininkavimo ir nesutiko dalyvauti suei­
+    goje, kad netrukdytų žmonėms laisvai atstovauti. Tačiau
+    sutarties reikalu kvietėsi į Rygą latvių didikus, pageida­
+    vusius vesti su juo derybas. Galop sutartą dieną latviai
+    susirinko prie Vogenės, bet ginkluoti.
+  citata_rodoma: "Galop sutartą dieną latviai \nsusirinko prie Vogenės, bet ginkluoti."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

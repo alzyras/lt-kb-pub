@@ -371,6 +371,32 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   pagrindžia:
     - c-173689
 
+<a id="claim-t-205070"></a>
+- t-020
+  teiginys: "Tadas Volianskis, šaltinio apibūdintas kaip archeologas, perskaitė nagrinėjamą užrašą ir sudarė lietuvių kalbos abėcėlę."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-188152
+
+<a id="claim-t-205167"></a>
+- t-021
+  teiginys: "Vadinasi, tai ne Vaidevučio, bet Lietuvos kunigaikščio Utenio vėliava ■— jis valdė būtent tuomet, kai kryžiuo čiai pirmą kartą užpuolė prūsus (tai pono Volianskio žo džiai)."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187916
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Narbutas rašė, kad Tadas Volianskis Santvaro atvaizde matė ragus ir dėl nuogumo laikė jį pragaro dievybe.'
@@ -808,3 +834,48 @@ Tado Volianskio išvadomis Narbutas pildė parankinio LTI egzemplioriaus tomus, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-017
+
+- id: c-187916
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 425"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 425."
+  citata_originali: |
+    Žmogumi, prussoz. Zupan Utenes.
+    Vadinasi, tai ne Vaidevučio, bet Lietuvos kunigaikščio
+    Utenio vėliava ■— jis valdė būtent tuomet, kai kryžiuo­
+    čiai pirmą kartą užpuolė prūsus (tai pono Volianskio žo­
+    džiai).
+  citata_rodoma: "Vadinasi, tai ne Vaidevučio, bet Lietuvos kunigaikščio \nUtenio vėliava ■— jis valdė būtent tuomet, kai kryžiuo­\nčiai pirmą kartą užpuolė prūsus (tai pono Volianskio žo­\ndžiai)."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-021
+
+- id: c-188152
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 425"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 425."
+  citata_originali: |
+    Atsidūręs prieš tą jam
+    niekada neregėto senovės paminklo vaizdą, su nuostaba,
+    dievobaimingai mąsto apie nepaprastą, kadaise čia sto­
+    vėjusį miestą, kurio didybę rodo šie rąstų griuvėsiai ir
+    kurio likimas jam kelia graudulį. Visa tai išdėstę, priar­
+    tėjome prie galimybės tiksliai iššifruoti užrašą, kurį mums
+    suteikė garbusis archeologas mūsų tautietis ponas Tadas
+    Volianskis. Jis, gerai mokėdamas visus lietuvių kalbos
+    dialektus, labai lengvai nugalintis numizmatinius sunku­
+    mus, ne tik kad perskaitė minėtą užrašą, bet ir sudarė
+    visą lietuvių kalbos abėcėlę, su kuria maloningai mus su­
+    pažindino.
+  citata_rodoma: "Visa tai išdėstę, priar­\ntėjome prie galimybės tiksliai iššifruoti užrašą, kurį mums \nsuteikė garbusis archeologas mūsų tautietis ponas Tadas \nVolianskis. Jis, gerai mokėdamas visus lietuvių kalbos \ndialektus, labai lengvai nugalintis numizmatinius sunku­\nmus, ne tik kad perskaitė minėtą užrašą, bet ir sudarė \nvisą lietuvių kalbos abėcėlę, su kuria maloningai mus su­\npažindino."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-020

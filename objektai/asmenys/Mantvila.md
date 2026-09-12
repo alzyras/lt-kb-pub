@@ -70,6 +70,32 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
   pagrindžia:
     - c-184362
 
+<a id="claim-t-205066"></a>
+- t-003
+  teiginys: "Gimbuto sūnus ir Palemono pro anūkis Mantvila — turtingas Lietuvos didikas ir žymus kariūnas, arba Wada, tikriausiai pasižymėjęs kai kuriuose grobikiškuose žygiuose ir, galimas daiktas, gelbėdamas Lietuvos žemes dešiniajame Neries žemupio krante nuo Rusios."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187865
+
+<a id="claim-t-205244"></a>
+- t-004
+  teiginys: "Šio žygio vadais buvo Lietuvos Užnerio kunigaikš tis Kukovaitis3 5 ir narsusis kunigaikštis Mantvila, turėjęs valdą Aukštaitijoje."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187841
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės valdymo paliko ją valdyti savo sūnui Mantvilai.'
@@ -171,3 +197,43 @@ Lietuvos metraštis pasakoja, kad Gimbutas po ilgo Žemaičių kunigaikštystės
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-187841
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 224"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 224."
+  citata_originali: |
+    Lietuva neliko neatly­
+    ginusi tokių užpuolimų. Apie 1140 metus, pasikvietę į
+    pagraibą jotvingius, susirinko kariai iš Lietuvos ir Žemai­
+    tijos. Šio žygio vadais buvo Lietuvos Užnerio kunigaikš­
+    tis Kukovaitis3 * 5 ir narsusis kunigaikštis Mantvila, turėjęs
+    valdą Aukštaitijoje.
+  citata_rodoma: "Šio žygio vadais buvo Lietuvos Užnerio kunigaikš­\ntis Kukovaitis3 * 5 ir narsusis kunigaikštis Mantvila, turėjęs \nvaldą Aukštaitijoje."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-187865
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 184"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 184."
+  citata_originali: |
+    Gimbuto sūnus ir Palemono pro­
+    anūkis Mantvila — turtingas Lietuvos didikas ir žymus
+    kariūnas, arba Wada, tikriausiai pasižymėjęs kai kuriuose
+    grobikiškuose žygiuose ir, galimas daiktas, gelbėdamas
+    Lietuvos žemes dešiniajame Neries žemupio krante nuo
+    Rusios puldinėjimų, nemažai buvo prisidėjęs prie jų ne­
+    priklausomybės įsigalėjimo1.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

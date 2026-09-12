@@ -36,10 +36,12 @@ historical_names: []
 
 Toržokas šiame gabale minimas Toržoko kunigaikščio titulo kontekste.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+- id: c-170372
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Rusdorlas P. 269
     Safargalijev M. G. 343
@@ -58,9 +60,10 @@ Toržokas šiame gabale minimas Toržoko kunigaikščio titulo kontekste.
     Sepienskis M ikalojus 271
     Sekira žr. Zubrevickis
     Seid-Achmetas, Krymo ch. 295,
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
+  citata_rodoma: "Rusdorlas P. 269\nSafargalijev M. G. 343 \nSakavičius (Sakaitis) A ndrius \n127, 132, 133, 285, 293 \nSaladinas žr. Dželai-ad-dinas \nSanguška, Algirdaičio Teodoro s.\n81, 231, 232, 287, 288 \nSanguškos 128, 282 \nSapiega Ivanas Semionovičius, \nLDK maršalas 164, 330 \nSapiega Bagdonas Semionovi­\nčius, Ldk Kazimiero raštinin­\nkas 157, 324\nSemionas, Toržoko k. 246 \nSepienskis M ikalojus 271 \nSekira žr. Zubrevickis \nSeid-Achmetas, Krymo ch. 295,"
   statusas: verified
-- t-001
+  atnaujinta: "2026-08-11 18:54"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai

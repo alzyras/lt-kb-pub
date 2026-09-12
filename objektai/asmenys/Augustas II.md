@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Augustas II'
 saltiniai:
+  - '04-ldk-personalijos-idejos-refleksijos'
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
@@ -180,6 +181,24 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   pagrindžia:
     - c-184863
 
+## Reikšmingi paminėjimai
+- c-009
+  santrauka: 'Augustas II buvo Lenkijos ir Lietuvos valdovas, kurio sąjungininkais buvo rusų kariai.'
+  šaltinis: 04-ldk-personalijos-idejos-refleksijos
+  citata_originali: |
+    Mikalojaus bažnyčios, bet dėl švedų keliamo pavojaus
+    jis galiausiai persikėlė į pranciškonų vienuolyną, kur ir pasimirė 170z m. liepos 7 d.,
+    švedams iš Vilniaus jau išžygiavus gilyn į Abiejų Tautų Respublikos žemes35. Bendrą
+    to meto nesaugumo atmosferą tirštino tai, kad, be švedų ir tarpusavyje kovojusių Lie­
+    tuvos Didžiosios Kunigaikštystės didikų bei bajorų grupuočių, Lietuvos Didžiojoje
+    Kunigaikštystėje veikė ir Rusijos kariuomenė. Nors ir būdami Lenkijos ir Lietuvos
+    valdovo Augusto II sąjungininkai, rusų kariai, kaip ir Rusijos caras Petras I, nebuvo
+    jautrūs vietiniams gyventojams.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-04147

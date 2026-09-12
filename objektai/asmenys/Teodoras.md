@@ -90,6 +90,19 @@ Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi p
   pagrindžia:
     - c-178789
 
+<a id="claim-t-206397"></a>
+- t-004
+  teiginys: "Narbutas vaizduoja Dorpato vyskupą Teodorą, baimindamąsi dėl galimo arkivyskupijos nusavinimo, aktyviai rėmusį dvasininkiją ir besikreipusį pagalbos į švedus."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189012
+
 ## Citatos
 
 - id: c-76272
@@ -161,6 +174,26 @@ Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-189012
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 464"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 464."
+  citata_originali: |
+    Vis dėlto D orpato vyskupas Teodoras, supratęs, kad
+    nusavinus arkivyskupiją ateis ir jo eilė, metėsi palaikyti dvasi­
+    ninkijos pusę veikliau už kitus garbius užtarėjus. Pagalbos krei­
+    pėsi į švedus, senąjį arkivyskupą nusiuntė į Livoniją, tie abu su
+    Lietuvos didžiuoju kunigaikščiu sudarė įžūlią ir tvirtą sutartį,
+    kurią pasirašė Vilniaus vyskupas Andrius, taip pat pirmieji Lie­
+    tuvos didikai.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

@@ -35,6 +35,8 @@ entity_view_role: "place"
 entity_aliases: ["Smiltenė","Smiltenė (vieta)"]
 sameAs: []
 canonical_biography: "Benediktas Tyzenhauzas buvo Smiltenės, šiandieninėje Latvijoje, seniūnas."
+place_authority: true
+historical_names: []
 ---
 # Smiltenė (vieta)
 

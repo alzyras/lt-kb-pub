@@ -12,7 +12,15 @@ export const Static: QuartzEmitterPlugin = () => ({
     const outputStaticPath = joinSegments(argv.output, "static")
     await fs.promises.mkdir(outputStaticPath, { recursive: true })
     for (const fp of fps) {
-      if (fp === "graph-data/topology.json") continue
+      // Build-only catalogue: it contains reviewer/model evidence and must
+      // never be copied into the public static output. Runtime gallery JSON is
+      // emitted separately with a curated, public-safe shape.
+      if (
+        fp === "graph-data/topology.json" ||
+        fp === "mediaCatalogSource.json" ||
+        fp === "articleMediaCatalog.json"
+      )
+        continue
       const src = joinSegments(staticPath, fp) as FilePath
       const dest = joinSegments(outputStaticPath, fp) as FilePath
       await fs.promises.mkdir(dirname(dest), { recursive: true })

@@ -305,6 +305,58 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   pagrindžia:
     - c-05711
 
+<a id="claim-t-205745"></a>
+- t-014
+  teiginys: "Teodoras Narbutas Ariogalą apibūdina kaip Liutauro tėvoninės valdos sostinę, vieną seniausių krašto tvirtovių ir miestų bei Stulpų herbo giminės buveinę."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188360
+
+<a id="claim-t-205746"></a>
+- t-015
+  teiginys: "Teodoro Narbuto perteikiamoje kronikoje didysis kunigaikštis, lankydamasis Žemaitijoje ir keliaudamas per Ariogalos dvarą, pastebėjo mažą Vytenį bei pasiėmė jį su savimi."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188361
+
+<a id="claim-t-206453"></a>
+- t-016
+  teiginys: "Ariogalos apylinkės buvo niokojamos keturias dienas."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189068
+
+<a id="claim-t-206454"></a>
+- t-017
+  teiginys: "Ariogalą Teodoras Narbutas mini tarp vidurinių sričių, į kurias planuojant ekspediciją siūloma rašyti Brandenburgo markgrafui."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189069
+
 ## Reikšmingi paminėjimai
 - c-008
   santrauka: 'Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama visiškai sunaikino Ariogalos, Pernaravos ir Labūnavos žemes.'
@@ -623,6 +675,85 @@ Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių so
   patikimumo_saltinis: ai
   pagrindzia:
     - t-012
+
+- id: c-188360
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 269"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 269."
+  citata_originali: |
+    Pirmajame šio veikalo tome atskleidėme kai kurias,
+    šiaip ar taip, mažai žinomas aplinkybes, susijusias su
+    Jogailaičių giminės genealogija (p. 161 —164). Dabar su­
+    lyginę tą senovinį padavimą su Lietuvos kronika, galime
+    daugiau ką šia tema pasakyti. Vytenis buvo sūnus Liu­
+    tauro, kunigaikščio, kitaip tariant, didiko, turėjusio ne­
+    mažą tėvoninę valdą su sostine — Ariogala — viena iš
+    seniausių šioje žemėje tvirtovių ir miestų, Stulpų herbo
+    giminės buveine1 2.
+  citata_rodoma: "Vytenis buvo sūnus Liu­\ntauro, kunigaikščio, kitaip tariant, didiko, turėjusio ne­\nmažą tėvoninę valdą su sostine — Ariogala — viena iš \nseniausių šioje žemėje tvirtovių ir miestų, Stulpų herbo \ngiminės buveine1 2."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014
+
+- id: c-188361
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 270"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 270."
+  citata_originali: |
+    Su juo buvo sūnus Vytenis, gimęs
+    1232 metais.“ Taigi Liutauras Didžiosios Kunigaikštystės
+    vietininko pareigas Polocke ėjo net iki to laiko, kai ši
+    kunigaikštystė buvo užvaldyta rasi Daumantų, Pskoviečio
+    ir Uteniečio, t. y. iki 1281-ųjų. Lietuvos kronika nurodo
+    aplinkybes, Raudonės kronikai nežinomas arba apeitas
+    kaip nederančias stiliui, kurio ten laikomasi: „Didysis
+    kunigaikštis, kronikos žodžiais, lankydamasis Žemaitijoje,
+    keliavo per savo Ariogalos dvarą ir išvydo tą Vytenį, bu­
+    vusį dar mažą berniuką; pamatęs, kad tas vaikas labai
+    gražaus veido ir dailiai nuaugęs, pasiėmė jį su savimi.
+  citata_rodoma: "Didysis \nkunigaikštis, kronikos žodžiais, lankydamasis Žemaitijoje, \nkeliavo per savo Ariogalos dvarą ir išvydo tą Vytenį, bu­\nvusį dar mažą berniuką; pamatęs, kad tas vaikas labai \ngražaus veido ir dailiai nuaugęs, pasiėmė jį su savimi."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015
+
+- id: c-189068
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 154"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 154."
+  citata_originali: |
+    Pirm iausia keturias dienas buvo niokojamos
+    Ariogalos apylinkės.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
+
+- id: c-189069
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 531"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 531."
+  citata_originali: |
+    Tačiau jei norėtų į vidurines sritis, tokias kaip Vilnius, Vi­
+    duklė, Raseiniai arba Ariogala, ruošti ekspediciją, tada terašo
+    Brandenburgo markgrafui, kad nori paviešėti.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-017
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]

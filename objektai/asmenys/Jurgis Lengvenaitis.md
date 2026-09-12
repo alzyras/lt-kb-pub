@@ -54,6 +54,32 @@ Jurgis Lengvenaitis, Švitrigailos sūnėnas, po pralaimėjimo prie Ukmergės ka
   pagrindžia:
     - c-83722
 
+<a id="claim-t-206307"></a>
+- t-002
+  teiginys: "Teodoras Narbutas Jurgį Lengvenaitį apibūdina kaip kunigaikščio sūnų, Naugarde paskelbtą didžiuoju kunigaikščiu."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188922
+
+<a id="claim-t-206308"></a>
+- t-003
+  teiginys: "Teodoras Narbutas Jurgį Lengvenaitį įvardija kaip Vytauto brolio sūnų ir Naugarduko kunigaikštį."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188923
+
 ## Citatos
 
 - id: c-83722
@@ -76,3 +102,41 @@ Jurgis Lengvenaitis, Švitrigailos sūnėnas, po pralaimėjimo prie Ukmergės ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188922
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 524"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 524."
+  citata_originali: |
+    Jurgis Lengvenaitis, sūnus kunigaikščio,
+    Naugarde paskelbto didžiuoju. -T. N
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-188923
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 525-526"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 525-526."
+  citata_originali: |
+    Tam reikalui atminti, kad tvirtai ir
+    nepažeidžiamai galiotų amžiais, mes, aukščiau minėtieji, Trakų
+    527
+
+    I
+    kunigaikštis Vygandas ir Naugarduko kunigaikštis Jurgis, mū­
+    sų brolio sūnus (Jurgis Lengvenaitis, sūnus kunigaikščio, Nau-
+    garde paskelbto didžiuoju. - T. N.) Drucko kunigaikštis Levas,
+    mūsų svainis, Sudimantas iš Vėžiškės (Eišiškių? -T. N), įsakė­
+    me mūsų antspaudus prikabinti
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

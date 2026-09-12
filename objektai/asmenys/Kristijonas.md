@@ -5,9 +5,12 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
+  - 'Lietuvių tautos istorija, t. 3'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -50,7 +53,7 @@ canonical_biography: "Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų 
 
 ## Santrauka
 
-Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, kuriam turėjo ir priklausyti. Kristijonui pasisekė pakrikštyti arčiausia prie Vyslos gyvenančius prūsus, ir 1215 m. jis jau nusivežė į Romą krikštyti du prūsų kunigaikščius. Pirmasis misijonierius, kuriam Prūsuose ėmė sektis, buvo iš gretimosios Pamarės, Olivos cistersų ordino vienuolis Kristijonas.
+Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusivežė krikštyti du prūsų kunigaikščius. Prūsijos vyskupas Kristijonas patarė kunigaikščiui Konradui burti Kristaus karių brolius savo žemei ginti. Nuo 1216 m. Kristijonas, gavęs „Prūsų vyskupo“ titulą, kaip cistersų vienuolis taikiu būdu bandė krikštyti prūsus.
 
 ## Teiginiai
 
@@ -411,6 +414,58 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   pagrindžia:
     - c-184357
 
+<a id="claim-t-205144"></a>
+- t-022
+  teiginys: "1219 m. popiežius Honoratas Kristijonui nurodė išaiškinti kryžiuočiams, kad jų paskirtis yra ginti naująją bažnyčią ir naujakrikščius."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187809
+
+<a id="claim-t-205580"></a>
+- t-023
+  teiginys: "Tikruoju Prūsijos apašI aIu buvo lemta tapti kam kitam. Jis buvo vienuolis, iš pažinęs cistersų regulą — Kristijonas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187771
+
+<a id="claim-t-205697"></a>
+- t-024
+  teiginys: "Teodoro Narbuto pasakojimu, Kryžiuočių ordino dvasininkas Kristijonas karaliaus reikalavimu buvo Rygos arkivyskupo Alberto įšventintas vyskupu, tačiau vėliau karalius jį apskundė popiežiui."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188312
+
+<a id="claim-t-205698"></a>
+- t-025
+  teiginys: "Teodoras Narbutas nurodo, kad tais pačiais metais kryžiuočių vienuolis Kristijonas buvo įšventintas Lietuvos vyskupu ir svarsto, kad Kristijonas galėjo būti skirtas Lietuvos Naugardukui arba Kernavei."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188313
+
 ## Reikšmingi paminėjimai
 - c-008
   santrauka: 'Dusburgiečio pasakojime vyskupo Kristijono ir Dobrynės brolių pastangos buvo nukreiptos į karus prieš prūsus.'
@@ -466,6 +521,18 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     pat negalima paneigti ir didelio lietuvių genties išsibars­
     tymo dar priešistoriniais laikais, nes ir prie Reino, ir ana­
     pus jo yra ryškių litalanų pėdsakų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-025
+  santrauka: 'Mindaugas, Alfredo Bumblausko teigimu, pagalbininku pasirinko Livonijos ordino brolį kunigą Kristijoną ir iš jo gavo informacijos apie Katalikų bažnyčios organizaciją bei popiežiaus santykius su Europos valdovais.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    Mindaugas įžvalgiai pasirinko pagalbininką – Livonijos ordino brolį kunigą Kristijoną, iš
+    kurio išgavo informaciją apie Katalikų bažnyčios organizaciją ir popiežiaus santykius su
+    Europos valdovais, ypač imperatoriumi.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -939,6 +1006,91 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-021
+
+- id: c-187771
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 284"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 284."
+  citata_originali: |
+    Tikruoju Prūsijos apaš-
+    I aIu buvo lemta tapti kam kitam. Jis buvo vienuolis, iš­
+    pažinęs cistersų regulą — Kristijonas. Gimęs jis buvo
+    l'amaryje, Frejenvaldo mieste.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-023
+
+- id: c-187809
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 292"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 292."
+  citata_originali: |
+    Pirmasis kryžiaus žygis j Lenkiją. Bet kai į
+    žygį leidosi kryžiuočių karinės pajėgos, be abejonės, pa­
+    lies Kristijono vadovaujamos, popiežius Honoratas jam
+    liepė 1219 metų gegužės 12 ęlieną atskleisti kryžiuočiams
+    ir jų vadams tikruosius šventojo sumanymo siekius. Ir
+    būtent, kad jie esą pašaukti tik ginti naująją bažnyčią ir
+    naujakrikščius, o ne tenkinti žemiškąjį godumo potraukį.
+  citata_rodoma: "Bet kai į\nžygį leidosi kryžiuočių karinės pajėgos, be abejonės, pa­\nlies Kristijono vadovaujamos, popiežius Honoratas jam \nliepė 1219 metų gegužės 12 ęlieną atskleisti kryžiuočiams \nir jų vadams tikruosius šventojo sumanymo siekius. Ir \nbūtent, kad jie esą pašaukti tik ginti naująją bažnyčią ir \nnaujakrikščius, o ne tenkinti žemiškąjį godumo potraukį."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-022
+
+- id: c-188312
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 150"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 150."
+  citata_originali: |
+    Kristijonas, Kryžiuočių ordino dvasininkas, griežtai ka­
+    raliui pareikalavus, Rygos arkivyskupo Alberto buvo
+    įšventintas vyskupu. O kai paaiškėjo, kad Kristijonas jau
+    yra davęs priesaiką arkivyskupui, savąją jurisdiką ati­
+    duodamas pastarojo valdžion, karalius jam iškalbėjo ir
+    kreipėsi su skundu į popiežių. Dėl viso to buvo išleista
+    karaliaus ir Lietuvos vyskupo vardu bulė, atleidžianti
+    Kristijoną nuo minėtos priesaikos, tarsi neteisėtai duo­
+    tos, su ta sąlyga, kad Naumburgo vyskupui duotų naują,
+    įsipareigodamas tiesiog priklausyti Apaštališkajam sos­
+    tui ir vykdyti jo valią1 2.
+  citata_rodoma: "Kristijonas, Kryžiuočių ordino dvasininkas, griežtai ka­\nraliui pareikalavus, Rygos arkivyskupo Alberto buvo \nįšventintas vyskupu. O kai paaiškėjo, kad Kristijonas jau \nyra davęs priesaiką arkivyskupui, savąją jurisdiką ati­\nduodamas pastarojo valdžion, karalius jam iškalbėjo ir \nkreipėsi su skundu į popiežių."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-024
+
+- id: c-188313
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 505"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 505."
+  citata_originali: |
+    Taigi
+    jau iš pradžių Vitas buvo paskirtas Lietuvos krašto vyskupu, o pa­
+    skirti negalėjo niekas kitas tik Mindaugas, jau krikščionis to krašto
+    valdytojas. Tais pačiais metais Lietuvos vyskupu buvo įšventintas ir
+    kryžiuočių vienuolis Kristijonas. Taigi galima manyti, kad popiežius,
+    negalėdamas iš karto dviejų vyskupų skirti vienai katedrai, vieną
+    nusiuntė į Lietuvos Rusią, o kitą — į tikrąją Lietuvą, į Lietuvos
+    Naugarduką (Nauenpille, šiandien — Liškiava) arba Kernavę.
+  citata_rodoma: "Tais pačiais metais Lietuvos vyskupu buvo įšventintas ir \nkryžiuočių vienuolis Kristijonas. Taigi galima manyti, kad popiežius, \nnegalėdamas iš karto dviejų vyskupų skirti vienai katedrai, vieną \nnusiuntė į Lietuvos Rusią, o kitą — į tikrąją Lietuvą, į Lietuvos \nNaugarduką (Nauenpille, šiandien — Liškiava) arba Kernavę."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-025
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lubavos žemė]]

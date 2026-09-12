@@ -141,6 +141,72 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   pagrindžia:
     - c-184385
 
+<a id="claim-t-205110"></a>
+- t-008
+  teiginys: "Narbutas rašo, kad 1181 m. Černigovo kunigaikštis Sviatoslavas su sąjungininkais traukė kautis su didžiojo kunigaikščio Vsevolodo pulkais."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1181 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinta perteklinė įžanga ir išskleistas įvykio veiksmas. Valdovų titulų vartosena palikta su šaltinio atribucija."
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187981
+
+<a id="claim-t-205331"></a>
+- t-009
+  teiginys: "Sviatoslavas buvo Olgos sūnus ir Asmundo Skandinavo auklėtinis."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188017
+
+<a id="claim-t-205447"></a>
+- t-010
+  teiginys: "Lietuvos pietiniuose kraštuose po tiek laiko vy ravusios taikos pastebime buvus surengtą Černigovo ku nigaikščio Sviatoslavo žygį."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188124
+
+<a id="claim-t-206393"></a>
+- t-011
+  teiginys: "Sviatoslavas viešpatavo Smolenske ir buvo Lietuvos didžiojo kunigaikščio vasalas."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189008
+
+<a id="claim-t-206394"></a>
+- t-012
+  teiginys: "Teodoras Narbutas pasakoja, kad lenkų raitelis Sviatoslavą rado ąžuolų giraitėje be jėgų po medžiu ir nužudė vietoje, tikriausiai todėl, kad Sviatoslavas nenorėjo pasiduoti į nelaisvę."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189009
+
 ## Citatos
 
 - id: c-30288
@@ -311,6 +377,115 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-007
+
+- id: c-187981
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 231"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 231."
+  citata_originali: |
+    1181 m. Lietuviai remia kunigaikštį Vsevolodą. Taip
+    pat žinome, kad tuo metu, kai Rusioje vyko tarpusavio
+    karas ir kai Černigovo kunigaikštis Sviatoslavas siautėjo
+    reikšdamas įvairias pretenzijas ir pasitelkęs sąjungininkų
+    paramą traukė su kariauna į mūšio laulką kautis su di­
+    džiojo kunigaikščio Vsevolodo pulkais, kunigaikštis Vses-
+    lavas Vasilkovičius, turbūt turėjęs Polocko kunigaikščio
+    titulą, juk Glėbas Rogvolodovičius viešpatavo Dručke1 ir,
+    būdamas palei Kijevą, į pagalbą buvo pasitelkęs ir polo-
+    ckiečių sąjungininkus — lietuvių kariaunos pulkus1 2.
+  citata_rodoma: "tuo metu, kai Rusioje vyko tarpusavio \nkaras ir kai Černigovo kunigaikštis Sviatoslavas siautėjo \nreikšdamas įvairias pretenzijas ir pasitelkęs sąjungininkų \nparamą traukė su kariauna į mūšio laulką kautis su di­\ndžiojo kunigaikščio Vsevolodo pulkais, kunigaikštis Vses- \nlavas Vasilkovičius, turbūt turėjęs Polocko kunigaikščio \ntitulą, juk Glėbas Rogvolodovičius viešpatavo Dručke1 ir, \nbūdamas palei Kijevą, į pagalbą buvo pasitelkęs ir polo- \nckiečių sąjungininkus — lietuvių kariaunos pulkus1 2."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
+- id: c-188017
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 121"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 121."
+  citata_originali: |
+    Igorio žmona Olga buvo
+    ne variage, bet slavė iš Pskovo apylinkių. Tad, supranta­
+    ma, išpažino pagoniškąjį tikėjimą, o gal tekėdama ir buvo
+    perėjusi į vakarietišką krikščioniškąjį, bet tai, tuometinių
+    teologų manymu, nesutrukdė dar kartą apsikrikštyti Ca-
+    rograde, jeigu jai rytietiškasis buvo priimtinesnis. O
+    jos
+    sūnus
+    Sviatoslavas,
+    priešingai,
+    laikėsi
+    protėvių
+    tikėjimo, juk jo auklėtojas buvo Asmundas Skandinavas,
+    tad klaidinga būtų manyti, kad ¡šis kunigaikštis būtų bu­
+    vęs auklėjamas slavų pagoniško tikėjimo, šios vien tik
+    variagų toleruojamos stabmeldystės, dvasia, tai tikriau­
+    siai būtų buvę neparanku ir politiniais sumetimais.
+  citata_rodoma: "O \njos \nsūnus \nSviatoslavas, \npriešingai, \nlaikėsi \nprotėvių \ntikėjimo, juk jo auklėtojas buvo Asmundas Skandinavas"
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+
+- id: c-188124
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 234"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 234."
+  citata_originali: |
+    Černigovo kunigaikščio Sviatoslavo žygis į
+    Lietuvą. Lietuvos pietiniuose kraštuose po tiek laiko vy­
+    ravusios taikos pastebime buvus surengtą Černigovo ku­
+    nigaikščio Sviatoslavo žygį. Jis buvo vedęs Pinsko ir
+    Turovo kunigaikščių seserį ir taip tapęs jų svainiu.
+  citata_rodoma: "Lietuvos pietiniuose kraštuose po tiek laiko vy­\nravusios taikos pastebime buvus surengtą Černigovo ku­\nnigaikščio Sviatoslavo žygį. Jis buvo vedęs Pinsko ir \nTurovo kunigaikščių seserį ir taip tapęs jų svainiu."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+
+- id: c-189008
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 344"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 344."
+  citata_originali: |
+    Sviatoslavas viešpatavo Smolenske, buvo
+    vienas iš Lietuvos didžiojo kunigaikščio vasalų; šis, be abejo­
+    nės, Livonijos magistro, tarpininkaujamo Andriaus, įkalbėtas,
+    atvykęs lydimas pusbrolio Jono, taip pat dviejų savo sūnų -
+    Glebo ir Jurgio, nužygiavo į Vitebską, paskui į Oršą,
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
+
+- id: c-189009
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 345"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 345."
+  citata_originali: |
+    Patį Sviatoslavą lenkas
+    raitelis užklupo ąžuolų giraitėje, kur gulėjo be jėgų po m e­
+    džiu, gal žaizdų, gal nuovargio išsekintas; užmušė jį vietoje,
+    tikriausiai nepanorusio pasiduoti nelaisvėn.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Jurgis (Sviatoslavo sūnus)]], [[objektai/asmenys/Jurijus]]

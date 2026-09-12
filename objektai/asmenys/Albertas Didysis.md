@@ -126,6 +126,19 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
     - c-177305
     - c-179299
 
+<a id="claim-t-205115"></a>
+- t-006
+  teiginys: "Anglijos karaliaus Alfredo Didžiojo pavedimu keliavo į Prūsiją, užsuko į uostą, susipažino su tenykš čio krašto būkle bei kai kuriais gyventojų papročiais ir pateikė karaliui platų to aprašymą, iš kur paėmę tuos dalykus, kurie iš tiesų svarbūs mūsų temai."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:35Z"
+  pagrindžia:
+    - c-188044
+
 ## Citatos
 
 - id: c-57669
@@ -228,6 +241,29 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
+
+- id: c-188044
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 107"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 107."
+  citata_originali: |
+    Šio jūreivio kelionė, žinoma
+    Vulfstano jurų kelionės (Periplum) vardu, įvyko apie 890
+    metus1. Nėra nieko detaliau žinoma apie jo gyvenimą,
+    net neaiški gimimo vieta, manoma, kad buvo kilęs iš
+    Slėzvigo. Anglijos karaliaus Alfredo Didžiojo pavedimu
+    keliavo į Prūsiją, užsuko į uostą, susipažino su tenykš­
+    čio krašto būkle bei kai kuriais gyventojų papročiais ir
+    pateikė karaliui platų to aprašymą, iš kur paėmę tuos
+    dalykus, kurie iš tiesų svarbūs mūsų temai, išdėstysime.
+  citata_rodoma: "Anglijos karaliaus Alfredo Didžiojo pavedimu \nkeliavo į Prūsiją, užsuko į uostą, susipažino su tenykš­\nčio krašto būkle bei kai kuriais gyventojų papročiais ir \npateikė karaliui platų to aprašymą, iš kur paėmę tuos \ndalykus, kurie iš tiesų svarbūs mūsų temai, išdėstysime."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 ## Ryšiai
 - Albertas Didysis (pamokslininkų ordino kunigas, XIII a.) gimė [[objektai/vietos/Vokietija]]

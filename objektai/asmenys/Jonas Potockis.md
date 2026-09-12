@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Jonas Potockis'
 saltiniai:
+  - '04-ldk-personalijos-idejos-refleksijos'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1812 m.'
@@ -40,7 +41,11 @@ canonical_biography: "Retro ir Prilvico stabų tyrimai Narbuto pastaboje siejami
 
 ## Santrauka
 
-Retro ir Prilvico stabų tyrimai Narbuto pastaboje siejami su Tunmano, Jono Potockio ir Suroveckio raštais. Narbutas, remdamasis Jono Potockio tyrimais, siejo Retros šventyklos žynį Krewe, lietuvių stabus ir Meklenburgo bei Lužicos runų užrašus.
+Retro ir Prilvico stabų tyrimai Narbuto pastaboje siejami su Tunmano, Jono Potockio ir Suroveckio raštais. Narbutas, remdamasis Jono Potockio tyrimais, siejo Retros šventyklos žynį Krewe, lietuvių stabus ir Meklenburgo bei Lužicos runų užrašus. Vincento Ignaco Marevičiaus proginėse eilėse Jonas Potockis įvardijamas Karūnos laikytoju jo apsirengimo lenkiškais drabužiais proga.
+
+## Santrauka
+
+Retro ir Prilvico stabų tyrimai Narbuto pastaboje siejami su Tunmano, Jono Potockio ir Suroveckio raštais. Narbutas, remdamasis Jono Potockio tyrimais, siejo Retros šventyklos žynį Krewe, lietuvių stabus ir Meklenburgo bei Lužicos runų užrašus. Vincento Ignaco Marevičiaus proginėse eilėse Jonas Potockis įvardijamas Karūnos laikytoju jo apsirengimo lenkiškais drabužiais proga.
 
 ## Teiginiai
 
@@ -65,6 +70,21 @@ Retro ir Prilvico stabų tyrimai Narbuto pastaboje siejami su Tunmano, Jono Poto
     - c-172953
 
 ## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Retro ir Prilvico stabų tyrimai Narbuto pastaboje siejami su Tunmano, Jono Potockio ir Suroveckio raštais.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    tos prabos; iš viso galėjo būti pusantro svaro. Vieną plonųjų
+    rūšies egzempliorių pradangino tas pats prekiautojas*. Po šių
+    pastabų aprašysiu tas monetas, nusipelnančias čia vietos, bent
+    jau dėl to, kad buvo rastos Lietuvos žemėje.
+    III
+    lentelė, 10-asis piešinys.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 - c-002
   santrauka: 'Narbutas, remdamasis Jono Potockio tyrimais, siejo Retros šventyklos žynį Krewe, lietuvių stabus ir Meklenburgo bei Lužicos runų užrašus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -82,6 +102,21 @@ Retro ir Prilvico stabų tyrimai Narbuto pastaboje siejami su Tunmano, Jono Poto
     Taigi slavai obotritai, žinomi Helmoldui ir kitiems istori­
     kams, užvaldė lietuvių tautos šventyklas ir iš jų mokėsi dievų
     garbinimo, kuris buvo artimas lietuviškam6.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-003
+  santrauka: 'Vincento Ignaco Marevičiaus proginėse eilėse Jonas Potockis įvardijamas Karūnos laikytoju jo apsirengimo lenkiškais drabužiais proga.'
+  šaltinis: 04-ldk-personalijos-idejos-refleksijos
+  citata_originali: |
+    V. I. Marevičius atsiliepė ir j polemiką, kilusią po
+    to, kaljanas Potockis pasirodė viešumoje, vilkėdamas tautiniais drabužiais. Ta proga pasirodė
+    daug giriamųjų ir poleminių eilių, tarp jų - V. I. Marcvičiaus Do Jaśnie Wielmożnego Jm ci P.ui.i
+    Jona Potockiego, krajezyka koronnego, z okoliczności przebrania sifjego po polsku Ųo Kilnybei Po­
+    nui Janui Potockim', Karūnos laikytojui, apsirengimo lenkiškais rūbais proga), ir. Krystyna Mak­
+    simowicz, Wstęp, p. 9,
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

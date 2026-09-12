@@ -4,10 +4,12 @@ pavadinimas: 'Reformacijos pradžia Lietuvoje'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 datos:
+  - '1000 m.'
   - '1517 m.'
   - '1525 m.'
+  - '1539 m.'
   - '1542 m.'
-date_start: '1517'
+date_start: '1000'
 date_end: '1542'
 sukurta: ''
 atnaujinta: ''
@@ -15,6 +17,7 @@ tags:
   - ivykis
   - reforma
 amziai:
+  - 'X'
   - 'XVI'
 media_total_count: '0'
 media_primary_thumb_url: ''

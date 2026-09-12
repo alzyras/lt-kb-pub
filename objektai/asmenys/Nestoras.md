@@ -225,6 +225,19 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   pagrindžia:
     - c-173818
 
+<a id="claim-t-206366"></a>
+- t-011
+  teiginys: "1342 m., pasak Teodoro Narbuto, rusų vienuolis Nestoras, Marijos Algirdienės rūmų kapelionas, atvertė į krikščionybę brolius Kuklėjų ir Michlėjų."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188981
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš“, bet jį esą reikia skaityti kaip „Kurs“.'
@@ -515,3 +528,28 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-008
+
+- id: c-188981
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 559-560"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 559-560."
+  citata_originali: |
+    Pačioje didžiojo kunigaikščio Algirdo viešpatavimo pradžioje,
+    1342 metais1 2, rusų vienuolis, vardu Nestoras, didžiosios kuni­
+    1 Reikia pažymėti, kad laikotarpis nuo 1345 iki 1348 metų Strijkovskio
+    yra praleistas.
+    2 Kulczynski. Menologium Bazylianskie*. Šis autorius, sekdamas Koja-
+    lavičiumi, to įvykio data nurodo 1329 metus, betgi vėliau, geriau istoriją
+    561
+
+    gaikštienės Marijos Algirdienės rūmų kapelionas, atvertė kai
+    kuriuos lietuvius krikščionybėn, tarp jų buvo dvariškių, garsios
+    kilmės, du broliai Kuklėjus ir Michlėjus, didžiojo kunigaikščio
+    numylėtiniai
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011

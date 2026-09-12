@@ -80,6 +80,32 @@ Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta ga
   pagrindžia:
     - c-38475
 
+<a id="claim-t-205438"></a>
+- t-003
+  teiginys: "1223 m. riteriai kalavijuočiai nesėkmingai mėgino užimti Dorpato pilį."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-188027
+
+<a id="claim-t-205762"></a>
+- t-004
+  teiginys: "Dorpatas, pasak Teodoro Narbuto, iš trijų pusių buvo juosiamas mūro sienos, o iš ketvirtosios saugomas labai galingos pilies."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188377
+
 ## Citatos
 
 - id: c-38474
@@ -133,6 +159,47 @@ Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta ga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-188027
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 358"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 358."
+  citata_originali: |
+    nėjo žemes nepaklusniausių jo valdžiai nuo Veigos iki
+    Virumos, nuo Virumos iki Gervanų ir iki Sakalos, visai
+    nepaisydamas, ar tai ką tik priėmusiųjų krikštą, ar tai
+    vokiečių valdos1. Vokiečiai siuntė prieš jį įvairius pulkus,
+    tačiau nieko nelaimėjo. Būtent 1223 metais riteriai kala­
+    vijuočiai vienu metu po Kalėdų mėgino užimti Dorpato
+    pilį, tačiau nesėkmingai* 1 2.
+  citata_rodoma: "Būtent 1223 metais riteriai kala­\nvijuočiai vienu metu po Kalėdų mėgino užimti Dorpato \npilį, tačiau nesėkmingai* 1 2."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-188377
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 194"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 194."
+  citata_originali: |
+    Treniota turėjo dalinį, surinktą iš že­
+    maičių savanorių. Jie patraukė prie Dorpato, miesto, iš
+    trijų pusių apjuosto mūro siena, iš ketvirtos — saugomo
+    labai galingos pilies, atsiskyrusios ant kalno, tiksliau—■
+    aukštumos, ant kurios kauburo driekėsi plynė. Užgrobė
+    tą miestą, apiplėšė ir sudegino1.
+  citata_rodoma: "Jie patraukė prie Dorpato, miesto, iš \ntrijų pusių apjuosto mūro siena, iš ketvirtos — saugomo \nlabai galingos pilies, atsiskyrusios ant kalno, tiksliau—■ \naukštumos, ant kurios kauburo driekėsi plynė. Užgrobė \ntą miestą, apiplėšė ir"
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 ## Ryšiai
 - Puolė Dorpatą: [[objektai/grupes/Lietuviai]]

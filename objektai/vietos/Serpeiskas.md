@@ -42,8 +42,26 @@ historical_names: []
 
 Serpeiskas aiškinamas kaip Smolensko žemės miestas. Serpeiskas seniau priklausė Meščovsko apskričiai.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
+<a id="claim-t-187325"></a>
+- t-001
+  teiginys: "Po 1494.II.5 sutarties Serpeiskas paliko LDK."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Chlepenis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Serpeiskas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Chlepenis: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Serpeiskas\" parinktas kaip owner_note_path. Targetas \"Chlepenis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-170355
+
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -58,3 +76,21 @@ Serpeiskas aiškinamas kaip Smolensko žemės miestas. Serpeiskas seniau priklau
   patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   statusas: verified
+## Citatos
+
+- id: c-170355
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    jai Kunigaikštystei buvo pripažinti tik Chlepenis ir dalinai Meš-
+    čovskas, but taip pat daug miestų ir valsčių, kurie BK neišvardyti.
+    Uubuckas, Serpeiskas, M censkas paliko LDK.
+  citata_rodoma: "jai Kunigaikštystei buvo pripažinti tik Chlepenis ir dalinai Meš- \nčovskas, but taip pat daug miestų ir valsčių, kurie BK neišvardyti. \nUubuckas, Serpeiskas, M censkas paliko LDK."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

@@ -6,7 +6,7 @@ tema_kategorija: "ivykiai"
 tema_kategorijos_pavadinimas: "Įvykiai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 89
+tema_objektu_skaicius: 88
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 89.
+Objektų skaičius: 88.
 
 ## Kaip naudoti
 
@@ -78,7 +78,6 @@ Objektų skaičius: 89.
 - [Lietuvos Valstybės Konstitucijos priėmimas (1922 m. rugpjūčio 1 d.)](../objektai/ivykiai/Lietuvos%20Valstyb%C4%97s%20Konstitucijos%20pri%C4%97mimas%20%281922%20m.%20rugpj%C5%AB%C4%8Dio%201%20d.%29)
 - [Lietuvos žemės nacionalizavimo deklaracijos priėmimas (1940 m. liepos 22 d.)](../objektai/ivykiai/Lietuvos%20%C5%BEem%C4%97s%20nacionalizavimo%20deklaracijos%20pri%C4%97mimas%20%281940%20m.%20liepos%2022%20d.%29)
 - [Liono suvažiavimas ir Marijos gimimo oktavos įsteigimas (1245 m.)](../objektai/ivykiai/Liono%20suva%C5%BEiavimas%20ir%20Marijos%20gimimo%20oktavos%20%C4%AFsteigimas%20%281245%20m.%29)
-- [Liublino unija (1569 m.)](../objektai/ivykiai/Liublino%20unija%20%281569%20m.%29)
 - [Liublino unijos politinis įgyvendinimas Abiejų Tautų Respublikoje (unija)](../objektai/ivykiai/Liublino%20unijos%20politinis%20%C4%AFgyvendinimas%20Abiej%C5%B3%20Taut%C5%B3%20Respublikoje)
 - [Liubomirskio seimo išardymas (1639 m.)](../objektai/ivykiai/Liubomirskio%20seimo%20i%C5%A1ardymas%20%281639%20m.%29)
 - [LLKS Vasario 16-osios deklaracijos priėmimas (1949 m.)](../objektai/ivykiai/LLKS%20Vasario%2016-osios%20deklaracijos%20pri%C4%97mimas%20%281949%20m.%29)

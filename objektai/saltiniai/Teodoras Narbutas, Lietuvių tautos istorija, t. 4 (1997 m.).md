@@ -22,3 +22,40 @@ media_all_json: |-
 ## Šaltinio dalys
 
 - Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.)
+
+## Teiginiai
+
+<a id="claim-t-205583"></a>
+- t-001
+  teiginys: "Leidinyje nurodoma, kad vertimo originalas yra 1838 m. Vilniuje A. Marcinowskio spaustuvėje išleistas Teodoro Narbutto „Dzieje narodu Litewskiego“ ketvirtas tomas."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "source_intake"
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188197
+
+## Citatos
+
+- id: c-188197
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 3"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 3."
+  citata_originali: |
+    UDK R47.45.0l
+    Na-126
+    Versta iš:
+    Dzieje narodu
+    Litewskiego przez
+    Teodora Narbutta.
+    Tom czwarty.
+    Wilno, nakladem i drukiem
+    A. Marcinowskiego, 1838.
+  citata_rodoma: "Versta iš: \nDzieje narodu \nLitewskiego przez \nTeodora Narbutta. \nTom czwarty.\nWilno, nakladem i drukiem \nA. Marcinowskiego, 1838."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

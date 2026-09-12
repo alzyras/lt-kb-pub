@@ -119,6 +119,32 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   pagrindžia:
     - c-179252
 
+<a id="claim-t-205155"></a>
+- t-005
+  teiginys: "Galpp Bajeris mano, kad tai pavaizduotos iš iberų nusižiūrėtos raidės."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187791
+
+<a id="claim-t-205222"></a>
+- t-006
+  teiginys: "Vėliau Bajeris irgi į tuos pačius dalykus atkreipė dėmesį1 2."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-188012
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Teodoro Narbuto pasakojime Bajeris norėjo 1590 m. Jenoje išleistą knygelę apie gintarą, briedį ir Prūsijos žoles įtraukti į „Monumentą Prussica“.'
@@ -221,3 +247,41 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
+
+- id: c-187791
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 422"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 422."
+  citata_originali: |
+    Galpp Bajeris mano,
+    kad tai pavaizduotos iš iberų nusižiūrėtos raidės. Netu­
+    rėdami po ranka iberų abėcėlės, negalime spręsti, kiek
+    tiesos yra šiame spėjime. Šiaip ar taip, Bajeris dar rado
+    kitą šio įrašo ¡kopiją, paimtą ne iš Grunau kronikos, ka­
+    dangi kai kurios raidės yra kitokios1.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
+- id: c-188012
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 421"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 421."
+  citata_originali: |
+    Taigi Pretorijus nesiima išskaityti įrašo. Vėliau
+    Bajeris irgi į tuos pačius dalykus atkreipė dėmesį1 2. Jo
+    manymu, kronikininkai Grunau ir Lukas Davidas iš vys­
+    kupo Kristijono kronikos išrašė įrašą ir žinias apie vėlia­
+    vą*.
+  citata_rodoma: "Vėliau \nBajeris irgi į tuos pačius dalykus atkreipė dėmesį1 2. Jo \nmanymu, kronikininkai Grunau ir Lukas Davidas iš vys­\nkupo Kristijono kronikos išrašė įrašą ir žinias apie vėlia­\nvą*."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006

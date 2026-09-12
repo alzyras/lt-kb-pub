@@ -87,6 +87,19 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
   pagrindžia:
     - c-168355
 
+<a id="claim-t-206511"></a>
+- t-003
+  teiginys: "Po Uzbeko mirties totorių ordos skilo į nepriklausomas valstybes, o viena jų užvaldė Dnepro žemupį ir skverbėsi į Krymą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189126
+
 ## Citatos
 
 - id: c-38532
@@ -135,6 +148,24 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-189126
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 159"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 159."
+  citata_originali: |
+    Totoriai dėl savo ordose po
+    Uzbeko mirties prasidėjusių perversmų pradėjo skilti į įvai­
+    rias valstybes, nepriklausomas viena nuo kitos, turinčias savo
+    chanus. Viena tokia orda užvaldė Dnepro žemupį ir ėmė brau­
+    tis į Krymą.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Oramas]]

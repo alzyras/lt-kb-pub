@@ -290,6 +290,58 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   pagrindžia:
     - c-179222
 
+<a id="claim-t-205112"></a>
+- t-014
+  teiginys: "Tad teisinga būtų manyti, kad Palemono at vestieji buvo ainiai tų pačių herulų, kurie IX amžiuje buvo išvykę iš Žemutinės Saksonijos ir įsikūrę kairiaja me Vyslos krante, apsigyvendami kartu su slavais (žr."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-188026
+
+<a id="claim-t-205240"></a>
+- t-015
+  teiginys: "Aiškus dalykas, kad pirmas padavimo punktas teisingas, o ant ras — kelia abejonių, taigi būtent herulų atvykimas yra neginčytina tiesa."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-188042
+
+<a id="claim-t-205455"></a>
+- t-016
+  teiginys: "Visiškai galime patikėti spėji mu, tarę, kad šis Palemonas kartu su savo draugais, ¡ku rių buvo penki šimtai, — tai ne kas kita, o herulai, dar išlikę kitoje Oderio pusėje ar kur nors arčiau ir vėliau priversti vykti pas savo giminaičius lietuvius."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-188052
+
+<a id="claim-t-205538"></a>
+- t-017
+  teiginys: "Ją ir herulai, kaip tobuliausią, buvo sau prisi taikę."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187745
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Narbutas herulus vaizdavo kaip gotų priešus, kai gotai, jo aiškinimu, jau buvo krikščionys ir niokojo baltų kraštų gentis.'
@@ -699,6 +751,105 @@ Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidiva
   patikimumo_saltinis: ai
   pagrindzia:
     - t-013
+
+- id: c-187745
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 58"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 58."
+  citata_originali: |
+    Vyraujanti visoje lietuvių tautoje tikėjimo sistema,
+    įvesta ten nuo VI amžiaus, buvo laibai sena, visuotinai tau­
+    tinė, labai vertinama Siaurės Europoje ir daugelio tautų
+    perimama. Ją ir herulai, kaip tobuliausią, buvo sau prisi­
+    taikę. Nors jie, būdami Italijoje, ir įgijo žinių apie kitokią
+    tvarką ir religiją, bet karšta meilė gimtiesiems namams,
+    fanatiškas atsidavimas tautai ir buvo tos priežastys, dėl
+    kurių jie atmetė Romos imperijoje pažintas spinduliuo­
+    jančias tiesas ir apsisprendė verčiau nebeieškoti ¡geresnio
+    tikėjimo bei liautis tobulinus pasaulietinę tvarką, negu
+    pakenkti protėvių sumanymams ir svajonėms, juk tos
+    svajonės tokios brangios ir tiek jose garbingos praeities
+    atgarsių.
+  citata_rodoma: "Ją ir herulai, kaip tobuliausią, buvo sau prisi­\ntaikę. Nors jie, būdami Italijoje, ir įgijo žinių apie kitokią \ntvarką ir religiją, bet karšta meilė gimtiesiems namams, \nfanatiškas atsidavimas tautai ir buvo tos priežastys, dėl \nkurių jie atmetė Romos imperijoje pažintas spinduliuo­\njančias tiesas ir apsisprendė verčiau nebeieškoti ¡geresnio \ntikėjimo bei liautis tobulinus pasaulietinę tvarką, negu \npakenkti protėvių sumanymams ir svajonėms, juk tos \nsvajonės tokios brangios ir tiek jose garbingos praeities \natgarsių"
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-017
+
+- id: c-188026
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 134"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 134."
+  citata_originali: |
+    Mat
+    krikščionybė tais laikais dar menkai tebuvo įsitvirtinusi,
+    ypač tai pasakytina apie karinius gyventojų sluoksnius.
+    Šit kad ir variagai — nors ir buvo krikščionys, bet Riu-
+    riko proanūkis Vladimiras priėmė tikėjimą tos tautos, ku­
+    rią valdė. Tad teisinga būtų manyti, kad Palemono at­
+    vestieji buvo ainiai tų pačių herulų, kurie IX amžiuje
+    buvo išvykę iš Žemutinės Saksonijos ir įsikūrę kairiaja­
+    me Vyslos krante, apsigyvendami kartu su slavais (žr.
+    § 464).
+  citata_rodoma: "Tad teisinga būtų manyti, kad Palemono at­\nvestieji buvo ainiai tų pačių herulų, kurie IX amžiuje \nbuvo išvykę iš Žemutinės Saksonijos ir įsikūrę kairiaja­\nme Vyslos krante, apsigyvendami kartu su slavais (žr. \n§ 464)."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014
+
+- id: c-188042
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 133"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 133."
+  citata_originali: |
+    Tų pačių, tiksliau sakant,
+    jų ainių, kurie politinių permainų laikais audrų buvo nu­
+    blokšti į tolimąją Italiją. Lietuvos kronikos apskritai
+    sutaria dėl jų atvykimo iš romėnams priklausiusių žemių,
+    skiriasi tik nuomonės dėl šio įvykio priežasčių. Aiškus
+    dalykas, kad pirmas padavimo punktas teisingas, o ant­
+    ras — kelia abejonių, taigi būtent herulų atvykimas yra
+    neginčytina tiesa.
+  citata_rodoma: "Lietuvos kronikos apskritai \nsutaria dėl jų atvykimo iš romėnams priklausiusių žemių, \nskiriasi tik nuomonės dėl šio įvykio priežasčių. Aiškus \ndalykas, kad pirmas padavimo punktas teisingas, o ant­\nras — kelia abejonių, taigi būtent herulų atvykimas yra \nneginčytina tiesa."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015
+
+- id: c-188052
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 132"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 132."
+  citata_originali: |
+    Betgi taip galėjo atsitikti ir
+    trečią kartą X amžiaus antrojoje pusėje, tikėtina, kad jie
+    galėjo ¡būti Palemono vedami. Kad Palemono ar Palimono
+    vardas buvo žinomas mūsų krašte, rodo ir dabar girdimos
+    pavardės1 Žemaitijoje. Turime ir mitologinį padavimą apie
+    šį vyrą (šio veikalo I tomo str. „Palemonas“ — P. 166—
+    168), yra ir nuostabi vietovė, tą patį mums menanti, tad
+    nėra ko čia romėnų velti. Visiškai galime patikėti spėji­
+    mu, tarę, kad šis Palemonas kartu su savo draugais, ¡ku­
+    rių buvo penki šimtai, — tai ne kas kita, o herulai, dar
+    išlikę kitoje Oderio pusėje ar kur nors arčiau ir vėliau
+    priversti vykti pas savo giminaičius lietuvius.
+  citata_rodoma: "Betgi taip galėjo atsitikti ir \ntrečią kartą X amžiaus antrojoje pusėje, tikėtina, kad jie \ngalėjo ¡būti Palemono vedami. Kad Palemono ar Palimono \nvardas buvo žinomas mūsų krašte, rodo ir dabar girdimos \npavardės1 Žemaitijoje. Turime ir mitologinį padavimą apie \nšį vyrą (šio veikalo I tomo str. „Palemonas“ — P. 166— \n168), yra ir nuostabi vietovė, tą patį mums menanti, tad \nnėra ko čia romėnų velti. Visiškai galime patikėti spėji­\nmu, tarę, kad šis Palemonas kartu su savo draugais, ¡ku­\nrių buvo penki šimtai, — tai ne kas kita, o herulai, dar \nišlikę kitoje Oderio pusėje ar kur nors arčiau ir vėliau \npriversti vykti pas savo giminaičius lietuvius"
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
 
 ## Ryšiai
 - Priešai: [[objektai/grupes/Gotai]]

@@ -68,6 +68,18 @@ Kojelavičiaus nurodytoje istorijoje totorių vadas Mamajus XIV a. viduryje puld
   pagrindžia:
     - c-174323
 
+<a id="claim-t-206359"></a>
+- t-003
+  teiginys: "1380 m. Mamajus sutelkė poloviečius, Chazarijos turkus, čerkesus, jasus, burtanus, armėnus ir Krymo genujiečius."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188974
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kojelavičiaus nurodytoje istorijoje totorių vadas Mamajus XIV a. viduryje puldinėjo ir sugriovė poloviečių-lietuvių sostinę Beloserką.'
@@ -113,3 +125,23 @@ Kojelavičiaus nurodytoje istorijoje totorių vadas Mamajus XIV a. viduryje puld
   pagrindzia:
     - t-001
     - t-002
+
+- id: c-188974
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 250"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 250."
+  citata_originali: |
+    Betgi Mamajus per dvejus metus stipriai apsiginklavo;
+    1380 metais, rudeniop, subūrė savo žmonių pulkus, sutelkė są­
+    jungininkus: poloviečius, Chazarijos turkus, čerkesus, jasus, bur-
+    tanus, tai yra Kaukazo tautas, atverstas į žydų tikėjimą, armėnus
+    ir dargi Krymo genujiečius. Be to, išleido pasiuntinybę, kviesda­
+    mas didįjį kunigaikštį Jogailą dalyvauti, kaip manė, Rusią iš nau­
+    jo užkariaujant, kurios pusę jam esą perleidžiąs.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

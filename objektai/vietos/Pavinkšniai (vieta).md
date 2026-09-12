@@ -35,6 +35,8 @@ entity_view_role: "place"
 entity_aliases: ["Pavinkšniai","Pavinkšniai (vieta)"]
 sameAs: []
 canonical_biography: "Pavinkšniai buvo dabartiniame Kėdainių rajone."
+place_authority: true
+historical_names: []
 ---
 # Pavinkšniai (vieta)
 

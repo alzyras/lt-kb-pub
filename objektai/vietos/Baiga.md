@@ -333,6 +333,19 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   pagrindžia:
     - c-86164
 
+<a id="claim-t-205360"></a>
+- t-018
+  teiginys: "Šie į Baigos apylinkes bendram pasitarimui sušaukė visą tautą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-187901
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Po susitaikymo Čekijos karalius nuvedė kariuomenę iki Baigos pilies, kur broliai surado seną vyrą Gedūną.'
@@ -736,6 +749,23 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   patikimumo_saltinis: ai
   pagrindzia:
     - t-015
+
+- id: c-187901
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 43"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 43."
+  citata_originali: |
+    Netgi paties Vaidevučio pastangos nuėjo niekais,
+    tad prireikė kreiptis į žynius. Šie į Baigos apylinkes
+    bendram pasitarimui sušaukė visą tautą. Ten, įveikus ne­
+    mažus sunkumus, buvo sutarta.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-018
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Otokaras II]]

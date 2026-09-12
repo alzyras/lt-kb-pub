@@ -146,6 +146,19 @@ S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
   pagrindžia:
     - c-176809
 
+<a id="claim-t-206235"></a>
+- t-007
+  teiginys: "S. Daukanto alinantis darbas šaltame Senato archyve Peterburge pateikiamas kaip klasikinis to meto praeities tyrinėtojo darbo pavyzdys."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188850
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'S. Daukantas atsiuntė Teodorui Narbutui Alberto Vijūko-Kojalavičiaus „Herbyną“ - Lietuvos bajorų giminių genealogijų rinkinį.'
@@ -366,3 +379,20 @@ S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
+
+- id: c-188850
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 55"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 55."
+  citata_originali: |
+    Kol kas
+    to m eto praeities tyrinėtojo darbą daugiausia įsivaizduoja­
+    me iš klasikinio pavyzdžio - alinančio S. Daukanto darbo
+    šaltame Senato archyve Peterburge.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007

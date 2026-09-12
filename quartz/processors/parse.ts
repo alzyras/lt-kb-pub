@@ -46,9 +46,9 @@ export function createHtmlProcessor(ctx: BuildCtx): QuartzHtmlProcessor {
   )
 }
 
-function* chunks<T>(arr: T[], n: number) {
-  for (let i = 0; i < arr.length; i += n) {
-    yield arr.slice(i, i + n)
+function* chunks<T>(arr: T[], size: number) {
+  for (let index = 0; index < arr.length; index += size) {
+    yield arr.slice(index, index + size)
   }
 }
 
@@ -119,7 +119,8 @@ export function createFileParser(ctx: BuildCtx, fps: FilePath[]) {
         // base data properties that plugins may use
         file.data.filePath = file.path as FilePath
         file.data.relativePath = path.posix.relative(argv.directory, file.path) as FilePath
-        file.data.slug = ctx.slugMap[file.data.relativePath] ?? slugifyFilePath(file.data.relativePath)
+        file.data.slug =
+          ctx.slugMap[file.data.relativePath] ?? slugifyFilePath(file.data.relativePath)
 
         const ast = processor.parse(file)
         const newAst = await processor.run(ast, file)
@@ -167,7 +168,8 @@ export async function parseMarkdown(ctx: BuildCtx, fps: FilePath[]): Promise<Pro
   const perf = new PerfTimer()
   const log = new QuartzLogger(argv.verbose)
 
-  // rough heuristics: 128 gives enough time for v8 to JIT and optimize parsing code paths
+  // Four workers give the parser enough parallelism without oversubscribing a
+  // development machine.
   const CHUNK_SIZE = 128
   const concurrency = ctx.argv.concurrency ?? clamp(fps.length / CHUNK_SIZE, 1, 4)
 
@@ -203,10 +205,15 @@ export async function parseMarkdown(ctx: BuildCtx, fps: FilePath[]): Promise<Pro
       incremental: ctx.incremental,
     }
 
+    // `serializableCtx` contains the complete slug and relation indexes. Keep
+    // batches large enough to avoid repeatedly copying those maps, but bounded
+    // so a worker never has to return thousands of parsed ASTs in one message.
+    const WORKER_BATCH_SIZE = 512
+
     const textToMarkdownPromises: WorkerPromise<MarkdownContent[]>[] = []
     let processedFiles = 0
-    for (const chunk of chunks(fps, CHUNK_SIZE)) {
-      textToMarkdownPromises.push(pool.exec("parseMarkdown", [serializableCtx, chunk]))
+    for (const batch of chunks(fps, WORKER_BATCH_SIZE)) {
+      textToMarkdownPromises.push(pool.exec("parseMarkdown", [serializableCtx, batch]))
     }
 
     const mdResults: Array<MarkdownContent[]> = await Promise.all(

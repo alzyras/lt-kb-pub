@@ -63,6 +63,19 @@ Kai kryžiuočiams nepasisekė paimti žiemgalių pilies Tervetės (į šiaurę 
   pagrindžia:
     - c-34049
 
+<a id="claim-t-205822"></a>
+- t-002
+  teiginys: "Teodoro Narbuto aprašyme 1279 m. Tervetėje kryžiuočiai su didžiuoju kunigaikščiu sudarė ketverių metų taikos sutartį."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
+  pagrindžia:
+    - c-188437
+
 ## Citatos
 
 - id: c-34049
@@ -86,6 +99,26 @@ Kai kryžiuočiams nepasisekė paimti žiemgalių pilies Tervetės (į šiaurę 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188437
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 245"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 245."
+  citata_originali: |
+    Nedaugelis jo bendra­
+    žygių išsigelbėjo bėgdami, bemaž visi atgulė. Tasai
+    žiaurus ir toks pražūtingas Livonijos kryžiuočiams mūšis
+    įvyko 1279 metų kovo 9 dieną1. Greitai po to kryžiuočiai
+    su didžiuoju kunigaikščiu Tervetėje sudarė ketveriems
+    metams taikos sutartį1 2.
+  citata_rodoma: "Greitai po to kryžiuočiai \nsu didžiuoju kunigaikščiu Tervetėje sudarė ketveriems \nmetams taikos sutartį1 2."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Užėmė Tervetę: [[objektai/grupes/Žiemgaliai]]

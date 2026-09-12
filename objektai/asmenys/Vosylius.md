@@ -96,6 +96,32 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
   pagrindžia:
     - c-36557
 
+<a id="claim-t-205734"></a>
+- t-004
+  teiginys: "Narbutas rašo, kad didysis kunigaikštis įsakė sulaikyti Vosylių ir Naugardo bajorus, grįžtančius iš Voluinės į Naugardą per Kijevo kunigaikštystę."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188349
+
+<a id="claim-t-205735"></a>
+- t-005
+  teiginys: "Vosyliui buvo atleista, ir jam leista vadovauti diecezijoms."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188350
+
 ## Citatos
 
 - id: c-36556
@@ -145,3 +171,44 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-188349
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 461"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 461."
+  citata_originali: |
+    apeigų Bažnyčios papročiu. Tuo labiau darė nemalonų
+    įspūdį Gediminui, nes tasai Vosylius buvo naugardiečių
+    rekomenduojamas asmuo. Tačiau didysis kunigaikštis,
+    laikydamasis savo nuosaikios politikos, gerbdamas tikė­
+    jimą, viešpataujantį didžiojoje savo valstybės dalyje, iš­
+    kentė tą dvasininkų vadovo nepaklusnumą, bet Vosylių
+    ir Naugardo bajorus įsakė sulaikyti, kai jie grįš iš Vo-
+    luinės į Naugardą per Kijevo kunigaikštystę.
+  citata_rodoma: "Tačiau didysis kunigaikštis, \nlaikydamasis savo nuosaikios politikos, gerbdamas tikė­\njimą, viešpataujantį didžiojoje savo valstybės dalyje, iš­\nkentė tą dvasininkų vadovo nepaklusnumą, bet Vosylių \nir Naugardo bajorus įsakė sulaikyti, kai jie grįš iš Vo- \nluinės į Naugardą per Kijevo kunigaikštystę."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-188350
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 461"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 461."
+  citata_originali: |
+    Dėl to sugebėjo padaryti daug gero
+    kraštuose, jo valdžioje esančiuose, taip pat kaimynystėje.
+    Be to, svarbu buvo naugardiečius sutaikyti su pskovie­
+    čiais ir kunigaikščiu Aleksandru. Dėl to jis atleido arki­
+    vyskupui Vosyliui ir leido vadovauti diecezijoms.
+  citata_rodoma: "Dėl to jis atleido arki­\nvyskupui Vosyliui ir leido vadovauti diecezijoms."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005

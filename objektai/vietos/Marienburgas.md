@@ -358,6 +358,32 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   pagrindžia:
     - c-168399
 
+<a id="claim-t-206519"></a>
+- t-018
+  teiginys: "Kryžiuočiai į nelaisvę paimtą kunigaikštį Kęstutį nugabeno į Marienburgą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189134
+
+<a id="claim-t-206520"></a>
+- t-019
+  teiginys: "Teodoras Narbutas Marienburgo pavadinimą aiškina žodžiais „Marijos kalnu“."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189135
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Marienburgo pilis Nogato deš.'
@@ -782,6 +808,46 @@ Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą pu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-017
+
+- id: c-189134
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 135"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 135."
+  citata_originali: |
+    Kunigaikštis Kęstutis rite­
+    rio Hankės iš Ekersbergo taip pat buvo nublokštas nuo žirgo
+    ir paties Kranigfeldo paimtas nelaisvėn. Kryžiuočiai, nudžiu­
+    ginti tokio svarbaus laimikio, suskubo nugabenti kunigaikštį į
+    Marienburgą, kur visų buvo labai džiūgauta, ir padėkai pa­
+    reikšti suruoštos viešos pamaldos, nes tas įvykis buvo palaiky­
+    tas ypatingu Dangaus palaiminimo ženklu1.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-018
+
+- id: c-189135
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 182"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 182."
+  citata_originali: |
+    Tą tvirtovę pavadi­
+    no Marienburgu, tai yra Marijos kalnu*. D abar netoli nuo tos
+    vietos, kiek aukštėliau, yra miestelis, parapijos centras Z a­
+    pyškis; betgi kalva, ant kurios stovėjo pilis, buvo visiškai su­
+    niokota per pavasario potvynius, paplovus vandenims, galinga
+    srove besiveržiantiems tarpekliu į Nemuną; trykštantys ten
+    šaltiniai liudija, kokia tai buvo tinkama piliai vieta1 2.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-019
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Švitrigaila]]

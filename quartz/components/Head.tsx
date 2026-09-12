@@ -7,6 +7,11 @@ import { unescapeHTML } from "../util/escape"
 import { CustomOgImagesEmitterName } from "../plugins/emitters/ogImage"
 import { isPoorSeoPage, pageStructuredData, seoDescription, seoTitle } from "../util/seo"
 import { displayCaption, parseMediaEntry } from "../util/objectMedia"
+import {
+  isObjectDetailSlug,
+  objectDetailEvidenceFromFile,
+  objectPageIndexable,
+} from "../util/objectDetail"
 export default (() => {
   const Head: QuartzComponent = ({
     cfg,
@@ -33,13 +38,21 @@ export default (() => {
     }
     const title = seoTitle(seoInput, siteTitle, titleSuffix)
     const description = seoDescription(seoInput)
-    const noindex = isPoorSeoPage(seoInput)
+    const utilityPage = new Set(["nustatymai", "duomenu-istrynimas"])
+    const objectDetail = isObjectDetailSlug(fileData.slug)
+    const objectEvidence = objectDetail
+      ? objectDetailEvidenceFromFile(fileData.filePath)
+      : undefined
+    const noindex =
+      utilityPage.has(String(fileData.slug ?? "").replace(/\/index$/, "")) ||
+      (objectDetail ? !objectPageIndexable(objectEvidence!) : isPoorSeoPage(seoInput))
     const mediaPrimaryThumb =
       String(fileData.frontmatter?.media_primary_thumb_url ?? "").trim() ||
       String(fileData.frontmatter?.media_primary_canonical_url ?? "").trim()
     const mediaPrimaryWidth = Number(fileData.frontmatter?.media_primary_width ?? 0)
     const mediaPrimaryHeight = Number(fileData.frontmatter?.media_primary_height ?? 0)
-    const mediaEntry = parseMediaEntry(fileData.frontmatter?.media_detail_json) ??
+    const mediaEntry =
+      parseMediaEntry(fileData.frontmatter?.media_detail_json) ??
       parseMediaEntry(fileData.frontmatter?.media_primary_json)
     const mediaSocialAlt =
       String(fileData.frontmatter?.media_social_alt ?? "").trim() ||
@@ -63,10 +76,13 @@ export default (() => {
     const iconPath = joinSegments(baseDir, "static/icon.png")
 
     // Url of current page
-    const socialUrl =
-      fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
-    const canonicalUrl =
-      fileData.slug === "404" ? undefined : fileData.slug === "index" ? url.toString() : socialUrl
+    const publicPageUrl = (slug: string) => {
+      const cleanSlug = slug.replace(/\/(?:index|index\.html)$/i, "").replace(/\.html$/i, "")
+      if (!cleanSlug || cleanSlug === "index") return url.toString()
+      return new URL(`/${cleanSlug.replace(/^\/+/, "")}/`, url).toString()
+    }
+    const socialUrl = fileData.slug === "404" ? url.toString() : publicPageUrl(fileData.slug!)
+    const canonicalUrl = fileData.slug === "404" ? undefined : socialUrl
     const automaticStructuredData =
       canonicalUrl && cfg.baseUrl
         ? JSON.stringify(
@@ -79,6 +95,9 @@ export default (() => {
               mediaHeight: mediaPrimaryHeight || undefined,
               primaryImageId: customImageSchemaId || undefined,
               includePrimaryImageObject: !customImageSchemaId,
+              sameAs: Array.isArray(fileData.frontmatter?.sameAs)
+                ? fileData.frontmatter.sameAs.map((value) => String(value))
+                : [],
             }),
           )
         : ""
@@ -107,9 +126,14 @@ export default (() => {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="msvalidate.01" content="AE02E81D7A17D88CE5D3EB45689C0071" />
 
-        <meta name="og:site_name" content={cfg.pageTitle}></meta>
+        <meta property="og:site_name" content={cfg.pageTitle}></meta>
         <meta property="og:title" content={title} />
-        <meta property="og:type" content="website" />
+        <meta
+          property="og:type"
+          content={
+            fileData.slug?.startsWith("straipsniai/") || objectDetail ? "article" : "website"
+          }
+        />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />

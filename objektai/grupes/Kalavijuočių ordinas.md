@@ -482,8 +482,31 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   pagrindžia:
     - c-167925
 
-<a id="claim-t-193095"></a>
+<a id="claim-t-187730"></a>
 - t-024
+  teiginys: "Komentare Andriui Algirdaičiui priskiriamas siekis atplėšti Polocką nuo LDK ir 1385 m. spalio 10 d. pasiduoti Livonijos ordinui kaip vasalui."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kalavijuočių ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalavijuočių ordinas\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: 1381 m.; įvykio data: 1385 m.; įvykio data: 1386 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Siekio ir motyvo formuluotei būtina atribucija."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  pagrindžia:
+    - c-170669
+
+<a id="claim-t-193095"></a>
+- t-025
   teiginys: "Naujasis ordinas turėjo būti nuolatinė organizuota vokiečių ir krikštytų čiabuvių karinė pajėga."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -495,7 +518,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - c-00317
 
 <a id="claim-t-193539"></a>
-- t-025
+- t-026
   teiginys: "Nors žemaičiai Saulės mūšyje 1236 m. šį žygį Vokiečių ordino riteris pagrobia vaiką."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -505,6 +528,70 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-176219
+
+<a id="claim-t-205210"></a>
+- t-027
+  teiginys: "1201 m. vyskupas Albertas, remdamasis popiežiaus leidimu, įsteigė riterių ordiną Fratres Militiae Christi."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187679
+
+<a id="claim-t-205280"></a>
+- t-028
+  teiginys: "Narbutas nurodo, kad 1236 metų rugsėjo 22 dieną kalavijuočių magistras žuvo mūšyje su lietuviais prie Kamenio, o 1237 metų kovą ar balandį popiežius patvirtino susijungimą su Kryžiuočių ordinu."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187850
+
+<a id="claim-t-205591"></a>
+- t-029
+  teiginys: "1205 m. kalavijuočių riterių magistras Venas, Narbuto pasakojimu, sunkiai atrėmė lietuvių puolimą Žemgaloje."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188206
+
+<a id="claim-t-205592"></a>
+- t-030
+  teiginys: "Talibaldo sūnus Rameka surinko ginkluotų žmonių iš atokesnių valsčių, o Vendeno kalavijuočių komtūras Bertoldas atskubėjo jiems į pagalbą su riteriais."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
+  pagrindžia:
+    - c-188207
+
+<a id="claim-t-205593"></a>
+- t-031
+  teiginys: "Gavęs žinią, kalavijuočių riterių magistras Folkvinas su keliais riteriais vijosi priešą, o pakeliui prie jo prisijungė pirklius Dauguva lydėjęs būrys."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
+  pagrindžia:
+    - c-188208
 
 ## Reikšmingi paminėjimai
 - c-019
@@ -530,25 +617,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- c-021
-  santrauka: 'Komentare Andriui Algirdaičiui priskiriamas siekis atplėšti Polocką nuo LDK ir 1385 m. spalio 10 d. pasiduoti Livonijos ordinui kaip vasalui.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    3 Polocko kunigaikštis Andrius Algirdaitis, 1381 m. grįžęs iš
-    emigracijos į Polocką, antrą kartą stojo prieš Jogailą ryšium su
-    jo iškilimu į Lenkijos karalius. Užsibrėžęs atplėšti Polocko kuni­
-    gaikštystę nuo LDK ir paversti ją savo įpėdinių valdom a atskira
-    valstybe, A ndrius Algirdaitis 1385 m. spalio 10 d. aktu pasidavė
-    Livonijos ordinui kaip pastarojo vasalas. 1386 m. vasario mėn,
-    apie 20 d. Andriaus Algirdaičlo pajėgos užėmė du valsčius Polocko
-    ir Vitebsko kunigaikštysčių pasienyje. Livonijos kryžiuočiai, tuo
-    metu grįždami iš trijų savaičių -žygio po Rytų Lietuvą, padėjo
-    Andriui užimti Lukomlį.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: not_found
 ## Citatos
 
 - id: c-00317
@@ -568,7 +636,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-025
 
 - id: c-00318
   redaktorius: "A. Šapoka"
@@ -1019,6 +1087,29 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   pagrindzia:
     - t-023
 
+- id: c-170669
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    3 Polocko kunigaikštis Andrius Algirdaitis, 1381 m. grįžęs iš
+    emigracijos į Polocką, antrą kartą stojo prieš Jogailą ryšium su
+    jo iškilimu į Lenkijos karalius. Užsibrėžęs atplėšti Polocko kuni­
+    gaikštystę nuo LDK ir paversti ją savo įpėdinių valdom a atskira
+    valstybe, A ndrius Algirdaitis 1385 m. spalio 10 d. aktu pasidavė
+    Livonijos ordinui kaip pastarojo vasalas. 1386 m. vasario mėn,
+    apie 20 d. Andriaus Algirdaičlo pajėgos užėmė du valsčius Polocko
+    ir Vitebsko kunigaikštysčių pasienyje. Livonijos kryžiuočiai, tuo
+    metu grįždami iš trijų savaičių -žygio po Rytų Lietuvą, padėjo
+    Andriui užimti Lukomlį.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-024
+
 - id: c-176219
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1039,7 +1130,122 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
+    - t-026
+
+- id: c-187679
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 271"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 271."
+  citata_originali: |
+    Ties Dauguvos žioti­
+    mis, vietovėje, vadintoje Sv. Mikalojaus kalnu, dabar —
+    Dinamiunda, įkurtas cistersų vienuolynas, kurio abatas
+    buvo Turaidos klebonas Teodorikas. Galop vyskupas, rem­
+    damasis Popiežiaus leidimu, įsteigė riterių ordiną, vadin­
+    tą Fratres Militiae Christi, kuris turėjo vadovautis
+    tamplierių regula ir priimti kalavijo ir kryžiaus ženklą,
+    nešiojamą ant balto apsiausto.
+  citata_rodoma: "Galop vyskupas, rem­\ndamasis Popiežiaus leidimu, įsteigė riterių ordiną, vadin­\ntą Fratres Militiae Christi, kuris turėjo vadovautis \ntamplierių regula ir priimti kalavijo ir kryžiaus ženklą, \nnešiojamą ant balto apsiausto."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-027
+
+- id: c-187850
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 332"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 332."
+  citata_originali: |
+    Sis ordinas gyvavo tik apie 30 metų. Juk 1236-ųjų
+    rugsėjo 22 dieną kalavijuočių riterių magistras jau buvo
+    pradėjęs vesti derybas dėl susijungimo su kryžiuočiais į
+    vieną ordiną, bet krito mūšyje su lietuviais prie Kamenio.
+    Jo mirtis brolijai buvo paskutinis smūgis, paspartinęs pra­
+    dėtus sandėrius. Kryžiuočiai ir didysis magistras Zalca
+    garbingai tam pritarė, taigi 1237 metų kovo pabaigoje
+    ar balandžio pradžioje buvo gautas popiežiaus patvirti­
+    nimas, juolab kad kalavijuočiai dar nebuvo šventojo val­
+    dovo oficialiai patvirtintas, o tik leistas ordinas.
+  citata_rodoma: "Sis ordinas gyvavo tik apie 30 metų. Juk 1236-ųjų \nrugsėjo 22 dieną kalavijuočių riterių magistras jau buvo \npradėjęs vesti derybas dėl susijungimo su kryžiuočiais į \nvieną ordiną, bet krito mūšyje su lietuviais prie Kamenio. \nJo mirtis brolijai buvo paskutinis smūgis, paspartinęs pra­\ndėtus sandėrius. Kryžiuočiai ir didysis magistras Zalca \ngarbingai tam pritarė, taigi 1237 metų kovo pabaigoje \nar balandžio pradžioje buvo gautas popiežiaus patvirti­\nnimas"
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-028
+
+- id: c-188206
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 52"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 52."
+  citata_originali: |
+    Zvelgaitis, kaip kad liudija II genealoginė lentelė
+    (III tomas), turėjo sūnų, neseniai mūsų minėtą Utenį. Jis
+    palaikė plačius ryšius su kaimyninėmis šalimis; Žemga­
+    lai ir vokiečiams, atsilygindamas už tėvo nužudymą, lei­
+    do pajusti savo krašto galią. Juk kitąmet, tai yra 1205-
+    aisiais, lietuviai kaip tik turėjo Žemgalą užkariauti, kai
+    žiemodami buvo anapus dešiniojo Dauguvos kranto nusi­
+    gavę, bet kalavijuočių riterių magistras Venas puolimą
+    vargais negalais atrėmė (§ 744).
+  citata_rodoma: "Juk kitąmet, tai yra 1205- \naisiais, lietuviai kaip tik turėjo Žemgalą užkariauti, kai \nžiemodami buvo anapus dešiniojo Dauguvos kranto nusi­\ngavę, bet kalavijuočių riterių magistras Venas puolimą \nvargais negalais atrėmė (§ 744)."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-029
+
+- id: c-188207
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 59"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 59."
+  citata_originali: |
+    Toliau patraukę, persikėlė per Gaujos upę,
+    kur dar daugiau prisiplėšė grobio ir paėmė belaisvių. Pas­
+    kui, apsimetę judą pirmyn, staigiai puolė trauktis atgal.
+    Kitas Talibaldo sūnus Rameka surinko iš atokesnių vals­
+    čių ginkluotų žmonių, kuriems pagalbon suskubo Vende-
+    no kalavijuočių komtūras Bertoldas su riteriais.
+  citata_rodoma: "Kitas Talibaldo sūnus Rameka surinko iš atokesnių vals­\nčių ginkluotų žmonių, kuriems pagalbon suskubo Vende- \nno kalavijuočių komtūras Bertoldas su riteriais."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-030
+
+- id: c-188208
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 62"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 62."
+  citata_originali: |
+    Dar tais pačiais, 1212-aisiais, metais lietu­
+    viai priešaky su vadu, nenurodytu vardu, kronikose vadi­
+    namu kunigaikščiu, tikriausiai kurio nors iš valdovų gi­
+    minės ar Dausprungo palikuonių atšakos, netikėtai su
+    nemaža kariauna persikėlė per Dauguvą, įsibrovė į Liel-
+    vardės provinciją, kurią plačiai nusiaubė, o tenykštį val­
+    dytoją, vadintą Uldevenu, paėmė į nelaisvę, ir tada skubi­
+    nai pasuko atgal. Gavęs apie tai žinią, kalavijuočių riterių
+    magistras Folkvinas su saujele savųjų leidosi vytis, pa­
+    keliui dar susijungė su savo riterių daliniu, eskortavu-
+    siu Dauguva aukštyn plaukusius pirklius. Stojo mūšis su
+    atsargos būriu, kurį vedė pats žygio vadas.
+  citata_rodoma: "Gavęs apie tai žinią, kalavijuočių riterių \nmagistras Folkvinas su saujele savųjų leidosi vytis, pa­\nkeliui dar susijungė su savo riterių daliniu, eskortavu- \nsiu Dauguva aukštyn plaukusius pirklius. Stojo mūšis su \natsargos būriu, kurį vedė pats žygio vadas."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-031
 
 ## Ryšiai
 - Puolė Kalavijuočių ordiną: [[objektai/grupes/Žiemgaliai]]

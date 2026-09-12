@@ -55,6 +55,45 @@ Vilniaus vyskupas Andrius Vasila šv. Stanislovo bažnyčioje iškilmingai pakė
   pagrindžia:
     - c-169456
 
+<a id="claim-t-206264"></a>
+- t-002
+  teiginys: "Teodoro Narbuto pasakojimu, pranciškonas Andrius Vasila buvo paskirtas pirmuoju Vilniaus vyskupu; anksčiau jis buvo Vilniaus vienuolyno vyresnysis."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188879
+
+<a id="claim-t-206265"></a>
+- t-003
+  teiginys: "Teodoro Narbuto pasakojimu, Andrius Vasila buvo įšventintas vyskupu 1389 m. gegužės 6 d., kitą dieną po bažnyčios užbaigimo ir pašventinimo."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188880
+
+<a id="claim-t-206266"></a>
+- t-004
+  teiginys: "Teodoro Narbuto pasakojimu, mirus pirmajam Vilniaus vyskupui Andriui Vasilai, jo vietoje buvo išrinktas kitas pranciškonas Jokūbas Pliekta."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188881
+
 ## Citatos
 
 - id: c-169456
@@ -83,3 +122,53 @@ Vilniaus vyskupas Andrius Vasila šv. Stanislovo bažnyčioje iškilmingai pakė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188879
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 354"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 354."
+  citata_originali: |
+    Pirm uoju Vilniaus vyskupu buvo paskirtas Andrius
+    Vasila (W asilon), dvasininkas iš pranciškonų vienuolyno,
+    anksčiau buvęs vyresniuoju Vilniuje, Smėlynės Švenčiau­
+    siosios M ergelės M arijos vienuolyne, vėliau Vengrijos ka­
+    ralienės Elžbietos, Jadvygos m otinos, nuodėm klausys ir
+    Seretos vyskupas.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-188880
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 354"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 354."
+  citata_originali: |
+    Tuo tarpu bažnyčia buvo baigta statyti ir pašventinta 1389 metų
+    gegužės 5 dieną. Vyskupas Andrius buvo įšventintas gegužės 6 dieną*.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-188881
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 495"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 495."
+  citata_originali: |
+    Tais metais mirė pirmasis Vilniaus vyskupas Andrius Vasila -
+    vienų tyrinėtojų nuomone, birželio 8 dieną1, kitų-gruodžio 3 dieną* 2 3.
+    Jo vieton buvo išrinktas Jokūbas Pliekta, taip pat pranciškonas*.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

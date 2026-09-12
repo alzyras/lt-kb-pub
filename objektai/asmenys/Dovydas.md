@@ -120,6 +120,44 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   pagrindžia:
     - c-184332
 
+<a id="claim-t-205665"></a>
+- t-007
+  teiginys: "1316 m. Dovydas, Gardino seniūnas, vadovavo kariuomenei kovoje su rusinais."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188280
+
+<a id="claim-t-205667"></a>
+- t-008
+  teiginys: "Teodoras Narbutas nurodo, kad Andrius Gostas, arba Gosčiuskis, asmeniškai Dovydo įskaudintas, įsimaišė tarp prie vado buvusių Lietuvos kazokų ir prie upės Dovydą iš užpakalio nudūrė ietimi, o pats paspruko."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-188282
+
+<a id="claim-t-206278"></a>
+- t-009
+  teiginys: "Teodoras Narbutas aprašo, kad kunigas Dovydas, Julijonos nuodėmklausys, suteikė sergančiam Algirdui šventąjį krikštą, davė jam Aleksejaus vardą ir apvilko vienuolio abitu."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188893
+
 ## Citatos
 
 - id: c-78749
@@ -320,6 +358,66 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
+
+- id: c-188280
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 377"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 377."
+  citata_originali: |
+    Dovydas, Gardino seniūnas, šioje kovoje
+    vadovavo kariuomenei. Stiprūs ir, žinoma, į įvairias vie­
+    tas taikomi priešų smūgiai vertė didįjį kunigaikštį būti
+    labai atidų. Dėl to paties jis paskubėjo išpirkti iš kry­
+    žiuočių nelaisvės Goštautą už didžiulę sumą — net už
+    30 tūkstančių vienetų auksinių monetų1 2.
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
+- id: c-188282
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 444"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 444."
+  citata_originali: |
+    Tasai vadas buvo narsus ir laimingas, kunigaikš­
+    čių giminės (§ 1124), vedęs didžiojo kunigaikščio Gedi­
+    mino dukterį3. Iš to žygio, ¡kuriam vadovavo, jis traukė
+    atgal per Mazoviją. Tuomet tenykštis bajoraitis, vardu
+    Andrius Gostas, arba Gosčiuskis, asmeniškai jo įskau­
+    dintas, sugebėjo įsimaišyti tarp Lietuvos kazokų, esančių
+    prie vado, ir, kai, prijoję upę, girdė žirgus, staiga nudūrė
+    jį [Dovydą] iš užpakalio ietimi, o pats paspruko, nors
+    buvo atkakliai persekiojamas4.
+  citata_rodoma: "Tuomet tenykštis bajoraitis, vardu \nAndrius Gostas, arba Gosčiuskis, asmeniškai jo įskau­\ndintas, sugebėjo įsimaišyti tarp Lietuvos kazokų, esančių \nprie vado, ir, kai, prijoję upę, girdė žirgus, staiga nudūrė \njį [Dovydą] iš užpakalio ietimi, o pats paspruko, nors \nbuvo atkakliai"
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
+- id: c-188893
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 229"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 229."
+  citata_originali: |
+    Taigi didžiosios kunigaikštienės Julijonos nuodėmklausys kuni­
+    gas Dovydas suskubo suteikti sergančiam Algirdui šventąjį krikš­
+    tą, - galimybę dalyvauti Dievo avinėlio puotoje. Be to, pagal to
+    meto Rytų apeigų bažnyčios papročius, davęs Aleksejaus vardą,
+    apvilko jį vienuolio abitu.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
 
 ## Ryšiai
 - Dovydas surengė žygį į [[objektai/vietos/Dobrynė]]

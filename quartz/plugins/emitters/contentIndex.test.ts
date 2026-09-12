@@ -41,7 +41,7 @@ describe("ContentIndex sitemap", () => {
     assert.match(xml, /^<\?xml version="1\.0" encoding="UTF-8"\?>/)
     assert.match(xml, /<urlset xmlns="http:\/\/www\.sitemaps\.org\/schemas\/sitemap\/0\.9">/)
     assert.match(xml, /<loc>https:\/\/example\.com\/base\/<\/loc>/)
-    assert.match(xml, /<loc>https:\/\/example\.com\/base\/folder\/page<\/loc>/)
+    assert.match(xml, /<loc>https:\/\/example\.com\/base\/folder\/page\/<\/loc>/)
     assert.match(xml, /<lastmod>2026-05-06T12:00:00\.000Z<\/lastmod>/)
     assert.doesNotMatch(xml, /<lastmod>2026-05-01T12:00:00\.000Z<\/lastmod>/)
     assert.doesNotMatch(xml, /undefined|false|xmlns:xhtml/)
@@ -63,10 +63,10 @@ describe("ContentIndex sitemap", () => {
     ])
 
     assert.match(xml, /xmlns:image="http:\/\/www\.google\.com\/schemas\/sitemap-image\/1\.1"/)
-    assert.match(xml, /<loc>https:\/\/example\.com\/base\/galerija<\/loc>/)
+    assert.match(xml, /<loc>https:\/\/example\.com\/base\/galerija\/<\/loc>/)
     assert.match(
       xml,
-      /<loc>https:\/\/example\.com\/base\/galerija\/vytauto-portretas--m-one<\/loc>/,
+      /<loc>https:\/\/example\.com\/base\/galerija\/vytauto-portretas--m-one\/<\/loc>/,
     )
     assert.match(
       xml,

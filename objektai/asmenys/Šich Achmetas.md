@@ -68,8 +68,21 @@ canonical_biography: "Šich Achmetas, valdovo valia turėjęs būti svetingai pr
   pagrindžia:
     - c-177391
 
-<a id="claim-t-196657"></a>
+<a id="claim-t-195009"></a>
 - t-003
+  teiginys: "Šich Achmetas buvo Achmato sūnus ir paskutinis Aukso ordos chanas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-177389
+
+<a id="claim-t-196657"></a>
+- t-004
   teiginys: "Šich Achmetas, Užvolgio skitų valdovas, iš Vilniaus atvyko į Bresto seimą kaip tremtinys ir beveik belaisvis."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -82,20 +95,6 @@ canonical_biography: "Šich Achmetas, valdovo valia turėjęs būti svetingai pr
     - c-178822
 
 ## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Šich Achmetas buvo Achmato sūnus ir paskutinis Aukso ordos chanas.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Sich-Achmetas buvo Achmato sūnus, paskutinis Aukso ordos
-    chanas. 1500—1503 m. M askvos ir Lietuvos valstybių k are stojo
-    LDK pusėn, tikėdamasis iš jos paramos prieš bendrų priešų — Kry­
-    mo chanų Mengll-Girėjų, kuris savo možiu siekė pašalinti Sich-
-    Achmetų ir sujungti savo valdžioje visas totorių ordas.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: not_found
 - c-002
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -170,6 +169,25 @@ canonical_biography: "Šich Achmetas, valdovo valia turėjęs būti svetingai pr
 - t-007
 
 ## Citatos
+
+- id: c-177389
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Sich-Achmetas buvo Achmato sūnus, paskutinis Aukso ordos
+    chanas. 1500—1503 m. M askvos ir Lietuvos valstybių k are stojo
+    LDK pusėn, tikėdamasis iš jos paramos prieš bendrų priešų — Kry­
+    mo chanų Mengll-Girėjų, kuris savo možiu siekė pašalinti Sich-
+    Achmetų ir sujungti savo valdžioje visas totorių ordas.
+  citata_rodoma: "Sich-Achmetas buvo Achmato sūnus, paskutinis Aukso ordos \nchanas. 1500—1503 m. M askvos ir Lietuvos valstybių k are stojo \nLDK pusėn, tikėdamasis iš jos paramos prieš bendrų priešų — Kry­\nmo chanų Mengll-Girėjų, kuris savo možiu siekė pašalinti Sich- \nAchmetų ir sujungti savo valdžioje visas totorių ordas."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 - id: c-177390
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -253,7 +271,7 @@ canonical_biography: "Šich Achmetas, valdovo valia turėjęs būti svetingai pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 ## Ryšiai
 - Šich Achmetas puolė [[objektai/vietos/Seversko žemė]]

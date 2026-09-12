@@ -99,6 +99,32 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
   pagrindžia:
     - c-60655
 
+<a id="claim-t-205682"></a>
+- t-005
+  teiginys: "Teodoras Narbutas teigė, kad be Prūsijos magistro Helvigo iš Goldbacho tarpininkavimo tarp Ordino ir Rygos gyventojų būtų kilę pragaištingų padarinių."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188297
+
+<a id="claim-t-205683"></a>
+- t-006
+  teiginys: "Teodoras Narbutas Helvigą iš Goldbacho vaizduoja kaip teisingą, nuo pirmtakų besiskyrusį magistrą, kuris rūpinosi valdomų žmonių gerove ir skleidė gėrį bei paguodą."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188298
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Helvigas iš Goldbacho iš Tiuringijos buvo penkioliktas Prūsijos žemės magistras ir vadovavo vienus metus.'
@@ -193,6 +219,47 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-188297
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 327"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 327."
+  citata_originali: |
+    Livonijai grąžino taiką, bet negalėjo iškęsti kiek­
+    vieną dieną ordino jam daromų nemalonumų. Kamuoja­
+    mas gėlos dėl to atgrasaus sambūrio pražūtingos veiklos
+    žmonijai ir tikėjimui, paliko nedėkinguosius, atsisakė pa­
+    reigų ir išvyko į Italiją. Dėl to būtų buvę nemaža pra­
+    gaištingų padarinių, jeigu Helvigas iš Goldbacho, Prū­
+    sijos magistras, nebūtų ėmęsis tarpininkauti ordinui ir
+    Rygos gyventojams.
+  citata_rodoma: "Dėl to būtų buvę nemaža pra­\ngaištingų padarinių, jeigu Helvigas iš Goldbacho, Prū­\nsijos magistras, nebūtų ėmęsis tarpininkauti ordinui ir \nRygos gyventojams."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
+- id: c-188298
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 328"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 328."
+  citata_originali: |
+    Susidūrę su magistru
+    lldvigu iš Goldbacho, užėjome žmogų reto tarp kryžiuo­
+    čių teisingumo; jis labai skyrėsi nuo savo pirmtakų, juk,
+    Ik: dorų pastangų rūpintis gerove žmonių, buvusių jo val­
+    džioje, be karinės galios stiprinimo, visur, kur tik galėjo
+    turėti veiksmingos įtakos, skleidė gėrį bei paguodą.
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 ## Ryšiai
 - Puolė Helvigas iš Goldbacho: [[objektai/grupes/Pagudėnai]]

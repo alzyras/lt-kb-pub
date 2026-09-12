@@ -11,6 +11,10 @@ import { concatenateResources } from "../../util/resources"
 import { trieFromAllFiles } from "../../util/ctx"
 import { resolveRelative } from "../../util/path"
 import { themeEntries } from "../../util/themeCatalog"
+import ObjectDirectory from "../ObjectDirectory"
+import objectDirectoryStyle from "../styles/objectDirectory.scss"
+
+const ObjectDirectoryComponent = ObjectDirectory()
 
 interface FolderContentOptions {
   /**
@@ -61,6 +65,13 @@ export default ((opts?: Partial<FolderContentOptions>) => {
 
   const FolderContent: QuartzComponent = (props: QuartzComponentProps) => {
     const { tree, fileData, allFiles, cfg } = props
+
+    // The root object directory is a bespoke collection landing page. It is
+    // synthetic (there is no Markdown index file), so it must not depend on
+    // the folder trie having an `index` child node.
+    if (String(fileData.slug ?? "").replace(/\/index$/, "") === "objektai") {
+      return <ObjectDirectoryComponent {...props} />
+    }
 
     const trie = (props.ctx.trie ??= trieFromAllFiles(allFiles))
     const folder = trie.findNode(fileData.slug!.split("/"))
@@ -209,6 +220,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
   FolderContent.css = concatenateResources(
     style,
     PageList.css,
+    objectDirectoryStyle,
     `
 .theme-catalog-lead { max-width: 48rem; margin: 1rem 0 1.5rem; color: var(--darkgray); }
 .theme-catalog-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); gap: 0.85rem; }

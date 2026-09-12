@@ -77,6 +77,32 @@ Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas t
   pagrindžia:
     - c-176564
 
+<a id="claim-t-193940"></a>
+- t-003
+  teiginys: "Komentare Lietuvos metraščių žinia apie Kazimiero ketinimą susigiminiuoti su Konstantinu Karijotaičiu laikoma patikima, išskyrus Lenkijos sosto perdavimo sumanymą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-176565
+
+<a id="claim-t-206334"></a>
+- t-004
+  teiginys: "Teodoras Narbutas nurodo, kad Podolės kunigaikštis Konstantinas netrukus mirė."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188949
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'O didžiojo kunigaikščio Algirdo brolis Karijotas valdė Lietuvos Naugarduką, ir jis turėjo keturis4 sū nus: kunigaikštį Jurgį, kunigaikštį Aleksandrą, kuni gaikštį Konstantiną ir kunigaikštį Teodorą.'
@@ -104,20 +130,6 @@ Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- c-003
-  santrauka: 'Komentare Lietuvos metraščių žinia apie Kazimiero ketinimą susigiminiuoti su Konstantinu Karijotaičiu laikoma patikima, išskyrus Lenkijos sosto perdavimo sumanymą.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    1 3  Lietuvos metraščių versija apie Lenkijos karaliaus Kazimiero
-    ketinimų susigiminiuoti su Konstantinu Karijotaičių laikoma patiki­
-    ma, išskyrus sumanymų perduoti jam  Lenkijos sostų.
-    1 3  Konstantinas Karijotaitis mirė apie 1388— 1390 m. Mirties
-    vieta pagal visus Lietuvos m etraščių PS nuorašus — Vengrija.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: not_found
 ## Citatos
 
 - id: c-169416
@@ -174,3 +186,37 @@ Kai kurių metraštininkų teigimu, Konstantinas Karijotaitis buvo kviečiamas t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-176565
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    1 3  Lietuvos metraščių versija apie Lenkijos karaliaus Kazimiero
+    ketinimų susigiminiuoti su Konstantinu Karijotaičių laikoma patiki­
+    ma, išskyrus sumanymų perduoti jam  Lenkijos sostų.
+    1 3  Konstantinas Karijotaitis mirė apie 1388— 1390 m. Mirties
+    vieta pagal visus Lietuvos m etraščių PS nuorašus — Vengrija.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-188949
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 108"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 108."
+  citata_originali: |
+    Podolės kunigaikštis Konstantinas greitu laiku mirė.
+    Teodoras po jo mirties perėmė tą kunigaikštystę, tikriausiai su
+    didžiojo kunigaikščio žinia
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

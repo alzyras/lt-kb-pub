@@ -90,6 +90,18 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
   pagrindžia:
     - c-24360
 
+<a id="claim-t-205449"></a>
+- t-004
+  teiginys: "Galop 1093 metų pradžioje Vladislovas Hermanas, surinkęs gau sias karines pajėgas, kokių lig tol dar niekada nebuvo išvestų į kovos su pamarėnais laukus, įsiveržė į jų kraštą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187914
+
 ## Citatos
 
 - id: c-24360
@@ -149,6 +161,29 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-187914
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 199"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 199."
+  citata_originali: |
+    Betgi pamarėnai ir prūsai nesiliovė priešinęsi lenkams,
+    tad negalima buvo nei tikėtis saugaus gyvenimo šalyje,
+    nei viltis kokios nors anų naudos lenkų iždui. Vladis­
+    lovui nebeliko kitų priemonių, kaip tik jėga įtikinti tuos
+    nepaklusnius priešininkus, su kuriais jau nebebuvo įma­
+    noma susitarti dėl taikos ir gyventi santarvėje. Galop
+    1093 metų pradžioje Vladislovas Hermanas, surinkęs gau­
+    sias karines pajėgas, kokių lig tol dar niekada nebuvo
+    išvestų į kovos su pamarėnais laukus, įsiveržė į jų kraštą.
+  citata_rodoma: "Galop \n1093 metų pradžioje Vladislovas Hermanas, surinkęs gau­\nsias karines pajėgas, kokių lig tol dar niekada nebuvo \nišvestų į kovos su pamarėnais laukus, įsiveržė į jų kraštą."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Sventopelkas]]

@@ -98,6 +98,18 @@ canonical_biography: "1055 m. poloviečių vadas Balušas po nesėkmingų kautyn
   pagrindžia:
     - c-186616
 
+<a id="claim-t-205736"></a>
+- t-004
+  teiginys: "Vsevolodas valdė Rusios Padauguvio žemes, kurių sostinė buvo Gercika, kitaip Carogradas."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188351
+
 ## Citatos
 
 - id: c-174367
@@ -171,3 +183,32 @@ canonical_biography: "1055 m. poloviečių vadas Balušas po nesėkmingų kautyn
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-188351
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 54"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 54."
+  citata_originali: |
+    Iš Livonijos istorijos taip pat žinome, kad vienas Ru­
+    sios kunigaikštis, išpažinęs, kaip kad ir jo valdų žmonės,
+    krikščionybę, vadintas Vsevolodu, viešpatavęs Rusios Pa-
+    dauguvio žemėse, kurių sostinė buvo Gercikos miestas,
+    kitaip vadintas Carogradu (§ 754), išsidėstęs dešiniajame
+    Dauguvos krante, šit tasai kunigaikštis buvo vedęs Utenio
+    dukrą ir nežinia kokiomis teisėmis, tikriausiai įgijęs kaip
+    kraitį, valdė kuriuos ne kuriuos Lietuvos valsčius. Tad
+    jis su uošviu palaikė glaudžius ryšius ir visokiais būdais
+    rėmė Lietuvos užpuolikų siekius veržtis į vokiečiams pri­
+    klausiusias Uždauguvio žemes. Vyskupas Albertas, nega­
+    lėdamas nutraukti to krikščionio kunigaikščio ryšių su
+    pagonimis, susirengė į žygį užimti ano sostinę, kurią už­
+    kariavo su nemokėjusio gintis kunigaikščio Vsevolodo vi­
+    sais turtais, žmona ir vaikais.
+  citata_rodoma: "Iš Livonijos istorijos taip pat žinome, kad vienas Ru­\nsios kunigaikštis, išpažinęs, kaip kad ir jo valdų žmonės, \nkrikščionybę, vadintas Vsevolodu, viešpatavęs Rusios Pa- \ndauguvio žemėse, kurių sostinė buvo Gercikos miestas, \nkitaip vadintas Carogradu (§ 754), išsidėstęs dešiniajame \nDauguvos krante, šit tasai kunigaikštis buvo vedęs Utenio \ndukrą ir nežinia kokiomis teisėmis, tikriausiai įgijęs kaip \nkraitį, valdė kuriuos ne kuriuos Lietuvos valsčius."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

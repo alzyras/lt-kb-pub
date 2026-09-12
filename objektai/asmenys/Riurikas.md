@@ -66,6 +66,19 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
   pagrindžia:
     - c-184376
 
+<a id="claim-t-205435"></a>
+- t-003
+  teiginys: "Narbuto pasakojime Riurikas po brolių mirties suvienijo jų valdas, sostinę įkūrė Naugarde ir paliko paveldėjimo teisę mažamečiam sūnui Igoriui."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187905
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas rašo, kad dauguma mokslininkų neigia slavų rusų egzistavimą iki Riuriko.'
@@ -153,3 +166,24 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-187905
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 101"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 101."
+  citata_originali: |
+    Šiaip ar taip,
+    bet Riurikas turėjo būti talentingas žmogus, jau pačioje
+    užuomazgoje užvaldęs valstybes, kurioms pradžią davė
+    įvairialypės žemės. Jis sugebėjo netgi po greitos brolių
+    mirties suvienyti savo valdžioje tuos demokratiškus kraš­
+    tus ir, savo sostinę įkūręs Naugarde, sustiprino valdžią
+    bei -garantavo sosto paveldėjimo teisę sūnui Igoriui, kurį
+    paliko! mažametį, pats išbuvęs valdžioje septyniolika metų.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

@@ -603,6 +603,148 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   pagrindžia:
     - c-186562
 
+<a id="claim-t-205814"></a>
+- t-032
+  teiginys: "1289 m. Ragainėje atstatyta tvirtovė, o palei ją įkurtas miesteliūkštis."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188429
+
+<a id="claim-t-206556"></a>
+- t-033
+  teiginys: "Iš Ragainės žygiuodamas žvalgų dalinys netikėtai užklupo komtūrą Teobaldą Polį ir Tilžės vietininką Bėbę Transdeną bei sumušė juos su palydovais."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189171
+
+<a id="claim-t-206557"></a>
+- t-034
+  teiginys: "1344 m. kryžiaus žygio kariuomenė prie Ragainės persikėlė per Nemuną ir įsiveržė į Žemaitiją."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189172
+
+<a id="claim-t-206558"></a>
+- t-035
+  teiginys: "Teodoras Narbutas rašo, kad didžiojo magistro surengtam kryžiaus žygiui vadovavęs ordino maršalka Dahenfeldas per Ragainę patraukė anapus Nemuno."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189173
+
+<a id="claim-t-206559"></a>
+- t-036
+  teiginys: "Pasak Teodoro Narbuto, apie Sekmines didysis magistras su nemaža kariauna Ragainėje persikėlė per Nemuną ir patraukė Žemaitijos sienos link."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189174
+
+<a id="claim-t-206560"></a>
+- t-037
+  teiginys: "Pasak Teodoro Narbuto, ordino riteris Šioningenas iš Ragainės dukart surengė žygius į kitą Nemuno krantą, abu kartus prisiplėšė grobio ir parsivedė nemažai belaisvių."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189175
+
+<a id="claim-t-206561"></a>
+- t-038
+  teiginys: "Ragainės komtūras Henrikas Šioningenas gavo įsakymą surasti šnipų, turėjusių išsamiai pranešti apie Kauno tvirtovės būklę, įgulą ir gynybos priemones."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189176
+
+<a id="claim-t-206562"></a>
+- t-039
+  teiginys: "Kovo 13 dieną didžioji kariaunos dalis Ragainėje sėdo į laivus."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189177
+
+<a id="claim-t-206563"></a>
+- t-040
+  teiginys: "Pasak Teodoro Narbuto, Ragainė, Splitė ir Noihauzenas buvo laiku apsaugoti, gavus žinią apie išdavystę."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189178
+
+<a id="claim-t-206564"></a>
+- t-041
+  teiginys: "Pasak Teodoro Narbuto, Jogaila uždraudė pas jį atsiųstam Ragainės komtūrui duoti bet kokį atsakymą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189179
+
+<a id="claim-t-206565"></a>
+- t-042
+  teiginys: "Pasak Teodoro Narbuto, Vytautas tuo pačiu metu degino Jurbarką, Marienburgą, Ritersverderį, Ragainę ir Memelį."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189180
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: '1315 m. apie Žolinę lietuviai iš Žemaitijos slaptai ir netikėtai atžygiavo prie Ragainės pilies ir ją užpuolė.'
@@ -1283,6 +1425,182 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-031
+
+- id: c-188429
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 285"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 285."
+  citata_originali: |
+    Pirmiausia pasistengė 1289 metais
+    atstatyti Ragainės tvirtovę ir įkūrė palei ją miesteliūkštį.
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-032
+
+- id: c-189171
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 65"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 65."
+  citata_originali: |
+    vienas patraukė į Ragainę, iš kurios žygiuodam as žval­
+    gų dalinys atsitiktinai užklupo tenykštį kom tūrą Teobaldą
+    Polį ir Tilžės vietininką Bėbę Transdeną, kuriuos kartu su
+    žmonėmis, prie jų buvusiais, sumušė.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-033
+
+- id: c-189172
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 76"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 76."
+  citata_originali: |
+    Artėjo 1344 metų pradžia,
+    kai kryžiaus žygio kariai, prie Ragainės persikėlę per Nem u­
+    ną, įsiveržė į Žemaitijos kraštą
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-034
+
+- id: c-189173
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 124"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 124."
+  citata_originali: |
+    Didysis magistras negaišda­
+    mas ėmėsi žygio į pagonių žemę: surinko savo pulkus ir surengė
+    kryžiaus žygį, vadovaujamą, kaip buvo įprasta, ordino maršal­
+    kos Dahenfeldo, kuris per Ragainę patraukė anapus Nemuno.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-035
+
+- id: c-189174
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 131"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 131."
+  citata_originali: |
+    N etru­
+    kus po to, tai yra apie Sekmines, ir pats didysis magistras,
+    nemažą kariauną vesdamas, Ragainėje persikėlė per Nem u­
+    ną, patraukė šiaurės kryptim Žemaitijos sienos link
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-036
+
+- id: c-189175
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 133"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 133."
+  citata_originali: |
+    O į kitą tos
+    upės krantą ordino riteris Šioningenas iš Ragainės dukart rengė
+    žygius, abu kartus grobio prisiplėšė, nemažai belaisvių parsi­
+    gabeno3.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-037
+
+- id: c-189176
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 141"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 141."
+  citata_originali: |
+    Dėl to Ragainės komtūras Henrikas Šioningenas gavo įsaky­
+    mą, kad surastų gerų šnipų, kurie smulkiai praneštų apie Kau­
+    no tvirtovės būklę, taip pat apie įgulą ir visas gynimosi
+    priemones.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-038
+
+- id: c-189177
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 141"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 141."
+  citata_originali: |
+    Kovo 13 dieną didžioji kariaunos dalis Ragainėje sėdo į
+    laivus;
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-039
+
+- id: c-189178
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 314"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 314."
+  citata_originali: |
+    Ragainė, Splite ir Noihauzenas buvo laiku apsaugoti, gavus
+    žinią apie išdavystę.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-040
+
+- id: c-189179
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 519"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 519."
+  citata_originali: |
+    6. Kad Jogaila pas jį atsiųstam
+    Ragainės komtūrui uždraudė duoti bet kokį atsakymą.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-041
+
+- id: c-189180
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 548"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 548."
+  citata_originali: |
+    Vytautas tuo pačiu kartu degina Jurbarką, M arienbur­
+    gą, Ritersverderį, Ragainę ir Memelį.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-042
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Draika]]

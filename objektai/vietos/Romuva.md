@@ -118,6 +118,32 @@ historical_names: []
   pagrindžia:
     - c-167018
 
+<a id="claim-t-205182"></a>
+- t-006
+  teiginys: "O kai prūsai jau turėjo pakankamai karo meno išmokusių karių, Vaidevutis ir vyriausiasis žynys ušaukė tautą į Romuvą ir ten po aukų atnašavimo pra nešė dievų ¡pageidavimą ir valią atkeršyti dabar už mozūrų jiems padarytą gėdą ir patirtą pažeminimą stojant į."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-187833
+
+<a id="claim-t-205306"></a>
+- t-007
+  teiginys: "Betgi savame krašte jis įkurdino kitą Romuvą su kitu Kriviu."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-188106
+
 ## Citatos
 
 - id: c-24436
@@ -240,6 +266,54 @@ historical_names: []
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-187833
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 50"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 50."
+  citata_originali: |
+    „Vėliau daug Ulmigerijos jaunuolių, kurie buvo pate­
+    kę į nelaisvę kautynėse ar seniau paimti kaip duoklė,
+    miaukę pilnametystės ir išmokę valdyti ginklą, pabėgo
+    atgal į tėvynę, kur savuosius išmokė Mozūrijoje naudoto
+    kariavimo ¡būdo. O kai prūsai jau turėjo pakankamai karo
+    meno išmokusių karių, Vaidevutis ir vyriausiasis žynys
+    ušaukė tautą į Romuvą ir ten po aukų atnašavimo pra­
+    nešė dievų ¡pageidavimą ir valią atkeršyti dabar už mozūrų
+    jiems padarytą gėdą ir patirtą pažeminimą stojant į kovą
+    u jų kunigaikščiu. Linksma puota dar labiau paakino
+    susirinkusius Romuvoje žmones, tad kuo skubiausiai buvo
+    griebtasi ginklų, Vaidevutis patraukė sienos link.
+  citata_rodoma: "O kai prūsai jau turėjo pakankamai karo \nmeno išmokusių karių, Vaidevutis ir vyriausiasis žynys \nušaukė tautą į Romuvą ir ten po aukų atnašavimo pra­\nnešė dievų ¡pageidavimą ir valią atkeršyti dabar už mozūrų \njiems padarytą gėdą ir patirtą pažeminimą stojant į kovą \nu jų kunigaikščiu."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
+- id: c-188106
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 57"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 57."
+  citata_originali: |
+    Kai kartą Litvo
+    tarnai piktadariškai užpuolė Nadrą, šis gelbėdamasis
+    plaukė per upę ir nuskendo, dėl to Litvas dievų akivaiz­
+    doje visiems laikams buvo išvarytas iš Romuvos. Betgi
+    savame krašte jis įkurdino kitą Romuvą su kitu Kriviu.
+    Pačios didžiausios aukos vis dėlto būdavo išsiunčiamos
+    iš Lietuvos ir patikimos vyriausiajam žyniui Prūsijoje, ka­
+    dangi aname krašte dievai nesilankydavę.
+  citata_rodoma: "Betgi \nsavame krašte jis įkurdino kitą Romuvą su kitu Kriviu. \nPačios didžiausios aukos vis dėlto būdavo išsiunčiamos \niš Lietuvos ir patikimos vyriausiajam žyniui Prūsijoje, ka­\ndangi aname krašte dievai nesilankydavę."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 ## Ryšiai
 - Romuva priklausė [[objektai/vietos/Nadruva]]

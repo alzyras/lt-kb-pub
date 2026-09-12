@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Belsko pavietas"]
 sameAs: []
 canonical_biography: "Žygimantas Augustas privilegija bajorams Topčikalai, Košeliui ir Vervečkai dėl Belsko paviete esančių dvarų su miškais suteikė teises naudotis miškų gėrybėmis ir leido medžioti visus žvėris, išskyrus stumbrus."
+place_authority: true
+historical_names: []
 ---
 # Belsko pavietas
 

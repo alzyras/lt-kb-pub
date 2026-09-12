@@ -29,6 +29,8 @@ entity_view_role: "place"
 entity_aliases: ["Čečerskas","Čečerskas (vieta)"]
 sameAs: []
 canonical_biography: "Čečersko miestiečiai ir valsčiaus žmonės, gavę Žygimanto Senojo raštą, suėmė vietininką ir, valdovui leidus, patys įvykdė mirties bausmę nuskandindami išdaviką. Čečerske Nikolskio vietininkas Kurbaka turėjo būti pakartas, bet miestiečiai ir valsčiaus žmonės jį nuskandino."
+place_authority: true
+historical_names: []
 ---
 # Čečerskas (vieta)
 

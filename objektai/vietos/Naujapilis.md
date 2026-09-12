@@ -79,6 +79,44 @@ historical_names: []
   pagrindžia:
     - c-184438
 
+<a id="claim-t-206530"></a>
+- t-003
+  teiginys: "1381 m. kryžiuočiai priartėjo prie Naujapilio Vaiguvos paviete, o vasario 14 d. jo įgula pasidavė."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189145
+
+<a id="claim-t-206531"></a>
+- t-004
+  teiginys: "Po trijų dienų kryžiuočiai padegė Naujapilį, atsitraukė ir užklupo iš pilies galėjusį prasiveržti lietuvių kariuomenės būrį."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189146
+
+<a id="claim-t-206532"></a>
+- t-005
+  teiginys: "Teodoras Narbutas, lygindamas vietos ir istorijos duomenis, teigia, kad prie Liškiavos esantis kalnas buvo senovinė pilis, vadinta rusišku Lietuvos Naugarduko ir lietuvišku Naujapilio, arba Nauenpille, vardu."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189147
+
 ## Citatos
 
 - id: c-35029
@@ -122,3 +160,62 @@ historical_names: []
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-189145
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 252"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 252."
+  citata_originali: |
+    Vėliau dar didesnio žygio buvo imtasi: maršalka Kūnas
+    Hatenšteinas ir didysis komtūras Ridigeris Elneris, ordino ri­
+    terių ir svetimšalių atėjūnų nemažo pulko lydimi, tarp kurių
+    buvo daug įžymių asmenų, būtent Badeno markgrafas, gau­
+    sios kariaunos priekyje įsibrovė į Vaiguvos pavietą ir naktį su
+    priešakiniais kavalerijos būriais priartėjo prie Naujapilio. Tvir­
+    tovės įgula jiems pasipriešino, bet, patyrusi nuostolių, buvo pri­
+    versta pasislėpti pilies viduje. Kitą, 1381 metų vasario 14 dieną,
+    atžygiavo kariuomenė su sunkiomis ugniasvaidėmis patranko­
+    mis. Vygandas teigia, kad kryžiuočiai iki tol nebuvo jų naudoję.
+    Išgąstis dėl tų griausmus ir perkūnus svaidančių mašinų padarė
+    tai, kad trijų tūkstančių pilies karių įgula pasidavė kartu su žmo­
+    nomis ir vaikais, prisiekusi tarnauti ordinui ir priimti krikštą1.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-189146
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 253"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 253."
+  citata_originali: |
+    Trečią dieną, padegę Naujapilį, kryžiuočiai atsitraukė, tačiau nu­
+    sivijo kažkokį lietuvių kariuomenės būrį, tikriausiai sugebėjusį
+    prasiveržti iš pilies.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-189147
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 253"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 253."
+  citata_originali: |
+    Sis vietos ir istori­
+    jos duomenų palyginimas įtikina, kad prie Liškiavos esantis kalnas ir buvo toji
+    garsi Lietuvos istorijoje senovinė pilis, kurią žinome rusišku Lietuvos Naugar­
+    duko, arba lietuvišku Naujapilio - Nauenpille - vardu.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005

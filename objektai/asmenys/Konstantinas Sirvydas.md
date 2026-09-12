@@ -85,8 +85,28 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   pagrindžia:
     - c-171456
 
-<a id="claim-t-197413"></a>
+<a id="claim-t-188573"></a>
 - t-003
+  teiginys: "Narbutas nurodo, kad kunigas Konstantinas Sirvydas Aušrą vadino Aurora."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Aušra: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Konstantinas Sirvydas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Aušra: mention_match, thing, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konstantinas Sirvydas\" parinktas kaip owner_note_path. Targetas \"Aušra\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171462
+
+<a id="claim-t-197413"></a>
+- t-004
   teiginys: "Konstantinas Sirvydas būtų kalbėjęs lietuviams, kurie senovės laikais šito iškilmingai laikydavosi ir iš dalies to laikėsi iki Laskovičiaus ir Lasickio laikų, tai yra iki XVI amžiaus."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -179,10 +199,12 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   citata_rodoma: "Aušra (Aussra)\nRyto deivė.\nLasickis teigė, kad buvo tokio vardo deivė. Kunigas Sirvy­\ndas vadina ją Aurora."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-179173
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -202,4 +224,4 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004

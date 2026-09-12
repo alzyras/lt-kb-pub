@@ -82,6 +82,57 @@ Boleslovas Narsusis, nugalėjęs rusus, buvo užėmęs Kijevą ir privertęs kij
   pagrindžia:
     - c-174082
 
+<a id="claim-t-205102"></a>
+- t-003
+  teiginys: "Kadlubekas dar atsimena, kad tuo metu, kai Boleslovas Narsusis puolė Prūsiją, ne buvo ten būstų, kuriuos būtų buvę galima pripažinti esant patogius."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187698
+
+<a id="claim-t-205175"></a>
+- t-004
+  teiginys: "Boleslovas Narsusis palankiai priėmė Vaitiekų savo prieglobstyje."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187965
+
+<a id="claim-t-205398"></a>
+- t-005
+  teiginys: "Veikiai Boleslovas Narsusis išsiuntė pasiuntinius į Prū siją su pasiūlymu grąžinti šventojo palaikus."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187821
+
+<a id="claim-t-205540"></a>
+- t-006
+  teiginys: "Pasirenkant pas tarąjį kraštą, matyt, nebuvo apsieita be paties Boleslovo, kuriam labai rūpėjo krikštas šių kaimynų, gausios karin gos tautos, su toli nusidriekusiomis gyvenvietėmis, tad karo atveju galėjo daug rūpesčių pridaryti."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188089
+
 ## Citatos
 
 - id: c-169361
@@ -140,3 +191,82 @@ Boleslovas Narsusis, nugalėjęs rusus, buvo užėmęs Kijevą ir privertęs kij
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-187698
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 411"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 411."
+  citata_originali: |
+    Panemunio
+    pilaitėse tokių daug esu aptikęs. Galop galima pasakyti,
+    kad lietuvių tautai statybos nerūpėjo, juk iki Gedimino
+    laikų mūrų buvo labai reta. Kadlubekas dar atsimena,
+    kad tuo metu, kai Boleslovas Narsusis puolė Prūsiją, ne­
+    buvo ten būstų, kuriuos būtų buvę galima pripažinti esant
+    patogius.
+  citata_rodoma: "Kadlubekas dar atsimena, \nkad tuo metu, kai Boleslovas Narsusis puolė Prūsiją, ne­\nbuvo ten būstų, kuriuos būtų buvę galima pripažinti esant \npatogius."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-187821
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 143"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 143."
+  citata_originali: |
+    Veikiai Boleslovas Narsusis išsiuntė pasiuntinius į Prū­
+    siją su pasiūlymu grąžinti šventojo palaikus. Prūsai pa­
+    reikalavo tiek sidabro, kiek galėtų sverti jo ¡kūnas. Šis
+    svoris pasirodė pernelyg menkas.
+  citata_rodoma: "Veikiai Boleslovas Narsusis išsiuntė pasiuntinius į Prū­\nsiją su pasiūlymu grąžinti šventojo palaikus. Prūsai pa­\nreikalavo tiek sidabro, kiek galėtų sverti jo ¡kūnas."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
+- id: c-187965
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 136"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 136."
+  citata_originali: |
+    Tokio pašaukimo vedamas, užsuko į Lenkiją.
+    Boleslovo Narsiojo, kuris buvo girdėjęs apie Vaitiekaus
+    mokymą, dorybes, dievotumą ir imperatoriaus Otono III
+    jam rodomą palankumą, jis buvo sutiktas su dideliu mei­
+    lumu. Kurį laiką paviešėjęs Boleslovo prieglobstyje, iš­
+    vyko į Chroibatiją, kur Krokuvos apylinkėse vienus krikš­
+    tijo, kitų krikštą sutvirtino.
+  citata_rodoma: "Boleslovo Narsiojo, kuris buvo girdėjęs apie Vaitiekaus \nmokymą, dorybes, dievotumą ir imperatoriaus Otono III \njam rodomą palankumą, jis buvo sutiktas su dideliu mei­\nlumu. Kurį laiką paviešėjęs Boleslovo prieglobstyje, iš­\nvyko į Chroibatiją, kur Krokuvos apylinkėse vienus krikš­\ntijo, kitų krikštą sutvirtino."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-188089
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 137"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 137."
+  citata_originali: |
+    pagonimis, tuometines žemes, ir Prūsiją1. Pasirenkant pas­
+    tarąjį kraštą, matyt, nebuvo apsieita be paties Boleslovo,
+    kuriam labai rūpėjo krikštas šių kaimynų, gausios karin­
+    gos tautos, su toli nusidriekusiomis gyvenvietėmis, tad
+    karo atveju galėjo daug rūpesčių pridaryti. Ir šv.
+  citata_rodoma: "Pasirenkant pas­\ntarąjį kraštą, matyt, nebuvo apsieita be paties Boleslovo, \nkuriam labai rūpėjo krikštas šių kaimynų, gausios karin­\ngos tautos, su toli nusidriekusiomis gyvenvietėmis, tad \nkaro atveju galėjo daug rūpesčių pridaryti."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006

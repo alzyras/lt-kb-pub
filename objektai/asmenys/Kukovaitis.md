@@ -137,6 +137,45 @@ canonical_biography: "Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine l
   pagrindžia:
     - c-171460
 
+<a id="claim-t-205416"></a>
+- t-007
+  teiginys: "Narbutas rašo, kad Kukovaitis su savo daliniu pasiekė Voluinės Vladimiro apylinkes ir Mozyrių."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187926
+
+<a id="claim-t-205533"></a>
+- t-008
+  teiginys: "Šio žygio vadais buvo Lietuvos Užnerio kunigaikš tis Kukovaitis3 5 ir narsusis kunigaikštis Mantvila, turėjęs valdą Aukštaitijoje."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187796
+
+<a id="claim-t-205577"></a>
+- t-009
+  teiginys: "Kukovaitis Mingailos ir Skirmanto sostinėje buvo iškilmingai pagerbtas suruoš tomis vaišėmis ir apdovanotas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187755
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Narbutas Kukovaitį vadino sudvejintu lietuvių kunigaikščiu, Živinbudo II sūnumi, valdžiusiu Užnerio Lietuvoje ir mirusiu 1221 metais.'
@@ -294,6 +333,66 @@ canonical_biography: "Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine l
   pagrindzia:
     - t-003
     - t-005
+
+- id: c-187755
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 229"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 229."
+  citata_originali: |
+    Lietuvių kunigaikščiai su nemažu
+    grobiu grįžo į gimtąsias žemes. Kukovaitis Mingailos ir
+    Skirmanto sostinėje buvo iškilmingai pagerbtas suruoš­
+    tomis vaišėmis ir apdovanotas. Iš čia laimėtus trofėjus ir
+    džiugias žinias jis perdavė savo tėvui į Deltuvą.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+
+- id: c-187796
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 224"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 224."
+  citata_originali: |
+    Apie 1140 metus, pasikvietę į
+    pagraibą jotvingius, susirinko kariai iš Lietuvos ir Žemai­
+    tijos. Šio žygio vadais buvo Lietuvos Užnerio kunigaikš­
+    tis Kukovaitis3 * 5 ir narsusis kunigaikštis Mantvila, turėjęs
+    valdą Aukštaitijoje. Kariauna suko pietinės Rusios link.
+  citata_rodoma: "Šio žygio vadais buvo Lietuvos Užnerio kunigaikš­\ntis Kukovaitis3 * 5 ir narsusis kunigaikštis Mantvila, turėjęs \nvaldą Aukštaitijoje. Kariauna suko pietinės Rusios link."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
+- id: c-187926
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 224"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 224."
+  citata_originali: |
+    Šio žygio vadais buvo Lietuvos Užnerio kunigaikš­
+    tis Kukovaitis3 * 5 ir narsusis kunigaikštis Mantvila, turėjęs
+    valdą Aukštaitijoje. Kariauna suko pietinės Rusios link.
+    Kukovaitis su savo daliniu persikėlė per Nemuną jo ¡aukš­
+    tupyje, valsčiuose prie Rusios Naugarduko* sukėlę sam­
+    brūzdį, grįžo pasukdami Lucko link, kur apiplėšė jo tvir­
+    toves, pasiekė Voluinės Vladimiro1 apylinkes ■— visur ne­
+    gailėdami nei cerkvių, nei vienuolynų, viską griaudami
+    ir naikindami, kol atsidūrė prie Mozyriaus.
+  citata_rodoma: "Kukovaitis su savo daliniu persikėlė per Nemuną jo ¡aukš­\ntupyje, valsčiuose prie Rusios Naugarduko* sukėlę sam­\nbrūzdį, grįžo pasukdami Lucko link, kur apiplėšė jo tvir­\ntoves, pasiekė Voluinės Vladimiro1 apylinkes ■— visur ne­\ngailėdami nei cerkvių, nei vienuolynų, viską griaudami \nir naikindami, kol atsidūrė prie Mozyriaus."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 ## Ryšiai
 - Kukovaitis rėmė [[objektai/asmenys/Skirmantas]]

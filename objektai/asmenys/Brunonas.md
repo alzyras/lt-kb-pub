@@ -106,6 +106,32 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
   pagrindžia:
     - c-168043
 
+<a id="claim-t-205657"></a>
+- t-006
+  teiginys: "Teodoras Narbutas rašė, kad Livonijos ordino vaidai su dvasininkija stiprėjo dėl to, kad magistras Brunonas jautėsi asmeniškai įžeistas, o Brunoną apibūdino kaip prastai išauklėtą."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-188272
+
+<a id="claim-t-205658"></a>
+- t-007
+  teiginys: "Brunonas prie Treiderės upės, netoli jūros kranto, užpuolė lietuvių stovyklą, atsiėmė visus belaisvius ir nukovė 800 žmonių."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-188273
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Kojelavičiaus pasakojime magistras Brunonas prie Treiderės upės netoli Livonijos įlankos užpuolė grobiu apsikrovusius siaubėjus.'
@@ -237,3 +263,46 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
   pagrindzia:
     - t-004
     - t-005
+
+- id: c-188272
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 317"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 317."
+  citata_originali: |
+    1298 m. Karas Livonijoje. Po kiek laiko vyravusios
+    taikos Livonijoje vėlei įsiliepsnojo ordino vaidai su dva­
+    sininkija, juo stipriau, kuo labiau asmeniškai įžeistas jau­
+    tėsi magistras Brunonas, žmogus, kaip galima suprasti,
+    prastai išauklėtas ir turintis nesutramdomų laukinių už-
+    1 Zr.
+  citata_rodoma: "Po kiek laiko vyravusios \ntaikos Livonijoje vėlei įsiliepsnojo ordino vaidai su dva­\nsininkija, juo stipriau, kuo labiau asmeniškai įžeistas jau­\ntėsi magistras Brunonas, žmogus, kaip galima suprasti, \nprastai išauklėtas ir turintis nesutramdomų laukinių"
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
+- id: c-188273
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 318"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 318."
+  citata_originali: |
+    Netgi kryžiuočių
+    kunigai buvo daigoj ami, o jų šalininkai įnirtingai perse­
+    kiojami, prie to prisidėjo bajorai, pasauliečiai dvasininkai
+    bei Rygos gyventojai. Paskui lietuviai ėmė rengtis grįžti
+    į savo kraštą. Tuo tarpu Brunonas, paskubomis surinkęs
+    savo karius, birželio 1 dieną pavijo lietuvius netoli nuo
+    jūros krantų, prie Treiderės upės stovyklaujančius, ir su­
+    rengė tokias narsias kautynes, kad atsiėmė visus belais­
+    vius, o aštuonetą šimtų žmonių užmušė.
+  citata_rodoma: "Tuo tarpu Brunonas, paskubomis surinkęs \nsavo karius, birželio 1 dieną pavijo lietuvius netoli nuo \njūros krantų, prie Treiderės upės stovyklaujančius, ir su­\nrengė tokias narsias kautynes, kad atsiėmė visus belais­\nvius, o aštuonetą šimtų žmonių užmušė."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007

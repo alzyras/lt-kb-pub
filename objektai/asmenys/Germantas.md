@@ -4,6 +4,7 @@ pavadinimas: 'Germantas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - '„Mes, Lietuva.“ LDK bajorija XVI a.'
 datos:
   - '1268 m.'
 date_start: '1268'
@@ -41,7 +42,7 @@ canonical_biography: "Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. V
 
 ## Santrauka
 
-Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėjo pirmasis įkurdinti vaidilą. Balińskis teigė, kad Germantas Šventaragio slėnyje plėtė senovinę Vilniaus gyvenvietę palei Vilnios krantus. Pasak kronikų, Germantas pirmasis Šventaragio slėnyje iškirto miškus ir skyrė vietą kapavietėms.
+Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas savo tėvo, kunigaikščio Šventaragio, pasak jų, viešpatavusio Lietuvoje apie 1268 m., valią, tam slėny pir­ masis miškus išnaikinęs ir savo tė­ vo bei savo paties įpėdinių kapavie­ tėms. Jau, pasak mūsų kronikų, Lietuvos kunigaikštis Germantas XIII amžiuje pirmasis toje vietoje turėjo būti įkurdinęs vaidik Č a c k i s, gavęs išrašą iš tos Snorro kelionės aprašymo rankraščio, esan­ čio Kopenhagos bibliotekoje, pirma­ sis apie tai užsiminė. Netgi pats Vilniaus vardas, paeinantis ne nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios, į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus lydimais vertęs, kaip ir Gediminas.
 
 ## Teiginiai
 
@@ -214,6 +215,20 @@ Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėj
     rašytojai.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-010
+  santrauka: 'Kiaupienės aptariamame pasakojime Germantas po Šventaragio mirties karuose su Rusia ir Kryžiuočiais narsa įrodė esąs riteris.'
+  šaltinis: 02-kiaupiene-mes-lietuva-ldk-bajorija
+  citata_originali: |
+    Lietuvos Didžiosios Kunigaikštystės karių didvyrių, vadinamų riteriais, portretų
+    galeriją M. Stryjkovskis pradeda nuo legendinių Palemono ir jo bendražygių palikuo-
+    nių, „Dorybės pasiuntinyje" vadindamas riteriais tuos legendinius lietuvių kunigaikščius,
+    kurie įrodė savo narsumą. Vienas tokių buvo Germantas. Po Šventaragio mirties ka-
+    ruose su Rusia ir Kryžiuočiais jis narsa įrodė esąs riteris (šalt.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified

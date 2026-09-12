@@ -79,6 +79,58 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
   pagrindžia:
     - c-83561
 
+<a id="claim-t-206389"></a>
+- t-003
+  teiginys: "Teodoras Narbutas Sudimantą apibūdina kaip aukštos kilmės lietuvių didiką ir Eišiškių tėvonį."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189004
+
+<a id="claim-t-206390"></a>
+- t-004
+  teiginys: "Senoji Prūsijos kronika Sudimantą vadino Vytauto svainiu, o Teodoras Narbutas spėjo, kad juos siejo giminystė."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189005
+
+<a id="claim-t-206391"></a>
+- t-005
+  teiginys: "Teodoras Narbutas aprašo Sudimantą kaip Vytauto svainį ir kadaise jo bičiulį emigracijoje; mūšyje prie Paparčių jis pateko į nelaisvę ir buvo pakartas už kojų."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189006
+
+<a id="claim-t-206392"></a>
+- t-006
+  teiginys: "Sudimantas dokumente įvardijamas kaip svainis ir siejamas su Vėžiške, kurią Teodoras Narbutas atsargiai tapatina su Eišiškėmis."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189007
+
 ## Citatos
 
 - id: c-83561
@@ -133,3 +185,77 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-189004
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 304"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 304."
+  citata_originali: |
+    Vytauto liudininkais dalyvavo: Naugarduko kuni­
+    gaikštis Jurgis ir Drucko kunigaikštis Levas, taip pat aukštos
+    kilmės lietuvis didikas Sudimantas, Eišiškių tėvonis ir dauge­
+    lis kitų riterių luomo lietuvių ir
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-189005
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 314"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 314."
+  citata_originali: |
+    Senoji Prūsijos kronika skelbia Sudimantą buvus Vytauto svainiu, tik­
+    riausiai tarp jų buvo kokia giminystė.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-189006
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 437"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 437."
+  citata_originali: |
+    Pagaliau kryžiuočių armija prasibrovė į lygesnę vietą, prie Pa­
+    parčių. Ten buvo prieita iki mūšio, per kurį nelaisvėn buvo
+    paimtas Sudimantas, Vytauto svainis ir kadaise jo bičiulis emig­
+    racijoje, įsiminęs vokiečiams dėl klastingos apgaulės. Didysis
+    magistras surengė aukščiausio rango pareigūnų teismą, kurio
+    nuosprendžiu Sudimantas buvo pakartas už kojų.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
+- id: c-189007
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 525-526"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 525-526."
+  citata_originali: |
+    Tam reikalui atminti, kad tvirtai ir
+    nepažeidžiamai galiotų amžiais, mes, aukščiau minėtieji, Trakų
+    527
+
+    I
+    kunigaikštis Vygandas ir Naugarduko kunigaikštis Jurgis, mū­
+    sų brolio sūnus (Jurgis Lengvenaitis, sūnus kunigaikščio, Nau-
+    garde paskelbto didžiuoju. - T. N.) Drucko kunigaikštis Levas,
+    mūsų svainis, Sudimantas iš Vėžiškės (Eišiškių? -T. N), įsakė­
+    me mūsų antspaudus prikabinti
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006

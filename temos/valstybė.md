@@ -6,7 +6,7 @@ tema_kategorija: "vietos"
 tema_kategorijos_pavadinimas: "Vietų tipai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 150
+tema_objektu_skaicius: 152
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 150.
+Objektų skaičius: 152.
 
 ## Kaip naudoti
 
@@ -24,6 +24,10 @@ Objektų skaičius: 150.
 - Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
 
 ## Susiję objektai
+
+### Asmenys
+- [[objektai/asmenys/Ivanas Vasiljevičius]]
+- [[objektai/asmenys/Leonas Sapiega|Leonas Sapiega (kunigaikštis, XVI a.)]]
 
 ### Grupės
 - [[objektai/grupes/Gediminaičių dinastija]]
@@ -51,8 +55,8 @@ Objektų skaičius: 150.
 - [[objektai/vietos/Brandenburgas]]
 - [[objektai/vietos/Brazilija]]
 - [[objektai/vietos/Bulgarija]]
-- [[objektai/vietos/D. Naugardas]]
-- [[objektai/vietos/Danija]]
+- [D. Naugardas](../objektai/vietos/D.%20Naugardas)
+- [Danija](../objektai/vietos/Danija)
 - [Dauguvos žiotys](../objektai/vietos/Dauguvos%20%C5%BEiotys)
 - [Didžioji Britanija](../objektai/vietos/Did%C5%BEioji%20Britanija)
 - [Dniepro žemupys](../objektai/vietos/Dniepro%20%C5%BEemupys)

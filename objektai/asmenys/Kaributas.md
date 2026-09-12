@@ -169,6 +169,32 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   pagrindžia:
     - c-91947
 
+<a id="claim-t-206314"></a>
+- t-008
+  teiginys: "Lydos miestas tuo metu buvo kunigaikščio Kaributo, saugojusio kraštą su Seversko kariuomene, buveinė."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188929
+
+<a id="claim-t-206315"></a>
+- t-009
+  teiginys: "Teodoras Narbutas Kaributą apibūdina kaip nenuoramą, praradusį Seversko kunigaikštystę, Lydą ir Naugarduką, o vėliau Naugarde-Severske gavusį valdą su bajorų laidavimo sąlyga."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188930
+
 ## Citatos
 
 - id: c-91944
@@ -308,6 +334,49 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
+
+- id: c-188929
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 410"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 410."
+  citata_originali: |
+    Žygio tikslas buvo
+    Lydos miestas, tuo m etu kunigaikščio Kaributo, palikto eiti
+    krašto sargybą su Seversko kariauna, buveinė; kryžiuočiai ne­
+    tikėtai priartėjo per užšąlusias balas, padegė papilęs; o tas ku­
+    nigaikštis, nepaisant gerus įtvirtinimus turinčios pilies, vienos
+    mažiausiai lig tol Lietuvoje paliestos, gintis joje nenorėjo, sku­
+    biai su visais dvariškiais ir kariauna išvyko, visa ką, kas buvo
+    pilyje ir mieste, palikdamas priešo grobiui. Buvo paimti gin­
+    klų sandėliai ir nemažai karo
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
+- id: c-188930
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 430"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 430."
+  citata_originali: |
+    Kaributas, nenuorama ir tiek kartų savo tėvynei pakenkęs, jau
+    matėme, kaip veltui prarado Seversko kunigaikštystę, o vė­
+    liau Lydą ir Naugarduką; Lenkijoje gyveno jau bemaž metai,
+    tarsi kalėjime, tik sugrįžęs į Seversko žemę, gavo ten nemažą
+    valdą Naugarde Severske, tačiau su sąlyga, kad vietos bajorai
+    gera valia už jį laiduos ir duos ištikimybės priesaiką. Tie pati­
+    kėtiniai buvo - Dovydas Rusanas, Bazilijus Torošajus, Grigo­
+    rijus Nesvyžietis.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
 
 ## Ryšiai
 - Kaributas valdė [[objektai/vietos/Severskas]]

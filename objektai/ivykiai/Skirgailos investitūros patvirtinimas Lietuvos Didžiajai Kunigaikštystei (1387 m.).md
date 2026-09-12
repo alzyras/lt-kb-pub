@@ -1,0 +1,80 @@
+---
+tipas: ivykis
+pavadinimas: 'Skirgailos investitūros patvirtinimas Lietuvos Didžiajai Kunigaikštystei (1387 m.)'
+variantai:
+  - 'Skirgailos investitūros patvirtinimas Lietuvos Didžiajai Kunigaikštystei'
+aliases:
+  - 'Skirgailos investitūros patvirtinimas Lietuvos Didžiajai Kunigaikštystei'
+saltiniai:
+  - 'į Ą'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Skirgailos investitūros patvirtinimas Lietuvos Didžiajai Kunigaikštystei (1387 m.)
+
+## Santrauka
+
+Vilniuje sušauktame seime, pasak Narbuto, buvo patvirtinta Skirgailos investitūra, o tautos papročiu išrinktas kunigaikštis gavo sostą ir paskelbtas Lietuvos didžiuoju kunigaikščiu.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+
+<a id="claim-t-206894"></a>
+- t-001
+  teiginys: "Vilniuje sušauktame seime, pasak Narbuto, buvo patvirtinta Skirgailos investitūra, o tautos papročiu išrinktas kunigaikštis gavo sostą ir paskelbtas Lietuvos didžiuoju kunigaikščiu."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189509
+
+## Santrauka
+
+Vilniuje sušauktame seime, pasak Narbuto, buvo patvirtinta Skirgailos investitūra, o tautos papročiu išrinktas kunigaikštis gavo sostą ir paskelbtas Lietuvos didžiuoju kunigaikščiu.
+
+## Citatos
+
+- id: c-189509
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 358"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 358."
+  citata_originali: |
+    Grįžęs Vilniun, vėl sušaukė
+    seimą, kuriame, be kitų nutarimų, buvo patvirtinta Skirgailos
+    investitūra Lietuvos Didžiajai Kunigaikštystei; tas kunigaikš­
+    tis, tautos papročiu išrinktas, gavo sostą ir buvo paskelbtas
+    Lietuvos didžiuoju kunigaikščiu.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

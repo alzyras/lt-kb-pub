@@ -113,6 +113,19 @@ historical_names: []
   pagrindžia:
     - c-156467
 
+<a id="claim-t-205476"></a>
+- t-005
+  teiginys: "Ik i šiol galima pastebėti tokias kepures turint lietuvius kai miečius, gyvenančius tarp Kauno ir Varėnos."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-187766
+
 ## Citatos
 
 - id: c-43964
@@ -195,3 +208,24 @@ historical_names: []
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-187766
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 394"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 394."
+  citata_originali: |
+    Ik i šiol galima pastebėti tokias kepures turint lietuvius kai­
+    miečius, gyvenančius tarp Kauno ir Varėnos. Lietuvių jos vadinamos
+    neromke.
+    2 Stumbras — ypatingas žvėris, palyginti su kitais didžiausiais ke­
+    turkojais gyvūnais; anksčiau jis buvo painiojamas su laukiniu jaučiu,
+    t. y. tauru, todėl senovės rašytojai jį pastebi didesnėje teritorijoje nei
+    buvo iš tikrųjų.
+  citata_rodoma: "Ik i šiol galima pastebėti tokias kepures turint lietuvius kai­\nmiečius, gyvenančius tarp Kauno ir Varėnos. Lietuvių jos vadinamos\nneromke."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005

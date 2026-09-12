@@ -131,6 +131,19 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
   pagrindžia:
     - c-179024
 
+<a id="claim-t-205681"></a>
+- t-006
+  teiginys: "Teodoras Narbutas Gotfridą Hohenlohę įvardija didžiuoju magistru ir nurodo, kad jis iš Vokietijos į Prūsiją atvyko vedinas penkiasdešimties kryžiuočių riterių."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188296
+
 ## Citatos
 
 - id: c-60651
@@ -231,6 +244,29 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
+
+- id: c-188296
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 319"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 319."
+  citata_originali: |
+    Nesėkmės, patirtos Livonijoje, sujaudino visą vokie­
+    čių ordiną. Didysis magistras Gotfridas Hohenlohė, pen-
+    kiasdešimčia kryžiuočių riterių vedinas, nuskubėjo iš
+    Vokietijos į Prūsiją. Apgulta Naujojo Malūno pilis buvo
+    reikalinga skubios pagalbos, tad buvo išsiųstas stiprus
+    riterių ir ginkluotų žmonių dalinys, vadovaujamas Kara­
+    liaučiaus komtūro Bertoldo Briuhaveno, su kuriuo kartu
+    vietoj Brunono atvyko Livonijos magistru paskirtas Gotf­
+    ridas Rogė.
+  citata_rodoma: "Didysis magistras Gotfridas Hohenlohė, pen- \nkiasdešimčia kryžiuočių riterių vedinas, nuskubėjo iš \nVokietijos į Prūsiją."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 ## Ryšiai
 - Gotfridas Hohenlohė keliavo į [[objektai/vietos/Prūsija]]

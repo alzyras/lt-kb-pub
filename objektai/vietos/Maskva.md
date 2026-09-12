@@ -1755,6 +1755,56 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   pagrindžia:
     - c-178862
 
+<a id="claim-t-205374"></a>
+- t-099
+  teiginys: "Pasak legendos, Maskvoje vėliau atsirado sustiprinta tvirtovė Kremlius."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-187739
+
+<a id="claim-t-206521"></a>
+- t-100
+  teiginys: "Voros suko tiesiai į Maskvą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189136
+
+<a id="claim-t-206522"></a>
+- t-101
+  teiginys: "Gruodžio 6 d. Algirdo vėliavos plevėsavo ant kalvų prie Maskvos."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189137
+
+<a id="claim-t-206523"></a>
+- t-102
+  teiginys: "Tochtamyšas apsupo Maskvą, kuri, Teodoro Narbuto aprašymu, buvo didžiojo kunigaikščio Dmitrijaus apleista."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189138
+
 ## Reikšmingi paminėjimai
 - c-073
   santrauka: 'Maskvoje maskvėnai reikalavo, kad legatai laišku paklaustų karaliaus nuomonės dėl titulų ginčo.'
@@ -3748,6 +3798,92 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-098
+
+- id: c-187739
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 443"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 443."
+  citata_originali: |
+    Smorodinkos upės pilaitę (šiandien, rodos, Nęglinka va­
+    dinamą), kurią pavadino pagal savo žmonos Kitos var­
+    dą — Kitaigorodu. Tai ir buvo Maskvos miesto pradžia1.
+    Kai vėliau išaugo miestas, atsirado jame sustiprinta
+    tvirtovė Kremlius; Maskvos pavadinimas kilo iš upės var­
+    do ir tos kalbos.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-099
+
+- id: c-189136
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 173"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 173."
+  citata_originali: |
+    Voros suko tiesiai į Maskvą. Didysis kunigaikštis
+    Dmitrijus išsiuntė Maskvos bajorų vedamus savo pulkus,
+    kurie susijungė su kunigaikščio Vladimiro Andrejevičiaus,
+    Dm itrijaus pusbrolio, kariauna. Pastojo jie Lietuvos pul­
+    kams kelią prie Trostnos upės. Ten per pačią aušrą, 1365
+    m etų lapkričio 21 dieną, lietuviai smogė rusinams
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-100
+
+- id: c-189137
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 200-201"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 200-201."
+  citata_originali: |
+    Gruodžio 6 dieną Al­
+    girdo vėliavos jau plevėsavo ant kalvų prie Maskvos, greta jų
+    pastebėta ir rusinu: Smolensko kunigaikščio Sviatoslavo ir ki­
+    tų vasalų. Didysis kunigaikštis Dmitrijus užsidarė Kremliuje,
+    sudeginęs papilę; ištisas aštuonias dienas ramiai stebėjo plėši­
+    kavimus sostinės apylinkėse ir liepsnose skendinčius nuosta­
+    bius jų priem iesčius. G alop leidosi į derybas: į pirm ąjį
+    202
+
+    kreipimąsi Algirdas davė atsakymą: „Netrokštu žmonių krau­
+    jo lieti, ne to atėjau, kad naikinčiau, tik noriu teisingumo ir
+    likti kunigaikščio Dmitrijaus draugas“. Greitai buvo sudary­
+    tos sutartys, iki kitų metų liepos numatytos paliaubos, o gerus
+    norus liudydamas Lietuvos didysis kunigaikštis sutiko išleisti
+    savo dukrą Eleną už Vladimiro Andrėj evičiaus, Dmitrijaus
+    pusbrolio1
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-101
+
+- id: c-189138
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 282"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 282."
+  citata_originali: |
+    Totorių chanas Tochta-
+    myšas užpuolė Rusios valstybę ir apsupo Maskvą, didžiojo kuni­
+    gaikščio Dmitrijaus apleistą. Miestas neturėjo nei vado, nei
+    patikimo valdovo, buvo didžiausia sumaištis ir pakrikimas; šitaip
+    aplinkybėms susiklosčius, iškilo vietinis riteris, lietuvis, kunigaikštis
+    Ostėjus.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Jonas Kalita]], [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]]

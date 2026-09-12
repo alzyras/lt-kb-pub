@@ -121,6 +121,22 @@ Nenurodyta
   pagrindžia:
     - c-170443
 
+<a id="claim-t-206215"></a>
+- t-005
+  teiginys: "1366 m. kovo 6 d. Vilniuje susibūrusi minia užpuolė pranciškonų buveinę: septyniems vienuoliams nukirto galvas, o kitus septynis, pabėgusius į Tauro kalnus, prie kryžių prikalė ir įmetė į Vilnią."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1366 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Atkurti sugadinti žodžiai ir aiškiai išdėstyti abiejų vienuolių grupių likimai; nepridėta jokių už citatos ribų esančių faktų."
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-188830
+
 ## Citatos
 
 - id: c-170443
@@ -152,3 +168,26 @@ Nenurodyta
     - t-002
     - t-003
     - t-004
+
+- id: c-188830
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 177"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 177."
+  citata_originali: |
+    Susibūrusi minia nuspren­
+    dė išžudyti pranciškonus; užpuolė jų buveinę, išstūmė sep­
+    tynetą vienuolių ir darže nukirto jiem s galvas. Kiti septyni
+    iš vienuolyno suskubo pabėgti ir nusigavo į kalnus, vadin­
+    tus Tauro, tačiau greitai ten buvo surasti, ant Plikojo kalno,
+    tuom et visai nuožulnaus, prie pat Vilnios prigludusio; bu­
+    vo prie kryžių prikalti ir įmesti į upę, o žm onės šaukė: „Iš
+    vakarų atėjote, į vakarus sau ir grįžkite“ - nes M azovija yra
+    į vakarus nuo Vilniaus, ir upė plaukia ton pusėn. Tai vyko
+    1366 m etų kovo 6 dieną**.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005

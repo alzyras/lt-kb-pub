@@ -122,6 +122,32 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
   pagrindžia:
     - c-171292
 
+<a id="claim-t-205100"></a>
+- t-005
+  teiginys: "Juk, anot Henriko kronikos, iš jų buvo per tris dešimt kankinių, šio persekiojimo aukų."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187949
+
+<a id="claim-t-205634"></a>
+- t-006
+  teiginys: "Narbutas, remdamasis Henriko Latvio kronika, teigia, kad Rygoje Lietuva buvo žinoma kaip turinti stiprias karines pajėgas, vieningą valdžią, gerai organizuotas pasienio institucijas ir mūšiuose patyrusius karius."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188249
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Henriko Latvio kronika laikoma svarbiu šaltiniu XIII-XIV a. Lietuvos feodalinio laikotarpio istorijai nušviesti.'
@@ -271,3 +297,49 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
+
+- id: c-187949
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 264"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 264."
+  citata_originali: |
+    Stebėti­
+    nas dalykas, kiek mažai ištvermės teturėjo šie kunigai,
+    o čionykščių krikščionių tikėjimas ¡pasirodė esantis tvir­
+    tesnis. Juk, anot Henriko kronikos, iš jų buvo per tris­
+    dešimt kankinių, šio persekiojimo aukų.
+    Svetimtaučiai
+    pirkliai, likę vietoje, savo ¡saugumo dėlei turėjo mokėti
+    išpirką vyresnybei.
+  citata_rodoma: "Juk, anot Henriko kronikos, iš jų buvo per tris­\ndešimt kankinių, šio persekiojimo aukų. \nSvetimtaučiai \npirkliai, likę vietoje, savo ¡saugumo dėlei turėjo mokėti \nišpirką vyresnybei."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
+- id: c-188249
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 50"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 50."
+  citata_originali: |
+    Livonijos riteriai, užvaldę Livoniją, turėjo pakanka­
+    mai vargo su artimiausiais kaimynais ezeliečiais, estais,
+    rusinais, žemgaliais ir kuršiais, tad apie tolesnius užka­
+    riavimus nebuvo kada nė galvoti. Be to, dar, kaip kad
+    matėme iš Henriko Latvio kronikos, Rygoje buvo žinoma
+    Lietuvą'turint karines pajėgas ne iš paskutiniųjų, santar­
+    vėje gyvenant aukštuosius didikus, tai yra valdovus; ne­
+    gana to, pavojui atėjus, valdžia būdavo vieninga, turėjo
+    gerai organizuotas institucijas pasienio žemėse ir, kas
+    svarbiausia, ryžtingus bei patyrusius mūšiuose karius.
+  citata_rodoma: "Be to, dar, kaip kad \nmatėme iš Henriko Latvio kronikos, Rygoje buvo žinoma \nLietuvą'turint karines pajėgas ne iš paskutiniųjų, santar­\nvėje gyvenant aukštuosius didikus, tai yra valdovus; ne­\ngana to, pavojui atėjus, valdžia būdavo vieninga, turėjo \ngerai organizuotas institucijas pasienio žemėse ir, kas \nsvarbiausia, ryžtingus bei patyrusius mūšiuose karius."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006

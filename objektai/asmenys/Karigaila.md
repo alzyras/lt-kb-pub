@@ -117,6 +117,19 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
   pagrindžia:
     - c-36406
 
+<a id="claim-t-206316"></a>
+- t-005
+  teiginys: "Teodoras Narbutas rašo, kad Karigaila ir Butautas, išpažinę Rytų apeigų tikėjimą, susimokė su kai kuriais Lietuvos didikais vykti pas kryžiuočius."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188931
+
 ## Citatos
 
 - id: c-36406
@@ -210,6 +223,25 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188931
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 166"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 166."
+  citata_originali: |
+    Kol didysis kunigaikš­
+    tis buvo užsiėmęs karu su Prūsija, jo sūnūs - Karigaila ir Bu­
+    tautas, Rytų apeigų tikėjimą išpažinę pirmasis Konstantino,
+    antrasis Boriso vardu, abu vienos motinos Marijos, Vitebsko
+    kunigaikštytės1, - susimokė su kai kuriais lietuvių didikais,
+    kad būtų nuvykta pas kryžiuočius
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Vasilijus Čartoriskis]]

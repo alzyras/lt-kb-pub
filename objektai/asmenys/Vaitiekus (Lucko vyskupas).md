@@ -78,6 +78,18 @@ canonical_biography: "Šio reikalo paliudijimui ir didžiausiai galiai mūsų an
   pagrindžia:
     - c-184894
 
+<a id="claim-t-205141"></a>
+- t-003
+  teiginys: "Vaitiekus buvo iš Čekijos kilęs Prahos vyskupas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187682
+
 ## Citatos
 
 - id: c-83910
@@ -146,3 +158,23 @@ canonical_biography: "Šio reikalo paliudijimui ir didžiausiai galiai mūsų an
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-187682
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 136"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 136."
+  citata_originali: |
+    966 m. Prūsijos apaštalas Vaitiekus. Kai taip klostėsi
+    Lenkijos santykiai su kaimyniniais atkaklių pagonių kraš­
+    tais, Lenkijos monarcho rūmuose pasirodė retomis ir ypa­
+    tingomis dorybėmis pelnęs garsą ir pagarbą žmogus —
+    tai Prahos vyskupas Vaitiekus, kilęs iš Čekijos, iš labai
+    garsios giminės1.
+  citata_rodoma: "Lenkijos monarcho rūmuose pasirodė retomis ir ypa­\ntingomis dorybėmis pelnęs garsą ir pagarbą žmogus — \ntai Prahos vyskupas Vaitiekus, kilęs iš Čekijos, iš labai \ngarsios giminės1."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

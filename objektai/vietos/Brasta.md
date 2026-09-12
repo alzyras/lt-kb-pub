@@ -582,6 +582,18 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   pagrindžia:
     - c-186958
 
+<a id="claim-t-205755"></a>
+- t-031
+  teiginys: "1229 m. iš Lenkijos grįžę lietuviai su grobiu sustojo stovykloje Brastos apylinkėse."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188370
+
 ## Reikšmingi paminėjimai
 - c-020
   santrauka: 'Lietuvos metraštis pasakoja, kad Kęstutis atvyko į Gardiną pas sūnų, o žmoną pasiuntė į Brastą, pasikliaudamas žentu Jonušu.'
@@ -1180,6 +1192,23 @@ Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis. K
   patikimumo_saltinis: ai
   pagrindzia:
     - t-030
+
+- id: c-188370
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 94"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 94."
+  citata_originali: |
+    1229, 1230 m. Rimgaudo karo žygiai. 1229-aisiais lie­
+    tuviai surengė į Lenkiją grobikišką žygį ir grįždami su
+    grobiu sustojo stovykloje Brastos apylinkėse.
+  citata_rodoma: "1229-aisiais lie­\ntuviai surengė į Lenkiją grobikišką žygį ir grįždami su \ngrobiu sustojo stovykloje Brastos apylinkėse."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-031
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Šach Achmedas]]

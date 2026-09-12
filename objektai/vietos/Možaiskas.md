@@ -141,6 +141,19 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
   pagrindžia:
     - c-168418
 
+<a id="claim-t-206527"></a>
+- t-006
+  teiginys: "Riazanės kunigaikštis, Lietuvos sąjungininkas, turėjo neaiškių teisių į Možaiską ir mėgino jį užimti ginklu."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189142
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Pirmoji pasiuntinybė patraukė į Možaiską tik gavusi žinią, kad karaliaus legatai yra Smolenske.'
@@ -333,3 +346,19 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
+
+- id: c-189142
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 69"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 69."
+  citata_originali: |
+    Riazanės kunigaikštis, Lietuvos są­
+    jungininkas, turėjo kažkokių teisių į Možaiską, kurį grobė gin­
+    klu prirėmęs.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006

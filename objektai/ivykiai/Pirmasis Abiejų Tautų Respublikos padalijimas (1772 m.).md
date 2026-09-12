@@ -2,6 +2,7 @@
 tipas: ivykis
 pavadinimas: 'Pirmasis Abiejų Tautų Respublikos padalijimas (1772 m.)'
 saltiniai:
+  - '04-ldk-personalijos-idejos-refleksijos'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 datos:
   - '1772 m.'
@@ -15,6 +16,7 @@ tags:
   - ivykis
   - seimas
   - sutartis
+  - tauta
 amziai:
   - 'XVIII'
 media_total_count: '0'
@@ -72,6 +74,22 @@ Nenurodyta
   pagrindžia:
     - c-44924
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Vilniaus pranciškonų memoriale pirmasis padalijimas vartojamas kaip chronologinė riba ir kaip istorinis orientyras.'
+  šaltinis: 04-ldk-personalijos-idejos-refleksijos
+  citata_originali: |
+    Pirmasis padalijimas prisimenamas
+    kaip tam tikra chronologinė riba44. Kaip chronologinis orientyras naudojamas ir
+    antrasis bei trečiasis (galutinis) Abiejų Tautų Respublikos padalijimai45. Lenkijos
+    •r Lietuvos valstybės panaikinimas Vilniaus pranciškonų memoriale dažniausiai
+    suvokiamas kaip „Lenkijos“, „Lenkijos Karalystės“ (Regni Poloniae) padalijimas
+    (<dismembratio), nors yra atvejis, kai šalia Lenkijos buvo paminėta ir Lietuva46.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-44924

@@ -51,6 +51,19 @@ Ilgą laiką panašiai buvo ir su Naugardo respublika, nors Algirdas siekė ją 
   pagrindžia:
     - c-33336
 
+<a id="claim-t-205620"></a>
+- t-002
+  teiginys: "Naugardo pulkai susijungė su kunigaikščio rūmų sargybos daliniu, buvusiu Dimitrijaus, Aleksandro sūnaus, žinioje, o prie Naugardo ir rūmų sargybos pajėgų prisidėjo Jaroslavo ir Konstantino vadovaujami Rusios kariai."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
+  pagrindžia:
+    - c-188235
+
 ## Citatos
 
 - id: c-33336
@@ -73,3 +86,25 @@ Ilgą laiką panašiai buvo ir su Naugardo respublika, nors Algirdas siekė ją 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188235
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 194"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 194."
+  citata_originali: |
+    Juk tasai dievotasis kunigaikš­
+    tis neturėjo noro matyti krikščionių kraują liejantis, kai
+    ginami nekrikštų ir savos tautos engėjų reikalai. Šit todėl
+    Naugardo pulkai susijungė su kunigaikščio rūmų sargy­
+    bos daliniu, buvusiu Dimitrijaus, Aleksandro sūnaus, ži­
+    nioje. Prie jų prisidėjo atvykę Rusios kariai, vadovaujami
+    Jaroslavo, Tverės kunigaikščio, ir Konstantino Rostisla-
+    vovičiaus Smolenskiečio, kunigaikščio Aleksandro.
+  citata_rodoma: "Šit todėl \nNaugardo pulkai susijungė su kunigaikščio rūmų sargy­\nbos daliniu, buvusiu Dimitrijaus, Aleksandro sūnaus, ži­\nnioje. Prie jų prisidėjo atvykę Rusios kariai, vadovaujami \nJaroslavo, Tverės kunigaikščio, ir Konstantino Rostisla- \nvovičiaus Smolenskiečio, kunigaikščio Aleksandro."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

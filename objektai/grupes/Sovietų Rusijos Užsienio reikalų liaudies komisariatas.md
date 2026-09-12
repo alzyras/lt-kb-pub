@@ -1,0 +1,55 @@
+---
+tipas: grupe
+pavadinimas: 'Sovietų Rusijos Užsienio reikalų liaudies komisariatas'
+saltiniai:
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
+datos:
+  - '1921 m.'
+date_start: '1921'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Sovietų Rusijos Užsienio reikalų liaudies komisariatas
+
+## Santrauka
+
+Sovietų Rusijos Užsienio reikalų liaudies komisariatas 1921 m. darbo ataskaitoje Lietuvos poelgius įvertino kaip vieną iš didžiausių savo veiklos nuopelnų.
+
+## Santrauka
+
+Sovietų Rusijos Užsienio reikalų liaudies komisariatas 1921 m. darbo ataskaitoje Lietuvos poelgius įvertino kaip vieną iš didžiausių savo veiklos nuopelnų.
+
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Sovietų Rusijos Užsienio reikalų liaudies komisariatas 1921 m. darbo ataskaitoje Lietuvos poelgius įvertino kaip vieną iš didžiausių savo veiklos nuopelnų.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    jekto nutraukimą laikė didžiausia Sovietų Rusijos diplomatijos sėkme – Sovietų Rusijos
+    Užsienio reikalų liaudies komisariatas savo 1921 m. darbo ataskaitoje, pateiktoje Rusijoje
+    IX tarybų suvažiavimui, Lietuvos poelgius įvertino kaip vieną iš didžiausių savo veiklos
+    nuopelnų. Kaip to pasiekta? Dar sovietinėje istoriografijoje buvo atkreiptas dėmesys, kad
+    1921 m. pavasarį Čičerinas per Lietuvos atstovą Maskvoje Jurgį Baltrušaitį pranešė Lie-
+    tuvos vyriausybei, kad Lietuvos ir Lenkijos susijungimas būtų giliai priešingas patiems
+    elementariausiems lietuvių tautos interesams, o Sovietų Rusijos atžvilgiu reikštų mėgini-
+    mą įjungti Lietuvą į priešišką Sovietų Rusijai bloką.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified

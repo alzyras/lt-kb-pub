@@ -35,6 +35,8 @@ entity_view_role: "place"
 entity_aliases: ["Dorohobužas","Dorohobužas (vieta)"]
 sameAs: []
 canonical_biography: "1494 m. birželio 2 d. Aleksandras Jogailaitis Onai Martynienei Goštautienei patvirtino Dorohobužą su vietos bajorais."
+place_authority: true
+historical_names: []
 ---
 # Dorohobužas (vieta)
 

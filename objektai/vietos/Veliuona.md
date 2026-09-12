@@ -469,6 +469,32 @@ saugoti Dubysos upyną.
   pagrindžia:
     - c-185017
 
+<a id="claim-t-206587"></a>
+- t-025
+  teiginys: "Priešais Veliuoną, ant Nemuno kranto, buvo įrengta stovykla, o pavieniai daliniai pasklido po apylinkes iki Vaikių valsčiaus."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189202
+
+<a id="claim-t-206588"></a>
+- t-026
+  teiginys: "Teodoro Narbuto pasakojime Veliuonai vadovavo Lietuvos maršalka Goštautas, o jam buvo pavaldūs Surminas ir Metevikas; įtvirtinta gyvenvietė dešimt dienų priešinosi kryžiuočių kariaunai."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189203
+
 ## Reikšmingi paminėjimai
 - c-019
   santrauka: 'Vis dėlto 1364 metais kryžiuočiai sudegino Veliuoną ir sugriovė pilį.'
@@ -987,6 +1013,46 @@ saugoti Dubysos upyną.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-024
+
+- id: c-189202
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 124-125"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 124-125."
+  citata_originali: |
+    Priešais Veliuoną, ant Nemuno kranto, įsirengė
+    126
+
+    stovyklą, pavieniai daliniai pasklido po įvairias apylinkes, netgi
+    į Vaikių valsčių
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-025
+
+- id: c-189203
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 162-163"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 162-163."
+  citata_originali: |
+    Veliuona, turėjusi plačiai nu­
+    164
+
+    sidriekusius įtvirtinimus, gausiai žmonių apgyvendinta, vado­
+    vaujama Lietuvos maršalkos Goštauto, su pavaldžiais kitais
+    dviem įžymiais lietuvių didikais - Surminu ir Meteviku, stip­
+    riai priešinosi kryžiuočių kariaunai. Dešimtį dienų tęsėsi ap­
+    gultis ir įvairūs mėginimai užgrobti, po to prasidėjo sklandus
+    šturmuotės veiksmai
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-026
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

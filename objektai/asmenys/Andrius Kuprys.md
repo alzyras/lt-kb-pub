@@ -49,6 +49,19 @@ Kęstučio kalboje Andrius Kuprys įvardijamas kaip Kęstučio sūnus ir Vytauto
   pagrindžia:
     - c-176718
 
+<a id="claim-t-206263"></a>
+- t-002
+  teiginys: "Teodoro Narbuto pasakojimu, Andrius šešiolika savaičių gynė apgultą Polocką, vadovavo jam palankiems miestiečiams ir išlaikė miesto valdovo statusą, nepaisydamas Skirgailos bei Livonijos magistro pastangų."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188878
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kęstučio kalboje Andrius Kuprys įvardijamas kaip Kęstučio sūnus ir Vytauto brolis, kuriam priklausė Jogailos su vokiečiais puolamas Polockas.'
@@ -95,3 +108,21 @@ Kęstučio kalboje Andrius Kuprys įvardijamas kaip Kęstučio sūnus ir Vytauto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188878
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 257"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 257."
+  citata_originali: |
+    Andrius ėmėsi miesto gy­
+    nybos, taip didvyriškai stojo vadovauti palankiem s jam
+    žmonėms, kad, nepaisant visų Skirgailos ir Livonijos magistro
+    pastangų, taip pat šešiolika savaičių trukusios miesto apgul-
+    ties, išliko Polocko valdovu
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

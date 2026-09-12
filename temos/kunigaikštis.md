@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 607
+tema_objektu_skaicius: 608
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 607.
+Objektų skaičius: 608.
 
 ## Kaip naudoti
 
@@ -359,9 +359,9 @@ Objektų skaičius: 607.
 - [Mieška](../objektai/asmenys/Mie%C5%A1ka)
 - [Mikalojus (Medininkų vyskupas nominatas)](../objektai/asmenys/Mikalojus%20%28Medinink%C5%B3%20vyskupas%20nominatas%29)
 - [Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)](../objektai/asmenys/Mikalojus%20Kristupas%20Radvila-Na%C5%A1lait%C4%97lis)
-- [Mikalojus Radvila](../objektai/asmenys/Mikalojus%20Radvila)
+- [Mikalojus Radvila (valdovas, XVI a.)](../objektai/asmenys/Mikalojus%20Radvila)
 - [Mikalojus Radvila Juodasis](../objektai/asmenys/Mikalojus%20Radvila%20Juodasis)
-- [Mikalojus Radvila Rudasis](../objektai/asmenys/Mikalojus%20Radvila%20Rudasis)
+- [Mikalojus Radvila Rudasis (kunigaikštis, XVI a.)](../objektai/asmenys/Mikalojus%20Radvila%20Rudasis)
 - [Mindaugas (valdovas, XIII a.)](../objektai/asmenys/Mindaugas)
 - [Motiejus (Vilniaus vyskupas)](../objektai/asmenys/Motiejus%20%28Vilniaus%20vyskupas%29)
 - [Motiejus iš Blonios](../objektai/asmenys/Motiejus%20i%C5%A1%20Blonios)
@@ -636,6 +636,7 @@ Objektų skaičius: 607.
 - [1265-1268 m. maldininkų atvykimai į Prūsiją](../objektai/ivykiai/1265-1268%20m.%20maldinink%C5%B3%20atvykimai%20%C4%AF%20Pr%C5%ABsij%C4%85)
 - [Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)](../objektai/ivykiai/Broli%C5%B3%20ir%20kry%C5%BEinink%C5%B3%20%C5%BEygis%20%C4%AF%20Pomeranij%C4%85%20bei%20didysis%20m%C5%AB%C5%A1is%20su%20Sventopelku%20%281246%20m.%29)
 - [Laivų kautynės prie Santyro](../objektai/ivykiai/Laiv%C5%B3%20kautyn%C4%97s%20prie%20Santyro)
+- [Lucko suvažiavimas](../objektai/ivykiai/Lucko%20suva%C5%BEiavimas)
 - [Meiseno markos valdovo Ditricho žygis į Notangą (1272 m.)](../objektai/ivykiai/Meiseno%20markos%20valdovo%20Ditricho%20%C5%BEygis%20%C4%AF%20Notang%C4%85%20%281272%20m.%29)
 - [Sartovicų pilies apgula ir devynių šimtų pomeranų žūtis (1243 m.)](../objektai/ivykiai/Sartovic%C5%B3%20pilies%20apgula%20ir%20devyni%C5%B3%20%C5%A1imt%C5%B3%20pomeran%C5%B3%20%C5%BE%C5%ABtis%20%281243%20m.%29)
 - [Vokiečių ordino pradžios datavimas nuo Akono apgulties iki ilgesnio susiformavimo proceso (1190-1198 m.)](../objektai/ivykiai/Vokie%C4%8Di%C5%B3%20ordino%20prad%C5%BEios%20datavimas%20nuo%20Akono%20apgulties%20iki%20ilgesnio%20susiformavimo%20proceso%20%281190-1198%20m.%29)

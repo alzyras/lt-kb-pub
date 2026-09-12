@@ -24,19 +24,19 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
-media_total_count: '7'
-media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg/1920px-Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg'
-media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ATombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg'
+media_total_count: '4'
+media_primary_thumb_url: 'https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.bibliotekacyfrowa.pl%2FContent%2F6401%2FPDF%2Fdocument.pdf&type=IMAGE'
+media_primary_canonical_url: 'https://www.europeana.eu/item/0940429/_nnnXSmV'
 media_primary_directness: 'direct'
-media_primary_relation_type: 'painting_of'
+media_primary_relation_type: 'depicts'
 media_primary_json: |-
-  {"mediaId":"m-4317c3d5ed25c8bd49e21347","title":"Tombstone of Kazimieras Jogailaitis in the Wawel Cathedral in Krakow, 1855-1858 (effigy).jpg","caption":"Kazimiero Jogailaičio antkapio figūros atvaizdas Vavelio katedroje, XIX a. litografija.","originalTitle":"Tombstone of Kazimieras Jogailaitis in the Wawel Cathedral in Krakow, 1855-1858 (effigy).jpg","creator":"Aleksander Narcyz Przezdziecki (1814–1871)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Przeździecki, Aleksander. Wzory sztuki średniowiecznej i z epoki odrodzenia po koniec wieku XVII w dawnej Polsce . Ser. 2. Page 64.","dateDisplay":"1855-1858","dateStart":null,"dateEnd":null,"width":2389,"height":3037,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg/1920px-Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","institution":"","collection":"","country":"","language":"","tags":[],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Tomb monument of Casimir Jagiellon in the Wawel Cathedral","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T15:33:51.548315+03:00","reviewedAt":"2026-07-11T15:34:34.923533+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi karūnuoto valdovo antkapinė figūra su regalijomis, skydu ir aplinkiniais kapo kompozicijos elementais; apačioje įrašas mini Kazimierą Jogailaitį.","metadataEvidence":"Pavadinimas ir aprašas nurodo Kazimiero Jogailaičio antkapį Vavelio katedroje Krokuvoje ir jo effigiją, nutapytą / publikuotą 1855–1858 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai aiškiai įvardytas Kazimiero Jogailaičio antkapinės effigijos istorinis atvaizdas, todėl priimtinas kaip tiesioginis target atvaizdas.","isPrimary":1}
+  {"mediaId":"m-d60eb9e648b870ab4e6e2c9a","title":"[Ubiory w Polsce 1200-1795. Przez J. Matejkę, 1447-1492, ryc. 23].","caption":"Kazimieras Jogailaitis ir Elžbieta Habsburgaitė su dvaro palyda, 1447–1492 m.","originalTitle":"[Ubiory w Polsce 1200-1795. Przez J. Matejkę, 1447-1492, ryc. 23].","creator":"#agentOf:nnnXSmV_1","provider":"europeana","providerLabel":"Library of the Wroclaw University","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"1875","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/0940429/_nnnXSmV","sourceUrl":"https://www.bibliotekacyfrowa.pl/Content/6401/PDF/document.pdf","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.bibliotekacyfrowa.pl%2FContent%2F6401%2FPDF%2Fdocument.pdf&type=IMAGE","displayUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.bibliotekacyfrowa.pl%2FContent%2F6401%2FPDF%2Fdocument.pdf&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalienė","label":"karalienė","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:29:22.265247+03:00","reviewedAt":"2026-07-18T14:29:47.040366+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Centre pavaizduota karališkoji pora; kompozicijoje matyti karūnuotas valdovas, karalienė, dvariškiai, Lenkijos erelis ir herbai.","metadataEvidence":"Kandidato pavadinimas ir aprašas aiškiai identifikuoja Kazimierzą Jagiellończyką, nurodo 1447–1492 m. laikotarpį ir pateikia jo kaip Lenkijos karaliaus bei Lietuvos didžiojo kunigaikščio statusą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis istorinis Kazimiero Jogailaičio atvaizdas.","isPrimary":0}
 media_direct_json: |-
-  [{"mediaId":"m-4317c3d5ed25c8bd49e21347","title":"Tombstone of Kazimieras Jogailaitis in the Wawel Cathedral in Krakow, 1855-1858 (effigy).jpg","caption":"Kazimiero Jogailaičio antkapio figūros atvaizdas Vavelio katedroje, XIX a. litografija.","originalTitle":"Tombstone of Kazimieras Jogailaitis in the Wawel Cathedral in Krakow, 1855-1858 (effigy).jpg","creator":"Aleksander Narcyz Przezdziecki (1814–1871)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Przeździecki, Aleksander. Wzory sztuki średniowiecznej i z epoki odrodzenia po koniec wieku XVII w dawnej Polsce . Ser. 2. Page 64.","dateDisplay":"1855-1858","dateStart":null,"dateEnd":null,"width":2389,"height":3037,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg/1920px-Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","institution":"","collection":"","country":"","language":"","tags":[],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Tomb monument of Casimir Jagiellon in the Wawel Cathedral","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T15:33:51.548315+03:00","reviewedAt":"2026-07-11T15:34:34.923533+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi karūnuoto valdovo antkapinė figūra su regalijomis, skydu ir aplinkiniais kapo kompozicijos elementais; apačioje įrašas mini Kazimierą Jogailaitį.","metadataEvidence":"Pavadinimas ir aprašas nurodo Kazimiero Jogailaičio antkapį Vavelio katedroje Krokuvoje ir jo effigiją, nutapytą / publikuotą 1855–1858 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai aiškiai įvardytas Kazimiero Jogailaičio antkapinės effigijos istorinis atvaizdas, todėl priimtinas kaip tiesioginis target atvaizdas.","isPrimary":1},{"mediaId":"m-d13c505750208a0d581fc791","title":"Kazimier Jagajłavič, Pahonia. Казімер Ягайлавіч, Пагоня (1452, 1930).jpg","caption":"Kazimiero Jogailaičio 1452 m. antspaudo su LDK herbu Pahonia / Vyčiu atvaizdas.","originalTitle":"Kazimier Jagajłavič, Pahonia. Казімер Ягайлавіч, Пагоня (1452, 1930).jpg","creator":"Marian Gumowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Gumowski M. Pieczecie Ksiazat Litewskich // Ateneum Wilenskie. Z. 3—4, 1930. S. 722—723.","dateDisplay":"1452, 1930","dateStart":null,"dateEnd":null,"width":229,"height":231,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKazimier_Jagaj%C5%82avi%C4%8D%2C_Pahonia._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281452%2C_1930%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d6/Kazimier_Jagaj%C5%82avi%C4%8D%2C_Pahonia._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281452%2C_1930%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d6/Kazimier_Jagaj%C5%82avi%C4%8D%2C_Pahonia._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281452%2C_1930%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d6/Kazimier_Jagaj%C5%82avi%C4%8D%2C_Pahonia._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281452%2C_1930%29.jpg","institution":"","collection":"","country":"","language":"","tags":[],"sourceTags":[{"provider":"commons","field":"categories","label":"PD-anon-70","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Casimir IV Jagiellon","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 15th-century seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T19:33:55.160566+03:00","reviewedAt":"2026-07-11T19:42:40.560211+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas apskritas antspaudas su legenda ir centriniu skydu, kuriame pavaizduotas raitelis su pakeltu kalaviju.","metadataEvidence":"Pavadinime ir apraše nurodyta „Kazimier Jagajłavič“ ir „Пячаць Казімера Ягайлавіча“; data pateikta kaip 1452 m.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Konkretus antspaudas metaduomenyse aiškiai identifikuotas kaip Kazimiero Jogailaičio, o vaizdas atitinka valdovo heraldinį antspaudą.","isPrimary":0},{"mediaId":"m-c9a427a0fa84029438367875","title":"Kazimier Jagajłavič, Pahonia. Казімер Ягайлавіч, Пагоня (1454, 1930).jpg","caption":"Kazimiero Jogailaičio 1454 m. antspaudo su LDK herbu Pahonia / Vyčiu atvaizdas.","originalTitle":"Kazimier Jagajłavič, Pahonia. Казімер Ягайлавіч, Пагоня (1454, 1930).jpg","creator":"Marian Gumowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Gumowski M. Pieczecie Ksiazat Litewskich // Ateneum Wilenskie. Z. 3—4, 1930. S. 722—723.","dateDisplay":"1454, 1930","dateStart":null,"dateEnd":null,"width":259,"height":262,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKazimier_Jagaj%C5%82avi%C4%8D%2C_Pahonia._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281454%2C_1930%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/16/Kazimier_Jagaj%C5%82avi%C4%8D%2C_Pahonia._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281454%2C_1930%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/16/Kazimier_Jagaj%C5%82avi%C4%8D%2C_Pahonia._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281454%2C_1930%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/16/Kazimier_Jagaj%C5%82avi%C4%8D%2C_Pahonia._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281454%2C_1930%29.jpg","institution":"","collection":"","country":"","language":"","tags":[],"sourceTags":[{"provider":"commons","field":"categories","label":"PD-anon-70","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Casimir IV Jagiellon","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 15th-century seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T19:33:55.161629+03:00","reviewedAt":"2026-07-11T19:42:40.565203+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Apskritame antspaude matomas užrašas aplink kraštą ir centre skydas su raiteliu, būdingu Pahonia / Vyčio ženklui.","metadataEvidence":"Pavadinime ir apraše tiesiogiai nurodyta „Kazimier Jagajłavič“ / „Пячаць Казімера Ягайлавіча“, data 1454 m.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys sutampa: tai Kazimiero Jogailaičio antspaudo atvaizdas, ne bendrinis simbolis.","isPrimary":0},{"mediaId":"m-93c13fffef5856522f153a72","title":"Kazimier Jagajłavič, Pahonia. Казімер Ягайлавіч, Пагоня (K. Kielisiński, 1454, 1841).jpg","caption":"Kajetano Wincento Kielisińskio 1841 m. Kazimiero Jogailaičio 1454 m. didžiojo kunigaikščio antspaudo su Pahonia / Vyčiu atvaizdas.","originalTitle":"Kazimier Jagajłavič, Pahonia. Казімер Ягайлавіч, Пагоня (K. Kielisiński, 1454, 1841).jpg","creator":"Kajetan Wincenty Kielisiński","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Biblioteka Narodowa. G.23849/I.","dateDisplay":"1454, 1841","dateStart":null,"dateEnd":null,"width":2410,"height":2322,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKazimier_Jagaj%C5%82avi%C4%8D%2C_Pahonia._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1454%2C_1841%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1f/Kazimier_Jagaj%C5%82avi%C4%8D%2C_Pahonia._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1454%2C_1841%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kazimier_Jagaj%C5%82avi%C4%8D%2C_Pahonia._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1454%2C_1841%29.jpg/1920px-Kazimier_Jagaj%C5%82avi%C4%8D%2C_Pahonia._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1454%2C_1841%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1f/Kazimier_Jagaj%C5%82avi%C4%8D%2C_Pahonia._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1454%2C_1841%29.jpg","institution":"","collection":"","country":"","language":"","tags":[],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Casimir IV Jagiellon","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 15th-century seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T19:33:55.161416+03:00","reviewedAt":"2026-07-11T19:42:40.563617+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas detalus raižinio tipo antspaudo atvaizdas: aplink legendą, centre skydas su raiteliu ir kalaviju.","metadataEvidence":"Apraše nurodyta „Пячаць вялікага князя Казімера Ягайлавіча“, pavadinime minimas Kazimier Jogajłavič ir datos 1454, 1841.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys tiesiogiai identifikuoja objektą kaip Kazimiero Jogailaičio antspaudą; vaizdas yra jo istorinė iliustracija.","isPrimary":0},{"mediaId":"m-d60eb9e648b870ab4e6e2c9a","title":"[Ubiory w Polsce 1200-1795. Przez J. Matejkę, 1447-1492, ryc. 23].","caption":"Kazimieras Jogailaitis ir Elžbieta Habsburgaitė su dvaro palyda, 1447–1492 m.","originalTitle":"[Ubiory w Polsce 1200-1795. Przez J. Matejkę, 1447-1492, ryc. 23].","creator":"#agentOf:nnnXSmV_1","provider":"europeana","providerLabel":"Library of the Wroclaw University","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"1875","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/0940429/_nnnXSmV","sourceUrl":"https://www.bibliotekacyfrowa.pl/Content/6401/PDF/document.pdf","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.bibliotekacyfrowa.pl%2FContent%2F6401%2FPDF%2Fdocument.pdf&type=IMAGE","displayUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.bibliotekacyfrowa.pl%2FContent%2F6401%2FPDF%2Fdocument.pdf&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalienė","label":"karalienė","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:29:22.265247+03:00","reviewedAt":"2026-07-18T14:29:47.040366+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Centre pavaizduota karališkoji pora; kompozicijoje matyti karūnuotas valdovas, karalienė, dvariškiai, Lenkijos erelis ir herbai.","metadataEvidence":"Kandidato pavadinimas ir aprašas aiškiai identifikuoja Kazimierzą Jagiellończyką, nurodo 1447–1492 m. laikotarpį ir pateikia jo kaip Lenkijos karaliaus bei Lietuvos didžiojo kunigaikščio statusą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis istorinis Kazimiero Jogailaičio atvaizdas.","isPrimary":0}]
+  [{"mediaId":"m-4317c3d5ed25c8bd49e21347","title":"Tombstone of Kazimieras Jogailaitis in the Wawel Cathedral in Krakow, 1855-1858 (effigy).jpg","caption":"Kazimiero Jogailaičio antkapinio paminklo figūra Vavelio katedroje Krokuvoje.","originalTitle":"Tombstone of Kazimieras Jogailaitis in the Wawel Cathedral in Krakow, 1855-1858 (effigy).jpg","creator":"Aleksander Narcyz Przezdziecki (1814–1871)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Przeździecki, Aleksander. Wzory sztuki średniowiecznej i z epoki odrodzenia po koniec wieku XVII w dawnej Polsce . Ser. 2. Page 64.","dateDisplay":"1855-1858","dateStart":null,"dateEnd":null,"width":2389,"height":3037,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg/1920px-Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"kapavietė","label":"kapavietė","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Tomb monument of Casimir Jagiellon in the Wawel Cathedral","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T15:33:51.548315+03:00","reviewedAt":"2026-08-11T00:56:55.498139+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma karūnuota viduramžių valdovo figūra su kalaviju, skeptru ir heraldiniais atributais antkapiniame paminkle.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Kazimieras Jogailaitis (Casimir IV Jagiellon), nurodyta antkapio figūra Vavelio katedroje ir 1855–1858 m. data.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys vienareikšmiškai identifikuoja Kazimiero Jogailaičio istorinį antkapinį atvaizdą.","isPrimary":1},{"mediaId":"m-d60eb9e648b870ab4e6e2c9a","title":"[Ubiory w Polsce 1200-1795. Przez J. Matejkę, 1447-1492, ryc. 23].","caption":"Kazimieras Jogailaitis ir Elžbieta Habsburgaitė su dvaro palyda, 1447–1492 m.","originalTitle":"[Ubiory w Polsce 1200-1795. Przez J. Matejkę, 1447-1492, ryc. 23].","creator":"#agentOf:nnnXSmV_1","provider":"europeana","providerLabel":"Library of the Wroclaw University","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"1875","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/0940429/_nnnXSmV","sourceUrl":"https://www.bibliotekacyfrowa.pl/Content/6401/PDF/document.pdf","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.bibliotekacyfrowa.pl%2FContent%2F6401%2FPDF%2Fdocument.pdf&type=IMAGE","displayUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.bibliotekacyfrowa.pl%2FContent%2F6401%2FPDF%2Fdocument.pdf&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalienė","label":"karalienė","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:29:22.265247+03:00","reviewedAt":"2026-07-18T14:29:47.040366+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Centre pavaizduota karališkoji pora; kompozicijoje matyti karūnuotas valdovas, karalienė, dvariškiai, Lenkijos erelis ir herbai.","metadataEvidence":"Kandidato pavadinimas ir aprašas aiškiai identifikuoja Kazimierzą Jagiellończyką, nurodo 1447–1492 m. laikotarpį ir pateikia jo kaip Lenkijos karaliaus bei Lietuvos didžiojo kunigaikščio statusą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis istorinis Kazimiero Jogailaičio atvaizdas.","isPrimary":0}]
 media_contextual_json: |-
   [{"mediaId":"m-40ecefdb646de21ceeb3e31a","title":"Kazimierz IV Jagiellonczyk, King of Poland (1427-1492). Letter of safe conduct for an embassy to Persia, 1474.jpg","caption":"Kazimiero Jogailaičio vardu išduotas saugaus elgesio raštas Burgundijos pasiuntinybei į Persiją, 1474 m.","originalTitle":"Kazimierz IV Jagiellonczyk, King of Poland (1427-1492). Letter of safe conduct for an embassy to Persia, 1474.jpg","creator":"Inlibris.com","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://inlibris.com/item/bn56145/","dateDisplay":"1474","dateStart":null,"dateEnd":null,"width":2400,"height":1753,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/53/Kazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg/1920px-Kazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/53/Kazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"aktas","label":"aktas","facetKind":"tema","confidence":0.95},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"diplomatinis-įvykis","label":"diplomatinis-įvykis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"laiškas","label":"laiškas","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Anselm Adornes","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Casimir IV Jagiellon","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"International relations of Iran","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Latin letters","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Letters of the 15th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-100)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Relations of Iran and Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uzun Hassan","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"event_documentation_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T14:28:36.505818+03:00","reviewedAt":"2026-07-18T14:29:21.180148+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XV a. lotyniškas pergamentinis raštas su valdovo vardu ir didžiąja iniciale.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo Kazimierz IV Jagiellon bei 1474 m. išduotą saugaus elgesio raštą.","confidenceLevel":"high","relationType":"event_documentation_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Dokumentas tiesiogiai susijęs su Kazimiero Jogailaičio valdovo veiksmu, tačiau pats jo neatvaizduoja.","isPrimary":0},{"mediaId":"m-4e44e5206640d67a8846ec82","title":"Seal of Kazimieras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1470.jpg","caption":"Kazimiero Jogailaičio antspaudas su Lenkijos ereliu ir Lietuvos Vyčiu, 1470 m.","originalTitle":"Seal of Kazimieras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1470.jpg","creator":"Seal belong to Casimir IV Jagiellon (the former King of Poland and Grand Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file was provided to Wikimedia Commons by the Polish Central Archives of Historical Records as part of a cooperation project with Association \"Archivum Patriae\" and Wikimedia Polska .","dateDisplay":"1470","dateStart":null,"dateEnd":null,"width":605,"height":711,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Seal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Seal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Seal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"waykimas","label":"Waykimas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1470 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Coats of arms of Poland in nobility heraldry","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Media contributed by Archiwum Główne Akt Dawnych","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals from Archiwum Główne Akt Dawnych","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Casimir IV Jagiellon","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Polish monarchs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 15th-century seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T15:33:38.006157+03:00","reviewedAt":"2026-07-18T14:29:21.194417+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas raudono vaško antspaudas su heraldiniu skydu, Lenkijos ereliu ir Lietuvos Vyčiu.","metadataEvidence":"Pavadinimas ir aprašas aiškiai nurodo Seal of Kazimieras Jogailaitis, 1470 m.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai autentiškas su Kazimieru Jogailaičiu susietas valdovo antspaudas; ryšys yra artefaktinis, todėl contextual.","isPrimary":0}]
 media_all_json: |-
-  [{"mediaId":"m-4317c3d5ed25c8bd49e21347","title":"Tombstone of Kazimieras Jogailaitis in the Wawel Cathedral in Krakow, 1855-1858 (effigy).jpg","caption":"Kazimiero Jogailaičio antkapio figūros atvaizdas Vavelio katedroje, XIX a. litografija.","originalTitle":"Tombstone of Kazimieras Jogailaitis in the Wawel Cathedral in Krakow, 1855-1858 (effigy).jpg","creator":"Aleksander Narcyz Przezdziecki (1814–1871)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Przeździecki, Aleksander. Wzory sztuki średniowiecznej i z epoki odrodzenia po koniec wieku XVII w dawnej Polsce . Ser. 2. Page 64.","dateDisplay":"1855-1858","dateStart":null,"dateEnd":null,"width":2389,"height":3037,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg/1920px-Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","institution":"","collection":"","country":"","language":"","tags":[],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Tomb monument of Casimir Jagiellon in the Wawel Cathedral","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T15:33:51.548315+03:00","reviewedAt":"2026-07-11T15:34:34.923533+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi karūnuoto valdovo antkapinė figūra su regalijomis, skydu ir aplinkiniais kapo kompozicijos elementais; apačioje įrašas mini Kazimierą Jogailaitį.","metadataEvidence":"Pavadinimas ir aprašas nurodo Kazimiero Jogailaičio antkapį Vavelio katedroje Krokuvoje ir jo effigiją, nutapytą / publikuotą 1855–1858 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai aiškiai įvardytas Kazimiero Jogailaičio antkapinės effigijos istorinis atvaizdas, todėl priimtinas kaip tiesioginis target atvaizdas.","isPrimary":1},{"mediaId":"m-d13c505750208a0d581fc791","title":"Kazimier Jagajłavič, Pahonia. Казімер Ягайлавіч, Пагоня (1452, 1930).jpg","caption":"Kazimiero Jogailaičio 1452 m. antspaudo su LDK herbu Pahonia / Vyčiu atvaizdas.","originalTitle":"Kazimier Jagajłavič, Pahonia. Казімер Ягайлавіч, Пагоня (1452, 1930).jpg","creator":"Marian Gumowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Gumowski M. Pieczecie Ksiazat Litewskich // Ateneum Wilenskie. Z. 3—4, 1930. S. 722—723.","dateDisplay":"1452, 1930","dateStart":null,"dateEnd":null,"width":229,"height":231,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKazimier_Jagaj%C5%82avi%C4%8D%2C_Pahonia._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281452%2C_1930%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d6/Kazimier_Jagaj%C5%82avi%C4%8D%2C_Pahonia._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281452%2C_1930%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d6/Kazimier_Jagaj%C5%82avi%C4%8D%2C_Pahonia._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281452%2C_1930%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d6/Kazimier_Jagaj%C5%82avi%C4%8D%2C_Pahonia._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281452%2C_1930%29.jpg","institution":"","collection":"","country":"","language":"","tags":[],"sourceTags":[{"provider":"commons","field":"categories","label":"PD-anon-70","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Casimir IV Jagiellon","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 15th-century seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T19:33:55.160566+03:00","reviewedAt":"2026-07-11T19:42:40.560211+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas apskritas antspaudas su legenda ir centriniu skydu, kuriame pavaizduotas raitelis su pakeltu kalaviju.","metadataEvidence":"Pavadinime ir apraše nurodyta „Kazimier Jagajłavič“ ir „Пячаць Казімера Ягайлавіча“; data pateikta kaip 1452 m.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Konkretus antspaudas metaduomenyse aiškiai identifikuotas kaip Kazimiero Jogailaičio, o vaizdas atitinka valdovo heraldinį antspaudą.","isPrimary":0},{"mediaId":"m-c9a427a0fa84029438367875","title":"Kazimier Jagajłavič, Pahonia. Казімер Ягайлавіч, Пагоня (1454, 1930).jpg","caption":"Kazimiero Jogailaičio 1454 m. antspaudo su LDK herbu Pahonia / Vyčiu atvaizdas.","originalTitle":"Kazimier Jagajłavič, Pahonia. Казімер Ягайлавіч, Пагоня (1454, 1930).jpg","creator":"Marian Gumowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Gumowski M. Pieczecie Ksiazat Litewskich // Ateneum Wilenskie. Z. 3—4, 1930. S. 722—723.","dateDisplay":"1454, 1930","dateStart":null,"dateEnd":null,"width":259,"height":262,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKazimier_Jagaj%C5%82avi%C4%8D%2C_Pahonia._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281454%2C_1930%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/16/Kazimier_Jagaj%C5%82avi%C4%8D%2C_Pahonia._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281454%2C_1930%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/16/Kazimier_Jagaj%C5%82avi%C4%8D%2C_Pahonia._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281454%2C_1930%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/16/Kazimier_Jagaj%C5%82avi%C4%8D%2C_Pahonia._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281454%2C_1930%29.jpg","institution":"","collection":"","country":"","language":"","tags":[],"sourceTags":[{"provider":"commons","field":"categories","label":"PD-anon-70","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Casimir IV Jagiellon","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 15th-century seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T19:33:55.161629+03:00","reviewedAt":"2026-07-11T19:42:40.565203+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Apskritame antspaude matomas užrašas aplink kraštą ir centre skydas su raiteliu, būdingu Pahonia / Vyčio ženklui.","metadataEvidence":"Pavadinime ir apraše tiesiogiai nurodyta „Kazimier Jagajłavič“ / „Пячаць Казімера Ягайлавіча“, data 1454 m.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys sutampa: tai Kazimiero Jogailaičio antspaudo atvaizdas, ne bendrinis simbolis.","isPrimary":0},{"mediaId":"m-93c13fffef5856522f153a72","title":"Kazimier Jagajłavič, Pahonia. Казімер Ягайлавіч, Пагоня (K. Kielisiński, 1454, 1841).jpg","caption":"Kajetano Wincento Kielisińskio 1841 m. Kazimiero Jogailaičio 1454 m. didžiojo kunigaikščio antspaudo su Pahonia / Vyčiu atvaizdas.","originalTitle":"Kazimier Jagajłavič, Pahonia. Казімер Ягайлавіч, Пагоня (K. Kielisiński, 1454, 1841).jpg","creator":"Kajetan Wincenty Kielisiński","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Biblioteka Narodowa. G.23849/I.","dateDisplay":"1454, 1841","dateStart":null,"dateEnd":null,"width":2410,"height":2322,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKazimier_Jagaj%C5%82avi%C4%8D%2C_Pahonia._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1454%2C_1841%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1f/Kazimier_Jagaj%C5%82avi%C4%8D%2C_Pahonia._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1454%2C_1841%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Kazimier_Jagaj%C5%82avi%C4%8D%2C_Pahonia._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1454%2C_1841%29.jpg/1920px-Kazimier_Jagaj%C5%82avi%C4%8D%2C_Pahonia._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1454%2C_1841%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1f/Kazimier_Jagaj%C5%82avi%C4%8D%2C_Pahonia._%D0%9A%D0%B0%D0%B7%D1%96%D0%BC%D0%B5%D1%80_%D0%AF%D0%B3%D0%B0%D0%B9%D0%BB%D0%B0%D0%B2%D1%96%D1%87%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1454%2C_1841%29.jpg","institution":"","collection":"","country":"","language":"","tags":[],"sourceTags":[{"provider":"commons","field":"categories","label":"Author died more than 100 years ago public domain images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Casimir IV Jagiellon","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of the Grand Duchy of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 15th-century seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T19:33:55.161416+03:00","reviewedAt":"2026-07-11T19:42:40.563617+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas detalus raižinio tipo antspaudo atvaizdas: aplink legendą, centre skydas su raiteliu ir kalaviju.","metadataEvidence":"Apraše nurodyta „Пячаць вялікага князя Казімера Ягайлавіча“, pavadinime minimas Kazimier Jogajłavič ir datos 1454, 1841.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys tiesiogiai identifikuoja objektą kaip Kazimiero Jogailaičio antspaudą; vaizdas yra jo istorinė iliustracija.","isPrimary":0},{"mediaId":"m-d60eb9e648b870ab4e6e2c9a","title":"[Ubiory w Polsce 1200-1795. Przez J. Matejkę, 1447-1492, ryc. 23].","caption":"Kazimieras Jogailaitis ir Elžbieta Habsburgaitė su dvaro palyda, 1447–1492 m.","originalTitle":"[Ubiory w Polsce 1200-1795. Przez J. Matejkę, 1447-1492, ryc. 23].","creator":"#agentOf:nnnXSmV_1","provider":"europeana","providerLabel":"Library of the Wroclaw University","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"1875","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/0940429/_nnnXSmV","sourceUrl":"https://www.bibliotekacyfrowa.pl/Content/6401/PDF/document.pdf","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.bibliotekacyfrowa.pl%2FContent%2F6401%2FPDF%2Fdocument.pdf&type=IMAGE","displayUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.bibliotekacyfrowa.pl%2FContent%2F6401%2FPDF%2Fdocument.pdf&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalienė","label":"karalienė","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:29:22.265247+03:00","reviewedAt":"2026-07-18T14:29:47.040366+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Centre pavaizduota karališkoji pora; kompozicijoje matyti karūnuotas valdovas, karalienė, dvariškiai, Lenkijos erelis ir herbai.","metadataEvidence":"Kandidato pavadinimas ir aprašas aiškiai identifikuoja Kazimierzą Jagiellończyką, nurodo 1447–1492 m. laikotarpį ir pateikia jo kaip Lenkijos karaliaus bei Lietuvos didžiojo kunigaikščio statusą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis istorinis Kazimiero Jogailaičio atvaizdas.","isPrimary":0},{"mediaId":"m-40ecefdb646de21ceeb3e31a","title":"Kazimierz IV Jagiellonczyk, King of Poland (1427-1492). Letter of safe conduct for an embassy to Persia, 1474.jpg","caption":"Kazimiero Jogailaičio vardu išduotas saugaus elgesio raštas Burgundijos pasiuntinybei į Persiją, 1474 m.","originalTitle":"Kazimierz IV Jagiellonczyk, King of Poland (1427-1492). Letter of safe conduct for an embassy to Persia, 1474.jpg","creator":"Inlibris.com","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://inlibris.com/item/bn56145/","dateDisplay":"1474","dateStart":null,"dateEnd":null,"width":2400,"height":1753,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/53/Kazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg/1920px-Kazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/53/Kazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"aktas","label":"aktas","facetKind":"tema","confidence":0.95},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"diplomatinis-įvykis","label":"diplomatinis-įvykis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"laiškas","label":"laiškas","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Anselm Adornes","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Casimir IV Jagiellon","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"International relations of Iran","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Latin letters","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Letters of the 15th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-100)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Relations of Iran and Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uzun Hassan","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"event_documentation_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T14:28:36.505818+03:00","reviewedAt":"2026-07-18T14:29:21.180148+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XV a. lotyniškas pergamentinis raštas su valdovo vardu ir didžiąja iniciale.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo Kazimierz IV Jagiellon bei 1474 m. išduotą saugaus elgesio raštą.","confidenceLevel":"high","relationType":"event_documentation_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Dokumentas tiesiogiai susijęs su Kazimiero Jogailaičio valdovo veiksmu, tačiau pats jo neatvaizduoja.","isPrimary":0},{"mediaId":"m-4e44e5206640d67a8846ec82","title":"Seal of Kazimieras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1470.jpg","caption":"Kazimiero Jogailaičio antspaudas su Lenkijos ereliu ir Lietuvos Vyčiu, 1470 m.","originalTitle":"Seal of Kazimieras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1470.jpg","creator":"Seal belong to Casimir IV Jagiellon (the former King of Poland and Grand Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file was provided to Wikimedia Commons by the Polish Central Archives of Historical Records as part of a cooperation project with Association \"Archivum Patriae\" and Wikimedia Polska .","dateDisplay":"1470","dateStart":null,"dateEnd":null,"width":605,"height":711,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Seal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Seal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Seal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"waykimas","label":"Waykimas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1470 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Coats of arms of Poland in nobility heraldry","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Media contributed by Archiwum Główne Akt Dawnych","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals from Archiwum Główne Akt Dawnych","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Casimir IV Jagiellon","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Polish monarchs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 15th-century seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T15:33:38.006157+03:00","reviewedAt":"2026-07-18T14:29:21.194417+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas raudono vaško antspaudas su heraldiniu skydu, Lenkijos ereliu ir Lietuvos Vyčiu.","metadataEvidence":"Pavadinimas ir aprašas aiškiai nurodo Seal of Kazimieras Jogailaitis, 1470 m.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai autentiškas su Kazimieru Jogailaičiu susietas valdovo antspaudas; ryšys yra artefaktinis, todėl contextual.","isPrimary":0}]
+  [{"mediaId":"m-4317c3d5ed25c8bd49e21347","title":"Tombstone of Kazimieras Jogailaitis in the Wawel Cathedral in Krakow, 1855-1858 (effigy).jpg","caption":"Kazimiero Jogailaičio antkapinio paminklo figūra Vavelio katedroje Krokuvoje.","originalTitle":"Tombstone of Kazimieras Jogailaitis in the Wawel Cathedral in Krakow, 1855-1858 (effigy).jpg","creator":"Aleksander Narcyz Przezdziecki (1814–1871)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Przeździecki, Aleksander. Wzory sztuki średniowiecznej i z epoki odrodzenia po koniec wieku XVII w dawnej Polsce . Ser. 2. Page 64.","dateDisplay":"1855-1858","dateStart":null,"dateEnd":null,"width":2389,"height":3037,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg/1920px-Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"kapavietė","label":"kapavietė","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-70-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Tomb monument of Casimir Jagiellon in the Wawel Cathedral","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T15:33:51.548315+03:00","reviewedAt":"2026-08-11T00:56:55.498139+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma karūnuota viduramžių valdovo figūra su kalaviju, skeptru ir heraldiniais atributais antkapiniame paminkle.","metadataEvidence":"Pavadinime ir apraše tiesiogiai įvardytas Kazimieras Jogailaitis (Casimir IV Jagiellon), nurodyta antkapio figūra Vavelio katedroje ir 1855–1858 m. data.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys vienareikšmiškai identifikuoja Kazimiero Jogailaičio istorinį antkapinį atvaizdą.","isPrimary":1},{"mediaId":"m-d60eb9e648b870ab4e6e2c9a","title":"[Ubiory w Polsce 1200-1795. Przez J. Matejkę, 1447-1492, ryc. 23].","caption":"Kazimieras Jogailaitis ir Elžbieta Habsburgaitė su dvaro palyda, 1447–1492 m.","originalTitle":"[Ubiory w Polsce 1200-1795. Przez J. Matejkę, 1447-1492, ryc. 23].","creator":"#agentOf:nnnXSmV_1","provider":"europeana","providerLabel":"Library of the Wroclaw University","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"1875","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/0940429/_nnnXSmV","sourceUrl":"https://www.bibliotekacyfrowa.pl/Content/6401/PDF/document.pdf","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.bibliotekacyfrowa.pl%2FContent%2F6401%2FPDF%2Fdocument.pdf&type=IMAGE","displayUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.bibliotekacyfrowa.pl%2FContent%2F6401%2FPDF%2Fdocument.pdf&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalienė","label":"karalienė","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-18T14:29:22.265247+03:00","reviewedAt":"2026-07-18T14:29:47.040366+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Centre pavaizduota karališkoji pora; kompozicijoje matyti karūnuotas valdovas, karalienė, dvariškiai, Lenkijos erelis ir herbai.","metadataEvidence":"Kandidato pavadinimas ir aprašas aiškiai identifikuoja Kazimierzą Jagiellończyką, nurodo 1447–1492 m. laikotarpį ir pateikia jo kaip Lenkijos karaliaus bei Lietuvos didžiojo kunigaikščio statusą.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis istorinis Kazimiero Jogailaičio atvaizdas.","isPrimary":0},{"mediaId":"m-40ecefdb646de21ceeb3e31a","title":"Kazimierz IV Jagiellonczyk, King of Poland (1427-1492). Letter of safe conduct for an embassy to Persia, 1474.jpg","caption":"Kazimiero Jogailaičio vardu išduotas saugaus elgesio raštas Burgundijos pasiuntinybei į Persiją, 1474 m.","originalTitle":"Kazimierz IV Jagiellonczyk, King of Poland (1427-1492). Letter of safe conduct for an embassy to Persia, 1474.jpg","creator":"Inlibris.com","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://inlibris.com/item/bn56145/","dateDisplay":"1474","dateStart":null,"dateEnd":null,"width":2400,"height":1753,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/53/Kazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg/1920px-Kazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/5/53/Kazimierz_IV_Jagiellonczyk%2C_King_of_Poland_%281427-1492%29._Letter_of_safe_conduct_for_an_embassy_to_Persia%2C_1474.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"aktas","label":"aktas","facetKind":"tema","confidence":0.95},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"diplomatinis-įvykis","label":"diplomatinis-įvykis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"laiškas","label":"laiškas","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Anselm Adornes","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Casimir IV Jagiellon","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"International relations of Iran","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Latin letters","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Letters of the 15th century","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art (PD-old-100)","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-Art missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Relations of Iran and Poland","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Uzun Hassan","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"event_documentation_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-18T14:28:36.505818+03:00","reviewedAt":"2026-07-18T14:29:21.180148+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XV a. lotyniškas pergamentinis raštas su valdovo vardu ir didžiąja iniciale.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo Kazimierz IV Jagiellon bei 1474 m. išduotą saugaus elgesio raštą.","confidenceLevel":"high","relationType":"event_documentation_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Dokumentas tiesiogiai susijęs su Kazimiero Jogailaičio valdovo veiksmu, tačiau pats jo neatvaizduoja.","isPrimary":0},{"mediaId":"m-4e44e5206640d67a8846ec82","title":"Seal of Kazimieras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1470.jpg","caption":"Kazimiero Jogailaičio antspaudas su Lenkijos ereliu ir Lietuvos Vyčiu, 1470 m.","originalTitle":"Seal of Kazimieras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1470.jpg","creator":"Seal belong to Casimir IV Jagiellon (the former King of Poland and Grand Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file was provided to Wikimedia Commons by the Polish Central Archives of Historical Records as part of a cooperation project with Association \"Archivum Patriae\" and Wikimedia Polska .","dateDisplay":"1470","dateStart":null,"dateEnd":null,"width":605,"height":711,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Seal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Seal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Seal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"waykimas","label":"Waykimas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"1470 seals","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Coats of arms of Poland in nobility heraldry","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Extracted images","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Media contributed by Archiwum Główne Akt Dawnych","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old-100-expired","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals from Archiwum Główne Akt Dawnych","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Casimir IV Jagiellon","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Seals of Polish monarchs","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Vytis on 15th-century seals","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis (valdovas, XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T15:33:38.006157+03:00","reviewedAt":"2026-07-18T14:29:21.194417+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas raudono vaško antspaudas su heraldiniu skydu, Lenkijos ereliu ir Lietuvos Vyčiu.","metadataEvidence":"Pavadinimas ir aprašas aiškiai nurodo Seal of Kazimieras Jogailaitis, 1470 m.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai autentiškas su Kazimieru Jogailaičiu susietas valdovo antspaudas; ryšys yra artefaktinis, todėl contextual.","isPrimary":0}]
 entity_id: "ent-abc0127202fdff310aa801b0"
 canonical_name: "Kazimieras Jogailaitis (valdovas, XV a.)"
 entity_roles: ["person"]
@@ -152,7 +152,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
 <a id="claim-t-184749"></a>
 - t-006
   teiginys: "Kazimieras Jogailaitis priėmė po kojų puolusį prašytoją, pažadėjo jam malonę ir leido laisvai toliau žygiuoti."
-  atnaujinta: "2026-07-19 18:48"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -169,10 +169,32 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   pagrindžia:
     - c-168110
 
-<a id="claim-t-184751"></a>
+<a id="claim-t-184750"></a>
 - t-007
+  teiginys: "Vilniaus šv. Stanislovo katedroje maršalas paskelbė Kazimierą Jogailaitį Lietuvos didžiuoju kunigaikščiu."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kazimieras Jogailaitis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-168111
+    - c-178741
+    - c-178745
+
+<a id="claim-t-184751"></a>
+- t-008
   teiginys: "Kazimieras Jogailaitis, užėmęs Smolensko pilį, paliko joje vietininku Andrių Sakavičių."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -191,7 +213,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-168112
 
 <a id="claim-t-184752"></a>
-- t-008
+- t-009
   teiginys: "Kazimieras Jogailaitis skubiai patraukė į Severską, atsiėmė užgrobtas pilis ir išvijo Mykolą iš visų žemių."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -211,7 +233,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-168113
 
 <a id="claim-t-184753"></a>
-- t-009
+- t-010
   teiginys: "Karalius Kazimieras Jogailaitis, mėgdamas ramybę, vengė karo su maskvėnais ir teisinosi paliaubomis su Vasiljevičiumi."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -231,9 +253,9 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-168114
 
 <a id="claim-t-184754"></a>
-- t-010
+- t-011
   teiginys: "Kazimieras Jogailaitis įsitraukė į karą dėl Podolės ir nurodė sūnui Jonui Olbrachtui pavaduoti karalių karo stovykloje."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -253,8 +275,22 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   pagrindžia:
     - c-168115
 
+<a id="claim-t-193935"></a>
+- t-012
+  teiginys: "Lietuvos metraštis pasakoja, kad karalaičiui Kazimierui patiko pasakojimai apie Lietuvos medžiokles, nes jis mėgo medžioti."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-176560
+    - c-179830
+
 <a id="claim-t-196513"></a>
-- t-011
+- t-013
   teiginys: "Breste Kazimierą Jogailaitį pasitikę Lietuvos didikų giminių atstovai rodė jam džiaugsmą, pagarbą ir palankumą."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -267,7 +303,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-168110
 
 <a id="claim-t-196514"></a>
-- t-012
+- t-014
   teiginys: "Smolensko bajorai, nenorėdami pripažinti Andrejaus valdžios, išsiuntė žygūnus ir paprašė Kazimiero Jogailaičio kariuomenės."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -280,9 +316,9 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-178741
 
 <a id="claim-t-196515"></a>
-- t-013
+- t-015
   teiginys: "Kviečiamas į Parčevo seimą, Kazimieras Jogailaitis pasakė negalįs patogiai ten vykti ir pažadėjo lenkų pasiuntinių laukti Breste."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -293,7 +329,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-178742
 
 <a id="claim-t-196516"></a>
-- t-014
+- t-016
   teiginys: "Per krikštą kūdikiui buvo suteiktas Kazimiero vardas."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -306,9 +342,9 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-185999
 
 <a id="claim-t-196518"></a>
-- t-015
+- t-017
   teiginys: "Kojelavičiaus pasakojime Kazimieras Jogailaitis po Seversko kunigaikščių atsiskyrimo tik užprotestavo per pasiuntinį Vaitiekų Kiočką."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -319,7 +355,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-178745
 
 <a id="claim-t-196839"></a>
-- t-016
+- t-018
   teiginys: "Lietuvos metraštis Kazimierą vadina didžiuoju karaliumi, kurio valia Lenkijos ir Lietuvos didikai suvažiavo į Parčevą."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -333,7 +369,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-179845
 
 <a id="claim-t-198131"></a>
-- t-017
+- t-019
   teiginys: "Kazimieras su sūnumis A lbertu ir Aleksandru išvyko iš Kro kuvos 1485.V.18."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -352,44 +388,24 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   pagrindžia:
     - c-179826
 
-<a id="claim-t-198134"></a>
-- t-018
-  teiginys: "Vilniaus šv. Stanislovo katedroje maršalas paskelbė Kazimierą Jogailaitį Lietuvos didžiuoju kunigaikščiu."
-  atnaujinta: "2026-08-06 20:25"
+<a id="claim-t-198136"></a>
+- t-020
+  teiginys: "Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką."
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Teiginys yra aiškus faktinis sakinys, tiesiogiai paremtas citata."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  sudarymo_pagrindimas: "Teiginys tiksliai perteikia citatos faktą apie Kazimiero Jogailaičio valdymo pasirinkimą."
+  susije_objektai: "llm_object: Trakai; llm_object: Vilnius; mentioned_place: Lenkija; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Kęsgaila|Kęsgaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lionas; mentioned_place: Trakai; mentioned_place: Vilnius"
+  semantiniai_rysiai: "[[objektai/asmenys/Kazimieras Jogailaitis|Kazimieras Jogailaitis]] gyveno Trakai; [[objektai/asmenys/Kazimieras Jogailaitis|Kazimieras Jogailaitis]] gyveno Vilnius"
+  temporaliniai_duomenys: "įvykio data: 1436 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatos faktą apie Kazimiero Jogailaičio valdymo pasirinkimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
-    - c-168111
-
-<a id="claim-t-198138"></a>
-- t-019
-  teiginys: "Lietuvos metraštis pasakoja, kad karalaičiui Kazimierui patiko pasakojimai apie Lietuvos medžiokles, nes jis mėgo medžioti."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Mėgimas ir pasakojimo motyvacija palikti su metraščio atribucija. Nepridėta duomenų apie vėlesnį Kazimiero apsisprendimą."
-  ryšio_patikimumas: "susije_su -> Maskvėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kazimieras Jogailaitis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Maskvėnai: mention_match, group, gap=55"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Jogailaitis\" parinktas kaip owner_note_path. Targetas \"Maskvėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-179830
+    - c-179836
 
 <a id="claim-t-198141"></a>
-- t-020
+- t-021
   teiginys: "Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus miestiečius nuo muito visoje Lietuvoje."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -400,8 +416,33 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   pagrindžia:
     - c-179835
 
+<a id="claim-t-198145"></a>
+- t-022
+  teiginys: "Kazimieras Jogailaitis mirė 1492 metų birželio 7 dieną, susirgęs kelyje iš Vilniaus į Trakus."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys tiksliai nurodo Kazimiero Jogailaičio mirties datą ir aplinkybes."
+  susije_objektai: "llm_object: Trakai; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Vengrija"
+  semantiniai_rysiai: "[[objektai/asmenys/Kazimieras Jogailaitis|Kazimieras Jogailaitis]] keliavo į Trakai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-179825
+
+<a id="claim-t-198148"></a>
+- t-023
+  teiginys: "Kazimieras Jogailaitis 1441 metais Brastoje išleista privilegija atnaujino Vilniui Magdeburgo teises."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys aiškiai nusako 1441 m. privilegijos poveikį Vilniui."
+  susije_objektai: "mentioned_place: Brasta; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-179842
+
 <a id="claim-t-201529"></a>
-- t-021
+- t-024
   teiginys: "1432 m. Žygimanto Kęstutaičio, 1440 ir 1463 m. Kazimiero Jogailaičio privilegijose nurodoma, kad miestiečiai privalo paklusti tarėjų ir vaito teismams, kad taryba ir vaitas turi teisti pagal Magdeburgo teisės knygas."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -413,7 +454,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-184876
 
 <a id="claim-t-201530"></a>
-- t-022
+- t-025
   teiginys: "1443 m. Kazimieras Jogailaitis išdavė Vilniaus miestiečiams raštą, kuriame nurodė savo vietiniams pareigūnams - vietininkams ir tijūnams - bei bajorams netrukdyti vilniečių prekybos laivams laisvai plaukti Nerimi iki Kauno ir atgal."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -425,7 +466,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-184877
 
 <a id="claim-t-201531"></a>
-- t-023
+- t-026
   teiginys: "Kazimieras skundėsi, kad Dancigas nenori leisti parduoti jo grūdų kitų kraštų pirkliams, ir reikalavo užtikrinti jų pardavimą Flandrijos pirkliams."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -437,7 +478,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-184878
 
 <a id="claim-t-201532"></a>
-- t-024
+- t-027
   teiginys: "1488 m. Kazimieras Jogailaitis atleido nuo muitų Kaune savo prekybos agentą Minsko miestietį Luką Tereškovičių, o su Gardinu kažkaip susijęs Mackus Kosterevičius samdė Kaune laivus grūdams gabenti."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -449,7 +490,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-184879
 
 <a id="claim-t-201533"></a>
-- t-025
+- t-028
   teiginys: "Teisėjas, narpliojantis šituos Kauno ir Dancigo ginčus, buvo valdovas Kazimieras Jogailaitis."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -461,7 +502,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-184880
 
 <a id="claim-t-201534"></a>
-- t-026
+- t-029
   teiginys: "Šį dovanoj imą 1463 m. privilegijoje Kaunui patvirtino Kazimieras Jogailaitis."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -473,7 +514,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-184881
 
 <a id="claim-t-202439"></a>
-- t-027
+- t-030
   teiginys: "Pirmaisiais karaliavimo metais Kazimieras Jogailaitis didžiąsias šventes ir medžioklės sezonus leisdavo Didžiojoje Kunigaikštystėje, tačiau prasidėjus Trylikos metų karui daugiau dėmesio skyrė Karūnos reikalams."
   atnaujinta: "2026-07-24 14:22"
   sprendimo_priezastis: "auto"
@@ -492,7 +533,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-185786
 
 <a id="claim-t-203265"></a>
-- t-028
+- t-031
   teiginys: "Alberto Vijūko-Kojelavičiaus „Lietuvos istorijoje“ teigiama, kad karalius Kazimieras Jogailaitis, mėgdamas ramybę, vengė karo su maskvėnais ir teisinosi paliaubomis su Vasiljevičiumi."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -506,7 +547,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-168114
 
 <a id="claim-t-203344"></a>
-- t-029
+- t-032
   teiginys: "1454 m. prieš Ordino valdžią sukilę miestai, bajorija ir vyskupai pasidavė Lenkijos karaliui Kazimierui."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -520,7 +561,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-179823
 
 <a id="claim-t-203483"></a>
-- t-030
+- t-033
   teiginys: "Leidinyje „A. Šapoka (red.), Lietuvos istorija“ teigiama, kad nuo Kazimiero Jogailaičio Lietuvos valdovais buvo renkami Jogailos palikuonys, todėl Kazimiero šeima jautėsi turinti sosto paveldėjimo teisių."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -531,7 +572,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-179834
 
 <a id="claim-t-203531"></a>
-- t-031
+- t-034
   teiginys: "Smolensko įvykių metu bajorai, nenorėdami pripažinti Andrejaus valdžios, išsiuntė žygūnus ir paprašė Kazimiero kariuomenės."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -543,7 +584,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-178741
 
 <a id="claim-t-204348"></a>
-- t-032
+- t-035
   teiginys: "Kazimiero Jogailaičio ilgo valdymo metu brendusios valdymo sistemos permainos, susijusios su valdovo rezidavimo Lietuvoje stygiumi ir institucionalizacijos pažanga, išryškėjo Aleksandro, ypač Žygimanto Senojo, valdymo metais."
   atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
@@ -556,7 +597,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-186952
 
 <a id="claim-t-204349"></a>
-- t-033
+- t-036
   teiginys: "M. Liubavskis 1445–1446 m. datas siejo su pirmuoju „visuotinio Seimo“ susirinkimu Kazimiero karūnacijos išvakarėse."
   atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
@@ -572,7 +613,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     - c-186953
 
 <a id="claim-t-204350"></a>
-- t-034
+- t-037
   teiginys: "M. Liubavskis Kazimiero Jogailaičio laikų suvažiavimus traktavo kaip išplėstinius valdovo tarybos posėdžius, atskirai neanalizuodamas tarybos, bajorų sueigų ir Seimo santykio."
   atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
@@ -583,6 +624,19 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
   pagrindžia:
     - c-186954
+
+<a id="claim-t-205192"></a>
+- t-038
+  teiginys: "Vėliau, 1454 metais, 'Kazimieras Jogailaitis dar dau giau nuveikė šioje srityje."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188171
 
 ## Reikšmingi paminėjimai
 - c-008
@@ -854,7 +908,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
-    - t-011
+    - t-013
 
 - id: c-168111
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -886,7 +940,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-007
 
 - id: c-168112
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -909,7 +963,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-008
 
 - id: c-168113
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -949,7 +1003,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-009
 
 - id: c-168114
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -973,8 +1027,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-028
+    - t-010
+    - t-031
 
 - id: c-168115
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1012,7 +1066,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-011
 
 - id: c-176560
   autorius: "Anoniminis metraštininkas"
@@ -1033,10 +1087,12 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   citata_rodoma: "O lenkų ponai neno­\nrėjo išleisti jo iš savo žemės, kadangi jų karalius, Jo­\ngailos sūnus Vladislovas, kuris valdė Vengrijos ir Len­\nkijos karalystes, tą vasarą per mūšį su turkais be žinios \ndingo karo lauke, ir dar nebuvo tikrai sužinoję, ar gy­\nvas, ar ne l3 , ir todėl nenorėjo karalaičio išleisti. Lie­\ntuvos pasiuntiniai ėmė pasakoti apie Lietuvos kraštą, \napie Lietuvos taurų, stumbrų ir kitų įvairių žvėrių me­\ndžioklės malonumus. Ir karalaičiui Kazimierui labai pa­\ntiko, nes jis labai mėgo medžioklę."
   statusas: verified
   atnaujinta: "2026-07-29 11:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
+
 - id: c-178741
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -1061,8 +1117,9 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
-    - t-031
+    - t-007
+    - t-014
+    - t-034
 
 - id: c-178742
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1093,7 +1150,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-015
 
 - id: c-178743
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1116,7 +1173,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-016
 
 - id: c-178745
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1154,7 +1211,8 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-007
+    - t-017
 
 - id: c-178936
   autorius: "Anoniminis metraštininkas"
@@ -1178,7 +1236,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-018
 
 - id: c-179823
   redaktorius: "A. Šapoka"
@@ -1197,7 +1255,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
+    - t-032
 
 - id: c-179825
   autorius: "Michał Baliński"
@@ -1219,15 +1277,16 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
     al fresco ant kairės Šv.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-022
+
 - id: c-179826
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 302"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 302."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     17 Kazimieras su sūnumis A lbertu ir Aleksandru išvyko iš Kro­
     kuvos 1485.V.18. bet ne su visos Lenkijos pajėgomis, o  su Mažo­
@@ -1240,7 +1299,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-019
 
 - id: c-179830
   autorius: "Anoniminis metraštininkas"
@@ -1265,7 +1324,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-012
 
 - id: c-179831
   redaktorius: "A. Šapoka"
@@ -1304,7 +1363,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
+    - t-033
 
 - id: c-179835
   autorius: "Michał Baliński"
@@ -1327,7 +1386,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-021
 
 - id: c-179836
   autorius: "Michał Baliński"
@@ -1362,10 +1421,12 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   citata_rodoma: "tas pats Žy­\ngimantas Vilniaus kapitulai padova­\nnojo Vainelgų dvarą.\n223\n\n## Puslapis 240\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nŽygimanto įpėdinis Kazimieras Jogailaitis, nors pašauk­\ntas į Lenkijos sostą, vis dėlto nepanoro Didžiąją Kuni­\ngaikštystę valdyti per vietininką. Pirmenybę teikdamas Lie­\ntuvai, jis dažniausiai gyveno Trakuose arba Vilniuje."
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-020
+
 - id: c-179838
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -1436,10 +1497,12 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   citata_rodoma: "Kadangi pilietinis karas po Vytauto Didžiojo mir­\nties ir žiauri Žygimanto valdžia buvo Vilniaus miesto \nvaldžios sluoksniuose sukėlę chaosą, nuskurdinę ir palikę \nbe gyventojų miestą, beveik galutinai sugriovę Magdebur­\ngo teisių galią, todėl Kazimieras, įsigilinęs į apgailėtiną sa­\nvo sostinės būklę, privalėjo atnaujinti anksčiau nustatytą \ntvarką. Reikšminga jo privilegija, 1441 metais išleista Bras­\ntoje, prikėlė Vilniui Magdeburgo teises, nustatė Vilniui du \ndidžiuosius prekymečius, o kas savaitę - įprastus turgus, \ngarantavo miestui didesnes pajamas, dovanodamas jam ne­\nmažą žemės plotą, nusidriekusį išilgai miesto sienos palei \nViliją, o skersai - nuo Lukiškių priemiesčio iki Velnio, šian­\ndien vadinamo Tauro, kalno30. Vilniaus vaitai ta pačia pri­\nvilegija įgijo didelę valdžią ir jų aukštai padėčiai būtiną au­\n29\nŽr."
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-023
+
 - id: c-179845
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -1462,7 +1525,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-018
 
 - id: c-179846
   redaktorius: "A. Šapoka"
@@ -1496,7 +1559,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-024
 
 - id: c-184877
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -1514,7 +1577,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-025
 
 - id: c-184878
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -1534,7 +1597,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-026
 
 - id: c-184879
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -1551,7 +1614,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-027
 
 - id: c-184880
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -1570,7 +1633,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
+    - t-028
 
 - id: c-184881
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -1586,7 +1649,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
+    - t-029
 
 - id: c-185786
   autorius: "Rowell, Stephen Christopher"
@@ -1610,7 +1673,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
+    - t-030
 
 - id: c-185999
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1632,7 +1695,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-016
 
 - id: c-186952
   šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
@@ -1655,7 +1718,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
+    - t-035
 
 - id: c-186953
   šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
@@ -1673,7 +1736,7 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
+    - t-036
 
 - id: c-186954
   šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
@@ -1695,7 +1758,28 @@ Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-034
+    - t-037
+
+- id: c-188171
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 378"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 378."
+  citata_originali: |
+    Kiekvienas siuzerenas
+    tvirtai kontroliavo, kad būtų atliekama tarnyba ir feoda­
+    linės pareigos, kurios buvo pasiekusios vos ne ikibaudžia-
+    vinį lygį. Pirmą kartą ši teisė 'ir sunkiausios feodalinės
+    prievolės buvo panaikintos 1413 metų Horodlės unijos
+    aktu. Vėliau, 1454 metais, 'Kazimieras Jogailaitis dar dau­
+    giau nuveikė šioje srityje.
+  citata_rodoma: "Pirmą kartą ši teisė 'ir sunkiausios feodalinės \nprievolės buvo panaikintos 1413 metų Horodlės unijos \naktu. Vėliau, 1454 metais, 'Kazimieras Jogailaitis dar dau­\ngiau nuveikė šioje srityje."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-038
 
 ## Ryšiai
 - Kazimieras Jogailaitis (valdovas, XV a.) užėmė [[objektai/vietos/Smolenskas]]

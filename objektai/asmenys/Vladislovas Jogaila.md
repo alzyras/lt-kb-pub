@@ -448,6 +448,32 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   pagrindžia:
     - c-176840
 
+<a id="claim-t-206413"></a>
+- t-025
+  teiginys: "Pasak T. Narbuto, Vladislovas, išgirdęs apie tėvynę ištikusias negandas, atvyko su dalimi lenkų kariuomenės ir suteikė nusiaubtiems tėvynainiams paguodą, o visą žiemą tiekė grūdus bei ūkio reikmenis."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189028
+
+<a id="claim-t-206414"></a>
+- t-026
+  teiginys: "Pasak T. Narbuto, Vladislovas Jaską Olesnickį paskyrė Vilniaus seniūnu, o Skirgailą nušalino ir išsiuntė į Kijevą Pietų Rusios vietininku."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189029
+
 ## Citatos
 
 - id: c-157555
@@ -1109,6 +1135,50 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-024
+
+- id: c-189028
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 394"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 394."
+  citata_originali: |
+    Karalius Vladislovas, kai jį pa­
+    siekė garsas apie tas jo tėvynę ištikusias negandas, atvyko su
+    dalimi lenkų kariaunos; tačiau priešo šalyje nebebuvo. Paro­
+    dęs tėvišką rūpestį nelaimingiesiems tėvynainiams, priešo lig
+    paskutiniųjų nusiaubtiems, suteikė didelę paguodą. Vos tik ro­
+    gių kelias leido važiuoti didžiajam transportui, atėjo parama
+    grūdais ir ūkyje reikalingais daiktais; tai tęsėsi visą žiemą.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-025
+
+- id: c-189029
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 395"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 395."
+  citata_originali: |
+    Tada karalius Vladislovas Vilniaus seniūnu paskyrė Jaską Oles-
+    nickį, Dembno herbo, o Skirgailą nušalino nuo miesto valdžios.
+    Žinoma, pats apsiėmė ir visą Lietuvą valdyti, išsiuntęs tą kuni­
+    gaikštį į Kijevą Pietų Rusios vietininku; ne dėl to, kad taip iš
+    Vladimiro atimtų tos kunigaikštystės valdžią, kaip kad norėtų
+    Strijkovskis1, juk anas Kijeve negyveno, tad Skirgaila galėjo pa­
+    imti miesto ir krašto valdžią kaip didžiojo kunigaikščio vietinin­
+    kas. O pačioje Lietuvoje vietininko pareigos buvo patikėtos
+    Vygandui, turėjusiam vardus: rusišką - Bazilijaus, Romos kata­
+    likų - Aleksandro, - pačiam jauniausiam iš karaliaus brolių ir
+    labiausiai jo mylimam, jaunuoliui, daug vilčių teikiančiam.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-026
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

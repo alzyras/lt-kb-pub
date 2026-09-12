@@ -65,6 +65,19 @@ Pasak Narbuto, Vainius gimė 1296 metais kaip Lietuvos didžiojo kunigaikščio 
   pagrindžia:
     - c-173099
 
+<a id="claim-t-206412"></a>
+- t-002
+  teiginys: "Vainius, jauniausias Gedimino brolis, nuo 1307 metų valdė Polocko kunigaikštystę."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189027
+
 ## Citatos
 
 - id: c-173099
@@ -91,3 +104,22 @@ Pasak Narbuto, Vainius gimė 1296 metais kaip Lietuvos didžiojo kunigaikščio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-189027
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 70"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 70."
+  citata_originali: |
+    Iš ankstesnių
+    mūsų pasakojimų (§ 1081) žinome, kad Vainius jau nuo 1307
+    m etų valdė Polocko kunigaikštystę. Šis jauniausias Gedimino
+    brolis buvo priėmęs Rytų apeigų bažnyčios krikščionių tikėji­
+    mą, jis turėjo sūnų, pram intą Liubka, o krikščioniškai vadintą
+    Bazilijum.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

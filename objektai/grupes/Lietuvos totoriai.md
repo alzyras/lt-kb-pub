@@ -104,6 +104,45 @@ media_all_json: |-
   pagrindžia:
     - c-75663
 
+<a id="claim-t-206184"></a>
+- t-005
+  teiginys: "Didysis kunigaikštis dalį totorių belaisvių nusiuntė dovanų Lenkijos karaliui, o kitus įkurdino įvairiose Lietuvos vietovėse, Voluinėje ir Užgirio krašte; nusiųstieji priėmė krikščionybę ir nutautėjo."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188799
+
+<a id="claim-t-206185"></a>
+- t-006
+  teiginys: "Teodoras Narbutas nesutinka, kad Lietuvos totoriai savo įsikūrimo Lietuvoje pradžia laikytų Vytauto laikus, ir nurodo, kad jie čia pradėjo kurtis jau Gedimino laikais."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188800
+
+<a id="claim-t-206186"></a>
+- t-007
+  teiginys: "Teodoras Narbutas, remdamasis 1420 m. Edigėjaus ir Vytauto susirašinėjimu, nurodo, kad į Lietuvą kėlėsi ir aukštos kilmės totoriai mirzos."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188801
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Narbutas rašo, kad Lietuvos totoriai mitines būtybes vadino fereikomis ir džinais, o jų religinė raštija joms priskyrė kenksmingumą.'
@@ -228,3 +267,68 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-188799
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 482-483"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 482-483."
+  citata_originali: |
+    Dalį tų belaisvių didysis
+    kunigaikštis nusiuntė dovanų Lenkijos karaliui; pastarieji pri­
+    ėmė krikščionybę ir nutautėjo. Lietuvoje buvo įkurdinti įvai­
+    riose vietovėse, dabartiniuose pavietuose: Vilniaus1 2, prie
+    1 Didysis magistras, atsitiktinai sužinojęs apie tą kariuomenės telkimą­
+    si, sudrebėjo. Tučtuojau rašė Vokietijos magistrui (datuota: Meselenz Sonnt.
+    vor Margaretha 1397 (Mezelancas, 1397 metais, sekmadienį prieš šv. Mar­
+    garitą), kad praneštų Frankfurte į seimą susirinkusiems kunigaikščiams, jog
+    tai gali būti slaptas Vytauto kėsinimasis sunaikinti krikščionybę. Registr. -
+    S. 59.
+    2 Man atitekusiuose vietos žmonių padavimuose, vienoje išlikusioje gies­
+    mėje, sakoma, jog prie upės žmonės sunešė duoklę kažkokiam tironui, kita-
+    484
+
+    f
+    Vokės upės; Trakų, Lydos, Naugarduko, Ašmenos, Brastos;
+    Voluinėje, Užgirio krašte
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
+- id: c-188800
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 483"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 483."
+  citata_originali: |
+    Negalima sutikti su tuo, kad Lietuvos totoriai laikytų Vytauto laikus
+    savo buvimo mūsų žemėje pradžia; jie, kaip kad mes anksčiau (§ 1186) ma­
+    tėme, jau prie Gedimino pradėjo Lietuvoje kurdintis. Ne visi ir belaisviai
+    buvo, anot jų pačių padavimų, apsigyvendavo ir savo noru.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
+- id: c-188801
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 483"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 483."
+  citata_originali: |
+    Turime paliudi­
+    jimų iš Perekopo caro Edigėjaus susirašinėjimo su Vytautu 1420 metais,
+    kad į Lietuvą kėlėsi aukštos kilmės totoriai, tai yra mirzos, kurių caras pra­
+    šo nepriimti (Czacki. O prawach. - T. II. - S. 138). Lietuviai savo tolerancija
+    išlaikė jiems tėvų duotą tikėjimą, kurį išsaugojo nutautėję ir tapę lenkais
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007

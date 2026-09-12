@@ -212,6 +212,19 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   pagrindžia:
     - c-04825
 
+<a id="claim-t-205649"></a>
+- t-010
+  teiginys: "Teodoras Narbutas rašo, kad Aldonos Gediminaitės žavesys buvo žinomas Krokuvoje, todėl pasiuntinybė atvyko į Vilnių prašyti jos rankos karalaičiui, o santuokos sąlygos buvo draugystė, sąjunga ir abipusė pagalba prieš bendrą priešą."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-188264
+
 ## Citatos
 
 - id: c-04825
@@ -349,6 +362,25 @@ Aldona Gediminaitė šiame šaltinyje minima kaip Gedimino duktė, 1325 m. ište
   pagrindzia:
     - t-002
     - t-006
+
+- id: c-188264
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 441"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 441."
+  citata_originali: |
+    Aldonos Gediminaitės
+    žavesys Krokuvoje buvo žinomas. Išsiųsta pasiuntinybė
+    atvyko į Vilnių ir pageidavo karalaičiui gražiosios Aldo­
+    nos rankos. Reikalai klostėsi lengvai, nes santuokos są­
+    lygos buvo tik tokios — draugystė, sąjunga ir abipusė pa­
+    galba prieš bendrą priešą.
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
 
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Kazimieras (Lokietkos sūnus)]], [[objektai/asmenys/Kazimieras Didysis]]

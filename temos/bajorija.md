@@ -6,7 +6,7 @@ tema_kategorija: "grupes"
 tema_kategorijos_pavadinimas: "Grupės ir institucijos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 67
+tema_objektu_skaicius: 68
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 67.
+Objektų skaičius: 68.
 
 ## Kaip naudoti
 
@@ -92,6 +92,9 @@ Objektų skaičius: 67.
 
 ### Vietos
 - [Pinskas](../objektai/vietos/Pinskas)
+
+### Įvykiai
+- [Liublino unija (1569 m.)](../objektai/ivykiai/Liublino%20unija%20%281569%20m.%29)
 
 ### Šaltiniai
 - [Apie totorių, lietuvių ir maskvėnų papročius](../objektai/saltiniai/Apie%20totori%C5%B3%2C%20lietuvi%C5%B3%20ir%20maskv%C4%97n%C5%B3%20papro%C4%8Dius)

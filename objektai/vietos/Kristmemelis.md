@@ -139,6 +139,45 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   pagrindžia:
     - c-58947
 
+<a id="claim-t-205783"></a>
+- t-006
+  teiginys: "Kristmemelio išlaikymas, Teodoro Narbuto vertinimu, sustiprėjus Lietuvai ir pagausėjus Panemunės pilims, tapo bent jau brangus, nes prieš srovę plukdyti reikmenis buvo sunku."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188398
+
+<a id="claim-t-205784"></a>
+- t-007
+  teiginys: "Kristmemelyje įvyko stiprus žemės drebėjimas: vieni pastatai įgriuvo, kitiems grėsė sugriūti, todėl pilis buvo skubiai ištuštinta."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188399
+
+<a id="claim-t-206508"></a>
+- t-008
+  teiginys: "Didysis magistras, lydimas vyskupų, maršalkos Konrado Valenrodo ir kitų Ordino pareigūnų bei riterių, Nemunu atplaukė į iš naujo atstatytą Kristmemelį."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189123
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Po to jie nuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę.'
@@ -313,6 +352,75 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-188398
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 448"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 448."
+  citata_originali: |
+    O tos antrosios pilies
+    žlugimas yra ypatingas tiek politiniu, tiek fiziniu atžvil­
+    giu. Iš ankstesnių faktų žinoma, kaip kryžiuočiai vylėsi
+    naudos iš tos Panemunės tvirtovės, kiek pastangų padėjo
+    jai sustiprinti ir išlaikyti, lygiai tiek, kiek lietuviams at­
+    siėjo ją užgrobti. Nūnai dėl sustiprėjusios lietuvių tau­
+    tos, išlaikytų ir pagausėjusių Panemunės pilių, išdėstytų
+    aukščiau ir žemiau Kristmemelio, ypač Veliuonos, gal jau
+    Vytenio valdymo pabaigoje pastatytos, Kristmemelio iš­
+    laikymas pasidarė jeigu ne visiškai nenaudingas, tai
+    brangus, kadangi plukdyti prieš srovę sunku, be to, pa­
+    togu pulti lietuvių laivams, aukštupiu pagal vandens tėk­
+    mę plaukiantiems.
+  citata_rodoma: "Nūnai dėl sustiprėjusios lietuvių tau­\ntos, išlaikytų ir pagausėjusių Panemunės pilių, išdėstytų \naukščiau ir žemiau Kristmemelio, ypač Veliuonos, gal jau \nVytenio valdymo pabaigoje pastatytos, Kristmemelio iš­\nlaikymas pasidarė jeigu ne visiškai nenaudingas, tai \nbrangus, kadangi plukdyti prieš srovę sunku, be to, pa­\ntogu pulti lietuvių laivams, aukštupiu pagal vandens tėk­\nmę plaukiantiems."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
+- id: c-188399
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 448"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 448."
+  citata_originali: |
+    1327 metais trejetas ordino
+    brolių,
+    būdami
+    valgomajame,
+    prieblandoje
+    pastebėjo
+    žvaigždes, besisukančias akiratyje neįprasta tvarka. Tą
+    pačią kitų metų dieną Kristmemelyje įvyko stiprus žemės
+    drebėjimas; vieni pastatai įgriuvo, kitiems tai grėsė. To­
+    dėl paskubėta tą pilį ištuštinti, kol visiškai nesugriuvo1.
+  citata_rodoma: "Tą \npačią kitų metų dieną Kristmemelyje įvyko stiprus žemės \ndrebėjimas; vieni pastatai įgriuvo, kitiems tai grėsė. To­\ndėl paskubėta tą pilį ištuštinti, kol visiškai nesugriuvo1."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
+- id: c-189123
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 294"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 294."
+  citata_originali: |
+    Atėjus sutartam laikui, didysis magistras atplau­
+    kė Nemunu į Kristmemelį (iš naujo atstatytą), lydimas vyskupų:
+    Henriko - Varmijos ir Jono - Pamedės, maršalkos Konrado
+    Valenrodo ir daugelio kitų įvairaus rango ordino vyresniųjų
+    bei riterių.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Karolis (didysis magistras)]]

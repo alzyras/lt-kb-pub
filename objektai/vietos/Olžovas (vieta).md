@@ -35,6 +35,8 @@ entity_view_role: "place"
 entity_aliases: ["Olžovas","Olžovas (vieta)"]
 sameAs: []
 canonical_biography: "1496 m. paminėtas Raklienės Petkevičienės kvietimas dėl Olžovo dvaro."
+place_authority: true
+historical_names: []
 ---
 # Olžovas (vieta)
 

@@ -110,6 +110,8 @@ const config: QuartzConfig = {
       Plugin.ComponentResources(),
       Plugin.HomeCollectionData(),
       Plugin.ContentPage(),
+      Plugin.ObjectDetailPages(),
+      Plugin.ObjectEvidencePages(),
       Plugin.FolderPage(),
       Plugin.TagPage(),
       Plugin.GraphExplorerPage(),

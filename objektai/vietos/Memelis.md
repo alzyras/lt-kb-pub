@@ -57,6 +57,19 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
   pagrindžia:
     - c-82132
 
+<a id="claim-t-206526"></a>
+- t-002
+  teiginys: "Vytautas tuo pačiu metu degino Jurbarką, Marienburgą, Ritersverderį, Ragainę ir Memelį."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189141
+
 ## Citatos
 
 - id: c-82132
@@ -88,6 +101,21 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-189141
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 548"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 548."
+  citata_originali: |
+    Vytautas tuo pačiu kartu degina Jurbarką, M arienbur­
+    gą, Ritersverderį, Ragainę ir Memelį.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Puolė Memelį: [[objektai/grupes/Žemaičiai]]

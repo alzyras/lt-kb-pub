@@ -52,6 +52,32 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
   pagrindžia:
     - c-44435
 
+<a id="claim-t-206352"></a>
+- t-002
+  teiginys: "Drucko kunigaikštis Levas dalyvavo kaip Vytauto liudininkas."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188967
+
+<a id="claim-t-206353"></a>
+- t-003
+  teiginys: "Drucko kunigaikštis Levas dokumente įvardijamas kaip „mūsų svainis“."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188968
+
 ## Citatos
 
 - id: c-44435
@@ -77,6 +103,46 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188967
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 304"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 304."
+  citata_originali: |
+    Vytauto liudininkais dalyvavo: Naugarduko kuni­
+    gaikštis Jurgis ir Drucko kunigaikštis Levas, taip pat aukštos
+    kilmės lietuvis didikas Sudimantas, Eišiškių tėvonis ir dauge­
+    lis kitų riterių luomo lietuvių ir
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-188968
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 525-526"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 525-526."
+  citata_originali: |
+    Tam reikalui atminti, kad tvirtai ir
+    nepažeidžiamai galiotų amžiais, mes, aukščiau minėtieji, Trakų
+    527
+
+    I
+    kunigaikštis Vygandas ir Naugarduko kunigaikštis Jurgis, mū­
+    sų brolio sūnus (Jurgis Lengvenaitis, sūnus kunigaikščio, Nau-
+    garde paskelbto didžiuoju. - T. N.) Drucko kunigaikštis Levas,
+    mūsų svainis, Sudimantas iš Vėžiškės (Eišiškių? -T. N), įsakė­
+    me mūsų antspaudus prikabinti
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Totoriai]]

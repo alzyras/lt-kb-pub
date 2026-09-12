@@ -755,6 +755,70 @@ historical_names: []
   pagrindžia:
     - c-182455
 
+<a id="claim-t-205266"></a>
+- t-041
+  teiginys: "Mes iš savo tyrinėjimų pastebime, kad Lietuvos Naugardukas seniau buvo vadintas Zelna, ir šį pavadinimą šiaip ar taip, buvo iš saugojusi ir ilgai dar turėjo šio miesto dalis Slobodka, besijun gianti su miestu ten, kur yra įvažiavimas iš Koreličių pusės."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-188060
+
+<a id="claim-t-205799"></a>
+- t-042
+  teiginys: "1329 m. didžiojo kunigaikščio valdymo laikotarpiu Naugarduke, pasak Teodoro Narbuto, buvo karūnuotas neįvardytas kunigaikštis."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188414
+
+<a id="claim-t-205800"></a>
+- t-043
+  teiginys: "Katalikų šventyklų buvo Vilniuje ir Naugarduke."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188415
+
+<a id="claim-t-205801"></a>
+- t-044
+  teiginys: "Vaišelga, pasak Teodoro Narbuto, pradėjo kunigaikščiauti Naugarduke būdamas pagonis, o vėliau ten apsikrikštijo, pajutęs Dievo baimę."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188416
+
+<a id="claim-t-205802"></a>
+- t-045
+  teiginys: "Vaišelga, pasak Teodoro Narbuto, dėl maišto nepasiekė Šv. kalno, grįžo į Naugarduką ir prie Nemuno, tarp Lietuvos bei Naugarduko, pasistatė vienuolyną."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188417
+
 ## Reikšmingi paminėjimai
 - c-021
   santrauka: 'Per skitų antplūdį dalis Naugarduke susirinkusių didikų, vadovaujama Alberto Goštauto, subruzdo ginti pilies.'
@@ -2268,6 +2332,106 @@ historical_names: []
   patikimumo_saltinis: ai
   pagrindzia:
     - t-023
+
+- id: c-188060
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 210"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 210."
+  citata_originali: |
+    Tik
+    II t. 225 pastaboje pateikia šaltinį— Jaropolk srubi horod Zelnij i
+    dast’ jeho Druczanom ichže poloni (Kijevo kronika.)— ir ieško tos
+    Zelnos Kursko gubernijoje, kadangi kadaise ten buvo upė, vadinama
+    Želen. Mes iš savo tyrinėjimų pastebime, kad Lietuvos Naugardukas
+    seniau buvo vadintas Zelna, ir šį pavadinimą šiaip ar taip, buvo iš­
+    saugojusi ir ilgai dar turėjo šio miesto dalis Slobodka, besijun­
+    gianti su miestu ten, kur yra įvažiavimas iš Koreličių pusės.
+  citata_rodoma: "Mes iš savo tyrinėjimų pastebime, kad Lietuvos Naugardukas \nseniau buvo vadintas Zelna, ir šį pavadinimą šiaip ar taip, buvo iš­\nsaugojusi ir ilgai dar turėjo šio miesto dalis Slobodka, besijun­\ngianti su miestu ten, kur yra įvažiavimas iš Koreličių pusės."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-041
+
+- id: c-188414
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 454"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 454."
+  citata_originali: |
+    Šiuo didžiojo kunigaikščio valdymo laikotarpiu, tai
+    yra 1329 metais, Pietų Lietuvoje, tai yra Lietuvos ir kri-
+    vičių žemėje, įvyko kažkas, kas nebuvo užfiksuota istori­
+    joje. Kažkoks kunigaikštis buvo karūnuotas Naugarduke.
+    Tikriausiai tokias garbingas pareigas jis gavo ne Gedi­
+    mino įgaliotas, nes ankstesni kunigaikščiai neturėjo tei­
+    sės būti karūnuoti.
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-042
+
+- id: c-188415
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 482"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 482."
+  citata_originali: |
+    Netgi vasalai nuolankiai leidosi jo globojami,
+    laisvieji miestai pakentė galingą jo įtaką. Jis gerbė tikė­
+    jimą krikščionių, paklususių jo skeptrui, nekliudė valdžiai
+    metropolito, daugiausia Maskvoje gyvenančio; neperse­
+    kiojo katalikų, priešingai, toleravo jų atvertimus ir kvie­
+    tėsi mokytojus arba reikalingus amatininkus bei meni­
+    ninkus iš užsienio. Katalikų šventyklų buvo Vilniuje ir
+    Naugarduke.
+  citata_rodoma: "Katalikų šventyklų buvo Vilniuje ir \nNaugarduke."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-043
+
+- id: c-188416
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 530"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 530."
+  citata_originali: |
+    O
+    Vaišelga pradėjo kunigaikščiauti Naugarduke, būdamas
+    pagonis (jam katalikas ir pagonis tą patį reiškia)... už-
+    mušdavęs kasdien po 3 ar 4, o jei kurią dieną nieko ne-
+    užmušdavo, tai sielvartaudavo. Tad įsibrovė jam į širdį
+    Dievo baimė... ir apsikrikštijo Naugarduke...
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-044
+
+- id: c-188417
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 530"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 530."
+  citata_originali: |
+    O Vaišelga negalėjo pasiekti Sv. kalno, kadangi tose že­
+    mėse buvo maištas, ir vėl grįžo į Naugarduką, ir pasistatė
+    vienuolyną prie Nemuno, tarp Lietuvos ir Naugarduko,
+    ir gyvena čia...
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-045
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Karijotas]], [[objektai/asmenys/Skirmantas]]

@@ -102,6 +102,19 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
   pagrindžia:
     - c-178781
 
+<a id="claim-t-205710"></a>
+- t-005
+  teiginys: "Teodoras Narbutas pasakoja, kad Romanas, pastebėjęs grėsmę, atrėmė lietuvių puolimą, išvijo juos iš kovos lauko ir privertė trauktis, nors pats buvo sužeistas."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188325
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'O čia buvo Briansko kunigaikštis Romanas3 0 , Vytauto paskirtas.'
@@ -230,6 +243,31 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
+
+- id: c-188325
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 199"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 199."
+  citata_originali: |
+    Betgi vėliau tame žygyje, prisimetęs, esą
+    jam lemties išpranašauta nebūti tame kare, ūmai perėjo
+    į kitą pusę1. Lietuviai prisiartino prie kunigaikščio Ro­
+    mano buveinės taip tyliai ir netikėtai, kad jis tik tada
+    juos išgirdo, kai kilo didelis pavojus būti sučiuptam kar­
+    tu su gausiu svečių tuntu, nes tą dieną kunigaikščio rū­
+    muose buvo vestuvių puota, kurią kėlė savo dukrai Olgai,
+    ištekančiai už Vladimiro Voluiniečio. Pastebėjęs grėsmę,
+    narsusis Romanas užšoko ant žirgo ir taip šauniai atrė­
+    mė lietuvius, kad išginė juos iš kovos lauko ir privertė
+    trauktis, nors pats buvo sužeistas.
+  citata_rodoma: "Pastebėjęs grėsmę, \nnarsusis Romanas užšoko ant žirgo ir taip šauniai atrė­\nmė lietuvius, kad išginė juos iš kovos lauko ir privertė \ntrauktis, nors pats buvo sužeistas."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Olegas (Romano sūnus)]]

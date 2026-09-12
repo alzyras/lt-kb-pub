@@ -219,6 +219,32 @@ canonical_biography: "Čia atvykęs, jo brolis Žygimantas buvo pakrikštytas. �
   pagrindžia:
     - c-176845
 
+<a id="claim-t-206449"></a>
+- t-010
+  teiginys: "Teodoras Narbutas nurodo, kad Vytauto brolis Žygimantas, atsivertęs į krikščioniškąjį tikėjimą, po bevaikio Vytauto mirties turėjo paveldėti valstybę tokiomis pačiomis teisėmis ir prievolėmis."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189064
+
+<a id="claim-t-206450"></a>
+- t-011
+  teiginys: "Pagal Teodoro Narbuto pateiktą susitarimą, įkaitu laikomas kunigaikštis Žygimantas turėjo būti paleistas, jei didysis kunigaikštis pažadėtų palei sieną pastatyti dvi ar tris pilis."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189065
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Karalius Žygimantas pirmas perbrido ir perplaukė upę, be nuostolių pervesdamas visus raitelius.'
@@ -540,3 +566,38 @@ canonical_biography: "Čia atvykęs, jo brolis Žygimantas buvo pakrikštytas. �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-009
+
+- id: c-189064
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 308"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 308."
+  citata_originali: |
+    Betgi jeigu kunigaikščio Vytauto brolis
+    Sigitas (Žygimantas. -T. N.) atsiverstų į krikščioniškąjį tikėji­
+    mą, tuokart, po bevaikio Vytauto mirties, valstybę turėtų pa­
+    veldėti jis, tokiomis pat teisėmis, prievolėmis ir įsipareigojimais,
+    kokius buvo prisiėmęs kunigaikštis Vytautas
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+
+- id: c-189065
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 488"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 488."
+  citata_originali: |
+    Be to, didysis kunigaikštis turi duoti pažadą
+    pastatydinti dvi ar tris pilis palei sieną, padėdamas ordinui at­
+    statyti, ką buvo tose vietovėse sugriovęs, už tai įkaitu esantis
+    kunigaikštis Žygimantas bus paleistas.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011

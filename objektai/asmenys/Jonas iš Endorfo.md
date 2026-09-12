@@ -63,6 +63,19 @@ Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais met
   pagrindžia:
     - c-60977
 
+<a id="claim-t-205688"></a>
+- t-002
+  teiginys: "Teodoro Narbuto pasakojime 1330 m. lapkričio 19 d. Jonas iš Endorfo, įširdęs dėl žiauraus elgesio su juo, koridoriuje mirtinai peiliu sužeidė didįjį magistrą Vernerį iš Orzelno."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188303
+
 ## Citatos
 
 - id: c-60977
@@ -88,6 +101,31 @@ Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais met
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188303
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 459"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 459."
+  citata_originali: |
+    Didžiojo magistro Vernerio nužudymas. Išsyk
+    po pasibaigusio karo su Lenkija kryžiuočiams nutiko at­
+    sitikimas, kurstantis mintis apie negailestingą Dievo
+    bausmę šiam ordinui ir jo viršininkui, pagarsėjusiems
+    dažnais klastingos politikos vingiais. 1330 metų lapkričio
+    19 dieną, kai didysis magistras Verneris iš Orzelno bu­
+    vo begrįžtąs po mišparų pamaldų, laikytų jo asmeninėje
+    koplyčioje, vienas kryžiuotis Jonas iš Endorfo, įširdęs dėl
+    žiauraus elgesio su juo, pastojo prieblandoje jam, einan­
+    čiam į savo buveinę, kelią koridoriuje ir mirtinai peiliu
+    dūrė.
+  citata_rodoma: "1330 metų lapkričio \n19 dieną, kai didysis magistras Verneris iš Orzelno bu­\nvo begrįžtąs po mišparų pamaldų, laikytų jo asmeninėje \nkoplyčioje, vienas kryžiuotis Jonas iš Endorfo, įširdęs dėl \nžiauraus elgesio su juo, pastojo prieblandoje jam, einan­\nčiam į savo buveinę, kelią koridoriuje ir mirtinai peiliu \ndūrė."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Jonas iš Endorfo puolė [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]

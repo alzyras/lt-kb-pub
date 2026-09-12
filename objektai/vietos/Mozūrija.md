@@ -157,6 +157,45 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   pagrindžia:
     - c-184436
 
+<a id="claim-t-205262"></a>
+- t-008
+  teiginys: "Tad, kai visa tai tikrai buvo padaryta šventas mintis godojant, jungti niai visos tautos pulkai, tvirtai tikėdami žygio sėkme, įsiveržė į Mozūriją atlyginti už sutryptą savo dievų garbę ir visai tautai padarytas skriaudas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-187861
+
+<a id="claim-t-205401"></a>
+- t-009
+  teiginys: "Pastarajam atiteko Kujavija, Mozūrija kartu su Kulmo ir Dobrynės žemėmis."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-188084
+
+<a id="claim-t-205431"></a>
+- t-010
+  teiginys: "Nuo labai senų laikų Mozūrijos krašto valdo vai jau buvo įpratę rinkti duoklę Ulmigerijoje, pasiimda mi rinktinius berniukus."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-187659
+
 ## Citatos
 
 - id: c-76765
@@ -310,6 +349,76 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-007
+
+- id: c-187659
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 47"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 47."
+  citata_originali: |
+    Mes pasakojame padavimus nesileisdami į svarstymų sub­
+    tilumus, be perdėm drąsių išvadų ir nepakankamai pagrįs­
+    tų prielaidų, pačiu doriausiu būdu, nenukrypdami nuo
+    originalo.
+    Toliau, valdant Bruteniui ir Vaidevučiui, atsitiko taip,
+    kad kilo karas su mozūrais. Jo priežastis padavimas nu­
+    sako taip: „Nuo labai senų laikų Mozūrijos krašto valdo­
+    vai jau buvo įpratę rinkti duoklę Ulmigerijoje, pasiimda­
+    mi rinktinius berniukus.
+  citata_rodoma: "Nuo labai senų laikų Mozūrijos krašto valdo­\nvai jau buvo įpratę rinkti duoklę Ulmigerijoje, pasiimda­\nmi rinktinius berniukus."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+
+- id: c-187861
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 62"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 62."
+  citata_originali: |
+    Šiuo pavyzdžiu sekdami, paskubėjo
+    riteriai iš kitų provincijų — Natangijos, Varmijos, Pagu-
+    dės*, Pamario, Galindos, Bartos, kartu su anais jie ketino
+    vykti į mozūrų šalį, kad atkeršytų. Tačiau tautos senoliai
+    ir išminčiai nusprendė, kad esą nedera skubėti su kerštu
+    už skriaudas šventai vietai ir dievų tarnams tol, kol dar
+    neatstatytos šventyklos, nesutvarkytos šventos vietos, nė­
+    ra naujų žynių, nesudėtos naujos aukos. Tad, kai visa
+    tai tikrai buvo padaryta šventas mintis godojant, jungti­
+    niai visos tautos pulkai, tvirtai tikėdami žygio sėkme,
+    įsiveržė į Mozūriją atlyginti už sutryptą savo dievų garbę
+    ir visai tautai padarytas skriaudas.
+  citata_rodoma: "Tad, kai visa \ntai tikrai buvo padaryta šventas mintis godojant, jungti­\nniai visos tautos pulkai, tvirtai tikėdami žygio sėkme, \nįsiveržė į Mozūriją atlyginti už sutryptą savo dievų garbę \nir visai tautai padarytas skriaudas."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
+- id: c-188084
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 283"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 283."
+  citata_originali: |
+    Vladislovas Laibakojis nepasiekė tokių teisių ir
+    toli savo valdų neišplėtė, kaip kad Kazimieras Teisinga­
+    sis, o apie Prūsiją galvoti nebuvo nei progų, nei laiko. Ga­
+    lop 1207 metais Lešekas Baltasis užėmė aukščiausiąjį
+    Lenkijos sostą ir netrukus tėvo palikimą pasidalijo su sa­
+    vo broliu Konradu. Pastarajam atiteko Kujavija, Mozū-
+    rija kartu su Kulmo ir Dobrynės žemėmis.
+  citata_rodoma: "Pastarajam atiteko Kujavija, Mozū- \nrija kartu su Kulmo ir Dobrynės žemėmis."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
 
 ## Ryšiai
 - Puolė Mozūriją: [[objektai/asmenys/Dovydas (Gardino pilininkas)]]

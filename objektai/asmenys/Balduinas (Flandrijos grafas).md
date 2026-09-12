@@ -61,6 +61,18 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
   pagrindžia:
     - c-60876
 
+<a id="claim-t-205083"></a>
+- t-002
+  teiginys: "Po Alberto iš Apelderno mirties kardinolas Otas atsiuntė Balduiną į Rygą valdyti vyskupystės."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187713
+
 ## Citatos
 
 - id: c-60876
@@ -83,3 +95,23 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-187713
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 361"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 361."
+  citata_originali: |
+    Kuršo krikštas. Vis dėlto tuoj pat po vyskupo
+    Alberto iš Apeldorno mirties apaštališkasis legatas kar­
+    dinolas diakonas Otas atsiuntė į Rygą vienuolį iš Aivos
+    vienuolyno Balduiną, kuriam pavedė valdyti vyskupystę.
+    Šiam Balduinui pavyko šią provinciją gražiuoju paversti
+    krikščioniška.
+  citata_rodoma: "Vis dėlto tuoj pat po vyskupo \nAlberto iš Apeldorno mirties apaštališkasis legatas kar­\ndinolas diakonas Otas atsiuntė į Rygą vienuolį iš Aivos \nvienuolyno Balduiną, kuriam pavedė valdyti vyskupystę. \nŠiam Balduinui pavyko šią provinciją gražiuoju paversti \nkrikščioniška."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

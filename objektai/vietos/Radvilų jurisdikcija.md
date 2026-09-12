@@ -30,6 +30,8 @@ entity_view_role: "place"
 entity_aliases: ["Radvilų jurisdikcija"]
 sameAs: []
 canonical_biography: "1733 m. Radvilų jurisdikcijoje, už Vilniaus vartų, buvo užpultas Agotos Daukantienės dvarelis."
+place_authority: true
+historical_names: []
 ---
 # Radvilų jurisdikcija
 

@@ -5,9 +5,12 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
+  - 'Lietuvių tautos istorija, t. 3'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.)'
 datos:
   - '1260 m.'
   - '1264 m.'
@@ -256,6 +259,96 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   pagrindžia:
     - c-184390
 
+<a id="claim-t-205138"></a>
+- t-014
+  teiginys: "Nors ji [kronika] priskiria tuos pačius vardus ano sū nums, tačiau Treniotą padaro vyriausiuoju; tai atrodo tikriau negu kad genealoginėje lentelėje, ¡kur jis laikomas jauniausiu."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187759
+
+<a id="claim-t-205423"></a>
+- t-015
+  teiginys: "Mes verčiau tiesiai prisipažinsime visiškai nieko, negirdėję apie dviejų vyresniųjų Skirmanto sūnų likimą, mat mums žinomas tik vienintelis Treniota, kuris istorijos arenoje, kaip vals tybės paveldėtojas, pasirodo p?o tėvo mirties."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188091
+
+<a id="claim-t-205719"></a>
+- t-016
+  teiginys: "Treniota turėjo dalinį, surinktą iš že maičių savanorių."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188334
+
+<a id="claim-t-205720"></a>
+- t-017
+  teiginys: "Teodoras Narbutas, remdamasis istorijos įvykiais, Treniotai priskyrė valdžios troškimą, veidmainystę ir palankumą pagonybei."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188335
+
+<a id="claim-t-205721"></a>
+- t-018
+  teiginys: "Pasak Teodoro Narbuto, Treniotos ir Daumanto vedami sąmokslininkai rugsėjo 12 d. užpuolė miegančio karaliaus palapinę ir klastingai nužudė karalių bei du karaliaus sūnus."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188336
+
+<a id="claim-t-205722"></a>
+- t-019
+  teiginys: "Po Mindaugo valstybės valdžią perėmė Treniota."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188337
+
+<a id="claim-t-205723"></a>
+- t-020
+  teiginys: "Pasak Teodoro Narbuto, Treniota buvo žmogžudystės bendrininkas ir, trokšdamas valdžios, padėjo įvykdyti žmogžudystę."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188338
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Treniota su talkininkais subūrė iki 30 000 vyrų, nusiaubė Mazoviją ir Pamedę, o jo pajėgos paėmė Birgelavos pilį.'
@@ -312,6 +405,41 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
     imtis.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-021
+  santrauka: 'Treniota šaltinyje įvardijamas kaip stipriausias Mindaugo varžovas.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    Vėlesnėje Lietuvos istorijoje į panašų europinį vaidmenį gali
+    pretenduoti nebent Vytautas, Žalgirio mūšyje sustabdęs vokiečių agresiją ir priartinęs
+    valstybę prie to, ką šiandien lyginamoji istorinė sociologija vadina pirmine imperija, ir
+    1990 m. Lietuvos nepriklausomybės kūrėjai, pradėdami „suverenitetų paradą“ ir tuo pri-
+    sidėdami prie sovietų imperijos griūties.
+    Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikęs išvien
+    su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė Mindaugą (nežinoma kur, ta-
+    čiau atkreiptinas dėmesys, kad Latvijos katalikiškoje dalyje, Agluonoje iki šiol tradiciškai
+    manoma, kad Mindaugas buvo nužudytas būtent čia).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-022
+  santrauka: '1263 m. pabaigoje Tautvilo ir Treniotos varžybos dėl Lietuvos valdžios baigėsi Tautvilo nužudymu, o 1264 m. viduryje Mindaugo šalininkai nužudė Treniotą.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    Po Mindaugo nužudymo būta didžiulės sumaišties: per kelerius metus Lietuvoje nu-
+    žudyti dar trys dėl valdžios kovoję kunigaikščiai ir vienas išvytas. Pavardinkime šiuos
+    faktus: 1263 m. ruduo – Daumantui nužudžius Mindaugą ir du jo sūnus, Lietuvos sostą
+    užėmė Treniota, 1263 m. pabaiga – varžybos dėl valdžios tarp artimiausių Mindaugo gi-
+    minaičių Tautvilo ir Treniotos baigėsi pirmojo nužudymu, 1264 m. vidurys – Mindaugo
+    šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga. Min-
+    daugo sūnus Vaišelga, nuvertęs nuo Lietuvos sosto sąmokslo prieš tėvą organizatorių Tre-
+    niotą, keliais požiūriais išsiskiria iš Lietuvos valdovų ir kitų XIII a. istorinių asmenybių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
@@ -619,3 +747,142 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
   patikimumo_saltinis: ai
   pagrindzia:
     - t-013
+
+- id: c-187759
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 444"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 444."
+  citata_originali: |
+    Sosto įpėdinystę po Skirmanto pripažįsta Treniotai
+    (Rankr [aštinė] ir liet [uvių] Bychovco kron [ika]. — P. 11).
+    Nors ji [kronika] priskiria tuos pačius vardus ano sū­
+    nums, tačiau Treniotą padaro vyriausiuoju; tai atrodo
+    tikriau negu kad genealoginėje lentelėje, ¡kur jis laikomas
+    jauniausiu.
+  citata_rodoma: "Nors ji [kronika] priskiria tuos pačius vardus ano sū­\nnums, tačiau Treniotą padaro vyriausiuoju; tai atrodo \ntikriau negu kad genealoginėje lentelėje, ¡kur jis laikomas \njauniausiu"
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014
+
+- id: c-188091
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 230"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 230."
+  citata_originali: |
+    Betgi tų kuni­
+    gaikštysčių dalybos vyko tik Gedimino laikais, tarp jo
+    sūnų, ir vienas iš jų, buvo Liubartas, o valdant Skirmantui
+    šios šalys visiškai nebuvo rusų žemėmis. Mes verčiau
+    tiesiai prisipažinsime visiškai nieko, negirdėję apie dviejų
+    vyresniųjų Skirmanto sūnų likimą, mat mums žinomas
+    tik vienintelis Treniota, kuris istorijos arenoje, kaip vals­
+    tybės paveldėtojas, pasirodo p?o tėvo mirties.
+  citata_rodoma: "Mes verčiau \ntiesiai prisipažinsime visiškai nieko, negirdėję apie dviejų \nvyresniųjų Skirmanto sūnų likimą, mat mums žinomas \ntik vienintelis Treniota, kuris istorijos arenoje, kaip vals­\ntybės paveldėtojas, pasirodo p?o tėvo mirties."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015
+
+- id: c-188334
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 194"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 194."
+  citata_originali: |
+    Prie jų prisidėjo atvykę Rusios kariai, vadovaujami
+    Jaroslavo, Tverės kunigaikščio, ir Konstantino Rostisla-
+    vovičiaus Smolenskiečio, kunigaikščio Aleksandro. Taut­
+    vilą atvedė polockiečius ir vitebskiečius, taip pat savo
+    lietuvių dalinį. Treniota turėjo dalinį, surinktą iš že­
+    maičių savanorių.
+  citata_rodoma: "Taut­\nvilą atvedė polockiečius ir vitebskiečius, taip pat savo \nlietuvių dalinį. Treniota turėjo dalinį, surinktą iš že­\nmaičių savanorių."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
+
+- id: c-188335
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 200"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 200."
+  citata_originali: |
+    esant gėdingo sąmokslo dalyvį. Kaip galima numanyti iš
+    istorijos įvykių, svarbiausias Treniotos būdo bruožas bu­
+    vo valdžios troškimas, be to, veidmainystė ir palankumas
+    pagonybei. Sąmokslininkų turėjo ieškoti ir juos patraukti
+    savo pusėn iš aukštųjų asmenų, supusių karalių; buvo
+    susispietusi stipri grupuotė iš paprastų žmonių, dar puo­
+    selėjančių senovės papročius, kuriuos Mindaugas rovė su
+    šaknimis, taip pat rusinu, įnirtingai besipriešinančių vie­
+    nijimuisi su Roma, kas tuo metu buvo smarkiai remiama.
+  citata_rodoma: "Kaip galima numanyti iš \nistorijos įvykių, svarbiausias Treniotos būdo bruožas bu­\nvo valdžios troškimas, be to, veidmainystė ir palankumas \npagonybei."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-017
+
+- id: c-188336
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 200"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 200."
+  citata_originali: |
+    Aleksandro Neviškio mirtis.
+    1263 metų rudenį karalius Mindaugas buvo savo kara­
+    lystės šiaurinėje dalyje, kur tikriausiai su nedideliu bū­
+    riu dvariškių leido laiką medžiodamas Zemgalos ir Lie­
+    tuvos giriose, nusidriekusiose Dauguvos link. Sąmoksli­
+    ninkai, nutaikę progą, Treniotos ir Daumanto vedami, rug­
+    sėjo 12 dieną užpuolė miegančio karaliaus palapinę ir
+    klastingai nužudė jį kartu su dviem sūnumis.
+  citata_rodoma: "Sąmoksli­\nninkai, nutaikę progą, Treniotos ir Daumanto vedami, rug­\nsėjo 12 dieną užpuolė miegančio karaliaus palapinę ir \nklastingai nužudė jį kartu su dviem sūnumis."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-018
+
+- id: c-188337
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 530"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 530."
+  citata_originali: |
+    Tiktai sužinome, jog po
+    Mindaugo valstybę perėmė Treniota.
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-019
+
+- id: c-188338
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 531"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 531."
+  citata_originali: |
+    Akivaizdu,
+    kad žmogžudystės bendrininkas buvo Treniota. Anas su­
+    manė atkeršyti už žmonos atkalbėjimą, o jis padėjo įvyk­
+    dyti trokšdamas valdžios.
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-020

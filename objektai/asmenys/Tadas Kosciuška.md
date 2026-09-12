@@ -5,6 +5,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1794 m.'
@@ -14,6 +15,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - sukilimas
   - istorikas
 amziai:
   - 'XVIII'
@@ -99,6 +101,18 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
   pagrindžia:
     - c-79180
 
+## Reikšmingi paminėjimai
+- c-005
+  santrauka: 'Tadas Kosciuška buvo paskutinio pasipriešinimo Rusijai, 1794 m. sukilimo, vadovas.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    Kaip žinoma, paskutinio pasipriešinimo Rusijai – 1794 m. sukilimo – vadovas Tadas
+    Kosciuška prieš tai buvo JAV Nepriklausomybės karo didvyris.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-79177

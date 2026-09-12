@@ -30,6 +30,8 @@ entity_view_role: "place"
 entity_aliases: ["Kijevo Pečorų laura"]
 sameAs: []
 canonical_biography: "1998 m. Kijevo Pečorų lauros vienuolyno Uspenjės sobore archeologinių tyrimų metu aptikti keli sarkofagai."
+place_authority: true
+historical_names: []
 ---
 # Kijevo Pečorų laura
 

@@ -152,6 +152,19 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
   pagrindžia:
     - c-178881
 
+<a id="claim-t-205818"></a>
+- t-007
+  teiginys: "Sandomiro kunigaikštystėje po netikėto įsiveržimo per Lukovijos žemę įsibrovėliai prisiplėšė daug grobio, daugiausia belaisvių su visu jų turtu."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
+  pagrindžia:
+    - c-188433
+
 ## Citatos
 
 - id: c-37712
@@ -307,6 +320,29 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
+
+- id: c-188433
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 272"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 272."
+  citata_originali: |
+    Aplinkybės, kurios mums dar labiau tą prie­
+    žastį paaiškina, yra Povilo, Krokuvos vyskupo, intri­
+    gos, regztos prieš Lešeką Juodąjį, kuris aną jau buvo
+    laikęs kalėjime ir baudęs už ankstesnius lietuvių primo­
+    kymus. Šiaip ar taip, Vytenis kuo slapčiausiai apginklavo
+    kariauną, nepalyginti gausesnę negu kad anksčiau buvo.
+    Netikėtai per Lukovijos žemę įsiveržė į Sandomiro ku­
+    nigaikštystę, kur prisiplėšė drūčiai grobio, dauguma ku­
+    rio buvo belaisviai su visa jų manta.
+  citata_rodoma: "Netikėtai per Lukovijos žemę įsiveržė į Sandomiro ku­\nnigaikštystę, kur prisiplėšė drūčiai grobio, dauguma ku­\nrio buvo belaisviai su visa jų manta."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 ## Ryšiai
 - Puolė Sandomirą: [[objektai/grupes/Lietuviai]]

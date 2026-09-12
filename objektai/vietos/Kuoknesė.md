@@ -167,6 +167,74 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   pagrindžia:
     - c-184427
 
+<a id="claim-t-205197"></a>
+- t-007
+  teiginys: "1208 m. vyskupas Albertas atstatė Kuoknesės pilį ir trečdalį jos perleido kalavijuočių riteriams."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-187784
+
+<a id="claim-t-205311"></a>
+- t-008
+  teiginys: "Kaip įkaitus perleido pusę Kuoknesės pilies ir valdos feodalo nuosavybės teise."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-188093
+
+<a id="claim-t-205381"></a>
+- t-009
+  teiginys: "Šiems sutuoktiniams vyskupas Al bertas buvo dovanojęs Kuoknesės pilį su aplinkinėmis valdomis."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-187904
+
+<a id="claim-t-205417"></a>
+- t-010
+  teiginys: "Kunigaikštis Vosylius 1222 m. valdė Kuoknesę."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1222 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys gramatiškai tinkamas, tačiau valdovo titulas pagal šaltinio profilį turi būti atribuotas. Kitų, citatoje nepateiktų faktų nepridėta."
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-187948
+
+<a id="claim-t-205440"></a>
+- t-011
+  teiginys: "Po konflikto su Vosyliumi Kuoknesės pilis ir valda liko vyskupo nuosavybė."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-187793
+
 ## Citatos
 
 - id: c-76495
@@ -296,6 +364,110 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
+
+- id: c-187784
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 342"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 342."
+  citata_originali: |
+    Grįžęs iš Vokieti­
+    jos vyskupas Albertas, apsvarstęs aplinkybes, jj siejan­
+    čias su Lietuva, mat tikėjosi sulaukti iš tos pusės puo­
+    limų, juolab turėdamas valdą Kuoknesėje, sumanė atnau­
+    jinti tenykštę pilį, kurią rado visiškai sugriautą, kitaip
+    tariant, jos vietoje kalvą, apauguslią krūmais, įvairių
+    šiukšlių nusėtą. Įsakęs iškuopti, sumūrijo tvirtovę. Treč­
+    dalį perleido kalavijuočių riteriams, o kitus du trečdalius
+    savo nuožiūra atidavė valdyti Rudolfui iš Jericho.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
+- id: c-187793
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 340"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 340."
+  citata_originali: |
+    apie vyskupo buvimą Rygoje ir pajėgų telkimą iš viso
+    krašto, pabūgę laukti, kol suduos jiems smūgį Kuokncsėje,
+    surinko visas pilyje likusias vokiečių maisto atsargas bei
+    rakandus ir visi patraukė į Rusią. Aplinkiniai gyventojai,
+    kuriuos sudarė latgaliai ir sėliai, apimti baimės, išsisklai­
+    dė po miškus. Nuo to laiko Kuoknesės pilis ir valda vi­
+    siems laikams liko vyskupo nuosavybė1.
+  citata_rodoma: "Nuo to laiko Kuoknesės pilis ir valda vi­\nsiems laikams liko vyskupo nuosavybė1."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
+
+- id: c-187904
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 358"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 358."
+  citata_originali: |
+    Čia tereikėtų pridurti, ką pastebėjome iš Livo­
+    nijos istorijos (Hiarn. — S. 111): šio kunigaikščio žmona buvo Baba,
+    su kuria gyvendamas, jis buvo sulaukęs dukros Sofijos, ištekėjusios
+    už Ditricho, vokiečių kilmės riterio. Šiems sutuoktiniams vyskupas Al­
+    bertas buvo dovanojęs Kuoknesės pilį su aplinkinėmis valdomis.
+  citata_rodoma: "Šiems sutuoktiniams vyskupas Al­\nbertas buvo dovanojęs Kuoknesės pilį su aplinkinėmis valdomis."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+
+- id: c-187948
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 357"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 357."
+  citata_originali: |
+    1222 m. Rusios kunigaikštystė Dorpato žemėje. Mes
+    iš tiesų neturime pakankamai žinių iš Polocko kuni­
+    gaikštystės istorijos, kad galėtume išdėstyti priežastis,
+    kodėl kunigaikštis Vosylius, neabejojamai tas pats, ku­
+    ris 1222 metais valdė Kuoknesę, paėmė į savo rankas Nau-
+    gardo valdžią.
+  citata_rodoma: "Mes\niš tiesų neturime pakankamai žinių iš Polocko kuni­\ngaikštystės istorijos, kad galėtume išdėstyti priežastis, \nkodėl kunigaikštis Vosylius, neabejojamai tas pats, ku­\nris 1222 metais valdė Kuoknesę, paėmė į savo rankas Nau- \ngardo valdžią."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+
+- id: c-188093
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 336"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 336."
+  citata_originali: |
+    Keletą dienų viešėjo vyskupo
+    nuosavuose namuose, naudodamasis didžiule pagarba ir
+    prielankumu, po to išdėstė vyskupui savo ketinimus, pra­
+    šydamas suteikti karinę paramą prieš lietuvius ir sudaryti
+    su juo draugišką sandėrį. Kaip įkaitus perleido pusę Kuok-
+    nesės pilies ir valdos feodalo nuosavybės teise. Su tuo
+    vyskupas noriai sutikęs, atsisveikindamas apdovanojo ku­
+    nigaikštį vertingomis atminimo dovanomis3.
+  citata_rodoma: "Kaip įkaitus perleido pusę Kuok- \nnesės pilies ir valdos feodalo nuosavybės teise. Su tuo \nvyskupas noriai sutikęs, atsisveikindamas apdovanojo ku­\nnigaikštį vertingomis atminimo dovanomis3."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
 
 ## Ryšiai
 - Užėmė Kuoknesę: [[objektai/grupes/Švedijos kariuomenė]]

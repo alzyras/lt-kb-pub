@@ -1,0 +1,80 @@
+---
+tipas: vieta
+pavadinimas: 'Beverina (vieta)'
+identifikacija: 'vieta'
+variantai:
+  - 'Beverina'
+aliases:
+  - 'Beverina'
+saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)'
+datos:
+  - '1209 m.'
+date_start: '1209'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+entity_id: "ent-cb74d0489f36cca5052e34df"
+canonical_name: "Beverina (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Beverina","Beverina (vieta)"]
+sameAs: []
+canonical_biography: "1209 m. estai, atsitraukę nuo Vendeno, už Gaujos upės sustojo prie liūno, buvusio pakeliui į Beveriną."
+place_authority: true
+historical_names: []
+---
+# Beverina (vieta)
+
+## Santrauka
+
+1209 m. estai, atsitraukę nuo Vendeno, už Gaujos upės sustojo prie liūno, buvusio pakeliui į Beveriną.
+
+## Santrauka
+
+1209 m. estai, atsitraukę nuo Vendeno, už Gaujos upės sustojo prie liūno, buvusio pakeliui į Beveriną.
+
+## Teiginiai
+
+<a id="claim-t-205260"></a>
+- t-001
+  teiginys: "1209 m. estai, atsitraukę nuo Vendeno, už Gaujos upės sustojo prie liūno, buvusio pakeliui į Beveriną."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187806
+
+## Citatos
+
+- id: c-187806
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 350"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 350."
+  citata_originali: |
+    Estai atsitraukė už
+    Gaujos upės prie liūno, buvusio pakeliui į Beveriną.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

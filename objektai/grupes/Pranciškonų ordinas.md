@@ -79,7 +79,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 <a id="claim-t-108283"></a>
 - t-003
   teiginys: "Mažesniųjų brolių ordinas 1223 m. buvo patvirtintas valdant popiežiui Honorijui III."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -95,6 +95,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-100496
+    - c-181408
 
 <a id="claim-t-108284"></a>
 - t-004
@@ -167,8 +168,28 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-100527
     - c-181410
 
-<a id="claim-t-108297"></a>
+<a id="claim-t-108295"></a>
 - t-008
+  teiginys: "Jokūbas I buvo lietuvių kilmės pranciškonas, 1400–1407 m. valdęs Vilniaus dieceziją."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Jokūbas I: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pranciškonų ordinas: owner_note_path, group"
+  ryšio_targeto_parinkimas: "Jokūbas I: mention_match, person, gap=1"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pranciškonų ordinas\" parinktas kaip owner_note_path. Targetas \"Jokūbas I\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: iki 1407 m.; įvykio data: 1400-1407; įvykio data: 1407 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-100518
+    - c-181394
+
+<a id="claim-t-108297"></a>
+- t-009
   teiginys: "Gediminas ketino kviesti tik girtino ir doro gyvenimo pranciškonų ordino vienuolius."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -185,7 +206,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-100519
 
 <a id="claim-t-108300"></a>
-- t-009
+- t-010
   teiginys: "Apie 1522 m. pranciškonai vietoje sudegusios medinės bažnyčios išmūrijo Šv. Mikalojaus bažnyčią."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -206,7 +227,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-181406
 
 <a id="claim-t-108301"></a>
-- t-010
+- t-011
   teiginys: "1552 m. Žygimanto Augusto dekretu Vilniaus pranciškonai neteko jurisdikcijos savo pavaldiniams mieste."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -226,7 +247,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-100520
 
 <a id="claim-t-108308"></a>
-- t-011
+- t-012
   teiginys: "Jokūbas I buvo lietuvių kilmės pranciškonas ir 1400-1407 m. valdė dieceziją."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -246,7 +267,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-100518
 
 <a id="claim-t-108311"></a>
-- t-012
+- t-013
   teiginys: "Gediminas žadėjo kviestis dorus vyskupus, kunigus, dominikonus ir pranciškonų ordino vienuolius."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -263,7 +284,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-100519
 
 <a id="claim-t-108315"></a>
-- t-013
+- t-014
   teiginys: "Pranciškonas Jonas Pliekta Vilniaus vyskupu tapo 1399 m., bet, anot Balińskio, nežinoma, kodėl pareigas ėjo tik vienerius metus."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -284,7 +305,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-181393
 
 <a id="claim-t-108316"></a>
-- t-014
+- t-015
   teiginys: "1323 m. Gedimino laiškai buvo rašyti dominikonų, Mažesniųjų brolių, arba pranciškonų, ordinams ir Hanzos miestams."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -304,7 +325,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-100503
 
 <a id="claim-t-108319"></a>
-- t-015
+- t-016
   teiginys: "Vilniuje tarp trijų ankstyvų krikščionių šventyklų minima ir pranciškonų bažnyčia."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -320,7 +341,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-100508
 
 <a id="claim-t-108321"></a>
-- t-016
+- t-017
   teiginys: "Pranciškonai prie Žemutinės pilies turėjo Gedimino laikais pastatydintą bažnyčią dabartinės Šventojo Kryžiaus bažnyčios vietoje."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -337,7 +358,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-100507
 
 <a id="claim-t-108323"></a>
-- t-017
+- t-018
   teiginys: "1323 m. gegužės 26 d. trys Gedimino laiškai buvo pasiųsti Saksų provincijos pranciškonams, dominikonams ir Hanzos miestams."
   atnaujinta: "2026-06-13 17:10"
   sprendimo_priezastis: "auto"
@@ -357,7 +378,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-22699
 
 <a id="claim-t-108325"></a>
-- t-018
+- t-019
   teiginys: "1317 m. popiežius Jonas kanonizavo šventąjį Liudviką, Sicilijos karaliaus Roberto brolį iš Mažesniųjų brolių ordino."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -378,7 +399,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-181403
 
 <a id="claim-t-108326"></a>
-- t-019
+- t-020
   teiginys: "Andrius Vosylius Jastrzębiecas, dar būdamas pranciškonų kunigas, kurį laiką gyveno Vilniuje prie Algirdo."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -397,8 +418,26 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-100517
     - c-181400
 
+<a id="claim-t-108327"></a>
+- t-021
+  teiginys: "Kai kurių autorių manymu, Goštautas buvo pranciškonų vienuolynų Vilniuje steigėjas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pranciškonų ordinas: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pranciškonų ordinas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-100502
+    - c-181385
+
 <a id="claim-t-108328"></a>
-- t-020
+- t-022
   teiginys: "Gedimino laiškai buvo rašyti dominikonams, pranciškonams ir Hanzos miestams."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -416,9 +455,9 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-181398
 
 <a id="claim-t-184577"></a>
-- t-021
+- t-023
   teiginys: "Goštautas pakvietė į Vilnių naują Pranciškonų ordino vienuolių būrį ir skyrė jiems vietą netoli Vingrių pelkės."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -436,7 +475,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-167938
 
 <a id="claim-t-187742"></a>
-- t-022
+- t-024
   teiginys: "Lietuvos metraštis pasakoja, kad Algirdui leidus Petras Goštautas iš Lenkijos į Vilnių parsikvietė 14 pranciškonų vienuolių."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -456,9 +495,9 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-170681
 
 <a id="claim-t-196115"></a>
-- t-023
+- t-025
   teiginys: "Goštautas pakvietė į Vilnių naują Pranciškonų ordino vienuolių būrį ir žadėjo prie Vingrių pelkės pastatyti Švč. Mergelės Marijos bažnyčią."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -469,7 +508,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-167938
 
 <a id="claim-t-199026"></a>
-- t-024
+- t-026
   teiginys: "Vytenis prašė legato Pranciškaus ir arkivyskupo Fridricho atsiųsti du pranciškonų ordino brolius į jau pastatytą bažnyčią."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -487,20 +526,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   pagrindžia:
     - c-181397
 
-<a id="claim-t-199052"></a>
-- t-025
-  teiginys: "Kai kurių autorių manymu, Goštautas buvo pranciškonų vienuolynų Vilniuje steigėjas."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys tinkamai pateikia autorių nuomonę ir yra pagrįstas citata."
-  susije_objektai: "mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/Grzybowski|Grzybowski]]; mentioned_object: [[objektai/zodynas/in partibus infidelium|in partibus infidelium]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Vitas|Vitas]]; mentioned_place: Lietuva; mentioned_place: Podolė"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-181385
-
 <a id="claim-t-199056"></a>
-- t-026
+- t-027
   teiginys: "Pranciškonai veikė sostinėje ir joje laikė savo vienuolyną."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -518,7 +545,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-34235
 
 <a id="claim-t-199061"></a>
-- t-027
+- t-028
   teiginys: "Karalius atėmė iš pranciškonų jurisdikciją mieste ir priemiesčiuose turėtiems valdiniams."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -529,7 +556,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-181391
 
 <a id="claim-t-199066"></a>
-- t-028
+- t-029
   teiginys: "Pirmasis Vilniaus vyskupas Andrius buvo Lenkijos pranciškonas, anksčiau ėjęs Sereto vyskupo pareigas Vengrijoje."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -551,7 +578,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-181396
 
 <a id="claim-t-199068"></a>
-- t-029
+- t-030
   teiginys: "Kryžiuočiai Strėvos laimėjimui atminti pastatė pranciškonų vienuolynus Karaliaučiuje ir Vėluvoje."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -563,7 +590,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-186071
 
 <a id="claim-t-201481"></a>
-- t-030
+- t-031
   teiginys: "Vilniuje dar iki krikšto buvo įsikūrę pranciškonai, ypač aktyvūs misijų darbe."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -575,7 +602,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-184828
 
 <a id="claim-t-201482"></a>
-- t-031
+- t-032
   teiginys: "Pranciškonų parinkimą galima būtų aiškinti ir jų patyrimu Lietuvoje, ir tuo, kad du pirmieji Vilniaus vyskupai, į kurių vyskupiją įėjo ir Kaunas, buvo pranciškonai."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -587,7 +614,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-184829
 
 <a id="claim-t-201483"></a>
-- t-032
+- t-033
   teiginys: "Pranciškonų ir bernardinų vienuolynai, kitos dvi bažnytinės institucijos, kūrėsi kaip įprasta regiono miestuose, savavaldžio miesto pakraštyje."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -599,7 +626,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-184830
 
 <a id="claim-t-201484"></a>
-- t-033
+- t-034
   teiginys: "Centrinėje raižinio dalyje, šalia parapinės bažnyčios, į dangų šauna liaunas pranciškonų Švč."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -611,7 +638,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-184831
 
 <a id="claim-t-203046"></a>
-- t-034
+- t-035
   teiginys: "Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošaičio „Lietuvos istorijoje“ teigiama, kad istorija apie dviejų pranciškonų nužudymą Vilniuje Gedimino valdymo pabaigoje davė pradžią vienai ilgaamžiškiausių Vilniaus legendų."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -622,7 +649,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-181387
 
 <a id="claim-t-203163"></a>
-- t-035
+- t-036
   teiginys: "Michał Baliński rašė, kad Lietuvoje apaštalavę pranciškonai dėl uolaus žmonių atvertimo į tikėjimą patirdavo skaudžių kančių."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -632,7 +659,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-100498
 
 <a id="claim-t-203172"></a>
-- t-036
+- t-037
   teiginys: "Michał Baliński teigimu, Lietuvoje apaštalavę minoritai ne kartą krito kaip savo uolumo aukos, o pranciškonai pasmerkė save skaudžioms kančioms."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -643,7 +670,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-100498
 
 <a id="claim-t-203264"></a>
-- t-037
+- t-038
   teiginys: "Michał Baliński veikale „Vilniaus miesto istorija“ pateiktame Gedimino laiške teigiama, kad jis ketino kviesti tik tokius pranciškonų ordino vienuolius, kurių gyvenimas buvo girtinas ir doras."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -653,7 +680,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-181401
 
 <a id="claim-t-203411"></a>
-- t-038
+- t-039
   teiginys: "Michał Baliński rašo, kad Gedimino laiškai buvo rašyti dominikonų ir Mažesniųjų brolių, arba pranciškonų, ordinams bei Hanzos miestams, o autentišką jų dokumentą notaras parengė 1323 m."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -667,7 +694,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - c-181398
 
 <a id="claim-t-203588"></a>
-- t-039
+- t-040
   teiginys: "Zenono Ivinskio teigimu, iš Gedimino laikais nubaustų dviejų pranciškonų fakto XVI a. rusų ir lenkų šaltiniuose sukurta legenda apie 36 Vilniuje nukankintus pranciškonus."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -675,6 +702,74 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-34236
+
+<a id="claim-t-205621"></a>
+- t-041
+  teiginys: "Po prelatų suvažiavimo Prūsijoje gyvenę pranciškonų vienuoliai, vadovaujami vyresniųjų, susirinko ir parašė atvirus liudijimus riterių ordinui ginti, kaip teigia Teodoras Narbutas."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
+  pagrindžia:
+    - c-188236
+
+<a id="claim-t-206201"></a>
+- t-042
+  teiginys: "Andrius Vasila buvo paskirtas pirmuoju Vilniaus vyskupu; prieš tai jis buvo pranciškonų vienuolyno vyresnysis Vilniuje ir Smėlynės Švč. Mergelės Marijos vienuolyne."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188816
+
+<a id="claim-t-206202"></a>
+- t-043
+  teiginys: "Karaliaus Mykolo privilegijoje pranciškonų spaustuvei, pasak Teodoro Narbuto, užsimenama, kad katalikų tikėjimas Lietuvoje gyvavo jau 420 metų, nuo 1250 m., Mindaugo laikais."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188817
+
+<a id="claim-t-206203"></a>
+- t-044
+  teiginys: "Pasak Teodoro Narbuto, 1366 m. kovo 6 d. prie Vilnios minia nužudė keturiolika pranciškonų: septyniems nukirto galvas, o septynis pabėgusius sučiupo, prikalė prie kryžių ir įmetė į upę."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1366 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas smurto epizodas, įvardijant datą, aukų skaičių ir veiksmus. Atribucija išlaikyta, nes teiginys remiasi šaltinio pasakojimu apie žudynes."
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188818
+
+<a id="claim-t-206204"></a>
+- t-045
+  teiginys: "Kitais metais Goštautas vėl atsikvietė pranciškonų į Vilnių, įrengė jiems didesnį būstą prie Vingrių ir pastatė Švč. Mergelės Marijos mūro bažnyčią smėlingoje vietoje."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188819
 
 ## Reikšmingi paminėjimai
 - c-022
@@ -809,7 +904,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-018
 
 - id: c-22700
   autorius: "Zenonas Ivinskis"
@@ -1003,7 +1098,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
+    - t-027
 
 - id: c-34236
   autorius: "Zenonas Ivinskis"
@@ -1026,7 +1121,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-039
+    - t-040
 
 - id: c-34237
   autorius: "Zenonas Ivinskis"
@@ -1173,7 +1268,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-012
 
 - id: c-100493
   autorius: "Michał Baliński"
@@ -1221,7 +1316,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-014
 
 - id: c-100496
   autorius: "Petras Dusburgietis"
@@ -1295,8 +1390,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-035
     - t-036
+    - t-037
 
 - id: c-100499
   autorius: "Michał Baliński"
@@ -1342,7 +1437,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-009
+    - t-010
 
 - id: c-100502
   autorius: "Michał Baliński"
@@ -1370,6 +1465,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
+    - t-021
 
 - id: c-100503
   autorius: "Michał Baliński"
@@ -1408,8 +1504,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
-    - t-020
+    - t-015
+    - t-022
 
 - id: c-100507
   autorius: "Michał Baliński"
@@ -1432,7 +1528,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
-    - t-016
+    - t-017
 
 - id: c-100508
   autorius: "Michał Baliński"
@@ -1455,7 +1551,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
-    - t-015
+    - t-016
 
 - id: c-100509
   autorius: "Michał Baliński"
@@ -1523,7 +1619,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-019
 
 - id: c-100514
   autorius: "Michał Baliński"
@@ -1581,7 +1677,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-020
 
 - id: c-100518
   autorius: "Michał Baliński"
@@ -1607,7 +1703,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-008
+    - t-012
 
 - id: c-100519
   autorius: "Michał Baliński"
@@ -1652,8 +1749,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-012
+    - t-009
+    - t-013
 
 - id: c-100520
   autorius: "Michał Baliński"
@@ -1683,7 +1780,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-011
 
 - id: c-100521
   autorius: "Michał Baliński"
@@ -1762,8 +1859,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
     - t-023
+    - t-025
 
 - id: c-170680
   autorius: "Anoniminis metraštininkas"
@@ -1807,7 +1904,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-024
 
 - id: c-170682
   autorius: "Anoniminis metraštininkas"
@@ -1859,7 +1956,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-025
+    - t-021
 
 - id: c-181386
   autorius: "Michał Baliński"
@@ -1914,7 +2011,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-034
+    - t-035
 
 - id: c-181388
   autorius: "Michał Baliński"
@@ -2027,7 +2124,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
+    - t-028
 
 - id: c-181392
   autorius: "Michał Baliński"
@@ -2076,7 +2173,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-014
 
 - id: c-181394
   autorius: "Michał Baliński"
@@ -2098,10 +2195,12 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     krikščionių tikėjimą priimti paskatino.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
 - id: c-181396
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -2120,7 +2219,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
+    - t-029
 
 - id: c-181397
   autorius: "Michał Baliński"
@@ -2151,7 +2250,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-026
 
 - id: c-181398
   autorius: "Michał Baliński"
@@ -2190,8 +2289,8 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
-    - t-038
+    - t-022
+    - t-039
 
 - id: c-181399
   autorius: "Michał Baliński"
@@ -2238,7 +2337,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-020
 
 - id: c-181401
   autorius: "Michał Baliński"
@@ -2283,7 +2382,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-037
+    - t-038
 
 - id: c-181402
   autorius: "Zenonas Ivinskis"
@@ -2322,7 +2421,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-019
 
 - id: c-181404
   autorius: "Michał Baliński"
@@ -2394,7 +2493,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-009
+    - t-010
 
 - id: c-181407
   autorius: "Zenonas Ivinskis"
@@ -2425,10 +2524,12 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     scolarium] patvirtino tas pats valdovas popiežius Honorijus.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-181409
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -2724,7 +2825,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
+    - t-031
 
 - id: c-184829
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -2743,7 +2844,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-031
+    - t-032
 
 - id: c-184830
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -2760,7 +2861,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
+    - t-033
 
 - id: c-184831
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -2778,7 +2879,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
+    - t-034
 
 - id: c-186070
   autorius: "Michał Baliński"
@@ -2826,7 +2927,121 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
+    - t-030
+
+- id: c-188236
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 414"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 414."
+  citata_originali: |
+    1134* *
+    Tačiau čia dar ne galas. Po prelatų suvažiavimo su­
+    sirinko gauja pranciškonų vienuolių, gyvenančių Prūsi­
+    joje, vadovaujamų savo vyresniųjų. Sis susirinkimas, tar­
+    si savo valia stodamas riterių ordino ginti, parašė atvirus
+    liudijimus***.
+  citata_rodoma: "Po prelatų suvažiavimo su­\nsirinko gauja pranciškonų vienuolių, gyvenančių Prūsi­\njoje, vadovaujamų savo vyresniųjų. Sis susirinkimas, tar­\nsi savo valia stodamas riterių ordino ginti, parašė atvirus \nliudijimus***."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-041
+
+- id: c-188816
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 354"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 354."
+  citata_originali: |
+    Pirm uoju Vilniaus vyskupu buvo paskirtas Andrius
+    Vasila (W asilon), dvasininkas iš pranciškonų vienuolyno,
+    anksčiau buvęs vyresniuoju Vilniuje, Smėlynės Švenčiau­
+    siosios M ergelės M arijos vienuolyne, vėliau Vengrijos ka­
+    ralienės Elžbietos, Jadvygos m otinos, nuodėm klausys ir
+    Seretos vyskupas.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-042
+
+- id: c-188817
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 175-177"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 175-177."
+  citata_originali: |
+    Taigi dar 1364
+    1 Gabrielius Bučackis 1360 metais tapo Kameneco seniūnu. Simono
+    Okolskio (Okolski. Orbis Pol. - T. I. - P. 9) per spaudos klaidą nurodyti 1260
+    metai, juk tuo laiku Lenkija apie Podolę nė galvoti negalvojo*.
+    21670 metais karaliaus Mykolo privilegijoje, duotoje pranciškonų spaustu­
+    vei, yra užuomina, kad tasai įstatymas Lietuvoje egzistuoja jau ketini šimtai
+    dvidešimt metų, tai yra nuo 1250 metų, Mindaugo laikų. Jau anksčiau (§ 1130)
+    parodėme, kad katalikų kunigai nuo senų senovės gyveno Lietuvoje. Gedimi­
+    no laikais net tie, kurie vertė į katalikų tikėjimą, galbūt trumpai, tačiau buvo
+    toleruojami. Apskritai jie teikdavo tik dvasinius patarnavimus svetimšaliams,
+    vietos gyventojai į juos nekreipė dėmesio. Kitaip su jais pradėta elgtis, kai Goš­
+    tauto atsikviesti pranciškonai visai atvirai ėmė liaudį versti į katalikų tikėjimą.
+    177
+
+    Vienuolių pranciškonų nužudymas Vilniuje
+    Litografija, kuria Teodoras Narbutas ketino papildyti antrąjį LTI V tomo leidimą (PEĮ. - P. 158-159)
+
+    metais ar kiek anksčiau atsikvietė iš Mazovijos keturiolika
+    pranciškonų vienuolių, kuriem s paskyrė savo namus su dar­
+    žu, buvusius toje vietoje, kur dabar bonifratrų vienuolynas
+    ir im peratoriaus rūmai
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-043
+
+- id: c-188818
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 177"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 177."
+  citata_originali: |
+    Susibūrusi minia nuspren­
+    dė išžudyti pranciškonus; užpuolė jų buveinę, išstūmė sep­
+    tynetą vienuolių ir darže nukirto jiem s galvas. Kiti septyni
+    iš vienuolyno suskubo pabėgti ir nusigavo į kalnus, vadin­
+    tus Tauro, tačiau greitai ten buvo surasti, ant Plikojo kalno,
+    tuom et visai nuožulnaus, prie pat Vilnios prigludusio; bu­
+    vo prie kryžių prikalti ir įmesti į upę, o žm onės šaukė: „Iš
+    vakarų atėjote, į vakarus sau ir grįžkite“ - nes M azovija yra
+    į vakarus nuo Vilniaus, ir upė plaukia ton pusėn. Tai vyko
+    1366 m etų kovo 6 dieną**.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-044
+
+- id: c-188819
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 178"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 178."
+  citata_originali: |
+    Kitais metais Goštautas vėl
+    atsikvietė į Vilnių pranciškonų, kuriems savo rūmuose prie
+    Vingrių įrengė didesnį būstą ir pastatė Švenčiausiosios M er­
+    gelės Marijos mūro bažnyčią smėlingoje vietoje, dėl to pava­
+    dintoje
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-045
 
 ## Ryšiai
 - Puolė Pranciškonų ordiną: [[objektai/grupes/Vilniaus prastuomenė]]

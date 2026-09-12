@@ -57,6 +57,61 @@ Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, nuslėpė prieši
   pagrindžia:
     - c-169481
 
+<a id="claim-t-206309"></a>
+- t-002
+  teiginys: "Jurijus Sviatoslavovičius prisiekė ištikimybę, prisiėmė duoklininko pareigas ir gavo valdyti Smolenską."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188924
+
+<a id="claim-t-206311"></a>
+- t-003
+  teiginys: "Teodoras Narbutas Jurijų Sviatoslavovičių, Glebo brolį, apibūdina kaip neramų maištautoją, prieš kurį su jo globėju Olegu stojo Lengvenis Simonas."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188926
+
+<a id="claim-t-206312"></a>
+- t-004
+  teiginys: "Jurijus Sviatoslavovičius susitaikė su Vytautu, kuris jam skyrė didžiulę valdą su Roslavlio miestu."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188927
+
+<a id="claim-t-206313"></a>
+- t-005
+  teiginys: "Teodoras Narbutas rašo, kad 1406 m. rugpjūčio 5 d. Smolensko kunigaikštis Jurijus Sviatoslavovičius su rinktine plėšikautojų gauja užpuolė, apiplėšė ir sudegino Lydą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1406 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išlaikytas šaltinio priešiškas puolėjų apibūdinimas ir įtraukta privaloma Narbuto atribucija."
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188928
+
 ## Citatos
 
 - id: c-169481
@@ -91,3 +146,73 @@ Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, nuslėpė prieši
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188924
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 345"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 345."
+  citata_originali: |
+    Tuo tarpu kunigaikštis Jurgis Svia-
+    toslavovičius1 prisiekė ištikimybę ir prisiėmė kitas duoklinin­
+    ko pareigas, gaudamas valdyti Smolenską, o jo brolis Glėbas
+    liko Vytauto belaisviu1 2.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-188926
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 455"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 455."
+  citata_originali: |
+    Dėl ku­
+    nigaikščio Jurgio, Glebo brolio, neramaus maištautojo, tiek prieš
+    savo kunigaikštystę, tiek prieš Lietuvą, Riazanės kunigaikščio
+    Olego globotą, pasakytina, kad prieš tą sąmokslininką ir jo glo­
+    bėją tučtuojau stojo kunigaikštis Lengvenis Simonas su Lietu­
+    vos kariauna ir smolenskiečiais, nukariavo žemes tarp Okos bei
+    Dono ir grobį nusigabeno į Lietuvą.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-188927
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 455"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 455."
+  citata_originali: |
+    Galop ir kunigaikštis
+    Jurgis susitaikė su didžiuoju kunigaikščiu, kuris jam davė di­
+    džiulę valdą su Roslavlio miestu1.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-188928
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 510"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 510."
+  citata_originali: |
+    1406 m etų rugpjūčio 5 dieną Smolensko kunigaikštis Jur­
+    gis Sviatoslavovičius su rinktine plėšikautojų gauja užpuolė
+    Lydą, apiplėšė ir ją sudegino; veržėsi ir į pilį, tačiau veltui.
+    To kunigaikščio žmona su vaikais buvo pilyje nelaisvėje
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005

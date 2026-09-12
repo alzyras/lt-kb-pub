@@ -526,6 +526,31 @@ historical_names: []
   pagrindžia:
     - c-175454
 
+<a id="claim-t-205525"></a>
+- t-027
+  teiginys: "1237 m. Kuršas ir Žemgala buvo padalyti į tris vyskupystes."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188066
+
+<a id="claim-t-205787"></a>
+- t-028
+  teiginys: "1260 m. Mindaugas buvo Kuršo pasienyje, kur, Teodoro Narbuto pasakojimu, kryžiuočiai nežmoniškai elgėsi, todėl gyventojai apsimestinai priimdavo krikščionybę arba bėgdavo į Lietuvą."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188402
+
 ## Reikšmingi paminėjimai
 - c-011
   santrauka: 'Nemunas prie Klaipėdos įteka į jūrą ir skiria Prūsiją nuo Rusios, Lietuvos bei Kuršo.'
@@ -1181,6 +1206,53 @@ historical_names: []
   patikimumo_saltinis: ai
   pagrindzia:
     - t-024
+
+- id: c-188066
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 365"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 365."
+  citata_originali: |
+    Popiežius, nuša­
+    linęs Baldu'iną nuo legato pareigų, paskyrė Vilhelmą le­
+    gatu Prūsijoje, Kurše, Žemgaloje, Livonijoje, Estijoje ir
+    Gotlande. Jo atvykimas į Rygą buvo prilygintas Taikos
+    Angelo apsireiškimui, gyventojai tą dieną įamžino skir­
+    dami legatui savo valdas Eželio saloje. Kiek daug jis
+    nuveikė gero: prisidėjo prie Kalavijuočių ordino, jau iš-
+    paikusio beveltėdžiaujant, suvienijimo su kryžiuočiais, be
+    to, buvo pripažinta ne mažiau svarbu dar ir tai, kad
+    Kurše ir Žemgaloje įsteigė dvasinę administraciją, 1237
+    metais padalijęs kraštą į tris vyskupystes.
+  citata_rodoma: "Kurše ir Žemgaloje įsteigė dvasinę administraciją, 1237 \nmetais padalijęs kraštą į tris vyskupystes."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-027
+
+- id: c-188402
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 181"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 181."
+  citata_originali: |
+    Treniotos pareiškimas karalienei. Betgi grįž­
+    kime prie įvykių eigos paeiliui, taip, kaip jie su laiko tėk­
+    me mums prieš akis iškyla. 1260 metais karalius Mindau­
+    gas buvo Kuršo pasienyje, kur kryžiuočiai nežmoniškai
+    elgėsi, išdaigojo krašte pačius turtingiausius žmones, per
+    ūkį, prekybą ir jūrų plėšikavimą sukėlė nepasitikėjimą,
+    įstūmė į vargus, tad buvo apsimestinai priimama krikš­
+    čionybė ar bėgama į Lietuvą.
+  citata_rodoma: "1260 metais karalius Mindau­\ngas buvo Kuršo pasienyje, kur kryžiuočiai nežmoniškai \nelgėsi, išdaigojo krašte pačius turtingiausius žmones, per \nūkį, prekybą ir jūrų plėšikavimą sukėlė nepasitikėjimą, \nįstūmė į vargus, tad buvo apsimestinai priimama krikš­\nčionybė ar bėgama į Lietuvą."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-028
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Ketleris]]

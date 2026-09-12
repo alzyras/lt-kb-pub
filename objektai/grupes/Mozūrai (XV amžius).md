@@ -83,6 +83,19 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
   pagrindžia:
     - c-177339
 
+<a id="claim-t-205168"></a>
+- t-005
+  teiginys: "Nužudytojo kunigaikščio brolis su didele ka riauna įsiveržė į Nadruvos žemę, užėmė Romuvą, vy riausiąjį žynį su jo tarnais ir žyniais sudegino jų pačių buveinėse, prie aukų altoriaus sugavo pabėgusį mozūrą ir žiauriai nukankino."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-188144
+
 ## Citatos
 
 - id: c-13635
@@ -161,3 +174,25 @@ Mozūrai šiame fragmente įvardijami kaip Lietuvos sandarų partneriai.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
+
+- id: c-188144
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 62"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 62."
+  citata_originali: |
+    Tada, bijodamas keršto, pabėgo į Prū­
+    siją, kur tikėjosi rasti prieglobstį dievų šventovėje — Ro­
+    muvoje, ir jo viltys išsipildė. Betgi mozūrai netruko apie
+    lai sužinoti. Nužudytojo kunigaikščio brolis su didele ka­
+    riauna įsiveržė į Nadruvos žemę, užėmė Romuvą, vy­
+    riausiąjį žynį su jo tarnais ir žyniais sudegino jų pačių
+    buveinėse, prie aukų altoriaus sugavo pabėgusį mozūrą
+    ir žiauriai nukankino.
+  citata_rodoma: "Nužudytojo kunigaikščio brolis su didele ka­\nriauna įsiveržė į Nadruvos žemę, užėmė Romuvą, vy­\nriausiąjį žynį su jo tarnais ir žyniais sudegino jų pačių \nbuveinėse, prie aukų altoriaus sugavo pabėgusį mozūrą \nir žiauriai nukankino."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005

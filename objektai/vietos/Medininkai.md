@@ -60,6 +60,18 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
   pagrindžia:
     - c-37543
 
+<a id="claim-t-206525"></a>
+- t-002
+  teiginys: "Keturkampės Medininkų pilies griuvėsių yra iki šiol."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189140
+
 ## Citatos
 
 - id: c-37543
@@ -79,6 +91,20 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-189140
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 333"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 333."
+  citata_originali: |
+    Keturkampės Medininkų pilies griuvėsių yra iki šiol.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Puolė Medininkai: [[objektai/grupes/Kryžiuočių ordinas]]

@@ -117,6 +117,32 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   pagrindžia:
     - c-184377
 
+<a id="claim-t-205384"></a>
+- t-006
+  teiginys: "Tai turėjo būti Algiman tas, Skirmanto anūkas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187667
+
+<a id="claim-t-205507"></a>
+- t-007
+  teiginys: "Netrukus, 1175 metais1 2, sa vo gyvenimą baigė ir Skirmantas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188056
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Lietuvos metraštis pasakoja, kad Skirmantas prašė Živinbudo pagalbos prieš rusus ir su Kukovaičiu išžygiavo prieš Lucko ir Pinsko kunigaikštį Mstislavą.'
@@ -316,6 +342,39 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
+
+- id: c-187667
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 336"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 336."
+  citata_originali: |
+    III. — S. 69— 70. Tai turėjo būti Algiman­
+    tas, Skirmanto anūkas*.
+  citata_rodoma: "Tai turėjo būti Algiman­\ntas, Skirmanto anūkas*."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
+- id: c-188056
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 230"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 230."
+  citata_originali: |
+    Skirmanto mirtis. Netrukus, 1175 metais1 2, sa­
+    vo gyvenimą baigė ir Skirmantas. Paliko1 jis trejetą sūnų:
+    Liubartą, Pisimantą ir Treniotą3.
+  citata_rodoma: "Netrukus, 1175 metais1 2, sa­\nvo gyvenimą baigė ir Skirmantas. Paliko1 jis trejetą sūnų: \nLiubartą, Pisimantą ir Treniotą3."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Pisimantas]]

@@ -416,8 +416,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
 - id: c-181365
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 327"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 327."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     “  Konflikto priežastis buvo ne tik A. Drošdšos ir Iljiničiaus
     byla, bet ir politiniai nesutarimai — J . Zaberezinskio ir kitų LDK
@@ -561,8 +560,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
 - id: c-181372
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 124"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 124."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Kai tik jis išgirdo, kad karalaitis Kazimieras pakel­
     tas didžiuoju kunigaikščiu, o Mykoliukas Zygimantailis
@@ -671,8 +669,7 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
 - id: c-181376
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 327"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 327."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     4 T  Iš Jono Zaberezinskio buvo atim ta n e  tik Trakų vaivados,
     bet laikinai ir krašto m aršalo vieta. Be to, jis drauge su Vilniaus
@@ -728,7 +725,8 @@ Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba 
 - id: c-186068
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 327"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 327."
   citata_originali: |
     4T Iš Jono Zaberezinskio buvo atimta n e tik Trakų vaivados,
     bet laikinai ir krašto maršalo vieta. Be to, jis drauge su Vilniaus

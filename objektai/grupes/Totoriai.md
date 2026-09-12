@@ -32,18 +32,19 @@ tags:
   - grupe
   - kraštas
   - tauta
-media_total_count: '0'
-media_primary_thumb_url: ''
-media_primary_canonical_url: ''
-media_primary_directness: ''
-media_primary_relation_type: ''
-media_primary_json: ''
+media_total_count: '9'
+media_primary_thumb_url: 'https://www.epaveldas.lt/static/vub-bucket/VUB01-000905618/thumbnail-original/VUB01-000905618_00001.jpg'
+media_primary_canonical_url: 'https://www.epaveldas.lt/preview?id=VUB01-000905618'
+media_primary_directness: 'contextual'
+media_primary_relation_type: 'manuscript_depiction_of'
+media_primary_json: |-
+  {"mediaId":"m-8406ebefb55bd10b15300c50","title":"„Zaczętego Roku nowego wzajemnie z serca winszuję, a z nim nowych i statecznych...“","caption":"Rankraštis, kuriame minimas totorius iš Bukantiškių.","originalTitle":"„Zaczętego Roku nowego wzajemnie z serca winszuję, a z nim nowych i statecznych...“","creator":"Ševaljė, Janas, 1732-1780, aut.","provider":"epaveldas","providerLabel":"Vilniaus universiteto biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1776 01 06.","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=VUB01-000905618","sourceUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000905618/original/VUB01-000905618_00001.jpg","thumbUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000905618/thumbnail-original/VUB01-000905618_00001.jpg","displayUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000905618/original/VUB01-000905618_00001.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.82},{"code":"etninė-grupė","label":"etninė-grupė","facetKind":"tema","confidence":0.82},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Totoriai.md","title":"Totoriai","itemType":"grupe","relationType":"manuscript_depiction_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:55:48.338671+03:00","reviewedAt":"2026-08-10T12:10:13.942564+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XVIII a. rankraštinis laiškas.","metadataEvidence":"Apraše aiškiai minima, kad dalis pinigų skirta „totoriui iš Bukantiškių“.","confidenceLevel":"medium","relationType":"manuscript_depiction_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Dokumentas aiškiai fiksuoja konkretų totorių, todėl yra pagrįstas kontekstinis ryšys su target grupe.","isPrimary":0}
 media_direct_json: |-
-  []
+  [{"mediaId":"m-29e6b4c924118b68b37317ec","title":"Lietuvos totorius karininkas (1813–1815)","caption":"Lietuvos totorių kavalerijos karininko figūra, vaizduojanti Napoleono I imperatoriškosios gvardijos karininką.","originalTitle":"Lietuvos totorius karininkas (1813–1815)","creator":"","provider":"epaveldas","providerLabel":"Trakų istorijos muziejus","license":"CC BY","rightsNote":"CC BY","licenseUrl":"","attribution":"","dateDisplay":"2014","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIMIS-930197478","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-930197478/original/get.jpg","thumbUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-930197478/thumbnail-original/get.jpg","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-930197478/original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"drabužis","label":"drabužis","facetKind":"tema","confidence":0.95},{"code":"etninė-grupė","label":"etninė-grupė","facetKind":"tema","confidence":0.95},{"code":"karyba","label":"karyba","facetKind":"tema","confidence":0.95},{"code":"karys","label":"karys","facetKind":"tema","confidence":0.95},{"code":"muziejaus-eksponatas","label":"muziejaus-eksponatas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"tauta","label":"tauta","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Totoriai.md","title":"Totoriai","itemType":"grupe","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-08-10T11:55:48.305775+03:00","reviewedAt":"2026-08-10T12:10:13.935360+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Aiškiai matoma balta glazūruota kario figūra su uniforma, galvos apdangalu ir karininko atributika.","metadataEvidence":"Pavadinimas ir aprašymas tiesiogiai nurodo Lietuvos totorių kavalerijos karininką.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis konkretaus totorių grupės nario istorinis atvaizdas.","isPrimary":1}]
 media_contextual_json: |-
-  []
+  [{"mediaId":"m-ef42654949dd5b58ca50c153","title":"7: Bartoniai, Kauno pavietas. 635, [LDK totorių bajoro Abrahimo Asanovičiaus skundas LDK Vyriausiajam tribunolui, kad Jurgis Kulvinskis neteisingai padavė jį į teismą dėl tėvo garantijos už Bartonių dvarą Kauno paviete]","caption":"1620 m. LDK totoriaus bajoro Abrahimo Asanovičiaus skundas","originalTitle":"7: Bartoniai, Kauno pavietas. 635, [LDK totorių bajoro Abrahimo Asanovičiaus skundas LDK Vyriausiajam tribunolui, kad Jurgis Kulvinskis neteisingai padavė jį į teismą dėl tėvo garantijos už Bartonių dvarą Kauno paviete]","creator":"","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1620.VII.31","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIBIS000001031701","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000001031701/original/0001-LIBIS000001031701.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000001031701/thumbnail-original/0001-LIBIS000001031701.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000001031701/original/0001-LIBIS000001031701.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"bajoras","label":"bajoras","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"teisinė-praktika","label":"teisinė-praktika","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Totoriai.md","title":"Totoriai","itemType":"grupe","relationType":"manuscript_depiction_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:55:48.729860+03:00","reviewedAt":"2026-08-10T13:26:57.661976+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XVII a. rankraštinis dokumentas su senąja rašysena.","metadataEvidence":"Pavadinime tiesiogiai nurodyta, kad tai LDK totoriaus bajoro Abrahimo Asanovičiaus skundas Vyriausiajam tribunolui, 1620 m.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai su totoriais susijęs pirminis istorinis dokumentas, todėl tinkamas kaip kontekstinis target atvaizdas.","isPrimary":0},{"mediaId":"m-e2a54e35d55dbc0798e5e191","title":"JARMALIŠKĖS (Jarmaliszki), Kijonys, Zasčiūnai, Zaščevičiai, Papiškės, Peteša, Rukainiai, Kena Zbrožkovščyzna, Bareikiškės (Boreykowszczyzna), Vociunai arba Šankopolė, Migūnai, Svironys, Dukeliai, Paliepiai, Juodiškės [et al.]; žr. taip pat II sk. Liepynai, Minkeliai, Udelas, Vilūniškės. 908, [Vilniaus konvento pranciškonų reikalavimų sąrašai byloje su kaimyninių valdų savininkais (Čižu (Czyż), Vilniaus arkidiakonija, kun. Bukatu, Vilniaus konventų bazilionais, jėzuitais, karmelitais, dominikonais, Nemėžio totoriais ir kt.) dėl Kijonių ir Jarmališkių valdų žemės ribų]","caption":"Rankraštinis dokumentas apie Vilniaus konvento ginčą su Nemėžio totoriais dėl valdų ribų.","originalTitle":"JARMALIŠKĖS (Jarmaliszki), Kijonys, Zasčiūnai, Zaščevičiai, Papiškės, Peteša, Rukainiai, Kena Zbrožkovščyzna, Bareikiškės (Boreykowszczyzna), Vociunai arba Šankopolė, Migūnai, Svironys, Dukeliai, Paliepiai, Juodiškės [et al.]; žr. taip pat II sk. Liepynai, Minkeliai, Udelas, Vilūniškės. 908, [Vilniaus konvento pranciškonų reikalavimų sąrašai byloje su kaimyninių valdų savininkais (Čižu (Czyż), Vilniaus arkidiakonija, kun. Bukatu, Vilniaus konventų bazilionais, jėzuitais, karmelitais, dominikonais, Nemėžio totoriais ir kt.) dėl Kijonių ir Jarmališkių valdų žemės ribų]","creator":"Pranciškonai, ordinas","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"[17--]","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIBIS000000606036","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000606036/original/0001-LIBIS000000606036.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000606036/thumbnail-original/0001-LIBIS000000606036.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000606036/original/0001-LIBIS000000606036.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"etninė-grupė","label":"etninė-grupė","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Totoriai.md","title":"Totoriai","itemType":"grupe","relationType":"event_documentation_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:55:48.576812+03:00","reviewedAt":"2026-08-10T12:10:13.957426+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas senas rankraštinis teisinio ar administracinio pobūdžio dokumentas; totorių asmenys ar jų atvaizdai nepavaizduoti.","metadataEvidence":"Pavadinime aiškiai nurodytas ginčas su Nemėžio totoriais dėl Jarmališkių ir Kijonių valdų žemės ribų.","confidenceLevel":"high","relationType":"event_documentation_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus dokumentinis ryšys su totoriais per konkrečiai įvardytus Nemėžio totorius.","isPrimary":0},{"mediaId":"m-37fc6cd2abca4e6d136801c9","title":"Rocznik Tatarski. T. 2","caption":"„Rocznik Tatarski“ antrojo tomo viršelis.","originalTitle":"Rocznik Tatarski. T. 2","creator":"","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1935","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIBIS000000925755","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000925755/original/0001-LIBIS000000925755.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000925755/thumbnail-original/0001-LIBIS000000925755.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000925755/original/0001-LIBIS000000925755.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"etninė-grupė","label":"etninė-grupė","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"periodika","label":"periodika","facetKind":"tema","confidence":0.95},{"code":"tauta","label":"tauta","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Totoriai.md","title":"Totoriai","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:55:48.288495+03:00","reviewedAt":"2026-08-10T12:10:13.919766+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Viršelyje įskaitomi žodžiai „ROCZNIK TATARSKI“ ir „TATARSKI“, matoma totorių kario iliustracija.","metadataEvidence":"Metaduomenyse nurodyta „Rocznik Tatarski. T. 2“, 1935 m. leidinys.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Leidinys ir jo viršelio ikonografija aiškiai susiję su totoriais.","isPrimary":0},{"mediaId":"m-cb41d3aaac270c3dbfe1339a","title":"Rocznik Tatarski. T. 3, Tatarzy litewscy. Les tatares Lithuaniens : próba monografii historyczno-etnograficznej","caption":"1938 m. leidinio apie Lietuvos totorius viršelis.","originalTitle":"Rocznik Tatarski. T. 3, Tatarzy litewscy. Les tatares Lithuaniens : próba monografii historyczno-etnograficznej","creator":"Kričinskis, Stanislovas (1911-05-03 - 1941-11-02)","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1938","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIBIS000000932857","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000932857/original/0001-LIBIS000000932857.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000932857/thumbnail-original/0001-LIBIS000000932857.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000932857/original/0001-LIBIS000000932857.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"lietuvos-etnografija","label":"Lietuvos etnografija","facetKind":"tema","confidence":0.95},{"code":"etninė-grupė","label":"etninė-grupė","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"periodika","label":"periodika","facetKind":"tema","confidence":0.95},{"code":"tauta","label":"tauta","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Totoriai.md","title":"Totoriai","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:55:48.285626+03:00","reviewedAt":"2026-08-10T12:10:13.912846+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas viršelis su tekstais „Tatarzy litewscy“ ir „Les tatares Lithuaniens“, taip pat leidimo metais 1938.","metadataEvidence":"Metaduomenyse nurodytas visas leidinio pavadinimas „Tatarzy litewscy“ ir autorius Stanislovas Kričinskis.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai identifikuoja leidinį apie Lietuvos totorius, todėl yra aiškus kontekstinis target ryšys.","isPrimary":0},{"mediaId":"m-ad063ed6086036c8fe5025e5","title":"„Kopia Listu JW [...] Pana Hetmana WX do Jo msci Pana Municha Felt Marszałka Woysk Rossyiszkich...\".","caption":"XVIII a. dokumentų rinkinys apie lenkų ir Rusijos–Turkijos karo santykius bei totorių sultoną.","originalTitle":"„Kopia Listu JW [...] Pana Hetmana WX do Jo msci Pana Municha Felt Marszałka Woysk Rossyiszkich...\".","creator":"","provider":"epaveldas","providerLabel":"Vilniaus universiteto biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1739.","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=VUB01-000726018","sourceUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000726018/original/VUB01-000726018_00001.jpg","thumbUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000726018/thumbnail-original/VUB01-000726018_00001.jpg","displayUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000726018/original/VUB01-000726018_00001.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"diplomatinis-įvykis","label":"diplomatinis-įvykis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"etninė-grupė","label":"etninė-grupė","facetKind":"tema","confidence":0.95},{"code":"karas","label":"karas","facetKind":"tema","confidence":0.95},{"code":"politinė-grupė","label":"politinė-grupė","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Totoriai.md","title":"Totoriai","itemType":"grupe","relationType":"event_documentation_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:55:48.268238+03:00","reviewedAt":"2026-08-10T12:10:13.874431+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XVIII a. rankraštinis dokumentų rinkinys lenkų kalba; atvaizdo ar simbolio nėra.","metadataEvidence":"Apraše tiesiogiai minimas laiškas totorių sultonui ir „Isłam Gerey“ dokumentas.","confidenceLevel":"high","relationType":"event_documentation_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Dokumentinis ryšys su totoriais aiškus, bet tai nėra tiesioginis grupės atvaizdas.","isPrimary":0},{"mediaId":"m-ccb1e5c34fd4a5c32b28f7db","title":"„Plac, na którym dziś...\"","caption":"Rankraštis apie Vilniaus istoriją, kuriame aprašomi totorių antplūdžiai.","originalTitle":"„Plac, na którym dziś...\"","creator":"","provider":"epaveldas","providerLabel":"Vilniaus universiteto biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"[XIX a.].","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=VUB01-000726047","sourceUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000726047/original/VUB01-000726047_00001.jpg","thumbUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000726047/thumbnail-original/VUB01-000726047_00001.jpg","displayUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000726047/original/VUB01-000726047_00001.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"etninė-grupė","label":"etninė-grupė","facetKind":"tema","confidence":0.95},{"code":"invazija","label":"invazija","facetKind":"tema","confidence":0.95},{"code":"istorinė-sąvoka","label":"istorinė-sąvoka","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Totoriai.md","title":"Totoriai","itemType":"grupe","relationType":"manuscript_depiction_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:55:48.267362+03:00","reviewedAt":"2026-08-10T12:10:13.861333+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XIX a. tankiai prirašytas istorinio turinio rankraštis lenkų kalba; žmonių ar totorių atvaizdo nėra.","metadataEvidence":"Aprašyme tiesiogiai nurodyta, kad pasakojama apie totorių antplūdžius ir Vilniaus istoriją.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tekstinis istorinis kontekstas, tačiau ne tiesioginis totorių atvaizdas.","isPrimary":0},{"mediaId":"m-64ff3526fc4fd7d56a363d03","title":"Rocznik Tatarski. T. 1","caption":"„Rocznik Tatarski“ pirmojo tomo įrištas viršelis.","originalTitle":"Rocznik Tatarski. T. 1","creator":"","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1932","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIBIS000000848466","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000848466/original/0001-LIBIS000000848466.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000848466/thumbnail-original/0001-LIBIS000000848466.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000848466/original/0001-LIBIS000000848466.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"etninė-grupė","label":"etninė-grupė","facetKind":"tema","confidence":0.82},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.82},{"code":"periodika","label":"periodika","facetKind":"tema","confidence":0.82},{"code":"tauta","label":"tauta","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Totoriai.md","title":"Totoriai","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:55:48.291810+03:00","reviewedAt":"2026-08-10T12:10:13.928245+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas įrišto leidinio viršelis su totoriams nebūdinga, tačiau istorinėje knygos medžiagoje esančia tamsia apdaila; aiškaus teksto nėra.","metadataEvidence":"Metaduomenyse nurodyta „Rocznik Tatarski. T. 1“, 1932 m., Lietuvos nacionalinės Martyno Mažvydo bibliotekos įrašas.","confidenceLevel":"medium","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Metaduomenys aiškiai identifikuoja leidinį apie totorius, tačiau pats pateiktas viršelio vaizdas neturi matomo pavadinimo.","isPrimary":0},{"mediaId":"m-8406ebefb55bd10b15300c50","title":"„Zaczętego Roku nowego wzajemnie z serca winszuję, a z nim nowych i statecznych...“","caption":"Rankraštis, kuriame minimas totorius iš Bukantiškių.","originalTitle":"„Zaczętego Roku nowego wzajemnie z serca winszuję, a z nim nowych i statecznych...“","creator":"Ševaljė, Janas, 1732-1780, aut.","provider":"epaveldas","providerLabel":"Vilniaus universiteto biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1776 01 06.","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=VUB01-000905618","sourceUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000905618/original/VUB01-000905618_00001.jpg","thumbUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000905618/thumbnail-original/VUB01-000905618_00001.jpg","displayUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000905618/original/VUB01-000905618_00001.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.82},{"code":"etninė-grupė","label":"etninė-grupė","facetKind":"tema","confidence":0.82},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Totoriai.md","title":"Totoriai","itemType":"grupe","relationType":"manuscript_depiction_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:55:48.338671+03:00","reviewedAt":"2026-08-10T12:10:13.942564+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XVIII a. rankraštinis laiškas.","metadataEvidence":"Apraše aiškiai minima, kad dalis pinigų skirta „totoriui iš Bukantiškių“.","confidenceLevel":"medium","relationType":"manuscript_depiction_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Dokumentas aiškiai fiksuoja konkretų totorių, todėl yra pagrįstas kontekstinis ryšys su target grupe.","isPrimary":0}]
 media_all_json: |-
-  []
+  [{"mediaId":"m-29e6b4c924118b68b37317ec","title":"Lietuvos totorius karininkas (1813–1815)","caption":"Lietuvos totorių kavalerijos karininko figūra, vaizduojanti Napoleono I imperatoriškosios gvardijos karininką.","originalTitle":"Lietuvos totorius karininkas (1813–1815)","creator":"","provider":"epaveldas","providerLabel":"Trakų istorijos muziejus","license":"CC BY","rightsNote":"CC BY","licenseUrl":"","attribution":"","dateDisplay":"2014","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIMIS-930197478","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-930197478/original/get.jpg","thumbUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-930197478/thumbnail-original/get.jpg","displayUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-930197478/original/get.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"drabužis","label":"drabužis","facetKind":"tema","confidence":0.95},{"code":"etninė-grupė","label":"etninė-grupė","facetKind":"tema","confidence":0.95},{"code":"karyba","label":"karyba","facetKind":"tema","confidence":0.95},{"code":"karys","label":"karys","facetKind":"tema","confidence":0.95},{"code":"muziejaus-eksponatas","label":"muziejaus-eksponatas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"tauta","label":"tauta","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Totoriai.md","title":"Totoriai","itemType":"grupe","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-08-10T11:55:48.305775+03:00","reviewedAt":"2026-08-10T12:10:13.935360+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Aiškiai matoma balta glazūruota kario figūra su uniforma, galvos apdangalu ir karininko atributika.","metadataEvidence":"Pavadinimas ir aprašymas tiesiogiai nurodo Lietuvos totorių kavalerijos karininką.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai tiesioginis konkretaus totorių grupės nario istorinis atvaizdas.","isPrimary":1},{"mediaId":"m-ef42654949dd5b58ca50c153","title":"7: Bartoniai, Kauno pavietas. 635, [LDK totorių bajoro Abrahimo Asanovičiaus skundas LDK Vyriausiajam tribunolui, kad Jurgis Kulvinskis neteisingai padavė jį į teismą dėl tėvo garantijos už Bartonių dvarą Kauno paviete]","caption":"1620 m. LDK totoriaus bajoro Abrahimo Asanovičiaus skundas","originalTitle":"7: Bartoniai, Kauno pavietas. 635, [LDK totorių bajoro Abrahimo Asanovičiaus skundas LDK Vyriausiajam tribunolui, kad Jurgis Kulvinskis neteisingai padavė jį į teismą dėl tėvo garantijos už Bartonių dvarą Kauno paviete]","creator":"","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1620.VII.31","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIBIS000001031701","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000001031701/original/0001-LIBIS000001031701.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000001031701/thumbnail-original/0001-LIBIS000001031701.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000001031701/original/0001-LIBIS000001031701.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"bajoras","label":"bajoras","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"teisinė-praktika","label":"teisinė-praktika","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Totoriai.md","title":"Totoriai","itemType":"grupe","relationType":"manuscript_depiction_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:55:48.729860+03:00","reviewedAt":"2026-08-10T13:26:57.661976+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XVII a. rankraštinis dokumentas su senąja rašysena.","metadataEvidence":"Pavadinime tiesiogiai nurodyta, kad tai LDK totoriaus bajoro Abrahimo Asanovičiaus skundas Vyriausiajam tribunolui, 1620 m.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai su totoriais susijęs pirminis istorinis dokumentas, todėl tinkamas kaip kontekstinis target atvaizdas.","isPrimary":0},{"mediaId":"m-e2a54e35d55dbc0798e5e191","title":"JARMALIŠKĖS (Jarmaliszki), Kijonys, Zasčiūnai, Zaščevičiai, Papiškės, Peteša, Rukainiai, Kena Zbrožkovščyzna, Bareikiškės (Boreykowszczyzna), Vociunai arba Šankopolė, Migūnai, Svironys, Dukeliai, Paliepiai, Juodiškės [et al.]; žr. taip pat II sk. Liepynai, Minkeliai, Udelas, Vilūniškės. 908, [Vilniaus konvento pranciškonų reikalavimų sąrašai byloje su kaimyninių valdų savininkais (Čižu (Czyż), Vilniaus arkidiakonija, kun. Bukatu, Vilniaus konventų bazilionais, jėzuitais, karmelitais, dominikonais, Nemėžio totoriais ir kt.) dėl Kijonių ir Jarmališkių valdų žemės ribų]","caption":"Rankraštinis dokumentas apie Vilniaus konvento ginčą su Nemėžio totoriais dėl valdų ribų.","originalTitle":"JARMALIŠKĖS (Jarmaliszki), Kijonys, Zasčiūnai, Zaščevičiai, Papiškės, Peteša, Rukainiai, Kena Zbrožkovščyzna, Bareikiškės (Boreykowszczyzna), Vociunai arba Šankopolė, Migūnai, Svironys, Dukeliai, Paliepiai, Juodiškės [et al.]; žr. taip pat II sk. Liepynai, Minkeliai, Udelas, Vilūniškės. 908, [Vilniaus konvento pranciškonų reikalavimų sąrašai byloje su kaimyninių valdų savininkais (Čižu (Czyż), Vilniaus arkidiakonija, kun. Bukatu, Vilniaus konventų bazilionais, jėzuitais, karmelitais, dominikonais, Nemėžio totoriais ir kt.) dėl Kijonių ir Jarmališkių valdų žemės ribų]","creator":"Pranciškonai, ordinas","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"[17--]","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIBIS000000606036","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000606036/original/0001-LIBIS000000606036.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000606036/thumbnail-original/0001-LIBIS000000606036.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000606036/original/0001-LIBIS000000606036.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"etninė-grupė","label":"etninė-grupė","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Totoriai.md","title":"Totoriai","itemType":"grupe","relationType":"event_documentation_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:55:48.576812+03:00","reviewedAt":"2026-08-10T12:10:13.957426+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas senas rankraštinis teisinio ar administracinio pobūdžio dokumentas; totorių asmenys ar jų atvaizdai nepavaizduoti.","metadataEvidence":"Pavadinime aiškiai nurodytas ginčas su Nemėžio totoriais dėl Jarmališkių ir Kijonių valdų žemės ribų.","confidenceLevel":"high","relationType":"event_documentation_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus dokumentinis ryšys su totoriais per konkrečiai įvardytus Nemėžio totorius.","isPrimary":0},{"mediaId":"m-37fc6cd2abca4e6d136801c9","title":"Rocznik Tatarski. T. 2","caption":"„Rocznik Tatarski“ antrojo tomo viršelis.","originalTitle":"Rocznik Tatarski. T. 2","creator":"","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1935","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIBIS000000925755","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000925755/original/0001-LIBIS000000925755.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000925755/thumbnail-original/0001-LIBIS000000925755.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000925755/original/0001-LIBIS000000925755.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"etninė-grupė","label":"etninė-grupė","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"periodika","label":"periodika","facetKind":"tema","confidence":0.95},{"code":"tauta","label":"tauta","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Totoriai.md","title":"Totoriai","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:55:48.288495+03:00","reviewedAt":"2026-08-10T12:10:13.919766+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Viršelyje įskaitomi žodžiai „ROCZNIK TATARSKI“ ir „TATARSKI“, matoma totorių kario iliustracija.","metadataEvidence":"Metaduomenyse nurodyta „Rocznik Tatarski. T. 2“, 1935 m. leidinys.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Leidinys ir jo viršelio ikonografija aiškiai susiję su totoriais.","isPrimary":0},{"mediaId":"m-cb41d3aaac270c3dbfe1339a","title":"Rocznik Tatarski. T. 3, Tatarzy litewscy. Les tatares Lithuaniens : próba monografii historyczno-etnograficznej","caption":"1938 m. leidinio apie Lietuvos totorius viršelis.","originalTitle":"Rocznik Tatarski. T. 3, Tatarzy litewscy. Les tatares Lithuaniens : próba monografii historyczno-etnograficznej","creator":"Kričinskis, Stanislovas (1911-05-03 - 1941-11-02)","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1938","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIBIS000000932857","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000932857/original/0001-LIBIS000000932857.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000932857/thumbnail-original/0001-LIBIS000000932857.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000932857/original/0001-LIBIS000000932857.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"lietuvos-etnografija","label":"Lietuvos etnografija","facetKind":"tema","confidence":0.95},{"code":"etninė-grupė","label":"etninė-grupė","facetKind":"tema","confidence":0.95},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.95},{"code":"periodika","label":"periodika","facetKind":"tema","confidence":0.95},{"code":"tauta","label":"tauta","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Totoriai.md","title":"Totoriai","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:55:48.285626+03:00","reviewedAt":"2026-08-10T12:10:13.912846+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas viršelis su tekstais „Tatarzy litewscy“ ir „Les tatares Lithuaniens“, taip pat leidimo metais 1938.","metadataEvidence":"Metaduomenyse nurodytas visas leidinio pavadinimas „Tatarzy litewscy“ ir autorius Stanislovas Kričinskis.","confidenceLevel":"high","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai identifikuoja leidinį apie Lietuvos totorius, todėl yra aiškus kontekstinis target ryšys.","isPrimary":0},{"mediaId":"m-ad063ed6086036c8fe5025e5","title":"„Kopia Listu JW [...] Pana Hetmana WX do Jo msci Pana Municha Felt Marszałka Woysk Rossyiszkich...\".","caption":"XVIII a. dokumentų rinkinys apie lenkų ir Rusijos–Turkijos karo santykius bei totorių sultoną.","originalTitle":"„Kopia Listu JW [...] Pana Hetmana WX do Jo msci Pana Municha Felt Marszałka Woysk Rossyiszkich...\".","creator":"","provider":"epaveldas","providerLabel":"Vilniaus universiteto biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1739.","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=VUB01-000726018","sourceUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000726018/original/VUB01-000726018_00001.jpg","thumbUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000726018/thumbnail-original/VUB01-000726018_00001.jpg","displayUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000726018/original/VUB01-000726018_00001.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"diplomatinis-įvykis","label":"diplomatinis-įvykis","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"etninė-grupė","label":"etninė-grupė","facetKind":"tema","confidence":0.95},{"code":"karas","label":"karas","facetKind":"tema","confidence":0.95},{"code":"politinė-grupė","label":"politinė-grupė","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Totoriai.md","title":"Totoriai","itemType":"grupe","relationType":"event_documentation_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:55:48.268238+03:00","reviewedAt":"2026-08-10T12:10:13.874431+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XVIII a. rankraštinis dokumentų rinkinys lenkų kalba; atvaizdo ar simbolio nėra.","metadataEvidence":"Apraše tiesiogiai minimas laiškas totorių sultonui ir „Isłam Gerey“ dokumentas.","confidenceLevel":"high","relationType":"event_documentation_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Dokumentinis ryšys su totoriais aiškus, bet tai nėra tiesioginis grupės atvaizdas.","isPrimary":0},{"mediaId":"m-ccb1e5c34fd4a5c32b28f7db","title":"„Plac, na którym dziś...\"","caption":"Rankraštis apie Vilniaus istoriją, kuriame aprašomi totorių antplūdžiai.","originalTitle":"„Plac, na którym dziś...\"","creator":"","provider":"epaveldas","providerLabel":"Vilniaus universiteto biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"[XIX a.].","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=VUB01-000726047","sourceUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000726047/original/VUB01-000726047_00001.jpg","thumbUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000726047/thumbnail-original/VUB01-000726047_00001.jpg","displayUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000726047/original/VUB01-000726047_00001.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"etninė-grupė","label":"etninė-grupė","facetKind":"tema","confidence":0.95},{"code":"invazija","label":"invazija","facetKind":"tema","confidence":0.95},{"code":"istorinė-sąvoka","label":"istorinė-sąvoka","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Totoriai.md","title":"Totoriai","itemType":"grupe","relationType":"manuscript_depiction_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:55:48.267362+03:00","reviewedAt":"2026-08-10T12:10:13.861333+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XIX a. tankiai prirašytas istorinio turinio rankraštis lenkų kalba; žmonių ar totorių atvaizdo nėra.","metadataEvidence":"Aprašyme tiesiogiai nurodyta, kad pasakojama apie totorių antplūdžius ir Vilniaus istoriją.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Aiškus tekstinis istorinis kontekstas, tačiau ne tiesioginis totorių atvaizdas.","isPrimary":0},{"mediaId":"m-64ff3526fc4fd7d56a363d03","title":"Rocznik Tatarski. T. 1","caption":"„Rocznik Tatarski“ pirmojo tomo įrištas viršelis.","originalTitle":"Rocznik Tatarski. T. 1","creator":"","provider":"epaveldas","providerLabel":"Lietuvos nacionalinė Martyno Mažvydo biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1932","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=LIBIS000000848466","sourceUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000848466/original/0001-LIBIS000000848466.jpg","thumbUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000848466/thumbnail-original/0001-LIBIS000000848466.jpg","displayUrl":"https://www.epaveldas.lt/static/lnb-bucket/LIBIS000000848466/original/0001-LIBIS000000848466.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"etninė-grupė","label":"etninė-grupė","facetKind":"tema","confidence":0.82},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.82},{"code":"periodika","label":"periodika","facetKind":"tema","confidence":0.82},{"code":"tauta","label":"tauta","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Totoriai.md","title":"Totoriai","itemType":"grupe","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:55:48.291810+03:00","reviewedAt":"2026-08-10T12:10:13.928245+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas įrišto leidinio viršelis su totoriams nebūdinga, tačiau istorinėje knygos medžiagoje esančia tamsia apdaila; aiškaus teksto nėra.","metadataEvidence":"Metaduomenyse nurodyta „Rocznik Tatarski. T. 1“, 1932 m., Lietuvos nacionalinės Martyno Mažvydo bibliotekos įrašas.","confidenceLevel":"medium","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Metaduomenys aiškiai identifikuoja leidinį apie totorius, tačiau pats pateiktas viršelio vaizdas neturi matomo pavadinimo.","isPrimary":0},{"mediaId":"m-8406ebefb55bd10b15300c50","title":"„Zaczętego Roku nowego wzajemnie z serca winszuję, a z nim nowych i statecznych...“","caption":"Rankraštis, kuriame minimas totorius iš Bukantiškių.","originalTitle":"„Zaczętego Roku nowego wzajemnie z serca winszuję, a z nim nowych i statecznych...“","creator":"Ševaljė, Janas, 1732-1780, aut.","provider":"epaveldas","providerLabel":"Vilniaus universiteto biblioteka","license":"PD","rightsNote":"PD","licenseUrl":"","attribution":"","dateDisplay":"1776 01 06.","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.epaveldas.lt/preview?id=VUB01-000905618","sourceUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000905618/original/VUB01-000905618_00001.jpg","thumbUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000905618/thumbnail-original/VUB01-000905618_00001.jpg","displayUrl":"https://www.epaveldas.lt/static/vub-bucket/VUB01-000905618/original/VUB01-000905618_00001.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"archyvinis-šaltinis","label":"archyvinis-šaltinis","facetKind":"tema","confidence":0.82},{"code":"etninė-grupė","label":"etninė-grupė","facetKind":"tema","confidence":0.82},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.82}],"sourceTags":[],"relatedObjects":[{"notePath":"objektai/grupes/Totoriai.md","title":"Totoriai","itemType":"grupe","relationType":"manuscript_depiction_of","directness":"contextual"}],"firstDiscoveredAt":"2026-08-10T11:55:48.338671+03:00","reviewedAt":"2026-08-10T12:10:13.942564+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas XVIII a. rankraštinis laiškas.","metadataEvidence":"Apraše aiškiai minima, kad dalis pinigų skirta „totoriui iš Bukantiškių“.","confidenceLevel":"medium","relationType":"manuscript_depiction_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Dokumentas aiškiai fiksuoja konkretų totorių, todėl yra pagrįstas kontekstinis ryšys su target grupe.","isPrimary":0}]
 ---
 # Totoriai
 
@@ -172,8 +173,28 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   pagrindžia:
     - c-155949
 
-<a id="claim-t-171402"></a>
+<a id="claim-t-171400"></a>
 - t-007
+  teiginys: "Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, siųsdavo jam turtingomis dovanomis apkrautus kupranugarius."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totoriai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=36"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totoriai\" parinktas kaip owner_note_path. Targetas \"Vytautas (Lietuvos valdovas, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1420 m.; įvykio data: 1422 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-155954
+    - c-181501
+
+<a id="claim-t-171402"></a>
+- t-008
   teiginys: "Švitrigaila į Lietuvą kreipė įvairias totorių ir rusų ordas, siekdamas atimti valdžią iš Žygimanto."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -192,7 +213,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-186076
 
 <a id="claim-t-171404"></a>
-- t-008
+- t-009
   teiginys: "Totoriai kartu su Livonijos ordinu trukdė taikų Vytauto darbą."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -212,7 +233,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-36951
 
 <a id="claim-t-171405"></a>
-- t-009
+- t-010
   teiginys: "1279 m. totoriai sąjungoje su Volinijos Levu apiplėšė Lietuvą."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -233,7 +254,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-155987
 
 <a id="claim-t-171406"></a>
-- t-010
+- t-011
   teiginys: "LDK turėjo totorių musulmonų bendruomenę, kurios iki unijos su Lenkija Lenkijoje nebuvo."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -251,7 +272,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181470
 
 <a id="claim-t-171407"></a>
-- t-011
+- t-012
   teiginys: "Totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną, Henriką Vroclavietį ir daugybę kitų žmonių, o šias šalis pavertė dykromis."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -268,7 +289,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-155965
 
 <a id="claim-t-171408"></a>
-- t-012
+- t-013
   teiginys: "1202 m. prasidėjo totorių viešpatavimas."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -281,7 +302,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-155958
 
 <a id="claim-t-171411"></a>
-- t-013
+- t-014
   teiginys: "Vytautas Vilniuje ne kartą skelbdavo totorių kunigaikščius chanais arba carais."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -302,7 +323,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-186074
 
 <a id="claim-t-171412"></a>
-- t-014
+- t-015
   teiginys: "Be Vokiečių ordino, taikų Vytauto darbą trukdė totoriai, Livonijos ordinas ir kiti priešininkai."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -323,7 +344,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-36951
 
 <a id="claim-t-171414"></a>
-- t-015
+- t-016
   teiginys: "Vytautas po pergalių prieš totorius savo sostinėje ne kartą skelbdavo totorių kunigaikštį chanu arba caru."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -344,7 +365,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181464
 
 <a id="claim-t-171415"></a>
-- t-016
+- t-017
   teiginys: "Švitrigaila kėsinosi atimti iš Žygimanto valdžią ir į Lietuvą kreipė įvairias totorių bei rusų ordas."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -363,7 +384,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-186078
 
 <a id="claim-t-171418"></a>
-- t-017
+- t-018
   teiginys: "Totoriai, įsigalėję Rusijoje, pradėjo tarpusavyje vaidytis, o Lietuva iš šių vaidų ne kartą pasipelnydavo."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -381,7 +402,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181489
 
 <a id="claim-t-171419"></a>
-- t-018
+- t-019
   teiginys: "Didžiojoje Kunigaikštystėje gyvenę rusai ir totoriai, įsigiję nuosavybę, atsisakydavo mokėti dešimtinę, pelno mokestį ir kitas duokles dvasininkams."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -398,7 +419,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-155949
 
 <a id="claim-t-171421"></a>
-- t-019
+- t-020
   teiginys: "Vytautas, tarpininkaujant Tochtamyšui, ketino nukariauti totorius ir perimti kovotojo su netikinčiais šlovę."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -416,7 +437,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-186075
 
 <a id="claim-t-171422"></a>
-- t-020
+- t-021
   teiginys: "Vytauto laikais totorių valstybė išgyveno krizę: Orda buvo suskilusi, o atskiri saarai nuolat kariavo."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -433,7 +454,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-14992
 
 <a id="claim-t-171423"></a>
-- t-021
+- t-022
   teiginys: "Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -451,7 +472,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181492
 
 <a id="claim-t-171424"></a>
-- t-022
+- t-023
   teiginys: "Petro Dusburgiečio kryžiaus žygių istorijoje pritariama popiežiaus kurijos pastangoms suartėti su totoriais-mongolais."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -472,7 +493,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-155969
 
 <a id="claim-t-171427"></a>
-- t-023
+- t-024
   teiginys: "Vytauto politikoje svarbi buvo kova rytuose su rusų kunigaikščiais ir totoriais."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -490,7 +511,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-186077
 
 <a id="claim-t-171428"></a>
-- t-024
+- t-025
   teiginys: "Lietuvos didysis kunigaikštis Vytautas LDK apgyvendino ryškias musulmonų totorių ir karaimų bendruomenes."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -508,7 +529,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181460
 
 <a id="claim-t-171429"></a>
-- t-025
+- t-026
   teiginys: "Andrius kartu su Dmitrijumi Doniečiu kovojo prieš totorius ir prisidėjo prie pergalės Kulikovo lauke."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -526,7 +547,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181474
 
 <a id="claim-t-171430"></a>
-- t-026
+- t-027
   teiginys: "Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, siųsdavo į Vilnių kupranugarius su turtingomis dovanomis."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -547,7 +568,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-155954
 
 <a id="claim-t-171432"></a>
-- t-027
+- t-028
   teiginys: "Po Žalgirio mūšio Vakaruose sklido paskviliai, kad Jogailos ir Vytauto pergalė buvusi „netikra“, nes jie pasitelkė totorius musulmonus."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -565,7 +586,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181503
 
 <a id="claim-t-171433"></a>
-- t-028
+- t-029
   teiginys: "Vytauto Lietuvoje įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir keliuose pavietuose."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -585,7 +606,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-155980
 
 <a id="claim-t-171434"></a>
-- t-029
+- t-030
   teiginys: "Seniau totoriai vertėsi audinių ir siūlų prekyba."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -602,7 +623,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181461
 
 <a id="claim-t-171435"></a>
-- t-030
+- t-031
   teiginys: "Iki unijos su Lenkija LDK turėjo totorių musulmonų bendruomenę, kurios Lenkijoje iki tol nebuvo."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -620,7 +641,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181497
 
 <a id="claim-t-171437"></a>
-- t-031
+- t-032
   teiginys: "Edygos vadovaujami totoriai 1414–1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, apgriaudami Kijevą ir Lucką."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -641,7 +662,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-21433
 
 <a id="claim-t-171441"></a>
-- t-032
+- t-033
   teiginys: "Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -660,9 +681,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181477
 
 <a id="claim-t-171443"></a>
-- t-033
+- t-034
   teiginys: "1326 m. Vengrijos karalius nukovė 30 tūkstančių totorių, kurių kariuomenė siaubė jo karalystę."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Vengrija: 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -678,9 +699,10 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
   pagrindžia:
     - c-155978
+    - c-181481
 
 <a id="claim-t-171444"></a>
-- t-034
+- t-035
   teiginys: "Vytautas užmezgė draugiškus ryšius su totorių chanu ir susitarė dėl taikos."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -697,7 +719,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-155966
 
 <a id="claim-t-171445"></a>
-- t-035
+- t-036
   teiginys: "Totoriai, užėmę lietuvių stovyklą, paėmė jų gurguoles bei turtus ir ėmė niokoti kraštą."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -716,7 +738,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181475
 
 <a id="claim-t-171446"></a>
-- t-036
+- t-037
   teiginys: "Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir kitomis dorybėmis."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -734,7 +756,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181492
 
 <a id="claim-t-171447"></a>
-- t-037
+- t-038
   teiginys: "Didieji kunigaikščiai labiau pasitikėjo karaimais ir totoriais, tapusiais artimosios sargybos tautomis."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -751,7 +773,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-155974
 
 <a id="claim-t-183905"></a>
-- t-038
+- t-039
   teiginys: "Totoriai nuniokojo Vengriją ir Lenkiją."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -770,7 +792,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-155956
 
 <a id="claim-t-187746"></a>
-- t-039
+- t-040
   teiginys: "Lietuvos metraštyje totorių chanas su sutelktomis ordomis patraukė į Rusų žemę ir, pasak kronikos, padarė jai daug žalos."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -790,7 +812,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181471
 
 <a id="claim-t-187747"></a>
-- t-040
+- t-041
   teiginys: "Lietuvos metraštis teigia, kad Dievui padėjus totoriai sumušė Vytautą ir jo kariuomenę, o Vytautas su nedideliu būriu pabėgo."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -810,7 +832,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181457
 
 <a id="claim-t-187748"></a>
-- t-041
+- t-042
   teiginys: "Vytautas į karą su Prūsijos vokiečiais sutelkė Lietuvos ir Rusios pajėgas bei daug Ordos totorių."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -830,7 +852,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181491
 
 <a id="claim-t-187750"></a>
-- t-042
+- t-043
   teiginys: "Prie Klecko už Lanės upės stovėjo mūšiui pasirengę totorių pulkai."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -850,7 +872,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181479
 
 <a id="claim-t-187751"></a>
-- t-043
+- t-044
   teiginys: "Totoriai puolė per upę besikeliančių lietuvių dešinįjį sparną ir nukovė daug jo karių."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -871,7 +893,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181473
 
 <a id="claim-t-192476"></a>
-- t-044
+- t-045
   teiginys: "Narbutas rašo, kad totorių puldinėjimai tuo metu palietė Lenkiją ir Polesę nuo Bugo."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -892,7 +914,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-175270
 
 <a id="claim-t-193131"></a>
-- t-045
+- t-046
   teiginys: "Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus totoriams, prekyba su pietiniais kraštais visai nutrūko."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -904,7 +926,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-175889
 
 <a id="claim-t-193132"></a>
-- t-046
+- t-047
   teiginys: "Totorių pavergta Rusija buvo suskilusi į daugybę kunigaikštysčių, todėl nesunku buvo jas paimti į savo valdžią."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -916,7 +938,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-175890
 
 <a id="claim-t-193845"></a>
-- t-047
+- t-048
   teiginys: "Tuo pačiu metu stepėje, dvylika mylių nuo Braclavo, lietuviai sumušė kelis šimtus totorių."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -928,7 +950,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-176489
 
 <a id="claim-t-194371"></a>
-- t-048
+- t-049
   teiginys: "Apie Vengrijos ir Lenkijos nusiaubimą Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -940,7 +962,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-155956
 
 <a id="claim-t-199081"></a>
-- t-049
+- t-050
   teiginys: "Totorių raiteliai vesdavosi po tris atsarginius žirgus, todėl galėdavo judėti labai sparčiai ir pasiekti netikėtumo efektą."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -951,9 +973,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-186072
 
 <a id="claim-t-199085"></a>
-- t-050
+- t-051
   teiginys: "Algirdo reikalavimuose siūlyta iškelti kryžiuočius į rytų stepes ginti Europos šalių nuo totorių."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra aiškus, užbaigtas ir pagrįstas citata."
   susije_objektai: "mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Prieglius"
@@ -963,7 +985,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181458
 
 <a id="claim-t-199086"></a>
-- t-051
+- t-052
   teiginys: "Lietuva tuo metu turėjo keturis pagrindinius priešus: Prūsijos-Livonijos vokiečių ordiną, Maskvą, totorius ir Lenkiją."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -982,7 +1004,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-186073
 
 <a id="claim-t-199114"></a>
-- t-052
+- t-053
   teiginys: "Kova rytuose su rusų kunigaikščiais ir totoriais buvo viena iš Vytauto politikos krypčių."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -999,8 +1021,22 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   pagrindžia:
     - c-181493
 
+<a id="claim-t-199117"></a>
+- t-054
+  teiginys: "Apie 1506 m. liepos 20–22 d. totoriai pasirinko stovyklavietę prie Klecko, patogią išpuoliams į Pinską, Vilnių, Nesvyžių ir Slucką."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_place: Nesvyžius; mentioned_place: Sluckas; mentioned_place: Dniepras; mentioned_place: Lojevas; mentioned_place: Mozyrius; llm_object: Nesvyžius; llm_object: Sluckas"
+  semantiniai_rysiai: "[[objektai/grupes/Totoriai|Totoriai]] puolė Nesvyžius; [[objektai/grupes/Totoriai|Totoriai]] puolė Sluckas"
+  temporaliniai_duomenys: "įvykio data: 1503 m.; įvykio data: 1506 m.; įvykio data: apie 1506 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-42958
+
 <a id="claim-t-199124"></a>
-- t-053
+- t-055
   teiginys: "Pagrindinėje stovyklavietėje buvę totoriai jau tą pačią dieną - rugpjūčio ketvirtąją - sužinojo apie link jų judančią Lietuvos kariuomenę."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -1022,7 +1058,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181504
 
 <a id="claim-t-203044"></a>
-- t-054
+- t-056
   teiginys: "Po apiplėšimų totoriai stengdavosi kuo sparčiau pasitraukti, todėl bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti tol, kol jos jau nebereikėdavo."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -1033,7 +1069,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181488
 
 <a id="claim-t-203066"></a>
-- t-055
+- t-057
   teiginys: "Karolio Zikaro sudarytame leidinyje „Žymiausi Lietuvos mūšiai ir karinės operacijos“ rašoma, kad 1506 m. vasarą totoriai įsiveržė į LDK valdas neturėdami pagrindo įtarti, jog šį kartą sėkmė nuo jų nusisuks."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -1045,7 +1081,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-42956
 
 <a id="claim-t-203072"></a>
-- t-056
+- t-058
   teiginys: "Karolio Zikaro sudarytame leidinyje „Žymiausi Lietuvos mūšiai ir karinės operacijos“ Lietuva tuo metu apibūdinama kaip turėjusi keturis pagrindinius priešus: Prūsijos–Livonijos vokiečių ordiną, Maskvą, totorius ir Lenkiją."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -1059,7 +1095,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181478
 
 <a id="claim-t-203103"></a>
-- t-057
+- t-059
   teiginys: "Karolio Zikaro sudarytame leidinyje „Žymiausi Lietuvos mūšiai ir karinės operacijos“ teigiama, kad totoriams strateginį privalumą laidavo jų pagrindinės buveinės Krymo pusiasalyje nuošalumas nuo stiprių galios centrų."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -1071,7 +1107,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-42953
 
 <a id="claim-t-203173"></a>
-- t-058
+- t-060
   teiginys: "Teodoras Narbutas rašo, kad tuo metu vėl prasidėję totorių puldinėjimai palietė Lenkiją ir gal Polesę nuo Bugo."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -1086,7 +1122,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181502
 
 <a id="claim-t-203209"></a>
-- t-059
+- t-061
   teiginys: "Vytauto Lietuvoje įkurdinti totoriai gyveno prie Vokės, Nemėžyje ir keliuose pavietuose."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -1099,7 +1135,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181494
 
 <a id="claim-t-203241"></a>
-- t-060
+- t-062
   teiginys: "Pasak Petro Dusburgiečio, totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną, Henriką Vroclavietį ir daugybę kitų žmonių, o šias šalis pavertė dykromis."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -1111,7 +1147,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-155965
 
 <a id="claim-t-203282"></a>
-- t-061
+- t-063
   teiginys: "Didžiojoje Kunigaikštystėje gyvenę totoriai, iš valdovo ar jo tikėjimo žmonių įsigiję nuosavybę, atsisakydavo mokėti dešimtinę, pelno mokestį ir kitas dvasininkams mokėtas duokles."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -1122,7 +1158,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181484
 
 <a id="claim-t-203353"></a>
-- t-062
+- t-064
   teiginys: "A. Šapokos redaguotoje „Lietuvos istorijoje“ teigiama, kad totorių pavergta Rusija buvo suskilusi į daugybę kunigaikštysčių, todėl Lietuvos kunigaikščiams buvo nesunku jas paimti į savo valdžią."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -1134,7 +1170,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181469
 
 <a id="claim-t-203354"></a>
-- t-063
+- t-065
   teiginys: "A. Šapokos redaguotoje „Lietuvos istorijoje“ teigiama, kad per Rygą ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupyje įsigalėjus totoriams, prekyba su pietiniais kraštais buvo visiškai nutrūkusi."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -1146,7 +1182,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181485
 
 <a id="claim-t-203398"></a>
-- t-064
+- t-066
   teiginys: "Petras Dusburgietis „Prūsijos žemės kronikoje“ teigia, kad totoriai nuniokojo Vengriją ir Lenkiją."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -1161,7 +1197,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-155956
 
 <a id="claim-t-203416"></a>
-- t-065
+- t-067
   teiginys: "Petras Dusburgietis „Prūsijos žemės kronikoje“ nurodo, kad 1202 m. prasidėjo totorių viešpatavimas."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -1174,7 +1210,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181468
 
 <a id="claim-t-203458"></a>
-- t-066
+- t-068
   teiginys: "Kunigaikščiai labiau pasitikėjo karaimais ir totoriais, kurie tapo artimosios sargybos tautomis."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -1185,7 +1221,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181486
 
 <a id="claim-t-203515"></a>
-- t-067
+- t-069
   teiginys: "Michał Baliński „Vilniaus miesto istorijoje“ cituojamame rašte skelbiama, jog buvo pranešta, kad Didžiojoje Kunigaikštystėje gyvenę rusai ir totoriai, įsigiję nuosavybę, atsisakydavo mokėti dvasininkams dešimtinę, pelno mokestį ir kitas duokles."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -1196,7 +1232,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181484
 
 <a id="claim-t-203525"></a>
-- t-068
+- t-070
   teiginys: "Michał Baliński teigimu, Vytauto Lietuvoje įkurdinti totoriai garsėjo nepriekaištinga dora, narsa ir prieraišumu savo naujajai tėvynei."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -1211,7 +1247,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181494
 
 <a id="claim-t-203528"></a>
-- t-069
+- t-071
   teiginys: "Michał Baliński rašo, kad totorių chanas Jedigėjus, siekdamas Vytauto draugystės, iš Juodosios jūros pakrančių siųsdavo į Lietuvos sostinę turtingomis dovanomis apkrautus kupranugarius."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -1226,7 +1262,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181501
 
 <a id="claim-t-203533"></a>
-- t-070
+- t-072
   teiginys: "Michał Baliński veikale „Vilniaus miesto istorija“ rašo, kad totorių chanas Jedigėjus, siekdamas Vytauto draugystės, siųsdavo jam turtingomis dovanomis apkrautus kupranugarius."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -1238,7 +1274,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-181501
 
 <a id="claim-t-203579"></a>
-- t-071
+- t-073
   teiginys: "Michał Baliński veikale „Vilniaus miesto istorija“ pateikia pasiuntinio pranešimą, kuriame teigiama, kad Vytautas užmezgė draugiškus ryšius su totorių chanu ir susitarė dėl taikos."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -1271,7 +1307,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-021
 
 - id: c-21433
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1293,7 +1329,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-031
+    - t-032
 
 - id: c-36948
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1348,7 +1384,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-035
+    - t-036
 
 - id: c-36951
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1370,8 +1406,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
-    - t-008
-    - t-014
+    - t-009
+    - t-015
 
 - id: c-36953
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1416,7 +1452,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-057
+    - t-059
 
 - id: c-42956
   sudarytojas: "Karolis Zikaras"
@@ -1442,7 +1478,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-055
+    - t-057
 
 - id: c-42958
   sudarytojas: "Karolis Zikaras"
@@ -1464,10 +1500,12 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     skirstę mažesniais būriais.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-054
+
 - id: c-155948
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -1511,7 +1549,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-025
+    - t-026
 
 - id: c-155949
   autorius: "Michał Baliński"
@@ -1550,7 +1588,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
-    - t-018
+    - t-019
 
 - id: c-155951
   autorius: "Petras Dusburgietis"
@@ -1568,7 +1606,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
+    - t-033
 
 - id: c-155952
   autorius: "Michał Baliński"
@@ -1603,8 +1641,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
-    - t-015
+    - t-014
+    - t-016
 
 - id: c-155954
   autorius: "Michał Baliński"
@@ -1630,7 +1668,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
+    - t-007
+    - t-027
 
 - id: c-155956
   autorius: "Petras Dusburgietis"
@@ -1652,9 +1691,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-038
-    - t-048
-    - t-064
+    - t-039
+    - t-049
+    - t-066
 
 - id: c-155957
   autorius: "Michał Baliński"
@@ -1684,8 +1723,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
-    - t-036
+    - t-022
+    - t-037
 
 - id: c-155958
   autorius: "Petras Dusburgietis"
@@ -1702,7 +1741,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-013
 
 - id: c-155960
   autorius: "Michał Baliński"
@@ -1768,8 +1807,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-016
+    - t-008
+    - t-017
 
 - id: c-155964
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1792,7 +1831,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-024
 
 - id: c-155965
   autorius: "Petras Dusburgietis"
@@ -1814,8 +1853,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
-    - t-060
+    - t-012
+    - t-062
 
 - id: c-155966
   autorius: "Michał Baliński"
@@ -1835,7 +1874,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-034
+    - t-035
 
 - id: c-155968
   autorius: "Michał Baliński"
@@ -1874,7 +1913,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
+    - t-030
 
 - id: c-155969
   autorius: "Petras Dusburgietis"
@@ -1896,7 +1935,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-023
 
 - id: c-155972
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1919,7 +1958,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-025
 
 - id: c-155974
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1940,7 +1979,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-037
+    - t-038
 
 - id: c-155975
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1962,7 +2001,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-020
 
 - id: c-155977
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1983,7 +2022,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-018
 
 - id: c-155978
   autorius: "Petras Dusburgietis"
@@ -2006,7 +2045,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-033
+    - t-034
 
 - id: c-155979
   autorius: "Zenonas Ivinskis"
@@ -2025,7 +2064,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-010
 
 - id: c-155980
   autorius: "Michał Baliński"
@@ -2067,7 +2106,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
-    - t-028
+    - t-029
 
 - id: c-155981
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2092,7 +2131,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-011
 
 - id: c-155984
   autorius: "Michał Baliński"
@@ -2139,7 +2178,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-010
 
 - id: c-155989
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2163,7 +2202,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
+    - t-031
 
 - id: c-166576
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2184,7 +2223,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
+    - t-028
 
 - id: c-175270
   autorius: "Teodoras Narbutas"
@@ -2210,7 +2249,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-044
+    - t-045
 
 - id: c-175889
   redaktorius: "A. Šapoka"
@@ -2230,7 +2269,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-045
+    - t-046
 
 - id: c-175890
   redaktorius: "A. Šapoka"
@@ -2248,7 +2287,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-046
+    - t-047
 
 - id: c-176489
   autorius: "Anoniminis metraštininkas"
@@ -2274,7 +2313,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-047
+    - t-048
 
 - id: c-181456
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2317,8 +2356,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-040
-    - t-043
+    - t-041
+    - t-044
 
 - id: c-181458
   sudarytojas: "Karolis Zikaras"
@@ -2347,7 +2386,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-050
+    - t-051
 
 - id: c-181459
   autorius: "Michał Baliński"
@@ -2407,7 +2446,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-025
 
 - id: c-181461
   autorius: "Michał Baliński"
@@ -2446,7 +2485,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
+    - t-030
 
 - id: c-181462
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2519,7 +2558,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-016
 
 - id: c-181465
   autorius: "Zenonas Ivinskis"
@@ -2596,7 +2635,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-065
+    - t-067
 
 - id: c-181469
   redaktorius: "A. Šapoka"
@@ -2614,7 +2653,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-062
+    - t-064
 
 - id: c-181470
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2639,7 +2678,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-011
 
 - id: c-181471
   autorius: "Anoniminis metraštininkas"
@@ -2667,7 +2706,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-039
+    - t-040
 
 - id: c-181472
   autorius: "Zenonas Ivinskis"
@@ -2713,7 +2752,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-043
+    - t-044
 
 - id: c-181474
   autorius: "Michał Baliński"
@@ -2758,7 +2797,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-025
+    - t-026
 
 - id: c-181475
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2776,7 +2815,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-035
+    - t-036
 
 - id: c-181476
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2815,7 +2854,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
+    - t-033
 
 - id: c-181478
   sudarytojas: "Karolis Zikaras"
@@ -2840,7 +2879,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-056
+    - t-058
 
 - id: c-181479
   autorius: "Anoniminis metraštininkas"
@@ -2865,7 +2904,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-042
+    - t-043
 
 - id: c-181480
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2903,10 +2942,12 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
                     126.
   statusas: verified
   atnaujinta: "2026-07-12 23:01"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-034
+
 - id: c-181482
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -2988,8 +3029,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-061
-    - t-067
+    - t-063
+    - t-069
 
 - id: c-181485
   redaktorius: "A. Šapoka"
@@ -3009,7 +3050,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-063
+    - t-065
 
 - id: c-181486
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -3030,13 +3071,12 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-066
+    - t-068
 
 - id: c-181487
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 150"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 150."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     154
 
@@ -3079,7 +3119,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-054
+    - t-056
 
 - id: c-181489
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -3100,7 +3140,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-018
 
 - id: c-181490
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -3152,7 +3192,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-041
+    - t-042
 
 - id: c-181492
   autorius: "Michał Baliński"
@@ -3182,8 +3222,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
-    - t-036
+    - t-022
+    - t-037
 
 - id: c-181493
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -3203,7 +3243,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-052
+    - t-053
 
 - id: c-181494
   autorius: "Michał Baliński"
@@ -3244,8 +3284,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-059
-    - t-068
+    - t-061
+    - t-070
 
 - id: c-181495
   autorius: "Michał Baliński"
@@ -3315,7 +3355,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
+    - t-031
 
 - id: c-181498
   autorius: "Petras Dusburgietis"
@@ -3354,7 +3394,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-071
+    - t-073
 
 - id: c-181500
   sudarytojas: "Karolis Zikaras"
@@ -3404,8 +3444,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-069
-    - t-070
+    - t-007
+    - t-071
+    - t-072
 
 - id: c-181502
   autorius: "Teodoras Narbutas"
@@ -3431,7 +3472,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-058
+    - t-060
 
 - id: c-181503
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -3452,7 +3493,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
+    - t-028
 
 - id: c-181504
   sudarytojas: "Karolis Zikaras"
@@ -3479,7 +3520,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-053
+    - t-055
 
 - id: c-181505
   sudarytojas: "Karolis Zikaras"
@@ -3527,7 +3568,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-049
+    - t-050
 
 - id: c-186073
   sudarytojas: "Karolis Zikaras"
@@ -3548,7 +3589,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-051
+    - t-052
 
 - id: c-186074
   autorius: "Michał Baliński"
@@ -3576,7 +3617,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-014
 
 - id: c-186075
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -3596,7 +3637,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-020
 
 - id: c-186076
   autorius: "Michał Baliński"
@@ -3625,7 +3666,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-008
 
 - id: c-186077
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -3646,7 +3687,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
+    - t-024
 
 - id: c-186078
   autorius: "Michał Baliński"
@@ -3672,7 +3713,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-017
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/asmenys/Levas (Haličo kunigaikštis)]]

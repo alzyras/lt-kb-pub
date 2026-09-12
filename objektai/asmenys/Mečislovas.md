@@ -69,6 +69,19 @@ Mečislovas, Boleslovo Narsiojo tėvas, anot Narbuto, valdė nuo 964 iki 999 met
   pagrindžia:
     - c-184364
 
+<a id="claim-t-205166"></a>
+- t-003
+  teiginys: "Mečislovas, šito nepaisyda mas ir neatsižvelgdamas į tai, kad šalis apsupta įniršusių kaimynų ir net pačioje šalyje yra grupuočių, nusistačiusių prieš jį ir prieš gražų visų sutarimą, pasidavė lepūniškam ištižimui."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188119
+
 ## Citatos
 
 - id: c-175367
@@ -119,3 +132,29 @@ Mečislovas, Boleslovo Narsiojo tėvas, anot Narbuto, valdė nuo 964 iki 999 met
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-188119
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 156"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 156."
+  citata_originali: |
+    Mirus narsiam ir išmintingam tėvui, Lenkijos sostas
+    atiteko .sūnui, kuriam prigimtis neskyrė būti valdovu, bet
+    paveldėjo jis didžiulę ¡ką tik sukurtą karalystę, sulipdytą
+    iš įvairių sričių, todėl ir karalius jai buvo reikalingas
+    toks, kuris ir riteriško šaunumo nestokotų, ir ¡būtų pajėgus
+    pakelti krašto valdžios naštą. Mečislovas, šito nepaisyda­
+    mas ir neatsižvelgdamas į tai, kad šalis apsupta įniršusių
+    kaimynų ir net pačioje šalyje yra grupuočių, nusistačiusių
+    prieš jį ir prieš gražų visų sutarimą, pasidavė lepūniškam
+    ištižimui. Prie viso to dar prisidėjo ir kilęs tarpusavio
+    ikaras, pradėtas jaunesniojo brolio Otono, kurį jo šalinin­
+    kai norėjo matyti soste.
+  citata_rodoma: "Mirus narsiam ir išmintingam tėvui, Lenkijos sostas \natiteko .sūnui, kuriam prigimtis neskyrė būti valdovu, bet \npaveldėjo jis didžiulę ¡ką tik sukurtą karalystę, sulipdytą \niš įvairių sričių, todėl ir karalius jai buvo reikalingas \ntoks, kuris ir riteriško šaunumo nestokotų, ir ¡būtų pajėgus \npakelti krašto valdžios naštą. Mečislovas, šito nepaisyda­\nmas ir neatsižvelgdamas į tai, kad šalis apsupta įniršusių \nkaimynų ir net pačioje šalyje yra grupuočių, nusistačiusių \nprieš jį ir prieš gražų visų sutarimą, pasidavė lepūniškam \ništižimui."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

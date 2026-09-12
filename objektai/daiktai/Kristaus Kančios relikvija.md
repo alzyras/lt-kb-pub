@@ -91,10 +91,31 @@ Nenurodyta
   pagrindžia:
     - c-170044
 
-## Reikšmingi paminėjimai
-- c-001
-  santrauka: 'Komentare nurodoma, kad J. Dlugošas pasakojo legendą apie Algirdo ir Kęstučio pagrobtą šventojo kryžiaus relikviją.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+<a id="claim-t-186861"></a>
+- t-003
+  teiginys: "Komentare nurodoma, kad J. Dlugošas pasakojo legendą apie Algirdo ir Kęstučio pagrobtą šventojo kryžiaus relikviją."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "puole -> Sandomiras: 0.80"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Sandomiras: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kęstutis kartu su Algirdu tiesiogiai nurodomas nusiaubęs Sandomiro kraštą, todėl ryšys interpretuojamas kaip puolimas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  semantiniai_rysiai: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.) puolė Sandomiras (0.80)"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  pagrindžia:
+    - c-170043
+
+## Citatos
+
+- id: c-170043
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     1 1  Legendą apie šventojo kryžiaus relikvijos pagrobim ą pasa­
     koja J. Dlugošas dviem atvejais: 1) savo Lenkijos istorijos pra­
@@ -106,12 +127,14 @@ Nenurodyta
     duria, kad. nepasitenkindami tuo, Algirdas su Kėstučiu nusiaubė
     Lenkijos Sandomiro kraštą ligi Šventojo Kryžiaus vienuolyno ir
     pagrobė relikviją.
-  citata_rodoma: ''
+  citata_rodoma: "Legendą apie šventojo kryžiaus relikvijos pagrobim ą pasa­\nkoja J. Dlugošas dviem atvejais: 1) savo Lenkijos istorijos pra­\ndžioje, Lenkijos kalnų aprašym e (Jana Dtugosza rocznlki czyll \nkroniki slawnego Krolestwa Polsklego. Warszawa, 1962, p. 157— \n158), bet čia nenurodo jokios tikslios dalos; 2) pasakojime, kaip, \n1370.XI.5 mirus Lenkijos karaliui Kazimierui, Algirdas. Kėstutis Ir \nLiubartas atsiėmė iš lenkų Volynės Vladimirą; čia J. Dlugošas pri­\nduria, kad. nepasitenkindami tuo, Algirdas su Kėstučiu nusiaubė \nLenkijos Sandomiro kraštą ligi Šventojo Kryžiaus vienuolyno ir \npagrobė relikviją."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Citatos
+  pagrindzia:
+    - t-003
 
 - id: c-170044
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"

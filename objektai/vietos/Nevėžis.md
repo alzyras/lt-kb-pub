@@ -158,8 +158,29 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   pagrindžia:
     - c-37602
 
-<a id="claim-t-188792"></a>
+<a id="claim-t-187626"></a>
 - t-006
+  teiginys: "Lietuvos metraštis pasakoja, kad žemaičiai susirinko anapus Nevėžio ir ketino stoti į mūšį su Kazimieru."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Pateikta citata tiesiogiai sako, kad Ordinas sutiko padėti Vytautui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  semantiniai_rysiai: "Kryžiuočių ordinas rėmė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.84); Vytautas (Lietuvos valdovas, XIV–XV a.) sudarė sutartį su Kryžiuočių ordinas (0.66)"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  pagrindžia:
+    - c-170573
+
+<a id="claim-t-188792"></a>
+- t-007
   teiginys: "Narbutas perteikia Hartknocho nuomonę, kad Lietuvoje Kurko garbei kurstoma ugnis turėjusi degti prie Nevėžio."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -178,7 +199,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     - c-171681
 
 <a id="claim-t-201649"></a>
-- t-007
+- t-008
   teiginys: "Palei Nevėžį ir toliau į šiaurę, kirsdamas lietuviškąsias žemes, jau turėjo eiti vėliau šaltinių paliudytas kelias į Rygą."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -191,7 +212,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
     - c-184996
 
 <a id="claim-t-201650"></a>
-- t-008
+- t-009
   teiginys: "Tai didelė valtis, kuria daugiausia plaukiota Nemunu žemyn nuo Kauno ir mažesnėse upėse, pirmiausia Nevėžyje."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -202,29 +223,6 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   pagrindžia:
     - c-184997
 
-## Reikšmingi paminėjimai
-- c-006
-  santrauka: 'Lietuvos metraštis pasakoja, kad žemaičiai susirinko anapus Nevėžio ir ketino stoti į mūšį su Kazimieru.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ir didysis kunigaikštis Kazimieras labai
-    susirūpino, kad Žemaičiai atkrito nuo Lietuvos Didžio­
-    sios Kunigaikštystės, ir tuoj pat rašė laiškus į visas sa­
-    vo valdas, visiems Didžiosios Kunigaikštystės pareigū­
-    nams, kad skubiai ruoštųsi karui, norėjo jėga susigrą­
-    žinti Žemaičius savo tėvonijon, kaip anksčiau kad
-    priklausė. Sutelkė nemenkas lietuvių pajėgas, patrau­
-    kė į Žemaičius ir apsistojo Kaune, o žemaičiai sujojo
-    ir sustojo anapus Nevėžio, ketindami stoti į mūšį su
-    didžiuoju kunigaikščiu Kazimieru I S .
-    Ir tuomet kreipėsi į didįjį kunigaikštį Kazimierą jo
-    globėjas Jonas Goštautas, sakydamas: „Valdove, kuni­
-    gaikšti Kazimierai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: not_found
 ## Citatos
 
 - id: c-37602
@@ -341,6 +339,32 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   pagrindzia:
     - t-004
 
+- id: c-170573
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Ir didysis kunigaikštis Kazimieras labai
+    susirūpino, kad Žemaičiai atkrito nuo Lietuvos Didžio­
+    sios Kunigaikštystės, ir tuoj pat rašė laiškus į visas sa­
+    vo valdas, visiems Didžiosios Kunigaikštystės pareigū­
+    nams, kad skubiai ruoštųsi karui, norėjo jėga susigrą­
+    žinti Žemaičius savo tėvonijon, kaip anksčiau kad
+    priklausė. Sutelkė nemenkas lietuvių pajėgas, patrau­
+    kė į Žemaičius ir apsistojo Kaune, o žemaičiai sujojo
+    ir sustojo anapus Nevėžio, ketindami stoti į mūšį su
+    didžiuoju kunigaikščiu Kazimieru I S .
+    Ir tuomet kreipėsi į didįjį kunigaikštį Kazimierą jo
+    globėjas Jonas Goštautas, sakydamas: „Valdove, kuni­
+    gaikšti Kazimierai.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
 - id: c-171681
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -359,7 +383,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-007
 
 - id: c-184996
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -377,7 +401,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-008
 
 - id: c-184997
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -394,4 +418,4 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-009

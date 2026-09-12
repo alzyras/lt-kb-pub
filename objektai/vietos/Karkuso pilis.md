@@ -81,6 +81,19 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   pagrindžia:
     - c-59197
 
+<a id="claim-t-205774"></a>
+- t-003
+  teiginys: "Lietuvių dalinys, apsimetęs kryžiuočių kariauna, klasta įsiveržė į Karkuso pilį ir ją užėmė, o įgulą paėmė į nelaisvę."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188389
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: '1298 m. Vytenis, Rygos miestiečių pakviestas, užėmė Karkuso pilį, paėmė belaisvių ir nusiaubė pilies apylinkes.'
@@ -148,6 +161,31 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-188389
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 318"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 318."
+  citata_originali: |
+    Sis skubiai puolė
+    nurodytą grobį, t. y. Karkuso pilį, ir klasta ją užėmė.
+    Lietuvių dalinys, apsimetęs kryžiuočių kariauna, prieša­
+    kyje pastatęs keletą riterių ilgomis barzdomis, persiren­
+    gusių baltais apsiaustais su juodais kryžiais, prisiartino
+    prie tvirtovės, tarsi būtų atėję pagelbėti įgulai, kuriai
+    grėsė apsuptis. Tikriausiai tarp jų buvo kas nors iš vo­
+    kiečių, kad galėtų susikalbėti. Jie pašaukė sargybą, kad
+    atidarytų vartus, pro kuriuos įsiveržę užėmė tvirtovę,
+    į nelaisvę paimta įgula turėjo traukti į Lietuvą, gretimi
+    valsčiai buvo nusiaubti, iš jų paimta daugybė belaisvių,
+    vyko žudynės, apiplėštos bažnyčios.
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 ## Ryšiai
 - Karkuso pilis (pilis, XIII a.) priklausė [[objektai/vietos/Livonija]]

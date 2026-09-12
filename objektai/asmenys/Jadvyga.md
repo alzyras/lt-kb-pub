@@ -189,6 +189,45 @@ canonical_biography: "1393 m. Jogaila ir Jadvyga nuvyko į Vilnių spręsti Vyta
   pagrindžia:
     - c-177104
 
+<a id="claim-t-206287"></a>
+- t-009
+  teiginys: "Teodoras Narbutas rašo, kad karalius Vladislovas su žmona Jadvyga nusprendė karštai siekti šventojo tikėjimo įtvirtinimo Lietuvoje."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188902
+
+<a id="claim-t-206288"></a>
+- t-010
+  teiginys: "Teodoras Narbutas rašo, kad karalienė Jadvyga susirašinėjo su didžiuoju magistru dėl Dobrynės ir prekybos ryšių su Rusia bei Prūsijos Pavyslės miestais."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188903
+
+<a id="claim-t-206289"></a>
+- t-011
+  teiginys: "Teodoras Narbutas, remdamasis Dlugošu, nurodo, kad karalienė Jadvyga po regėjimo iš anksto įspėjo apie gresiančią nelaimę."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188904
+
 ## Reikšmingi paminėjimai
 - c-006
   santrauka: 'Narbutas vaizduoja, kad Lenkijos karalienės Jadvygos santuoka su Vladislovu per vieną dieną pasiekė Lietuvos krikščioninimo lūžį.'
@@ -398,6 +437,65 @@ canonical_biography: "1393 m. Jogaila ir Jadvyga nuvyko į Vilnių spręsti Vyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-008
+
+- id: c-188902
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 350"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 350."
+  citata_originali: |
+    Karalius Vladis­
+    lovas su žmona Jadvyga nusprendė karštai imtis darbo įtvirtin­
+    dami Lietuvoje šventąjį tikėjimą;
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+
+- id: c-188903
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 494"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 494."
+  citata_originali: |
+    Karalienė
+    Jadvyga visą laiką susirašinėjo su didžiuoju magistru, įkalbinėda­
+    ma tiek dėl Dobrynės, tiek dėl prekybos ryšių, ypač dėl tranziti­
+    nės prekybos su Rusia, Prūsijos Pavyslės miestais. Ta išmintinga
+    ponia, dėl nuoširdaus dievotumo gerbdama ordiną, stengėsi dėl
+    jo gerovės kiek tik galėjo, labai nepažeisdama savo Karūnos inte­
+    resų.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+
+- id: c-188904
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 498-499"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 498-499."
+  citata_originali: |
+    Karalienė Jadvyga, tarsi
+    nujausdama liūdnus padarinius, smarkiai atkalbinėjo3 ir tikriau­
+    siai nebūtų įstengęs atsilaikyti jos spiriamas, jeigu nebūtų turė­
+    1 Livonijos kronikininkai; Voigt. - B. VI. - S. 166,167.
+    2 Kojalowicz. - Pars II. — P. 60 (apie 1398 metus).
+    3 Dlugošas rašo, kad karalienę aplankė kažkoks regėjimas (gal sapne, gal
+    tiesiog dienos metu) ir ji iš anksto įspėjo nelaimę*.
+    500
+
+    jęs kuo pasigirti atremdamas
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
 
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

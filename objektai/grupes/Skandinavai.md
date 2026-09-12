@@ -355,6 +355,18 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   pagrindžia:
     - c-176999
 
+<a id="claim-t-205092"></a>
+- t-020
+  teiginys: "Apskritai jūros pakrantės, besitęsiančios nuo Nemuno iki Dauguvos žiočių, didžiausią skandinavų ant plūdį ėmė patirti nuo VI amžiaus."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187943
+
 ## Reikšmingi paminėjimai
 - c-008
   santrauka: 'Narbutas iš skandinavų legendų sprendžia, kad Biarmija buvo turtinga brangiųjų metalų ir viliojo skandinavų plėšikus.'
@@ -832,6 +844,27 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   patikimumo_saltinis: ai
   pagrindzia:
     - t-019
+
+- id: c-187943
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 71"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 71."
+  citata_originali: |
+    Prisiplėšę vieni jų grįždavo į tėvynę,
+    o kiti ten apsigyvendavo’, statėsi gynybines pilis su jas
+    supančiais valsčiais. Vieną iš tokių gyvenviečių primena
+    Žemaitijos miestelis Grotinga* — gotų grotingų, arba
+    grutingų, gyvenvietė, o šie buvo žinomi Ostgotų istorijoje
+    (§ 362). Apskritai jūros pakrantės, besitęsiančios nuo
+    Nemuno iki Dauguvos žiočių, didžiausią skandinavų ant­
+    plūdį ėmė patirti nuo VI amžiaus.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-020
 
 ## Ryšiai
 - Kariavo prieš: [[objektai/grupes/Kuršiai]]

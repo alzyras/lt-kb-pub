@@ -1,6 +1,7 @@
 import { FullSlug } from "./path"
 
-const PLACEHOLDER = /^(?:santrauka|aprašymas|description)\s*(?:[-:–—]\s*)?(?:nenurodyta|nepateikta|nėra|nežinoma|unknown)?\.?$/i
+const PLACEHOLDER =
+  /^(?:santrauka|aprašymas|description)\s*(?:[-:–—]\s*)?(?:nenurodyta|nepateikta|nėra|nežinoma|unknown)?\.?$/i
 const POOR_DESCRIPTION = /\b(?:santrauka|aprašymas)\s+(?:nenurodyta|nepateikta|nėra)\b/i
 
 export type SeoInput = {
@@ -48,11 +49,14 @@ export function seoDescription(input: SeoInput, maxLength = 158): string {
   const title = seoText(input.title) || "Lietuvos istorija"
   const raw = seoText(input.description) || seoText(input.text)
   const fallback = `${title} – ${itemTypeLabel(input.itemType)} Lietuvos istorijos žinyno įrašas su šaltiniais ir kontekstu.`
-  if (!raw || PLACEHOLDER.test(raw) || POOR_DESCRIPTION.test(raw)) return trimAtWord(fallback, maxLength)
+  if (!raw || PLACEHOLDER.test(raw) || POOR_DESCRIPTION.test(raw))
+    return trimAtWord(fallback, maxLength)
 
   const firstSentence = raw.match(/^(.{45,}?[.!?])(?:\s|$)/)?.[1] ?? raw
   const description = trimAtWord(firstSentence, maxLength)
-  return description.length >= 50 ? description : trimAtWord(`${description} ${fallback}`, maxLength)
+  return description.length >= 50
+    ? description
+    : trimAtWord(`${description} ${fallback}`, maxLength)
 }
 
 export function seoTitle(
@@ -74,7 +78,12 @@ export function isPoorSeoPage(input: SeoInput): boolean {
   // Indexing is decided from the page's own search summary, not its entire
   // evidence corpus, so a valuable object is never hidden by one bad quote.
   const summary = description || seoText(input.text).slice(0, 400)
-  if (!title || PLACEHOLDER.test(title) || PLACEHOLDER.test(description) || POOR_DESCRIPTION.test(description)) {
+  if (
+    !title ||
+    PLACEHOLDER.test(title) ||
+    PLACEHOLDER.test(description) ||
+    POOR_DESCRIPTION.test(description)
+  ) {
     return true
   }
   if (/\uFFFD/.test(summary) || /(?:\b\p{L}\s+){9,}/u.test(summary)) return true
@@ -89,6 +98,12 @@ export function isPoorSeoPage(input: SeoInput): boolean {
   // punctuation rather than a long uninterrupted sequence. Catch that in the
   // description itself so the page head and sitemap make the same decision.
   const noisyTokens = tokens.filter((token) => {
+    // Historical dates are meaningful metadata, not OCR noise.  In
+    // particular, ranges such as "1362–1430 m." used to make valid object
+    // pages disappear from both search and the sitemap.
+    if (/^\d{1,4}(?:[./-]\d{1,2})*(?:[–—-]\d{1,4}(?:[./-]\d{1,2})*)?[.,;:]?$/u.test(token))
+      return false
+    if (/^(?:m|a)\.?$/iu.test(token)) return false
     const letters = [...token].filter((character) => /\p{L}/u.test(character)).length
     return letters <= 1
   })
@@ -119,20 +134,23 @@ function breadcrumbLabel(segment: string): string {
   )
 }
 
-export function pageStructuredData(input: SeoInput & {
-  baseUrl: string
-  canonicalUrl: string
-  mediaUrl?: string
-  mediaWidth?: number
-  mediaHeight?: number
-  /**
-   * Media detail pages emit their own complete ImageObject.  The shared page
-   * graph still needs to point at it, but must not manufacture a second,
-   * competing ImageObject.
-   */
-  primaryImageId?: string
-  includePrimaryImageObject?: boolean
-}): Record<string, unknown> {
+export function pageStructuredData(
+  input: SeoInput & {
+    baseUrl: string
+    canonicalUrl: string
+    mediaUrl?: string
+    mediaWidth?: number
+    mediaHeight?: number
+    sameAs?: string[]
+    /**
+     * Media detail pages emit their own complete ImageObject.  The shared page
+     * graph still needs to point at it, but must not manufacture a second,
+     * competing ImageObject.
+     */
+    primaryImageId?: string
+    includePrimaryImageObject?: boolean
+  },
+): Record<string, unknown> {
   const slug = String(input.slug ?? "index")
   const title = seoText(input.title) || "Lietuvos istorija"
   const description = seoDescription(input)
@@ -144,7 +162,21 @@ export function pageStructuredData(input: SeoInput & {
     item: absoluteUrl(input.baseUrl, index === 0 ? "index" : segments.slice(0, index).join("/")),
   }))
   const type = seoText(input.itemType).toLocaleLowerCase("lt")
-  const entityType = type === "asmuo" ? "Person" : type === "vieta" ? "Place" : type === "ivykis" ? "Event" : type === "saltinis" || type === "šaltinis" ? "CreativeWork" : "Article"
+  const entityType =
+    {
+      asmuo: "Person",
+      autorius: "Person",
+      vieta: "Place",
+      ivykis: "Event",
+      grupe: "Organization",
+      grupė: "Organization",
+      saltinis: "CreativeWork",
+      šaltinis: "CreativeWork",
+      daiktas: "Thing",
+      paprotys: "Thing",
+      posakis: "Quotation",
+      zodyno_irasas: "DefinedTerm",
+    }[type] ?? "Thing"
   const graph: Record<string, unknown>[] = [
     {
       "@type": "WebPage",
@@ -153,6 +185,7 @@ export function pageStructuredData(input: SeoInput & {
       name: title,
       description,
       inLanguage: "lt",
+      mainEntity: { "@id": `${input.canonicalUrl}#entity` },
     },
     {
       "@type": "BreadcrumbList",
@@ -164,6 +197,7 @@ export function pageStructuredData(input: SeoInput & {
       name: title,
       description,
       mainEntityOfPage: { "@id": input.canonicalUrl },
+      sameAs: (input.sameAs ?? []).filter((url) => /^https:\/\//i.test(url)),
     },
   ]
   if (input.mediaUrl) {

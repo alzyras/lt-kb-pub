@@ -1978,6 +1978,199 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   pagrindžia:
     - c-186625
 
+<a id="claim-t-205170"></a>
+- t-112
+  teiginys: "Ik i šiol galima pastebėti tokias kepures turint lietuvius kai miečius, gyvenančius tarp Kauno ir Varėnos."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-187953
+
+<a id="claim-t-206488"></a>
+- t-113
+  teiginys: "Pulkai iš visų valstybės kraštų traukė į Kauną, o septyni Gedimino sūnūs prisiekė atkeršyti kryžiuočiams."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189103
+
+<a id="claim-t-206489"></a>
+- t-114
+  teiginys: "Teodoro Narbuto pasakojime Kauno tvirtovė laikyta raktu į tikrąsias Lietuvos žemes, todėl Ordino vadovybė nusprendė rūpintis jos užėmimu."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189104
+
+<a id="claim-t-206490"></a>
+- t-115
+  teiginys: "Pasak Teodoro Narbuto, 1364 m. Virgalio saloje prie Nevėžio ir Nemuno santakos lietuviai pastatė tvirtovę, pavadintą Naujuoju Kaunu."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189105
+
+<a id="claim-t-206491"></a>
+- t-116
+  teiginys: "1376 m. lietuviai prie Neries vėl atstatė Kauną."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189106
+
+<a id="claim-t-206492"></a>
+- t-117
+  teiginys: "Ordino plane ant senojo Kauno griuvėsių numatyta pastatyti stiprią tvirtovę, turėjusią tapti pagrindiniu užkariavimų tikrojoje Lietuvoje punktu."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189107
+
+<a id="claim-t-206493"></a>
+- t-118
+  teiginys: "Po keturių savaičių Kauno tvirtovė jau buvo apsaugota nuo puolimų; Teodoro Narbuto pasakojime nurodoma, kad ją atstatant dirbo 60 000 žmonių ir naudota 80 000 žirgų."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189108
+
+<a id="claim-t-206494"></a>
+- t-119
+  teiginys: "Kęstutis nesiryžo atstatyti senojo Kauno tvirtovės iš griuvėsių ir liepė Nevėžio žiotyse pastatyti kitą tvirtovę, pavadintą Naujuoju Kaunu."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189109
+
+<a id="claim-t-206495"></a>
+- t-120
+  teiginys: "Teodoro Narbuto pasakojime Ordino puolimas buvo nukreiptas prieš Kauną, laikytą raktu visai Lietuvai užkariauti, o apgultis prasidėjo rugsėjo pabaigoje."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189110
+
+<a id="claim-t-206496"></a>
+- t-121
+  teiginys: "Teodoro Narbuto aprašyme Senasis Kaunas įvardijamas tarp brangiai pastatytų, konventais, patrankomis ir kitomis reikmenimis aprūpintų pilių; jų netektis reiškė krašto bei tolesnių užkariavimų vilčių praradimą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189111
+
+<a id="claim-t-206497"></a>
+- t-122
+  teiginys: "Teodoro Narbuto pasakojime didžiulei kryžiuočių stovyklai prie Kauno parinkta vieta dešiniajame Neries krante, dviejų upių santakoje, aukšta pakrante nusidriekusioje plynėje."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189112
+
+<a id="claim-t-206498"></a>
+- t-123
+  teiginys: "Rudenį prie Kauno, Nemuno pakrantėje, buvo pastatytos trys medinės pilaitės, iš kurių dvi stovėjo per pusę mylios nuo miesto."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189113
+
+<a id="claim-t-206499"></a>
+- t-124
+  teiginys: "Rugpjūčio 13 d. visi žygio dalyviai netoli Kauno susijungė ir rado miestą apleistą, o pilį – paverstą griuvėsiais."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189114
+
+<a id="claim-t-206500"></a>
+- t-125
+  teiginys: "Teodoro Narbuto pasakojime kryžiuočiai ant Kauno piliakalnio buvo užėmę patogesnes pozicijas ir tikėjosi, kad Vytautas, turėdamas 15 000 karių, jų nenugins."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189115
+
+<a id="claim-t-206501"></a>
+- t-126
+  teiginys: "Pagal Teodoro Narbuto perteikiamą susitarimą Kaune statybai perleista vietovė turėjo visiems laikams priklausyti Ordinui."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189116
+
 ## Reikšmingi paminėjimai
 - c-042
   santrauka: '1985 m. Petro Dusburgiečio „Prūsijos žemės kronikos“ leidinys spausdintas K. Požėlos spaustuvėje Kaune.'
@@ -4605,6 +4798,281 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-111
+
+- id: c-187953
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 394"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 394."
+  citata_originali: |
+    Ik i šiol galima pastebėti tokias kepures turint lietuvius kai­
+    miečius, gyvenančius tarp Kauno ir Varėnos. Lietuvių jos vadinamos
+    neromke.
+    2 Stumbras — ypatingas žvėris, palyginti su kitais didžiausiais ke­
+    turkojais gyvūnais; anksčiau jis buvo painiojamas su laukiniu jaučiu,
+    t. y. tauru, todėl senovės rašytojai jį pastebi didesnėje teritorijoje nei
+    buvo iš tikrųjų.
+  citata_rodoma: "Ik i šiol galima pastebėti tokias kepures turint lietuvius kai­\nmiečius, gyvenančius tarp Kauno ir Varėnos. Lietuvių jos vadinamos\nneromke."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-112
+
+- id: c-189103
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 65"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 65."
+  citata_originali: |
+    Pulkai iš visų valstybės kraštų traukė į
+    Kauną, ir visas septynetas Gedim ino sūnų prisiekė atkeršy­
+    sią kryžiuočiams.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-113
+
+- id: c-189104
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 140-141"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 140-141."
+  citata_originali: |
+    Kauno tvirtovė buvo
+    raktas į tikrąsias Lietuvos žemes; stovinti dviejų didelių upių
+    1 Hermanu Comer. Chron. Autorius apie tai paliudija, nors pats yra pri­
+    painiojęs. Žr.: Naruszewicz. - T. VI. - S. 298, 299.
+    2 Dlugošas apie tai gerai žinojo, nes pasakoja (t. I. - P. 1131): Sed parum
+    provide dum rediret aservatus, iterum Cruciferas fallens, de quo apud eos mag­
+    ni morsus habebantur, captivitatem evasit, et in Lithuaniam pervenit (Bet kai
+    dar kartą, lygiai taip pat apsukriai apgaudamas kryžiuočius, dėl ko daugelis
+    jų buvo smarkiai išjuokti, pabėgo iš nelaisvės ir į Lietuvą parvyko).
+    142
+
+    santakoje visada buvo svarbus punktas, viliojantis aną valdyti,
+    masino būdamas reikalingas vėlesniems žygiams. Ordino tar­
+    nyboje buvo nuspręsta labiausiai rūpintis, kaip užimti Kauną
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-114
+
+- id: c-189105
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 161"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 161."
+  citata_originali: |
+    Betgi 1364 metais
+    didysis magistras gavo žinią, kad lietuviai prie Nemuno pasta­
+    tė naują tvirtovę Virgalio saloje, tai yra prie pačios Nevėžio ir
+    Nemuno santakos, kurią pavadino Naujuoju Kaunu.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-115
+
+- id: c-189106
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 216"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 216."
+  citata_originali: |
+    Lietuviai prie Neries vėl atstatė Kau­
+    ną; toji tvirtovė, stovėdama prie žygio kelio, vedančio į Lietu­
+    vą, ypač traukė kryžiuočių dėmesį - buvo sumanę ją užvaldyti,
+    tačiau gausi įgula ir gerai įrengta tvirtovė neleido jiems eiti
+    tiesiai. Šit todėl 1376 metais didysis magistras su rinktiniais
+    kariais įsiveržė į Žemaitiją, siekdamas atitraukti lietuvių rite­
+    rius iš Kauno, nukreipiant juos į šią pusę
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-116
+
+- id: c-189107
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 306"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 306."
+  citata_originali: |
+    Tūd buvo parengtas planas:
+    ant senojo Kauno griuvėsių pastatyti stiprią tvirtovę, kuri tap­
+    tų pagrindiniu punktu ir parem tų užkariavimus tikrojoje Lie­
+    tuvoje.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-117
+
+- id: c-189108
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 306"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 306."
+  citata_originali: |
+    Žygiuota
+    sėkmingai, nes gegužės 24 dieną jau visa kas buvo vietoje ir
+    tuoj pat labai energingai imtasi darbų. Po keturių savaičių
+    tvirtovė nuo puolimų jau buvo apsaugota; nurodom a šešias­
+    dešimt tūkstančių žmonių dirbusių ir aštuoniasdešimt tūks­
+    tančių žirgų naudota atstatant Kauno pilį
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-118
+
+- id: c-189109
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 306"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 306."
+  citata_originali: |
+    Kęstutis nesiryžo prikelti jos iš
+    griuvėsių, nes verčiau paliepė kitą tvirtovę, pavadintą Nau­
+    juoju Kaunu, Nevėžio žiotyse pastatyti.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119
+
+- id: c-189110
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 315"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 315."
+  citata_originali: |
+    Užmojis visu smarkumu buvo nukreiptas prieš
+    Kauną, kad užimtų tą naująją tvirtovę, kaip raktą visai Lie­
+    tuvai užkariauti. Apgultis prasidėjo rugsėjo pabaigoje.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-120
+
+- id: c-189111
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 320"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 320."
+  citata_originali: |
+    Pilys, dideliais kaštais pastatytos, su konven­
+    tais, aprūpintos liepsnosvaidėmis patrankomis ir visais reikme­
+    nimis: Jurbarkas, Bajerburgas, Marienburgas ir Ritersverderis,
+    kitaip sakant, Senasis Kaunas, apie šimtą keliasdešimt kvad­
+    ratinių mylių ką tik įgyto krašto ir tolesnių užkariavimų viltys
+    buvo išplėštos.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-121
+
+- id: c-189112
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 402"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 402."
+  citata_originali: |
+    Didžiulei stovyklai
+    vieta parinkta prie Kauno, dešiniajame Neries krante, dviejų
+    didžiulių upių santakoje, plynėje, nusidriekusioje aukšta pa­
+    krante.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-122
+
+- id: c-189113
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 404"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 404."
+  citata_originali: |
+    Grįž­
+    tant buvo persikelta per Nerį ir nuspręsta dar orams nepabjurus
+    imtis medinių pilaičių statybos. Tam tiko ir rudens oras, nes to­
+    kių trys buvo pastatytos, dvi - per pusę mylios nuo Kauno, Ne­
+    muno pakrantėje, markgrafo Frideriko ir Meiseno pulko garbei
+    jo vėliava buvo papuoštos.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-123
+
+- id: c-189114
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 436"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 436."
+  citata_originali: |
+    Visi žygio dalyviai netoli šio miesto rugpjūčio 13
+    dieną susijungė. Rado Kauną apleistą, pilį paverstą griuvė­
+    siais; tad ėmė greitomis jį stiprinti, atsigabeno medžių ir ak­
+    menų.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-124
+
+- id: c-189115
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 436"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 436."
+  citata_originali: |
+    Kryžiuočiai, stovėdami ant Kauno piliakalnio, anuo­
+    metinės taktikos požiūriu, buvo užėmę patogesnes pozicijas,
+    taikydamiesi, kad Vytautas, turėdamas penkiolikatūkstantinę
+    kariauną, negalėtųjų nuvyti; Burgundijos lankininkai stebino
+    savo vikrumu ir drąsa; atvykdavo vis naujų karių dalinių iš Prū­
+    sijos, atskubėjo netgi Livonijos riteriai.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-125
+
+- id: c-189116
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 525"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 525."
+  citata_originali: |
+    Taip pat statybai Kaune mes perleido­
+    me vietovę, kuri visiems laikams turi priklausyti ordinui.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-126
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Augustinas Voldemaras]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Juozas Urbšys]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

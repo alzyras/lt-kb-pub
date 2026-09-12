@@ -2,8 +2,10 @@
 tipas: asmuo
 pavadinimas: 'Jekaterina II'
 saltiniai:
+  - '04-ldk-personalijos-idejos-refleksijos'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
 datos:
   - '1764 m.'
   - '1793 m.'
@@ -42,7 +44,7 @@ canonical_biography: "Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., 
 
 ## Santrauka
 
-Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų išvardijusi net konkrečias gubernijas, kuriose gali gyventi žydai. Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus aršiausius reformų priešininkus. Karalius laikėsi pozicijos, kad Rusijos armijai, stovinčiai prie Varšuvos, nebesipriešinti, priimti liepos 21 dieną iš Jekaterinos II gautą notą.
+Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas. Rusijos imperatorė Jekaterina II rėmė Augusto Poniatovskio globėjus Čartoriskius, tikėdamasi per juos plėsti savo įtaką. Jekaterinos II laikais į vietinio valdymo sistemą buvo įtrauktos atskirų luomų savivaldos institucijos.
 
 ## Teiginiai
 
@@ -136,6 +138,22 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
   pagrindžia:
     - c-154732
 
+## Reikšmingi paminėjimai
+- c-005
+  santrauka: 'Jekaterina II LDK prijungimo prie Rusijos kontekste pareiškė, kad ji nepasiėmė nieko svetimo ir jai nepriklausančio.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    Czesławas Miłoszas, pateikęs minėtą egzotišką faktą apie Thomo Jeffersono geografi-
+    nes žinias, yra ne kartą išsitaręs, kad Lietuvos Didžioji Kunigaikštija – viena iš keisčiausių
+    valstybių Europoje, nes ji – kalbų, tautų ir religijų mozaika. Tačiau iš istorijos dingus šiai
+    valstybei, šis jos pobūdžio mozaikiškumas lėmė, kad prisimenantys apie ją prisimindavo
+    ne visumą, o tik vieną ar kitą mozaikos akmenėlį. Jau prijungiant LDK prie Rusijos jos val-
+    dovė Jekaterina II buvo pareiškusi, kad ji nepasiėmė nieko svetimo ir jai nepriklausančio.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-41979

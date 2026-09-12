@@ -215,6 +215,32 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   pagrindžia:
     - c-171707
 
+<a id="claim-t-206566"></a>
+- t-009
+  teiginys: "Teodoras Narbutas aprašo, kad po žygio per Graudžių girią priešas smogė Pamedės valsčiaus apylinkėms ir paslinko Raseinių link."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189181
+
+<a id="claim-t-206567"></a>
+- t-010
+  teiginys: "Raseiniai Narbuto aprašyme priskiriami vidurinėms sritims, į kurias rengiant ekspediciją nurodoma apie ketinimą rašyti Brandenburgo markgrafui."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189182
+
 ## Citatos
 
 - id: c-32377
@@ -397,6 +423,40 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-008
+
+- id: c-189181
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 432"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 432."
+  citata_originali: |
+    Bu­
+    vo žygiuota per Graudžių girią, ne be didelio vargo. Vitingai ir
+    Insterburgo pasienio sargyba sudarė priešakinį būrį. Netikė­
+    tas smūgis teko Pamedės valsčiaus apylinkėms, priešas pasi­
+    slinko Raseinių link.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+
+- id: c-189182
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 531"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 531."
+  citata_originali: |
+    Tačiau jei norėtų į vidurines sritis, tokias kaip Vilnius, Vi­
+    duklė, Raseiniai arba Ariogala, ruošti ekspediciją, tada terašo
+    Brandenburgo markgrafui, kad nori paviešėti.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Bermontininkai]]

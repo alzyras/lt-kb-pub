@@ -215,8 +215,21 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   pagrindžia:
     - c-173164
 
-<a id="claim-t-194654"></a>
+<a id="claim-t-194653"></a>
 - t-010
+  teiginys: "Narbutas teigia, kad šio dievo garbei buvo švenčiama šventė apie gruodžio 25 1 Stender."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-177050
+
+<a id="claim-t-194654"></a>
+- t-011
   teiginys: "Stenderis dar sako, kad latviams Lauma reiškia tą patį, ką ir ragana."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -229,7 +242,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
     - c-177051
 
 <a id="claim-t-194655"></a>
-- t-011
+- t-012
   teiginys: "Tai rodo, kad vietos gyventojai kadaise Nemuną tik rai vadino Kruoniu (Kronus)', o gal kaip deivė upė buvo garbi- 17 Stender."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -242,7 +255,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
     - c-177052
 
 <a id="claim-t-194656"></a>
-- t-012
+- t-013
   teiginys: "Frydrichas Stenderis gali patekti į pastatą net pro rakto skylutę."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -255,7 +268,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
     - c-177053
 
 <a id="claim-t-194657"></a>
-- t-013
+- t-014
   teiginys: "Kankino moteris, gaudė vyrus, užsispyrusius ir nepatinkamus žmones įmesdavo į šulinius, skandindavo upėse, kardavo ant medžių, 14 Stender."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -268,7 +281,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
     - c-177054
 
 <a id="claim-t-194658"></a>
-- t-014
+- t-015
   teiginys: "Jis gyvendavo žemėje, 16 16 Stender, Lettische Grammatik."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -281,7 +294,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
     - c-177055
 
 <a id="claim-t-197294"></a>
-- t-015
+- t-016
   teiginys: "Frydrichas Stenderis išliejo, virto gryno aukso lašais."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -293,7 +306,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
     - c-179108
 
 <a id="claim-t-197295"></a>
-- t-016
+- t-017
   teiginys: "Frydrichas Stenderis verčia Angularis, taigi turėjo būti Usparinie (Užsparinė) arba Susparinie (Sąsparinė)19."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -582,10 +595,12 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   citata_rodoma: "Šio dievo garbei buvo švenčiama šventė apie gruodžio 25\n1 Stender. Lettische Grammatik*. Tačiau tai klaidinga išvada, ka­\ndangi žemės drebėjimų būta Prūsijoje, taigi jie buvo žinomi ir toli­\nmesnei Lietuvai.\n2 Ibidem."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+
 - id: c-177051
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -604,7 +619,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-011
 
 - id: c-177052
   autorius: "Teodoras Narbutas"
@@ -624,7 +639,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-012
 
 - id: c-177053
   autorius: "Teodoras Narbutas"
@@ -644,7 +659,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-013
 
 - id: c-177054
   autorius: "Teodoras Narbutas"
@@ -665,7 +680,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-014
 
 - id: c-177055
   autorius: "Teodoras Narbutas"
@@ -689,7 +704,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-015
 
 - id: c-179108
   autorius: "Teodoras Narbutas"
@@ -710,7 +725,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-016
 
 - id: c-179109
   autorius: "Teodoras Narbutas"
@@ -734,4 +749,4 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-017

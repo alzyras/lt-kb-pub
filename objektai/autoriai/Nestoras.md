@@ -181,6 +181,19 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   pagrindžia:
     - c-174414
 
+<a id="claim-t-205376"></a>
+- t-009
+  teiginys: "Nestoras nurodo: „Galingesnieji ėmė savintis aukščiausiąją valdžią, buvo nuvertintas tei singumas, radosi pražūtingos grupuotės, kilo tarpusavio nesantaika, liejosi žmonių kraujas, pačių tėvynainių pra lietas“1."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187769
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Narbutas Nestorą vadino rusų istorijos tėvu ir rašė, kad jis užrašė tik sutrumpintas senų padavimų liekanas.'
@@ -406,3 +419,27 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
   patikimumo_saltinis: ai
   pagrindzia:
     - t-007
+
+- id: c-187769
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 98"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 98."
+  citata_originali: |
+    Kad ir kaip ten bū­
+    tų buvę, bet Pailmenio slavai, tai yra Naugardo respub­
+    likos gyventojai, verti jų protėvių, nepasidavę jokiai sve­
+    timšalių įtakai ir išviję iš savo krašto variagus, tačiau
+    netruko patys susiskirstyti į grupuotes. Tai skatino kru­
+    vinus tarpusavio vaidus. Nestoras nurodo: „Galingesnieji
+    ėmė savintis aukščiausiąją valdžią, buvo nuvertintas tei­
+    singumas, radosi pražūtingos grupuotės, kilo tarpusavio
+    nesantaika, liejosi žmonių kraujas, pačių tėvynainių pra­
+    lietas“1.
+  citata_rodoma: "Nestoras nurodo: „Galingesnieji \nėmė savintis aukščiausiąją valdžią, buvo nuvertintas tei­\nsingumas, radosi pražūtingos grupuotės, kilo tarpusavio \nnesantaika, liejosi žmonių kraujas, pačių tėvynainių pra­\nlietas“1."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009

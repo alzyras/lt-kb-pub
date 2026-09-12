@@ -43,11 +43,27 @@ canonical_biography: "Fedoras Ivanovičius Jaroslavičius LDK valdė Klecką, Da
 
 Fedoras Ivanovičius Jaroslavičius LDK valdė Klecką, Davidgorodoką, Rogačiovą ir Pinską, kurį gavo vedęs Oleną Aleksandrą.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Fedoras Ivanovičius Jaroslavičius LDK valdė Klecką, Davidgorodoką, Rogačiovą ir Pinską, kurį gavo vedęs Oleną Aleksandrą.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+<a id="claim-t-194132"></a>
+- t-001
+  teiginys: "Fedoras Ivanovičius Jaroslavičius LDK valdė Klecką, Davidgorodoką, Rogačiovą ir Pinską, kurį gavo vedęs Oleną Aleksandrą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-176745
+
+## Citatos
+
+- id: c-176745
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     5 Fedoras Ivanovičius Jaroslavičius — Maskvos emigranto, Ser-
     puchovo kunigaikščio Vasilijaus Jaroslavičiaus, vaikaitis, susigi­
@@ -58,8 +74,10 @@ Fedoras Ivanovičius Jaroslavičius LDK valdė Klecką, Davidgorodoką, Rogačio
     Kijevo kunigaikščio Simono Olelkaičio ir jo  žmonos Jonaitės Goš-
     tautaitės dukterį Oleną Aleksandrą. M irė tarp 1520 ir 1522 m.,
     pasižymėjęs labdarybe ir cerkvių rėmimu.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: not_found
+  pagrindzia:
+    - t-001

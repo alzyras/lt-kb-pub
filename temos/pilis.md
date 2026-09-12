@@ -6,7 +6,7 @@ tema_kategorija: "vietos"
 tema_kategorijos_pavadinimas: "Vietų tipai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 473
+tema_objektu_skaicius: 474
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 473.
+Objektų skaičius: 474.
 
 ## Kaip naudoti
 
@@ -490,6 +490,7 @@ Objektų skaičius: 473.
 - [Kilmingų sembų prisidėjimas prie Karaliaučiaus brolių](../objektai/ivykiai/Kilming%C5%B3%20semb%C5%B3%20prisid%C4%97jimas%20prie%20Karaliau%C4%8Diaus%20broli%C5%B3)
 - [Kolainių pilies puolimas (1290 m. balandžio 23 d.)](../objektai/ivykiai/Kolaini%C5%B3%20pilies%20puolimas%20%281290%20m.%20baland%C5%BEio%2023%20d.%29)
 - [Kristmemelio pilies apgultis (1315 m. rugsėjo 30—spalio 11 d.)](../objektai/ivykiai/Kristmemelio%20pilies%20apgultis%20%281315%20m.%20rugs%C4%97jo%2030%E2%80%94spalio%2011%20d.%29)
+- [Krėvos sutartis (1385 m.)](../objektai/ivykiai/Kr%C4%97vos%20sutartis%20%281385%20m.%29)
 - [Laivų kautynės prie Santyro](../objektai/ivykiai/Laiv%C5%B3%20kautyn%C4%97s%20prie%20Santyro)
 - [Martyno iš Golino kova su 20 prūsų plėšikų](../objektai/ivykiai/Martyno%20i%C5%A1%20Golino%20kova%20su%2020%20pr%C5%ABs%C5%B3%20pl%C4%97%C5%A1ik%C5%B3)
 - [Naujas Sventopelko karas ir susidūrimas prie Renzeno](../objektai/ivykiai/Naujas%20Sventopelko%20karas%20ir%20susid%C5%ABrimas%20prie%20Renzeno)

@@ -76,6 +76,19 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
   pagrindžia:
     - c-178748
 
+<a id="claim-t-206333"></a>
+- t-003
+  teiginys: "Konstantinas, karaliaus brolis, paklausė maršalkos, ar maršalka nori išgirsti jo nuomonę."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188948
+
 ## Citatos
 
 - id: c-28937
@@ -123,3 +136,24 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-188948
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 521"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 521."
+  citata_originali: |
+    O Konstantinas, kara­
+    liaus brolis, paklausė: Maršalka, ar nori mano nuomonę iš­
+    girsti? M aršalka atsakė: Konstantinai, mielai klausau. Tad
+    žinoki, maršalka, jeigu karalius ir norėtų pas jus vykti, tai aš to
+    niekados nepadarysiu. M aršalka atsakė: Konstantinai, tavo
+    šneką gerai suprantu, ar klausysies mano atsakymo? M aršal­
+    ka, mielai klausau. Tad žinoki, kad didysis magistras ir vyres­
+    nieji mane atsiuntė pas karalių, o ne pas tave.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

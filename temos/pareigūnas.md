@@ -166,7 +166,7 @@ Objektų skaičius: 221.
 - [Lavrentijus Berija](../objektai/asmenys/Lavrentijus%20Berija)
 - [Lebedis](../objektai/asmenys/Lebedis)
 - [Leliušas](../objektai/asmenys/Leliu%C5%A1as)
-- [Leonas Sapiega](../objektai/asmenys/Leonas%20Sapiega)
+- [Leonas Sapiega (kunigaikštis, XVI a.)](../objektai/asmenys/Leonas%20Sapiega)
 - [Leonidas Brežnevas](../objektai/asmenys/Leonidas%20Bre%C5%BEnevas)
 - [Libonas](../objektai/asmenys/Libonas)
 - [Liudvikas iš Baldensheimo](../objektai/asmenys/Liudvikas%20i%C5%A1%20Baldensheimo)

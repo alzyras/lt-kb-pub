@@ -37,13 +37,13 @@ media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AGedimina
 media_primary_directness: 'direct'
 media_primary_relation_type: 'depicts'
 media_primary_json: |-
-  {"mediaId":"m-4356b6ff73bce39af8973e2e","title":"Gediminaiciai Genealogy.png","caption":"Gediminaičių dinastijos genealoginė schema.","originalTitle":"Gediminaiciai Genealogy.png","creator":"Kpalion ( talk ) ( Uploads )","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"http://creativecommons.org/licenses/by-sa/3.0/","attribution":"Made by Kpalion","dateDisplay":"2004-11-24","dateStart":null,"dateEnd":null,"width":1743,"height":973,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGediminaiciai_Genealogy.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Gediminaiciai_Genealogy.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Gediminaiciai_Genealogy.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Gediminaiciai_Genealogy.png","institution":"","collection":"","country":"","language":"","tags":[],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0-migrated","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Family trees of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Family trees of the Gediminid dynasty","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"GFDL","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"License migration completed","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Gediminaičių dinastija.md","title":"Gediminaičių dinastija","itemType":"grupe","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T13:01:55.925699+03:00","reviewedAt":"2026-07-11T13:03:04.414837+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi genealoginis medis su Gediminu, jo pirmtakais ir palikuonimis, įskaitant Algirdą, Kęstutį, Jogailą, Vytautą ir kitus.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Gediminaiciai Genealogy“ ir „Genealogical tree of the Gediminaičiai dynasty“.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Aiškiai vaizduoja būtent Gediminaičių dinastijos genealogiją, todėl ryšys su target yra tiesioginis.","isPrimary":1}
+  {"mediaId":"m-4356b6ff73bce39af8973e2e","title":"Gediminaiciai Genealogy.png","caption":"Gediminaičių dinastijos genealoginis medis.","originalTitle":"Gediminaiciai Genealogy.png","creator":"Kpalion ( talk ) ( Uploads )","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"http://creativecommons.org/licenses/by-sa/3.0/","attribution":"Made by Kpalion","dateDisplay":"2004-11-24","dateStart":null,"dateEnd":null,"width":1743,"height":973,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGediminaiciai_Genealogy.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Gediminaiciai_Genealogy.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Gediminaiciai_Genealogy.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Gediminaiciai_Genealogy.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"dinastija","label":"dinastija","facetKind":"tema","confidence":0.95},{"code":"grupe","label":"grupe","facetKind":"tema","confidence":0.95},{"code":"schema","label":"schema","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0-migrated","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Family trees of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Family trees of the Gediminid dynasty","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"GFDL","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"License migration completed","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Gediminaičių dinastija.md","title":"Gediminaičių dinastija","itemType":"grupe","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T13:01:55.925699+03:00","reviewedAt":"2026-08-11T00:51:29.498513+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Aiškiai matoma genealoginė schema, kurioje įvardyti Butigeidis, Buivydas-Pukuveras, Vytenis, Gediminas, Algirdas, Kęstutis, Jogaila ir kiti dinastijos atstovai.","metadataEvidence":"Pavadinimas „Gediminaiciai Genealogy.png“ ir aprašas tiesiogiai nurodo Gediminaičių dinastijos genealoginį medį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų target objektą – Gediminaičių dinastiją.","isPrimary":1}
 media_direct_json: |-
-  [{"mediaId":"m-4356b6ff73bce39af8973e2e","title":"Gediminaiciai Genealogy.png","caption":"Gediminaičių dinastijos genealoginė schema.","originalTitle":"Gediminaiciai Genealogy.png","creator":"Kpalion ( talk ) ( Uploads )","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"http://creativecommons.org/licenses/by-sa/3.0/","attribution":"Made by Kpalion","dateDisplay":"2004-11-24","dateStart":null,"dateEnd":null,"width":1743,"height":973,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGediminaiciai_Genealogy.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Gediminaiciai_Genealogy.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Gediminaiciai_Genealogy.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Gediminaiciai_Genealogy.png","institution":"","collection":"","country":"","language":"","tags":[],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0-migrated","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Family trees of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Family trees of the Gediminid dynasty","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"GFDL","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"License migration completed","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Gediminaičių dinastija.md","title":"Gediminaičių dinastija","itemType":"grupe","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T13:01:55.925699+03:00","reviewedAt":"2026-07-11T13:03:04.414837+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi genealoginis medis su Gediminu, jo pirmtakais ir palikuonimis, įskaitant Algirdą, Kęstutį, Jogailą, Vytautą ir kitus.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Gediminaiciai Genealogy“ ir „Genealogical tree of the Gediminaičiai dynasty“.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Aiškiai vaizduoja būtent Gediminaičių dinastijos genealogiją, todėl ryšys su target yra tiesioginis.","isPrimary":1}]
+  [{"mediaId":"m-4356b6ff73bce39af8973e2e","title":"Gediminaiciai Genealogy.png","caption":"Gediminaičių dinastijos genealoginis medis.","originalTitle":"Gediminaiciai Genealogy.png","creator":"Kpalion ( talk ) ( Uploads )","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"http://creativecommons.org/licenses/by-sa/3.0/","attribution":"Made by Kpalion","dateDisplay":"2004-11-24","dateStart":null,"dateEnd":null,"width":1743,"height":973,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGediminaiciai_Genealogy.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Gediminaiciai_Genealogy.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Gediminaiciai_Genealogy.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Gediminaiciai_Genealogy.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"dinastija","label":"dinastija","facetKind":"tema","confidence":0.95},{"code":"grupe","label":"grupe","facetKind":"tema","confidence":0.95},{"code":"schema","label":"schema","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0-migrated","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Family trees of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Family trees of the Gediminid dynasty","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"GFDL","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"License migration completed","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Gediminaičių dinastija.md","title":"Gediminaičių dinastija","itemType":"grupe","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T13:01:55.925699+03:00","reviewedAt":"2026-08-11T00:51:29.498513+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Aiškiai matoma genealoginė schema, kurioje įvardyti Butigeidis, Buivydas-Pukuveras, Vytenis, Gediminas, Algirdas, Kęstutis, Jogaila ir kiti dinastijos atstovai.","metadataEvidence":"Pavadinimas „Gediminaiciai Genealogy.png“ ir aprašas tiesiogiai nurodo Gediminaičių dinastijos genealoginį medį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų target objektą – Gediminaičių dinastiją.","isPrimary":1}]
 media_contextual_json: |-
-  [{"mediaId":"m-37bdc684010596736c7de8dd","title":"The Coat of Arms of the Lithuanian dynasty of Gediminids (Gediminaičiai), The Columns of Gediminas, Kaunas Town Hall, Lithuania, 17th century. - 2.jpg","caption":"Gedimino stulpai, Gediminaičių dinastijos heraldinis simbolis Kauno rotušėje.","originalTitle":"The Coat of Arms of the Lithuanian dynasty of Gediminids (Gediminaičiai), The Columns of Gediminas, Kaunas Town Hall, Lithuania, 17th century. - 2.jpg","creator":"Ke an","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-10-22","dateStart":null,"dateEnd":null,"width":4016,"height":6016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_2.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_2.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_2.jpg/1920px-The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_2.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_2.jpg","institution":"","collection":"","country":"","language":"","tags":[],"sourceTags":[{"provider":"commons","field":"categories","label":"Architecture of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Columns of Gediminas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Town hall in Kaunas","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Gediminaičių dinastija.md","title":"Gediminaičių dinastija","itemType":"grupe","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T13:01:58.667881+03:00","reviewedAt":"2026-07-11T13:03:04.421695+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Ant architektūrinės sienos matomas išlikęs Gedimino stulpų ženklas, nors vaizdas aptrupėjęs ir dalinai sunykęs.","metadataEvidence":"Pavadinimas ir aprašas identifikuoja objektą kaip Gediminaičių dinastijos herbą, Gedimino stulpus, Kauno rotušėje, XVII a.","confidenceLevel":"high","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas nerodo pačios dinastijos narių, bet aiškiai identifikuotas kaip jos heraldinis simbolis, todėl priimtinas kaip kontekstinis ryšys.","isPrimary":0},{"mediaId":"m-736c45148e3748b5c5be48ab","title":"The Coat of Arms of the Lithuanian dynasty of Gediminids (Gediminaičiai), The Columns of Gediminas, Kaunas Town Hall, Lithuania, 17th century. - 3.jpg","caption":"Gedimino stulpai, Gediminaičių dinastijos heraldinis simbolis Kauno rotušėje.","originalTitle":"The Coat of Arms of the Lithuanian dynasty of Gediminids (Gediminaičiai), The Columns of Gediminas, Kaunas Town Hall, Lithuania, 17th century. - 3.jpg","creator":"Ke an","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-10-22","dateStart":null,"dateEnd":null,"width":6016,"height":4016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_3.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_3.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_3.jpg/1920px-The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_3.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_3.jpg","institution":"","collection":"","country":"","language":"","tags":[],"sourceTags":[{"provider":"commons","field":"categories","label":"Architecture of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Columns of Gediminas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Town hall in Kaunas","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Gediminaičių dinastija.md","title":"Gediminaičių dinastija","itemType":"grupe","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T13:01:58.668489+03:00","reviewedAt":"2026-07-11T13:03:04.424689+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Priartintame sienos fragmente matomas Gedimino stulpų ženklas greta mūrinės arkos.","metadataEvidence":"Pavadinimas ir aprašas identifikuoja objektą kaip Gediminaičių dinastijos herbą, Gedimino stulpus, Kauno rotušėje, XVII a.","confidenceLevel":"high","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Simbolis aiškiai susietas su Gediminaičių dinastija, tačiau tai yra kontekstinis heraldinis ženklas, ne tiesioginis dinastijos vaizdavimas.","isPrimary":0},{"mediaId":"m-078dc8637d41696896aa3afd","title":"The Coat of Arms of the Lithuanian dynasty of Gediminids (Gediminaičiai), The Columns of Gediminas, Kaunas Town Hall, Lithuania, 17th century.jpg","caption":"Gedimino stulpai, Gediminaičių dinastijos heraldinis simbolis Kauno rotušės sienoje.","originalTitle":"The Coat of Arms of the Lithuanian dynasty of Gediminids (Gediminaičiai), The Columns of Gediminas, Kaunas Town Hall, Lithuania, 17th century.jpg","creator":"Ke an","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-10-22","dateStart":null,"dateEnd":null,"width":4016,"height":6016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century.jpg/1920px-The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century.jpg","institution":"","collection":"","country":"","language":"","tags":[],"sourceTags":[{"provider":"commons","field":"categories","label":"Architecture of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Columns of Gediminas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Town hall in Kaunas","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Gediminaičių dinastija.md","title":"Gediminaičių dinastija","itemType":"grupe","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T13:01:58.668854+03:00","reviewedAt":"2026-07-11T13:03:04.427339+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Platesniame architektūros vaizde ant sienos matomas išlikęs Gedimino stulpų ženklas virš arkos.","metadataEvidence":"Pavadinimas ir aprašas identifikuoja objektą kaip Gediminaičių dinastijos herbą, Gedimino stulpus, Kauno rotušėje, XVII a.","confidenceLevel":"high","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Ryšys su target pagrįstas aiškiai identifikuotu Gediminaičių heraldiniu simboliu, todėl vaizdas tinkamas kontekstiniu lygmeniu.","isPrimary":0}]
+  [{"mediaId":"m-37bdc684010596736c7de8dd","title":"The Coat of Arms of the Lithuanian dynasty of Gediminids (Gediminaičiai), The Columns of Gediminas, Kaunas Town Hall, Lithuania, 17th century. - 2.jpg","caption":"Gediminaičių stulpų fragmentas Kauno rotušėje, XVII a.","originalTitle":"The Coat of Arms of the Lithuanian dynasty of Gediminids (Gediminaičiai), The Columns of Gediminas, Kaunas Town Hall, Lithuania, 17th century. - 2.jpg","creator":"Ke an","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-10-22","dateStart":null,"dateEnd":null,"width":4016,"height":6016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_2.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_2.jpg/1920px-The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"gediminaičių-stulpai","label":"Gediminaičių stulpai","facetKind":"tema","confidence":0.95},{"code":"dinastija","label":"dinastija","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-herbas","label":"miesto herbas","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Columns of Gediminas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Town hall in Kaunas","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Gediminaičių dinastija.md","title":"Gediminaičių dinastija","itemType":"grupe","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T13:01:58.667881+03:00","reviewedAt":"2026-08-11T00:51:29.529210+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas restauruoto ar nusitrynusio dažyto heraldinio ženklo fragmentas ant Kauno rotušės architektūros.","metadataEvidence":"Kandidato metaduomenys konkrečiai nurodo Gediminaičių stulpus, Gediminaičių dinastiją, Kauno rotušę ir XVII amžių.","confidenceLevel":"high","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai identifikuojamas Gediminaičių dinastijos simbolis, todėl vaizdas priimtinas kaip kontekstinis.","isPrimary":0},{"mediaId":"m-736c45148e3748b5c5be48ab","title":"The Coat of Arms of the Lithuanian dynasty of Gediminids (Gediminaičiai), The Columns of Gediminas, Kaunas Town Hall, Lithuania, 17th century. - 3.jpg","caption":"Gediminaičių stulpų fragmentas Kauno rotušėje, XVII a.","originalTitle":"The Coat of Arms of the Lithuanian dynasty of Gediminids (Gediminaičiai), The Columns of Gediminas, Kaunas Town Hall, Lithuania, 17th century. - 3.jpg","creator":"Ke an","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-10-22","dateStart":null,"dateEnd":null,"width":6016,"height":4016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_3.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_3.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_3.jpg/1920px-The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_3.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_3.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"gediminaičių-stulpai","label":"Gediminaičių stulpai","facetKind":"tema","confidence":0.95},{"code":"dinastija","label":"dinastija","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Architecture of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Columns of Gediminas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Town hall in Kaunas","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Gediminaičių dinastija.md","title":"Gediminaičių dinastija","itemType":"grupe","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T13:01:58.668489+03:00","reviewedAt":"2026-08-11T00:51:29.523131+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Stambiu planu matomas dažytas Gediminaičių stulpų ženklas ir plytų arkos Kauno rotušėje.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai identifikuoja Gediminaičių stulpus kaip Gediminaičių dinastijos herbą Kauno rotušėje.","confidenceLevel":"high","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas aiškiai dokumentuoja konkrečios dinastijos simbolį.","isPrimary":0},{"mediaId":"m-078dc8637d41696896aa3afd","title":"The Coat of Arms of the Lithuanian dynasty of Gediminids (Gediminaičiai), The Columns of Gediminas, Kaunas Town Hall, Lithuania, 17th century.jpg","caption":"Gediminaičių stulpai Kauno rotušėje, XVII a.","originalTitle":"The Coat of Arms of the Lithuanian dynasty of Gediminids (Gediminaičiai), The Columns of Gediminas, Kaunas Town Hall, Lithuania, 17th century.jpg","creator":"Ke an","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-10-22","dateStart":null,"dateEnd":null,"width":4016,"height":6016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century.jpg/1920px-The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"gediminaičių-stulpai","label":"Gediminaičių stulpai","facetKind":"tema","confidence":0.95},{"code":"dinastija","label":"dinastija","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-herbas","label":"miesto herbas","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Columns of Gediminas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Town hall in Kaunas","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Gediminaičių dinastija.md","title":"Gediminaičių dinastija","itemType":"grupe","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T13:01:58.668854+03:00","reviewedAt":"2026-08-11T00:51:29.516566+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis mūrinės Kauno rotušės dekoro fragmentas su Gediminaičių stulpų ženklu.","metadataEvidence":"Kandidato pavadinimas ir aprašas konkrečiai nurodo Gediminaičių stulpus, Gediminaičių dinastiją, Kauno rotušę ir XVII amžių.","confidenceLevel":"high","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne pačios dinastijos atvaizdas, bet aiškiai su ja susijęs simbolis.","isPrimary":0}]
 media_all_json: |-
-  [{"mediaId":"m-4356b6ff73bce39af8973e2e","title":"Gediminaiciai Genealogy.png","caption":"Gediminaičių dinastijos genealoginė schema.","originalTitle":"Gediminaiciai Genealogy.png","creator":"Kpalion ( talk ) ( Uploads )","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"http://creativecommons.org/licenses/by-sa/3.0/","attribution":"Made by Kpalion","dateDisplay":"2004-11-24","dateStart":null,"dateEnd":null,"width":1743,"height":973,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGediminaiciai_Genealogy.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Gediminaiciai_Genealogy.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Gediminaiciai_Genealogy.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Gediminaiciai_Genealogy.png","institution":"","collection":"","country":"","language":"","tags":[],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0-migrated","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Family trees of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Family trees of the Gediminid dynasty","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"GFDL","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"License migration completed","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Gediminaičių dinastija.md","title":"Gediminaičių dinastija","itemType":"grupe","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T13:01:55.925699+03:00","reviewedAt":"2026-07-11T13:03:04.414837+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi genealoginis medis su Gediminu, jo pirmtakais ir palikuonimis, įskaitant Algirdą, Kęstutį, Jogailą, Vytautą ir kitus.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Gediminaiciai Genealogy“ ir „Genealogical tree of the Gediminaičiai dynasty“.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Aiškiai vaizduoja būtent Gediminaičių dinastijos genealogiją, todėl ryšys su target yra tiesioginis.","isPrimary":1},{"mediaId":"m-37bdc684010596736c7de8dd","title":"The Coat of Arms of the Lithuanian dynasty of Gediminids (Gediminaičiai), The Columns of Gediminas, Kaunas Town Hall, Lithuania, 17th century. - 2.jpg","caption":"Gedimino stulpai, Gediminaičių dinastijos heraldinis simbolis Kauno rotušėje.","originalTitle":"The Coat of Arms of the Lithuanian dynasty of Gediminids (Gediminaičiai), The Columns of Gediminas, Kaunas Town Hall, Lithuania, 17th century. - 2.jpg","creator":"Ke an","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-10-22","dateStart":null,"dateEnd":null,"width":4016,"height":6016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_2.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_2.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_2.jpg/1920px-The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_2.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_2.jpg","institution":"","collection":"","country":"","language":"","tags":[],"sourceTags":[{"provider":"commons","field":"categories","label":"Architecture of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Columns of Gediminas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Town hall in Kaunas","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Gediminaičių dinastija.md","title":"Gediminaičių dinastija","itemType":"grupe","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T13:01:58.667881+03:00","reviewedAt":"2026-07-11T13:03:04.421695+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Ant architektūrinės sienos matomas išlikęs Gedimino stulpų ženklas, nors vaizdas aptrupėjęs ir dalinai sunykęs.","metadataEvidence":"Pavadinimas ir aprašas identifikuoja objektą kaip Gediminaičių dinastijos herbą, Gedimino stulpus, Kauno rotušėje, XVII a.","confidenceLevel":"high","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas nerodo pačios dinastijos narių, bet aiškiai identifikuotas kaip jos heraldinis simbolis, todėl priimtinas kaip kontekstinis ryšys.","isPrimary":0},{"mediaId":"m-736c45148e3748b5c5be48ab","title":"The Coat of Arms of the Lithuanian dynasty of Gediminids (Gediminaičiai), The Columns of Gediminas, Kaunas Town Hall, Lithuania, 17th century. - 3.jpg","caption":"Gedimino stulpai, Gediminaičių dinastijos heraldinis simbolis Kauno rotušėje.","originalTitle":"The Coat of Arms of the Lithuanian dynasty of Gediminids (Gediminaičiai), The Columns of Gediminas, Kaunas Town Hall, Lithuania, 17th century. - 3.jpg","creator":"Ke an","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-10-22","dateStart":null,"dateEnd":null,"width":6016,"height":4016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_3.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_3.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_3.jpg/1920px-The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_3.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_3.jpg","institution":"","collection":"","country":"","language":"","tags":[],"sourceTags":[{"provider":"commons","field":"categories","label":"Architecture of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Columns of Gediminas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Town hall in Kaunas","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Gediminaičių dinastija.md","title":"Gediminaičių dinastija","itemType":"grupe","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T13:01:58.668489+03:00","reviewedAt":"2026-07-11T13:03:04.424689+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Priartintame sienos fragmente matomas Gedimino stulpų ženklas greta mūrinės arkos.","metadataEvidence":"Pavadinimas ir aprašas identifikuoja objektą kaip Gediminaičių dinastijos herbą, Gedimino stulpus, Kauno rotušėje, XVII a.","confidenceLevel":"high","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Simbolis aiškiai susietas su Gediminaičių dinastija, tačiau tai yra kontekstinis heraldinis ženklas, ne tiesioginis dinastijos vaizdavimas.","isPrimary":0},{"mediaId":"m-078dc8637d41696896aa3afd","title":"The Coat of Arms of the Lithuanian dynasty of Gediminids (Gediminaičiai), The Columns of Gediminas, Kaunas Town Hall, Lithuania, 17th century.jpg","caption":"Gedimino stulpai, Gediminaičių dinastijos heraldinis simbolis Kauno rotušės sienoje.","originalTitle":"The Coat of Arms of the Lithuanian dynasty of Gediminids (Gediminaičiai), The Columns of Gediminas, Kaunas Town Hall, Lithuania, 17th century.jpg","creator":"Ke an","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-10-22","dateStart":null,"dateEnd":null,"width":4016,"height":6016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century.jpg/1920px-The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century.jpg","institution":"","collection":"","country":"","language":"","tags":[],"sourceTags":[{"provider":"commons","field":"categories","label":"Architecture of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Columns of Gediminas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Town hall in Kaunas","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Gediminaičių dinastija.md","title":"Gediminaičių dinastija","itemType":"grupe","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T13:01:58.668854+03:00","reviewedAt":"2026-07-11T13:03:04.427339+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Platesniame architektūros vaizde ant sienos matomas išlikęs Gedimino stulpų ženklas virš arkos.","metadataEvidence":"Pavadinimas ir aprašas identifikuoja objektą kaip Gediminaičių dinastijos herbą, Gedimino stulpus, Kauno rotušėje, XVII a.","confidenceLevel":"high","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Ryšys su target pagrįstas aiškiai identifikuotu Gediminaičių heraldiniu simboliu, todėl vaizdas tinkamas kontekstiniu lygmeniu.","isPrimary":0}]
+  [{"mediaId":"m-4356b6ff73bce39af8973e2e","title":"Gediminaiciai Genealogy.png","caption":"Gediminaičių dinastijos genealoginis medis.","originalTitle":"Gediminaiciai Genealogy.png","creator":"Kpalion ( talk ) ( Uploads )","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"http://creativecommons.org/licenses/by-sa/3.0/","attribution":"Made by Kpalion","dateDisplay":"2004-11-24","dateStart":null,"dateEnd":null,"width":1743,"height":973,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGediminaiciai_Genealogy.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Gediminaiciai_Genealogy.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Gediminaiciai_Genealogy.png","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/1/1b/Gediminaiciai_Genealogy.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"dinastija","label":"dinastija","facetKind":"tema","confidence":0.95},{"code":"grupe","label":"grupe","facetKind":"tema","confidence":0.95},{"code":"schema","label":"schema","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-3.0-migrated","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Family trees of Lithuania","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Family trees of the Gediminid dynasty","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"GFDL","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"License migration completed","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Gediminaičių dinastija.md","title":"Gediminaičių dinastija","itemType":"grupe","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T13:01:55.925699+03:00","reviewedAt":"2026-08-11T00:51:29.498513+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Aiškiai matoma genealoginė schema, kurioje įvardyti Butigeidis, Buivydas-Pukuveras, Vytenis, Gediminas, Algirdas, Kęstutis, Jogaila ir kiti dinastijos atstovai.","metadataEvidence":"Pavadinimas „Gediminaiciai Genealogy.png“ ir aprašas tiesiogiai nurodo Gediminaičių dinastijos genealoginį medį.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas tiesiogiai vaizduoja konkretų target objektą – Gediminaičių dinastiją.","isPrimary":1},{"mediaId":"m-37bdc684010596736c7de8dd","title":"The Coat of Arms of the Lithuanian dynasty of Gediminids (Gediminaičiai), The Columns of Gediminas, Kaunas Town Hall, Lithuania, 17th century. - 2.jpg","caption":"Gediminaičių stulpų fragmentas Kauno rotušėje, XVII a.","originalTitle":"The Coat of Arms of the Lithuanian dynasty of Gediminids (Gediminaičiai), The Columns of Gediminas, Kaunas Town Hall, Lithuania, 17th century. - 2.jpg","creator":"Ke an","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-10-22","dateStart":null,"dateEnd":null,"width":4016,"height":6016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_2.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_2.jpg/1920px-The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/3/3e/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"gediminaičių-stulpai","label":"Gediminaičių stulpai","facetKind":"tema","confidence":0.95},{"code":"dinastija","label":"dinastija","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-herbas","label":"miesto herbas","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Columns of Gediminas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Town hall in Kaunas","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Gediminaičių dinastija.md","title":"Gediminaičių dinastija","itemType":"grupe","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T13:01:58.667881+03:00","reviewedAt":"2026-08-11T00:51:29.529210+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas restauruoto ar nusitrynusio dažyto heraldinio ženklo fragmentas ant Kauno rotušės architektūros.","metadataEvidence":"Kandidato metaduomenys konkrečiai nurodo Gediminaičių stulpus, Gediminaičių dinastiją, Kauno rotušę ir XVII amžių.","confidenceLevel":"high","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai aiškiai identifikuojamas Gediminaičių dinastijos simbolis, todėl vaizdas priimtinas kaip kontekstinis.","isPrimary":0},{"mediaId":"m-736c45148e3748b5c5be48ab","title":"The Coat of Arms of the Lithuanian dynasty of Gediminids (Gediminaičiai), The Columns of Gediminas, Kaunas Town Hall, Lithuania, 17th century. - 3.jpg","caption":"Gediminaičių stulpų fragmentas Kauno rotušėje, XVII a.","originalTitle":"The Coat of Arms of the Lithuanian dynasty of Gediminids (Gediminaičiai), The Columns of Gediminas, Kaunas Town Hall, Lithuania, 17th century. - 3.jpg","creator":"Ke an","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-10-22","dateStart":null,"dateEnd":null,"width":6016,"height":4016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_3.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_3.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_3.jpg/1920px-The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_3.jpg","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b9/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century._-_3.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"gediminaičių-stulpai","label":"Gediminaičių stulpai","facetKind":"tema","confidence":0.95},{"code":"dinastija","label":"dinastija","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Architecture of Kaunas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Columns of Gediminas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Town hall in Kaunas","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Gediminaičių dinastija.md","title":"Gediminaičių dinastija","itemType":"grupe","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T13:01:58.668489+03:00","reviewedAt":"2026-08-11T00:51:29.523131+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Stambiu planu matomas dažytas Gediminaičių stulpų ženklas ir plytų arkos Kauno rotušėje.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai identifikuoja Gediminaičių stulpus kaip Gediminaičių dinastijos herbą Kauno rotušėje.","confidenceLevel":"high","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas aiškiai dokumentuoja konkrečios dinastijos simbolį.","isPrimary":0},{"mediaId":"m-078dc8637d41696896aa3afd","title":"The Coat of Arms of the Lithuanian dynasty of Gediminids (Gediminaičiai), The Columns of Gediminas, Kaunas Town Hall, Lithuania, 17th century.jpg","caption":"Gediminaičių stulpai Kauno rotušėje, XVII a.","originalTitle":"The Coat of Arms of the Lithuanian dynasty of Gediminids (Gediminaičiai), The Columns of Gediminas, Kaunas Town Hall, Lithuania, 17th century.jpg","creator":"Ke an","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-10-22","dateStart":null,"dateEnd":null,"width":4016,"height":6016,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century.jpg/1920px-The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f0/The_Coat_of_Arms_of_the_Lithuanian_dynasty_of_Gediminids_%28Gediminai%C4%8Diai%29%2C_The_Columns_of_Gediminas%2C_Kaunas_Town_Hall%2C_Lithuania%2C_17th_century.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"simbolis","label":"simbolis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"gediminaičių-stulpai","label":"Gediminaičių stulpai","facetKind":"tema","confidence":0.95},{"code":"dinastija","label":"dinastija","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"kaunas","label":"kaunas","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"miesto-herbas","label":"miesto herbas","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"CC-BY-SA-4.0","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Columns of Gediminas","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Self-published work","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Town hall in Kaunas","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/grupes/Gediminaičių dinastija.md","title":"Gediminaičių dinastija","itemType":"grupe","relationType":"associated_symbol_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T13:01:58.668854+03:00","reviewedAt":"2026-08-11T00:51:29.516566+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matomas istorinis mūrinės Kauno rotušės dekoro fragmentas su Gediminaičių stulpų ženklu.","metadataEvidence":"Kandidato pavadinimas ir aprašas konkrečiai nurodo Gediminaičių stulpus, Gediminaičių dinastiją, Kauno rotušę ir XVII amžių.","confidenceLevel":"high","relationType":"associated_symbol_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Tai ne pačios dinastijos atvaizdas, bet aiškiai su ja susijęs simbolis.","isPrimary":0}]
 ---
 # Gediminaičių dinastija
 
@@ -53,8 +53,27 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
 
 ## Teiginiai
 
-<a id="claim-t-12360"></a>
+<a id="claim-t-12359"></a>
 - t-001
+  teiginys: "Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos palikuonys, kurių teisės sostams buvo pripažįstamos iš tradicijos (nė vienoje valstybėje nebuvo paveldėjamojo įstatymo)."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gediminaičių dinastija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gediminaičių dinastija\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-15961
+    - c-180601
+
+<a id="claim-t-12360"></a>
+- t-002
   teiginys: "Su Krėvės unija sutiko ne visi Gediminaičiai."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -71,7 +90,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-14965
 
 <a id="claim-t-12363"></a>
-- t-002
+- t-003
   teiginys: "Vytautas panaikino didžiąsias Gediminaičių kunigaikštijas ir paliko jiems tik smulkesnius valdinius."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -89,7 +108,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-186027
 
 <a id="claim-t-96101"></a>
-- t-003
+- t-004
   teiginys: "Vytautui panaikinus stipriąsias kunigaikštijas, Gediminaičiai nepajudinti liko tik Mstislavlyje ir Pinske."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -108,7 +127,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180590
 
 <a id="claim-t-96106"></a>
-- t-004
+- t-005
   teiginys: "Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai savo kilmę sieti su Palemono tradicija arba Gediminaičių dinastija."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -125,7 +144,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-90830
 
 <a id="claim-t-96108"></a>
-- t-005
+- t-006
   teiginys: "Daugumas Gediminaičių pačioje Vytauto valdymo pradžioje pasirodė jam nepaklusnūs."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -143,7 +162,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180587
 
 <a id="claim-t-96109"></a>
-- t-006
+- t-007
   teiginys: "Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gediminas (valdęs 1316–1341 m.)."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -163,7 +182,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-22400
 
 <a id="claim-t-96113"></a>
-- t-007
+- t-008
   teiginys: "XIII a. pabaigoje Lietuvos istorijoje iškilo lietuvių kilmės valdovų Gediminaičių dinastija."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -181,7 +200,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180583
 
 <a id="claim-t-96117"></a>
-- t-008
+- t-009
   teiginys: "Mirus paskutiniam Gediminaičių dinastijos valdovui Zigmantui Augustui, Lietuva ir Lenkija galėjo rinktis atskirus valdovus."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -198,7 +217,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-22398
 
 <a id="claim-t-182889"></a>
-- t-009
+- t-010
   teiginys: "Gediminaičių dinastijos Jogailos palikuonių teisės į sostus buvo pripažįstamos iš tradicijos."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -219,7 +238,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180594
 
 <a id="claim-t-198540"></a>
-- t-010
+- t-011
   teiginys: "Dauguma Gediminaičių Vytautui valdymo pradžioje pasirodė nepaklusnūs."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -230,7 +249,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180587
 
 <a id="claim-t-198543"></a>
-- t-011
+- t-012
   teiginys: "Dalį kunigaikštijų valdė Gediminaičiai, o kitas valdė Riurikaičiai ir įvairūs lietuvių kilmės kunigaikščiai."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -249,9 +268,9 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180586
 
 <a id="claim-t-198544"></a>
-- t-012
+- t-013
   teiginys: "Gediminaičiai buvo pasidaliję tarp pagonybės ir graikų krikšto, kai sprendėsi Lietuvos krikšto kryptis."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Citata palaiko teiginį, bet pridėtas aiškesnis kontekstas ir pašalintas neapibrėžtumas."
   susije_objektai: "mentioned_group: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]"
@@ -271,7 +290,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180591
 
 <a id="claim-t-198548"></a>
-- t-013
+- t-014
   teiginys: "Lietuvos metraščio pasakojime Vytenis vaizduojamas kaip pirmasis Gediminaičių dinastijos valdovas po Palemono ir Kentauro herbo dinastijų."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -293,7 +312,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180598
 
 <a id="claim-t-198549"></a>
-- t-014
+- t-015
   teiginys: "Iš lietuvių tautos buvo kilusi ir valdančioji Gediminaičių šeima."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -312,7 +331,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180603
 
 <a id="claim-t-198551"></a>
-- t-015
+- t-016
   teiginys: "Kiti Gediminaičiai valdė Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -331,7 +350,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-31065
 
 <a id="claim-t-198552"></a>
-- t-016
+- t-017
   teiginys: "Prie Kauno rastoje senovinėje lietuviškoje monetoje Narbutas vienoje pusėje nurodė Gediminaičių Stulpų herbą ir neaiškią raidę."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -354,7 +373,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180600
 
 <a id="claim-t-198556"></a>
-- t-017
+- t-018
   teiginys: "Po Gediminaičių dinastijos išmirimo 1572 m. abiejų tautų politinė istorija vystėsi bendroje respublikoje."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -369,9 +388,9 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180597
 
 <a id="claim-t-198560"></a>
-- t-018
+- t-019
   teiginys: "Kiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio valios."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir paremtas citatos turiniu."
   susije_objektai: "mentioned_group: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva"
@@ -379,9 +398,10 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-180595
+    - c-180599
 
 <a id="claim-t-198561"></a>
-- t-019
+- t-020
   teiginys: "Kęstutis turėjo didesnes teises negu kiti Gediminaičiai, kurie savo žemėse priklausė nuo didžiojo kunigaikščio valios."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -393,7 +413,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-180595
 
 <a id="claim-t-203368"></a>
-- t-020
+- t-021
   teiginys: "Pasak knygos „Lietuvos istorija“, Lietuvos metraščiuose sukurta Palemono ir jo ainių legenda tapo pagrindu lietuvių ir rusėnų bajorijai savo kilmę vesti Palemono tradicija arba sieti save su realia Gediminaičių dinastija."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -404,7 +424,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-90826
 
 <a id="claim-t-203510"></a>
-- t-021
+- t-022
   teiginys: "Leidinyje „Lietuvos istorija“ Gediminas, valdęs 1316–1341 m., vadinamas garsiausiu dinastijos atstovu ir teigiama, kad šis Vytenio brolis davė dinastijai vardą."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -438,7 +458,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-14966
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -497,8 +517,8 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
     - t-003
+    - t-004
 
 - id: c-15961
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -517,10 +537,12 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     ses globoti Lenkiją?
   statusas: verified
   atnaujinta: "2026-07-10 10:39"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-22398
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -543,7 +565,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-009
 
 - id: c-22400
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -564,8 +586,8 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
-    - t-021
+    - t-007
+    - t-022
 
 - id: c-22401
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -602,7 +624,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-016
 
 - id: c-36778
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -647,7 +669,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-006
 
 - id: c-90821
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -674,7 +696,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-008
 
 - id: c-90826
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -697,7 +719,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-021
 
 - id: c-90827
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -740,7 +762,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-005
 
 - id: c-180583
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -761,7 +783,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-008
 
 - id: c-180584
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -823,7 +845,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-012
 
 - id: c-180587
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -847,8 +869,8 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
-    - t-010
+    - t-006
+    - t-011
 
 - id: c-180588
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -906,7 +928,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-004
 
 - id: c-180591
   autorius: "Zenonas Ivinskis"
@@ -929,7 +951,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-013
 
 - id: c-180592
   redaktorius: "A. Šapoka"
@@ -956,7 +978,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-010
 
 - id: c-180593
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -998,7 +1020,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-010
 
 - id: c-180595
   autorius: "Zenonas Ivinskis"
@@ -1025,8 +1047,8 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
     - t-019
+    - t-020
 
 - id: c-180596
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1065,7 +1087,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-018
 
 - id: c-180598
   autorius: "Anoniminis metraštininkas"
@@ -1091,7 +1113,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-014
 
 - id: c-180599
   autorius: "Zenonas Ivinskis"
@@ -1110,10 +1132,12 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   citata_rodoma: "(^1) **PSRL, 18, 93 p.**\n\n\n(^248) n skyrius: valstybės iškilimas\nkiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio\nvalios. Anot Lietuvos Metraščio, Algirdas ir Kęstutis susitarė, jog\nateityje bendromis jėgomis įsigytos žemės turės būti pasidalintos\npusiau^2. Pagal tą susitarimą Kęstutis buvo Algirdo padėjėjas."
   statusas: verified
   atnaujinta: "2026-07-28 14:17"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-019
+
 - id: c-180600
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -1132,7 +1156,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-017
 
 - id: c-180601
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1152,10 +1176,12 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   citata_rodoma: "Šį sumanymą, kaip sako\nProchaska, smarkiai rėmęs ir Vytautas; jis priėmė jauną Fridri­\nką savo dvare ir jį vaišino. Kuriuo tikslu buvo rodomas toks pa­\nlankumas šiam naujam kandidatui į lenkų karalius ir į Lietuvos\nsiuzerenus, sunku pasakyti. Galima tik spėt: arba Vytautas\nmanė atsikratyti Lenkija su visa jos unija, ėmus valdyti kitai, ne\nGedimino dinastijai; arba dar labiau norėjo sustiprinti savo tei­\nses globoti Lenkiją?"
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-180602
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1195,7 +1221,7 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-015
 
 - id: c-180604
   autorius: "Zenonas Ivinskis"
@@ -1318,4 +1344,4 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003

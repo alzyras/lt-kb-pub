@@ -19,9 +19,14 @@ export default ((userOpts?: Partial<SearchOptions>) => {
     const searchPlaceholder = i18n(cfg.locale).components.search.searchBarPlaceholder
     return (
       <div class={classNames(displayClass, "search")}>
-        <button class="search-button">
-          <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7">
-            <title>Search</title>
+        <button
+          class="search-button"
+          type="button"
+          aria-haspopup="dialog"
+          aria-expanded="false"
+          aria-controls="site-search-dialog"
+        >
+          <svg aria-hidden="true" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7">
             <g class="search-path" fill="none">
               <path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4" />
               <circle cx="8" cy="8" r="7" />
@@ -29,8 +34,16 @@ export default ((userOpts?: Partial<SearchOptions>) => {
           </svg>
           <p>{i18n(cfg.locale).components.search.title}</p>
         </button>
-        <div class="search-container">
+        <div
+          id="site-search-dialog"
+          class="search-container"
+          role="dialog"
+          aria-modal="true"
+          aria-label={searchPlaceholder}
+          aria-hidden="true"
+        >
           <div class="search-space">
+            <button class="search-close" type="button" aria-label="Uždaryti paiešką">×</button>
             <input
               autocomplete="off"
               class="search-bar"
@@ -39,6 +52,13 @@ export default ((userOpts?: Partial<SearchOptions>) => {
               aria-label={searchPlaceholder}
               placeholder={searchPlaceholder}
             />
+            <div class="search-filter-toolbar">
+              <button class="search-filters-toggle" type="button" aria-expanded="false">
+                Filtrai <span class="search-filter-count" aria-hidden="true"></span>
+              </button>
+              <button class="search-filters-clear" type="button">Išvalyti</button>
+            </div>
+            <div class="search-filters" hidden aria-label="Paieškos filtrai"></div>
             <div class="search-layout" data-preview={opts.enablePreview}></div>
           </div>
         </div>

@@ -97,6 +97,18 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
   pagrindžia:
     - c-83419
 
+<a id="claim-t-206324"></a>
+- t-004
+  teiginys: "Konradas Ciolneris Rotenšteinas buvo Vokiečių ordino didysis magistras."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188939
+
 ## Citatos
 
 - id: c-83418
@@ -196,3 +208,22 @@ Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­ jos didikais 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-188939
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 524-525"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 524-525."
+  citata_originali: |
+    nuvykome
+    mes į Mazoviją ir prašėme pagalbos maloningojo dvasininko
+    brolio Konrado Ciolnerio Rotenšteino, Vokiečių ordino didžiojo
+    526
+
+    magistro. Jis mums ją suteikė
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

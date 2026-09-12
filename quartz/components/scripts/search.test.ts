@@ -1,7 +1,10 @@
 import test, { describe } from "node:test"
 import assert from "node:assert"
-import { FullSlug, resolveRelative } from "../../util/path"
-import { createRequestTracker, ensureSuccessfulSearchPreviewResponse } from "./searchPreview"
+import {
+  createRequestTracker,
+  ensureSuccessfulSearchPreviewResponse,
+  searchResultUrl,
+} from "./searchPreview"
 
 type SearchOptionsState = {
   minClaimCount: number
@@ -343,13 +346,13 @@ describe("search preview requests", () => {
     )
   })
 
-  test("resolves the Steponas Batoras result from a nested page", () => {
+  test("resolves a result from the site root even when the current page has a trailing slash", () => {
     assert.equal(
-      resolveRelative(
-        "objektai/vietos/Gardinas" as FullSlug,
-        "objektai/asmenys/Steponas-Batoras" as FullSlug,
-      ),
-      "../../objektai/asmenys/Steponas-Batoras",
+      searchResultUrl(
+        "objektai/asmenys/Steponas-Batoras",
+        "https://lietuvosistorija.eu",
+      ).toString(),
+      "https://lietuvosistorija.eu/objektai/asmenys/Steponas-Batoras",
     )
   })
 })

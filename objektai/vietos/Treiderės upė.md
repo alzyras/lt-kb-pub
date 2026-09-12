@@ -115,6 +115,19 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   pagrindžia:
     - c-178888
 
+<a id="claim-t-205825"></a>
+- t-005
+  teiginys: "Teodoro Narbuto aprašyme birželio 1 d. Brunonas prie Treiderės upės pavijo stovyklavusius lietuvius, atsiėmė belaisvius ir nukovė aštuonis šimtus žmonių."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
+  pagrindžia:
+    - c-188440
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Kojelavičiaus pasakojime magistras Brunonas prie Treiderės upės netoli Livonijos įlankos užpuolė grobiu apsikrovusius siaubėjus.'
@@ -218,3 +231,26 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
+
+- id: c-188440
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 318"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 318."
+  citata_originali: |
+    Netgi kryžiuočių
+    kunigai buvo daigoj ami, o jų šalininkai įnirtingai perse­
+    kiojami, prie to prisidėjo bajorai, pasauliečiai dvasininkai
+    bei Rygos gyventojai. Paskui lietuviai ėmė rengtis grįžti
+    į savo kraštą. Tuo tarpu Brunonas, paskubomis surinkęs
+    savo karius, birželio 1 dieną pavijo lietuvius netoli nuo
+    jūros krantų, prie Treiderės upės stovyklaujančius, ir su­
+    rengė tokias narsias kautynes, kad atsiėmė visus belais­
+    vius, o aštuonetą šimtų žmonių užmušė.
+  citata_rodoma: "Tuo tarpu Brunonas, paskubomis surinkęs \nsavo karius, birželio 1 dieną pavijo lietuvius netoli nuo \njūros krantų, prie Treiderės upės stovyklaujančius, ir su­\nrengė tokias narsias kautynes, kad atsiėmė visus belais­\nvius, o aštuonetą šimtų žmonių užmušė."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005

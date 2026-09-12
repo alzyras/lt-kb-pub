@@ -30,6 +30,8 @@ entity_view_role: "place"
 entity_aliases: ["Ordino valstybė"]
 sameAs: []
 canonical_biography: "Vėlyvaisiais viduramžiais Ordino valstybėje buvo praktikuojamas skandinimas kaip mirties bausmės vykdymo forma."
+place_authority: true
+historical_names: []
 ---
 # Ordino valstybė
 

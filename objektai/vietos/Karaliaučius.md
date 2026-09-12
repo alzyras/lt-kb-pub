@@ -1091,6 +1091,56 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   pagrindžia:
     - c-184956
 
+<a id="claim-t-205773"></a>
+- t-061
+  teiginys: "Anot Teodoro Narbuto, vokiečių vienuoliai riteriai, padedami Čekijos karaliaus Otokaro, Sambijoje, senovinio Tvangstės miesto griuvėsių vietoje, įkūrė Karaliaučių."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188388
+
+<a id="claim-t-206485"></a>
+- t-062
+  teiginys: "Vytauto sūnūs buvo įkurdinti Karaliaučiaus konvente."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189100
+
+<a id="claim-t-206486"></a>
+- t-063
+  teiginys: "Žemaičių pasiuntiniai apie Sekmines atvyko į Karaliaučių ir, dalyvaujant Vytautui bei Ordino pareigūnams, rengė pasitarimus."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189101
+
+<a id="claim-t-206487"></a>
+- t-064
+  teiginys: "Vytautas Karaliaučiuje dar paliko du m a žamečius sūnus."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189102
+
 ## Reikšmingi paminėjimai
 - c-027
   santrauka: 'Sukilėliai apgulė Karaliaučiaus, Kroicburgo ir Bartenšteino pilis, kiekvieną apsupdami trimis stipriais kuorais.'
@@ -2340,6 +2390,77 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-060
+
+- id: c-188388
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 156"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 156."
+  citata_originali: |
+    Kryžiuočių laimėjimai. Vaišelga tampa Rusios
+    karaliumi. Tuo pačiu laiku vokiečių vienuoliai riteriai, pa­
+    dedami šventeivos Čekijos karaliaus Otokaro, visiškai nu-
+    driokoja Sambiją ir senovinio Tvangstės4 miesto griuvėsių
+    vietoje įkuria Karaliaučių.
+  citata_rodoma: "Tuo pačiu laiku vokiečių vienuoliai riteriai, pa­\ndedami šventeivos Čekijos karaliaus Otokaro, visiškai nu- \ndriokoja Sambiją ir senovinio Tvangstės4 miesto griuvėsių \nvietoje įkuria Karaliaučių."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-061
+
+- id: c-189100
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 381"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 381."
+  citata_originali: |
+    Netgi atimti jo sūnūs, po rūpestingo auk­
+    lėjimo priedanga įkurdinti Karaliaučiaus konvente
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-062
+
+- id: c-189101
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 384"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 384."
+  citata_originali: |
+    Jie atvyko į Karaliaučių apie Sekmi­
+    nes; svetingai maršalkos Rabės priimti rengė pasitarimus,
+    dalyvaujant Vytautui ir ordino pareigūnams; šito pasekmė buvo
+    įžūli ir griežta sutartis, draugiška sąjunga su ordinu, nustatanti
+    paklusnumą kunigaikščiui Vytautui, kurį jie vadindavo Kunigas,
+    o vokiečiai König, Žemaitijos karaliumi.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-063
+
+- id: c-189102
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 411"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 411."
+  citata_originali: |
+    M arienburge, didžiojo m agistro rūmuose, liko tik jaunasis
+    kunigaikštis Žygimantas Kęstutaitis, tarsi įkaitas laikytas -
+    ar atsisakyta jį išleisti, ar Vytautas nesiryžo prašyti jo, bijo­
+    damas įtarim ų3. Vytautas Karaliaučiuje dar paliko du m a­
+    žamečius sūnus.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-064
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Ignas Onacevičius]], [[objektai/grupes/Vokiečiai]]

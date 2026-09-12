@@ -54,6 +54,19 @@ Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią s
   pagrindžia:
     - c-38592
 
+<a id="claim-t-206538"></a>
+- t-002
+  teiginys: "Per žygį į Bartos provinciją buvo nusiaubta provincija ir užimtas Osterodės miestas."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189153
+
 ## Citatos
 
 - id: c-38592
@@ -82,3 +95,19 @@ Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-189153
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 262"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 262."
+  citata_originali: |
+    Tad surengė didžiulį žygį į Bartos provinciją,
+    kurią nusiaubė, užėmė Osterodės miestą ir gruodžio mėnesį,
+    šeštadienį, po šv. Liucijos, jį
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

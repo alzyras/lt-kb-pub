@@ -213,10 +213,10 @@ function setupGoogleTranslate() {
   const root = translateRoot()
   if (!root) return
 
-  const preference = preferredLanguage()
-  const language = preference.language
-  if (preference.fromUrl) rememberLanguage(language)
-  updateControls(language)
+  // Keep the document Lithuanian until the visitor explicitly interacts with
+  // the interface-language control. This avoids a mixed-language SSR page and
+  // avoids loading Google's script for visitors who never request translation.
+  updateControls("lt")
 
   if (!document.documentElement.dataset.translateControlsBound) {
     document.documentElement.dataset.translateControlsBound = "true"
@@ -230,8 +230,15 @@ function setupGoogleTranslate() {
     })
   }
 
-  loadGoogleTranslate()
-  requestLanguage(language)
+  const activate = () => {
+    const language = preferredLanguage().language
+    if (preferredLanguage().fromUrl) rememberLanguage(language)
+    loadGoogleTranslate()
+    requestLanguage(language)
+  }
+  const control = root.querySelector<HTMLSelectElement>("[data-translate-language]")
+  control?.addEventListener("focus", activate, { once: true })
+  control?.addEventListener("pointerdown", activate, { once: true })
 }
 
 document.addEventListener("DOMContentLoaded", setupGoogleTranslate)

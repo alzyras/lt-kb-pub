@@ -43,11 +43,20 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
   return {
     name: "CreatedModifiedDate",
     markdownPlugins(ctx) {
+      // A local `--serve` build can include tens of thousands of files. Looking
+      // up Git metadata one file at a time makes its initial preview needlessly
+      // slow (and produces a warning for every untracked working-tree file).
+      // Filesystem timestamps are sufficient for a local preview; release
+      // builds retain the configured Git-first ordering.
+      const priority = ctx.argv.serve
+        ? (["frontmatter", "filesystem", "git"] as Options["priority"])
+        : opts.priority
+
       return [
         () => {
           let repo: Repository | undefined = undefined
           let repositoryWorkdir: string
-          if (opts.priority.includes("git")) {
+          if (priority.includes("git")) {
             try {
               repo = Repository.discover(ctx.argv.directory)
               repositoryWorkdir = repo.workdir() ?? ctx.argv.directory
@@ -68,7 +77,7 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
 
             const fp = file.data.relativePath!
             const fullFp = file.data.filePath!
-            for (const source of opts.priority) {
+            for (const source of priority) {
               if (source === "filesystem") {
                 const st = await fs.promises.stat(fullFp)
                 created ||= st.birthtimeMs
@@ -79,7 +88,11 @@ export const CreatedModifiedDate: QuartzTransformerPlugin<Partial<Options>> = (u
                 published ||= file.data.frontmatter.published as MaybeDate
               } else if (source === "git" && repo) {
                 try {
-                  const relativePath = path.relative(repositoryWorkdir, fullFp)
+                  // Content directories are symlinked into Quartz. Resolve the
+                  // target first so Git sees the tracked repository path rather
+                  // than the synthetic `content/...` symlink path.
+                  const resolvedFullFp = await fs.promises.realpath(fullFp).catch(() => fullFp)
+                  const relativePath = path.relative(repositoryWorkdir, resolvedFullFp)
                   modified ||= await repo.getFileLatestModifiedDateAsync(relativePath)
                 } catch {
                   console.log(

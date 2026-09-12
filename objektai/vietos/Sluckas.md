@@ -215,36 +215,47 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   pagrindžia:
     - c-80929
 
-## Reikšmingi paminėjimai
-- c-009
-  santrauka: 'Umolts — gyvenvietė prie Slucko.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    17 Umolts — gyvenvietė prie Slucko. Jo s vietų patikslina
-    M  Strijkovskis: „ties Slucku, laukuose u i Umolio, kur Slucko ku­
-    nigaikštis Jurgis, ano [t. y. Simono M ykolalčiol, vaikaitis, dabar
-    pastatydino naująjį dvarą" (Kronika, p. 667).
-    '* N esvyiius — BTSR miestas (prie Ušos, Nemuno Intako, apie
-    70 km j šiaurės vakarus nuo Slucko).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: not_found
-- c-010
-  santrauka: 'Gričino pelkės buvo didžiuliai pelkių plotai į pietus nuo Slucko.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    27 Ir 28).
-    7 1  Gričino pelkės — didžiuliai pelkių plotai j pietus nuo Slucko.
-    7 7  Gorodokas — veikiausiai, Davidgorodokas, BTSR miestas (apie
-    120 km | pietus nuo Slucko, apie 12 km j pietus nuo Pripetės
-    upės).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: not_found
+<a id="claim-t-187650"></a>
+- t-010
+  teiginys: "Umolts — gyvenvietė prie Slucko."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sluckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sluckas\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-170595
+
+<a id="claim-t-187651"></a>
+- t-011
+  teiginys: "Gričino pelkės buvo didžiuliai pelkių plotai į pietus nuo Slucko."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Gričino pelkės: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sluckas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Gričino pelkės: mention_match, place, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sluckas\" parinktas kaip owner_note_path. Targetas \"Gričino pelkės\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: 1640 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Gričino pelkių pobūdį ir padėtį Slucko atžvilgiu. Citatos OCR bei gretimi vietovardžiai neįtraukti."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  pagrindžia:
+    - c-170596
 
 ## Citatos
 
@@ -438,3 +449,39 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+- id: c-170595
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    17 Umolts — gyvenvietė prie Slucko. Jo s vietų patikslina
+    M  Strijkovskis: „ties Slucku, laukuose u i Umolio, kur Slucko ku­
+    nigaikštis Jurgis, ano [t. y. Simono M ykolalčiol, vaikaitis, dabar
+    pastatydino naująjį dvarą" (Kronika, p. 667).
+    '* N esvyiius — BTSR miestas (prie Ušos, Nemuno Intako, apie
+    70 km j šiaurės vakarus nuo Slucko).
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+
+- id: c-170596
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    27 Ir 28).
+    7 1  Gričino pelkės — didžiuliai pelkių plotai j pietus nuo Slucko.
+    7 7  Gorodokas — veikiausiai, Davidgorodokas, BTSR miestas (apie
+    120 km | pietus nuo Slucko, apie 12 km j pietus nuo Pripetės
+    upės).
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011

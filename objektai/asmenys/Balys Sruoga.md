@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Balys Sruoga'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -34,6 +35,18 @@ canonical_biography: "Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušai�
 
 Krėvė-Mickevičius, išspausdinta jo, Jurgio Baltrušaičio, Balio Sruogos, Maironio, Vinco Mykolaičio-Putino ir kt.
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Balio Sruogos drama „Milžino paunksmė“ vaizduoja Vytautą ir Jogailą greta vienas kito.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    Balio Sruogos
+    drama „Milžino paunksmė“ vaizduoja šiuodu vyrus, stovėjusius vienas greta kito.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-21618

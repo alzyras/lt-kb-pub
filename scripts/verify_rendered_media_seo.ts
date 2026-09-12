@@ -132,7 +132,7 @@ if (!Array.isArray(catalog) || !catalog.length) {
       fail(failures, `${mediaId}: missing gallery detail page`)
       continue
     }
-    const canonicalUrl = `${siteOrigin}/${mediaDetailSlug(entry)}`
+    const canonicalUrl = `${siteOrigin}/${mediaDetailSlug(entry).replace(/^\/+|\/+$/g, "")}/`
     if (!page.html.includes(`<link rel="canonical" href="${htmlEscape(canonicalUrl)}"`)) {
       fail(failures, `${page.relative}: missing or incorrect canonical URL`)
     }

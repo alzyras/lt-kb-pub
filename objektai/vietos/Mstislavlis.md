@@ -163,6 +163,19 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   pagrindžia:
     - c-170566
 
+<a id="claim-t-206528"></a>
+- t-007
+  teiginys: "Mstislavlyje gynėsi kunigaikštis Karigaila, o puolimas kovo 18 dieną tęsėsi dešimt dienų."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189143
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Praradę viltį užimti Smolenską, Šemiačičiai patraukė prie Mstislavlio, bet Ivanas Solomereckis atrėmė antpuolį.'
@@ -369,6 +382,25 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
+
+- id: c-189143
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 344"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 344."
+  citata_originali: |
+    Netrukus, grįžęs į Smolenską,
+    pasiėmė puolimo technikos, dar apginklavo žmonių ir vėl įsi­
+    veržė į didžiojo kunigaikščio žemes, pasiekė Mstislavlio mies­
+    tą1 ir kovo 18 dieną apsupo. Jame gynėsi kunigaikštis Karigaila;
+    be perstojo dešimtį dienų tęsėsi puolimas, kasdien vis įnirtin­
+    giau pradedamas.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Karigaila]]

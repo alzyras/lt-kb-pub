@@ -311,7 +311,7 @@ function detailsHtml(entry: MediaEntry, exhibitionItem?: ExhibitionViewerItem): 
     <section class="media-viewer-section media-viewer-provenance"><h3>Šaltinis</h3><dl>${fact("Institucija", institution)}${fact("Rinkinys", collection)}${fact("Tiekėjas", provider)}</dl></section>
     <section class="media-viewer-section media-viewer-rights"><h3>Naudojimo teisės</h3><p><strong>${escapeHtml(license || "Nenurodyta")}</strong>${entry.attribution ? `<br>${escapeHtml(entry.attribution)}` : ""}</p></section>
     <div class="pswp__media-links">${entry.canonicalUrl ? `<a href="${escapeHtml(entry.canonicalUrl)}" target="_blank" rel="noreferrer noopener">Atidaryti originalą</a>` : ""}${entry.licenseUrl ? `<a href="${escapeHtml(entry.licenseUrl)}" target="_blank" rel="noreferrer noopener">Licencijos sąlygos</a>` : ""}<button type="button" data-copy-media>Kopijuoti nuorodą</button></div>
-    <details class="media-viewer-advanced"><summary>Išplėstiniai duomenys</summary><dl>${fact("Surinkta", text(entry.firstDiscoveredAt || "—"))}${fact("Peržiūrėta", text(entry.reviewedAt || "—"))}${fact("Patikimumas", text(entry.confidenceLevel || entry.confidence || "—"))}</dl>${entry.visualEvidence ? `<p>${escapeHtml(entry.visualEvidence)}</p>` : ""}${entry.metadataEvidence || entry.judgeReason ? `<p>${escapeHtml(entry.metadataEvidence || entry.judgeReason)}</p>` : ""}</details>`
+    `
   const title = text(exhibitionItem?.titleLt) || displayCaption(entry)
   const exhibitionDate =
     exhibitionItem?.dateDisplay || date
@@ -690,6 +690,9 @@ function initGallery(root: HTMLElement) {
   const status = root.querySelector<HTMLElement>("[data-media-status]")!
   const statusText = root.querySelector<HTMLElement>("[data-media-status-text]")!
   const sentinel = root.querySelector<HTMLElement>("[data-media-sentinel]")!
+  const progress = root.querySelector<HTMLElement>("[data-media-progress]")!
+  const progressText = root.querySelector<HTMLElement>("[data-media-progress-text]")!
+  const loadMore = root.querySelector<HTMLButtonElement>("[data-media-load-more]")!
   const filterBadge = root.querySelector<HTMLElement>("[data-media-filter-badge]")!
 
   const showStatus = (message = "") => {
@@ -717,6 +720,12 @@ function initGallery(root: HTMLElement) {
   const layout = () =>
     requestAnimationFrame(() => applyJustifiedLayout(grid, filtered.slice(0, visibleLimit)))
 
+  const showMore = () => {
+    if (visibleLimit >= filtered.length) return
+    visibleLimit = Math.min(filtered.length, visibleLimit + MEDIA_GALLERY_PAGE_SIZE)
+    render(false)
+  }
+
   const render = (writeState = true) => {
     filtered = filterMediaEntries(catalog, state, searchIndex, { lockedObject, providerAllowed })
     grid.replaceChildren(
@@ -730,7 +739,10 @@ function initGallery(root: HTMLElement) {
     count.textContent = `${shownCount} ${shownCount === 1 ? "vaizdas" : "vaizdų"}`
     mobileCount.textContent = String(shownCount)
     empty.hidden = filtered.length > 0 || (!catalogComplete && bootstrap.totalCount > 0)
-    sentinel.hidden = !catalogComplete || visibleLimit >= filtered.length
+    const hasMore = catalogComplete && visibleLimit < filtered.length
+    sentinel.hidden = !hasMore
+    progress.hidden = !hasMore
+    progressText.textContent = `Rodoma ${Math.min(visibleLimit, filtered.length)} iš ${filtered.length}`
     const dynamicCounts = computeDynamicFacetCounts(
       catalog,
       state,
@@ -849,14 +861,14 @@ function initGallery(root: HTMLElement) {
   root
     .querySelector<HTMLButtonElement>("[data-media-retry]")
     ?.addEventListener("click", () => void hydrate(true))
+  loadMore.addEventListener("click", showMore)
 
   const resizeObserver = new ResizeObserver(layout)
   resizeObserver.observe(grid)
   const intersectionObserver = new IntersectionObserver(
     (entries) => {
       if (entries.some((entry) => entry.isIntersecting) && visibleLimit < filtered.length) {
-        visibleLimit += MEDIA_GALLERY_PAGE_SIZE
-        render(false)
+        showMore()
       }
     },
     { rootMargin: "500px 0px" },

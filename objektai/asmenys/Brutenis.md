@@ -68,6 +68,31 @@ Dusburgietis teigia, kad senojoje, ikikryžiuotiškojo laikotarpio prūsų teis�
   pagrindžia:
     - c-184323
 
+<a id="claim-t-205068"></a>
+- t-003
+  teiginys: "Narbutas nurodo, kad Grunau aprašė padavimą apie Brutenio sūnus ir galutinį krašto padalijimą tarp jų."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187717
+
+<a id="claim-t-205513"></a>
+- t-004
+  teiginys: "Tam, kad būtų užkirstas kelias ga linčioms dėl to rastis nelaimėms, jau šimtas trisdešimt antruosius metus einantis Brutenis ir šimtas šešioliktuo sius — Vaidevutis sušaukė žymiausius tautos vyrus prie šventojo ąžuolo Romuvoje dievų akivaizdon."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187911
+
 ## Citatos
 
 - id: c-172972
@@ -133,3 +158,51 @@ Dusburgietis teigia, kad senojoje, ikikryžiuotiškojo laikotarpio prūsų teis�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-187717
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 419"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 419."
+  citata_originali: |
+    Betgi neabejodamas šį pa­
+    minklą esant iš žilos senovės, priskyrė jį Vaidevučio ir
+    Brutenio laikams, kadangi, aprašydamas padavimą apie
+    pastarojo sūnus (trakt. II.— Sk. 4), sustojęs toje vietoje,
+    kur kalbama apie galutinį krašto tarp jų padalijimą po
+    viso to, kas nutiko legendiniam Chelmui, visai probėgomis
+    mini herbus ir vėliavas, ant kurių buvę jam nežinomi įra­
+    šai, o pabaigoje kaip pavyzdį .ar tam, kad parodytų rašme­
+    nis, nurodo: „Taigi ant skydo ir vėliavos buvo mums neži­
+    nomi rašmenys ir ženklai, išrašyti taip, kaip čia išbraižyti
+    parodymui“1.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-187911
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 52"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 52."
+  citata_originali: |
+    Vaidevutis jau buvo
+    sulaukęs galudienio, o sūnūs, kurių, pasak kronikininkų,
+    buvę dvylika, o gal net daugiau, ėmė pyktis ir kovoti dėl
+    valdžios, kurios kiekvienas jų iš pradžių siekė paslapčia,
+    o paskui, surinkę savo šalininkus, atvirai. Broliai tykojo
+    viens kito pražūties. Tam, kad būtų užkirstas kelias ga­
+    linčioms dėl to rastis nelaimėms, jau šimtas trisdešimt
+    antruosius metus einantis Brutenis ir šimtas šešioliktuo­
+    sius — Vaidevutis sušaukė žymiausius tautos vyrus prie
+    šventojo ąžuolo Romuvoje dievų akivaizdon.
+  citata_rodoma: "Tam, kad būtų užkirstas kelias ga­\nlinčioms dėl to rastis nelaimėms, jau šimtas trisdešimt \nantruosius metus einantis Brutenis ir šimtas šešioliktuo­\nsius — Vaidevutis sušaukė žymiausius tautos vyrus prie \nšventojo ąžuolo Romuvoje dievų akivaizdon."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

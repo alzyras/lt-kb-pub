@@ -86,6 +86,19 @@ Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, �
   pagrindžia:
     - c-167565
 
+<a id="claim-t-205794"></a>
+- t-003
+  teiginys: "Kryžiuočių ordino didysis magistras, atvykęs prie Dubysos žiočių su darbininkais ir juos saugojusia kariuomene, įkūrė tvirtovę ir pavadino ją Marienverderiu, arba Marijos sala."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188409
+
 ## Citatos
 
 - id: c-167564
@@ -134,6 +147,30 @@ Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-188409
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 470"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 470."
+  citata_originali: |
+    turėti tvirtovę prie pat Nemuno, ties Dubysos žiotimis,
+    kuri abiejų upių santakoje stūksotų, nes, ištuštėjus Krist-
+    memeliui, jie turėjo patirti sunkumų kėsindamiesi į te­
+    nykštes šalis. Dėl to, sulaukęs palankios progos, didysis
+    magistras paskubėjo apie Žolinę įgyvendinti minėtą su­
+    manymą. Kaip tik tais laikais ir Bisėnos tvirtovę lietuviai
+    apleido. Bet dėl jos būklės, netinkančios sumanymui, nu­
+    spręsta sustiprinti salą, skalaujamą Dubysos žiočių. Pats
+    didysis magistras, atvykęs į vietą su darbininkais ir ka­
+    riuomene, kuri turėjo saugoti dirbančius, įkūrė tvirtovę ir
+    pavadino Marienverderiu, Marijos sala.
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Hermanas (Ordino magistras)]], [[objektai/grupes/Kryžiuočių ordinas]]

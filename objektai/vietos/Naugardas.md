@@ -451,6 +451,31 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   pagrindžia:
     - c-186963
 
+<a id="claim-t-205393"></a>
+- t-023
+  teiginys: "Didžiojo Naugardo rusų prekybos draugija turėjo sandėlius Vilniuje, Kaune ir Ukmergėje."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188030
+
+<a id="claim-t-206529"></a>
+- t-024
+  teiginys: "Teodoras Narbutas Naugardą vaizduoja kaip labiau už kitus šiaurės slavų krašto miestus apsišvietusį ir kitą tikėjimą toleravusį miestą, kuriame pirkliams leista statyti bažnyčias, o XVI a. Jonas Bazilėvičius Rūstusis jas liepė sugriauti."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189144
+
 ## Reikšmingi paminėjimai
 - c-018
   santrauka: 'Narbutas Biarmiją iki vikingų atsikraustymo į Didįjį Naugardą apibūdino kaip atskirą valstybę, bendravusią su Naugardo slavais.'
@@ -942,6 +967,47 @@ Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-022
+
+- id: c-188030
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 456"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 456."
+  citata_originali: |
+    Vėliau, 1380 metais, ir
+    kitos Lietuvos upės, tinkančios plaukiojimui, buvo pri­
+    taikytos laivybai. Tačiau didžiausia prekyba vyko su Di­
+    džiojo Naugardo rusais. Si draugija turėjo savo sandėlių,
+    kitaip vadinamų svečių (pirklių) namais Vilniuje, Kaune
+    ir Ukmergėje.
+  citata_rodoma: "Tačiau didžiausia prekyba vyko su Di­\ndžiojo Naugardo rusais. Si draugija turėjo savo sandėlių, \nkitaip vadinamų svečių (pirklių) namais Vilniuje, Kaune \nir Ukmergėje."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-023
+
+- id: c-189144
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 461"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 461."
+  citata_originali: |
+    Naugardas buvo miestas apsišvietusių
+    gyventojų, labiau už kitus šiaurinių slavų krašte, viena, kadan­
+    gi totorių barbarų tamsybė jiems nedarė įtakos; antra, ryšių su
+    Europos tautomis dėka; jie toleravo savo žemėje kitą tikėji­
+    mą, leido pirkliams, ten gyvenantiems, statytis bažnyčias, ku­
+    rios gyvavo keletą amžių, kol Jonas Bazilevičius Rūstusis XVI
+    amžiuje, po to, kai jo miestą apleido sėkmė, įsakė jas sugriau­
+    ti.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-024
 
 ## Ryšiai
 - Užėmė Naugardą: [[objektai/asmenys/Šich Achmetas]]

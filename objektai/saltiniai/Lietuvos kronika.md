@@ -78,6 +78,45 @@ Narbutas rašo, kad Lietuvos didysis kunigaikštis Narimantas apie 1268 m. įsiv
   pagrindžia:
     - c-174640
 
+<a id="claim-t-205326"></a>
+- t-003
+  teiginys: "Sis trumpas Polocko užkariavimo aprašymas, likęs Lietuvos Kronikoje, išsaugojo svarbų Lietuvos istorijos įvykį, būtent sukūrimą trečios kunigaikš tystės, priklausančios Lietuvos didikams, kuri buvo pa vadinta Lietuvos-Polocko kunigaikštyste."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-187880
+
+<a id="claim-t-205536"></a>
+- t-004
+  teiginys: "Iš to, ką nuveikė Skirmantas, mūsų minėtoje kronikoje yra išsau gotas atminimas apie jo žygį, surengtą į Rusios žemes pietinėje Lietuvos kunigaikštystės dalyje, kurį buvo su manęs dar tėvui gyvam esant."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-188016
+
+<a id="claim-t-206243"></a>
+- t-005
+  teiginys: "Teodoras Narbutas Lietuvos kronikoje įžvelgė aiškių trūkumų: joje laikotarpio prieš Gedimino mirtį chronologija nepatikima, o dalis vėlesnių aplinkybių liko nepaminėta."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-188858
+
 ## Citatos
 
 - id: c-174639
@@ -126,3 +165,69 @@ Narbutas rašo, kad Lietuvos didysis kunigaikštis Narimantas apie 1268 m. įsiv
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-187880
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 236"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 236."
+  citata_originali: |
+    Narsūs nepriklau­
+    somybės gynėjai krito mūšyje, Horodno miestas buvo
+    sudegintas. Polockas be jokio pasipriešinimo atvėrė savo
+    vartus nugalėtojams. Sis trumpas Polocko užkariavimo
+    aprašymas, likęs Lietuvos Kronikoje, išsaugojo svarbų
+    Lietuvos istorijos įvykį, būtent sukūrimą trečios kunigaikš­
+    tystės, priklausančios Lietuvos didikams, kuri buvo pa­
+    vadinta Lietuvos-Polocko kunigaikštyste.
+  citata_rodoma: "Sis trumpas Polocko užkariavimo \naprašymas, likęs Lietuvos Kronikoje, išsaugojo svarbų \nLietuvos istorijos įvykį, būtent sukūrimą trečios kunigaikš­\ntystės, priklausančios Lietuvos didikams, kuri buvo pa­\nvadinta Lietuvos-Polocko kunigaikštyste."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-188016
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 228"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 228."
+  citata_originali: |
+    Skirmanto žygis j pietinę Rusią. Iš to, ką
+    nuveikė Skirmantas, mūsų minėtoje kronikoje yra išsau­
+    gotas atminimas apie jo žygį, surengtą į Rusios žemes
+    pietinėje Lietuvos kunigaikštystės dalyje, kurį buvo su­
+    manęs dar tėvui gyvam esant. Šio žygio data reikia pri­
+    pažinti 1160 metus, juk didžiojo kunigaikščio Iziaslavo
+    Mstislavovičiaus sūnus Mstislavas tada ką tik buvo ga­
+    vęs valdyti Rusią, iš pietų pusės besiribojusią su Lietuva,
+    ir Voluinės Vladimire įkūręs savo sostinę1.
+  citata_rodoma: "Iš to, ką\nnuveikė Skirmantas, mūsų minėtoje kronikoje yra išsau­\ngotas atminimas apie jo žygį, surengtą į Rusios žemes \npietinėje Lietuvos kunigaikštystės dalyje, kurį buvo su­\nmanęs dar tėvui gyvam esant. Šio žygio data reikia pri­\npažinti 1160 metus, juk didžiojo kunigaikščio Iziaslavo \nMstislavovičiaus sūnus Mstislavas tada ką tik buvo ga­\nvęs valdyti Rusią, iš pietų pusės besiribojusią su Lietuva, \nir Voluinės Vladimire įkūręs savo sostinę1."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-188858
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 63"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 63."
+  citata_originali: |
+    P a s t a b o s . Jau anksčiau parodėme, kokia nepatikima senuo­
+    siuose metraščiuose yra laikotarpio prieš Gedimino mirtį chro­
+    nologija; be to, daugelis aplinkybių, susiklosčiusių iškart po jo
+    mirties, kronikininkams prasprūdo pro akis. Aiškių trūkumų
+    Lietuvos kronikoje yra jau prieš Dlugošą, joje net apie to mo­
+    narcho mirtį terasime trum pą užuominą, perrašinėtojo įbruk­
+    tą be jokios datos ar atskiro aprašymo, kaip kad paprastai
+    tokiais atvejais pastebėdavome kituose šaltiniuose1.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005

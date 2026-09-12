@@ -65,6 +65,19 @@ Tik to meto Vilniaus universiteto garsenybė, istorikas profesorius Lelevelis, �
   pagrindžia:
     - c-01333
 
+<a id="claim-t-205387"></a>
+- t-002
+  teiginys: "Narbutas nurodo, kad Lelevelis Lindės vokiškajame leidime aiškino Palenkės gyventojų, lietuvių ir prūsų kildinimą iš sarmatų, Dakijoje įsikūrusius jazigus siedamas su Palenkės jotvingiais."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-188043
+
 ## Citatos
 
 - id: c-01333
@@ -86,3 +99,31 @@ Tik to meto Vilniaus universiteto garsenybė, istorikas profesorius Lelevelis, �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188043
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 161"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 161."
+  citata_originali: |
+    Kai, be pamarėnų (Maritimis), prūsų ir rusų, yra
+    minimi ir dakai, tai jie niekuo kitu kaip tik danais negali būti lai­
+    komi. Lelevelis, tiesa (Lindės vokiškasis leidimas, 461 p.), yra kitos
+    nuomonės, mat,
+    nežinodamas apie danų
+    gyvenvietes
+    Sambijoje,
+    nesusivokė, kur Prūsijoje įkurdinti tuos dakus, todėl ir samprotavo
+    šitaip: „Tam, kad Palenkės gyventojus, lietuvius ir prūsus, galima
+    būtų kildinti iš sarmatą, reikėtų šį vardą priskirti Palenkės jotvin­
+    giams ir manyti nuo jų prigijus Dakijoje įsikūrusiems jazigams“.
+    Mes čia paprasčiausiai matome Lelevelį pakliuvus į painiavą, ką jis ir
+    pats tuoj pat duoda suprasti pažymėdamas, kad esą jam to dalyko
+    aiškinimui kažko trūksta.
+  citata_rodoma: "Lelevelis, tiesa (Lindės vokiškasis leidimas, 461 p.), yra kitos \nnuomonės, mat, \nnežinodamas apie danų \ngyvenvietes \nSambijoje, \nnesusivokė, kur Prūsijoje įkurdinti tuos dakus, todėl ir samprotavo \nšitaip: „Tam, kad Palenkės gyventojus, lietuvius ir prūsus, galima \nbūtų kildinti iš sarmatą, reikėtų šį vardą priskirti Palenkės jotvin­\ngiams ir manyti nuo jų prigijus Dakijoje įsikūrusiems jazigams“. \nMes čia paprasčiausiai matome Lelevelį pakliuvus į painiavą, ką jis ir \npats tuoj pat duoda suprasti pažymėdamas, kad esą jam to dalyko \naiškinimui kažko trūksta."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

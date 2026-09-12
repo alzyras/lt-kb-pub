@@ -30,6 +30,8 @@ entity_view_role: "place"
 entity_aliases: ["Kijevo Pečorų lauros Uspenjės soboras"]
 sameAs: []
 canonical_biography: "1998 m. Kijevo Pečorų lauros vienuolyno Uspenjės sobore archeologai aptiko kelis sarkofagus, kuriuose, Hlebo Ivakino ir Oleksandros Kozak teigimu, palaidoti Olekaičių giminės atstovai."
+place_authority: true
+historical_names: []
 ---
 # Kijevo Pečorų lauros Uspenjės soboras
 

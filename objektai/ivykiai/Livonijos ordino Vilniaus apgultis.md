@@ -56,10 +56,36 @@ Nenurodyta
 
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+<a id="claim-t-186749"></a>
+- t-001
+  teiginys: "Komentaro teigimu, 1433 m. liepą–rugsėjį Livonijos kariuomenė veikiausiai atskirai nuo Švitrigailos šalininkų dvi savaites buvo apgulusi Vilnių."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "apgule -> Vilnius: 0.82"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Livonijos ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo Livonijos kariuomenės Vilniaus apgultį; ordinas yra šios kariuomenės subjektas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  semantiniai_rysiai: "Livonijos ordinas apgulė Vilnius (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1431 m.; įvykio data: 1433 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikalinga atribucija dėl šaltinyje esančio „atrodo“."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  pagrindžia:
+    - c-169961
+
+## Citatos
+
+- id: c-169961
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     1 9  Švitrigaila sudarė su kryžiuočiais talkos ir savitarpio pagal­
     bos Sutarti dar 1431 m. birželio mėn. Livonijos ordinas paskelbė
@@ -67,9 +93,11 @@ Nenurodyta
     kariuomenės m aršrutą 1433 m. liep o s-ru g sėjo  mėn. nieko tikriau
     nežinoma, bet atrodo, kad ji, veikdama atskirai nuo Švitrigailos
     šalininkų, dvi savaites buvo apgulusi Vilnių.
-  citata_rodoma: ''
+  citata_rodoma: "1 9  Švitrigaila sudarė su kryžiuočiais talkos ir savitarpio pagal­\nbos Sutarti dar 1431 m. birželio mėn. Livonijos ordinas paskelbė \nkarą Žygimantui Kęstutalčiui 1433 m. sausio mėn. Apie Livonijos \nkariuomenės m aršrutą 1433 m. liep o s-ru g sėjo  mėn. nieko tikriau \nnežinoma, bet atrodo, kad ji, veikdama atskirai nuo Švitrigailos \nšalininkų, dvi savaites buvo apgulusi Vilnių."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: not_found
-- t-001
+  pagrindzia:
+    - t-001

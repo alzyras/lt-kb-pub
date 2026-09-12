@@ -167,6 +167,32 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   pagrindžia:
     - c-176592
 
+<a id="claim-t-205707"></a>
+- t-009
+  teiginys: "Narbutas nurodo, kad Narimanto broliai buvo Halšys arba Alšys ir Giedrius."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-188322
+
+<a id="claim-t-206365"></a>
+- t-010
+  teiginys: "Narimantas, sugrįžęs iš totorių nelaisvės ir susitaikęs su Algirdu, žuvo, o jo kūną pagal kunigaikščio insignijas atpažino kryžiuočiai."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188980
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Narimantas nenorėjo taip spręsti valstybės reikalų, kad broliai galėtų jam prikaišioti, jog sprendžia perdaug griežtai: dėl savo sprendimo jis nenorėjo vienas pats susilaukti visuo tinės neapykantos.'
@@ -387,6 +413,55 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
+
+- id: c-188322
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 534"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 534."
+  citata_originali: |
+    *
+    *
+    *
+    IX priedas**
+    Apie kunigaikščių gimines
+    Šiaip jau nederėtų imtis genealogijos išvedžiojimų is­
+    torijos aprašymuose, kadangi tai be reikalo nukreipia
+    skaitytojo dėmesį nuo įvykių. Vis dėlto negalima apeiti
+    tokių prisiminimų, kurie ir istorines tiesas patikslina, ir
+    patys priklauso istorijai, būdami jos šaltiniuose.
+    Didžiojo kunigaikščio Narimanto broliai Halšys, arba
+    Alšys, ir Giedrius, turėdami valdas, galbūt dar tėvo pa­
+    skirtas, tos giminės tėvonijoje — Lietuvos Užnerio kuni­
+    gaikštystėje, pasitenkino tomis žemėmis, kurios palengva
+    tapo asmeninėmis valdomis, nei patys, nei savo palikuo­
+    nims neieškodami būdų patekti į didžiojo kunigaikščio
+    sostą ar kokių dalinės valdžios paveldėjimo teisių.
+  citata_rodoma: "Didžiojo kunigaikščio Narimanto broliai Halšys, arba \nAlšys, ir Giedrius, turėdami valdas, galbūt dar tėvo pa­\nskirtas, tos giminės tėvonijoje — Lietuvos Užnerio kuni­\ngaikštystėje, pasitenkino tomis žemėmis, kurios palengva \ntapo asmeninėmis valdomis, nei patys, nei savo palikuo­\nnims neieškodami būdų patekti į didžiojo kunigaikščio \nsostą ar kokių dalinės valdžios paveldėjimo teisių."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+
+- id: c-188980
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 93"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 93."
+  citata_originali: |
+    nemažai kariau­
+    nos žuvo nuo priešo ginklo ar buvo nuskandinta; tarp pastarų­
+    jų buvo rastas kunigaikštis Narimantas, kuris buvo sugrįžęs iš
+    totorių nelaisvės, susitaikęs su Algirdu; to kunigaikščio kūną
+    rado kryžiuočiai, pažinę iš kunigaikščio insignijų;
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]], [[objektai/asmenys/Patrikas, arba Patricijus]]

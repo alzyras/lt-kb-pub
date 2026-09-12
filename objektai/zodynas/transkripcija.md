@@ -101,7 +101,8 @@ Nenurodyta
 - id: c-186193
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  puslapiai: "PDF 11"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 11."
   citata_originali: |
     lapas tuščias ir jo antrojoje pusėje, t. y. paskutiniame
     rankraščio puslapyje, XVII a. rašysena buvę lenkiškai

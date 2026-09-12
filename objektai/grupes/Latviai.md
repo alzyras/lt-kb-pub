@@ -701,6 +701,19 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   pagrindžia:
     - c-175215
 
+<a id="claim-t-205370"></a>
+- t-037
+  teiginys: "Tuomet latviai, paklaikę iš siaubo, ėmė prašytis atleidimo."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-188090
+
 ## Reikšmingi paminėjimai
 - c-030
   santrauka: 'Narbutas teigė, kad Latvija, žlugus politinei nepriklausomybei, virto vokiečių kolonija.'
@@ -1505,6 +1518,28 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
   patikimumo_saltinis: ai
   pagrindzia:
     - t-036
+
+- id: c-188090
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 263"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 263."
+  citata_originali: |
+    Tuomet latviai, paklaikę iš siaubo, ėmė
+    prašytis atleidimo. Pasikvietė iš Holmo kunigus ir pir­
+    mieji penkiasdešimt priėmė krikštą, o rytojaus dieną ap­
+    sikrikštijo dar šimtas atvykusių į Ikškilę. Tam, kad sve­
+    timšalių kariauną paakintų pasitraukti iš krašto, didikai
+    priėmė kunigus į savo pilis, nuo kiekvienos žagrės pas­
+    kirdami javų duoklę, ir tuoj pat pasiuntė pas Bremeno
+    arkivyskupą žygūnus, prašydami pavesti jų kraštą nau­
+    jam vyskupui.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-037
 
 ## Ryšiai
 - Latviai gyveno [[objektai/vietos/Dauguva]], [[objektai/vietos/Vidžemė]]

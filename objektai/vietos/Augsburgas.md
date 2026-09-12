@@ -42,17 +42,21 @@ historical_names: []
 
 Bibliografijoje Augsburgas nurodomas kaip Miechovitos veikalo leidimo vieta 1518 m.
 
-## Reikšmingi paminėjimai
+## Citatos
 
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+- id: c-170258
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     1938.
     Miechowila  M. Tračiaius de duabus Sarmatiis, A siana ei Eu-
     ropiana. Krokuva, 1517: Augsburgas, 1518; Krokuva, 1518, 1521
     ir kl.
-  citata_rodoma: ''
+  citata_rodoma: "Miechowila  M. Tračiaius de duabus Sarmatiis, A siana ei Eu- \nropiana. Krokuva, 1517: Augsburgas, 1518; Krokuva, 1518, 1521 \nir kl."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified

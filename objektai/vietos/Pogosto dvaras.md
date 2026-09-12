@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Pogosto dvaras"]
 sameAs: []
 canonical_biography: "Kaltinamieji Pogosto dvaro valstiečius laikė esančius jų jurisdikcijoje."
+place_authority: true
+historical_names: []
 ---
 # Pogosto dvaras
 

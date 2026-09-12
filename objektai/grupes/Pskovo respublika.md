@@ -143,6 +143,32 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
   pagrindžia:
     - c-104473
 
+<a id="claim-t-205625"></a>
+- t-007
+  teiginys: "Pskovo riteriai noriai žygiavo su Dovydo vėliava ir per Užgavėnes įsiveržė į Estiją, nors žygis vyko per didelius šalčius."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
+  pagrindžia:
+    - c-188240
+
+<a id="claim-t-205626"></a>
+- t-008
+  teiginys: "Magistras Gerardas Jokė sudarė su Pskovo respublika aštuoniolikos metų taikos sutartį, kurią Teodoras Narbutas vertina kaip dovaną Pskovo respublikai, ir grįžo atgal."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
+  pagrindžia:
+    - c-188241
+
 ## Citatos
 
 - id: c-36931
@@ -262,3 +288,45 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-188240
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 402"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 402."
+  citata_originali: |
+    Tad išsirūpinęs didžiojo kunigaikščio leidimą, prieša­
+    kyje veržlios lietuvių jaunuomenės vidury sunkiausios
+    žiemos išžygiavo bausti kryžiuočių už priesaikos laužy­
+    mą. Pskovo riteriai noriai žygiavo su Dovydo vėliava.
+    Puvo įsiveržta į Estiją per pačias Užgavėnes, be to, te­
+    nykščiu klimatu — dar per didesnius šalčius.
+  citata_rodoma: "Pskovo riteriai noriai žygiavo su Dovydo vėliava. \nPuvo įsiveržta į Estiją per pačias Užgavėnes, be to, te­\nnykščiu klimatu — dar per didesnius šalčius."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
+- id: c-188241
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 402"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 402."
+  citata_originali: |
+    Todėl kreipėsi
+    į kilnųjį Dovydą, ir jis iš Gardino atskubėjo į pagalbą
+    gimtajam miestui. Taip ryžtingai puolė apsupusiuosius,
+    kad sudavė jiems milžinišką smūgį, užėmė stovyklą, vi­
+    sas atsargas, turtus, pabūklus, vėliavas, sutriuškino nar­
+    siausius pulkus. Visa tai privertė magistrą Gerardą Jokę
+    sudaryti aštuoniolikos metų taikos sutartį, kuria apdo­
+    vanojęs Pskovo respubliką jis grįžo atgal1 2.
+  citata_rodoma: "Visa tai privertė magistrą Gerardą Jokę \nsudaryti aštuoniolikos metų taikos sutartį, kuria apdo­\nvanojęs Pskovo respubliką jis grįžo atgal1 2."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008

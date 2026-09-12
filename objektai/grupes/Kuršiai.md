@@ -299,6 +299,83 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
   pagrindžia:
     - c-178520
 
+<a id="claim-t-205255"></a>
+- t-016
+  teiginys: "Tame ¡pačiame amžiuje garsėjo ir kuršiai plėšikavimais Baltijos jūroje."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187676
+
+<a id="claim-t-205303"></a>
+- t-017
+  teiginys: "Šie kariai kaipmat apsupo skan dinavus ir ėmė juos taip pliekti, kad nors šie smarkiai gynėsi kardais ir kirviais, bet kuršiai stipriu antpuoliu ir įnirtingai ¡kaudamiesi prirėmė juos prie pylimo ar įtvir tinimo, kur buvo sutelkta daug žmonių."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-188125
+
+<a id="claim-t-205391"></a>
+- t-018
+  teiginys: "Narbutas kuršius vadina viena galingiausių Lietuvos tautų, turėjusia žemių nuo Nemuno žiočių iki Dauguvos."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187816
+
+<a id="claim-t-205465"></a>
+- t-019
+  teiginys: "Paskui Danijos karatius Erikas II 853 metais išsilaipino Kurše, kur buvo įsikūrusi maža, iš pen kių gyvenviečių susidedanti valstybė, tačiau mūšį pra laimėjo ir, netekęs pusės savo laivų ir žmonių, su kita puse bėgdamas vos įstengė išsigelbėti."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-188054
+
+<a id="claim-t-205529"></a>
+- t-020
+  teiginys: "Turaidiečiai, juk latviai būdami, sužinoję Rygą pa tekus į apsuptį, surinko savo karius ir atėjo kuršiams į pagalbą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187831
+
+<a id="claim-t-205614"></a>
+- t-021
+  teiginys: "Teodoras Narbutas rašė, kad kuršiai reikalavo kautis pirmose gretose, nes norėjo kuo greičiau išlaisvinti lietuvių stovyklose laikomus savo tėvynainius."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
+  pagrindžia:
+    - c-188229
+
 ## Reikšmingi paminėjimai
 - c-006
   santrauka: 'Skalviai prie Nemuno žemupio siejosi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų, žemaičių ir latvių.'
@@ -638,6 +715,134 @@ Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas. Vikingų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-015
+
+- id: c-187676
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 105"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 105."
+  citata_originali: |
+    Kuršių plėšikavimas. Tame ¡pačiame amžiuje garsėjo
+    ir kuršiai plėšikavimais Baltijos jūroje. Jie buvo tokie
+    drąsūs, ‘kad ne tik puldavo atviroje jūroje ir geriausiai
+    ginkluotus laivus, bet plėšė ir valsčius bei ¡gyvenvietes
+    su įtvirtinimais pakrantėse, pačiose atokiausiose Skandi­
+    navijos žemėse.
+  citata_rodoma: "Tame ¡pačiame amžiuje garsėjo \nir kuršiai plėšikavimais Baltijos jūroje. Jie buvo tokie \ndrąsūs, ‘kad ne tik puldavo atviroje jūroje ir geriausiai \nginkluotus laivus, bet plėšė ir valsčius bei ¡gyvenvietes \nsu įtvirtinimais pakrantėse, pačiose atokiausiose Skandi­\nnavijos žemėse."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
+
+- id: c-187816
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 106"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 106."
+  citata_originali: |
+    Nereikia stebėtis šiais istoriniais įvykiais. Kuršiai jau
+    anksčiau buvo viena iš galingiausių Lietuvos tautų, nuo
+    Nemuno žiočių iki Dauguvos turėjusi didžiulius žemių
+    plotus. Apie juos Adomas Bremenietis yra pasakęs: „Kur­
+    šiai yra patys žiauriausi žmonės tenykščiuose kraštuose.
+  citata_rodoma: "Nereikia stebėtis šiais istoriniais įvykiais. Kuršiai jau \nanksčiau buvo viena iš galingiausių Lietuvos tautų, nuo \nNemuno žiočių iki Dauguvos turėjusi didžiulius žemių \nplotus."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-018
+
+- id: c-187831
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 349"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 349."
+  citata_originali: |
+    Sis raitelių pasirodymas taip sutrik­
+    dė visą kariauną, kad ji kuo greičiausiai nutraukė puoli­
+    mą ir apgultį ir perėjo į kitą Dauguvos pusę, kur užtruko
+    trejetą dienų laidodama ir apraudodama žuvusius saviš­
+    kius. Turaidiečiai, juk latviai būdami, sužinoję Rygą pa­
+    tekus į apsuptį, surinko savo karius ir atėjo kuršiams į
+    pagalbą. Taip pat ir žemgaliai bei kiti jų padermės gen­
+    tainiai susitelkę laukė, kuo baigsis ši apgultis.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-020
+
+- id: c-188054
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 105"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 105."
+  citata_originali: |
+    Galop vienam švedų karaliui pa­
+    vyko įveikti kuršius ir priversti juos mokėti duoklę. Bet
+    šie veikiai nusimetė tą jungą, liovėsi mokėję duoklę ir vėl
+    ėmė plėšikauti. Paskui Danijos karatius Erikas II 853
+    metais išsilaipino Kurše, kur buvo įsikūrusi maža, iš pen­
+    kių gyvenviečių susidedanti valstybė, tačiau mūšį pra­
+    laimėjo ir, netekęs pusės savo laivų ir žmonių, su kita
+    puse bėgdamas vos įstengė išsigelbėti.
+  citata_rodoma: "Paskui Danijos karatius Erikas II 853 \nmetais išsilaipino Kurše, kur buvo įsikūrusi maža, iš pen­\nkių gyvenviečių susidedanti valstybė, tačiau mūšį pra­\nlaimėjo ir, netekęs pusės savo laivų ir žmonių, su kita \npuse bėgdamas vos įstengė išsigelbėti."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-019
+
+- id: c-188125
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 104"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 104."
+  citata_originali: |
+    Šios kuopos, užėjusios ko­
+    kius kaimus, žudė ir plėšė jų gyventojus. Viena jų, vado­
+    vaujama Egilioi, susidūrė su mažu ginkluotų žmonių bū­
+    riu, pasiruošusiu kovai. Šie kariai kaipmat apsupo skan­
+    dinavus ir ėmė juos taip pliekti, kad nors šie smarkiai
+    gynėsi kardais ir kirviais, bet kuršiai stipriu antpuoliu
+    ir įnirtingai ¡kaudamiesi prirėmė juos prie pylimo ar įtvir­
+    tinimo, kur buvo sutelkta daug žmonių.
+  citata_rodoma: "Šie kariai kaipmat apsupo skan­\ndinavus ir ėmė juos taip pliekti, kad nors šie smarkiai \ngynėsi kardais ir kirviais, bet kuršiai stipriu antpuoliu \nir įnirtingai ¡kaudamiesi prirėmė juos prie pylimo ar įtvir­\ntinimo, kur buvo sutelkta daug žmonių."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-017
+
+- id: c-188229
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 186"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 186."
+  citata_originali: |
+    Kuršiai savo ruožtu spyriojosi aiškinda­
+    mi, kad jiems turėtų būti leista kautis pirmose gretose,
+    nes norį kuo greičiau išvaduoti į nelaisvę paimtus, lie­
+    tuvių stovyklose laikomus, savo tėvynainius. Kryžiuočių
+    vyresnieji buvo linkę jiems tai leisti, tačiau vėlei užsispy­
+    rė kunigaikštis Karolis ir riteriai, pastarieji manydami tai
+    esant skriaudą garbingiesiems jų riteriams, kurie esą bus
+    priversti kariauti tarsi kuršių vadovaujami. O dėl grobio,
+    kurį iš lietuvių reikėsią atimti, pasakytina, jog kiekvie­
+    nas turės tai, ką pasiglemš. Kuršiams bus leista savuosius
+    išpirkti.
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-021
 
 ## Ryšiai
 - Kuršiai surengė žygį į [[objektai/vietos/Švedija]]

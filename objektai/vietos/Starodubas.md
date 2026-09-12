@@ -92,6 +92,21 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
   pagrindžia:
     - c-182789
 
+<a id="claim-t-199858"></a>
+- t-003
+  teiginys: "1379-1380 m. žiemą Maskvos kunigaikščio Dimitro kariuomenė užėmė Starodubą ir Trubčevską."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pradinis teiginys per ilgas, su įvardžiais ir šalutiniu kontekstu."
+  susije_objektai: "mentioned_place: Trubčevskas; mentioned_place: Brianskas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Perejeslavlis"
+  temporaliniai_duomenys: "įvykio data: po 1377 m.; įvykio data: 1377 m.; įvykio data: 1379-1380; įvykio data: 1380 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas, su įvardžiais ir šalutiniu kontekstu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-182790
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulkais, kuriais labiausiai pasitikėjo.'
@@ -171,8 +186,7 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
 - id: c-182789
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 48"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 48."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     50
 
@@ -211,10 +225,12 @@ Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulka
   citata_rodoma: "Nuvykęs Maskvon, jis prikalbėjo\nkunigaikštį Dimitrą žygiui į Lietuvą, ir šio kariuomenė 1379-\n1380 m. žiemą užėmė Starodubą ir Trubčevską, nes Brianską ir\nTrubčevską valdąs Audriaus brolis Dimitras be mūšio atidavė savo\nvaldą. Jis _pasidavė_ Maskvai, gaudamas Perejeslavlį."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
 - id: c-182791
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"

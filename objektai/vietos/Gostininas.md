@@ -57,6 +57,19 @@ Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vlad
   pagrindžia:
     - c-168686
 
+<a id="claim-t-205769"></a>
+- t-002
+  teiginys: "Lietuviai stojo į kovą siekdami užimti Gostininą, miestą su gynybine pilimi, o jį užkariavę išžudė įgulą, paėmė belaisvių ir apiplėšė miestą."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188384
+
 ## Citatos
 
 - id: c-168686
@@ -92,3 +105,23 @@ Konrado pakviesti lietuviai atėmė Gostininą iš Kujavijos kunigaikščio Vlad
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188384
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 280"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 280."
+  citata_originali: |
+    Bet reikalai ne­
+    siklostė taip, kaip lietuviams turėjo būti nupasakota. Jie
+    stojo į kovą siekdami užimti Gostininą, miestą, turintį
+    gynybinę pilį. Užkariavę jį, išžudė įgulą, paėmė belais­
+    vių, sugrobė viską, ką mieste galėjo rasti, ir taip nu­
+    siaubę paliko Konradui.
+  citata_rodoma: "Jie \nstojo į kovą siekdami užimti Gostininą, miestą, turintį \ngynybinę pilį. Užkariavę jį, išžudė įgulą, paėmė belais­\nvių, sugrobė viską, ką mieste galėjo rasti, ir taip nu­\nsiaubę paliko Konradui."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

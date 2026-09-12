@@ -143,6 +143,71 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   pagrindžia:
     - c-168204
 
+<a id="claim-t-206403"></a>
+- t-006
+  teiginys: "Timūrui Kutlukui ir Edigėjui nugalėjus Tochtamyšą, Tochtamyšas su žmonomis ir dviem sūnumis pabėgo į Kijevą, iš kur Skirgaila jį išsiuntė į Lietuvą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189018
+
+<a id="claim-t-206404"></a>
+- t-007
+  teiginys: "Tochtamyšo skriaudas ir totorių žygius į Podolę Narbutas nurodo kaip priežastį, dėl kurios Vytautas pasiuntė Algirdo vadovaujamą kariauną su pabėgėliu chanu."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189019
+
+<a id="claim-t-206405"></a>
+- t-008
+  teiginys: "Tochtamyšas išsivedė nelaisvėn paimtus totorius, subūrė gausų dvariškių būrį ir samdinių kariuomenę, o grįžęs į Lietuvą gavo Lydą su apylinkėmis."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189020
+
+<a id="claim-t-206406"></a>
+- t-009
+  teiginys: "Narbutas aprašo, kad prasidėjus visuotinei suirutei Tochtamyšas su savaisiais pirmas spruko anapus upės, paskui Tochtamyšą traukė kryžiuočiai ir Sčiukovskis."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189021
+
+<a id="claim-t-206407"></a>
+- t-010
+  teiginys: "Narbutas po Vorsklos mūšio Tochtamyšą vaizduoja tarsi savo tautos nelaimių kaltininką, kurį Vytautas dėl nepastovaus būdo ir bailumo mūšyje paniekino bei apleido."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189022
+
 ## Citatos
 
 - id: c-36521
@@ -246,6 +311,113 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
+
+- id: c-189018
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 452"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 452."
+  citata_originali: |
+    tačiau Edigėjus, jo dėdė, atkalbėjo jį nuo to neatsar­
+    gaus sumanymo, patardam as verčiau užimti Krymą. Dėl to
+    Timūras Kutlukas buvo paskelbtas Krymo chanu. Betgi, kai
+    Sarajus buvo užimtas Tochtamyšo, anas buvo įgaliotas išstum­
+    ti jį iš tų savo senelio užkariautų valdų ir, Edigėjaus padeda­
+    mas, nugalėjo Tochtamyšą, kuris su savo žmonomis ir dviem
+    sūnumis pabėgo į Kijevą, iš kur Skirgaila išsiuntė jį Lietu­
+    von
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
+- id: c-189019
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 461"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 461."
+  citata_originali: |
+    Bemaž tuoj pat didysis kunigaikš­
+    tis Vytautas, norėdamas atlyginti už Tochtamyšo skriaudas ir
+    nubausti totorius už žygius į Podolę, gan dažnai tuo laikotar­
+    piu rengtus, pasiuntė savo kariauną, vadovaujamą vieno lietu­
+    vių didiko, Kromerio vadinto Algirdu1 2, kurį lydėjo ir pabėgėlis
+    chanas.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
+- id: c-189020
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 462"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 462."
+  citata_originali: |
+    Nemažai totorių paimta nelaisvėn, juos Toch-
+    tamyšas išsivarė kartu. Sutelkęs gausų dvariškių būrį iš mirzų
+    ir ulonų, taip pat samdinių kariuomenę iš totorių, grįžo į Lie­
+    tuvą, kur didysis kunigaikštis laikinai įsikurti davė jam Lydą
+    su apylinkėmis1 2.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
+- id: c-189021
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 505"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 505."
+  citata_originali: |
+    Prasidėjo visuotinė suirutė; Toch-
+    tamyšas pirmas su savaisiais spruko anapus upės, už jų kryžiuo­
+    čiai, už pastarųjų traukė anas pagyrūnas Sčiukovskis.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+
+- id: c-189022
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 506-507"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 506-507."
+  citata_originali: |
+    Tochtamyšas, tarsi tyčinis kaltinin­
+    kas daugybės savo tautos nelaimių, apie kurio likimą mes papa­
+    sakojome ankstesniuose paragrafuose, po mūšio prie Vorsklos
+    už savo būdo nepastovumą ir bailumą mūšio lauke didžiojo ku­
+    nigaikščio buvo paniekintas ir apleistas. Kiek laiko jis klajojo po
+    stepes, kol sulaukė priešininko Timūro Kutluko mirties; tada jam
+    1 Medžiagos šiam paragrafui suteikė rankraštinė Lietuvos (Bychovco)
+    kronika (p. 67, 68), Danilavičiaus „Metraštininkas“ (p. 217-219), Ščerbato-
+    vas (t. IV. - P. 308)*, Karamzinas (t. V. - P. 146-152), Glebavičius (p. 55-
+    61), Dlugošas ir kt. Apie kritusiųjų skaičių niekur neradau paminėta.
+    Lindenblatas (p. 51) tikina, kad totorių žuvo didelė daugybė. Tai nesusiję su
+    Timūru, kuris mirė 1395 metais, tačiau Edigėjus buvo vienas iš to užkariau­
+    tojo armijos vadų. Užtat kai kurie Vytautą teigia kariavus su šio kariais, o
+    kiti - su juo pačiu.
+    508
+
+    pavyko surinkti kariauną ir stoti kovon su pastarojo įpėdiniu, re­
+    gis, sūnumi, vadintu Abu Saidų. Tačiau viename mūšyje, netoli
+    Tiumenės, visiškai sumuštas, 1408 metais žuvo mūšio lauke, su­
+    laukęs jau žilos
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Saladinas]]

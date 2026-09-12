@@ -69,6 +69,19 @@ canonical_biography: "1760 m. Starodubo pateisėjininkaitis Gimbutas vedė Staro
   pagrindžia:
     - c-184045
 
+<a id="claim-t-205523"></a>
+- t-002
+  teiginys: "Gimbuto sūnus ir Palemono pro anūkis Mantvila — turtingas Lietuvos didikas ir žymus kariūnas, arba Wada, tikriausiai pasižymėjęs kai kuriuose grobikiškuose žygiuose ir, galimas daiktas, gelbėdamas Lietuvos žemes dešiniajame Neries žemupio krante nuo Rusios."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188139
+
 ## Citatos
 
 - id: c-184045
@@ -81,3 +94,23 @@ canonical_biography: "1760 m. Starodubo pateisėjininkaitis Gimbutas vedė Staro
   atnaujinta: "2026-07-26 17:37"
   pagrindzia:
     - t-001
+
+- id: c-188139
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 184"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 184."
+  citata_originali: |
+    Gimbuto sūnus ir Palemono pro­
+    anūkis Mantvila — turtingas Lietuvos didikas ir žymus
+    kariūnas, arba Wada, tikriausiai pasižymėjęs kai kuriuose
+    grobikiškuose žygiuose ir, galimas daiktas, gelbėdamas
+    Lietuvos žemes dešiniajame Neries žemupio krante nuo
+    Rusios puldinėjimų, nemažai buvo prisidėjęs prie jų ne­
+    priklausomybės įsigalėjimo1.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

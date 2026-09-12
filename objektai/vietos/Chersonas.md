@@ -72,6 +72,19 @@ citataoriginali: | pati tauta plačiai gyvenusi ir didžias pažines^54 yra tur�
   pagrindžia:
     - c-184403
 
+<a id="claim-t-205267"></a>
+- t-003
+  teiginys: "Chersono miesto vyskupai Bazilijus, Efremas, Eu genijus, Elpidijus, Agatodonas, Eterėjus ir Kapitonas išgarsėja kaip kankiniai ir stropūs Kristaus mokiniai."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-187832
+
 ## Citatos
 
 - id: c-175639
@@ -120,3 +133,26 @@ citataoriginali: | pati tauta plačiai gyvenusi ir didžias pažines^54 yra tur�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-187832
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 427"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 427."
+  citata_originali: |
+    Klemenso palaikai, pasak
+    imperatoriaus Trojano pasakojimo, įmes­
+    ti į Juodąją jūrą; Tauridės arba Krymo
+    gyventojai 'krikščionys juos suranda.
+    Krikščionybė suklesti Tauridėje. Chersono
+    miesto vyskupai Bazilijus, Efremas, Eu­
+    genijus, Elpidijus, Agatodonas, Eterėjus
+    ir Kapitonas išgarsėja kaip kankiniai ir
+    stropūs Kristaus mokiniai.
+  citata_rodoma: "Krikščionybė suklesti Tauridėje. Chersono \nmiesto vyskupai Bazilijus, Efremas, Eu­\ngenijus, Elpidijus, Agatodonas, Eterėjus \nir Kapitonas išgarsėja kaip kankiniai ir \nstropūs Kristaus mokiniai."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

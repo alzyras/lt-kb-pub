@@ -86,6 +86,19 @@ Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis. Ap
   pagrindžia:
     - c-178848
 
+<a id="claim-t-205782"></a>
+- t-004
+  teiginys: "Prūsijos magistras Meinhardas pradėjo apsupti Kolainių tvirtovę, vieną iš artimiausių Šalavijai, dešiniajame Nemuno krante."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188397
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Apie balandžio vidurį Prūsijos magistras Meinhardas apgulė Kolainius, Lietuvos pilį prie Nemuno pakrantės arčiausiai Prūsijos.'
@@ -189,6 +202,28 @@ Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis. Ap
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-188397
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 288"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 288."
+  citata_originali: |
+    1290 m. balandžio 23 d. Kolainių apgultis. Tikriausiai
+    visa tai, ką rašėme, gerai žinojo Prūsijos magistras Mein-
+    hardas, kadangi pradėjo nuo apsupties Kolainių tvirto­
+    vės, vienos iš artimiausių Šalavijai, dešiniajame Nemuno
+    krante. Tokį tikslą turėdami, 1290 metų balandžio mėnesį
+    penketas šimtų riterių raitelių ir du tūkstančiai pėstinin­
+    kų išžygiavo dešiniuoju Nemuno krantu aukštyn ir šio
+    mėnesio 23-iąją, Sv.
+  citata_rodoma: "Tikriausiai \nvisa tai, ką rašėme, gerai žinojo Prūsijos magistras Mein- \nhardas, kadangi pradėjo nuo apsupties Kolainių tvirto­\nvės, vienos iš artimiausių Šalavijai, dešiniajame Nemuno \nkrante."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 ## Ryšiai
 - Gynė Kolainiai: [[objektai/asmenys/Surminas]]

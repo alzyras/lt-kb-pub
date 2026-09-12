@@ -73,6 +73,19 @@ Teodoro Narbuto teigimu, 1224 m. popiežiaus Honorijaus III bulėje greta Samlan
   pagrindžia:
     - c-184346
 
+<a id="claim-t-205301"></a>
+- t-003
+  teiginys: "1226 metais mirė popiežius Honoratas, įsileidęs į vaidus su imperatoriumi."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187983
+
 ## Citatos
 
 - id: c-174297
@@ -119,3 +132,18 @@ Teodoro Narbuto teigimu, 1224 m. popiežiaus Honorijaus III bulėje greta Samlan
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-187983
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 302"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 302."
+  citata_originali: |
+    1226 metais mirė popiežius Honoratas,
+    įsileidęs į vaidus su imperatoriumi.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

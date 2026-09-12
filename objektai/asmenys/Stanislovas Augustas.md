@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Stanislovas Augustas'
 saltiniai:
+  - '04-ldk-personalijos-idejos-refleksijos'
   - 'Lenkai Lietuvoje Dr. J. Basanavičius'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)'
@@ -113,6 +114,40 @@ Spaustuvė turėjo karališkosios vardą todėl, kad tas titu­ las jai buvo sut
   pagrindžia:
     - c-184235
 
+## Reikšmingi paminėjimai
+- c-005
+  santrauka: '1797 m. A. Midletono laidotuvių išlaidas apmokėjo Stanislovas Augustas.'
+  šaltinis: 04-ldk-personalijos-idejos-refleksijos
+  citata_originali: |
+    Nei j Lenkiją, nei į Lietuvą A. Midletonas negrįžo. 1796 m. pavasarį persikėlė
+    į Hamburgą, o iš ten - į Danijai priklausiusią Altoną. Čia buvęs pasiuntinybės
+    tarnautojas sulaukėjo nuopelnų įvertinimo -17 9 4 m. data suteikto Šv. Stanislovo
+    ordino ir Stanislovo Augusto, nuversto monarcho, kurio valstybės pertvarkymo
+    vizija šventai tikėjo, finansinės paramos - 200 dukatų. 1796-ųjų metų vasarą pra­
+    leidęs Kopenhagoje, A. Midletonas vėl persikėlė į Altoną, kur mirė 1797 m. sausio
+    i d. Buvo nevedęs, nei įpėdinių, nei turto nepaliko. Laidotuvių išlaidas apmokėjo
+    Stanislovas Augustas99.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-006
+  santrauka: 'A. Midletonas buvo, šaltinio apibūdinimu, karaliaus Stanislovo Augusto dvaro grupuotės žmogus.'
+  šaltinis: 04-ldk-personalijos-idejos-refleksijos
+  citata_originali: |
+    1796-ųjų metų vasarą pra­
+    leidęs Kopenhagoje, A. Midletonas vėl persikėlė į Altoną, kur mirė 1797 m. sausio
+    i d. Buvo nevedęs, nei įpėdinių, nei turto nepaliko. Laidotuvių išlaidas apmokėjo
+    Stanislovas Augustas99.
+    Išvados
+    Skotų kilmės Lietuvos Didžiosios Kunigaikštystės bajoras A. Midletonas buvo
+    karaliaus Stanislovo Augusto dvaro grupuotės žmogus.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-83836

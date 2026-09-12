@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Gustato dvaras"]
 sameAs: []
 canonical_biography: "Didžiojo kunigaikščio teismas nurodė grąžinti iš Gustato ir Pogosto dvarų išvestus valstiečius."
+place_authority: true
+historical_names: []
 ---
 # Gustato dvaras
 

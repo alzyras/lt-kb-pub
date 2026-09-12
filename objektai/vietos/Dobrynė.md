@@ -243,6 +243,31 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   pagrindžia:
     - c-178836
 
+<a id="claim-t-205517"></a>
+- t-013
+  teiginys: "Kyla klausimas, kuri Dobrynė buvo tų riterių buveinė?"
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-188032
+
+<a id="claim-t-205760"></a>
+- t-014
+  teiginys: "1286 m. pabaigoje ir 1287 m. pradžioje Vytenis su kariauna patraukė į Dobrynės žemę."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188375
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Prūsai Dobrynės ordiną galėjo pulti 1224–1225 m.'
@@ -564,6 +589,47 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-012
+
+- id: c-188032
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 298"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 298."
+  citata_originali: |
+    Kyla klausimas, kuri Dobrynė buvo tų riterių buveinė? Mat
+    yra dvi Dobrynės: viena prie Vyslos, kita —■ prie Drvencos. Svenckis
+    (Opis star. Polski) pasisako už pirmąją, tačiau trūksta dar specialių
+    tyrinėjimų ir paaiškinimų.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
+
+- id: c-188375
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 283"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 283."
+  citata_originali: |
+    Lietuvių žygis j Dobrynę. Didysis
+    kunigaikštis Vytenis, savo ruožtu ieškodamas naudos
+    krikščionių žemėse, subūrė nemažą kariauną iš žemaičių,
+    lietuvių, ypač prūsų kolonistų, kurie per krikščionis buvo
+    praradę ūkį ir judamąjį turtą; 1286 metų pabaigoje ir
+    1287-ųjų pradžioje patraukė į Dobrynės žemę. Prie Dob-
+    rynės miesto prisiartino netikėtai, šventą dieną, kai daug
+    žmonių buvo į kažkokius pasilinksminimus susibūrę, tad
+    buvo paimta devynetas tūkstančių belaisvių, miestas pa­
+    degtas, surengtos besiginančių skerdynės1 2.
+  citata_rodoma: "1286 metų pabaigoje ir \n1287-ųjų pradžioje patraukė į Dobrynės žemę. Prie Dob- \nrynės miesto prisiartino netikėtai, šventą dieną, kai daug \nžmonių buvo į kažkokius pasilinksminimus susibūrę, tad \nbuvo paimta devynetas tūkstančių belaisvių, miestas pa­\ndegtas, surengtos besiginančių"
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014
 
 ## Ryšiai
 - Puolė Dobrynę: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

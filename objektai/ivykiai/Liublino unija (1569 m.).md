@@ -4,12 +4,12 @@ pavadinimas: 'Liublino unija (1569 m.)'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 datos:
   - '1386 m.'
+  - '1568 m.'
   - '1569 m.'
-  - '1576 m.'
-  - '1586 m.'
   - '1795 m.'
 date_start: '1386'
 date_end: '1795'
@@ -17,9 +17,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - unija
+  - bajorija
   - ivykis
   - valdovas
-  - seimas
 amziai:
   - 'XIV'
   - 'XVIII'
@@ -40,7 +40,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1569 m. sudaryta Liublino unija sukūrė Abiejų Tautų Respubliką kaip Lietuvos ir Lenkijos suartėjimo nuo Jogailos ir Jadvygos vedybų padarinį. Liublino unijos rezultatas buvo LDK atstovų priimtas kompromisas, kurio pagrįstumu rimčiau nesuabejota dar du šimtmečius. Po Liublino unijos Steponui Batorui tapus Lenkijos ir Lietuvos valdovu, Livonijos kare pasiektos lemiamos pergalės prieš Maskvą.
+1569 Liublino unija. „Šventos santuokos“ metafora dažnai taikoma visam unijų procesui, kurio padarinys – 1569 m. sudaryta Liublino unija, sukūrusi jungtinę valstybę – Abiejų Tautų Respubliką. Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos, kartu unijos.
 
 ## Laikotarpis ir datos
 
@@ -306,6 +306,33 @@ Nenurodyta
     veikla bandė parodyti LDK žemių istoriją, joje gyvenančių tau­
     tybių kultūrinę įvairovę ir paliudyti neginčijamą teisę bent į
     6 Jonynas I. Istorijos baruose.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-012
+  santrauka: 'Alfredo Bumblausko vertinimu, Liublino unija reikšmingai sumažino LDK teritoriją, tačiau jos reikšmė gyventojų skaičiaus atžvilgiu buvo mažesnė.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    Naujausių tyrimų nuro-
+    domi mažesni skaičiai, tačiau 1568 m. manoma buvus jau arti 3 milijonų. Tiesa, tuojau pat
+    įvyko Liublino unija, reikšmingai sumažinusi LDK teritoriją, tačiau ji nebuvo tokia reikš-
+    minga gyventojų skaičiaus atžvilgiu. Kadangi numanoma 1568 m.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-013
+  santrauka: 'Alfredo Bumblausko pateikiamu vertinimu, po Liublino unijos LDK liko apie 2,5 milijono žmonių.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    Tiesa, tuojau pat
+    įvyko Liublino unija, reikšmingai sumažinusi LDK teritoriją, tačiau ji nebuvo tokia reikš-
+    minga gyventojų skaičiaus atžvilgiu. Kadangi numanoma 1568 m. LDK Ukrainos žemėse
+    gyvenus tik apie 250 tūkstančių žmonių, o Palenkėje – apie 150 tūkstančių, todėl manoma,
+    kad po Liublino unijos LDK liko apie 2,5 milijono žmonių.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

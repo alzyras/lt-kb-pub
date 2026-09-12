@@ -30,6 +30,8 @@ entity_view_role: "place"
 entity_aliases: ["Šv. Dvasios cerkvė"]
 sameAs: []
 canonical_biography: "1732 m. vienuolyną nusiaubę Marcijono Pozniako pasiųsti tarnai ir Lietuvos Vyriausiojo Tribunolo kareiviai akmenimis išdaužė Šv. Dvasios cerkvės langus."
+place_authority: true
+historical_names: []
 ---
 # Šv. Dvasios cerkvė
 

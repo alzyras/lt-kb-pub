@@ -389,6 +389,18 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   pagrindžia:
     - c-179365
 
+<a id="claim-t-205400"></a>
+- t-026
+  teiginys: "Narbutas mini dažnus skandinavų apsilankymus Baltijos jūros rytinėse pakrantėse dėl gintaro prekybos."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187765
+
 ## Reikšmingi paminėjimai
 - c-009
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1129,3 +1141,24 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_saltinis: ai
   pagrindzia:
     - t-024
+
+- id: c-187765
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 34"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 34."
+  citata_originali: |
+    Ryšiai su užsienio šalimis. Be minėtų santykių ¡su go­
+    tais, jau žinome apie dažnus skandinavų apsilankymus
+    Baltijos jūros rytinėse pakrantėse, mat pastaruosius ypač
+    viliojo pelninga prekyba gintaru, kurį tų pakrančių gy­
+    ventojai rinkdavo. Buvo ir kitų, mūsų veikale apeitų prie­
+    žasčių, įvairių Skandinavijos žemių valdovus skatinusių
+    siekti užkariavimų tose šalyse.
+  citata_rodoma: "Be minėtų santykių ¡su go­\ntais, jau žinome apie dažnus skandinavų apsilankymus \nBaltijos jūros rytinėse pakrantėse, mat pastaruosius ypač \nviliojo pelninga prekyba gintaru, kurį tų pakrančių gy­\nventojai rinkdavo."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-026

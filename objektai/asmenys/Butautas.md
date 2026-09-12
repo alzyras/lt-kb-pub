@@ -64,6 +64,45 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
   pagrindžia:
     - c-88591
 
+<a id="claim-t-206271"></a>
+- t-002
+  teiginys: "Vilniaus vietininkas Dirsunė, kaip aprašo Teodoras Narbutas, susekė Butautą rezgant pinkles, liepė jį suimti ir įkalino pilies bokšte."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188886
+
+<a id="claim-t-206272"></a>
+- t-003
+  teiginys: "Teodoras Narbutas aprašo, kad slapta susimokę asmenys užpuolė ir nužudė Dirsunę, užėmė Aukštutinę pilį, išlaisvino bokšte kalintą Butautą ir pabėgo į Prūsiją."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188887
+
+<a id="claim-t-206273"></a>
+- t-004
+  teiginys: "Teodoras Narbutas rašo, kad Butautas gyveno imperatoriaus Karolio IV rūmuose, buvo vadinamas Lietuvos kunigaikščiu Henriku, 1370 metais lankėsi pas imperatorių, o vėliau – pas Vengrijos karalių Zigmuntą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188888
+
 ## Citatos
 
 - id: c-88591
@@ -87,6 +126,60 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188886
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 167"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 167."
+  citata_originali: |
+    Kad ir kaip ten buvo, didžiojo kunigaikščio vietininkas
+    Vilniuje Dirsunė susekė Butautą rezgant šias pinkles, tad įsa­
+    kė jį tuoj pat suimti ir uždarė pilies bokšte, gerai saugoma­
+    me kalėjime, tačiau apie kitus suokalbio bendrininkus nieko
+    neįstengė sužinoti.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-188887
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 167"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 167."
+  citata_originali: |
+    Šie, slapta susimokę, užpuolė Dirsunės
+    namus, jį nužudė, užėmė Aukštutinę pilį, išvadavo iš kalėji­
+    mo bokšto Butautą, šoko ant žirgų ir pabėgo į Prūsiją, kaip
+    ir buvo sutarta per slaptą pasiuntinį.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-188888
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 170"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 170."
+  citata_originali: |
+    Butautas nuvyko į Vokietiją
+    ir gyveno im peratoriaus Karolio IV rūmuose, Lietuvos kuni­
+    gaikščiu Henriku vadinamas, turėjo šiokį tokį išlaikymą ir
+    dar 1370 metais lankėsi pas imperatorių, o vėliau pas Veng­
+    rijos karalių Zigmantą, kur tikriausiai praleido paskutines
+    gyvenimo
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Vaidotas (Butauto sūnus)]]

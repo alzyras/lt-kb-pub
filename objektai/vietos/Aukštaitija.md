@@ -127,6 +127,32 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
   pagrindžia:
     - c-175143
 
+<a id="claim-t-206456"></a>
+- t-006
+  teiginys: "Aprašomo žygio tikslas buvo Aukštaitija."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189071
+
+<a id="claim-t-206457"></a>
+- t-007
+  teiginys: "Teodoras Narbutas aprašo, kad didysis magistras siaubė Aukštaitiją, o Kęstutis, negalėdamas pasipriešinti, įsiveržė į Prūsiją ir užkariavo Salduvos bei Osterodės apylinkes."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189072
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -212,3 +238,35 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-189071
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 154"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 154."
+  citata_originali: |
+    Šio
+    žygio tikslas buvo Aukštaitija.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
+- id: c-189072
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 156"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 156."
+  citata_originali: |
+    Padėtis susiklostė taip: didysis
+    magistras siaubė Aukštaitiją, kunigaikštis Kęstutis, negalėda­
+    mas pasipriešinti jo karinėms pajėgoms, per girias prasigavęs
+    įsiveržė į Prūsiją ir užkariavo Salduvos ir Osterodės apylinkes
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007

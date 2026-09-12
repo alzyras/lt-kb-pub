@@ -30,6 +30,8 @@ entity_view_role: "place"
 entity_aliases: ["Dubičių dvaras"]
 sameAs: []
 canonical_biography: "1561 m. iš Kaniavos ir Dubičių dvarų į Valkininkų medžioklę turėjo būti pasiųsta 100 valstiečių penkioms dienoms."
+place_authority: true
+historical_names: []
 ---
 # Dubičių dvaras
 

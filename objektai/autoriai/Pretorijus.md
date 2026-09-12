@@ -129,6 +129,31 @@ Narbutas vertino Pretorijaus Kreivės etimologijos aiškinimą kaip teisingą, n
   pagrindžia:
     - c-179272
 
+<a id="claim-t-205258"></a>
+- t-006
+  teiginys: "Labai senovinių mūrinių statinių liekanų dar Pretorijus kadaise buvo aptikęs Nad ruvos, Salavonijos, Lietuvos laukinėse giriose."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187820
+
+<a id="claim-t-205364"></a>
+- t-007
+  teiginys: "Juoba kad ir Pretorijus bei Kocebiu dėmesio vertomis iš vadomis1 pritaria mūsų nuomonei."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-188160
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas vertino Pretorijaus Kreivės etimologijos aiškinimą kaip teisingą, nes Pretorijus mokėjo prūsų ir žemaičių kalbas.'
@@ -301,3 +326,49 @@ Narbutas vertino Pretorijaus Kreivės etimologijos aiškinimą kaip teisingą, n
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
+
+- id: c-187820
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 411"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 411."
+  citata_originali: |
+    Labai senovinių mūrinių
+    statinių liekanų dar Pretorijus kadaise buvo aptikęs Nad­
+    ruvos, Salavonijos, Lietuvos laukinėse giriose. Jos iš vi­
+    sų pusių buvo apkerpėjusios, apneštos žemėmis, apaugu­
+    sios krūmais. Matyt, kad tai buvo liekanos ¡gyvenamųjų
+    namų, kur išskaptuotas viduryje gulintis akmuo žymėjo
+    buvus ten židinį ar didžiulį šviestuvą3.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
+- id: c-188160
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 42"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 42."
+  citata_originali: |
+    bet dar ir prisidėsime prie tautos padavimų pripažinimo,
+    juk Kristijonas, kad ir semdamasis iš jų žinių, galėjo įdėti
+    j savąsias kronikas šį bei tą apie Vaidevučio ir Brutenio,
+    taip pat ir jų draugų gotiškuiną, mat pastarieji 494 m.,
+    išvykdami iš Italijos, išsivadavo iš Teodoriko priespaudos
+    ir paliko gotų stovyklas. Tuo tik visą padavimą prie tik­
+    rovės priartinsime, nes ištaisysime istorines žinias, pa­
+    aiškindami dalykus, kurių nebuvo pastebėjęs pirmasis
+    metraštininkas, dėl to vėlesnieji, nebelyginę jų su Romos
+    imperijos viduramžių istorija, sunkiai juos besuprato.
+    Juoba kad ir Pretorijus bei Kocebiu dėmesio vertomis iš­
+    vadomis1 pritaria mūsų nuomonei.
+  citata_rodoma: "Juoba kad ir Pretorijus bei Kocebiu dėmesio vertomis iš­\nvadomis1 pritaria mūsų nuomonei."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007

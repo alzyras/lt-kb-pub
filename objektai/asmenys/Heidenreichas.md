@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Heidenreichas (vyskupas, XIII–XIV a.)'
 saltiniai:
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
 datos:
   - '1246 m.'
@@ -43,7 +44,7 @@ canonical_biography: "Dusburgietis teigia, kad apie Kulmo žemės karus antrosio
 
 ## Santrauka
 
-Dusburgietis teigia, kad apie Kulmo žemės karus antrosios atskalūnybės metais, o pirmiausia apie brolį Heidenreichą, Kulmo vyskupą Pamokslininkų ordino brolis Heidenreichas antrosios atskalūnybės metais buvo Kulmo vyskupas432.
+Pamokslininkų ordino brolis Heidenreichas antrosios atskalūnybės metais buvo Kulmo vyskupas. Išleisdamas popiežius Lietuvos siuntinius įdavė karūną ir raštą parnešti vyskupui Kulmo, liepda mas jam Mintautą apkarūnavoti Lietuvos karalium. Pargrįžus siuntiniams iš Rymo su karūna į Rygą, tuojau mistras Stuklandas pakvietė vyskupą Kulmio Heidenreichą ir.
 
 ## Teiginiai
 
