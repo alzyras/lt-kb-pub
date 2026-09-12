@@ -304,14 +304,26 @@ const ObjectDetailPage: QuartzComponent = (props) => {
   }
   const sourceHrefs = new Map(sources.map((source) => [normalized(source.title), source.href]))
   const bibliography = objectBibliography(allFiles, evidence)
+  const projectedRelations = view.relationRows.map((row) => ({
+    label: relationDirectionLabel(row.predicate, row.direction),
+    target: row.target,
+    display: row.label || "",
+  }))
+  const projectedTargetSlugs = new Set(
+    projectedRelations.map((relation) => simplifySlug(slugifyFilePath(relation.target as any))),
+  )
   const relations = relationGroups(
-    view.relationRows.length
-      ? view.relationRows.map((row) => ({
-          label: relationDirectionLabel(row.predicate, row.direction),
-          target: row.target,
-          display: row.label || "",
-        }))
-      : evidence.relations,
+    [
+      ...projectedRelations,
+      // A legacy relation may be present only as a Markdown URL. Keep it in
+      // the object page when the semantic projection has not already covered
+      // the same target, instead of dropping it because another relation row
+      // exists for this object.
+      ...evidence.relations.filter(
+        (relation) =>
+          !projectedTargetSlugs.has(simplifySlug(slugifyFilePath(relation.target as any))),
+      ),
+    ],
     index,
   )
   const fallbackRelationCount = relations.reduce((total, group) => total + group.targets.length, 0)

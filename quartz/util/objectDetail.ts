@@ -97,11 +97,16 @@ function relationsFromMarkdown(
   if (!match) return []
   const relations: Array<{ label: string; target: string; display: string }> = []
   for (const line of match[1].split(/\r?\n/)) {
-    const linkStart = line.indexOf("[[")
+    const wikiStart = line.indexOf("[[")
+    const markdownStart = line.search(/\[[^\]]+\]\([^)]*\)/u)
+    const linkStarts = [wikiStart, markdownStart].filter((value) => value >= 0)
+    const linkStart = linkStarts.length ? Math.min(...linkStarts) : -1
     if (!/^\s*-\s+/u.test(line) || linkStart < 0) continue
     // Older projections use `Santykis: [[…]]`; newer canonical relations
     // also use natural-language predicates without a colon, e.g.
-    // `Vytautas valdė [[Lietuva]]`.  The first wikilink is the stable split.
+    // `Vytautas valdė [[Lietuva]]`.  Markdown links are accepted too because
+    // a few repaired relation records preserve their encoded canonical URL.
+    // The first link is the stable split between predicate and target.
     const label = clean(
       line
         .slice(0, linkStart)
@@ -112,6 +117,18 @@ function relationsFromMarkdown(
       const target = clean(link[1])
       if (target.startsWith("objektai/")) {
         relations.push({ label, target, display: clean(link[2]) })
+      }
+    }
+    for (const link of line.slice(linkStart).matchAll(/\[([^\]]+)\]\(([^)#]+)(?:#[^)]*)?\)/gu)) {
+      let target = clean(link[2]).replace(/^\/+/, "")
+      try {
+        target = decodeURIComponent(target)
+      } catch {
+        // Keep the original path when a legacy record contains malformed
+        // percent-encoding; slug resolution will still be deterministic.
+      }
+      if (target.startsWith("objektai/")) {
+        relations.push({ label, target, display: clean(link[1]) })
       }
     }
   }

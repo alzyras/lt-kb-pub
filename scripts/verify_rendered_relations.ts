@@ -51,7 +51,9 @@ function expectedRelations(
 
 function htmlPathForSlug(slug: FullSlug): string | null {
   const relative = String(simplifySlug(slug)).replace(/^\/+|\/+$/g, "")
-  const candidates = [path.join(publicRoot, `${relative}.html`), path.join(publicRoot, relative, "index.html")]
+  // Canonical object pages are emitted as folder indexes. Prefer that output
+  // when the legacy generic emitter also leaves a flat .html sibling behind.
+  const candidates = [path.join(publicRoot, relative, "index.html"), path.join(publicRoot, `${relative}.html`)]
   return candidates.find((candidate) => fs.existsSync(candidate)) ?? null
 }
 
