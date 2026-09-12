@@ -98,7 +98,13 @@ function relationsFromMarkdown(
   const relations: Array<{ label: string; target: string; display: string }> = []
   for (const line of match[1].split(/\r?\n/)) {
     const wikiStart = line.indexOf("[[")
-    const markdownStart = line.search(/\[[^\]]+\]\([^)]*\)/u)
+    // Some legacy labels preserve OCR brackets (for example
+    // `Da[he]nfeldo`). Match through the first `](` that closes the link
+    // instead of treating the inner bracket as the label terminator. Skip
+    // the second bracket of a `[[wikilink]]` while locating Markdown links.
+    let markdownStart = -1
+    const markdownCandidate = line.match(/(?<!\[)\[(?!\[)[^\n]*?\]\([^)]*\)/u)
+    if (markdownCandidate?.index != null) markdownStart = markdownCandidate.index
     const linkStarts = [wikiStart, markdownStart].filter((value) => value >= 0)
     const linkStart = linkStarts.length ? Math.min(...linkStarts) : -1
     if (!/^\s*-\s+/u.test(line) || linkStart < 0) continue
@@ -113,13 +119,15 @@ function relationsFromMarkdown(
         .replace(/^\s*-\s+/u, "")
         .replace(/:\s*$/u, ""),
     )
-    for (const link of line.slice(linkStart).matchAll(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/gu)) {
+    const wikiText = wikiStart >= 0 ? line.slice(wikiStart) : ""
+    for (const link of wikiText.matchAll(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/gu)) {
       const target = clean(link[1])
       if (target.startsWith("objektai/")) {
         relations.push({ label, target, display: clean(link[2]) })
       }
     }
-    for (const link of line.slice(linkStart).matchAll(/\[([^\]]+)\]\(([^)#]+)(?:#[^)]*)?\)/gu)) {
+    const markdownText = markdownStart >= 0 ? line.slice(markdownStart) : ""
+    for (const link of markdownText.matchAll(/\[([^\n]*?)\]\(([^)#]+)(?:#[^)]*)?\)/gu)) {
       let target = clean(link[2]).replace(/^\/+/, "")
       try {
         target = decodeURIComponent(target)

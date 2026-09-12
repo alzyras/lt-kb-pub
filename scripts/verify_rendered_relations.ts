@@ -58,9 +58,20 @@ function htmlPathForSlug(slug: FullSlug): string | null {
 }
 
 function relationsSectionHtml(html: string): string {
-  const start = html.search(/<h2[^>]+id=["']ryšiai["'][^>]*>/i)
+  // Object pages render the relation panel as a semantic section. Keep the
+  // legacy heading form for older outputs so the audit remains compatible
+  // with both projections.
+  const starts = [
+    html.search(/<section\b[^>]+id=["']rysiai["'][^>]*>/i),
+    html.search(/<h2[^>]+id=["']ryšiai["'][^>]*>/i),
+  ].filter((value) => value >= 0)
+  const start = starts.length ? Math.min(...starts) : -1
   if (start < 0) return ""
-  const endCandidates = [html.indexOf("<h2 ", start + 5), html.indexOf("</article>", start)].filter((value) => value >= 0)
+  const endCandidates = [
+    html.indexOf("</section>", start),
+    html.indexOf("<h2 ", start + 5),
+    html.indexOf("</article>", start),
+  ].filter((value) => value >= 0)
   const end = endCandidates.length ? Math.min(...endCandidates) : html.length
   return html.slice(start, end)
 }

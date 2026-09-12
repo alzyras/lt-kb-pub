@@ -118,6 +118,7 @@ export function ObjectPageShell({
           class="object-detail-map object-map-cta"
           data-object-map-cta="true"
           data-object-slug={graphSlug}
+          data-public-object-slug={slug}
           data-object-title={title}
           data-object-map-href={mapHref}
           data-object-semantic-count={view.counts.relations}
