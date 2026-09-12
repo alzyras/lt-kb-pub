@@ -56,6 +56,19 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   pagrindžia:
     - c-176905
 
+<a id="claim-t-206240"></a>
+- t-002
+  teiginys: "Teodoras Narbutas spėja, kad Vygando kronikos originale Kęstutis, paėmęs tvirtovę, siekė užimti Dancigą (Gdanską), kur slėpėsi įgula."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188855
+
 ## Citatos
 
 - id: c-176905
@@ -80,3 +93,22 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188855
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 139"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 139."
+  citata_originali: |
+    Vygando kronikos originale, ko gero, buvo, kad Kęs­
+    tutis, paėmęs tvirtovę, norėjo užimti ir Danzig (Gdanską), kur buvo pasislė­
+    pusi įgula. Tad šitaip dėl klaidingai suprasto seno žodžio, kuris jau užmirštas,
+    atsirado nuostabą keliantis pasakojimas, kaip esą Kęstutis puolęs Gdansko
+    miestą, apie ką amžininkai Vygandas ir Lindenblatas* nė žodeliu neužsime­
+    na.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

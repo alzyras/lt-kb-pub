@@ -28,8 +28,22 @@ Todėl kryžiuočiai turėjo priežodį: „Pilvas — prūsams dievas“5.
 
 Todėl kryžiuočiai turėjo priežodį: „Pilvas — prūsams dievas“5.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
+<a id="claim-t-205379"></a>
+- t-001
+  teiginys: "Todėl kryžiuočiai turėjo priežodį: „Pilvas — prūsams dievas“5."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187783
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Todėl kryžiuočiai turėjo priežodį: „Pilvas — prūsams dievas“5.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
@@ -44,3 +58,25 @@ Todėl kryžiuočiai turėjo priežodį: „Pilvas — prūsams dievas“5.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+## Citatos
+
+- id: c-187783
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 414"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 414."
+  citata_originali: |
+    Tokį gėrimą sutaisydavo sekdami
+    švedais, į jį tam, kad būtų skanesnis ir suteiktų sveikatos
+    bei galios, primaišydavo įvairių žolelių3. Apskritai paė­
+    mus, visa lietuvių padermė buvo labai linkusi į girtuok­
+    lystę, taip kaip kad ir kitos senovės šiaurės rytų Eu­
+    ropos tautos4. Todėl kryžiuočiai turėjo priežodį: „Pilvas —
+    prūsams dievas“5.
+  citata_rodoma: "Apskritai paė­\nmus, visa lietuvių padermė buvo labai linkusi į girtuok­\nlystę, taip kaip kad ir kitos senovės šiaurės rytų Eu­\nropos tautos4. Todėl kryžiuočiai turėjo priežodį: „Pilvas — \nprūsams dievas“5."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

@@ -67,6 +67,19 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
   pagrindžia:
     - c-176823
 
+<a id="claim-t-205143"></a>
+- t-003
+  teiginys: "Pritardami tai nuo monei ir remdamiesi kronikos liudijimais, manome la biausiai tikėtina esant, kad Bertoldas pirma kiek laiko lankėsi Latvijos žemėse, lydėdamas Meinhardą, taigi bu vo žinomas tenykščiams gyventojams ir mokėjo jų kalbą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188155
+
 ## Citatos
 
 - id: c-83464
@@ -116,6 +129,28 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-188155
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 259"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 259."
+  citata_originali: |
+    Juo buvo paskirtas Lukos cis-
+    tersų vienuolyno Žemutinėje Saksonijoje abatas Bertol­
+    das — žmogus dievotas, kilnus, atsparus nedorybėms,
+    narsus ir visais atžvilgiais vertas didžios pagarbos. Kiti
+    taria, esą latviai patys jo pageidavę. Pritardami tai nuo­
+    monei ir remdamiesi kronikos liudijimais, manome la­
+    biausiai tikėtina esant, kad Bertoldas pirma kiek laiko
+    lankėsi Latvijos žemėse, lydėdamas Meinhardą, taigi bu­
+    vo žinomas tenykščiams gyventojams ir mokėjo jų kalbą.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 ## Ryšiai
 - Bertoldas mirė [[objektai/vietos/Ryga]]

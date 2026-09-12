@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XX amžius"
 periodo_pradzia: 1901
 periodo_pabaiga: 2000
-periodo_objektu_skaicius: 2754
+periodo_objektu_skaicius: 2758
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 2754.
+Objektų skaičius: 2758.
 
 ## Susiję objektai
 
@@ -54,6 +54,7 @@ Objektų skaičius: 2754.
 - [[objektai/asmenys/Audrius Butkevičius]]
 - [[objektai/asmenys/Audrys Juozas Bačkis|Audrys Juozas Bačkis (Vilniaus arkivyskupas metropolitas)]]
 - [[objektai/asmenys/Auglys]]
+- [[objektai/asmenys/Augustas III]]
 - [[objektai/asmenys/Augustas Zaleskis]]
 - [[objektai/asmenys/Augustinas Voldemaras]]
 - [[objektai/asmenys/Benito Musolinis]]
@@ -69,6 +70,7 @@ Objektų skaičius: 2754.
 - [[objektai/asmenys/Czesław Miłosz]]
 - [[objektai/asmenys/David Baltimore]]
 - [[objektai/asmenys/Davidas Suchetas]]
+- [[objektai/asmenys/Dominikas Alamanis]]
 - [[objektai/asmenys/Dominykas Semaško]]
 - [[objektai/asmenys/Donatas Malinauskas]]
 - [[objektai/asmenys/Dovas Zaunius]]
@@ -173,6 +175,7 @@ Objektų skaičius: 2754.
 - [[objektai/asmenys/Ona Lukauskaitė-Poškienė]]
 - [[objektai/asmenys/Oskaras Milašius]]
 - [[objektai/asmenys/P. Bermontas-Avalovas]]
+- [[objektai/asmenys/Parbus (karalius, XIII a.)]]
 - [[objektai/asmenys/Paulius fon Hindenburgas]]
 - [[objektai/asmenys/Pavelas Bermontas-Avalovas]]
 - [[objektai/asmenys/Petras Bartkus-Žadgaila]]
@@ -1776,7 +1779,6 @@ Objektų skaičius: 2754.
 - [[objektai/ivykiai/LPS iniciatyvinių grupių įsteigimas Kaune ir Klaipėdoje ir pirmieji mitingai (1988 m. birželis–liepa)]]
 - [[objektai/ivykiai/LPS kandidatų pergalė SSRS Aukščiausiosios Tarybos rinkimuose ir LKP monopolio panaikinimas (1989 m.)]]
 - [[objektai/ivykiai/LPS pergalė rinkimuose į LSSR Aukščiausiąją Tarybą (1990 m. vasaris–kovas)]]
-- [[objektai/ivykiai/Lucko suvažiavimas]]
 - [[objektai/ivykiai/M. Gorbačiovo ultimatumas ir sovietų kariuomenės veiksmai Lietuvoje (1991 m. sausio 10–11 d.)]]
 - [[objektai/ivykiai/Magdeburgo teisių suteikimas Lietuvos miestams]]
 - [[objektai/ivykiai/Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis)]]
@@ -1834,6 +1836,7 @@ Objektų skaičius: 2754.
 - [[objektai/ivykiai/Sovietinė Lietuvos reokupacija (1944 m. vasara)]]
 - [[objektai/ivykiai/Sovietinė Lietuvos reokupacija (1944 m.)]]
 - [[objektai/ivykiai/Sovietinė Lietuvos vyrų mobilizacija į Raudonąją armiją (1944 m. ruduo–1945 m.)]]
+- [[objektai/ivykiai/Sovietų Rusijos denonsavimas Abiejų Tautų Respublikos padalijimų]]
 - [[objektai/ivykiai/Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.)]]
 - [[objektai/ivykiai/Sovietų Sąjungos masinės deportacijos į Sibirą]]
 - [[objektai/ivykiai/SSRS ekonominė blokada Lietuvai (1990 m. balandžio 18 d. – birželio 29 d.)]]
@@ -1859,6 +1862,7 @@ Objektų skaičius: 2754.
 - [[objektai/ivykiai/Vidurinės Lietuvos rinkimai ir prijungimo prie Lenkijos sprendimas (1922 m.)]]
 - [[objektai/ivykiai/Vietinės rinktinės organizavimas ir nacių represinis jos likvidavimas (1944 m. pradžia)]]
 - [[objektai/ivykiai/Vilijampolės ir „Lietūkio“ garažo pogromai (1941 m. birželio 26-27 d.)]]
+- [[objektai/ivykiai/Vilniaus ir didelės LDK erdvės užėmimas]]
 - [[objektai/ivykiai/Vilniaus kaip sostinės įrašymas 1938 m. Konstitucijoje (1938 m. gegužė)]]
 - [[objektai/ivykiai/Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)]]
 - [[objektai/ivykiai/Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.)]]

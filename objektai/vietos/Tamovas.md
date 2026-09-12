@@ -42,10 +42,83 @@ historical_names: []
 
 Tamovas kronikoje žymi tolimiausią Stepono ir Malkočo karo žygio Lenkijos žemėje ribą prie Krokuvos. Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos. Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+<a id="claim-t-187350"></a>
+- t-001
+  teiginys: "Tamovas kronikoje žymi tolimiausią Stepono ir Malkočo karo žygio Lenkijos žemėje ribą prie Krokuvos."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tamovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Krokuva: mention_match, place, gap=91"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tamovas\" parinktas kaip owner_note_path. Targetas \"Krokuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  pagrindžia:
+    - c-170370
+
+<a id="claim-t-187351"></a>
+- t-002
+  teiginys: "Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "surenge_zygi_i -> Tamovas: 0.80"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Steponas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Tamovas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas rodo Stepono karo žygio judėjimą iki Tamovo."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  pagrindžia:
+    - c-170370
+
+<a id="claim-t-187658"></a>
+- t-003
+  teiginys: "Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje nuo Kameneco per Lvovą iki Tamovo."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "surenge_zygi_i -> Tamovas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Steponas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Tamovas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tamovas nurodytas kaip karo žygio pasiekta riba."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  pagrindžia:
+    - c-170370
+
+<a id="claim-t-194040"></a>
+- t-004
+  teiginys: "Lietuvos metraštis pasakoja, kad Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje nuo Kameneco iki Lvovo ir Tamovo."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-170370
+
+## Citatos
+
+- id: c-170370
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     O pas­
     kui didysis kunigaikštis Aleksandras sugrįžo į Lietu­
@@ -58,13 +131,14 @@ Tamovas kronikoje žymi tolimiausią Stepono ir Malkočo karo žygio Lenkijos ž
     riavo po Lenkijos žemę, Kamenecu pradedant, ir ligi
     Lvovo, ir net ligi Tamovo, už dešimties mylių nuo Kro­
     kuvos 4 3 .
-  citata_rodoma: ''
+  citata_rodoma: "O pas­\nkui didysis kunigaikštis Aleksandras sugrįžo į Lietu­\nvą 3 9 .\nTais pačiais metais Lietuvos žemę ištiko baisus ba­\ndas, ir paplito žmonėse prancūziškos ligos4 0 . Paskui, \nsekančių metų vasarą bei rudenį4 I, atėjo Moldavijos \nvaivada Steponas, o su juo — turkų sultono didysis pa­\nša, vardu Malkočas 4 2 , vedinas daugeliu žmonių, ir ka­\nriavo po Lenkijos žemę, Kamenecu pradedant, ir ligi \nLvovo, ir net ligi Tamovo, už dešimties mylių nuo Kro­\nkuvos 4 3 ."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: not_found
-- t-004
-    - t-002
+  pagrindzia:
     - t-001
-    - t-005
-    - t-006
+    - t-002
+    - t-003
+    - t-004

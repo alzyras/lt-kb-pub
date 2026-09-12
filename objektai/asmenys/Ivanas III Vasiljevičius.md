@@ -43,11 +43,27 @@ canonical_biography: "Ivano III puolimas prasidėjo 1485 m. rugpjūtį žygiu į
 
 Ivano III puolimas prasidėjo 1485 m. rugpjūtį žygiu į Tverę; Tverė buvo apsupta rugsėjo 8 d., o Michailas Borisovičius pabėgo rugsėjo 11–12 d. naktį.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Ivano III puolimas prasidėjo 1485 m. rugpjūtį žygiu į Tverę; Tverė buvo apsupta rugsėjo 8 d., o Michailas Borisovičius pabėgo rugsėjo 11–12 d. naktį.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+<a id="claim-t-194109"></a>
+- t-001
+  teiginys: "Ivano III puolimas prasidėjo 1485 m. rugpjūtį žygiu į Tverę; Tverė buvo apsupta rugsėjo 8 d., o Michailas Borisovičius pabėgo rugsėjo 11–12 d. naktį."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-176722
+
+## Citatos
+
+- id: c-176722
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     M askvos didžiojo kunigaikščio Ivano III puolimas
     prasidėjo žygiu j Tvėrė 1485 m. rugpiūčlo mėn., Tverė buvo ap­
@@ -55,8 +71,10 @@ Ivano III puolimas prasidėjo 1485 m. rugpjūtį žygiu į Tverę; Tverė buvo a
     čius pabėgo iš Tverės 1485 m. rugsėjo 11—12 d. naktį ir j Lietuvų
     pateko tų pat metų ruden), kai Lenkijos karalius ir Ldk Kazimie­
     ras buvo dar pietų Lenkijoje.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: not_found
+  pagrindzia:
+    - t-001

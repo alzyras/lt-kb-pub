@@ -52,6 +52,19 @@ Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir Vytauto sekretorius
   pagrindžia:
     - c-93994
 
+<a id="claim-t-206274"></a>
+- t-002
+  teiginys: "Teodoras Narbutas Butrimą įvardija kaip garsų Žemaitijos didiką, pamautą ant kuolo, ir mini, kad jis buvo Birutės anūkas bei Julijonos vyras, o Julijona vėliau ištekėjo už Vilniaus vaivados Manvydo."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188889
+
 ## Citatos
 
 - id: c-93994
@@ -72,6 +85,23 @@ Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir Vytauto sekretorius
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188889
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 281"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 281."
+  citata_originali: |
+    Du garsūs Žemaitijos didikai pamauti ant kuolo: kuni­
+    gaikštienės Birutės dėdė Vidmantas, kitas - Butrimas, jos anū­
+    kas, kuris buvo vedęs Julijoną, pastaroji vėliau ištekėjo už Vilniaus
+    vaivados Manvydo; nemažai kitų
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Butrimas keliavo į [[objektai/vietos/Praha]]

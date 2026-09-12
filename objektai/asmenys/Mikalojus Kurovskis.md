@@ -2,6 +2,7 @@
 tipas: asmuo
 pavadinimas: 'Mikalojus Kurovskis'
 saltiniai:
+  - '04-ldk-personalijos-idejos-refleksijos'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -32,7 +33,11 @@ canonical_biography: "Lenčicos seimas pasiuntė Gniezno arkivyskupą Mikalojų 
 
 ## Santrauka
 
-Lenčicos seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuočius skatinti magistrą taikiai baigti ginčą su Vytautu.
+Lenčicos seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuočius skatinti magistrą taikiai baigti ginčą su Vytautu. A. K. Sapiegos laiškuose pastebima jo valdų administratorių hierarchija: kreipdamasis į Ilgų vaitą Motiejų Kurovskį, Sapiega apsiribodavo kreipiniais „pone Motiejau“ arba Monsieur.
+
+## Santrauka
+
+Lenčicos seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuočius skatinti magistrą taikiai baigti ginčą su Vytautu. A. K. Sapiegos laiškuose pastebima jo valdų administratorių hierarchija: kreipdamasis į Ilgų vaitą Motiejų Kurovskį, Sapiega apsiribodavo kreipiniais „pone Motiejau“ arba Monsieur.
 
 ## Teiginiai
 
@@ -55,6 +60,26 @@ Lenčicos seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuo
   pagrindžia:
     - c-169600
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'A. K. Sapiegos laiškuose pastebima jo valdų administratorių hierarchija: kreipdamasis į Ilgų vaitą Motiejų Kurovskį, Sapiega apsiribodavo kreipiniais „pone Motiejau“ arba Monsieur.'
+  šaltinis: 04-ldk-personalijos-idejos-refleksijos
+  citata_originali: |
+    гг
+    XVIII amžiaus studijos 6
+    buvo galimybė įžvelgti sąmoningą provokaciją arba - mažų mažiausiai - svarbiausių
+    elgesio taisyklių nežinojimą21.
+    A. K. Sapiegos laiškuose pastebima tam tikra jo valdų administratorių hierar­
+    chija, nes, pavyzdžiui, kreipdamasis į Ilgų vaitą Motiejų Kurovskį (Mathys Kurowski)
+    apsiriboja tik kreipiniais „pone Motiejau“22 arba prancūzišku Monsieur**. V. Kuževskis
+    tarp A. K. Sapiegos valdų administratorių veikiausiai užėmė ne pačią aukščiausią
+    vietą - tai rodo jo adiekamų funkcijų palyginimas su kitiems administratoriams ar
+    patikėtiniams skiriamomis užduotimis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-169600

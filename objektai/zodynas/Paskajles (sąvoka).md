@@ -33,8 +33,22 @@ Buvo pagaliau midaus rūšis, vadinama paskajles, kuris labai greitai svaigindav
 
 Buvo pagaliau midaus rūšis, vadinama paskajles, kuris labai greitai svaigindavo.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
+<a id="claim-t-205249"></a>
+- t-001
+  teiginys: "Buvo pagaliau midaus rūšis, vadinama paskajles, kuris labai greitai svaigindavo."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-188069
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Buvo pagaliau midaus rūšis, vadinama paskajles, kuris labai greitai svaigindavo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
@@ -47,3 +61,23 @@ Buvo pagaliau midaus rūšis, vadinama paskajles, kuris labai greitai svaigindav
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+## Citatos
+
+- id: c-188069
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 414"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 414."
+  citata_originali: |
+    Salyje gerai buvo įgudę daryti alų, kuris
+    vadinasi būtent alus. Betgi kitokį gėrimą, iki šiol vadi­
+    namą alumi, išmoko daryti nusižiūrėję į gotus1. Buvo
+    pagaliau midaus rūšis, vadinama paskajles, kuris labai
+    greitai svaigindavo* 1 2.
+  citata_rodoma: "Buvo \npagaliau midaus rūšis, vadinama paskajles, kuris labai \ngreitai svaigindavo"
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

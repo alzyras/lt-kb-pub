@@ -5,6 +5,7 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
@@ -50,7 +51,7 @@ canonical_biography: "Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po 
 
 ## Santrauka
 
-Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu baltų žemių jungėju. Traidenis buvo vedęs Mozurijos ir Kujavijos kunigaikščio Konrado I dukterį Liudmilą. 1279 m. Traidenio dukra Gaudimantė ištekėjo už Płocko Boleslovo II ir per krikštą gavo Sofijos vardą.
+Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvos valdovų, stiprinęs valdžią artimose rusų žemėse ir jungęs baltų žemes. Jis siejamas su Liudmilos vedybomis, dukters Gaudimantės santuoka su Boleslovu II ir išskiriamas kaip pirmasis XIII a. Lietuvos valdovas, miręs savo mirtimi.
 
 ## Teiginiai
 
@@ -498,6 +499,36 @@ Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu ba
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: not_found
+- c-020
+  santrauka: 'Alfredas Bumblauskas nurodo, kad Traidenio valdymo metu antrojoje XIII a. pusėje Kernavė galėjo tapti sostine, nes valdovas joje rezidavo.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    Antra vertus, baltarusių istorikai pagal kai kuriuos vėlyvuo-
+    sius metraščių duomenis beveik sutartinai Mindaugo sostine laiko Naugarduką, nenorėda-
+    mi matyti aplinkybės, kad Naugardukas buvo Mindaugo aneksas, atiduotas valdyti sūnui
+    Vaišelgai. Apskritai šiandien linkstama manyti, kad XIII a. viduryje sostinės vėlesnių
+    laikų supratimu apskritai galėjo nebūti – tai, aišku, nepanaikina Mindaugo karūnacijos
+    vietos klausimo. Kartais manoma, kad prie Traidenio antrojoje XIII a. pusėje tokia sostine
+    galėjo tapti Kernavė, nes joje Traidenis akivaizdžiai rezidavo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-021
+  santrauka: 'Po Traidenio į Lietuvos sostą, Alfredo Bumblausko teigimu, atėjo kitos, veikiausiai artimos giminės žmonės.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    Kernavėje pradėjo formuotis Lietuvos pirklių sluoksnis.
+    Taigi Kernavė – Lietuvos Troja, ankstyvojo valstybinio laikotarpio pradžia ir simbo-
+    lis, jos vaidmuo Lietuvos istorijoje įvairiu požiūriu yra unikalus.
+    Gediminaičių dinastijos iškilimas
+    Po Traidenio į Lietuvos sostą atėjo kitos, veikiausiai artimos giminės žmonės.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-04834

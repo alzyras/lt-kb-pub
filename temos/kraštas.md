@@ -6,7 +6,7 @@ tema_kategorija: "vietos"
 tema_kategorijos_pavadinimas: "Vietų tipai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 220
+tema_objektu_skaicius: 221
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 220.
+Objektų skaičius: 221.
 
 ## Kaip naudoti
 
@@ -27,6 +27,7 @@ Objektų skaičius: 220.
 
 ### Asmenys
 - [[objektai/asmenys/Celestinas III]]
+- [[objektai/asmenys/Mykolas Kazimieras Radvila]]
 
 ### Grupės
 - [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
@@ -54,7 +55,7 @@ Objektų skaičius: 220.
 - [[objektai/vietos/Breslauja]]
 - [[objektai/vietos/Busavna]]
 - [[objektai/vietos/Ceklis]]
-- [[objektai/vietos/Chersonas]]
+- [Chersonas](../objektai/vietos/Chersonas)
 - [Dainava](../objektai/vietos/Dainava)
 - [Dakija](../objektai/vietos/Dakija)
 - [Desna](../objektai/vietos/Desna)

@@ -377,6 +377,19 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   pagrindžia:
     - c-175917
 
+<a id="claim-t-205545"></a>
+- t-020
+  teiginys: "Krėvos miestas, kadaise turėjęs įtvirtinimų, esantis Ašmenos ap skrityje, ir į pietus nuo jo esantis Krėvos kaimelis — seno sios pilies vietovė — primena, kur yra buvusios tos genties centrinės gyvenvietės."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-188129
+
 ## Citatos
 
 - id: c-12704
@@ -773,6 +786,29 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   patikimumo_saltinis: ai
   pagrindzia:
     - t-019
+
+- id: c-188129
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 202"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 202."
+  citata_originali: |
+    Su lietuvių tauta krivičiai
+    palaikė artimus ryšius tiek pasaulietiniuose, tiek religi­
+    niuose dalykuose1. Gyveno jie palei pietinę ir rytinę Lie­
+    tuvos sieną, nuo Nemuno iki Drujos, kitaip sakant, prie
+    Zemgalos, ten, kur baigiasi jos rytinės žemės. Krėvos
+    miestas, kadaise turėjęs įtvirtinimų, esantis Ašmenos ap­
+    skrityje, ir į pietus nuo jo esantis Krėvos kaimelis — seno­
+    sios pilies vietovė — primena, kur yra buvusios tos genties
+    centrinės gyvenvietės.
+  citata_rodoma: "Krėvos \nmiestas, kadaise turėjęs įtvirtinimų, esantis Ašmenos ap­\nskrityje, ir į pietus nuo jo esantis Krėvos kaimelis — seno­\nsios pilies vietovė — primena, kur yra buvusios tos genties \ncentrinės gyvenvietės."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-020
 
 ## Ryšiai
 - Užėmė Ašmeną: [[objektai/asmenys/Švitrigaila]]

@@ -9,24 +9,24 @@ import {
 import { FullSlug, resolveRelative } from "../util/path"
 import { cleanText } from "../util/objectMedia"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import { ObjectPageTabs } from "./ObjectPageTabs"
+import { ObjectPageShell } from "./ObjectPageShell"
+// @ts-ignore
+import mapScript from "./scripts/object-map-preview.inline"
+// @ts-ignore
+import tabsScript from "./scripts/object-detail-tabs.inline"
 import { objectPageViewModel } from "../util/objectPageView"
 import style from "./styles/objectDetail.scss"
-// @ts-ignore
-import evidenceSearchScript from "./scripts/object-evidence-search.inline"
 
 const PAGE_SIZE = 50
 
-function title(frontmatter: Record<string, unknown>): string {
-  return (
-    cleanText(frontmatter.object_title || frontmatter.pavadinimas || frontmatter.title) ||
-    "Istorijos objektas"
-  )
-}
-
-function Claim({ claim }: { claim: ObjectEvidenceClaim }) {
+export function Claim({ claim, topics = [] }: { claim: ObjectEvidenceClaim; topics?: string[] }) {
   return (
     <article class="object-claim-card" data-evidence-kind="claim" id={`claim-${claim.id}`}>
+      {claim.globalIds
+        ?.filter((id) => id !== claim.id)
+        .map((id) => (
+          <span id={`claim-${id}`} class="object-claim-anchor" />
+        ))}
       <div class="object-claim-card-header">
         <a class="object-claim-id" href={`#claim-${claim.id}`}>
           {claim.id}
@@ -34,9 +34,16 @@ function Claim({ claim }: { claim: ObjectEvidenceClaim }) {
         {claim.reliability && <span class="object-claim-reliability">{claim.reliability}</span>}
       </div>
       <p>{claim.text}</p>
+      {topics.length > 0 && (
+        <p class="object-claim-topics">
+          {topics.map((topic) => (
+            <span>{topic.replaceAll("-", " ")}</span>
+          ))}
+        </p>
+      )}
       {claim.citations.map((citation) => {
         const source = cleanText(citation.fields.get("šaltinis") || citation.fields.get("saltinis"))
-        const quote = citationQuote(citation, 900)
+        const quote = citationQuote(citation, Number.MAX_SAFE_INTEGER)
         const pages = cleanText(citation.fields.get("puslapiai") || citation.fields.get("indeksas"))
         return (
           <details class="object-evidence-citation" data-citation-id={citation.id}>
@@ -57,11 +64,11 @@ function Claim({ claim }: { claim: ObjectEvidenceClaim }) {
   )
 }
 
-function CitationRecord({ record }: { record: ObjectEvidenceCitation }) {
+export function CitationRecord({ record }: { record: ObjectEvidenceCitation }) {
   const source = cleanText(
     record.entry.fields.get("šaltinis") || record.entry.fields.get("saltinis"),
   )
-  const quote = citationQuote(record.entry, 900)
+  const quote = citationQuote(record.entry, Number.MAX_SAFE_INTEGER)
   const pages = cleanText(
     record.entry.fields.get("puslapiai") || record.entry.fields.get("indeksas"),
   )
@@ -94,7 +101,8 @@ function CitationRecord({ record }: { record: ObjectEvidenceCitation }) {
   )
 }
 
-const ObjectEvidencePage: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
+const ObjectEvidencePage: QuartzComponent = (props: QuartzComponentProps) => {
+  const { fileData } = props
   const frontmatter = (fileData.frontmatter ?? {}) as Record<string, unknown>
   const objectSlug = String(frontmatter.object_slug ?? "") as FullSlug
   const sourcePath = String(frontmatter.object_source_path ?? "")
@@ -104,7 +112,6 @@ const ObjectEvidencePage: QuartzComponent = ({ fileData }: QuartzComponentProps)
   const pages = Math.max(1, Math.ceil(items.length / PAGE_SIZE))
   const start = (page - 1) * PAGE_SIZE
   const displayed = items.slice(start, start + PAGE_SIZE)
-  const titleValue = title(frontmatter)
   const currentSlug = fileData.slug as FullSlug
   const view = objectPageViewModel(frontmatter, evidence)
   const pagePath = (pageNumber: number) =>
@@ -114,22 +121,10 @@ const ObjectEvidencePage: QuartzComponent = ({ fileData }: QuartzComponentProps)
 
   return (
     <main class="object-detail-page object-evidence-page" data-object-evidence-page="true">
-      <nav class="object-detail-breadcrumbs" aria-label="Kelias">
-        <a href="/">Pradžia</a>
-        <span aria-hidden="true">/</span>
-        <a href={resolveRelative(currentSlug, objectSlug)}>{titleValue}</a>
-        <span aria-hidden="true">/</span>
-        <span>Visi įrodymai</span>
-      </nav>
-      <ObjectPageTabs
-        currentSlug={currentSlug}
-        objectSlug={objectSlug}
-        counts={view.counts}
-        active="evidence"
-      />
+      <ObjectPageShell props={props} active="evidence" />
       <header class="object-evidence-header">
         <p class="object-detail-eyebrow">Šaltiniai ir citatos</p>
-        <h1>{titleValue}: visi teiginiai ir įrodymai</h1>
+        <h2>Teiginiai ir įrodymai</h2>
         <p>
           Rodomi visi {view.counts.claims} teiginiai ir visi{" "}
           {view.counts.citations + view.counts.mentions} citatų bei paminėjimų įrašai. Su teiginiais
@@ -140,40 +135,6 @@ const ObjectEvidencePage: QuartzComponent = ({ fileData }: QuartzComponentProps)
           <ArrowLeft size={16} /> Grįžti į objekto apžvalgą
         </a>
       </header>
-      <section
-        class="object-evidence-search"
-        data-object-evidence-search="true"
-        data-object-evidence-index={String(frontmatter.object_evidence_index ?? "")}
-        aria-label="Ieškoti visuose objekto teiginiuose"
-      >
-        <label>
-          Ieškoti visuose teiginiuose, citatose ir paminėjimuose
-          <input
-            type="search"
-            placeholder="Įveskite žodį, vardą ar šaltinį"
-            data-object-evidence-query=""
-          />
-        </label>
-        <div data-object-evidence-results="" aria-live="polite" />
-      </section>
-      <nav
-        class="object-evidence-subfilters"
-        aria-label="Įrodymų rūšys"
-        data-object-evidence-filters
-      >
-        <button type="button" data-evidence-filter="all" aria-pressed="true">
-          Visi
-        </button>
-        <button type="button" data-evidence-filter="claim">
-          Teiginiai ({view.counts.claims})
-        </button>
-        <button type="button" data-evidence-filter="citation">
-          Atskiros citatos ({view.counts.citations})
-        </button>
-        <button type="button" data-evidence-filter="mention">
-          Reikšmingi paminėjimai ({view.counts.mentions})
-        </button>
-      </nav>
       {displayed.length > 0 ? (
         <section class="object-detail-evidence" aria-label="Teiginiai ir citatos">
           <p
@@ -256,14 +217,8 @@ ObjectEvidencePage.css = `${style}
 [data-object-evidence-lazy-ready="true"] .object-evidence-pagination { display: none; }
 .object-evidence-empty { max-width: 44rem; padding: 1rem; border-left: 4px solid var(--secondary); background: var(--object-wash); }
 .object-standalone-citation blockquote { margin: .7rem 0 0; }
-.object-evidence-search { width: 100%; max-width: 62rem; box-sizing: border-box; margin-top: 1rem; padding: clamp(1rem, 2vw, 1.3rem); border: 1px solid var(--object-rule); background: var(--object-wash); }
-.object-evidence-search label { display: grid; gap: .4rem; color: var(--dark); font-size: .88rem; font-weight: 800; }
-.object-evidence-search input { width: 100%; min-height: 2.5rem; box-sizing: border-box; padding: .45rem .6rem; border: 1px solid var(--object-rule); font: inherit; }
-.object-evidence-search [data-object-evidence-results] { display: grid; gap: .35rem; margin-top: .8rem; }
-.object-evidence-search [data-object-evidence-results] a { color: var(--darkgray); font-size: .88rem; line-height: 1.35; }
-.object-evidence-search [data-object-evidence-results] small { color: var(--gray); font-family: var(--codeFont); font-size: .7rem; text-transform: uppercase; }
 `
-ObjectEvidencePage.afterDOMLoaded = evidenceSearchScript
+ObjectEvidencePage.afterDOMLoaded = `${mapScript}\n${tabsScript}`
 
 export default (() => ObjectEvidencePage) satisfies QuartzComponentConstructor
 export { PAGE_SIZE }

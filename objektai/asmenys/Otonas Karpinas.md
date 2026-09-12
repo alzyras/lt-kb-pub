@@ -43,8 +43,35 @@ Po pir mojo didžiojo magistro mirties jo įpėdiniu buvo išrinktas Otonas Karp
 
 Po pir mojo didžiojo magistro mirties jo įpėdiniu buvo išrinktas Otonas Karpinas, arba Karpenas, bremenietis, žmogus aš tuntoje dešimtyje, išmintingas ir be jokių priekaištų. Otonas mirė 1206 me tų birželio 2-ąją Akroje, kur ir palaidotas šalia savo pirm tako.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
+<a id="claim-t-205128"></a>
+- t-001
+  teiginys: "Otonas mirė 1206 me tų birželio 2-ąją Akroje, kur ir palaidotas šalia savo pirm tako."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187968
+
+<a id="claim-t-205457"></a>
+- t-002
+  teiginys: "Po pir mojo didžiojo magistro mirties jo įpėdiniu buvo išrinktas Otonas Karpinas, arba Karpenas, bremenietis, žmogus aš tuntoje dešimtyje, išmintingas ir be jokių priekaištų."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187719
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Po pir mojo didžiojo magistro mirties jo įpėdiniu buvo išrinktas Otonas Karpinas, arba Karpenas, bremenietis, žmogus aš tuntoje dešimtyje, išmintingas ir be jokių priekaištų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
@@ -71,3 +98,42 @@ Po pir mojo didžiojo magistro mirties jo įpėdiniu buvo išrinktas Otonas Karp
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+## Citatos
+
+- id: c-187719
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 325"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 325."
+  citata_originali: |
+    Didysis magistras Otonas Karpinas. Po pir­
+    mojo didžiojo magistro mirties jo įpėdiniu buvo išrinktas
+    Otonas Karpinas, arba Karpenas, bremenietis, žmogus aš­
+    tuntoje dešimtyje, išmintingas ir be jokių priekaištų. Sis
+    šešerius metus vadovavo ordinui.
+  citata_rodoma: "Po pir­\nmojo didžiojo magistro mirties jo įpėdiniu buvo išrinktas \nOtonas Karpinas, arba Karpenas, bremenietis, žmogus aš­\ntuntoje dešimtyje, išmintingas ir be jokių priekaištų. Sis \nšešerius metus vadovavo ordinui."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-187968
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 325"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 325."
+  citata_originali: |
+    Juozapu. Juos lydėjo danguje spindinti
+    žvaigždė su lanku- gaubiančiu įrašu: „Sigillum officii Ma-
+    gisterialitatis domus Theutonicae“. Otonas mirė 1206 me­
+    tų birželio 2-ąją Akroje, kur ir palaidotas šalia savo pirm­
+    tako.
+  citata_rodoma: "Otonas mirė 1206 me­\ntų birželio 2-ąją Akroje, kur ir palaidotas šalia savo pirm­\ntako."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

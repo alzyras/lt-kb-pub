@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XI amžius"
 periodo_pradzia: 1001
 periodo_pabaiga: 1100
-periodo_objektu_skaicius: 108
+periodo_objektu_skaicius: 110
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 108.
+Objektų skaičius: 110.
 
 ## Susiję objektai
 
@@ -33,6 +33,7 @@ Objektų skaičius: 108.
 - [[objektai/asmenys/Netimeras]]
 - [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis)]]
 - [[objektai/asmenys/Pajauta]]
+- [[objektai/asmenys/Pranciškus Ksaveras Mykolas Bohušas]]
 - [[objektai/asmenys/Sekalys]]
 - [[objektai/asmenys/Skažinskis]]
 - [[objektai/asmenys/Tacitas]]
@@ -115,6 +116,7 @@ Objektų skaičius: 108.
 - [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]
 - [[objektai/ivykiai/Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų|Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų (mūšis, XI a.)]]
 - [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]]
+- [[objektai/ivykiai/Reformacijos pradžia Lietuvoje]]
 - [[objektai/ivykiai/Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę]]
 - [[objektai/ivykiai/Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.)]]
 - [[objektai/ivykiai/Vytauto žygis į Naugardą (1428 m. vasara)]]

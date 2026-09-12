@@ -108,8 +108,28 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   pagrindžia:
     - c-168297
 
-<a id="claim-t-193173"></a>
+<a id="claim-t-187566"></a>
 - t-004
+  teiginys: "Lietuvos metraštis pasakoja, kad Aleksandras įsakė atstatyti Braclavą, nes miestas buvo Moldavijos vaivados nusiaubtas ir sudegintas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "pastate -> Braclavas: 0.80"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aleksandras: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Braclavas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Aleksandras įsakė atstatyti Braclavą; tai artimiausias leidžiamas statymo ryšys."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  pagrindžia:
+    - c-170515
+
+<a id="claim-t-193173"></a>
+- t-005
   teiginys: "Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiuliai Palenkės, Voluinės, Braclavo ir Kijevo žemių plotai atiteko Lenkijai."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -120,26 +140,6 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   pagrindžia:
     - c-46455
 
-## Reikšmingi paminėjimai
-- c-005
-  santrauka: 'Lietuvos metraštis pasakoja, kad Aleksandras įsakė atstatyti Braclavą, nes miestas buvo Moldavijos vaivados nusiaubtas ir sudegintas.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ir kunigaikštis Alek­
-    sandras siunčia broliui į pagalbą savo maršalą, Lydos
-    vietininką poną Stanislovą Petravičių ls, ir Možaisko
-    kunigaikštį Simoną Ivanovičių ir kunigaikštį Vasili­
-    jų Ivanovičių Semiačičiųl7, su jais keletą tūkstančių
-    kunigaikščių, didikų ir rinktinių dvarionių į Moldavi­
-    jos žemę I S , į pagalbą savo broliui, karaliui Olbrachtui.
-    O likusiai kariuomenei didysis kunigaikštis Aleksandras
-    įsakė atstatyti Braclavą, nes Braclavas buvo Moldavi­
-    jos vaivados nusiaubtas ir sudegintas l!l.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
 ## Citatos
 
 - id: c-46455
@@ -166,7 +166,7 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-005
 
 - id: c-49105
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -254,3 +254,26 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-170515
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Ir kunigaikštis Alek­
+    sandras siunčia broliui į pagalbą savo maršalą, Lydos
+    vietininką poną Stanislovą Petravičių ls, ir Možaisko
+    kunigaikštį Simoną Ivanovičių ir kunigaikštį Vasili­
+    jų Ivanovičių Semiačičiųl7, su jais keletą tūkstančių
+    kunigaikščių, didikų ir rinktinių dvarionių į Moldavi­
+    jos žemę I S , į pagalbą savo broliui, karaliui Olbrachtui.
+    O likusiai kariuomenei didysis kunigaikštis Aleksandras
+    įsakė atstatyti Braclavą, nes Braclavas buvo Moldavi­
+    jos vaivados nusiaubtas ir sudegintas l!l.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

@@ -89,6 +89,30 @@ Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęst
   pagrindžia:
     - c-184369
 
+<a id="claim-t-205065"></a>
+- t-004
+  teiginys: "Olga buvo Igorio žmona, slavė iš Pskovo apylinkių ir Sviatoslavo motina."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188192
+
+<a id="claim-t-205559"></a>
+- t-005
+  teiginys: "959 m. Olga pasiuntė pasiuntinius pas imperatorių Otoną II, prašydama krikščionybės mokytojų."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187691
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęstučio motina.'
@@ -173,3 +197,56 @@ Smolensko kunigaikštytė Olga nurodoma kaip antroji žmona ir Algirdo bei Kęst
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-187691
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 126"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 126."
+  citata_originali: |
+    Arkivyskupo Alberto apaštalavimas. Prie
+    krikščionybės skleidimo Lietuvoje temos priskirtinas ir
+    arkivyskupo Alberto apaštalavimas Rusioje ir Lietuvoje.
+    Kijevo kunigaikštienė Olga, kuri priėmė krikštą 955 me­
+    tais Konstantinopolyje, stengdamasi įvesti krikščionybę
+    ką tik susikūrusios Rusios valstybės kraštuose, 959 metais
+    išsiuntė pasiuntinius pas imperatorių Otoną II, prašyda­
+    ma krikščionybės mokslo skleidėjų.
+  citata_rodoma: "Kijevo kunigaikštienė Olga, kuri priėmė krikštą 955 me­\ntais Konstantinopolyje, stengdamasi įvesti krikščionybę \nką tik susikūrusios Rusios valstybės kraštuose, 959 metais \nišsiuntė pasiuntinius pas imperatorių Otoną II, prašyda­\nma krikščionybės mokslo skleidėjų."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
+- id: c-188192
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 121"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 121."
+  citata_originali: |
+    Igorio žmona Olga buvo
+    ne variage, bet slavė iš Pskovo apylinkių. Tad, supranta­
+    ma, išpažino pagoniškąjį tikėjimą, o gal tekėdama ir buvo
+    perėjusi į vakarietišką krikščioniškąjį, bet tai, tuometinių
+    teologų manymu, nesutrukdė dar kartą apsikrikštyti Ca-
+    rograde, jeigu jai rytietiškasis buvo priimtinesnis. O
+    jos
+    sūnus
+    Sviatoslavas,
+    priešingai,
+    laikėsi
+    protėvių
+    tikėjimo, juk jo auklėtojas buvo Asmundas Skandinavas,
+    tad klaidinga būtų manyti, kad ¡šis kunigaikštis būtų bu­
+    vęs auklėjamas slavų pagoniško tikėjimo, šios vien tik
+    variagų toleruojamos stabmeldystės, dvasia, tai tikriau­
+    siai būtų buvę neparanku ir politiniais sumetimais.
+  citata_rodoma: "Igorio žmona Olga buvo \nne variage, bet slavė iš Pskovo apylinkių. Tad, supranta­\nma, išpažino pagoniškąjį tikėjimą, o gal tekėdama ir buvo \nperėjusi į vakarietišką krikščioniškąjį, bet tai, tuometinių \nteologų manymu, nesutrukdė dar kartą apsikrikštyti Ca- \nrograde, jeigu jai rytietiškasis buvo priimtinesnis. O \njos \nsūnus \nSviatoslavas, \npriešingai, \nlaikėsi \nprotėvių \ntikėjimo"
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

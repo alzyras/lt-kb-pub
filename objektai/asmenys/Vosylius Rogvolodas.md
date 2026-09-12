@@ -43,8 +43,35 @@ Narbutas rašo, kad Polocko kunigaikštystę valdė Boriso sūnus Vosylius Rogvo
 
 Narbutas rašo, kad Polocko kunigaikštystę valdė Boriso sūnus Vosylius Rogvolodas, vienas iš Palemono ainių, turėjęs Kuoknesės valsčių ir tvirtovę. Mes iš tiesų neturime pakankamai žinių iš Polocko kuni gaikštystės istorijos, kad galėtume išdėstyti priežastis, kodėl kunigaikštis Vosylius, neabejojamai tas pats, ku ris 1222 metais valdė Kuoknesę, paėmė į savo rankas Naugardo valdžią.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
+<a id="claim-t-205190"></a>
+- t-001
+  teiginys: "Mes iš tiesų neturime pakankamai žinių iš Polocko kuni gaikštystės istorijos, kad galėtume išdėstyti priežastis, kodėl kunigaikštis Vosylius, neabejojamai tas pats, ku ris 1222 metais valdė Kuoknesę, paėmė į savo rankas Naugardo valdžią."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187775
+
+<a id="claim-t-205546"></a>
+- t-002
+  teiginys: "Narbutas rašo, kad Polocko kunigaikštystę valdė Boriso sūnus Vosylius Rogvolodas, vienas iš Palemono ainių, turėjęs Kuoknesės valsčių ir tvirtovę."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187684
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad Polocko kunigaikštystę valdė Boriso sūnus Vosylius Rogvolodas, vienas iš Palemono ainių, turėjęs Kuoknesės valsčių ir tvirtovę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
@@ -75,3 +102,49 @@ Narbutas rašo, kad Polocko kunigaikštystę valdė Boriso sūnus Vosylius Rogvo
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+## Citatos
+
+- id: c-187684
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 333"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 333."
+  citata_originali: |
+    Tam, kad
+    dalykas, apie kurį kalbame, taptų aiškesnis ir kadangi
+    tai siejasi su Lietuvos istorija, papasakosime apie Poloc­
+    ko kunigaikščio ryšius su Livonija, nors ir šiek tiek anks-
+    tėlesniais laikais buvusius. Tuo metu Polocko kunigaikš­
+    tystę valdė Boriso sūnus Vosylius Rogvolodas, vienas iš
+    Palemono ainių1 2, kurio valdos plačiai driekėsi palei Dau­
+    guvą. Be kitų, Latvijos šalyje turėjo jis valsčių ir tvirto­
+    vę, vadintą Kuoknese — Kukenoys, tiksliau — Kukenmojs,
+    1 Hylzen.
+  citata_rodoma: "Tuo metu Polocko kunigaikš­\ntystę valdė Boriso sūnus Vosylius Rogvolodas, vienas iš \nPalemono ainių1 2, kurio valdos plačiai driekėsi palei Dau­\nguvą. Be kitų, Latvijos šalyje turėjo jis valsčių ir tvirto­\nvę, vadintą Kuoknese — Kukenoys, tiksliau — Kukenmojs"
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-187775
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 357"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 357."
+  citata_originali: |
+    Rusios kunigaikštystė Dorpato žemėje. Mes
+    iš tiesų neturime pakankamai žinių iš Polocko kuni­
+    gaikštystės istorijos, kad galėtume išdėstyti priežastis,
+    kodėl kunigaikštis Vosylius, neabejojamai tas pats, ku­
+    ris 1222 metais valdė Kuoknesę, paėmė į savo rankas Nau-
+    gardo valdžią. Jis kurį laiką plėtė savo valdas, užimda­
+    mas Didįjį Dorpatą ir aplinkinius jo valsčius3.
+  citata_rodoma: "Mes\niš tiesų neturime pakankamai žinių iš Polocko kuni­\ngaikštystės istorijos, kad galėtume išdėstyti priežastis, \nkodėl kunigaikštis Vosylius, neabejojamai tas pats, ku­\nris 1222 metais valdė Kuoknesę, paėmė į savo rankas Nau- \ngardo valdžią. Jis kurį laiką plėtė savo valdas, užimda­\nmas Didįjį Dorpatą ir aplinkinius jo valsčius3."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

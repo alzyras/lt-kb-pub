@@ -58,6 +58,19 @@ Nemažas būrys, vadovaujamas paties Vinricho, su­ deginęs visus valsčius nuo
   pagrindžia:
     - c-167246
 
+<a id="claim-t-205792"></a>
+- t-002
+  teiginys: "Teodoras Narbutas, aptardamas Dlugošo pranešimą, svarstė, kad prie Veliuonos žuvusio Gedimino kūnas galėjo būti sudegintas prie Maišiagalos, o pelenai užkasti pilkapyje prie Vilniaus."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188407
+
 ## Citatos
 
 - id: c-167246
@@ -87,6 +100,28 @@ Nemažas būrys, vadovaujamas paties Vinricho, su­ deginęs visus valsčius nuo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188407
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 483"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 483."
+  citata_originali: |
+    Antra,
+    ir Dlugošas (kn. X .— P. 144), remdamasis savais šaltiniais, nurodo
+    didžiojo kunigaikščio palaikus buvus sudegintus (jis per klaidą ku­
+    nigaikštį vadina Algirdu: „prope castrum et viliam Missole“ (arti
+    Maišiagalos pilies ir gyvenvietės). Taigi galėjo prie Veliuonos žu­
+    vusio Gedimino kūnas tuomet įprastu papročiu būti sudegintas prie
+    Maišiagalos,
+    o pelenai užkasti .pilkapyje prie
+    Vilniaus.
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Užėmė Maišiagalą: [[objektai/asmenys/Engelhardas Rabė]], [[objektai/grupes/Kryžiuočių ordinas]]

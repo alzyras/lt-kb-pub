@@ -201,6 +201,45 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   pagrindžia:
     - c-186213
 
+<a id="claim-t-206303"></a>
+- t-010
+  teiginys: "1349 m. Algirdas vedė Tverės kunigaikščio Aleksandro Michailovičiaus dukterį Julijoną, savo pirmosios žmonos Marijos seserį; santuoką palaimino metropolitas Teognostas."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188918
+
+<a id="claim-t-206304"></a>
+- t-011
+  teiginys: "1341 m. Algirdas antrą kartą vedė Julijoną, Tverės kunigaikščio Aleksandro dukterį, o Rusios kronikininkai, Teodoro Narbuto teigimu, tvirtino, kad Algirdas priėmė krikštą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188919
+
+<a id="claim-t-206305"></a>
+- t-012
+  teiginys: "Teodoras Narbutas spėja, kad ąžuolas, ant kurio buvo pakarti kankiniai, stovėjo Švenčiausiosios Trejybės cerkvės vietoje, o pirmoji cerkvė buvo pastatyta Julijonos Algirdienės laikais."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188920
+
 ## Citatos
 
 - id: c-04832
@@ -381,3 +420,61 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-009
+
+- id: c-188918
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 98"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 98."
+  citata_originali: |
+    Netrukus po to ir pats Algirdas, jau keleri metai našlys
+    po Vitebsko kunigaikštytės Marijos mirties, vedė Julijoną, Alek­
+    sandro Michailovičiaus, Tverės kunigaikščio, dukrą, taip pat Si­
+    mono giminaitę, nes buvo tikra jo žmonos Marijos sesuo.
+    Metropolitas Teognostas pats palaimino tą santuoką, ir šitaip dėl
+    sesers mirties nutrūkusius giminystės saitus Algirdas atnaujino
+    antrąkart santuokos ryšiais susisiejęs su kunigaikščių, viešpatau­
+    jančių Maskvoje, gimine. Visa tai vyko dėjosi 1349 metais1.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+
+- id: c-188919
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 229"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 229."
+  citata_originali: |
+    1341 metais** antrąkart vedė, susituokdamas su Tverės kunigaikš­
+    čio Aleksandro dukra Julijona, Rusios kronikininkai griežtai tei­
+    gia jį priėmus krikštą1 2;
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
+
+- id: c-188920
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 563"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 563."
+  citata_originali: |
+    Ąžuolas, ant kurio šakų buvo pakarti kankiniai, galėjo
+    būti toje vietoje, kur Švenčiausiosios Trejybės cerkvė buvo pa­
+    statyta vėlesniais laikais, nes pirmoji jos statyba yra antrosios
+    Algirdo žmonos Julijonos, kurią buvo vedęs 1349 metais (§ 1218)
+    laikų, tad neilgai trukus, po tų šventų žmonių nukankinimo, ir
+    galbūt siekiant pagerbti pirmą jų kapo duobę, juk galima teig­
+    ti, kad pagonys iš pradžių po tuo pačiu ąžuolu juos buvo palai­
+    doję.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012

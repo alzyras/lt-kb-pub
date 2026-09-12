@@ -2,6 +2,7 @@
 tipas: ivykis
 pavadinimas: 'Mindaugo nužudymas'
 saltiniai:
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -24,7 +25,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Lietuvos metraštis teigia, kad rudenį Lietuvos didysis kunigaikštis Mindaugas buvo nužudytas. Pasakojimo įžangoje Mindaugo valdymas apibūdinamas kaip lydėtas giminių žudymo ir išvarymo.
+Lietuvos metraštis Mindaugą vadina Lietuvos didžiuoju kunigaikščiu ir visų lietuvių žemių valdovu, nužudytu rudenį. Po Mindaugo nužudymo, Alfredo Bumblausko vertinimu, Lietuvoje kilo didžiulė sumaištis: per kelerius metus buvo nužudyti dar trys dėl valdžios kovoję kunigaikščiai, o dar vienas išvytas.
 
 ## Laikotarpis ir datos
 
@@ -64,6 +65,17 @@ Nenurodyta
     būtų galėjęs jam paprieštarauti.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-002
+  santrauka: 'Po Mindaugo nužudymo, Alfredo Bumblausko vertinimu, Lietuvoje kilo didžiulė sumaištis: per kelerius metus buvo nužudyti dar trys dėl valdžios kovoję kunigaikščiai, o dar vienas išvytas.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    daugo nužudymo būta didžiulės sumaišties: per kelerius metus Lietuvoje nu-
+    žudyti dar trys dėl valdžios kovoję kunigaikščiai ir vienas išvytas. Pavar
+  citata_rodoma: ''
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified

@@ -124,20 +124,19 @@ A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Joga
   pagrindžia:
     - c-50244
 
-## Reikšmingi paminėjimai
-- c-005
-  santrauka: 'A. Prochaskos veikalas „Dzieje Witolda“ citatoje nurodomas kaip šaltinis apie Dželal-ad-dino žūtį ir Aukso ordos istoriją.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Dželal-ad-dinas buvo užmuštas, veikiausiai, savo brolio Kerim-Berdi,
-    Lietuvos priešininko, valdžiusio Aukso ordą Iki 1417 m. (žr. A. Pro-
-    chaska, Dzieje W itolda, W ilno. 1914, p. 414— 420; M. Г. Сафарга-
-    лиев, Распад Золотой орды, Саранск. 1960. р. 183-189).
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: not_found
+<a id="claim-t-193876"></a>
+- t-006
+  teiginys: "A. Prochaskos veikalas „Dzieje Witolda“ citatoje nurodomas kaip šaltinis apie Dželal-ad-dino žūtį ir Aukso ordos istoriją."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-176503
+
 ## Citatos
 
 - id: c-30421
@@ -235,3 +234,20 @@ A. Prochaska išleido Vytauto Didžiojo aktų kodeksą ir parašė plačias Joga
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
+
+- id: c-176503
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Dželal-ad-dinas buvo užmuštas, veikiausiai, savo brolio Kerim-Berdi,
+    Lietuvos priešininko, valdžiusio Aukso ordą Iki 1417 m. (žr. A. Pro-
+    chaska, Dzieje W itolda, W ilno. 1914, p. 414— 420; M. Г. Сафарга-
+    лиев, Распад Золотой орды, Саранск. 1960. р. 183-189).
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006

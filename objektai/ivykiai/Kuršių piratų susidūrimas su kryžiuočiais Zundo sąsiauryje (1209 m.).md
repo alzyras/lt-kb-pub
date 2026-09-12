@@ -46,11 +46,31 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Tais pačiais metais Fryzijos jūreiviai Gotlande užpuolė keturis kuršių plėšikų laivus ir jų grobį atgabeno į Rygą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
+<a id="claim-t-205355"></a>
+- t-001
+  teiginys: "Tais pačiais metais Fryzijos jūreiviai Gotlande užpuolė keturis kuršių plėšikų laivus ir jų grobį atgabeno į Rygą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-188062
+
+## Santrauka
+
+Tais pačiais metais Fryzijos jūreiviai Gotlande užpuolė keturis kuršių plėšikų laivus ir jų grobį atgabeno į Rygą.
+
+## Citatos
+
+- id: c-188062
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 347"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 347."
   citata_originali: |
     Zundo sąsiauryje 1209 metais
     aštuonetas kuršių laivų užtiko iš Vokietijos į Rygą plau­
@@ -64,11 +84,10 @@ Nenurodyta
     netikėtai apsupo ir jas pagrobė, suruošę dideles skerdy­
     nes, kuriose krito visi kuršiai. Sis grobis, dideliam krikš­
     čionių džiaugsmui, buvo atgabentas į Rygą'.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-Tais pačiais metais Fryzijos jūreiviai Gotlande užpuolė keturis kuršių plėšikų laivus ir jų grobį atgabeno į Rygą.
+  pagrindzia:
+    - t-001

@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XIII amžius"
 periodo_pradzia: 1201
 periodo_pabaiga: 1300
-periodo_objektu_skaicius: 1050
+periodo_objektu_skaicius: 1055
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1050.
+Objektų skaičius: 1055.
 
 ## Susiję objektai
 
@@ -26,6 +26,7 @@ Objektų skaičius: 1050.
 - [[objektai/asmenys/Alepas]]
 - [[objektai/asmenys/Alfonsas (Kastilijos karalius)]]
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Andrius Štirlanda]]
 - [[objektai/asmenys/Andrius Štirlandas]]
 - [[objektai/asmenys/Anzelmas|Anzelmas (vyskupas, XIII a.)]]
 - [[objektai/asmenys/Benediktas XI]]
@@ -60,6 +61,7 @@ Objektų skaičius: 1050.
 - [[objektai/asmenys/Engelbertas I]]
 - [[objektai/asmenys/Ernestas (Livonijos žemės magistras)]]
 - [[objektai/asmenys/Ernestas fon Racburgas]]
+- [[objektai/asmenys/Feliksas Važynskis]]
 - [[objektai/asmenys/Ferdinandas (Kastilijos karalius)]]
 - [[objektai/asmenys/Folkvinas]]
 - [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis)]]
@@ -186,6 +188,7 @@ Objektų skaičius: 1050.
 - [[objektai/asmenys/Otonas iš Bergo]]
 - [[objektai/asmenys/Otonas iš Cedlico]]
 - [[objektai/asmenys/Paleologas]]
+- [[objektai/asmenys/Parbus (karalius, XIII a.)]]
 - [[objektai/asmenys/Paulius Rusdorfas]]
 - [[objektai/asmenys/Pelka]]
 - [[objektai/asmenys/Pelužis]]
@@ -195,6 +198,7 @@ Objektų skaičius: 1050.
 - [[objektai/asmenys/Pipinas]]
 - [[objektai/asmenys/Popiežius Honorijus II]]
 - [[objektai/asmenys/Poponas iš Osternos]]
+- [[objektai/asmenys/Pranciškus Ksaveras Mykolas Bohušas]]
 - [[objektai/asmenys/Pršemyslas Otokaras II]]
 - [[objektai/asmenys/Pukuveras|Pukuveras (Lietuvos karalius, XIII a.)]]
 - [[objektai/asmenys/Rabė]]
@@ -846,6 +850,7 @@ Objektų skaičius: 1050.
 - [[objektai/ivykiai/Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.)]]
 - [[objektai/ivykiai/Ragainės brolių žirgų pagrobimas ir Ragainės bei Skalvių papilių sudeginimas (1295 m.)]]
 - [[objektai/ivykiai/Ragainės ir Skalvių pilių pastatymas]]
+- [[objektai/ivykiai/Reformacijos pradžia Lietuvoje]]
 - [[objektai/ivykiai/Renzeno mūšis ir lietuvių-prūsų žygis į Kulmo žemę (1243 m.)]]
 - [[objektai/ivykiai/Romainių šventvietės sunaikinimas (1294 m.)]]
 - [[objektai/ivykiai/Rudino pilies pastatymas ir Dusburgiečio pasakojamas regėjimas joje]]

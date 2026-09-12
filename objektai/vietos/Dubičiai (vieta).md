@@ -35,6 +35,8 @@ entity_view_role: "place"
 entity_aliases: ["Dubičiai","Dubičiai (vieta)"]
 sameAs: []
 canonical_biography: "1561 m. iš Kaniavos ir Dubičių dvarų į medžioklę Valkininkuose turėjo būti pasiųsta 100 valstiečių penkioms dienoms."
+place_authority: true
+historical_names: []
 ---
 # Dubičiai (vieta)
 

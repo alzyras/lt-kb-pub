@@ -163,21 +163,19 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
   pagrindžia:
     - c-78715
 
-## Reikšmingi paminėjimai
-- c-005
-  santrauka: 'Iki 1377 m. imtinai Polocką valdė Algirdo sūnus Andrius, kuris po tėvo mirties 1378 m. persikėlė į Pskovą, Didįjį Naugardą ir Maskvą.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    4 4  Iki 1377 m. Imtinai Polockas buvo valdomas ne Kęstučio
-    sūnaus, o  Algirdo sūnaus Andriaus, kuris po tėvo mirties 1378 m.
-    Iš Polocko persikėlė | Pskovą, Didįjį Naugardą Ir Maskvą, stengda­
-    masis suorganizuoti nedraugiškų Lietuvai valstybių koaliciją ir su
-    jos pagalba užimti Lietuvos sostą.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
+<a id="claim-t-193894"></a>
+- t-007
+  teiginys: "Iki 1377 m. imtinai Polocką valdė Algirdo sūnus Andrius, kuris po tėvo mirties 1378 m. persikėlė į Pskovą, Didįjį Naugardą ir Maskvą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-176519
+
 ## Citatos
 
 - id: c-55314
@@ -309,6 +307,24 @@ Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigai
   pagrindzia:
     - t-002
     - t-006
+
+- id: c-176519
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    4 4  Iki 1377 m. Imtinai Polockas buvo valdomas ne Kęstučio
+    sūnaus, o  Algirdo sūnaus Andriaus, kuris po tėvo mirties 1378 m.
+    Iš Polocko persikėlė | Pskovą, Didįjį Naugardą Ir Maskvą, stengda­
+    masis suorganizuoti nedraugiškų Lietuvai valstybių koaliciją ir su
+    jos pagalba užimti Lietuvos sostą.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

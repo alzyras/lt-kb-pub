@@ -43,8 +43,34 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
+<a id="claim-t-205277"></a>
+- t-001
+  teiginys: "Po Alberto mirties Rygos kapitula jo paveldėtoju išrinko premonstrantų ordino kanauninką Mikalojų iš Magdeburgo."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187714
+
+<a id="claim-t-205516"></a>
+- t-002
+  teiginys: "Svarbiausia buvo vyskupo Alberto mirtis, ištikusi jį 1229 metais."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-188047
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Svarbiausia buvo vyskupo Alberto mirtis, ištikusi jį 1229 metais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
@@ -57,9 +83,16 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- c-002
-  santrauka: 'Po Alberto mirties Rygos kapitula jo paveldėtoju išrinko premonstrantų ordino kanauninką Mikalojų iš Magdeburgo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
+## Santrauka
+
+Svarbiausia buvo vyskupo Alberto mirtis, ištikusi jį 1229 metais. Po Alberto mirties Rygos kapitula jo paveldėtoju išrinko premonstrantų ordino kanauninką Mikalojų iš Magdeburgo.
+
+## Citatos
+
+- id: c-187714
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 361"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 361."
   citata_originali: |
     Po šio didžio
     žmogaus mirties Rygos kapitula išrinko paveldėtoją pre-
@@ -69,11 +102,29 @@ Nenurodyta
     kurį rygiečiai atsisakė priimti, mat jau seniai jie nebebu­
     vo pavaldūs arkivyskupo jurisdikcijai. Šventasis tėvas
     patvirtino pirmąjį 1231 metų balandžio 8 dieną.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
+  pagrindzia:
+    - t-001
 
-Svarbiausia buvo vyskupo Alberto mirtis, ištikusi jį 1229 metais. Po Alberto mirties Rygos kapitula jo paveldėtoju išrinko premonstrantų ordino kanauninką Mikalojų iš Magdeburgo.
+- id: c-188047
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 360"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 360."
+  citata_originali: |
+    Po šių įvykių Livoni­
+    joje daug kas pasikeitė, bet tuos dalykus, kaip nesusiju­
+    sius su mūsų tema, praleisime. Svarbiausia buvo vyskupo
+    Alberto mirtis, ištikusi jį 1229 metais. Buvo tai vienas iš
+    tokių žmonių, kokių per amžius vienas kitas tepasitaiko.
+  citata_rodoma: "Svarbiausia buvo vyskupo \nAlberto mirtis, ištikusi jį 1229 metais. Buvo tai vienas iš \ntokių žmonių, kokių per amžius vienas kitas tepasitaiko."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

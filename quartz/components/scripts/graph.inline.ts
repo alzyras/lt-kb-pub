@@ -723,7 +723,11 @@ function cleanupGlobalGraphs() {
 }
 
 document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
-  const slug = e.detail.url
+  // A few third-party/page-local scripts can emit a bare `nav` event while a
+  // page is being morphed. Do not let an incomplete event abort the shared
+  // postscript before the SPA router has finished registering.
+  const slug = e.detail?.url
+  if (!slug) return
   addToVisited(simplifySlug(slug))
 
   async function renderLocalGraph(container: HTMLElement) {

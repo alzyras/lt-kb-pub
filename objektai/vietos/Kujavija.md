@@ -553,6 +553,29 @@ historical_names: []
   pagrindzia:
     - t-013
 
+- id: c-188401
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 296"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 296."
+  citata_originali: |
+    Tuo metu
+    buvo palaikomi draugiški santykiai su Mazovijos kuni­
+    gaikščiu Boleslovu, užtat per Mazoviją į Lietuvą ateida­
+    vo žinių apie tai, kas dedasi Lenkijoje. Šitaip buvo nu­
+    matytas patogus laikas— 1291 metų pabaiga, kai svar­
+    biausieji kunigaikščiai buvo pasinėrę į vidaus kovas; tada
+    didysis Lietuvos kunigaikštis Liutauras nusiuntė savo
+    sūnų Vytenį su didžiule kariauna į Lenkiją. Sis, ramiai
+    perėjęs Mazoviją, įsiveržė į Kujaviją, kurioje grobikiški
+    antpuoliai siekė net Brastos apylinkes.
+  citata_rodoma: "Sis, ramiai \nperėjęs Mazoviją, įsiveržė į Kujaviją, kurioje grobikiški \nantpuoliai siekė net Brastos apylinkes."
+  statusas: verified
+  atnaujinta: "2026-08-12 06:12"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Zemislovas]]
 - Puolė Kujaviją: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Sventopelkas]]

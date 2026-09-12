@@ -50,7 +50,7 @@ canonical_biography: "Įvadinis tekstas Liudviką Jucevičių pristato kaip švi
 <a id="claim-t-187952"></a>
 - t-001
   teiginys: "Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje išleistas šaltinis."
-  atnaujinta: "2026-07-26 23:35"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "gap::authors"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"

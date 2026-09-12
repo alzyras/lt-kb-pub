@@ -35,8 +35,22 @@ Vien tuo> jis tapo svarbus istorijai, to ne norime nuginčyti, tik ¡pasinaudoj�
 
 Vien tuo> jis tapo svarbus istorijai, to ne norime nuginčyti, tik ¡pasinaudoję rankraštine J.F.R.1 2 kro nika, pateiksime paaiškinimų.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
+<a id="claim-t-205453"></a>
+- t-001
+  teiginys: "Vien tuo> jis tapo svarbus istorijai, to ne norime nuginčyti, tik ¡pasinaudoję rankraštine J.F.R.1 2 kro nika, pateiksime paaiškinimų."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-187743
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Vien tuo> jis tapo svarbus istorijai, to ne norime nuginčyti, tik ¡pasinaudoję rankraštine J.F.R.1 2 kro nika, pateiksime paaiškinimų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
@@ -53,3 +67,27 @@ Vien tuo> jis tapo svarbus istorijai, to ne norime nuginčyti, tik ¡pasinaudoj�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+## Citatos
+
+- id: c-187743
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 177"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 177."
+  citata_originali: |
+    Tą anekdotinį pasia-
+    kojiimą pakartojo vėlesni autoriai, o Strijkovskis įdėj’o į
+    savo kroniką. Vien tuo> jis tapo svarbus istorijai, to ne­
+    norime nuginčyti, tik ¡pasinaudoję rankraštine J.F.R.1 2 kro­
+    nika, pateiksime paaiškinimų. Ją vartydami patirsime, kad
+    kraštas, kurį rusinai užkariavo Lietuvoje, buvo labai iš­
+    tuštėjęs — tikriausiai tai atsitiko 1040 ir 1044 metais, kai
+    Jaroslavas rengė žygius į Lietuvą, ėmė belaisvius, o bėg­
+    liai kėlėsi anapus Nemuno ir Neries.
+  citata_rodoma: "Vien tuo> jis tapo svarbus istorijai, to ne­\nnorime nuginčyti, tik ¡pasinaudoję rankraštine J.F.R.1 2 kro­\nnika, pateiksime paaiškinimų. Ją vartydami patirsime, kad \nkraštas, kurį rusinai užkariavo Lietuvoje, buvo labai iš­\ntuštėjęs — tikriausiai tai atsitiko 1040 ir 1044 metais, kai \nJaroslavas rengė žygius į Lietuvą, ėmė belaisvius, o bėg­\nliai kėlėsi anapus Nemuno ir Neries"
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

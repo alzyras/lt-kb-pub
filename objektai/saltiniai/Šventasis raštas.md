@@ -41,6 +41,19 @@ Si tiesa tokia akivaiz di, kad aiškiai patvirtina tai, ką žinome iš padavim�
   pagrindžia:
     - c-177249
 
+<a id="claim-t-205481"></a>
+- t-002
+  teiginys: "Ten buvo rengiami scenos vaidini mai, kurių metu rodomi įvairūs atsitikimai, aprašyti Šven tajame Rašte."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-187994
+
 ## Citatos
 
 - id: c-177249
@@ -67,3 +80,26 @@ Si tiesa tokia akivaiz di, kad aiškiai patvirtina tai, ką žinome iš padavim�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-187994
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 277"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 277."
+  citata_originali: |
+    Vėlesni jų
+    žingsniai, ne mažiau pražūtingi kraštui ir žmonėms, sklei­
+    dė siaubą pakrantėse senosios Dauguvos, kuri nustebinta
+    klausėsi giesmių, šlovinančių Gamtos Tėvo didybę lūpo­
+    mis žmonių, kurie jo darbus gėdingai buvo paniekinę.
+    Žiemą vyskupas praleido Rygoje, pramogaudamas kartu
+    su kryžiuočių riteriais. Ten buvo rengiami scenos vaidini­
+    mai, kurių metu rodomi įvairūs atsitikimai, aprašyti Šven­
+    tajame Rašte.
+  citata_rodoma: "Žiemą vyskupas praleido Rygoje, pramogaudamas kartu \nsu kryžiuočių riteriais. Ten buvo rengiami scenos vaidini­\nmai, kurių metu rodomi įvairūs atsitikimai, aprašyti Šven­\ntajame Rašte."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

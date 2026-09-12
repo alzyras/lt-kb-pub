@@ -36,6 +36,8 @@ entity_view_role: "place"
 entity_aliases: ["Tykocinas","Tykocinas (vieta)"]
 sameAs: []
 canonical_biography: "Aleksandras Jogailaitis Tykocine apsilankė vieną kartą – 1500 m. sausį."
+place_authority: true
+historical_names: []
 ---
 # Tykocinas (vieta)
 

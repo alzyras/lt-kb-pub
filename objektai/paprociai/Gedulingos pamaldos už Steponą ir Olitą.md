@@ -39,11 +39,30 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Narbutas pasakoja, kad minėtoje cerkvėje kasmet liepos 28-ąją pagal rusų kalendorių turėjo vykti gedulingos pamaldos už bajoro Stepono ir bajorės Olitos sielas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
+<a id="claim-t-205122"></a>
+- t-001
+  teiginys: "Narbutas pasakoja, kad minėtoje cerkvėje kasmet liepos 28-ąją pagal rusų kalendorių turėjo vykti gedulingos pamaldos už bajoro Stepono ir bajorės Olitos sielas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187980
+
+## Santrauka
+
+Narbutas pasakoja, kad minėtoje cerkvėje kasmet liepos 28-ąją pagal rusų kalendorių turėjo vykti gedulingos pamaldos už bajoro Stepono ir bajorės Olitos sielas.
+
+## Citatos
+
+- id: c-187980
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 442"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 442."
   citata_originali: |
     Dievobaiminga
     kunigaikštienė Kita prie kūdros, ant savo tėvo kapo, pa­
@@ -53,11 +72,10 @@ Nenurodyta
     kojama, kad kasmet, liepos 28-ąją pagal rusų kalendorių,
     turi vykti gedulingos pamaldos už bajoro Stepono1 ir
     bajorės Olitos sielas minėtoje cerkvėje.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-Narbutas pasakoja, kad minėtoje cerkvėje kasmet liepos 28-ąją pagal rusų kalendorių turėjo vykti gedulingos pamaldos už bajoro Stepono ir bajorės Olitos sielas.
+  pagrindzia:
+    - t-001

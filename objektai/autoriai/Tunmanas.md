@@ -140,6 +140,19 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
   pagrindžia:
     - c-179284
 
+<a id="claim-t-205482"></a>
+- t-007
+  teiginys: "Nepalyginti rimtes nis yra mūsų amžininkų istorikų priekaištas Tunmanui, būtent kad gerbiamasis aiškintojas pakeitė kai kuriose jų dalyse linijas ir tarp jų sudėliojo kitus skyrybos ženklus, tad ir visas jo aiškinimas yra paviršutiniškas, klaidingas bei."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-188115
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Potockio ir Suroveckio raštuose.'
@@ -286,3 +299,25 @@ Narbutas mini, kad Retro ir Prilvico stabų tyrimai aprašyti Tunmano, Jono Poto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
+
+- id: c-188115
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 423"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 423."
+  citata_originali: |
+    Apie riterio ant žirgo atvaizdą, koks yra Šv. Jurgis, nėra
+    jokios užuominos, netgi Grunau nėra teigęs, kad šis įra­
+    šas nuo tokios vėliavos nusižiūrėtas. Nepalyginti rimtes­
+    nis yra mūsų amžininkų istorikų priekaištas Tunmanui,
+    būtent kad gerbiamasis aiškintojas pakeitė kai kuriose jų
+    dalyse linijas ir tarp jų sudėliojo kitus skyrybos ženklus,
+    tad ir visas jo aiškinimas yra paviršutiniškas, klaidingas
+    bei paremtas prasimanymais.
+  citata_rodoma: "Nepalyginti rimtes­\nnis yra mūsų amžininkų istorikų priekaištas Tunmanui, \nbūtent kad gerbiamasis aiškintojas pakeitė kai kuriose jų \ndalyse linijas ir tarp jų sudėliojo kitus skyrybos ženklus, \ntad ir visas jo aiškinimas yra paviršutiniškas, klaidingas \nbei paremtas prasimanymais."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007

@@ -49,7 +49,6 @@ Italijoje), kur jie buvo maloniai priimti ir gavo jo brevę (1388.
   ryšio_targeto_parinkimas: "Dobrogostas: llm_allowed_candidate, person"
   ryšio_paaiskinimas: "Popiežius Urbonas VI tiesiogiai įgaliojo Dobrogostą tvarkyti bažnytinius reikalus."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Urbonas VI paskyrė Dobrogostas (0.82)"
   temporaliniai_duomenys: "įvykio data: 1388 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Pradinė formuluotė yra OCR fragmentas; citata leidžia suformuluoti aiškų faktą apie brevę."

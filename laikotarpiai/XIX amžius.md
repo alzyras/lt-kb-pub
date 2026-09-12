@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XIX amžius"
 periodo_pradzia: 1801
 periodo_pabaiga: 1900
-periodo_objektu_skaicius: 1309
+periodo_objektu_skaicius: 1317
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1309.
+Objektų skaičius: 1317.
 
 ## Susiję objektai
 
@@ -34,6 +34,7 @@ Objektų skaičius: 1309.
 - [[objektai/asmenys/Antanas Mackevičius]]
 - [[objektai/asmenys/Antanas Marcinovskis]]
 - [[objektai/asmenys/Arvydas Sabonis]]
+- [[objektai/asmenys/Augustas III]]
 - [[objektai/asmenys/Augustas Kocebiu]]
 - [[objektai/asmenys/Barbora Radvilaitė]]
 - [[objektai/asmenys/Beresnevičius (vyskupas, XIX a.)]]
@@ -46,6 +47,7 @@ Objektų skaičius: 1309.
 - [[objektai/asmenys/David Baltimore]]
 - [[objektai/asmenys/Dionizas Paškevičius]]
 - [[objektai/asmenys/Dionizas Poška]]
+- [[objektai/asmenys/Dominikas Alamanis]]
 - [[objektai/asmenys/Dominykas Radvila]]
 - [[objektai/asmenys/Eduardas Eichvaldas]]
 - [[objektai/asmenys/Edvardas Riomeris]]
@@ -55,6 +57,7 @@ Objektų skaičius: 1309.
 - [[objektai/asmenys/Frank Lubin]]
 - [[objektai/asmenys/Georgas Zauerveinas]]
 - [[objektai/asmenys/Gertrude Ellion]]
+- [[objektai/asmenys/Gintaras Beresnevičius]]
 - [[objektai/asmenys/H. Dembinskis]]
 - [[objektai/asmenys/Henrikas Leo]]
 - [[objektai/asmenys/Ignas Onacevičius]]
@@ -70,6 +73,7 @@ Objektų skaičius: 1309.
 - [[objektai/asmenys/Johannas Georgas Adamas Forsteris]]
 - [[objektai/asmenys/Johnny Unitas]]
 - [[objektai/asmenys/Jonas Basanavičius]]
+- [[objektai/asmenys/Jonas Goštautas]]
 - [[objektai/asmenys/Jonas Mačiulis-Maironis]]
 - [[objektai/asmenys/Jonas Sniadeckis]]
 - [[objektai/asmenys/Jonas Spudulis]]
@@ -112,9 +116,11 @@ Objektų skaičius: 1309.
 - [[objektai/asmenys/Napoleonas Bonapartas]]
 - [[objektai/asmenys/Nikolajus I]]
 - [[objektai/asmenys/Oskaras Milašius]]
+- [[objektai/asmenys/Parbus (karalius, XIII a.)]]
 - [[objektai/asmenys/Pelka]]
 - [[objektai/asmenys/Petras (Onos vyras, XIX a.)]]
 - [[objektai/asmenys/Petras (Poznanės vyskupas)]]
+- [[objektai/asmenys/Pranciškus Ksaveras Mykolas Bohušas]]
 - [[objektai/asmenys/Pranciškus Narbutas]]
 - [[objektai/asmenys/Pulokolovskis]]
 - [[objektai/asmenys/Raskas]]
@@ -131,6 +137,7 @@ Objektų skaičius: 1309.
 - [[objektai/asmenys/Stanislovas Šumskis]]
 - [[objektai/asmenys/Steponas Batoras]]
 - [[objektai/asmenys/Suchodolskis]]
+- [[objektai/asmenys/Svenas Ekdahlis]]
 - [[objektai/asmenys/Sydney Brenner]]
 - [[objektai/asmenys/T. Dalevskis]]
 - [[objektai/asmenys/Tadas Volianskis]]
@@ -139,6 +146,7 @@ Objektų skaičius: 1309.
 - [[objektai/asmenys/V. Grigaliūnas-Glovackis]]
 - [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]]
 - [[objektai/asmenys/Victor David Brenner]]
+- [[objektai/asmenys/Viktoras Hugo]]
 - [[objektai/asmenys/Vincas Kudirka]]
 - [[objektai/asmenys/Violeta Urmana]]
 - [[objektai/asmenys/Vitas]]
@@ -840,6 +848,7 @@ Objektų skaičius: 1309.
 - [[objektai/ivykiai/Jeronimo Prahiškio atsiskaitymas Bazelio bažnytiniam susirinkimui]]
 - [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]
 - [[objektai/ivykiai/Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių]]
+- [[objektai/ivykiai/Kauno gubernijos sudarymas]]
 - [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą (1040 m.)]]
 - [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)]]
 - [[objektai/ivykiai/Kražių įvykiai]]
@@ -858,7 +867,6 @@ Objektų skaičius: 1309.
 - [[objektai/ivykiai/Lietuvos pirmininkavimas Europos Sąjungai (2013 m.)]]
 - [[objektai/ivykiai/Liublino unijos akto priėmimas ir patvirtinimas (1569 m.)]]
 - [[objektai/ivykiai/Liudviko Narbuto suėmimas Vilniaus gimnazijoje (1850 m.)]]
-- [[objektai/ivykiai/Lucko suvažiavimas]]
 - [[objektai/ivykiai/M. Balinskio apkaltinimas „lenkiškuoju patriotizmu“ Varšuvoje]]
 - [[objektai/ivykiai/M. Balinskio areštas 1831 m. gegužę]]
 - [[objektai/ivykiai/M. Balinskio mirtis ir palaidojimas]]

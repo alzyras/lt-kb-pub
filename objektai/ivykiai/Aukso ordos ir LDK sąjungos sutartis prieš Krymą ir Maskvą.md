@@ -58,10 +58,35 @@ Nenurodyta
 
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+<a id="claim-t-186780"></a>
+- t-001
+  teiginys: "1501 m., tarpininkaujant Michailui Chaleckiui, Aukso orda ir LDK sudarė sąjungos sutartį prieš Krymo chaną Mengli-Girėjų ir Maskvos Didžiąją Kunigaikštystę."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Auksinė Orda: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aukso ordos ir LDK sąjungos sutartis prieš Krymą ir Maskvą (sutartis, XV a.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Auksinė Orda: mention_match, group, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aukso ordos ir LDK sąjungos sutartis prieš Krymą ir Maskvą (sutartis, XV a.)\" parinktas kaip owner_note_path. Targetas \"Auksinė Orda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: 1501 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Paprastam faktui nereikia redakcinės pastabos įžangos."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  pagrindžia:
+    - c-169977
+
+## Citatos
+
+- id: c-169977
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     “  M ichailas Chaleckis —  Lietuvos didžiojo kunigaikščio A lek­
     sandro dvarionis-diplomatas iš Gomelio krašto rusų bajorų, j Aukso
@@ -69,9 +94,11 @@ Nenurodyta
     megzti reguliarių santykių. 1501 m., tarpininkaujant M. Chaleckiui.
     tarp Aukso ordos ir LDK buvo sudaryta sųjungos sutartis prieš
     Krymo chanų Mengll-Girėjų ir M askvos Didžiųjų Kunigaikštystę.
-  citata_rodoma: ''
+  citata_rodoma: "M ichailas Chaleckis —  Lietuvos didžiojo kunigaikščio A lek­\nsandro dvarionis-diplomatas iš Gomelio krašto rusų bajorų, j Aukso \nordų pas chanų Slch-Achmatų buvo siunčiamas dar 1496.VIII už­\nmegzti reguliarių santykių. 1501 m., tarpininkaujant M. Chaleckiui. \ntarp Aukso ordos ir LDK buvo sudaryta sųjungos sutartis prieš \nKrymo chanų Mengll-Girėjų ir M askvos Didžiųjų Kunigaikštystę."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-- t-001
+  pagrindzia:
+    - t-001

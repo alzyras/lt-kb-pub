@@ -47,11 +47,31 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Šaltinis nurodo, kad 1217 m. kovo 3 d. buvo paskelbta bulė, leidžianti skelbti ginkluotą kryžiaus žygį į Prūsiją.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
+<a id="claim-t-205459"></a>
+- t-001
+  teiginys: "Šaltinis nurodo, kad 1217 m. kovo 3 d. buvo paskelbta bulė, leidžianti skelbti ginkluotą kryžiaus žygį į Prūsiją."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187677
+
+## Santrauka
+
+Šaltinis nurodo, kad 1217 m. kovo 3 d. buvo paskelbta bulė, leidžianti skelbti ginkluotą kryžiaus žygį į Prūsiją.
+
+## Citatos
+
+- id: c-187677
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 288"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 288."
   citata_originali: |
     Nauja­
     jam vyskupui grįžus į kraštą, prūsų pagonys, apimti kaž­
@@ -69,11 +89,10 @@ Nenurodyta
     žiaus karą prieš Šventąją žemę, taigi kaipmat, 1217 metų
     kovo 3 dieną, pasirodė bulė, leidžianti skelbti ginkluotą
     šventą kryžiuočių žygį į Prūsiją.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-Šaltinis nurodo, kad 1217 m. kovo 3 d. buvo paskelbta bulė, leidžianti skelbti ginkluotą kryžiaus žygį į Prūsiją.
+  pagrindzia:
+    - t-001

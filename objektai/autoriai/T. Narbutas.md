@@ -340,6 +340,44 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   pagrindžia:
     - c-179282
 
+<a id="claim-t-205526"></a>
+- t-020
+  teiginys: "Teodoras Narbutas 1835 m. rudenį baigė rašyti trečiąjį „Lietuvių tautos istorijos“ tomą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187946
+
+<a id="claim-t-206238"></a>
+- t-021
+  teiginys: "1840 m. pradžioje Teodoras Narbutas laikinai atidėjo Lietuvos istorijos rašymą, laiške nurodęs, kad Lietuvos istorijos rašymas išeikvojo jo moralines jėgas."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188853
+
+<a id="claim-t-206239"></a>
+- t-022
+  teiginys: "Teodoras Narbutas šio tomo pabaigoje nurodo, kad tomą rašė Šamuose 1837 m. sausio 20 d."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188854
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Trečiojo dešimtmečio pabaigoje T. Narbutas jau buvo sukaupęs šaltinių seniausiai Lietuvos istorijai rekonstruoti.'
@@ -875,3 +913,72 @@ T. Narbutas senųjų rašytinių šaltinių informaciją praplėsdavo, sukonkret
   patikimumo_saltinis: ai
   pagrindzia:
     - t-019
+
+- id: c-187946
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 5"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 5."
+  citata_originali: |
+    Tegul bus mums atleista už tai, ką pa­
+    sakėme ir ką turime pasakyti — juk visiškai
+    natūralu, kad kiekvienas jaučiamės savaip
+    teisus, svarstydamas tai, ko negalima pa­
+    grįsti rimtu istoriniu argumentu.
+    Teodoras Narbutas
+    Trečiąjį „Lietuvių tautos istorijos“ tomą T. Narbutas
+    baigė rašyti 1835 metų rudenį. Iš istoriko laiškų Ignui
+    Onacevičiui galima spręsti, jog 1836 metais tomas jau
+    buvo Cenzūros komitete, bet skaitytojai jį išvydo tik 1838
+    metais, tai yra praėjus trejiems metams nuo parengimo,
+    Vos prieš metus buvo pasirodęs antrasis, o spaustuvėje
+    jau laukė eilės ketvirtasis „Istorijos“ tomas.
+  citata_rodoma: "Trečiąjį „Lietuvių tautos istorijos“ tomą T. Narbutas \nbaigė rašyti 1835 metų rudenį. Iš istoriko laiškų Ignui \nOnacevičiui galima spręsti, jog 1836 metais tomas jau \nbuvo Cenzūros komitete, bet skaitytojai jį išvydo tik 1838 \nmetais, tai yra praėjus trejiems metams nuo parengimo"
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-020
+
+- id: c-188853
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 20"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 20."
+  citata_originali: |
+    1840 metų pradžioje, kai jau
+    buvo cenzūruojamas paskutinis milžiniškų jėgų pareikalavu­
+    sios LTI tomas, T. Narbutas išgyveno vieną didžiausių krizių
+    savo gyvenime. Kaip jis sakė viename to meto laiške, rašyda­
+    mas Lietuvos istoriją buvo išeikvojęs visas savo moralines jė­
+    gas ir tuo metu nebepajėgė dirbti jokio panašaus darbo2. Iš
+    tikrųjų istoriją kuriam laikui atidėjo į šalį. Netikėtai pačiam
+    sau rado ir vaistą - kaip tik tuomet po ranka ir pasitaikė Ser­
+    vanteso „Don Kichotas“, kilo idėja jį išversti.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-021
+
+- id: c-188854
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 61"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 61."
+  citata_originali: |
+    Šis tomas baigiamas paskutiniaisiais XIV amžiaus metais,
+    būtent nuo to laikotarpio Lietuvoje politiniai įvykiai pasuka
+    kita linkme; apie tai kitas, o iš eilės šeštasis, tomas maloniojo
+    skaitytojo dėmesiui.
+    Teodoras Narbutas
+    Rašiau Šamuose
+    1837 metų sausio 20 dieną
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-022

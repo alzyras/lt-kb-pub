@@ -46,11 +46,31 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Viena sukilėlių dalis įsiveržė į Kulmo ir Liubavo žemes, kita – į Mozūriją.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
+<a id="claim-t-205209"></a>
+- t-001
+  teiginys: "Viena sukilėlių dalis įsiveržė į Kulmo ir Liubavo žemes, kita – į Mozūriją."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187670
+
+## Santrauka
+
+Viena sukilėlių dalis įsiveržė į Kulmo ir Liubavo žemes, kita – į Mozūriją.
+
+## Citatos
+
+- id: c-187670
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 296"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 296."
   citata_originali: |
     Kryžiuočiai 1223
     metais paliko Prūsiją, tačiau virš visos lietuvių tautos
@@ -67,11 +87,10 @@ Nenurodyta
     neregėtai buvo nusiaubta, Plockas buvo net užimtas ir
     sudegintas. Po to, tartum gavę ženklą, visi vienu metu
     su grobiu patraukė atgal į savąjį kraštą1.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-Viena sukilėlių dalis įsiveržė į Kulmo ir Liubavo žemes, kita – į Mozūriją.
+  pagrindzia:
+    - t-001

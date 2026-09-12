@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Palenkės vaivadija"]
 sameAs: []
 canonical_biography: "XVI a. pirmojoje pusėje tokie teismai buvo įkurti Palenkės vaivadijoje."
+place_authority: true
+historical_names: []
 ---
 # Palenkės vaivadija
 

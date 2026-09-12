@@ -40,7 +40,7 @@ Prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius. Tyk
 <a id="claim-t-199949"></a>
 - t-001
   teiginys: "Lietuvos metraštis pasakoja, kad prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Atribucija palikta dėl priešiško maskvėnų vaizdavimo kronikos pasakojime. Nepridėta nebaigtos citatos fragmentų apie pagrobtus daiktus."

@@ -64,6 +64,31 @@ Dusburgietis teigia, kad kaip Teutonų namų ordino broliams atiteko Livonijos �
   pagrindžia:
     - c-60908
 
+<a id="claim-t-205671"></a>
+- t-002
+  teiginys: "Teodoras Narbutas aiškina, kad mirus vyskupui Albertui Folkvinas, siekdamas išgelbėti ordiną nuo pražūties, pasirinko susijungti su kryžiuočiais, nors susidūrė su savųjų pasipriešinimu."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-188286
+
+<a id="claim-t-205672"></a>
+- t-003
+  teiginys: "Folkvinas buvo šios didžiulės kariaunos vadas."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188287
+
 ## Citatos
 
 - id: c-60908
@@ -86,3 +111,47 @@ Dusburgietis teigia, kad kaip Teutonų namų ordino broliams atiteko Livonijos �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188286
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 94"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 94."
+  citata_originali: |
+    didžiausio blogio, tai yra netikusių riterių papročių: intri­
+    gų, paleistuvysčių, girtavimo, tingulio — visa tai teršė šį
+    garbingą pašaukimą ir menkino jį1. Kai, mirus vyskupui
+    Albertui, dingo galimybė visa tai sulaikyti, Folkvinas ne­
+    rado patikimesnio būdo išgelbėti nuo pražūties savo or­
+    diną, kaip tik susijungti su kryžiuočiais. Tačiau turėjo
+    susidurti su stipriu savųjų pasipriešinimu; juk tik jo mir­
+    tis, garbės viršūnę pasiekus, ir artėjantis visiškas ordino
+    žlugimas juos prie to privedė.
+  citata_rodoma: "Kai, mirus vyskupui \nAlbertui, dingo galimybė visa tai sulaikyti, Folkvinas ne­\nrado patikimesnio būdo išgelbėti nuo pražūties savo or­\ndiną, kaip tik susijungti su kryžiuočiais. Tačiau turėjo \nsusidurti su stipriu savųjų pasipriešinimu; juk tik jo mir­\ntis, garbės viršūnę pasiekus, ir artėjantis visiškas ordino \nžlugimas juos prie to privedė."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-188287
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 102"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 102."
+  citata_originali: |
+    Radosi tokia gausi kariauna,
+    kokios krikščionys Dauguvos pakrantėse dar nebuvo ma­
+    tę. Su tokiomis pajėgomis buvo nuspręsta kartą visiems
+    laikams padaryti galą Rimgaudo viešpatavimui, o visą
+    Lietuvą su jos valdžioje buvusiomis žemėmis arba dykyne
+    paversti, arba prievarta primesti jai tikėjimą ir vokiečių
+    jungą. Folkvinas buvo šios didžiulės kariaunos vadas.
+  citata_rodoma: "Folkvinas buvo šios didžiulės kariaunos vadas."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

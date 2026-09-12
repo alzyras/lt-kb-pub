@@ -5,8 +5,12 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
+  - 'Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a.'
+  - 'Lituanistika-64400-Feodalines-teises-apraiskos-LDK'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.)'
 datos: []
 date_start: ''
 date_end: ''
@@ -44,7 +48,7 @@ canonical_biography: "Tą pačią dieną ten buvo atvykęs jau mirtinai negaluoj
 
 ## Santrauka
 
-Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Aleksandras. Džiugi žinia dar spėjo pasiekti mirštantį valdovą Aleksandrą.
+Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Stanislovą Kišką ir Mykolą Glinskį. 1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas ir jas nuniokojo. Po Mykolo Glinskio pergalės žinia apie mūšį spėjo pasiekti mirštantį valdovą Aleksandrą.
 
 ## Teiginiai
 
@@ -216,6 +220,57 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   pagrindžia:
     - c-186949
 
+<a id="claim-t-205650"></a>
+- t-012
+  teiginys: "Teodoras Narbutas nurodo, kad Pskoviečiai susivaidijo su Didžiuoju Naugardu, suteikę prieglobstį Aleksandrui, kurį jis vadina Tverės kunigaikščiu."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-188265
+
+<a id="claim-t-205651"></a>
+- t-013
+  teiginys: "Teodoras Narbutas Aleksandrą vadina kunigaikščiu ir nurodo, kad chano įsakymu persekiojamas Aleksandras Lietuvoje jautėsi visiškai saugus."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-188266
+
+<a id="claim-t-205652"></a>
+- t-014
+  teiginys: "Teodoras Narbutas nurodo, kad Lietuvos Didžiojoje Kunigaikštystėje kunigaikštis Aleksandras rado savo šalies globėją, kuris po aštuoniolikos mėnesių sudarė sąlygas Aleksandrui jaustis ramiam ir toliau būti pirmuoju Pskovo respublikos kunigaikščiu."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-188267
+
+## Reikšmingi paminėjimai
+- c-014
+  santrauka: 'Alfredas Bumblauskas nurodo, kad 1492 m. Aleksandras išrinktas savarankišku Lietuvos valdovu, o iki tol valdęs Kazimieras buvo ir Lenkijos karalius.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    Šio antspaudo atsiradimas buvo susijęs su Aleksandro išrinkimu 1492 m.
+    savarankišku Lietuvos valdovu (iki tol valdęs Kazimieras buvo kartu ir Lenkijos karalius).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-85561
@@ -473,3 +528,71 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   patikimumo_saltinis: ai
   pagrindzia:
     - t-011
+
+- id: c-188265
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 460"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 460."
+  citata_originali: |
+    Apie tai žinome iš tolesnių pasakojimų. Pskoviečiai buvo
+    susivaidiję su Didžiuoju Naugardu dėl to, kad anie su­
+    teikė prieglobstį Tverės kunigaikščiui Aleksandrui. Ne­
+    paisydami netgi baisios Maskvos kunigaikščio Jono ga­
+    lybės— nei karinės, nei dvasinės, jie kilniai laikėsi vieną­
+    syk duoto žodžio persekiojamam kunigaikščiui, kuris,
+    matydamas dėl jo gresiantį pavojų pskoviečiams, tarė
+    jiems su ašaromis akyse: „Nenoriu būti savo bičiulių ir
+    brolių prakeikimo bei pražūties priežastimi!
+  citata_rodoma: "Pskoviečiai buvo \nsusivaidiję su Didžiuoju Naugardu dėl to, kad anie su­\nteikė prieglobstį Tverės kunigaikščiui Aleksandrui. Ne­\npaisydami netgi baisios Maskvos kunigaikščio Jono ga­\nlybės— nei karinės, nei dvasinės, jie kilniai laikėsi vieną­\nsyk duoto žodžio persekiojamam kunigaikščiui"
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
+
+- id: c-188266
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 460"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 460."
+  citata_originali: |
+    Tas kunigaikš­
+    tis paliko miestui globoti jauną savo žmoną, o pats iš­
+    keliavo į Lietuvą. Toks garbingas poelgis išgelbėjo
+    pskoviečius nuo pavojų. Kunigaikštis Aleksandras, per­
+    sekiojamas chano įsakymu, Lietuvoje jautėsi visiškai sau­
+    giai, nes šio galingo valdovo veiksmai čia neturėjo
+    galios.
+  citata_rodoma: "Tas kunigaikš­\ntis paliko miestui globoti jauną savo žmoną, o pats iš­\nkeliavo į Lietuvą. Toks garbingas poelgis išgelbėjo \npskoviečius nuo pavojų. Kunigaikštis Aleksandras, per­\nsekiojamas chano įsakymu, Lietuvoje jautėsi visiškai sau­\ngiai"
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
+
+- id: c-188267
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 460"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 460."
+  citata_originali: |
+    Toks garbingas poelgis išgelbėjo
+    pskoviečius nuo pavojų. Kunigaikštis Aleksandras, per­
+    sekiojamas chano įsakymu, Lietuvoje jautėsi visiškai sau­
+    giai, nes šio galingo valdovo veiksmai čia neturėjo
+    galios. Be to, Lietuvos Didžiojoje Kunigaikštystėje jis
+    rado savo šalies globėją, kuris ne tiktai priėmė jį sve­
+    tingai, bet ir, praslinkus aštuoniolikai mėnesių, nuveikė
+    tiek, kad kunigaikštis Aleksandras galėjo jaustis ramus
+    ir toliau būti pirmuoju kunigaikščiu, Pskovo respublikos,
+    kurią ėmėsi globoti.
+  citata_rodoma: "Be to, Lietuvos Didžiojoje Kunigaikštystėje jis \nrado savo šalies globėją, kuris ne tiktai priėmė jį sve­\ntingai, bet ir, praslinkus aštuoniolikai mėnesių, nuveikė \ntiek, kad kunigaikštis Aleksandras galėjo jaustis ramus \nir toliau būti pirmuoju kunigaikščiu, Pskovo respublikos, \nkurią ėmėsi globoti."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014

@@ -140,6 +140,19 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   pagrindžia:
     - c-186603
 
+<a id="claim-t-206132"></a>
+- t-007
+  teiginys: "Karijotaičiai kreipėsi į Algirdą, kuris su gausia kariauna išvijo totorius iš Podolės ir prie Mėlynųjų Vandenų nugalėjo tris brolius vadus."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188747
+
 ## Citatos
 
 - id: c-31095
@@ -308,6 +321,27 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
+
+- id: c-188747
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 107"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 107."
+  citata_originali: |
+    Tačiau
+    totoriai apie 1350 metus savo klajoklių stovyklose patyrė bai­
+    sią epidemiją ligos, vadintos Juodąja mirtimi; po to užėjo di­
+    džiulis badas, dėl ko jie 1351 m etais užpuolė Podolę.
+    Kunigaikščiai Karijotaičiai kreipėsi į didįjį kunigaikštį Algir­
+    dą, kuris neatsisakė skubėti su gausia kariauna, išvijo totorius
+    iš Podolės ir prie Mėlynųjų Vandenų laimėjo pergalę prieš tris
+    vadus, brolius, vadintus Chadži-bėjumi, Kutlubugu ir
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 ## Ryšiai
 - Rėmė Karijotaičiai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

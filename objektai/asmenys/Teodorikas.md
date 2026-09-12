@@ -161,6 +161,45 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
   pagrindžia:
     - c-184388
 
+<a id="claim-t-205273"></a>
+- t-009
+  teiginys: "Šaltinis nurodo, kad Teodorikas, prisidengęs sergančio didiko lankymu, buvo nusiųstas pas Pernu žiemojusius pirklius."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187992
+
+<a id="claim-t-205323"></a>
+- t-010
+  teiginys: "Susiduriame su keblumais nustatant šio Teodoriko l.iiško metus."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187669
+
+<a id="claim-t-205494"></a>
+- t-011
+  teiginys: "O Teodorikas su kryžiuočiais, kurie buvo savo metus jau atbuvę pagonių žemėse, išplaukė į Vo kietiją, kartu paėmęs anksčiau minėtą Kaupą, su kuriuo, aplankęs didesnę Vokietijos dalį, nuvyko į Romą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187993
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Teodoriko žygyje į Italiją dalyvavo gotų karaliaus pakviesti kariai su šeimomis bei manta ir įvairūs kolonistai.'
@@ -348,3 +387,60 @@ Teodoro Narbuto pasakojime ostrogotus valdęs Teodorikas vaizduojamas kaip suman
   patikimumo_saltinis: ai
   pagrindzia:
     - t-008
+
+- id: c-187669
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 28"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 28."
+  citata_originali: |
+    Susiduriame su keblumais nustatant šio Teodoriko
+    l.iiško metus. Spėjama, jog tai rašyta 495 metais arba
+    kiek vėliau. Betgi šiai epochai pasibaigus, įvykiai Vidurio i
+    i .h,-irstyti.
+  citata_rodoma: "Susiduriame su keblumais nustatant šio Teodoriko \nl.iiško metus. Spėjama, jog tai rašyta 495 metais arba \nkiek vėliau"
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+
+- id: c-187992
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 257"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 257."
+  citata_originali: |
+    Vis dėlto vienas iš
+    Turaidos šeimos didikų vyskupą apie tai perspėjo. Taigi
+    turėjo pasilikti savo Ikškilės pilyje. Visas reikalas tuo ir
+    būtų pasibaigęs, jeigu nebūtų pavykę Teodoriko, prisiden­
+    gus vieno sergančio didiko, gyvenančio prie Estijos sie­
+    nos, lankymu, nusiųsti pas pirklius, žiemojančius Pernu.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+
+- id: c-187993
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 272"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 272."
+  citata_originali: |
+    Romos pastangos. Vyskupas Albertas su savo
+    kryžiuočiais ir riteriais, turėjusiais stoti į naująjį ordiną,
+    grįžo į Rygą. O Teodorikas su kryžiuočiais, kurie buvo
+    savo metus jau atbuvę pagonių žemėse, išplaukė į Vo­
+    kietiją, kartu paėmęs anksčiau minėtą Kaupą, su kuriuo,
+    aplankęs didesnę Vokietijos dalį, nuvyko į Romą.
+  citata_rodoma: "O Teodorikas su kryžiuočiais, kurie buvo \nsavo metus jau atbuvę pagonių žemėse, išplaukė į Vo­\nkietiją, kartu paėmęs anksčiau minėtą Kaupą, su kuriuo, \naplankęs didesnę Vokietijos dalį, nuvyko į Romą."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011

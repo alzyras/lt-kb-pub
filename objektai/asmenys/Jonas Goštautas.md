@@ -4,11 +4,16 @@ pavadinimas: 'Jonas Goštautas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+datos: []
+date_start: ''
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - kunigaikštis
   - asmuo
+amziai: []
+periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -33,7 +38,7 @@ canonical_biography: "Pašalinus Leliušą iš senato, Trakų vaivadija buvo per
 
 ## Santrauka
 
-Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui. Jono Goštauto vadovaujama kariuomenė išvijo Mykolą iš Kijevo ir Seversko žemių, taip pat atsiėmė Brianską ir Starodubą. Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui.
+o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vadu jau bylos su lenkais metu.
 
 ## Teiginiai
 

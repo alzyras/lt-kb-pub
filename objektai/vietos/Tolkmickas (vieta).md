@@ -29,6 +29,8 @@ entity_view_role: "place"
 entity_aliases: ["Tolkmickas","Tolkmickas (vieta)"]
 sameAs: []
 canonical_biography: "Simonas Grunau šaltinyje apibūdinamas kaip Tolkmicko dominikonų vienuolyno Prūsijoje vienuolis."
+place_authority: true
+historical_names: []
 ---
 # Tolkmickas (vieta)
 
@@ -40,8 +42,22 @@ Simonas Grunau šaltinyje apibūdinamas kaip Tolkmicko dominikonų vienuolyno Pr
 
 Simonas Grunau šaltinyje apibūdinamas kaip Tolkmicko dominikonų vienuolyno Prūsijoje vienuolis.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
+<a id="claim-t-205404"></a>
+- t-001
+  teiginys: "Simonas Grunau šaltinyje apibūdinamas kaip Tolkmicko dominikonų vienuolyno Prūsijoje vienuolis."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-187874
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Simonas Grunau šaltinyje apibūdinamas kaip Tolkmicko dominikonų vienuolyno Prūsijoje vienuolis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
@@ -58,3 +74,28 @@ Simonas Grunau šaltinyje apibūdinamas kaip Tolkmicko dominikonų vienuolyno Pr
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+## Citatos
+
+- id: c-187874
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 419"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 419."
+  citata_originali: |
+    Apie savitą lietuvišką įrašą*. Simonas Grunau, vie­
+    nuolis iš Tolkmicko dominikonų vienuolyno Prūsijoje,
+    XVI a. pradžioje rašęs Prūsijos kroniką ir skyręs ją Len­
+    kijos karaliui Žygimantui I, nenurodė šaltinio, iš kurio
+    buvo paėmęs, kitaip sakant, nukopijavęs tą įrašą ar kokiu
+    kitu būdu jį įgijęs ir įdėjęs į savo kroniką, tad negalima
+    būtų pasikliauti jo tikrumu. Betgi neabejodamas šį pa­
+    minklą esant iš žilos senovės, priskyrė jį Vaidevučio ir
+    Brutenio laikams, kadangi, aprašydamas padavimą apie
+    pastarojo sūnus (trakt.
+  citata_rodoma: "Simonas Grunau, vie­\nnuolis iš Tolkmicko dominikonų vienuolyno Prūsijoje, \nXVI a. pradžioje rašęs Prūsijos kroniką ir skyręs ją Len­\nkijos karaliui Žygimantui I, nenurodė šaltinio, iš kurio \nbuvo paėmęs, kitaip sakant, nukopijavęs tą įrašą ar kokiu \nkitu būdu jį įgijęs ir įdėjęs į savo kroniką, tad negalima \nbūtų pasikliauti jo tikrumu."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

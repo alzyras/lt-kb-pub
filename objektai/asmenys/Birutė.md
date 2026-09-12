@@ -4,6 +4,7 @@ pavadinimas: 'Birutė'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
@@ -412,6 +413,19 @@ Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris.
     Dar reikia nepraleisti, kad toji pati Palanga, nuo seno gar­
     sėjanti religiniu pamaldumu, buvo senas uostamiestis ar dėl
     aukštesnio vandens lygio Baltijos jūroje, ar dėl smėliu dar ne-
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-015
+  santrauka: 'Alfredas Bumblauskas nurodo, kad Birutės ir Kęstučio meilės istorija yra vienas iš Lietuvos metraščiuose užrašytų siužetų, atitinkančių epinius pasakojimus.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    usias pavyzdys – dainos apie Sudaitį. Šiandien pripažįstama,
+    kad epinius pasakojimus atitinka keletas siužetų, užrašytų Lietuvos metraščiuose: Gedi-
+    mino sapnas apie Vilniaus įkūrimą, Algirdo žygiai į Maskvą bei Birutės ir Kęstučio meilės
+    istorija (Biru
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

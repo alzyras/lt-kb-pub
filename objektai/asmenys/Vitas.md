@@ -2,7 +2,9 @@
 tipas: asmuo
 pavadinimas: 'Vitas'
 saltiniai:
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.)'
 datos: []
 date_start: ''
 date_end: ''
@@ -37,7 +39,7 @@ canonical_biography: "į lenkų kalbą 1822 m., Varšuva), nuro­ dydama, kad �
 
 ## Santrauka
 
-į lenkų kalbą 1822 m., Varšuva), nuro­ dydama, kad „1253 metais Petras, išrinktas Poznanės vyskupu, ir iš dominikonų ordino Vitas, pats pirmasis Lie­ tuvos vyskupas, Gniezno arkivyskupo Pelkos įšventinti vys­ kupais.
+1253 m. dominikonas Vitas Gniezno arkivyskupo Pelkos buvo įšventintas pirmuoju Lietuvos vyskupu. Teodoro Narbuto vertinimu, Vitas Liubčioje įsteigė Romos katalikų bažnyčią ir dominikonų vienuolyną, tikėdamasis sustiprinti Lietuvos Rusios dieceziją. Pasak Teodoro Narbuto, 1254 m. Vitas, jau kaip Lietuvos vyskupas, kartu su Rusios vyskupu Gerardu Krokuvoje dalyvavo kanonizuojant vyskupą šventąjį Stanislovą.
 
 ## Teiginiai
 
@@ -61,6 +63,45 @@ canonical_biography: "į lenkų kalbą 1822 m., Varšuva), nuro­ dydama, kad �
   pagrindžia:
     - c-83581
 
+<a id="claim-t-205731"></a>
+- t-002
+  teiginys: "Teodoro Narbuto vertinimu, Vitas Liubčioje įsteigė Romos katalikų bažnyčią ir dominikonų vienuolyną, tikėdamasis sustiprinti Lietuvos Rusios dieceziją."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188346
+
+<a id="claim-t-205732"></a>
+- t-003
+  teiginys: "Pasak Teodoro Narbuto, 1254 m. Vitas, jau kaip Lietuvos vyskupas, kartu su Rusios vyskupu Gerardu Krokuvoje dalyvavo kanonizuojant vyskupą šventąjį Stanislovą."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188347
+
+## Reikšmingi paminėjimai
+- c-004
+  santrauka: 'Vitas tradiciškai laikomas Mindaugo krikštytoju ir apibūdinamas kaip lenkų dominikonų vienuolis, nors 1253 m. Lietuvoje dar negalėjo būti.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    laikais laikoma, kad tradiciškai Mindaugo krikštytoju laikytas lenkų domini-
+    konų vienuolis Vitas 1253 m. dar negalėjo būti Lietuvoje.
+    Minda
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-83581
@@ -91,3 +132,46 @@ canonical_biography: "į lenkų kalbą 1822 m., Varšuva), nuro­ dydama, kad �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188346
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 504"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 504."
+  citata_originali: |
+    Tai turėjo
+    įvykti dar prieš 1250 metus. Maždaug tuo laiku palai­
+    mintasis Vitas Liubčioje įsteigė Romos - katalikų bažny­
+    čią, o kartu ir dominikonų vienuolyną. Tai įrodymas, kad
+    turėjo vilties sustiprinti Lietuvos Rusios dieceziją šioje
+    Mindaugo valstybės dalyje.
+  citata_rodoma: "Maždaug tuo laiku palai­\nmintasis Vitas Liubčioje įsteigė Romos - katalikų bažny­\nčią, o kartu ir dominikonų vienuolyną. Tai įrodymas, kad \nturėjo vilties sustiprinti Lietuvos Rusios dieceziją šioje \nMindaugo valstybės dalyje."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-188347
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 505"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 505."
+  citata_originali: |
+    to. Karalius, tapęs kataliku, negalėjo priešintis vysku­
+    pystės steigimui, taigi buvo užmegzti santykiai su Apaš­
+    tališkąja sostine: Gnezno arkivyskupas Fulkonas, kurio
+    valdžioje buvo visa Rusia, 1253 metais Kozlovo1 domini­
+    konų vienuolį Vitą pašventino Liubčios vyskupu. Kitais,
+    1254, metais palaimintasis Vitas, jau kaip Lietuvos vys­
+    kupas (Episcopus Lithuanorum)1 2, kartu su Rusios vyskupu
+    (Episcopus Ruthenorum) Gerardu dalyvavo kanonizuojant
+    Krokuvos vyskupą šventąjį Stanislovą.
+  citata_rodoma: "Gnezno arkivyskupas Fulkonas, kurio \nvaldžioje buvo visa Rusia, 1253 metais Kozlovo1 domini­\nkonų vienuolį Vitą pašventino Liubčios vyskupu. Kitais, \n1254, metais palaimintasis Vitas, jau kaip Lietuvos vys­\nkupas (Episcopus Lithuanorum)1 2, kartu su Rusios vyskupu \n(Episcopus Ruthenorum) Gerardu dalyvavo kanonizuojant \nKrokuvos vyskupą šventąjį Stanislovą."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

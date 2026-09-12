@@ -163,6 +163,32 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   pagrindžia:
     - c-167901
 
+<a id="claim-t-206180"></a>
+- t-009
+  teiginys: "Pasak Teodoro Narbuto, Lenkijos senatas gegužės 8 d. laiške apkaltino didįjį magistrą prieštaraujant pastangoms siekti Lenkijos Karūnos draugystės ir paklausė, ar taika su Kryžiuočių ordinu tebėra galiojanti."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188795
+
+<a id="claim-t-206181"></a>
+- t-010
+  teiginys: "Lenkijos senatas birželio 9 d. diplomatiniame pareiškime laikė Zlotorijos, Bobrovnikų ir visos Dobrynės užėmimą taikos su Kryžiuočių ordinu nutraukimu bei protestavo dėl Karūnos nuosavybės pasisavinimo."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188796
+
 ## Citatos
 
 - id: c-82737
@@ -370,6 +396,57 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
   patikimumo_saltinis: ai
   pagrindzia:
     - t-007
+
+- id: c-188795
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 419-420"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 419-420."
+  citata_originali: |
+    Žengus šį žingsnį, didžiajam magistrui
+    buvo pasiųstas Lenkijos Karalystės dvasininkijos luomo ir pa­
+    sauliečių senatorių laiškas, pažymėtas gegužės 8 diena, kuria­
+    me nurodoma, kad jis elgiasi prieštaraudam as savo paties
+    pareiškimams ir pastangoms siekti Lenkijos Karūnos draugys­
+    tės, ko neseniai buvo ėmęsis pas karalienę Jadvygą; senatas,
+    norėdamas aiškiau įsitikinti, ką mąsto didysis magistras, tyčia
+    1 Dlugošas, Mechovita, Strijkovskis, Glebavičius ir kiti.
+    421
+
+    nusiuntė pasiuntinį ir įteikė užklausimą: Ar taiką su ordinu
+    reikia laikyti nutrauktą, ar ne?1
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+
+- id: c-188796
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 420"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 420."
+  citata_originali: |
+    Lenkijos senatas kiek vėliau, tai yra karališkajai
+    porai lankantis Lietuvoje, jautė pareigą ordinui aiškiau pri­
+    minti klastingą jo elgesį su karaliumi ir Lenkijos Karūna, se­
+    nato diplomatiniame pareiškime, rašytame birželio 9 dieną,
+    be kita ko, nurodyta, kad Zlotorijos, Bobrovnikų ir visos Dob-
+    rynės žemės paėmimą savo valdžion, lenkų vadą išvejant jėga,
+    jis laiko aiškiu taikos ir bet kokių draugiškų santykių nutrau­
+    kimu, nes tos pilys ir žemės, nors buvo laikomos įkeistos, bet­
+    gi yra neatskiriam a Lenkijos Karūnos nuosavybė; tad dėl
+    priešiškų žingsnių - tiek pasisavinant Karūnos nuosavybę, tiek
+    su ginklu rankoje užpuolant minėtą pilį - senatas reiškia pro­
+    testą ir apskundžia skelbdamas visiems krikščionių didikų rū­
+    m am s1 2.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
 
 ## Ryšiai
 - Lenkijos senatas siuntė į [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]

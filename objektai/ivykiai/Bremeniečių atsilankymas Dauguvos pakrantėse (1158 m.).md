@@ -46,11 +46,30 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1158 m. Bremeno pirklių laivas pasiekė Dauguvos žiotis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
+<a id="claim-t-205159"></a>
+- t-001
+  teiginys: "1158 m. Bremeno pirklių laivas pasiekė Dauguvos žiotis."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187873
+
+## Santrauka
+
+1158 m. Bremeno pirklių laivas pasiekė Dauguvos žiotis.
+
+## Citatos
+
+- id: c-187873
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 250"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 250."
   citata_originali: |
     Tai atsitiko 1158 metais, kai Bremeno pirklių laivas,
     plaukęs į Visbio miestą, esantį Gotlando saloje, nežinia
@@ -62,11 +81,10 @@ Nenurodyta
     tai danai, kaip paprastai, užsuko į krantą plėšti ir žudyti.
     Su šia tauta latviai tuomet gyveno baisioje nesantaiko­
     je2.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1158 m. Bremeno pirklių laivas pasiekė Dauguvos žiotis.
+  pagrindzia:
+    - t-001

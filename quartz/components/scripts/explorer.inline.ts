@@ -491,7 +491,8 @@ async function setupExplorersForSlug(currentSlug: FullSlug) {
 }
 
 document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
-  await setupExplorersForSlug(e.detail.url)
+  const slug = e.detail?.url
+  if (slug) await setupExplorersForSlug(slug)
 })
 
 const setupInitialExplorers = () => void setupExplorersForSlug(getFullSlug(window))

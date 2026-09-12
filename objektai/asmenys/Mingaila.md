@@ -163,6 +163,32 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   pagrindžia:
     - c-184366
 
+<a id="claim-t-205157"></a>
+- t-008
+  teiginys: "Mingaila, ¡paėmęs valdžią Polocke, per leido ją savo sūnui Ginvilai."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188079
+
+<a id="claim-t-206363"></a>
+- t-009
+  teiginys: "Mingaila Teodoro Narbuto pateiktame dokumente įvardijamas Ašmenos seniūnu ir vienu iš Lietuvos bei Rusios žemių kilmingųjų bei paveldėtojų, kurie teigė visa tai išdėstę laisva valia."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188978
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Mingaila prie Gorodeco drąsiai užpuolė polockiečių kariuomenę ir privertė ją sprukti iš kovos lauko bei stovyklos.'
@@ -395,6 +421,53 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   patikimumo_saltinis: ai
   pagrindzia:
     - t-007
+
+- id: c-188079
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 237"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 237."
+  citata_originali: |
+    Ginvilos ir jo ainių viešpa­
+    tavimas Polocke. Mingaila, ¡paėmęs valdžią Polocke, per­
+    leido ją savo sūnui Ginvilai. Pats jis baigė savo gyve­
+    nimo dienas 1192 metais Naugarduke (Trakų)2.
+  citata_rodoma: "Mingaila, ¡paėmęs valdžią Polocke, per­\nleido ją savo sūnui Ginvilai. Pats jis baigė savo gyve­\nnimo dienas 1192 metais Naugarduke (Trakų)2."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
+- id: c-188978
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 557"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 557."
+  citata_originali: |
+    Ir mes,
+    Vladimiras, minėto valdovo kunigaikščio Aleksandro dėdė; Žy­
+    gimantas, to paties minėto valdovo Aleksandro brolis; Jurgis iš
+    Pinsko; Mykolas iš Zaslavlio; Aleksandras iš Starodubo; Jonas iš
+    Alšėnų; Jonas iš Drucko; Jomantas iš Klecko; Mingaila, Ašme­
+    nos seniūnas; Manvydas, Vilniaus seniūnas; Barkus iš Uiso; Vasi­
+    lijus, Boreikos sūnus; Čupurna, anksčiau m inėto valdovo
+    kunigaikščio Aleksandro rūmų maršalka; Krėvos vietininkas Goš­
+    tautas; Kymantas Ginvila, Trakųvietininkas;Sungailą Kauno vie­
+    tininkas; Valim antas, Pluškio sūnus; Vigaila, U km ergės
+    vietininkas; Astikas, Užpalių vietininkas; Kareiva, Medininkų vie­
+    tininkas; Buivydas, Kernavės vietininkas; Girdė, Saumanto sū­
+    nus; Gotaras, Tautegindžio sūnus; Gintautas, Vilgaujo sūnus -
+    minėtų Lietuvos ir Rusios žemių kilmingieji bei paveldėtojai, iš­
+    dėstėme visa tai laisva valia, atmesdami bet kokią suktybę ir klas­
+    tą.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
 
 ## Ryšiai
 - Mingaila puolė [[objektai/grupes/Polockiečiai]]

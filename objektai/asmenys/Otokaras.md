@@ -73,6 +73,19 @@ Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą
   pagrindžia:
     - c-184371
 
+<a id="claim-t-205708"></a>
+- t-004
+  teiginys: "Teodoras Narbutas rašo, kad po Mindaugo mirties kryžiuočiai paskatino Čekijos karalių Otokarą vėl atkariauti Lietuvą ir atnaujinti jos krikščionišką karalystę."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188323
+
 ## Citatos
 
 - id: c-61031
@@ -148,3 +161,25 @@ Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-188323
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 527"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 527."
+  citata_originali: |
+    Turime dar vieną gana svarbų įrodymą, kad Mindau­
+    gas mirė būdamas krikščionis. Kai, mirus šiam karaliui,
+    Lietuva vėl grįžo į savo senąjį būvį, kryžiuočiai sugebėjo
+    paakinti Čekijos karalių Otokarą vėl ją atkariauti krikš­
+    čionių pasauliui. Popiežius Klemensas IV džiaugsmingai
+    pritarė šiam sumanymui, ir Otokarui suteikė įgaliojimus
+    po Mindaugo mirties vėl atnaujinti krikščionišką Lietu­
+    vos karalystę, tai yra atversti ją į tikėjimą.
+  citata_rodoma: "Kai, mirus šiam karaliui, \nLietuva vėl grįžo į savo senąjį būvį, kryžiuočiai sugebėjo \npaakinti Čekijos karalių Otokarą vėl ją atkariauti krikš­\nčionių pasauliui. Popiežius Klemensas IV džiaugsmingai \npritarė šiam sumanymui, ir Otokarui suteikė įgaliojimus \npo Mindaugo mirties vėl atnaujinti krikščionišką Lietu­\nvos karalystę, tai yra atversti ją į tikėjimą."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

@@ -732,6 +732,44 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   pagrindžia:
     - c-186563
 
+<a id="claim-t-206577"></a>
+- t-040
+  teiginys: "Po derybų su Tovlubijumi jo kariauna, pamačiusi galingus Smolensko bokštus, pasuko atgal."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189192
+
+<a id="claim-t-206578"></a>
+- t-041
+  teiginys: "Narbutas rašo, kad Smolenskas dėl kunigaikščio Jono Sviatoslavovičiaus pasipriešinimo nebuvo išplėštas iš Lietuvos valdžios."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189193
+
+<a id="claim-t-206579"></a>
+- t-042
+  teiginys: "Narbutas aiškina, kad Smolensko maištą buvo sunku numalšinti dėl miesto kaip vienos galingiausių Padneprės tvirtovių padėties, gyventojų paramos ir ryšių su Rusios kunigaikščiais."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189194
+
 ## Reikšmingi paminėjimai
 - c-023
   santrauka: 'Kojelavičiaus pasakojime Vytautas išvijo priešininkus iš Oršos krašto ir užpuolė Smolenską, pavadintą maišto pradininku.'
@@ -1592,6 +1630,61 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-039
+
+- id: c-189192
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 69"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 69."
+  citata_originali: |
+    Pastarasis nuvyko derėtis su Tovlubijum, ir jam taip ėjo­
+    si, kad toji kariauna, tik tepažvelgusi į galingus Smolensko
+    bokštus, pasuko atgal
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-040
+
+- id: c-189193
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 119"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 119."
+  citata_originali: |
+    Smolenskas dėl drąsaus kunigaikščio
+    Jono Sviatoslavovičiaus, užsidariusio tam e mieste, priešini­
+    mosi taip pat nebuvo iš Lietuvos valdžios išplėštas.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-041
+
+- id: c-189194
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 453-454"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 453-454."
+  citata_originali: |
+    Šiaip ar taip, nelengva buvo num al­
+    šinti šį maištą, pirma, kad Smolenskas buvo viena galingiausių
+    455
+
+    Padneprės tvirtovių, antra, kad tenykščiai bajorai ir gyvento­
+    jai iš visos širdies pritarė pasipriešinimui; pagaliau tie kuni­
+    gaikščiai palaikė ryšius su Rusios kunigaikščiais, netgi pats
+    didysis kunigaikštis Bazilijus laukė progos, kuri, galutinai pri­
+    baigus reikalus su Lietuvos didžiuoju kunigaikščiu, pastūm ė­
+    tų juos vasalinėn jo p aties priklausom ybėn
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-042
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Sviatoslavas]], [[objektai/asmenys/Švitrigaila]]

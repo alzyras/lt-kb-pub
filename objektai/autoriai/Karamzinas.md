@@ -89,6 +89,58 @@ Karamzinas minimas kaip „Historya Państwa Rossyjsk.“ ir „Hist. Ros.“ nu
   pagrindžia:
     - c-173632
 
+<a id="claim-t-205354"></a>
+- t-004
+  teiginys: "Tačiau Rusios užka riavimai nei Neromos, nei Peluzijos, būtent Vladimiro Di džiojo laikais, dar nesiekė, tą patvirtina ir Karamzinas1 2."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187888
+
+<a id="claim-t-206227"></a>
+- t-005
+  teiginys: "Teodoras Narbutas atmeta Karamzino spėjimus dėl paramos prašymo prieš kryžiuočius ir teigia, kad totorių kariaunos įvedimas į Lietuvą būtų buvęs pražūtingas kraštui."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-188842
+
+<a id="claim-t-206228"></a>
+- t-006
+  teiginys: "Teodoras Narbutas teigia, kad Karamzino 1368 metams priskirtas Algirdo antpuolis į Maskvą, sugretinus šaltinius, įvyko 1365 metais."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-188843
+
+<a id="claim-t-206229"></a>
+- t-007
+  teiginys: "Karamzinas citavo Švč. Trejybės metraštį, kurio pateiktą ketverių metų skaičiavimą Teodoras Narbutas siejo su 1332 metų data."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-188844
+
 ## Citatos
 
 - id: c-55574
@@ -171,3 +223,85 @@ Karamzinas minimas kaip „Historya Państwa Rossyjsk.“ ir „Hist. Ros.“ nu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-187888
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 173"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 173."
+  citata_originali: |
+    Slavų senosios
+    gyvenvietės niekada nebuvo priartėjusios prie Neries jos
+    žemupyje. Tačiau kai variagų kunigaikščių, viešpatavu­
+    sių slavų žemėse, ¡kurių gyventojai buvo žinomi bendru
+    rusinu vardu, valdos plėtėsi užkariaujant tos pačios pa­
+    dermės gentis, kai valdžia atsidūrė Vladimiro Didžiojo
+    rankose, lietuvių gyvenvietėms kairiajame Neries krante,
+    Neromoje ir Peluzijoje, darėsi neramu, juoba kad ir že­
+    mės nuo Dzitvos ir Pėlesos krantų iki pat Gardino tapo
+    pavaldžios Kijevo ¡monarchui, kuris savo valią jau buvo
+    primetęs ir pačiam krivičių kraštui. Tačiau Rusios užka­
+    riavimai nei Neromos, nei Peluzijos, būtent Vladimiro Di­
+    džiojo laikais, dar nesiekė, tą patvirtina ir Karamzinas1 2.
+  citata_rodoma: "Tačiau Rusios užka­\nriavimai nei Neromos, nei Peluzijos, būtent Vladimiro Di­\ndžiojo laikais, dar nesiekė, tą patvirtina ir Karamzinas1 2."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-188842
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 97"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 97."
+  citata_originali: |
+    Bergždi yra Karamzino spėliojimai, kad jie esą prašė paramos
+    prieš kryžiuočius, nes karas su jais jau buvo nutrauktas, Algir­
+    dui taip pat užteko proto ir nuovokos, kad vengtų įvesdinti į
+    Lietuvą totorių kariauną, kurios žingsniai, kad ir kaip svarsty­
+    tum, visados būdavo pražūtingi kraštui, per kurį eidavo.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
+- id: c-188843
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 186"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 186."
+  citata_originali: |
+    Tai, ką Karamzinas priskiria 1368 metams - Algirdo suruoštą antpuolį
+    į Maskvą, pagal mūsų šaltinius, sugretinus su Danilavičiaus „Metraštinin­
+    ku“ (p. 179,180), kur pateikta remiantis Voskresenijos kronika, vyko 1365
+    metais. Istorikas net nepastebėjo, kad jo naudoti šaltiniai remia mūsų nuo­
+    monę.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
+- id: c-188844
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 186"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 186."
+  citata_originali: |
+    Jis cituoja Švč. Trejybės metraštį, kuriame apie šį antpuolį pasakyta:
+    Tol veliko zlo ot Litvy nie byvalo v Rusi, ašče i ot Tatar byvalo; ot Fedorčakovoj
+    rati (karo, vykusio 1327 metais. - T. N.) do Olherdovoj let 4. Šitai dar anks­
+    čiau, nes pagal tą skaičiavimą turi būti 1332 metai, o ta klaida iš tiesų turėjo
+    netgi Strijkovskį suklaidinti metus apskaičiuojant, nes šis po ranka turėjo
+    Švč. Trejybės metraštį.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007

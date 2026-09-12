@@ -154,6 +154,19 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   pagrindžia:
     - c-179203
 
+<a id="claim-t-205282"></a>
+- t-009
+  teiginys: "Narbutas pasakoja, kad 503 m. Vaidevutis buvo paskelbtas vyriausiuoju vadu ir pramintas Bojoleros."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187762
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs runų užrašas buvo skirtas vėliavai, ar herbui.'
@@ -416,3 +429,23 @@ Narbutas rašė negalįs tiksliai pasakyti, ar Vaidevučio vardą reiškęs run�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-008
+
+- id: c-187762
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 40"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 40."
+  citata_originali: |
+    Si kalba visiems susirinkusiems padarė tokį
+    poveikį, kokio norėta. Ne tik kad buvo pritarta kalbėtojo
+    mintims, bet, žinoma, jis pats vyriausiuoju vadu ir buvo
+    paskelbtas bei pramintas Bojoleros, kas senovės lietuvių
+    kalboje reiškė bičių karalių. O tikrasis to žmogaus var­
+    das buvo Wejdawutis — Vaidevutis.
+  citata_rodoma: "Ne tik kad buvo pritarta kalbėtojo \nmintims, bet, žinoma, jis pats vyriausiuoju vadu ir buvo \npaskelbtas bei pramintas Bojoleros, kas senovės lietuvių \nkalboje reiškė bičių karalių. O tikrasis to žmogaus var­\ndas buvo Wejdawutis — Vaidevutis"
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009

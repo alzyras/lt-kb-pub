@@ -57,6 +57,22 @@ Kadlubekas aprašė, kaip Maslavas kariavo su lenkų karaliumi Kazimieru, o jo k
   pagrindžia:
     - c-174177
 
+<a id="claim-t-205446"></a>
+- t-002
+  teiginys: "1041 m. šis Maslavas atvirai pareiškė savo atsisakymą paklusti naujam karaliui."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1041 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Neaiškus įvardis pakeistas aiškiu asmens vardu, o karaliaus titulą lydinti atribucija išlaikyta. Kitų šaltinyje minimų veiksmų nepridėta."
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187824
+
 ## Citatos
 
 - id: c-174177
@@ -82,3 +98,29 @@ Kadlubekas aprašė, kaip Maslavas kariavo su lenkų karaliumi Kazimieru, o jo k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-187824
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 160"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 160."
+  citata_originali: |
+    1041 m. šis Mas-
+    lavas atvirai pareiškė savo atsisakymą paklusti naujam
+    karaliui. Be to, dar subūręs didikus ir kaimiečius su ka­
+    rine amunicija drįso stoti ginti savo nepriklausomybės
+    ginklu, turėdamas vilčių sulaukti žadėtos pagalbos iš Prū­
+    sijos ir kitų kaimynų pagonių. Betgi Kazimieras taip spė­
+    riai susidorojo su Maslavo pajėgomis, kad vieną dieną
+    tetruko ir pergalei po atkaklaus mūšio laimėti, ir išvyti
+    įsibrovėlį iš provincijos Ibei ją pajungti. Maslavas pasislė­
+    pė Prūsijoje, ten įkalbinėjimais, papirkimais ir grasinimais
+    prisiviliojo į savo pusę gausų Ibūrį tenykščių didikų, ku­
+    rie buvo pilni norų su ginklu rankose remti jo siekius.
+  citata_rodoma: "1041 m. šis Mas- \nlavas atvirai pareiškė savo atsisakymą paklusti naujam \nkaraliui. Be to, dar subūręs didikus ir kaimiečius su ka­\nrine amunicija drįso stoti ginti savo nepriklausomybės \nginklu, turėdamas vilčių sulaukti žadėtos pagalbos iš Prū­\nsijos ir kitų kaimynų pagonių. Betgi Kazimieras taip spė­\nriai susidorojo su Maslavo pajėgomis, kad vieną dieną \ntetruko ir pergalei po atkaklaus mūšio laimėti, ir išvyti \nįsibrovėlį iš provincijos Ibei ją pajungti. Maslavas pasislė­\npė Prūsijoje"
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

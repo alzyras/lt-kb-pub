@@ -354,6 +354,19 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   pagrindžia:
     - c-78763
 
+<a id="claim-t-206279"></a>
+- t-017
+  teiginys: "Teodoro Narbuto pasakojimu, Elena pasiliko Krėvos kalėjime, kai Vytautas, persirengęs jos drabužiais, naktį pabėgo iš kalėjimo."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188894
+
 ## Citatos
 
 - id: c-55318
@@ -766,6 +779,34 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   pagrindzia:
     - t-007
     - t-010
+
+- id: c-188894
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 279"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 279."
+  citata_originali: |
+    Galop
+    kunigaikštienė Vytautienė išsiuntė žygūną Vilniun, prašyda­
+    ma Hanulą kaip nors gauti didžiojo kunigaikščio apsaugos raštą
+    jos kelionei į Mazoviją. Žygūnas, grįždamas su atsakymu ir
+    apsaugos raštu, atvežė Marijos Vaidilienės laišką Prokšai**,
+    skubinantį susidoroti su Vytautu, kai tik šio žmona išvažiuos
+    iš Krėvos, nes dėl to kalinio Jogaila ima tižti. Tačiau kunigaikš­
+    tienė Ona sužinojo apie tą laišką ir pranešusi, kad išvažiuo­
+    sianti kitą dieną kuo anksčiausiai, naktį taip išleido savo vyrą
+    iš kalėjimo: kai atėjo aplankyti kalinio, esą atsisveikinti, kuni­
+    gaikštis, persirengęs drabužiais vienos patarnautojų, Elenos,
+    kuri pasiliko vietoj jo, tą pačią naktį pintinėje buvo nuleistas
+    kalėjimo mūru, susirado iš Volkovysko tenykščio seniūno at­
+    siųstus žirgus, bemat nuvyko į Slonimą, po to į Brastą, o penk­
+    tąją dieną apsistojo Plocke
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-017
 
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Aleksandras Jogailaitis]]

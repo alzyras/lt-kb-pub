@@ -53,6 +53,19 @@ Buvo valakai, kryžiuočių dalinys (100 riterių), vadovaujamas Ragainės komt�
   pagrindžia:
     - c-41404
 
+<a id="claim-t-205702"></a>
+- t-002
+  teiginys: "Tenykštės istorijos teigimu, 1242 m. totoriai nužudė du ordino kunigus – Gerardą ir Markvardą."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188317
+
 ## Citatos
 
 - id: c-41404
@@ -79,3 +92,23 @@ Buvo valakai, kryžiuočių dalinys (100 riterių), vadovaujamas Ragainės komt�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188317
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 534"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 534."
+  citata_originali: |
+    Priklauso § 939.
+    Ne tik Lietuvoje, bet ir Rusioje (pavyzdžiui, Krerne-
+    nece) buvo vienuolių pranciškonų, išpažįstančių Romos
+    katalikų tikėjimą. Tenykštė istorija byloja, kad 1242 me­
+    tais du ordino kunigai — Gerardas ir Markvardas ■— buvo
+    totorių nužudyti.
+  citata_rodoma: "Ne tik Lietuvoje, bet ir Rusioje (pavyzdžiui, Krerne- \nnece) buvo vienuolių pranciškonų, išpažįstančių Romos \nkatalikų tikėjimą. Tenykštė istorija byloja, kad 1242 me­\ntais du ordino kunigai — Gerardas ir Markvardas ■— buvo \ntotorių nužudyti."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

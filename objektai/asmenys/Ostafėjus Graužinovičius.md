@@ -35,8 +35,22 @@ Mums žemai lenkėsi ba joras Ponas Ostafėjus Graužinovičius ir įteikė mums
 
 Mums žemai lenkėsi ba joras Ponas Ostafėjus Graužinovičius ir įteikė mums raš tus — dokumentus, pasirašytus mūsų protėvių — Lietuvos didžiųjų kunigaikščių, skelbiančių, jog Graužiškių dvaras, esantis Graužiškių seniūnijoje, Lietuvos didžiojo kuni gaikščio.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
+<a id="claim-t-205215"></a>
+- t-001
+  teiginys: "Mums žemai lenkėsi ba joras Ponas Ostafėjus Graužinovičius ir įteikė mums raš tus — dokumentus, pasirašytus mūsų protėvių — Lietuvos didžiųjų kunigaikščių, skelbiančių, jog Graužiškių dvaras, esantis Graužiškių seniūnijoje, Lietuvos didžiojo kuni gaikščio."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187736
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Mums žemai lenkėsi ba joras Ponas Ostafėjus Graužinovičius ir įteikė mums raš tus — dokumentus, pasirašytus mūsų protėvių — Lietuvos didžiųjų kunigaikščių, skelbiančių, jog Graužiškių dvaras, esantis Graužiškių seniūnijoje, Lietuvos didžiojo kuni gaikščio.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
@@ -53,3 +67,28 @@ Mums žemai lenkėsi ba joras Ponas Ostafėjus Graužinovičius ir įteikė mums
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+## Citatos
+
+- id: c-187736
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 468"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 468."
+  citata_originali: |
+    Šio dokumento nuorašą aš esu laikęs savo
+    rankose. Jame yra visas pirmojo dovanojimo akto tekstas
+    rusų kalba. Sis diplomas patvirtina mano § 579 išdėstytą
+    istorinį faktą tokiais žodžiais: „Mums žemai lenkėsi ba­
+    joras Ponas Ostafėjus Graužinovičius ir įteikė mums raš­
+    tus — dokumentus, pasirašytus mūsų protėvių — Lietuvos
+    didžiųjų kunigaikščių, skelbiančių, jog Graužiškių dvaras,
+    esantis Graužiškių seniūnijoje, Lietuvos didžiojo kuni­
+    gaikščio Erdvilo padovanotas jų protėviui vaivadai Grau­
+    žai, ilgainiui sumenko.
+  citata_rodoma: "Mums žemai lenkėsi ba­\njoras Ponas Ostafėjus Graužinovičius ir įteikė mums raš­\ntus — dokumentus, pasirašytus mūsų protėvių — Lietuvos \ndidžiųjų kunigaikščių, skelbiančių, jog Graužiškių dvaras, \nesantis Graužiškių seniūnijoje, Lietuvos didžiojo kuni­\ngaikščio Erdvilo padovanotas jų protėviui vaivadai Grau­\nžai, ilgainiui sumenko."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

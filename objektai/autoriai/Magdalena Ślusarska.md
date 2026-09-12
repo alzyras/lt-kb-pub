@@ -1,0 +1,56 @@
+---
+tipas: autorius
+pavadinimas: 'Magdalena Ślusarska'
+saltiniai:
+  - 'Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+entity_id: "ent-6d2b3cfd7dc8641ff4267d04"
+canonical_name: "Magdalena Ślusarska"
+entity_roles: ["author","person"]
+entity_view_role: "author"
+entity_aliases: ["Magdalena Ślusarska"]
+sameAs: []
+canonical_biography: "Magdalena Ślusarska yra literatūrologė ir mokslų daktarė."
+---
+# Magdalena Ślusarska
+
+## Santrauka
+
+Magdalena Ślusarska yra literatūrologė ir mokslų daktarė.
+
+## Santrauka
+
+Magdalena Ślusarska yra literatūrologė ir mokslų daktarė.
+
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Magdalena Ślusarska yra literatūrologė ir mokslų daktarė.'
+  šaltinis: 03-ldk-tarp-tradiciju-ir-naujoviu
+  citata_originali: |
+    Tyrimų kryptys - Lietuvos XX a. pirmosios pusės dailės
+    ugdymas, Lietuvos Didžiosios Kunigaikštystės XVI-XVIII a. meninės kultūros
+    raidos ypatumai.
+    Elektroninis paštas rarnond@centras.lt
+    MAGDALENA ŚLUSARSKA - literatūrologė, moksių daktarė, Lenkijos mokslų
+    demijos Literatūros tyrimų instituto ir Varšuvos Stefano Wyszyńskie universiteto
+    Humanitarinių mokslų fakulteto docentė. Tyrinėja Apšvietos epochos raštiją, kul­
+    tūros pokyčius Abiejų Tautų Respublikoje Stanislovo Augusto valdymo laikotarpiu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified

@@ -113,6 +113,45 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
   pagrindžia:
     - c-184363
 
+<a id="claim-t-205161"></a>
+- t-007
+  teiginys: "Vėliau atsirado žmogus, vertas būti apaštalu, vardu — Meinhardas, Au gustinų ordino vienuolis iš Zigebergo vienuolyno, kuris, gavęs Bremeno arkivyskupo ir vyresniųjų dvasininkų lei dimą, apie 1186 metus leidosi su pirkliais į Livonijos kraštą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188059
+
+<a id="claim-t-205184"></a>
+- t-008
+  teiginys: "Meinhardas savo gyvenimo dienas Ibaigė 1196 metais."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188028
+
+<a id="claim-t-205549"></a>
+- t-009
+  teiginys: "Argi pirmaisiais žingsniais, Meinhardui gy vam esant, ne kitų tikslų buvo siekiama?"
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188132
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Prūsijos magistras Meinhardas apie balandžio vidurį apgulė Kolainius, Nemuno pakrantėje buvusią Lietuvos pilį.'
@@ -281,3 +320,63 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
+
+- id: c-188028
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 258"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 258."
+  citata_originali: |
+    Tad parašė Bremeno arkivyskupui prašydamas
+    atsiųsti į Livoniją kokį nors ganytoją. Meinhardas savo
+    gyvenimo dienas Ibaigė 1196 metais. Jo antkapis buvo
+    Rygoje, katedroje, su nurodyta data ir įrašu1.
+  citata_rodoma: "Meinhardas savo \ngyvenimo dienas Ibaigė 1196 metais. Jo antkapis buvo \nRygoje, katedroje, su nurodyta data ir įrašu1."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
+- id: c-188059
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 251"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 251."
+  citata_originali: |
+    Vieta tam buvo pasirinkta prie Dauguvos, gy­
+    venvietėje, vadintoje I'kškile (Ykeskola). Vėliau atsirado
+    žmogus, vertas būti apaštalu, vardu — Meinhardas, Au­
+    gustinų ordino vienuolis iš Zigebergo vienuolyno, kuris,
+    gavęs Bremeno arkivyskupo ir vyresniųjų dvasininkų lei­
+    dimą, apie 1186 metus leidosi su pirkliais į Livonijos
+    kraštą. Tai buvo dievotas žmogus, pasižymėjęs prakil­
+    niausiomis dorybėmis, romaus būdo, apimtas noro išganyti
+    pagonis.
+  citata_rodoma: "Vėliau atsirado \nžmogus, vertas būti apaštalu, vardu — Meinhardas, Au­\ngustinų ordino vienuolis iš Zigebergo vienuolyno, kuris, \ngavęs Bremeno arkivyskupo ir vyresniųjų dvasininkų lei­\ndimą, apie 1186 metus leidosi su pirkliais į Livonijos \nkraštą. Tai buvo dievotas žmogus, pasižymėjęs prakil­\nniausiomis dorybėmis, romaus būdo, apimtas noro išganyti \npagonis."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
+- id: c-188132
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 367"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 367."
+  citata_originali: |
+    ryšius. Juk ar kas galėjo pamanyti, kad dorieji Bremeno
+    pirkliai galėtų norėti žlugimo tautos, kuriois turtais pa­
+    sinaudodami, savo pačių naudos žiūrėdami, ketino plė­
+    toti prekybą? Argi pirmaisiais žingsniais, Meinhardui gy­
+    vam esant, ne kitų tikslų buvo siekiama?
+  citata_rodoma: "Argi pirmaisiais žingsniais, Meinhardui gy­\nvam esant, ne kitų tikslų buvo siekiama?"
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009

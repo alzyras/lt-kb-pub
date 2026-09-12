@@ -62,6 +62,19 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
   pagrindžia:
     - c-60748
 
+<a id="claim-t-205673"></a>
+- t-002
+  teiginys: "Teodoras Narbutas vaizduoja Ragainės komtūrą Folradą kaip penkerius metus plėšikavusį ir plėšrūniškai kariauti įgudusį vadą."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-188288
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ragainės komtūras Folradas, gavęs Draikos prašymą, su kariuomene patraukė prieš Aukaimio pilį.'
@@ -110,6 +123,29 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188288
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 343"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 343."
+  citata_originali: |
+    Tikriausiai pavasarį
+    kryžiuočiai nusprendė būsiant naudingiau duoti savo sve­
+    čiams darbo prie kokios tvirtovės ar šventyklos statybos.
+    Mažiau tinkamus rankų darbams įtraukdavo į smulkius
+    plėšikautojų žygius, rengiamus komtūrų, pasitelkdami pa­
+    sienio vienuolynus. Šiuose žygiuose pasižymėjo Ragainės
+    komtūras, vadintas Folradu, kuris, penkerius metus plė­
+    šikavęs, įgudo kariauti plėšrūniškai it vilkas, nors kadaise
+    buvo pelnęs užtarimą, kaip sakoma, turėjo gerus pečius.
+  citata_rodoma: "Šiuose žygiuose pasižymėjo Ragainės \nkomtūras, vadintas Folradu, kuris, penkerius metus plė­\nšikavęs, įgudo kariauti plėšrūniškai it vilkas"
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Folradas puolė [[objektai/vietos/Aukaimis]]

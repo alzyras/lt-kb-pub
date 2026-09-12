@@ -155,6 +155,22 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   pagrindžia:
     - c-176120
 
+<a id="claim-t-205477"></a>
+- t-007
+  teiginys: "Lietuviai apnuo dytas strėles naudojo dar 1512 m.1 2 Lietuvos didysis etmo nas, kunigaikštis Konstantinas Ostrogiškis šį įprotį pa naikino, nors lankais ir 'balistomis dar ilgai buvo naudo jamasi."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1512 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinti OCR ir puslapinių išnašų trukdžiai, aiškiai susiejant datą ir Konstantino veiksmą. Etmono titulas bei vertinamas paprotys pateikti su atribucija."
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187828
+
 ## Reikšmingi paminėjimai
 - c-006
   santrauka: 'Po pergalės Konstantinas Ostrogiškis suskaičiavo belaisvius ir išsiuntė karaliui 380 žymiausių bajorų su laišku apie pergalę.'
@@ -357,6 +373,24 @@ Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trej
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
+
+- id: c-187828
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 391"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 391."
+  citata_originali: |
+    Lietuviai apnuo­
+    dytas strėles naudojo dar 1512 m.1 2 Lietuvos didysis etmo­
+    nas, kunigaikštis Konstantinas Ostrogiškis šį įprotį pa­
+    naikino, nors lankais ir 'balistomis dar ilgai buvo naudo­
+    jamasi.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 ## Ryšiai
 - Konstantinas Ostrogiškis pastatė [[objektai/vietos/Švč. Trejybės cerkvė ir bazilijonų vienuolynas Vilniuje]]

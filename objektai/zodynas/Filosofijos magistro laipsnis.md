@@ -50,6 +50,19 @@ Tai akademinio laipsnio pavadinimas, šiame šaltinyje pateiktas sutrumpinta for
 
 Terminas vartojamas A. R. Niemi biografijoje, kalbant apie 1894 m. pasiektą mokslo laipsnį.
 
+## Teiginiai
+
+<a id="claim-t-195613"></a>
+- t-001
+  teiginys: "A. R. Niemi 1894 m. gavo fil. magistro laipsnį."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-178015
+
 ## Citatos
 
 - id: c-178015
@@ -62,7 +75,8 @@ Terminas vartojamas A. R. Niemi biografijoje, kalbant apie 1894 m. pasiektą mok
   citata_rodoma: "fil. magistro — 1894 m., fil. licenciato (tokia ten esą n^okslo laipsnių eilė) — 1899 m."
   statusas: verified
   atnaujinta: "2026-07-12 08:45"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

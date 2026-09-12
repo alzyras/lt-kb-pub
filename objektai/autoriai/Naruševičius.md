@@ -88,6 +88,19 @@ Narbuto nuorodoje Naruševičius siejamas su senovės geografų veikalais apie v
   pagrindžia:
     - c-174470
 
+<a id="claim-t-205441"></a>
+- t-004
+  teiginys: "Ypač po to, kai esi turėjęs rankose Naruševičiaus „Lenkų tautos istoriją“, kur III tome gali rasti patikinimus, kad buvo isto riškai pagrįstų priežasčių, o visai ne dėl tautos tuščiagarbių užmačių jie buvo verti tokio vardo."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187724
+
 ## Citatos
 
 - id: c-174469
@@ -141,3 +154,24 @@ Narbuto nuorodoje Naruševičius siejamas su senovės geografų veikalais apie v
   pagrindzia:
     - t-002
     - t-003
+
+- id: c-187724
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 165"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 165."
+  citata_originali: |
+    1 Foigtas savo „Prūsijos istorijoje“ senuosius Lenkijos monar­
+    chus vadina ne karaliais, o tik kunigaikščiais. Nuostabus dalykas, iš
+    kur toks nepalankumas tiems sudūlėjusiems šių garbingų žmonių
+    kaulams? Ypač po to, kai esi turėjęs rankose Naruševičiaus „Lenkų
+    tautos istoriją“, kur III tome gali rasti patikinimus, kad buvo isto­
+    riškai pagrįstų priežasčių, o visai ne dėl tautos tuščiagarbių užmačių
+    jie buvo verti tokio vardo.
+  citata_rodoma: "Ypač po to, kai esi turėjęs rankose Naruševičiaus „Lenkų \ntautos istoriją“, kur III tome gali rasti patikinimus, kad buvo isto­\nriškai pagrįstų priežasčių, o visai ne dėl tautos tuščiagarbių užmačių \njie buvo verti tokio vardo."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

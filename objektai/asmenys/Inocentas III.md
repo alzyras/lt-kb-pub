@@ -63,6 +63,19 @@ Dusburgietis teigia, kad apie Livonijos žemės atvertimą į tikėjimą 1204 vi
   pagrindžia:
     - c-60964
 
+<a id="claim-t-205236"></a>
+- t-002
+  teiginys: "Teodoras Narbutas rašo, kad Inocentas ragino riterius vienytis ir grasino, jog šventieji apaštalai Petras ir Povilas jų nepalaimins."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188133
+
 ## Citatos
 
 - id: c-60964
@@ -82,3 +95,25 @@ Dusburgietis teigia, kad apie Livonijos žemės atvertimą į tikėjimą 1204 vi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188133
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 368"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 368."
+  citata_originali: |
+    Popiežiai iki Inocento
+    III netgi buvo ėmę kelti jam ovacijas. Neapdairūs dva­
+    sios tėvai savo nesubrendusius vaikus patikėjo dviejų
+    auklių globai, pačiai pražūtingiausiai! Veltui Inocentas
+    ragino vienytis, veltui su Evangelija rankose meldė1, vel­
+    tui grasino, esą šventieji apaštalai Petras ir Povilas jų
+    nepalaimins, riteriai ėjo savo pasirinktu keliu ir, susivie­
+    niję su kryžiuočiais, pervis įsismarkavo.
+  citata_rodoma: "Veltui Inocentas \nragino vienytis, veltui su Evangelija rankose meldė1, vel­\ntui grasino, esą šventieji apaštalai Petras ir Povilas jų \nnepalaimins, riteriai ėjo savo pasirinktu keliu ir, susivie­\nniję su kryžiuočiais, pervis įsismarkavo."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

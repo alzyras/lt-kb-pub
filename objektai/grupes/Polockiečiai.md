@@ -76,6 +76,32 @@ Glėbas grąžino polockiečiams visišką laisvę, o valstybės reikalus vėl �
   pagrindžia:
     - c-171184
 
+<a id="claim-t-206199"></a>
+- t-003
+  teiginys: "Teodoras Narbutas pasakoja, kad Jogaila, derėdamasis su kryžiuočiais dėl taikos, norėjo Skirgailą įkurdinti Polocko kunigaikštystėje, tačiau polockiečiai Skirgailos nepripažino kunigaikščiu, prisiekė laikyti savo žemėje Andrių ir išvijo Skirgailą iš miesto."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188814
+
+<a id="claim-t-206200"></a>
+- t-004
+  teiginys: "Teodoras Narbutas nurodo, kad 1381 m. polockiečiai ir prie miesto buvusi kariauna vienbalsiai paskelbė Kęstutį didžiuoju kunigaikščiu ir savo valdovu."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188815
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Glėbas grąžino polockiečiams visišką laisvę, o valstybės reikalus vėl ėmė tvarkyti senatas.'
@@ -175,6 +201,44 @@ Glėbas grąžino polockiečiams visišką laisvę, o valstybės reikalus vėl �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-188814
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 257"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 257."
+  citata_originali: |
+    Betgi praėjusiais metais, tardamasis su kryžiuočiais dėl tai­
+    kos1 2, Jogaila panoro aprūpinti tikrą savo brolį Skirgailą, įkur­
+    dindamas jį toje kunigaikštystėje, tačiau polockiečiai nenorėjo
+    priimti jo kunigaikščiu, buvo prisiekę laikyti savo žemėj An­
+    drių; Skirgaila netgi buvo gėdingai išvarytas iš miesto3.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-188815
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 261"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 261."
+  citata_originali: |
+    Kęs­
+    tutis nešvaistė laiko tuščiagarbei pompastikai, veikliai ėmėsi
+    valdyti valstybę; išsiuntė žygūnus į Polocką ir kariaunon, bu-
+    vusion prie to miesto su Skirgaila, pranešdamas apie savo iš­
+    aukštinimą; polockiečiai bei kariauna vienbalsiai paskelbė jį
+    didžiuoju kunigaikščiu ir savo valdovu; Skirgaila su kryžiuo­
+    čiais vos suspėjo pabėgti anapus Dauguvos ir į Livoniją1.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 ## Ryšiai
 - Puolė Polockiečiai: [[objektai/asmenys/Mingaila]]

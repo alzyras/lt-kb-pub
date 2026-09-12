@@ -107,6 +107,18 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
   pagrindžia:
     - c-175490
 
+<a id="claim-t-205203"></a>
+- t-004
+  teiginys: "Riteriai atvyko į Plocką Konradui nesant."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187907
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Divonio kelionės aprašymas siejamas su rankraščiu, atitekusiu Plocko katedros klebonui Jaroslavui arba rastu jo kronikoje.'
@@ -202,3 +214,24 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-187907
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 301"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 301."
+  citata_originali: |
+    Riteriai atvyko į
+    Plocką Konradui nesant. Tuo metu, kai viešnagėj kuo
+    svetingiausiai buvo priimti jo žmonos, kunigaikštienės
+    Agafijos, juos pasiekė žinia, kad įsiveržę pagonys trau­
+    kia tiesiai Plocko link, mat į tą pusę buvo metęsi žmo­
+    nės, nešini grobiu. Riteriai kryžiuočiai tučtuojau, stoję
+    vietinių karinių pajėgų priešakyje, su savo kariauna pa­
+    traukė į kovos lauką.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

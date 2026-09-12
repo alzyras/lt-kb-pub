@@ -55,6 +55,19 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
   pagrindžia:
     - c-82021
 
+<a id="claim-t-206461"></a>
+- t-002
+  teiginys: "Teodoras Narbutas aprašo, kad didysis kunigaikštis pasiuntė kariauną Dauguvos link, ir ši užėmė Dinaburgą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189076
+
 ## Citatos
 
 - id: c-82021
@@ -94,3 +107,18 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-189076
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 467"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 467."
+  citata_originali: |
+    Didysis kunigaikš­
+    tis Dauguvos link pasiuntė kariauną, kuri užėmė Dinaburgą.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

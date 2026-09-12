@@ -318,6 +318,48 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   pagrindžia:
     - c-186560
 
+<a id="claim-t-205093"></a>
+- t-017
+  teiginys: "Naujasis kryžiuočių va das Hermanas Balkas atvyko į Mozūriją 1228 metais ir tuojau pat užėmė savo valdą, o tų pačių metų balandžio 23 dieną Konrado Mazoviečio jam suteikta privilegija bu vo patvirtinta Kulmo žemės nuosavybė jo valdomo ordi no reikalams1 2."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "kelionės data: 1228 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pataisytas OCR ir aiškiai atskirti Hermano Bal(k)o atvykimas bei Konrado veiksmas. Išlaikyti tik citatoje esantys metai, asmenys ir nuosavybės faktas."
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-187854
+
+<a id="claim-t-205257"></a>
+- t-018
+  teiginys: "Kristijonas, per riterių vienuolius gavęs patirti tūkstan čius nemalonumų, galop nuvyko į Kulmą, kur įkurdino savo vyskupystės centrą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-188159
+
+<a id="claim-t-205558"></a>
+- t-019
+  teiginys: "Ypač tai pasakytina apie Kulmą, kuris visai neseniai buvo nukentėjęs nuo pa gonių ir kurį reikėjo atstatyti."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-188057
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Kulmo kilmingieji ir miestiečiai tvirtino verčiau žūsią garbingoje kovoje, nei diena po dienos merdėsią varge.'
@@ -836,6 +878,75 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   patikimumo_saltinis: ai
   pagrindzia:
     - t-016
+
+- id: c-187854
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 304"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 304."
+  citata_originali: |
+    1228 m. Kryžiuočių įsikūrimas. Naujasis kryžiuočių va­
+    das Hermanas Balkas atvyko į Mozūriją 1228 metais ir
+    tuojau pat užėmė savo valdą, o tų pačių metų balandžio
+    23 dieną Konrado Mazoviečio jam suteikta privilegija bu­
+    vo patvirtinta Kulmo žemės nuosavybė jo valdomo ordi­
+    no reikalams1 2.
+  citata_rodoma: "Naujasis kryžiuočių va­\ndas Hermanas Balkas atvyko į Mozūriją 1228 metais ir \ntuojau pat užėmė savo valdą, o tų pačių metų balandžio \n23 dieną Konrado Mazoviečio jam suteikta privilegija bu­\nvo patvirtinta Kulmo žemės nuosavybė jo valdomo ordi­\nno reikalams1 2."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-017
+
+- id: c-188057
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 294"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 294."
+  citata_originali: |
+    Visa iš tų Dievui skirtų žygių nauda, kurią verta bū­
+    tų pažymėti, — tai atlikti darbai prie tvirtovių, miestų
+    statybų, viešųjų kelių ir šventovių. Ypač tai pasakytina
+    apie Kulmą, kuris visai neseniai buvo nukentėjęs nuo pa­
+    gonių ir kurį reikėjo atstatyti. Tą krikščionys ir paskubė­
+    jo padaryti3. Taigi aišku, kad šis miestas buvo labai se­
+    nas, dar prieš atvykstant Kristijonui stovėjo ir daugelį
+    kartų buvo niokotas. Ir kryžiuočių, kurie jį ne įkūrė, kaip
+    kad yra manančių, o tik atnaujino, dėka tapo didingu
+    miestu su galingomis tvirtovėmis.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-019
+
+- id: c-188159
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 307"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 307."
+  citata_originali: |
+    Vyskupas kryžiuo­
+    čiams padarė viską: įkurdino Prūsijoje, įkalbėjo Konradą
+    ir lenkų dvasininkiją suteikti kuo naudingiausių privile­
+    gijų, tad jų rankose visiškai tokiomis pat kaip dalinių
+    valdovų teisėmis atsidūrė žemės ir pilys su žmonėmis;
+    perleido jiems savo teises į Kulmo žemę, atidavė ten ir
+    valdas, pasilikdamas sau aukščiausiąją valdžią, kuri ne­
+    trukus pasaulietiniuose dalykuose iš jo buvo paveržta.
+    Kristijonas, per riterių vienuolius gavęs patirti tūkstan­
+    čius nemalonumų, galop nuvyko į Kulmą, kur įkurdino
+    savo vyskupystės centrą. Ten, apsuptas vienuolių, visiš­
+    kai atsidėjo ganytojiškiems darbams.
+  citata_rodoma: "Kristijonas, per riterių vienuolius gavęs patirti tūkstan­\nčius nemalonumų, galop nuvyko į Kulmą, kur įkurdino \nsavo vyskupystės centrą. Ten, apsuptas vienuolių, visiš­\nkai atsidėjo ganytojiškiems darbams."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-018
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Prūsai]]

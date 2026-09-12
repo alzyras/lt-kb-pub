@@ -455,4 +455,4 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
     - t-001
 
 ## Ryšiai
-- Rėmė Vilniaus pirkliai: [[objektai/asmenys/Mikalojus Radvila Rudasis]]
+- Rėmė Vilniaus pirkliai: [[objektai/asmenys/Mikalojus Radvila Rudasis|Mikalojus Radvila Rudasis (kunigaikštis, XVI a.)]]

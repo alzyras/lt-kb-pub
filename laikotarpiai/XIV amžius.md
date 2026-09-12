@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XIV amžius"
 periodo_pradzia: 1301
 periodo_pabaiga: 1400
-periodo_objektu_skaicius: 1473
+periodo_objektu_skaicius: 1480
 tags: []
 ---
 
@@ -11,11 +11,12 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1473.
+Objektų skaičius: 1480.
 
 ## Susiję objektai
 
 ### Asmenys
+- [[objektai/asmenys/Adomas Kozakovskis]]
 - [[objektai/asmenys/Albertas Kojalavičius]]
 - [[objektai/asmenys/Albertas Vaitiekus Manvydas]]
 - [[objektai/asmenys/Albrechtas (Romos karalius)]]
@@ -80,6 +81,7 @@ Objektų skaičius: 1473.
 - [[objektai/asmenys/Egidijus|Egidijus (arkivyskupas, XIV a.)]]
 - [[objektai/asmenys/Elžbieta]]
 - [[objektai/asmenys/Engelhardas Rabė]]
+- [[objektai/asmenys/Feliksas Važynskis]]
 - [[objektai/asmenys/Feodoras (Ostrogo kunigaikštis)]]
 - [[objektai/asmenys/Flekenšteinas]]
 - [[objektai/asmenys/Folradas]]
@@ -94,6 +96,7 @@ Objektų skaičius: 1473.
 - [[objektai/asmenys/Fridrichas, vadinamas Hole]]
 - [[objektai/asmenys/Galminas]]
 - [[objektai/asmenys/Gebhardas iš Manstfeldo]]
+- [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
 - [[objektai/asmenys/Geroldzekas iš Švabijos]]
 - [[objektai/asmenys/Getautas]]
 - [[objektai/asmenys/Gintautas]]
@@ -119,6 +122,7 @@ Objektų skaičius: 1473.
 - [[objektai/asmenys/Hertvigas iš Pokarvių]]
 - [[objektai/asmenys/Hlebas]]
 - [[objektai/asmenys/Hugonas (Sembos fogtas)]]
+- [[objektai/asmenys/Ignotas Bykovskis]]
 - [[objektai/asmenys/Jadvyga]]
 - [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/asmenys/Jasonas]]
@@ -214,6 +218,7 @@ Objektų skaičius: 1473.
 - [[objektai/asmenys/Olegas (Riazanės didysis kunigaikštis)]]
 - [[objektai/asmenys/Ona Vytautienė]]
 - [[objektai/asmenys/Ostapas Kropotkovas]]
+- [[objektai/asmenys/Parbus (karalius, XIII a.)]]
 - [[objektai/asmenys/Patirgas]]
 - [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]]
 - [[objektai/asmenys/Patrikas, arba Patricijus]]
@@ -228,6 +233,7 @@ Objektų skaičius: 1473.
 - [[objektai/asmenys/Pilypas]]
 - [[objektai/asmenys/Pinas]]
 - [[objektai/asmenys/Plihta]]
+- [[objektai/asmenys/Pranciškus Ksaveras Mykolas Bohušas]]
 - [[objektai/asmenys/Ptolomėjus iš Lukos]]
 - [[objektai/asmenys/Rebodas iš Izenburgo]]
 - [[objektai/asmenys/Ringailė]]
@@ -301,7 +307,6 @@ Objektų skaičius: 1473.
 - [[objektai/asmenys/Čupurva]]
 - [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
-- [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis (Lenkijos karalius, XVI a.)]]
 
 ### Autoriai
 - [[objektai/autoriai/Ambrassat A]]
@@ -967,6 +972,7 @@ Objektų skaičius: 1473.
 - [[objektai/ivykiai/Gedimino karas Volynėje Vladimiro apsiaustis, kunigaikščio žūtis ir Lucko, Drohičino bei Bresto užėmimas (1319-1320 m.)]]
 - [[objektai/ivykiai/Gedimino kariuomenės mėginimas likviduoti Bajerburgą (1337 m.)]]
 - [[objektai/ivykiai/Gedimino krikšto planų žlugimo vaizdavimas Dusburgiečio pasakojime|Gedimino krikšto planų žlugimo vaizdavimas Dusburgiečio pasakojime (krikštas)]]
+- [[objektai/ivykiai/Gedimino laiškai ir krikšto akcija]]
 - [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]
 - [[objektai/ivykiai/Gedimino laiškų rašymas Vilniuje (1323 m. gegužės 26 d.)]]
 - [[objektai/ivykiai/Gedimino laiškų rašymas, išsiuntimas ir paskelbimas Vakarų adresatams (1323 m. gegužės 26 d.)]]
@@ -1098,10 +1104,10 @@ Objektų skaičius: 1473.
 - [[objektai/ivykiai/Lietuvos žygis į Volynę ir Bresto žemės užėmimas (1323 m. pabaiga—1324 m. pradžia)]]
 - [[objektai/ivykiai/Lietuvos-Lenkijos sutartis dėl abipusės karinės paramos (1325 m. pradžia)]]
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]
+- [[objektai/ivykiai/Liublino unijos sudarymas]]
 - [[objektai/ivykiai/Liudviko iš Bavarijos ir Fridricho Austriečio dviguba elekcija bei konfliktas (1314–1324 m.)]]
 - [[objektai/ivykiai/Lubavos žemės apiplėšimas ir 65 lietuvių žūtis (1302 m.)]]
 - [[objektai/ivykiai/Lubavos žemės nusiaubimas ir 15 lietuvių žūtis (1303 m.)]]
-- [[objektai/ivykiai/Lucko suvažiavimas]]
 - [[objektai/ivykiai/Magdeburgo teisių suteikimas Lietuvos miestams]]
 - [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]
 - [[objektai/ivykiai/Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)]]
@@ -1142,6 +1148,7 @@ Objektų skaičius: 1473.
 - [[objektai/ivykiai/Ragainės pilies užpuolimas (1315 m. apie rugpjūčio 15 d.)]]
 - [[objektai/ivykiai/Ragučio maldyklos Vilniuje panaikinimas ir Petionkos cerkvės įkūrimas]]
 - [[objektai/ivykiai/Raupsuotųjų deginimai Prancūzijoje (1320 m.)]]
+- [[objektai/ivykiai/Reformacijos pradžia Lietuvoje]]
 - [[objektai/ivykiai/Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.)]]
 - [[objektai/ivykiai/Rittersverderio, Naujojo Gardino ir Metenos sunaikinimas (1392 m. liepa)]]
 - [[objektai/ivykiai/Rudaminos mūšis ir taikos sutartis po Vilniaus apgulties (1377 m.)]]

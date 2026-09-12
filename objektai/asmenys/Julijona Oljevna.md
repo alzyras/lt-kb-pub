@@ -34,11 +34,27 @@ canonical_biography: "Lietuvos metraštis Julijoną Oljevną vadina Tverės did�
 
 Lietuvos metraštis Julijoną Oljevną vadina Tverės didžiojo kunigaikščio dukterimi ir nurodo, kad su Algirdu ji turėjo šešis sūnus.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Lietuvos metraštis Julijoną Oljevną vadina Tverės didžiojo kunigaikščio dukterimi ir nurodo, kad su Algirdu ji turėjo šešis sūnus.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+<a id="claim-t-194137"></a>
+- t-001
+  teiginys: "Lietuvos metraštis Julijoną Oljevną vadina Tverės didžiojo kunigaikščio dukterimi ir nurodo, kad su Algirdu ji turėjo šešis sūnus."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-176750
+
+## Citatos
+
+- id: c-176750
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Penktas— Konstantinas l0 , jo da­
     lis— Černigovas ir Cartoryskas Šeštas—Teodoras 1 2
@@ -50,8 +66,10 @@ Lietuvos metraštis Julijoną Oljevną vadina Tverės didžiojo kunigaikščio d
     antras — Skirgaila1 9 , trečias — Švitrigaila3 0 , ketvir­
     tas— Kaributas2 1 , penktas — Dimitrijus2 2 , Koreco ku­
     nigaikštis 2 3 , šeštas — kunigaikštis Vasilijus 2 4 .
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: not_found
+  pagrindzia:
+    - t-001

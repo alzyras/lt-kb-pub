@@ -97,6 +97,19 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
   pagrindžia:
     - c-184457
 
+<a id="claim-t-205173"></a>
+- t-004
+  teiginys: "Pasak šaltinio, Gedimino giminės ainiai saugojo prie Vilniaus, ant Tauro kalno, užmušto tauro ragus."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-187794
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Bychovco kronika pasakoja, kad Vytautas įkasė patrankas Tauro kalne, pavadintame pagal Gedimino nudėtą taurą.'
@@ -252,3 +265,25 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-187794
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 417"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 417."
+  citata_originali: |
+    Tuos iš ragų padarytus indus
+    dėdavo ant metalinių stovų, dažnai brangių, ir ¡puošdavo
+    akmenimis, pritaisydavo ąseles, dangtelius, kabančius pa­
+    puošimus. Tokie ragai dažnai buvo perduodami iš kartos
+    į kartą, kaip atminimas kokio nors žymaus jos atstovo,
+    kuris buvo pats savo ranka užmušęs žvėrį, turėjusį ragą.
+    Kunigaikščio giminės ainiai saugojo tauro, kurį Gedimi­
+    nas buvo užmušęs prie Vilniaus, ant Tauro kalno, ragus.
+  citata_rodoma: "Kunigaikščio giminės ainiai saugojo tauro, kurį Gedimi­\nnas buvo užmušęs prie Vilniaus, ant Tauro kalno, ragus."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

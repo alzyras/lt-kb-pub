@@ -246,8 +246,25 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   pagrindžia:
     - c-42456
 
-<a id="claim-t-181476"></a>
+<a id="claim-t-181475"></a>
 - t-012
+  teiginys: "Petras iš Dusburgo nurodė, kad kronikoje aprašys Teutonų ordino įkūrimą, brolių atvykimą į Prūsiją ir karus Prūsijoje."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Teutonai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys ir citata tiesiogiai sieja Teutonų ordino brolių atvykimą su Prūsija."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Teutonai keliavo į Prūsija (0.84)"
+  pagrindžia:
+    - c-165017
+
+<a id="claim-t-181476"></a>
+- t-013
   teiginys: "Petras Dusburgietis ir tarė: „Aukščiausias dievas padarė manyje ženklų ir stebuklų“."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -264,7 +281,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-165018
 
 <a id="claim-t-183995"></a>
-- t-013
+- t-014
   teiginys: "Petras iš Dusburgo kronikos dedikacijoje kreipėsi į magistrą Vernerį iš Orzelno."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -283,7 +300,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-165013
 
 <a id="claim-t-188460"></a>
-- t-014
+- t-015
   teiginys: "Narbutas rašo, kad Dusburgietis pridūrė, jog krikščionims nebuvo leidžiama prieiti prie apeigoms naudotų šventųjų šaltinių."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -302,7 +319,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-171350
 
 <a id="claim-t-188461"></a>
-- t-015
+- t-016
   teiginys: "Narbutas aiškino, kad Dusburgietis vyriausiąjį žynį prilygino popiežiui, bet tokį palyginimą laikė menkai tinkamu dalykui pažinti."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -321,7 +338,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-171351
 
 <a id="claim-t-188462"></a>
-- t-016
+- t-017
   teiginys: "Narbutas manė, kad Dusburgiečio aplinkos kryžiuočiai, nors ir cenzūruojami, išsaugojo senųjų vyriausiųjų žynių sąrašą."
   atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
@@ -342,7 +359,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-177068
 
 <a id="claim-t-188463"></a>
-- t-017
+- t-018
   teiginys: "Narbutas nurodo, kad Dusburgietis paliko pasakojimą apie vieną prūsų moterį pranašautoją."
   atnaujinta: "2026-07-24 14:55"
   sprendimo_priezastis: "auto"
@@ -362,7 +379,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-171353
 
 <a id="claim-t-188465"></a>
-- t-018
+- t-019
   teiginys: "Narbutas svarstė, kad Dusburgietis galėjo nežinoti, kaip apibūdinti krivį, arba jo tekstas apie krivį galėjo būti nepilnas."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -382,7 +399,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-171355
 
 <a id="claim-t-188467"></a>
-- t-019
+- t-020
   teiginys: "Narbutas teigė, kad Dusburgietis galėjo gauti tikriausių žinių apie tai, ką norėjo papasakoti apie stabmeldystės laikus."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -402,7 +419,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-171357
 
 <a id="claim-t-188468"></a>
-- t-020
+- t-021
   teiginys: "Narbutas, perpasakodamas Dusburgietį, aiškino krivūlę kaip krivio turėtą lazdą ir įsakomąjį ženklą."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -422,7 +439,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-171358
 
 <a id="claim-t-190777"></a>
-- t-021
+- t-022
   teiginys: "Teodoro Narbuto pasakojime Petras Dusburgietis minėjo Sūduvos valsčių Kirsowia, arba Kirsnavą, tarp Olecko ir Raigardo."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -442,7 +459,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-173659
 
 <a id="claim-t-194449"></a>
-- t-022
+- t-023
   teiginys: "PRŪSIJOS ŽEMĖS KRONIKA Dedikacija Gerbiamam vyrui ir Kristuje pasišventusiam broliui Verneriui iš Orzelno, Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą sveikindamas reiškia brolis Petras iš Dusburgo, tų pačių šventųjų įžadų."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -455,7 +472,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-165013
 
 <a id="claim-t-194671"></a>
-- t-023
+- t-024
   teiginys: "Vos šimtas metų buvo praėję nuo kryžiuočių atsi kraustymo ir vos truputį daugiau nei keturiasdešimt metų nuo visiško Prūsijos užkariavimo, kai Dusburgietis rašė tą prūsų tautos papročių ir įpročių apybraižą ir kai 1326 metais įteikė savo kroniką didžiajam."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -468,7 +485,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-177068
 
 <a id="claim-t-197006"></a>
-- t-024
+- t-025
   teiginys: "Tarp jų ypatingą vietą užima Petro iš Dusburgo „Prūsijos žemės kronika“, pateikianti daugeliu atvejų unikalių žinių apie prūsus, lietuvius ir jų kovą prieš Kryžiuočių ordino ir jo sąjungininkų agresiją XIII—XIV a."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -481,7 +498,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-178999
 
 <a id="claim-t-197007"></a>
-- t-025
+- t-026
   teiginys: "Petras Dusburgietis teikėsi nuveikti arba pats, arba per savo mokinius savo šlovei bei garbei ir dabartinėms bei būsimosioms kartoms pamokyti."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -494,7 +511,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-165013
 
 <a id="claim-t-197328"></a>
-- t-026
+- t-027
   teiginys: "Petras Dusburgietis globojo Platelių valsčių, kuriame ir buvusi toji legendinė pilis."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -507,7 +524,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-171349
 
 <a id="claim-t-197329"></a>
-- t-027
+- t-028
   teiginys: "Petras Dusburgietis persikėlė į apsišvietusią šalį, tai yra į Indiją, kur braminai skleidė vietinį, arba vien tik savo kraštui būdingą, tikėjimą, kadangi, pasak jų, žmogus, miręs nepašlakstytas šventųjų upių vandeniu, negalįs būti išganytas; Budhos sektos šalininkai su šituo nesutinka, kitaip sakant, leidžia laikyti vandenį šventu kiekvienoje šalyje."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -520,7 +537,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-171351
 
 <a id="claim-t-197330"></a>
-- t-028
+- t-029
   teiginys: "Petras Dusburgietis mokėjo prūsų ir žemaičių kalbą."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -532,7 +549,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-179134
 
 <a id="claim-t-197331"></a>
-- t-029
+- t-030
   teiginys: "Petras Dusburgietis paskutinis vyriausiasis žynys, kuris dar gyveno, kai buvo griaunama Vilniaus Perkūno šventykla; tai įvyko praėjus 69 metams po minėtosios datos, todėl turėjo būti jau labai senas."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -544,7 +561,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-171352
 
 <a id="claim-t-197332"></a>
-- t-030
+- t-031
   teiginys: "Petras Dusburgietis buvusi turto deivė arba ir jo dovanotoja."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -556,7 +573,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-179135
 
 <a id="claim-t-204342"></a>
-- t-031
+- t-032
   teiginys: "Petras Dusburgietis mini platesnę reikalus svarstančią kolegiją, į kurią turėjo būti sukviesti didikai."
   atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
@@ -920,9 +937,9 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
-    - t-013
-    - t-022
-    - t-025
+    - t-014
+    - t-023
+    - t-026
 
 - id: c-165014
   autorius: "Petras Dusburgietis"
@@ -969,6 +986,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+    - t-012
 
 - id: c-165018
   autorius: "Petras Dusburgietis"
@@ -995,7 +1013,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-013
 
 - id: c-165019
   autorius: "Petras Dusburgietis"
@@ -1073,7 +1091,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-026
+    - t-027
 
 - id: c-171350
   autorius: "Teodoras Narbutas"
@@ -1095,7 +1113,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-015
 
 - id: c-171351
   autorius: "Teodoras Narbutas"
@@ -1128,9 +1146,9 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
     - t-016
-    - t-027
+    - t-017
+    - t-028
 
 - id: c-171352
   autorius: "Teodoras Narbutas"
@@ -1158,7 +1176,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
+    - t-030
 
 - id: c-171353
   autorius: "Teodoras Narbutas"
@@ -1179,7 +1197,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-018
 
 - id: c-171355
   autorius: "Teodoras Narbutas"
@@ -1205,7 +1223,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-019
 
 - id: c-171357
   autorius: "Teodoras Narbutas"
@@ -1234,7 +1252,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-020
 
 - id: c-171358
   autorius: "Teodoras Narbutas"
@@ -1257,7 +1275,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-021
 
 - id: c-173659
   autorius: "Teodoras Narbutas"
@@ -1285,7 +1303,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-022
 
 - id: c-177068
   autorius: "Teodoras Narbutas"
@@ -1312,8 +1330,8 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
-    - t-023
+    - t-017
+    - t-024
 
 - id: c-178999
   autorius: "Petras Dusburgietis"
@@ -1340,7 +1358,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-024
+    - t-025
 
 - id: c-179134
   autorius: "Teodoras Narbutas"
@@ -1362,7 +1380,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
+    - t-029
 
 - id: c-179135
   autorius: "Teodoras Narbutas"
@@ -1383,7 +1401,7 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
+    - t-031
 
 - id: c-186946
   šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
@@ -1401,4 +1419,4 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-031
+    - t-032

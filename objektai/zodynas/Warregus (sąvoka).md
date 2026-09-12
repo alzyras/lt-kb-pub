@@ -33,8 +33,21 @@ Narbutas nurodo, kad senovės lietuvių kalboje „Warregus“ reiškia kankinto
 
 Narbutas nurodo, kad senovės lietuvių kalboje „Warregus“ reiškia kankintoją, o „Wargint“ ir „Warregt“ – kamuoti ar engti.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
+<a id="claim-t-205274"></a>
+- t-001
+  teiginys: "Narbutas nurodo, kad senovės lietuvių kalboje „Warregus“ reiškia kankintoją, o „Wargint“ ir „Warregt“ – kamuoti ar engti."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187886
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo, kad senovės lietuvių kalboje „Warregus“ reiškia kankintoją, o „Wargint“ ir „Warregt“ – kamuoti ar engti.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
@@ -48,3 +61,23 @@ Narbutas nurodo, kad senovės lietuvių kalboje „Warregus“ reiškia kankinto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+## Citatos
+
+- id: c-187886
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 75"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 75."
+  citata_originali: |
+    Normanai patys sa­
+    ve vadino Waringarl. Mūsų krašte senovės lietuvių kalboje
+    Warregus reiškia kankintojas, o Wargint ariba Warregt —
+    kamuoti, engti1 2. Taip pat ir latvių kalboje Warras kungs —
+    tai tironas, Warruda ritajs — plėšikas3.
+  citata_rodoma: "Mūsų krašte senovės lietuvių kalboje \nWarregus reiškia kankintojas, o Wargint ariba Warregt — \nkamuoti, engti1 2. Taip pat ir latvių kalboje Warras kungs — \ntai tironas, Warruda ritajs — plėšikas3."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

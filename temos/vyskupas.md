@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 249
+tema_objektu_skaicius: 251
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 249.
+Objektų skaičius: 251.
 
 ## Kaip naudoti
 
@@ -278,6 +278,10 @@ Objektų skaičius: 249.
 
 ### Vietos
 - [Pamedė](../objektai/vietos/Pamed%C4%97)
+
+### Įvykiai
+- [Lietuvos krikštas (1387 m.)](../objektai/ivykiai/Lietuvos%20krik%C5%A1tas%20%281387%20m.%29)
+- [Vilniaus universiteto įkūrimas](../objektai/ivykiai/Vilniaus%20universiteto%20%C4%AFk%C5%ABrimas)
 
 ### Žodynas
 - [koadjutorius](../objektai/zodynas/koadjutorius)

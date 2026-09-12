@@ -190,6 +190,32 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   pagrindžia:
     - c-168070
 
+<a id="claim-t-206282"></a>
+- t-009
+  teiginys: "Teodoro Narbuto aprašyme Lietuvos maršalka Goštautas vadovavo Veliuonos gynybai, kai plačiai įtvirtinta ir gausiai gyvenama vietovė priešinosi kryžiuočių kariaunai."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188897
+
+<a id="claim-t-206283"></a>
+- t-010
+  teiginys: "Teodoro Narbuto pasakojime Goštautas pamilo Bučackio dukterį ir paprašė jos rankos, tačiau jos tėvas atsisakė sutikti, nebent Goštautas pasikrikštytų."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188898
+
 ## Reikšmingi paminėjimai
 - c-005
   santrauka: 'Goštautas buvo vienas iš didikų, kuriuos Vytautas pasikvietė palydovais vykdamas pas imperatorių.'
@@ -463,6 +489,45 @@ Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta ž
   patikimumo_saltinis: ai
   pagrindzia:
     - t-008
+
+- id: c-188897
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 162-163"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 162-163."
+  citata_originali: |
+    Veliuona, turėjusi plačiai nu­
+    164
+
+    sidriekusius įtvirtinimus, gausiai žmonių apgyvendinta, vado­
+    vaujama Lietuvos maršalkos Goštauto, su pavaldžiais kitais
+    dviem įžymiais lietuvių didikais - Surminu ir Meteviku, stip­
+    riai priešinosi kryžiuočių kariaunai
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+
+- id: c-188898
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 175"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 175."
+  citata_originali: |
+    Goštautas pamilo Bučackio duk­
+    rą ir prašė tėvo jos rankos. Tačiau šis atsakė, kad laikytų sau
+    garbe turėti žentu tokį garsų asmenį, betgi religijų skirtumas
+    toks didelis, koks yra tarp krikščionių ir lietuvių tautos tikėji­
+    mo, kad neleidžia jam sutikti, nebent Goštautas panorėtų tą
+    kliūtį pašalinti pasikrikštydamas.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
 
 ## Ryšiai
 - Paskyrė Goštautą (vyskupas, XV a.): [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

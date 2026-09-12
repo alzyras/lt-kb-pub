@@ -113,6 +113,32 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
   pagrindžia:
     - c-78600
 
+<a id="claim-t-205109"></a>
+- t-005
+  teiginys: "Juk variagų vardu, mūsų supratimu, galėjo bū ti vadinama kiekviena skandinavų gyvenvietė, buvusi už Skanijos ribų, o tokių Ostrogardija IX amžiuje nestokojo."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-187931
+
+<a id="claim-t-205409"></a>
+- t-006
+  teiginys: "Betgi patį garsiausią vardą ir didžiausią reikšmę tu rėjo skandinavai, o IX amžiuje tarp jų suklestėjo Rusios variagai, tai yra skandinavų nausėdininkai Rusioje, mū sų supratimu, Lietuvos žemių užkariautojai, įsikūrę Ru sioje, Nemuno žemupyje."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-187812
+
 ## Citatos
 
 - id: c-55820
@@ -221,3 +247,52 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
   pagrindzia:
     - t-001
     - t-004
+
+- id: c-187812
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 96"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 96."
+  citata_originali: |
+    Betgi patį garsiausią vardą ir didžiausią reikšmę tu­
+    rėjo skandinavai, o IX amžiuje tarp jų suklestėjo Rusios
+    variagai, tai yra skandinavų nausėdininkai Rusioje, mū­
+    sų supratimu, Lietuvos žemių užkariautojai, įsikūrę Ru­
+    sioje, Nemuno žemupyje. Mat tuose kraštuose jūros kran­
+    tai buvo padengti smėlėta nerija, tyvuliavo salos — dabar
+    tatai jau išnykę, o anuomet buvo ypač palanku ginkluo­
+    tiems plėšikavimams jūrose, tuo ir vertėsi skandinavai.
+    Iš čia buvo lengva rengti išpuolius ir rasti kur pasislėpti
+    nuo besivejančių laivų, pagaliau ir šios tankiai žemdir­
+    bių apgyvendintos žemės našumas prisidėjo prie sukles­
+    tėjimo Rusios variagų, kitaip tariant, Rusios skandina­
+    vų — variagų, kai kurių autorių vadinamų roksolanais1.
+  citata_rodoma: "Betgi patį garsiausią vardą ir didžiausią reikšmę tu­\nrėjo skandinavai, o IX amžiuje tarp jų suklestėjo Rusios \nvariagai, tai yra skandinavų nausėdininkai Rusioje, mū­\nsų supratimu, Lietuvos žemių užkariautojai, įsikūrę Ru­\nsioje, Nemuno žemupyje."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
+- id: c-187931
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 98"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 98."
+  citata_originali: |
+    Tačiau, kaip liudija
+    Nestoras, veikiai, per dvejus metus, slavai nusimetė tą
+    jungą. Tiesa, šis metraštininkas nenurodo, kad buvo Ru­
+    sios variagai, su kuriais vėliau slavai turėjo glaudžių
+    ryšių, tad, susiejus visus šiuos įvykius, kyla kai kurių
+    abejonių. Juk variagų vardu, mūsų supratimu, galėjo bū­
+    ti vadinama kiekviena skandinavų gyvenvietė, buvusi už
+    Skanijos ribų, o tokių Ostrogardija IX amžiuje nestokojo.
+  citata_rodoma: "Juk variagų vardu, mūsų supratimu, galėjo bū­\nti vadinama kiekviena skandinavų gyvenvietė, buvusi už \nSkanijos ribų, o tokių Ostrogardija IX amžiuje nestokojo."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005

@@ -51,6 +51,34 @@ media_all_json: |-
   pagrindžia:
     - c-184300
 
+<a id="claim-t-205339"></a>
+- t-003
+  teiginys: "1834 m. pabaigoje T. Narbutui buvo perduotas Lietuvos metraštis, arba Bychovco kronika."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188022
+
+<a id="claim-t-206242"></a>
+- t-004
+  teiginys: "Teodoras Narbutas nurodė, kad Bychovco kronika ir Lindenblatto šaltinis neužsimena apie antrąją Vytauto emigraciją, o po 1390 m. Vytautui priskiria tik vieną emigraciją."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: po 1390 m.; įvykio data: 1390 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslinti abu šaltiniai ir aiškiai įvardytas Vytautas. Išlaikyta Narbuto pateikiama šaltinių interpretacija, neįtraukiant papildomų istorinių išvadų."
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-188857
+
 ## Citatos
 
 - id: c-94042
@@ -94,3 +122,47 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-188022
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 5"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 5."
+  citata_originali: |
+    1834
+    metų
+    pabaigoje,
+    Vincentui
+    Janovskiui tarpininkaujant, T. Narbuto rankas pasiekė
+    geidžiamasis Lietuvos metraštis, arba Bychovco kronika1.
+    Antrasis ir trečiasis „Istorijos“ tomai, jau parengti spau­
+    dai, gulėjo ant istoriko stalo, bet Kronika, „tasai neįkai­
+    nojamas dalykas“1 2, vertė viską peržiūrėti iš naujo. Atsi­
+    rado ir daugiau naujų šaltinių.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-188857
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 546"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 546."
+  citata_originali: |
+    Tuo tarpu patys patikimiausi šaltiniai (Lindenblatt. - S. 85-87;
+    Wigand. - P. 302; foliantas „E“. - P. 54, 112, 257; didžiojo
+    magistro laiškas Danijos karalienei (Registr. - S. 25), esantis
+    Slaptajame Karaliaučiaus archyve; rankraštinė Lietuvos (By-
+    chovco) kronika. - P. 51 sequ.) visai nieko nežino apie antrąją
+    iš eilės emigraciją, juolab apie antrąjį atsimetimą nuo kryžiuo­
+    čių, kitaip sakant, po 1390 m etų tik kartą Vytautui priskiria
+    tokį atsitikimą.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

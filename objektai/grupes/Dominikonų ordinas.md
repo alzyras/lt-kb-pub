@@ -277,6 +277,32 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   pagrindžia:
     - c-156516
 
+<a id="claim-t-205585"></a>
+- t-015
+  teiginys: "Liubčioje Vitas, Teodoro Narbuto vadinamas palaimintuoju, maždaug tuo metu įsteigė Romos katalikų bažnyčią ir dominikonų vienuolyną."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188200
+
+<a id="claim-t-205586"></a>
+- t-016
+  teiginys: "Anot Teodoro Narbuto, Vitas 1269 metais Krokuvos tėvų dominikonų vienuolyne baigė dievobaimingą gyvenimą ir buvo palaidotas viename kape su šv. Jackumi."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188201
+
 ## Citatos
 
 - id: c-156505
@@ -761,6 +787,45 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-188200
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 504"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 504."
+  citata_originali: |
+    Tačiau Liubčiojeklestinčiame Panemunio prekybos mies­
+    te, priklausančiame garsiam Kijevo emigrantui bajorui
+    Andriui Kijanui, kurį labai mėgo Lietuvos didysis kuni­
+    gaikštis Mindaugas, buvo deramai sutiktas, globojamas
+    ir skatinamas dirbti pagal savo pašaukimą. Tai turėjo
+    įvykti dar prieš 1250 metus. Maždaug tuo laiku palai­
+    mintasis Vitas Liubčioje įsteigė Romos - katalikų bažny­
+    čią, o kartu ir dominikonų vienuolyną.
+  citata_rodoma: "Maždaug tuo laiku palai­\nmintasis Vitas Liubčioje įsteigė Romos - katalikų bažny­\nčią, o kartu ir dominikonų vienuolyną."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015
+
+- id: c-188201
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 506"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 506."
+  citata_originali: |
+    Tai jį privertė grįžti į gimtus kraštus;
+    Krokuvoje, tėvų dominikonų vienuolyne, 1269 metais, bū­
+    damas visiškai senas, baigė savo dievobaimingą gyveni­
+    mą. Palaidotas viename kape su šv. Jackumi.
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
 
 ## Ryšiai
 - Rėmė Dominikonų ordiną: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

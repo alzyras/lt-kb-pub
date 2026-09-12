@@ -133,6 +133,32 @@ historical_names: []
   pagrindžia:
     - c-81581
 
+<a id="claim-t-206607"></a>
+- t-006
+  teiginys: "Vroclave per Kalėdas buvo planuota surengti suvažiavimą, kuriame, dalyvaujant imperatoriui, turėjo būti imtasi įgyvendinti priešsutartinius priesakus."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189222
+
+<a id="claim-t-206608"></a>
+- t-007
+  teiginys: "Teodoras Narbutas aprašo, kad dėl abiejų pusių atkaklumo nė viena jų nenusileido, todėl įgaliotiniai, nieko neįrodę, grįžo į Vokietiją, o prieš Kalėdas Vroclave sutiko imperatorių su dvariškiais."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189223
+
 ## Citatos
 
 - id: c-81576
@@ -262,6 +288,51 @@ historical_names: []
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
+
+- id: c-189222
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 127"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 127."
+  citata_originali: |
+    Buvo pareikš­
+    tas noras tvirtos taikos ir sudaryti sutartį su Vokiečių ordino rite­
+    riais; apie Lietuvą nupasakota, kad esą didesnę jos dalį sudaro
+    krikščioniškos provincijos, o kiti kraštai, nors žmonės senosios
+    tikybos laikosi, tačiau čia klesti krikščioniško tikėjimo mokymas,
+    o visuotinės tolerancijos dėka ir krikštui priimti nėra jokių kliū­
+    čių. Pagaliau nėra kliūčių jungtis su Romos bažnyčia ir tai, kuo
+    lengviausiu keliu einant, su laiku gali duoti rezultatų. Impcrato-
+    rius karštai griebėsi tų pasiūlymų, paskyrė įgaliotinius - Prahos
+    arkivyskupą Ernestą, Svidnicos kunigaikštį Balkoną ir riterių kry­
+    žiuočių Vokietijos provincijos magistrą Volframą Nolenburgą, ku­
+    rie turėjo atvažiuoti į sutartą vietą, kur norėtų atvykti Lietuvos
+    kunigaikščiai suderinti priešsutartinių susitarimų, ir per Kalėdas
+    Vroclave surengti suvažiavimą, kuriame, dalyvaujant imperato­
+    riui, turėjo būti imtasi įgyvendinti priesakus.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
+- id: c-189223
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 128"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 128."
+  citata_originali: |
+    Deja, atkaklumo būta tokio, kad nė viena pusė ne­
+    norėjo nusileisti, ir įgaliotiniai, nieko neįrodę, grįžo Vokietijon;
+    prieš pat Kalėdas Vroclave sutiko imperatorių su visais dvariš­
+    kiais, kurie jų laukė.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 ## Ryšiai
 - Buvo siuntimo vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

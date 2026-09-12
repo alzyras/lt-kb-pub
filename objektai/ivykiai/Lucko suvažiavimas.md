@@ -4,21 +4,21 @@ pavadinimas: 'Lucko suvažiavimas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
   - 'Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)'
 datos:
-  - '1387 m.'
   - '1429 m.'
-  - '2005 m.'
-date_start: '1387'
-date_end: '2005'
+date_start: '1429'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - suvažiavimas
   - ivykis
+  - karalius
+  - kunigaikštis
 amziai:
-  - 'XIV'
-  - 'XXI'
+  - 'XV'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +36,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Šventosios Romos imperijos imperatoriumi ir Vengrijos karaliumi Zigmantu I Vidurio ir Rytų Europos politikos problemoms aptarti ir buvo skirtas Lucko suvažiavimas, vykęs 1429 m. sausio 9–29. Lucko suvažiavimas rodė LDK ir Vytauto vaidmens svarbą regione, o į Lietuvos istoriją įėjo pirmiausia dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I ir Vokiečių ordinas, siekdamas sukurti regione atsvarą Lenkijai.
+Lucko suvažiavime dalyvavo Maskvos, Tverės, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo ir kitų valstybių atstovai. Lucko suvažiavimas vyko 1429 m. sausio 9–29 d. ir buvo skirtas Vidurio bei Rytų Europos politikos problemoms aptarti. Lucko suvažiavimas rodė LDK ir Vytauto vaidmens svarbą regione ir į Lietuvos istoriją įėjo dėl Vytauto vainikavimo plano.
 
 ## Laikotarpis ir datos
 
@@ -177,6 +177,19 @@ Nenurodyta
     priesaiką, kuria pažadėjęs paklusnumą karaliui bei len­
     kų karalystei. Tokią pat nuomonę pareiškė ir grafas Jo­
     nas iš Tarnovo, Krokuvos vaivada.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-005
+  santrauka: 'Lucko.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    avime taip pat dalyvavo Maskvos didžiojo kunigaikščio
+    ir Tverės kunigaikščio pasiuntiniai, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo kuni-
+    gaikščiai, popiežiaus legatas, Vokiečių ordino, Aukso ordos, Moldovos, Danijos karaliaus
+    ir Bizantijos imperatoriaus pasiuntiniai. Lucko
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis

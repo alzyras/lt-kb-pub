@@ -139,6 +139,18 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   pagrindžia:
     - c-167768
 
+<a id="claim-t-206580"></a>
+- t-006
+  teiginys: "Kryžiuočiai, atsitraukdami nuo Vilniaus, persikėlė per Strėvos upę."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189195
+
 ## Citatos
 
 - id: c-32445
@@ -276,3 +288,23 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
+
+- id: c-189195
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 442"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 442."
+  citata_originali: |
+    Kryžiuočiai su visa
+    stovykla nuo Vilniaus atsitraukė, regis, apie spalio 25dieną**,
+    ramiai keliavo namo per Trakus, persikėlė per Strėvos upę,
+    kai atsitiktinai sugautas kažin koks lietuvis pranešė, kad di­
+    dysis kunigaikštis įsakė visur užkirsti kelią, kad kai kuriose
+    vietose yra iškasta apkasų ir visuose perėjimo punktuose pri­
+    statyta ginkluotų žmonių
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006

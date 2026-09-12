@@ -311,6 +311,44 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   pagrindžia:
     - c-179372
 
+<a id="claim-t-205162"></a>
+- t-016
+  teiginys: "Narbutas teigia, kad VI amžiaus pradžioje Baltijos jūros pakrančių prekės pasiekdavo Dneprą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T21:22:05Z"
+  pagrindžia:
+    - c-187687
+
+<a id="claim-t-206462"></a>
+- t-017
+  teiginys: "Pasak Teodoro Narbuto, viena orda užvaldė Dnepro žemupį ir pradėjo skverbtis į Krymą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189077
+
+<a id="claim-t-206463"></a>
+- t-018
+  teiginys: "Algirdas patraukė į Dnepro žemupį, o iš Podolės išvyti totoriai atsitraukė į kairįjį Dnepro krantą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189078
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių maskvėnų.'
@@ -749,6 +787,59 @@ Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių ma
   patikimumo_saltinis: ai
   pagrindzia:
     - t-015
+
+- id: c-187687
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 29"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 29."
+  citata_originali: |
+    Barbarai, iš­
+    gąsdinti Teodoriko didybės ir ginklų, nebeturėjo jokių
+    naujų užmojų. Netgi VI amžiaus pradžioje metai slinko
+    ramiai, tad Pabaltijo tautos galėjo naudotis savo ryšiais
+    su italais ir kitomis pietinėmis tautomis. Netgi abejonių
+    negalėtų būti, kad Baltijos jūros pakrančių prekės tada
+    pasiekdavo ir Dneprą, juk nebuvo tuo metu jokių didesnių
+    kliūčių prekybai prie Juodosios jūros.
+  citata_rodoma: "Netgi VI amžiaus pradžioje metai slinko \nramiai, tad Pabaltijo tautos galėjo naudotis savo ryšiais \nsu italais ir kitomis pietinėmis tautomis. Netgi abejonių \nnegalėtų būti, kad Baltijos jūros pakrančių prekės tada \npasiekdavo ir Dneprą, juk nebuvo tuo metu jokių didesnių \nkliūčių prekybai prie Juodosios jūros."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
+
+- id: c-189077
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 159"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 159."
+  citata_originali: |
+    Viena tokia orda užvaldė Dnepro žemupį ir ėmė brau­
+    tis į Krymą.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-017
+
+- id: c-189078
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 159"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 159."
+  citata_originali: |
+    kunigaikštį Kęstutį paliko saugoti
+    sienas nuo kryžiuočių, pats patraukė į Dnepro žemupį. Toto­
+    riai, išvyti iš Podolės, iš tiesų atsitraukė į kairįjį tos upės krantą,
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-018
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Hiriai]]

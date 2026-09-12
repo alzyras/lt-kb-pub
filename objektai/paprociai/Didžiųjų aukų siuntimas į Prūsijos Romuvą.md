@@ -39,11 +39,31 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Betgi savame krašte jis įkurdino kitą Romuvą su kitu Kriviu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
+<a id="claim-t-205408"></a>
+- t-001
+  teiginys: "Betgi savame krašte jis įkurdino kitą Romuvą su kitu Kriviu."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187697
+
+## Santrauka
+
+Betgi savame krašte jis įkurdino kitą Romuvą su kitu Kriviu.
+
+## Citatos
+
+- id: c-187697
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 57"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 57."
   citata_originali: |
     Betgi
     savame krašte jis įkurdino kitą Romuvą su kitu Kriviu.
@@ -53,11 +73,10 @@ Nenurodyta
     Romuva ir vyriausiasis jos žynys buvo taip aukštinami,
     kad pastarojo valios buvo klausoma ir Lietuvoje, ir Kur­
     še*, ir Žemaitijoje, ir Livonijoje.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-Betgi savame krašte jis įkurdino kitą Romuvą su kitu Kriviu.
+  pagrindzia:
+    - t-001

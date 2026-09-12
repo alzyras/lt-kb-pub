@@ -50,6 +50,19 @@ Kraičvežiai šiame šaltinyje yra žmonės, vežantys jaunamarčios kraitį.
 
 Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
 
+## Teiginiai
+
+<a id="claim-t-195626"></a>
+- t-001
+  teiginys: "Kraičvežiai šiame šaltinyje saugo kraitį ir gauna vaišes bei dovanas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-178028
+
 ## Citatos
 
 - id: c-178028
@@ -68,10 +81,12 @@ Terminas vartojamas vestuvių apeigų ir kraičio gabenimo kontekste.
   citata_rodoma: "Skrynia įdėta į ratus, prie jos padėtas didelis ryšulys pagalvių ir duknų, kraičvežiams atpilta į bonką degtinė, kurią jie atsivežė, ir dabar jie, visu kuo atlyginti, lipa į ratus ir stati važiuoja; vienas arklius valdo, kitas daboja kraitį."
   statusas: verified
   atnaujinta: "2026-07-12 08:46"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-178029
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"

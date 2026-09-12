@@ -6,8 +6,10 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos: []
 date_start: ''
@@ -47,7 +49,7 @@ canonical_biography: "Daumantas šiame šaltinyje rodomas kaip Nalšėnų kuniga
 
 ## Santrauka
 
-Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su sąmokslu prieš Mindaugą ir vėliau tapęs Pskovo kunigaikščiu. Jis minimas kaip Mindaugo svogeris, priėmęs Timofėjaus vardą ir iš naujosios žemės rengęs žygius prieš Nalšėnus.
+Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįstengė. Daumantas buvo Mindaugo svogeris ir Treniotos sąjungininkas prieš Mindaugą. Per krikštą Timofėjaus vardą priėmęs Daumantas buvo išrinktas Pskovo kunigaikščiu ir susigiminiavo su Riurikaičiais.
 
 ## Teiginiai
 
@@ -371,6 +373,45 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   pagrindžia:
     - c-184329
 
+<a id="claim-t-205662"></a>
+- t-022
+  teiginys: "Karalius pasiuntė kariauną ir įsakė savo vasalui Daumantui atvykti su Nalšios kunigaikštystės pulkais; Daumantas atvyko į kovos lauką ir susijungė su karaliaus pajėgomis."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-188277
+
+<a id="claim-t-205663"></a>
+- t-023
+  teiginys: "Teodoras Narbutas aprašo, kad rugsėjo 12 d. Treniotos ir Daumanto vadovaujami sąmokslininkai klastingai užpuolė miegančio karaliaus palapinę ir nužudė jį kartu su dviem sūnumis."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-188278
+
+<a id="claim-t-205664"></a>
+- t-024
+  teiginys: "Teodoras Narbutas skiria du Daumantus: Mindaugo sūnėną Daumantą, kurį vadina žudiku ir nurodo dingus bei vėliau žuvus mūšyje, ir Daumantą Senąjį, Germanto sūnų, valdžiusį bei mirusį Pskove."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-188279
+
 ## Reikšmingi paminėjimai
 - c-011
   santrauka: 'Nalšios kunigaikščio Daumanto (m. 1299.V.20) pirmosios žmonos vardas nežinomas.'
@@ -405,6 +446,17 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     kęs vienuolystės, atvyko pas didikus ir, sušaukęs visas
     lietuvių jėgas, patraukė prieš Daumantą, degdamas troš­
     kimu atkeršyti už savo tėvo kraują.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-023
+  santrauka: 'Alfredas Bumblauskas nurodo, kad Nalšios kunigaikščio Daumanto žmoną buvo paveržęs Mindaugas, o Daumantas, veikęs išvien su Treniota, 1263 m. nužudė Mindaugą.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikęs išvien
+    su stipriausiu Mindaugo varžovu Treniota, 1263 m. nužudė Mindaugą
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -910,6 +962,70 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-021
+
+- id: c-188277
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 199"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 199."
+  citata_originali: |
+    pridaręs kažkokių skriaudų, tad buvo stota su juo į kovą.
+    Karalius nusiuntė kariauną, vadovaujamą žmogaus, ku­
+    rio vardo kronikos nemini, ir paliepė Daumantui atvykti
+    pagalbon su Nalšios kunigaikštystės pulkais. Šis buvo jo
+    vasalas, tad atvyko į kovos lauką ir susijungė su kara­
+    liaus pulkais.
+  citata_rodoma: "Karalius nusiuntė kariauną, vadovaujamą žmogaus, ku­\nrio vardo kronikos nemini, ir paliepė Daumantui atvykti \npagalbon su Nalšios kunigaikštystės pulkais. Šis buvo jo \nvasalas, tad atvyko į kovos lauką ir susijungė su kara­\nliaus pulkais."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-022
+
+- id: c-188278
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 200"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 200."
+  citata_originali: |
+    Aleksandro Neviškio mirtis.
+    1263 metų rudenį karalius Mindaugas buvo savo kara­
+    lystės šiaurinėje dalyje, kur tikriausiai su nedideliu bū­
+    riu dvariškių leido laiką medžiodamas Zemgalos ir Lie­
+    tuvos giriose, nusidriekusiose Dauguvos link. Sąmoksli­
+    ninkai, nutaikę progą, Treniotos ir Daumanto vedami, rug­
+    sėjo 12 dieną užpuolė miegančio karaliaus palapinę ir
+    klastingai nužudė jį kartu su dviem sūnumis.
+  citata_rodoma: "Sąmoksli­\nninkai, nutaikę progą, Treniotos ir Daumanto vedami, rug­\nsėjo 12 dieną užpuolė miegančio karaliaus palapinę ir \nklastingai nužudė jį kartu su dviem sūnumis."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-023
+
+- id: c-188279
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 536"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 536."
+  citata_originali: |
+    Dar reikia papasakoti apie Romano sūnų Daumantą.
+    Jau pastebėjome tiek mus, tiek rusų metraštininkus susi­
+    painiojus dėl Daumantų, kurių buvo ketvertas pagal ge­
+    nealogines lenteles, paskelbtas šio veikalo ankstesniame
+    tome. Be Daumanto, karaliaus Mindaugo sūnėno ir žudi­
+    ko, kuris nežinia kur buvo dingęs, o paskui žuvo mūšyje
+    (§ 990), buvo Daumantas, pramintas Senuoju, Germanto
+    sūnus; viešpatavo ir mirė Pskove.
+  citata_rodoma: "Be Daumanto, karaliaus Mindaugo sūnėno ir žudi­\nko, kuris nežinia kur buvo dingęs, o paskui žuvo mūšyje \n(§ 990), buvo Daumantas, pramintas Senuoju, Germanto \nsūnus; viešpatavo ir mirė Pskove."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-024
 
 ## Ryšiai
 - Daumantas (kunigaikštis, XV a.) puolė [[objektai/vietos/Nalšėnai]]

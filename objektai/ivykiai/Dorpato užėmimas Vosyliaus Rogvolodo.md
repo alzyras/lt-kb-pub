@@ -43,11 +43,31 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Būtent 1223 metais riteriai kala vijuočiai vienu metu po Kalėdų mėgino užimti Dorpato pilį, tačiau nesėkmingai 1 2.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
+<a id="claim-t-205146"></a>
+- t-001
+  teiginys: "Būtent 1223 metais riteriai kala vijuočiai vienu metu po Kalėdų mėgino užimti Dorpato pilį, tačiau nesėkmingai 1 2."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187779
+
+## Santrauka
+
+Būtent 1223 metais riteriai kala vijuočiai vienu metu po Kalėdų mėgino užimti Dorpato pilį, tačiau nesėkmingai 1 2.
+
+## Citatos
+
+- id: c-187779
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 358"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 358."
   citata_originali: |
     nėjo žemes nepaklusniausių jo valdžiai nuo Veigos iki
     Virumos, nuo Virumos iki Gervanų ir iki Sakalos, visai
@@ -56,11 +76,11 @@ Nenurodyta
     tačiau nieko nelaimėjo. Būtent 1223 metais riteriai kala­
     vijuočiai vienu metu po Kalėdų mėgino užimti Dorpato
     pilį, tačiau nesėkmingai* 1 2.
-  citata_rodoma: ''
+  citata_rodoma: "Vokiečiai siuntė prieš jį įvairius pulkus, \ntačiau nieko nelaimėjo. Būtent 1223 metais riteriai kala­\nvijuočiai vienu metu po Kalėdų mėgino užimti Dorpato \npilį, tačiau nesėkmingai* 1 2"
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-Būtent 1223 metais riteriai kala vijuočiai vienu metu po Kalėdų mėgino užimti Dorpato pilį, tačiau nesėkmingai 1 2.
+  pagrindzia:
+    - t-001

@@ -323,8 +323,7 @@ Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštij
 - id: c-182402
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 46"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 46."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     APIE TOTORIŲ CHANĄ BALAKLAJŲ, NAUGARDUKO
     KUNIGAIKŠTI SKIRMANTĄ, JO  ŠONŲ KUKOVAITĮ IR

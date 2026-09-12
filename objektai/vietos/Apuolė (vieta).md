@@ -58,6 +58,19 @@ Jis patsai, tolesniai pasakodamas apie įsigrūdimą žuvėdų į Žemaičių kr
   pagrindžia:
     - c-184480
 
+<a id="claim-t-205460"></a>
+- t-002
+  teiginys: "Anscharijaus gyvenimo aprašyme, kur apie kuršius kalbama maždaug įpusėjus IX amžiui, tais laikais, kai jie atrėmė švedų ir danų puolimus, pastarie siems įsibrovus į kuršių miestą su įtvirtinimais — Apuolę (Uppeteela)."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-188065
+
 ## Citatos
 
 - id: c-184480
@@ -88,3 +101,26 @@ Jis patsai, tolesniai pasakodamas apie įsigrūdimą žuvėdų į Žemaičių kr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188065
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 103"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 103."
+  citata_originali: |
+    Kraštas, besidrie­
+    kiantis tarp Nemuno ir Dauguvos žiočių, niekada nebuvo
+    patyręs svetimos šalies valdžios priespaudos. Apie tai tu­
+    rime neabejotinų žinių, pateiktų Rimberto parengtame
+    Kuršo apaštalo šv. Anscharijaus gyvenimo aprašyme, kur
+    apie kuršius kalbama maždaug įpusėjus IX amžiui, tais
+    laikais, kai jie atrėmė švedų ir danų puolimus, pastarie­
+    siems įsibrovus į kuršių miestą su įtvirtinimais — Apuolę
+    (Uppeteela).
+  citata_rodoma: "Apie tai tu­\nrime neabejotinų žinių, pateiktų Rimberto parengtame \nKuršo apaštalo šv. Anscharijaus gyvenimo aprašyme, kur \napie kuršius kalbama maždaug įpusėjus IX amžiui, tais \nlaikais, kai jie atrėmė švedų ir danų puolimus, pastarie­\nsiems įsibrovus į kuršių miestą su įtvirtinimais — Apuolę \n(Uppeteela)."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

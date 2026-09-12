@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XV amžius"
 periodo_pradzia: 1401
 periodo_pabaiga: 1500
-periodo_objektu_skaicius: 1278
+periodo_objektu_skaicius: 1289
 tags: []
 ---
 
@@ -11,11 +11,12 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1278.
+Objektų skaičius: 1289.
 
 ## Susiję objektai
 
 ### Asmenys
+- [[objektai/asmenys/Adomas Kozakovskis]]
 - [[objektai/asmenys/Albertas Vaitiekus Manvydas]]
 - [[objektai/asmenys/Aleksandra (Mozūrijos kunigaikštienė)]]
 - [[objektai/asmenys/Aleksandras Bychovcas|Aleksandras Bychovcas (volkovysko apskrities teisėjas)]]
@@ -50,7 +51,9 @@ Objektų skaičius: 1278.
 - [[objektai/asmenys/Elžbieta]]
 - [[objektai/asmenys/Elžbieta Granauskaitė]]
 - [[objektai/asmenys/Elžbieta Habsburgaite]]
+- [[objektai/asmenys/Ermolao Barbaro]]
 - [[objektai/asmenys/Eugenijus IV]]
+- [[objektai/asmenys/Feliksas Važynskis]]
 - [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas)]]
 - [[objektai/asmenys/Fotijus]]
 - [[objektai/asmenys/Fridrichas]]
@@ -70,6 +73,7 @@ Objektų skaičius: 1278.
 - [[objektai/asmenys/Hinka iš Valdšteino]]
 - [[objektai/asmenys/Hlebas]]
 - [[objektai/asmenys/Ignas Onacevičius]]
+- [[objektai/asmenys/Ignotas Bykovskis]]
 - [[objektai/asmenys/imperatorius Zigmantas]]
 - [[objektai/asmenys/Ipolitas Klimaševskis|Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.)]]
 - [[objektai/asmenys/Ivanas Ganeckis]]
@@ -90,6 +94,7 @@ Objektų skaičius: 1278.
 - [[objektai/asmenys/Jonas (Lvovo arkivyskupas)]]
 - [[objektai/asmenys/Jonas Albertas]]
 - [[objektai/asmenys/Jonas Biliaras]]
+- [[objektai/asmenys/Jonas Goštautas]]
 - [[objektai/asmenys/Jonas Habundi]]
 - [[objektai/asmenys/Jonas Lasavičius]]
 - [[objektai/asmenys/Jonas Lenartaitis Kęsgaila]]
@@ -103,6 +108,7 @@ Objektų skaičius: 1278.
 - [[objektai/asmenys/Jurgis Galminas]]
 - [[objektai/asmenys/Jurgis Gedgaudas]]
 - [[objektai/asmenys/Jurgis Geldgaudas]]
+- [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila (vyskupas, XVI a.)]]
 - [[objektai/asmenys/Jurgis Sviatoslavaitis]]
 - [[objektai/asmenys/Kaributas Dimitras]]
 - [[objektai/asmenys/Kazimieras (Lietuvos didysis kunigaikštis)]]
@@ -143,6 +149,7 @@ Objektų skaičius: 1278.
 - [[objektai/asmenys/Mykolas Sapienskis]]
 - [[objektai/asmenys/Neseckis]]
 - [[objektai/asmenys/Ostapas Kropotkovas]]
+- [[objektai/asmenys/Parbus (karalius, XIII a.)]]
 - [[objektai/asmenys/Paulius Rusdorfas]]
 - [[objektai/asmenys/Paulius von Russdorfas]]
 - [[objektai/asmenys/Pašičius]]
@@ -155,6 +162,7 @@ Objektų skaičius: 1278.
 - [[objektai/asmenys/Petras Kustynia]]
 - [[objektai/asmenys/Pilypas Frizijus]]
 - [[objektai/asmenys/Povilas Russdortas]]
+- [[objektai/asmenys/Pranciškus Ksaveras Mykolas Bohušas]]
 - [[objektai/asmenys/Pranciškus Skorina]]
 - [[objektai/asmenys/Rimvydas]]
 - [[objektai/asmenys/Rumbaudas]]
@@ -172,6 +180,7 @@ Objektų skaičius: 1278.
 - [[objektai/asmenys/Stankus Sudivojaitis]]
 - [[objektai/asmenys/Stecevičius]]
 - [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/asmenys/Svenas Ekdahlis]]
 - [[objektai/asmenys/Teodoras Karijotaitis]]
 - [[objektai/asmenys/Teodosijus]]
 - [[objektai/asmenys/Timūras (Tamerlanas)]]
@@ -903,6 +912,7 @@ Objektų skaičius: 1278.
 - [[objektai/ivykiai/Lietuvos luomų seimas dėl Medininkų vyskupystės raštų sutvarkymo (1421 m.)]]
 - [[objektai/ivykiai/Lietuvos pirmininkavimas Europos Sąjungai (2013 m.)]]
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]
+- [[objektai/ivykiai/Liublino unijos sudarymas]]
 - [[objektai/ivykiai/Livonijos ordino amžinos taikos su Naugardu D. sudarymas (1421 m.)]]
 - [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą]]
 - [[objektai/ivykiai/Livonijos ordino Vilniaus apgultis]]
@@ -942,6 +952,7 @@ Objektų skaičius: 1278.
 - [[objektai/ivykiai/Racionžo taika (1404 m.)]]
 - [[objektai/ivykiai/Raciąžo suvažiavimas ir taika (1404 m. gegužės 22 d.)]]
 - [[objektai/ivykiai/Radvilos Astikaičio laidotuvės]]
+- [[objektai/ivykiai/Reformacijos pradžia Lietuvoje]]
 - [[objektai/ivykiai/Ruseinio atsivertimas ir mirtis]]
 - [[objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)]]
 - [[objektai/ivykiai/Rygos ir Polocko pirklių laisvos prekybos sutartis (1405–1406 m.)]]

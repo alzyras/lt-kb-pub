@@ -168,6 +168,35 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   pagrindžia:
     - c-175228
 
+<a id="claim-t-206194"></a>
+- t-007
+  teiginys: "Teodoras Narbutas nurodo, kad 1383 m. pradžios žygis suteikė Jogailos ginklui šiokią tokią šlovę, tačiau prie Mazovijos Jogaila įgijo priešų tarp vietos kunigaikščių, palaikiusių ryšius su Ordino kaimynais ir Marienburgo rūmais."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "mūšio data: 1383 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sutvarkyta sakinio struktūra ir aiškiai įvardytas Jogaila. Priešų apibūdinimas bei jų ryšiai su Ordinu išlaikyti su šaltinio atribucija."
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188809
+
+<a id="claim-t-206195"></a>
+- t-008
+  teiginys: "Teodoras Narbutas nurodo, kad Mazovijos kunigaikštis Ziemovitas, užmezgęs artimus ryšius su Ordinu, rėmė Vytautą patarimais ir pinigais."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188810
+
 ## Citatos
 
 - id: c-82713
@@ -336,6 +365,48 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
+
+- id: c-188809
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 289"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 289."
+  citata_originali: |
+    Tas žygis vyko
+    1383 m etų pradžioje - jis pirmasis atnešė šiokią tokią šlovę
+    Jogailos ginklui, tačiau prisiartinęs prie Mazovijos, įsigijo prie­
+    šų tenykščių kunigaikščių, artimų ordino kaimynų ir turinčių
+    ryšių M arienburgo rūmuose, giminėje.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
+- id: c-188810
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 290-291"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 290-291."
+  citata_originali: |
+    Vilniaus kunigaikščio rū­
+    mai žinojo, kad kunigaikštis Ziemovitas pasiskolino iš kryžiuo­
+    čių septynis tūkstančius Vengrijos raud o n ų jų auksinų,
+    įkeisdamas Viznos pilį ir valsčių, kad praėjus kelioms savai­
+    tėms po traktato Dubysos saloje įsigaliojo sutartis dėl to įkai­
+    to 1, o Mazovijos kunigaikštis, užmezgęs artim us ryšius su
+    1 Sandėrio su Ziemovitu data: In castro Strasberg Culm. dyoc. 1382 pro-
+    xima tertia feria post festum b. Andree, apost (Štrasburgo tvirtovėje, Kulmo
+    292
+
+    ordinu, rėmė Vytautą patarimais ir pinigais
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
 
 ## Ryšiai
 - Sudarė sutartį su: [[objektai/grupes/Kryžiuočių ordinas]]

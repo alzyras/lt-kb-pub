@@ -66,6 +66,19 @@ Liudviko duktė Marija tėvui mirštant buvo sužieduota su Brandenburgo markgra
   pagrindžia:
     - c-176579
 
+<a id="claim-t-206362"></a>
+- t-003
+  teiginys: "Teodoro Narbuto pasakojime vyskupas Eufemijus pakrikštijo Kęstučio dukterį Mariją Viešpaties Atsimainymo cerkvėje ir sutuokė ją su Tverės kunigaikščiu Jonu Michailovičiumi."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188977
+
 ## Citatos
 
 - id: c-38089
@@ -115,3 +128,22 @@ Liudviko duktė Marija tėvui mirštant buvo sužieduota su Brandenburgo markgra
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-188977
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 216"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 216."
+  citata_originali: |
+    Šie metai taip pat liudija, kaip mūsų kunigaikščiai suėjo
+    sandraugon su Rusia, kai Kęstučio dukra Marija buvo ištekin­
+    ta už Tverės kunigaikščio Jono Michailovičiaus. Vyskupas Eu-
+    femijus pakrikštijo ją Viešpaties Atsimainymo cerkvėje ir
+    sutuokė su Jonu, dideliam1 2, anot Rusios metraštininko, kuni­
+    gaikščio Mykolo, tėvo, džiaugsmui
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

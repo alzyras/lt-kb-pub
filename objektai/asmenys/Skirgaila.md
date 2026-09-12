@@ -2,8 +2,9 @@
 tipas: asmuo
 pavadinimas: 'Skirgaila'
 saltiniai:
-  - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Lietuvių tautos istorija, t. 5'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
@@ -754,6 +755,110 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   pagrindžia:
     - c-176604
 
+<a id="claim-t-206376"></a>
+- t-040
+  teiginys: "Narbutas rašo, kad Jogaila nusprendė jėga įvesdinti Skirgailą Polocko kunigaikščiu, o Andrių iš ten išstumti."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188991
+
+<a id="claim-t-206377"></a>
+- t-041
+  teiginys: "Skirgaila su Jogaila vadovavo lietuvių kariaunai prie Vilkyškių."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-188992
+
+<a id="claim-t-206378"></a>
+- t-042
+  teiginys: "Skirgaila su gausiu kariaunos daliniu, pasak Narbuto, atkakliai gynė prieigas, tačiau buvo atstumtas ir pasitraukė, praradęs brangius krovinius."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188993
+
+<a id="claim-t-206379"></a>
+- t-043
+  teiginys: "Karalius, pasak Narbuto, Skirgailai patikėjo aukščiausiąją valdžią gimtajame krašte ir pavedė jam eiti vietininko pareigas."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188994
+
+<a id="claim-t-206381"></a>
+- t-044
+  teiginys: "Skirgaila su Vygandu Aleksandru, pasak Narbuto, skubėjo vietovei į pagalbą, o po kelių nuostolingų susirėmimų kryžiuočiai buvo priversti atsitraukti."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-188996
+
+<a id="claim-t-206382"></a>
+- t-045
+  teiginys: "1389 m. Neidenburge, pasak Narbuto, karaliaus atstovais atvyko didysis kunigaikštis Skirgaila, Ziemovitas Mazovietis ir Poznanės vyskupas Dobrogostas."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-188997
+
+<a id="claim-t-206383"></a>
+- t-046
+  teiginys: "Pasak Narbuto, per iškilmes įgėręs Skirgaila viešai užgauliojo Vytautą, o po to tarp brolių kilo valstybės interesams nenaudingų kivirčų."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-188998
+
+<a id="claim-t-206384"></a>
+- t-047
+  teiginys: "Pasak Narbuto, po pusryčių, į kuriuos jį pakvietė vienuolis Foma Izufovas, Skirgaila Miloslavičiuose smarkiai susirgo, buvo atvežtas į Kijevą ir septintą dieną mirė."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-188999
+
 ## Reikšmingi paminėjimai
 - c-031
   santrauka: 'Narbutas rašė, kad 1386-1447 m. Lietuva pasiekė didžiausią galybę, ypač valdant Vytautui, sostą paveldėjusiam iš Skirgailos.'
@@ -799,6 +904,17 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
     Tais laikais jo brolis Jogaila, lenkiškai Vladislovu
     vadinamas, sėdėjo Krokuvos karalystės soste. Ir tasai
     gyveno su juo didelėje meilėje.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-041
+  santrauka: 'Alfredo Bumblausko pasakojime Jogaila pavedė savo broliui Skirgailai susidoroti su Kęstučiu.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    Jogaila tokiose situacijose sugebėdavo likti nuošalyje (su Kęstučiu susidorojo ne pats, o
+    pavedė tai broliui Skirgailai).
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -1578,6 +1694,155 @@ Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Viln
   patikimumo_saltinis: ai
   pagrindzia:
     - t-039
+
+- id: c-188991
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 257"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 257."
+  citata_originali: |
+    Jogaila panoro aprūpinti tikrą savo brolį Skirgailą, įkur­
+    dindamas jį toje kunigaikštystėje, tačiau polockiečiai nenorėjo
+    priimti jo kunigaikščiu, buvo prisiekę laikyti savo žemėj An­
+    drių; Skirgaila netgi buvo gėdingai išvarytas iš miesto3. Didy­
+    sis kunigaikštis nusprendė jėga jį įvesdinti, o aną išmesti; tokį
+    tikslą turėdamas, pasiuntė savo gausią kariauną, prie kurios
+    tarsi atsitiktinai prisijungė Livonijos kryžiuočių pulkai, o iš tik­
+    rųjų atėję atsiliepdami į kreipimąsi; Andrius ėmėsi miesto
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-040
+
+- id: c-188992
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 307"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 307."
+  citata_originali: |
+    besiartindamas prie Vilkyškių kaimo, kai
+    jau manė esąs saugus, buvo pavytas gausios lietuvių kariau­
+    nos, vadovaujamos Jogailos ir Skirgailos. Prasidėjo kautynės,
+    vienos atkakliausių.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-041
+
+- id: c-188993
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 332"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 332."
+  citata_originali: |
+    Betgi Skirgaila su gausiu
+    kariaunos daliniu gynė prieigas; mūšis vyko atkakliai, paga­
+    liau buvo atstumti; turėjo pasitraukti, netgi praradę savo bran­
+    gius krovinius.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-042
+
+- id: c-188994
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 347"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 347."
+  citata_originali: |
+    Karalius, paėmęs savo naujos valsty­
+    bės valdžią, privalėjo tiek daug ką padaryti, kad kurį laiką
+    turėjo tiesiog užmiršti apie gimtąjį kraštą; aukščiausiąją val­
+    džią ten patikėjo Skirgailai, pavesdamas jam eiti vietininko
+    pareigas.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-043
+
+- id: c-188996
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 370"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 370."
+  citata_originali: |
+    Tad didysis kunigaikštis Skirgaila su
+    Vygandu Aleksandru paskubėjo tai vietovei pagalbon, kryžiuo­
+    čiai po kelių atkaklių susirėmimų, kiekvieną kartą patys patyrę
+    nuostolių, buvo priversti atsitraukti.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-044
+
+- id: c-188997
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 371"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 371."
+  citata_originali: |
+    Nusprendė abi pusės netrukus
+    surengti kitą, Neidenburge, kur apie Sekmines, 1389 metais,
+    karaliaus atstovais atvyko didysis kunigaikštis Skirgaila, Zie-
+    movitas Mazovietis, Poznanės vyskupas Dobrogostas ir kiti;
+    kryžiuočiams atstovavo: didysis komtūras Valenrodas, špitoli-
+    ninkas Basenheimas ir dar keletas vyresniųjų.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-045
+
+- id: c-188998
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 423"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 423."
+  citata_originali: |
+    Vytautas asme­
+    niškai įvesdino Kijevan Rusios didįjį kunigaikštį; ten, vienų
+    iškilmių metu, Skirgaila tiek užsimiršo, kad ėmė Vytautą vie­
+    šai užgaulioti; nors pastarasis nusileido įgėrusiam broliui, bet­
+    gi nuo to laiko tarp jų prasidėjo nesutarimai, tad kilo kivirčų,
+    nenaudingų valstybės interesams.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-046
+
+- id: c-188999
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 456"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 456."
+  citata_originali: |
+    Kijeve vietininko pareigas ėjo ir metropolijos rū­
+    muose prie Šv. Sofijos soboro gyveno toks vienuolis, vadintas
+    Foma Izufovu, anot kitų, jis buvo ir Pečioros vienuolyno ar­
+    chimandritas. Sausio 4 dieną1, kai didysis kunigaikštis Skirgai­
+    la važiavo į medžioklę už Dnepro, buvo to vienuolio pakviestas
+    į metropolijos rūmus pusryčių. Po tų iškilmių, vos tik Skirgaila
+    atvyko į Miloslavičių, tuojau pat smarkiai susirgo, nusilpęs buvo
+    atvežtas į Kijevą, septintąją dieną jis mirė.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-047
 
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Vladislovas Jogaila]]

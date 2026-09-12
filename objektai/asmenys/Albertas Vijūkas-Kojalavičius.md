@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Albertas Vijūkas-Kojalavičius'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
@@ -43,7 +44,7 @@ canonical_biography: "Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir 
 
 ## Santrauka
 
-Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Lietuvos ir daugiatautės bei daugiakonfesės LDK.
+Alberto Vijūko-Kojalavičiaus lituanistiniai darbai prisidėjo prie vilniečių įtakos sklaidos Lietuvoje. Narbutas nurodo, kad Kojalavičius mini XV a. lenkiškus grašius piorunkas ir skiria juos nuo Lietuvoje žinotų perunų arba perkūnų. Narbutas kaltina Kojalavičių ir kitus autorius apšmeižus senovės lietuvius dėl esą įprasto ligonių, bejėgių ir mirštančiųjų žudymo.
 
 ## Teiginiai
 
@@ -186,6 +187,79 @@ Sirvydo ir Alberto Vijūko-Kojalavičiaus darbai), bet ir toli už etninės Liet
   pagrindžia:
     - c-174817
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Narbutas nurodo, kad Kojalavičius mini XV a. lenkiškus grašius piorunkas ir skiria juos nuo Lietuvoje žinotų perunų arba perkūnų.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    jas su ypatingu dėmesiu rašo kronikininkas Šiucas26. Anot jo
+    paties pastebėjimų, jos buvo arba su dievų atvaizdais, arba su
+    užrašais nepažįstamu raštu, kartais lotyniškomis raidėmis.
+    Jis sako (7 lapas, antroji pusė): „Prūsijoje ir gretimuose kraš­
+    tuose kapuose ir žemėje buvo randamos auksinės bei sidabri­
+    nės monetos su nežinomais atvaizdais, herbais ir užrašais.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-004
+  santrauka: 'Narbutas vertina, kad Albertas Vijūkas-Kojalavičius lotyniškoje lietuvių istorijoje tik sudėjo Strijkovskio veikalą į istorinius rėmus.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    mingiau susiję su vokiečių tauta, turi .pilnesnius ir geres­
+    nius už mus savo istorijų aprašymus; jų kronikininkų
+    skaičius yra ženklus. Mokytos plunksnos dirbo ir dabar
+    darbuojas i prie jų istorijos: Kocebus* parašė senovės
+    Prūsų istoriją, pelniusią didelį pripažinimą; mokslingasis
+    ponas Foi'gtas** baigia išleisti paskutinius pilnos tos
+    pačios istorijos tomus, kurių bus astuoni; šis visiškai už­
+    baigtas veikalas savo verte pranoksta visus lig tol žino­
+    mus todėl, kad jis remiasi kryžiuočių dokumentais ir kro­
+    nikomis, o jie yra iš visur sukaupti Karaliaučiuje. Šie
+    šaltiniai mokslininkams buvo žinomi: mūsų rusiškieji se­
+    novės tyrėjai netgi padarė išsamiai ir tvarkingai surink­
+    tų, reikalingų ištraukų atsargas, o ponas Foigtas pats
+    nepaprastu savo darbštumu, genialumu ir talentais at­
+    skleidė jų turtingumą ir parodė retą jų panaudojimo pa­
+    vyzdį; citavimo tikslumo, sveikos kritikos, dalyko, mokslų
+    ir kalbų išmanymo atžvilgiu tai tikrai įžymus autorius.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-006
+  santrauka: 'Narbutas rašo, kad Kojalavičius poloviečius laikė turinčiais lietuvių kalbą ir siejo juos su Mamajaus sugriauta Beloserkos sostine.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Tyrimai visiškai neatsako į šiuos
+    klausimus teigiamai, nes nėra įrodymų, kad Mamajus
+    buvo nužygiavęs į šią Ukrainos dalį. Be to, kyla ir dar
+    kitų klausimų: ar Charoboe ordos pečenegai, prisijungę
+    prie poloviečių ir atsikėlę į žemes kitapus Dono, neįkūrė
+    ten miesto ir nepavadino jo taip pat panašiai Belotzeba.
+    Iš ko atsirado Beloserka? Ar tai nebuvo tas pats miestas,
+    kurį sugriovė Mamajus? Netikėtą atsakymą į šiuos klau­
+    simus pateiks kiti tyrinėjimai.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-008
+  santrauka: 'Alfredas Bumblauskas Albertą Vijūką-Kojalavičių priskiria prie žymiausių LDK kultūros asmenybių ir nurodo, kad savo garsiuosiuose veikaluose jis pavardę rašė lenkiška forma.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    Žymiausios LDK kultūros asmenybės – užtektų paminėti is-
+    toriką Albertą Vijūką-Kojalavičių ar karo inžinierių Kazimierą Semenavičių – jie abu savo
+    garsiuosiuose veikaluose savo pavardes parašė jau lenkiška forma (Siemienowicz, Kojało-
+    wicz).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-21550

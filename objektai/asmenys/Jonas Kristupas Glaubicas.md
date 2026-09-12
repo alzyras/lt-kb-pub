@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Jonas Kristupas Glaubicas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių'
 datos:
   - '1700 m.'
   - '1767 m.'
@@ -152,6 +153,22 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
   pagrindžia:
     - c-25413
 
+## Reikšmingi paminėjimai
+- c-005
+  santrauka: '1764 m. vasarą vyskupas J. D. Lopacinskis laiške teigė nesulaukęs architekto Jono Kristupo Glaubico, kuris buvo užtrukęs Rusijoje.'
+  šaltinis: 03-ldk-tarp-tradiciju-ir-naujoviu
+  citata_originali: |
+    Mergelės Marijos Dangun Ėmimo bažnyčios.
+    Analizuojant Vibiaus šaltinius galima stebėri, kadXVIII a. 6-7-ajame dešimtme­
+    čiais J. K. Glaubicas buvo dažnai išvykęs ir sostinėje pasirodydavo retai - tik kas keletą
+    mėnesių ar pusmetį. 1764 m. vasarą Varniuose vyskupas J. D. Lopacinskis savo broliui
+    rašė nežinąs, ar Vilniaus rūmuose vyksta statybos, kaip kad buvo paliepęs, nes nesu­
+    laukė architekto J. K. Glaubico, kuris kažkur Rusioje [užtrukęs] sukasi''.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-21740

@@ -35,6 +35,8 @@ entity_view_role: "place"
 entity_aliases: ["Vendenas","Vendenas (vieta)"]
 sameAs: []
 canonical_biography: "Kai kurie iš jų persikėlė j Latgaliją, kur apsigyveno tarp vie tinių, Vendeno apylinkėse. Ordino sostinę parinkęs Vendeną, kitaip vadinamą Cėsi mis, uoliai rūpinosi jos nauda ir žiūrėjo tvarkos. Vienas iš riterių, vardu Vigbertas, pasinėręs į pa saulietinius gyvenimo džiaugsmus ir praradęs saiką, ne paisantis jokių suvaržymų įstatymais, pritriukšmavęs Vendene, 1208 metais paspruko pas vyskupystės kunigus, buvusius Idumėjoje, kuriems pranešė, esą."
+place_authority: true
+historical_names: []
 ---
 # Vendenas (vieta)
 
@@ -46,8 +48,48 @@ Kai kurie iš jų persikėlė j Latgaliją, kur apsigyveno tarp vie tinių, Vend
 
 Kai kurie iš jų persikėlė j Latgaliją, kur apsigyveno tarp vie tinių, Vendeno apylinkėse. Ordino sostinę parinkęs Vendeną, kitaip vadinamą Cėsi mis, uoliai rūpinosi jos nauda ir žiūrėjo tvarkos. Vienas iš riterių, vardu Vigbertas, pasinėręs į pa saulietinius gyvenimo džiaugsmus ir praradęs saiką, ne paisantis jokių suvaržymų įstatymais, pritriukšmavęs Vendene, 1208 metais paspruko pas vyskupystės kunigus, buvusius Idumėjoje, kuriems pranešė, esą.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
+<a id="claim-t-205107"></a>
+- t-001
+  teiginys: "Kai kurie iš jų persikėlė j Latgaliją, kur apsigyveno tarp vie tinių, Vendeno apylinkėse."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-187787
+
+<a id="claim-t-205543"></a>
+- t-002
+  teiginys: "Ordino sostinę parinkęs Vendeną, kitaip vadinamą Cėsi mis, uoliai rūpinosi jos nauda ir žiūrėjo tvarkos."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-188086
+
+<a id="claim-t-205570"></a>
+- t-003
+  teiginys: "Vienas iš riterių, vardu Vigbertas, pasinėręs į pa saulietinius gyvenimo džiaugsmus ir praradęs saiką, ne paisantis jokių suvaržymų įstatymais, pritriukšmavęs Vendene, 1208 metais paspruko pas vyskupystės kunigus, buvusius Idumėjoje, kuriems pranešė, esą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-188083
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kai kurie iš jų persikėlė j Latgaliją, kur apsigyveno tarp vie tinių, Vendeno apylinkėse.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
@@ -87,3 +129,68 @@ Kai kurie iš jų persikėlė j Latgaliją, kur apsigyveno tarp vie tinių, Vend
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+## Citatos
+
+- id: c-187787
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 281"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 281."
+  citata_originali: |
+    Šie venedai, kadaise kuršių iš savo gyvenviečių
+    prie Ventos upės išvyti, nukeliavo į Latviją ir apsistojo
+    Senajame kalne1, prie kurio buvo Ryga pastatydinta. Iš
+    ten, antrąkart kuršių užpulti, buvo išginti ir sumušti. Kai
+    kurie iš jų persikėlė j Latgaliją, kur apsigyveno tarp vie­
+    tinių, Vendeno apylinkėse.
+  citata_rodoma: "Kai \nkurie iš jų persikėlė j Latgaliją, kur apsigyveno tarp vie­\ntinių, Vendeno apylinkėse."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-188083
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 343"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 343."
+  citata_originali: |
+    Ordino sostinę parinkęs Vendeną, kitaip vadinamą Cėsi­
+    mis, uoliai rūpinosi jos nauda ir žiūrėjo tvarkos. Iš pat
+    pradžių tragiškam įvykiui nutikus, išsipildė liūdnos prana­
+    šystės. Vienas iš riterių, vardu Vigbertas, pasinėręs į pa­
+    saulietinius gyvenimo džiaugsmus ir praradęs saiką, ne­
+    paisantis jokių suvaržymų įstatymais, pritriukšmavęs
+    Vendene, 1208 metais paspruko pas vyskupystės kunigus,
+    buvusius Idumėjoje, kuriems pranešė, esą norįs sulaukti
+    vyskupo apsilankymo tam, kad pareikštų jam apie atsi­
+    davimą jo valdžiai.
+  citata_rodoma: "Vienas iš riterių, vardu Vigbertas, pasinėręs į pa­\nsaulietinius gyvenimo džiaugsmus ir praradęs saiką, ne­\npaisantis jokių suvaržymų įstatymais, pritriukšmavęs \nVendene, 1208 metais paspruko pas vyskupystės kunigus, \nbuvusius Idumėjoje, kuriems pranešė, esą norįs sulaukti \nvyskupo apsilankymo tam, kad pareikštų jam apie atsi­\ndavimą jo valdžiai."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-188086
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 343"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 343."
+  citata_originali: |
+    Tuo laikotarpiu ordinui vadovavo
+    Venas iš Rorbacho. Tai buvo žmogus, kurio narsa, ne kar­
+    tą įrodyta, buvo aukštinama, visa širdimi atsidavęs ordi­
+    no gerovei, statydinęs savo valdose pilis su įtvirtinimais.
+    Ordino sostinę parinkęs Vendeną, kitaip vadinamą Cėsi­
+    mis, uoliai rūpinosi jos nauda ir žiūrėjo tvarkos.
+  citata_rodoma: "Ordino sostinę parinkęs Vendeną, kitaip vadinamą Cėsi­\nmis, uoliai rūpinosi jos nauda ir žiūrėjo tvarkos."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

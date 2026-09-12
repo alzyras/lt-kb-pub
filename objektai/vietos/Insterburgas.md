@@ -76,6 +76,18 @@ Pavestą uždavinį Vy­ tautas labai puikiai atliko, sunaikindamas visą vokie�
   pagrindžia:
     - c-175436
 
+<a id="claim-t-206480"></a>
+- t-003
+  teiginys: "Insterburge ordino maršalka Valenrodas asmeniškai sudarė sutartį su Vytautu."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189095
+
 ## Citatos
 
 - id: c-38501
@@ -130,3 +142,23 @@ Pavestą uždavinį Vy­ tautas labai puikiai atliko, sunaikindamas visą vokie�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-189095
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 289"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 289."
+  citata_originali: |
+    Betgi pirmiausia kunigaikštis Jonušas
+    tarpininku1 2 nuvyko Prūsijon ir pasiekė tiek, kad ordino m ar­
+    šalka Valenrodas pats asmeniškai Insterburge sudarė sutartį
+    su Vytautu. Tas kunigaikštis atsidavė ordino globai ir malonei
+    kartu su savo broliu Tautvilą, nieko daugiau iš karto nepagei­
+    daudami kaip tik užtarimo pas didįjį kunigaikštį Jogailą, kad
+    priimtų pasiūlymus, anksčiau jam pateiktus
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

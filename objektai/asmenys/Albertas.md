@@ -173,6 +173,32 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   pagrindžia:
     - c-186608
 
+<a id="claim-t-205231"></a>
+- t-010
+  teiginys: "Imperatorius Otonas II išsiuntė Albertą, turėjusį arkivyskupo titulą ir vėliau valdžiusį Magdeburgo arkikatedrą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187825
+
+<a id="claim-t-205535"></a>
+- t-011
+  teiginys: "Albertas grįždamas aplankė kai kuriuos Lie tuvos žemės kraštus, kur mokė žmones švento tikėjimo tiesų."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187842
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Narbutas Albertą vadina Prūsijos ir Livonijos arkivyskupu, kurio kivirčą su kryžiuočiais sprendė popiežiaus bulė.'
@@ -438,3 +464,47 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-009
+
+- id: c-187825
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 126"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 126."
+  citata_originali: |
+    Kijevo kunigaikštienė Olga, kuri priėmė krikštą 955 me­
+    tais Konstantinopolyje, stengdamasi įvesti krikščionybę
+    ką tik susikūrusios Rusios valstybės kraštuose, 959 metais
+    išsiuntė pasiuntinius pas imperatorių Otoną II, prašyda­
+    ma krikščionybės mokslo skleidėjų. Imperatorius išsiuntė
+    Albertą, anuomet ¡gavusį vienos vyskupijos arkivyskupo
+    titulą, vėliau savo žinioje turėjusį Magdeburgo arkika­
+    tedrą. Į Rusią jis atvyko 960 metais, tačiau tenykščių
+    buvo sutiktas su tokiu piktumu, kad vos išvengė žiaurios
+    stabmeldžio rankos.
+  citata_rodoma: "Imperatorius išsiuntė \nAlbertą, anuomet ¡gavusį vienos vyskupijos arkivyskupo \ntitulą, vėliau savo žinioje turėjusį Magdeburgo arkika­\ntedrą. Į Rusią jis atvyko 960 metais, tačiau tenykščių \nbuvo sutiktas su tokiu piktumu, kad vos išvengė žiaurios \nstabmeldžio rankos."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+
+- id: c-187842
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 126"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 126."
+  citata_originali: |
+    Žinoma, kad 01 gos sūnus Sviatosla­
+    vas nebuvo palankus krikščionybei, tad nėra ko stebėtis,
+    jog pamaldžiosios kunigaikštienės siekiai taip nesėkmin­
+    gai baigėsi. Albertas grįždamas aplankė kai kuriuos Lie­
+    tuvos žemės kraštus, kur mokė žmones švento tikėjimo
+    tiesų. Daugiau jokių smulkesnių žinių istorijoje neišliko1 2.
+  citata_rodoma: "Albertas grįždamas aplankė kai kuriuos Lie­\ntuvos žemės kraštus, kur mokė žmones švento tikėjimo \ntiesų. Daugiau jokių smulkesnių žinių istorijoje neišliko1 2."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011

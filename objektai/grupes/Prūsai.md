@@ -1271,6 +1271,45 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   pagrindžia:
     - c-184278
 
+<a id="claim-t-205265"></a>
+- t-081
+  teiginys: "Senovės prūsai laiko matą buvo nustatę taip apibūdinti: kai būdavo skai čiuojami praėję metai, būdavosakoma: nuo tokio tai karo arba nuo ¡gaisro šventojoje girioje tiek tai metų; nuo po tvyniotiek tai metų, nuo -baisingos audros — tiek."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187778
+
+<a id="claim-t-205450"></a>
+- t-082
+  teiginys: "Vienu kartu ir sutartą minutę iššokę prūsai ėmė iš visų pusių į juos laidyti strė les ir sviedinius, dėl to kariaunoje prasidėjo baisi sumaiš tis."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-188087
+
+<a id="claim-t-205623"></a>
+- t-083
+  teiginys: "Prūsijoje kelerius metus vykusį sukilimą Teodoras Narbutas apibūdina kaip smarkiai įsisiautėjusį ir teigia, kad jam vadovavo karingi, didvyriški bei narsūs vyrai."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
+  pagrindžia:
+    - c-188238
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -3713,6 +3752,71 @@ Prūsai yra vakarų baltų tauta / genčių grupė. Šis objektas skirtas žmoni
   patikimumo_saltinis: ai
   pagrindzia:
     - t-080
+
+- id: c-187778
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 386"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 386."
+  citata_originali: |
+    Senovės prūsai
+    laiko matą buvo* nustatę taip apibūdinti: kai būdavo skai­
+    čiuojami praėję metai, būdavo- sakoma: nuo tokio tai karo
+    arba nuo ¡gaisro šventojoje girioje tiek tai metų; nuo po­
+    tvynio- tiek tai metų, nuo -baisingos audros — tiek. Me­
+    tuose buvo tokie mėnesiai: žieminis, varnos, balandžio,
+    gegutės, žaliojo- beržo, -sėjos, liepos, pjūties, kaitros, paukš­
+    čių išskridimo, lapų kritimo, žemės gruodo, žiemos vargų.
+    Valandų paroje buvo šešiolika; jos buvo vadinamos taip:
+    brėkšmos, rytinės žvaigždės, aušros, saulėtekio, įdienoji-
+    mo, dienos ¡priešpiečio, vidudienio, popiečio, pavakarės,
+    vakaro, pirmamigio, nakties, vidurnakčio, gaidgystės, pra­
+    budimo1 2.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-081
+
+- id: c-188087
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 220"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 220."
+  citata_originali: |
+    Vienu kartu ir sutartą
+    minutę iššokę prūsai ėmė iš visų pusių į juos laidyti strė­
+    les ir sviedinius, dėl to kariaunoje prasidėjo baisi sumaiš­
+    tis. Lenkai, suspausti siaurose perėjose, negalėjo duoti jo­
+    kio atkirčio, stumdėsi ir vieni kitus skandino'.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-082
+
+- id: c-188238
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 206"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 206."
+  citata_originali: |
+    sams, išvedė Lietuvos jaunuomenę į mūšį su kryžiuočiais,
+    juk anie visad troško stoti su tuo ordinu į kovą. Lieps­
+    nojo Prūsijoje sukilimas jau keletą metų, smarkokai bu­
+    vo įsisiautęs, o jam vadovavo karingi, didvyriški, narsūs
+    vyrai. Sūduviai griebėsi ginklo, kad išvarytų vokiečius iš
+    Sambijos, į kurią jiems nusiuntė pagalbą didysis kuni­
+    gaikštis.
+  citata_rodoma: "Lieps­\nnojo Prūsijoje sukilimas jau keletą metų, smarkokai bu­\nvo įsisiautęs, o jam vadovavo karingi, didvyriški, narsūs \nvyrai. Sūduviai griebėsi ginklo, kad išvarytų vokiečius iš \nSambijos, į kurią jiems nusiuntė pagalbą didysis kuni­\ngaikštis."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-083
 
 ## Ryšiai
 - Buvo užkariauta: [[objektai/grupes/Kryžiuočių ordinas]]

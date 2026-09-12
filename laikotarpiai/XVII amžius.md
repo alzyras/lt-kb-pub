@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XVII amžius"
 periodo_pradzia: 1601
 periodo_pabaiga: 1700
-periodo_objektu_skaicius: 958
+periodo_objektu_skaicius: 967
 tags: []
 ---
 
@@ -11,11 +11,12 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 958.
+Objektų skaičius: 967.
 
 ## Susiję objektai
 
 ### Asmenys
+- [[objektai/asmenys/Adomas Kozakovskis]]
 - [[objektai/asmenys/Albertas Kojalavičius]]
 - [[objektai/asmenys/Albertas Vijūkas-Kojalavičius]]
 - [[objektai/asmenys/Albertas Vijūkas-Kojelavičius]]
@@ -30,15 +31,18 @@ Objektų skaičius: 958.
 - [[objektai/asmenys/Bogdanas Chmelnickis]]
 - [[objektai/asmenys/Chodkevičius]]
 - [[objektai/asmenys/Dmitrijus]]
+- [[objektai/asmenys/Dominikas Alamanis]]
 - [[objektai/asmenys/Džiovani Ramusio]]
 - [[objektai/asmenys/Eustachijus Kotovičius]]
 - [[objektai/asmenys/Eustachijus Valavičius]]
+- [[objektai/asmenys/Feliksas Važynskis]]
 - [[objektai/asmenys/Fiodoras]]
 - [[objektai/asmenys/Frederikas Joachimas Mansfeldas]]
 - [[objektai/asmenys/G. Braunas]]
 - [[objektai/asmenys/Grigalius Zakarevičius]]
 - [[objektai/asmenys/Gustavas Adolfas]]
 - [[objektai/asmenys/Horacijus]]
+- [[objektai/asmenys/Ignotas Bykovskis]]
 - [[objektai/asmenys/Ilevičius (valdovas, XVII a.)]]
 - [[objektai/asmenys/Ivanas IV Rūstusis]]
 - [[objektai/asmenys/J. Radvila]]
@@ -47,6 +51,7 @@ Objektų skaičius: 958.
 - [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis]]
 - [[objektai/asmenys/Jokūbas Mackavičius Šukas]]
 - [[objektai/asmenys/Jonas Feliksas Pacas]]
+- [[objektai/asmenys/Jonas Goštautas]]
 - [[objektai/asmenys/Jonas Karolis Chodkevičius]]
 - [[objektai/asmenys/Jonas Karolis Katkevičius]]
 - [[objektai/asmenys/Jonas Kazimieras]]
@@ -82,6 +87,7 @@ Objektų skaičius: 958.
 - [[objektai/asmenys/Motiejus Kazimieras Sarbievijus]]
 - [[objektai/asmenys/Mykolas Borisovičius Šeina]]
 - [[objektai/asmenys/Mykolas Kazimieras Pacas]]
+- [[objektai/asmenys/Parbus (karalius, XIII a.)]]
 - [[objektai/asmenys/Parulis]]
 - [[objektai/asmenys/Paulius Bochenas]]
 - [[objektai/asmenys/Pašičius]]
@@ -94,6 +100,7 @@ Objektų skaičius: 958.
 - [[objektai/asmenys/Petras Šiukšta]]
 - [[objektai/asmenys/Pilypas Frizijus]]
 - [[objektai/asmenys/Povilas Sapiega]]
+- [[objektai/asmenys/Pranciškus Ksaveras Mykolas Bohušas]]
 - [[objektai/asmenys/Raina Sluščianka]]
 - [[objektai/asmenys/Samuelis Komorowskis|Samuelis Komorowskis (karvedys, XVII a.)]]
 - [[objektai/asmenys/Simonas Grunau]]
@@ -104,6 +111,7 @@ Objektų skaičius: 958.
 - [[objektai/asmenys/Stanislovas Hozijus]]
 - [[objektai/asmenys/Stecevičius]]
 - [[objektai/asmenys/Steponas Batoras]]
+- [[objektai/asmenys/Svenas Ekdahlis]]
 - [[objektai/asmenys/Teofilis Duninas Rajeckis]]
 - [[objektai/asmenys/Uršulė]]
 - [[objektai/asmenys/V. Gosievskis]]
@@ -116,6 +124,7 @@ Objektų skaičius: 958.
 - [[objektai/asmenys/Zubas]]
 - [[objektai/asmenys/Čeplė]]
 - [[objektai/asmenys/Šv. Kazimieras]]
+- [[objektai/asmenys/Žanas Bodenas]]
 
 ### Autoriai
 - [[objektai/autoriai/A. Prochaska]]
@@ -628,6 +637,7 @@ Objektų skaičius: 958.
 - [[objektai/ivykiai/ATR karai su Švedija XVII a]]
 - [[objektai/ivykiai/Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.)]]
 - [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]
+- [[objektai/ivykiai/Didžiosios Leono Sapiegos pasiuntinybė į Maskvą]]
 - [[objektai/ivykiai/Fredos palivarko byla (1614 m.)]]
 - [[objektai/ivykiai/Gedimino taikos sutartis su Livonija (1322 m.)]]
 - [[objektai/ivykiai/Jeronimo Prahiškio atsiskaitymas Bazelio bažnytiniam susirinkimui]]
@@ -654,7 +664,6 @@ Objektų skaičius: 958.
 - [[objektai/ivykiai/Liublino unija (1569 m.)]]
 - [[objektai/ivykiai/Liublino unijos akto priėmimas ir patvirtinimas (1569 m.)]]
 - [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)]]
-- [[objektai/ivykiai/Lucko suvažiavimas]]
 - [[objektai/ivykiai/Magdeburgo teisių suteikimas Lietuvos miestams]]
 - [[objektai/ivykiai/Maskvos ir Švedų užpuolimas Lietuvai (1654–1655 m.)]]
 - [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)]]

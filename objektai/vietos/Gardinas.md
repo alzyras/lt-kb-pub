@@ -1429,6 +1429,149 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   pagrindžia:
     - c-186960
 
+<a id="claim-t-205087"></a>
+- t-082
+  teiginys: "Dėl tų ir dau gelio kitų priežasčių, kurias, kaip labai nutolusias nuo mūsų pasako jimo temos, praleidžiame, pripažinsime Gardino įkūrimo metus esant, beveik neabejotinai, 990-uosius."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-187846
+
+<a id="claim-t-205091"></a>
+- t-083
+  teiginys: "Narbutas teigia, kad slavų pasirodymo tose žemėse pradžioje, V amžiuje, Gardino vietoje turėjo stovėti tvirtovė."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T21:22:05Z"
+  pagrindžia:
+    - c-188149
+
+<a id="claim-t-205765"></a>
+- t-084
+  teiginys: "Kryžiuočiai, perėję ledu Nemuną, užpuolė gretimus Gardino kaimus ir kitas apylinkes, kurias sudegino, o grįždami išsivedė du šimtus belaisvių."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188380
+
+<a id="claim-t-205766"></a>
+- t-085
+  teiginys: "Gardinas cituojamame laiške apibūdinamas kaip neseniai kuo puikiausiai sutvirtinta pasienio pilis, esanti tik už keleto mylių nuo Plocko diecezijos sienų."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188381
+
+<a id="claim-t-205767"></a>
+- t-086
+  teiginys: "Šešiasdešimt riterių, būdami nemažos kariuomenės priešakyje, patraukė Gardino link, tikėdamiesi, kaip pasakoja Teodoras Narbutas, neblogos medžioklės."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188382
+
+<a id="claim-t-206473"></a>
+- t-087
+  teiginys: "Tuo metu Gardino pavietas, pasak Teodoro Narbuto, buvo toli išsiplėtęs į vakarus."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189088
+
+<a id="claim-t-206474"></a>
+- t-088
+  teiginys: "Pasak Teodoro Narbuto, prie Gardino lietuviai sutrukdė kryžiuočių maršalkai persikelti per Nemuną, todėl jis turėjo grįžti nepasiekęs tikslo."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189089
+
+<a id="claim-t-206475"></a>
+- t-089
+  teiginys: "Pasak Teodoro Narbuto, kariauna žygiavo Gardino link, o prie miesto kunigaikštis Patirgas pasiuntė gyventojus pasitikti maršalkos su duona ir druska."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189090
+
+<a id="claim-t-206476"></a>
+- t-090
+  teiginys: "Pasak Teodoro Narbuto, po pergalės prieš Ragainės komtūrą prie Vilkyškių didysis kunigaikštis iš Gardino nužygiavo į Pultuską, užkariavo Mazovijos žemes ir Vyslos dešiniuoju krantu pasiekė Sano žiotis."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189091
+
+<a id="claim-t-206477"></a>
+- t-091
+  teiginys: "Pasak Teodoro Narbuto, kovo pradžioje karalius, persikėlęs per Nemuną, prie Gardino įsirengė stovyklą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189092
+
+<a id="claim-t-206478"></a>
+- t-092
+  teiginys: "Pasak Teodoro Narbuto, Vytautas su į pagalbą atėjusiomis pajėgomis apsupo Gardiną, kurio Žemutinė pilis, regis, tebebuvo griuvėsiuose, o gintis galėjo tik Aukštutinė."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189093
+
 ## Reikšmingi paminėjimai
 - c-029
   santrauka: 'Henrikas Cutsvertas puolė Gardino pilį, bet dėl stipraus pilėnų pasipriešinimo ir daugybės sužeistųjų pasitraukė nepasiekęs tikslo.'
@@ -3162,6 +3305,217 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   patikimumo_saltinis: ai
   pagrindzia:
     - t-081
+
+- id: c-187846
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 211"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 211."
+  citata_originali: |
+    Tokios statybos pėdsakai kai kur dar pastebimi (pvz., Ovruče).
+    Jie savo senumu patikina, kad išlikę nuo minėtų laikų. Dėl tų ir dau­
+    gelio kitų priežasčių, kurias, kaip labai nutolusias nuo mūsų pasako­
+    jimo temos, praleidžiame, pripažinsime Gardino įkūrimo metus esant,
+    beveik neabejotinai, 990-uosius.
+  citata_rodoma: "Dėl tų ir dau­\ngelio kitų priežasčių, kurias, kaip labai nutolusias nuo mūsų pasako­\njimo temos, praleidžiame, pripažinsime Gardino įkūrimo metus esant, \nbeveik neabejotinai, 990-uosius."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-082
+
+- id: c-188149
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 211"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 211."
+  citata_originali: |
+    Gardino įkūrimo pėdsakai dingo praslinkusių amžių glūdumoje.
+    Slavų pasirodymo tose žemėse pradžioje, būtent V amžiuje, ten turėjo
+    stovėti tvirtovė. Juk, tyrinėdami vietovę ir geografinį pasiskirstymą
+    žemėmis tarp genčiųj pastebėsime, kad ši vietovė gelbėjo Užnemunės
+    slavus nuo lietuvių ir jotvingių puolimų.
+  citata_rodoma: "Gardino įkūrimo pėdsakai dingo praslinkusių amžių glūdumoje. \nSlavų pasirodymo tose žemėse pradžioje, būtent V amžiuje, ten turėjo \nstovėti tvirtovė."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-083
+
+- id: c-188380
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 313."
+  citata_originali: |
+    Pagaliau rado saviš­
+    kį, kuris, nusilpęs nuo žaizdos, negalėjo nei greičiau pa­
+    bėgti, nei gintis. Vokietis nudobė jį, o žirgą grąžino sa­
+    viesiems. Perėję ledu Nemuną, užpuolė gretimus Gardino
+    kaimus bei kitas apylinkes, kurias sudegino, o grįždami
+    išsivedė du šimtus belaisvių1.
+  citata_rodoma: "Perėję ledu Nemuną, užpuolė gretimus Gardino \nkaimus bei kitas apylinkes, kurias sudegino, o grįždami \nišsivedė du šimtus belaisvių1."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-084
+
+- id: c-188381
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 437"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 437."
+  citata_originali: |
+    Pakanka prisiminti nuniokotas Dobrynės
+    žemes ir ką tik jų pačių krašte buvusius žiaurumus.“ To­
+    liau aprašyta Dobrynės užpuolimas 1323 metais, vėliau,
+    1324 metais, įvykę plėšimai Pultusko apylinkėse, kuriuos
+    iš to paties pranešimo mes anksčiau išdėstėme (§ 1149).
+    „Jeigu Jūsų Šventenybė,— toliau jie rašo,— mūsų krašto,
+    t. y. Plocko diecezijos, ir apskritai lenkų tautos neapgins
+    nuo lietuvių, tuomet tie pagonys, jau pralobę iš grobimo,
+    turtingi karo amunicijos, per paliaubas sustiprinę ir pa­
+    taisę savo pasienio pilis, kaip neseniai kuo puikiausiai
+    sutvirtino Gardiną, esantį tik už keleto mylių nuo mūsų
+    sienų, po kurio priedanga nesiliauja pulti mūsų kraštų
+    panašiai kaip per anksčiau aprašytą neseniai buvusį puo­
+    limą, taigi tie pagonys be perstojo viską niokos.
+  citata_rodoma: "Jeigu Jūsų Šventenybė,— toliau jie rašo,— mūsų krašto, \nt. y. Plocko diecezijos, ir apskritai lenkų tautos neapgins \nnuo lietuvių, tuomet tie pagonys, jau pralobę iš grobimo, \nturtingi karo amunicijos, per paliaubas sustiprinę ir pa­\ntaisę savo pasienio pilis, kaip neseniai kuo puikiausiai \nsutvirtino Gardiną, esantį tik už keleto mylių nuo mūsų \nsienų, po kurio priedanga nesiliauja pulti mūsų kraštų \npanašiai kaip per anksčiau aprašytą neseniai buvusį puo­\nlimą, taigi tie pagonys be perstojo viską niokos"
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-085
+
+- id: c-188382
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 449"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 449."
+  citata_originali: |
+    Žodžiu, buvo nutarta vėl pradėti kovas.
+    Šešiasdešimt riterių nemažos kariuomenės priešakyje pa­
+    traukė Gardino link, kur tikėjosi neblogos medžioklės.
+    Tačiau pakeliui žvalgai jiems pranešė, kad lietuviai, su­
+    žinoję apie šį žygį, gerai pasirengė gynybai.
+  citata_rodoma: "Šešiasdešimt riterių nemažos kariuomenės priešakyje pa­\ntraukė Gardino link, kur tikėjosi neblogos medžioklės. \nTačiau pakeliui žvalgai jiems pranešė, kad lietuviai, su­\nžinoję apie šį žygį, gerai pasirengė gynybai."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-086
+
+- id: c-189088
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 126"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 126."
+  citata_originali: |
+    Kunigaikštis Kęstutis, nau­
+    dodamasis taikiais laikais, ėmėsi susitarimų su Mazovijos ku­
+    nigaikščiu Ziemovitu dėl Lietuvos sienos, skiriančios nuo
+    Mazovijos, būtent Gardino pavieto, tuo m etu toli išsiplėtusio
+    į vakarus, taip pat dėl Viznos ir Goniondzo žemių, dėl kurių
+    kildavo dažni ginčai.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-087
+
+- id: c-189089
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 133"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 133."
+  citata_originali: |
+    Dar į du žygius tais pačiais metais buvo išsiruošęs maršalka -
+    vieną palei Gardiną, kur jam lietuviai sutrukdė persikelti per
+    Nemuną, turėjo grįžti visai nieko nepešęs.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-088
+
+- id: c-189090
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 156"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 156."
+  citata_originali: |
+    Kariauna žygiavo tiesiai Gardino
+    link, kur vadovavo kunigaikštis Patirgas. Greitai kryžiuočių ka­
+    riai pasirodė prie Nemuno, priešais miestą, tasai vadas, neži­
+    nia kodėl, pasiuntė gyventojus pasitikti maršalką su duona ir
+    druska, kartu su jais buvo žynių su kryžiais ir visokiais krikš­
+    čionių simboliais.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-089
+
+- id: c-189091
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 309"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 309."
+  citata_originali: |
+    Kad ir kaip ten buvo, tuoj pat po per­
+    galės prie Vilkyškių, laimėtos prieš Ragainės komtūrą, didysis
+    kunigaikštis patraukė iš Gardino su nemaža kariauna, nuvyko
+    į Pultuską, kur, užkariavęs Mazovijos žemes, priartėjo prie Vys­
+    los, ir jos dešiniuoju krantu nužygiavo net iki Sano žiočių.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-090
+
+- id: c-189092
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 382"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 382."
+  citata_originali: |
+    Karalius, ne­
+    prarasdamas drąsos, skubėjo Gardino link ir, persikėlęs per
+    Nemuną, kovo pradžioje prie miesto įsirengė stovyklą.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-091
+
+- id: c-189093
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 407"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 407."
+  citata_originali: |
+    Nedaug tepraėjo laiko, kai
+    kunigaikštis Vytautas su pagalbon atėjusiomis pajėgomis, tik
+    ką minėtomis, apsupo Gardiną; tuo metu Žemutinė pilis po
+    pastarojo jos užėmimo, regis, nebuvo pakilusi iš griuvėsių, tik
+    Aukštutinė tegalėjo būti ginama.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-092
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -23,18 +23,19 @@ tags:
 amziai:
   - 'XIII'
   - 'XXI'
-media_total_count: '0'
-media_primary_thumb_url: ''
-media_primary_canonical_url: ''
-media_primary_directness: ''
-media_primary_relation_type: ''
-media_primary_json: ''
+media_total_count: '1'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/e/ec/Palaimintasis_Vitas_17c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3APalaimintasis_Vitas_17c.jpg'
+media_primary_directness: 'direct'
+media_primary_relation_type: 'depicts'
+media_primary_json: |-
+  {"mediaId":"m-7bed7ef1be849ad22daa6235","title":"Palaimintasis Vitas 17c.jpg","caption":"XVII a. piešinys, vaizduojantis Mindaugo krikštą.","originalTitle":"Palaimintasis Vitas 17c.jpg","creator":"Unknown Lithuanian author.","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"taken from","dateDisplay":"2014-12-16 22:52:25","dateStart":null,"dateEnd":null,"width":423,"height":615,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APalaimintasis_Vitas_17c.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ec/Palaimintasis_Vitas_17c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ec/Palaimintasis_Vitas_17c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ec/Palaimintasis_Vitas_17c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"dvasininkas","label":"dvasininkas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"krikštas","label":"krikštas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"religinis-įvykis","label":"religinis-įvykis","facetKind":"tema","confidence":0.95},{"code":"scena","label":"scena","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Bishops in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Mindaugas in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings of baptism","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/ivykiai/Mindaugo krikštas.md","title":"Mindaugo krikštas (krikštas)","itemType":"ivykis","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-08-08T15:16:12.004018+03:00","reviewedAt":"2026-08-08T15:16:33.045054+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma religinė scena: mitrą dėvintis dvasininkas susiduria su sėdinčiu valdovu ar didiku; šalia pavaizduotas krikšto indą primenantis objektas.","metadataEvidence":"Wikimedia Commons metaduomenyse kūrinys aiškiai aprašytas kaip „Christianization of Mindaugas“ ir datuojamas XVII a. piešiniu.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys kartu aiškiai sieja kūrinį su Mindaugo christianizacija, t. y. krikštu.","isPrimary":1}
 media_direct_json: |-
-  []
+  [{"mediaId":"m-7bed7ef1be849ad22daa6235","title":"Palaimintasis Vitas 17c.jpg","caption":"XVII a. piešinys, vaizduojantis Mindaugo krikštą.","originalTitle":"Palaimintasis Vitas 17c.jpg","creator":"Unknown Lithuanian author.","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"taken from","dateDisplay":"2014-12-16 22:52:25","dateStart":null,"dateEnd":null,"width":423,"height":615,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APalaimintasis_Vitas_17c.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ec/Palaimintasis_Vitas_17c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ec/Palaimintasis_Vitas_17c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ec/Palaimintasis_Vitas_17c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"dvasininkas","label":"dvasininkas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"krikštas","label":"krikštas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"religinis-įvykis","label":"religinis-įvykis","facetKind":"tema","confidence":0.95},{"code":"scena","label":"scena","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Bishops in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Mindaugas in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings of baptism","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/ivykiai/Mindaugo krikštas.md","title":"Mindaugo krikštas (krikštas)","itemType":"ivykis","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-08-08T15:16:12.004018+03:00","reviewedAt":"2026-08-08T15:16:33.045054+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma religinė scena: mitrą dėvintis dvasininkas susiduria su sėdinčiu valdovu ar didiku; šalia pavaizduotas krikšto indą primenantis objektas.","metadataEvidence":"Wikimedia Commons metaduomenyse kūrinys aiškiai aprašytas kaip „Christianization of Mindaugas“ ir datuojamas XVII a. piešiniu.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys kartu aiškiai sieja kūrinį su Mindaugo christianizacija, t. y. krikštu.","isPrimary":1}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  []
+  [{"mediaId":"m-7bed7ef1be849ad22daa6235","title":"Palaimintasis Vitas 17c.jpg","caption":"XVII a. piešinys, vaizduojantis Mindaugo krikštą.","originalTitle":"Palaimintasis Vitas 17c.jpg","creator":"Unknown Lithuanian author.","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"taken from","dateDisplay":"2014-12-16 22:52:25","dateStart":null,"dateEnd":null,"width":423,"height":615,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APalaimintasis_Vitas_17c.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ec/Palaimintasis_Vitas_17c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ec/Palaimintasis_Vitas_17c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled","displayUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ec/Palaimintasis_Vitas_17c.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original","institution":"","collection":"","country":"","language":"","tags":[{"code":"dvasininkas","label":"dvasininkas","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"krikštas","label":"krikštas","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"religinis-įvykis","label":"religinis-įvykis","facetKind":"tema","confidence":0.95},{"code":"scena","label":"scena","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95}],"sourceTags":[{"provider":"commons","field":"categories","label":"Bishops in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"CC-PD-Mark","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Mindaugas in art","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD Old","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"PD-old missing SDC copyright status","language":"","canonicalCode":""},{"provider":"commons","field":"categories","label":"Paintings of baptism","language":"","canonicalCode":""}],"relatedObjects":[{"notePath":"objektai/ivykiai/Mindaugo krikštas.md","title":"Mindaugo krikštas (krikštas)","itemType":"ivykis","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-08-08T15:16:12.004018+03:00","reviewedAt":"2026-08-08T15:16:33.045054+03:00","visualReviewVersion":"media-visual-validator-v2","visualEvidence":"Matoma religinė scena: mitrą dėvintis dvasininkas susiduria su sėdinčiu valdovu ar didiku; šalia pavaizduotas krikšto indą primenantis objektas.","metadataEvidence":"Wikimedia Commons metaduomenyse kūrinys aiškiai aprašytas kaip „Christianization of Mindaugas“ ir datuojamas XVII a. piešiniu.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.6-luna","judgeReason":"Vaizdas ir metaduomenys kartu aiškiai sieja kūrinį su Mindaugo christianizacija, t. y. krikštu.","isPrimary":1}]
 ---
 # Mindaugo krikštas (krikštas)
 
@@ -60,8 +61,25 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-187502"></a>
+<a id="claim-t-187501"></a>
 - t-001
+  teiginys: "Lietuvos metraštis vaizduoja Mindaugo krikštą kaip apgaulingą ir teigia, kad po krikšto jis toliau laikėsi pagoniškų praktikų."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Mindaugas (valdovas, XIII a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugo krikštas (krikštas): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugo krikštas (krikštas)\" parinktas kaip owner_note_path. Targetas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-170459
+
+<a id="claim-t-187502"></a>
+- t-002
   teiginys: "1251 m. pavasarį arba vasaros pradžioje Mindaugas išsirūpino krikštą sau ir Mortai bei karaliaus karūną sau."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::events"
@@ -79,8 +97,59 @@ Nenurodyta
   pagrindžia:
     - c-170460
 
+<a id="claim-t-187504"></a>
+- t-003
+  teiginys: "Lietuvos metraštis teigia, kad Mindaugas pasiuntė pasiuntinius pas popiežių ir priėmė krikštą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Mindaugas (valdovas, XIII a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugo krikštas (krikštas): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugo krikštas (krikštas)\" parinktas kaip owner_note_path. Targetas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-170459
+
+<a id="claim-t-187505"></a>
+- t-004
+  teiginys: "Lietuvos metraščio pasakojime Mindaugas nusiuntė pasiuntinius pas popiežių ir priėmė krikštą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Mindaugas (valdovas, XIII a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugo krikštas (krikštas): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugo krikštas (krikštas)\" parinktas kaip owner_note_path. Targetas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-170459
+
+<a id="claim-t-187506"></a>
+- t-005
+  teiginys: "Lietuvos metraštis teigia, kad magistras Andrius ragino Mindaugą siųsti pasiuntinius pas popiežių ir priimti krikštą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Mindaugas (valdovas, XIII a.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugo krikštas (krikštas): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugo krikštas (krikštas)\" parinktas kaip owner_note_path. Targetas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-170459
+
 <a id="claim-t-187507"></a>
-- t-002
+- t-006
   teiginys: "Mindaugo krikštas ir karalystė pagoniškos Lietuvos istorijoje liko tik epizodas."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::events"
@@ -97,7 +166,7 @@ Nenurodyta
     - c-170458
 
 <a id="claim-t-187508"></a>
-- t-003
+- t-007
   teiginys: "Mindaugas, pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::events"
@@ -116,7 +185,7 @@ Nenurodyta
     - c-170460
 
 <a id="claim-t-187509"></a>
-- t-004
+- t-008
   teiginys: "1250 m. Mindaugas apsikrikštijo ir apkrikštijo daug savo didikų."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "gap::events"
@@ -135,7 +204,7 @@ Nenurodyta
     - c-37037
 
 <a id="claim-t-200939"></a>
-- t-005
+- t-009
   teiginys: "Atkeliavęs vyskupas Rygos Albertas su kita dva siška diduomene į Lotaviją, Mintauto pilį, jį patį, jo žmoną ir 60 tėvūnų, arba senatorių, apkrikštijo metuose 1252, 7 dienoj rugpjūčio mėnesio."
   atnaujinta: "2026-07-16 14:30"
   sprendimo_priezastis: "auto"
@@ -145,32 +214,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
     - c-184289
-
-## Reikšmingi paminėjimai
-- c-003
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    O draugiškumą tau jaučiu, ir nors
-    apakinai akis auksu, kurį gavau iš tavęs, vis dėlto aš
-    tau palankus." 1 6
-    Mindaugas nusiuntė pas popiežių [pasiuntinius| ir
-    priėmė krikštą '7 , bet jo krikštas buvo apgaulingas: jis
-    slapčia nuolat aukojo aukas savo dievams — visų pir­
-    ma, namų dievui Kalveliui ir dievui-rykiuil9 , zuikių
-    dievui2 0 , ir Medynai Būdavo, jei išjos į lauką ir
-    kiškis perbėgs per lauką į priešais esantį mišką, tai jis
-    į tą mišką nejoja ir žmonėms draudžia, kad ten nė
-    žabelio nenulaužtų. Ir savo dievams tarnavo, ir degino
-    mirusiųjų kūnus, ir savo pagonybę viešai išpažino.
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: not_found
-- t-001
-    - t-003
-    - t-006
-    - t-006
 
 ## Citatos
 
@@ -192,7 +235,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-008
 
 - id: c-170458
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -217,7 +260,36 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-006
+
+- id: c-170459
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    O draugiškumą tau jaučiu, ir nors
+    apakinai akis auksu, kurį gavau iš tavęs, vis dėlto aš
+    tau palankus." 1 6
+    Mindaugas nusiuntė pas popiežių [pasiuntinius| ir
+    priėmė krikštą '7 , bet jo krikštas buvo apgaulingas: jis
+    slapčia nuolat aukojo aukas savo dievams — visų pir­
+    ma, namų dievui Kalveliui ir dievui-rykiuil9 , zuikių
+    dievui2 0 , ir Medynai Būdavo, jei išjos į lauką ir
+    kiškis perbėgs per lauką į priešais esantį mišką, tai jis
+    į tą mišką nejoja ir žmonėms draudžia, kad ten nė
+    žabelio nenulaužtų. Ir savo dievams tarnavo, ir degino
+    mirusiųjų kūnus, ir savo pagonybę viešai išpažino.
+  citata_rodoma: "O draugiškumą tau jaučiu, ir nors \napakinai akis auksu, kurį gavau iš tavęs, vis dėlto aš \ntau palankus.\" 1 6\nMindaugas nusiuntė pas popiežių [pasiuntinius| ir \npriėmė krikštą '7 , bet jo krikštas buvo apgaulingas: jis \nslapčia nuolat aukojo aukas savo dievams — visų pir­\nma, namų dievui Kalveliui ir dievui-rykiuil9 , zuikių \ndievui2 0 , ir Medynai Būdavo, jei išjos į lauką ir \nkiškis perbėgs per lauką į priešais esantį mišką, tai jis \nį tą mišką nejoja ir žmonėms draudžia, kad ten nė \nžabelio nenulaužtų. Ir savo dievams tarnavo, ir degino \nmirusiųjų kūnus, ir savo pagonybę viešai išpažino."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+    - t-003
+    - t-004
+    - t-005
 
 - id: c-170460
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -240,8 +312,8 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
-    - t-003
+    - t-002
+    - t-007
 
 - id: c-184289
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -264,4 +336,4 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-009

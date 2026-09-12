@@ -99,6 +99,45 @@ Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių taut
   pagrindžia:
     - c-179300
 
+<a id="claim-t-205645"></a>
+- t-004
+  teiginys: "Antanas Marcinovskis prašė kiekvieno prenumeratoriaus parašu patvirtinti knygos gavimą ir išsiųstą pinigų sumą bei tiksliai nurodyti vardą, pavardę ir pareigas."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-188260
+
+<a id="claim-t-205646"></a>
+- t-005
+  teiginys: "Baigiant spausdinti LTI, Antanas Marcinovskis paskelbė, kad devynis tomus užsisakę asmenys dešimtąjį gaus nemokamai, tačiau šis tomas nebuvo išleistas."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-188261
+
+<a id="claim-t-205647"></a>
+- t-006
+  teiginys: "Teodoras Narbutas Antano Marcinovskio gebėjimus ir lankstumą siejo su LTI likimu, o jo bendradarbiavimą su literatu laikė vienu įspūdingiausių leidėjo ir literato bendradarbiavimo pavyzdžių."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-188262
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių tautos istorija“.'
@@ -217,3 +256,66 @@ Antano Marcinovskio leidykloje buvo leidžiama Teodoro Narbuto „Lietuvių taut
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-188260
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 29"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 29."
+  citata_originali: |
+    Ten pat buvo nurodyta,
+    kad veikalą galima užsisakyti Vilniuje, „Kurjer Litewski“
+    redakcijoje, įsikūrusioje Evangelikų namuose, už Sv. Ig­
+    noto kareivinių (Nr. 1248), arba pas prenumeratos pla­
+    tintojus. A. Marcinovskis išreiškė norą, kad kiekvienas
+    prenumeratorius knygos gavimą ir išsiųstą pinigų sumą
+    patvirtintų savo parašu, taip pat tiksliai užrašytų savo
+    vardą, pavardę bei pareigas.
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-188261
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 29"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 29."
+  citata_originali: |
+    A. Marcinovskis išreiškė norą, kad kiekvienas
+    prenumeratorius knygos gavimą ir išsiųstą pinigų sumą
+    patvirtintų savo parašu, taip pat tiksliai užrašytų savo
+    vardą, pavardę bei pareigas.
+    Vėliau, baigiant spausdinti LTI, A. Marcinovskis, no­
+    rėdamas pritraukti dar daugiau prenumeratorių, paskel­
+    bė, kad visi, kurie buvo užsisakę devynis tomus, dešimtą
+    LTI tomą gaus nemokamai33. Deja, šio pažado leidėjas
+    netesėjo, nes dešimtas tomas taip ir nebuvo išleistas.
+  citata_rodoma: "Vėliau, baigiant spausdinti LTI, A. Marcinovskis, no­\nrėdamas pritraukti dar daugiau prenumeratorių, paskel­\nbė, kad visi, kurie buvo užsisakę devynis tomus, dešimtą \nLTI tomą gaus nemokamai33. Deja, šio pažado leidėjas \nnetesėjo, nes dešimtas tomas taip ir nebuvo išleistas."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
+- id: c-188262
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 30"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 30."
+  citata_originali: |
+    Žinant visas aplinkybes, sunkumus, su
+    kuriais teko susidurti, dar įdomesnė atrodo LTI leidėjo
+    A. Marcinovskio asmenybė. Visiškai akivaizdu, kad leidi­
+    nio likimas priklausė nuo jo sugebėjimų ir lankstumo. Tai
+    buvo vienas iš įspūdingiausių leidėjo ir literato bendra­
+    darbiavimo pavyzdžių.
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006

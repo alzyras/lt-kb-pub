@@ -28,18 +28,36 @@ Visą šį paragrafą pažodžiui perteikėme paėmę iš Henriko Lat vio, kadan
 
 Visą šį paragrafą pažodžiui perteikėme paėmę iš Henriko Lat vio, kadangi ten yra užuominų, labai artimų mūsų veikalo temai ir patvirtinančių žinias apie Zvelgaitį, su kurio vardu pirmą kartą susi dūrėme genealoginėje lentelėje.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Visą šį paragrafą pažodžiui perteikėme paėmę iš Henriko Lat vio, kadangi ten yra užuominų, labai artimų mūsų veikalo temai ir patvirtinančių žinias apie Zvelgaitį, su kurio vardu pirmą kartą susi dūrėme genealoginėje lentelėje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
+<a id="claim-t-205328"></a>
+- t-001
+  teiginys: "Visą šį paragrafą pažodžiui perteikėme paėmę iš Henriko Lat vio, kadangi ten yra užuominų, labai artimų mūsų veikalo temai ir patvirtinančių žinias apie Zvelgaitį, su kurio vardu pirmą kartą susi dūrėme genealoginėje lentelėje."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-187715
+
+## Citatos
+
+- id: c-187715
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 276"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 276."
   citata_originali: |
     Visą šį paragrafą pažodžiui perteikėme paėmę iš Henriko Lat­
     vio, kadangi ten yra užuominų, labai artimų mūsų veikalo temai ir
     patvirtinančių žinias apie Zvelgaitį, su kurio vardu pirmą kartą susi­
     dūrėme genealoginėje lentelėje.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

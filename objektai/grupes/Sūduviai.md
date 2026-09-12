@@ -433,6 +433,32 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   pagrindžia:
     - c-179229
 
+<a id="claim-t-205627"></a>
+- t-025
+  teiginys: "1243 m. Mindaugas pasiuntė Treniotą paremti sūduvių, traukusių į pagalbą prieš kryžiuočius sukilusiems pomezaniečiams, kaip nurodo Teodoras Narbutas."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
+  pagrindžia:
+    - c-188242
+
+<a id="claim-t-205628"></a>
+- t-026
+  teiginys: "Sūduviai kartu su lietuviais rėmė sukilėlius, kuriems taip pat padėjo Sviatopelkas ir Pomeranijoje gyvenę joanitų riteriai."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
+  pagrindžia:
+    - c-188243
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -978,6 +1004,47 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-024
+
+- id: c-188242
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 121"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 121."
+  citata_originali: |
+    Treniota remia, prūsus. Kryžiuočiai, tais lai­
+    kais užkariavę bemaž didesnę senosios Prūsijos dalį, bai­
+    siai engė nelaimingus tenykščius gyventojus, kuriuos iš­
+    kamavo badas, ligos ir kryžiuočių kalavijai. Tų žmonių
+    dejonės turėjo pasiekti Mindaugą, nes 1243 metais jis pa­
+    vedė Treniotai paremti sūduvius, traukusius į pagalbą
+    prūsams pomezaniečiams, sukilusiems prieš kryžiuočius1 2.
+  citata_rodoma: "Tų žmonių \ndejonės turėjo pasiekti Mindaugą, nes 1243 metais jis pa­\nvedė Treniotai paremti sūduvius, traukusius į pagalbą \nprūsams pomezaniečiams, sukilusiems prieš kryžiuočius1 2."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-025
+
+- id: c-188243
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 123"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 123."
+  citata_originali: |
+    Kryčiuočiai ne tik atmetė
+    tuos prašymus, bet skriaudas prūsų atžvilgiu dargi pa­
+    dvigubino. Dėl to įsiliepsnojo prieš juos visuotinis su­
+    kilimas. Pagalbos ranką jiems ištiesė Sviatopelkas, suki­
+    lėlius rėmė sūduviai su lietuviais, padėjo joanitų riteriai,
+    gyvenę Pomeranijoje.
+  citata_rodoma: "Pagalbos ranką jiems ištiesė Sviatopelkas, suki­\nlėlius rėmė sūduviai su lietuviais, padėjo joanitų riteriai, \ngyvenę Pomeranijoje."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-026
 
 ## Ryšiai
 - Puolė Sūduviai: [[objektai/asmenys/Martynas iš Golino]]

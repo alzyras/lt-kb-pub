@@ -2,13 +2,15 @@
 tipas: asmuo
 pavadinimas: 'Antanas Tyzenhauzas (ūkio reformų veikėjas)'
 saltiniai:
+  - '04-ldk-personalijos-idejos-refleksijos'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Istorija_103_maketas.indb'
   - 'Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.)'
 datos:
   - '1767 m.'
-  - '1800 m.'
+  - '1792 m.'
 date_start: '1767'
-date_end: '1800'
+date_end: '1792'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -272,6 +274,40 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   pagrindžia:
     - c-186409
 
+## Reikšmingi paminėjimai
+- c-009
+  santrauka: 'Augustino Midletono karjerą nuo Kauno pavieto pilies teismo raštininko iki pasiuntinybės Hagoje rezidento lėmė priklausymas dvaro grupuotei ir Antano Tyzenhauzo parama.'
+  šaltinis: 04-ldk-personalijos-idejos-refleksijos
+  citata_originali: |
+    Laidotuvių išlaidas apmokėjo
+    Stanislovas Augustas99.
+    Išvados
+    Skotų kilmės Lietuvos Didžiosios Kunigaikštystės bajoras A. Midletonas buvo
+    karaliaus Stanislovo Augusto dvaro grupuotės žmogus. Jo karjerą nuo Kauno
+    pavieto pilies teismo raštininko, Lietuvos Vyriausiojo Tribunolo deputato, Kauno
+    paseniūnio iki pasiuntinybės Hagoje sekretoriaus, vėliau - rezidento lėmė priklau­
+    symas dvaro grupuotei ir aktyvi Antano Tyzenhauzo, vėliau - Karolio Prozoro ir
+    Pranciškaus Bukotos parama.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-010
+  santrauka: 'V. I. Marevičius išleido dekoracijos aprašymą ir šį leidinį dedikavo Antanui Tyzenhauzui, prieš kelias savaites tapusiam miesto prezidentu.'
+  šaltinis: 04-ldk-personalijos-idejos-refleksijos
+  citata_originali: |
+    V. I. Marevičius priėmė Vilniuje miestiečių teises
+    ir buvo išrinktas II rajono rinkimų asesoriumi. Tais pačiais metais jis publikavo
+    savo kalbą, sakytą išrinkus II rajono pareigūnus31, o gegužės 3 d. sukūrė savo val­
+    dose Konstitucijai pagerbti skirtą dekoraciją, kurią finansavo Mykolas Kleopas
+    Oginskis. Dekoracijos aprašymą V. I. Marevičius išleido ir jį dedikavo Antanui
+    Tyzenhauzui, prieš kelias savaites tapusiam miesto prezidentu32.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-21603

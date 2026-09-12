@@ -330,6 +330,35 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   pagrindžia:
     - c-179041
 
+<a id="claim-t-205729"></a>
+- t-018
+  teiginys: "Pasak Teodoro Narbuto, 1313 m. Ragainės komtūras Verneris iš Orzelno statydino ypatingos konstrukcijos karo laivą ir su laivynu nuplaukė Nemuno aukštupiu prie Junigedos tvirtovės."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1313 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys suvienodintas su citatos veiksmažodžiu „statydino“ ir papildytas aiškiu šaltinio atribojimu. Išlaikyti metai, vieta, laivas ir laivyno žygis."
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188344
+
+<a id="claim-t-205730"></a>
+- t-019
+  teiginys: "Teodoras Narbutas Vernerį iš Orzelno įvardija kaip didįjį kryžiuočių magistrą."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188345
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: '„Prūsijos žemės kronika“ buvo įteikta didžiajam magistrui Verneriui iš Orzelno peržiūrėti ir pataisyti.'
@@ -685,6 +714,52 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-017
+
+- id: c-188344
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 359"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 359."
+  citata_originali: |
+    1313 m. Karas vandenyse. Labiausiai šį sumanymą
+    įgyvendinti tikėjosi komtūras iš Ragainės Verneris1, sta­
+    tydindamas ypatingiausios konstrukcijos karo laivą. Tai
+    buvo plokščias laivas su sutvirtintais kraštais, šaudymo
+    angomis plaukiojančios baterijos arba mažos pilaitės pa­
+    vyzdžiu. Jam buvo priskirta keletas laivų, būdingų es­
+    kortui. Su tuo laivynu jis nuplaukė Nemuno aukštupiu
+    prie Junigedos tvirtovės.
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-018
+
+- id: c-188345
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 459"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 459."
+  citata_originali: |
+    Didžiojo magistro Vernerio nužudymas. Išsyk
+    po pasibaigusio karo su Lenkija kryžiuočiams nutiko at­
+    sitikimas, kurstantis mintis apie negailestingą Dievo
+    bausmę šiam ordinui ir jo viršininkui, pagarsėjusiems
+    dažnais klastingos politikos vingiais. 1330 metų lapkričio
+    19 dieną, kai didysis magistras Verneris iš Orzelno bu­
+    vo begrįžtąs po mišparų pamaldų, laikytų jo asmeninėje
+    koplyčioje, vienas kryžiuotis Jonas iš Endorfo, įširdęs dėl
+    žiauraus elgesio su juo, pastojo prieblandoje jam, einan­
+    čiam į savo buveinę, kelią koridoriuje ir mirtinai peiliu
+    dūrė.
+  citata_rodoma: "1330 metų lapkričio \n19 dieną, kai didysis magistras Verneris iš Orzelno bu­\nvo begrįžtąs po mišparų pamaldų, laikytų jo asmeninėje \nkoplyčioje, vienas kryžiuotis Jonas iš Endorfo, įširdęs dėl \nžiauraus elgesio su juo, pastojo prieblandoje jam, einan­\nčiam į savo buveinę, kelią koridoriuje ir mirtinai peiliu \ndūrė."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-019
 
 ## Ryšiai
 - Puolė Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): [[objektai/asmenys/Jonas iš Endorfo]]

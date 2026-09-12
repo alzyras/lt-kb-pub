@@ -35,6 +35,8 @@ entity_view_role: "place"
 entity_aliases: ["Dabrelė","Dabrelė (vieta)"]
 sameAs: []
 canonical_biography: "1205 metais viena prie Gaujos susivienijusios kariaunos dalis pasuko Dabrelės pilies link."
+place_authority: true
+historical_names: []
 ---
 # Dabrelė (vieta)
 
@@ -46,8 +48,22 @@ canonical_biography: "1205 metais viena prie Gaujos susivienijusios kariaunos da
 
 1205 metais viena prie Gaujos susivienijusios kariaunos dalis pasuko Dabrelės pilies link.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
+<a id="claim-t-205484"></a>
+- t-001
+  teiginys: "1205 metais viena prie Gaujos susivienijusios kariaunos dalis pasuko Dabrelės pilies link."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-187849
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: '1205 metais viena prie Gaujos susivienijusios kariaunos dalis pasuko Dabrelės pilies link.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
@@ -62,3 +78,27 @@ canonical_biography: "1205 metais viena prie Gaujos susivienijusios kariaunos da
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+## Citatos
+
+- id: c-187849
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 280"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 280."
+  citata_originali: |
+    Po to rygiečiai, žinodami apie
+    M-ną žemgalių nesantaiką su Turaidos apylinkių gyven­
+    imais, pasikvietė juos pagalbon. Tučtuojau atskubėjo žem­
+    galių vadas Vestardas su
+    savaisiais. Prie Gaujos upės
+    (tai dabar turėtų būti vadinamoji Aa), susivieniję su
+    žemgaliais, padalijo kariauną į dvi dalis — vieną, vado­
+    vaujamą ištikimojo latvio Kaupo, ir kitą, kuri pasuko
+    Dabrelės pilies link.
+  citata_rodoma: "Prie Gaujos upės \n(tai dabar turėtų būti vadinamoji Aa), susivieniję su \nžemgaliais, padalijo kariauną į dvi dalis — vieną, vado­\nvaujamą ištikimojo latvio Kaupo, ir kitą, kuri pasuko \nDabrelės pilies link."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

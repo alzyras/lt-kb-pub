@@ -55,8 +55,26 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 
 ## Teiginiai
 
-<a id="claim-t-178105"></a>
+<a id="claim-t-178103"></a>
 - t-001
+  teiginys: "Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Elena (vyskupas, XV–XVI a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Elena (vyskupas, XV–XVI a.): mention_match, person, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Elena (vyskupas, XV–XVI a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-161891
+    - c-182725
+
+<a id="claim-t-178105"></a>
+- t-002
   teiginys: "1183 m. lietuviai per pirmąjį savarankišką žygį į Rusios žemes nusiaubė Pskovą ir pakeliui turbūt Polocką."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -78,7 +96,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182713
 
 <a id="claim-t-178106"></a>
-- t-002
+- t-003
   teiginys: "Gedimino ar Algirdo laikais Pskovas buvo Lietuvos politinėje įtakoje."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -95,7 +113,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182735
 
 <a id="claim-t-178107"></a>
-- t-003
+- t-004
   teiginys: "Pskovas ir Didysis Naugardas anksčiau už Vilnių virto tankiai gyvenamomis ir turtingomis prekybinėmis gyvenvietėmis."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -112,7 +130,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-161930
 
 <a id="claim-t-178109"></a>
-- t-004
+- t-005
   teiginys: "Vytauto pastangos Pskove pastatyti savo vietininką sukėlė naują konfliktą su Maskva."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -132,7 +150,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-161896
 
 <a id="claim-t-178110"></a>
-- t-005
+- t-006
   teiginys: "1581 m. rugpjūčio pabaigoje jungtinės pajėgos pasiekė labai gerai įtvirtintą Pskovo miestą."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -154,7 +172,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-161901
 
 <a id="claim-t-178112"></a>
-- t-006
+- t-007
   teiginys: "Vytauto rytinių valstybės pakraščių patikrinimo metu Pskovas buvo pajungtas 1426 m., o Didysis Naugardas – 1428 m."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -174,7 +192,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-161892
 
 <a id="claim-t-178113"></a>
-- t-007
+- t-008
   teiginys: "Kazimierui pasidalijus įtakos sritimis su Maskva, Pskovas ir Didysis Naugardas buvo palikti Maskvos įtakoje."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -192,7 +210,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182721
 
 <a id="claim-t-178116"></a>
-- t-008
+- t-009
   teiginys: "Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -211,7 +229,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-161928
 
 <a id="claim-t-178117"></a>
-- t-009
+- t-010
   teiginys: "1432 m. Pskovo vietininkai Joachimas ir Aleksas Jefremovičius su Pskovo bajorais sudarė sutartį su Švitrigaila."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -231,7 +249,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-161895
 
 <a id="claim-t-178118"></a>
-- t-010
+- t-011
   teiginys: "Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -249,7 +267,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182728
 
 <a id="claim-t-178120"></a>
-- t-011
+- t-012
   teiginys: "1183 m. užfiksuotas pirmasis žinomas lietuvių reidas į Pskovo žemes."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -271,7 +289,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182705
 
 <a id="claim-t-178121"></a>
-- t-012
+- t-013
   teiginys: "Steponui Batorui apgulus Pskovą, Posevinui tarpininkaujant prasidėjo derybos dėl karo pabaigos."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -289,7 +307,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182736
 
 <a id="claim-t-178123"></a>
-- t-013
+- t-014
   teiginys: "Pskovas ir Didysis Naugardas buvo anksčiau už Vilnių įkurti prekybai tinkami Rusios miestai."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -307,7 +325,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-161930
 
 <a id="claim-t-178124"></a>
-- t-014
+- t-015
   teiginys: "1409 m. vasarą Vytautas sudarė sau naudingą taiką su Pskovu, nors Salyno ir Raciąžo aktai Pskovą buvo garantavę Ordino įtakai."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -326,8 +344,26 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   pagrindžia:
     - c-161904
 
+<a id="claim-t-178125"></a>
+- t-016
+  teiginys: "Vilniaus prekyba buvo išsišakojusi su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-161910
+    - c-182704
+
 <a id="claim-t-178126"></a>
-- t-015
+- t-017
   teiginys: "1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Naugardu, Pskovu, Mozūrija, Odojevo ir Tverės kunigaikščiais."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -347,7 +383,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-161925
 
 <a id="claim-t-178128"></a>
-- t-016
+- t-018
   teiginys: "Steponas Batoras, susirūpinęs Pskovo apgultimi, iš stovyklos parašė laišką dėl taikos ir laisvės valstybėje."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -365,7 +401,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182722
 
 <a id="claim-t-178130"></a>
-- t-017
+- t-019
   teiginys: "Senyvo amžiaus Vytautas kovėsi su Pskovu ir Naugardu, keršydamas už Lietuvai šių miestų padarytas skriaudas."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -380,7 +416,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-186142
 
 <a id="claim-t-178132"></a>
-- t-018
+- t-020
   teiginys: "Lietuviams puolant Vilnių, rusų įguloje buvo du Pskovo muškietininkų pulko batalionai."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -401,7 +437,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182715
 
 <a id="claim-t-178134"></a>
-- t-019
+- t-021
   teiginys: "1427 m. sėkmingas Vytauto žygis privertė Pskovo pasiuntinius atvykti į Vilnių dėl belaisvių paleidimo."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -420,7 +456,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-161915
 
 <a id="claim-t-178135"></a>
-- t-020
+- t-022
   teiginys: "XI–XII a. Pskovo žemės minimos kaip šiaurės vakarų rusėnų koalicijos prieš Lietuvą dalis."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -438,7 +474,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182726
 
 <a id="claim-t-178136"></a>
-- t-021
+- t-023
   teiginys: "Steponas Batoras, susirūpinęs Pskovo apgultimi, iš stovyklos parašė laišką dėl taikos krašte saugojimo."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -456,7 +492,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182722
 
 <a id="claim-t-178137"></a>
-- t-022
+- t-024
   teiginys: "Pskoviečiai pasiuntė savo posadnikus Joachimą Pavlovičių ir Ivaną Sidorovičių perduoti Vytautui žadėto sidabro."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -474,7 +510,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182709
 
 <a id="claim-t-178138"></a>
-- t-023
+- t-025
   teiginys: "Pskovas buvo palankus Maskvai, kai ši privertė pasiduoti Lietuvos sąjungininkus Tverę ir Možaiską."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -490,7 +526,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-24426
 
 <a id="claim-t-178139"></a>
-- t-024
+- t-026
   teiginys: "Balandžio 23 d. Vilniuje buvusioje rusų įguloje buvo du Pskovo muškietininkų pulko batalionai."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -510,7 +546,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182715
 
 <a id="claim-t-178142"></a>
-- t-025
+- t-027
   teiginys: "Pskoviečiai pasiuntė pas Vytautą posadnikus Joachimą Pavlovičių ir Ivaną Sidorovičių su pažadėtu sidabru."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -528,7 +564,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182709
 
 <a id="claim-t-178143"></a>
-- t-026
+- t-028
   teiginys: "Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -547,7 +583,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-161931
 
 <a id="claim-t-178145"></a>
-- t-027
+- t-029
   teiginys: "Vilniuje sudaryta sutartis su Kazimiero globoje likusiu Pskovu praplėtė Pskovo prekybinius santykius su Lietuvos sostine."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -566,7 +602,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182701
 
 <a id="claim-t-178148"></a>
-- t-028
+- t-030
   teiginys: "Pskovas buvo palankus Maskvai, kai ši pajungė Tverę ir Možaiską."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -583,7 +619,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182707
 
 <a id="claim-t-178149"></a>
-- t-029
+- t-031
   teiginys: "Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi savo pačių valdžia galingi."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -600,7 +636,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-161932
 
 <a id="claim-t-178150"></a>
-- t-030
+- t-032
   teiginys: "1581 m. Pskovo puolimui buvo sutelkta apie 47 tūkst. karių, iš jų apie 23 tūkst. buvo iš LDK."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -621,7 +657,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182716
 
 <a id="claim-t-178153"></a>
-- t-031
+- t-033
   teiginys: "Vilniuje sudaryta sutartis su Pskovu praplėtė šio miesto prekybinius santykius su Lietuvos sostine."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -639,7 +675,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182701
 
 <a id="claim-t-178154"></a>
-- t-032
+- t-034
   teiginys: "1449 m. Kazimiero ir Maskvos taikoje Pskovas buvo paliktas Maskvos įtakos sričiai."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -659,7 +695,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-186141
 
 <a id="claim-t-178156"></a>
-- t-033
+- t-035
   teiginys: "Į prieš Lietuvą nukreiptą koaliciją įsijungė Naugardo ir Pskovo žemės."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -677,9 +713,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182726
 
 <a id="claim-t-199794"></a>
-- t-034
+- t-036
   teiginys: "Livonijos Ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys tiksliai nusako citatoje minimą sutartį su Pskovu."
   susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Konstancija; mentioned_place: Livonija; mentioned_place: Naugardas"
@@ -688,10 +724,51 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   pagrindžia:
     - c-182729
 
+<a id="claim-t-199805"></a>
+- t-037
+  teiginys: "Į Vytauto suvažiavimą atvyko ir Naugardo bei Pskovo kunigaikščiai."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Bizantija; mentioned_place: Kazanė; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Silezija; mentioned_place: Vokietija"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-182710
+
+<a id="claim-t-199807"></a>
+- t-038
+  teiginys: "Į Vytauto suvažiavimą atvyko ir Pskovo kunigaikščiai."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Bizantija; mentioned_place: Kazanė; mentioned_place: Maskva; mentioned_place: Silezija; mentioned_place: Vokietija"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-182710
+
+<a id="claim-t-199810"></a>
+- t-039
+  teiginys: "Į Vytauto suvažiavimą atvyko Pskovo kunigaikščiai ir kitų kraštų valdovų bei miestų atstovai."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pašalintas sąrašo triukšmas ir suformuotas pilnas sakinys."
+  susije_objektai: "mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_object: [[objektai/zodynas/ciesorius|ciesorius]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Bizantija; mentioned_place: Kazanė; mentioned_place: Maskva; mentioned_place: Silezija; mentioned_place: Vokietija"
+  ryšio_patikimumas: "susije_su -> Livonija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Livonija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskovas\" parinktas kaip owner_note_path. Targetas \"Livonija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-182730
+
 <a id="claim-t-199813"></a>
-- t-035
+- t-040
   teiginys: "Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428)."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra pilnas faktinis sakinys apie Vytauto žygius į Pskovą ir Naugardą."
   susije_objektai: "llm_object: Pskovas; llm_object: Naugardas; mentioned_place: Naugardas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]"
@@ -708,19 +785,19 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   pagrindžia:
     - c-182732
 
-<a id="claim-t-199828"></a>
-- t-036
-  teiginys: "Vilniaus prekyba buvo išsišakojusi su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva."
-  atnaujinta: "2026-08-06 20:25"
+<a id="claim-t-199823"></a>
+- t-041
+  teiginys: "Polocke pas Vytautą atvykę Pskovo pasiuntiniai užmezgė su juo taikingus santykius."
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  susije_objektai: "mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Polockas; mentioned_place: Černigovas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
-    - c-182704
+    - c-182720
 
 <a id="claim-t-199830"></a>
-- t-037
+- t-042
   teiginys: "Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -739,7 +816,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182706
 
 <a id="claim-t-199835"></a>
-- t-038
+- t-043
   teiginys: "Salyno akte ordinui tenkančių žemių sienos buvo nužymėtos iki Pskovo respublikos valdų."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -758,7 +835,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-186143
 
 <a id="claim-t-199838"></a>
-- t-039
+- t-044
   teiginys: "1411 metų pavasarį Polocke Pskovo pasiuntiniai atvyko pas Vytautą ir užmezgė taikingus santykius."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -770,7 +847,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182720
 
 <a id="claim-t-199849"></a>
-- t-040
+- t-045
   teiginys: "Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -790,7 +867,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-186144
 
 <a id="claim-t-203048"></a>
-- t-041
+- t-046
   teiginys: "Vytauto dukra Sofija, lydima kunigaikščio Jono Algimantaičio, iš Gdansko laivais per Pernu pasiekė Pskovą."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -805,7 +882,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182703
 
 <a id="claim-t-203263"></a>
-- t-042
+- t-047
   teiginys: "Pskovas ir Didysis Naugardas, įkurti anksčiau už Vilnių ir tinkami prekybai, greičiau virto tankiai gyvenamomis ir turtingesnėmis gyvenvietėmis."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -815,7 +892,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-161917
 
 <a id="claim-t-203269"></a>
-- t-043
+- t-048
   teiginys: "Michał Baliński teigimu, Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -826,7 +903,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182725
 
 <a id="claim-t-203316"></a>
-- t-044
+- t-049
   teiginys: "Zenono Ivinskio teigimu, Vytauto pastangos Pskove pastatyti savo vietininką sukėlė naują konfliktą su Maskva."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -840,7 +917,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-161896
 
 <a id="claim-t-203412"></a>
-- t-045
+- t-050
   teiginys: "Michał Baliński rašo, kad Vilniaus prekyba buvo plačiai išsišakojusi su Prūsijos ir Livonijos miestais, Pskovu, Naugardu bei Maskva ir buvo pasiekusi tolimus kraštus."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -851,7 +928,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182704
 
 <a id="claim-t-203421"></a>
-- t-046
+- t-051
   teiginys: "Michał Baliński „Vilniaus miesto istorijoje“, remdamasis Pskovo metraščiu, nurodo, kad 1432 m. Pskovo vietininkai Joachimas ir Aleksas Jefremovičius su Pskovo bajorais sudarė sutartį su Švitrigaila."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -865,7 +942,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
     - c-182723
 
 <a id="claim-t-203429"></a>
-- t-047
+- t-052
   teiginys: "Michał Baliński teigimu, 1427 m. sėkmingai pasibaigęs Vytauto žygis privertė Pskovo pasiuntinius atvykti į Vilnių prašyti paleisti belaisvius."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -875,6 +952,84 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-182714
+
+<a id="claim-t-205344"></a>
+- t-053
+  teiginys: "Vyskupas Albertas į Pskovą išsiuntė žygūnus, kuriems vadovavo abatas Teodorikas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-187754
+
+<a id="claim-t-205405"></a>
+- t-054
+  teiginys: "Gyvas paliktas buvo tik vienas rusinąs, kurį, ap ginklavę nuo galvos iki kojų ir užsodinę ant šarvuoto žir go, išleido į kariauną, skirtą pagalbai, ¡stovėjusią dar prie Pskovo, taip perduodami žinią apie tvirtovės užėmimą, taigi ir ši kariauna išsisklaidė."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-188035
+
+<a id="claim-t-205812"></a>
+- t-055
+  teiginys: "Daumantas, matydamas neišvengiamą pavojų, naktį pabėgo anapus Dauguvos į Pskovą, kurį valdė jo senelio brolis, taip pat Daumantas."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188427
+
+<a id="claim-t-205813"></a>
+- t-056
+  teiginys: "Teodoras Narbutas nurodo, kad vyresnysis brolis Daumantas nuo sosto buvo nušalintas dėl sąmokslo prieš Narimantą, emigracijos į Pskovą, ryšių su Pskovo kunigaikščiu Daumantu ir Polocko kunigaikštystės uzurpavimo."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188428
+
+<a id="claim-t-206553"></a>
+- t-057
+  teiginys: "Pskovo pasiuntiniai, atvykę pas Algirdą, teigė esą palikti savo vado ir brolių naugardiečių bei prašė Algirdo pagalbos."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189168
+
+<a id="claim-t-206554"></a>
+- t-058
+  teiginys: "Algirdas su beveik visa savo ir Pskovo kariauna persikėlė per Velikajos upę."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189169
 
 ## Reikšmingi paminėjimai
 - c-038
@@ -920,8 +1075,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
-    - t-032
+    - t-008
+    - t-034
 
 - id: c-24426
   redaktorius: "A. Šapoka"
@@ -942,8 +1097,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-023
-    - t-028
+    - t-025
+    - t-030
 
 - id: c-24428
   redaktorius: "A. Šapoka"
@@ -963,7 +1118,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-013
 
 - id: c-32365
   autorius: "Zenonas Ivinskis"
@@ -1028,7 +1183,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
+    - t-032
 
 - id: c-43782
   sudarytojas: "Karolis Zikaras"
@@ -1052,7 +1207,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-006
 
 - id: c-43783
   sudarytojas: "Karolis Zikaras"
@@ -1085,8 +1240,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
-    - t-024
+    - t-020
+    - t-026
 
 - id: c-161891
   autorius: "Michał Baliński"
@@ -1106,10 +1261,12 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   citata_rodoma: "Tačiau Aleksandro ir Elenos santuoka išplė­\ntė prekybinius Vilniaus santykius su Rusios miestais ir ska­\ntino steigti naujas užeigas pirkliams, atvykstantiems į Lie­\ntuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.\nKaralius leido miestui pastatyti Svečių namus, kuriuose rusų\npirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie\nsavo atvykimą iškart pranešti pilininkui4 3  44."
   statusas: verified
   atnaujinta: "2026-07-29 11:34"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-161892
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1128,7 +1285,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-007
 
 - id: c-161893
   autorius: "Michał Baliński"
@@ -1150,8 +1307,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
-    - t-031
+    - t-029
+    - t-033
 
 - id: c-161895
   autorius: "Michał Baliński"
@@ -1175,7 +1332,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-010
 
 - id: c-161896
   autorius: "Zenonas Ivinskis"
@@ -1193,8 +1350,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
-    - t-044
+    - t-005
+    - t-049
 
 - id: c-161898
   autorius: "Michał Baliński"
@@ -1243,7 +1400,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-006
 
 - id: c-161902
   autorius: "Michał Baliński"
@@ -1281,8 +1438,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
-    - t-025
+    - t-024
+    - t-027
 
 - id: c-161904
   autorius: "Zenonas Ivinskis"
@@ -1304,7 +1461,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-015
 
 - id: c-161905
   autorius: "Michał Baliński"
@@ -1333,8 +1490,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
-    - t-021
+    - t-018
+    - t-023
 
 - id: c-161910
   autorius: "Michał Baliński"
@@ -1365,7 +1522,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-016
+    - t-019
 
 - id: c-161915
   autorius: "Michał Baliński"
@@ -1394,7 +1552,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-021
 
 - id: c-161917
   autorius: "Michał Baliński"
@@ -1416,8 +1574,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
-    - t-042
+    - t-014
+    - t-047
 
 - id: c-161920
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1438,7 +1596,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-161923
   sudarytojas: "Karolis Zikaras"
@@ -1490,8 +1648,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
-    - t-033
+    - t-022
+    - t-035
 
 - id: c-161925
   sudarytojas: "Karolis Zikaras"
@@ -1517,7 +1675,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-017
 
 - id: c-161928
   autorius: "Zenonas Ivinskis"
@@ -1539,8 +1697,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-026
+    - t-009
+    - t-028
 
 - id: c-161930
   autorius: "Michał Baliński"
@@ -1561,8 +1719,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
-    - t-013
+    - t-004
+    - t-014
 
 - id: c-161931
   autorius: "Zenonas Ivinskis"
@@ -1584,8 +1742,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
-    - t-026
+    - t-009
+    - t-028
 
 - id: c-161932
   autorius: "Michał Baliński"
@@ -1611,7 +1769,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-029
+    - t-031
 
 - id: c-161933
   autorius: "Zenonas Ivinskis"
@@ -1633,7 +1791,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-011
 
 - id: c-161935
   sudarytojas: "Karolis Zikaras"
@@ -1658,7 +1816,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-012
 
 - id: c-161937
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1679,7 +1837,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-166474
   redaktorius: "A. Šapoka"
@@ -1701,7 +1859,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-013
 
 - id: c-182698
   redaktorius: "A. Šapoka"
@@ -1780,8 +1938,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-027
-    - t-031
+    - t-029
+    - t-033
 
 - id: c-182702
   autorius: "Zenonas Ivinskis"
@@ -1828,7 +1986,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-041
+    - t-046
 
 - id: c-182704
   autorius: "Michał Baliński"
@@ -1859,9 +2017,9 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
-    - t-036
-    - t-045
+    - t-016
+    - t-019
+    - t-050
 
 - id: c-182705
   sudarytojas: "Karolis Zikaras"
@@ -1886,7 +2044,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-012
 
 - id: c-182706
   autorius: "Michał Baliński"
@@ -1910,7 +2068,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-037
+    - t-042
 
 - id: c-182707
   redaktorius: "A. Šapoka"
@@ -1931,7 +2089,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-028
+    - t-030
 
 - id: c-182708
   autorius: "Michał Baliński"
@@ -1991,8 +2149,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
-    - t-025
+    - t-024
+    - t-027
 
 - id: c-182710
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2011,10 +2169,13 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   citata_rodoma: "Atkeliavo ir Vytauto giminaičiai, Mo­\nzūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­\nniaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­\nriaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­\nniai^2 ). Visi svečiai dosnaus ir vaišingo šeimininko buvo nuošir­\ndžiai priimti."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-037
+    - t-038
+
 - id: c-182712
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -2052,7 +2213,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002
 
 - id: c-182714
   autorius: "Michał Baliński"
@@ -2081,7 +2242,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-047
+    - t-052
 
 - id: c-182715
   sudarytojas: "Karolis Zikaras"
@@ -2114,8 +2275,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
-    - t-024
+    - t-020
+    - t-026
 
 - id: c-182716
   sudarytojas: "Karolis Zikaras"
@@ -2138,7 +2299,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
+    - t-032
 
 - id: c-182717
   autorius: "Michał Baliński"
@@ -2236,7 +2397,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-039
+    - t-041
+    - t-044
 
 - id: c-182721
   redaktorius: "A. Šapoka"
@@ -2258,7 +2420,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-008
 
 - id: c-182722
   autorius: "Michał Baliński"
@@ -2287,8 +2449,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
-    - t-021
+    - t-018
+    - t-023
 
 - id: c-182723
   autorius: "Michał Baliński"
@@ -2312,7 +2474,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-046
+    - t-051
 
 - id: c-182724
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2354,7 +2516,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-043
+    - t-001
+    - t-048
 
 - id: c-182726
   sudarytojas: "Karolis Zikaras"
@@ -2406,8 +2569,8 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
-    - t-033
+    - t-022
+    - t-035
 
 - id: c-182727
   autorius: "Zenonas Ivinskis"
@@ -2449,7 +2612,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-011
 
 - id: c-182729
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2475,7 +2638,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-034
+    - t-036
 
 - id: c-182730
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2498,10 +2661,12 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   citata_rodoma: "Buvo čia taip pat Vokietijos pasiuntiniai, Silezijos kunigaikš­\nčiai ir Hanzos atstovai. Atkeliavo ir Vytauto giminaičiai, Mo­\nzūrijos kunigaikščiai, Maskvos d. kunigaikštis, Tverio-Riaza­\nniaus, Naugardo, Pskovo kunigaikščiai, Bizantijos imperato­\nriaus, Ordos, Moldavijos, danų karaliaus ir Kazanės pasiunti­\nniai^2 )."
   statusas: verified
   atnaujinta: "2026-07-12 23:04"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-039
+
 - id: c-182731
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -2545,7 +2710,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-035
+    - t-040
 
 - id: c-182733
   autorius: "Zenonas Ivinskis"
@@ -2610,7 +2775,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
 
 - id: c-182736
   redaktorius: "A. Šapoka"
@@ -2632,7 +2797,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-013
 
 - id: c-182737
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2672,7 +2837,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
+    - t-034
 
 - id: c-186142
   autorius: "Michał Baliński"
@@ -2697,7 +2862,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-019
 
 - id: c-186143
   autorius: "Zenonas Ivinskis"
@@ -2718,7 +2883,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-038
+    - t-043
 
 - id: c-186144
   autorius: "Michał Baliński"
@@ -2739,7 +2904,120 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-040
+    - t-045
+
+- id: c-187754
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 278"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 278."
+  citata_originali: |
+    Sis laisvojo miesto valdovas ir Naugardo respublikos są­
+    jungininkas galėjo atnaujinti savo paties ir savo sąjun­
+    gininkų teises į Latvijos valdžią. Tai mes anksčiau
+    (§ 650) esame minėję. Tad vyskupas išsiuntė į Pskovą
+    žygūnus, kuriems vadovavo žinomas iš ankstesnių pasa­
+    kojimų abatas Teodorikas.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-053
+
+- id: c-188035
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 360"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 360."
+  citata_originali: |
+    Visi buvo išžudyti, išskyrus nedidelį skaičių mer­
+    ginų ir vaikų. Per du šimtu rusinu krito negyvi kartu su
+    kunigaikščiu Vosylium1, galop pilis ir miestas buvo sude­
+    ginti. Gyvas paliktas buvo tik vienas rusinąs, kurį, ap­
+    ginklavę nuo galvos iki kojų ir užsodinę ant šarvuoto žir­
+    go, išleido į kariauną, skirtą pagalbai, ¡stovėjusią dar prie
+    Pskovo, taip perduodami žinią apie tvirtovės užėmimą,
+    taigi ir ši kariauna išsisklaidė.
+  citata_rodoma: "Gyvas paliktas buvo tik vienas rusinąs, kurį, ap­\nginklavę nuo galvos iki kojų ir užsodinę ant šarvuoto žir­\ngo, išleido į kariauną, skirtą pagalbai, ¡stovėjusią dar prie \nPskovo, taip perduodami žinią apie tvirtovės užėmimą, \ntaigi ir ši kariauna išsisklaidė."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-054
+
+- id: c-188427
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 249"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 249."
+  citata_originali: |
+    Tačiau anas, pamilęs brolienę, sulaikė ją ir
+    privertė gyventi su juo. Vyras įpykęs išžygiavo su ka­
+    riauna ir apgulė Utenos pilį. Daumantas, matydamas ne­
+    išvengiamą pavojų, liepė pilies gynėjams stipriai prie­
+    šintis, o pats naktį, nusileidęs nuo mūro sienos, pabėgo
+    anapus Dauguvos į Pskovą, kurį tuo metu valdė brolis
+    jo senelio, taip pat Daumantas.
+  citata_rodoma: "Daumantas, matydamas ne­\nišvengiamą pavojų, liepė pilies gynėjams stipriai prie­\nšintis, o pats naktį, nusileidęs nuo mūro sienos, pabėgo \nanapus Dauguvos į Pskovą, kurį tuo metu valdė brolis \njo senelio, taip pat Daumantas."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-055
+
+- id: c-188428
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 252"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 252."
+  citata_originali: |
+    Mat vyres­
+    nysis brolis Daumantas, nors turėjęs sosto paveldėjimo
+    pirmenybę, buvo nuo jo nušalintas kaip dalyvavęs są­
+    moksle prieš Narimantą, dėl emigracijos į Pskovą, ryšių
+    su Daumantu, tenykščiu kunigaikščiu, nusistačiusiu prieš
+    tėvynę, ir galop dėl Polocko kunigaikštystės uzurpacijos.
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-056
+
+- id: c-189168
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 71"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 71."
+  citata_originali: |
+    Pskovo pasiuntiniai, stoję prieš Algirdą, pasakė: „Val­
+    dove, esame savo vado ir brolių naugardiečių apleisti, tu gelbėk
+    mus!“
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-057
+
+- id: c-189169
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 72"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 72."
+  citata_originali: |
+    Tuo m etu kunigaikštis Algirdas su
+    beveik visomis savo ir Pskovo kariaunos pajėgomis persikėlė
+    per Velikajos upę
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-058
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Jurijus Vytutaitis]]

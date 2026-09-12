@@ -53,6 +53,31 @@ Po to, kai Kuršo vyskupas Engelbertas ir tos bažnyčios dvasininkai su visa ti
   pagrindžia:
     - c-77384
 
+<a id="claim-t-205098"></a>
+- t-002
+  teiginys: "Engelbertas buvo neseniai įšventintas Kuršo vyskupas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187921
+
+<a id="claim-t-205270"></a>
+- t-003
+  teiginys: "Pa sklido verksmai, dejonės, aimanos, vėliau — įtūžis, kerš tas, kurio nekalta auka tapo vyskupas Engelbertas su daugeliu kunigų."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187776
+
 ## Citatos
 
 - id: c-77384
@@ -78,3 +103,48 @@ Po to, kai Kuršo vyskupas Engelbertas ir tos bažnyčios dvasininkai su visa ti
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-187776
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 366"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 366."
+  citata_originali: |
+    Tad Livonijos kryžiuočiai 1242 metais sugalvojo
+    patiems žymiausiems Zemgalos žemvaldžiams surengti
+    puotą, į kurią juos sukvietę visus visutėlaicius išpjovė.
+    Tai tenykščiams žmonėms padarė baisiausią įspūdį. Pa­
+    sklido verksmai, dejonės, aimanos, vėliau — įtūžis, kerš­
+    tas, kurio nekalta auka tapo vyskupas Engelbertas su
+    daugeliu kunigų.
+  citata_rodoma: "Pa­\nsklido verksmai, dejonės, aimanos, vėliau — įtūžis, kerš­\ntas, kurio nekalta auka tapo vyskupas Engelbertas su \ndaugeliu kunigų."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-187921
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 366"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 366."
+  citata_originali: |
+    Tačiau tie puikūs pradai netrukus buvo su­
+    naikinti kryžiuočių, jau priėmusių savo draugėn kalavi­
+    juočių riterius. Juos neapsakomai prislėgė ši legato Vil­
+    helmo nustatyta tvarka, pastojusi kelią naujiems grobi­
+    mams, kadangi, susivieniję su Livonijos riteriais, norėjo
+    visą kraštą, plytintį tarp Rygos ir Karaliaučiaus, turėti
+    savo valdžioje ir sukurti didžiulę valstybę, besidriekiančią
+    nuo Vyslos iki Botnijos įlankos. Trukdė jiems neseniai
+    įšventintas Kuršo vyskupas Engelbertas, kuris pasižy­
+    mėjo įvesdamas ordinui ne itin tinkamą tvarką.
+  citata_rodoma: "Trukdė jiems neseniai \nįšventintas Kuršo vyskupas Engelbertas, kuris pasižy­\nmėjo įvesdamas ordinui ne itin tinkamą tvarką."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

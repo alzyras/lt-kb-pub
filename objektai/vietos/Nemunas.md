@@ -1794,6 +1794,110 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   pagrindžia:
     - c-184995
 
+<a id="claim-t-205218"></a>
+- t-104
+  teiginys: "Jie nors ir privertė gelonus ir budinus paskutimaine amžiuje prieš Kristaus gimimą persikelti į VakaMi',, nors su šiuo įsikūrimu Nemuno žemupyje ir prie Bai li I o s jūros 'jie patyrė naujus, iš užjūrio kraštų atvykusių n puolikų smūgius, tačiau spartus jų."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-188109
+
+<a id="claim-t-205356"></a>
+- t-105
+  teiginys: "Apie jį pasakodami, jie mena kaž kokį atvykusį iš svetur upeivį, kuris, plaukdamas aukš tyn Nemuno ir Dubysos upėmis, aplankė Lietuvos kraštus."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-187672
+
+<a id="claim-t-205451"></a>
+- t-106
+  teiginys: "Galbūt šių variagų gi minė bus viešpatavusi kur nors Nemuno žemupyje ir ga vusi vardą nuo kurios nors pilies, buvusios prie šios upės, o vienas iš jų lietuvių tautoje pagarsėjo ar tai savo kelionėmis, ar tai stambiais grobiais, laimėtais kovojant minėtų upių."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-187844
+
+<a id="claim-t-205803"></a>
+- t-107
+  teiginys: "Kryžiuočiai, laikydamiesi Nemuno, priėjo Junigedos tvirtovę, tačiau tvirtovei nieko negalėjo padaryti ir sudegino tik jos priemiesčius."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188418
+
+<a id="claim-t-206533"></a>
+- t-108
+  teiginys: "Teodoras Narbutas aprašo, kad kryžiuočiai dėl maisto stygiaus plėšikavo atokiose vietovėse tarp Nemuno ir tuometinio Raseinių pavieto."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189148
+
+<a id="claim-t-206534"></a>
+- t-109
+  teiginys: "Teodoras Narbutas aprašo, kad kryžiuočių kariauna žygiavo Gardino link ir pasirodė prie Nemuno priešais miestą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189149
+
+<a id="claim-t-206535"></a>
+- t-110
+  teiginys: "Teodoras Narbutas aprašo, kad per Nemuną prie Dirsūniškio persikėlusi kariuomenė sunaikino Pavandenio valsčių, sudegino Semeliškių valsčių ir patraukė Vilniaus link."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189150
+
+<a id="claim-t-206536"></a>
+- t-111
+  teiginys: "Teodoras Narbutas aprašo, kad Kauno įgula narsiai gynėsi ir padarė kryžiuočiams nemažų nuostolių, todėl didysis magistras gėdingai pasitraukė į kairįjį Nemuno krantą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189151
+
 ## Reikšmingi paminėjimai
 - c-010
   santrauka: 'Kronikininkas Prūsijos žemių tarp Vyslos ir Nemuno nukariavimą aprašė remdamasis geografiniu principu.'
@@ -4227,6 +4331,173 @@ Nemunas čia yra upė, turėjusi strateginę, politinę ir ūkinę reikšmę Lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-103
+
+- id: c-187672
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 69"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 69."
+  citata_originali: |
+    Apie Nemuną. Lietuvių paprastų žmonių padavimai ir
+    legendos pasakoja apie galiūną Nemuną (šio veikalo I
+    tomo str. „Nemunas“). Apie jį pasakodami, jie mena kaž­
+    kokį atvykusį iš svetur upeivį, kuris, plaukdamas aukš­
+    tyn Nemuno ir Dubysos upėmis, aplankė Lietuvos kraštus.
+  citata_rodoma: "Apie jį pasakodami, jie mena kaž­\nkokį atvykusį iš svetur upeivį, kuris, plaukdamas aukš­\ntyn Nemuno ir Dubysos upėmis, aplankė Lietuvos kraštus."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-105
+
+- id: c-187844
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 70"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 70."
+  citata_originali: |
+    Is­
+    torikai jį vadina Nomenoė, o senosios kronikos jį pristato
+    kaip Nemenoa arba Nemonoa. Šiaip ar taip, pianašu į
+    tiesą, kad šis Bretanės karalius buvo kilęs iš Rusios va­
+    riagų ir turėjo būti palikuonis to paties galiūno, apie
+    kurį pasakoja lietuvių legendos. Galbūt šių variagų gi­
+    minė bus viešpatavusi kur nors Nemuno žemupyje ir ga­
+    vusi vardą nuo kurios nors pilies, buvusios prie šios
+    upės, o vienas iš jų lietuvių tautoje pagarsėjo ar tai savo
+    kelionėmis, ar tai stambiais grobiais, laimėtais kovojant
+    minėtų upių pakrantėse.
+  citata_rodoma: "Galbūt šių variagų gi­\nminė bus viešpatavusi kur nors Nemuno žemupyje ir ga­\nvusi vardą nuo kurios nors pilies, buvusios prie šios \nupės, o vienas iš jų lietuvių tautoje pagarsėjo ar tai savo \nkelionėmis, ar tai stambiais grobiais, laimėtais kovojant \nminėtų upių pakrantėse."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-106
+
+- id: c-188109
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 30"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 30."
+  citata_originali: |
+    11 - i r I imas, arba, kitaip tariant, susiliejimas, įpareigojo vi-
+    noinenę kaip begalint sparčiau lavėti, jeigu tik tam buvo
+    11.11111 k i o s išorinės aplinkybės ir netrukdė santykiai su kai­
+    nu nais. Jie nors ir privertė gelonus ir budinus paskuti-
+    maine amžiuje prieš Kristaus gimimą persikelti į Vaka-
+    Mi',, nors su šiuo įsikūrimu Nemuno žemupyje ir prie Bai­
+    li I o s jūros 'jie patyrė naujus, iš užjūrio kraštų atvykusių
+    n puolikų smūgius, tačiau spartus jų kilimas ir išsiskai-
+    dvmas į atskiras padermes, įsikūrusias įvairiuose Lietu-
+    \ ūš žemės kraštuose, rodo buvus neblogą tvarką ir tam
+    Ii Imą pažangos lygį. Taigi kitokios nuomonės mums vi­
+    ii,kai nepriimtinos.
+  citata_rodoma: "Jie nors ir privertė gelonus ir budinus paskuti- \nmaine amžiuje prieš Kristaus gimimą persikelti į Vaka- \nMi',, nors su šiuo įsikūrimu Nemuno žemupyje ir prie Bai­\nli I o s jūros 'jie patyrė naujus, iš užjūrio kraštų atvykusių \nn puolikų smūgius, tačiau spartus jų kilimas ir išsiskai- \ndvmas į atskiras padermes, įsikūrusias įvairiuose Lietu- \n\\ ūš žemės kraštuose, rodo buvus neblogą tvarką ir tam \nIi Imą pažangos lygį."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-104
+
+- id: c-188418
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 320"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 320."
+  citata_originali: |
+    Ta sėkmė juolab turėjo būti patikima,
+    kadangi didysis kunigaikštis kitoje savo valstybės pusėje
+    buvo priremtas. Mat tuo pačiu metu, kai Karaliaučiaus
+    komtūras puolė Lietuvą iš Livonijos pusės, didysis ma­
+    gistras nusiuntė Brandenburgo komtūrą, vadintą Kunonu
+    Hacegenšteinu, su gausiu karių daliniu į Lietuvą. Tačiau
+    kryžiuočiai nedrįso skverbtis toli į krašto gilumą, betgi
+    laikydamiesi Nemuno, priėjo Junigedos tvirtovę, kuriai
+    nieko negalėjo padaryti, tiktai priemiesčius sudegino.
+  citata_rodoma: "Tačiau \nkryžiuočiai nedrįso skverbtis toli į krašto gilumą, betgi \nlaikydamiesi Nemuno, priėjo Junigedos tvirtovę, kuriai \nnieko negalėjo padaryti, tiktai priemiesčius sudegino."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-107
+
+- id: c-189148
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 76"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 76."
+  citata_originali: |
+    maisto trūkumas vertė daug laiko gaišti
+    plėšikaujant atokiose vietovėse, tarp Nemuno ir tuometinio
+    Raseinių pavieto.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108
+
+- id: c-189149
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 156"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 156."
+  citata_originali: |
+    Kariauna žygiavo tiesiai Gardino
+    link, kur vadovavo kunigaikštis Patirgas. Greitai kryžiuočių ka­
+    riai pasirodė prie Nemuno, priešais miestą
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-109
+
+- id: c-189150
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 215"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 215."
+  citata_originali: |
+    Šis patraukė Užgirio kraštu, prie
+    Dirsūniškio persikėlė per Nemuną ir išplėtė antpuolius net iki
+    Trakų apylinkių, kur buvo valsčius, vadinamas Pavandeniu, gy­
+    venamas Prūsijos sūduvių, kurį sunaikino; taip pat sudegino
+    didžiulį Semeliškių valsčių ir patraukė Vilniaus link; apėjo iš
+    arti miestą, į kurio sienas atsimušė.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-110
+
+- id: c-189151
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 216-217"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 216-217."
+  citata_originali: |
+    Astuonias dienas žygiavę, ūmai pasuko
+    Nevėžio upės link, persikėlė per ją ir vasario 10 dieną sustojo
+    prie Kauno mūrų. Įgula narsiai gynėsi, stipriais išpuoliais kry­
+    žiuočiams pridarė nemažų nuostolių, todėl didysis magistras
+    turėjo gėdingai trauktis kairiajan Nemuno krantan, o įgula pri­
+    1 Karamzin. - T. V. - S. 68. - Nota nr. 137; s. 208. - Nota nr. 1.
+    2 Ten pat.
+    218
+
+    vertė jį skubiai grįžti į savo
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-111
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]

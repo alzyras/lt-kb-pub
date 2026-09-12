@@ -59,6 +59,19 @@ md]] - vietasaltinyje: offset: 25578-25910; match: exact - santrauka: Žemaiči�
   pagrindžia:
     - c-171934
 
+<a id="claim-t-205287"></a>
+- t-002
+  teiginys: "Čia reikėtų prisiminti, ką Mykolas Lietuvis pagal čio nykštes legendas skelbė, kad atvykėliai su Palemonu pir miausia pastatė Platelių tvirtovę iškart, kai tik išsilaipino (Quaedam ad Litvaniam pertinentia, ex fragmentis Michelonis Lituani."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-188039
+
 ## Citatos
 
 - id: c-171934
@@ -84,3 +97,24 @@ md]] - vietasaltinyje: offset: 25578-25910; match: exact - santrauka: Žemaiči�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188039
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 463"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 463."
+  citata_originali: |
+    Čia reikėtų prisiminti, ką Mykolas Lietuvis pagal čio­
+    nykštes legendas skelbė, kad atvykėliai su Palemonu pir­
+    miausia pastatė Platelių tvirtovę iškart, kai tik išsilaipino
+    (Quaedam ad Litvaniam pertinentia, ex fragmentis Mi-
+    chelonis Lituani. Respublica sive status Regni Poloniae
+    Litvaniae. Lugd. Bat. 1577. — P. 266). Plotele (Plate­
+    liai) — lietuviškai yra mažybinis žodžio Plot pavadi­
+    nimas.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

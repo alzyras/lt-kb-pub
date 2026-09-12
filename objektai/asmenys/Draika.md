@@ -133,6 +133,19 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
   pagrindžia:
     - c-60741
 
+<a id="claim-t-205668"></a>
+- t-007
+  teiginys: "Teodoras Narbutas pasakoja, kad Draika atvėrė vartus kryžiuočiams, o po pilies sunaikinimo Ragainėje su visa šeima priėmė krikštą."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-188283
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.'
@@ -260,6 +273,25 @@ Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrik�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
+
+- id: c-188283
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 330"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 330."
+  citata_originali: |
+    Draika netikėtai atvėrė vartus,
+    kryžiuočiai įėjo, visus iki paskutinio išpjovė, išskyrus vie­
+    ną aukštos kilmės jaunuolį, Sudargo sūnų, tačiau sunkiai
+    jj sužeidė. Išlikę vaikai, taip pat keletas merginų buvo
+    išvesti į nelaisvę, pilis ir visi pastatai su žeme sulyginti.
+    Draika su visa šeima Ragainėje priėmė krikštą1.
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Pinas]]

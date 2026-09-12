@@ -1251,6 +1251,58 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   pagrindžia:
     - c-186348
 
+<a id="claim-t-205248"></a>
+- t-072
+  teiginys: "Šaltinio pastaboje Heningas skundžiasi Krokuvos karališkojo archyvo ir bibliotekos aplaidumu."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-187989
+
+<a id="claim-t-205785"></a>
+- t-073
+  teiginys: "Aldonos Gediminaitės žavesys, kaip pasakoja Teodoras Narbutas, buvo žinomas Krokuvoje, todėl pasiuntinybė atvyko į Vilnių prašyti Aldonos rankos karalaičiui."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188400
+
+<a id="claim-t-206509"></a>
+- t-074
+  teiginys: "Jogaila su prašmatnia rūmų dvariškių palyda iš Sandomiro atvyko prie Krokuvos."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189124
+
+<a id="claim-t-206510"></a>
+- t-075
+  teiginys: "Teodoro Narbuto pasakojime vasario 15 d. Šv. Stanislovo katedroje Krokuvoje Jogaila, Skirgaila, Švitrigaila ir Vytautas priėmė šventąjį krikštą pagal lotynų apeigas."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189125
+
 ## Reikšmingi paminėjimai
 - c-044
   santrauka: 'Susirgęs karalius buvo nuvežtas į Krokuvą, o Šich Achmetas su garbinga palyda sugrįžo į Lietuvą.'
@@ -2549,6 +2601,88 @@ Krokuva šiame šaltinyje minima kaip Lenkijos valdžios centras, į kurį po pr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-071
+
+- id: c-187989
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 420"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 420."
+  citata_originali: |
+    Deja, per nedovanotiną Krokuvos karališkojo archyvo ir biblio­
+    tekos aplaidumą prarasta. Tuo skundėsi Karaliaučiaus bibliotekos dar­
+    buotojas, Luko Davido kronikos leidėjas Heningas (Lukas Davidas.—
+    T. II. — P. 3.— Pastaba): „Prieš 20 metų (1792), — nurodo jis, —
+    Lenkijos žydai gausybę pergamentų, kurių atsiradimas, panašu, sieti­
+    nas su Krokuva, pardavė vietiniams knygų paauksinimo ir įrišimo
+    verslovininkams, iš kurių, atsitiktinai sužinojęs, ir pats kai ką įsigijau“.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-072
+
+- id: c-188400
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 441"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 441."
+  citata_originali: |
+    Aldonos Gediminaitės
+    žavesys Krokuvoje buvo žinomas. Išsiųsta pasiuntinybė
+    atvyko į Vilnių ir pageidavo karalaičiui gražiosios Aldo­
+    nos rankos.
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-073
+
+- id: c-189124
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 336"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 336."
+  citata_originali: |
+    Jogaila, susiruošęs, su prašmatnia rūmų dvariškių palyda,
+    iš Sandomiro atvyko prie Krokuvos.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-074
+
+- id: c-189125
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 337-338"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 337-338."
+  citata_originali: |
+    Atvažiuota į Krokuvą nedelsiant, vasario 15 dieną***4, kaip
+    įprasta iškilmingai, nuvyko tiesiai į Šv. Stanislovo katedrą, kur
+    buvo atliktas Jogailos, Skirgailos, Švitrigailos, Vytauto, prisiė­
+    musių vardus5: Vladislovo, Kazimiero, Boleslovo, Aleksandro,
+    1 Kotzebue. - B. II. - S. 253. Šis autorius pats savo tyrinėjimais yra tai
+    pastebėjęs.
+    2 Rankraštinė Lietuvos (Bychovco) kronika (p. 55) bus mūsų vedlė, kaip
+    seniausias šaltinis ir tiesiausiu keliu vedanti į tiesą.
+    3 Kotzebue. - 1. c.
+    4 Anksčiau nurodytas rankraštis „Memoria etc.“: ln Crastino S. Valentu.
+    Martynis (Šv. kankinio Valentino išvakarėse)****.
+    5 Nežinome Skirgailos ir Švitrigailos rusiškų vardų, Jogaila turėjo Jokū­
+    bo (žr. šio tomo priešpaskutinį priedą). O dėl krikšto pasakytina, kad jis
+    nebuvo toks kaip iš pagonybės pereinant, bet kaip iš Rytų apeigų tikėjimo,
+    339
+
+    šv. krikštas pagal lotynų apeigas
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-075
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Aleksandras Balinskis]], [[objektai/asmenys/Jadvyga Jogailienė]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Maskvos pasiuntiniai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

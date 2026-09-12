@@ -140,6 +140,56 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   pagrindžia:
     - c-184391
 
+<a id="claim-t-205278"></a>
+- t-007
+  teiginys: "Sušaukė ku nigaikštis iš visų jo valioje buvusių kraštų pulkus, ne mažesnius kaimyninių kunigaikščių ir sąjungininkų bū rius iš Rusios bei Lietuvos, taip pat pasitelkė Užnerio kunigaikštį; tuo metu juo buvo Utenis, Livonijoje užmuš tojo Zvelgaičio sūnus."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187958
+
+<a id="claim-t-205283"></a>
+- t-008
+  teiginys: "Pasak Tado Volianskio, Utenis valdė, kai kryžiuočiai pirmą kartą užpuolė prūsus."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187721
+
+<a id="claim-t-205724"></a>
+- t-009
+  teiginys: "Utenis buvo Zvelgaičio sūnus ir palaikė plačius ryšius su kaimyninėmis šalimis."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188339
+
+<a id="claim-t-205725"></a>
+- t-010
+  teiginys: "Pasak Teodoro Narbuto, Utenis siuntė paramą Polocko kunigaikščiui Vosyliui, kai šis surengė žygį į Ikskulą ir Holmą."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188340
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas aiškino, kad Henenbergerio užrašas žymi Lietuvos kunigaikščio Utenio, padėjusio prūsams kovoti su kryžiuočiais ir praminto Zupanu, vėliavą.'
@@ -352,6 +402,95 @@ Pasak Narbuto, tinkamai perskaičius Henenbergerio užrašą paaiškėjo, kad v�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
+
+- id: c-187721
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 425"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 425."
+  citata_originali: |
+    Žmogumi, prussoz. Zupan Utenes.
+    Vadinasi, tai ne Vaidevučio, bet Lietuvos kunigaikščio
+    Utenio vėliava ■— jis valdė būtent tuomet, kai kryžiuo­
+    čiai pirmą kartą užpuolė prūsus (tai pono Volianskio žo­
+    džiai).
+  citata_rodoma: "Vadinasi, tai ne Vaidevučio, bet Lietuvos kunigaikščio \nUtenio vėliava ■— jis valdė būtent tuomet, kai kryžiuo­\nčiai pirmą kartą užpuolė prūsus (tai pono Volianskio žo­\ndžiai)."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
+- id: c-187958
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 334"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 334."
+  citata_originali: |
+    Juk,
+    vyskupui su riteriais išvykus į Vokietiją, nebuvo jų kam
+    ginti, mat Rygoje turėjo būti belikę tik pernelyg silpnos
+    ir negausios vokiečių pajėgo-s. Kunigaikštis lengvai pati­
+    kėjo tomis žiniomis, juoba kad ir pats norėjo sulaukti tin­
+    kamo meto, kada turėtų gerą progą užimti vokiečių val­
+    das, kurios anksčiau jo pirmtakų visai neviliojo, kol vo­
+    kiečių
+    verslai
+    neatskleidė jų reikšmės. Sušaukė ku­
+    nigaikštis iš visų jo valioje buvusių kraštų pulkus, ne
+    mažesnius kaimyninių kunigaikščių ir sąjungininkų bū­
+    rius iš Rusios bei Lietuvos, taip pat pasitelkė Užnerio
+    kunigaikštį; tuo metu juo buvo Utenis, Livonijoje užmuš­
+    tojo Zvelgaičio sūnus.
+  citata_rodoma: "Sušaukė ku­\nnigaikštis iš visų jo valioje buvusių kraštų pulkus, ne \nmažesnius kaimyninių kunigaikščių ir sąjungininkų bū­\nrius iš Rusios bei Lietuvos, taip pat pasitelkė Užnerio \nkunigaikštį; tuo metu juo buvo Utenis, Livonijoje užmuš­\ntojo Zvelgaičio sūnus."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
+- id: c-188339
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 52"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 52."
+  citata_originali: |
+    Zvelgaitis, kaip kad liudija II genealoginė lentelė
+    (III tomas), turėjo sūnų, neseniai mūsų minėtą Utenį. Jis
+    palaikė plačius ryšius su kaimyninėmis šalimis; Žemga­
+    lai ir vokiečiams, atsilygindamas už tėvo nužudymą, lei­
+    do pajusti savo krašto galią. Juk kitąmet, tai yra 1205-
+    aisiais, lietuviai kaip tik turėjo Žemgalą užkariauti, kai
+    žiemodami buvo anapus dešiniojo Dauguvos kranto nusi­
+    gavę, bet kalavijuočių riterių magistras Venas puolimą
+    vargais negalais atrėmė (§ 744).
+  citata_rodoma: "Zvelgaitis, kaip kad liudija II genealoginė lentelė \n(III tomas), turėjo sūnų, neseniai mūsų minėtą Utenį. Jis \npalaikė plačius ryšius su kaimyninėmis šalimis; Žemga­\nlai ir vokiečiams, atsilygindamas už tėvo nužudymą, lei­\ndo pajusti savo krašto galią."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+
+- id: c-188340
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 52"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 52."
+  citata_originali: |
+    Tais pačiais metais, va­
+    sarą, kunigaikštis Utenis siuntė paramą Polocko kuni­
+    gaikščiui Vosyliui, kai šis, užsibrėžęs tikslą sutriuškinti
+    visas vokiečių karines pajėgas Livonijoje, betgi patyręs
+    nesėkmę, surengė žygį į Ikskulą ir Holmą (§ 646).
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
 
 ## Ryšiai
 - Utenis rėmė [[objektai/grupes/Prūsai]]

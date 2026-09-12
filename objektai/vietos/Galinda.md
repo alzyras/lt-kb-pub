@@ -173,6 +173,19 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   pagrindžia:
     - c-179378
 
+<a id="claim-t-205366"></a>
+- t-008
+  teiginys: "Pasak teksto, Galinda kartu su Jotvingija jau priklausė Rusios Didžiajai Kunigaikštystei."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-187737
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Narbutas pasakojo, kad supykdyti kaimynai nuniokojo Galindą taip, jog kraštas daugeliui metų liko beveik negyvenamas.'
@@ -375,6 +388,29 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   patikimumo_saltinis: ai
   pagrindzia:
     - t-007
+
+- id: c-187737
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 183"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 183."
+  citata_originali: |
+    Rusios žygis j Prūsiją. Bemaž tuo laiku, kai lietuviai
+    buvoi labiausiai užimti karais su krivičių rusinais kovo­
+    dami tarp Neries ir Dauguvos esančiose žemėse, apie
+    1058—1060 metus, Rusios didysis kunigaikštis Iziaslavas
+    surengė žygį į Prūsijos provinciją Galindą, kuri tada
+    buvo netoliese nuo senųjų slavų žemių, plytinčių tarp Ne­
+    muno vidupio ir Narvos upės, aūba tiesės, jungiančios Gar­
+    diną su Ostrolenka, plote. Tos žemės kartu su Jotvingija
+    jau priklausė Rusios Didžiajai Kunigaikštystei.
+  citata_rodoma: "Rusios didysis kunigaikštis Iziaslavas \nsurengė žygį į Prūsijos provinciją Galindą, kuri tada \nbuvo netoliese nuo senųjų slavų žemių, plytinčių tarp Ne­\nmuno vidupio ir Narvos upės, aūba tiesės, jungiančios Gar­\ndiną su Ostrolenka, plote. Tos žemės kartu su Jotvingija \njau priklausė Rusios Didžiajai Kunigaikštystei."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
 
 ## Ryšiai
 - Puolė Galindą: [[objektai/grupes/Sūduviai]]

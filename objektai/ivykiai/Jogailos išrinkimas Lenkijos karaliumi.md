@@ -71,6 +71,32 @@ Nenurodyta
   pagrindžia:
     - c-28719
 
+<a id="claim-t-206212"></a>
+- t-002
+  teiginys: "Pasak Teodoro Narbuto, Krokuvos tautos suvažiavime Jogaila buvo pristatytas kaip tautai pageidaujamas valdovas, pabrėžiant jo pergalę prieš kryžiuočius, Kauno užėmimą ir gerą širdį."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188827
+
+<a id="claim-t-206214"></a>
+- t-003
+  teiginys: "Pasak Teodoro Narbuto, nebelikus kliūčių, į Lietuvą turėjo būti pakartotinai siunčiami pasiuntiniai su karalienės pasižadėjimų patvirtinimais ir kvietimu didžiajam kunigaikščiui skubiai atvykti į Krokuvą būti išrinktam karaliumi."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188829
+
 ## Citatos
 
 - id: c-28719
@@ -91,3 +117,40 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188827
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 326"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 326."
+  citata_originali: |
+    Krokuvoje surengtas tautos suvažiavimas, kuriame buvo išdėsty­
+    tas reikalas apie Jogailą: valdovas didžiulės valstybės, sutriuški­
+    nęs kryžiuočius, užėmęs galingiausią tvirtovę prie Nemuno -
+    Kauną, dosnus, geros širdies - kas galėtų būti labiau pageidauja­
+    mas tautos, kuri po tokios skaudžios netekties, kaip Kazimiero
+    Didžiojo mirtis, tapo našlaite.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-188829
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 329"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 329."
+  citata_originali: |
+    Tad jau
+    nebeliko jokių kliūčių pakartotinai siųsti pasiuntinius į Lietu­
+    vą su karalienės pasižadėjimų patvirtinimais ir kvietimu di­
+    džiajam kunigaikščiui skubiai atvykti į Krokuvą kaip renkamam
+    karaliumi.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

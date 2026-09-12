@@ -5,11 +5,14 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvių tautos istorija, t. 3'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 datos:
   - '1219 m.'
@@ -590,8 +593,47 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   pagrindžia:
     - c-179908
 
-<a id="claim-t-198166"></a>
+<a id="claim-t-198161"></a>
 - t-030
+  teiginys: "Lietuvos metraštis vaizduoja Mindaugą išsigandusį Tautvilos rėmėjų ir slapta pasiuntusį dovanas Rygos magistrui Andriui."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Subjektas ir adresatas įvardyti aiškiai, o Mindaugo baimė palikta kaip metraščio vaizdavimas. Nepridėta nieko daugiau nei citatoje minimos dovanos ir pasiuntiniai."
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-179911
+
+<a id="claim-t-198163"></a>
+- t-031
+  teiginys: "Balińskis Gedimino laiškuose išskyrė užuominą apie karaliaus Mindaugo grįžimą prie pagonybės dėl Kryžiuočių ordino kaltės."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=24"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mindaugas (valdovas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-179915
+
+<a id="claim-t-198166"></a>
+- t-032
   teiginys: "Maukoldas citatoje nurodomas kaip Mindaugo, dar vadinto Mendogu, tėvas."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -610,7 +652,7 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
     - c-179899
 
 <a id="claim-t-198168"></a>
-- t-031
+- t-033
   teiginys: "Balińskis teigė, kad Gedimino veiklumo dėka buvo įgyvendintos Mindaugo pastangos."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -620,8 +662,31 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   pagrindžia:
     - c-179887
 
+<a id="claim-t-198172"></a>
+- t-034
+  teiginys: "Gedimino laiške teigta, kad karalius Mindaugas su tauta priėmė krikščionybę, bet dėl kryžiuočių smurto nuo jos atsimetė."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Claimas buvo nutrūkęs; citata palaiko užbaigtą sakinį apie Mindaugo krikštą ir atsimetimo priežastį."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Prūsija; mentioned_place: Ryga"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-179914
+
+<a id="claim-t-198191"></a>
+- t-035
+  teiginys: "Gedimino laiške teigta, kad karalius Mindaugas su visa karalyste buvo atsivertęs į Kristaus tikėjimą, bet vėliau nuo jo atkrito."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_place: Ryga"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-179897
+
 <a id="claim-t-198192"></a>
-- t-032
+- t-036
   teiginys: "Genealoginėje ištraukoje Mindaugas nurodomas kaip Lietuvos kunigaikštis 1240 m., Erdeno nužudytas 1263 m. arba 1265 m."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -635,8 +700,31 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   pagrindžia:
     - c-179888
 
+<a id="claim-t-198198"></a>
+- t-037
+  teiginys: "Narbutas Mindaugo valdymo pradžią sieja su 1240 metais ir nuo jos skiria aiškesnės Lietuvos istorijos laikotarpį."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Turinio fragmentas perrašytas į pilną sakinį apie Mindaugą. Atribucija palikta, nes tai Narbuto istoriografinė periodizacija."
+  susije_objektai: "mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; llm_object: Lietuva"
+  semantiniai_rysiai: "[[objektai/asmenys/Mindaugas|Mindaugas]] valdė Lietuva"
+  ryšio_patikimumas: "valde -> Lietuva: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Mindaugo valdymas tekste naudojamas Lietuvos istorijos periodui apibrėžti."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-179918
+
 <a id="claim-t-203034"></a>
-- t-033
+- t-038
   teiginys: "Michał Baliński teigia, kad Maukoldas buvo Mindaugo, dar vadinamo Mendogu, tėvas."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -648,7 +736,7 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
     - c-179899
 
 <a id="claim-t-203052"></a>
-- t-034
+- t-039
   teiginys: "Michał Baliński knygoje „Vilniaus miesto istorija“ rašo, kad viename Gedimino laiške popiežiui ir kardinolams teigta, esą karalius Mindaugas su visa savo tauta būtų priėmęs krikščioniškąjį tikėjimą."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -659,7 +747,7 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
     - c-179914
 
 <a id="claim-t-203053"></a>
-- t-035
+- t-040
   teiginys: "Michał Baliński rašo, kad Gediminas viename laiške teigė, esą karalius Mindaugas su visa savo tauta būtų priėmęs krikščioniškąjį tikėjimą, tačiau dėl nesuskaičiuojamų kryžiuočių išdavysčių nuo jo atsiskyrė."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -670,7 +758,7 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
     - c-179914
 
 <a id="claim-t-203118"></a>
-- t-036
+- t-041
   teiginys: "Veikale „Vilniaus miesto istorija“ Michał Baliński rašė apie mažai težinomą ir Europai visai negirdėtą Lietuvos istoriją, garsią riterių žygiais bei, jo vertinimu, išmintingiausia Mindaugo, Gedimino, Algirdo, Kęstučio, Jogailos ir Vytauto politika, ir apie pagonybės nuo kitų Europos šalių atskirtą tautą."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -682,7 +770,7 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
     - c-179907
 
 <a id="claim-t-203128"></a>
-- t-037
+- t-042
   teiginys: "Mindaugas pasikrikštijo ir 1253 m. buvo karūnuotas Lietuvos karaliumi."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -696,7 +784,7 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
     - c-105104
 
 <a id="claim-t-203249"></a>
-- t-038
+- t-043
   teiginys: "Šaltinyje „Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija“ rašoma, kad Mindaugas sugebėjo sukurti valstybę ir laikinai įeiti į Europos šalių sistemą."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -710,7 +798,7 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
     - c-179896
 
 <a id="claim-t-203262"></a>
-- t-039
+- t-044
   teiginys: "Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošaičio knygoje „Lietuvos istorija“ teigiama, kad Mindaugas sukūrė ankstyvosios Lietuvos valstybę, suteikusią galimybę išlikti lietuvių tautai."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -720,7 +808,7 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
     - c-179886
 
 <a id="claim-t-203291"></a>
-- t-040
+- t-045
   teiginys: "Knygoje „Lietuvos istorija“ Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas ir Mindaugas Tamošaitis teigia, kad Mindaugas sukūrė valstybę, suteikusią lietuvių tautai galimybę išlikti ir vėliau perimti Vakarų civilizaciją."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -731,7 +819,7 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
     - c-179886
 
 <a id="claim-t-203407"></a>
-- t-041
+- t-046
   teiginys: "Alfonso Eidinto, Alfredo Bumblausko, Antano Kulakausko ir Mindaugo Tamošaičio „Lietuvos istorijoje“ Mindaugo krikštas ir karalystė laikomi epizodu, o pagoniški dievai tebesiejami su Mindaugo laikų Lietuva."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -742,7 +830,7 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
     - c-179902
 
 <a id="claim-t-203417"></a>
-- t-042
+- t-047
   teiginys: "Pasak leidinio „Žymiausi Lietuvos mūšiai ir karinės operacijos“, žuvus Lietuvos karaliui Mindaugui, nutrūko Lietuvos pagalba 1260 m. sukilusiems prūsams."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -756,7 +844,7 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
     - c-179892
 
 <a id="claim-t-203423"></a>
-- t-043
+- t-048
   teiginys: "Alberto Vijūko-Kojelavičiaus „Lietuvos istorijoje“ pasakojama, kad, mirus Mindaugo žmonai, Daumanto žmona atvyko į Mindaugo rūmus sutvarkyti šeimynos moterų ir surengti mirusiajai šermenis."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -770,7 +858,7 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
     - c-168150
 
 <a id="claim-t-203526"></a>
-- t-044
+- t-049
   teiginys: "Albertas Vijūkas-Kojelavičius veikale „Lietuvos istorija“ teigia, kad Mindaugas, susilaukęs rusų paramos, slaptai ir netikėtai didžiulių miškų takais įsibrovė į Mazoviją."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -783,6 +871,57 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168149
+
+<a id="claim-t-205560"></a>
+- t-050
+  teiginys: "Teodoras Narbutas teigia, kad Mindaugas 1257 metais išleido ediktą, suteikusį riterių luomo lietuvaičiams teisę testamente daryti įrašus Livonijos provincijos kryžiuočių riterių naudai."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187934
+
+<a id="claim-t-205703"></a>
+- t-051
+  teiginys: "Mindaugas valdė Peluziją ir Rusios žemes."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188318
+
+<a id="claim-t-205704"></a>
+- t-052
+  teiginys: "Teodoras Narbutas rašo, kad 1263 m. rudenį karalius Mindaugas medžiojo Žemgalos ir Lietuvos giriose, o rugsėjo 12 d. sąmokslininkai jį ir du jo sūnus nužudė."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188319
+
+<a id="claim-t-205705"></a>
+- t-053
+  teiginys: "Teodoras Narbutas Mindaugą vaizduoja kaip krikštą priėmusį ir apaštališkąja galia karaliumi apvainikuotą Lietuvos valdovą, kuris dėl vieno iš brolių išdavystės buvo žiauriai nužudytas."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188320
 
 ## Reikšmingi paminėjimai
 - c-019
@@ -823,8 +962,32 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- t-041
-
+- c-067
+  santrauka: 'Mindaugas sukūrė Lietuvos valstybę.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    Todėl šiandien ši data yra tokia pat valstybės šventė kaip Vasario 16-oji ir
+    Kovo 11-oji.
+    Mindaugas sukūrė Lietuvos valstybę. Atrodo, vien to pakaktų Mindaugą laikyti
+    viena iš svarbiausių ir Lietuvai daugiausia nusipelniusių asmenybių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-068
+  santrauka: 'Vaišelga buvo Mindaugo sūnus.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    Stačiatikiškos kultūros vaidmuo valstybės branduoliui prasidėjo jau nuo Mindaugo
+    laikų. Mindaugo karūnacijos liudytojas teigia, kad lietuviai nuo kūdikystės pažįsta krikš-
+    čionybę, nes juos auklėja auklės krikščionės. Mindaugo sūnus Vaišelga, kaip minėta, tapo
+    karštai įtikėjusiu stačiatikių vienuoliu.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-36462
@@ -1184,7 +1347,7 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-007
-    - t-037
+    - t-042
 
 - id: c-105105
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1287,7 +1450,7 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-021
-    - t-044
+    - t-049
 
 - id: c-168150
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -1316,7 +1479,7 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-022
-    - t-043
+    - t-048
 
 - id: c-173803
   autorius: "Teodoras Narbutas"
@@ -1472,8 +1635,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-039
-    - t-040
+    - t-044
+    - t-045
 
 - id: c-179887
   autorius: "Michał Baliński"
@@ -1501,7 +1664,7 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-031
+    - t-033
 
 - id: c-179888
   autorius: "Michał Baliński"
@@ -1524,7 +1687,7 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-032
+    - t-036
 
 - id: c-179889
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1613,7 +1776,7 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-042
+    - t-047
 
 - id: c-179894
   autorius: "Teodoras Narbutas"
@@ -1669,7 +1832,7 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-038
+    - t-043
 
 - id: c-179897
   autorius: "Michał Baliński"
@@ -1699,10 +1862,12 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
     arba privertė, kad jie patys pasiskandintų.
   statusas: verified
   atnaujinta: "2026-07-28 14:17"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-035
+
 - id: c-179898
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -1741,8 +1906,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-030
-    - t-033
+    - t-032
+    - t-038
 
 - id: c-179900
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1813,7 +1978,7 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-041
+    - t-046
 
 - id: c-179903
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -1905,7 +2070,7 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-036
+    - t-041
 
 - id: c-179908
   autorius: "Teodoras Narbutas"
@@ -1960,8 +2125,7 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
 - id: c-179911
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 50"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 50."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Rygiečiai jį priėmė su didžiausia iškilme,
     ir jis buvo pakrikštytas.
@@ -1977,10 +2141,12 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
     sidabrinių ir auksinių indų ir daug žirgų.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-030
+
 - id: c-179913
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -2032,7 +2198,8 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-034
-    - t-035
+    - t-039
+    - t-040
 
 - id: c-179915
   autorius: "Michał Baliński"
@@ -2048,10 +2215,12 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
     tylėjęs?
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-031
+
 - id: c-179916
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -2101,10 +2270,12 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
     metų.
   statusas: verified
   atnaujinta: "2026-07-12 22:58"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-037
+
 - id: c-179919
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -2237,6 +2408,114 @@ canonical_biography: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-020
+
+- id: c-187934
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 382"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 382."
+  citata_originali: |
+    Tad galimas dalykas, kad tų įstatymų ištakos sietinos su
+    minėtu venedų išminčiumi, tikriausiai, sprendžiant iš pa­
+    vardės skambėjimo, slavų kilmės. Turime neabejotiną pėd­
+    saką, kad didieji kunigaikščiai nuo senų laikų skelbdavo
+    ediktus, turėjusius įstatymų galią, jeigu tik iškildavo tam
+    kokia būtinybė. Taip Mindaugas 1257 metais išleido ediktą,
+    kuriuo riterių luomo lietuvaičiams buvo suteikiama teisė
+    daryti įrašus testamente Livonijos provincijos kryžiuočių
+    riterių naudai3.
+  citata_rodoma: "Turime neabejotiną pėd­\nsaką, kad didieji kunigaikščiai nuo senų laikų skelbdavo \nediktus, turėjusius įstatymų galią, jeigu tik iškildavo tam \nkokia būtinybė. Taip Mindaugas 1257 metais išleido ediktą, \nkuriuo riterių luomo lietuvaičiams buvo suteikiama teisė \ndaryti įrašus testamente Livonijos provincijos kryžiuočių \nriterių naudai3."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-050
+
+- id: c-188318
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 111"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 111."
+  citata_originali: |
+    Netrukus po to įvykio didy­
+    sis kunigaikštis Rimgaudas baigė savo gyveninio dienas
+    ir paliko valstybę dvejetui sūnų, kurie ją pasidalijo,
+    nė vienas, kad nepažeistų valdžios lygybės, neprisiimda-
+    mas didžiojo kunigaikščio titulo. Erdvilas viešpatavo Lie­
+    tuvos žemėse palei Nerį ir gyveno Naujapilyje, tai yra Lie­
+    tuvos Naugarduke. Mindaugas valdė Peluziją ir Rusios
+    žemes.
+  citata_rodoma: "Mindaugas valdė Peluziją ir Rusios \nžemes."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-051
+
+- id: c-188319
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 200"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 200."
+  citata_originali: |
+    Aleksandro Neviškio mirtis.
+    1263 metų rudenį karalius Mindaugas buvo savo kara­
+    lystės šiaurinėje dalyje, kur tikriausiai su nedideliu bū­
+    riu dvariškių leido laiką medžiodamas Zemgalos ir Lie­
+    tuvos giriose, nusidriekusiose Dauguvos link. Sąmoksli­
+    ninkai, nutaikę progą, Treniotos ir Daumanto vedami, rug­
+    sėjo 12 dieną užpuolė miegančio karaliaus palapinę ir
+    klastingai nužudė jį kartu su dviem sūnumis.
+  citata_rodoma: "1263 metų rudenį karalius Mindaugas buvo savo kara­\nlystės šiaurinėje dalyje, kur tikriausiai su nedideliu bū­\nriu dvariškių leido laiką medžiodamas Zemgalos ir Lie­\ntuvos giriose, nusidriekusiose Dauguvos link. Sąmoksli­\nninkai, nutaikę progą, Treniotos ir Daumanto vedami, rug­\nsėjo 12 dieną užpuolė miegančio karaliaus palapinę ir \nklastingai nužudė jį kartu su dviem sūnumis."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-052
+
+- id: c-188320
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 528"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 528."
+  citata_originali: |
+    sive ea teneant, sive ab aliis etiam infidelibus teneantur,
+    in aliquo preiudicium generari. Nulli ergo nostre con­
+    cessionis etc. Datum Viterbis decimo tertio Kalendas Feb­
+    ruarii Anno Tertio (Dėl ko taip skelbei, priėmęs prisi­
+    kėlusio kryžiaus ženklą, ketini netrukus, globojamas die­
+    viškosios malonės, pakėlęs savosios rankos galybę, eiti
+    prieš anuos (lietuvius) ir pagaliau tų vietovių kraštuose,
+    kurie minėtiems netikintiesiems išliko, [ketini] įkurti di­
+    deles karių įgulas nors šitų vietų netikintiems žmonėms
+    [išgelbėti] per žiaurią prievartą vedant į Viešpaties tvar­
+    tą,— mes tavo atsidavimo uolumą, kuriuo dėl tikrojo ti­
+    kėjimo išpažinimo skleidimo prisipažinai degąs, ir tavo
+    šiuo atžvilgiu dievobaimingą sumanymą, kaip labai vertą
+    pagyrimo, visokeriopai Viešpačiui patikėdami ir siekdami,
+    jog tu būtum lydimas kuo didesnio palankumo malonės,
+    karaliaus maldavimų palenkti, mūsų brolių patarimu šio
+    [rašto] galia tau leidžiame, kad jeigu Lietuvos žemę, kuri
+    dėl minėto Sosto įtakos tapo karalyste, valdant ją švie­
+    saus atminimo Mindaugui, kuris, priėmęs krikšto Sakra­
+    mentą, apaštališkąja galia buvo apvainikuotas karaliumi,
+    galiausiai dėl kažkurio iš brolių išdavystės žiauriai nu­
+    žudytas,— priešams iš rankų tau padedant pavyktų iš­
+    plėšti, Viešpačiui padedant, ten Karalystės sostą, kaip
+    anksčiau, laisvai pajėgtumei įkurti ir anam vadovauti as­
+    menį, tikintį ir Romos bažnyčiai atsidavusį, [paskirtumei],
+    kaip tau atrodys naudingiau tikinčiųjų gerovei ir katalikų
+    tikėjimo skleidimui pagelbėti.
+  citata_rodoma: "Lietuvos žemę, kuri \ndėl minėto Sosto įtakos tapo karalyste, valdant ją švie­\nsaus atminimo Mindaugui, kuris, priėmęs krikšto Sakra­\nmentą, apaštališkąja galia buvo apvainikuotas karaliumi, \ngaliausiai dėl kažkurio iš brolių išdavystės žiauriai nu­\nžudytas,— priešams iš rankų tau padedant pavyktų iš­\nplėšti, Viešpačiui padedant, ten Karalystės sostą, kaip \nanksčiau, laisvai pajėgtumei įkurti"
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-053
 
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Morta]]

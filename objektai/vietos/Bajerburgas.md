@@ -168,6 +168,71 @@ historical_names: []
   pagrindžia:
     - c-175918
 
+<a id="claim-t-205753"></a>
+- t-008
+  teiginys: "Teodoro Narbuto pasakojime Henrikas Bavarietis pastatė naują pilį ir pavadino ją Bajerburgu; pilis stovėjo maždaug ketvirtį mylios nuo Veliuonos."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188368
+
+<a id="claim-t-205754"></a>
+- t-009
+  teiginys: "Teodoras Narbutas Bajerburgą apibūdina kaip pagrindinį postą, kuriame buvo 40 Ordino riterių, 100 rinktinių kareivių, 100 lankininkų ir sargyba iš Sambijos bei Natangijos karių."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188369
+
+<a id="claim-t-206458"></a>
+- t-010
+  teiginys: "Kariaunos susitelkė prie neseniai žemaičių sugriauto Bajerburgo, siekdamos apsupti didelę reikšmę įgavusią Veliuonos tvirtovę."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189073
+
+<a id="claim-t-206459"></a>
+- t-011
+  teiginys: "Grįždamas maršalka apsupo Bajerburgo tvirtovę, kurią lietuviai buvo atstatę ir vėl apgyvendinę savais žmonėmis."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189074
+
+<a id="claim-t-206460"></a>
+- t-012
+  teiginys: "Kęstutis puolė Bajerburgą iš trijų pusių, sudegino priemiesčius ir įsakė užlyginti griovius."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189075
+
 ## Citatos
 
 - id: c-31957
@@ -277,6 +342,124 @@ historical_names: []
   patikimumo_saltinis: ai
   pagrindzia:
     - t-007
+
+- id: c-188368
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 472"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 472."
+  citata_originali: |
+    Ten su
+    didžiulės kariuomenės apsauga statybos buvo atnaujin­
+    tos. Tuo metu kunigaikštis Henrikas Bavarietis truputį
+    žemiau pradėjo naują pilį, kurią baigęs statyti pavadino
+    Bajerburgu; ji buvo tiktai per ketvirtį mylios nuo Veliuo­
+    nos. Tą lietuvių tvirtovę tas pats kunigaikštis kažkaip
+    užkariavo (istorija to nemini), atstatė ir pavadinęs Frid-
+    burgu perdavė kryžiuočiams1.
+  citata_rodoma: "Tuo metu kunigaikštis Henrikas Bavarietis truputį \nžemiau pradėjo naują pilį, kurią baigęs statyti pavadino \nBajerburgu; ji buvo tiktai per ketvirtį mylios nuo Veliuo­\nnos. Tą lietuvių tvirtovę tas pats kunigaikštis kažkaip \nužkariavo (istorija to nemini), atstatė ir pavadinęs Frid- \nburgu perdavė kryžiuočiams"
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
+- id: c-188369
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 472"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 472."
+  citata_originali: |
+    Tą lietuvių tvirtovę tas pats kunigaikštis kažkaip
+    užkariavo (istorija to nemini), atstatė ir pavadinęs Frid-
+    burgu perdavė kryžiuočiams1. Taigi kryžiuočiai vienu me­
+    tu įsigijo dešiniajame Nemuno krante tris stiprius atra­
+    mos punktus, esančius netoli jų, beveik už pusantros
+    mylios. Iš jų Bajerburgas buvo pagrindinis postas, turin­
+    tis labai stiprią įgulą iš keturiasdešimties ordino riterių,
+    šimto rinktinių kareivių, tiek pat lankininkų, ką jau kal­
+    bėti apie sargybą vitingų, atsiųstų Sambijos ir Natangijos
+    kareivių.
+  citata_rodoma: "Iš jų Bajerburgas buvo pagrindinis postas, turin­\ntis labai stiprią įgulą iš keturiasdešimties ordino riterių, \nšimto rinktinių kareivių, tiek pat lankininkų, ką jau kal­\nbėti apie sargybą vitingų, atsiųstų Sambijos ir Natangijos \nkareivių."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+
+- id: c-189073
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 95-96"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 95-96."
+  citata_originali: |
+    Kariaunos susitelkė netoliese neseniai žemaičių sugriauto
+    morerentur manibus cum cingulis in ramos arborum se suspenderunt. Chris­
+    tianorum etiam electorum occisi sunt quinquaginta, vel circa (Tais pačiais
+    metais, būtent XLVIII (1348. - T. N.), nuo sausio mėnesio Teutonų ordino
+    magistras Svekas, su dvidešimt dviem tūkstančiais raitelių įžengęs į stabmel­
+    džio Lietuvos karaliaus žemę, šešias savaites ją niokojo, kurį grįžtantį, pasu­
+    kusį upės ledo link, pasivijo Lietuvos karalius, ketindamas, kai eis per ledą,
+    paskandinti. O krikščionys, kurių dalis jau buvo ant ledo, apsigręžę nuo upės,
+    pasuko į priešais plytėjusį lauką, beveik šešis tūkstančius jų, priverstų kautis,
+    paskandino ir apie dvylika tūkstančių nukovė, nes persekiojo bėgančius į Lie­
+    tuvos miškus. Be to, du norėję pabėgti karaliaus broliai įlipo į medžius, ta­
+    čiau krikščionys norėjo juos nukirsti, todėl negalėjo išlipti ir, kad nebūtų
+    nužudyti kryžiuočių rankomis, kardasaičiais pasikorė medžių šakose. Be to,
+    tuokart žuvo ir maždaug penkiasdešimt geriausių krikščionių) *.
+    97
+
+    Bajerburgo, siekdamos apsupti Veliuoną,.tuo metu labai di­
+    delę reikšmę įgavusią tvirtovę, kuri galėjo būti laikoma atra­
+    ma, padedanti užkariauti tolimesnius kraštus, nusidriekusius
+    palei Nemuną
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+
+- id: c-189074
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 189"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 189."
+  citata_originali: |
+    Grįždamas atgalios maršalka apsupo Bajerburgo tvir­
+    tovę, kurią lietuviai atstatę, vėl savo žmonių ten buvo įkurdi­
+    nę. Kunigaikštis Kęstutis atvyko pagalbon, bet pamatęs, kad
+    Gotesverderis jau užimtas ir žiauriai susidorota su įgula, pa­
+    traukė maršalkos pėdomis; pastarojo stovykla buvo taip stip­
+    riai pagal cirkumvalacijos taisykles dideliu atstumu įtvirtinta,
+    kad visos pastangos išvyti priešą iš pilies pasirodė esančios be­
+    prasmės.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011
+
+- id: c-189075
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 256"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 256."
+  citata_originali: |
+    Kęstutis paskubėjo iš trijų pusių pulti Bajerburgą,
+    sudegino priemiesčius ir įsakė skubiai užlyginti griovius. Kry­
+    žiuočiai, nors ir mažai turėjo saviškių, su nemažėjančia narsa
+    gynėsi, net kai dalis pilies jau buvo sudegusi, dar penkias die­
+    nas laikėsi.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

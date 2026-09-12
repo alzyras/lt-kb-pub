@@ -117,24 +117,19 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
   pagrindžia:
     - c-70073
 
-## Reikšmingi paminėjimai
-- c-006
-  santrauka: 'B. Dundulio veikalas apie Lietuvos kovą dėl valstybinio savarankiškumo XV a. cituojamas aiškinant Kazimiero sutikimo užimti Lenkijos sostą sąlygas.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Kadangi Lietuvos atstovai, LDK kanclerio Jono Goštauto va­
-    dovaujami, griežtai priešinosi lenkams, reikalaujantiem s pilnutinai
-    sulieti Lietuvos valstybę su Lenkija, Kazimieras sutiko užimti Len­
-    kijos sostą iš esmės dviejų lygiateisių valstybių sąjungos arba per­
-    sonalinės unijos sąlygom is (plačiau ¿r. B. Dundulis, Lietuvos kova
-    dėl valstybinio savarankiškum o 15 amž., V., 1968, p. 226—236).
-    BK Kazimiero išrinkimas Lenkijos karaliumi atvaizduotas supras­
-    tintai.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  statusas: not_found
+<a id="claim-t-193877"></a>
+- t-005
+  teiginys: "B. Dundulio veikalas apie Lietuvos kovą dėl valstybinio savarankiškumo XV a. cituojamas aiškinant Kazimiero sutikimo užimti Lenkijos sostą sąlygas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-176504
+
 ## Citatos
 
 - id: c-03976
@@ -237,3 +232,23 @@ B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais X
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+- id: c-176504
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Kadangi Lietuvos atstovai, LDK kanclerio Jono Goštauto va­
+    dovaujami, griežtai priešinosi lenkams, reikalaujantiem s pilnutinai
+    sulieti Lietuvos valstybę su Lenkija, Kazimieras sutiko užimti Len­
+    kijos sostą iš esmės dviejų lygiateisių valstybių sąjungos arba per­
+    sonalinės unijos sąlygom is (plačiau ¿r. B. Dundulis, Lietuvos kova
+    dėl valstybinio savarankiškum o 15 amž., V., 1968, p. 226—236).
+    BK Kazimiero išrinkimas Lenkijos karaliumi atvaizduotas supras­
+    tintai.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005

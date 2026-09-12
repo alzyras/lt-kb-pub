@@ -81,6 +81,30 @@ Antroji didelė recenzija apie Narbuto veikalą buvo paskelbta „Tygodnik Peter
   pagrindžia:
     - c-179120
 
+<a id="claim-t-206225"></a>
+- t-004
+  teiginys: "Juozapas Ignotas Kraševskis yra rašytojas ir monografijos „Vilnius“ autorius."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188840
+
+<a id="claim-t-206226"></a>
+- t-005
+  teiginys: "Juozapas Ignotas Kraševskis kainavo autoriui."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188841
+
 ## Citatos
 
 - id: c-173181
@@ -149,3 +173,41 @@ Antroji didelė recenzija apie Narbuto veikalą buvo paskelbta „Tygodnik Peter
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-188840
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 55"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 55."
+  citata_originali: |
+    Net Juozapas Ignotas Kraševskis,
+    kurio rašytojo ištvermė, darbštumas, optimizmas ir produk­
+    tyvumas stebina ir šiandien, tiesiogiai patyręs istoriko darbo
+    skonį, negalėjo nuslėpti savo nuostabos. Štai 1840 metais iš­
+    leistame antrajam e monografijos „Vilnius“ leidime (taigi be­
+    veik tuo pat metu kaip ir penktasis LTI tomas) rašė:
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-188841
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 55"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 55."
+  citata_originali: |
+    Sunku net apsakyti, kiek turėjau problemų, kiek išlaidų
+    ir nemalonumų, ieškodamas medžiagos, knygų ir rankraš­
+    čių; galbūt tie, kurie skaitys jau išleistą knygą nelengvai pa­
+    tikės, kiek ji kainavo autoriui. Juk tai buvo tikrai varginantis
+    užsiėmimas - rinkti senovės nuotrupas, klijuoti jas į vieną
+    visumą ir dar iš to sukurti ką nors gera, tvarkinga.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005

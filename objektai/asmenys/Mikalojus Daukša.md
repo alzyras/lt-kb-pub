@@ -3,13 +3,10 @@ tipas: asmuo
 pavadinimas: 'Mikalojus Daukša'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
 datos: []
 date_start: ''
 date_end: ''
-aliases:
-  - 'objektai/autoriai/Mikalojus Daukša'
-variantai:
-  - 'Mikalojus Daukša'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -64,6 +61,20 @@ canonical_biography: "1595 m. Mikalojus Daukša, parengęs pirmąją lietuvišk�
   pagrindžia:
     - c-75341
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: '1595 m. Mikalojus Daukša parengė pirmąją lietuvišką knygą LDK – „Katekizmą“.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    1595 m. Mikalojus Daukša parengia
+    pirmąją lietuvišką knygą Lietuvos Didžiojoje Kunigaikštijoje – „Katekizmą“, o 1599 m.
+    kito lietuviško leidinio – „Postilės“ pratarmėje (pati pratarmė parašyta lenkų kalba!)
+    kreipiasi į Lietuvos visuomenę siūlydamas kurti raštiją lietuvių kalba.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-75341

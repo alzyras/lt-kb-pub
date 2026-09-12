@@ -1371,8 +1371,21 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   pagrindžia:
     - c-176427
 
-<a id="claim-t-197176"></a>
+<a id="claim-t-194029"></a>
 - t-078
+  teiginys: "Lietuvos metraštis pasakoja, kad kitų metų vasarą ir rudenį Steponas su Malkoču kariavo Lenkijos žemėje nuo Kameneco iki Tarnovo ir padarė daug žalos."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-176651
+
+<a id="claim-t-197176"></a>
+- t-079
   teiginys: "Minėtieji broliai, valdovės Agotos, kunigaikščio žmonos, valia pasitelkę daug Lenkijos vyrų, narsiai stojo į kovą, tačiau prūsai, puolę iš priekio, jau pirmajame susirėmime lenkams pasileidus bėgti, minėtuosius brolius mirtinai sužeidė ir daugybę žmonių."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -1384,7 +1397,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
     - c-179049
 
 <a id="claim-t-201627"></a>
-- t-079
+- t-080
   teiginys: "Kauno miestiečiai, ypač pirkliai, pasklisdavo po visą regioną, į kurį įėjo Lietuva, Lenkija, Prūsija, Livonija, bet dažniausiai ir gausiausiai lankėsi Prūsų miestuose: Gdanske, Karaliaučiuje, Torunėje."
   atnaujinta: "2026-07-19 10:18"
   sprendimo_priezastis: "auto"
@@ -1396,7 +1409,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
     - c-184974
 
 <a id="claim-t-203623"></a>
-- t-080
+- t-081
   teiginys: "Pagal palivarko produkcijos pobūdžio schemą Lenkija priskiriama grūdų auginimo regionui."
   atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
@@ -1406,6 +1419,43 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-32634-ATR-palivarko-ukis"
   pagrindžia:
     - c-186227
+
+<a id="claim-t-205217"></a>
+- t-082
+  teiginys: "Šios valstybės, būtent didesnio sios Lenkijos dalies, paveldėtojais tapo dvejetas jo ma žamečių sūnų — tai Lešekas Baltasis: ir Konradas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-188112
+
+<a id="claim-t-205250"></a>
+- t-083
+  teiginys: "1207 metais Lešekas Baltasis užėmė aukščiausiąjį Lenkijos sostą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188162
+
+<a id="claim-t-205351"></a>
+- t-084
+  teiginys: "Brunonas į Lenkiją atvyko 1005 m. kartu su arkivyskupu Deginu."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187857
 
 ## Reikšmingi paminėjimai
 - c-051
@@ -1471,23 +1521,6 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- c-072
-  santrauka: 'Lietuvos metraštis pasakoja, kad kitų metų vasarą ir rudenį Steponas su Malkoču kariavo Lenkijos žemėje nuo Kameneco iki Tarnovo ir padarė daug žalos.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Tais pačiais metais Lietuvos žemę ištiko baisus ba­
-    das, ir paplito žmonėse prancūziškos ligos4 0 . Paskui,
-    sekančių metų vasarą bei rudenį4 I, atėjo Moldavijos
-    vaivada Steponas, o su juo — turkų sultono didysis pa­
-    ša, vardu Malkočas 4 2 , vedinas daugeliu žmonių, ir ka­
-    riavo po Lenkijos žemę, Kamenecu pradedant, ir ligi
-    Lvovo, ir net ligi Tamovo, už dešimties mylių nuo Kro­
-    kuvos 4 3 . Sugrįžo, padarę Lenkijos žemei daug žalos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: not_found
 
 ## Citatos
 
@@ -3155,6 +3188,27 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   pagrindzia:
     - t-077
 
+- id: c-176651
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Tais pačiais metais Lietuvos žemę ištiko baisus ba­
+    das, ir paplito žmonėse prancūziškos ligos4 0 . Paskui,
+    sekančių metų vasarą bei rudenį4 I, atėjo Moldavijos
+    vaivada Steponas, o su juo — turkų sultono didysis pa­
+    ša, vardu Malkočas 4 2 , vedinas daugeliu žmonių, ir ka­
+    riavo po Lenkijos žemę, Kamenecu pradedant, ir ligi
+    Lvovo, ir net ligi Tamovo, už dešimties mylių nuo Kro­
+    kuvos 4 3 . Sugrįžo, padarę Lenkijos žemei daug žalos.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-078
+
 - id: c-177580
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -3193,7 +3247,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-078
+    - t-079
 
 - id: c-184974
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -3212,7 +3266,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-079
+    - t-080
 
 - id: c-186227
   autorius: "Darius Žiemelis"
@@ -3239,7 +3293,71 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-080
+    - t-081
+
+- id: c-187857
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 147"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 147."
+  citata_originali: |
+    1005 metų rugsėjo1 mėnesį arkivyskupas Degino, esąs
+    imperatoriaus pasiuntinybėje, nuvyko į Lenkijos karaliaus
+    rūmus susitarti dėl sąjungos sudarymo ir taikos įtvirti­
+    nimo. Kartu su juo į Lenkiją atvyko ir Brunonas. Kara­
+    liaus ir lenkų didikų palankumas viršijo naujojo ¡krikš­
+    čionybės skleidėjo visokią ankstesnę sėkmę religiniuose
+    siekiuose ir visus pagyrimus, kuriuos buvo girdėjęs iš
+    popiežiaus, imperatoriaus ir kitų žymių asmenų.
+  citata_rodoma: "1005 metų rugsėjo1 mėnesį arkivyskupas Degino, esąs \nimperatoriaus pasiuntinybėje, nuvyko į Lenkijos karaliaus \nrūmus susitarti dėl sąjungos sudarymo ir taikos įtvirti­\nnimo. Kartu su juo į Lenkiją atvyko ir Brunonas."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-084
+
+- id: c-188112
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 282"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 282."
+  citata_originali: |
+    Anksčiau (§ 642) susidūrėme
+    su prūsais, prisiėmusiais didžiausią Kazimiero Teisingojo
+    valdžią. Neturime jokių dingsčių abejoti, kad jie būtų ga­
+    lėję sulaužyti savo priesaiką dar iki to monarcho mirties,
+    kuri įvyko 1194 metais. Šios valstybės, būtent didesnio­
+    sios Lenkijos dalies, paveldėtojais tapo dvejetas jo ma­
+    žamečių sūnų — tai Lešekas Baltasis: ir Konradas.
+  citata_rodoma: "Šios valstybės, būtent didesnio­\nsios Lenkijos dalies, paveldėtojais tapo dvejetas jo ma­\nžamečių sūnų — tai Lešekas Baltasis: ir Konradas."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-082
+
+- id: c-188162
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 283"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 283."
+  citata_originali: |
+    Mečislovas baigė savo gyvenimo dienas 1203
+    metais1. Vladislovas Laibakojis nepasiekė tokių teisių ir
+    toli savo valdų neišplėtė, kaip kad Kazimieras Teisinga­
+    sis, o apie Prūsiją galvoti nebuvo nei progų, nei laiko. Ga­
+    lop 1207 metais Lešekas Baltasis užėmė aukščiausiąjį
+    Lenkijos sostą ir netrukus tėvo palikimą pasidalijo su sa­
+    vo broliu Konradu.
+  citata_rodoma: "Ga­\nlop 1207 metais Lešekas Baltasis užėmė aukščiausiąjį \nLenkijos sostą ir netrukus tėvo palikimą pasidalijo su sa­\nvo broliu Konradu."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-083
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]], [[objektai/asmenys/Steponas Batoras]], [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis (Lenkijos karalius, XVI a.)]]

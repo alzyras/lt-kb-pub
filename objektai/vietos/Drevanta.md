@@ -92,6 +92,32 @@ Dusburgietis teigia, kad 1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama
   pagrindžia:
     - c-168305
 
+<a id="claim-t-205763"></a>
+- t-003
+  teiginys: "Rugsėjo 8-ąją buvo susitarta su Vladislovu įsiveržti į Prūsiją dviejose vietose ir susijungti prie Drevantos krantų."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188378
+
+<a id="claim-t-205764"></a>
+- t-004
+  teiginys: "Karalius Vladislovas, pasak Teodoro Narbuto, apie lietuvių kariuomenę sužinojo tik persikėlęs per Drevantą."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188379
+
 ## Citatos
 
 - id: c-59062
@@ -148,3 +174,47 @@ Dusburgietis teigia, kad 1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-188378
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 456"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 456."
+  citata_originali: |
+    Lenkijos karalius vėl ėmė
+    grasinti kryžiuočiams karu, sulaukęs nemažo pastiprini­
+    mo iš Vengrijos, žento atsiųsto, vadovaujamo grafo Vil­
+    helmo; atvyko per aštuonis tūkstančius kareivių, be to,
+    buvo rinktinė lenkų kavalerija. Į pagalbą atskubėjo ir
+    Gediminas. Susitarė su Vladislovu Švenčiausiosios Mer­
+    gelės Marijos gimimo dieną, tai yra rugsėjo 8-ąją, įsi­
+    veržti į Prūsiją dviejose skirtingose vietose ir susijungti
+    prie Drevantos krantų.
+  citata_rodoma: "Susitarė su Vladislovu Švenčiausiosios Mer­\ngelės Marijos gimimo dieną, tai yra rugsėjo 8-ąją, įsi­\nveržti į Prūsiją dviejose skirtingose vietose ir susijungti \nprie Drevantos krantų."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-188379
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 457"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 457."
+  citata_originali: |
+    Tada didysis magistras turėjo
+    gauti žinią apie lietuvius, esančius netoli Kavernykų, ir
+    nusiųsti savo riterių būrį, kuris juos, iš ten jau besitrau­
+    kiančius, ėmė puldinėti. Kad ir kaip ten buvo, karalius
+    Vladislovas apie lietuvių kariuomenę sužinojo tik tada,
+    kai persikėlė per Drevantą. Todėl nusiuntė pasiuntinius
+    ir paprašė didžiojo kunigaikščio su juo susijungti.
+  citata_rodoma: "Kad ir kaip ten buvo, karalius \nVladislovas apie lietuvių kariuomenę sužinojo tik tada, \nkai persikėlė per Drevantą. Todėl nusiuntė pasiuntinius \nir paprašė didžiojo kunigaikščio su juo susijungti."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

@@ -5,8 +5,10 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 sukurta: ''
@@ -137,8 +139,22 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     - c-176613
     - c-180028
 
-<a id="claim-t-196599"></a>
+<a id="claim-t-193989"></a>
 - t-006
+  teiginys: "Lietuvos metraštis Tautvilą įvardija penktuoju Kęstučio sūnumi ir priskiria prie jaunų, dalių negavusių mirusių sūnų."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-178951
+    - c-180026
+
+<a id="claim-t-196599"></a>
+- t-007
   teiginys: "Tautvilas, pareiškęs, kad svarbiam reikalui aptarti reikia laiko, paprašė viską atidėti dėl karo su kryžiuočiais."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -151,7 +167,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     - c-178788
 
 <a id="claim-t-196870"></a>
-- t-007
+- t-008
   teiginys: "Lietuvos metraštis pasakoja, kad Rygos vyskupas ir klebonas klausė Tautvilos išpažinties ir siejo jo padėtį su Lietuvos krikšto galimybe."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -165,7 +181,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     - c-180026
 
 <a id="claim-t-196871"></a>
-- t-008
+- t-009
   teiginys: "Tautvilas buvo | šiaurę nuo Naugarduko vaivadijos sienos."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -176,8 +192,21 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   pagrindžia:
     - c-176616
 
+<a id="claim-t-198228"></a>
+- t-010
+  teiginys: "Tautvilas, nenorėdamas atvirai atmesti siūlymo dėl Lietuvos žemių, paprašė svarstymą atidėti dėl karo su kryžiuočiais."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-178788
+
 <a id="claim-t-198230"></a>
-- t-009
+- t-011
   teiginys: "Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -199,7 +228,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     - c-180029
 
 <a id="claim-t-198236"></a>
-- t-010
+- t-012
   teiginys: "Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -219,7 +248,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     - c-111042
 
 <a id="claim-t-198237"></a>
-- t-011
+- t-013
   teiginys: "Prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -239,7 +268,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     - c-111042
 
 <a id="claim-t-201036"></a>
-- t-012
+- t-014
   teiginys: "Ly gia dalia paskesniai Arvydas, Tautvilas, Ingautas, Lietuvos urėdai krivičių žemėj, ne vien krikščionų nenovijo, bet jie patys, kaip viršiaus regėjom, krikš čionimis tapo."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -251,7 +280,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
     - c-184386
 
 <a id="claim-t-203231"></a>
-- t-013
+- t-015
   teiginys: "Albertas Vijūkas-Kojelavičius „Lietuvos istorijoje“ rašo, kad Tautvilas Treniotos kvietimu atvyko iš Polocko ir slapta su savaisiais rengė naują sąmokslą prieš Treniotą."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -263,6 +292,32 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168201
+
+<a id="claim-t-205715"></a>
+- t-016
+  teiginys: "Tautvilas, kaip pasakoja Teodoras Narbutas, su Livonijos kryžiuočiais telkęs sąjungą prieš dėdę, Rygoje atsisakė savo išpažinto tikėjimo ir Timotiejaus vardą pakeitė į vokišką Gotlibo vardą."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188330
+
+<a id="claim-t-205716"></a>
+- t-017
+  teiginys: "Tautvilas, kaip pasakoja Teodoras Narbutas, surinkęs gausius rusinų karių pulkus, įsiveržė į Lietuvos Užnerio kunigaikštystę ir ugnimi bei kalaviju sunaikino prie jo kovų su tėvyne neprisidėjusius valsčius."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188331
 
 ## Reikšmingi paminėjimai
 - c-005
@@ -286,10 +341,20 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- t-019
-    - t-008
+- t-008
     - t-024
+    - t-026
 
+- c-022
+  santrauka: 'Opoziciją pirmiausiai sudarė brolvaikiai – Tautvilas ir Gedvydas.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    Opoziciją pirmiausiai sudarė brolvaikiai – Tautvilas ir Gedvydas
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-36512
@@ -385,8 +450,8 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
-    - t-011
+    - t-012
+    - t-013
 
 - id: c-111044
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -438,7 +503,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
-    - t-013
+    - t-015
 
 - id: c-176613
   autorius: "Anoniminis metraštininkas"
@@ -481,7 +546,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-009
 
 - id: c-178788
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -512,7 +577,8 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-007
+    - t-010
 
 - id: c-178951
   autorius: "Anoniminis metraštininkas"
@@ -534,13 +600,13 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
+    - t-008
 
 - id: c-180024
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 76"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 76."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Pirmas — Vytautas2 6 , o kai krikštijosi pravos­
     lavu, buvo jam duotas Jurgio vardas, o kai priėmė len­
@@ -585,7 +651,8 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-006
+    - t-008
 
 - id: c-180027
   autorius: "Anoniminis metraštininkas"
@@ -646,7 +713,7 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
+    - t-011
 
 - id: c-180030
   sudarytojas: "Karolis Zikaras"
@@ -764,7 +831,48 @@ Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-014
+
+- id: c-188330
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 138"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 138."
+  citata_originali: |
+    1251 m*. Tautvilą atgauna Polocką. Taip susidėjus ap­
+    linkybėms, Tautvilą, svarbiausias šeimos nesantaikos kal­
+    tininkas, netekęs kantrybės dėl įvykių Pietų Rusioje, taip
+    lėtai pasistūmėjusių, nusigavo pas Livonijos kryžiuočius
+    ir ėmė su jais burtis į sąjungą prieš savo dėdę, be to, ten
+    atsimetė nuo savo išpažinto tikėjimo ir Timotiejaus vardą
+    pakeitė į vokišką — Gotlibo, kiek laiko užtruko Rygoje,
+    kur buvo telkiami kariai jam paremti.
+  citata_rodoma: "Tautvilą, svarbiausias šeimos nesantaikos kal­\ntininkas, netekęs kantrybės dėl įvykių Pietų Rusioje, taip \nlėtai pasistūmėjusių, nusigavo pas Livonijos kryžiuočius \nir ėmė su jais burtis į sąjungą prieš savo dėdę, be to, ten \natsimetė nuo savo išpažinto tikėjimo ir Timotiejaus vardą \npakeitė į vokišką — Gotlibo, kiek laiko užtruko Rygoje, \nkur buvo telkiami kariai jam paremti."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
+
+- id: c-188331
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 139"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 139."
+  citata_originali: |
+    1251, 1252 m. Karas su kryžiuočiais. Po šio nutikimo
+    įvykiai pirmiausia klostėsi taip: Tautvilą, surinkęs gau­
+    sius pulkus rusinu karių, įsiveržė į Lietuvos Užnerio ku­
+    nigaikštystę, kur ugnimi ir kalaviju sunaikino valsčius,
+    nepanorėjusius prisidėti prie jo kovų su tėvyne.
+  citata_rodoma: "Tautvilą, surinkęs gau­\nsius pulkus rusinu karių, įsiveržė į Lietuvos Užnerio ku­\nnigaikštystę, kur ugnimi ir kalaviju sunaikino valsčius, \nnepanorėjusius prisidėti prie jo kovų su tėvyne."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-017
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

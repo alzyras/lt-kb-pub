@@ -24,6 +24,8 @@ entity_view_role: "place"
 entity_aliases: ["Prūsijos Lietuva"]
 sameAs: []
 canonical_biography: "Narbutas teigia, kad šią sritį apie XIII amžių imta vadinti Prūsų Lietuva, nes ji buvo lietuvių gyvenama."
+place_authority: true
+historical_names: []
 ---
 # Prūsijos Lietuva
 
@@ -35,8 +37,22 @@ Narbutas teigia, kad šią sritį apie XIII amžių imta vadinti Prūsų Lietuva
 
 Narbutas teigia, kad šią sritį apie XIII amžių imta vadinti Prūsų Lietuva, nes ji buvo lietuvių gyvenama.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
+<a id="claim-t-205501"></a>
+- t-001
+  teiginys: "Narbutas teigia, kad šią sritį apie XIII amžių imta vadinti Prūsų Lietuva, nes ji buvo lietuvių gyvenama."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T21:22:05Z"
+  pagrindžia:
+    - c-187915
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas teigia, kad šią sritį apie XIII amžių imta vadinti Prūsų Lietuva, nes ji buvo lietuvių gyvenama.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
@@ -50,3 +66,26 @@ Narbutas teigia, kad šią sritį apie XIII amžių imta vadinti Prūsų Lietuva
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+## Citatos
+
+- id: c-187915
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 55"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 55."
+  citata_originali: |
+    Julk, anot pasakojimo, būtent taip suprantant, šis vardas
+    kartojamas aprašant Nadrui skirtų žemių ribas1. Tahmi,
+    arba Thamneeki, — tai latvių tarmėse išlikęs geografinis
+    pavadinimas, vartojamas įvardijant padermę, gyvenančią
+    Prūsijos sienos link1 2. Si skirtinė dalis yra senojoje Ru­
+    sioje; jai visiškai nustojus gyvuoti, apie XIII amžių,
+    kadangi buvo lietuvių gyvenama, tad ir imta ją vadinti
+    Prūsų Lietuva, kaip vadinama dar iki dabar.
+  citata_rodoma: "Si skirtinė dalis yra senojoje Ru­\nsioje; jai visiškai nustojus gyvuoti, apie XIII amžių, \nkadangi buvo lietuvių gyvenama, tad ir imta ją vadinti \nPrūsų Lietuva, kaip vadinama dar iki dabar."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

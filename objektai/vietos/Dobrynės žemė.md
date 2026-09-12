@@ -76,6 +76,19 @@ Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kia
   pagrindžia:
     - c-177468
 
+<a id="claim-t-205761"></a>
+- t-003
+  teiginys: "Lietuviai su šešių tūkstančių karių armija netikėtai užpuolė Dobrynės žemę, apiplėšė žemdirbių namus, sudegino kaimų ir paėmė belaisvių."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188376
+
 ## Citatos
 
 - id: c-177467
@@ -141,3 +154,36 @@ Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kia
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-188376
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 326"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 326."
+  citata_originali: |
+    klaidingas, nors kartais būdavo stebėtinai galingas ir sėk­
+    mingas, tačiau jo padariniai visada būdavo pražūtingi, ir
+    mechanizmas visiškai išsiderindavo; kaimynai negalėdavo
+    iiisiiaikyti tuo nepasinaudoję. Kaip tik taip atsitiko, kai
+    Vladislovas Lokietka per kažkokį neapdairumą prarado
+    aukščiausiąsias pareigas, o į jo vietą Lenkijos didikų
+    didesniosios dalies buvo išrinktas Čekijos karalius Vac­
+    lovas (spėjama, buvęs vyras Riksos, vienintelės Lenkijos
+    sosto paveldėtojos po karaliaus Pšemislo mirties), kuris
+    pasivadino dar ir Pamario kunigaikščiu; taigi lietuviai,
+    pastebėję Lenkijoje apraiškas įprastinės netvarkos ir ši­
+    taip įgiję persvarą, per pačias naujojo monarcho vestu­
+    ves, kai lenkai, linkę puotauti, buvo įnikę Poznanėje į
+    linksmybes, netikėtai užgriuvo Dobrynės žemę su šešeto
+    tūkstančių karių armija, pirm sužinoję, kad Lokietkos
+    šalininkai, saugodamiesi Vaclovo šalininkų puolimo, ten
+    pergabeno savo turtus. Tad laimikis buvo neįkainojamas,
+    galimybės grobti didžiausios, be to, dar daug apiplėšta
+    žemdirbių namų, sudeginta kaimų, paimta belaisvių.
+  citata_rodoma: "taigi lietuviai, \npastebėję Lenkijoje apraiškas įprastinės netvarkos ir ši­\ntaip įgiję persvarą, per pačias naujojo monarcho vestu­\nves, kai lenkai, linkę puotauti, buvo įnikę Poznanėje į \nlinksmybes, netikėtai užgriuvo Dobrynės žemę su šešeto \ntūkstančių karių armija, pirm sužinoję, kad Lokietkos \nšalininkai, saugodamiesi Vaclovo šalininkų puolimo, ten \npergabeno savo turtus. Tad laimikis buvo neįkainojamas, \ngalimybės grobti didžiausios, be to, dar daug apiplėšta \nžemdirbių namų, sudeginta kaimų, paimta belaisvių."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

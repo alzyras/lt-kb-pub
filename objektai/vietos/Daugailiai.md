@@ -54,6 +54,32 @@ Birželio 3 d. buvo užimti Daugailiai, Tauragnai, birželio 4 d. Paberžė.
   pagrindžia:
     - c-45059
 
+<a id="claim-t-205756"></a>
+- t-002
+  teiginys: "Daugailių palivarkas, pasak J. Pomarnackio, buvo ponų Strutinskių nuosavybė Ukmergės apskrityje, kairiajame Šventosios upės krante netoli Užpalių."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188371
+
+<a id="claim-t-205757"></a>
+- t-003
+  teiginys: "Juozapas Pomarnackis, Subačių seniūnas, 1838 m. lapkričio 18 d. Bratnavoje rašytame laiške Teodorui Narbutui aptarė Daugailių dvaro apylinkių paminklus."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188372
+
 ## Citatos
 
 - id: c-45059
@@ -74,3 +100,47 @@ Birželio 3 d. buvo užimti Daugailiai, Tauragnai, birželio 4 d. Paberžė.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188371
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 33"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 33."
+  citata_originali: |
+    Ketvirto tomo § 844 skyriuje buvo pasakojama
+    apie XIII amžiaus pradžioje prie Užpalių vykusį didelį
+    mūšį tarp Livonijos riterių ir lietuvių, vadovaujamų di­
+    džiojo kunigaikščio Rimgaudo. „Daugailių palivarką,—
+    rašė J. Pomarnackis,— kuris yra ponų Strutinskių nuo­
+    savybė, Ukmergės apskrityje penkiasdešimt trejus metus
+    nuomojo mano tėvai, o nuo 1795 metų — ir aš su savo
+    šeimyna. Minėtasis palivarkas yra kairiajame Šventosios
+    upės krante, per pusę mylios nuo Užpalių miestelio ir
+    dvaro, stovinčių prie pat tos upės.
+  citata_rodoma: "„Daugailių palivarką,— \nrašė J. Pomarnackis,— kuris yra ponų Strutinskių nuo­\nsavybė, Ukmergės apskrityje penkiasdešimt trejus metus \nnuomojo mano tėvai, o nuo 1795 metų — ir aš su savo \nšeimyna. Minėtasis palivarkas yra kairiajame Šventosios \nupės krante, per pusę mylios nuo Užpalių miestelio ir \ndvaro, stovinčių prie pat tos upės."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-188372
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 34"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 34."
+  citata_originali: |
+    Gerbiamas veteranas, a [mžiną] a [tilsį]
+    Juozapas Pomarnackis, Subačių seniūnas, gerai pažinojęs
+    tas apylinkes (nes gyveno vietoje, kur vyko minėti kari­
+    niai veiksmai, tai yra Daugailių dvare), man adresuota­
+    me laiške (rašytame 1838 metų lapk [ričio] 18 dieną Brat-
+    navoje) išsakė savo pastabas apie tenykščius paminklus
+    < ...> “43.
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

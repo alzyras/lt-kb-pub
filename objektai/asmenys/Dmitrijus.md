@@ -62,6 +62,45 @@ pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir maža
   pagrindžia:
     - c-44319
 
+<a id="claim-t-206275"></a>
+- t-002
+  teiginys: "Teodoras Narbutas didįjį kunigaikštį Dmitrijų vaizduoja kaip vis didesnę politinę nuovoką rodžiusį valdovą, siekusį atgaivinti su Dmitrijaus pareigomis siejamą aukščiausiąją tautos valdžią."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188890
+
+<a id="claim-t-206276"></a>
+- t-003
+  teiginys: "Dmitrijus nuvyko pas totorius, panaikino Mykolui suteiktas privilegijas ir už dešimt tūkstančių rublių išpirko jo įkaitu laikytą sūnų Joną, vėliau šią sumą atgaudamas iš tėvo."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188891
+
+<a id="claim-t-206277"></a>
+- t-004
+  teiginys: "Teodoras Narbutas rašo, kad didysis kunigaikštis Dmitrijus, nudžiugintas Algirdo sūnaus nuolankumo, priėmė Algirdo sūnaus pasidavimą ir skyrė jam Perejaslavlį su antraeilės reikšmės kunigaikščio teisėmis."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188892
+
 ## Citatos
 
 - id: c-44319
@@ -90,3 +129,64 @@ pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir maža
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188890
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 204"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 204."
+  citata_originali: |
+    Didysis kunigaikštis Dmitrijus rodė
+    vis didesnę politinę nuovoką, skatinamas noro atgaivinti aukš­
+    čiausiąją tautos valdžią, sau priskirtiną, kaip siejamą su savo
+    einamomis pareigomis. Tverės kunigaikštis, visad stovėjęs jam
+    skersai kelio siekiant vienvaldystės, nors turėjo chano privile­
+    giją Vladimiro Didžiajai Kunigaikštystei ir pažadų gauti ka­
+    riuomenės šiems tikslams remti, betgi nenorėjo tuo barbaro
+    palankumu naudotis, tikriausiai įžiūrėdamas pražūtingų pa­
+    darinių visai Rusiai, jeigu totoriai su visa pagrindine kariauna
+    ten įžengtų.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-188891
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 204"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 204."
+  citata_originali: |
+    Dmitrijus pats nuvyko pas
+    totorius ir pats parengė privilegijų, duotų Mykolui, kasaciją;
+    netgi jo sūnų Joną išpirko už dešimt tūkstančių rublių, pasta­
+    rasis mat buvo įkaitas, laiduotas šia suma, ir nors išvadavo jau­
+    nuolį, iš tėvo minėtąją sumą atgaudamas, tačiau šio draugystės
+    nepelnė. Iš tikrųjų kunigaikštis Mykolas labiau nei bet kada
+    tapo jam nepalankus.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-188892
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 238"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 238."
+  citata_originali: |
+    Dmitrijus,
+    labai nudžiugintas tokio Algirdo sūnaus nuolankumo, ne tik
+    kad mielai sutiko su jo pasidavimu, bet ir aprūpino jį, skirda­
+    mas jam Perejaslavlį (Suzdalės) su visomis antraeilės reikš­
+    mės kunigaikščio teisėmis1 2.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

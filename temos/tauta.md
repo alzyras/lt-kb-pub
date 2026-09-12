@@ -6,7 +6,7 @@ tema_kategorija: "grupes"
 tema_kategorijos_pavadinimas: "Grupės ir institucijos"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 261
+tema_objektu_skaicius: 263
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 261.
+Objektų skaičius: 263.
 
 ## Kaip naudoti
 
@@ -32,6 +32,7 @@ Objektų skaičius: 261.
 - [[objektai/asmenys/Helmerichas]]
 - [[objektai/asmenys/J. Basanavičius]]
 - [[objektai/asmenys/Jonas Basanavičius]]
+- [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]]
 - [[objektai/asmenys/Tautvilas]]
 
 ### Autoriai
@@ -54,7 +55,7 @@ Objektų skaičius: 261.
 - [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba (institucija)]]
 - [[objektai/grupes/Aukščiausioji Visos Rusijos Lietuvių Tautos Taryba]]
 - [[objektai/grupes/Aušrėnai]]
-- [[objektai/grupes/Bajorai]]
+- [Bajorai](../objektai/grupes/Bajorai)
 - [Baltai](../objektai/grupes/Baltai)
 - [Baltarusiai](../objektai/grupes/Baltarusiai)
 - [Baltijos valstybės](../objektai/grupes/Baltijos%20valstyb%C4%97s)
@@ -293,6 +294,9 @@ Objektų skaičius: 261.
 
 ### Vietos
 - [Chersonas](../objektai/vietos/Chersonas)
+
+### Įvykiai
+- [Pirmasis Abiejų Tautų Respublikos padalijimas (1772 m.)](../objektai/ivykiai/Pirmasis%20Abiej%C5%B3%20Taut%C5%B3%20Respublikos%20padalijimas%20%281772%20m.%29)
 
 ### Šaltiniai
 - [Lenkų tautos istorija](../objektai/saltiniai/Lenk%C5%B3%20tautos%20istorija)

@@ -378,8 +378,28 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   pagrindžia:
     - c-163445
 
-<a id="claim-t-188685"></a>
+<a id="claim-t-187570"></a>
 - t-019
+  teiginys: "Lietuvos metraštis vaizduoja, kad naugardiečiai pagerbė Sofiją ir Joną Algimantaitį ir nulydėjo juos į Maskvą pas Vasilijų Dimitrijevičių."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Didžiojo Naugardo respublika: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Didysis Naugardas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Didžiojo Naugardo respublika: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Didysis Naugardas\" parinktas kaip owner_note_path. Targetas \"Didžiojo Naugardo respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  pagrindžia:
+    - c-170518
+
+<a id="claim-t-188685"></a>
+- t-020
   teiginys: "Narbutas rašo, kad iki vikingų atsikraustymo į Didįjį Naugardą Biarmija palaikė ryšius su Naugardo slavais, bet sudarė atskirą valstybę."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -398,7 +418,7 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     - c-171574
 
 <a id="claim-t-193177"></a>
-- t-020
+- t-021
   teiginys: "Naugardą Jonas III po antrojo žygio (pirmasis buvo 1471 m., antrasis — 1479 m.) prijungė prie Maskvos."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -411,7 +431,7 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     - c-24101
 
 <a id="claim-t-194252"></a>
-- t-021
+- t-022
   teiginys: "Vilnius, regis, dar Gediminui valdant, ėmė darytis jau ga nėtinai svarbiu prekybos centru; Lietuvoje ligi šiol yra išli kusių svarbių jo privilegijų Rygos pirkliams pėdsakų; ir be Rygos buvę sąjungoje su juo ir kurį laiką jam priklausę Psko vas bei Naugardas."
   atnaujinta: "2026-07-06 12:55"
   sprendimo_priezastis: "auto"
@@ -423,7 +443,7 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
     - c-176847
 
 <a id="claim-t-201056"></a>
-- t-022
+- t-023
   teiginys: "Nes paskesniai karšdamas Gostomyslas, rėdytojas Didžiojo Naugardo, ta ręs savo ūkiams, idant gudai sau tuos variagus už kviestų ant savo ūkės rėdos, vienok rašytojai nesa ko lyčiaus to užkvietimo, nuo kokių priešakių, arba neprietelių, gudai gindamies ar."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -434,25 +454,31 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   pagrindžia:
     - c-184406
 
+<a id="claim-t-205125"></a>
+- t-024
+  teiginys: "Riurikas pakviečiamas į Didžiojo Naugardo kunigaikštystę."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188092
+
+<a id="claim-t-205288"></a>
+- t-025
+  teiginys: "Didžiajame Naugarde įsitvirtina krikščio nybė."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187680
+
 ## Reikšmingi paminėjimai
-- c-020
-  santrauka: 'Lietuvos metraštis vaizduoja, kad naugardiečiai pagerbė Sofiją ir Joną Algimantaitį ir nulydėjo juos į Maskvą pas Vasilijų Dimitrijevičių.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Didysis kunigaikštis Vytautas atidavė savo dukterį ku­
-    nigaikštytę Sofiją ir išleido ją iš Marienburgo, o su
-    ja pasiuntė kunigaikštį Joną Algimantaitį, ir jie iš
-    Gdansko miesto išplaukė laivais2 3 , per jūrą pasiekda­
-    mi Pernu2 1  ir Pskovo miestą. Pskoviečiai sutiko juos
-    labai svetingai ir palydėjo pagarbiai ligi Didžiojo Nau-
-    gardo. Naugardiečiai taip pat pareiškė jiems didelę
-    pagarbą ir pagerbdami nulydėjo juos į Maskvą, pas
-    didjjį kunigaikštį Vasilijų Dimitrijevičių.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: not_found
 - c-021
   santrauka: 'Narbutas rašo, kad iki vikingų atsikraustymo į Didįjį Naugardą Biarmija palaikė ryšius su Naugardo slavais, bet sudarė atskirą valstybę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -512,7 +538,7 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-020
+    - t-021
 
 - id: c-32007
   autorius: "Zenonas Ivinskis"
@@ -890,6 +916,28 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   pagrindzia:
     - t-016
 
+- id: c-170518
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Didysis kunigaikštis Vytautas atidavė savo dukterį ku­
+    nigaikštytę Sofiją ir išleido ją iš Marienburgo, o su
+    ja pasiuntė kunigaikštį Joną Algimantaitį, ir jie iš
+    Gdansko miesto išplaukė laivais2 3 , per jūrą pasiekda­
+    mi Pernu2 1  ir Pskovo miestą. Pskoviečiai sutiko juos
+    labai svetingai ir palydėjo pagarbiai ligi Didžiojo Nau-
+    gardo. Naugardiečiai taip pat pareiškė jiems didelę
+    pagarbą ir pagerbdami nulydėjo juos į Maskvą, pas
+    didjjį kunigaikštį Vasilijų Dimitrijevičių.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-019
+
 - id: c-171574
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -917,7 +965,7 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-019
+    - t-020
 
 - id: c-176847
   autorius: "Michał Baliński"
@@ -944,7 +992,7 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-021
+    - t-022
 
 - id: c-184406
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -976,7 +1024,48 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-022
+    - t-023
+
+- id: c-187680
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 429"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 429."
+  citata_originali: |
+    Kijevo
+    gyventojai krikščionys Teodoras ir jo sū­
+    nus Jonas nužudomi.
+    Pagonybės smukimas Kijeve.
+    Didžiajame Naugarde įsitvirtina krikščio­
+    nybė.
+  citata_rodoma: "Didžiajame Naugarde įsitvirtina krikščio­\nnybė."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-025
+
+- id: c-188092
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 428"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 428."
+  citata_originali: |
+    Raštą į sla­
+    vų kalbą, iš Didžiosios Moravijos siunčia
+    savo mokinius [pas*] šiaurės slavus —
+    skelbti Dievo žodžio.
+    Riurikas pakviečiamas į Didžiojo Nau-
+    gardo kunigaikštystę. Rusios monarchijos
+    pradžia.
+  citata_rodoma: "Riurikas pakviečiamas į Didžiojo Nau- \ngardo kunigaikštystę. Rusios monarchijos \npradžia."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-024
 
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

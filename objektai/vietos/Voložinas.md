@@ -40,7 +40,7 @@ Jonas Goštautas užsuko pas Voložino kunigaikščius. Voložine Goštautą pas
 <a id="claim-t-200368"></a>
 - t-001
   teiginys: "Voložine Goštautą pasiekė žinia apie Žygimanto mirtį."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Teiginys glaustas, faktinis ir tiesiogiai paremtas citata."
@@ -53,7 +53,7 @@ Jonas Goštautas užsuko pas Voložino kunigaikščius. Voložine Goštautą pas
 <a id="claim-t-200370"></a>
 - t-002
   teiginys: "Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pasisvečiuoti pas Voložino kunigaikščius."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Teiginys yra aiškus faktinis sakinys apie Jono Goštauto sustojimą pas Voložino kunigaikščius. Citatoje minimos vėlesnės žinios ir kelionė toliau sąmoningai nepridėtos."

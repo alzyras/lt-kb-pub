@@ -82,6 +82,32 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
   pagrindžia:
     - c-42082
 
+<a id="claim-t-206322"></a>
+- t-003
+  teiginys: "Teodoras Narbutas rašo, kad Kiprijonas Vytautui išdėstė Bažnyčios interesus Rusioje, buvo pripažintas visos Rusios ganytoju ir Kijeve įtvirtino hierarchinį valdymą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188937
+
+<a id="claim-t-206323"></a>
+- t-004
+  teiginys: "Teodoras Narbutas Kiprijoną vaizduoja kaip Vytauto draugą, beveik linkusį pritarti krikščioniškojo pasaulio vienybei ir taikai, kurią galėjo įtvirtinti popiežiaus sprendimai."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188938
+
 ## Citatos
 
 - id: c-42082
@@ -138,3 +164,43 @@ Mirus Kijevo ir visos Rusios metropolitui Kiprijonui (1390-1406), Vytautas dėjo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188937
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 459"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 459."
+  citata_originali: |
+    K ar­
+    tu su Bazilijumi iš Maskvos atvyko ir metropolitas Kiprijonas,
+    kuris didžiajam kunigaikščiui išdėstė Bažnyčios interesus Ru­
+    sioje, easančioje jo valdžioje. Vytautas geranoriškai išklausė
+    jo samprotavimų, pripažino jį visuotiniu visos Rusios ganyto­
+    ju, turinčiu dvasininkijos valdžią visose jo valstybėse ir pakvietė
+    į metropolijos sostinę Kijevą, tad Kiprijonas, ištaikęs progą,
+    ten atvyko; per aštuoniolika mėnesių įvedė hierarchinį valdy­
+    mą.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-188938
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 478"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 478."
+  citata_originali: |
+    Vytauto
+    draugas metropolitas Kiprijonas buvo beveik linkęs pritarti
+    bent jau vienybei ir šventai viso krikščioniškojo pasaulio san­
+    tarvei, gal mažai tetrūko, gal tereikėjo popiežiaus sprendimų
+    gražumu sutvarkyti reikalus.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

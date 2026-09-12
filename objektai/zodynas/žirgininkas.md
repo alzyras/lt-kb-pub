@@ -59,23 +59,29 @@ Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas
   pagrindžia:
     - c-168779
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Andrius Droždža apie 1500 m. tapo Vilniaus žirgininku ir 1503 m. gavo valdyti Belicą bei Zblianus prie Lydos.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    M A ndrius Droždža. Aleksandro favorito kunigaikščio Mykolo
-    Glinskio giminaitis, sūnus Aleksandro Droždžos, Kazimiero laikais
-    buvusio Lietuvos Kameneco (prie Brastosl valdytoju (1470—1479).
-    Pradėjus valdyti Aleksandrui. A ndrius Droždža gavo didžiojo kuni­
-    gaikščio taurininko vietą (1498 m.), vyko su diplomatine misija pas
-    totorius, o  apie 1500 m. tajio Vilniaus žirgininku ir gavo valdyti
-    Belicą (1503) ir Zblianus prie Lydos.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
+<a id="claim-t-187537"></a>
+- t-002
+  teiginys: "Andrius Droždža apie 1500 m. tapo Vilniaus žirgininku ir 1503 m. gavo valdyti Belicą bei Zblianus prie Lydos."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kamenecas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "žirgininkas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Kamenecas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"žirgininkas\" parinktas kaip owner_note_path. Targetas \"Kamenecas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: 1498 m.; įvykio data: 1500 m.; įvykio data: apie 1500 m.; įvykio data: 1503 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Claimas yra aiškus, gramatiškas ir paremtas citatos duomenimis."
+  vertinimo_atnaujinta: "2026-06-16T16:17:41Z"
+  pagrindžia:
+    - c-170487
+
 ## Citatos
 
 - id: c-168779
@@ -103,3 +109,23 @@ Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-170487
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    M A ndrius Droždža. Aleksandro favorito kunigaikščio Mykolo
+    Glinskio giminaitis, sūnus Aleksandro Droždžos, Kazimiero laikais
+    buvusio Lietuvos Kameneco (prie Brastosl valdytoju (1470—1479).
+    Pradėjus valdyti Aleksandrui. A ndrius Droždža gavo didžiojo kuni­
+    gaikščio taurininko vietą (1498 m.), vyko su diplomatine misija pas
+    totorius, o  apie 1500 m. tajio Vilniaus žirgininku ir gavo valdyti
+    Belicą (1503) ir Zblianus prie Lydos.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

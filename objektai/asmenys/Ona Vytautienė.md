@@ -79,6 +79,19 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
   pagrindžia:
     - c-185788
 
+<a id="claim-t-206367"></a>
+- t-003
+  teiginys: "Teodoro Narbuto pasakojime didžioji kunigaikštienė Ona Vytautienė apibūdinama kaip įstabaus grožio ir išminties, o susibūrimuose ji išsiskyrė su dailiai ir prabangiai pasipuošusiomis rūmų damomis."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188982
+
 ## Citatos
 
 - id: c-165129
@@ -126,3 +139,20 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-188982
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 493"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 493."
+  citata_originali: |
+    Didžioji kunigaikštienė
+    Ona Vytautienė, įstabaus grožio ir išminties, su savo rūmų da­
+    momis, dailiai ir prabangiai pasidabinusiomis, šiuose susibūri­
+    muose ypač išsiskyrė.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

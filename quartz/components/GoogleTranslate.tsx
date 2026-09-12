@@ -9,9 +9,9 @@ const GoogleTranslate: QuartzComponent = () => {
       class="google-translate notranslate"
       data-google-translate
       role="group"
-      aria-label="Svetainės kalba"
+      aria-label="Sąsajos kalba / Interface language"
     >
-      <select data-translate-language aria-label="Pasirinkti svetainės kalbą">
+      <select data-translate-language aria-label="Sąsajos kalba / Interface language">
         <option value="lt">LT - Lietuvių</option>
         <option value="en">EN - English</option>
         <option value="pl">PL - Polski</option>

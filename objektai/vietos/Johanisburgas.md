@@ -75,6 +75,19 @@ historical_names: []
   pagrindžia:
     - c-02714
 
+<a id="claim-t-206481"></a>
+- t-002
+  teiginys: "Prūsijoje netikėtai įsiveržę kariai naktį užėmė Johanisburgą ir deglų šviesoje įžengė į tvirtovę."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189096
+
 ## Citatos
 
 - id: c-02714
@@ -101,3 +114,18 @@ historical_names: []
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-189096
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 168"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 168."
+  citata_originali: |
+    Netikėtai įsiveržė į Prūsiją, nak­
+    čia užėmė Johanisburgą ir deglų šviesoje įžengė į tvirtovę.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

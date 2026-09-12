@@ -5,6 +5,7 @@ export type ObjectDetailTier = "t0" | "t1" | "t2" | "t3"
 
 export type ObjectEvidenceClaim = {
   id: string
+  globalIds?: string[]
   text: string
   citationIds: string[]
   citations: EvidenceEntry[]
@@ -118,6 +119,13 @@ function relationsFromMarkdown(
 }
 
 export function objectDetailEvidence(markdown: string): ObjectDetailEvidence {
+  const globalIds = new Map<string, string[]>()
+  for (const match of markdown.matchAll(/((?:<a\s+id="claim-[^"]+"><\/a>\s*)+)-\s+(t-\d+)/gu)) {
+    globalIds.set(
+      match[2],
+      [...match[1].matchAll(/id="claim-([^"]+)"/gu)].map((row) => row[1]),
+    )
+  }
   const sections = parseEvidenceSections(markdown)
   const citationSections = [
     "Citatos",
@@ -149,6 +157,7 @@ export function objectDetailEvidence(markdown: string): ObjectDetailEvidence {
       ]
       return {
         id: entry.id,
+        globalIds: globalIds.get(entry.id) || [],
         text,
         citationIds: refs,
         citations: linkedCitations,
@@ -209,7 +218,14 @@ export function objectDetailEvidence(markdown: string): ObjectDetailEvidence {
     claims,
     citations,
     citationRecords,
-    sourceTitles: [...new Set(claims.flatMap((claim) => claim.sourceTitles))],
+    sourceTitles: [
+      ...new Set([
+        ...claims.flatMap((claim) => claim.sourceTitles),
+        ...citationRecords
+          .map((record) => field(record.entry, "šaltinis", "saltinis"))
+          .filter(Boolean),
+      ]),
+    ],
     relations: relationsFromMarkdown(markdown),
   }
 }
@@ -252,6 +268,23 @@ export function objectEvidenceIndexFile(slug: string): string {
     hash = Math.imul(hash, 16777619)
   }
   return (hash >>> 0).toString(16).padStart(8, "0")
+}
+
+const claimPositionCache = new WeakMap<ObjectDetailEvidence, Map<string, number>>()
+export function objectClaimHref(slug: string, evidence: ObjectDetailEvidence, id: string): string {
+  let positions = claimPositionCache.get(evidence)
+  if (!positions) {
+    positions = new Map()
+    objectEvidenceDisplayItems(evidence).forEach((item, position) => {
+      if (item.kind === "claim")
+        for (const key of [item.value.id, ...(item.value.globalIds || [])])
+          positions!.set(key, position)
+    })
+    claimPositionCache.set(evidence, positions)
+  }
+  const position = positions.get(id) ?? -1
+  const page = Math.floor(Math.max(0, position) / 50) + 1
+  return `/${slug}/irodymai${page > 1 ? `/${page}` : ""}#claim-${id}`
 }
 
 export function objectDetailTier(

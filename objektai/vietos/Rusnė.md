@@ -157,6 +157,30 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   pagrindžia:
     - c-184454
 
+<a id="claim-t-205382"></a>
+- t-008
+  teiginys: "Pasak Narbuto, Erdvilo valdymo metais Kaune ir Rusnėje suklestėjo prekyba javais."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187984
+
+<a id="claim-t-206573"></a>
+- t-009
+  teiginys: "Narbutas rašo, kad kryžiuočiai nesutiko grąžinti Lietuvai užimtų žemių, tikriausiai ir Nemuno dešinėje buvusios Rusnės dalies."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189188
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas aiškino, kad lietuvių protėviai Rusnę, dešiniąją Nemuno atšaką, pagal religines apeigas pavertė penktąja šventąja upe.'
@@ -387,3 +411,42 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-007
+
+- id: c-187984
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 456"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 456."
+  citata_originali: |
+    sams — j Rusnę ir mozūrams — į Reigardą. Taip pat iš
+    jų rankų rusai gaudavo gintaro, kuris tų laikų prekyboje
+    buvo garsus, lygiomis su brangakmeniais. Bet kada Er­
+    dvilo valdymo metais buvo užkariauta Juodoji, arba Jot­
+    vingių, ir dalis Baltosios Rusios, ikai rusams buvo leista
+    laivyba Nemune ir vyko be pažeidimų, tuomet Kaune ir
+    Rusnėje suklestėjo prekyba javais.
+  citata_rodoma: "Bet kada Er­\ndvilo valdymo metais buvo užkariauta Juodoji, arba Jot­\nvingių, ir dalis Baltosios Rusios, ikai rusams buvo leista \nlaivyba Nemune ir vyko be pažeidimų, tuomet Kaune ir \nRusnėje suklestėjo prekyba javais."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
+- id: c-189188
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 128"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 128."
+  citata_originali: |
+    Smulkesnės žinios apie tas aplinky­
+    bes dingo, tik žinoma, kad kryžiuočiai atkakliai laikėsi savo,
+    ginčydamiesi, kad negrąžins Lietuvai užimtų žemių, tikriausiai
+    dešinėje Nemuno pusėje buvusios Rusnės dalies, taip pat Kuršo
+    ir Žemgalos;
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009

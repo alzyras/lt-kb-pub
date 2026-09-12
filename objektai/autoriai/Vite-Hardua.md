@@ -35,8 +35,21 @@ Narbutas rašo, kad Vite-Hardua pats kovojo, vedė derybas ir puotavo su variaga
 
 Narbutas rašo, kad Vite-Hardua pats kovojo, vedė derybas ir puotavo su variagais.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
+<a id="claim-t-205578"></a>
+- t-001
+  teiginys: "Narbutas rašo, kad Vite-Hardua pats kovojo, vedė derybas ir puotavo su variagais."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187942
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad Vite-Hardua pats kovojo, vedė derybas ir puotavo su variagais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
@@ -50,3 +63,23 @@ Narbutas rašo, kad Vite-Hardua pats kovojo, vedė derybas ir puotavo su variaga
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+## Citatos
+
+- id: c-187942
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 75"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 75."
+  citata_originali: |
+    bet visuose tuose svarstymuose būtų galima surasti vos
+    kelis žodžius teisybės. O toji teisybė būtų tokia ■— varia­
+    gai buvo karių bendrija. Jau labai seniai tai pasakė pran­
+    cūzų istorikas Vite-Hardua (Ville-Hardouin), kuris pats
+    kovojo, vedė derybas ir puotavo su variagais.
+  citata_rodoma: "O toji teisybė būtų tokia ■— varia­\ngai buvo karių bendrija. Jau labai seniai tai pasakė pran­\ncūzų istorikas Vite-Hardua (Ville-Hardouin), kuris pats \nkovojo, vedė derybas ir puotavo su variagais."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

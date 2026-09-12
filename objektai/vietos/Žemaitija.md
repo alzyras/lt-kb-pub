@@ -1502,8 +1502,21 @@ historical_names: []
   pagrindžia:
     - c-175995
 
-<a id="claim-t-194762"></a>
+<a id="claim-t-194761"></a>
 - t-079
+  teiginys: "Kitas pastebėjimas: tokie akmenys tik kai kur, tai yra tik ke liose vietose, buvo rasti toje Žemaitijos dalyje, kur gyveno hiriai ir hendai, tai yra Raseinių bei Upytės apskrityse."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-177157
+
+<a id="claim-t-194762"></a>
+- t-080
   teiginys: "Nepai sant visų šių pastangų, XVI amžiaus pabaigoje ir XVII amžiuje Žemaitija dar turėjusi mažai krikščionių mokytojų, be to, plėšo ma kalvinizmo sektantiškumo, jautė labai didelį katalikų kuni gų stygių."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -1516,7 +1529,7 @@ historical_names: []
     - c-177158
 
 <a id="claim-t-196764"></a>
-- t-080
+- t-081
   teiginys: "Kojelavičiaus pasakojime iš Vokietijos sutraukta kariuomenė buvo skirta Prūsijos ir Žemaitijos žemdirbiams išžudyti."
   atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
@@ -1529,7 +1542,7 @@ historical_names: []
     - c-168579
 
 <a id="claim-t-196765"></a>
-- t-081
+- t-082
   teiginys: "Kojelavičius rašo, kad Žemaitijoje tuo metu nebuvo priešų, bet kraštą užgriuvo nuodingų kirminų nelaimė."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -1542,7 +1555,7 @@ historical_names: []
     - c-168582
 
 <a id="claim-t-196767"></a>
-- t-082
+- t-083
   teiginys: "Sutraukus visas jėgas, kariuomenė per Žemaitiją nužygiavo prie Žeimelės upelio ir ten įrengė įtvirtintą stovyklą."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -1555,7 +1568,7 @@ historical_names: []
     - c-178901
 
 <a id="claim-t-197183"></a>
-- t-083
+- t-084
   teiginys: "Autentiški faktai atskleidžia žiaurią, beatodairišką vokiečių feodalų, Kryžiuočių ordino ekspansiją į baltų—prūsų, jotvingių, lietuvių žemes, niokojimus ir žudynes didžiuliame plote nuo Vyslos žemupio iki Centrinės Žemaitijos, Nevėžio ir Nemuno aukštupio."
   atnaujinta: "2026-07-12 22:31"
   sprendimo_priezastis: "auto"
@@ -1568,7 +1581,7 @@ historical_names: []
     - c-179055
 
 <a id="claim-t-197488"></a>
-- t-084
+- t-085
   teiginys: "Lietuvos ponai 1316 metų sausio mėnesį Lietuvos didžiuoju kunigaikščiu paskelbė Gediminą, kuris prieš tai gyveno Ariogaloje ir valdė kunigaikščio žemes ir kaimenes Žemaitijoje."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -1581,7 +1594,7 @@ historical_names: []
     - c-179218
 
 <a id="claim-t-197943"></a>
-- t-085
+- t-086
   teiginys: "Vis dėlto yra tokių vietų, ypač Žemaitijoje, Užgiryjet t."
   atnaujinta: "2026-07-12 22:34"
   sprendimo_priezastis: "auto"
@@ -1592,6 +1605,96 @@ historical_names: []
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-179410
+
+<a id="claim-t-205224"></a>
+- t-087
+  teiginys: "Nuo seno kai ku riuose Žemaitijos pavietuose gyvavo įprotis kinkyti jau čius užkabinant vadžias už ragų."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-188001
+
+<a id="claim-t-205838"></a>
+- t-088
+  teiginys: "Teodoras Narbutas nurodo, kad 1251 m. pabaigoje ir 1252 m. pradžioje Žemaitiją bei Žemgalą ištiko toks pat likimas."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
+  pagrindžia:
+    - c-188453
+
+<a id="claim-t-205839"></a>
+- t-089
+  teiginys: "Teodoras Narbutas rašo, kad jo aprašomu metu Žemaitiją sudarė Raseinių, Telšių ir Šiaulių apskritys, o anksčiau ji buvo padalyta į 24 pavietus."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
+  pagrindžia:
+    - c-188454
+
+<a id="claim-t-205840"></a>
+- t-090
+  teiginys: "Teodoro Narbuto pasakojimu, Lenkijos karaliaus įsiveržimas į Kulmo žemę privertė kryžiuočius trauktis iš Žemaitijos ir sužlugdė jų didįjį sumanymą."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
+  pagrindžia:
+    - c-188455
+
+<a id="claim-t-206613"></a>
+- t-091
+  teiginys: "1344 m. kryžiaus žygio kariuomenė įsiveržė į Žemaitijos kraštą per Nemuną prie Ragainės."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189228
+
+<a id="claim-t-206614"></a>
+- t-092
+  teiginys: "Kryžiuočiai, Teodoro Narbuto aprašymu, didžiavosi tvirta taika su Lietuvos Didžiąja Kunigaikštyste, o Žemaitiją laikė išimtimi, nes Žemaitija atkakliai laikėsi pagonybės ir nebuvo aiškiai pavaldi Skirgailai."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189229
+
+<a id="claim-t-206615"></a>
+- t-093
+  teiginys: "Teodoras Narbutas perteikia teiginį, kad visas Žemaitijos kraštas turi priklausyti ordinui, nes taip, esą, buvo nuo seno."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189230
 
 ## Reikšmingi paminėjimai
 - c-022
@@ -3004,7 +3107,7 @@ historical_names: []
   patikimumo_saltinis: ai
   pagrindzia:
     - t-052
-    - t-080
+    - t-081
 
 - id: c-168580
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -3065,7 +3168,7 @@ historical_names: []
   patikimumo_saltinis: ai
   pagrindzia:
     - t-054
-    - t-081
+    - t-082
 
 - id: c-168583
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -3665,10 +3768,12 @@ historical_names: []
   citata_rodoma: "Iszskalbk man amzuliali.\nKitas pastebėjimas: tokie akmenys tik kai kur, tai yra tik ke­\nliose vietose, buvo rasti toje Žemaitijos dalyje, kur gyveno hiriai\nir hendai, tai yra Raseinių bei Upytės apskrityse. Ten turėjo vykti\nreliginės apeigos, kurias atnešė ateiviai iš Brandenburgo (apie\njuos dar teks pakalbėti)."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-079
+
 - id: c-177158
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -3690,7 +3795,7 @@ historical_names: []
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-079
+    - t-080
 
 - id: c-178901
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -3712,7 +3817,7 @@ historical_names: []
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-082
+    - t-083
 
 - id: c-179055
   autorius: "Petras Dusburgietis"
@@ -3739,7 +3844,7 @@ historical_names: []
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-083
+    - t-084
 
 - id: c-179218
   autorius: "Teodoras Narbutas"
@@ -3760,7 +3865,7 @@ historical_names: []
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-084
+    - t-085
 
 - id: c-179410
   autorius: "Teodoras Narbutas"
@@ -3783,7 +3888,149 @@ historical_names: []
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-085
+    - t-086
+
+- id: c-188001
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 393"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 393."
+  citata_originali: |
+    Arti žemei jiems buvo geri 'ir jaučiai, ir arkliai.
+    Lietuvoje plūgai niekada nebuvo naudojami, arklai buvo
+    ir anksčiau paplitę, ir dabar jų yra įvairiausių struktūrų,
+    taip sumaniai pritaikytų visokioms dirvoms, kad tik per
+    ilgą laiką sukaupta patirtis ir rūpinimasis stropiai išdirb­
+    ti žemę galėjo sąlygoti tuos išradimus. Nuo seno kai ku­
+    riuose Žemaitijos pavietuose gyvavo įprotis kinkyti jau­
+    čius užkabinant vadžias už ragų.
+  citata_rodoma: "Nuo seno kai ku­\nriuose Žemaitijos pavietuose gyvavo įprotis kinkyti jau­\nčius užkabinant vadžias už ragų."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-087
+
+- id: c-188453
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 139"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 139."
+  citata_originali: |
+    Vėlei pats
+    magistras Andrius Stirietis, sutelkęs kryžiuočius ir viso­
+    keriopus riterius, iš kitos pusės puolė Lietuvą, pasuko
+    savo voras Ukmergės link, su didžiuoju kunigaikščiu sto­
+    jo į mūšį, kurį visiškai laimėjo. Vėliau puolė tiesiog visą
+    kraštą, net iki Kernavės apylinkių1, ir išsigabeno daug
+    grobio. Tokio pat likimo tuo laiku, būtent 1251 metų pa­
+    baigoje ir 1252 metų pradžioje, sulaukė Žemaitija bei Žem­
+    gala.
+  citata_rodoma: "Tokio pat likimo tuo laiku, būtent 1251 metų pa­\nbaigoje ir 1252 metų pradžioje, sulaukė Žemaitija bei Žem­\ngala."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-088
+
+- id: c-188454
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 153"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 153."
+  citata_originali: |
+    Jų šnekta, netgi dabar Žemaitijoje
+    vartojama, yra ne kokia kita kaip tik lietuvių kalba, ne­
+    daug kuo tesiskirianti nuo pačios gryniausios, kurią yra
+    išlaikę Ukmergės lietuviai. Žemaitiją dabar sudaro trys
+    apskritys: Raseinių, Telšių ir Šiaulių. Anksčiau ji buvo
+    padalyta į 24 mažus pavietus, kurie prieš uniją buvo pa­
+    skiros kunigaikštystės, valdomos paveldėjimo teise didikų,
+    kitaip sakant, kunigaikščių1, kurie įėjo į federaciją, kartais
+    vadovaujamą vieno, iš saviškių išrinkto, kartais tiesiog
+    vyriausiajam žyniui priklausančią; turėjo sueigas, šau­
+    kiamas tartis dėl politinių reikalų.
+  citata_rodoma: "Žemaitiją dabar sudaro trys \napskritys: Raseinių, Telšių ir Šiaulių. Anksčiau ji buvo \npadalyta į 24 mažus pavietus, kurie prieš uniją buvo pa­\nskiros kunigaikštystės, valdomos paveldėjimo teise didikų, \nkitaip sakant, kunigaikščių1, kurie įėjo į federaciją"
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-089
+
+- id: c-188455
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 453"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 453."
+  citata_originali: |
+    Ne­
+    paisydamas to, nusprendė tęsti karą, kurį, kaip buvo gi­
+    riamasi, iš pradžių lydėjo sėkmė. Tačiau atskriejo neti­
+    kėta žinia, jog Lenkijos karalius nutraukė paliaubas, įžen­
+    gė į Kulmo žemę su penktais tūkstančiais karių ir sker­
+    sai išilgai per penkias dienas nuniokojo. Tas įvykis pri­
+    vertė kryžiuočius kuo greičiau trauktis iš Žemaitijos, ir
+    didžiajam ketinimui buvo padarytas galas.
+  citata_rodoma: "Tačiau atskriejo neti­\nkėta žinia, jog Lenkijos karalius nutraukė paliaubas, įžen­\ngė į Kulmo žemę su penktais tūkstančiais karių ir sker­\nsai išilgai per penkias dienas nuniokojo. Tas įvykis pri­\nvertė kryžiuočius kuo greičiau trauktis iš Žemaitijos, ir \ndidžiajam ketinimui buvo padarytas galas."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-090
+
+- id: c-189228
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 76"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 76."
+  citata_originali: |
+    Artėjo 1344 metų pradžia,
+    kai kryžiaus žygio kariai, prie Ragainės persikėlę per Nem u­
+    ną, įsiveržė į Žemaitijos kraštą, iš tiesų plačia juosta, betgi ne­
+    bebuvo ko plėšti, kadangi kaim o žmonės, laiku perspėti,
+    išsikėlė iš pavojingų vietovių.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-091
+
+- id: c-189229
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 374"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 374."
+  citata_originali: |
+    Dargi kryžiuočiai didžiavosi už­
+    silaikiusia tvirta taika su Lietuvos Didžiąja Kunigaikštyste, tik
+    Žemaitija, kaip kraštas užsispyrusiai neatsimetantis nuo pago­
+    nybės ir nebuvęs aiškioje Skirgailos valdžioje, buvo išimtis.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-092
+
+- id: c-189230
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 525"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 525."
+  citata_originali: |
+    Visas
+    Žemaitijos kraštas turi priklausyti ordinui, kaip nuo seno buvo.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-093
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Dormunimundas]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Sutinkąs]], [[objektai/grupes/Vokiečių ordinas]]

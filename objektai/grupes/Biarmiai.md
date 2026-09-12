@@ -29,8 +29,50 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
 
 ## Teiginiai
 
-<a id="claim-t-189434"></a>
+<a id="claim-t-189430"></a>
 - t-001
+  teiginys: "Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos šaka, besiskiriančia tarme, papročiais ir fizionomija."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Slavai: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Biarmiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Slavai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Biarmiai apibūdinti kaip atskira šiaurės slavų šeimos šaka."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Biarmiai priklausė Slavai (0.84)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-172317
+
+<a id="claim-t-189431"></a>
+- t-002
+  teiginys: "Narbutas rašė, kad iki vikingų atsikraustymo į Didįjį Naugardą Biarmija, palaikydama ryšius su Naugardo slavais, sudarė atskirą valstybę."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Naugardas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vikingai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Naugardas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Formuluotė tiesiogiai nurodo vikingų atsikraustymą į Naugardą."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Vikingai keliavo į Naugardas (0.86)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-172318
+
+<a id="claim-t-189434"></a>
+- t-003
   teiginys: "Narbutas šventąjį Steponą, Permės vyskupą, vadino tikruoju Biarmijos apaštalu ir siejo su Biarmijos krikščionėjimu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -48,6 +90,19 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
     - c-172321
+
+<a id="claim-t-189435"></a>
+- t-004
+  teiginys: "Narbutas teigė, kad biarmiai nuo senų laikų turėjo savo raidyną, gerokai ankstesnį už XI amžių."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-172322
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -121,10 +176,12 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   citata_rodoma: "Tuo tarpu apsiribosime pasa­\nkydami štai ką.\nBiarmiai, arba permiai, kalba slavų rusų arba rusų kalba,\nbet turi savitą tos kalbos tarme; yra papročių ir fizionomijos\nskirtumų, kurie šiuose žmonėse leidžia įžiūrėti atskirą didelės\nšiaurės slavų šeimos šaką. Matoma, kad jie apsigyveno toli­\nmuose Siaurės Europos rytuose seniausiai, kai tik slavų gen­\nties tautos galėjo užklysti į tuos kraštus, kuriuose šiandien to­\nkios varginančios ir ilgos žiemos."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-172318
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -148,10 +205,12 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   citata_rodoma: "Apie juos senovės Graikijos\ngeografai sužinojo iš skitų, tačiau sunku išskirti jų tuometi­\nnius pavadinimus iš daugelio Siaurės Europos gyventojų, kad\nir paties Herodoto išvardytų.\nIš amžių iki vikingų atsikraustymo į Didįjį Naugardą maža\nką galima pasakyti apie Biarmiją, kuri, liesdamasi su Naugar-\ndo slavais ir palaikydama su jais santykius, vis dėlto sudarė\natskirą valstybę. Vėliau iš skandinavų legendų arba iš gana\nfragmentiškų Biarmijos paminėjimų matome, jog ta šalis bu­\nvusi turtinga, turėjusi gausybę brangiųjų metalų ir tiek svarbi,\nkad skandinavų plėšikai, tai yra tų amžių keliautojai, negailė­\njo pastangų įveikti kliūtis, kuriomis gamta atskyrė biarmiečius\ndėl grobio, išperkamo savo pačių krauju, kadangi biarmiečiai\nmokėjo gana neblogai gintis."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
 - id: c-172321
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -174,7 +233,7 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-003
 
 - id: c-172322
   autorius: "Teodoras Narbutas"
@@ -191,7 +250,8 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   citata_rodoma: "Mat jeigu biarmiečiai nebūtų turėję savo rai­\ndyno, nebūtų buvę reikalo išradinėti naujo, turint rankose ir\nslavišką raštą, ir knygas, kurių kalba ir ten buvo vietinė. Ta­\nčiau akivaizdžiausias yra dalykas, kad biarmiečiai turėjo savo\nraidyną nuo senų laikų, gerokai ankstesnių už XI amžių. Pati\nto raidyno sudėtis įrodo jį esant labai seną."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

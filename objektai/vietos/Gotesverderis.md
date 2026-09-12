@@ -54,6 +54,19 @@ historical_names: []
   pagrindžia:
     - c-02698
 
+<a id="claim-t-206479"></a>
+- t-002
+  teiginys: "Gotesverderio tvirtovė buvo pastatyta ant Naujojo Kauno griuvėsių dviejų upių santakoje, o ši vieta anksčiau vadinta Virgaliu."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189094
+
 ## Citatos
 
 - id: c-02698
@@ -78,6 +91,29 @@ historical_names: []
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-189094
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 188"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 188."
+  citata_originali: |
+    Vieta jai buvo pasirinkta ant Naujojo Kauno
+    griuvėsių, kuris, nežinia kokiomis aplinkybėmis, prieš kiek laiko
+    buvo sugriautas, nes kronikininkas, kuo aiškiausiai šitą dalyką
+    aprašęs, Vygandas, nurodo, kad visa tai dėjosi dviejų upių san­
+    takoje, ir toji nauja tvirtovė buvo pavadinta Dievo Sala - Go-
+    tesverderiu1; ta vietovė, skalaujama vandenų, nuo seno lietuvių
+    buvo vadinama Virgaliu, vėliau - Naujuoju Kaunu, o sala ga­
+    liausiai kryžiuočių Gotesverderio tvirtovei žlugus - Salynu, nuo
+    Sala, sala, dabar ten išlikęs kaimas, vadinam as Silainiais
+    (Szylany).
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]

@@ -54,11 +54,35 @@ Nenurodyta
 
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Komentare nurodoma, kad 1428 m. D. Naugardo delegacija Vilniuje ir Trakuose apdovanojo Vytautą sabalų kailiniais.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+<a id="claim-t-186868"></a>
+- t-001
+  teiginys: "Komentare nurodoma, kad 1428 m. D. Naugardo delegacija Vilniuje ir Trakuose apdovanojo Vytautą sabalų kailiniais."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sabalų kailiniai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sabalų kailiniai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: 1427 m.; įvykio data: 1428 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo komentaro kontekstą, datą, vietas ir Vytautui įteiktą dovaną. Nepridėta kitų citatoje minimų dovanų kaip pagrindinio objekto."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  pagrindžia:
+    - c-170052
+
+## Citatos
+
+- id: c-170052
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     —  Pagal J . Dlugošą 10 tūks­
     tančių buvo vienkartinė kontribucija, kurią iš pusės sudėjo D. Nau­
@@ -71,8 +95,11 @@ Nenurodyta
     pati delegacija, 1428 m. kovo mėn. lankiusis pas Vytautą Vilniuje
     ir Trakuose, taip pat apdovanojo Vytautą sabalų kailiniais, gyvais
     sabalais, šilko rietimais ir kt. dovanomis.
-  citata_rodoma: ''
+  citata_rodoma: "1 1  BK versija apie Pskovo Ir D. Naugardo mokamą Lietuvos \nDidžiajai Kunigaikštystei duoklę gali būti paremta žinia apie do­\nvanas, kurias Vytautas gavo bene 1427 m. vasarą, vizituodamas \nrytines savo valstybės dalis. Kaip tik tos jo  kelionės metu į Smo­\nlenską buvo atvykusi D. Naugardo delegacija su dovanomis; ta \npati delegacija, 1428 m. kovo mėn. lankiusis pas Vytautą Vilniuje \nir Trakuose, taip pat apdovanojo Vytautą sabalų kailiniais, gyvais \nsabalais, šilko rietimais ir kt. dovanomis."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

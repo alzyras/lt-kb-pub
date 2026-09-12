@@ -1,0 +1,85 @@
+---
+tipas: ivykis
+pavadinimas: 'Skirgailos nušalinimas nuo Vilniaus valdžios'
+saltiniai:
+  - 'į Ą'
+datos:
+  - '1390 m.'
+date_start: '1390'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Skirgailos nušalinimas nuo Vilniaus valdžios
+
+## Santrauka
+
+Vladislovas, kurį Narbutas įvardija karaliumi, paskyrė Jaską Olesnickį Vilniaus seniūnu ir nušalino Skirgailą nuo miesto valdžios.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Teiginiai
+
+<a id="claim-t-206839"></a>
+- t-001
+  teiginys: "Vladislovas, kurį Narbutas įvardija karaliumi, paskyrė Jaską Olesnickį Vilniaus seniūnu ir nušalino Skirgailą nuo miesto valdžios."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189454
+
+## Santrauka
+
+Vladislovas, kurį Narbutas įvardija karaliumi, paskyrė Jaską Olesnickį Vilniaus seniūnu ir nušalino Skirgailą nuo miesto valdžios.
+
+## Citatos
+
+- id: c-189454
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 395"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 395."
+  citata_originali: |
+    Tuo tarpu, pasigilinęs į įvykius sostinėje, įsitikino, kad
+    Skirgailos valdžia gyventojams buvo nepakeliamai sunki, ali­
+    nanti, neteisinga; šitai patvirtino Moskorovskis, nepanoręs to­
+    liau likti pavaldus tam kunigaikščiui, prašė leisti grįžti į Lenkiją.
+    Tada karalius Vladislovas Vilniaus seniūnu paskyrė Jaską Oles-
+    nickį, Dembno herbo, o Skirgailą nušalino nuo miesto valdžios.
+    Žinoma, pats apsiėmė ir visą Lietuvą valdyti, išsiuntęs tą kuni­
+    gaikštį į Kijevą Pietų Rusios vietininku;
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

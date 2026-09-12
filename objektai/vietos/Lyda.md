@@ -56,6 +56,32 @@ Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema a
   pagrindžia:
     - c-75102
 
+<a id="claim-t-206517"></a>
+- t-002
+  teiginys: "Teodoras Narbutas nurodo, kad Lyda buvo valdovo valdžioje, o to valdovo santykiai su Vytautu po Vytauto žygio su kryžiuočiais į Lydą buvo labai pašliję."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189132
+
+<a id="claim-t-206518"></a>
+- t-003
+  teiginys: "Teodoro Narbuto aiškinimu, lietuviškas vietovardis Lyda (Lida) reiškia skynimą – iškirsto miško ruožą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189133
+
 ## Citatos
 
 - id: c-75102
@@ -79,3 +105,42 @@ Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema a
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-189132
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 422"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 422."
+  citata_originali: |
+    Kaip kad ma­
+    tėme, jo valdžioje buvo Lyda ir nuo Vytauto žygio su kryžiuo­
+    čiais į tą miestą laikų jo santykiai su pastaruoju turėjo būti
+    labai pašliję (§ 1400). Dabar gyveno Naugarduke ir rūpinosi
+    susigrąžinti Lydą; kai tas jam buvo atsakytasis, subūręs kazo­
+    kus, persikėlė per Nemuną ir su ginklu rankose traukė užimti
+    tą miestą.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-189133
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 509"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 509."
+  citata_originali: |
+    Ta vietovė, apie 1180 metus nukariavus Dainavos kunigaikš­
+    tystę, kuriai ji priklausė, yra lietuvių gyvenvietė. Lietuviškai
+    Lyda (Lida) reiškia skynimą - ruožą, kur iškirstas miškas. Pi­
+    lis buvo įkurdinta didžiojo kunigaikščio Gedimino 1323 m e­
+    tais; ją statė Kijevo meistrai, buvo pasinaudota ir belaisviais iš
+    Voluinės1.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

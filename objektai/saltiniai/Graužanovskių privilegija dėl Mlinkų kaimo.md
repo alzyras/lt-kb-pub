@@ -36,11 +36,26 @@ Narbutas nurodo, kad didysis kunigaikštis Žygimantas Kęstutaitis 1439 m., Šv
 
 Narbutas nurodo, kad didysis kunigaikštis Žygimantas Kęstutaitis 1439 m., Šv. apaštalo Andriaus dieną Trakuose, suteikė privilegiją dėl Mlinkų kaimo Naugarduko paviete.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Narbutas nurodo, kad didysis kunigaikštis Žygimantas Kęstutaitis 1439 m., Šv. apaštalo Andriaus dieną Trakuose, suteikė privilegiją dėl Mlinkų kaimo Naugarduko paviete.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
+<a id="claim-t-205566"></a>
+- t-001
+  teiginys: "Narbutas nurodo, kad didysis kunigaikštis Žygimantas Kęstutaitis 1439 m., Šv. apaštalo Andriaus dieną Trakuose, suteikė privilegiją dėl Mlinkų kaimo Naugarduko paviete."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187699
+
+## Citatos
+
+- id: c-187699
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 468"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 468."
   citata_originali: |
     Neturtingas Naugarduko apskrities bajoras Antanas,
     Jono sūnus, Petro anūkas, Mikalojaus proanūkis, Aleksan­
@@ -60,8 +75,10 @@ Narbutas nurodo, kad didysis kunigaikštis Žygimantas Kęstutaitis 1439 m., Šv
     mantas Senasis tą privilegiją atnaujino, t. y. patvirtino
     ankstesnius mainus. Tai įvyko 1523 metų balandžio 16
     dieną.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

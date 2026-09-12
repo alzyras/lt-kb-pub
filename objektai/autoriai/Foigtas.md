@@ -68,6 +68,32 @@ Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų
   pagrindžia:
     - c-177049
 
+<a id="claim-t-205487"></a>
+- t-003
+  teiginys: "Foigtas savo tyrimo darbais išsiaiškino, kad Sambijoje, tenykš tės Romuvos apylinkėse, tokio lauko būta."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187986
+
+<a id="claim-t-206222"></a>
+- t-004
+  teiginys: "Foigtas kritiškai aprašė mūšį, o Teodoras Narbutas apie jį išdėstė remdamasis ir vietovių išžvalgymais."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-188837
+
 ## Citatos
 
 - id: c-173272
@@ -109,3 +135,36 @@ Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-187986
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 142"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 142."
+  citata_originali: |
+    Foigtas savo tyrimo darbais išsiaiškino, kad Sambijoje, tenykš­
+    tės Romuvos apylinkėse, tokio lauko būta.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-188837
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 197"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 197."
+  citata_originali: |
+    Apie tą mūšį visi kronikininkai rašo kiekvienas savaip, vėliau ir studijų
+    jam buvo skirta, ir Bekeris (Beker) savo veikale apie Henriko Rniprodės
+    laikus, esą iš kažkokio Vincento kronikos paėmęs, daug pripaistė. Ponas
+    Foigtas, reikliai analizuodamas, jį aprašė, tuo ir vietovių išžvalgymais rem­
+    damasis stengiausi apie tai išdėstyti.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

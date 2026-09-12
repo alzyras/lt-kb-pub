@@ -4,6 +4,7 @@ pavadinimas: 'Grigalius Chodkevičius'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - '„Mes, Lietuva.“ LDK bajorija XVI a.'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -73,6 +74,25 @@ Radvilos buvo jo šešiolikmetis sūnus Kristupas Radvila, vėliau tapęs didži
   pagrindžia:
     - c-168071
 
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Grigalius Chodkevičius raštu paliudijo, kad Bogdanas Senkavičius pats ir už brolį atvyko į karo tarnybą bei įsirašė į vėliavininko sąrašą.'
+  šaltinis: 02-kiaupiene-mes-lietuva-ldk-bajorija
+  citata_originali: |
+    Iš 1568 m. Žygimanto Augusto rašto dvarioniui Bogušui Ovsianui sužinome, kad
+    bajoro Bogdano Senkavičiaus žmona skundėsi, kad jų Skorobovo dvarelį su valdiniais,
+    pastatais ir viskuo, kas jame buvo, minėtas B. Ovsianas prijungė prie valdovo Cerinio
+    dvaro, nurodydamas priežastį, kad dvarelio savininko brolis, kuris neturi atsidalijęs
+    savo dalies, nestojo į karo tarnybą. Valdovui buvo pateiktas didžiojo etmono Grigo
+    Chodkevičiaus raštas, kuriuo jis paliudijo, kad konfiskuoto Skorobovo dvarelio savi-
+    ninkas Bogdanas Senkavičius pats už save ir už brolį atvyko į karo tarnybą, įsirašė į
+    vėliavininko sąrašą ir yra didžiojo etmono kariuomenėje, rašė, kad pas jį [G. Chodkevi-
+    čių] buvo atvažiavusi nuskriaustojo žmona ir prašė padarytą didelę skriaudą atlyginti ir
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-44337

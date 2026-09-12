@@ -8,7 +8,10 @@ import { Footer, ObjectEvidencePage } from "../../components"
 import { defaultProcessedContent } from "../vfile"
 import { write } from "./helpers"
 import { sharedPageComponents } from "../../../quartz.layout"
-import { PAGE_SIZE } from "../../components/ObjectEvidencePage"
+import { PAGE_SIZE, Claim, CitationRecord } from "../../components/ObjectEvidencePage"
+import { renderToString } from "preact-render-to-string"
+import { claimTopics } from "../../util/objectEvidenceFilter"
+import { objectBibliography } from "../../util/objectBibliography"
 import {
   isObjectDetailSlug,
   objectDetailEvidenceFromFile,
@@ -46,6 +49,20 @@ export const ObjectEvidencePages: QuartzEmitterPlugin = () => {
         const sourcePath = String(file.data.filePath ?? "")
         const evidence = objectDetailEvidenceFromFile(sourcePath)
         const items = objectEvidenceDisplayItems(evidence)
+        const citationPositions = new Map(
+          items.flatMap((item, position) =>
+            item.kind === "citation" ? [[item.value, position] as const] : [],
+          ),
+        )
+        const claimPositions = new Map(
+          items.flatMap((item, position) =>
+            item.kind === "claim" ? [[item.value.id, position] as const] : [],
+          ),
+        )
+        const bibliography = objectBibliography(allFiles, evidence)
+        const sourceIds = new Map(
+          bibliography.flatMap((row) => row.aliases.map((alias) => [alias, row.id] as const)),
+        )
         const view = objectPageViewModel(
           (file.data.frontmatter ?? {}) as Record<string, unknown>,
           evidence,
@@ -62,8 +79,11 @@ export const ObjectEvidencePages: QuartzEmitterPlugin = () => {
         yield write({
           ctx,
           content: JSON.stringify({
-            version: 1,
-            items: items.map((item, position) => {
+            version: 2,
+            items: [
+              ...items.filter((item) => item.kind === "claim"),
+              ...evidence.citationRecords.map((value) => ({ kind: "citation" as const, value })),
+            ].map((item, position) => {
               const page = Math.floor(position / PAGE_SIZE) + 1
               if (item.kind === "claim") {
                 return {
@@ -71,6 +91,26 @@ export const ObjectEvidencePages: QuartzEmitterPlugin = () => {
                   id: item.value.id,
                   text: item.value.text,
                   sources: item.value.sourceTitles,
+                  sourceIds: item.value.sourceTitles.map((title) => sourceIds.get(title) || title),
+                  topics: claimTopics(
+                    file.data.frontmatter as Record<string, unknown>,
+                    item.value.id,
+                    item.value.globalIds,
+                  ),
+                  origin: "internal",
+                  rank: view.featuredClaimIds.includes(item.value.id)
+                    ? 6 - view.featuredClaimIds.indexOf(item.value.id)
+                    : 0,
+                  html: renderToString(
+                    <Claim
+                      claim={item.value}
+                      topics={claimTopics(
+                        file.data.frontmatter as Record<string, unknown>,
+                        item.value.id,
+                        item.value.globalIds,
+                      )}
+                    />,
+                  ),
                   href: itemHref(page, `claim-${item.value.id}`),
                 }
               }
@@ -79,6 +119,10 @@ export const ObjectEvidencePages: QuartzEmitterPlugin = () => {
                   item.value.entry.fields.get("saltinis") ||
                   "",
               )
+              const displayPosition = citationPositions.get(item.value) ?? -1
+              const linkedPosition = claimPositions.get(item.value.linkedClaimIds[0]) ?? -1
+              const targetPosition =
+                displayPosition >= 0 ? displayPosition : Math.max(0, linkedPosition)
               return {
                 kind: item.value.significantMention ? "mention" : "citation",
                 id: item.value.id,
@@ -88,7 +132,16 @@ export const ObjectEvidencePages: QuartzEmitterPlugin = () => {
                     source,
                 ),
                 sources: source ? [source] : [],
-                href: itemHref(page, `citation-${item.value.section}-${item.value.id}`),
+                sourceIds: source ? [sourceIds.get(source) || source] : [],
+                standalone: item.value.standalone,
+                origin: "internal",
+                html: renderToString(<CitationRecord record={item.value} />),
+                href: itemHref(
+                  Math.floor(targetPosition / PAGE_SIZE) + 1,
+                  displayPosition >= 0
+                    ? `citation-${item.value.section}-${item.value.id}`
+                    : `claim-${item.value.linkedClaimIds[0]}`,
+                ),
               }
             }),
           }),

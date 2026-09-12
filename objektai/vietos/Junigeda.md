@@ -293,6 +293,32 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
   pagrindžia:
     - c-178840
 
+<a id="claim-t-205771"></a>
+- t-016
+  teiginys: "Anot Teodoro Narbuto, per Nemuną persikėlę užpuolikai užpuolė Junigedos pavietą, kuriame padarė daug žalos ir sugavo arba nužudė apie 700 žmonių."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188386
+
+<a id="claim-t-205772"></a>
+- t-017
+  teiginys: "Po Kolainių pilaitės sugriovimo lietuviai, vietovę pripažinę netinkama, kairiajame Nemuno krante pastatė pilį ir pavadino ją Junigeda."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188387
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Po to broliai nuplaukė beveik iki Junigedos pilies.'
@@ -639,6 +665,42 @@ Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junige
   patikimumo_saltinis: ai
   pagrindzia:
     - t-015
+
+- id: c-188386
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 293"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 293."
+  citata_originali: |
+    ginkluotų žmonių iš Nemuno pusės įsiveržė į Žemaitiją.
+    Ten, užsukę į įgulos apleistą Kolainių pilaitę, nežinia
+    kodėl ją. sugriovė; tada, persikėlę per Nemuną, užpuolė
+    Junigedos pavietą, kuriame, padarę daug žalos, sugavo
+    arba nužudė apie septynetą šimtų lietuvių1.
+  citata_rodoma: "tada, persikėlę per Nemuną, užpuolė \nJunigedos pavietą, kuriame, padarę daug žalos, sugavo \narba nužudė apie septynetą šimtų"
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
+
+- id: c-188387
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 293"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 293."
+  citata_originali: |
+    1291 m. Kitas žygis. Po to, kai buvo sugriauta Kolainių
+    pilaitė, lietuviai, patyrę vietovę esant netinkamą, pastatė
+    pilį kairiajame Nemuno krante ir pavadino Junigeda, tai­
+    kydamiesi prie tuometinių aplinkybių1 2.
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-017
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Henrikas Cutsvertas]], [[objektai/asmenys/Konradas Štangė]]

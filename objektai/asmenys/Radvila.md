@@ -56,8 +56,20 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
   pagrindžia:
     - c-169532
 
-<a id="claim-t-196586"></a>
+<a id="claim-t-193973"></a>
 - t-002
+  teiginys: "Jo įkėli mui į chano sostą drauge su juo pasiuntė krašto mar šalą Radvilą 3 2 ."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-176598
+
+<a id="claim-t-196586"></a>
+- t-003
   teiginys: "Radvila, raitelių būrio vadas, patarė kariams persikelti per patvinusią Vyslą prie Zavichosto pilies."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -68,6 +80,31 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178780
+
+<a id="claim-t-206372"></a>
+- t-004
+  teiginys: "Radvila buvo vienas lietuvių raitelių vadų."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188987
+
+<a id="claim-t-206373"></a>
+- t-005
+  teiginys: "Narbutas rašo, kad narsiajam Radvilai vadovaujant pilaitė buvo apmėtyta žabais, todėl lenkai, grėsus sudegti gyviems, neįstengė gintis ir buvo paimti nelaisvėn."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188988
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -108,23 +145,6 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- c-002
-  santrauka: 'Jo įkėli mui į chano sostą drauge su juo pasiuntė krašto mar šalą Radvilą 3 2 .'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ir didysis kunigaikštis Kazimieras, pagerbęs ir ap­
-    dovanojęs tą chaną Ač-Girėjų, išsiuntė su iškilminga
-    palyda iš Lydos į Perekopo ordą viešpatauti. Jo įkėli­
-    mui į chano sostą drauge su juo pasiuntė krašto mar­
-    šalą Radvilą 3 2 . Ir Radvila atlydėjo jį pagarbiai ligi pa­
-    čios jo sostinės, iki Perekopo3 3 , ir ten didžiojo kuni­
-    gaikščio Kazimiero vardu įsodino jį Radvila į Perekopo
-    chanų sostą M .
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: not_found
 ## Citatos
 
 - id: c-169532
@@ -155,6 +175,27 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-176598
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Ir didysis kunigaikštis Kazimieras, pagerbęs ir ap­
+    dovanojęs tą chaną Ač-Girėjų, išsiuntė su iškilminga
+    palyda iš Lydos į Perekopo ordą viešpatauti. Jo įkėli­
+    mui į chano sostą drauge su juo pasiuntė krašto mar­
+    šalą Radvilą 3 2 . Ir Radvila atlydėjo jį pagarbiai ligi pa­
+    čios jo sostinės, iki Perekopo3 3 , ir ten didžiojo kuni­
+    gaikščio Kazimiero vardu įsodino jį Radvila į Perekopo
+    chanų sostą M .
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 - id: c-178780
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -188,4 +229,39 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-002
+    - t-003
+
+- id: c-188987
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 309"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 309."
+  citata_originali: |
+    tačiau nebuvo galimybės gauti valčių, tad Radvila,
+    vienas lietuvių raitelių vadų, parodė būdą persikelti, žinomą
+    jau nuo totorių laikų, tai yra žmogus, išsirengęs nuogai, plau­
+    kia palei žirgo šoną, laikydamasis už karčių, o jo drabužiai ir
+    ginklai, pritvirtinti ant mažo plaustelio iš meldų ar lengvo
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-188988
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 310"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 310."
+  citata_originali: |
+    Pilaitę tą bemat apmėtė žabais, taip pat vadovaujant narsia­
+    jam Radvilai; tuo būdu lenkai, gresiant pavojui sudegti gy­
+    viems, gintis neįstengė; tad daugybė įvairių žmonių buvo
+    paim ta nelaisvėn1 2.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005

@@ -166,6 +166,32 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
   pagrindžia:
     - c-184856
 
+<a id="claim-t-206248"></a>
+- t-009
+  teiginys: "Latvių kalboje žodis „Wakka“ reiškia činšą, duoklę arba rinkliavą, kaip nurodoma Stenderio gramatikoje."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-188863
+
+<a id="claim-t-206249"></a>
+- t-010
+  teiginys: "Karalienė Jadvyga laiške Vytautui nurodė, kad už savo valstybę kaip kraitį gavo Rusią ir Lietuvą bei teisę rinkti iš jų kasmetinę duoklę, vadintą činšu."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-188864
+
 ## Citatos
 
 - id: c-78620
@@ -401,3 +427,36 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-008
+
+- id: c-188863
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 483"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 483."
+  citata_originali: |
+    Latvių
+    šnekoj Wakka reiškia činšą, duoklę, rinkliavą (Stender. Leth. Grarnm. - S.
+    172).
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+
+- id: c-188864
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 487"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 487."
+  citata_originali: |
+    Karalienė Jadvyga rašė Vytau­
+    tui, kad ištekėdama iš vyro už savo valstybę kaip kraitį gavo
+    Rusią ir Lietuvą su ta sąlyga, kad ji turi teisę rinkti iš tų kraštų
+    tam tikrą kasmetinę duoklę, vadintą činšu.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010

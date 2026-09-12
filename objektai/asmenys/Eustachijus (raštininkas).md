@@ -64,6 +64,32 @@ Iš tos versmės ištekantis upelis vadi­ nosi Druja, nes yra miesto archyve ka
   pagrindžia:
     - c-83641
 
+<a id="claim-t-206280"></a>
+- t-002
+  teiginys: "Teodoro Narbuto pasakojimu, Nižilas, per krikštą pavadintas Eustachijumi, buvo didžiojo kunigaikščio dvariškis, o jo pravardė „Kruhlec“ galėjo reikšti pareigybę ar ką nors panašaus."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188895
+
+<a id="claim-t-206281"></a>
+- t-003
+  teiginys: "Teodoras Narbutas nurodo, kad istorikai nesutaria dėl Eustachijaus palaidojimo vietos, o Danilavičiaus „Metraštininkas“ ją sieja su Vilniumi, prie Šv. Mikalojaus cerkvės."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188896
+
 ## Citatos
 
 - id: c-83641
@@ -104,3 +130,39 @@ Iš tos versmės ištekantis upelis vadi­ nosi Druja, nes yra miesto archyve ka
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188895
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 562"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 562."
+  citata_originali: |
+    Trečiasis kankinys buvo anų pirmųjų giminaitis - Nižilas,
+    per krikštą pavadintas Eustachijumi, kuris taip pat buvo iš di­
+    džiojo kunigaikščio dvariškių, apie jį nežinome ankstesnių gy­
+    venimo detalių, tik kad buvo vadintas Kruhlec, tikriausiai tai
+    kokią pareigybę ar ką nors panašaus reiškė3.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-188896
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 562"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 562."
+  citata_originali: |
+    Dėl tų šventųjų kankinių ir lietuvių patro­
+    nų kūnų palaidojimo vietos istorikai nesutaria: Danilavičiaus
+    „M etraštininkas“ įsitikinęs teigia, kad Eustachijus buvo palai­
+    dotas Vilniuje, prie Šv. Mikalojaus cerkvės, vienoje duobėje
+    su Antanu ir Jonu5.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

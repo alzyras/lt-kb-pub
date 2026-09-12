@@ -250,6 +250,31 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   pagrindžia:
     - c-176785
 
+<a id="claim-t-205588"></a>
+- t-014
+  teiginys: "Gedimino laiškas Hanzos miestams skirtas Liubeko, Rostoko, Zundo, Greifsvaldo, Sietino ir Gotlando miestų reikalų valdytojams, tarėjams ir piliečiams, taip pat pirkliams bei amatininkams."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188203
+
+<a id="claim-t-205589"></a>
+- t-015
+  teiginys: "Lukas Davidas praneša, kad tuometinis magistras prikaišiojo rygiečiams dėl Gedimino laiškų paskleidimo po Hanzos miestus, tačiau apie laiškų neautentiškumą neužsimena."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
+  pagrindžia:
+    - c-188204
+
 ## Citatos
 
 - id: c-00312
@@ -541,6 +566,56 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   patikimumo_saltinis: ai
   pagrindzia:
     - t-013
+
+- id: c-188203
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 557"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 557."
+  citata_originali: |
+    Datum
+    Vilna A. Dni M. CCCXXIII. ipso die corporis christi. Li­
+    tera perlecta in una civitate petimus sub testimonio reli­
+    giosorum ac aliorum fide dignorum virorum ex scribiet
+    mittere in aliam sine mora, ut desiderium nostrum mani­
+    festatur universis, valete.
+    (Gediminas, Dievo malone lietuvių ir rutėnų karalius,
+    Zemgalijos valdovas ir kunigaikštis, gerbiamiems vyrams,
+    rūpestingiems ir garbingiems Liubeko, Rostoko, Zundo,
+    Greifsvaldo, Sietino ir Gotlando [miestų] reikalų valdyto­
+    jams, tarėjams ir piliečiams, pirkliams ir įvairios padėties
+    amatininkams [siunčia] pasveikinimą ir savo karališką
+    malonę bei palankumą.
+  citata_rodoma: "(Gediminas, Dievo malone lietuvių ir rutėnų karalius, \nZemgalijos valdovas ir kunigaikštis, gerbiamiems vyrams, \nrūpestingiems ir garbingiems Liubeko, Rostoko, Zundo, \nGreifsvaldo, Sietino ir Gotlando [miestų] reikalų valdyto­\njams, tarėjams ir piliečiams, pirkliams ir įvairios padėties \namatininkams [siunčia] pasveikinimą ir savo karališką \nmalonę bei palankumą."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014
+
+- id: c-188204
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 565"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 565."
+  citata_originali: |
+    Tiktai ponas Foigtas remiasi rašiusiojo laiškus baime, kad
+    tik kryžiuočiai, tąsyk besilinksminantys Liubeke, nesuži­
+    notų apie jo prasimanytą anspaudo sudeginimą; dėl to jis
+    nutylėjo šią detalę Hanzos miestams rašytame laiške. Sa­
+    vo informacijoje rašo prieštaringus dalykus, kai toliau
+    1 Livonijos kryžiuočiai to nedarė. Lukas Davidas (t. V.— P. 236)
+    praneša, kad tuometinis magistras prikaišiojo rygiečiams, jog Gedi­
+    mino laiškus paskleidė po Hanzos miestus, bet jis nė žodžio nesako
+    apie jų neautentiškumą.
+  citata_rodoma: "Lukas Davidas (t. V.— P. 236) \npraneša, kad tuometinis magistras prikaišiojo rygiečiams, jog Gedi­\nmino laiškus paskleidė po Hanzos miestus, bet jis nė žodžio nesako \napie jų neautentiškumą."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Dorpatas]], [[objektai/vietos/Kaunas]]

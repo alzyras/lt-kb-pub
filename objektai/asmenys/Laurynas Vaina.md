@@ -3,8 +3,17 @@ tipas: asmuo
 pavadinimas: 'Laurynas Vaina'
 saltiniai:
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
+  - '„Mes, Lietuva.“ LDK bajorija XVI a.'
+datos:
+  - '1578 m.'
+date_start: '1578'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
+amziai:
+  - 'XVI'
+periodo_grupes:
+  - 'LDK'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -29,7 +38,11 @@ canonical_biography: "Jiems buvo suteikta teisė kartu su Kauno muitinę nuomoja
 
 ## Santrauka
 
-Jiems buvo suteikta teisė kartu su Kauno muitinę nuomojančiu Lietuvos iždininku Laurynu Vaina rinkti muitus toje muitinėje, kol surinks paskolintus pinigus. Ji jau buvo išnuomota žemės iždininkui Laurynui Vainai, šis sutiko leisti Kaunui šią sumą išsirinkti.
+Jiems buvo suteikta teisė kartu su Kauno muitinę nuomojančiu Lietuvos iždininku Laurynu Vaina rinkti muitus toje muitinėje, kol surinks paskolintus pinigus. Ji jau buvo išnuomota žemės iždininkui Laurynui Vainai, šis sutiko leisti Kaunui šią sumą išsirinkti. 1578 m. Lietuvos Didžiosios Kunigaikštystės iždininkas Laurynas Vaina teigė, kad bloga valstybės iždo padėtis žinoma ne tik toje valstybėje gimusiems žmonėms, bet ir pašaliniams.
+
+## Santrauka
+
+Jiems buvo suteikta teisė kartu su Kauno muitinę nuomojančiu Lietuvos iždininku Laurynu Vaina rinkti muitus toje muitinėje, kol surinks paskolintus pinigus. Ji jau buvo išnuomota žemės iždininkui Laurynui Vainai, šis sutiko leisti Kaunui šią sumą išsirinkti. 1578 m. Lietuvos Didžiosios Kunigaikštystės iždininkas Laurynas Vaina teigė, kad bloga valstybės iždo padėtis žinoma ne tik toje valstybėje gimusiems žmonėms, bet ir pašaliniams.
 
 ## Teiginiai
 
@@ -57,6 +70,22 @@ Jiems buvo suteikta teisė kartu su Kauno muitinę nuomojančiu Lietuvos iždini
   pagrindžia:
     - c-185442
 
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: '1578 m. Lietuvos Didžiosios Kunigaikštystės iždininkas Laurynas Vaina teigė, kad bloga valstybės iždo padėtis žinoma ne tik toje valstybėje gimusiems žmonėms, bet ir pašaliniams.'
+  šaltinis: 02-kiaupiene-mes-lietuva-ldk-bajorija
+  citata_originali: |
+    Padėtį ir toliau komplikavo Lietuvos Didžiosios Kunigaikštystės finansinės nega-
+    lios. Iždininko Lauryno Vainos žodžiais, 1578 m. bloga valstybės iždo padėtis žinoma ne
+    tik tiems, kurie toje valstybėje gimė, bet ir pašaliniams. Jo supratimu, nieko nepakeis ir
+    tai, kad Varšuvoje net tris iždininkus paskyrė mokesčius tvarkyti, nes niekas nieko nesu-
+    neša į iždą, o jei kokias pajamas koks mokesčių rinkėjas atneša, tai viskas tuoj pat atiduo-
+    dama algininkams sumokėti.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-185441

@@ -45,6 +45,32 @@ Piastų giminės karaliai bene energingiausiai prie to prisidėjo.
   pagrindžia:
     - c-82795
 
+<a id="claim-t-206197"></a>
+- t-002
+  teiginys: "Teodoras Narbutas nurodo, kad po karaliaus Liudviko mirties 1382 m. rugsėjo 14 d. Radomo suvažiavime, nors jo dukterų teisė paveldėti sostą nebuvo ginčijama, buvo išrinktas iš Piastų giminės kilęs kunigaikštis Ziemovitas."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188812
+
+<a id="claim-t-206198"></a>
+- t-003
+  teiginys: "Teodoras Narbutas teigia, kad Jogaila, savo seserį Aleksandrą ištekindamas už Mazovijos kunigaikščio Ziemovito, susigerino su Piastų gimine, turėjusia didžiausių teisių į Jogailos užimtą Lenkijos sostą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188813
+
 ## Citatos
 
 - id: c-82795
@@ -72,3 +98,63 @@ Piastų giminės karaliai bene energingiausiai prie to prisidėjo.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188812
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 283-284"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 283-284."
+  citata_originali: |
+    Karalius Liudvikas, neturėdamas
+    1 Karamzinas (t. V. - P. 71-74) Ostėjų mini buvus Algirdo vaikaičiu ir
+    nurodo jį žuvus nuo totorių rankos. Toliau vėl (p. 80) siūlo dalykų apie Os­
+    tėjų, kuris 1385 metais buvo Kolomnos vietininkas. Betgi 105 pastaboje Ka­
+    ramzinas rašo, kad Ostėjus yra vadinamas Aleksandru Andrėj evičiumi, kilęs
+    iš Lietuvos kunigaikščių, tad jis turėtų būti Polocko kunigaikščio Andriaus
+    Algirdaičio sūnus. Kad nebuvo užmuštas 1382 metais prie Maskvos, Toch­
+    tamyšo palapinėje, aišku iš Švč. Trejybės metraščio paliudijimų. Voskrese-
+    nijos metraštis vėlei verčia jį žūti pačiuose Maskvos vartuose, juos atidarant;
+    toks tad žinių neatitikimas kalbant apie jo mirties vietą kelia abejonių dėl jų
+    tikrumo.
+    285
+
+    vyriškos lyties paveldėtojų, nusprendė savo įpėdiniu paskirti Zig­
+    mantą, Brandenburgo markgrafą, imperatoriaus Karolio IV sū­
+    nų, su kuriuo buvo sužiedavęs savo vyresniąją dukrą Mariją. Tą
+    tikslą turėdamas, paskelbė Lenkijos didikų suvažiavimą, šau­
+    kiamą 1382 metų liepos 23 dieną. Betgi lenkai neatvyko kvie­
+    čiami, vos keletas rūm ų šalininkų pasirodė. Dėl to įširdęs
+    markgrafas įsiveržė Lenkijon; pirmiausia ėmė siaubti Mazovijos
+    kunigaikščių, kaip teisėtų pretendentų į Lenkijos sostą, kilusių iš
+    Piastų giminės, valdas. Paskui perėjo į Didžiąją Lenkiją ir perse­
+    kiojo priešiškus jam vietos didikus. Lenkai, nors ir įgudę politi­
+    nėse vingrybėse, nemokėjo gintis; Zigmantas būtų nemažai jiems
+    skriaudų pridaręs, jeigu žinia apie karaliaus Liudviko mirtį, išti­
+    kusįjį rugsėjo 14 dieną, nebūtų nutraukusi tų piktadarysčių. Su­
+    rengtas suvažiavimas Radome, kur, nors niekas neužginčijo
+    Liudviko dukrų teisės paveldėti sostą, tačiau pasitarimuose buvo
+    išrinktas iš Piastų giminės kilęs kunigaikštis Ziemovitas
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-188813
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 358"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 358."
+  citata_originali: |
+    Po to įvyko karaliaus sesers
+    Aleksandros santuoka su Mazovijos kunigaikščiu Ziemovitu,
+    kuriam kaip kraitį perleido Radomo žemę. Tokiu būdu Jogai­
+    la, atidavęs Piastų giminėn savo seserį, susigerino su ta gimi­
+    ne, turinčia didžiausių teisių į Lenkijos sostą, kurį užėmė.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

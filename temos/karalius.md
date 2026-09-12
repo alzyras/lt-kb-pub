@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 509
+tema_objektu_skaicius: 511
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 509.
+Objektų skaičius: 511.
 
 ## Kaip naudoti
 
@@ -318,9 +318,9 @@ Objektų skaičius: 509.
 - [Mikalojus Michalovskis](../objektai/asmenys/Mikalojus%20Michalovskis)
 - [Mikalojus Moskoževskis](../objektai/asmenys/Mikalojus%20Mosko%C5%BEevskis)
 - [Mikalojus Naruševičius](../objektai/asmenys/Mikalojus%20Naru%C5%A1evi%C4%8Dius)
-- [Mikalojus Radvila](../objektai/asmenys/Mikalojus%20Radvila)
+- [Mikalojus Radvila (valdovas, XVI a.)](../objektai/asmenys/Mikalojus%20Radvila)
 - [Mikalojus Radvila II](../objektai/asmenys/Mikalojus%20Radvila%20II)
-- [Mikalojus Radvila Rudasis](../objektai/asmenys/Mikalojus%20Radvila%20Rudasis)
+- [Mikalojus Radvila Rudasis (kunigaikštis, XVI a.)](../objektai/asmenys/Mikalojus%20Radvila%20Rudasis)
 - [Mikolajus Kulmietis](../objektai/asmenys/Mikolajus%20Kulmietis)
 - [Mindaugas (valdovas, XIII a.)](../objektai/asmenys/Mindaugas)
 - [Morta](../objektai/asmenys/Morta)
@@ -542,4 +542,6 @@ Objektų skaičius: 509.
 
 ### Įvykiai
 - [Lubavos žemės mūšis, kuriame žuvo magistras Helmerichas ir maršalas Ditrichas (1263 m.)](../objektai/ivykiai/Lubavos%20%C5%BEem%C4%97s%20m%C5%AB%C5%A1is%2C%20kuriame%20%C5%BEuvo%20magistras%20Helmerichas%20ir%20mar%C5%A1alas%20Ditrichas%20%281263%20m.%29)
+- [Lucko suvažiavimas](../objektai/ivykiai/Lucko%20suva%C5%BEiavimas)
+- [Vilniaus universiteto įkūrimas](../objektai/ivykiai/Vilniaus%20universiteto%20%C4%AFk%C5%ABrimas)
 - [Vytenio žygis į Bresto žemę ir Meinhardo atsitraukimas (1291 m.)](../objektai/ivykiai/Vytenio%20%C5%BEygis%20%C4%AF%20Bresto%20%C5%BEem%C4%99%20ir%20Meinhardo%20atsitraukimas%20%281291%20m.%29)

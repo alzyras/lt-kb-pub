@@ -8,10 +8,9 @@ import {
   X,
 } from "lucide-preact"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import { ObjectPageTabs } from "./ObjectPageTabs"
-import { objectDetailEvidenceFromFile } from "../util/objectDetail"
-import { objectPageViewModel } from "../util/objectPageView"
-import { FullSlug } from "../util/path"
+import { ObjectPageShell } from "./ObjectPageShell"
+// @ts-ignore
+import mapScript from "./scripts/object-map-preview.inline"
 // @ts-ignore Quartz bundles inline lifecycle scripts as strings.
 import tabsScript from "./scripts/object-detail-tabs.inline"
 import style from "./styles/objectMediaGallery.scss"
@@ -298,7 +297,8 @@ function FacetOptions({
   )
 }
 
-const ObjectMediaGallery: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
+const ObjectMediaGallery: QuartzComponent = (props: QuartzComponentProps) => {
+  const { fileData } = props
   const mediaDetail = parseMediaEntry(fileData.frontmatter?.media_detail_json)
   if (fileData.frontmatter?.media_detail_page && mediaDetail) {
     return <MediaDetailPage entry={mediaDetail} />
@@ -313,30 +313,24 @@ const ObjectMediaGallery: QuartzComponent = ({ fileData }: QuartzComponentProps)
   const objectUrl = objectPath
     ? `/${objectPath.replace(/\.md$/i, "").split("/").map(encodeURIComponent).join("/")}`
     : ""
+  const fullGalleryObjectUrl = objectPath
+    ? `/galerija?objects=${encodeURIComponent(objectPath)}`
+    : "/galerija"
   const safeBootstrap = JSON.stringify(bootstrap).replace(/</g, "\\u003c")
   const galleryTitle =
     cleanText(fileData.frontmatter?.title) || "Lietuvos istorijos vaizdų galerija"
   const galleryDescription = cleanText(fileData.frontmatter?.description)
-  const objectSlug = cleanText(fileData.frontmatter?.object_slug) as FullSlug
-  const galleryEvidence = isObjectGallery
-    ? objectDetailEvidenceFromFile(String(fileData.frontmatter?.object_source_path || ""))
-    : objectDetailEvidenceFromFile("")
-  const objectView = objectPageViewModel(
-    (fileData.frontmatter ?? {}) as Record<string, unknown>,
-    galleryEvidence,
-    { gallery: bootstrap.totalCount },
-  )
-
   return (
     <main
-      class="media-gallery-page"
+      class={`media-gallery-page${isObjectGallery ? " object-detail-page object-gallery-page" : ""}`}
       data-media-gallery="true"
       data-object-path={objectPath}
       data-catalog-url={bootstrap.catalogUrl}
       data-catalog-version={bootstrap.catalogVersion}
       data-gallery-path={`/${fileData.slug}`}
     >
-      <header class="media-gallery-header">
+      {isObjectGallery && <ObjectPageShell props={props} active="gallery" />}
+      <header class="media-gallery-header" hidden={isObjectGallery}>
         <div>
           <p class="media-gallery-eyebrow">
             <Images size={15} aria-hidden="true" /> Vaizdų archyvas
@@ -358,70 +352,66 @@ const ObjectMediaGallery: QuartzComponent = ({ fileData }: QuartzComponentProps)
           {bootstrap.totalCount} vaizdų
         </strong>
       </header>
-      {isObjectGallery && objectSlug && (
-        <ObjectPageTabs
-          currentSlug={fileData.slug as FullSlug}
-          objectSlug={objectSlug}
-          counts={objectView.counts}
-          active="gallery"
-        />
-      )}
 
       <div class="media-gallery-workspace">
-        <aside class="media-gallery-facets" data-media-facet-panel aria-label="Galerijos filtrai">
-          <div class="media-facets-heading">
-            <div>
-              <SlidersHorizontal size={18} aria-hidden="true" />
-              <strong>Filtrai</strong>
+        {!isObjectGallery && (
+          <aside class="media-gallery-facets" data-media-facet-panel aria-label="Galerijos filtrai">
+            <div class="media-facets-heading">
+              <div>
+                <SlidersHorizontal size={18} aria-hidden="true" />
+                <strong>Filtrai</strong>
+              </div>
+              <button type="button" data-media-filter-close aria-label="Uždaryti filtrus">
+                <X size={20} />
+              </button>
             </div>
-            <button type="button" data-media-filter-close aria-label="Uždaryti filtrus">
-              <X size={20} />
-            </button>
-          </div>
-          <div class="media-facets-scroll" data-media-facets>
-            {FACETS.filter(({ key }) => !(isObjectGallery && key === "objects")).map(
-              ({ key, title, open }) => (
-                <details class="media-facet-group" data-facet-group={key} open={open}>
-                  <summary>
-                    <span>{title}</span>
-                    <span data-facet-selected-count />
-                  </summary>
-                  {(key === "objects" || key === "tags") && (
-                    <label class="media-facet-search">
-                      <Search size={14} aria-hidden="true" />
-                      <input
-                        type="search"
-                        placeholder={`Ieškoti: ${title.toLocaleLowerCase("lt")}`}
-                        data-facet-search={key}
-                      />
-                    </label>
-                  )}
-                  <FacetOptions facetKey={key} options={bootstrap.facetSummary[key] ?? []} />
-                  {(bootstrap.facetSummary[key]?.length ?? 0) > facetVisibleLimit(key) && (
-                    <button type="button" class="media-facet-expand" data-facet-expand={key}>
-                      Rodyti visus
-                    </button>
-                  )}
-                </details>
-              ),
-            )}
-          </div>
-          <div class="media-facets-actions">
-            <button type="button" class="media-gallery-reset" data-media-reset>
-              <RotateCcw size={16} /> Išvalyti filtrus
-            </button>
-            <button type="button" class="media-facets-apply" data-media-filter-close>
-              Rodyti <span data-media-mobile-count>{bootstrap.totalCount}</span> vaizdų
-            </button>
-          </div>
-        </aside>
+            <div class="media-facets-scroll" data-media-facets>
+              {FACETS.filter(({ key }) => !(isObjectGallery && key === "objects")).map(
+                ({ key, title, open }) => (
+                  <details class="media-facet-group" data-facet-group={key} open={open}>
+                    <summary>
+                      <span>{title}</span>
+                      <span data-facet-selected-count />
+                    </summary>
+                    {(key === "objects" || key === "tags") && (
+                      <label class="media-facet-search">
+                        <Search size={14} aria-hidden="true" />
+                        <input
+                          type="search"
+                          placeholder={`Ieškoti: ${title.toLocaleLowerCase("lt")}`}
+                          data-facet-search={key}
+                        />
+                      </label>
+                    )}
+                    <FacetOptions facetKey={key} options={bootstrap.facetSummary[key] ?? []} />
+                    {(bootstrap.facetSummary[key]?.length ?? 0) > facetVisibleLimit(key) && (
+                      <button type="button" class="media-facet-expand" data-facet-expand={key}>
+                        Rodyti visus
+                      </button>
+                    )}
+                  </details>
+                ),
+              )}
+            </div>
+            <div class="media-facets-actions">
+              <button type="button" class="media-gallery-reset" data-media-reset>
+                <RotateCcw size={16} /> Išvalyti filtrus
+              </button>
+              <button type="button" class="media-facets-apply" data-media-filter-close>
+                Rodyti <span data-media-mobile-count>{bootstrap.totalCount}</span> vaizdų
+              </button>
+            </div>
+          </aside>
+        )}
 
-        <button
-          type="button"
-          class="media-gallery-backdrop"
-          data-media-filter-close
-          aria-label="Uždaryti filtrus"
-        />
+        {!isObjectGallery && (
+          <button
+            type="button"
+            class="media-gallery-backdrop"
+            data-media-filter-close
+            aria-label="Uždaryti filtrus"
+          />
+        )}
 
         <section class="media-gallery-results" aria-label="Galerijos rezultatai">
           <div class="media-gallery-toolbar">
@@ -437,9 +427,16 @@ const ObjectMediaGallery: QuartzComponent = ({ fileData }: QuartzComponentProps)
                 <X size={17} />
               </button>
             </label>
-            <button type="button" class="media-filter-mobile" data-media-filter-open>
-              <SlidersHorizontal size={18} /> Filtrai <span data-media-filter-badge hidden />
-            </button>
+            {isObjectGallery && (
+              <a class="media-gallery-full-catalog-link" href={fullGalleryObjectUrl}>
+                <Images size={17} aria-hidden="true" /> Ieškoti visoje galerijoje
+              </a>
+            )}
+            {!isObjectGallery && (
+              <button type="button" class="media-filter-mobile" data-media-filter-open>
+                <SlidersHorizontal size={18} /> Filtrai <span data-media-filter-badge hidden />
+              </button>
+            )}
             <label class="media-gallery-sort">
               <ArrowUpDown size={17} aria-hidden="true" />
               <span class="sr-only">Rūšiavimas</span>
@@ -472,6 +469,12 @@ const ObjectMediaGallery: QuartzComponent = ({ fileData }: QuartzComponentProps)
               Išvalyti filtrus
             </button>
           </div>
+          <div class="media-gallery-progress" data-media-progress hidden>
+            <span data-media-progress-text />
+            <button type="button" data-media-load-more>
+              Rodyti daugiau
+            </button>
+          </div>
           <div class="media-gallery-sentinel" data-media-sentinel aria-hidden="true" />
         </section>
       </div>
@@ -485,6 +488,6 @@ const ObjectMediaGallery: QuartzComponent = ({ fileData }: QuartzComponentProps)
 }
 
 ObjectMediaGallery.css = [photoswipeStyle, style, objectDetailStyle]
-ObjectMediaGallery.afterDOMLoaded = `${script}\n${tabsScript}`
+ObjectMediaGallery.afterDOMLoaded = `${script}\n${tabsScript}\n${mapScript}`
 
 export default (() => ObjectMediaGallery) satisfies QuartzComponentConstructor

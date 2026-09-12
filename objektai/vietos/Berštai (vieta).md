@@ -35,6 +35,8 @@ entity_view_role: "place"
 entity_aliases: ["Berštai","Berštai (vieta)"]
 sameAs: []
 canonical_biography: "1496 m. LDK Aleksandras valdovo raštais kvietė Slucko kunigaikštį Simoną ir ponią Raklienę Petkevičienę atvykti į Seimą Berštuose."
+place_authority: true
+historical_names: []
 ---
 # Berštai (vieta)
 

@@ -149,6 +149,19 @@ media_all_json: |-
   pagrindžia:
     - c-42706
 
+<a id="claim-t-206133"></a>
+- t-007
+  teiginys: "Pasak Teodoro Narbuto, tikėtina, kad kazokai įtvirtintose stovyklavietėse glaudė pabėgėlius ir nuo totorių besislapstančius žmones, suteikdami jiems priedangą nuo „barbarų priespaudos“."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188748
+
 ## Citatos
 
 - id: c-22454
@@ -309,6 +322,25 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188748
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 107"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 107."
+  citata_originali: |
+    Tikėtina, kad ten
+    jau bastėsi gausybė kazokų, turėjusių savas stovyklavietes už­
+    slaptintose ir įtvirtintose vietovėse - prieglobstį pabėgėliams
+    ir nuo totorių persekiojimų besislapstantiems žmonėms; jie
+    susivienijo su Lietuvos kunigaikščiais ir dėl to žmonės turėjo
+    šiokią tokią priedangą nuo barbarų priespaudos.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Rusai]], [[objektai/grupes/Rusijos kariuomenė]]

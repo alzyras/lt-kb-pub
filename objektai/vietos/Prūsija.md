@@ -1901,6 +1901,237 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   pagrindžia:
     - c-186711
 
+<a id="claim-t-205106"></a>
+- t-108
+  teiginys: "Simonas Grunau, vie nuolis iš Tolkmicko dominikonų vienuolyno Prūsijoje, XVI a."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187922
+
+<a id="claim-t-205176"></a>
+- t-109
+  teiginys: "Kad Prūsijoje senovės laikais buvo vy nuogynų, patikimai yra įrodęs Hartknochas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-188161
+
+<a id="claim-t-205279"></a>
+- t-110
+  teiginys: "Pasak Teodoro Narbuto, Prūsijoje 1639 metais buvo atsitiktinai iškasta auksinė, į ragą panašios formos taurė."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-187967
+
+<a id="claim-t-205377"></a>
+- t-111
+  teiginys: "Galop, pabaigęs karą su imperatoriumi, Lenkijos monarchas 1164 metais surinkęs nemažą ka riauną, kartu vesdamas dar ir daugybę kunigų bei ne krikštų gelbėtojų, kurie užsispyrusius pagonis turėjo pa lenkti, įsiveržė Prūsijon."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-187763
+
+<a id="claim-t-205412"></a>
+- t-112
+  teiginys: "Betgi Boleslovas valdė ir lenkus, o nestabilumas, nepa kantumas, karaliaus valdžios nepaisymas ir tarpusavio vaidai tame krašte ¡privertė išvesti kariauną iš Prūsijos,."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-187884
+
+<a id="claim-t-205428"></a>
+- t-113
+  teiginys: "Iš ten jūra nuvyko į Prūsiją."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-188183
+
+<a id="claim-t-205495"></a>
+- t-114
+  teiginys: "Pasak autoriaus, 1379 m. Kryžiuočių ordino valdose Prūsijoje buvo priraškyta 608 statinaitės vynuogių."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-188000
+
+<a id="claim-t-205808"></a>
+- t-115
+  teiginys: "Pasak Narbuto, iš Žemaitijos po Prūsiją pasklido žygūnai su politiniais pavedimais."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188423
+
+<a id="claim-t-205809"></a>
+- t-116
+  teiginys: "1284 m. Pelužis po nesėkmių Lietuvoje pabėgo į Prūsiją."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188424
+
+<a id="claim-t-205810"></a>
+- t-117
+  teiginys: "Teodoras Narbutas rašo, kad Skomantas susivienijo su Pelužiu ir netrukus buvo priverstas grįžti į Prūsiją."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188425
+
+<a id="claim-t-206545"></a>
+- t-118
+  teiginys: "Teodoras Narbutas siūlo greta Dlugošo, Strijkovskio ir Kojalavičiaus peržiūrėti Prūsijos, Livonijos ir Rusios kronikas, kuriose yra svarbios medžiagos Lietuvos istorijai."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189160
+
+<a id="claim-t-206546"></a>
+- t-119
+  teiginys: "Pasak Teodoro Narbuto, Čekijos karaliaus Jono ir kitų krikščionių didikų pulkai, susirinkę Vroclave, artėjant žiemai nuvyko į Prūsiją."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189161
+
+<a id="claim-t-206547"></a>
+- t-120
+  teiginys: "Teodoras Narbutas spėja, kad 1356 m. sausį Algirdas, Kęstutis ir Patirgus su nemaža kariauna, užbėgdami už akių kryžiuočių Grabnyčių žygiui, įsiveržė į Prūsiją ir apiplėšė 17 valsčių Alenšteino bei Guttstadto apylinkėse."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189162
+
+<a id="claim-t-206548"></a>
+- t-121
+  teiginys: "Teodoras Narbutas rašo, kad didžiajam magistrui siaubiant Aukštaitiją Kęstutis įsiveržė į Prūsiją ir užėmė Salduvos bei Osterodės apylinkes, kur, jo teigimu, vyko žudynės ir buvo deginamos bažnyčios."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189163
+
+<a id="claim-t-206549"></a>
+- t-122
+  teiginys: "Pasak Teodoro Narbuto, į Prūsiją surengtas lietuvių žygis keturiomis Algirdo, Kęstučio, Patirgo ir Karijoto sūnaus Aleksandro vadovaujamomis kolonomis įsiveržė į Šalaviją ir viską sunaikino iki Kuršių įlankos."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189164
+
+<a id="claim-t-206550"></a>
+- t-123
+  teiginys: "Pasak Teodoro Narbuto, Kęstutis, keršydamas už brolio pasiuntinių išvarymą, netikėtai įsiveržė į Prūsiją, naktį užėmė Johanisburgą ir deglų šviesoje įžengė į tvirtovę."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189165
+
+<a id="claim-t-206551"></a>
+- t-124
+  teiginys: "Pasak Teodoro Narbuto, 1384 m. liepos 12 d. Vytautas su 400 patikimų raitelių išvyko iš Prūsijos, apsimesdamas rengiąs plėšiamąjį žygį į Lietuvą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189166
+
+<a id="claim-t-206552"></a>
+- t-125
+  teiginys: "Teodoras Narbutas aprašo, kad 1384 m. žiemą ir kitais metais Prūsijoje tvyrojo neramumai: telkta kariuomenė, o svetimšaliai nuolat judėjo Vyslos ir Žemaitijos sienų link."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189167
+
 ## Reikšmingi paminėjimai
 - c-006
   santrauka: 'Dusburgiečio kronikoje teigiama, kad kryžiaus karui „viešpats pasirinko Prūsijos žemę“, o Ordino veiksmai laikyti Dievo veiksmais.'
@@ -4710,6 +4941,378 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
   patikimumo_saltinis: ai
   pagrindzia:
     - t-107
+
+- id: c-187763
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 217"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 217."
+  citata_originali: |
+    Juk, kol Romuvoje buvo Krivių Krivaitis, tol nega­
+    lėjo būti jokios minties apie kitokios valdžios įvedimą. O
+    norint tai įgyvendinti, būtų reikėję tą ketinimą ginklo
+    jėga paremti. Galop, pabaigęs karą su imperatoriumi,
+    Lenkijos monarchas 1164 metais surinkęs nemažą ka­
+    riauną, kartu vesdamas dar ir daugybę kunigų bei ne­
+    krikštų gelbėtojų, kurie užsispyrusius pagonis turėjo pa­
+    lenkti, įsiveržė Prūsijon. įveikus daugelį kliūčių vietoje,
+    pavyko užgrobti keletą provincijų.
+  citata_rodoma: "Galop, pabaigęs karą su imperatoriumi, \nLenkijos monarchas 1164 metais surinkęs nemažą ka­\nriauną, kartu vesdamas dar ir daugybę kunigų bei ne­\nkrikštų gelbėtojų, kurie užsispyrusius pagonis turėjo pa­\nlenkti, įsiveržė Prūsijon."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-111
+
+- id: c-187884
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 217"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 217."
+  citata_originali: |
+    Sis potvarkis visiškai atitiko krikščionybės dvasią ir jos
+    valdžios nuostatas, juk popiežiaus bulėse pačiais sunkiau­
+    siais kovų su pagonimis laikais, taip pat kaip ir vėlesniais,
+    per Kryžiuočių ordino karių ir riterių sukeltus karus, ran­
+    dame tokius pat priesakus1. Ir iš tiesų, nepaprastą poveikį
+    turėjo ši politika •— prūsai urmu ėmė spiestis prie krikštyk-
+    lų, netgi patys pasišovę nustatė duoklę savo valdovui.
+    Betgi Boleslovas valdė ir lenkus, o nestabilumas, nepa­
+    kantumas, karaliaus valdžios nepaisymas ir tarpusavio
+    vaidai tame krašte ¡privertė išvesti kariauną iš Prūsijos, * I.
+    1 V o ig i.
+  citata_rodoma: "Betgi Boleslovas valdė ir lenkus, o nestabilumas, nepa­\nkantumas, karaliaus valdžios nepaisymas ir tarpusavio \nvaidai tame krašte ¡privertė išvesti kariauną iš Prūsijos,"
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-112
+
+- id: c-187922
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 419"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 419."
+  citata_originali: |
+    Apie savitą lietuvišką įrašą*. Simonas Grunau, vie­
+    nuolis iš Tolkmicko dominikonų vienuolyno Prūsijoje,
+    XVI a. pradžioje rašęs Prūsijos kroniką ir skyręs ją Len­
+    kijos karaliui Žygimantui I, nenurodė šaltinio, iš kurio
+    buvo paėmęs, kitaip sakant, nukopijavęs tą įrašą ar kokiu
+    kitu būdu jį įgijęs ir įdėjęs į savo kroniką, tad negalima
+    būtų pasikliauti jo tikrumu. Betgi neabejodamas šį pa­
+    minklą esant iš žilos senovės, priskyrė jį Vaidevučio ir
+    Brutenio laikams, kadangi, aprašydamas padavimą apie
+    pastarojo sūnus (trakt.
+  citata_rodoma: "Simonas Grunau, vie­\nnuolis iš Tolkmicko dominikonų vienuolyno Prūsijoje, \nXVI a. pradžioje rašęs Prūsijos kroniką ir skyręs ją Len­\nkijos karaliui Žygimantui I, nenurodė šaltinio, iš kurio \nbuvo paėmęs, kitaip sakant, nukopijavęs tą įrašą ar kokiu \nkitu būdu jį įgijęs ir įdėjęs į savo kroniką, tad negalima \nbūtų pasikliauti jo tikrumu."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108
+
+- id: c-187967
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 417"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 417."
+  citata_originali: |
+    Kunigaikščio giminės ainiai saugojo tauro, kurį Gedimi­
+    nas buvo užmušęs prie Vilniaus, ant Tauro kalno, ragus.
+    Vytautas, 1429 metais viešėdamas Lucke pas imperatorių
+    Žygimantą, dovanojo jam vieną prabangią taurę. ITartkno-
+    chas pamena, kad Prūsijoje 1639 metais atsitiktinai buvo
+    iškasta auksinė, ¡panašios į ragą formos taurė.
+  citata_rodoma: "ITartkno- \nchas pamena, kad Prūsijoje 1639 metais atsitiktinai buvo \niškasta auksinė, ¡panašios į ragą formos taurė."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-110
+
+- id: c-188000
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 398"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 398."
+  citata_originali: |
+    Tačiau dar kryžiuočių
+    laikais, apie 1379 metus, Prūsijoje, kur vokiečių sodybos
+    buvo pradėjusios klestėti, ant senųjų šio krašto gyven­
+    tojų — kilmingųjų lietuvių — išdarkytų ūkių griuvėsių,
+    būtent Torūnės, Kulmo, Elbliongo apylinkėse, ten tam
+    tikru metu augo rinktiniai vynuogynai ir būdavo renkami
+    jų derliai. Bekeris nurodo, kad 1379 metais Kryžiuočių
+    ordino valdose buvo priraškyta 608 statinaitės vynuogių1.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-114
+
+- id: c-188161
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 397"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 397."
+  citata_originali: |
+    Vynuogynai. Kad Prūsijoje senovės laikais buvo vy­
+    nuogynų, patikimai yra įrodęs Hartknochas1 2. Sis tyrinė­
+    tojas, kadaise sulaukęs ¡pripažinimo ir iki šiol už tiesumą
+    ir nusimanymą didžiai gerbiamas, tikina, kad Sambijoje,
+    traukiant iš jūros gintarą, kartu pakliūdavo šakelės vy­
+    nuogių ūglių, kurie būdavo taip gerai išlaikę savo pavi­
+    dalą, kad aiškiai išsiskirdavo koteliai, ant kurių kabėjo
+    1 Kirtimas būtent reiškia skynimą plėšiniuose, lietuviškai Lida.
+  citata_rodoma: "Kad Prūsijoje senovės laikais buvo vy­\nnuogynų, patikimai yra įrodęs Hartknochas"
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-109
+
+- id: c-188183
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 139"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 139."
+  citata_originali: |
+    Iš ten jūra nuvyko į Prūsiją. Pučiant palankiam vėjui
+    neilgai plaukęs, užsuko į Aistmarių krantus, tuo laiku
+    vadintus Halibo. Pats išlipęs, laivus su ginkluotais žmo­
+    nėmis pasiuntė atgalios.
+  citata_rodoma: "Iš ten jūra nuvyko į Prūsiją. Pučiant palankiam vėjui \nneilgai plaukęs, užsuko į Aistmarių krantus, tuo laiku \nvadintus Halibo."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-113
+
+- id: c-188423
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 183"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 183."
+  citata_originali: |
+    Lukas Davidas
+    spėja, esą karalienė su savo atkalbinėjimais pavėlavo,
+    mat jau buvo imtasi priemonių1. Žygūnai su politiniais
+    pavedimais iš Žemaitijos pasklido po visą Prūsiją, ypač
+    buvo raginami sambiai. Iš tiesų prieš ordiną buvo pradėti
+    slapti, bet ryžtingi veiksmai1 2.
+  citata_rodoma: "Žygūnai su politiniais \npavedimais iš Žemaitijos pasklido po visą Prūsiją, ypač \nbuvo raginami sambiai. Iš tiesų prieš ordiną buvo pradėti \nslapti, bet ryžtingi"
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-115
+
+- id: c-188424
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 261"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 261."
+  citata_originali: |
+    Svar­
+    biausi iš jų, senajam Peliui neatsisakius pasirinkimo
+    Kernavėje, tapo Girdilius, žymus
+    Salavijos didikas1,
+    Skomantas Sūduvis ir keletas kitų, kurių vardai nenuro­
+    dyti. Pelužis su jais po patirtų nesėkmių Lietuvoje 1284
+    metais pabėgo į Prūsiją. Tenykščiai atėjūnai dabar su­
+    laukė kryžiuočių atlaidumo ir dargi palankumo.
+  citata_rodoma: "Pelužis su jais po patirtų nesėkmių Lietuvoje 1284 \nmetais pabėgo į Prūsiją. Tenykščiai atėjūnai dabar su­\nlaukė kryžiuočių atlaidumo ir dargi palankumo."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-116
+
+- id: c-188425
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 263"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 263."
+  citata_originali: |
+    Negana to, tie pabėgėliai, prikalbinę magistrą,
+    bu ordino kariauna užėmė Sūduvos pilį Pakiemius, api­
+    plėšė naująją Skomanto buveinę ir daug žiaurių dalykų
+    pridarė. Skomantas suvis apiplėštas, kai buvo išblaškyti
+    jo kariai, akis į akį susidūrė su patrakusiu kryžiuočių
+    pykčiu ir persekiojimu savo tėvynainių, įniršusių dėl Li-
+    bencelės globos. Tad turėjo dangintis iš šalies į Lietuvą,
+    kur su visa šeima ir savo draugais rado priebėgą. Čia
+    pataikė per patį perversmą, per kurį didžiojo kunigaikščio
+    skeptras buvo atiduotas į kitos dinastijos rankas. Likimas
+    panorėjo, kad jis susivienytų su Pelužiu ir netrukus bū­
+    tų priverstas grįžti į Prūsiją.
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-117
+
+- id: c-189160
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 58"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 58."
+  citata_originali: |
+    Be Dlugošo, Strijkovskio, Kojalavičiaus, reikia per­
+    žiū rėti Prūsijos, Livonijos ir R usios kronikas, tai yra
+    Voluinės, Pskovo ir Naugardo, kuriose yra svarbios Lietu­
+    vos istorijai medžiagos.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-118
+
+- id: c-189161
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 74"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 74."
+  citata_originali: |
+    Pasišovė padėti Čekijos karalius Jonas, visada pa­
+    sirengęs prisidėti prie panašių žygių, ir daugelis kitų krikš­
+    čionių didikų, ypač norėjusių išvengti tuo būten t m etu
+    paskelbto, neparankaus jiems, kryžiaus žygio į Turkiją, su­
+    skubo burtis į Čekijos karaliaus pulkus ir rinktis Vroclave,
+    iš kur, artėjant žiemai, nuvyko į Prūsiją
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119
+
+- id: c-189162
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 119"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 119."
+  citata_originali: |
+    Visiškai neaišku, kodėl 1356
+    metų sausį Prūsija vėl buvo užpulta; tikriausiai, užbėgdami už
+    akių kryžiuočių Grabnyčių žygiui, didysis kunigaikštis Algir­
+    das su Kęstučiu ir Patirgu, nemaža kariauna vedini, prasibro­
+    vė net iki A lenšteino ir G utštato apylinkių, kur apiplėšė
+    septyniolika valsčių bei nemažą grobį išsigabeno.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-120
+
+- id: c-189163
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 156"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 156."
+  citata_originali: |
+    Padėtis susiklostė taip: didysis
+    magistras siaubė Aukštaitiją, kunigaikštis Kęstutis, negalėda­
+    mas pasipriešinti jo karinėms pajėgoms, per girias prasigavęs
+    įsiveržė į Prūsiją ir užkariavo Salduvos ir Osterodės apylinkes,
+    kur vyko baisios žudynės ir siaubimas: paimta tūkstantis ir pen­
+    ketas šimtų belaisvių, bažnyčios sudegintos, bažnytiniai indai,
+    religinėms apeigoms skirti, paimti;
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-121
+
+- id: c-189164
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 165"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 165."
+  citata_originali: |
+    Tačiau bemat po to antpuolio
+    lietuvių buvo suruoštas didžiulis žygis Prūsijon. Keturiomis
+    gausiomis kolonomis, vadovaujamomis Algirdo, Kęstučio, Pa-
+    tirgo ir Karijoto sūnaus Aleksandro, kiekviena sudaryta m a­
+    žiausiai iš keturių tūkstančių ginkluotų žmonių, įsiveržė į
+    Šalaviją, viską pakeliui sunaikino, net iki Kuršių įlankos
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-122
+
+- id: c-189165
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 167-168"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 167-168."
+  citata_originali: |
+    Taip susiklosčius aplinkybėms,
+    kunigaikštis Kęstutis nutarė atkeršyti už tokį nepagarbų savo
+    1 Schtitz. - 1. c.; Kotzebue. - 1. c.; Voigt. - B. V - S. 176-178.
+    169
+
+    brolio pasiuntinių išvarymą. Netikėtai įsiveržė į Prūsiją, nak­
+    čia užėmė Johanisburgą ir deglų šviesoje įžengė į tvirtovę
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-123
+
+- id: c-189166
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 313"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 313."
+  citata_originali: |
+    Taigi po kito susitikimo
+    su broliu ir motina Vytautas, apsimetęs, kad esą suruošęs žygį
+    į Lietuvą pasiplėšti, su ketvertu šimtų patikimų raitelių 1384
+    metų liepos 12 dieną1 2 išvyko iš Prūsijos.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-124
+
+- id: c-189167
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 322"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 322."
+  citata_originali: |
+    Visą 1384-ųjų metų žiemą,
+    netgi ir kitais metais Prūsijoje buvo labai neramu: kai dėl politi­
+    kos - telkiama kariauna, svetimšaliai atėjūnai be perstojo traukė,
+    nuolat brovėsi tai Vyslos, tai Žemaitijos sienos link; neramumai,
+    baiminimasis, apėmę visą kraštą, nesiliovė, mat žinota, kad Lie­
+    tuvoje vis smarkiau ginkluojamasi, prie Prūsijos sienų buvo dis­
+    lokuota kariauna, pasiruošusi sulig vokiečių įsiveržimu iš vienos
+    pusės galingomis pajėgomis užgriūti Prūsiją iš kitos.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-125
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Abraomas Kulvietis]], [[objektai/asmenys/Adolfas fon Vintimelis|Adolfas fon Vintimelis (didikas)]], [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis)]], [[objektai/asmenys/Ditrichas (Meiseno markos valdovas)]], [[objektai/asmenys/Gerhardas|Gerhardas (valdovas)]], [[objektai/asmenys/Gotfridas Hohenlohė]], [[objektai/asmenys/Henrikas (Meiseno markgrafas)]], [[objektai/asmenys/Henrikas iš Kunceno]], [[objektai/asmenys/Henrikas Lankasteris]], [[objektai/asmenys/Jonas (Brandenburgo markgrafas)]], [[objektai/asmenys/Jonas (Čekijos karalius)]], [[objektai/asmenys/Konradas iš Foichtvangeno]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Odoničius]], [[objektai/asmenys/Otonas (Braunšveigo-Liuneburgo kunigaikštis)]], [[objektai/asmenys/Petras iš Rozenbergo]], [[objektai/asmenys/Pilypas]], [[objektai/grupes/Prancūzai]], [[objektai/asmenys/Vaidila]], [[objektai/asmenys/Verneris fon Hoinbergas|Verneris fon Hoinbergas (didikas)]], [[objektai/grupes/Vokietijos maldininkai]]

@@ -103,6 +103,31 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
   pagrindžia:
     - c-171510
 
+<a id="claim-t-205714"></a>
+- t-004
+  teiginys: "Tautvilos sąjunga su Naugardu, kaip spėja Teodoras Narbutas, galėjo būti prasimanyta, nes Vitebske buvęs Tautvila galėjo palaikyti ryšius su Naugardu."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188329
+
+<a id="claim-t-206396"></a>
+- t-005
+  teiginys: "Tautvila žuvo nuo patrankos šūvio stovėdamas šalia savo brolio Vytauto."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189011
+
 ## Citatos
 
 - id: c-83580
@@ -204,6 +229,48 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-188329
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 192"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 192."
+  citata_originali: |
+    kunigaikštis Aleksandras Neviškis privalėjo vienytis su
+    karaliumi, kuris buvo paskelbtas
+    apostatu, tam, kad
+    krikščionybė Livonijoje būtų sunaikinta. Juk tatai net ne­
+    siderino su Naugardo Respublikos politika — leisti lie­
+    tuviams, visada jiems priešiškiems, įgyti tokią svarią per­
+    svarą. Šiaip ar taip, tai verčia spėti tariamą jungą bu­
+    vus prasimanymu Tautvilos, kuris, Vitebske būdamas,
+    galėjo iš ten palaikyti ryšius su Naugardu, todėl ir tą
+    sąjungą garantavo.
+  citata_rodoma: "Šiaip ar taip, tai verčia spėti tariamą jungą bu­\nvus prasimanymu Tautvilos, kuris, Vitebske būdamas, \ngalėjo iš ten palaikyti ryšius su Naugardu, todėl ir tą \nsąjungą garantavo."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-189011
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 392"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 392."
+  citata_originali: |
+    Nežinome priešo nuostolių, kuriuos kryžiuočiai iki juokingumo
+    sumažina, vos kelias dešimtis žmonių nurodydami; betgi atminti­
+    na yra Tautvilos mirtis, jis krito nuo patrankos šūvio būdamas
+    šalia brolio Vytauto; pas kryžiuočius jis buvo priėmęs krikštą, re­
+    gis, Konrado vardą gaudamas. Taip pat žuvo Hohenšteino grafas
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

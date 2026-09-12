@@ -79,6 +79,19 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
   pagrindžia:
     - c-167227
 
+<a id="claim-t-206386"></a>
+- t-003
+  teiginys: "Pasak Narbuto, didžioji kunigaikštienė Sofija, tėvo apdovanota Graikijoje tapytų paveikslų rinkiniu, vaizduojančiu Viešpaties kančios istoriją, grįžo į Maskvą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189001
+
 ## Citatos
 
 - id: c-163348
@@ -128,3 +141,20 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-189001
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 500"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 500."
+  citata_originali: |
+    Kad ir kaip ten buvo, didžioji kunigaikštienė Sofija,
+    tėvo apdovanota brangiomis dovanomis, būtent rinkiniu pa­
+    veikslų, vaizduojančių Viešpaties kančios istoriją, tapytų Grai­
+    kijoje, grįžo į Maskvą.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

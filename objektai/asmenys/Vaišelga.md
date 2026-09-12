@@ -5,6 +5,7 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.)'
 datos:
   - '1264 m.'
 date_start: '1264'
@@ -44,7 +45,7 @@ canonical_biography: "Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisak
 
 ## Santrauka
 
-Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir tapęs vienuoliu. Vaišelga nuvyko į Sinajaus kalną, ten pasikrikštijo, tapo vienuoliu, po trejų metų grįžo pas Mindaugą ir įkūrė vienuolyną. 1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga, kuris yra pirmas žinomas Lietuvos istorijoje stačiatikybę priėmęs kunigaikštis.
+1264 m. Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga, kuris yra pirmas žinomas Lietuvos istorijoje stačiatikybę priėmęs kunigaikštis.
 
 ## Teiginiai
 
@@ -118,6 +119,19 @@ Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178801
+
+<a id="claim-t-205728"></a>
+- t-005
+  teiginys: "Vaišelga, negalėjęs pasiekti Sv. kalno dėl tose žemėse kilusio maišto, grįžo į Naugarduką ir prie Nemuno tarp Lietuvos bei Naugarduko pastatė vienuolyną."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188343
 
 ## Citatos
 
@@ -207,6 +221,23 @@ Vaišelga buvo vienintelis Lietuvos kunigaikštis, atsisakęs kunigaikštijos ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
+
+- id: c-188343
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 530"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 530."
+  citata_originali: |
+    O Vaišelga negalėjo pasiekti Sv. kalno, kadangi tose že­
+    mėse buvo maištas, ir vėl grįžo į Naugarduką, ir pasistatė
+    vienuolyną prie Nemuno, tarp Lietuvos ir Naugarduko,
+    ir gyvena čia...
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

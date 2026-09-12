@@ -109,6 +109,31 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
   pagrindžia:
     - c-168530
 
+<a id="claim-t-205829"></a>
+- t-004
+  teiginys: "Daumantas kaip skirtinę valdą gavo Uteną."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188444
+
+<a id="claim-t-205830"></a>
+- t-005
+  teiginys: "Utenos pilį apgulus įpykusiam vyrui su kariauna, Daumantas liepė gynėjams priešintis, o pats naktį pabėgo į Pskovą."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
+  pagrindžia:
+    - c-188445
+
 ## Citatos
 
 - id: c-43946
@@ -192,6 +217,46 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-188444
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 248"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 248."
+  citata_originali: |
+    Didžiosios kunigaikštienės paviliojimas. Jo viešpata­
+    vimo pradžioje nutiko dalykas, turėjęs nemažai įtakos po­
+    litikai. Didžiojo kunigaikščio brolis Daumantas, gavęs
+    kaip skirtinę valdą Uteną, buvo vedęs didžiosios kuni­
+    gaikštienės Narimantienės seserį.
+  citata_rodoma: "Didžiojo kunigaikščio brolis Daumantas, gavęs \nkaip skirtinę valdą Uteną, buvo vedęs didžiosios kuni­\ngaikštienės Narimantienės seserį."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-188445
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 249"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 249."
+  citata_originali: |
+    Tačiau anas, pamilęs brolienę, sulaikė ją ir
+    privertė gyventi su juo. Vyras įpykęs išžygiavo su ka­
+    riauna ir apgulė Utenos pilį. Daumantas, matydamas ne­
+    išvengiamą pavojų, liepė pilies gynėjams stipriai prie­
+    šintis, o pats naktį, nusileidęs nuo mūro sienos, pabėgo
+    anapus Dauguvos į Pskovą, kurį tuo metu valdė brolis
+    jo senelio, taip pat Daumantas.
+  citata_rodoma: "Vyras įpykęs išžygiavo su ka­\nriauna ir apgulė Utenos pilį. Daumantas, matydamas ne­\nišvengiamą pavojų, liepė pilies gynėjams stipriai prie­\nšintis, o pats naktį, nusileidęs nuo mūro sienos, pabėgo \nanapus Dauguvos į Pskovą"
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/K. Ladyga]]

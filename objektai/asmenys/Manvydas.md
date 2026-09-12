@@ -175,6 +175,45 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   pagrindžia:
     - c-171471
 
+<a id="claim-t-205530"></a>
+- t-008
+  teiginys: "Narbutas teigia, kad Manvydui priklausiusį Graužiškių dvarą didysis kunigaikštis Žygimantas paėmė iždo žinion."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T21:22:05Z"
+  pagrindžia:
+    - c-187851
+
+<a id="claim-t-206360"></a>
+- t-009
+  teiginys: "Narbutas rašo, kad Manvydas, būdamas kariuomenės vadas, turėjo daugiau valdžios nei Jaunutis, kuriam, tėvo nurodymu, turėjo atitekti Vilnius ir valdžios vairas."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188975
+
+<a id="claim-t-206361"></a>
+- t-010
+  teiginys: "Narbutas nurodo, kad metraštininkai Manvydą laikė kariaunos vadu, stojusiu į kovą tautai siekiant atkeršyti už didžiojo kunigaikščio mirtį."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188976
+
 ## Citatos
 
 - id: c-83353
@@ -363,6 +402,69 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-007
+
+- id: c-187851
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 469"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 469."
+  citata_originali: |
+    Žinoma, jog didysis kunigaikštis Žygimantas
+    Graužiškių dvarą, priklausiusį Manvydui, paėmė iždo ži­
+    nion, o patį šeimininką už dalyvavimą Švitrigailos parti­
+    joje nužudė. Manvydas buvo kilęs iš vyresniosios Graužos
+    palikuonių linijos.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
+- id: c-188975
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 64"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 64."
+  citata_originali: |
+    Panašu, kad tas kunigaikštis,
+    savo šeimoje vyriausias, nors buvo gavęs skirtinę valdą Kara-
+    čeve ir Slonime, prieš tėvo mirtį turėjęs Žemaitijoje į kovą su
+    kryžiuočiais vesti karius, tad jis pirmagimio teise buvo aukš­
+    čiausiojo tautos titulo paveldėtojas. Nors, tėvo nurodymu, Jau­
+    nučiui su motina privalėjo atitekti Vilnius, Lietuvos Didžiosios
+    Kunigaikštystės sostinė, o kartu su juo ir valdžios vairas. Betgi
+    Manvydo, kaip kariuomenės vado, rankose buvo daugiau val­
+    džios negu kad galėjo turėti ištižęs Jaunutis, ir, kaip įsitikinsi­
+    me vėliau, žmogus visiškas menkysta protu ir širdim, kad
+    gebėtų atėjus momentui pasipriešinti vyriausiajam broliui, ku­
+    ris, valdydamas Kernavę, turėjo progos sušaukti aukščiausius
+    tautos didikus ir, jų tarpininkaujamas, įgyti didžiojo kunigaikš­
+    čio titulą
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+
+- id: c-188976
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 65"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 65."
+  citata_originali: |
+    M et­
+    raštininkai sutaria1, kad, siekdam a atkeršyti už didžiojo ku­
+    nigaikščio mirtį, visa tauta griebėsi ginklo; kariaunos vadu
+    stojo Manvydas, arba, kaip vadina Prūsijos kronikininkas,
+    - Orthmannowitz
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Manvydo rūmai]]

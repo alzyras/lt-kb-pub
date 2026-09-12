@@ -52,6 +52,31 @@ media_all_json: |-
   pagrindžia:
     - c-186768
 
+<a id="claim-t-206244"></a>
+- t-002
+  teiginys: "Ignotas Onacevičius teigia, kad seniausios Lietuvos Metrikos knygos dingo prie Varnos, o vėlesniosiomis iki tol niekas nesinaudojo."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188859
+
+<a id="claim-t-206245"></a>
+- t-003
+  teiginys: "Teodoras Narbutas prie reikšmingų Lietuvos istorijos šaltinių priskyrė Peterburge esančias Lietuvos Metrikos knygas, Karaliaučiaus kryžiuočių archyvus ir Maskvos užsienio archyvą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-188860
+
 ## Citatos
 
 - id: c-186768
@@ -75,3 +100,42 @@ media_all_json: |-
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188859
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 57"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 57."
+  citata_originali: |
+    „Seniausios Lietuvos M etrikos knygos, - to­
+    liau sakė I. Onacevičius, - tas svarbiausias krašto istorijos
+    šaltinis, dingo prie Varnos, o vėlesniosiomis iki šiol niekas
+    nesinaudojo.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-188860
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 58"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 58."
+  citata_originali: |
+    Be Dlugošo, Strijkovskio, Kojalavičiaus, reikia per­
+    žiū rėti Prūsijos, Livonijos ir R usios kronikas, tai yra
+    Voluinės, Pskovo ir Naugardo, kuriose yra svarbios Lietu­
+    vos istorijai medžiagos. Ne mažiau reikšmingi šaltiniai -
+    D regerio ir Dogelio diplom atiniai kodeksai, Pulavų biblio­
+    teka, slaptieji kryžiuočių archyvai K araliaučiuje, Lietuvos
+    M etrikos knygos Peterburge, vidurinių amžių užsienio ar­
+    chyvas Maskvoje, pagaliau - seniausių giminių, save kildi­
+    nančių iš Gedimino, rankraščių rinkiniai.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

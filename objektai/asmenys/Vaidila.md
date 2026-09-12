@@ -95,8 +95,21 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
   pagrindžia:
     - c-83442
 
-<a id="claim-t-196874"></a>
+<a id="claim-t-194000"></a>
 - t-004
+  teiginys: "Lietuvos metraščio pasakojime Vaidila iš Algirdo tarno ir kepėjo buvo iškeltas valdyti Lydą, o Jogaila jį sutuokė su seserimi Marija."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-176625
+
+<a id="claim-t-196874"></a>
+- t-005
   teiginys: "Vaidila jau buvo iš Drohičino atvykęs į Gardiną."
   atnaujinta: "2026-07-12 22:29"
   sprendimo_priezastis: "auto"
@@ -108,7 +121,7 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
     - c-178954
 
 <a id="claim-t-204011"></a>
-- t-005
+- t-006
   teiginys: "Vaidila gyveno XIV a. antroje pusėje ir priskiriamas įtakingiausiems bei valdovui artimiausiems didikams, gaudavusiems reikšmingesnes beneficijas."
   atnaujinta: "2026-08-07 10:39"
   sprendimo_priezastis: "auto"
@@ -119,32 +132,44 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
   pagrindžia:
     - c-186615
 
-## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Lietuvos metraščio pasakojime Vaidila iš Algirdo tarno ir kepėjo buvo iškeltas valdyti Lydą, o Jogaila jį sutuokė su seserimi Marija.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Didysis kunigaikštis Kęstutis, atsižvelg­
-    damas j susitarimą bei savo brolišką meilę ir santar-
-    mę, kurios ligi jo mirties buvo laikęsis, pripažino di­
-    džiuoju kunigaikščiu Vilniuje jo sūnų, didįjį kunigaikštį
-    Jogailą, ir ėmė pas jį važinėti tartis dėl reikalų, kaip
-    anksčiau, būdavo, atvažiuoja pas vyriausiąjį brolį.
-    Buvo vienas žmogus3 6 , didžiojo kunigaikščio Algir­
-    do tarnas, vergas, vardu Vaidila3 7 ; iš pradžių buvo
-    kepėju, paskui kunigaikštis pristatė jį kloti patalą ir pa­
-    davinėti jam geriamą vandenį, o ilgainiui didysis kuni­
-    gaikštis jį net labai pamėgo ir davė jam valdyti Ly­
-    d ą 3 4  ir išvedė į žmones. Paskui, po didžiojo kunigaikš­
-    čio Algirdo mirties praėjus dvejiems ar daugiau metų,
-    didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir
-    išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3 B ,
-    kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 .
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: not_found
+<a id="claim-t-206409"></a>
+- t-007
+  teiginys: "Narbutas pasakoja, kad Vaidila, pradėjęs tarnauti Algirdo rūmų kepykloje, vėliau tapo jo kambariniu ir patalininku, o prieš Algirdo mirtį buvo Lydos laikytojas."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189024
+
+<a id="claim-t-206410"></a>
+- t-008
+  teiginys: "Jogaila išleido už Vaidilos savo seserį Mariją, Rusios kunigaikščio Dovydo našlę."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189025
+
+<a id="claim-t-206411"></a>
+- t-009
+  teiginys: "Narbutas vaizduoja Vaidilą įtikinėjus Jogailą sekti Rusios didžiojo kunigaikščio pavyzdžiu ir perspėjus, kad įtakingas Kęstutis gali perimti valdžią bei perduoti valdžią savo sūnui."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189026
+
 ## Citatos
 
 - id: c-83441
@@ -230,6 +255,35 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
   pagrindzia:
     - t-001
 
+- id: c-176625
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Didysis kunigaikštis Kęstutis, atsižvelg­
+    damas j susitarimą bei savo brolišką meilę ir santar-
+    mę, kurios ligi jo mirties buvo laikęsis, pripažino di­
+    džiuoju kunigaikščiu Vilniuje jo sūnų, didįjį kunigaikštį
+    Jogailą, ir ėmė pas jį važinėti tartis dėl reikalų, kaip
+    anksčiau, būdavo, atvažiuoja pas vyriausiąjį brolį.
+    Buvo vienas žmogus3 6 , didžiojo kunigaikščio Algir­
+    do tarnas, vergas, vardu Vaidila3 7 ; iš pradžių buvo
+    kepėju, paskui kunigaikštis pristatė jį kloti patalą ir pa­
+    davinėti jam geriamą vandenį, o ilgainiui didysis kuni­
+    gaikštis jį net labai pamėgo ir davė jam valdyti Ly­
+    d ą 3 4  ir išvedė į žmones. Paskui, po didžiojo kunigaikš­
+    čio Algirdo mirties praėjus dvejiems ar daugiau metų,
+    didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir
+    išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3 B ,
+    kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 .
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
 - id: c-178954
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -254,7 +308,7 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-005
 
 - id: c-186615
   autorius: "Rimvydas Petrauskas"
@@ -296,7 +350,75 @@ Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė. Bajora
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-006
+
+- id: c-189024
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 246"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 246."
+  citata_originali: |
+    Tarp Jogailos favoritų buvo kažkoks Vaidila, žmo­
+    gus prasčiokas, kunigaikščio samdinys; pirmiausia tarnavo rū­
+    mų kepykloje; tai yra buvo duonos kepėjas; paskui nežinia kaip
+    įgijo didžiojo kunigaikščio Algirdo palankumą, dėl to gavo
+    kambarinio tarnybą ir vėliau tapo jo patalininku, kitaip sakant,
+    tarnu, paduodančiu vandenį ir klojančiu guolį; geru elgesiu
+    pelnė didelę malonę, tad senasis Algirdas pakėlė jį į aukštes­
+    nes rūmų tarnų pareigas, o vėliau - į valstybės pareigūnus;
+    prieš Algirdo mirtį jis buvo nemažą reikšmę įgijęs žmogus ir
+    Lydos laikytojas.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
+- id: c-189025
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 246"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 246."
+  citata_originali: |
+    Didžiajam kunigaikščiui Jogailai šis dvariš­
+    kis taip buvo prie širdies, kad, dvejiems metams po tėvo mir­
+    ties praėjus, išleido už jo savo seserį Mariją, vieno Rusios
+    kunigaikščio Dovydo našlę1 2. Senasis Kęstutis, kai sužinojo apie
+    šias Vaidilos vedybas, jautėsi smarkiai įžeistas, kad dukterėčia
+    ištekėjo už tokios žemos kilmės žmogaus. Turėjo atvirai prie­
+    kaištauti, vainoti, iškalbėti ir motinai, ir broliui, ir pačiai M a­
+    rijai; tai buvo svarbiausias suokalbio prieš tą kunigaikštį
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
+- id: c-189026
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 247"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 247."
+  citata_originali: |
+    Vaidila pirmiausia
+    gebėjo įkalbėti didįjį kunigaikštį imti pavyzdį iš Rusios didžiojo
+    kunigaikščio, nenoriai pasidalijusio aukščiausiąja valdžia su ku­
+    nigaikštiškąja gimine; įrodinėjo pavojų, keliamą Kęstučio, kuris
+    esą, turėdamas tokią didžiulę įtaką krašte ir giminėje, anksčiau
+    ar vėliau nepraleis progos paimti valdžios vairo ir savo sūnui lai­
+    duoti didžiojo kunigaikščio pareigas; tokiu atveju Jogailos reika­
+    lai susiklostysią visai pražūtingai; kad tokiems įvykiams užkirstų
+    kelią, patarėjai neryžtingą kunigaikštį įtikinėjo užmegzti ryšius
+    su kryžiuočiais ir eiti su jais išvien prieš Kęstutį - juk taip visais
+    atvejais turėtų stiprią paspirtį.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
 
 ## Ryšiai
 - Vaidila keliavo į [[objektai/vietos/Prūsija]]

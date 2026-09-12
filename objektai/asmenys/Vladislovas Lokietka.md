@@ -236,6 +236,19 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   pagrindžia:
     - c-56174
 
+<a id="claim-t-205733"></a>
+- t-012
+  teiginys: "Teodoro Narbuto vertinimu, Vladislovas Lokietka dėl neapdairumo prarado aukščiausias pareigas Lenkijoje, o didesnioji Lenkijos didikų dalis į jo vietą išrinko Čekijos karalių Vaclovą."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188348
+
 ## Reikšmingi paminėjimai
 - c-006
   santrauka: 'Kazimieras ir Lokietka, Lenkijos kunigaikščiai, dėl savo žmonių likimo paprašė Prūsijos magistro Meinhardo pagalbos.'
@@ -464,6 +477,39 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   patikimumo_saltinis: ai
   pagrindzia:
     - t-010
+
+- id: c-188348
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 326"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 326."
+  citata_originali: |
+    klaidingas, nors kartais būdavo stebėtinai galingas ir sėk­
+    mingas, tačiau jo padariniai visada būdavo pražūtingi, ir
+    mechanizmas visiškai išsiderindavo; kaimynai negalėdavo
+    iiisiiaikyti tuo nepasinaudoję. Kaip tik taip atsitiko, kai
+    Vladislovas Lokietka per kažkokį neapdairumą prarado
+    aukščiausiąsias pareigas, o į jo vietą Lenkijos didikų
+    didesniosios dalies buvo išrinktas Čekijos karalius Vac­
+    lovas (spėjama, buvęs vyras Riksos, vienintelės Lenkijos
+    sosto paveldėtojos po karaliaus Pšemislo mirties), kuris
+    pasivadino dar ir Pamario kunigaikščiu; taigi lietuviai,
+    pastebėję Lenkijoje apraiškas įprastinės netvarkos ir ši­
+    taip įgiję persvarą, per pačias naujojo monarcho vestu­
+    ves, kai lenkai, linkę puotauti, buvo įnikę Poznanėje į
+    linksmybes, netikėtai užgriuvo Dobrynės žemę su šešeto
+    tūkstančių karių armija, pirm sužinoję, kad Lokietkos
+    šalininkai, saugodamiesi Vaclovo šalininkų puolimo, ten
+    pergabeno savo turtus. Tad laimikis buvo neįkainojamas,
+    galimybės grobti didžiausios, be to, dar daug apiplėšta
+    žemdirbių namų, sudeginta kaimų, paimta belaisvių.
+  citata_rodoma: "Kaip tik taip atsitiko, kai \nVladislovas Lokietka per kažkokį neapdairumą prarado \naukščiausiąsias pareigas, o į jo vietą Lenkijos didikų \ndidesniosios dalies buvo išrinktas Čekijos karalius Vac­\nlovas"
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

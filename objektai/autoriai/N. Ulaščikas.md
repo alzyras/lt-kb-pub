@@ -47,8 +47,24 @@ N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų 
 
 ## Teiginiai
 
-<a id="claim-t-198528"></a>
+<a id="claim-t-198527"></a>
 - t-001
+  teiginys: "N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų kalbą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md::validation_repair"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra konkretus, gramatiškas ir paremtas citata apie 1966 m. vertimą į dabartinę rusų kalbą."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]"
+  temporaliniai_duomenys: "įvykio data: 1966 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir paremtas citata apie 1966 m. vertimą į dabartinę rusų kalbą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-169798
+
+<a id="claim-t-198528"></a>
+- t-002
   teiginys: "N. Ulaščikas prie Bychovco kronikos vertimo pridėjo įvadą ir trumpų paaiškinimų apie vietoves, terminus bei kai kurias teksto vietas."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md::validation_repair"
@@ -86,10 +102,12 @@ N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų 
   citata_rodoma: "Siame Bychovco kronikos leidinyje iš M. Strijkovs­\nkio kronikos buvo įdėta pradžia, praleistos paraščių \npastabos apie turinį, kurias buvo perteikęs T, Narbutas. \nTekstas perteiktas tobuliau: išnašose trumpai nurodomi \natitinkamų Bychovco vietų nesutapimai su kai kurių \nkitų LDK metraščių nuorašų atitinkamomis vietomis ir \ndalinai su M. Strijkovskio Kronika.\nPagal PSRL paskelbtą tekstą Bychovco kronika buvo \ntrečią kartą paskelbta 1966 m., N. Ulaščiko išversta \nį dabartinę rusų kalbą ir išspausdinta TSRS Mokslų \nAkademijos Istorijos instituto serijoje „TSRS tautų is­\ntoriniai paminklai\" '°."
   statusas: verified
   atnaujinta: "2026-07-12 23:00"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
 - id: c-180529
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -116,4 +134,4 @@ N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-001
+    - t-002

@@ -162,8 +162,26 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   pagrindžia:
     - c-46854
 
-<a id="claim-t-122969"></a>
+<a id="claim-t-122968"></a>
 - t-007
+  teiginys: "Valdymo pabaigoje Černigovo krašte dar buvo likusios kelios atskiros kunigaikštystės."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Maskva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Černigovas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Maskva: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Černigovas\" parinktas kaip owner_note_path. Targetas \"Maskva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-46854
+    - c-183668
+
+<a id="claim-t-122969"></a>
+- t-008
   teiginys: "Vytautui vykstant pro Černigovą iki Kijevo, tų kraštų kunigaikščiai jam reiškė paklusnumą."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -181,7 +199,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-183666
 
 <a id="claim-t-122970"></a>
-- t-008
+- t-009
   teiginys: "Černigove susidarė atskira kunigaikštija."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -199,7 +217,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-183671
 
 <a id="claim-t-122971"></a>
-- t-009
+- t-010
   teiginys: "Kazimieras atskiru įsakymu suteikė Vilniaus miestiečiams muito laisvę prekiaujant su Černigovu."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -218,7 +236,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-183664
 
 <a id="claim-t-183110"></a>
-- t-010
+- t-011
   teiginys: "Po nepavykusio sąmokslo Švitrigaila perėmė Černigovo ir kelias kitas sritis."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -238,7 +256,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-112452
 
 <a id="claim-t-193255"></a>
-- t-011
+- t-012
   teiginys: "Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zigmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietuvos."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -250,7 +268,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-112452
 
 <a id="claim-t-193256"></a>
-- t-012
+- t-013
   teiginys: "Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paupiai."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -263,7 +281,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-183665
 
 <a id="claim-t-200373"></a>
-- t-013
+- t-014
   teiginys: "Kai kurie Lietuvos miestai buvo valdomi Černigovo kunigaikščių."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -275,7 +293,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-183673
 
 <a id="claim-t-200376"></a>
-- t-014
+- t-015
   teiginys: "Černigovo vyskupas dalyvavo stačiatikių vyskupų susirinkime, kuris išleido aplinkraštį dėl teisių gynimo nuo Rusijos metropolitų."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -292,8 +310,24 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   pagrindžia:
     - c-183669
 
+<a id="claim-t-200390"></a>
+- t-016
+  teiginys: "Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
+  susije_objektai: "mentioned_place: Brianskas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dniepras; mentioned_place: Lenkija; llm_object: Černigovas"
+  semantiniai_rysiai: "[[objektai/asmenys/Mindaugas|Mindaugas]] užėmė Černigovas"
+  temporaliniai_duomenys: "įvykio data: 1237-1263; įvykio data: 1255 m.; įvykio data: apie 1255 m.; įvykio data: 1263 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-183674
+
 <a id="claim-t-201121"></a>
-- t-015
+- t-017
   teiginys: "Ateinančius metus tas patsai karvedys, nukariavęs severionis, rodomičionis, gudų tautos dalis, būk taip pat užėmęs pilis Černigovo ir Vitebsko nuo chazarų, kuriuos iš visos Baltosios žemės, arba Baltųjų Gudų, išujęs."
   atnaujinta: "2026-07-16 14:31"
   sprendimo_priezastis: "auto"
@@ -305,7 +339,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-184471
 
 <a id="claim-t-203021"></a>
-- t-016
+- t-018
   teiginys: "Dalis Lietuvos miestų buvo valdoma Černigovo kunigaikščių."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -315,7 +349,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-112447
 
 <a id="claim-t-203035"></a>
-- t-017
+- t-019
   teiginys: "Lietuvos metraštyje pasakojama, kad didysis kunigaikštis Skirmantas, nugalėjęs totorių chaną, nužygiavo į Rusų žemę ir paėmė Černigovą."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -329,7 +363,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-183672
 
 <a id="claim-t-203126"></a>
-- t-018
+- t-020
   teiginys: "A. Šapoka (red.) „Lietuvos istorijoje“ nurodo, kad sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo bei Kijevo sritis, o Zigmantas buvo paskelbtas didžiuoju kunigaikščiu."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -341,7 +375,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-112452
 
 <a id="claim-t-203162"></a>
-- t-019
+- t-021
   teiginys: "Leidinyje „A. Šapoka (red.), Lietuvos istorija“ rašoma, kad sąmokslui ne visai pasisekus Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo bei Kijevo sritis."
   atnaujinta: "2026-08-06 20:25"
   sprendimo_priezastis: "auto"
@@ -354,6 +388,19 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-183670
+
+<a id="claim-t-205837"></a>
+- t-022
+  teiginys: "Riuriko sąjungininkai kunigaikščiai Olegovičiai kariavo su lietuviais, puldinėjusiais jų Černigovo valdas."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
+  pagrindžia:
+    - c-188452
 
 ## Citatos
 
@@ -404,7 +451,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
-    - t-007
+    - t-008
 
 - id: c-46854
   redaktorius: "A. Šapoka"
@@ -427,6 +474,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   pagrindzia:
     - t-002
     - t-006
+    - t-007
 
 - id: c-112447
   autorius: "Michał Baliński"
@@ -463,7 +511,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-018
 
 - id: c-112452
   redaktorius: "A. Šapoka"
@@ -489,9 +537,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-010
     - t-011
-    - t-018
+    - t-012
+    - t-020
 
 - id: c-112453
   redaktorius: "A. Šapoka"
@@ -511,7 +559,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-009
 
 - id: c-112459
   autorius: "Michał Baliński"
@@ -546,7 +594,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
-    - t-009
+    - t-010
 
 - id: c-175988
   redaktorius: "A. Šapoka"
@@ -565,7 +613,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-013
 
 - id: c-183664
   autorius: "Michał Baliński"
@@ -600,7 +648,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
-    - t-009
+    - t-010
 
 - id: c-183665
   redaktorius: "A. Šapoka"
@@ -619,7 +667,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-013
 
 - id: c-183666
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -644,7 +692,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-008
 
 - id: c-183668
   redaktorius: "A. Šapoka"
@@ -661,10 +709,12 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   citata_rodoma: "Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko\ntik Kopiliuje, Slucke, Pinske, keletas jų liko Černigovo krašte\nir Maskvos pasieny. Tačiau jose esančias pilis valdė didžiojo\nkunigaikščio vietininkai, todėl jos nebegalėjo būti pavojingos\nvalstybės vieningumui."
   statusas: verified
   atnaujinta: "2026-07-12 23:05"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
 - id: c-183669
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -686,7 +736,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-014
+    - t-015
 
 - id: c-183670
   redaktorius: "A. Šapoka"
@@ -712,7 +762,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
-    - t-019
+    - t-021
 
 - id: c-183671
   redaktorius: "A. Šapoka"
@@ -732,13 +782,12 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-009
 
 - id: c-183672
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 48"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 48."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     50
 
@@ -759,7 +808,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-019
 
 - id: c-183673
   autorius: "Michał Baliński"
@@ -796,7 +845,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-014
 
 - id: c-183674
   autorius: "Zenonas Ivinskis"
@@ -812,10 +861,12 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   citata_rodoma: ") iš 33 lietuvių karo žygių į kaimynus tik 5 tėra buvę\nį ordino valdas, 8 — į Lenkiją ir 20 — į rusų žemes140 141. Apie\n1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių\nprie Dniepro — Černigovo ir Briansko kunigaikštijose."
   statusas: verified
   atnaujinta: "2026-07-12 23:05"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
+
 - id: c-184471
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
   puslapiai: "PDF 53"
@@ -841,7 +892,26 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-017
+
+- id: c-188452
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 73"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 73."
+  citata_originali: |
+    1204, 1206 m. Rusinu karas su Lietuva, Maždaug tuo
+    laiku Riuriko sąjungininkai kunigaikščiai Olegovičiai ka­
+    riavo su lietuviais, puldinėjusiais jų Černigovo valdas.
+    Kaip kad tvirtina Rusijos istorikas, šis karas rusinams ge­
+    rai sekėsi1.
+  citata_rodoma: "Maždaug tuo \nlaiku Riuriko sąjungininkai kunigaikščiai Olegovičiai ka­\nriavo su lietuviais, puldinėjusiais jų Černigovo valdas."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-022
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Švitrigaila]]

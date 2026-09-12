@@ -44,11 +44,131 @@ canonical_biography: "Šios valstybės, būtent didesnio sios Lenkijos dalies, p
 
 Šios valstybės, būtent didesnio sios Lenkijos dalies, paveldėtojais tapo dvejetas jo ma žamečių sūnų — tai Lešekas Baltasis: ir Konradas. 1207 metais Lešekas Baltasis su Konradu pasidalijo tėvo palikimą, o Konradui atiteko Kujavija, Mozūrija, Kulmo ir Dobrynės žemės. Narbutas rašo, kad Konradas Mazovietis pasisavino Kulmo ir Liubavo žemes bei skelbėsi visos Prūsijos valdovu.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Šios valstybės, būtent didesnio sios Lenkijos dalies, paveldėtojais tapo dvejetas jo ma žamečių sūnų — tai Lešekas Baltasis: ir Konradas.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
+<a id="claim-t-205432"></a>
+- t-001
+  teiginys: "1207 metais Lešekas Baltasis su Konradu pasidalijo tėvo palikimą, o Konradui atiteko Kujavija, Mozūrija, Kulmo ir Dobrynės žemės."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187818
+
+<a id="claim-t-205442"></a>
+- t-002
+  teiginys: "1228 m. balandžio 23 d. Konrado Mazoviečio privilegija kryžiuočių ordinui buvo patvirtinta Kulmo žemės nuosavybė."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1228 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Aiškiai įvardytas privilegijos gavėjas ir jos turinys, pašalinant neaiškų įvardį iš pradinio teiginio."
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187869
+
+<a id="claim-t-205490"></a>
+- t-003
+  teiginys: "Šios valstybės, būtent didesnio sios Lenkijos dalies, paveldėtojais tapo dvejetas jo ma žamečių sūnų — tai Lešekas Baltasis: ir Konradas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188094
+
+<a id="claim-t-205557"></a>
+- t-004
+  teiginys: "Narbutas rašo, kad Konradas Mazovietis pasisavino Kulmo ir Liubavo žemes bei skelbėsi visos Prūsijos valdovu."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187956
+
+## Citatos
+
+- id: c-187818
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 283"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 283."
+  citata_originali: |
+    Vladislovas Laibakojis nepasiekė tokių teisių ir
+    toli savo valdų neišplėtė, kaip kad Kazimieras Teisinga­
+    sis, o apie Prūsiją galvoti nebuvo nei progų, nei laiko. Ga­
+    lop 1207 metais Lešekas Baltasis užėmė aukščiausiąjį
+    Lenkijos sostą ir netrukus tėvo palikimą pasidalijo su sa­
+    vo broliu Konradu. Pastarajam atiteko Kujavija, Mozū-
+    rija kartu su Kulmo ir Dobrynės žemėmis.
+  citata_rodoma: "Ga­\nlop 1207 metais Lešekas Baltasis užėmė aukščiausiąjį \nLenkijos sostą ir netrukus tėvo palikimą pasidalijo su sa­\nvo broliu Konradu. Pastarajam atiteko Kujavija, Mozū- \nrija kartu su Kulmo ir Dobrynės žemėmis."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-187869
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 304"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 304."
+  citata_originali: |
+    1228 m. Kryžiuočių įsikūrimas. Naujasis kryžiuočių va­
+    das Hermanas Balkas atvyko į Mozūriją 1228 metais ir
+    tuojau pat užėmė savo valdą, o tų pačių metų balandžio
+    23 dieną Konrado Mazoviečio jam suteikta privilegija bu­
+    vo patvirtinta Kulmo žemės nuosavybė jo valdomo ordi­
+    no reikalams1 2.
+  citata_rodoma: "Naujasis kryžiuočių va­\ndas Hermanas Balkas atvyko į Mozūriją 1228 metais ir \ntuojau pat užėmė savo valdą, o tų pačių metų balandžio \n23 dieną Konrado Mazoviečio jam suteikta privilegija bu­\nvo patvirtinta Kulmo žemės nuosavybė jo valdomo ordi­\nno"
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
+
+- id: c-187956
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 289"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 289."
+  citata_originali: |
+    1217 m. {vykiai Mozūrijoje. Be šių vyskupo laimėjimų,
+    kunigaikštis Konradas Mazovietis, kuris įstengė pasisa­
+    vinti Kulmo ir Liubavo žemes, priėmusias krikščionybę,
+    taip pat sugebėjo pasiskelbti visos Prūsijos valdovu, ne­
+    pajėgė ne tik kad vyskupystės, bet ir savojo krašto apgin­
+    ti. Šio kunigaikščio būdo bruožai, istorikų piešiami tam­
+    siomis spalvomis, skatino kai kuriuos poelgius.
+  citata_rodoma: "Be šių vyskupo laimėjimų, \nkunigaikštis Konradas Mazovietis, kuris įstengė pasisa­\nvinti Kulmo ir Liubavo žemes, priėmusias krikščionybę, \ntaip pat sugebėjo pasiskelbti visos Prūsijos valdovu, ne­\npajėgė ne tik kad vyskupystės, bet ir savojo krašto apgin­\nti."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-188094
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 282"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 282."
   citata_originali: |
     Neturime jokių dingsčių abejoti, kad jie būtų ga­
     lėję sulaužyti savo priesaiką dar iki to monarcho mirties,
@@ -58,55 +178,11 @@ canonical_biography: "Šios valstybės, būtent didesnio sios Lenkijos dalies, p
     mojo mokytoju, arba rūmininku, buvo Govorka, antro­
     jo — Kristijonas, dar jų tėvo parinkti, vyrai neabejotinos
     doros ir garbės.
-  citata_rodoma: ''
+  citata_rodoma: "Šios valstybės, būtent didesnio­\nsios Lenkijos dalies, paveldėtojais tapo dvejetas jo ma­\nžamečių sūnų — tai Lešekas Baltasis: ir Konradas. Pir­\nmojo mokytoju, arba rūmininku, buvo Govorka, antro­\njo — Kristijonas, dar jų tėvo parinkti, vyrai neabejotinos \ndoros ir garbės"
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: '1207 metais Lešekas Baltasis su Konradu pasidalijo tėvo palikimą, o Konradui atiteko Kujavija, Mozūrija, Kulmo ir Dobrynės žemės.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
-  citata_originali: |
-    Vladislovas Laibakojis nepasiekė tokių teisių ir
-    toli savo valdų neišplėtė, kaip kad Kazimieras Teisinga­
-    sis, o apie Prūsiją galvoti nebuvo nei progų, nei laiko. Ga­
-    lop 1207 metais Lešekas Baltasis užėmė aukščiausiąjį
-    Lenkijos sostą ir netrukus tėvo palikimą pasidalijo su sa­
-    vo broliu Konradu. Pastarajam atiteko Kujavija, Mozū-
-    rija kartu su Kulmo ir Dobrynės žemėmis.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-003
-  santrauka: 'Narbutas rašo, kad Konradas Mazovietis pasisavino Kulmo ir Liubavo žemes bei skelbėsi visos Prūsijos valdovu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
-  citata_originali: |
-    1217 m. {vykiai Mozūrijoje. Be šių vyskupo laimėjimų,
-    kunigaikštis Konradas Mazovietis, kuris įstengė pasisa­
-    vinti Kulmo ir Liubavo žemes, priėmusias krikščionybę,
-    taip pat sugebėjo pasiskelbti visos Prūsijos valdovu, ne­
-    pajėgė ne tik kad vyskupystės, bet ir savojo krašto apgin­
-    ti. Šio kunigaikščio būdo bruožai, istorikų piešiami tam­
-    siomis spalvomis, skatino kai kuriuos poelgius.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-004
-  santrauka: '1228 m. balandžio 23 d. Konrado Mazoviečio privilegija kryžiuočių ordinui buvo patvirtinta Kulmo žemės nuosavybė.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
-  citata_originali: |
-    1228 m. Kryžiuočių įsikūrimas. Naujasis kryžiuočių va­
-    das Hermanas Balkas atvyko į Mozūriją 1228 metais ir
-    tuojau pat užėmė savo valdą, o tų pačių metų balandžio
-    23 dieną Konrado Mazoviečio jam suteikta privilegija bu­
-    vo patvirtinta Kulmo žemės nuosavybė jo valdomo ordi­
-    no reikalams1 2.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-003

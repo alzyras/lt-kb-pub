@@ -64,6 +64,19 @@ Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir 
   pagrindžia:
     - c-21901
 
+<a id="claim-t-205706"></a>
+- t-002
+  teiginys: "Teodoras Narbutas rašo, kad Mindaugui grįžus iš Komos karalienė Morta netrukus per anksti mirė."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188321
+
 ## Citatos
 
 - id: c-21901
@@ -87,6 +100,24 @@ Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188321
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 198"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 198."
+  citata_originali: |
+    ¡263 m. Karalienės Mortos mirtis. Grįžus Mindaugui
+    iš Komos, karalienė Morta netrukus pirm laiko baigė sa­
+    vo gyvenimo dienas, palikusi dvejetą jauno amžiaus sū­
+    nų1.
+  citata_rodoma: "Grįžus Mindaugui \niš Komos, karalienė Morta netrukus pirm laiko baigė sa­\nvo gyvenimo dienas, palikusi dvejetą jauno amžiaus"
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]

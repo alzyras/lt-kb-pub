@@ -39,11 +39,63 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Šie riteriai dažnai puldavo valsčius, dėl kurių ne buvo abejojama, kad geruoju priims krikštą, arba kurie jau buvo atversti į tikrąjį tikėjimą ir tik laukė kunigo su šlakstykle.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
+<a id="claim-t-205124"></a>
+- t-001
+  teiginys: "Vis dėlto 'tokia įvykių raida ne taip greitai, kaip jiems norėjosi, vedė į tikslą, tad netrukus drįso paniekinti im peratoriaus įsakymą, jėga versdami naujakrikščius pasi duoti jų valdžiai, atiminėdami iš vyskupų turtus, o tai dažnai pasitaikydavo Prūsijoje."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187756
+
+<a id="claim-t-205317"></a>
+- t-002
+  teiginys: "Šie riteriai dažnai puldavo valsčius, dėl kurių ne buvo abejojama, kad geruoju priims krikštą, arba kurie jau buvo atversti į tikrąjį tikėjimą ir tik laukė kunigo su šlakstykle."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187815
+
+## Santrauka
+
+Šie riteriai dažnai puldavo valsčius, dėl kurių ne buvo abejojama, kad geruoju priims krikštą, arba kurie jau buvo atversti į tikrąjį tikėjimą ir tik laukė kunigo su šlakstykle. Vis dėlto 'tokia įvykių raida ne taip greitai, kaip jiems norėjosi, vedė į tikslą, tad netrukus drįso paniekinti im peratoriaus įsakymą, jėga versdami naujakrikščius pasi duoti jų valdžiai, atiminėdami iš vyskupų turtus, o tai dažnai pasitaikydavo Prūsijoje.
+
+## Citatos
+
+- id: c-187756
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 364"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 364."
+  citata_originali: |
+    Vis dėlto 'tokia įvykių raida ne taip greitai, kaip jiems
+    norėjosi, vedė į tikslą, tad netrukus drįso paniekinti im­
+    peratoriaus įsakymą, jėga versdami naujakrikščius pasi­
+    duoti jų valdžiai, atiminėdami iš vyskupų turtus, o tai
+    dažnai pasitaikydavo Prūsijoje, gąsdindami dvasininkus
+    įvairiausiomis grėsmėmis, kad šie nedrįstų jų skųsti1.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-187815
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 364"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 364."
   citata_originali: |
     Šie riteriai dažnai puldavo valsčius, dėl kurių ne­
     buvo abejojama, kad geruoju priims krikštą, arba kurie
@@ -57,26 +109,10 @@ Nenurodyta
     dažnai savo rezgamom pinklėm pasiekdavo, kad pagonys
     arba nebenorėdavo į savo kaimus priimti kunigų, arba
     priimtuosius išvarydavo, neretai juos net nužudydavo.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: 'Vis dėlto ''tokia įvykių raida ne taip greitai, kaip jiems norėjosi, vedė į tikslą, tad netrukus drįso paniekinti im peratoriaus įsakymą, jėga versdami naujakrikščius pasi duoti jų valdžiai, atiminėdami iš vyskupų turtus, o tai dažnai pasitaikydavo Prūsijoje.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
-  citata_originali: |
-    Vis dėlto 'tokia įvykių raida ne taip greitai, kaip jiems
-    norėjosi, vedė į tikslą, tad netrukus drįso paniekinti im­
-    peratoriaus įsakymą, jėga versdami naujakrikščius pasi­
-    duoti jų valdžiai, atiminėdami iš vyskupų turtus, o tai
-    dažnai pasitaikydavo Prūsijoje, gąsdindami dvasininkus
-    įvairiausiomis grėsmėmis, kad šie nedrįstų jų skųsti1.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-Šie riteriai dažnai puldavo valsčius, dėl kurių ne buvo abejojama, kad geruoju priims krikštą, arba kurie jau buvo atversti į tikrąjį tikėjimą ir tik laukė kunigo su šlakstykle. Vis dėlto 'tokia įvykių raida ne taip greitai, kaip jiems norėjosi, vedė į tikslą, tad netrukus drįso paniekinti im peratoriaus įsakymą, jėga versdami naujakrikščius pasi duoti jų valdžiai, atiminėdami iš vyskupų turtus, o tai dažnai pasitaikydavo Prūsijoje.
+  pagrindzia:
+    - t-002

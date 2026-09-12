@@ -101,6 +101,32 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
   pagrindžia:
     - c-45360
 
+<a id="claim-t-205823"></a>
+- t-004
+  teiginys: "Teodoro Narbuto aprašyme lietuviai, siekdami atlyginti už prarastas lėšas ir prie Vendeno patirtas skriaudas, žiemą paslapčia užėmė Toropeco apylinkes."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
+  pagrindžia:
+    - c-188438
+
+<a id="claim-t-205824"></a>
+- t-005
+  teiginys: "Teodoro Narbuto aprašyme Toropecietis Dovydas Mstislavovičius su Jaroslavu Naugardiečiu ir Vladimiru Pskoviečiu sutelkė družinas bei dalį miestų samdytinės kariuomenės ir vijosi Dauguvos link besitraukiančią Lietuvos kariauną."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
+  pagrindžia:
+    - c-188439
+
 ## Citatos
 
 - id: c-45359
@@ -181,3 +207,46 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-188438
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 83"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 83."
+  citata_originali: |
+    Lietuvių žygis į Rusios žemes. Lietuviai, nu­
+    sivylę ta nesavanaudiška savo pagalba, norėdami atsily­
+    ginti už prarastas lėšas ir patirtas prie Vendeno skriau­
+    das, stojus žiemai, paslapčia išsirengė į šiaurines Rusios
+    žemes, kur užėmė. Toropeco apylinkes.
+  citata_rodoma: "Lietuviai, nu­\nsivylę ta nesavanaudiška savo pagalba, norėdami atsily­\nginti už prarastas lėšas ir patirtas prie Vendeno skriau­\ndas, stojus žiemai, paslapčia išsirengė į šiaurines Rusios \nžemes, kur užėmė. Toropeco apylinkes."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-188439
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 89"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 89."
+  citata_originali: |
+    Netgi viešėję pirk­
+    liai, kitaip sakant, svetimtaučiai, tuokart nesulaukė pasi­
+    gailėjimo, kaip kad paprastai būdavo. Jie buvo sumušti
+    prie Toržoko miesto. Tuo metu kunigaikščiai tenykščių
+    kraštų — Jaroslavas Naugardietis, Dovydas Mstislavovi-
+    čius Toropecietis ir Vladimiras Pskovietis,— sujungę sa­
+    vo gvardijas, vadintas družinomis, taip pat ir kai kuriuos
+    miestų samdytinės kariuomenės pulkus, išskyrus naugar-
+    diečių, šoko vytis Dauguvos link besitraukiančios Lietu­
+    vos kariaunos.
+  citata_rodoma: "Tuo metu kunigaikščiai tenykščių \nkraštų — Jaroslavas Naugardietis, Dovydas Mstislavovi- \nčius Toropecietis ir Vladimiras Pskovietis,— sujungę sa­\nvo gvardijas, vadintas družinomis, taip pat ir kai kuriuos \nmiestų samdytinės kariuomenės pulkus, išskyrus naugar- \ndiečių, šoko vytis Dauguvos link besitraukiančios Lietu­\nvos kariaunos."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005

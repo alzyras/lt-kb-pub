@@ -34,11 +34,27 @@ canonical_biography: "Lietuvos metraštis Olegą vadina Riazanės kunigaikščiu
 
 Lietuvos metraštis Olegą vadina Riazanės kunigaikščiu ir nurodo, kad 6909 metais jis su Jurijumi Svetoslavovičiumi atėjo prie Smolensko su kariuomenėmis.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Lietuvos metraštis Olegą vadina Riazanės kunigaikščiu ir nurodo, kad 6909 metais jis su Jurijumi Svetoslavovičiumi atėjo prie Smolensko su kariuomenėmis.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+<a id="claim-t-194120"></a>
+- t-001
+  teiginys: "Lietuvos metraštis Olegą vadina Riazanės kunigaikščiu ir nurodo, kad 6909 metais jis su Jurijumi Svetoslavovičiumi atėjo prie Smolensko su kariuomenėmis."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-176733
+
+## Citatos
+
+- id: c-176733
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Štai užmuštųjų lietuvių kunigaikščių vardai 23: Po­
     locko kunigaikštis Andrius Kęstutaitis2 < ; jo brolis
@@ -57,8 +73,10 @@ Lietuvos metraštis Olegą vadina Riazanės kunigaikščiu ir nurodo, kad 6909 m
     kunigaikštis Jurijus Svetoslavovičius bei Riazanės ku­
     nigaikštis Olegas su kariuomenėmis atėjo prie Smo­
     lensko3 7 . Tuo metu buvo kilęs maištas ir nesantaika.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: not_found
+  pagrindzia:
+    - t-001

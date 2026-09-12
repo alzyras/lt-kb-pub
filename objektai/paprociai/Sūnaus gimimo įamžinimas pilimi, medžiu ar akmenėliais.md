@@ -39,11 +39,31 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Ne mažiau įdomus buvo įstatymu įtvirtintas pa protys, kuris, kaip pastebėta, sietinas su sūnaus gimimu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
+<a id="claim-t-205499"></a>
+- t-001
+  teiginys: "Ne mažiau įdomus buvo įstatymu įtvirtintas pa protys, kuris, kaip pastebėta, sietinas su sūnaus gimimu."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187716
+
+## Santrauka
+
+Ne mažiau įdomus buvo įstatymu įtvirtintas pa protys, kuris, kaip pastebėta, sietinas su sūnaus gimimu.
+
+## Citatos
+
+- id: c-187716
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 386"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 386."
   citata_originali: |
     Ne mažiau įdomus buvo įstatymu įtvirtintas pa­
     protys, kuris, kaip pastebėta, sietinas su sūnaus gimimu.
@@ -53,11 +73,10 @@ Nenurodyta
     dindavo medį, kuris augdamas rodė vaiko amžių, arba,
     specialiai medyje išskaptavę drevę, mesdavo- kasmet nu­
     statytą dieną po akmenėlį.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-Ne mažiau įdomus buvo įstatymu įtvirtintas pa protys, kuris, kaip pastebėta, sietinas su sūnaus gimimu.
+  pagrindzia:
+    - t-001

@@ -590,6 +590,84 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   pagrindžia:
     - c-185028
 
+<a id="claim-t-205120"></a>
+- t-033
+  teiginys: "Buvo imtasi statydinti naujiems gy nėjams būstą su įtvirtinimais jų pasirinktoje vietovėje, būtent kairiajame Vyslos krante, priešais dabartinę Torūnę, kurią pavadino Vogelsang, taį paėjo nuo „paukš čių .giedojimas“."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-187804
+
+<a id="claim-t-205204"></a>
+- t-034
+  teiginys: "Mat įsikūręs buvo labai tinkamoje vietoje atplaukiantiems jūra lai vams apsistoti, o Vysla buvo sujungtas su atokiais kraš tais žemyne."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-187925
+
+<a id="claim-t-205448"></a>
+- t-035
+  teiginys: "Vos tik kryžiuočių pulkai persikė lė per Vyslą, kai, tartum ženklą gavę, visi pagonys ūmai ėmė bruzdėti."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-188104
+
+<a id="claim-t-206609"></a>
+- t-036
+  teiginys: "Didysis kunigaikštis su nemaža kariauna, užkariavęs Mazovijos žemes, priartėjo prie Vyslos ir jos dešiniuoju krantu nužygiavo iki Sano žiočių."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189224
+
+<a id="claim-t-206610"></a>
+- t-037
+  teiginys: "Teodoras Narbutas Lenkijos didikus apibūdina kaip drąsos stokojančius ir nurodo, kad Lenkijos bajorai bei didikai pabėgo anapus Vyslos ir užsidarė Zavichosto pilyje."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189225
+
+<a id="claim-t-206611"></a>
+- t-038
+  teiginys: "Teodoras Narbutas kariauną apibūdina kaip plėšikaujančią ir nurodo, kad kariauna, kairįjį sparną dengdama Vyslos krantu, priartėjo prie Vislicos."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189226
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Sventopelkas Vyslos ir Nogato santakoje pastatė Santyro pilį.'
@@ -1467,6 +1545,128 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
   patikimumo_saltinis: ai
   pagrindzia:
     - t-032
+
+- id: c-187804
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 302"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 302."
+  citata_originali: |
+    Kunigaikštienės rūpestin­
+    ga globa jie veikiai buvo išgydyti. Netrukus, grįžus iš
+    Lenkijos kunigaikščiui Konradui, 1226 metų gegužės 20-
+    ąją, su kryžiuočiais buvo sudarytos reikiamos sutartys ir
+    priimti potvarkiai1. Buvo imtasi statydinti naujiems gy­
+    nėjams būstą su įtvirtinimais jų pasirinktoje vietovėje,
+    būtent kairiajame Vyslos krante, priešais dabartinę To-
+    rūnę, kurią pavadino Vogelsang, taį paėjo nuo „paukš­
+    čių .giedojimas“.
+  citata_rodoma: "Buvo imtasi statydinti naujiems gy­\nnėjams būstą su įtvirtinimais jų pasirinktoje vietovėje, \nbūtent kairiajame Vyslos krante, priešais dabartinę To- \nrūnę, kurią pavadino Vogelsang, taį paėjo nuo „paukš­\nčių .giedojimas“."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-033
+
+- id: c-187925
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 110"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 110."
+  citata_originali: |
+    Sis prekybinis miestas viename Lietuvos krašte, į kurį
+    keliautojas iš Hėtumo, plaukdamas dieną ir naktį, pate­
+    ko septintąją kelionės dieną, buvo labai senas, tą rodo
+    rastos žemėje iškasenos ir vietinės legendos. Mat įsikūręs
+    buvo labai tinkamoje vietoje atplaukiantiems jūra lai­
+    vams apsistoti, o Vysla buvo sujungtas su atokiais kraš­
+    tais žemyne. Tad šis naujasis Pitėjas, kurio svarbiausi
+    žvalgymo tikslai buvo taip pat prekybiniai, apsilankė
+    mieste, kuris šiuo atžvilgiu buvo pats tinkamiausias ir
+    kitose šalyse pats garsiausias.
+  citata_rodoma: "Mat įsikūręs \nbuvo labai tinkamoje vietoje atplaukiantiems jūra lai­\nvams apsistoti, o Vysla buvo sujungtas su atokiais kraš­\ntais žemyne."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-034
+
+- id: c-188104
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 296"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 296."
+  citata_originali: |
+    Sukilimas prieš krikščionis. Kryžiuočiai 1223
+    metais paliko Prūsiją, tačiau virš visos lietuvių tautos
+    (elkėsi audros debesys. Vos tik kryžiuočių pulkai persikė­
+    lė per Vyslą, kai, tartum ženklą gavę, visi pagonys ūmai
+    ėmė bruzdėti.
+  citata_rodoma: "Kryžiuočiai 1223 \nmetais paliko Prūsiją, tačiau virš visos lietuvių tautos \n(elkėsi audros debesys. Vos tik kryžiuočių pulkai persikė­\nlė per Vyslą, kai, tartum ženklą gavę, visi pagonys ūmai \nėmė bruzdėti."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-035
+
+- id: c-189224
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 309"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 309."
+  citata_originali: |
+    Kad ir kaip ten buvo, tuoj pat po per­
+    galės prie Vilkyškių, laimėtos prieš Ragainės komtūrą, didysis
+    kunigaikštis patraukė iš Gardino su nemaža kariauna, nuvyko
+    į Pultuską, kur, užkariavęs Mazovijos žemes, priartėjo prie Vys­
+    los, ir jos dešiniuoju krantu nužygiavo net iki Sano žiočių. Ba­
+    jorai ir drąsos stokojantys Lenkijos didikai pabėgo anapus
+    Vyslos ir užsidarė Zavichosto pilyje; dėl to reikėjo mėginti keltis
+    per upę
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-036
+
+- id: c-189225
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 309"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 309."
+  citata_originali: |
+    Ba­
+    jorai ir drąsos stokojantys Lenkijos didikai pabėgo anapus
+    Vyslos ir užsidarė Zavichosto pilyje; dėl to reikėjo mėginti keltis
+    per upę; tačiau nebuvo galimybės gauti valčių, tad Radvila,
+    vienas lietuvių raitelių vadų, parodė būdą persikelti, žinomą
+    jau nuo totorių laikų
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-037
+
+- id: c-189226
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 310"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 310."
+  citata_originali: |
+    Iš tos vietos, kairįjį savo sparną dengdama Vyslos krantu,
+    plėšikautojų kariauna priartėjo net prie Vislicos, tik per devy­
+    nias mylias nuo Krokuvos atitolusio miesto.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-038
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Gotai]], [[objektai/grupes/Vidivarii]]

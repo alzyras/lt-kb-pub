@@ -85,7 +85,7 @@ Nenurodyta
   ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Citata tiesiogiai nurodo Skirgailos išvykimą į Polocką."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Skirgaila keliavo į Polockas (0.97); Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Vilnius (0.88); Sudimantas gynė Vilnius (0.86); Dobrogostas keliavo į Vilnius (0.84)"
+  semantiniai_rysiai: "Skirgaila keliavo į Polockas (0.97); Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Vilnius (0.88); Sudimantas gynė Vilnius (0.86)"
   pagrindžia:
     - c-83190
 
@@ -105,7 +105,7 @@ Nenurodyta
   ryšio_targeto_parinkimas: "Polockas: llm_allowed_candidate, place"
   ryšio_paaiskinimas: "Citata tiesiogiai pasako, kad Skirgaila išvyko į Polocką."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Skirgaila keliavo į Polockas (0.97); Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Vilnius (0.88); Sudimantas gynė Vilnius (0.86); Dobrogostas keliavo į Vilnius (0.84)"
+  semantiniai_rysiai: "Skirgaila keliavo į Polockas (0.97); Vytautas (Lietuvos valdovas, XIV–XV a.) puolė Vilnius (0.88); Sudimantas gynė Vilnius (0.86)"
   pagrindžia:
     - c-83190
 

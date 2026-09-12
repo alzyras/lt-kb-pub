@@ -696,6 +696,45 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   pagrindžia:
     - c-186961
 
+<a id="claim-t-205430"></a>
+- t-036
+  teiginys: "Atrodo, kad šis posakis būdingas net ir to limesniems Baltijos jūros pakrantės gyventojams ir yra vartojamas, kuo įsitikinau lankydamasis Klaipėdoje, Ry goje, Pernu, Taline, Kronštate, Fredrikshamne ir Sveaborge 1806—1810 metais."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-187703
+
+<a id="claim-t-205781"></a>
+- t-037
+  teiginys: "Klaipėdos griuvėsių vietoje, pasak Teodoro Narbuto, buvo nuspręsta sustiprinti pilį su įtvirtinimais, siekiant nutraukti kuršių ir žemaičių ryšius su Sambija."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188396
+
+<a id="claim-t-206507"></a>
+- t-038
+  teiginys: "Teodoro Narbuto pasakojime žemaičiai, tikriausiai prieš spalio 16 d., užėmė, apiplėšė ir pelenais pavertė Memelio, arba Klaipėdos, miestą, o viduryje stovėjusią tvirtovę sugriovė."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189122
+
 ## Reikšmingi paminėjimai
 - c-019
   santrauka: 'Klaipėdos apylinkėse prasidėjo kuršių gyvenama teritorija.'
@@ -1503,6 +1542,77 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   patikimumo_saltinis: ai
   pagrindzia:
     - t-035
+
+- id: c-187703
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 466"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 466."
+  citata_originali: |
+    Panašų pasakymą aptinkame vokiškame dia­
+    lekte, vadinamame Platdeutsch, ir olandų kalboje. Jo
+    reikšmė artima karties arba baslio reikšmei: balta, be
+    žievės, kartis, ant jos galėjo būti kabinamas koks nors
+    ženklas; kuolas — ant viršutinės laivo stiebo rėjos mažai
+    vėliavėlei užkabinti, olandų — Witpel, rusų '— Wimpel
+    vadinamas. Atrodo, kad šis posakis būdingas net ir to­
+    limesniems Baltijos jūros pakrantės gyventojams ir yra
+    vartojamas, kuo įsitikinau lankydamasis Klaipėdoje, Ry­
+    goje, Pernu, Taline, Kronštate, Fredrikshamne ir Svea-
+    borge 1806—1810 metais.
+  citata_rodoma: "Atrodo, kad šis posakis būdingas net ir to­\nlimesniems Baltijos jūros pakrantės gyventojams ir yra \nvartojamas, kuo įsitikinau lankydamasis Klaipėdoje, Ry­\ngoje, Pernu, Taline, Kronštate, Fredrikshamne ir Svea- \nborge 1806—1810 metais."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-036
+
+- id: c-188396
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 152"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 152."
+  citata_originali: |
+    Tad tikriausiai
+    ta vada išsirūpino kitą Lietuvos karaliaus donacinę pri­
+    vilegiją, pažymėtą 1253 metų birželio mėn. data1, ku­
+    rioje surašytos tos pačios, tik su nedideliais pakeitimais,
+    valdos. Vėliau ėmėsi užkariauti Sambiją, vieną iš žy­
+    miausių Prūsijos provincijų. Vis dėlto tam, kad nutrauk­
+    tų kuršių ir žemaičių ryšius su ta krašto dalimi, nu­
+    sprendė sustiprinti pilį su įtvirtinimais seno Lietuvos
+    miesto Klaipėdos griuvėsių vietoje, ten, kur pagrindinės
+    Nemuno vorupės vandenys įsiliejo į jūrą1 2, o kairiajame
+    jo krante driekėsi smėlėti pajūrio krantai, leidžiantys
+    lengvai žemynu susisiekti su Sambija, ten, kur palei tą
+    kelią ir ties Nemuno įtaka dunksojo iškilni pilis.
+  citata_rodoma: "Tad tikriausiai \nta vada išsirūpino kitą Lietuvos karaliaus donacinę pri­\nvilegiją, pažymėtą 1253 metų birželio mėn. data1, ku­\nrioje surašytos tos pačios, tik su nedideliais pakeitimais, \nvaldos. Vėliau ėmėsi užkariauti Sambiją, vieną iš žy­\nmiausių Prūsijos provincijų. Vis dėlto tam, kad nutrauk­\ntų kuršių ir žemaičių ryšius su ta krašto dalimi, nu­\nsprendė sustiprinti pilį su įtvirtinimais seno Lietuvos \nmiesto Klaipėdos griuvėsių vietoje, ten, kur pagrindinės \nNemuno vorupės vandenys įsiliejo į jūrą1 2, o kairiajame \njo krante driekėsi smėlėti pajūrio krantai, leidžiantys \nlengvai žemynu susisiekti su Sambija, ten, kur palei tą \nkelią ir ties Nemuno įtaka dunksojo iškilni pilis"
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-037
+
+- id: c-189122
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 433"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 433."
+  citata_originali: |
+    Betgi žemaičiai tučtuojau ėmė galvoti,
+    kaip atsikeršyti: paslapčia susibūrė ir puolė gausybę prekių san­
+    dėlių turintį prekybinį Memelio, arba Klaipėdos, miestą; tik­
+    riausiai prieš spalio 16 dieną užėmė, apiplėšė ir pelenais
+    pavertė, viduryje stovėjusią tvirtovę sugriovė. Pačiai piliai grėsė
+    didžiulis pavojus ir ji vos ne vos buvo apginta.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-038
 
 ## Ryšiai
 - Puolė Klaipėdą: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Žemaičiai]]

@@ -1,6 +1,7 @@
 import fs from "node:fs"
 import path from "node:path"
 import { CITATION_SECTION_TITLES, parseEvidenceSections } from "../quartz/util/citationFilter"
+import { validateSiteStylesheet } from "../quartz/util/siteStylesheet"
 
 const objectRoot = path.resolve(process.env.CORPUS_ROOT ?? "objektai")
 const publicRoot = path.resolve(process.env.PUBLIC_ROOT ?? "public")
@@ -36,6 +37,9 @@ function citationCount(markdown: string): number {
 const failures: string[] = []
 const requiredFiles = [
   "index.html",
+  "index.css",
+  "prescript.js",
+  "postscript.js",
   "static/citationSources.json",
   "static/sourceCatalog.json",
   "static/randomClaims.json",
@@ -47,6 +51,15 @@ const requiredFiles = [
 for (const relativePath of requiredFiles) {
   if (!fs.existsSync(path.join(publicRoot, relativePath))) {
     failures.push(`missing ${relativePath}`)
+  }
+}
+
+const stylesheetPath = path.join(publicRoot, "index.css")
+if (fs.existsSync(stylesheetPath)) {
+  try {
+    validateSiteStylesheet(fs.readFileSync(stylesheetPath, "utf8"), stylesheetPath)
+  } catch (error) {
+    failures.push(`invalid site stylesheet: ${String(error)}`)
   }
 }
 

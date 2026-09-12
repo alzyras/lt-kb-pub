@@ -163,6 +163,32 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   pagrindžia:
     - c-184402
 
+<a id="claim-t-205741"></a>
+- t-008
+  teiginys: "Narbutas Šventaragio ilgai trukusią valdžią vaizduoja kaip išmintingą ir besiremiančią taikaus bendradarbiavimo principais, prisidėjusią prie krašto gerovės."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188356
+
+<a id="claim-t-205742"></a>
+- t-009
+  teiginys: "Narbutas Šventaragio penkiasdešimt šešerių metų viešpatavimo Lietuvos Užnerio kunigaikštystėje laikams priskiria Strijkovskio aprašytą tos tautos gyvenimo tarpsnį."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188357
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'APIE KENTAURO HERBO VALDOVUS - ŠVENTARAGĮ IR JO ŠONŲ SKIRMANTĄ Ponai gedėjo savo gimtojo valdovo ir išsirinko val dovu ŠventaragįK entauro herbo, Lietuvos ir Žemai čių kunigaikščio Utenio sūnų.'
@@ -368,6 +394,44 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   patikimumo_saltinis: ai
   pagrindzia:
     - t-007
+
+- id: c-188356
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 51"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 51."
+  citata_originali: |
+    dais smarkiai įtvirtinimais apsaugotos1. Jo sūnus Šventa­
+    ragis kad ir nebuvo toks garsus karo žygiais, bet turime
+    priežasčių susidaryti teisingą nuomonę, jog jis išmintinga
+    valdžia, ilgai trukusia, besiremiančia taikaus bendradar­
+    biavimo principais, labai prisidėjo prie krašto gerovės.
+  citata_rodoma: "Jo sūnus Šventa­\nragis kad ir nebuvo toks garsus karo žygiais, bet turime \npriežasčių susidaryti teisingą nuomonę, jog jis išmintinga \nvaldžia, ilgai trukusia, besiremiančia taikaus bendradar­\nbiavimo principais, labai prisidėjo prie krašto gerovės."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
+- id: c-188357
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 66"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 66."
+  citata_originali: |
+    Kaip tik Šventaragio viešpatavimo Lietuvos Užnerio
+    kunigaikštystėje laikams, trukusiems penkiasdešimt šeše­
+    rius metus, priskirtinas tos tautos gyvenimo tarpsnis, kurį
+    Strijkovskis aprašė eilėmis1. Zivinbudo laikais, nurodo
+    1 S tryjko m ski.— S. 212—216**,
+  citata_rodoma: "Kaip tik Šventaragio viešpatavimo Lietuvos Užnerio \nkunigaikštystėje laikams, trukusiems penkiasdešimt šeše­\nrius metus, priskirtinas tos tautos gyvenimo tarpsnis, kurį \nStrijkovskis aprašė"
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Gerimantas]], [[objektai/asmenys/Germantas]]

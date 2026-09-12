@@ -385,6 +385,32 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   pagrindžia:
     - c-168184
 
+<a id="claim-t-206370"></a>
+- t-018
+  teiginys: "1366 m. Petras Goštautas iš Mazovijos atsikvietė 36 vienuolijos brolius ir Vilniaus Smėlynėje paruošė jiems buveinę, kur buvo pastatyta mūrinė bažnyčia."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188985
+
+<a id="claim-t-206371"></a>
+- t-019
+  teiginys: "1366 m. Petras Goštautas iš Mazovijos atsikvietė pas kunigaikštį Ziemovitą buvusius 36 vienuolijos brolius ir paruošė jiems buveinę Vilniaus Smėlynėje."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188986
+
 ## Reikšmingi paminėjimai
 - c-007
   santrauka: 'Petras Goštautas, Surmino brolis, žuvo pergalingoje lietuvių kovoje kartu su kitais kariais.'
@@ -777,6 +803,47 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
   patikimumo_saltinis: ai
   pagrindzia:
     - t-017
+
+- id: c-188985
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 210"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 210."
+  citata_originali: |
+    Po ankstesniojo keturiolikos jų vienuolių nu­
+    kankinimo, kaip kad mes esame anksčiau (§ 1267) pasakoję,
+    Petras Goštautas 1366 metais iš Mazovijos atsikvietė pas ku­
+    nigaikštį Ziemovitą buvusius trisdešimt šešis šios vienuolijos
+    brolius, kuriems paruošė buveinę toje pačioje vietoje, kur ir
+    dabar Vilniuje matome jų vienuolyną prie Mergelės Marijos,
+    Smėlynėje, ten ir mūrinė bažnyčia buvo pastatyta.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-018
+
+- id: c-188986
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 210"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 210."
+  citata_originali: |
+    Petras Goštautas 1366 metais iš Mazovijos atsikvietė pas ku­
+    nigaikštį Ziemovitą buvusius trisdešimt šešis šios vienuolijos
+    brolius, kuriems paruošė buveinę toje pačioje vietoje, kur ir
+    dabar Vilniuje matome jų vienuolyną prie Mergelės Marijos,
+    Smėlynėje, ten ir mūrinė bažnyčia buvo pastatyta. Tas Goš­
+    tautas buvo ne tik katalikų misijos fundatorius, bet ir jos na­
+    rys: vilkosi vienuolio abitą ir netrukus K rokuvoje buvo
+    įšventintas.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-019
 
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Surminas]]

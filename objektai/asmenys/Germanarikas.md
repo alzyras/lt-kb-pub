@@ -100,6 +100,19 @@ Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų kar
   pagrindžia:
     - c-174032
 
+<a id="claim-t-205080"></a>
+- t-004
+  teiginys: "Jau anksčiau pasakojome apie gotų kara liaus Germanariko užkariavimus Pabaltijo kraštuose (. 362)."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188081
+
 ## Citatos
 
 - id: c-174030
@@ -171,6 +184,32 @@ Narbutas svarsto, kad gotų karalius Germanarikas gal būtų padėjęs gotų kar
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-188081
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 34"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 34."
+  citata_originali: |
+    Metraštininkai
+    deramai ir pastaruosius įvertina pridurdami, jog buvę
+    labai taikūs. Jau anksčiau pasakojome apie gotų kara­
+    liaus
+    Germanariko
+    užkariavimus
+    Pabaltijo
+    kraštuose
+    (§ 362). Tuo tarpu estai, be kliūčių sudarę sąjungą su
+    šiuo galingu valdovu, tokiai daugybei tautų primetusiu sa­
+    vo valią, rado geresnę išeitį už venedus, kurių pasiprieši­
+    nimas jų kraštui užtraukė bereikalingus vargus.
+  citata_rodoma: "Jau anksčiau pasakojome apie gotų kara­\nliaus \nGermanariko \nužkariavimus \nPabaltijo \nkraštuose \n(§ 362). Tuo tarpu estai, be kliūčių sudarę sąjungą su \nšiuo galingu valdovu, tokiai daugybei tautų primetusiu sa­\nvo valią, rado geresnę išeitį už venedus, kurių pasiprieši­\nnimas jų kraštui užtraukė bereikalingus vargus"
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 ## Ryšiai
 - Germanarikas buvo valdovas [[objektai/grupes/Gotai]]

@@ -104,6 +104,32 @@ Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) i
   pagrindžia:
     - c-168212
 
+<a id="claim-t-205726"></a>
+- t-004
+  teiginys: "Pasak Teodoro Narbuto, Plocko kunigaikštis Vaclovas, arba Vanka, prisidėjo prie sutarties, prie kurios jungėsi kiti Mazovijos kunigaikščiai."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188341
+
+<a id="claim-t-205727"></a>
+- t-005
+  teiginys: "Kunigaikščiui Vaclovui su nedidele savo žmonių grupe pavyko pasprukti."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188342
+
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Vaclovas, dar vadintas Vanka, buvo Mazovijos kunigaikštis ir Algirdo sesers vyras.'
@@ -191,3 +217,42 @@ Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) i
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-188341
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 443"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 443."
+  citata_originali: |
+    įtarimus dėl neapykantos krikščionims, kurią kryžiuočių
+    kronikininkai stengėsi priskirti didžiajam kunigaikščiui,
+    nes to pageidavo jų ponai. Išleidęs antrąją dukrą už vy­
+    ro, Gediminas su žentu ir jo tėvu sudarė sąjungą bei
+    draugystės sutartį dėl abipusės gynybos nuo kryžiuočių1.
+    Prie tos sutarties prisidėjo ir kiti Mazovijos kunigaikš­
+    čiai, ypač Plocko kunigaikštis Vanka, arba Vaclovas1 2.
+  citata_rodoma: "Prie tos sutarties prisidėjo ir kiti Mazovijos kunigaikš­\nčiai, ypač Plocko kunigaikštis Vanka, arba Vaclovas"
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-188342
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 447"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 447."
+  citata_originali: |
+    didelis mūšis, per kurį vokiečiai buvo visiškai sutriuš­
+    kinti, prarado minėtą komtūrą, vardu Hugas Almenhau-
+    zenas, beveik su visais riteriais. Pačiam kunigaikščiui
+    Vaclovui su saujele saviškių pavyko išnešti kailį1.
+  citata_rodoma: "Pačiam kunigaikščiui \nVaclovui su saujele saviškių pavyko išnešti kailį"
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005

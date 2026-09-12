@@ -26,9 +26,9 @@ const isSamePage = (url: URL): boolean => {
 
 const getOpts = ({ target }: Event): { url: URL; scroll?: boolean } | undefined => {
   if (!isElement(target)) return
-  if (target.attributes.getNamedItem("target")?.value === "_blank") return
   const a = target.closest("a")
   if (!a) return
+  if (a.target === "_blank" || a.hasAttribute("download")) return
   if ("routerIgnore" in a.dataset) return
   const { href } = a
   if (!isLocalUrl(href)) return
@@ -54,6 +54,58 @@ function startLoading() {
 }
 
 let isNavigating = false
+let objectTabScroll: number | undefined
+let objectTabAnchor: { scrollY: number; viewportTop: number } | undefined
+let renderedPath = location.pathname
+function currentScrollTop() {
+  return Math.max(
+    0,
+    window.scrollY || 0,
+    document.scrollingElement?.scrollTop || 0,
+    document.documentElement.scrollTop || 0,
+    document.body.scrollTop || 0,
+  )
+}
+const rememberScroll = () =>
+  history.replaceState({ ...history.state, scrollY: currentScrollTop() }, "")
+function scrollToInstant(top: number) {
+  // `behavior: "auto"` still follows Quartz's global `scroll-behavior: smooth`
+  // rule in some browsers. Temporarily override that rule and use the legacy
+  // two-argument form so tab changes never animate through the page.
+  const root = document.documentElement
+  const previous = root.style.scrollBehavior
+  const next = Math.max(0, top)
+  root.style.scrollBehavior = "auto"
+  if (document.scrollingElement) document.scrollingElement.scrollTop = next
+  root.scrollTop = next
+  document.body.scrollTop = next
+  window.scrollTo(0, next)
+  root.style.scrollBehavior = previous
+}
+function tabScrollPosition() {
+  const strip = document.querySelector<HTMLElement>(".object-detail-tabs")
+  const box = strip?.getBoundingClientRect()
+  if (!box) return undefined
+  // A gallery route has a different content workspace, so preserving only
+  // document.scrollY makes the tab strip drift. Anchor its actual viewport
+  // coordinate and restore that coordinate after the DOM morph instead.
+  const currentScrollY = currentScrollTop()
+  objectTabAnchor = { scrollY: currentScrollY, viewportTop: box.top }
+  return currentScrollY
+}
+
+function restoreObjectTabPosition(fallback: number) {
+  const strip = document.querySelector<HTMLElement>(".object-detail-tabs")
+  const nextTop = strip?.getBoundingClientRect().top
+  const top =
+    objectTabAnchor && typeof nextTop === "number" && Number.isFinite(nextTop)
+      ? Math.max(0, objectTabAnchor.scrollY + nextTop - objectTabAnchor.viewportTop)
+      : fallback
+  // Quartz globally enables smooth scrolling for in-page anchors. A tab is a
+  // content switch, not an anchor jump: restoring the tab strip must happen
+  // in one frame so the page never visibly travels from the top or bottom.
+  scrollToInstant(top)
+}
 let p: DOMParser
 async function _navigate(url: URL, isBack: boolean = false) {
   isNavigating = true
@@ -97,16 +149,6 @@ async function _navigate(url: URL, isBack: boolean = false) {
   // morph body
   await micromorph(document.body, html.body)
 
-  // scroll into place and add history
-  if (!isBack) {
-    if (url.hash) {
-      const el = document.getElementById(decodeURIComponent(url.hash.substring(1)))
-      el?.scrollIntoView()
-    } else {
-      window.scrollTo({ top: 0 })
-    }
-  }
-
   // now, patch head, re-executing scripts
   const elementsToRemove = document.head.querySelectorAll(":not([data-persist])")
   elementsToRemove.forEach((el) => el.remove())
@@ -120,6 +162,14 @@ async function _navigate(url: URL, isBack: boolean = false) {
   }
 
   notifyNav(getFullSlug(window))
+  renderedPath = url.pathname
+  if (isBack) scrollToInstant(Number(history.state?.scrollY || 0))
+  else if (objectTabScroll !== undefined) restoreObjectTabPosition(objectTabScroll)
+  else if (url.hash)
+    document.getElementById(decodeURIComponent(url.hash.slice(1)))?.scrollIntoView()
+  else scrollToInstant(0)
+  objectTabScroll = undefined
+  objectTabAnchor = undefined
   delete announcer.dataset.persist
 }
 
@@ -140,16 +190,41 @@ window.spaNavigate = navigate
 
 function createRouter() {
   if (typeof window !== "undefined") {
+    // Browser history should not perform its own animated restoration while a
+    // tab route is being morphed into the current document.
+    if ("scrollRestoration" in history) history.scrollRestoration = "manual"
     window.addEventListener("click", async (event) => {
       const { url } = getOpts(event) ?? {}
       // dont hijack behaviour, just let browser act normally
-      if (!url || event.ctrlKey || event.metaKey) return
+      if (
+        event.defaultPrevented ||
+        !url ||
+        event.ctrlKey ||
+        event.metaKey ||
+        event.shiftKey ||
+        event.altKey ||
+        event.button !== 0
+      )
+        return
       event.preventDefault()
+      rememberScroll()
+      const tab = isElement(event.target) && event.target.closest("[data-object-tab]")
+      objectTabScroll = tab ? tabScrollPosition() : undefined
 
-      if (isSamePage(url) && url.hash) {
-        const el = document.getElementById(decodeURIComponent(url.hash.substring(1)))
-        el?.scrollIntoView()
+      if (isSamePage(url) && url.search === location.search && (url.hash || tab)) {
+        if (url.href === location.href) {
+          // Clicking the active tab is a no-op; do not leak its temporary
+          // anchor into the next real navigation.
+          objectTabScroll = undefined
+          objectTabAnchor = undefined
+          return
+        }
         history.pushState({}, "", url)
+        notifyNav(getFullSlug(window))
+        if (tab) restoreObjectTabPosition(objectTabScroll ?? scrollY)
+        else document.getElementById(decodeURIComponent(url.hash.substring(1)))?.scrollIntoView()
+        objectTabScroll = undefined
+        objectTabAnchor = undefined
         return
       }
 
@@ -157,8 +232,11 @@ function createRouter() {
     })
 
     window.addEventListener("popstate", (event) => {
-      const { url } = getOpts(event) ?? {}
-      if (window.location.hash && window.location.pathname === url?.pathname) return
+      if (location.pathname === renderedPath) {
+        notifyNav(getFullSlug(window))
+        scrollToInstant(Number(event.state?.scrollY || 0))
+        return
+      }
       navigate(new URL(window.location.toString()), true)
       return
     })

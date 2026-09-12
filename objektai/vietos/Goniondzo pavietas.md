@@ -30,6 +30,8 @@ entity_view_role: "place"
 entity_aliases: ["Goniondzo pavietas"]
 sameAs: []
 canonical_biography: "1529 m. Radvilų bajorai, gyvenę Goniondzo paviete, buvo „amžiniems laikams“ atleisti nuo teisinio pavaldumo savo senjorams."
+place_authority: true
+historical_names: []
 ---
 # Goniondzo pavietas
 

@@ -3,11 +3,13 @@ tipas: asmuo
 pavadinimas: 'Teodoras Karijotaitis'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvių tautos istorija, t. 5'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 datos:
-  - '1396 m.'
+  - '1395 m.'
   - '1414 m.'
-date_start: '1396'
+date_start: '1395'
 date_end: '1414'
 sukurta: ''
 atnaujinta: ''
@@ -107,8 +109,21 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
   pagrindžia:
     - c-169346
 
-<a id="claim-t-196601"></a>
+<a id="claim-t-193993"></a>
 - t-006
+  teiginys: "Pašalintas iš Podolės, Teodoras Karijotaitis pabėgo į Vengriją, gavo grafo titulą ir 1396–1414 m. valdė Mukačiovą Užkarpatėje."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-176618
+
+<a id="claim-t-196601"></a>
+- t-007
   teiginys: "Mirus broliui, Teodoras Karijotaitis, Algirdo remiamas, tapo Naugarduko kunigaikščiu, bet vėliau buvo išvarytas iš visų valdų."
   atnaujinta: "2026-07-13 01:00"
   sprendimo_priezastis: "auto"
@@ -119,6 +134,19 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178790
+
+<a id="claim-t-206399"></a>
+- t-008
+  teiginys: "Teodoras Karijotaitis persikėlė į Vengriją, gyveno Mukačiove ir ten pastatydino graikų apeigų cerkvę."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189014
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -192,17 +220,13 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- c-005
-  santrauka: 'Pašalintas iš Podolės, Teodoras Karijotaitis pabėgo į Vengriją, gavo grafo titulą ir 1396–1414 m. valdė Mukačiovą Užkarpatėje.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+- c-008
+  santrauka: '1395 m. Teodoras Karijotaitis ėjo vietininko pareigas Podolėje, vėliau pasitraukė į Vengriją.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
   citata_originali: |
-    1 8  Pašalintas iš Podolės, Teodoras Karijotaitis tikrai pabėgo
-    j Vengrijų, gavo grafo titulų ir 1396— 1414 m. (iki mirties) valdė
-    Užkarpatėje Mukačiovų ir vykdė Beregovo distrikto viršininko
-    funkcijas. Su Teodoru Karijotaičių siejama ligi šiol išlikusi Muka-
-    čiovo (UTSR) pilis, o  taip pat legenda apie huculų (ukrainiečių)
-    įsikūrimų Užkarpatėje. 1402 m. jis mėgino atgauti Podolę, bet bu­
-    vo atmuštas.
+    1395 m. paskiria savo vietininką Podolėje
+    (Teodoras Karijotaitis pasitraukė į Vengriją ir iki šiol prisimenamas Mukačiove), Siverų
+    Naugardą gauna valdyti iš Voluinės Vladimiro atkeltas Teodoras Liubartaitis.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -305,6 +329,26 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+- id: c-176618
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    1 8  Pašalintas iš Podolės, Teodoras Karijotaitis tikrai pabėgo
+    j Vengrijų, gavo grafo titulų ir 1396— 1414 m. (iki mirties) valdė
+    Užkarpatėje Mukačiovų ir vykdė Beregovo distrikto viršininko
+    funkcijas. Su Teodoru Karijotaičių siejama ligi šiol išlikusi Muka-
+    čiovo (UTSR) pilis, o  taip pat legenda apie huculų (ukrainiečių)
+    įsikūrimų Užkarpatėje. 1402 m. jis mėgino atgauti Podolę, bet bu­
+    vo atmuštas.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
 - id: c-178790
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -341,4 +385,21 @@ Teodoras Karijotaitis su kariuomene, sutelkta Podolėje ir Valachijoje, patrauk�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-007
+
+- id: c-189014
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 109"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 109."
+  citata_originali: |
+    Petras Goštautas bu­
+    vo pirmasis tenykštis vietininkas, skirtas didžiojo kunigaikščio
+    valia1. Teodoras Karijotaitis persikėlė į Vengriją ir gyveno Mu-
+    kačiove, kur ir graikų apeigų cerkvę pastatydino1 2.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008

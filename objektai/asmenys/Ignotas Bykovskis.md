@@ -2,17 +2,15 @@
 tipas: asmuo
 pavadinimas: 'Ignotas Bykovskis'
 saltiniai:
+  - '04-ldk-personalijos-idejos-refleksijos'
   - 'Istorija_103_maketas.indb'
-datos:
-  - '1731 m.'
-date_start: '1731'
+datos: []
+date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XVIII'
-periodo_grupes:
-  - 'LDK'
+amziai: []
+periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,11 +35,11 @@ canonical_biography: "1731 m. Ignotas Bykovskis atliko bausmę Vilniaus pilies b
 
 ## Santrauka
 
-1731 m. Vilniaus pilies bokšto kalėjime bausmę atlikusį Ignotą Bykovskį, anot ieškovo, Myslickių žmonės bandė išlaisvinti iškirsdami langą.
+1731 m. Vilniaus pilies bokšto kalėjime bausmę atlikusį Ignotą Bykovskį, anot ieškovo, Myslickių žmonės bandė išlaisvinti iškirsdami langą. 1795 m. kovo 14 d. Valkavisko pavieto kardininkas Ignotas Bykovskis parašė laišką nežinomam adresatui Valkaviske.
 
 ## Santrauka
 
-1731 m. Vilniaus pilies bokšto kalėjime bausmę atlikusį Ignotą Bykovskį, anot ieškovo, Myslickių žmonės bandė išlaisvinti iškirsdami langą.
+1731 m. Vilniaus pilies bokšto kalėjime bausmę atlikusį Ignotą Bykovskį, anot ieškovo, Myslickių žmonės bandė išlaisvinti iškirsdami langą. 1795 m. kovo 14 d. Valkavisko pavieto kardininkas Ignotas Bykovskis parašė laišką nežinomam adresatui Valkaviske.
 
 ## Teiginiai
 
@@ -61,6 +59,18 @@ canonical_biography: "1731 m. Ignotas Bykovskis atliko bausmę Vilniaus pilies b
   pagrindžia:
     - c-186533
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: '1795 m. kovo 14 d. Valkavisko pavieto kardininkas Ignotas Bykovskis parašė laišką nežinomam adresatui Valkaviske.'
+  šaltinis: 04-ldk-personalijos-idejos-refleksijos
+  citata_originali: |
+    1795 m. kovo 14 d. Valkavisko pavieto kardininko I. Bykovskio laiškas nežinomam adresatui,
+    Valkaviskas, LVIA, f. 1387, ap. 1, b. 7,1. zi-n v.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-186533

@@ -3,10 +3,12 @@ tipas: ivykis
 pavadinimas: 'Algirdo žygiai į Maskvą'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
 datos:
+  - '1368 m.'
   - '1372 m.'
-date_start: '1372'
-date_end: ''
+date_start: '1368'
+date_end: '1372'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -70,6 +72,19 @@ Nenurodyta
   pagrindžia:
     - c-22902
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Algirdas triskart surengė žygį į Maskvą 1368, 1370 ir 1372 m.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    as paskutinį Tverės bandymą
+    atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – su-
+    rengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė. Taip
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-22902

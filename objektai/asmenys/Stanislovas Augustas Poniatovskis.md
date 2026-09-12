@@ -2,7 +2,10 @@
 tipas: asmuo
 pavadinimas: 'Stanislovas Augustas Poniatovskis (valdovas)'
 saltiniai:
+  - '04-ldk-personalijos-idejos-refleksijos'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
+  - 'Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių'
 datos:
   - '1697 m.'
   - '1797 m.'
@@ -13,6 +16,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
+  - tauta
   - valdovas
 amziai:
   - 'XVII'
@@ -179,6 +183,66 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   pagrindžia:
     - c-154774
 
+## Reikšmingi paminėjimai
+- c-008
+  santrauka: 'Stanislovas Augustas Poniatovskis 1791 m. rašė Prancūzijos steigiamajam susirinkimui.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    Taigi Lenkijos ir
+    Lietuvos reformatoriai akivaizdžiai orientavosi į Didžiąją Prancūzijos revoliuciją. Ne veltui
+    1791 m. Lenkijos ir Lietuvos valdovas Stanislovas Augustas Poniatovskis rašė Prancūzijos
+    steigiamajam susirinkimui, kad be Prancūzijos „… yra dar viena tauta Europoje“.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-009
+  santrauka: 'Stanislovas Augustas Poniatovskis šaltinyje apibūdinamas kaip populiariausias valdovas vidutinės bajorijos namuose, o jo atvaizdų dvarų muziejuose sukaupta daugiausia.'
+  šaltinis: 03-ldk-tarp-tradiciju-ir-naujoviu
+  citata_originali: |
+    Remiantis išlikusiais kūriniais, galima daryti
+    prielaidą, kad ši tradicija vidutinės bajorijos aplinkoje pradėjo formuotis XVII a.
+    pradžioje ir vėliau tapo beveik privalomu interjero elementu, demonstruojančiu
+    ištikimybės valstybei ir karališkai valdžiai auklėjimo įtaką, kartu liudijančiu ir
+    pilietišką laikyseną. Tai dažniausiai garsių dailininkų sukurtų vieno ar kito valdovo
+    portretų kopijos, atliktos vietinių pasimokiusių meistrų*'. Vidutinės bajorijos
+    namuose populiariausias buvo paskutinysis Lenkijos ir Lietuvos valstybės valdo­
+    vas Stanislovas Augustas Poniatovskis - jo atvaizdų iš įvairių dvarų muziejuose
+    sukaupta daugiausia*'.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-010
+  santrauka: 'Stanislovo Augusto karūnacijos medalį 1764 m. sukūrė dailininkas Thomas Pingo; medalis pagamintas iš sidabro.'
+  šaltinis: 04-ldk-personalijos-idejos-refleksijos
+  citata_originali: |
+    Vilniaus universiteto biblioteka.
+    p. 171
+    Dail. Thomas Pingo, Stanislovo Augusto karūnacijos medalis. 1764 m. Sidabras,
+    skersmuo 33 mm.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-011
+  santrauka: 'C. C. Klopschas pavaizdavo Senosios Varšuvos rotušės iliuminacijas, surengtas 1789 m. lapkričio 15 d. Stanislovo Augusto karūnacijos sukakčiai.'
+  šaltinis: 04-ldk-personalijos-idejos-refleksijos
+  citata_originali: |
+    Biblioteka Uniwersytecka
+    w Warszawie, Gabinet Rycin.
+    p. 183
+    Dail. C . C . Klopschas, Senosios Varšuvos miesto rotušės iliuminacijos, surengtos
+    1789 m. lapkričio 15 d. Šviesiausiojo Lenkijos karaliaus ir Lietuvos didžiojo ku­
+    nigaikščio Stanislovo Augusto karūnacijos sukakčiai paminėti, vaizdas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-154768

@@ -270,6 +270,94 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   pagrindžia:
     - c-186557
 
+<a id="claim-t-205194"></a>
+- t-013
+  teiginys: "Kunigaikštis įsakė visai kariau nai grįžti, kas juolab buvo paspartinta gavus žinią iš Turaidoje stovėjusių pajūrio sargyboje pulkų, esą paste bėti laivai, pasukę Dauguvos žiočių link."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-187963
+
+<a id="claim-t-205378"></a>
+- t-014
+  teiginys: "1200 metais lietuviai patraukė Dauguvos žemupio link ir užpuolė Žemgalą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-187936
+
+<a id="claim-t-205414"></a>
+- t-015
+  teiginys: "1206 m. lietuviai naktį ledu perėjo Dauguvą, o krikščionys prie jos laukė prie Lielvardės."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-187937
+
+<a id="claim-t-205511"></a>
+- t-016
+  teiginys: "Ikškilės ir Holmo tvirtovės stovėjo atokiau nuo Dauguvos žiočių."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188040
+
+<a id="claim-t-205528"></a>
+- t-017
+  teiginys: "1204 metais Lietuvos karių tuntai įvairiose vietose persikėlė per Dauguvą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-187881
+
+<a id="claim-t-205758"></a>
+- t-018
+  teiginys: "Daumantas pabėgo anapus Dauguvos į Pskovą."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188373
+
+<a id="claim-t-205759"></a>
+- t-019
+  teiginys: "Grįždami lietuviai su grobiu persikėlė per Dauguvą."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188374
+
 ## Reikšmingi paminėjimai
 - c-009
   santrauka: 'Narbutas Dauguvos pavadinimo kilmę aiškino Ukmergės apskrities dainele ir forma „Dewine Upes“.'
@@ -606,6 +694,170 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
   patikimumo_saltinis: ai
   pagrindzia:
     - t-012
+
+- id: c-187881
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 277"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 277."
+  citata_originali: |
+    teisybės buvo pretekstas Lietuvai 1204 metais suduoti Li­
+    vonijai stiprų smūgį. Nesuskaičiuojami tos tautos karių
+    tuntai, įvairiose vietose persikėlę per Dauguvą, apgulę
+    Rygą, degėsiais pavertė apylinkes, iki paskutiniųjų nu­
+    siaubė žydinčias valsčių žemes ir su gausiu laimikiu grį­
+    žo atgal1.
+    Sis pralaimėjimas taip sužadino vyskupo Alberto bud­
+    rumą, kad jis ėmė galvoti apie savo pilių įtvirtinimų stip­
+    rinimą.
+  citata_rodoma: "Nesuskaičiuojami tos tautos karių \ntuntai, įvairiose vietose persikėlę per Dauguvą, apgulę \nRygą, degėsiais pavertė apylinkes, iki paskutiniųjų nu­\nsiaubė žydinčias valsčių žemes ir su gausiu laimikiu grį­\nžo atgal1."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-017
+
+- id: c-187936
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 271"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 271."
+  citata_originali: |
+    Tais pačiais 1200 metais, būtent iki tol vyskupui pa­
+    vyko išlaikyti latvius savo valioje, kai per visą vasarą
+    buvo rengiami įvairūs žygiai prieš nepaklusniuosius, at­
+    kakliai savo tikėjimo besilaikančius pagonis, kurių grės­
+    mingi šūviai aidėjo ir kaimyninių genčių žemėse, taigi
+    tais pačiais metais kuršiai, išgirdę apie statybą Rygos
+    miesto, kuris ¡augo prie pilies, praėjusiais metais iškilu­
+    sios, smagioje pakrantės plynėje imtas mūryti, siuntė
+    savo
+    žygūnus
+    susitarti
+    dėl
+    taikos
+    ir vienybės
+    bei
+    savo papročiu
+    iškilmingai
+    paaukoti
+    dievams
+    aukas.
+    Vėliau atvyko į Rygą lietuviai, prašydami taikos, drau­
+    gystės ir vienybės su krikščionimis. Bet, atėjus žiemai,
+    patraukę Dauguvos žemupio link, užpuolė Žemgalą, ta­
+    čiau išgirdę žinią, kad Pskovo kunigaikštis įsibrovė į Lie­
+    tuvą, skubiai apleido žemgalius ir grįžo į savo kraštą.
+  citata_rodoma: "Bet, atėjus žiemai, \npatraukę Dauguvos žemupio link, užpuolė Žemgalą, ta­\nčiau išgirdę žinią, kad Pskovo kunigaikštis įsibrovė į Lie­\ntuvą, skubiai apleido žemgalius ir grįžo į savo kraštą."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014
+
+- id: c-187937
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 337"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 337."
+  citata_originali: |
+    Be to, dar kreipėsi į tėvy­
+    nainius, buvusius jo valdžioje, kad kiekvienas prisistaty­
+    tų, grasindamas trijų markių bauda. Netrukus buvo su­
+    telkta kariauna prie Dauguvos, po to patraukė prie Liel-
+    vardės, kur laukė ateinančių lietuvių. Šie, į vakarą pasie­
+    kę Dauguvą, naktį ledu perėjo upę.
+  citata_rodoma: "Netrukus buvo su­\ntelkta kariauna prie Dauguvos, po to patraukė prie Liel- \nvardės, kur laukė ateinančių lietuvių. Šie, į vakarą pasie­\nkę Dauguvą, naktį ledu perėjo upę."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015
+
+- id: c-187963
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 336"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 336."
+  citata_originali: |
+    Parodė tokį spyglį. Šie, tokio radinio apstulbinti,
+    neteko noro pulti Rygą. Kunigaikštis įsakė visai kariau­
+    nai grįžti, kas juolab buvo paspartinta gavus žinią iš
+    Turaidoje stovėjusių pajūrio sargyboje pulkų, esą paste­
+    bėti laivai, pasukę Dauguvos žiočių link.
+  citata_rodoma: "Kunigaikštis įsakė visai kariau­\nnai grįžti, kas juolab buvo paspartinta gavus žinią iš \nTuraidoje stovėjusių pajūrio sargyboje pulkų, esą paste­\nbėti laivai, pasukę Dauguvos žiočių link."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
+
+- id: c-188040
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 268"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 268."
+  citata_originali: |
+    Vyskupas, numatydamas būsimas riaušes, manė esant
+    būtina, pasinaudojant taika, sustiprinti įtvirtinimus. Juk
+    dvi — Ikškilės ir Holmo ■— tvirtovės, stovėjusios šiek tiek
+    atokiau nuo Dauguvos žiočių, taip pat aukštuma prie
+    Rigės magino daug patogesne padėtimi, taigi pastatydino
+    len pilį, greta miestą. Sis pasirinkimas išlaikė amžių ban­
+    dymą, juk ten iki šiol garsėja Rygos miestas su tebesto-
+    vinčia tvirtove.
+  citata_rodoma: "Juk \ndvi — Ikškilės ir Holmo ■— tvirtovės, stovėjusios šiek tiek \natokiau nuo Dauguvos žiočių, taip pat aukštuma prie \nRigės magino daug patogesne padėtimi, taigi pastatydino \nlen pilį, greta miestą."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
+
+- id: c-188373
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 249"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 249."
+  citata_originali: |
+    Tačiau anas, pamilęs brolienę, sulaikė ją ir
+    privertė gyventi su juo. Vyras įpykęs išžygiavo su ka­
+    riauna ir apgulė Utenos pilį. Daumantas, matydamas ne­
+    išvengiamą pavojų, liepė pilies gynėjams stipriai prie­
+    šintis, o pats naktį, nusileidęs nuo mūro sienos, pabėgo
+    anapus Dauguvos į Pskovą, kurį tuo metu valdė brolis
+    jo senelio, taip pat Daumantas.
+  citata_rodoma: "Vyras įpykęs išžygiavo su ka­\nriauna ir apgulė Utenos pilį. Daumantas, matydamas ne­\nišvengiamą pavojų, liepė pilies gynėjams stipriai prie­\nšintis, o pats naktį, nusileidęs nuo mūro sienos, pabėgo \nanapus Dauguvos į Pskovą"
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-018
+
+- id: c-188374
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 256"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 256."
+  citata_originali: |
+    Kryžiuotis, arkivyskupo skir­
+    tas pilies valdytoju, kreipėsi pagalbos į komtūrą Kokne-
+    sėje. Pastarasis, sutelkęs pajėgas iš atokiausių vietų ir
+    turėdamas šiek tiek kaimiečių, patraukė į kovą su plėši-
+    kautojais. Šie tuo tarpu, jau grįždami su grobiu namo,
+    persikėlė per Dauguvą.
+  citata_rodoma: "Šie tuo tarpu, jau grįždami su grobiu namo, \npersikėlė per Dauguvą."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-019
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Latviai]], [[objektai/grupes/Sėliai]]

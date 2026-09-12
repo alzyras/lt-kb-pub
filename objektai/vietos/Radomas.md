@@ -86,22 +86,29 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
     - c-37684
     - c-167691
 
-## Reikšmingi paminėjimai
-- c-004
-  santrauka: 'Radomo seimas vyko 1505 m. balandžio-birželio mėn.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    6 5  Seimas Radome b uvo 1505 m. balandžio—birželio mėn.
-    (111.30—VL14). Nurodydamas klaidingą Radomo seimo datą, BK
-    autorius gal turėjo galvoje Aleksandro buvimą Gardine 1505 m.
-    rudeni (X1.22—XII,29).
-    “  LDK atstovai į Radomo seimą atvyko 1505 m. gegužės vi­
-    duryje. išvyko VI. 1 .
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: not_found
+<a id="claim-t-187644"></a>
+- t-003
+  teiginys: "Radomo seimas vyko 1505 m. balandžio-birželio mėn."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> seimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Radomas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "seimas: mention_match, thing, gap=7"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Radomas\" parinktas kaip owner_note_path. Targetas \"seimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: 1401 m.; įvykio data: 1505 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Radomą ir tiksliai perteikia seimo laiką. OCR triukšmas ir redakcinė pastaba apie klaidingą datą į teiginį neperkelta."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  pagrindžia:
+    - c-170591
+
 ## Citatos
 
 - id: c-37684
@@ -165,6 +172,25 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-170591
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    6 5  Seimas Radome b uvo 1505 m. balandžio—birželio mėn.
+    (111.30—VL14). Nurodydamas klaidingą Radomo seimo datą, BK
+    autorius gal turėjo galvoje Aleksandro buvimą Gardine 1505 m.
+    rudeni (X1.22—XII,29).
+    “  LDK atstovai į Radomo seimą atvyko 1505 m. gegužės vi­
+    duryje. išvyko VI. 1 .
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 ## Ryšiai
 - Apgulė Radomą: [[objektai/grupes/Rusai]]

@@ -91,6 +91,19 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
   pagrindžia:
     - c-168618
 
+<a id="claim-t-206612"></a>
+- t-004
+  teiginys: "Teodoras Narbutas Lenkijos didikus apibūdina kaip drąsos stokojančius ir nurodo, kad bajorai bei didikai pabėgo anapus Vyslos ir užsidarė Zavichosto pilyje."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189227
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Lietuvių kariai, primetę į miestą pagalių, sudegino visą Zavichostą.'
@@ -168,3 +181,29 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-189227
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 309-310"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 309-310."
+  citata_originali: |
+    Ba­
+    jorai ir drąsos stokojantys Lenkijos didikai pabėgo anapus
+    Vyslos ir užsidarė Zavichosto pilyje; dėl to reikėjo mėginti keltis
+    per upę; tačiau nebuvo galimybės gauti valčių, tad Radvila,
+    vienas lietuvių raitelių vadų, parodė būdą persikelti, žinomą
+    jau nuo totorių laikų, tai yra žmogus, išsirengęs nuogai, plau­
+    kia palei žirgo šoną, laikydamasis už karčių, o jo drabužiai ir
+    ginklai, pritvirtinti ant mažo plaustelio iš meldų ar lengvo
+    1 Žr. V priedą.
+    311
+
+    medžio, prikabinto prie žirgo uodegos, be jokio pavojaus su­
+    šlapinti, plaukia iš paskos1
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

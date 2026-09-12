@@ -78,6 +78,19 @@ Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio 
   pagrindžia:
     - c-59286
 
+<a id="claim-t-206604"></a>
+- t-003
+  teiginys: "Viznos užpuolimą Teodoras Narbutas sieja su didžiojo kunigaikščio įniršiu dėl kryžiuočių: tvirtovė netikėtai užimta, apiplėšta ir sudeginta, o žmonės išvaryti į nelaisvę."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189219
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Dėl Viznos pilies sugriovimo, pasitaikino lietuvius ir ją atstatė.'
@@ -164,6 +177,24 @@ Dusburgietis teigia, kad apie tai, kaip buvo sugriauta Mazovijos kunigaikščio 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-189219
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 466"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 466."
+  citata_originali: |
+    Taip
+    susiklosčius reikalams, didysis kunigaikštis, smarkiai įpykęs
+    ant kryžiuočių, įsakė užpulti Vizną, dar jų įkaitu turėtą tvir­
+    tovę, ir, kai m ažiausiai to tikėjosi, ji buvo užimta, apiplėšta,
+    žmonės išvaryti nelaisvėn, o pati sudeginta.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
 
 ## Ryšiai
 - Užėmė Vizną: [[objektai/asmenys/Meinhardas Saksas iš Kverfurto]]

@@ -171,6 +171,32 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
   pagrindžia:
     - c-166477
 
+<a id="claim-t-206574"></a>
+- t-008
+  teiginys: "Salynas buvo Nemuno sala, nuo kurios prasidėjo nustatytų sienų ir ribų tarp Lietuvos bei Ordino žemių aprašymas; už jos buvo kita sala, vadinama Romeywerder."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189189
+
+<a id="claim-t-206575"></a>
+- t-009
+  teiginys: "1390 m. spalio 12 d. Nemuno saloje, vadinamoje Salynu, buvo nustatytos sienos ir ribos tarp Lietuvos ir Ordino žemių."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189190
+
 ## Citatos
 
 - id: c-37707
@@ -277,6 +303,40 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
   patikimumo_saltinis: ai
   pagrindzia:
     - t-007
+
+- id: c-189189
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 554"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 554."
+  citata_originali: |
+    Be to, pranešame, kad yra nustatytos
+    sienos ir ribos tarp mūsų ir ordino žemių, tokiu būdu - prade­
+    dant nuo vienos salos, vadinamos Salynu (Sallyn), esančios upė­
+    je, vadinamoje Nem unu (Memla), už kurios yra kita sala,
+    vadinama Romeywerder,
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
+- id: c-189190
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 557"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 557."
+  citata_originali: |
+    Šitai padaryta upės, vadinamos Nemunu, salo­
+    je, vadinamoje Salynu, tūkstantis trys šimtai devyniasdešimt aš­
+    tuntaisiais Viešpaties metais, spalio dvyliktą dieną,
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
 
 ## Ryšiai
 - Salynas priklausė [[objektai/vietos/Nemunas]]

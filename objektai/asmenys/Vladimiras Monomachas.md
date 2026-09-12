@@ -59,6 +59,19 @@ Tik 1101 metais Vladimiras Monomachas laimėjo didelę pergalę prieš polovieč
   pagrindžia:
     - c-177318
 
+<a id="claim-t-205313"></a>
+- t-002
+  teiginys: "Žygis įvyko 1120 metais, jam vadovavo toks Andrius, pasiųstas Monomacho."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-188005
+
 ## Citatos
 
 - id: c-177318
@@ -82,3 +95,23 @@ Tik 1101 metais Vladimiras Monomachas laimėjo didelę pergalę prieš polovieč
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188005
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 210"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 210."
+  citata_originali: |
+    Voluinės kronikoje yra trumpa užuomina apie labai
+    lai epochai artimą laikotarpį, apie Vladimiro Monomacho
+    žygį į Lenkiją. Siame žygyje jį lydėjo lietuviai — iš čia
+    tasai šio monarcho draugiškumas mūsų kraštui. Žygis
+    įvyko 1120 metais, jam vadovavo toks Andrius, pasiųstas
+    Monomacho1 2.
+  citata_rodoma: "Žygis \nįvyko 1120 metais, jam vadovavo toks Andrius, pasiųstas \nMonomacho"
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

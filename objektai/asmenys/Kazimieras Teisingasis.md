@@ -43,18 +43,36 @@ canonical_biography: "1192 m. Kazimiero Teisingojo žygis j Prūsiją."
 
 1192 m. Kazimiero Teisingojo žygis j Prūsiją.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1192 m. Kazimiero Teisingojo žygis j Prūsiją.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
+<a id="claim-t-205148"></a>
+- t-001
+  teiginys: "1192 m. Kazimiero Teisingojo žygis j Prūsiją."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187837
+
+## Citatos
+
+- id: c-187837
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 244"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 244."
   citata_originali: |
     1192 m. Kazimiero Teisingojo žygis j Prūsiją. Didžio­
     sios Lenkijos kariai atvyko vadovaujami Mečislovo Senojo
     sūnaus Boleslovo, šlionskiečius vedė Boleslovas Vrocla-
     vietis ir Mečislovas Racibožietis.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

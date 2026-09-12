@@ -4,22 +4,22 @@ import {
   citationQuote,
   isMeaningfulObjectText,
   objectDetailEvidenceFromFile,
+  objectClaimHref,
   type ObjectEvidenceClaim,
 } from "../util/objectDetail"
 import {
   cleanText,
   directnessLabel,
   displayCaption,
-  mediaDetailUrl,
   objectGallerySlug,
   objectMediaSet,
   relationLabel,
   type MediaEntry,
 } from "../util/objectMedia"
-import { graphSlugForPageData } from "../util/graphIdentity"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import { ObjectPageTabs } from "./ObjectPageTabs"
+import { ObjectPageShell, objectPortrait } from "./ObjectPageShell"
 import { objectPageViewModel } from "../util/objectPageView"
+import { objectBibliography } from "../util/objectBibliography"
 import style from "./styles/objectDetail.scss"
 // @ts-ignore Quartz bundles the inline lifecycle scripts as strings.
 import mapScript from "./scripts/object-map-preview.inline"
@@ -142,34 +142,11 @@ function heroImage(media: MediaEntry | undefined): string {
   return media ? cleanText(media.thumbUrl || media.displayUrl || media.sourceUrl) : ""
 }
 
-function heroMedia(
+function galleryPreview(
   media: MediaEntry[],
-  primary: MediaEntry | undefined,
-  type: string,
-): MediaEntry | undefined {
-  if (type !== "asmuo" && type !== "autorius") return primary
-  const portrait = media
-    .filter((entry) => heroImage(entry))
-    .filter((entry) =>
-      /portret|atvaizd|gravi\u016br|biust|skulpt\u016br/iu.test(displayCaption(entry)),
-    )
-    .sort((a, b) => {
-      const score = (entry: MediaEntry) => {
-        const ratio =
-          Number(entry.width) > 0 && Number(entry.height) > 0
-            ? Number(entry.width) / Number(entry.height)
-            : 1
-        const portraitFrame = ratio > 0.55 && ratio < 1.05 ? 8 : 0
-        return (
-          portraitFrame + (entry.directness === "direct" ? 3 : 0) + Number(entry.confidence || 0)
-        )
-      }
-      return score(b) - score(a)
-    })[0]
-  return portrait || primary
-}
-
-function galleryPreview(media: MediaEntry[], primary?: MediaEntry): MediaEntry[] {
+  primary?: MediaEntry,
+  editorialIds: string[] = [],
+): MediaEntry[] {
   const seen = new Set<string>()
   const unique = media.filter((entry) => {
     const key = cleanText(
@@ -180,7 +157,21 @@ function galleryPreview(media: MediaEntry[], primary?: MediaEntry): MediaEntry[]
     return true
   })
   const primaryId = cleanText(primary?.mediaId || primary?.canonicalUrl || heroImage(primary))
+  const editorial = editorialIds
+    .map((id) => unique.find((entry) => cleanText(entry.mediaId) === id))
+    .filter((entry): entry is MediaEntry => Boolean(entry))
+    .filter(
+      (entry) =>
+        unique.length <= 1 ||
+        cleanText(entry.mediaId || entry.canonicalUrl || heroImage(entry)) !== primaryId,
+    )
+  if (editorial.length) return editorial.slice(0, 5)
   return unique
+    .filter(
+      (entry) =>
+        unique.length <= 1 ||
+        cleanText(entry.mediaId || entry.canonicalUrl || heroImage(entry)) !== primaryId,
+    )
     .sort((a, b) => {
       const score = (entry: MediaEntry) => {
         const id = cleanText(entry.mediaId || entry.canonicalUrl || heroImage(entry))
@@ -240,14 +231,16 @@ function relationDirectionLabel(label: string, direction = ""): string {
 function ClaimCard({
   claim,
   sources,
+  href,
 }: {
   claim: ObjectEvidenceClaim
   sources: Map<string, string | undefined>
+  href: string
 }) {
   return (
     <article class="object-claim-card" id={`claim-${claim.id}`}>
       <div class="object-claim-card-header">
-        <a class="object-claim-id" href={`#claim-${claim.id}`}>
+        <a class="object-claim-id" href={href}>
           {claim.id}
         </a>
         {claim.reliability && <span class="object-claim-reliability">{claim.reliability}</span>}
@@ -259,7 +252,7 @@ function ClaimCard({
           const source = cleanText(
             citation.fields.get("šaltinis") || citation.fields.get("saltinis"),
           )
-          const quote = citationQuote(citation, 900)
+          const quote = citationQuote(citation, Number.MAX_SAFE_INTEGER)
           const href = sources.get(normalized(source))
           return (
             <article class="object-claim-citation" data-citation-id={citation.id}>
@@ -280,60 +273,29 @@ function ClaimCard({
   )
 }
 
-function ObjectMapPreview({
-  title,
-  graphSlug,
-  relationCount,
-}: {
-  title: string
-  graphSlug: string
-  relationCount: number
-}) {
-  const mapHref = `/zemelapis/?focus=${encodeURIComponent(graphSlug)}&depth=1&panel=details`
-  return (
-    <aside
-      class="object-detail-map object-map-cta"
-      data-object-map-cta="true"
-      data-object-slug={graphSlug}
-      data-object-title={title}
-      data-object-map-href={mapHref}
-      data-object-semantic-count={relationCount}
-    >
-      <div class="object-detail-map-heading">
-        <span>Ryšių žemėlapis</span>
-        <strong data-object-map-count="">Kraunami ryšiai…</strong>
-      </div>
-      <a
-        class="object-map-preview-link"
-        href={mapHref}
-        aria-label={`Atidaryti ${title} ryšių žemėlapį`}
-      >
-        <canvas class="object-map-preview-canvas" data-object-map-canvas="" />
-        <span class="object-map-preview-status" data-object-map-status="" />
-      </a>
-    </aside>
-  )
-}
-
 const ObjectDetailPage: QuartzComponent = (props) => {
   const { fileData, allFiles } = props
   const slug = fileData.slug as FullSlug
   const frontmatter = (fileData.frontmatter ?? {}) as Record<string, unknown>
   const evidence = objectDetailEvidenceFromFile(String(fileData.filePath ?? ""))
   const index = objectPageIndexes(allFiles)
-  const title = titleParts(frontmatter)
-  const type = objectType(frontmatter)
   const media = objectMediaSet(frontmatter as any)
-  const primary =
-    media.primary?.directness === "direct" ? media.primary : (media.direct[0] ?? media.primary)
-  const hero = heroMedia(media.all, primary, type)
-  const galleryItems = galleryPreview(media.all, hero)
+  const view = objectPageViewModel(frontmatter, evidence, { gallery: media.all.length })
+  const hero = objectPortrait(frontmatter, view.portraitMediaId)
+  const galleryItems = galleryPreview(media.all, hero, view.featuredGalleryIds)
   const sources = sourceLinks(
     [...new Set([...evidence.sourceTitles, ...asStrings(frontmatter.saltiniai)])],
     index,
     slug,
   )
   const sourceClaimCounts = new Map<string, number>()
+  const sourceCitationCounts = new Map<string, number>()
+  for (const record of evidence.citationRecords) {
+    const key = normalized(
+      record.entry.fields.get("šaltinis") || record.entry.fields.get("saltinis"),
+    )
+    sourceCitationCounts.set(key, (sourceCitationCounts.get(key) || 0) + 1)
+  }
   for (const claim of evidence.claims) {
     for (const sourceTitle of new Set(claim.sourceTitles)) {
       const key = normalized(sourceTitle)
@@ -341,7 +303,7 @@ const ObjectDetailPage: QuartzComponent = (props) => {
     }
   }
   const sourceHrefs = new Map(sources.map((source) => [normalized(source.title), source.href]))
-  const view = objectPageViewModel(frontmatter, evidence, { gallery: media.all.length })
+  const bibliography = objectBibliography(allFiles, evidence)
   const relations = relationGroups(
     view.relationRows.length
       ? view.relationRows.map((row) => ({
@@ -353,7 +315,6 @@ const ObjectDetailPage: QuartzComponent = (props) => {
     index,
   )
   const fallbackRelationCount = relations.reduce((total, group) => total + group.targets.length, 0)
-  const graphSlug = graphSlugForPageData(fileData as any, slug)
   const externalLinks = externalReading(frontmatter.external_sources_json)
   const aliases = asStrings(frontmatter.aliases)
   const roles = asStrings(frontmatter.entity_roles)
@@ -361,56 +322,74 @@ const ObjectDetailPage: QuartzComponent = (props) => {
   const evidenceHref = resolveRelative(slug, `${slug}/irodymai` as FullSlug)
   const relationCount = view.counts.relations || fallbackRelationCount
   const summary = evidence.summary
+  const summaryPortrait = heroImage(hero)
   const fallbackMessage = evidence.claims.length
     ? "Šiam įrašui rengiama šaltiniais pagrįsta santrauka."
     : "Šis įrašas dar laukia šaltiniais pagrįstos santraukos."
 
   return (
     <main class="object-detail-page" data-object-detail="true" data-object-tabs="true">
-      <nav class="object-detail-breadcrumbs" aria-label="Kelias">
-        <a href="/">Pradžia</a>
-        <span>/</span>
-        <a href="/objektai">Objektai</a>
-        <span>/</span>
-        <span>{typeLabel(type)}</span>
-      </nav>
-      <header class="object-detail-intro">
-        <div class="object-detail-identity">
-          <div class="object-detail-identity-copy">
-            <p class="object-detail-eyebrow">{typeLabel(type)}</p>
-            <h1>{title.title}</h1>
-            {title.qualifier && <p class="object-detail-qualifier">{title.qualifier}</p>}
-            <p class="object-detail-counts">
-              <span>{view.counts.claims} teiginiai</span>
-              <span>{view.counts.citations + view.counts.mentions} įrašai</span>
-              <span>{relationCount} ryšiai</span>
-            </p>
-          </div>
-          {heroImage(hero) && (
-            <a class="object-detail-portrait" href={mediaDetailUrl(hero!)}>
-              <img
-                src={heroImage(hero)}
-                alt={displayCaption(hero!)}
-                width={hero?.width || undefined}
-                height={hero?.height || undefined}
-                fetchPriority="high"
-                decoding="async"
-              />
-            </a>
-          )}
-        </div>
-        <ObjectMapPreview title={title.title} graphSlug={graphSlug} relationCount={relationCount} />
-      </header>
-      <ObjectPageTabs currentSlug={slug} objectSlug={slug} counts={view.counts} active="overview" />
+      <ObjectPageShell props={props} active="overview" />
       <section class="object-detail-overview" id="apzvalga" data-object-panel="apzvalga">
         <div class="object-section-heading">
           <p>Apžvalga</p>
-          <h2>{title.title}</h2>
+          <h2>Santrauka</h2>
         </div>
-        {summary ? (
-          <p class="object-detail-summary">{summary}</p>
-        ) : (
-          <p class="object-detail-summary object-detail-summary-pending">{fallbackMessage}</p>
+        <div class="object-detail-summary-with-portrait">
+          <div>
+            {summary ? (
+              <p class="object-detail-summary">{summary}</p>
+            ) : (
+              <p class="object-detail-summary object-detail-summary-pending">{fallbackMessage}</p>
+            )}
+          </div>
+          {summaryPortrait && (
+            <a class="object-detail-summary-portrait" href={galleryHref}>
+              <img
+                src={summaryPortrait}
+                alt={displayCaption(hero!)}
+                width={hero?.width || undefined}
+                height={hero?.height || undefined}
+                decoding="async"
+              />
+              <span>Žiūrėti galerijoje</span>
+            </a>
+          )}
+        </div>
+        {view.featuredQuote && (
+          <figure class="object-detail-featured-quote">
+            <blockquote>{view.featuredQuote.text}</blockquote>
+            <figcaption>
+              <a href={objectClaimHref(slug, evidence, view.featuredQuote.claimId)}>
+                {view.featuredQuote.source} · {view.featuredQuote.evidenceId}
+              </a>
+            </figcaption>
+          </figure>
+        )}
+        {externalLinks.length > 0 && (
+          <nav class="object-detail-reading" aria-label="Patikrintos skaitymo nuorodos">
+            {externalLinks.slice(0, 5).map((source) => (
+              <a href={source.url} target="_blank" rel="noreferrer noopener">
+                {source.publisher || source.title} <ExternalLink size={13} />
+              </a>
+            ))}
+          </nav>
+        )}
+        {(view.relatedContent.articles.length > 0 ||
+          view.relatedContent.exhibitions.length > 0) && (
+          <nav class="object-detail-related-reading" aria-label="Susijęs turinys">
+            {view.relatedContent.articles.map((article) => (
+              <a href={resolveRelative(slug, article.slug as FullSlug)}>
+                Straipsnis · {article.title}
+              </a>
+            ))}
+            {view.relatedContent.exhibitions.map((exhibition) => (
+              <a href={resolveRelative(slug, ("parodos/" + exhibition.slug) as FullSlug)}>
+                Paroda · {exhibition.title}
+                {exhibition.matchedItems ? " (" + exhibition.matchedItems + ")" : ""}
+              </a>
+            ))}
+          </nav>
         )}
         {evidence.claims.length > 0 && (
           <div class="object-detail-overview-evidence">
@@ -421,13 +400,21 @@ const ObjectDetailPage: QuartzComponent = (props) => {
             <div class="object-detail-claims">
               {(view.featuredClaimIds.length
                 ? view.featuredClaimIds
-                    .map((id) => evidence.claims.find((claim) => claim.id === id))
+                    .map((id) =>
+                      evidence.claims.find(
+                        (claim) => claim.id === id || claim.globalIds?.includes(id),
+                      ),
+                    )
                     .filter((claim): claim is ObjectEvidenceClaim => Boolean(claim))
                 : evidence.claims.slice(0, 6)
               )
                 .slice(0, 6)
                 .map((claim) => (
-                  <ClaimCard claim={claim} sources={sourceHrefs} />
+                  <ClaimCard
+                    claim={claim}
+                    sources={sourceHrefs}
+                    href={objectClaimHref(slug, evidence, claim.id)}
+                  />
                 ))}
             </div>
             <a class="object-detail-all-evidence" href={evidenceHref}>
@@ -452,7 +439,7 @@ const ObjectDetailPage: QuartzComponent = (props) => {
           </details>
         )}
       </section>
-      <section class="object-detail-relations" id="rysiai" data-object-panel="rysiai" hidden>
+      <section class="object-detail-relations" id="rysiai" data-object-panel="rysiai">
         <div class="object-section-heading">
           <p>Struktūruoti ryšiai</p>
           <h2>Su kuo susijęs objektas</h2>
@@ -463,16 +450,20 @@ const ObjectDetailPage: QuartzComponent = (props) => {
         </p>
         {relationCount > 0 ? (
           <div class="object-detail-relation-lines">
-            {relations.map((group) =>
-              group.targets.map((target) => (
-                <a class="object-detail-relation-line" href={resolveRelative(slug, target.slug)}>
-                  <span class="object-detail-relation-subject">{title.title}</span>
-                  <span class="object-detail-relation-predicate">{group.label}</span>
-                  <strong>{target.label || target.title}</strong>
-                  <small>{typeLabel(target.type)}</small>
-                </a>
-              )),
-            )}
+            {relations.map((group) => (
+              <div class="object-detail-relation-line">
+                <span class="object-detail-relation-predicate">
+                  {group.label.replace(/\s*\([^)]*\)/g, "")}:
+                </span>
+                <div class="object-detail-relation-targets">
+                  {group.targets.map((target) => (
+                    <a href={resolveRelative(slug, target.slug)} title={typeLabel(target.type)}>
+                      {target.title}
+                    </a>
+                  ))}
+                </div>
+              </div>
+            ))}
           </div>
         ) : (
           <p class="object-detail-panel-note">
@@ -480,7 +471,7 @@ const ObjectDetailPage: QuartzComponent = (props) => {
           </p>
         )}
       </section>
-      <section class="object-detail-sources" id="saltiniai" data-object-panel="saltiniai" hidden>
+      <section class="object-detail-sources" id="saltiniai" data-object-panel="saltiniai">
         <div class="object-section-heading">
           <p>Provenansas</p>
           <h2>Šaltiniai ir tolesnis skaitymas</h2>
@@ -491,16 +482,38 @@ const ObjectDetailPage: QuartzComponent = (props) => {
               <thead>
                 <tr>
                   <th scope="col">Vidinis šaltinis</th>
-                  <th scope="col">Teiginių apie objektą</th>
-                  <th scope="col">Atverti</th>
+                  <th scope="col">Autorius / metai</th>
+                  <th scope="col">Teiginiai</th>
+                  <th scope="col">Citatos ir paminėjimai</th>
                 </tr>
               </thead>
               <tbody>
-                {sources.map((source) => (
+                {bibliography.map((source) => (
                   <tr>
-                    <td>{source.href ? <a href={source.href}>{source.title}</a> : source.title}</td>
-                    <td>{sourceClaimCounts.get(normalized(source.title)) ?? 0}</td>
-                    <td>{source.href ? <a href={source.href}>Šaltinį</a> : "—"}</td>
+                    <td data-label="Šaltinis">
+                      {source.slug ? (
+                        <a href={resolveRelative(slug, source.slug)}>{source.title}</a>
+                      ) : (
+                        source.title
+                      )}
+                    </td>
+                    <td data-label="Autorius / metai">
+                      {[source.author, source.year].filter(Boolean).join(" · ") || "—"}
+                    </td>
+                    <td data-label="Teiginiai">
+                      <a
+                        href={`${evidenceHref}?source=${encodeURIComponent(source.id)}&kind=claim`}
+                      >
+                        {source.claimIds.size}
+                      </a>
+                    </td>
+                    <td data-label="Citatos">
+                      <a
+                        href={`${evidenceHref}?source=${encodeURIComponent(source.id)}&kind=records`}
+                      >
+                        {source.citationIds.size}
+                      </a>
+                    </td>
                   </tr>
                 ))}
               </tbody>
@@ -542,12 +555,12 @@ const ObjectDetailPage: QuartzComponent = (props) => {
       {galleryItems.length > 0 && (
         <section class="object-detail-gallery-peek" data-object-panel="apzvalga">
           <div class="object-section-heading">
-            <p>Vaizdų archyvas</p>
-            <h2>Atvaizdai ir dokumentai</h2>
+            <p>Galerija</p>
+            <h2>Atrinkta iš galerijos</h2>
           </div>
           <div class="object-detail-gallery-grid">
             {galleryItems.map((entry) => (
-              <a class="object-detail-gallery-card" href={mediaDetailUrl(entry)}>
+              <a class="object-detail-gallery-card" href={galleryHref}>
                 {heroImage(entry) && (
                   <img
                     src={heroImage(entry)}

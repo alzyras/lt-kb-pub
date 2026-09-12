@@ -197,6 +197,32 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   pagrindžia:
     - c-105970
 
+<a id="claim-t-206571"></a>
+- t-010
+  teiginys: "Brandenburgo, Baigos, Bartenšteino ir Reino komtūrai su pulkais, remiami Varmijos ir Sambijos vyskupų dalinių, nužygiavo į pietus ir atėjo prie Rudaminos."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189186
+
+<a id="claim-t-206572"></a>
+- t-011
+  teiginys: "Rudaminos upė tekėjo pelkėto slėnio viduryje, o šiame slėnyje nuo lietuvių kariaunos buvo atskirti kariai."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189187
+
 ## Citatos
 
 - id: c-105965
@@ -391,3 +417,39 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-006
+
+- id: c-189186
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 438"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 438."
+  citata_originali: |
+    Pašarininkus reikėjo pridengti labai stipriu raitelių daliniu; tam
+    tikslui Brandenburgo, Baigos, Bartenšteino ir Reino komtūrai
+    su savo pulkais, paremti Varmijos ir Sambijos vyskupų pulkų,
+    nužygiavo pietų link. Atėję prie Rudaminos, per pustrečios my­
+    lios nepastebėjo nė vieno lietuvio kario; tik pasiųsti žvalgai pra­
+    nešė, kad didysis kunigaikštis ir Kaributas netoli stovį.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010
+
+- id: c-189187
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 438"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 438."
+  citata_originali: |
+    Greitai perbėgo per mišką, tačiau ūmai pastebėjo pelkėtu slė­
+    niu, vidur kurio tekėjo upė (Rudamina), esantys atskirti nuo
+    lietuvių kariaunos. Stovėjo ji dviem daliniais, kur kas gausesnė,
+    atrodė ilsėjosi kelią įveikusi.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-011

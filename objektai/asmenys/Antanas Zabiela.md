@@ -3,13 +3,9 @@ tipas: asmuo
 pavadinimas: 'Antanas Zabiela'
 saltiniai:
   - 'Istorija_103_maketas.indb'
-datos: []
-date_start: ''
-date_end: ''
+  - 'Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių'
 sukurta: ''
 atnaujinta: ''
-amziai: []
-periodo_grupes: []
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -34,11 +30,11 @@ canonical_biography: "1776 m. Antanas Zabiela, Šv. Jono bažnyčios zakristijon
 
 ## Santrauka
 
-1776 m. Šv. Jono bažnyčios zakristijonas Antanas Zabiela buvo vienas iš Lukiškėse, prie Neries, karmelitėms priklausiusį dvarelį užpuolusios talkininkų gaujos narių.
+1776 m. Šv. Jono bažnyčios zakristijonas Antanas Zabiela buvo vienas iš Lukiškėse, prie Neries, karmelitėms priklausiusį dvarelį užpuolusios talkininkų gaujos narių. Antanas Zabiela buvo Kauno pavieto maršalas.
 
 ## Santrauka
 
-1776 m. Šv. Jono bažnyčios zakristijonas Antanas Zabiela buvo vienas iš Lukiškėse, prie Neries, karmelitėms priklausiusį dvarelį užpuolusios talkininkų gaujos narių.
+1776 m. Šv. Jono bažnyčios zakristijonas Antanas Zabiela buvo vienas iš Lukiškėse, prie Neries, karmelitėms priklausiusį dvarelį užpuolusios talkininkų gaujos narių. Antanas Zabiela buvo Kauno pavieto maršalas.
 
 ## Teiginiai
 
@@ -58,6 +54,21 @@ canonical_biography: "1776 m. Antanas Zabiela, Šv. Jono bažnyčios zakristijon
   pagrindžia:
     - c-186529
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Antanas Zabiela buvo Kauno pavieto maršalas.'
+  šaltinis: 03-ldk-tarp-tradiciju-ir-naujoviu
+  citata_originali: |
+    Šaltinių ir istoriografijos analizė leidžia padaryti šias išvadas. Augusto III laikų
+    Kauno seimelis buvo „nesužlugdytas" dėl to, kad vietos elitas pasiekė kompromisą.
+    Pavietų grupuočių vietiniai lyderiai - Kauno pavieto pilies teismo seniūnas
+    Simonas Sirutis ir Kauno pavieto maršalas Antanas Zabiela - susitarė „nežlugdyti"
+    Kauno seimelio.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-186529

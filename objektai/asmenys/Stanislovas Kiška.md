@@ -45,7 +45,7 @@ canonical_biography: "LDK valdovas Aleksandras vyriausiais kariuomenės vadais p
 
 ## Santrauka
 
-LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanislovą Kišką ir dvaro maršalką Mykolą Glinskį. Rugpjūčio 5 d. paryčiais etmonas Stanislovas Kiška dėl žygio vargų nebegalėjo vadovauti ir pageidavo toliau važiuoti vežimu. Stanislovas Kiška Kazimiero įsakymu su turimomis jėgomis turėjo sustabdyti maskvėnų antpuolius.
+Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patirties kovose su totoriais ir maskvėnais (po to, kai 1502 m. jam pavyko apginti Smolenską nuo maskvėnų, jam buvo patikėtos etmono pareigos). Rugpjūčio 5 d. paryčiais žygio vargai etmoną Stanislovą Kišką išvertė iš kojų.
 
 ## Teiginiai
 

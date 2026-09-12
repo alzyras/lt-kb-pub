@@ -47,11 +47,30 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1544 m. Brastos bei 1551 ir 1552 m. Vilniaus seimuose lietuviai reikalavo abiejų Žygimantų panaikinti šią prievolę, bet reikalavimai nebuvo patenkinti.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
+<a id="claim-t-205397"></a>
+- t-001
+  teiginys: "1544 m. Brastos bei 1551 ir 1552 m. Vilniaus seimuose lietuviai reikalavo abiejų Žygimantų panaikinti šią prievolę, bet reikalavimai nebuvo patenkinti."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187730
+
+## Santrauka
+
+1544 m. Brastos bei 1551 ir 1552 m. Vilniaus seimuose lietuviai reikalavo abiejų Žygimantų panaikinti šią prievolę, bet reikalavimai nebuvo patenkinti.
+
+## Citatos
+
+- id: c-187730
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 412"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 412."
   citata_originali: |
     Prie šių pastabų priklauso ir senovės lietuvių teisė,
     pagal kurią visi žemės savininkai turėdavo įsipareigoti
@@ -63,11 +82,10 @@ Nenurodyta
     kintas, bet veltui. Unijai atsiradus, ši teisė pamažu pati
     pranyko — nelaimei krašto, kuris galop visiškai neteko
     nuolatinės gynybos sistemos.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1544 m. Brastos bei 1551 ir 1552 m. Vilniaus seimuose lietuviai reikalavo abiejų Žygimantų panaikinti šią prievolę, bet reikalavimai nebuvo patenkinti.
+  pagrindzia:
+    - t-001

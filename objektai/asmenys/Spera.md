@@ -82,6 +82,19 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
   pagrindžia:
     - c-178784
 
+<a id="claim-t-205552"></a>
+- t-004
+  teiginys: "Netrukus Spera, likęs bevaikis, baigė savo gyve nimo dienas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187692
+
 ## Citatos
 
 - id: c-169524
@@ -145,3 +158,23 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-187692
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 170"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 170."
+  citata_originali: |
+    Tad, žinia, vaizduotė piešia
+    jo nuostabias dorybes, didžiai išaukštinančias žmogaus
+    esybę. Netrukus Spera, likęs bevaikis, baigė savo gyve­
+    nimo dienas. Jo pelenus priglaudė žemė prie Speros eže­
+    ro, ten, kur ir buvo pastatytas jam paminklas, kurį žmo­
+    nių meilė sudievino.
+  citata_rodoma: "Netrukus Spera, likęs bevaikis, baigė savo gyve­\nnimo dienas. Jo pelenus priglaudė žemė prie Speros eže­\nro, ten, kur ir buvo pastatytas jam paminklas, kurį žmo­\nnių meilė sudievino."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

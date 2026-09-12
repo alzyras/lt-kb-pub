@@ -123,6 +123,31 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   pagrindžia:
     - c-175207
 
+<a id="claim-t-205291"></a>
+- t-006
+  teiginys: "Krivičiai, lietuviais sekdami, buvo labai atsidavę pagonybei, lai kėsi lokių pat kaip ir anie papročių ir, matyt, tarp rusinu juos iš laikė ilgiausiai."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187729
+
+<a id="claim-t-205564"></a>
+- t-007
+  teiginys: "Pasak Teodoro Narbuto, krivičiai buvo slavų kilmės gentis, priėmusi krivių religiją ir pripažinusi kriviais vadintų žynių bei teisėjų valdžią."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187689
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas primena, kad Livonijos kryžiuočiai kariavo su krivičiais, o Livonijos broliai lankydavosi Karaliaučiuje.'
@@ -312,6 +337,47 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   pagrindzia:
     - t-004
     - t-005
+
+- id: c-187689
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 179"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 179."
+  citata_originali: |
+    Tai
+    įgalino Kernių sukurti ten savo kariauną, įvesti savo
+    tvarką, vienu žodžiu, buvo padaryta pradžia atskiros Lie­
+    tuvos—Rusios Kunigaikštystės, kurios valdovu ir paveldė­
+    toju pasivadino jis pats. Tenykščiai gyventojai krivičiai —
+    slavų kilmės gentis, bet priėmusi krivių religiją, tai yra
+    pripažinusi žynių ir teisėjų, vadintų kriviais, valdžią. Jau
+    pats tikėjimas, artimas lietuvių, buvo parankus .siekiant
+    palenkti žmones paklusti Lietuvos valdovui.
+  citata_rodoma: "Tenykščiai gyventojai krivičiai — \nslavų kilmės gentis, bet priėmusi krivių religiją, tai yra \npripažinusi žynių ir teisėjų, vadintų kriviais, valdžią. Jau \npats tikėjimas, artimas lietuvių, buvo parankus .siekiant \npalenkti žmones paklusti Lietuvos valdovui."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
+- id: c-187729
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 204"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 204."
+  citata_originali: |
+    Krivičiai, lietuviais sekdami, buvo labai atsidavę pagonybei, lai­
+    kėsi lokių pat kaip ir anie papročių ir, matyt, tarp rusinu juos iš­
+    laikė ilgiausiai. Įrodymus to yra pateikęs Karamzinas. — T. I. —
+    Pastaba 463.
+  citata_rodoma: "Krivičiai, lietuviais sekdami, buvo labai atsidavę pagonybei, lai­\nkėsi lokių pat kaip ir anie papročių ir, matyt, tarp rusinu juos iš­\nlaikė ilgiausiai."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 ## Ryšiai
 - Kariavo prieš: [[objektai/grupes/Kryžiuočių ordinas]]

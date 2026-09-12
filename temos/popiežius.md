@@ -6,7 +6,7 @@ tema_kategorija: "asmenys"
 tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 147
+tema_objektu_skaicius: 148
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 147.
+Objektų skaičius: 148.
 
 ## Kaip naudoti
 
@@ -181,6 +181,7 @@ Objektų skaičius: 147.
 
 ### Įvykiai
 - [Lubavos ir Lanzanijos nobilų Kristijono valdžios pripažinimo patvirtinimas](../objektai/ivykiai/Lubavos%20ir%20Lanzanijos%20nobil%C5%B3%20Kristijono%20vald%C5%BEios%20pripa%C5%BEinimo%20patvirtinimas)
+- [Vilniaus universiteto įkūrimas](../objektai/ivykiai/Vilniaus%20universiteto%20%C4%AFk%C5%ABrimas)
 - [Vokiečių ordino pradžios datavimas nuo Akono apgulties iki ilgesnio susiformavimo proceso (1190-1198 m.)](../objektai/ivykiai/Vokie%C4%8Di%C5%B3%20ordino%20prad%C5%BEios%20datavimas%20nuo%20Akono%20apgulties%20iki%20ilgesnio%20susiformavimo%20proceso%20%281190-1198%20m.%29)
 
 ### Šaltiniai

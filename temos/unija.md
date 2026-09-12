@@ -6,7 +6,7 @@ tema_kategorija: "ivykiai"
 tema_kategorijos_pavadinimas: "Įvykiai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 32
+tema_objektu_skaicius: 31
 graph_hub: true
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 32.
+Objektų skaičius: 31.
 
 ## Kaip naudoti
 
@@ -48,10 +48,9 @@ Objektų skaičius: 32.
 - [[objektai/ivykiai/Nepriklausomybės pradžia]]
 - [[objektai/ivykiai/Varšuvos konfederacija]]
 - [[objektai/ivykiai/Vilniaus katedros unijos atnaujinimo pasižadėjimas (1812 m. liepos 14 d.)]]
-- [[objektai/ivykiai/Vilniaus universiteto įkūrimas]]
 - [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.)]]
 - [[objektai/ivykiai/Vilniaus-Radomo susitarimas]]
-- [Vitebsko karo lauko seimas (seimas)](../objektai/ivykiai/Vitebsko%20karo%20lauko%20seimas)
+- [[objektai/ivykiai/Vitebsko karo lauko seimas|Vitebsko karo lauko seimas (seimas)]]
 - [Vytauto sprendimas pripažinti Maskvos Focijų Kijevo metropolitu (1421 m.)](../objektai/ivykiai/Vytauto%20sprendimas%20pripa%C5%BEinti%20Maskvos%20Focij%C5%B3%20Kijevo%20metropolitu%20%281421%20m.%29)
 - [Vėlesni Kriavo pažadų akto susitarimai (1392–1432 m.)](../objektai/ivykiai/V%C4%97lesni%20Kriavo%20pa%C5%BEad%C5%B3%20akto%20susitarimai%20%281392%E2%80%931432%20m.%29)
 - [Čičinsko seimo išardymas (1652 m.)](../objektai/ivykiai/%C4%8Ci%C4%8Dinsko%20seimo%20i%C5%A1ardymas%20%281652%20m.%29)

@@ -47,11 +47,31 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Pasak Narbuto, po 1225 m. pralaimėjimo Dobrynės riteriai vėliau išsišakojo į dvi dalis.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
+<a id="claim-t-205541"></a>
+- t-001
+  teiginys: "Pasak Narbuto, po 1225 m. pralaimėjimo Dobrynės riteriai vėliau išsišakojo į dvi dalis."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-188150
+
+## Santrauka
+
+Pasak Narbuto, po 1225 m. pralaimėjimo Dobrynės riteriai vėliau išsišakojo į dvi dalis.
+
+## Citatos
+
+- id: c-188150
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 311"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 311."
   citata_originali: |
     Palyginę šiuos piešinius, galime nu­
     manyti kai kuriuos istorijos įvykius. Dobrynės riteriai
@@ -62,11 +82,10 @@ Nenurodyta
     das 1237 metais perkėlė į Drohičinąi Polesėje. Si, vado­
     vaujama kito didžiojo magistro, prisiėmė sau kitą ženk­
     lą, gerokai nuo ano besiskiriantį.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-Pasak Narbuto, po 1225 m. pralaimėjimo Dobrynės riteriai vėliau išsišakojo į dvi dalis.
+  pagrindzia:
+    - t-001

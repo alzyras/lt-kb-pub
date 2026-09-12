@@ -55,8 +55,45 @@ Nenurodyta
 
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
+<a id="claim-t-186761"></a>
+- t-001
+  teiginys: "Per vasalinės priesaikos ceremoniją Kolomyjoje Stepono palydovų ant žemės suguldytos vėliavėlės simbolizavo jų moldaviškąsias valdas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Kolomyja: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kolomyja: mention_match, place, gap=32"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje\" parinktas kaip owner_note_path. Targetas \"Kolomyja\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  pagrindžia:
+    - c-169968
+
+<a id="claim-t-186762"></a>
+- t-002
+  teiginys: "Per priesaikos ceremoniją vaivada Steponas perdavė karaliui Kazimierui didelę šilkinę vėliavą su Moldavijos herbu."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Herbas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Herbas: mention_match, thing, gap=104"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje\" parinktas kaip owner_note_path. Targetas \"Herbas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  pagrindžia:
+    - c-169968
+
+## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -80,8 +117,12 @@ Nenurodyta
   statusas: verified
 - t-004
 
-- c-002
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+## Citatos
+
+- id: c-169968
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     ”  Vaivada Steponas perdavė karaliui Kazimierui didele Sil­
     kine valiavę su Moldavijos herbu, o jo  palydovai suguldė an t ic-
@@ -92,9 +133,12 @@ Nenurodyta
     a  A pie rugsėjo 24 d., palydėjęs M oldavijos vaivadų Steponų
     ligi Sniatino (j rytus nuo Kolomyjos), Kazimieras davė jam  3000
     algininkų daliuj.
-  citata_rodoma: ''
+  citata_rodoma: "”  Vaivada Steponas perdavė karaliui Kazimierui didele Sil­\nkine valiavę su Moldavijos herbu, o jo  palydovai suguldė an t ic- \nmės vėliavėles, simbolizuojančias jų moldaviškųsias valdas (F. Pa- \npee, Polska i Litwa, I, p. 200). Priesaikos cerem onija tiksliau ir \nvaizdžiau aprašyta M. Strijkovskio (Kronika, p. 037). Be to, M. Strij­\nkovskis nusako priesaikos sųlygas, kurių nėra BK."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-- t-001
+  pagrindzia:
+    - t-001
+    - t-002

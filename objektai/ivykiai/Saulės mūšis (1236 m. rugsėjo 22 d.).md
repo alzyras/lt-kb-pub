@@ -4,18 +4,13 @@ pavadinimas: 'Saulės mūšis (1236 m. rugsėjo 22 d.)'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1236 m.'
   - '1237 m.'
 date_start: '1236'
 date_end: '1237'
-aliases:
-  - 'objektai/ivykiai/Mūšis ties Šiauliais ir kalavijuočių susiliejimas su kryžiuočiais'
-  - 'objektai/ivykiai/Saulės-Šiaulių kautynės'
-variantai:
-  - 'Mūšis ties Šiauliais ir kalavijuočių susiliejimas su kryžiuočiais'
-  - 'Saulės-Šiaulių kautynės'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -42,7 +37,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1236 m. kalavijuočių ir jų talkininkų žygis į šiaurinę Lietuvą baigėsi Saulės mūšiu prie Šiaulių srities. Lietuvių, Ivinskio interpretacijoje Vykinto vadovaujamų žemaičių būrių, pergalė smarkiai susilpnino kalavijuočius ir paskatino jų susijungimą su kryžiuočiais.
+1236 m. rugsėjį į Lietuvą įžengusios Kalavijuočių ordino brolių ir Europos kryžininkų pajėgos pasidalijo į būrius ir ėmė plėšti. Saulės žemėje lietuviai užmušė 50 ordino brolių ir daugybę tikratikių. Saulės mūšis išstūmė vokiečių ekspansiją iki Dauguvos ir paskatino žiemgalių, kuršių bei saremiečių sukilimus.
 
 ## Laikotarpis ir datos
 
@@ -205,6 +200,19 @@ Nenurodyta
   pagrindžia:
     - c-66987
 
+## Reikšmingi paminėjimai
+- c-009
+  santrauka: '1236 m. Saulės mūšyje, Alfredo Bumblausko teigimu, dalyvavo tik žemaičiai.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    ol buvo manoma, kad lemtingame Saulės mūšyje 1236 m. Livo-
+    nijos ordiną turėjo nugalėti suvienytos Lietuvos valstybės kariuomenė. Dabar aišku, kad
+    Saulės mūšyje dalyvavo tik žemaičiai. Tiesa
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-11907

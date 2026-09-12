@@ -213,6 +213,19 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   pagrindžia:
     - c-173563
 
+<a id="claim-t-205503"></a>
+- t-010
+  teiginys: "Narbutas rašo, kad Adomas Bremenietis tvirtino, jog krikščionių dvasininkai jūra atplaukdavo skelbti Evangelijos prūsams, lietuviams ir latviams."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187909
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Narbutas Adomą Bremenietį nurodė kaip šaltinį apie prie šventyklų buvusius apeiginius šaltinius ar šulinius.'
@@ -441,3 +454,22 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   pagrindzia:
     - t-008
     - t-009
+
+- id: c-187909
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 158"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 158."
+  citata_originali: |
+    riejimais ir įtikinėjimais, ypač tai pasakytina apie pajūrio
+    žemes, tarp Nemuno ir Dauguvos. Adomas Bremenietis
+    įtikinamai tvirtina, kad nemaža krikščionių dvasininkų
+    skelbti Sv. Evangelijos mokymo prūsams, lietuviams ir
+    latviams atplaukdavo jūra iš Vokietijos ir kitų šalių.
+  citata_rodoma: "Adomas Bremenietis \nįtikinamai tvirtina, kad nemaža krikščionių dvasininkų \nskelbti Sv. Evangelijos mokymo prūsams, lietuviams ir \nlatviams atplaukdavo jūra iš Vokietijos ir kitų šalių."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010

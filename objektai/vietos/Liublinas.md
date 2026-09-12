@@ -180,7 +180,7 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
 <a id="claim-t-199533"></a>
 - t-007
   teiginys: "Iš Liublino seimo į Vilnių atvykęs karalius ėmėsi reikalų su totoriais."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -303,6 +303,31 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-182289
+
+<a id="claim-t-205789"></a>
+- t-015
+  teiginys: "Nuo rugsėjo 24 d. lietuviai penkiolika dienų niokojo Liublino žemę."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188404
+
+<a id="claim-t-205790"></a>
+- t-016
+  teiginys: "Teodoras Narbutas nurodo, kad Lešekas pergalei atminti Liubline pastatydino Šv. Mykolo Arkangelo vardu pavadintą bažnyčią ir, jo pasakojimu, tą dieną sulaukė Dievo pagalbos."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188405
 
 ## Reikšmingi paminėjimai
 - c-007
@@ -808,6 +833,53 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188404
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 254"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 254."
+  citata_originali: |
+    dar 1282 metais rengti didelį žygį į Lenkiją. Paulius,
+    Krokuvos vyskupas, savojo kunigaikščio Lešeko Juodojo
+    įžeistas, susimokė su Konradu, Mazovijos kunigaikščiu,
+    Traidenio svainiu, kuris buvo pasiūlęs šį žygį ir nurodęs
+    Liublino kraštą. Didysis kunigaikštis, įpratęs ir labai pa­
+    sišovęs grobti, išsirengė anapus Bugo su keliolika tūks­
+    tančių ginkluotų žmonių ir penkiolika dienų nuo rugsėjo
+    24 dienos niokojo Liublino žemę, o kai Lešekas, skubinai
+    sutelkęs šiek tiek bajorų, taip pat savo dvariškių, patrau­
+    kė į kovą, lietuvių šalyje jau nebuvo.
+  citata_rodoma: "Paulius, \nKrokuvos vyskupas, savojo kunigaikščio Lešeko Juodojo \nįžeistas, susimokė su Konradu, Mazovijos kunigaikščiu, \nTraidenio svainiu, kuris buvo pasiūlęs šį žygį ir nurodęs \nLiublino kraštą. Didysis kunigaikštis, įpratęs ir labai pa­\nsišovęs grobti, išsirengė anapus Bugo su keliolika tūks­\ntančių ginkluotų žmonių ir penkiolika dienų nuo rugsėjo \n24 dienos niokojo Liublino žemę, o kai Lešekas, skubinai \nsutelkęs šiek tiek bajorų, taip pat savo dvariškių, patrau­\nkė į kovą, lietuvių šalyje jau nebuvo."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015
+
+- id: c-188405
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 254"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 254."
+  citata_originali: |
+    Kaip stebuklą šioje kovoje lenkų kronikininkai pateikia
+    vieną iš neabejotinai išgalvotų pasakų, esą nė vienas len­
+    kas nežuvo ištisą dieną trukusiame mūšyje ir esą mažai
+    lietuvių tepasitraukė iš kovos lauko, o ir tie arba per
+    upes keldamiesi nuskendo, arba patys, esą gėdydamiesi
+    grįžti namo, nusižudė. Kad ir kaip ten buvo, Lešekas šiai
+    pergalei atminti Liubline pastatydino bažnyčią, pavadintą
+    vardu šv. Mykolo Arkangelo, kurio globojamas tą atmin­
+    tiną dieną sulaukė Dievo pagalbos1.
+  citata_rodoma: "Kad ir kaip ten buvo, Lešekas šiai \npergalei atminti Liubline pastatydino bažnyčią, pavadintą \nvardu šv. Mykolo Arkangelo, kurio globojamas tą atmin­\ntiną dieną sulaukė Dievo pagalbos1."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
 
 ## Ryšiai
 - Puolė Liubliną: [[objektai/grupes/Lietuviai]]

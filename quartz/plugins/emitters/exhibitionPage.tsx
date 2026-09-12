@@ -14,10 +14,58 @@ import {
   loadExhibitions,
   type ExhibitionManifest,
 } from "../../util/exhibitions"
-import { mediaDetailUrl, mediaImageUrl } from "../../util/objectMedia"
+import { mediaDetailUrl, mediaImageUrl, type MediaEntry } from "../../util/objectMedia"
+
+function publicMedia(entry: MediaEntry): MediaEntry {
+  return {
+    mediaId: entry.mediaId,
+    detailUrl: entry.detailUrl,
+    title: entry.title,
+    caption: entry.caption,
+    originalTitle: entry.originalTitle,
+    creator: entry.creator,
+    provider: entry.provider,
+    providerLabel: entry.providerLabel,
+    license: entry.license,
+    rightsNote: entry.rightsNote,
+    licenseUrl: entry.licenseUrl,
+    attribution: entry.attribution,
+    dateDisplay: entry.dateDisplay,
+    dateStart: entry.dateStart,
+    dateEnd: entry.dateEnd,
+    width: entry.width,
+    height: entry.height,
+    canonicalUrl: entry.canonicalUrl,
+    sourceUrl: entry.sourceUrl,
+    displayUrl: entry.displayUrl,
+    institution: entry.institution,
+    collection: entry.collection,
+    country: entry.country,
+    language: entry.language,
+    tags: entry.tags?.map(({ code, label, facetKind }) => ({ code, label, facetKind })),
+    relatedObjects: entry.relatedObjects?.map(({ notePath, title, itemType }) => ({
+      notePath,
+      title,
+      itemType,
+    })),
+  }
+}
+
+function publicExhibition(exhibition: ExhibitionManifest): ExhibitionManifest {
+  return {
+    ...exhibition,
+    hero: publicMedia(exhibition.hero),
+    sections: exhibition.sections.map((section) => ({
+      ...section,
+      navMedia: publicMedia(section.navMedia),
+      items: section.items.map((item) => ({ ...item, media: publicMedia(item.media) })),
+    })),
+  }
+}
 
 function absolutePageUrl(baseUrl: string | undefined, slug: string): string {
-  return new URL(`/${encodeURI(slug)}`, `https://${baseUrl ?? "example.com"}`).toString()
+  const route = encodeURI(slug).replace(/^\/+|\/+$/g, "")
+  return new URL(`/${route}/`, `https://${baseUrl ?? "example.com"}`).toString()
 }
 
 function redirectPage(destination: string, canonicalUrl: string): string {
@@ -138,18 +186,19 @@ export const ExhibitionPages: QuartzEmitterPlugin = () => {
         "Skaitmeninės parodos",
         "Kuruotos Lietuvos istorijos parodos, jungiančios vaizdus, teiginius ir pirminius šaltinius.",
         {
-          exhibitions_index_json: JSON.stringify(exhibitions),
+          exhibitions_index_json: JSON.stringify(exhibitions.map(publicExhibition)),
           media_primary_thumb_url:
             exhibitions[0] ? mediaImageUrl(exhibitions[0].hero) : "",
         },
       )
 
       for (const exhibition of exhibitions) {
+        const publicManifest = publicExhibition(exhibition)
         const slug = exhibition.slug as FullSlug
         const pageUrl = absolutePageUrl(cfg.baseUrl, exhibition.slug)
         yield* emit(slug, exhibition.title, exhibition.description, {
           exhibition_page: true,
-          exhibition_manifest_json: JSON.stringify(exhibition),
+          exhibition_manifest_json: JSON.stringify(publicManifest),
           media_primary_thumb_url: mediaImageUrl(exhibition.hero),
           media_primary_width: exhibition.hero.width,
           media_primary_height: exhibition.hero.height,

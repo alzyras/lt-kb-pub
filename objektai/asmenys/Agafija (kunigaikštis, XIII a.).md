@@ -48,8 +48,22 @@ canonical_biography: "1226 m. į Plocką atvykę kryžiuočių riteriai Konrado 
 
 1226 m. į Plocką atvykę kryžiuočių riteriai Konrado nesant buvo priimti jo žmonos, kunigaikštienės Agafijos.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
+<a id="claim-t-205296"></a>
+- t-001
+  teiginys: "1226 m. į Plocką atvykę kryžiuočių riteriai Konrado nesant buvo priimti jo žmonos, kunigaikštienės Agafijos."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:35Z"
+  pagrindžia:
+    - c-187996
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: '1226 m. į Plocką atvykę kryžiuočių riteriai Konrado nesant buvo priimti jo žmonos, kunigaikštienės Agafijos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
@@ -64,3 +78,29 @@ canonical_biography: "1226 m. į Plocką atvykę kryžiuočių riteriai Konrado 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+## Citatos
+
+- id: c-187996
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 301"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 301."
+  citata_originali: |
+    Bet, nepaisant to, įžvalgusis Hermanas pirmiau­
+    sia pasiuntė dvejetą savo ordino riterių su aštuoniolikos
+    ginkluotų žmonių palyda, įpareigodamas užmegzti glau­
+    desnius santykius su kunigaikščiu Konradu, taip pat ap­
+    žiūrėti žemes, turinčias pereiti riterių nuosavybėn, bei
+    artimiau pažinti tenykščius pagonis. Riteriai atvyko į
+    Plocką Konradui nesant. Tuo metu, kai viešnagėj kuo
+    svetingiausiai buvo priimti jo žmonos, kunigaikštienės
+    Agafijos, juos pasiekė žinia, kad įsiveržę pagonys trau­
+    kia tiesiai Plocko link, mat į tą pusę buvo metęsi žmo­
+    nės, nešini grobiu.
+  citata_rodoma: "Riteriai atvyko į \nPlocką Konradui nesant. Tuo metu, kai viešnagėj kuo \nsvetingiausiai buvo priimti jo žmonos, kunigaikštienės \nAgafijos, juos pasiekė žinia, kad įsiveržę pagonys trau­\nkia tiesiai Plocko link"
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

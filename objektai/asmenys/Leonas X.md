@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Leonas X'
 saltiniai:
   - 'Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai'
+  - '„Mes, Lietuva.“ LDK bajorija XVI a.'
 sukurta: ''
 atnaujinta: ''
 media_total_count: '0'
@@ -29,11 +30,11 @@ canonical_biography: "Mikalojaus Husoviano giesmę apie stumbrą į Romą pas po
 
 ## Santrauka
 
-Mikalojaus Husoviano giesmę apie stumbrą į Romą pas popiežių Leoną X turėjo lydėti specialiai pagaminta stumbro iškamša, tačiau po popiežiaus staigios mirties ji nebuvo išsiųsta.
+Mikalojaus Husoviano giesmę apie stumbrą į Romą pas popiežių Leoną X turėjo lydėti specialiai pagaminta stumbro iškamša, tačiau po popiežiaus staigios mirties ji nebuvo išsiųsta. Popiežių Leoną X turėjo pasiekti Žygimanto Senojo pasiuntinys Mikalojus Volskis, vežantis maskvėnus belaisvius.
 
 ## Santrauka
 
-Mikalojaus Husoviano giesmę apie stumbrą į Romą pas popiežių Leoną X turėjo lydėti specialiai pagaminta stumbro iškamša, tačiau po popiežiaus staigios mirties ji nebuvo išsiųsta.
+Mikalojaus Husoviano giesmę apie stumbrą į Romą pas popiežių Leoną X turėjo lydėti specialiai pagaminta stumbro iškamša, tačiau po popiežiaus staigios mirties ji nebuvo išsiųsta. Popiežių Leoną X turėjo pasiekti Žygimanto Senojo pasiuntinys Mikalojus Volskis, vežantis maskvėnus belaisvius.
 
 ## Teiginiai
 
@@ -49,6 +50,21 @@ Mikalojaus Husoviano giesmę apie stumbrą į Romą pas popiežių Leoną X tur�
   pagrindžia:
     - c-186754
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'Popiežių Leoną X turėjo pasiekti Žygimanto Senojo pasiuntinys Mikalojus Volskis, vežantis maskvėnus belaisvius.'
+  šaltinis: 02-kiaupiene-mes-lietuva-ldk-bajorija
+  citata_originali: |
+    Oršos pergalė buvo iškilmingai pažymėta krikščioniškosios Europos kraštuose. Ro-
+    moje ta proga vyko iškilmingos padėkos pamaldos pačioje Šv. Petro bazilikoje, arkivys-
+    kupas Jonas Laskis net prašė atidėti Laterano susirinkimo sesiją iki tol, kol pas popiežių
+    Leoną X atvyks maskvėnus belaisvius vežantis Žygimanto Senojo pasiuntinys Mikalo-
+    jus Volskis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-186754

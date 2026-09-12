@@ -97,6 +97,19 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
   pagrindžia:
     - c-60636
 
+<a id="claim-t-205648"></a>
+- t-004
+  teiginys: "Teodoras Narbutas Konradą Žaką vadina Prūsijos magistru ir nurodo, kad jis pasiuntė patyrusį kariūną Albertą iš Hageno užimti Gardino pilies su būriu brolių bei keturiais šimtais rinktinių Natangijos raitelių."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-188263
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: '1317 m. žygyje Albrechtas iš Hageno šuoliais leidosi į jam skirtą vietą, kai vienas ginklanešys nukrito nuo žirgo.'
@@ -202,6 +215,27 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188263
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 338"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 338."
+  citata_originali: |
+    Rengtis tam žygiui buvo pra­
+    dėta Gardine. Kryžiuočių sekliai pranešė Prūsijai viską,
+    dar ir nuo savęs pridėdami. Prūsijos magistras Konradas
+    Žakas, iš tų žinių supratęs, kad Gardine suvis nėra ka­
+    reivių, paskubėjo išsiųsti patyrusį kariūną Albertą iš Ha-
+    geno, lydimą nemažo būrio brolių ir keturių šimtų rink­
+    tinių raitelių iš Natangijos, užimti minėtosios pilies.
+  citata_rodoma: "Prūsijos magistras Konradas \nŽakas, iš tų žinių supratęs, kad Gardine suvis nėra ka­\nreivių, paskubėjo išsiųsti patyrusį kariūną Albertą iš Ha- \ngeno, lydimą nemažo būrio brolių ir keturių šimtų rink­\ntinių raitelių iš Natangijos, užimti minėtosios pilies."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 ## Ryšiai
 - Albrechtas iš Hageno puolė [[objektai/asmenys/Sudargas]]

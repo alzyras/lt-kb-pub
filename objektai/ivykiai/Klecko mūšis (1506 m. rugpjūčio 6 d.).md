@@ -80,8 +80,32 @@ Nenurodyta
   pagrindžia:
     - c-43057
 
-<a id="claim-t-195013"></a>
+<a id="claim-t-195010"></a>
 - t-003
+  teiginys: "Bychovco kronika Klecko mūšio pergalę apibūdina kaip Lietuvos Didžiosios Kunigaikštystės patirtą „begalinį dievo gailestingumą“."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  sudarymo_pagrindimas: "Teiginys yra aiškus ir tinkamai atribuuoja religinį vertinimą kronikai."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė|Lietuvos Didžioji Kunigaikštystė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Korano giminė|Korano giminė]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_place: Cepra; mentioned_place: Volynė"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-177395
+
+<a id="claim-t-195012"></a>
+- t-004
+  teiginys: "Lietuvos metraštis pasakoja, kad po Klecko mūšio Mykolas Glinskis ir Lietuvos kariuomenė grįžo į stovyklą su belaisviais, auksu, sidabru, ginklais ir žirgais."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  sudarymo_pagrindimas: "Reikia įvardyti veikėjus ir aiškiau susieti faktą su Klecko mūšiu."
+  susije_objektai: "mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_group: [[objektai/grupes/Korano giminė|Korano giminė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė|Lietuvos Didžioji Kunigaikštystė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Cepra; mentioned_place: Lietuva; mentioned_place: Volynė"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-177395
+
+<a id="claim-t-195013"></a>
+- t-005
   teiginys: "Klecko mūšis buvo pirmoji stambi lietuvių pergalė po Vedrošos pralaimėjimo ir pirmoji Lietuvos pergalė prieš Krymo totorius apskritai."
   atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
@@ -95,8 +119,21 @@ Nenurodyta
   pagrindžia:
     - c-43056
 
+<a id="claim-t-195016"></a>
+- t-006
+  teiginys: "Lietuvos metraštis vaizduoja, kad po Klecko mūšio Mykolas Glinskis ir Lietuvos kariuomenė prie Cepros paėmė arba nukovė daugybę totorių."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-177395
+
 <a id="claim-t-195017"></a>
-- t-004
+- t-007
   teiginys: "Klecko mūšio aprašymu N. N. Ulaščikas rėmė spėjimą apie Bychovco kronikos kilmę iš Naugarduko ar Slucko krašto."
   atnaujinta: "2026-07-19 16:33"
   sprendimo_priezastis: "auto"
@@ -109,6 +146,18 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
     - c-177393
+
+<a id="claim-t-195018"></a>
+- t-008
+  teiginys: "Lietuvos metraštis pasakoja, kad po Klecko mūšio lietuviai gaudė pabėgusius totorius Slucko, Petrikovičių, Ovručo, Žitomiro ir Volynės keliais."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  sudarymo_pagrindimas: "Reikia konkretesnio, citata paremto sakinio ir aiškaus objekto."
+  susije_objektai: "llm_object: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Volynė; mentioned_place: Žitomiras; mentioned_group: [[objektai/grupes/Korano giminė|Korano giminė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė|Lietuvos Didžioji Kunigaikštystė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_place: Cepra; mentioned_place: Lietuva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-177395
 
 ## Reikšmingi paminėjimai
 - c-004
@@ -183,33 +232,6 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
-- c-007
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    O tuos nedaugelį totorių, kurie pabėgo su chanai-
-    čiais, gaudė bebėgančius Slucko, Petrikovičių, Ovručo,
-    2itomiro, Volynės keliais į visas puses, lietuviai žudė
-    ir atiminėjo grobį. Labai maža jų grįžo į Ordą.
-    Ir patyrė Lietuvos Didžioji Kunigaikštystė begalinį
-    dievo gailestingumą, o Korano giminė — neapsakomą
-    kraujo praliejimą. Kunigaikštis Mykolas Glinskis ir
-    Lietuvos kariuomenė tą dieną pasiliko prie lavonų, vi­
-    są dieną jodinėdami ir vaikydamiesi aplink Ceprą ir už
-    Cepros, paėmė arba nukovė daugybą totorių, sugrįžo
-    į kariuomenės stovyklą prie Klecko, vesdamiesi su sa­
-    vimi daug belaisvių ir turėdami rankas pilnas aukso,
-    ir sidabro, ir ginklų, ir drabužių, ir brangių žirgų. Ku­
-    pini neapsakomo džiaugsmo ir linksmybės, ramiai pra­
-    leido tą naktį 2 S .
-  citata_rodoma: ''
-  teiginio_tipas: saltinio_teiginys
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: not_found
-- t-003
-    - t-007
-    - t-008
-
 ## Citatos
 
 - id: c-11860
@@ -257,7 +279,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-003
+    - t-005
 
 - id: c-43057
   sudarytojas: "Karolis Zikaras"
@@ -343,7 +365,7 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-004
+    - t-007
 
 - id: c-177394
   autorius: "Anoniminis metraštininkas"
@@ -371,3 +393,34 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+- id: c-177395
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    O tuos nedaugelį totorių, kurie pabėgo su chanai-
+    čiais, gaudė bebėgančius Slucko, Petrikovičių, Ovručo,
+    2itomiro, Volynės keliais į visas puses, lietuviai žudė
+    ir atiminėjo grobį. Labai maža jų grįžo į Ordą.
+    Ir patyrė Lietuvos Didžioji Kunigaikštystė begalinį
+    dievo gailestingumą, o Korano giminė — neapsakomą
+    kraujo praliejimą. Kunigaikštis Mykolas Glinskis ir
+    Lietuvos kariuomenė tą dieną pasiliko prie lavonų, vi­
+    są dieną jodinėdami ir vaikydamiesi aplink Ceprą ir už
+    Cepros, paėmė arba nukovė daugybą totorių, sugrįžo
+    į kariuomenės stovyklą prie Klecko, vesdamiesi su sa­
+    vimi daug belaisvių ir turėdami rankas pilnas aukso,
+    ir sidabro, ir ginklų, ir drabužių, ir brangių žirgų. Ku­
+    pini neapsakomo džiaugsmo ir linksmybės, ramiai pra­
+    leido tą naktį 2 S .
+  citata_rodoma: "O tuos nedaugelį totorių, kurie pabėgo su chanai- \nčiais, gaudė bebėgančius Slucko, Petrikovičių, Ovručo, \n2itomiro, Volynės keliais į visas puses, lietuviai žudė \nir atiminėjo grobį. Labai maža jų grįžo į Ordą.\nIr patyrė Lietuvos Didžioji Kunigaikštystė begalinį \ndievo gailestingumą, o Korano giminė — neapsakomą \nkraujo praliejimą. Kunigaikštis Mykolas Glinskis ir \nLietuvos kariuomenė tą dieną pasiliko prie lavonų, vi­\nsą dieną jodinėdami ir vaikydamiesi aplink Ceprą ir už \nCepros, paėmė arba nukovė daugybą totorių, sugrįžo \nį kariuomenės stovyklą prie Klecko, vesdamiesi su sa­\nvimi daug belaisvių ir turėdami rankas pilnas aukso, \nir sidabro, ir ginklų, ir drabužių, ir brangių žirgų. Ku­\npini neapsakomo džiaugsmo ir linksmybės, ramiai pra­\nleido tą naktį 2 S ."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+    - t-004
+    - t-006
+    - t-008

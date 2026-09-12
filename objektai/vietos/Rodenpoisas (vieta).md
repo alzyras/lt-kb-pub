@@ -35,6 +35,8 @@ entity_view_role: "place"
 entity_aliases: ["Rodenpoisas","Rodenpoisas (vieta)"]
 sameAs: []
 canonical_biography: "1204 metų pasakojime žemgalių žygūnai pranešė, kad lietuviai per Rodenpoisą traukia į Ikškilę."
+place_authority: true
+historical_names: []
 ---
 # Rodenpoisas (vieta)
 
@@ -46,8 +48,22 @@ canonical_biography: "1204 metų pasakojime žemgalių žygūnai pranešė, kad 
 
 1204 metų pasakojime žemgalių žygūnai pranešė, kad lietuviai per Rodenpoisą traukia į Ikškilę.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
+<a id="claim-t-205392"></a>
+- t-001
+  teiginys: "1204 metų pasakojime žemgalių žygūnai pranešė, kad lietuviai per Rodenpoisą traukia į Ikškilę."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-187690
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: '1204 metų pasakojime žemgalių žygūnai pranešė, kad lietuviai per Rodenpoisą traukia į Ikškilę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
@@ -60,3 +76,24 @@ canonical_biography: "1204 metų pasakojime žemgalių žygūnai pranešė, kad 
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+## Citatos
+
+- id: c-187690
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 275"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 275."
+  citata_originali: |
+    Tuo tarpu lietuviai, prisigrobę daugybę belaisvių, nesu­
+    skaičiuojamą galybę žirgų ir galvijų, palengva traukė iš
+    kaimo į kaimą, laikydamiesi rimties. Galop, atvykę į
+    Turaidos pilį, įsikūrė nakvynei. Žemgalių kariaunos iš­
+    siųstieji žygūnai apie tai pranešė nurodę, kad lietuviai
+    per Rodenpoisą traukia į Ikškilę.
+  citata_rodoma: "Žemgalių kariaunos iš­\nsiųstieji žygūnai apie tai pranešė nurodę, kad lietuviai \nper Rodenpoisą traukia į Ikškilę."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

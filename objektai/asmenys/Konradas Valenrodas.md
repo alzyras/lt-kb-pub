@@ -118,6 +118,71 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
   pagrindžia:
     - c-83376
 
+<a id="claim-t-206328"></a>
+- t-005
+  teiginys: "Teodoras Narbutas rašo, kad netikėta mirtis nutraukė Konrado Valenrodo gyvenimą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188943
+
+<a id="claim-t-206329"></a>
+- t-006
+  teiginys: "Teodoras Narbutas, polemizuodamas su A. Mickevičiumi, galbūt grąžino autentišką Konrado Valenrodo vaizdą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188944
+
+<a id="claim-t-206330"></a>
+- t-007
+  teiginys: "Teodoras Narbutas mini Konradą Valenrodą kaip ordino maršalką, su kuriuo buvo užmegzti diplomatiniai ryšiai svarstant suvažiavimo galimybę."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188945
+
+<a id="claim-t-206331"></a>
+- t-008
+  teiginys: "Konradą Valenrodą Teodoras Narbutas aprašo kaip ordino maršalką, vedusį ginkluotus žmones iš Elbliongo, Kristburgo ir Osterodės pagalbon; jo pasiųstas Ragainės komtūras galėjo susikalbėti su pilies įgula."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188946
+
+<a id="claim-t-206332"></a>
+- t-009
+  teiginys: "Teodoras Narbutas nurodo, kad Konradas Valenrodas 1377–1382 m. valdė Šliochovo komtūriją, iki 1387 m. tarnavo maršalka, o 1391 m. vienbalsiai išrinktas didžiuoju magistru."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188947
+
 ## Citatos
 
 - id: c-83374
@@ -252,3 +317,94 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-188943
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 51"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 51."
+  citata_originali: |
+    M irtis K onradą Valenrodą ištiko visai nelauk­
+    tai, paankstinusi nutraukti jo gyvenimo giją. Tačiau ordinui
+    ir kraštui, kuriuos jis nuskurdino savo neapsakom u išlaidu­
+    mu, - tinkam u laiku
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
+- id: c-188944
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 54"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 54."
+  citata_originali: |
+    Taigi galbūt T. N arbutas, po­
+    lemizuodamas su A. Mickevičiumi, pagaliau grąžino mums
+    autentiškąjį K onradą Valenrodą?
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
+- id: c-188945
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 312"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 312."
+  citata_originali: |
+    Todėl diplomatiniais ryšiais
+    buvo susisiekta ir su didžiuoju magistru Konradu Ciolneriu,
+    ir su ordino maršalka Konradu Valenrodu; buvo kalbėta apie
+    suvažiavimą, kadangi žinome buvus apsaugos raštų, Jogailai
+    anų šiam tikslui duotų1.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
+- id: c-188946
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 317"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 317."
+  citata_originali: |
+    Buvo tai ordino maršalka Konradas Valenrodas,
+    vedantis ginkluotus žmones iš Elbliongo, Kristburgo ir Ostero-
+    dės, skubantis pagalbon; jo pasiųstas narsusis Ragainės komtū­
+    ras gebėjo priartėti prie Neries tiek, kad girdėjo šūksnius iš pilies
+    ir galėjo susikalbėti su įgula.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
+- id: c-188947
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 397-398"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 397-398."
+  citata_originali: |
+    Konradas jau se­
+    nokai gyveno Prūsijoje, kai jam 1377 m etais buvo duota
+    Šliochovo komtūrija, ją valdė iki 1382 metų, tuomet pakvies­
+    tas būti maršalka, kuriuo tarnavo iki 1387 metų, kol buvo pa­
+    keltas į didžiuosius kom tūrus. Kai m irė Ciolneris, kurio
+    399
+
+    pavaduotoju, kaip kad matėme, jis buvo septynis mėnesius,
+    1391 metais buvo vienbalsiai išrinktas didžiuoju magistru
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009

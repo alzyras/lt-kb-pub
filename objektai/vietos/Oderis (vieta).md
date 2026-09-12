@@ -29,6 +29,8 @@ entity_view_role: "place"
 entity_aliases: ["Oderis","Oderis (vieta)"]
 sameAs: []
 canonical_biography: "Jų pėdsakų yra išlikę pas herulus, gyvenusius anapus Oderio, juk Jonas Potockis skai tė ant akmens iškaltą maldą į Perkūną, apie tai jau ra šėme šio veikalo I tome."
+place_authority: true
+historical_names: []
 ---
 # Oderis (vieta)
 
@@ -40,8 +42,22 @@ Jų pėdsakų yra išlikę pas herulus, gyvenusius anapus Oderio, juk Jonas Poto
 
 Jų pėdsakų yra išlikę pas herulus, gyvenusius anapus Oderio, juk Jonas Potockis skai tė ant akmens iškaltą maldą į Perkūną, apie tai jau ra šėme šio veikalo I tome.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
+<a id="claim-t-205567"></a>
+- t-001
+  teiginys: "Jų pėdsakų yra išlikę pas herulus, gyvenusius anapus Oderio, juk Jonas Potockis skai tė ant akmens iškaltą maldą į Perkūną, apie tai jau ra šėme šio veikalo I tome."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-187807
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jų pėdsakų yra išlikę pas herulus, gyvenusius anapus Oderio, juk Jonas Potockis skai tė ant akmens iškaltą maldą į Perkūną, apie tai jau ra šėme šio veikalo I tome.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
@@ -55,3 +71,27 @@ Jų pėdsakų yra išlikę pas herulus, gyvenusius anapus Oderio, juk Jonas Poto
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+## Citatos
+
+- id: c-187807
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 418"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 418."
+  citata_originali: |
+    Jau šiame veikale ne kartą buvo pro­
+    ga įsitikinti, kad senovės lietuviai yra turėję savą raštą,
+    kad jų dvasininkų luomas mokėjo su ženklų pagalba, ki­
+    taip sakant, rašmenimis išreikšti kalbos garsus. Tai buvo
+    daroma netgi trejopai: runomis, kurios buvo ipaskolintos
+    iš skandinavų ar venedų. Jų pėdsakų yra išlikę pas he-
+    rulus, gyvenusius anapus Oderio, juk Jonas Potockis skai­
+    tė ant akmens iškaltą maldą į Perkūną, apie tai jau ra­
+    šėme šio veikalo I tome.
+  citata_rodoma: "Jų pėdsakų yra išlikę pas he- \nrulus, gyvenusius anapus Oderio, juk Jonas Potockis skai­\ntė ant akmens iškaltą maldą į Perkūną, apie tai jau ra­\nšėme šio veikalo I tome."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

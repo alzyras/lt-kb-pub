@@ -40,8 +40,22 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
+<a id="claim-t-205363"></a>
+- t-001
+  teiginys: "Tuoj pat užklupo kairiajame Osos krante plė šikaujančią gaują, nuvijo ją į kitą upės pusę ir ėmė supti Grudziondzą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-188080
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tuoj pat užklupo kairiajame Osos krante plė šikaujančią gaują, nuvijo ją į kitą upės pusę ir ėmė supti Grudziondzą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
@@ -60,3 +74,28 @@ Nenurodyta
 ## Santrauka
 
 Tuoj pat užklupo kairiajame Osos krante plė šikaujančią gaują, nuvijo ją į kitą upės pusę ir ėmė supti Grudziondzą.
+
+## Citatos
+
+- id: c-188080
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 166"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 166."
+  citata_originali: |
+    Tatai užgavo jo puikybę ir labai
+    supykdė — kaip šie kaimynai, kurie tėvo laikais taip ger­
+    bė susitarimą ir buvo tokie nuolankūs, dabar, tarytum dėl
+    jaunumo perniek jį laikydami, gridbėsi ginklo? Taigi pa­
+    skubėjo sudaryti taikos sutartį su čekais, grįžo į Lenkiją
+    ir, greitomis papildęs kariauną, patraukė į mūšį su už­
+    puolikais. Tuoj pat užklupo kairiajame Osos krante plė­
+    šikaujančią gaują, nuvijo ją į kitą upės pusę ir ėmė supti
+    Grudziondzą.
+  citata_rodoma: "Taigi pa­\nskubėjo sudaryti taikos sutartį su čekais, grįžo į Lenkiją \nir, greitomis papildęs kariauną, patraukė į mūšį su už­\npuolikais. Tuoj pat užklupo kairiajame Osos krante plė­\nšikaujančią gaują, nuvijo ją į kitą upės pusę ir ėmė supti \nGrudziondzą."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

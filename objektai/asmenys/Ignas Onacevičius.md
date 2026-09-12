@@ -121,6 +121,35 @@ Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­ torinių dok
   pagrindžia:
     - c-171426
 
+<a id="claim-t-206285"></a>
+- t-005
+  teiginys: "Ignas Onacevičius buvo Vilniaus universiteto profesorius."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188900
+
+<a id="claim-t-206286"></a>
+- t-006
+  teiginys: "1826 m. pratarmėje Ignas Onacevičius rašė, kad Vilniaus universiteto, bažnyčių ir vienuolynų bibliotekose sukaupta labai mažai Lietuvos istorijos šaltinių."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1826 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išplėstas asmens vardas ir pašalinti OCR bei išnašų likučiai. Teiginys išlaiko Onacevičiui tiesiogiai priskirtą vertinimą."
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188901
+
 ## Citatos
 
 - id: c-83493
@@ -211,6 +240,41 @@ Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­ torinių dok
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
+
+- id: c-188900
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 57"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 57."
+  citata_originali: |
+    todėl šiandien kiek ilgiau sustokime prie
+    Vilniaus universiteto profesoriaus I. Onacevičiaus svarsty­
+    mų, juolab, kad vėliau visa tai jau privačiai jis pakartojo ir
+    korespondencijoje T. N
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
+- id: c-188901
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 57"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 57."
+  citata_originali: |
+    Taigi dar 1826 m etais pra­
+    tarm ėje antrai iš eilės Jono A lbertrandžio rankraščių pub­
+    likacijai57 I. Onacevičius rašė, kad tiek Vilniaus universiteto,
+    tiek bažnyčių ir vienuolynų bibliotekose yra sukaupta labai
+    mažai Lietuvos istorijos šaltinių
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 ## Ryšiai
 - Ignas Onacevičius keliavo į [[objektai/vietos/Karaliaučius]]

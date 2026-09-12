@@ -43,26 +43,40 @@ Atėjus laikui skirti naują vyskupą, Bremeno arkivyskupas pa skelbė juo savo 
 
 Atėjus laikui skirti naują vyskupą, Bremeno arkivyskupas pa skelbė juo savo seserėną, Bremeno kanauninką Albertą iš Apelderno. Albertas iš Apelderno buvo nuvykęs į Daniją pas karalių Knutą IV, kunigaikštį Voldemarą ir Lundo arkivyskupą Absoloną, kur pelnė ¡stiprią paramą ir brangių dovanų.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Atėjus laikui skirti naują vyskupą, Bremeno arkivyskupas pa skelbė juo savo seserėną, Bremeno kanauninką Albertą iš Apelderno.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
-  citata_originali: |
-    Trečiasis Livonijos vyskupas Albertas. Atėjus
-    laikui skirti naują vyskupą, Bremeno arkivyskupas pa­
-    skelbė juo savo seserėną, Bremeno kanauninką Albertą iš
-    Apelderno. Tai buvo žmogus, visais atžvilgiais tinkamas
-    šioms sunkioms pareigoms, kartu teikiantis gražiausių
-    vilčių skleisti tikėjimą Livonijoje.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: 'Albertas iš Apelderno buvo nuvykęs į Daniją pas karalių Knutą IV, kunigaikštį Voldemarą ir Lundo arkivyskupą Absoloną, kur pelnė ¡stiprią paramą ir brangių dovanų.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
+<a id="claim-t-205371"></a>
+- t-001
+  teiginys: "Albertas iš Apelderno buvo nuvykęs į Daniją pas karalių Knutą IV, kunigaikštį Voldemarą ir Lundo arkivyskupą Absoloną, kur pelnė ¡stiprią paramą ir brangių dovanų."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187803
+
+<a id="claim-t-205469"></a>
+- t-002
+  teiginys: "Atėjus laikui skirti naują vyskupą, Bremeno arkivyskupas pa skelbė juo savo seserėną, Bremeno kanauninką Albertą iš Apelderno."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188142
+
+## Citatos
+
+- id: c-187803
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 266"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 266."
   citata_originali: |
     Tad išmintingam valdytojui ir
     švietėjui nieko daugiau neliko, kaip tik kreiptis į kryžiuo­
@@ -74,8 +88,31 @@ Atėjus laikui skirti naują vyskupą, Bremeno arkivyskupas pa skelbė juo savo 
     niją pas karalių Knutą IV, kunigaikštį Voldemarą ir Lun­
     do arkivyskupą Absoloną, kur pelnė ¡stiprią paramą ir
     brangių dovanų.
-  citata_rodoma: ''
+  citata_rodoma: "Nuvyko į Gotlandą, kur \npasirinko tikslesnių žinių apie Latviją, ir dar penketas \nšimtų riterių priėmė kryžiaus ženklą. Buvo nuvykęs į Da­\nniją pas karalių Knutą IV, kunigaikštį Voldemarą ir Lun­\ndo arkivyskupą Absoloną, kur pelnė ¡stiprią paramą ir \nbrangių dovanų."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-188142
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 265"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 265."
+  citata_originali: |
+    Trečiasis Livonijos vyskupas Albertas. Atėjus
+    laikui skirti naują vyskupą, Bremeno arkivyskupas pa­
+    skelbė juo savo seserėną, Bremeno kanauninką Albertą iš
+    Apelderno. Tai buvo žmogus, visais atžvilgiais tinkamas
+    šioms sunkioms pareigoms, kartu teikiantis gražiausių
+    vilčių skleisti tikėjimą Livonijoje.
+  citata_rodoma: "Atėjus \nlaikui skirti naują vyskupą, Bremeno arkivyskupas pa­\nskelbė juo savo seserėną, Bremeno kanauninką Albertą iš \nApelderno. Tai buvo žmogus, visais atžvilgiais tinkamas \nšioms sunkioms pareigoms, kartu teikiantis gražiausių \nvilčių skleisti tikėjimą Livonijoje."
   statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

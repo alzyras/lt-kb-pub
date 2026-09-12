@@ -295,6 +295,19 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   pagrindžia:
     - c-170592
 
+<a id="claim-t-206569"></a>
+- t-015
+  teiginys: "Teodoras Narbutas aprašo, kad Vytautas, rūpindamasis savo krašto saugumu, spalio 1 dieną užėmė Riazanę, privertė Olegą slėptis girioje, o lietuviai apiplėšė kunigaikštystę."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189184
+
 ## Citatos
 
 - id: c-32383
@@ -536,6 +549,24 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   pagrindzia:
     - t-013
     - t-014
+
+- id: c-189184
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 460"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 460."
+  citata_originali: |
+    Betgi Vytautas, sparčiai ėmęsis rū­
+    pintis savo krašto saugumu, jau buvo Riazanės kunigaikštys­
+    tėje, Riazanę užėmė spalio 1 dieną1; tiek buvo prirėmęs Olegą,
+    kad šis girioje turėjo ieškoti prieglobsčio, ir lietuviai užtekti­
+    nai prisiplėšė jo kunigaikštystėje.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-015
 
 ## Ryšiai
 - Puolė Riazanę: [[objektai/asmenys/Chudandachas]], [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]]

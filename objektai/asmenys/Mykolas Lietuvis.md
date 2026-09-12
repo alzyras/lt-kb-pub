@@ -2,6 +2,9 @@
 tipas: asmuo
 pavadinimas: 'Mykolas Lietuvis'
 saltiniai:
+  - 'Lietuvių tautos istorija, t. 3'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
+  - 'Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
@@ -30,6 +33,10 @@ sameAs: []
 canonical_biography: "Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėnus, žalčių laikymu išlikusį Eskulapo garbinimą. Narbutas Mykolą Lietuvį minėjo tarp nedaugelio lietuvių, kurie per 400 metų pasirūpino krašto praeitimi. Mykolas Lietuvis, Narbuto apibūdintas kaip Lenkijos mokslo amžiaus autorius, stengėsi įrodyti lietuvių ir lotynų kalbų vienodumą."
 ---
 # Mykolas Lietuvis
+
+## Santrauka
+
+Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėnus, žalčių laikymu išlikusį Eskulapo garbinimą. Narbutas Mykolą Lietuvį minėjo tarp nedaugelio lietuvių, kurie per 400 metų pasirūpino krašto praeitimi. Mykolas Lietuvis, Narbuto apibūdintas kaip Lenkijos mokslo amžiaus autorius, stengėsi įrodyti lietuvių ir lotynų kalbų vienodumą.
 
 ## Santrauka
 
@@ -120,6 +127,49 @@ Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėn
   pagrindžia:
     - c-186897
 
+<a id="claim-t-205117"></a>
+- t-007
+  teiginys: "Čia reikėtų prisiminti, ką Mykolas Lietuvis pagal čio nykštes legendas skelbė, kad atvykėliai su Palemonu pir miausia pastatė Platelių tvirtovę iškart, kai tik išsilaipino (Quaedam ad Litvaniam pertinentia, ex fragmentis Michelonis Lituani."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187976
+
+## Reikšmingi paminėjimai
+- c-001
+  santrauka: 'Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėnus, žalčių laikymu išlikusį Eskulapo garbinimą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Paimk juos ant savus sparnus,
+    Atnešk man juos sveiką tiktai,
+    Nenoriu aš brangių daiktų,
+    Gan man tavo apėmimo)*.
+    Vietos padavimai dar skelbia, kad Kaune, pačioje Nem u­
+    no ir Neries upių santakoje, augo dievams skirta giraitė, kuri
+    tęsėsi iki pat pilies, dabar virtusios griuvėsiais. Šią vietą iki šiol
+    vadina šilu, nors joje nematyti jokio medžio.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-008
+  santrauka: 'XVI a. viduryje Mykolas Lietuvis siūlė kurti Lietuvos raštiją lotynų kalba.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    Jo ištakos – ro-
+    mėniškoji lietuvių kilmės teorija, atsiradusi, atrodo, dar Vytauto laikais, o išpopuliarinta
+    XVI a. viduryje Mykolo Lietuvio, siūliusio kurti Lietuvos raštiją lotynų kalba.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-173070
@@ -268,3 +318,22 @@ Narbutas rašo, kad Mykolas Lietuvis pasakojo apie Lietuvoje, kaip ir pas romėn
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
+
+- id: c-187976
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 463"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 463."
+  citata_originali: |
+    Čia reikėtų prisiminti, ką Mykolas Lietuvis pagal čio­
+    nykštes legendas skelbė, kad atvykėliai su Palemonu pir­
+    miausia pastatė Platelių tvirtovę iškart, kai tik išsilaipino
+    (Quaedam ad Litvaniam pertinentia, ex fragmentis Mi-
+    chelonis Lituani. Respublica sive status Regni Poloniae
+    Litvaniae. Lugd. Bat. 1577. — P. 266).
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007

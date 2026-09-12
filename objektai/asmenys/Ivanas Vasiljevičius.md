@@ -15,6 +15,7 @@ tags:
   - asmuo
   - karalius
   - kunigaikštis
+  - valstybė
 amziai:
   - 'XV'
 periodo_grupes:
@@ -43,7 +44,7 @@ canonical_biography: "Caras Ivanas Vasiljevičius savo užmačiomis nukreipė di
 
 ## Santrauka
 
-Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio Aleksandro dėmesį nuo Vilniaus gerovės. Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui. Ivanas Vasiljevičius laiške prisiskyrė Livonijos valdovo titulą, kurį karalius uždraudė minėti laiškuose.
+Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventojų gerove buvo nutrauktas grėsmingų caro Ivano Vasiljevičiaus užmačių. Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.
 
 ## Teiginiai
 

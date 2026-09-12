@@ -74,6 +74,32 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
   pagrindžia:
     - c-03535
 
+<a id="claim-t-205300"></a>
+- t-003
+  teiginys: "Juk, anot Henriko kronikos, iš jų buvo per tris dešimt kankinių, šio persekiojimo aukų."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-188041
+
+<a id="claim-t-205642"></a>
+- t-004
+  teiginys: "Teodoras Narbutas, remdamasis Henriko Latvio kronika, rašė, kad Rygoje buvo žinoma apie Lietuvos karines pajėgas, valdovų santarvę, vieningą valdžią pavojaus metu, pasienio institucijas ir patyrusius mūšiuose karius."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188257
+
 ## Citatos
 
 - id: c-03534
@@ -148,3 +174,48 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188041
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 264"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 264."
+  citata_originali: |
+    Juk, anot Henriko kronikos, iš jų buvo per tris­
+    dešimt kankinių, šio persekiojimo aukų.
+    Svetimtaučiai
+    pirkliai, likę vietoje, savo ¡saugumo dėlei turėjo mokėti
+    išpirką vyresnybei. Po to krikščionys buvo laikomi apsup­
+    tyje Ikškilės tvirtovėje, o tuo tarpu visur kaimuose visa,
+    kas ¡buvo krikščioniška, buvo sunaikinta.
+  citata_rodoma: "Juk, anot Henriko kronikos, iš jų buvo per tris­\ndešimt kankinių, šio persekiojimo aukų. \nSvetimtaučiai \npirkliai, likę vietoje, savo ¡saugumo dėlei turėjo mokėti \nišpirką vyresnybei. Po to krikščionys buvo laikomi apsup­\ntyje Ikškilės tvirtovėje, o tuo tarpu visur kaimuose visa, \nkas ¡buvo krikščioniška, buvo sunaikinta"
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003
+
+- id: c-188257
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 50"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 50."
+  citata_originali: |
+    Livonijos riteriai, užvaldę Livoniją, turėjo pakanka­
+    mai vargo su artimiausiais kaimynais ezeliečiais, estais,
+    rusinais, žemgaliais ir kuršiais, tad apie tolesnius užka­
+    riavimus nebuvo kada nė galvoti. Be to, dar, kaip kad
+    matėme iš Henriko Latvio kronikos, Rygoje buvo žinoma
+    Lietuvą'turint karines pajėgas ne iš paskutiniųjų, santar­
+    vėje gyvenant aukštuosius didikus, tai yra valdovus; ne­
+    gana to, pavojui atėjus, valdžia būdavo vieninga, turėjo
+    gerai organizuotas institucijas pasienio žemėse ir, kas
+    svarbiausia, ryžtingus bei patyrusius mūšiuose karius.
+  citata_rodoma: "Be to, dar, kaip kad \nmatėme iš Henriko Latvio kronikos, Rygoje buvo žinoma \nLietuvą'turint karines pajėgas ne iš paskutiniųjų, santar­\nvėje gyvenant aukštuosius didikus, tai yra valdovus; ne­\ngana to, pavojui atėjus, valdžia būdavo vieninga, turėjo \ngerai organizuotas institucijas pasienio žemėse ir, kas \nsvarbiausia, ryžtingus bei patyrusius mūšiuose karius."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

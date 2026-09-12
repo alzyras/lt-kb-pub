@@ -186,6 +186,19 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   pagrindžia:
     - c-184939
 
+<a id="claim-t-205147"></a>
+- t-009
+  teiginys: "Su užrašu: Pono Sventopelko iš Dancigo (DOMINI ZWANTOPOLE DE DANCEKE)."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-187860
+
 ## Citatos
 
 - id: c-13408
@@ -343,6 +356,27 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   patikimumo_saltinis: ai
   pagrindzia:
     - t-008
+
+- id: c-187860
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 444"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 444."
+  citata_originali: |
+    VI priedas
+    Pamario kunigaikščio Sventopelko raštas,
+    išduotas Dobrynės riteriams,
+    suteikiantis visišką laisvę jo žemėse.
+    Be datos (be abejo, 1228 metais). Su užrašu: Pono
+    Sventopelko iš Dancigo (DOMINI ZWANTOPOLE DE
+    DANCEKE).
+  citata_rodoma: "Be datos (be abejo, 1228 metais). Su užrašu: Pono \nSventopelko iš Dancigo (DOMINI ZWANTOPOLE DE \nDANCEKE)."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
 
 ## Ryšiai
 - Prekiavo su: [[objektai/vietos/Lietuva]]

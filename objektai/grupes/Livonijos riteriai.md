@@ -101,6 +101,19 @@ Narbutas, remdamasis Glumerio pastabomis, rašo, kad 1243 m. Livonijos riteriai 
   pagrindžia:
     - c-172367
 
+<a id="claim-t-205617"></a>
+- t-004
+  teiginys: "Užvaldę Livoniją, Livonijos riteriai kovojo su ezeliečiais, estais, rusinais, žemgaliais ir kuršiais, todėl tolesniems užkariavimams nebeliko laiko."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
+  pagrindžia:
+    - c-188232
+
 ## Citatos
 
 - id: c-172365
@@ -171,3 +184,27 @@ Narbutas, remdamasis Glumerio pastabomis, rašo, kad 1243 m. Livonijos riteriai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-188232
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 50"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 50."
+  citata_originali: |
+    Livonijos riteriai, užvaldę Livoniją, turėjo pakanka­
+    mai vargo su artimiausiais kaimynais ezeliečiais, estais,
+    rusinais, žemgaliais ir kuršiais, tad apie tolesnius užka­
+    riavimus nebuvo kada nė galvoti. Be to, dar, kaip kad
+    matėme iš Henriko Latvio kronikos, Rygoje buvo žinoma
+    Lietuvą'turint karines pajėgas ne iš paskutiniųjų, santar­
+    vėje gyvenant aukštuosius didikus, tai yra valdovus; ne­
+    gana to, pavojui atėjus, valdžia būdavo vieninga, turėjo
+    gerai organizuotas institucijas pasienio žemėse ir, kas
+    svarbiausia, ryžtingus bei patyrusius mūšiuose karius.
+  citata_rodoma: "Livonijos riteriai, užvaldę Livoniją, turėjo pakanka­\nmai vargo su artimiausiais kaimynais ezeliečiais, estais, \nrusinais, žemgaliais ir kuršiais, tad apie tolesnius užka­\nriavimus nebuvo kada nė galvoti."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004

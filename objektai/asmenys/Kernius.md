@@ -175,6 +175,18 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   pagrindžia:
     - c-184351
 
+<a id="claim-t-205345"></a>
+- t-008
+  teiginys: "Teodoras Narbutas teigia, kad Kernius užvaldė kraštą iki Latvijos, Zemgalos, Vakarinės Dauguvos ir Breslaujos žemių."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188146
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos.'
@@ -447,6 +459,27 @@ Kernius gavo valdyti Lietuvos žemes tarp Neries, Nevėžio ir Dauguvos. Kernius
   patikimumo_saltinis: ai
   pagrindzia:
     - t-007
+
+- id: c-188146
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 179"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 179."
+  citata_originali: |
+    Ten turėjo laimę užvaldyti plačiai nusidriekusį kraštą,
+    net iki Latvijos arba Zemgalos, Vakarinės Dauguvos ir
+    Breslaujos žemių1. Netrukus po rusinu užkariavimų lietu­
+    vių žemėse atėjo laikas ir šiems atsilyginti tuo pačiu. Tai
+    įgalino Kernių sukurti ten savo kariauną, įvesti savo
+    tvarką, vienu žodžiu, buvo padaryta pradžia atskiros Lie­
+    tuvos—Rusios Kunigaikštystės, kurios valdovu ir paveldė­
+    toju pasivadino jis pats.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
 
 ## Ryšiai
 - Dukterys: [[objektai/asmenys/Pajauta]]

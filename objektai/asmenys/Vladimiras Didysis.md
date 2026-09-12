@@ -35,11 +35,27 @@ Vladimiras Didysis pats išpažino ir netgi padidino garbinamų dievų skaičių
 
 Vladimiras Didysis pats išpažino ir netgi padidino garbinamų dievų skaičių, pridėdamas skolintą iš lietuvių Perkūną, kitaip vadintą Joviu Piorūnaičiu.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Vladimiras Didysis pats išpažino ir netgi padidino garbinamų dievų skaičių, pridėdamas skolintą iš lietuvių Perkūną, kitaip vadintą Joviu Piorūnaičiu.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
+<a id="claim-t-205284"></a>
+- t-001
+  teiginys: "Vladimiras Didysis pats išpažino ir netgi padidino garbinamų dievų skaičių, pridėdamas skolintą iš lietuvių Perkūną, kitaip vadintą Joviu Piorūnaičiu."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-188105
+
+## Citatos
+
+- id: c-188105
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 122"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 122."
   citata_originali: |
     Taigi jo
     sąžinė, dorumas ir senovės skandinavo bruožai vertė nau­
@@ -47,8 +63,10 @@ Vladimiras Didysis pats išpažino ir netgi padidino garbinamų dievų skaičių
     kurią jo protėviai pakentė, o jis pats išpažino ir netgi
     padidino garbinamų dievų skaičių, pridėdamas skolintą
     iš lietuvių Perkūną, kitaip vadintą Joviu Piorūnaičiu.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
+  pagrindzia:
+    - t-001

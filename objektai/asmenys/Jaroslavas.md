@@ -113,6 +113,19 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   pagrindžia:
     - c-184348
 
+<a id="claim-t-205686"></a>
+- t-005
+  teiginys: "Kunigaikštis Jaroslavas su tenykščiais riteriais patraukė į Estiją."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188301
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Plocko katedros klebonas Jaroslavas siejamas su kronika, kurioje vyskupas Kristijonas galėjo rasti Divonio kelionės aprašymą.'
@@ -276,6 +289,24 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
+
+- id: c-188301
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 97"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 97."
+  citata_originali: |
+    Lietuvių žygis į Rusią. 1234 metais kilo Li­
+    vonijos vokiečių vaidai su Didžiuoju Naugardu. Visi te­
+    nykščiai riteriai su kunigaikščiu Jaroslavu patraukė į Es­
+    tiją.
+  citata_rodoma: "Visi te­\nnykščiai riteriai su kunigaikščiu Jaroslavu patraukė į Es­\ntiją."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 ## Ryšiai
 - Jaroslavas buvo valdovas [[objektai/vietos/Kijevo Rusia]]

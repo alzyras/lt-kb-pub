@@ -4,8 +4,10 @@ pavadinimas: 'Palemonas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Lietuvių tautos istorija, t. 3'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+  - '„Mes, Lietuva.“ LDK bajorija XVI a.'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -36,7 +38,7 @@ canonical_biography: "Lietuvos metraščiuose sukurta Palemono legenda tapo liet
 
 ## Santrauka
 
-Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajorijos kilmės tradicijos pagrindu. Platesnysis Lietuvos metraščių sąvadas Palemoną vaizduoja kaip Nerono giminaitį ir į šiaurę pabėgusių romėnų „bajorų“ vadovą. Pasak Kojelavičiaus, Palemonas Lietuvoje nepanaikino daugelio dievų garbinimo ir senąsias apeigas papildė naujais prietarais.
+Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legenda tapo pagrindu ne tik lietuvių, bet ir rusėnų bajorijai vesti savo kilmę Palemono tradicija arba sieti save su realia Gediminaičių dinastija. Bychovco kronikos legendinėje kilmės istorijoje Palemonas vaizduojamas kaip imperatoriaus Nerono giminaitis ir romėnų „bajorų“ vedlys.
 
 ## Teiginiai
 
@@ -134,6 +136,45 @@ Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajo
   pagrindžia:
     - c-171491
 
+<a id="claim-t-205295"></a>
+- t-006
+  teiginys: "Dažną kartą ir kiekvieno ¡kronikininko kartojamas pasakojimas apie keleto šimtų aukštos kilmės riterių, vadovaujamų žymaus vado, pra minto Palemonu, atvykimą iš šiaurės rytų pusės j Lietu vos kraštus."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187668
+
+<a id="claim-t-205402"></a>
+- t-007
+  teiginys: "Visiškai galime patikėti spėji mu, tarę, kad šis Palemonas kartu su savo draugais, ¡ku rių buvo penki šimtai, — tai ne kas kita, o herulai, dar išlikę kitoje Oderio pusėje ar kur nors arčiau ir vėliau priversti vykti pas savo giminaičius lietuvius."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188071
+
+<a id="claim-t-205425"></a>
+- t-008
+  teiginys: "Kronikos Palemoną mini kaip pradininką garsios ku nigaikščių giminės, kuri tos šalies papročiu turėjo pavel dimas didžiules žemių valdas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188034
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Platesnysis Lietuvos metraščių sąvadas Palemoną vaizduoja kaip Nerono giminaitį ir į šiaurę pabėgusių romėnų „bajorų“ vadovą.'
@@ -169,6 +210,20 @@ Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajo
     ninko Juozapo Januškevičiaus sode buvo žinoma visiems to kraš­
     to gyventojams. Amžiną atilsį Raseinių maršalka Jurgis Plioteris
     turėjo keletą tokių auksinių monetų.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-009
+  santrauka: 'M. Stryjkovskis LDK karių didvyrių, vadinamų riteriais, portretų galeriją pradeda nuo legendinių Palemono ir jo bendražygių palikuonių.'
+  šaltinis: 02-kiaupiene-mes-lietuva-ldk-bajorija
+  citata_originali: |
+    Lietuvos Didžiosios Kunigaikštystės karių didvyrių, vadinamų riteriais, portretų
+    galeriją M. Stryjkovskis pradeda nuo legendinių Palemono ir jo bendražygių palikuo-
+    nių, „Dorybės pasiuntinyje" vadindamas riteriais tuos legendinius lietuvių kunigaikščius,
+    kurie įrodė savo narsumą. Vienas tokių buvo Germantas. Po Šventaragio mirties ka-
+    ruose su Rusia ir Kryžiuočiais jis narsa įrodė esąs riteris (šalt.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -292,6 +347,81 @@ Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-005
+
+- id: c-187668
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 131"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 131."
+  citata_originali: |
+    Apie Palemono atvykimą. Dažną kartą ir kiekvieno
+    ¡kronikininko kartojamas pasakojimas apie keleto šimtų
+    aukštos kilmės riterių, vadovaujamų žymaus vado, pra­
+    minto Palemonu, atvykimą iš šiaurės rytų pusės j Lietu­
+    vos kraštus. Tai turėjo 'būti romėnai, tačiau jų herbai ir
+    giminės vardai ibei perdėtas tų atvykėlių kilmės aukšti­
+    nimas išduoda kronikininko ¡siekimą Lietuvos didikų kil­
+    mę susieti su garbinga senove, nors ir nusižengiant tie­
+    sai, kurios kadaise legendose buvo laikomasi.
+  citata_rodoma: "Dažną kartą ir kiekvieno \n¡kronikininko kartojamas pasakojimas apie keleto šimtų \naukštos kilmės riterių, vadovaujamų žymaus vado, pra­\nminto Palemonu, atvykimą iš šiaurės rytų pusės j Lietu­\nvos kraštus."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
+- id: c-188034
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 134"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 134."
+  citata_originali: |
+    Kronikos Palemoną mini kaip pradininką garsios ku­
+    nigaikščių giminės, kuri tos šalies papročiu turėjo pavel­
+    dimas didžiules žemių valdas. Jo gyvenimo laikmetį pa­
+    lyginusios su chronologinių įvykių seka, kronikos nustatė
+    buvus tai X amžiaus antrojoje pusėje. Pateikiame Pale­
+    mono palikuonių genealoginę lentelę, paimtą iš Rotundo
+    parašytos Lietuvos istorijos likučių, išsaugotų Vokiečių
+    kronikoje J. F. R. Be abejonės, šios lentelės autorius pri­
+    valėjo po ranka turėti šaltinius, kurių istorinė tiesa pati­
+    kima, nes taisoma ir kur Strijkovskio buvo suklupta, ir
+    kur buvo pripainiojęs savo pataisomis Kojalavičius, tad
+    ji nurodo mums kelią, vedantį prie tokios chronologijos,
+    kuri labiausiai atitinka Lietuvos istorijos įvykių raidą.
+  citata_rodoma: "Kronikos Palemoną mini kaip pradininką garsios ku­\nnigaikščių giminės, kuri tos šalies papročiu turėjo pavel­\ndimas didžiules žemių valdas. Jo gyvenimo laikmetį pa­\nlyginusios su chronologinių įvykių seka, kronikos nustatė \nbuvus tai X amžiaus antrojoje pusėje."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
+- id: c-188071
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 132"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 132."
+  citata_originali: |
+    Turime ir mitologinį padavimą apie
+    šį vyrą (šio veikalo I tomo str. „Palemonas“ — P. 166—
+    168), yra ir nuostabi vietovė, tą patį mums menanti, tad
+    nėra ko čia romėnų velti. Visiškai galime patikėti spėji­
+    mu, tarę, kad šis Palemonas kartu su savo draugais, ¡ku­
+    rių buvo penki šimtai, — tai ne kas kita, o herulai, dar
+    išlikę kitoje Oderio pusėje ar kur nors arčiau ir vėliau
+    priversti vykti pas savo giminaičius lietuvius. Atvyko jie
+    taikiai, nieko neužpuldinėdami, norėdami tik vietą gy­
+    venvietei surasti, ir, iš čiabuvių nepatirdami jokių kliū­
+    čių, čia įsikūrė.
+  citata_rodoma: "Visiškai galime patikėti spėji­\nmu, tarę, kad šis Palemonas kartu su savo draugais, ¡ku­\nrių buvo penki šimtai, — tai ne kas kita, o herulai, dar \nišlikę kitoje Oderio pusėje ar kur nors arčiau ir vėliau \npriversti vykti pas savo giminaičius lietuvius. Atvyko jie \ntaikiai, nieko neužpuldinėdami, norėdami tik vietą gy­\nvenvietei surasti, ir, iš čiabuvių nepatirdami jokių kliū­\nčių, čia įsikūrė."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Spera Palemonaitis]]

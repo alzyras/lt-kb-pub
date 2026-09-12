@@ -410,6 +410,32 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   pagrindžia:
     - c-171576
 
+<a id="claim-t-206465"></a>
+- t-021
+  teiginys: "Pasak Teodoro Narbuto, didysis kunigaikštis su motina ir broliais visam laikui perleido Vokiečių ordinui vakarinę Žemaitijos dalį, kurios riba siekė Dubysos žiotis."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189080
+
+<a id="claim-t-206466"></a>
+- t-022
+  teiginys: "Pasak Teodoro Narbuto, rugpjūčio 15 d. Dubysos saloje vykusiame suvažiavime lietuviams atstovavo abu didieji kunigaikščiai – Vytautas ir Skirgaila, o Ordinui – maršalka Verneris Tetingenas su vyresniaisiais."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189081
+
 ## Citatos
 
 - id: c-37358
@@ -818,3 +844,46 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
   patikimumo_saltinis: ai
   pagrindzia:
     - t-020
+
+- id: c-189080
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 286-287"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 286-287."
+  citata_originali: |
+    Di­
+    dysis kunigaikštis su savo motina ir broliais visiems laikams
+    perleidžia Vokiečių ordino priklausomybėn ir nuosavybėn va­
+    karinę Žemaitijos dalį, Nemuno vaga jo žemupyje atskirtą nuo
+    288
+
+    Šalavijos, einant aukštyn dešiniuoju krantu net iki Dubysos
+    žiočių, einant dešiniuoju šios upės krantu, taip pat aukštyn iki
+    jos versmių ir Kuršo sienos, tad kas yra tarp tų sienų linijos ir
+    ordino pakraščio - pilys, miestai, valsčiai ir visas šalies plotas
+    turi priklausyti ordinui, be jokio vėliau ir visais laikais kieno
+    nors iš Lietuvos ir viešpataujančios giminės kišimosi
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-021
+
+- id: c-189081
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 431"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 431."
+  citata_originali: |
+    Susitarta svarstyti šiuos reikalus. Rugpjūčio 15 die­
+    ną Dubysos saloje įvyko suvažiavimas; lietuviams atstovavo
+    abu didieji kunigaikščiai: Lietuvos ir Žemaitijos - Vytautas,
+    Rusios - Skirgaila1 2; ordinui - maršalka Verneris Tetingenas,
+    lydimas kai kurių vyresniųjų.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-022

@@ -27,34 +27,41 @@ media_all_json: |-
 
 Pskoviečiai pasiuntiniais paprašė Vytauto būti jų valdovu, žadėdami jo klausyti, mokėti duoklę ir įsileisti jo vietininką. Pskoviečiai Vytautui kasmet duodavo pusę tos duoklės, kurią naugardiečiai mokėjo auksu, žirgais ir kailiais.
 
-## Reikšmingi paminėjimai
-- c-002
-  santrauka: 'Pskoviečiai Vytautui kasmet duodavo pusę tos duoklės, kurią naugardiečiai mokėjo auksu, žirgais ir kailiais.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ir davė naugardiečiai didžiajam kunigaikščiui Vy­
-    tautui kiekvienais metais duoklės po dešimt tūkstančių
-    auksinų 1 0  ir keturias dešimtis sunkiųjų žirgų, kuriuos
-    dabar vadina fryzais, ir keturias dešimtis kailinių, ir
-    devynias galybes sabalų, ir lūšių, ir kiaunių, ir lapių,
-    ir šermuonėlių, ir voverių kailių. Mokėjo naugardie­
-    čiai šitiek į Lietuvos didžiojo kunigaikščio Vytauto
-    iždą kiekvienais metais, o pskoviečiai davė pusė to,
-    ką davė naugardiečiai, tiek auksu ir žirgais, tiek kai­
-    liais ".
-    Didysis kunigaikštis Vytautas, išplėtęs valstybę nuo
-    jūros ligi jūros l2 , gyveno daug metų ir buvo tris kar­
-    tus vedęs 1 3 : pirmą kartą su Ona, Smolensko kunigaikš­
-    čio Svetoslavo dukra l< ; antrą kartą su Lukomlio ir
-    Starodubo kunigaikščio Andrejaus 1 5  dukterimi Mari­
-    ja '6 ; ir trečią kartą su Julijona, kunigaikščio Jono Al-
-    gimantaičio Alšėniškio dukra I7 , o kunigaikščių Simono
-    Rūsčiojo ir Viazino 1 8  Andrejaus dukterėčia.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
+## Teiginiai
+
+<a id="claim-t-187768"></a>
+- t-001
+  teiginys: "Pskoviečiai Vytautui kasmet duodavo pusę tos duoklės, kurią naugardiečiai mokėjo auksu, žirgais ir kailiais."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Didžiojo Naugardo respublika: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pskoviečiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Didžiojo Naugardo respublika: mention_match, group, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pskoviečiai\" parinktas kaip owner_note_path. Targetas \"Didžiojo Naugardo respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  pagrindžia:
+    - c-170707
+
+<a id="claim-t-205624"></a>
+- t-002
+  teiginys: "Po ankstesnių plėšikavimų, kaip aprašo Teodoras Narbutas, Daumantas su 180 pskoviečių raitelių liepos 18 d. po persikėlimo per Dauguvą sustojo pailsėti, o pskoviečius užpuolęs Gerdenis mūšį pralaimėjo ir vos išsigelbėjo."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
+  pagrindžia:
+    - c-188239
+
 ## Citatos
 
 - id: c-170706
@@ -89,6 +96,66 @@ Pskoviečiai pasiuntiniais paprašė Vytauto būti jų valdovu, žadėdami jo kl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+- id: c-170707
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Ir davė naugardiečiai didžiajam kunigaikščiui Vy­
+    tautui kiekvienais metais duoklės po dešimt tūkstančių
+    auksinų 1 0  ir keturias dešimtis sunkiųjų žirgų, kuriuos
+    dabar vadina fryzais, ir keturias dešimtis kailinių, ir
+    devynias galybes sabalų, ir lūšių, ir kiaunių, ir lapių,
+    ir šermuonėlių, ir voverių kailių. Mokėjo naugardie­
+    čiai šitiek į Lietuvos didžiojo kunigaikščio Vytauto
+    iždą kiekvienais metais, o pskoviečiai davė pusė to,
+    ką davė naugardiečiai, tiek auksu ir žirgais, tiek kai­
+    liais ".
+    Didysis kunigaikštis Vytautas, išplėtęs valstybę nuo
+    jūros ligi jūros l2 , gyveno daug metų ir buvo tris kar­
+    tus vedęs 1 3 : pirmą kartą su Ona, Smolensko kunigaikš­
+    čio Svetoslavo dukra l< ; antrą kartą su Lukomlio ir
+    Starodubo kunigaikščio Andrejaus 1 5  dukterimi Mari­
+    ja '6 ; ir trečią kartą su Julijona, kunigaikščio Jono Al-
+    gimantaičio Alšėniškio dukra I7 , o kunigaikščių Simono
+    Rūsčiojo ir Viazino 1 8  Andrejaus dukterėčia.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
+
+- id: c-188239
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 213"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 213."
+  citata_originali: |
+    Tas poelgis ir
+    pats jaunasis karys taip patiko žmonėms, kad visuotinia­
+    me susirinkime buvo nuspręsta išrinkti jį kunigaikščiu
+    arba, kitaip sakant, Respublikos karinių pajėgų vadu, net
+    be kunigaikščio Jaroslavo žinios. Daumantas pasinau­
+    dojo ta valdžia savo priešams tėvynėje įveikti: įsiveržęs
+    anapus Dauguvos, žiauriai kariaudamas užėmė pasienio
+    pavietą, be abejonės, Dusetų, kur valdžią turėjo tenykštis
+    kunigaikštis, vadintas Gerdeniu; jis buvo kilęs iš kuni­
+    gaikščių giminės, sūnus kažkokio Dovilo, ir buvo prisi­
+    dėjęs prie Mindaugo žudikų1. Po tų plėšikavimų, kai
+    Daumantas su 180 pskoviečių raitelių, persikėlęs atga­
+    lios per Dauguvą, liepos 18 dieną įsikūrė pailsėti, mi­
+    nėtasis Gerdenis pavijęs puolė juos, tačiau suvis pralai­
+    mėjo mūšį ir vos pats išsigelbėjo sėkmingai persikėlęs
+    per Dauguvą.
+  citata_rodoma: "Po tų plėšikavimų, kai \nDaumantas su 180 pskoviečių raitelių, persikėlęs atga­\nlios per Dauguvą, liepos 18 dieną įsikūrė pailsėti, mi­\nnėtasis Gerdenis pavijęs puolė juos, tačiau suvis pralai­\nmėjo mūšį ir vos pats išsigelbėjo sėkmingai persikėlęs \nper Dauguvą."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Pskoviečiai keliavo į [[objektai/vietos/Vilnius]]

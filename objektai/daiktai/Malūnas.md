@@ -93,4 +93,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Malūnas priklausė [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Mikalojus Radvila]]
+- Malūnas priklausė [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila (valdovas, XVI a.)]]

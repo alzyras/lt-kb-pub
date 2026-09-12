@@ -36,11 +36,31 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Veikiai Boleslovas Narsusis išsiuntė pasiuntinius į Prū siją su pasiūlymu grąžinti šventojo palaikus.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
+<a id="claim-t-205131"></a>
+- t-001
+  teiginys: "Veikiai Boleslovas Narsusis išsiuntė pasiuntinius į Prū siją su pasiūlymu grąžinti šventojo palaikus."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-188170
+
+## Santrauka
+
+Veikiai Boleslovas Narsusis išsiuntė pasiuntinius į Prū siją su pasiūlymu grąžinti šventojo palaikus.
+
+## Citatos
+
+- id: c-188170
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 143"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 143."
   citata_originali: |
     Veikiai Boleslovas Narsusis išsiuntė pasiuntinius į Prū­
     siją su pasiūlymu grąžinti šventojo palaikus. Prūsai pa­
@@ -49,11 +69,10 @@ Nenurodyta
     kitaip tariant, relikvijos, ¡buvo palaidota Tšemešne, au­
     gustinų vienuolyne1, ir vėliau su didžiulėmis iškilmėmis
     pargabenta į Gnezną.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-Veikiai Boleslovas Narsusis išsiuntė pasiuntinius į Prū siją su pasiūlymu grąžinti šventojo palaikus.
+  pagrindzia:
+    - t-001

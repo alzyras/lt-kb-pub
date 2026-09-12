@@ -40,11 +40,31 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Prie Gaujos upės (tai dabar turėtų būti vadinamoji Aa), susivieniję su žemgaliais, padalijo kariauną į dvi dalis — vieną, vado vaujamą ištikimojo latvio Kaupo, ir kitą, kuri pasuko Dabrelės pilies link.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
+<a id="claim-t-205297"></a>
+- t-001
+  teiginys: "Prie Gaujos upės (tai dabar turėtų būti vadinamoji Aa), susivieniję su žemgaliais, padalijo kariauną į dvi dalis — vieną, vado vaujamą ištikimojo latvio Kaupo, ir kitą, kuri pasuko Dabrelės pilies link."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-188141
+
+## Santrauka
+
+Prie Gaujos upės (tai dabar turėtų būti vadinamoji Aa), susivieniję su žemgaliais, padalijo kariauną į dvi dalis — vieną, vado vaujamą ištikimojo latvio Kaupo, ir kitą, kuri pasuko Dabrelės pilies link.
+
+## Citatos
+
+- id: c-188141
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 280"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 280."
   citata_originali: |
     Po to rygiečiai, žinodami apie
     M-ną žemgalių nesantaiką su Turaidos apylinkių gyven­
@@ -61,11 +81,10 @@ Nenurodyta
     loji pilis buvo užimta šturmu. Vis dėlto nuo Dabrelės su
     nuostoliais nuginęs puolančiuosius, neleido užimti savo­
     sios pilies.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-Prie Gaujos upės (tai dabar turėtų būti vadinamoji Aa), susivieniję su žemgaliais, padalijo kariauną į dvi dalis — vieną, vado vaujamą ištikimojo latvio Kaupo, ir kitą, kuri pasuko Dabrelės pilies link.
+  pagrindzia:
+    - t-001

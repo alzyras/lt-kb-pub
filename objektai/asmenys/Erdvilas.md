@@ -4,7 +4,10 @@ pavadinimas: 'Erdvilas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Daukantas, Istorija žemaitiška, t.1, 1995'
+  - 'Lietuvių tautos istorija, t. 3'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.)'
+  - '„Mes, Lietuva.“ LDK bajorija XVI a.'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -88,6 +91,84 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   pagrindžia:
     - c-184333
 
+<a id="claim-t-205056"></a>
+- t-005
+  teiginys: "Erdvilas kildino iš Graužos — lietuvių vado, žymaus Erdvilo kario."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187932
+
+<a id="claim-t-205084"></a>
+- t-006
+  teiginys: "Erdvilo gyvenimas nutrūko 1089 metais (genealog."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188167
+
+<a id="claim-t-205219"></a>
+- t-007
+  teiginys: "Narbutas teigia, kad kunigaikštis Erdvilas Graužanskių giminės pradininkui vadui Graužini dovanojo Graužiškes Ašmenos paviete."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T21:22:05Z"
+  pagrindžia:
+    - c-187772
+
+<a id="claim-t-205268"></a>
+- t-008
+  teiginys: "Tai bu vo ne kas kitas kaip tik Mantvilos sūnus Erdvilas, žino mas tuo metu respublikoniškoje Lietuvoje tokiu titulu."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187694
+
+<a id="claim-t-205498"></a>
+- t-009
+  teiginys: "Erdvilas neabejotinai buvo Neromos ir Peluzijos išvaduo tojas iš jas užvaldžiusių Rusios kunigaikščių jungo."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187889
+
+<a id="claim-t-205669"></a>
+- t-010
+  teiginys: "Erdvilas viešpatavo Lietuvos žemėse palei Nerį ir gyveno Naujapilyje, kurį Teodoras Narbutas tapatina su Lietuvos Naugarduku."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-188284
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Erdvilas atsisakė mokėti skitams duoklę, paskelbė karą ir jų kunigaikščiui įteikė dvi strėles.'
@@ -126,6 +207,43 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     Gorodcu4. Polocko vyrai, stoję savo pulkais, pasitiko
     juos prie Gorodco, ir pradėjo vieni su kitais smarkiai
     kautis ir kapotis.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-008
+  santrauka: 'Erdvilas, trims žymiausiems karo vadams išdalijęs pasie nio žemes, matyt, norėjo įtvirtinti priklausomybę to iš Rusios kunigaikščių atgauto krašto, juoba kad tie vadai gerai tiko saugoti sieną.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
+  citata_originali: |
+    Jų buvimo vietą dar ir dabar primena Aš­
+    menos pavieto, į pietus nuo Ašmenos, tarp Ašmenos ir
+    Eišiškių, ten, kur buvo senoji Neroma, esantis Graužiškių
+    miestelis. Mūsų nurodytoji kronika iš šių vadų kildina
+    Lietuvos garsiųjų didikų gimines: iš Grumbio — Goštau­
+    tus', iš Eikšos — Davainas, iš Griaužio •— Montvydus4.
+    Erdvilas, trims žymiausiems karo vadams išdalijęs pasie­
+    nio žemes, matyt, norėjo įtvirtinti priklausomybę to iš
+    Rusios kunigaikščių atgauto krašto, juoba kad tie vadai
+    gerai tiko saugoti sieną.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+- c-011
+  santrauka: 'Radvilų giminės kilmė šaltinyje siejama su kunigaikščio Erdvilo palikuonimis.'
+  šaltinis: 02-kiaupiene-mes-lietuva-ldk-bajorija
+  citata_originali: |
+    - Ejksi-
+    sowi zaś, który na ruskiej wyprawie I Czynił jak hetmaniijak rycerz w każdej sprawie, I
+    Dałmu ten wszystek okrąg, który tak dziś zową Ejkszyszkami z Ejksisa, został jego głową
+    15).
+    Riteriškumas, kaip labai svarbus bruožas, pabrėžiamas pasakojimuose apie žymiau-
+    sių Lietuvos Didžiosios Kunigaikštystės didikų giminių atsiradimą. Kildindamas Radvilų
+    giminę iš kunigaikščio Erdvilo palikuonių, mūsų poetas ir istorikas pabrėžia, kad jo sūnus
+    Radvila, į tėvą narsumu panašėjęs, kaip ir tėvas riterišką amatą puoselėjęs (šalt.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -210,3 +328,130 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
+
+- id: c-187694
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 192"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 192."
+  citata_originali: |
+    Tai bu­
+    vo ne kas kitas kaip tik Mantvilos sūnus Erdvilas, žino­
+    mas tuo metu respublikoniškoje Lietuvoje tokiu titulu.
+    Vedęs jis buvo Gertrūdą, pasak rusų metraštininkų, be­
+    laisvę iš Lenkijos.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
+- id: c-187772
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 468"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 468."
+  citata_originali: |
+    XIII priedas
+    Apie bajoro Graužos kilmę
+    Neturtingas Naugarduko apskrities bajoras Antanas,
+    Jono sūnus, Petro anūkas, Mikalojaus proanūkis, Aleksan­
+    dro proproanūkis, Gardino deputacijai pateikė savo kil­
+    mės dokumentus. Jo pavardė buvo GraužanovskisSavo
+    giminę jis kildino iš Graužos — lietuvių vado, žymaus Erd­
+    vilo kario. Kaip įrodymą pateikė privilegiją, kuria jo protė­
+    viui mainais už Graužiškes Ašmenos paviete (jas kunigaikš­
+    tis.i Erdvilas buvo dovanojęs Graužanskių giminės pradinin­
+    kui vadui Graužini) buvo dovanotas Mlinkų kaimas Nau­
+    garduko paviete.
+  citata_rodoma: "Kaip įrodymą pateikė privilegiją, kuria jo protė­\nviui mainais už Graužiškes Ašmenos paviete (jas kunigaikš­\ntis.i Erdvilas buvo dovanojęs Graužanskių giminės pradinin­\nkui vadui Graužini) buvo dovanotas Mlinkų kaimas Nau­\ngarduko paviete."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
+- id: c-187889
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 185"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 185."
+  citata_originali: |
+    Peluzijos ir Neromos atgavimas Erdvilo dėka.
+    Erdvilas neabejotinai buvo Neromos ir Peluzijos išvaduo­
+    tojas iš jas užvaldžiusių Rusios kunigaikščių jungo. Pas­
+    tarieji po Vladimiro Didžiojo sūnaus Jaroslavo mirties,
+    kaip palikuonys skirstydamiesi turtus, ¡buvo nelygiai išsi­
+    daliję tėvonines ir užkariautas žemes.
+  citata_rodoma: "Erdvilas neabejotinai buvo Neromos ir Peluzijos išvaduo­\ntojas iš jas užvaldžiusių Rusios kunigaikščių jungo. Pas­\ntarieji po Vladimiro Didžiojo sūnaus Jaroslavo mirties, \nkaip palikuonys skirstydamiesi turtus, ¡buvo nelygiai išsi­\ndaliję tėvonines ir užkariautas žemes."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009
+
+- id: c-187932
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 468"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 468."
+  citata_originali: |
+    kaukolės, taip ir kitoks ženklas ant karties galėjo reikšti
+    ką nors kita.
+    XIII priedas
+    Apie bajoro Graužos kilmę
+    Neturtingas Naugarduko apskrities bajoras Antanas,
+    Jono sūnus, Petro anūkas, Mikalojaus proanūkis, Aleksan­
+    dro proproanūkis, Gardino deputacijai pateikė savo kil­
+    mės dokumentus. Jo pavardė buvo GraužanovskisSavo
+    giminę jis kildino iš Graužos — lietuvių vado, žymaus Erd­
+    vilo kario.
+  citata_rodoma: "Savo \ngiminę jis kildino iš Graužos — lietuvių vado, žymaus Erd­\nvilo kario."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
+- id: c-188167
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 190"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 190."
+  citata_originali: |
+    Erdvilo gyvenimas nutrūko 1089 metais (genealog.
+    lent. Nr. 1). Jis paliko vienintelį sūnų, istorijoje žinomą
+    Mingailos vardu, jau su Lietuvos kunigaikščio valdžia ir
+    titulu, paveldėjusį didžiules iš Rusios atgautas valdas
+    Aukštaitijoje.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
+- id: c-188284
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 111"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 111."
+  citata_originali: |
+    Rimgaudo mirtis. Netrukus po to įvykio didy­
+    sis kunigaikštis Rimgaudas baigė savo gyveninio dienas
+    ir paliko valstybę dvejetui sūnų, kurie ją pasidalijo,
+    nė vienas, kad nepažeistų valdžios lygybės, neprisiimda-
+    mas didžiojo kunigaikščio titulo. Erdvilas viešpatavo Lie­
+    tuvos žemėse palei Nerį ir gyveno Naujapilyje, tai yra Lie­
+    tuvos Naugarduke.
+  citata_rodoma: "Erdvilas viešpatavo Lie­\ntuvos žemėse palei Nerį ir gyveno Naujapilyje, tai yra Lie­\ntuvos Naugarduke."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010

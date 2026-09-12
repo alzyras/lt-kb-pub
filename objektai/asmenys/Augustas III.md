@@ -5,9 +5,8 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
-datos:
-  - '1631 m.'
-date_start: '1631'
+datos: []
+date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
@@ -15,10 +14,8 @@ tags:
   - asmuo
   - karalius
   - kunigaikštis
-amziai:
-  - 'XVII'
-periodo_grupes:
-  - 'LDK'
+amziai: []
+periodo_grupes: []
 media_total_count: '1'
 media_primary_thumb_url: 'https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Flib.is%2FIE4877207%2Fstream%3Fquality%3DLOW&type=IMAGE'
 media_primary_canonical_url: 'https://www.europeana.eu/item/2024903/photography_ProvidedCHO_KU_Leuven_9980787480101488'

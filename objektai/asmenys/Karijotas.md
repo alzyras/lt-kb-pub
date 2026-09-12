@@ -90,6 +90,58 @@ Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie
   pagrindžia:
     - c-178740
 
+<a id="claim-t-205692"></a>
+- t-004
+  teiginys: "Karijotas, antrasis sūnus, gimė 1301 m. ir gavo Naugarduką."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188307
+
+<a id="claim-t-205693"></a>
+- t-005
+  teiginys: "Teodoras Narbutas daro išvadą, kad tais metais Karijotas gavo kunigaikštystę."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188308
+
+<a id="claim-t-206319"></a>
+- t-006
+  teiginys: "Teodoras Narbutas Karijotą įvardija kaip didžiojo kunigaikščio brolį ir pasiuntinybės pas chaną Džanibeką vadovą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188934
+
+<a id="claim-t-206320"></a>
+- t-007
+  teiginys: "Teodoras Narbutas rašo, kad didysis kunigaikštis Gediminas Karijoto sūnums Jurgiui, Aleksandrui, Konstantinui ir Teodorui nurodė siekti valdų Podolėje."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188935
+
 ## Citatos
 
 - id: c-30227
@@ -174,6 +226,116 @@ Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-188307
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 485"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 485."
+  citata_originali: |
+    čiaus dukteriai, 1299 metais gimė Liubartas, gavęs Vla­
+    dimiro1 krikšto vardą; Voluinės kunigaikštis, buvo vedęs
+    Bučią Vladimirovną,
+    tos
+    kunigaikštystės paveldėtoją. 1
+    Antrasis sūnus Karijotas, gimęs 1301 metais, gavo Nau­
+    garduką. Sename Lauriševo vienuolyno mišiole, kurį vie-j
+    progą pakariauti, nes jau buvo baigęs viską nukariauti ir pažeminęs
+    visus kaimynus monarchus, kuriuos tik norėjo, o galbūt tik todėl,
+    kad riteriai veltui neleistų laiko.
+  citata_rodoma: "Antrasis sūnus Karijotas, gimęs 1301 metais, gavo Nau­\ngarduką."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-188308
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 486"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 486."
+  citata_originali: |
+    nuoliai padovanojo kunigaikščiui Adomui Čartoriskiui
+    (1822 m.), tarp kitų paraštėje yra pastaba: ,,1329 m.
+    Naugarduko kunigaikščio karūnavimas.“ Iš to matyti,
+    kad tais metais Karijotas .gavo kunigaikštystę.
+  citata_rodoma: "Iš to matyti, \nkad tais metais Karijotas .gavo kunigaikštystę."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
+- id: c-188934
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 96-97"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 96-97."
+  citata_originali: |
+    Per pastaruosius trejus Dusmerio val­
+    dymo metus su kryžiuočiais susidūrimų nebuvo; taigi didysis
+    kunigaikštis galėjo savo dėmesį ir karo žygius nukreipti į kitą
+    šalį. Betgi prieš tai reikėjo atnaujinti artimesnius ryšius su toto­
+    riais; tad tučtuojau, aprimęs dėl kryžiuočių, išleido pas chaną
+    Džanibeką iškilmingą pasiuntinybę, kuriai vadovavo didžiojo
+    98
+
+    kunigaikščio brolis Karijotas
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
+- id: c-188935
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 106-107"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 106-107."
+  citata_originali: |
+    Tos žemės, be valdovo, be valdžios ir paliktos tiesiog
+    pačios sau, tik dėl derlingumo ir švelnaus klimato žmonėms
+    patikusios, jau seniau buvo patraukusios didžiojo kunigaikš­
+    čio Gedimino dėmesį, juk jis prieš keliolika metų savo vaikai­
+    čiams, Karijoto sūnums - Jurgiui, Aleksandrui, Konstantinui1 2
+    ir Teodorui, buvo nurodęs siekti įsigyti valdų erdviame Podo­
+    lės krašte, kartkartėmis perbėgamame totorių duoklės rinkė -
+    1 Kad Podolę, tikriausiai jos dalį arčiausiai Dnestro, Lenkijos karalius
+    Kazimieras Didysis buvo užkariavęs, liudija Kazimiero Jogailaičio laikų
+    Lenkijos senatorių kalbos seimuose (Albertrandi. Panowanie Kazimierza. -
+    T. I. - S. 67, 68*). Tačiau tuo laikotarpiu, apie kurį kalbama, tas kraštas
+    valdovo neturėjo.
+    2 Tasai kunigaikštis Konstantinas savo laikais, ko gero, buvęs neeilinis
+    žmogus, jei karalius Kazimieras Didysis kvietėsi jį į Krokuvą, norėdamas
+    sosto paveldėtoju pasiskirti, ko pastarasis turėjo atsisakyti, nes nenorėjo
+    rusų tikėjimo išsižadėti (Rankraštinė Lietuvos (Bychovco) kronika. - P. 36).
+    Kojalavičius nurodo 1339 metus (p. 196). Tačiau jo chronologija klaidinga.
+    Karalius Kazimieras buvo dar jaunas, vos trisdešimtuosius metus prade­
+    dantis (gimė 1310 metais, Secund. Kalen. Maii, tai yra prieš dvi dienas iki
+    gegužės kalendų), nors 1339 metų birželio 28 dieną netekęs pirmosios žmo­
+    nos Onos, turėjo užtektinai laiko galvoti apie kitas vedybas. Ši klaida galėjo
+    įsivelti dėl to, kad tarsi suvažiavime ar Krokuvos seime 1389 metais kara­
+    lius savo seserėną Liudviką iš Vengrijos pripažino sosto paveldėtoju tuo
+    atveju, jei neturėtų vyriškos lyties palikuonių. Galėjo tam tikti seserėnas,
+    bet ne svetimas kunigaikštis. Betgi žinoma, kad Santako seime 1355 metais
+    Liudvikas buvo viešai pripažintas paveldėtoju (Naruszevvicz. -T. VI.-S. 258).
+    Tad Konstantinas turėjo būti lankęsis Krokuvoje prieš pat tuos metus. Ir,
+    ko gero, pačių draugiškiausių santykių su Lietuva laikais, tikriausiai po 1351
+    metų. Buvo jis karaliaus Kazimiero giminaitis pagal žmoną Oną, kurios
+    sūnėnu jis galėjo būti.
+    108
+
+    jų ar periodiškai pasirodančių lupikautojų
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Teodoras (Karijoto sūnus)]]

@@ -58,6 +58,19 @@ Narbutas rašė, kad Biarmijos, arba Permės, raidyno pėdsakų buvo aptikta lie
   pagrindžia:
     - c-171813
 
+<a id="claim-t-205322"></a>
+- t-002
+  teiginys: "Pirmieji rašmenys buvo lapidariniai, kitaip sakant, raižiniai ant akmenų ir vartojami kas dieniniams reikalams, kiti atsirado numizmatiniuose da lykuose ir turbūt paskatinti ryšių su Biarmija."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-188118
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad Biarmijos, arba Permės, raidyno pėdsakų buvo aptikta lietuvių žemėje ir kad senovės lietuviai naudojosi tomis raidėmis.'
@@ -147,3 +160,25 @@ Narbutas rašė, kad Biarmijos, arba Permės, raidyno pėdsakų buvo aptikta lie
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188118
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 419"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 419."
+  citata_originali: |
+    maldos dievams, kreipimaisi į nemirtingąsias būtybes,
+    joms išsakomos godos. Pirmieji rašmenys buvo lapidari-
+    niai, kitaip sakant, raižiniai ant akmenų ir vartojami kas­
+    dieniniams reikalams, kiti atsirado numizmatiniuose da­
+    lykuose ir turbūt paskatinti ryšių su Biarmija. Trečiąjį
+    raštą reikėtų pavadinti dvasininkiškuoju, kitaip sakant,
+    skirtu šventiems dalykams, kurį tikriausiai mokėjo ir var­
+    tojo patys žyniai.
+  citata_rodoma: "Pirmieji rašmenys buvo lapidari- \nniai, kitaip sakant, raižiniai ant akmenų ir vartojami kas­\ndieniniams reikalams, kiti atsirado numizmatiniuose da­\nlykuose ir turbūt paskatinti ryšių su Biarmija."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

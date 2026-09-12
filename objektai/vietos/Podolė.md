@@ -736,7 +736,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
 <a id="claim-t-196727"></a>
 - t-036
   teiginys: "Kojelavičiaus pasakojime tarp Podolės ir Valachijos karių kilę nesutarimai atvėrė priešui kelią į Kamenecą."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-08-11 18:54"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -1096,6 +1096,58 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
   pagrindžia:
     - c-186632
+
+<a id="claim-t-206539"></a>
+- t-061
+  teiginys: "Podolės kraštą, pasak Teodoro Narbuto, valdė Lietuvos didžiojo kunigaikščio vietininkas."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189154
+
+<a id="claim-t-206540"></a>
+- t-062
+  teiginys: "Pasak Teodoro Narbuto, didžiajam kunigaikščiui Algirdui įsakius pradėti kovą, iš Podolės išvyti totoriai atsitraukė į kairįjį Dnepro krantą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189155
+
+<a id="claim-t-206541"></a>
+- t-063
+  teiginys: "Užėmusi kunigaikščio Vladimiro Voluinės pilis, Lietuvos kariauna įžengė į Podolę kautis su vietos kunigaikščiu Teodoru Karijotu, kuris iš Braclavo pabėgo į Kamenecą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189156
+
+<a id="claim-t-206542"></a>
+- t-064
+  teiginys: "Pasak Teodoro Narbuto, po Teodoro paėmimo į nelaisvę ir jo vietininko ištrėmimo Podolė buvo paversta Lietuvos provincija ir atiduota valdyti didžiajam kunigaikščiui."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189157
 
 ## Reikšmingi paminėjimai
 - c-029
@@ -2491,8 +2543,7 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
 - id: c-182539
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
-  puslapiai: "PDF 216"
-  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 216."
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     Apie kitus du čia minimus totorių vadus Chadžibėjų ir Di-
     mltrų žinių nėra.
@@ -3176,6 +3227,82 @@ Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų
   patikimumo_saltinis: ai
   pagrindzia:
     - t-060
+
+- id: c-189154
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 159"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 159."
+  citata_originali: |
+    Jau iš ankstesnių pasako­
+    jimų žinome, kad Podolės kraštas buvo valdomas Lietuvos di­
+    džiojo kunigaikščio vietininko.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-061
+
+- id: c-189155
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 159"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 159."
+  citata_originali: |
+    Kai
+    didysis kunigaikštis Algirdas gavo žinią, kad tenykščiai valdy­
+    tojai jau nebeįstengia atremti totorių antpuolių, tuojau pat įsa­
+    kė savo kariams kilti į kovą; kunigaikštį Kęstutį paliko saugoti
+    sienas nuo kryžiuočių, pats patraukė į Dnepro žemupį. Toto­
+    riai, išvyti iš Podolės, iš tiesų atsitraukė į kairįjį tos upės krantą,
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-062
+
+- id: c-189156
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 447"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 447."
+  citata_originali: |
+    Užėmusi
+    kunigaikščio Vladimiro Voluinės pilis, Lietuvos kariauna nu­
+    žygiavo į Podolę stoti į kovą su tenykščiu kunigaikščiu Te­
+    odoru Karijotu. Pastarasis pirmiausia užsidarė Braclave, savo
+    buveinėje, tačiau, matydamas, kad neįmanoma atsilaikyti ap-
+    gultyje, pabėgo į Kamenecą.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-063
+
+- id: c-189157
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 447-448"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 447-448."
+  citata_originali: |
+    Teodoras, paimtas
+    nelaisvėn, turėjo važiuoti į Vilnių; jo vietininkas Nosis buvo
+    1 Rankraštinė Lietuvos (Bychovco) kronika. - R 64; Danilavičiaus „Met­
+    raštininkas“. - R 46; Strijkovskis. - P. 467, 468. Abu pastarieji šaltiniai klai­
+    dingai nurodo datas.
+    449
+
+    ištrem tas iš šalies. Podolė, paversta Lietuvos provincija, bu­
+    vo atiduota valdyti didžiojo kunigaikščio
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-064
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Daugirdas Gedgaila]], [[objektai/grupes/Lenkai]], [[objektai/asmenys/Nestanas]], [[objektai/asmenys/Spytekas iš Melštyno]], [[objektai/asmenys/Spytkas iš Melsztyno]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

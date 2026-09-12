@@ -64,6 +64,19 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
   pagrindžia:
     - c-154996
 
+<a id="claim-t-206464"></a>
+- t-002
+  teiginys: "Teodoro Narbuto pasakojime didysis magistras, galbūt siekdamas paimti Kęstutį, su rinktiniais riteriais slapta prasiskverbė per Užgirio kraštą prie Druskininkų kaimo."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189079
+
 ## Citatos
 
 - id: c-154996
@@ -86,3 +99,21 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-189079
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 263"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 263."
+  citata_originali: |
+    Didysis magistras savo
+    ruožtu sumanė kažkokią ypatingą karo gudrybę, ko gero, nu­
+    matęs paimti Kęstutį, nes su rinktiniais riteriais, aukštųjų or­
+    dino pareigūnų apsuptas, slapčia prasigavo Užgirio kraštu, prie
+    Druskininkų kaimo1, ir staiga iškilo Trakų horizonte.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

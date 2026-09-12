@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "X amžius"
 periodo_pradzia: 901
 periodo_pabaiga: 1000
-periodo_objektu_skaicius: 32
+periodo_objektu_skaicius: 33
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 32.
+Objektų skaičius: 33.
 
 ## Susiję objektai
 
@@ -53,6 +53,7 @@ Objektų skaičius: 32.
 - [[objektai/ivykiai/Ferdinando pergalė prieš Granados karalių]]
 - [[objektai/ivykiai/Kęstučio ir Vytauto suėmimas bei Kęstučio nužudymas Krėvoje (1382 m.)]]
 - [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)]]
+- [[objektai/ivykiai/Reformacijos pradžia Lietuvoje]]
 - [[objektai/ivykiai/Senosios Torunės pilaitės sunaikinimas prūsų]]
 - [[objektai/ivykiai/Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.)]]
 - [[objektai/ivykiai/Vytauto žygis į Naugardą (1428 m. vasara)]]

@@ -88,6 +88,32 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
   pagrindžia:
     - c-175272
 
+<a id="claim-t-205086"></a>
+- t-004
+  teiginys: "Narbutas rašo, kad kunigaikštis Vladimiras, padedamas variagų ir obotritų kariaunos, apsupo Kijevą ir privertė jį pasiduoti."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187702
+
+<a id="claim-t-205242"></a>
+- t-005
+  teiginys: "Pasak Narbuto, variagai liovėsi reiškę teises į lietuvių padermės gentis."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187826
+
 ## Citatos
 
 - id: c-33361
@@ -155,3 +181,59 @@ Kai Dniepro baseine prasidėjo variagų (normanų) laikotarpis, —atvykus iš S
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-187702
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 149"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 149."
+  citata_originali: |
+    Ten, kur su didžiule nauda,
+    patirdamas sėkmę, dirbo jis, versdamas nekrikštus į krikš­
+    čionybę ir sutvirtindamas atsivertėlius jų šventame tikė­
+    jime, krašto viduje kilo tarpusavio karas: kunigaikštis
+    Vladimiras, gausios variagų ir obotritų* kariaunos pade­
+    damas, apsupo Kijevą ir privertė pasiduoti. Arkivyskupas
+    Brunonas su palyda pateko į nelaisvę. Pakliuvęs j va­
+    riagų rankas ir tikriausiai atitekęs jiems dalijantis belais­
+    vius, buvo išvežtas į Pabaltijo kraštus1.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
+
+- id: c-187826
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 242"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 242."
+  citata_originali: |
+    Lietuvių tautos žilos senovės laikai ir kilmė verčia
+    priminti, kad buvo metas, kai ta tauta, pralobusį ir pasie­
+    kusi aukštoką pažangos lygį, klestėjo, o slavai, būtent
+    tada dar tik menkus pradmenis teturėdami, ėmė rutulio-
+    lis ir, grumdomi Europos tautų maišatyje, išsisklaidę po
+    dykvietes, susiieškoję ten priedangas, ilgai neįstengė pa­
+    siekti, kad jų krašte būtų įvesta tvarka ir sukurta val­
+    džiai paklusni visuomenė, būtent tai, kas vadinama vals-
+    (ybe. Vėliau, laikui bėgant, taip įvykiai susiklostė, kad ta
+    pati tauta, kuri n u smukdė lietuvius, įgalino rusus iškilti
+    ir sutvirtėti — narsi skandinavų gentis, šiaurės kraštuose
+    garsūs variagai, įkūrę Rusios monarchiją, liovėsi reiškę
+    savo teises į lietuvių padermės gentis, betgi iš kitos pu­
+    sės, būtent iš rytų ir vakarų, tarytum norėjo savo ainiams,
+    Rusios kunigaikščiams, perleisti viliojančius grobius Lie-
+    luvos kraštuose. Priklausomai nuo Rusios galios augimo
+    svyravo ir Lietuvos likimas: stiprėjanti Rusia lėmė Lietu­
+    vai smukimą ir atvirkščiai — kai XII amžiuje sėkmė nuo
+    jos nusisuka, tai Lietuvai tuomet buvo skirta atgauti jė­
+    gas.
+  citata_rodoma: "Vėliau, laikui bėgant, taip įvykiai susiklostė, kad ta \npati tauta, kuri n u smukdė lietuvius, įgalino rusus iškilti \nir sutvirtėti — narsi skandinavų gentis, šiaurės kraštuose \ngarsūs variagai, įkūrę Rusios monarchiją, liovėsi reiškę \nsavo teises į lietuvių padermės gentis, betgi iš kitos pu­\nsės, būtent iš rytų ir vakarų, tarytum norėjo savo ainiams, \nRusios kunigaikščiams, perleisti viliojančius grobius Lie- \nluvos kraštuose."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005

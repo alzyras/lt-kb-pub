@@ -166,6 +166,19 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   pagrindžia:
     - c-184327
 
+<a id="claim-t-205660"></a>
+- t-009
+  teiginys: "Teodoras Narbutas rašo, kad didysis kunigaikštis su Danieliumi ir Vasilka vedė derybas, pasibaigusias taikos sutartimi, kuria jiems palikti Volkovyskas ir Slonimas, o įkaitu atiduotas Mindaugo sūnus Vaišelga."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-188275
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas pasakoja, kad traukiantis jotvingiams Danielius pavijo vadą Nebrą, atėmė jo ietį ir jį sužeidė, bet grįžo padėti Vasilkai.'
@@ -402,3 +415,23 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   patikimumo_saltinis: ai
   pagrindzia:
     - t-008
+
+- id: c-188275
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 140"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 140."
+  citata_originali: |
+    Taikos sutartis su Danieliumi. Arvydo veikla.
+    Didysis kunigaikštis, matydamas taip gerai klojantis Ru­
+    sios kunigaikščiams, su Danieliumi ir Vasilka pradėjo de­
+    rybas, pasibaigusias taikos sutartimi, kuria aniems buvo
+    palikti Volkovyskas ir Slonimas; laiduojant už įkaitą buvo
+    atiduotas Vaišelga, Mindaugo sūnus1 2.
+  citata_rodoma: "Didysis kunigaikštis, matydamas taip gerai klojantis Ru­\nsios kunigaikščiams, su Danieliumi ir Vasilka pradėjo de­\nrybas, pasibaigusias taikos sutartimi, kuria aniems buvo \npalikti Volkovyskas ir Slonimas; laiduojant už įkaitą buvo \natiduotas Vaišelga, Mindaugo sūnus1 2."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009

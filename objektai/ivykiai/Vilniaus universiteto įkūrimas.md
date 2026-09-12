@@ -3,6 +3,7 @@ tipas: ivykis
 pavadinimas: 'Vilniaus universiteto įkūrimas'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
 datos:
   - '1566 m.'
   - '1579 m.'
@@ -15,7 +16,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - unija
+  - karalius
+  - popiežius
+  - vyskupas
 amziai:
   - 'XVI'
   - 'XVII'
@@ -105,6 +108,23 @@ Nenurodyta
   pagrindžia:
     - c-23274
 
+## Reikšmingi paminėjimai
+- c-005
+  santrauka: '1579 m. balandžio 1 d. Steponas Batoras išdavė Vilniaus akademijos atidarymo privileginį raštą.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    siai 1579 m. balandžio 1 d.
+    karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir
+    pastangas, išdavė Vilniaus akademijos atidarymo privileginį raštą. 1579 m. spalio 29 d.
+    popiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją universitetu. Nau-
+    joji mokykla vadinosi Academia et Universitas Vilnensis Societatis Iesu – Vilniaus Jėzaus
+    draugijos akademija ir universitetas.
+    Įkurt
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-23272

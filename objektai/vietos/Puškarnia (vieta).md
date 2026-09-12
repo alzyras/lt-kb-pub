@@ -35,6 +35,8 @@ entity_view_role: "place"
 entity_aliases: ["Puškarnia","Puškarnia (vieta)"]
 sameAs: []
 canonical_biography: "1754 m. Puškarnioje esantį dvarelį prievarta siekė perimti Vyžuonų klebonas Kazimieras Ignotas Lukaševičius."
+place_authority: true
+historical_names: []
 ---
 # Puškarnia (vieta)
 

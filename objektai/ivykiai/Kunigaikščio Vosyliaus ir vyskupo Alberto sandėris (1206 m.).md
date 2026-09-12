@@ -40,11 +40,31 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Sandėrio įkaitu Vosylius perleido vyskupui Albertui pusę Kuoknesės pilies ir valdos feodalo nuosavybės teise.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
+<a id="claim-t-205582"></a>
+- t-001
+  teiginys: "Sandėrio įkaitu Vosylius perleido vyskupui Albertui pusę Kuoknesės pilies ir valdos feodalo nuosavybės teise."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-188177
+
+## Santrauka
+
+Sandėrio įkaitu Vosylius perleido vyskupui Albertui pusę Kuoknesės pilies ir valdos feodalo nuosavybės teise.
+
+## Citatos
+
+- id: c-188177
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 336"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 336."
   citata_originali: |
     Tad, kai sužinojo apie jo grįžimą iš
     Vokietijos, pats nuvyko į Rygą, kur buvo priimtas su vi­
@@ -56,11 +76,10 @@ Nenurodyta
     nesės pilies ir valdos feodalo nuosavybės teise. Su tuo
     vyskupas noriai sutikęs, atsisveikindamas apdovanojo ku­
     nigaikštį vertingomis atminimo dovanomis3.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-Sandėrio įkaitu Vosylius perleido vyskupui Albertui pusę Kuoknesės pilies ir valdos feodalo nuosavybės teise.
+  pagrindzia:
+    - t-001

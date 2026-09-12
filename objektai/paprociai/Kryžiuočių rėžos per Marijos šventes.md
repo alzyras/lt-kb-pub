@@ -1,0 +1,78 @@
+---
+tipas: paprotys
+pavadinimas: 'Kryžiuočių rėžos per Marijos šventes'
+saltiniai:
+  - 'į Ą'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Kryžiuočių rėžos per Marijos šventes
+
+## Santrauka
+
+Teodoro Narbuto aprašomi nesėkmių įnirtinti kryžiuočiai kasmet rengė du žygius į Lietuvą: vieną ar du apie Grabnyčias, kitą – per Švenčiausiosios Mergelės Marijos Dangun ėmimo šventę.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Atlikimas
+Nenurodyta
+
+## Paskirtis
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
+## Teiginiai
+
+<a id="claim-t-206926"></a>
+- t-001
+  teiginys: "Teodoro Narbuto aprašomi nesėkmių įnirtinti kryžiuočiai kasmet rengė du žygius į Lietuvą: vieną ar du apie Grabnyčias, kitą – per Švenčiausiosios Mergelės Marijos Dangun ėmimo šventę."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189541
+
+## Santrauka
+
+Teodoro Narbuto aprašomi nesėkmių įnirtinti kryžiuočiai kasmet rengė du žygius į Lietuvą: vieną ar du apie Grabnyčias, kitą – per Švenčiausiosios Mergelės Marijos Dangun ėmimo šventę.
+
+## Citatos
+
+- id: c-189541
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 79"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 79."
+  citata_originali: |
+    Tų nesėkmių įnirtinti kryžiuočiai
+    atnaujino ankstesni sprendimą, kad kasmet du kartus būtų ruo­
+    šiami žygiai į Lietuvą - vienas ar du apie Grabnyčias, o paskui
+    per Švenčiausiosios Mergelės Marijos Dangun ėmimą.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

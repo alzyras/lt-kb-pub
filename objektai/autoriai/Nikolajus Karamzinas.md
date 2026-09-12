@@ -205,6 +205,18 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   pagrindžia:
     - c-179267
 
+<a id="claim-t-206234"></a>
+- t-010
+  teiginys: "Nikolajus Karamzinas yra dvylikatomės „Rusijos valstybės istorijos“ (1816–1829) autorius."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188849
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams ir pagal juos suskirstė „Lietuvių tautos istorijos“ turinį.'
@@ -418,3 +430,20 @@ Narbutas, sekdamas Nikolajumi Karamzinu, pirmenybę teikė politiniams įvykiams
   patikimumo_saltinis: ai
   pagrindzia:
     - t-009
+
+- id: c-188849
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 9"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 9."
+  citata_originali: |
+    Daugiausia nuorodų į devyniatomės „Prūsijos istorijos“
+    (1827-1838) autorių Johaną Foigtą (Johannes Voigt) ir į dvy-
+    likatomės „Rusijos valstybės istorijos“ (1816-1829) autorių
+    Nikolajų Karamziną.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-010

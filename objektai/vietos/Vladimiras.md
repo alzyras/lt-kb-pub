@@ -129,6 +129,32 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   pagrindžia:
     - c-184466
 
+<a id="claim-t-205835"></a>
+- t-005
+  teiginys: "1316 m. rugpjūčio 10 d. Lodomerijoje, Vladimire, buvo išduotas ir aktuotas dokumentas."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
+  pagrindžia:
+    - c-188450
+
+<a id="claim-t-205836"></a>
+- t-006
+  teiginys: "1335 m. lapkričio 1 d. Vladimire buvo išduotas ir aktuotas dokumentas, datuotas Vienuolikos tūkstančių šventųjų mergelių diena."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
+  pagrindžia:
+    - c-188451
+
 ## Citatos
 
 - id: c-32555
@@ -229,6 +255,65 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
+
+- id: c-188450
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 541"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 541."
+  citata_originali: |
+    Aktuota ir duota Lodomerijoje
+    [Vladimire] [Viešp.] gimimo metais 1316, Sv. Lauryno
+    dieną [10 rugpjūčio]).
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
+- id: c-188451
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 544"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 544."
+  citata_originali: |
+    Dabar mes su mylimais ir išti­
+    kimais mūsų bajorais ir kariais, būtent su Dmitrijumi —
+    mūsų „diadka“ [t. y. auklėtoju — vert. past.] Mykolu Je-
+    lezarovičiumi — Belzo
+    vaivada,
+    Vasilka
+    Kudrinovičiu-
+    m i— mūsų dvaro teisėju, Jurgiu Kosakovičiumi—■ Pše-
+    mislo vaivada, Borisu Rrakula — Lvovo vaivada, Teodo­
+    ru Oteku — Lucko vaivada, Chotka, Jeromyro broliu, at­
+    naujiname, patvirtiname, ratifikuojame ir šį [laišką] ap­
+    saugomuoju raštu sutvirtiname, prieš išsiųsdami, gera va­
+    lia, atmesdami kiekvieną klastą, palankumu, sumanumu
+    ir kiaurai įžvelgdami kiekvieną piktadarystę padariusį,
+    kartu su minėtais mūsų bajorais, kareiviais, mūsų žemių
+    didikais bei žmonėmis tą pačią sąjungą, teikiančią gausų
+    atpildą ir santarvę, su jau anksčiau išmėgintu gerbiamu
+    ypatingos profesijos viešpačiu Teodoru iš Altenburgo, nau­
+    juoju didžiuoju anksčiau minėtos ligoninės ordino magist­
+    ru bei jo mokytojais, patikėtiniais, broliais, didikais ir jų
+    pačių žemėmis bei žmonėmis visiems laikams tvirtai ir
+    nelaužydami laikytis ir nedaryti [nieko] prieš arba kitaip
+    atsimesti ir kad tai būtų neliečiama ir nesumažinta, ir
+    kad jėga išlaikyta, amžino tvirtumo ir naujumo išraišką
+    įgytų, padarėme, kad šis [laiškas] būtų parašytas ir mūsų
+    bei minėtų mūsų bajorų antspaudais ¡sutvirtintas. Duota
+    ir aktuota Vladimire, Viešpaties apsireiškimo metais tūks­
+    tantis trys šimtai trisdešimt penktais per lapkričio kalen­
+    das Vienuolikos tūkstančių šventųjų mergelių dieną).
+  citata_rodoma: "Duota \nir aktuota Vladimire, Viešpaties apsireiškimo metais tūks­\ntantis trys šimtai trisdešimt penktais per lapkričio kalen­\ndas Vienuolikos tūkstančių šventųjų mergelių dieną)."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 ## Ryšiai
 - Apgulė Vladimirą: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

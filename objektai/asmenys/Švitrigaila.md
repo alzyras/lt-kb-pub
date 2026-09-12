@@ -3,7 +3,11 @@ tipas: asmuo
 pavadinimas: 'Švitrigaila'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvių tautos istorija, t. 5'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
+  - 'Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a.'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
@@ -997,6 +1001,70 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   pagrindžia:
     - c-186957
 
+<a id="claim-t-206444"></a>
+- t-058
+  teiginys: "Teodoras Narbutas Švitrigailos veiksmus vaizduoja kaip išdavystę: įsižeidęs dėl Vitebsko atėmimo, Švitrigaila užpuolė miestą, nužudė Viosną ir paskyrė vietininką."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189059
+
+<a id="claim-t-206445"></a>
+- t-059
+  teiginys: "Teodoras Narbutas pasakoja, kad per Vitebsko apgultį Švitrigaila užsidarė pilyje ir nusprendė gintis iki galo, tačiau miestui pasidavus buvo priverstas išeiti."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189060
+
+<a id="claim-t-206446"></a>
+- t-060
+  teiginys: "Teodoras Narbutas spėja, kad Švitrigaila galėjo vadovauti žygiui, siekdamas prisiplėšti Kaributo turtų ir nuvesti kryžiuočius į Krėvą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189061
+
+<a id="claim-t-206447"></a>
+- t-061
+  teiginys: "Teodoras Narbutas Švitrigailą vaizduoja kaip gėdingą vedlį: paėmęs kryžiuočių dalinį ir susimokęs su Vitebsko bajorais, Švitrigaila užpuolė Vitebską bei sukėlė riaušes kunigaikštystėje."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189062
+
+<a id="claim-t-206448"></a>
+- t-062
+  teiginys: "Po Vitebsko apgulties Švitrigaila buvo sukaustytas grandinėmis ir nusiųstas Lenkijos karaliui."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189063
+
 ## Reikšmingi paminėjimai
 - c-040
   santrauka: 'Švitrigaila nuolat kurstė Prūsijos ir Livonijos kryžiuočių magistrus prieš Vytautą.'
@@ -1045,6 +1113,33 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   statusas: verified
 - t-057
 
+- c-056
+  santrauka: 'Bumblauskas nurodo, kad Švitrigaila po Vytauto valdė 1430–1432 m. ir visą gyvenimą siekė iš jo atimti sostą.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    Prieš atsakant į šį klausimą, Edvardas Gudavičius
+    siūlo atidžiau pažvelgti į vieną žmogų, labai susijusį su Vytautu. Tai Švitrigaila (valdęs
+    po Vytauto, 1430–1432 m.). Labai prieštaringa ši sąsaja: visą gyvenimą Švitrigaila siekė
+    atimti sostą iš Vytauto, o tapęs jo įpėdiniu, kartu tapo ir jo siekimų paveldėtoju bei tęsėju.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+
+- c-057
+  santrauka: 'Bumblauskas Švitrigailą apibūdina kaip savitą Vytauto antipodą, nes, Bumblausko vertinimu, Švitrigaila pralaimėdavo ten, kur Vytautas laimėdavo.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    Labai prieštaringa ši sąsaja: visą gyvenimą Švitrigaila siekė
+    atimti sostą iš Vytauto, o tapęs jo įpėdiniu, kartu tapo ir jo siekimų paveldėtoju bei tęsėju.
+    Kaip žinome, jis beviltiškai viską sužlugdė. Švitrigaila – savitas Vytauto antipodas, ypač
+    todėl, kad jis visur pralaimėjo ten, kur Vytautas laimėdavo.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-14091
@@ -2396,6 +2491,108 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   patikimumo_saltinis: ai
   pagrindzia:
     - t-057
+
+- id: c-189059
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 426"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 426."
+  citata_originali: |
+    Švitrigaila, įsižeidęs, kad atėmė Vitebską, kai
+    gražiuoju nepavyko priprašyti, kad tą valdą grąžintų, kaip iš­
+    davikas užpuolė miestą, nužudė Viosną ir įkurdino savo vieti­
+    ninką.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-058
+
+- id: c-189060
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 426-427"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 426-427."
+  citata_originali: |
+    Atėjo eilė Vitebskui. Švitrigaila užsidarė pilyje ir nusprendė
+    gintis iki galo. Apgultis, atrodė, grėsė pareikalausianti daug
+    1 Stebelski. Zywoty švviętych Panieri. - T. II. - S. 9*.
+    2 Būtent tai, kad Vitebskas priklausė didžiajai kunigaikštienei Julijonai
+    ir suklaidino kai kuriuos kronikininkus: laikydami ją Vitebsko kunigaikšty­
+    te, skelbia, kad esą ji buvusi pirmoji Algirdo žmona, kuria iš tiesų buvo
+    Marija.
+    428
+
+    jėgų, tad didieji kunigaikščiai kreipėsi pagalbos į Smolensko
+    kunigaikšti Jurijų Sviatoslavovičių; kai šis atvyko, vitebskie-
+    čiai, išgąsdinti puolėjų galios ir dažnų atakų, išgirdę grasini­
+    mus bausme, nepermaldaujama už priešinimąsi, jeigu tuojau
+    pat nepasiduos, atidavė miestą. Po to ir Švitrigaila, apimtas
+    abejonių, buvo priverstas išeiti iš pilies ir žemai nusilenkti
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-059
+
+- id: c-189061
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 435"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 435."
+  citata_originali: |
+    Tiesa, kronikininkai neteigia Švitrigailą da­
+    lyvavus šiame žygyje; betgi, tikėtina, jis turėjo būti ir vadovau­
+    ti, kadangi toks drąsus siautėjimas galimas tik gerai žinant
+    kraštą. Tikriausiai tas kunigaikštis kėsinosi prisiplėšti Karibu­
+    to turtų, o paskui nuvesti kryžiuočius į Krėvą, kad pasiimtų
+    likučius, gal ten paslėptus.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-060
+
+- id: c-189062
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 467"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 467."
+  citata_originali: |
+    Tokių antpuolių
+    metu Švitrigaila, atvykęs iš Prūsijos, ėmėsi vaidmens gėdingo
+    vedlio, vedančio savo tėvynainių pražūtin. Didysis kunigaikš­
+    tis Dauguvos link pasiuntė kariauną, kuri užėmė Dinaburgą.
+    Tada Švitrigaila, iš kryžiuočių paėmęs dalinį, susimokęs su Vi­
+    tebsko bajorais, perėjo Pskovo žemę ir užpuolė Vitebską; iš
+    kitų miestų irgi išvijo vietininkus, karaliaus paskirtus, žodžiu,
+    sukurstęs riaušes visoje kunigaikštystėje, paėmė savo valdžion.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-061
+
+- id: c-189063
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 467"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 467."
+  citata_originali: |
+    Nugalėtojas pasirodė turįs saiką, ne­
+    daugelį nubaudė mirtimi, Švitrigailą, grandinėmis sukaustytą,
+    nusiuntė pas Lenkijos karalių. Vitebsku sekdami, nurimo ir
+    kiti tos kunigaikštystės miestai1.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-062
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Livonijos ordinas]]

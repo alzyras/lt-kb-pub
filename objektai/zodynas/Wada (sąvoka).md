@@ -33,8 +33,22 @@ Tie, kurie įgydavo garsą per jų pačių nuopelnus, kuriems kilmė neturėjo �
 
 Tie, kurie įgydavo garsą per jų pačių nuopelnus, kuriems kilmė neturėjo įtakos jų lai mėjimams, pasižymėję sunkiomis karo meto aplinkybė mis pelnydavo didžią pagarbą ir pripažinimą, tokie buvo vadinami Wada, tai yra aukščiausias vadas.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
+<a id="claim-t-205394"></a>
+- t-001
+  teiginys: "Tie, kurie įgydavo garsą per jų pačių nuopelnus, kuriems kilmė neturėjo įtakos jų lai mėjimams, pasižymėję sunkiomis karo meto aplinkybė mis pelnydavo didžią pagarbą ir pripažinimą, tokie buvo vadinami Wada, tai yra aukščiausias vadas."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:42Z"
+  pagrindžia:
+    - c-187735
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tie, kurie įgydavo garsą per jų pačių nuopelnus, kuriems kilmė neturėjo įtakos jų lai mėjimams, pasižymėję sunkiomis karo meto aplinkybė mis pelnydavo didžią pagarbą ir pripažinimą, tokie buvo vadinami Wada, tai yra aukščiausias vadas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
@@ -49,3 +63,29 @@ Tie, kurie įgydavo garsą per jų pačių nuopelnus, kuriems kilmė neturėjo �
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+## Citatos
+
+- id: c-187735
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 371"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 371."
+  citata_originali: |
+    Penk­
+    tąjį luomą* sudarė nelaisvi žmonės — dvaruose ir ūkiuo­
+    se dirbantys tarnai, kurių didesnioji dalis buvo karo be­
+    laisviai arba parsidavę amžinon vergijon gyventojai iš
+    laisvųjų luomų. Pastarasis luomas buvo pripažintas savo
+    valdovų nuosavybe, jis neturėjo jokių teisių ir buvo vi­
+    siškoje savo ponų valioje. Tie, kurie įgydavo garsą per
+    jų pačių nuopelnus, kuriems kilmė neturėjo įtakos jų lai­
+    mėjimams, pasižymėję sunkiomis karo meto aplinkybė­
+    mis pelnydavo didžią pagarbą ir pripažinimą, tokie buvo
+    vadinami Wada, tai yra aukščiausias vadas.
+  citata_rodoma: "Tie, kurie įgydavo garsą per \njų pačių nuopelnus, kuriems kilmė neturėjo įtakos jų lai­\nmėjimams, pasižymėję sunkiomis karo meto aplinkybė­\nmis pelnydavo didžią pagarbą ir pripažinimą, tokie buvo \nvadinami Wada, tai yra aukščiausias vadas."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

@@ -52,6 +52,19 @@ Gudai paliki ni abažą vokyčių persikėlė per upį Gaują, deginda mi vietov
   pagrindžia:
     - c-184485
 
+<a id="claim-t-205518"></a>
+- t-002
+  teiginys: "1205 metais prie Gaujos upės rygiečiai ir žemgaliai padalijo kariauną į dvi dalis."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-188178
+
 ## Citatos
 
 - id: c-184485
@@ -76,3 +89,26 @@ Gudai paliki ni abažą vokyčių persikėlė per upį Gaują, deginda mi vietov
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188178
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 280"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 280."
+  citata_originali: |
+    Po to rygiečiai, žinodami apie
+    M-ną žemgalių nesantaiką su Turaidos apylinkių gyven­
+    imais, pasikvietė juos pagalbon. Tučtuojau atskubėjo žem­
+    galių vadas Vestardas su
+    savaisiais. Prie Gaujos upės
+    (tai dabar turėtų būti vadinamoji Aa), susivieniję su
+    žemgaliais, padalijo kariauną į dvi dalis — vieną, vado­
+    vaujamą ištikimojo latvio Kaupo, ir kitą, kuri pasuko
+    Dabrelės pilies link.
+  citata_rodoma: "Prie Gaujos upės \n(tai dabar turėtų būti vadinamoji Aa), susivieniję su \nžemgaliais, padalijo kariauną į dvi dalis — vieną, vado­\nvaujamą ištikimojo latvio Kaupo, ir kitą, kuri pasuko \nDabrelės pilies link."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

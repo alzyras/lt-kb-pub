@@ -106,6 +106,19 @@ Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių apra�
   pagrindžia:
     - c-168195
 
+<a id="claim-t-205713"></a>
+- t-004
+  teiginys: "Kryžiuočių padalinys, kaip pasakoja Teodoras Narbutas, užpuolė narsiam Sudargui priklausiusį dvarą dešiniajame Nemuno krante, netoli dabartinio Sudargu vadinamo miestelio."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188328
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių aprašymuose.'
@@ -193,6 +206,29 @@ Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių apra�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-188328
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 379"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 379."
+  citata_originali: |
+    Gavęs žinią, jog artinasi priešinin­
+    kas, jis tik nusiaubė priemiestį. Trečiam padaliniui buvo
+    pavesta užpulti dvarą, priklausantį narsiam Sudargui,
+    dešiniajame Nemuno krante esantį, ir dabar Sudargu va­
+    dinamą miesteliūkštį, gražioje aukštumoje žemiau Jur­
+    barko išsidėsčiusį. Tasai su barbarišku įnirtimu įvykdė
+    sumanymą: visa, kas degė, ugnimi paleido, žmones iš­
+    žudė, moteris ir vaikus drauge su savininko šeimyna
+    paėmė į nelaisvę ir išsivarė.
+  citata_rodoma: "Trečiam padaliniui buvo \npavesta užpulti dvarą, priklausantį narsiam Sudargui, \ndešiniajame Nemuno krante esantį, ir dabar Sudargu va­\ndinamą miesteliūkštį, gražioje aukštumoje žemiau Jur­\nbarko išsidėsčiusį. Tasai su barbarišku įnirtimu įvykdė \nsumanymą: visa, kas degė, ugnimi paleido, žmones iš­\nžudė, moteris ir vaikus drauge su savininko šeimyna \npaėmė į nelaisvę ir išsivarė."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 ## Ryšiai
 - Puolė Sudargą: [[objektai/asmenys/Albrechtas iš Hageno]]

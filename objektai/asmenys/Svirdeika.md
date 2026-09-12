@@ -65,6 +65,19 @@ canonical_biography: "„[...] Švenčiausios trejybės švenčių išvakarėse 
   pagrindžia:
     - c-42249
 
+<a id="claim-t-206395"></a>
+- t-002
+  teiginys: "Prūsijos kronikininkų Svirdeika vadinamas kunigaikštis birželio 8 d. su kariuomenės daliniu įsiveržė į Nadruvą, apsupo ir sudegino Insterburgą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189010
+
 ## Citatos
 
 - id: c-42249
@@ -87,6 +100,28 @@ canonical_biography: "„[...] Švenčiausios trejybės švenčių išvakarėse 
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-189010
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 217"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 217."
+  citata_originali: |
+    Šitaip būtent tais
+    metais, apie kuriuos kalbame, lietuviai, sukurstyti atkeršyti,
+    vadovaujami Algirdo, Kęstučio ir dar vieno kunigaikščio, Prū­
+    sijos kronikininkų vadinamo Svirdeika (Swerdejko), kiekvie­
+    nas su stipriu kariuom enės daliniu, birželio 8 dieną taip
+    netikėtai pašalinę sargybą, kad niekas šalyje net nieko nežino­
+    jo, įsiveržė į Nadruvą; kunigaikštis Svirdeika apsupo Inster-
+    burgą, užėmė, sudegino ir neapsakomai daug grobio išsinešė,
+    devynetas šimtų žmonių mieste ir pilyje krito.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002
 
 ## Ryšiai
 - Svirdeika keliavo į [[objektai/vietos/Įsrutis]]

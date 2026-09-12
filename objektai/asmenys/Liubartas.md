@@ -329,6 +329,71 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   pagrindžia:
     - c-184361
 
+<a id="claim-t-206354"></a>
+- t-018
+  teiginys: "Narbutas aprašo, kad našlys Liubartas po Bušės Vladimiraitės mirties vedė Rostovo kunigaikščio Konstantino dukterį, Simono dukterėčią."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188969
+
+<a id="claim-t-206355"></a>
+- t-019
+  teiginys: "Voluinės kunigaikštis Liubartas birželį surengė žygį į Lenkiją, užėmė Haličą, nusiaubė Raudonosios Rusios valsčius ir su grobiu grįžo į Lucką."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188970
+
+<a id="claim-t-206356"></a>
+- t-020
+  teiginys: "Narbutas vaizduoja, kad Voluinės kunigaikštis Liubartas, nesitenkindamas turimomis valdomis, toliau plėšė ir užkariavo Lenkijai priklausiusius Rusios kraštus."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188971
+
+<a id="claim-t-206357"></a>
+- t-021
+  teiginys: "Liubartas įsipareigojo būti didžiojo kunigaikščio vasalu ir palaikyti sąjungą su Lenkijos karaliumi, prireikus su kariauna padėdamas kare prieš kitus svetimšalius, išskyrus Lietuvą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188972
+
+<a id="claim-t-206358"></a>
+- t-022
+  teiginys: "Kęstučio ir Liubarto vadovaujama Lietuvos kariauna, lydima Jogailos, Vytauto ir Jurgio Narimantaičio, perėjo sieną, užpuolė Sandomirą ir plėšė Tarnovo apylinkes."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188973
+
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -689,3 +754,95 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   patikimumo_saltinis: ai
   pagrindzia:
     - t-017
+
+- id: c-188969
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 98"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 98."
+  citata_originali: |
+    Per tuos santy­
+    kius įvyko naudingos Lietuvai piršlybos: kunigaikštis Liubartas,
+    našlys po pirmosios žmonos Bušės Vladimiraitės netekties, susi­
+    tuokė su Rostovo kunigaikščio Konstantino dukra, Simono duk­
+    terėčia.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-018
+
+- id: c-188970
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 115"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 115."
+  citata_originali: |
+    Būtent tais pačiais metais Volui-
+    nės kunigaikštis Liubartas birželio mėnesi surengė žygį į Lenkiją,
+    priėjo prie Haličo, užėmė miestą, nusiaubė daugelį valsčių Rau­
+    donojoje Rusioje ir be kliūčių su grobiais grįžo į Lucką. Rugsėjį
+    puolė iš naujo ir net iki Vyslos prie Zavichosto atsidūrė, kur ne­
+    mažai nuostolių padarė. Grįždamas atakavo Vladimirą, ir užėmė
+    miestą su apylinkėmis, kurias prijungė prie savo valdų1 2.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-019
+
+- id: c-188971
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 180"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 180."
+  citata_originali: |
+    Voluinės kunigaikštis Liubartas, nesitenkindamas valdomis,
+    laiduotomis didžiojo kunigaikščio ginklu ir išprašytu aukštu Len­
+    kijos karaliaus sutikimu, nesiliovė toliau plėšikauti bei užkariauti
+    Rusios kraštų, išlikusių Lenkijos priklausomybėje.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-020
+
+- id: c-188972
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 181"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 181."
+  citata_originali: |
+    Kunigaikštis Liubartas įsipa­
+    reigojo būti didžiojo kunigaikščio priklausomybėje, kaip ano va­
+    salas, ir kartu išlaikyti tokią tvirtą sąjungą su Lenkijos karalium,
+    kad pašauktas privalėjo kiekvieną kartą su savo kariauna eiti pa­
+    galbon kare su svetimšaliais priešais, išskyrus Lietuvą.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-021
+
+- id: c-188973
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 219"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 219."
+  citata_originali: |
+    Kariauna, sutelkta iš įvairių
+    Lietuvos pusių, Kęstučio ir Liubarto vadovaujama, lydima
+    Jogailos, Vytauto ir Jurgio Narim antaičio, atskirais daliniais
+    perėjo sieną, ir, Liublino žemėje susijungę, užpuolę Sando-
+    mirą, plėšė net iki Sano ir Vyslos upių Tarnovo ir Sandomiro
+    apylinkėse
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-022

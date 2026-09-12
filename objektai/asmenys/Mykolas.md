@@ -52,6 +52,19 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
   pagrindžia:
     - c-42162
 
+<a id="claim-t-206364"></a>
+- t-002
+  teiginys: "Teodoro Narbuto pasakojime Dmitrijus įširdo ant Mykolo, nes Mykolas, įsitraukęs į vidaus karą, įsakė Toržoką padegti iš keturių kampų, o gyventojus palaidoti griuvėsiuose ir liepsnose arba išžudyti jiems bėgant."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188979
+
 ## Citatos
 
 - id: c-42162
@@ -84,3 +97,26 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188979
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 205-206"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 205-206."
+  citata_originali: |
+    Dėl to pats Dmitrijus
+    baisiai įširdo ant Mykolo, ypač todėl kad jis į vidaus karą stojo
+    su barbarišku siutu, be kita ko, nusikalto gėdingu poelgiu žiau­
+    riai sunaikindamas Toržoko miestą, kurį įsakė iš keturių kam­
+    pų padegti, gyventojus palaidojo griuvėsiuose ir liepsnose arba
+    1 Karamzin. - T. V - S. 25-26.
+    207
+
+    bėgančius išžudė. Tasai miestas priklausė Didžiajam Naugar-
+    dui, todėl visa Rusia buvo pasipiktinusi Mykolu
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

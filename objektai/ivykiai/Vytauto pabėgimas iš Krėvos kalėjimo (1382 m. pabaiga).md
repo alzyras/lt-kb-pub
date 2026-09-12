@@ -66,6 +66,19 @@ Nenurodyta
   pagrindžia:
     - c-90746
 
+<a id="claim-t-206216"></a>
+- t-002
+  teiginys: "Kunigaikštienė Ona tą pačią naktį padėjo Vytautui pabėgti iš Krėvos kalėjimo: jis persirengė patarnautojos Elenos drabužiais, o ji pasiliko jo vietoje."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-188831
+
 ## Citatos
 
 - id: c-90746
@@ -85,3 +98,25 @@ Nenurodyta
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188831
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 279"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 279."
+  citata_originali: |
+    Tačiau kunigaikš­
+    tienė Ona sužinojo apie tą laišką ir pranešusi, kad išvažiuo­
+    sianti kitą dieną kuo anksčiausiai, naktį taip išleido savo vyrą
+    iš kalėjimo: kai atėjo aplankyti kalinio, esą atsisveikinti, kuni­
+    gaikštis, persirengęs drabužiais vienos patarnautojų, Elenos,
+    kuri pasiliko vietoj jo, tą pačią naktį pintinėje buvo nuleistas
+    kalėjimo mūru, susirado iš Volkovysko tenykščio seniūno at­
+    siųstus žirgus, bemat nuvyko į Slonimą, po to į Brastą, o penk­
+    tąją dieną apsistojo Plocke.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

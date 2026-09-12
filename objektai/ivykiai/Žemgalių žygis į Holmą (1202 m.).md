@@ -46,11 +46,30 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1202 m. žemgaliai sudegino prie Holmo tvirtovės stovėjusią bažnytėlę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
+<a id="claim-t-205308"></a>
+- t-001
+  teiginys: "1202 m. žemgaliai sudegino prie Holmo tvirtovės stovėjusią bažnytėlę."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187988
+
+## Santrauka
+
+1202 m. žemgaliai sudegino prie Holmo tvirtovės stovėjusią bažnytėlę.
+
+## Citatos
+
+- id: c-187988
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 272"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 272."
   citata_originali: |
     Kitais metais žem­
     galiai, kadangi su Latvija nebuvo nei sąjungos sudarę,
@@ -63,11 +82,10 @@ Nenurodyta
     patvirtintų, jog gyvensią taikiai su visais krikščionimis,
     esą jie būsią tokie pat geri latvių krikščionių bičiuliai,
     kokie jie yra ir vokiečiams.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1202 m. žemgaliai sudegino prie Holmo tvirtovės stovėjusią bažnytėlę.
+  pagrindzia:
+    - t-001

@@ -14,8 +14,15 @@ export type ObjectPageViewModelV2 = {
   version: 2
   counts: ObjectPageCounts
   featuredClaimIds: string[]
+  featuredQuote?: { text: string; source: string; claimId: string; evidenceId: string }
   relationRows: ObjectRelationRow[]
   timeline: ObjectTimelineEntry[]
+  portraitMediaId?: string
+  featuredGalleryIds: string[]
+  relatedContent: {
+    articles: Array<{ slug: string; title: string }>
+    exhibitions: Array<{ slug: string; title: string; matchedItems?: string }>
+  }
 }
 
 export type ObjectRelationRow = {
@@ -82,6 +89,26 @@ export function objectPageViewModel(
       )
     : []
   const relationRows = options.relationRows ?? projectedRelations
+  const portrait = parse(raw.portrait)
+  const featuredGallery = Array.isArray(raw.featured_gallery)
+    ? raw.featured_gallery
+        .map((entry) => cleanText(parse(entry).media_id))
+        .filter(Boolean)
+        .slice(0, 5)
+    : []
+  const related = parse(raw.related_content)
+  const relatedRows = (value: unknown) =>
+    Array.isArray(value)
+      ? value
+          .map(parse)
+          .map((row) => ({
+            slug: cleanText(row.slug),
+            title: cleanText(row.title),
+            matchedItems: cleanText(row.matched_items),
+          }))
+          .filter((row) => row.slug && row.title)
+          .slice(0, 12)
+      : []
   const citationRecords = evidence.citationRecords
   const mentions = citationRecords.filter((row) => row.significantMention).length
   const citations = citationRecords.filter((row) => !row.significantMention).length
@@ -101,7 +128,28 @@ export function objectPageViewModel(
       sources: number(counts.sources, fallbackSources),
     },
     featuredClaimIds: strings(raw.featured_claim_ids).slice(0, 6),
+    featuredQuote: (() => {
+      const quote = parse(raw.featured_quote)
+      const claim = evidence.claims.find(
+        (row) => row.id === quote.claim_id || row.globalIds?.includes(String(quote.claim_id)),
+      )
+      const citation = claim?.citations.find((row) => row.id === quote.evidence_id)
+      return quote.origin === "internal" && citation && cleanText(quote.text)
+        ? {
+            text: cleanText(quote.text),
+            source: cleanText(citation.fields.get("šaltinis") || citation.fields.get("saltinis")),
+            claimId: claim!.id,
+            evidenceId: citation.id,
+          }
+        : undefined
+    })(),
     relationRows,
+    portraitMediaId: cleanText(portrait.media_id) || undefined,
+    featuredGalleryIds: featuredGallery,
+    relatedContent: {
+      articles: relatedRows(related.articles),
+      exhibitions: relatedRows(related.exhibitions),
+    },
     timeline: Array.isArray(raw.timeline)
       ? raw.timeline.filter((row): row is ObjectTimelineEntry =>
           Boolean(

@@ -24,3 +24,10 @@ export function ensureSuccessfulSearchPreviewResponse(
     throw new Error(`Could not fetch search preview ${targetUrl}: HTTP ${response.status}`)
   }
 }
+
+/** Search-index keys are site-root slugs, never paths relative to the open page. */
+export function searchResultUrl(slug: string, origin: string): URL {
+  const normalized = slug.replace(/^\/+/, "").replace(/\/index$/, "")
+  const pathname = normalized === "index" || normalized === "" ? "/" : `/${normalized}`
+  return new URL(pathname, origin)
+}

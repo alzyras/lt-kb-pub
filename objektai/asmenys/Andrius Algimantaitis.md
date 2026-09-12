@@ -43,11 +43,27 @@ canonical_biography: "Andrius Algimantaitis buvo Alšėnų kunigaikščio Jono A
 
 Andrius Algimantaitis buvo Alšėnų kunigaikščio Jono Algimantaičio sūnus ir po Skirgailos mirties ėjo Vytauto vietininko pareigas Kijeve.
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Andrius Algimantaitis buvo Alšėnų kunigaikščio Jono Algimantaičio sūnus ir po Skirgailos mirties ėjo Vytauto vietininko pareigas Kijeve.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+<a id="claim-t-194097"></a>
+- t-001
+  teiginys: "Andrius Algimantaitis buvo Alšėnų kunigaikščio Jono Algimantaičio sūnus ir po Skirgailos mirties ėjo Vytauto vietininko pareigas Kijeve."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-176710
+
+## Citatos
+
+- id: c-176710
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
   citata_originali: |
     * Andrius Algimantaitls — iš tik r ų jų Andrius Jonaitis Alglman-
     taitls, Alšėnų kunigaikščio Jono Algimantaičio sūnus. Po Skirgailos
@@ -55,8 +71,10 @@ Andrius Algimantaitis buvo Alšėnų kunigaikščio Jono Algimantaičio sūnus i
     minimas 1401 m., nuskandintas 1433 m. Švitrigailos įsakymu, kaip
     organizatorius sąmokslo (1432), iškalusio didžiuoju kunigaikščiu Vy­
     tauto broli Žygimantą KąstulaitĮ.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: not_found
+  pagrindzia:
+    - t-001

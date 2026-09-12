@@ -103,6 +103,22 @@ Bremeno kilmės pirklių ir kolonistų grupė Baltijos prekybos kontekste.
   pagrindžia:
     - c-55885
 
+<a id="claim-t-205488"></a>
+- t-004
+  teiginys: "Tai atsitiko 1158 metais, kai Bremeno pirklių laivas, plaukęs į Visbio miestą, esantį Gotlando saloje, nežinia ar per atsitiktinumą vėtrų genamas papuolė, ar jie ty čiomis norėdami užtikti liūbekiečių lankomus miestus, kas labiau tikėtina, pasiekė Dauguvos."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1158 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sutvarkytas nutrūkęs pasakojimas, aiškiai įvardyti laivas, pirkliai, data ir vieta. Galimi maršruto motyvai išlaikyti kaip Teodoro Narbuto svarstymas."
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187822
+
 ## Citatos
 
 - id: c-55885
@@ -127,6 +143,27 @@ Bremeno kilmės pirklių ir kolonistų grupė Baltijos prekybos kontekste.
     - t-001
     - t-002
     - t-003
+
+- id: c-187822
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 250"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 250."
+  citata_originali: |
+    1158 m. Bremeniečių atsilankymas Dauguvos pakran­
+    tėse. Tai atsitiko 1158 metais, kai Bremeno pirklių laivas,
+    plaukęs į Visbio miestą, esantį Gotlando saloje, nežinia
+    ar per atsitiktinumą vėtrų genamas papuolė, ar jie ty­
+    čiomis norėdami užtikti liūbekiečių lankomus miestus, kas
+    labiau tikėtina, pasiekė Dauguvos upės krantus ties jos
+    žiotimis.
+  citata_rodoma: "Tai atsitiko 1158 metais, kai Bremeno pirklių laivas, \nplaukęs į Visbio miestą, esantį Gotlando saloje, nežinia \nar per atsitiktinumą vėtrų genamas papuolė, ar jie ty­\nčiomis norėdami užtikti liūbekiečių lankomus miestus, kas \nlabiau tikėtina, pasiekė Dauguvos upės krantus ties jos \nžiotimis."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-004
 
 ## Ryšiai
 - Bremeno pirkliai prekiavo su [[objektai/vietos/Pamaris]]

@@ -37,6 +37,8 @@ entity_view_role: "place"
 entity_aliases: ["Iškoldė","Iškoldė (vieta)"]
 sameAs: []
 canonical_biography: "Iškoldės dvarui priklausę bajorai ir tarnai karinio šaukimo bei žygių metu sudarė du dalinius."
+place_authority: true
+historical_names: []
 ---
 # Iškoldė (vieta)
 

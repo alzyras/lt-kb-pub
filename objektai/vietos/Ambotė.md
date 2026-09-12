@@ -62,6 +62,19 @@ Akivaizdžia Mindaugo karinės jėgos demonstracija yra laikoma tai, kad jis 124
   pagrindžia:
     - c-33788
 
+<a id="claim-t-205744"></a>
+- t-002
+  teiginys: "1248 metais lietuvių kariuomenė Kurše apsupo įtvirtintą Ambotės pilį."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188359
+
 ## Citatos
 
 - id: c-33788
@@ -85,3 +98,28 @@ Akivaizdžia Mindaugo karinės jėgos demonstracija yra laikoma tai, kad jis 124
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188359
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 131"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 131."
+  citata_originali: |
+    Vis dėlto veiksniai vokiečių, kurie tarpais kėlė
+    pavojų kitoms lietuvių gentims, kėsindamiesi į jų nepri­
+    klausomybę, turėjo versti Mindaugą imtis aktyvios Kur­
+    šo, atsiduodančio jo globai*, apsaugos, nes iš ten Žemai­
+    tijos link sklido kryžiuočių nešama grėsmė. Tad 1248 me­
+    tais lietuvių kariaunos priešakyje jis patraukė į Kuršą ir
+    apsupo Ambotės pilį, turėjusią įtvirtinimus. Livonijos ma­
+    gistras su savuoju maršalu Bervartu ir visomis ginkluoto­
+    mis pajėgomis jau laukė lietuvių — miške įrengė pasa­
+    las, ir kai šie pradėjo pulti pilį, netikėtai juos užklupo iš
+    kitos pusės.
+  citata_rodoma: "Tad 1248 me­\ntais lietuvių kariaunos priešakyje jis patraukė į Kuršą ir \napsupo Ambotės pilį, turėjusią įtvirtinimus. Livonijos ma­\ngistras su savuoju maršalu Bervartu ir visomis ginkluoto­\nmis pajėgomis jau laukė lietuvių — miške įrengė pasa­\nlas, ir kai šie pradėjo pulti pilį, netikėtai juos užklupo iš \nkitos pusės."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

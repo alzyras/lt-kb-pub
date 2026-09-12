@@ -4,12 +4,16 @@ pavadinimas: 'Žygimantas Augustas (arkivyskupas, XVI a.)'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Didieji medžiokliai Radvilos Lietuvos Didžiojoje Kunigaikštystėje: pareigūnai ir geriausi valdovo draugai'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
+  - 'Lituanistika-64400-Feodalines-teises-apraiskos-LDK'
   - 'Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
   - 'Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)'
+  - '„Mes, Lietuva.“ LDK bajorija XVI a.'
 datos: []
 date_start: ''
 date_end: ''
@@ -575,6 +579,37 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     kalą, jie ir atsilygins tiems, kurie neteko žemių.
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-029
+  santrauka: 'Bumblausko aprašyme LDK pinigų sistema prie Žygimanto Augusto įžengė į „aukso amžių“, kai buvo išleistos stambaus nominalo auksinės monetos – dukatai ir portugalai.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    Monetose atsirado lotyniškos legendos, nurodan-
+    čios valstybę ir valdovą, o kartu monetose, be averse vaizduoto Vyčio, reverse atsiranda
+    Lenkijos Erelis. Žygimanto Senojo laikais – nuo 1508 m. – LDK monetos pradėtos tiksliai
+    datuoti. Į „aukso amžių“ (net tiesiogine prasme) LDK pinigų sistema įžengė prie Žygi-
+    manto Augusto, kuomet išleistos stambaus nominalo auksinės monetos – dukatai ir por-
+    tugalai (1 portugalas = 10 dukatų arba 400 grašių).
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
+- c-030
+  santrauka: 'Po Barboros Radvilaitės mirties Žygimantas Augustas, kaip nurodo Jūratė Kiaupienė, tikėdamasis sulaukti įpėdinio, Europos valdovų dvaruose ieškojo žmonos.'
+  šaltinis: 02-kiaupiene-mes-lietuva-ldk-bajorija
+  citata_originali: |
+    Ta-
+    čiau visi jie tarnavo savo tėvynei, atstovaudami Lietuvos Didžiosios Kunigaikštystės poli-
+    tiniams interesams imperatoriaus dvare, atlikdami valdovo ar Ponų Tarybos pavedimus.
+    Vieną tokią delikačią diplomatinę misiją atliko M. Radvila Juodasis. Po antrosios
+    žmonos Barboros Radvilaitės mirties
+    24 našlaujantis Žygimantas Augustas, tuo metu dar
+    tikėdamasis susilaukti įpėdinio, Europos valdovų dvaruose ieškojo žmonos.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified

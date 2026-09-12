@@ -254,6 +254,45 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   pagrindžia:
     - c-185839
 
+<a id="claim-t-206482"></a>
+- t-012
+  teiginys: "Prieš Velykas Kęstutis su kariauna puolė Jurbarko pilį, griovė jos mūrus mašinomis ir iš patrankų šaudė paraku."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189097
+
+<a id="claim-t-206483"></a>
+- t-013
+  teiginys: "1384 m. Vytautas pirmiausia atkeliavo prie Jurbarko pilies ir liepė iškviesti jos komtūrą."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189098
+
+<a id="claim-t-206484"></a>
+- t-014
+  teiginys: "Vytautas tuo pačiu žygio metu sudegino Jurbarką, Marienburgą, Ritersverderį, Ragainę ir Memelį."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189099
+
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Gediminas su kariuomene buvo įrengęs stovyklą tarp Jurbarko ir Kauno.'
@@ -497,6 +536,77 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
   patikimumo_saltinis: ai
   pagrindzia:
     - t-011
+
+- id: c-189097
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 262"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 262."
+  citata_originali: |
+    Prieš pat Velykas Kęstutis vėl pats su
+    kariauna išsiruošė į Jurbarką, norėdamas užimti tenykštę pilį.
+    Puolė ją, griovė mūrus mašinomis, iš kelių patrankų šaudė pa­
+    raku1 2. Tačiau gynybai vadovavęs komtūras Jonas Meldinge-
+    nas ir narsus riteris Jonas Pfirtas davė smarkų atkirtį ir užtęsė
+    1 Wigand. - Ap. Voigt. - B. V. - S. 367.
+    2 Pirmasis istorijoje paminėjimas apie lietuvių panaudotą šaunamąjį gin­
+    klą. Parako išradimas visų pirma priskiriamas kinams - sakoma, kad iš jų
+    nusižiūrėjo mongolai, o iš šių - arabai. Tačiau parakas buvo naudojamas tik
+    medžioklėje, o karo srityje visiškai nežinomas. XIII amžiuje totoriai mūšyje
+    prie Lignicos žirgus ir žmones, o Kazanės totoriai 1376 metais per Kazanės
+    apgultį ~ rusinus gąsdino saliutais (Engel. Geschichte der Russen. - S. 247j.
+    Regis, Ispanijos arabai pirmieji sumanė minas paraku
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
+
+- id: c-189098
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 313-314"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 313-314."
+  citata_originali: |
+    Pirmiausia atkeliavo
+    1 Vitoldus revocatus a Jagellone Magno Duce, testatur se accepisse Bzescie,
+    Drohiczyn, Mielnik, Bielsko, Surai, Kamieniec, Volkovisk et Grodno cum toto
+    districtu. Promittitque ipsi obsequium et fidelitatem, et quod praemonebit eum
+    de insidis, et consiliis adversa riorum neque mittet quoque legationem ipso
+    inscio, neque repetet patrimonium (Vytautas, Jogailos pavadintas didžiuoju
+    kunigaikščiu, liudija, kad jis pasiima Brastą, Drohičiną, Melniką, Belską,
+    Suražą, Kamenecą, Volkovyską ir Gardiną su visomis apskritimis. Ir paža­
+    da jam paklusnumą ir ištikimybę, ir kad įspės jį apie žabangas bei priešinin­
+    kų sąmokslus. Be to, kad jam nežinant nesiųs jokių pasiuntinybių ir nebesieks
+    tėvonijos). Cromer. Index Arch. Cravoc. - Nr. 380. - An. 1384.
+    2Detmar. - Ap. Voigt. - B. V. - S. 437.
+    .315
+
+    prie Jurbarko pilies1, paliepė iškviesti tenykštį komtūrą; pas­
+    tarasis skubiai su kai kuriais ordino broliais išėjo, prašyda­
+    mas, kad teiktųsi užeiti į pilį
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
+
+- id: c-189099
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 548"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 548."
+  citata_originali: |
+    Vytautas tuo pačiu kartu degina Jurbarką, M arienbur­
+    gą, Ritersverderį, Ragainę ir Memelį.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-014
 
 ## Ryšiai
 - Apgulė Jurbarką: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

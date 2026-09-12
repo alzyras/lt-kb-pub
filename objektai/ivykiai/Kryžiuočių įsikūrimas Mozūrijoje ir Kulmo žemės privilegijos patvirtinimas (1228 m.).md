@@ -46,8 +46,21 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
+<a id="claim-t-205346"></a>
+- t-001
+  teiginys: "1228 m. Hermanas Balkas atvyko į Mozūriją ir užėmė kryžiuočiams skirtą valdą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188085
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: '1228 m. Hermanas Balkas atvyko į Mozūriją ir užėmė kryžiuočiams skirtą valdą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
@@ -68,3 +81,27 @@ Nenurodyta
 ## Santrauka
 
 1228 m. Hermanas Balkas atvyko į Mozūriją ir užėmė kryžiuočiams skirtą valdą.
+
+## Citatos
+
+- id: c-188085
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 304"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 304."
+  citata_originali: |
+    Kryžiuočių įsikūrimas. Naujasis kryžiuočių va­
+    das Hermanas Balkas atvyko į Mozūriją 1228 metais ir
+    tuojau pat užėmė savo valdą, o tų pačių metų balandžio
+    23 dieną Konrado Mazoviečio jam suteikta privilegija bu­
+    vo patvirtinta Kulmo žemės nuosavybė jo valdomo ordi­
+    no reikalams1 2. Vyskupas Kristijonas savo ruožtu taip pat
+    prisidėjo prie kryžiuočių aprūpinimo pastoviomis paja­
+    momis.
+  citata_rodoma: "Naujasis kryžiuočių va­\ndas Hermanas Balkas atvyko į Mozūriją 1228 metais ir \ntuojau pat užėmė savo valdą, o tų pačių metų balandžio \n23 dieną Konrado Mazoviečio jam suteikta privilegija bu­\nvo patvirtinta Kulmo žemės nuosavybė jo valdomo ordi­\nno reikalams1 2. Vyskupas Kristijonas savo ruožtu taip pat \nprisidėjo prie kryžiuočių aprūpinimo pastoviomis paja­\nmomis."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001

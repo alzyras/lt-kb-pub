@@ -139,6 +139,32 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
   pagrindžia:
     - c-85274
 
+<a id="claim-t-205172"></a>
+- t-006
+  teiginys: "Narbutas teigia, kad devyni Prancūzijos riteriai, vadovaujami Hugo iš Pajeno ir Gotfrido iš Sant Omero, įkūrė Tamplierių ordiną."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T21:22:05Z"
+  pagrindžia:
+    - c-188130
+
+<a id="claim-t-205496"></a>
+- t-007
+  teiginys: "Fratres Militiae Christi turėjo vadovautis tamplierių regula."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187930
+
 ## Citatos
 
 - id: c-85272
@@ -224,3 +250,50 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-187930
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 271"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 271."
+  citata_originali: |
+    Ties Dauguvos žioti­
+    mis, vietovėje, vadintoje Sv. Mikalojaus kalnu, dabar —
+    Dinamiunda, įkurtas cistersų vienuolynas, kurio abatas
+    buvo Turaidos klebonas Teodorikas. Galop vyskupas, rem­
+    damasis Popiežiaus leidimu, įsteigė riterių ordiną, vadin­
+    tą Fratres Militiae Christi, kuris turėjo vadovautis
+    tamplierių regula ir priimti kalavijo ir kryžiaus ženklą,
+    nešiojamą ant balto apsiausto.
+  citata_rodoma: "Galop vyskupas, rem­\ndamasis Popiežiaus leidimu, įsteigė riterių ordiną, vadin­\ntą Fratres Militiae Christi, kuris turėjo vadovautis \ntamplierių regula ir priimti kalavijo ir kryžiaus ženklą, \nnešiojamą ant balto apsiausto."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
+- id: c-188130
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 317"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 317."
+  citata_originali: |
+    Tais pačiais metais devy­
+    netas narsių Prancūzijos riterių įkūrė kitą ordiną, kuriam
+    vadovavo Hugo iš Pajeno ir Gotfridas iš Sant Omero. Jo
+    nuostatų pagrindinis principas buvo tas, kad, priešingai
+    Joanitų ordinui, ne riteriai buvo pavaldūs vienuoliams,
+    bet vienuoliai — riteriams. Tad trijų ordino brolių duo­
+    damų įžadų, atrodo, buvo negana vykdyti karių, atsida­
+    vusių Dievo karsto gynėjų, priedermes. Todėl naujieji ri­
+    teriai dar pridėjo ketvirtąjį įžadą — globoti ir ginti pili­
+    grimus, negailint nei savo kraujo, nei gyvybės aukotis
+    nuolatiniuose karuose besigrumiant už Šventąją žemę.
+  citata_rodoma: "Tais pačiais metais devy­\nnetas narsių Prancūzijos riterių įkūrė kitą ordiną, kuriam \nvadovavo Hugo iš Pajeno ir Gotfridas iš Sant Omero. Jo \nnuostatų pagrindinis principas buvo tas, kad, priešingai \nJoanitų ordinui, ne riteriai buvo pavaldūs vienuoliams, \nbet vienuoliai — riteriams. Tad trijų ordino brolių duo­\ndamų įžadų, atrodo, buvo negana vykdyti karių, atsida­\nvusių Dievo karsto gynėjų, priedermes. Todėl naujieji ri­\nteriai dar pridėjo ketvirtąjį įžadą — globoti ir ginti pili­\ngrimus, negailint nei savo kraujo, nei gyvybės aukotis \nnuolatiniuose karuose besigrumiant už Šventąją žemę"
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006

@@ -3,10 +3,13 @@ tipas: asmuo
 pavadinimas: 'Leonas'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.)'
 datos:
+  - '1267 m.'
   - '1280 m.'
-date_start: '1280'
-date_end: ''
+date_start: '1267'
+date_end: '1280'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -40,7 +43,7 @@ canonical_biography: "Kojelavičiaus pasakojime Germantas veržėsi kautis su Le
 
 ## Santrauka
 
-Kojelavičiaus pasakojime Germantas veržėsi kautis su Leonu, nes Leonui priskyrė ankstesnį Lietuvos didžiojo kunigaikščio nužudymą per vaišes.
+Kojelavičiaus pasakojime Germantas veržėsi kautis su Leonu, nes Leonui priskyrė ankstesnį Lietuvos didžiojo kunigaikščio nužudymą per vaišes. Teodoras Narbutas nurodo, kad 1316 m. rugpjūčio 10 d. Leonas ir Andrius, Jurgio sūnūs bei Haličo karaliaus Danieliaus vaikaičiai, įsipareigojo palaikyti gerus santykius su didžiuoju magistru Karoliu. Leonas, Alfredo Bumblausko pateikiamas kaip Haličo kunigaikštis ir Švarno brolis, negavęs Lietuvos sosto iš Vaišelgos, pasikvietė Vaišelgą į svečius ir nužudė Vaišelgą.
 
 ## Teiginiai
 
@@ -64,6 +67,32 @@ Kojelavičiaus pasakojime Germantas veržėsi kautis su Leonu, nes Leonui prisky
   pagrindžia:
     - c-169370
 
+<a id="claim-t-205699"></a>
+- t-002
+  teiginys: "Teodoras Narbutas nurodo, kad 1316 m. rugpjūčio 10 d. Leonas ir Andrius, Jurgio sūnūs bei Haličo karaliaus Danieliaus vaikaičiai, įsipareigojo palaikyti gerus santykius su didžiuoju magistru Karoliu."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188314
+
+## Reikšmingi paminėjimai
+- c-003
+  santrauka: 'Leonas, Alfredo Bumblausko pateikiamas kaip Haličo kunigaikštis ir Švarno brolis, negavęs Lietuvos sosto iš Vaišelgos, pasikvietė Vaišelgą į svečius ir nužudė Vaišelgą.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    1267 m. – Vaišelga Lietuvos sostą
+    perleido savo svainiui Haličo kunigaikščiui Švarnui, Haličo kunigaikštis Leonas (Švarno
+    brolis), negavęs Lietuvos sosto iš Vaišelgos, pasikvietė jį į svečius ir nužudė.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-169370
@@ -88,3 +117,28 @@ Kojelavičiaus pasakojime Germantas veržėsi kautis su Leonu, nes Leonui prisky
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188314
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 376"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 376."
+  citata_originali: |
+    Vytenis išplėtė tas žemes, dėl to vyko ki­
+    virčai su paleistaisiais kunigaikščiais, kurie ir sukėlė pra­
+    ėjusių metų karą. Kryžiuočiai gerai tai žinojo, komtūras
+    iš Birgelavos Zigebergas Svarcburgas buvo Vladimiro
+    kunigaikščių giminaitis. Tad per jį lengvai užsimezgė tų
+    kunigaikščių santykiai su ordinu ir radosi sutartys, ku­
+    riomis kunigaikščiai Leonas ir Andrius, Jurgio sūnūs,
+    Haličo karaliaus Danieliaus vaikaičiai, iškilmingu aktu,
+    1316 metų rugpjūčio 10 dieną rašytu1 2, įsipareigojo būti
+    draugiški ir palaikyti gerus santykius su didžiuoju ma­
+    gistru Karoliu.
+  citata_rodoma: "Tad per jį lengvai užsimezgė tų \nkunigaikščių santykiai su ordinu ir radosi sutartys, ku­\nriomis kunigaikščiai Leonas ir Andrius, Jurgio sūnūs, \nHaličo karaliaus Danieliaus vaikaičiai, iškilmingu aktu, \n1316 metų rugpjūčio 10 dieną rašytu1 2, įsipareigojo būti \ndraugiški ir palaikyti gerus santykius su didžiuoju ma­\ngistru Karoliu."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

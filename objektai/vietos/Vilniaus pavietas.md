@@ -31,6 +31,8 @@ entity_view_role: "place"
 entity_aliases: ["Vilniaus pavietas"]
 sameAs: []
 canonical_biography: "Straipsnio tikslas remiasi XVIII a. Vilniaus pavieto teismų medžiaga. Vilniaus paviete tokio pobūdžio nusikaltimai itin retais atvejais vyko miestelio erdvėje, tačiau jie neįtraukti į tyrimo objektą."
+place_authority: true
+historical_names: []
 ---
 # Vilniaus pavietas
 

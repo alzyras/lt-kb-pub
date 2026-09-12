@@ -266,8 +266,53 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   pagrindžia:
     - c-167703
 
-<a id="claim-t-193552"></a>
+<a id="claim-t-187724"></a>
 - t-012
+  teiginys: "Mykolas Glinskis ir Lietuvos kariuomenė prie Klecko paėmė arba nukovė daugybę totorių ir grįžo į stovyklą su belaisviais bei grobiu."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "kariavo_pries -> Totoriai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Lietuvos kariuomenės smurtinį karinį veiksmą prieš totorius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  semantiniai_rysiai: "Lietuvos kariuomenė kariavo prieš Totoriai (0.90); Mykolas Glinskis kariavo prieš Totoriai (0.88)"
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+  pagrindžia:
+    - c-170663
+
+<a id="claim-t-187725"></a>
+- t-013
+  teiginys: "Per 1406-1408 m. LDK ir Maskvos karą LDK kariuomenė buvo užėmusi Odojevą ir Vorotynską."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "uzeme -> Odojevas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Odojevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad LDK kariuomenė buvo užėmusi Odojevą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  semantiniai_rysiai: "Lietuvos kariuomenė užėmė Odojevas (0.94)"
+  temporaliniai_duomenys: "įvykio data: 1398 m.; įvykio data: 1406 m.; įvykio data: 1406-1408; įvykio data: 1407 m.; įvykio data: 1408 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys ir atitinka citatos informaciją."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  pagrindžia:
+    - c-170664
+
+<a id="claim-t-193552"></a>
+- t-014
   teiginys: "Kovose gimę Lietuvos kariuomenės savanorių pulkai, partizanai mūšiuose dėl nepriklausomybės prarado 1 444 žmones, tačiau apgynė kraštą ir išstūmė iš jo svetimas kariuomenes."
   atnaujinta: "2026-07-06 12:54"
   sprendimo_priezastis: "auto"
@@ -278,48 +323,6 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   pagrindžia:
     - c-176232
 
-## Reikšmingi paminėjimai
-- c-012
-  santrauka: 'Mykolas Glinskis ir Lietuvos kariuomenė prie Klecko paėmė arba nukovė daugybę totorių ir grįžo į stovyklą su belaisviais bei grobiu.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Ir patyrė Lietuvos Didžioji Kunigaikštystė begalinį
-    dievo gailestingumą, o Korano giminė — neapsakomą
-    kraujo praliejimą. Kunigaikštis Mykolas Glinskis ir
-    Lietuvos kariuomenė tą dieną pasiliko prie lavonų, vi­
-    są dieną jodinėdami ir vaikydamiesi aplink Ceprą ir už
-    Cepros, paėmė arba nukovė daugybą totorių, sugrįžo
-    į kariuomenės stovyklą prie Klecko, vesdamiesi su sa­
-    vimi daug belaisvių ir turėdami rankas pilnas aukso,
-    ir sidabro, ir ginklų, ir drabužių, ir brangių žirgų. Ku­
-    pini neapsakomo džiaugsmo ir linksmybės, ramiai pra­
-    leido tą naktį 2 S .
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: not_found
-- c-013
-  santrauka: 'Per 1406-1408 m. LDK ir Maskvos karą LDK kariuomenė buvo užėmusi Odojevą ir Vorotynską.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    * Čia labai apibendrintai Ir glaustai kalbama apie LDK ir
-    Maskvos Didžiosios Kunigaikštystės karų 1406— 1408 m. Karo prie­
-    žastis buvo ne du bebrai ir trys statinės medaus, o  Vytauto progra­
-    ma Išplėsti savo įtakų Pskovo Ir Didžiojo Naugardo bajorų respub­
-    likose ir pasodinti ten savo vietininkus. Karo veiksmai ėjo  LDK
-    rytų pasieniu, Ugios Ir Okos upių ruože, daugiausia dabartinės
-    Kalugos srities teritorijoje. Maskvėnų kariuomenė puolė Vlazmų
-    (1406, 1407 m.|, Serpelskų ir Kozelskų (1406 m.), o LDK kariuomenė
-    buvo užėmus) Odojevų, Vorollnskų. BK. matyt, turim as galvoje
-    Vytauto vadovaujamos LDK kariuomenes žygis 1408 m. rudeni-
-    1  A ndrius Nemyra kituose šaltiniuose nepaliudytas, bet vienas
-    Nemyra (be vardo) jau  figūruoja 1398 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: not_found
 ## Citatos
 
 - id: c-12742
@@ -564,6 +567,55 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   pagrindzia:
     - t-011
 
+- id: c-170663
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Ir patyrė Lietuvos Didžioji Kunigaikštystė begalinį
+    dievo gailestingumą, o Korano giminė — neapsakomą
+    kraujo praliejimą. Kunigaikštis Mykolas Glinskis ir
+    Lietuvos kariuomenė tą dieną pasiliko prie lavonų, vi­
+    są dieną jodinėdami ir vaikydamiesi aplink Ceprą ir už
+    Cepros, paėmė arba nukovė daugybą totorių, sugrįžo
+    į kariuomenės stovyklą prie Klecko, vesdamiesi su sa­
+    vimi daug belaisvių ir turėdami rankas pilnas aukso,
+    ir sidabro, ir ginklų, ir drabužių, ir brangių žirgų. Ku­
+    pini neapsakomo džiaugsmo ir linksmybės, ramiai pra­
+    leido tą naktį 2 S .
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-012
+
+- id: c-170664
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    * Čia labai apibendrintai Ir glaustai kalbama apie LDK ir
+    Maskvos Didžiosios Kunigaikštystės karų 1406— 1408 m. Karo prie­
+    žastis buvo ne du bebrai ir trys statinės medaus, o  Vytauto progra­
+    ma Išplėsti savo įtakų Pskovo Ir Didžiojo Naugardo bajorų respub­
+    likose ir pasodinti ten savo vietininkus. Karo veiksmai ėjo  LDK
+    rytų pasieniu, Ugios Ir Okos upių ruože, daugiausia dabartinės
+    Kalugos srities teritorijoje. Maskvėnų kariuomenė puolė Vlazmų
+    (1406, 1407 m.|, Serpelskų ir Kozelskų (1406 m.), o LDK kariuomenė
+    buvo užėmus) Odojevų, Vorollnskų. BK. matyt, turim as galvoje
+    Vytauto vadovaujamos LDK kariuomenes žygis 1408 m. rudeni-
+    1  A ndrius Nemyra kituose šaltiniuose nepaliudytas, bet vienas
+    Nemyra (be vardo) jau  figūruoja 1398 m.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-013
+
 - id: c-176232
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -582,7 +634,7 @@ Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybinink
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-014
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Lenkai]]

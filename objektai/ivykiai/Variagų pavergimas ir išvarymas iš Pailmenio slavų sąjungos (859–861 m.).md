@@ -40,11 +40,31 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Pasak Narbuto, per dvejus metus slavai nusimetė variagų jungą.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
+<a id="claim-t-205333"></a>
+- t-001
+  teiginys: "Pasak Narbuto, per dvejus metus slavai nusimetė variagų jungą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-188168
+
+## Santrauka
+
+Pasak Narbuto, per dvejus metus slavai nusimetė variagų jungą.
+
+## Citatos
+
+- id: c-188168
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 98"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 98."
   citata_originali: |
     Neaišku, kas ten atsitiko, bet visa ši sąjunga 859
     metais pakliuvo j variagų rankas. Tačiau, kaip liudija
@@ -53,11 +73,10 @@ Nenurodyta
     sios variagai, su kuriais vėliau slavai turėjo glaudžių
     ryšių, tad, susiejus visus šiuos įvykius, kyla kai kurių
     abejonių.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-Pasak Narbuto, per dvejus metus slavai nusimetė variagų jungą.
+  pagrindzia:
+    - t-001

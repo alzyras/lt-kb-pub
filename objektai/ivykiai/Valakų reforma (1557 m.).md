@@ -3,6 +3,7 @@ tipas: ivykis
 pavadinimas: 'Valakų reforma (1557 m.)'
 saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+  - '„Mes, Lietuva.“ LDK bajorija XVI a.'
 datos:
   - '1557 m.'
 date_start: '1557'
@@ -69,6 +70,25 @@ Nenurodyta
   pagrindžia:
     - c-33431
 
+## Reikšmingi paminėjimai
+- c-002
+  santrauka: 'K. Jablonskis Valakų reformą apibūdino kaip griežtai atskyrusią bajorų-šlėktų žemes nuo valstiečių ir įvairių tarnų, įskaitant karo tarnus, žemių.'
+  šaltinis: 02-kiaupiene-mes-lietuva-ldk-bajorija
+  citata_originali: |
+    K. Jablonskis apibūdino ir tuo pat metu įgyvendintus pakeitimus ūkiniame krašto
+    gyvenime, įgyvendintą Valakų reformą, kuri griežtai atskyrė bajorų-šlėktų žemes nuo
+    valstiečių ir visokių tarnų, tarp jų ir karo tarnų, žemių ir visų nesiektų žemes priskyrė
+    prie valdovo žemių ir įtraukė į valakines žemes. Tuo būdu ir valstiečiai, ir visokiausi
+    tarnai virto valakiniais prievoliniais žmonėmis, įvairių valakinių žmonių grupių teisinė
+    padėtis suartėjo, jie nebeteko nuosavybės teisės į žemę ir sudarė vieną valstiečių luomą.
+    Taigi Valakų reforma ir bajorų teisių sulyginimas su ponais išryškino pagrindinių feo-
+    dalinės visuomenės klasių sudėtį, jas pavertė aiškiai vienas nuo kito atskirtais paveldi-
+    mais luomais — bajorų-šlėktų ir valstiečių.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-33431

@@ -119,8 +119,28 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   pagrindžia:
     - c-171309
 
-<a id="claim-t-188421"></a>
+<a id="claim-t-188420"></a>
 - t-005
+  teiginys: "Narbutas Lasickį vadina šių apeigų liudytoju ir teigia, kad Lasickis pridūrė apie atpildą už tikėjimą."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lasickis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Lasickis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lasickis: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Lasickis\" parinktas kaip owner_note_path. Targetas \"Lasickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-171310
+
+<a id="claim-t-188421"></a>
+- t-006
   teiginys: "Narbutas rašo, kad Lasickis pateikė po Ilgių šventės atliekamų mirusiųjų pagerbimo apeigų aprašymą."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -140,7 +160,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
     - c-171311
 
 <a id="claim-t-188423"></a>
-- t-006
+- t-007
   teiginys: "Narbutas naudojosi 1823 m. Vilniaus periodikoje išspausdintu lenkišku Jono Lasickio mitologijos vertimu."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -163,7 +183,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
     - c-171313
 
 <a id="claim-t-197305"></a>
-- t-007
+- t-008
   teiginys: "Jonas Lasickis atsistodavo ant kėdutės veidu į duris, o visi dalyvaujantys nukreipdavo veidus į ją."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -175,7 +195,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
     - c-179117
 
 <a id="claim-t-197306"></a>
-- t-008
+- t-009
   teiginys: "Jonas Lasickis atsistodavo ant kėdutės veidu į duris, o visi dalyviai pakeldavo veidus į ją."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -364,10 +384,12 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   citata_rodoma: "Vaižgantas mums bus maloningas, nes Baniutė, mū­\nsų kaimo gražiausia mergelė, be rikto išstovėjo ant vienos ko­\njos“. Lasickis, šių apeigų liudytojas, priduria, kad už tikėjimą\nsulaukdavę atpildo. Yra ir kitokių padavimų, kuriais pasinau­\ndojome šiame aprašyme."
   statusas: verified
   atnaujinta: "2026-07-12 22:33"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
 - id: c-171311
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
@@ -389,7 +411,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-005
+    - t-006
 
 - id: c-171313
   autorius: "Teodoras Narbutas"
@@ -409,7 +431,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-006
+    - t-007
 
 - id: c-179117
   autorius: "Teodoras Narbutas"
@@ -433,7 +455,7 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-008
 
 - id: c-179118
   autorius: "Teodoras Narbutas"
@@ -457,4 +479,4 @@ Lasickio knygutę « apie Žemaičių dievus », kurioje paprasti kalbos žodži
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-009

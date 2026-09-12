@@ -58,6 +58,19 @@ Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje strukt�
   pagrindžia:
     - c-186606
 
+<a id="claim-t-206246"></a>
+- t-003
+  teiginys: "Teodoras Narbutas perteikia gandus, kad karalius ir Vytautas siekė iš popiežiaus gauti karūną Lietuvos ir Rusios kraštams, o Vytautas ją turėjo užsidėti pagal leno teisę."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-188861
+
 ## Citatos
 
 - id: c-75137
@@ -129,3 +142,23 @@ Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje strukt�
   patikimumo_saltinis: ai
   pagrindzia:
     - t-002
+
+- id: c-188861
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 486"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 486."
+  citata_originali: |
+    Sklinda
+    gandai, kad karalius ir Vytautas ėmėsi žygių rūpindamiesi
+    pas popiežių gauti karališkąją karūną Lietuvos ir Rusios kraš­
+    tams, kurią, jeigu taip atsitiktų, pastarasis turįs užsidėti ant
+    galvos pirm ojo suteikta leno teise; todėl prie jo prisijungs
+    dar daugiau pagonių, o ordinas jau nebebus pajėgus pakelti
+    prieš jį ginklo1.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-003

@@ -46,11 +46,31 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: '1210 metais, surin kęs gausią flotilę, prisiėmęs ten skandinavų plėšikų, už puolė Žemgalą, kurią nusiaubė.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
+<a id="claim-t-205186"></a>
+- t-001
+  teiginys: "1210 metais, surin kęs gausią flotilę, prisiėmęs ten skandinavų plėšikų, už puolė Žemgalą, kurią nusiaubė."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187961
+
+## Santrauka
+
+1210 metais, surin kęs gausią flotilę, prisiėmęs ten skandinavų plėšikų, už puolė Žemgalą, kurią nusiaubė.
+
+## Citatos
+
+- id: c-187961
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 286"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 286."
   citata_originali: |
     1210 metais, surin­
     kęs gausią flotilę, prisiėmęs ten skandinavų plėšikų, už­
@@ -60,11 +80,10 @@ Nenurodyta
     mas, vien tik siekiant prisiplėšti grobio, tikriausiai sukė­
     lė prūsų pasipiktinimą krikščionimis ir turėjo gerokai pa­
     kenkti taikiu būdu plėtojant krikščionybę.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-1210 metais, surin kęs gausią flotilę, prisiėmęs ten skandinavų plėšikų, už puolė Žemgalą, kurią nusiaubė.
+  pagrindzia:
+    - t-001

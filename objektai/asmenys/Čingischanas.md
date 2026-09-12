@@ -68,6 +68,18 @@ canonical_biography: "1223 m. Čingischanas pasiuntė Bojaduro ir Cipnoviano vad
   pagrindžia:
     - c-174372
 
+<a id="claim-t-205740"></a>
+- t-002
+  teiginys: "Pasak Narbuto, Temučinas po priklausomybės nuo niučių karaliaus pasiskelbė vienvaldžiu ir pasivadino Didžiuoju Chanu, arba Čingischanu."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188355
+
 ## Citatos
 
 - id: c-174372
@@ -94,3 +106,25 @@ canonical_biography: "1223 m. Čingischanas pasiuntė Bojaduro ir Cipnoviano vad
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-188355
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 85"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 85."
+  citata_originali: |
+    Kurį laiką jis dar buvo priklausomas
+    nuo aukščiausiojo niučių karaliaus, kuris lavino jį kaip
+    karį. Galop pasiskelbė vienvaldžiu ir kiekvieną savo
+    žingsnį pradėdavo nepaprastu žiaurumu, kartais dosnu­
+    mu, meilumu ar sakydamas esąs apdovanotas antgam-
+    čiais sugebėjimais, šitaip prasimanytomis suktybėmis jis
+    stengėsi sukurti apie save nuomonę. Vėliau pasivadino
+    Didžiuoju Chanu, kitaip — Čingischanu, kas jų,kalba reiš­
+    kė tą patį.
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

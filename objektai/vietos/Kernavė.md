@@ -365,6 +365,70 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   pagrindžia:
     - c-184415
 
+<a id="claim-t-205491"></a>
+- t-020
+  teiginys: "Lietuvoje tautiniais seimais pasižymėjo Kernavė."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188038
+
+<a id="claim-t-205776"></a>
+- t-021
+  teiginys: "Anot Teodoro Narbuto, po Trobiaus mirties į Kernavę sukviesti Lietuvos, Žemaitijos ir Rusios didikai Narimantą paskelbė didžiuoju kunigaikščiu, laikydami jį teisėtu paveldėtoju."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188391
+
+<a id="claim-t-205777"></a>
+- t-022
+  teiginys: "Anot Teodoro Narbuto, Narimantas paliko senelio Giligino įkurtą rezidenciją Rusios Naugarduke ir persikėlė į Kernavę, kad iš arčiau stebėtų šalies gyvenimą."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188392
+
+<a id="claim-t-205778"></a>
+- t-023
+  teiginys: "Anot Teodoro Narbuto, pasklidus žiniai apie didžiojo kunigaikščio mirtį, Daumantas su Polocko rusinais patraukė į Kernavę, siekdamas joje įsiviešpatauti."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188393
+
+<a id="claim-t-206502"></a>
+- t-024
+  teiginys: "Teodoro Narbuto pasakojime Kernavė apibūdinta kaip stiprus punktas prie Neries su trimis įtvirtintomis pilimis; jų vadai, sudeginę medines sienas ir namus, pasitraukė anapus Neries."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189117
+
 ## Reikšmingi paminėjimai
 - c-009
   santrauka: 'Kernavė buvo įkurta prie upės kranto kaip nausėdija ir pilis, kadaise buvusi Lietuvos sostinė.'
@@ -934,6 +998,111 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   patikimumo_saltinis: ai
   pagrindzia:
     - t-019
+
+- id: c-188038
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 377"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 377."
+  citata_originali: |
+    Prūsijoje yra
+    dvi vietovės, atmintinos sueigomis: viena, anot p. Foig-
+    to, prie dabartinio Romansguto, tarp Šventosios Seker-
+    kos ir Brandenburgo, kur iki šiol turi būti didžiulis me­
+    dis, kita — Sambijoje, prie Pabėči'ų. Lietuvoje tautiniais
+    seimais pasižymėjo Kernavė.
+  citata_rodoma: "Lietuvoje tautiniais \nseimais pasižymėjo Kernavė."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-020
+
+- id: c-188391
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 248"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 248."
+  citata_originali: |
+    1280 m. Narimantas, didysis Lietuvos kunigaikštis.
+    Po Trobiaus mirties Lietuvos, Žemaitijos ir Rusios didi­
+    kai, sukviesti į Kernavę, kaip teisėtą paveldėtoją didžiuo­
+    ju kunigaikščiu paskelbė Narimantą, Romunto sūnų, o
+    ano vaikaitį, vyriausiąjį iš brolių.
+  citata_rodoma: "Po Trobiaus mirties Lietuvos, Žemaitijos ir Rusios didi­\nkai, sukviesti į Kernavę, kaip teisėtą paveldėtoją didžiuo­\nju kunigaikščiu paskelbė Narimantą, Romunto sūnų, o \nano vaikaitį, vyriausiąjį iš brolių."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-021
+
+- id: c-188392
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 248"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 248."
+  citata_originali: |
+    Tas didysis kunigaikštis per tingumą
+    ar stoką gabumų valdyti subūrė tarybą iš parinktų aukš­
+    tųjų monarchijos didikų. Juk nuo jo laikų jau matome
+    esant nuolatines oficialias pareigas, vadintas senatorinė-
+    mis: maršalką, arklidininką ir t. t. Regis, kad Narimantui
+    tai buvo būdas apsisaugoti nuo savo brolių, kuriais ne
+    itin pasitikėjo. Jis paliko rezidenciją Rusios Naugarduke,
+    įkurtą jo senelio Giligino, persikėlė į Kernavę, kad, bū­
+    damas valstybės viduryje, galėtų iš arčiau stebėti, kas
+    dedasi šalies gyvenime.
+  citata_rodoma: "Jis paliko rezidenciją Rusios Naugarduke, \nįkurtą jo senelio Giligino, persikėlė į Kernavę, kad, bū­\ndamas valstybės viduryje, galėtų iš arčiau stebėti, kas \ndedasi šalies gyvenime."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-022
+
+- id: c-188393
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 258"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 258."
+  citata_originali: |
+    įvykiai, dėjęsi po Traidenio mirties. Vos spėjo pasklisti
+    žinia apie didžiojo kunigaikščio mirtį, Daumantas su Po­
+    locko rusinais jau betraukiu įsiviešpatauti Kernavėje. Tos
+    žinios pritrenkė visą valstybę, juk kiekvienas galėjo leng­
+    vai numanyti, kiek prarado tėvynė, mirus šiam kariui,
+    ypač nesantaikos su lenkais ir vokiečiais laikais, kiek
+    žmonių kraujo pralies Daumantas, būdamas įpykęs ant
+    aukštųjų didikų ir nuo seno savosios tėvynės nedraugas.
+  citata_rodoma: "Vos spėjo pasklisti \nžinia apie didžiojo kunigaikščio mirtį, Daumantas su Po­\nlocko rusinais jau betraukiu įsiviešpatauti Kernavėje."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-023
+
+- id: c-189117
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 380"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 380."
+  citata_originali: |
+    Taigi pirmiausia reikėjo užimti stiprų punktą, didžiau­
+    sią prie šios upės, dėl to nusprendė apsupti Kernavę, iš tiesų
+    apleistą miestą, tačiau turintį tris įtvirtintas pilis, pastaraisiais
+    metais paties Vytauto iš naujo atstatytas. Vadai tose tvirtovėse
+    ar dėl išdavystės, ar išsigandę didžiulės juos apsupančios ka­
+    riaunos, padegę medines sienas ir namus, su visais žmonėmis
+    pabėgo anapus Neries.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-024
 
 ## Ryšiai
 - Užėmė Kernavę: [[objektai/grupes/Kryžiuočių ordinas]]

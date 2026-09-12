@@ -120,6 +120,19 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
   pagrindžia:
     - c-161007
 
+<a id="claim-t-205768"></a>
+- t-005
+  teiginys: "Giedrius, kaip pasakoja Teodoras Narbutas, dešiniajame Neries krante prie Klemento ežero įkūrė rezidencinę pilį ir pavadino ją Giedraičiais."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188383
+
 ## Citatos
 
 - id: c-161004
@@ -230,6 +243,29 @@ Persigrupavusi Lietuvos kariuomenė tik lapkričio viduryje sustabdė lenkų dal
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
+
+- id: c-188383
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 535"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 535."
+  citata_originali: |
+    Tad toje vietoje, prie Karoblio upės,
+    pastatė miestą, į kurį persikėlė gyventi; ir šitaip atsirado
+    kunigaikščių alšėniškių vardas
+    (Rankraštinė Lietuvos
+    (Bychovco) kronika.— P. 20).
+    Giedrius gavo plačią valdą dešiniajame Neries krante,
+    kurioje už šešių mylių nuo Vilnios ¡tekėjimo į Nerį įkūrė
+    rezidencinę pilį prie Klemento ežero, kurią pavadino pa­
+    gal savo vardą Giedraičiais.
+  citata_rodoma: "Giedrius gavo plačią valdą dešiniajame Neries krante, \nkurioje už šešių mylių nuo Vilnios ¡tekėjimo į Nerį įkūrė \nrezidencinę pilį prie Klemento ežero, kurią pavadino pa­\ngal savo vardą Giedraičiais."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
 
 ## Ryšiai
 - Užėmė Giedraičiai: [[objektai/grupes/Lenkai]]

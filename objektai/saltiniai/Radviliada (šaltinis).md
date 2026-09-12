@@ -1,0 +1,52 @@
+---
+tipas: saltinis
+pavadinimas: 'Radviliada (šaltinis)'
+identifikacija: 'šaltinis'
+variantai:
+  - 'Radviliada'
+aliases:
+  - 'Radviliada'
+saltiniai:
+  - '„Mes, Lietuva.“ LDK bajorija XVI a.'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Radviliada (šaltinis)
+
+## Santrauka
+
+Epinės poemos „Radviliada“ autorius yra Jonas Radvanas.
+
+## Santrauka
+
+Epinės poemos „Radviliada“ autorius yra Jonas Radvanas.
+
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Epinės poemos „Radviliada“ autorius yra Jonas Radvanas.'
+  šaltinis: 02-kiaupiene-mes-lietuva-ldk-bajorija
+  citata_originali: |
+    „Mes, Lietuva"
+    Uetuvos Didžiosios Kunigaikštystės bajorija XVI a.
+    Šiais žodžiais į lyrinį herojų, Lietuvos Didžiosios Kuni-
+    gaikštystės didįjį etmoną, karo strategą ir vadą Mikalojų Radvilą Rudąjį kreipiasi
+    XVI a. pabaigoje lotynų kalba parašytos epinės poemos „Radviliada" autorius Jo-
+    nas Radvanas.
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified

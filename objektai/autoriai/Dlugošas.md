@@ -48,6 +48,19 @@ Dlugošas net yra užrašęs žinią, kad Krokuvos ponai, nors bendrai imant, ir
   pagrindžia:
     - c-177363
 
+<a id="claim-t-205316"></a>
+- t-002
+  teiginys: "Dlugošas, nepalankus lietuviams, pasakė apie ¡uos (Lib."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187918
+
 ## Citatos
 
 - id: c-177363
@@ -75,3 +88,25 @@ Dlugošas net yra užrašęs žinią, kad Krokuvos ponai, nors bendrai imant, ir
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-187918
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 178"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 178."
+  citata_originali: |
+    Dlugošas, nepalankus lietuviams, pasakė apie ¡uos (Lib. X. —
+    P. 117) taip: Inter septemtrionales populos obscurissimi, Ruthenorum
+    servituti et tributis vilibus obnoxii, ut cuivis mirum videatur, ad tan­
+    tam eos felicitatem sive per propriam virtutem, sive per finitimorum
+    ignaviam et desidiam provevectos, ut imperent nunc Ruthenis, sub
+    quorum imperio annis prope mille veluti servile vulgus fuere. Šiuose
+    žodžiuose akivaizdžiai pastebimas perlenkimas visose smulkmenose.
+    Aišku tik tai, kad, remdamasis šaltiniais, konstatavo lietuvių egzista­
+    vimą greta slavų, jų kaimynystėje.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

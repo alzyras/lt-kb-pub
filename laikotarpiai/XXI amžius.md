@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XXI amžius"
 periodo_pradzia: 2001
 periodo_pabaiga: 2100
-periodo_objektu_skaicius: 703
+periodo_objektu_skaicius: 702
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 703.
+Objektų skaičius: 702.
 
 ## Susiję objektai
 
@@ -575,7 +575,6 @@ Objektų skaičius: 703.
 - [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.)]]
 - [[objektai/ivykiai/Lietuvos žemės ūkio kolektyvizacija (1948–1952 m.)]]
 - [[objektai/ivykiai/Liublino unijos akto priėmimas ir patvirtinimas (1569 m.)]]
-- [[objektai/ivykiai/Lucko suvažiavimas]]
 - [[objektai/ivykiai/Magdeburgo teisių suteikimas Lietuvos miestams]]
 - [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.)]]
 - [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas (krikštas)]]

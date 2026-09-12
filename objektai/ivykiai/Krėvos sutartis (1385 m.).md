@@ -3,6 +3,7 @@ tipas: ivykis
 pavadinimas: 'Krėvos sutartis (1385 m.)'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Lietuvos Didžioji Kunigaikštija ir jos tradicija'
 datos:
   - '1385 m.'
   - '1387 m.'
@@ -13,6 +14,7 @@ atnaujinta: ''
 tags:
   - sutartis
   - ivykis
+  - pilis
 amziai:
   - 'XIV'
 media_total_count: '0'
@@ -32,7 +34,7 @@ media_all_json: |-
 
 ## Santrauka
 
-1385 Krėvos sutartis. Išeitis buvo 1385 m. sudaryta Krėvos sutartis su Lenkija, pagal kurią Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi. 1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija.
+Krėvos sutartį sudaryti skatino ypač įnirtingi vokiečių puolimai ir prieš sutartį sekančios Lietuvos jėgos. Krėvos sutartyje Jogaila įsipareigojo vesti Jadvygą, įvesti Lietuvoje katalikybę ir „prišlieti“ Lietuvą prie Lenkijos. Krėvos sutartimi Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.
 
 ## Laikotarpis ir datos
 
@@ -164,6 +166,19 @@ Nenurodyta
   pagrindžia:
     - c-166619
 
+## Reikšmingi paminėjimai
+- c-006
+  santrauka: 'Alfredo Bumblausko interpretacijoje Krėvos sutartis sukūrė politinę sistemą, kurioje viršenybė priklausė Lenkijai.'
+  šaltinis: 01-bumblauskas-ldk-ir-jos-tradicija
+  citata_originali: |
+    os sutartis sukūrė politinę sistemą, kurioje viršenybė priklausė Lenkijai, o šiai
+    sistemai – Lenkijos ir Lietuvos personalinei unijai – vadovauti Jogailai tapus Lenkijos ka-
+    raliumi iškelti Gediminaičiai, tapę lenkiškąja šios giminės šaka – Jogailaičiais. Ši
+  citata_rodoma: ''
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  statusas: verified
 ## Citatos
 
 - id: c-22972

@@ -55,6 +55,19 @@ Teodoro Narbuto vertinimu, Dalinas su Kelsijumi pernelyg įsismagino skaičiuoda
   pagrindžia:
     - c-174550
 
+<a id="claim-t-205464"></a>
+- t-002
+  teiginys: "Narbutas remiasi Dalino chronologiniais apskaičiavimais, priskirdamas Įvarą Vidfudmį VII amžiaus Skandinavijos valdovams."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187708
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Teodoro Narbuto vertinimu, Dalinas su Kelsijumi pernelyg įsismagino skaičiuodami Baltijos jūros nusekimą nuo Kristaus gimimo.'
@@ -111,3 +124,26 @@ Teodoro Narbuto vertinimu, Dalinas su Kelsijumi pernelyg įsismagino skaičiuoda
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-187708
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 71"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 71."
+  citata_originali: |
+    Valdant Švedijos karaliui įvarui Vidfudmui, kuris, re­
+    miantis chronologiniais Torfėjaus ir Dalino apskaičiavi­
+    mais, priskirtinas prie VII amžiaus skandinavų valdovų,
+    pastarieji nuolatinai įsikūrė Ostrogardijoje, būtent Rusio­
+    je. Sis įvaras buvo garsus užkariautojas — prijungė Da­
+    niją prie Švedijos, užgrobė dalį Žemutinės Saksonijos ir
+    Nordumberlando kunigaikštystę Anglijoje. Buvo tai smul­
+    kus kunigaikštukas, kokie tais laikais jau ganėtinai smar­
+    kiai buvo paplitę.
+  citata_rodoma: "Valdant Švedijos karaliui įvarui Vidfudmui, kuris, re­\nmiantis chronologiniais Torfėjaus ir Dalino apskaičiavi­\nmais, priskirtinas prie VII amžiaus skandinavų valdovų, \npastarieji nuolatinai įsikūrė Ostrogardijoje, būtent Rusio­\nje."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

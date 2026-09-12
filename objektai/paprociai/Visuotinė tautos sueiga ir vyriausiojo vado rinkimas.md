@@ -39,11 +39,31 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
-- c-001
-  santrauka: 'Narbutas teigia, kad prieš VI amžių lietuvių tauta neturėjo karaliaus ir buvo valdoma bendruomenės vyresnybės.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
+<a id="claim-t-205164"></a>
+- t-001
+  teiginys: "Narbutas teigia, kad prieš VI amžių lietuvių tauta neturėjo karaliaus ir buvo valdoma bendruomenės vyresnybės."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T21:22:05Z"
+  pagrindžia:
+    - c-187741
+
+## Santrauka
+
+Narbutas teigia, kad prieš VI amžių lietuvių tauta neturėjo karaliaus ir buvo valdoma bendruomenės vyresnybės.
+
+## Citatos
+
+- id: c-187741
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 36"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 36."
   citata_originali: |
     Bet tai, ką yra nurodęs Stela ir ką kartoja daugelis
     kronikininkų, esą lietuvių tauta prieš VI amžių neturėjo
@@ -52,11 +72,10 @@ Nenurodyta
     visus reikalus, susijusius su visuotiniu turtu. Betgi karo
     metu buvo renkamas vyriausiasis vadas, jam suteikiamas
     karaliaus titulas.
-  citata_rodoma: ''
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  statusas: verified
-## Santrauka
-
-Narbutas teigia, kad prieš VI amžių lietuvių tauta neturėjo karaliaus ir buvo valdoma bendruomenės vyresnybės.
+  pagrindzia:
+    - t-001

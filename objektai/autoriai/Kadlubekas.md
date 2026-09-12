@@ -57,6 +57,19 @@ Kadlubekas aprašė Maslavo karą su lenkų karaliumi Kazimieru, kuriame jotving
   pagrindžia:
     - c-174462
 
+<a id="claim-t-205256"></a>
+- t-002
+  teiginys: "Kadlubekas dar atsimena, kad tuo metu, kai Boleslovas Narsusis puolė Prūsiją, ne buvo ten būstų, kuriuos būtų buvę galima pripažinti esant patogius."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187823
+
 ## Citatos
 
 - id: c-174462
@@ -82,3 +95,24 @@ Kadlubekas aprašė Maslavo karą su lenkų karaliumi Kazimieru, kuriame jotving
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-187823
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 411"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 411."
+  citata_originali: |
+    Galop galima pasakyti,
+    kad lietuvių tautai statybos nerūpėjo, juk iki Gedimino
+    laikų mūrų buvo labai reta. Kadlubekas dar atsimena,
+    kad tuo metu, kai Boleslovas Narsusis puolė Prūsiją, ne­
+    buvo ten būstų, kuriuos būtų buvę galima pripažinti esant
+    patogius. Tačiau vėlesniais laikais visame Prūsijos krašte
+    buvo gausu tgerai pastatytų namų1.
+  citata_rodoma: "Kadlubekas dar atsimena, \nkad tuo metu, kai Boleslovas Narsusis puolė Prūsiją, ne­\nbuvo ten būstų, kuriuos būtų buvę galima pripažinti esant \npatogius. Tačiau vėlesniais laikais visame Prūsijos krašte \nbuvo gausu tgerai pastatytų namų1."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

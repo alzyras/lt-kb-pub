@@ -48,6 +48,19 @@ Rengėjų išvados sieja Lietuvos metraščių Platesniojo sąvado sukūrimą su
   pagrindžia:
     - c-176766
 
+<a id="claim-t-194154"></a>
+- t-002
+  teiginys: "Lietuvos metraščių Platesniojo sąvado pastaboje nurodoma, kad Lietuvos valstybė siekė Būgą, bet niekada nesiekė pačios Vislos."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-176767
+
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Rengėjų išvados sieja Lietuvos metraščių Platesniojo sąvado sukūrimą su Alberto Goštauto iniciatyva XVI a. antrajame dešimtmetyje, prieš 1519 m.'
@@ -63,23 +76,6 @@ Rengėjų išvados sieja Lietuvos metraščių Platesniojo sąvado sukūrimą su
     to Goštauto iniciatyva, dar jam gyvam esant, netrukus
     po Platesniojo sąvado, antrojo ir trečiojo XVI a. de­
     šimtmečių riboje, gal būt, tarp 1519—1521 ar 1525 m.
-  citata_rodoma: ''
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  statusas: verified
-- c-002
-  santrauka: 'Lietuvos metraščių Platesniojo sąvado pastaboje nurodoma, kad Lietuvos valstybė siekė Būgą, bet niekada nesiekė pačios Vislos.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    1 5  Lietuvos valstybė siekė Vislos upės intaką Būgą, bet pačios
-    Vislos niekada nesiekė.
-    2«
-    ' BK pasakojimas apie Jogailos vedybas su Lenkijos sosto įpė­
-    dine Jadvyga ir Lietuvos krikštą remiasi Lietuvos metraščių TS pa­
-    sakojimu, kuris be didesnių pakeitimų yra pakartotas ir PS. BK jis
-    perdirbtas Ir išplėstas, turi originalaus pobūdžio, kaip ir ankstes­
-    nis pasakojimas apie Jogailos žygj j Lenkiją.
   citata_rodoma: ''
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
@@ -111,3 +107,24 @@ Rengėjų išvados sieja Lietuvos metraščių Platesniojo sąvado sukūrimą su
   patikimumo_saltinis: ai
   pagrindzia:
     - t-001
+
+- id: c-176767
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    1 5  Lietuvos valstybė siekė Vislos upės intaką Būgą, bet pačios
+    Vislos niekada nesiekė.
+    2«
+    ' BK pasakojimas apie Jogailos vedybas su Lenkijos sosto įpė­
+    dine Jadvyga ir Lietuvos krikštą remiasi Lietuvos metraščių TS pa­
+    sakojimu, kuris be didesnių pakeitimų yra pakartotas ir PS. BK jis
+    perdirbtas Ir išplėstas, turi originalaus pobūdžio, kaip ir ankstes­
+    nis pasakojimas apie Jogailos žygj j Lenkiją.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-002

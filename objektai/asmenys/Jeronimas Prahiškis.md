@@ -118,6 +118,32 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
   pagrindžia:
     - c-172896
 
+<a id="claim-t-206291"></a>
+- t-005
+  teiginys: "Karalius iš Krokuvos pasiuntė vienuolį kamaldulį Jeronimą Prahiškį pas Vytautą; atvykęs į Gardiną ir gavęs saugumo garantiją, jis buvo išsiųstas į pagonybę išpažįstančius valsčius."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188906
+
+<a id="claim-t-206292"></a>
+- t-006
+  teiginys: "Teodoras Narbutas aprašo, kad Jeronimas Prahiškis peržegnojo parkritusį žmogų ir liepė jam stotis, o įvykis buvo palaikytas stebuklingu."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188907
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Jeronimas Prahiškis 1416 m. birželio 21 d. buvo sudegintas gyvas Konstancoje.'
@@ -281,6 +307,43 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
   patikimumo_saltinis: ai
   pagrindzia:
     - t-003
+
+- id: c-188906
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 349"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 349."
+  citata_originali: |
+    Pirmasis at-
+    vertėjas buvo vienuolis kamaldulis Jeronimas Prahiškis. Šį**
+    karalius pasiuntė iš Krokuvos ir pavedė kunigaikščiui Vytautui;
+    atvykęs į Gardiną, gavęs deramą saugumo garantiją, buvo pa­
+    siųstas į valsčius, išpažįstančius pagonybę* 1 2.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
+- id: c-188907
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 353"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 353."
+  citata_originali: |
+    Jeronimui, kad dievams pašvęstų medžių nevalia naikinti
+    nebaudžiamiems; pastarasis aiškino juos klystant, sakydamas,
+    kad tai esančios velnio žabangos; peržegnojo, liepė parkritu­
+    siam žmogui stotis ir įtikino nė kiek aną nesusižeidus, netgi vi­
+    sai neįsikirtus. Tas įvykis buvo palaikytas stebuklingu, juolab
+    karščiau imtasi naikinti religinius paminklus.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
 
 ## Ryšiai
 - Jeronimas Prahiškis mirė [[objektai/vietos/Konstanca]]

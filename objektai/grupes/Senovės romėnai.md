@@ -154,8 +154,28 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   pagrindžia:
     - c-172262
 
-<a id="claim-t-189377"></a>
+<a id="claim-t-189376"></a>
 - t-007
+  teiginys: "Narbutas perteikia Strijkovskio teiginį, kad ugnies apeigomis buvo pamėgdžiojami romėnai per Palilėjų šventes deivės Palės garbei."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Romėnai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Senovės romėnai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Romėnai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Senovės romėnai\" parinktas kaip owner_note_path. Targetas \"Romėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-172263
+
+<a id="claim-t-189377"></a>
+- t-008
   teiginys: "Narbutas rašo, kad romėnai laukų apvalymo apeigas vadino Ambervales arba Cum solemnia vota lustrare agros."
   atnaujinta: "2026-07-19 18:48"
   sprendimo_priezastis: "auto"
@@ -175,7 +195,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     - c-172264
 
 <a id="claim-t-189378"></a>
-- t-008
+- t-009
   teiginys: "Narbutas rašo, kad romėnai per vestuves nukirpdavo kasas, aukodavo jas Junonai ir šią pakirptuvių apeigą vadino Heratelea."
   atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
@@ -188,7 +208,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     - c-172263
 
 <a id="claim-t-194588"></a>
-- t-009
+- t-010
   teiginys: "Savo ruožtu romėnai - kuo jie darėsi galingesni ir labiau apsišvietę, tuo labiau grimzdo į daugiadievystės chaosą."
   atnaujinta: "2026-07-26 23:35"
   sprendimo_priezastis: "auto"
@@ -201,7 +221,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     - c-176992
 
 <a id="claim-t-194589"></a>
-- t-010
+- t-011
   teiginys: "Graikai bei romėnai, kuriuos šiame veikale minėsime va dindami apskritai Antikos žmonėmis, turėjo dvi atitinkamas dievybes - Sors ir Fatum. Pirmoji deivė buvo lemtis, valdanti pasaulį ir dievus, antrajai buvo pripažįstama vienvaldė galia viskam."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -214,7 +234,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     - c-176988
 
 <a id="claim-t-194590"></a>
-- t-011
+- t-012
   teiginys: "Narbutas teigia, kad šio dievo mitas taip pat sutampa su senovės persų Oromazu ir Arimanu, iš kurių, matyt, ir kilęs."
   atnaujinta: "2026-07-19 17:58"
   sprendimo_priezastis: "auto"
@@ -227,7 +247,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     - c-176989
 
 <a id="claim-t-194591"></a>
-- t-012
+- t-013
   teiginys: "Romėnų DU Penates, Lares ir 1.1., lie tuvių Siejmi Dewas, Gulbi ir 1.1, buvo šios rūšies dievaičiai, tik jie buvo visiems bendri, garbinami visų krašto žmonių, jų es mę suprasdavo ir juos įsivaizduodavo pagal kitų dievų pavyz dį, jiems skirtas maldas jungdavo."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -240,7 +260,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     - c-176990
 
 <a id="claim-t-194592"></a>
-- t-013
+- t-014
   teiginys: "Senovėje žalčių garbinimas buvo visuotinis: indai, chaldėjai, egiptiečiai, persai, finikiečiai, graikai, romėnai, gotai ir dau gelis kitų tautų nebuvo laisvos nuo tų prietarų."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -253,7 +273,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     - c-176991
 
 <a id="claim-t-194593"></a>
-- t-014
+- t-015
   teiginys: "Negalime neigti, kad senovės lietuviai nesmerkė savižudy bės; juk nepalyginti labiau apsišvietę graikai ir romėnai buvo tos pačios nuomonės."
   atnaujinta: "2026-07-12 22:33"
   sprendimo_priezastis: "auto"
@@ -266,7 +286,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     - c-176992
 
 <a id="claim-t-194594"></a>
-- t-015
+- t-016
   teiginys: "Lietuviai, tiesą sakant, neturėjo savo heraldikos, kuri yra viduramžių padaras, išsirutuliojęs Pietų Europoje, bet žymes ni asmenys pasirinkdavo patinkamus antspaudus, kuriais vie toj parašų patvirtindavo savo raštus - taip, kaip romėnai9."
   atnaujinta: "2026-07-26 17:49"
   sprendimo_priezastis: "auto"
@@ -279,7 +299,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     - c-176993
 
 <a id="claim-t-197221"></a>
-- t-016
+- t-017
   teiginys: "Tas tikėjimas V amžiaus pabaigoje arba VI amžiaus pradžioje kažkokiu bū du susigiminiavo su senovės romėnų tikyba, tikriausiai ne itin svetima lietuvių protėviams dėl jų kraujo giminystės ir santy kių rytuose su graikais2."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -291,7 +311,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     - c-176987
 
 <a id="claim-t-197222"></a>
-- t-017
+- t-018
   teiginys: "Per sai, romėnai ir kiti kaip tik kalėdiniu laikotarpiu, arba prieš metų pabaigą, šventė paslaptingą Mitros šventę: atgailaudavo už nuodėmes, savo misterijose vaizduodavo gamtos atgimi mą, rengdavosi naujam, doram gyvenimui."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -303,7 +323,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
     - c-179072
 
 <a id="claim-t-197223"></a>
-- t-018
+- t-019
   teiginys: "Toks vainikas senovės prūsų tarme vadinosi apglobtė (Abglojte), kas reiškia nuometą."
   atnaujinta: "2026-07-12 22:32"
   sprendimo_priezastis: "auto"
@@ -508,7 +528,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-008
+    - t-007
+    - t-009
 
 - id: c-172264
   autorius: "Teodoras Narbutas"
@@ -530,7 +551,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-007
+    - t-008
 
 - id: c-172265
   autorius: "Teodoras Narbutas"
@@ -553,7 +574,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-018
+    - t-019
 
 - id: c-176987
   autorius: "Teodoras Narbutas"
@@ -578,7 +599,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-016
+    - t-017
 
 - id: c-176988
   autorius: "Teodoras Narbutas"
@@ -600,7 +621,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-010
+    - t-011
 
 - id: c-176989
   autorius: "Teodoras Narbutas"
@@ -619,7 +640,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-011
+    - t-012
 
 - id: c-176990
   autorius: "Teodoras Narbutas"
@@ -643,7 +664,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-012
+    - t-013
 
 - id: c-176991
   autorius: "Teodoras Narbutas"
@@ -662,7 +683,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-013
+    - t-014
 
 - id: c-176992
   autorius: "Teodoras Narbutas"
@@ -682,8 +703,8 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-009
-    - t-014
+    - t-010
+    - t-015
 
 - id: c-176993
   autorius: "Teodoras Narbutas"
@@ -705,7 +726,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-015
+    - t-016
 
 - id: c-179072
   autorius: "Teodoras Narbutas"
@@ -730,7 +751,7 @@ Narbutas vaizduoja romėnų karalystę kaip Lacijuje užsimezgusią tautą, kuri
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-017
+    - t-018
 
 ## Ryšiai
 - Senovės romėnai pastatė [[objektai/daiktai/Aukurai]]

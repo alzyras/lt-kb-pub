@@ -30,6 +30,8 @@ entity_view_role: "place"
 entity_aliases: ["Žydų gatvė"]
 sameAs: []
 canonical_biography: "1747 m. Juozapo Šymako organizuota gauja užpuolė Dominyko Savanevskio mūrinį namą Žydų gatvėje, siekdama išvyti Antaną Škapeckį."
+place_authority: true
+historical_names: []
 ---
 # Žydų gatvė
 

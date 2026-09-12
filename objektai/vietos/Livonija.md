@@ -1444,6 +1444,58 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   pagrindžia:
     - c-186628
 
+<a id="claim-t-205338"></a>
+- t-080
+  teiginys: "Tučtuo jau Livonijoje valdžią paėmė kryžiuotis, būtent buvęs Prū sijos provincijos magistras."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-187894
+
+<a id="claim-t-205791"></a>
+- t-081
+  teiginys: "Lietuvos kunigaikštis Rimgaudas, surinkęs savo ir sąjungininkų pulkus, įsiveržė į Livoniją, nusiaubė jos plotus ir sudegino daug kaimų bei miestelių, neturėjusių tvirtovių."
+  atnaujinta: "2026-08-12 08:57"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188406
+
+<a id="claim-t-206515"></a>
+- t-082
+  teiginys: "Teodoras Narbutas aprašo, kad dešimt dienų prie Izborsko kovojęs priešas, sužinojęs apie Algirdo kariaunos artėjimą, sudegino techniką ir pasitraukė į Livoniją."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189130
+
+<a id="claim-t-206516"></a>
+- t-083
+  teiginys: "Teodoras Narbutas rašo, kad kryžiuočiai, plėsdami pasaulietinę ir bažnytinę valdžią, siekė perimti Livonijos vyskupijos valdas taip, kaip anksčiau buvo pasielgę Prūsijoje."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189131
+
 ## Reikšmingi paminėjimai
 - c-030
   santrauka: 'Danijos karaliaus Valdemaro II valdžia plito vokiečių užkariautoje Livonijoje ir Rygoje.'
@@ -3352,6 +3404,83 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   patikimumo_saltinis: ai
   pagrindzia:
     - t-079
+
+- id: c-187894
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 332"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 332."
+  citata_originali: |
+    Tučtuo­
+    jau Livonijoje valdžią paėmė kryžiuotis, būtent buvęs Prū­
+    sijos provincijos magistras.
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-080
+
+- id: c-188406
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
+  puslapiai: "PDF 91"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4, PDF 91."
+  citata_originali: |
+    Kuršiai
+    ir žemgaliai irgi buvo sąjungoje su Rimgaudu. Atsitiko
+    taip maždaug tuo metu, kai popiežiaus legatas vyskupas
+    Vilhelmas, negalėdamas pasiekti visiško Rygos vyskupo
+    Alberto sutarimo su kalavijuočių riteriais, sumanė rengti
+    jų bendrą karo žygį į Eželį. Užėjus žiemai, kai jūros są­
+    siauriai užšalo, vos tik vokiečių riteriams su visomis pa­
+    jėgomis patraukus užkariauti tos salos, Lietuvos kuni­
+    gaikštis Rimgaudas, Šventaragio riteriškasis tėvas, su­
+    rinkęs savo ir sąjungininkų pulkus, įsiveržė į Livoniją,
+    kurios plačius plotus nudriokojo, daugel kaimų ir netu­
+    rinčių tvirtovių miestelių sudegino.
+  citata_rodoma: "vos tik vokiečių riteriams su visomis pa­\njėgomis patraukus užkariauti tos salos, Lietuvos kuni­\ngaikštis Rimgaudas, Šventaragio riteriškasis tėvas, su­\nrinkęs savo ir sąjungininkų pulkus, įsiveržė į Livoniją, \nkurios plačius plotus nudriokojo, daugel kaimų ir netu­\nrinčių tvirtovių miestelių sudegino."
+  statusas: verified
+  atnaujinta: "2026-08-12 08:57"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-081
+
+- id: c-189130
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 72"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 72."
+  citata_originali: |
+    Dešimtį dienų
+    priešas kovėsi prie Izborsko, pagaliau, kai sužinojo apie Al­
+    girdo kariaunos, grėsmę keliančios pagalbos, judėjimą, supra­
+    to pastangas buvus veltui, sudegino techniką ir skubiai
+    pasitraukė į Livoniją.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-082
+
+- id: c-189131
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 463"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 463."
+  citata_originali: |
+    Kryžiuočiai, nuolat užimti savo pasaulie­
+    tinės ir bažnytinės valdžios plėtimu, ėmė taikstytis, kaip užimti
+    Livonijos vyskupijos valdas tokiu pat būdu, kaip kad buvo pa­
+    darę Prūsijoje.
+  statusas: verified
+  atnaujinta: "2026-08-16 22:50"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-083
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Bernardas (Šv. Teofrido vienuolyno abatas)]], [[objektai/asmenys/Jonas Karolis Chodkevičius]], [[objektai/asmenys/Jonas Karolis Katkevičius]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]

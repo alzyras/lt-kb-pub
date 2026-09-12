@@ -40,8 +40,22 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Reikšmingi paminėjimai
+## Teiginiai
 
+<a id="claim-t-205515"></a>
+- t-001
+  teiginys: "Tačiau vis dėlto vėlesniais lai kais ar dėl to, kad trūko vertų šio švento žmogaus se kėjų, ar dėl kokių nors politinių pasikeitimų krikščionybė Kurše ėmė nykti."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187744
+
+## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Tačiau vis dėlto vėlesniais lai kais ar dėl to, kad trūko vertų šio švento žmogaus se kėjų, ar dėl kokių nors politinių pasikeitimų krikščionybė Kurše ėmė nykti.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.)
@@ -58,3 +72,30 @@ Nenurodyta
 ## Santrauka
 
 Tačiau vis dėlto vėlesniais lai kais ar dėl to, kad trūko vertų šio švento žmogaus se kėjų, ar dėl kokių nors politinių pasikeitimų krikščionybė Kurše ėmė nykti.
+
+## Citatos
+
+- id: c-187744
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 125"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 125."
+  citata_originali: |
+    Tai vyko
+    tartum IX amžiaus viduryje, kai vienas pamaldus švedų
+    kilmės vienuolis, vardu Anscharijus, atsidūrė tarp kuršių
+    ir nemažą laiko tarpą, įsigalėjus taikai, gana sėkmingai
+    skelbė krikščioniškąjį mokymą. Piltenės mieste buvo pa­
+    statyta pirmoji tame krašte bažnyčia, gerokai padaugėjo
+    Kristaus ganytinių, o pirmasis jo mokymo skelbėjas tapo
+    pirmuoju Kuršo vyskupu3. Tačiau vis dėlto vėlesniais lai­
+    kais ar dėl to, kad trūko vertų šio švento žmogaus se­
+    kėjų, ar dėl kokių nors politinių pasikeitimų krikščionybė
+    Kurše ėmė nykti.
+  citata_rodoma: "Tačiau vis dėlto vėlesniais lai­\nkais ar dėl to, kad trūko vertų šio švento žmogaus se­\nkėjų, ar dėl kokių nors politinių pasikeitimų krikščionybė \nKurše ėmė nykti."
+  statusas: verified
+  atnaujinta: "2026-08-11 18:54"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-001
