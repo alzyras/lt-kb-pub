@@ -41,6 +41,7 @@ jobs:
       - name: Build and audit DB-authoritative projection
         run: npm run build
       - name: Check representative external image hosts
+        continue-on-error: true
         run: |
           for attempt in 1 2 3; do
             if npm run audit:media-hosts; then
@@ -51,8 +52,10 @@ jobs:
               sleep 20
             fi
           done
+          echo "Representative media-host audit could not reach one or more third-party hosts; keeping the report and continuing the site deploy."
           exit 1
       - name: Upload media host audit
+        if: always()
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4.6.2
         with:
           name: media-host-audit-${{ github.run_id }}
