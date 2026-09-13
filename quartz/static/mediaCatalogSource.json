@@ -51775,6 +51775,13 @@
         {
           "directness": "direct",
           "itemType": "asmuo",
+          "notePath": "objektai/asmenys/Jogaila.md",
+          "relationType": "portrait_of",
+          "title": "Jogaila (kunigaikštis, XIV–XV a.)"
+        },
+        {
+          "directness": "direct",
+          "itemType": "asmuo",
           "notePath": "objektai/asmenys/Vladislovas Jogaila.md",
           "relationType": "portrait_of",
           "title": "Vladislovas Jogaila"

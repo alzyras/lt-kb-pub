@@ -11,6 +11,7 @@ import {
   selectHomeCollectionCandidates,
   type HomeCollectionCandidate,
 } from "../util/homeCollectionSelection"
+import { buildMediaCatalog, mediaEntriesByObject } from "../util/mediaCatalog"
 import { cleanText, displayCaption, objectMediaSet, type MediaEntry } from "../util/objectMedia"
 import { FullSlug, resolveRelative } from "../util/path"
 import { selectTopThemes } from "../util/themeCatalog"
@@ -193,7 +194,10 @@ const highlightPreferences: HighlightPreference[] = [
   },
   {
     slug: "objektai/asmenys/Jogaila" as FullSlug,
-    preferredMediaTitle: "Bacciarelli - Władysław II.png",
+    // The late-15th-century Wawel triptych is much closer to the period than
+    // Bacciarelli's 18th-century reconstruction. It is still a posthumous
+    // representation, so the caption/source remains visible in the gallery.
+    preferredMediaTitle: "Jogaila (Władysław II).jpg",
   },
   {
     slug: "objektai/vietos/Kaunas" as FullSlug,
@@ -522,10 +526,11 @@ function mediaUrl(entry: MediaEntry): string {
 function preferredDirectMedia(
   page: QuartzPluginData,
   preferredTitle?: string,
+  catalogEntries: MediaEntry[] = [],
 ): MediaEntry | undefined {
   const media = objectMediaSet(page.frontmatter)
   const primaryId = mediaIdentity(media.primary ?? {})
-  const candidates = [media.primary, ...media.direct]
+  const candidates = [media.primary, ...media.direct, ...catalogEntries]
     .filter((entry): entry is MediaEntry => Boolean(entry))
     .filter(
       (entry) =>
@@ -559,14 +564,22 @@ function mediaCards(
   limit: number,
 ): MediaObjectCard[] {
   const cardsBySlug = new Map(cards.map((card) => [card.slug, card]))
+  // The catalog is the canonical media index. Most objects carry the same
+  // entries in frontmatter, but newly reviewed images can arrive in the
+  // catalog before the next Markdown projection. Let curated homepage cards
+  // use those entries without inventing a second image source.
+  const catalogByObject = mediaEntriesByObject(buildMediaCatalog(allFiles))
   const candidates = allFiles
     .filter(isObjectPage)
     .map((page): MediaObjectCard | undefined => {
       const slug = page.slug as FullSlug
       const card = cardsBySlug.get(slug)
+      const catalogEntries =
+        catalogByObject.get(`${slug}.md`) ?? catalogByObject.get(String(slug)) ?? []
       const image = preferredDirectMedia(
         page,
         highlightPreferencesBySlug.get(slugIdentity(slug))?.preferredMediaTitle,
+        catalogEntries,
       )
       if (!card || !image) return undefined
 
@@ -609,6 +622,23 @@ function mediaCards(
   )
 
   return [...curated, ...fallback]
+}
+
+function mediaObjectPosition(card: MediaObjectCard): string {
+  const type = cleanText(card.type).toLocaleLowerCase("lt-LT")
+  const description =
+    `${displayCaption(card.image)} ${cleanText(card.image.title)}`.toLocaleLowerCase("lt-LT")
+
+  // Keep seals, maps and other non-portrait evidence centred. Person and
+  // author cards use a shared upper focal line so faces sit at the same
+  // visual height even when source crops have different proportions.
+  if (/antspaudas|seal|monet|coin|žemėlap|zemelap|map|herb|antkap|kapo|reljef/u.test(description)) {
+    return "50% 50%"
+  }
+  if (/asmuo|autorius/u.test(type) || /portret|portrait|atvaizd|veidas|face/u.test(description)) {
+    return "50% 22%"
+  }
+  return "50% 50%"
 }
 
 function linkFromPage(page: QuartzPluginData, meta?: string): BrowseLink {
@@ -962,6 +992,8 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
                 alt={card.imageAlt}
                 width={card.image.width || undefined}
                 height={card.image.height || undefined}
+                data-object-type={card.type}
+                style={`object-position:${mediaObjectPosition(card)}`}
                 loading="lazy"
                 decoding="async"
               />
