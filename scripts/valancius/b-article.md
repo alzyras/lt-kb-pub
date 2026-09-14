@@ -1,0 +1,167 @@
+---
+title: "Kai kaimas atsisakė degtinės: Valančius ir blaivybės sąjūdis"
+seo_title: "Valančius ir blaivybė: kaip keitėsi kaimas"
+description: "Kodėl kaime gerta, kam degtinė nešė pajamas ir ką pakeitė Valančiaus blaivybės sąjūdis? Žmonių pažadai, dvarų interesai ir imperijos sprendimai."
+tipas: straipsnis
+statusas: peržiūrai
+noindex: true
+autorius: "Lietuvos istorijos žinių lobynas"
+date: 2026-09-13
+sukurta: "2026-09-13"
+atnaujinta: "2026-09-14"
+tags: [Motiejus-Valančius, XIX-amžius, blaivybė, karčemos, dvarai]
+cssclasses: [puota-feature, valancius-feature]
+cycle_title: "Motiejaus Valančiaus ciklas"
+relatedContent:
+  - {title: "Valančius ir Rusijos imperija · straipsnis", href: "/straipsniai/motiejus-valancius-ir-rusijos-imperija/"}
+  - {title: "Laiškai imperijos šešėlyje · paroda", href: "/parodos/valancius-laiskai-imperijos-seselyje/"}
+  - {title: "Kai kaimas atsisakė degtinės · straipsnis", href: "/straipsniai/kaip-valancius-keite-kasdienybe/"}
+  - {title: "Karčema, pažadas, permaina · paroda", href: "/parodos/valancius-nuo-sakyklos-iki-skaitytojo/"}
+---
+
+<p class="puota-kicker">Ilgasis skaitymas · XIX amžius · redakcinė peržiūra</p>
+
+<p class="puota-dek">„Tyluma ir ramybė įsiviešpatavo.“ Taip Motiejus Valančius laiške Vilniaus generalgubernatoriui Vladimirui Nazimovui apibūdino blaivybę priėmusių parapijų permainą. Pasak vyskupo, nyko muštynės, barniai, nesantaika šeimose. Tačiau ramybė namuose kai kam reiškė nerimą dėl pajamų. Kas atsitinka, kai žmogus atsisako gėrimo, iš kurio uždirba dvaras, prekiautojas ir valstybė?</p>
+
+<p class="puota-evidence-note">Parengė Lietuvos istorijos žinių lobynas · atnaujinta 2026-09-14 · peržiūros juodraštis.</p>
+
+<p>Apie 18 min. skaitymo. Istorinius vaizdus ir dokumentus tyrinėkite porinėje parodoje <a href="/parodos/valancius-nuo-sakyklos-iki-skaitytojo/">„Karčema, pažadas, permaina“</a>.</p>
+
+<!-- FIGURE medzio-raizinys -->
+
+Vyskupas rašė apie pirmuosius 1858 metų sąjūdžio mėnesius, ne apie visus Lietuvos kaimus. Jo pasakojimas prasideda dviem ar trimis parapijomis prie Lenkijos Karalystės sienos, kurių pavyzdį esą perėmę kaimynai. Laišką šiandien skaitome istoriko Egidijaus Aleksandravičiaus knygoje pateikta ištrauka. Paprastų žmonių džiaugsmą čia perduoda Valančius, o ne jų pačių užrašyti žodžiai.
+
+Adresatas irgi svarbus. Nazimovui reikėjo paaiškinti, kodėl naujai telkiamos brolijos nėra pavojingos valdžiai. Laiško ramybė buvo ir vyskupo argumentas: leiskite šiai veiklai tęstis, nes iš jos laimi žmonės. Ar jis pasakė viską? Prie laiško dar grįšime. Pirmiau verta įsižiūrėti į pasaulį, kuriame kvietimas negerti galėjo vienus nudžiuginti, kitus supykdyti, o tretiems pasirodyti sunkiai įvykdomas.
+
+<!-- EVIDENCE pradzia -->
+
+## Kodėl žmogus eidavo į karčemą?
+
+Degtinė lydėjo ne vien slaptą ar gėdingą girtavimą. Petro Puzaro surinktoje medžiagoje ji pasirodo per krikštynas, vestuves, laidotuves, atlaidus, šventinant kryžius ir namus. Šiandien tas sąrašas gali nustebinti: religinė proga ir svaiginimasis neatrodė nesuderinami visiems jos dalyviams. Kai gėrimas įaugęs į vaišes, pasiūlymas jo atsisakyti paliečia ir supratimą, kaip dera priimti svečią, pagerbti progą, būti kartu. Todėl vien paskelbti, kad degtinė žalinga, dar nereiškė pakeisti paprotį.
+
+Karčema buvo vieta susitikti. Tačiau iš šio paprasto sakinio nereikėtų sukurti jaukios, visiems vienodai patikusios užeigos vaizdo. Vienas žmogus galėjo ateiti su reikalais, kitas dėl draugijos, trečias jau vedamas įpročio. Blaivybės šalininkams rūpėjo tai, kas įvykdavo susėdus: vaišinimas, įkalbinėjimas, pažadas išgerti tik truputį. Vėlesniuose Valančiaus raginimuose net viena siūloma stiklinė tampa išbandymu. Ginčas vyko ne vien dėl parduodamo skysčio, bet ir dėl santykio su žmogumi, kuris jį siūlo.
+
+<!-- FIGURE karcemos-paveikslas -->
+
+Pranciškaus Smuglevičiaus paveiksle „Valstiečiai karčemoje“ žmonės susibūrę prie stalo. Tai ankstesnis, iki 1807 metų sukurtas vaizdas, ne 1858 metų Žemaitijos įvykio scena. Jis padeda pamatyti, kad karčemos pasaulio negalima sutraukti iki vieno butelio: dailininko dėmesys tenka ir sėdintiesiems, jų tarpusavio artumui. Paveikslas nepasako, ką jie kalba ar kiek išgėrė. Šių spragų nereikia užpildyti, kad susitikimo aplinka taptų matoma.
+
+Gydytojas Jokūbas Šimkevičius apie girtavimą rašė gerokai iki Valančiaus sąjūdžio. Jo 1818 metų „Veikale apie girtavimą“, kurį nagrinėja Aleksandravičius, žmogų prie svaigalų stumia skurdas, pažeminimas, nelaisvė ir sunki darbų našta. Gėrimas trumpam padedąs užmiršti nedalią. Tai gydytojo mėginimas paaiškinti kito žmogaus būseną, ne valstiečio išpažintis. Vis dėlto jis svarbus: girtaujantysis šiame aiškinime nėra vien valios neturintis nusidėjėlis. Šimkevičius klausia, kas padaro užsimiršimą tokį patrauklų.
+
+Tas pats autorius pastebėjo ir priešingą kelią į nesaikingumą: džiaugsmą, sėkmę, sveikatos linkėjimus. Gerti buvo galima minint laimę arba mėginant užgožti nelaimę. O svaigalams priskiriama gydomoji galia suteikė dar vieną pateisinimą. Aleksandravičius aptaria ilgai išlikusį įsitikinimą, kad degtinė padeda nuo įvairiausių negalavimų. Tai istorinis tikėjimas, ne medicininė šio teksto išvada. Blaivybės skelbėjui teko ginčytis ir su juo, ne vien su karčemos prekiautoju.
+
+Nuovargis, įprotis, vaišių tvarka ir noras trumpam ištrūkti iš slegiančių aplinkybių galėjo susitikti vieno žmogaus gyvenime. Tačiau neturime vienos priežasties, kuri paaiškintų visus geriančius. Lygiai taip pat neturime pagrindo visą kaimą vadinti nuolat girtu. Kad suprastume vėlesnę permainą, pakanka matyti, kiek skirtingų dalykų palietė tariamai paprastas atsakymas: ne, degtinės negersiu.
+
+Šimkevičiaus aiškinime skurdas nėra tik pinigų stoka. Greta jo atsiduria kitų rodomas paniekinimas ir menka viltis ką nors pakeisti. Tai padeda suprasti, kodėl perspėjimas apie rytdienos žalą galėjo neįtikinti žmogaus, kuriam sunku šiandien. Vis dėlto gydytojas neaprašė vienos mūsų atpažįstamos šeimos. Jo žodžius skaitome kaip amžininko bandymą įvardyti socialinį skaudulį. Iš jų nesudarome ligos diagnozės visai valstietijai ir neišvedame taisyklės, kad kiekvienas neturtingas žmogus turėjo gerti. Šis ankstyvas tekstas vertingas kaip tik tuo, kad šalia pasmerkimo palieka vietos klausimui apie žmogaus aplinkybes.
+
+<!-- EVIDENCE karcema -->
+
+## Kam degtinė nešė pajamas?
+
+Žmogus galėjo gerti norėdamas užsimiršti. Pardavėjui tai buvo pajamos. Dvarininkui — būdas parduoti iš savo grūdų pagamintą produkciją. Aleksandravičius degtinės ir alaus gamybą įrašo į dvaro pramonės pasaulį greta kitų vietinių verslų. Kai žemės ūkio produktų rinka ribota, bravoras leidžia grūdus paversti preke, kurią galima realizuoti netoliese. Priklausomybės ratas glaudus: žaliava ateina iš dvaro ūkio, gaminys — iš jo įmonės, o pirkėjas gali būti to paties dvaro valstietis.
+
+Propinacija vadinta privilegijuota teise gaminti ir pardavinėti alkoholinius gėrimus. Svarbu jos nesupainioti su kiekvienu karčemoje vykusiu pardavimu ar su valstybiniu mokesčiu. Dvarininkas galėjo pats organizuoti verslą arba atiduoti karčemą nuomininkui. Nuomininkui reikėjo padengti sutartą mokestį ir uždirbti sau. Todėl gėrimo atsisakęs pirkėjas reiškė ne vieną neparduotą stiklinę: jei taip elgėsi daug žmonių, griuvo numatytos įplaukos. Raginimas negerti pasiekdavo ir tuos, kurie patys prie stalo nesėdėjo.
+
+<!-- FIGURE smilgiu-rastas -->
+
+Vieną tokio ūkinio pasaulio pėdsaką saugo Vilniaus universiteto biblioteka. 1864 metų pranešime iš Panevėžio aptariami piniginiai reikalai; pirmame lape atskiru sakiniu minima Smilgių karčema ir jai tenkantis nuomos mokestis. Autoriaus ir adresato biblioteka nenustato. Šis dokumentas neįrodo, kad karčemos pajamos sumažėjo dėl blaivybės. Jo vertė kitokia: už bendro žodžio „karčema“ pasimato mokėjimai, tarpininkai ir savininko reikalai. Toks lapas buvo skirtas spręsti konkrečias problemas, ne pasakoti būsimam istorikui apie sąjūdį.
+
+Virš dvaro ir nuomininko veikė imperijos mokesčių sistema. Aleksandravičius aprašo degtinės mokesčio atpirkėjus: jie varžytinėse įgydavo teisę rinkti mokestį, valstybei mokėdavo sutartas sumas, o sau siekdavo kuo didesnių įplaukų. Plėsti prekybą ir skatinti vartojimą jiems apsimokėjo. Tačiau atpirkėjo pelnas ir iždo pajamos nebuvo tas pats skaičius. Pardavimui smukus, nuostolis pirmiausia galėjo skaudžiai paliesti verslininką, nors valstybės įstaigos taip pat rūpinosi būsima pajamų tvarka.
+
+Ar tai reiškia, kad visi dvarininkai vertė valstiečius gerti? Ne. Aleksandravičius pats perspėja: prievartinio degtinės pardavimo atvejų būta, tačiau jų negalima paversti visuotine taisykle. Dar pavojingiau tiesiogine ataskaita laikyti satyrą. Ūkinis interesas skatinti pardavimą yra viena, konkrečiam žmogui panaudota prievarta — kita. Pastarajai įrodyti reikia konkretaus liudijimo. Šios ribos nepanaikina nei dvaro priklausomybė nuo pajamų, nei blaivybės raštų aštrumas.
+
+Buvo ir dvarininkų, kurie sutiko tų pajamų netekti. Rietavo kunigaikštis Irenėjus Kleopas Oginskis 1858 metų gruodžio laiške dėkojo Valančiui už blaivybės skelbimą ir pritarė jo veiklai, nors nurodė patiriąs nuostolių. Puzaras ir Aleksandravičius pateikia skirtingai apibrėžtus piniginius dydžius, tad čia jų nesujungiame į vieną patikimą sumą. Svarbesnis pats pasirinkimas. Dvarininko padėtis dar nenulėmė, kurią ginčo pusę jis palaikys.
+
+<!-- EVIDENCE pajamos -->
+
+## Kaip kvietimas negerti pasiekė parapiją?
+
+Blaivybės istorija neprasidėjo vieną dieną vienu vyskupo laišku. Šimkevičiaus knyga jau buvo iškelta į viešumą, o Aleksandravičius aptaria ankstesnius kunigų bei šviesuomenės mėginimus keisti gėrimo papročius. Šimkevičius net pasakojo apie kunigo Legovičiaus išblaivintus parapijiečius, kuriuos dvarininkai esą varžėsi samdyti. Žodis „esą“ čia reikalingas: tai palankus amžininko pasakojimas, ne mūsų turimas samdos sutarčių palyginimas. Vis dėlto blaivaus žmogaus ir patikimo darbuotojo ryšys buvo svarstomas anksčiau už 1858 metus.
+
+<!-- FIGURE knyga1849 -->
+
+Parodoje galima apžiūrėti 1849 metais Peterburge išleistą latvišką blaivybės knygelę. Jos antraštiniame lape minimi vertėjai Simforijonas Mieleška ir M. Jackiewiczius, matomas kelias per lietuvių kalbą. Šio egzemplioriaus neskelbiame Valančiaus brolijų naudotu vadovėliu. Jis rodo ankstesnę blaivybės tekstų apytaką. Ir primena masto skirtumą: išleisti knygą, pasiekti kunigą, įtikinti parapijiečius ir palaikyti jų apsisprendimą buvo keturi skirtingi darbai. Vien leidybos data dar nepasako, kiek žmonių pakeitė įprotį.
+
+<!-- FIGURE portretas1857 -->
+
+Valančiaus veiklos stiprybė buvo galimybė sutelkti parapijose jau dirbusius žmones. „Ganytojiškų laiškų“ rengėjai aprašo dokumentų perdavimą per dekanus ir klebonus. Raštas keliaudavo iki kunigo, o kunigo balsu — iki parapijiečio. Mokėjimas skaityti nebuvo būtina sąlyga išgirsti vyskupo raginimą. Todėl blaivybės sklaidos nereikia sutapatinti su knygos skaitymu vienumoje. Laiškas galėjo tapti viešu pranešimu, kurį tuo pačiu metu girdėjo žmogus ir jo kaimynai.
+
+Vieno blaivybės laiško pabaiga labai konkreti: „Šitą mano gromatą perskaitys kunigai iš ambonos, per tris pagrečias šventes.“ Šiuolaikiškai — tris iš eilės einančias šventes. Pakartojimas įrašytas į patį nurodymą. Ne visi turėjo ateiti pirmą kartą, ne visi iš karto sutiko. Vyskupas nepaliko teksto vienkartiniam perskaitymui. Kunigams teko grįžti prie to paties raginimo, aiškinti jį ir pritaikyti susidūrus su konkrečiomis abejonėmis. Iš nurodymo matome siekį; faktinis jo vykdymas kiekvienoje parapijoje turėjo savo aplinkybes.
+
+<!-- FIGURE brostwa -->
+
+Maža 1861 metų knygelė „Apej brostwą błaiwistes arba nusiturieima“ padeda suprasti, kad raginimas turėjo turinį ir taisykles. „Brostwa“ — brolija, bendrija. Žmogus buvo kviečiamas ne vien pats susilaikyti, bet ir prisidėti prie bendro religinio įsipareigojimo. Kunigo paaiškinimas, pamokslas, malda ir spausdintas tekstas galėjo vienas kitą papildyti. Toje aplinkoje tikėjimas nebuvo tik patogus būdas sutelkti žmones. Pažadas Dievo akivaizdoje turėjo prasmę, kurios neperteiktų vien ekonominės naudos skaičiavimas.
+
+Nazimovui rašytame laiške Valančius ypač pabrėžė kaimyninių parapijų pavyzdį. Žmonės esą patys prašę, net reikalavę savo kunigų skelbti blaivybę. Tokiu pasakojimu vyskupas gynė sąjūdį nuo įtarimo, kad dvasininkai dirbtinai telkia pavojingą organizaciją. Tačiau net ir atsižvelgiant į šį tikslą aišku, kodėl kaimynų pasirinkimas buvo toks svarbus jo argumentui. Kvietimas tampa kitoks, kai negerti žada žmogus, kurį pažįsti. Jis jau nėra vien iš Varnių atėjęs raštas.
+
+Kvietimą galėjo nešti ir pasakojimas. Valančiaus bendražygio Juozapo Silvestro Dovydaičio „Šiaulėniškis senelis“ skatino blaivybę vaizduodamas valstiečių buitį. Maironio lietuvių literatūros muziejus saugo, be kitų leidimų, 1861 metų antrąją dalį, į kurios pasakojimą įterpti Valančiaus ganytojiški laiškai. Čia vyskupo raginimas atsidūrė literatūrinėje aplinkoje. Tokia knyga galėjo siūlyti, kaip suprasti girtavimo žalą, ko gėdytis, kuo sekti. Tačiau jos veikėjų šeimos nepriklauso mūsų dokumentuotų šeimų sąrašui: pamokanti apysaka yra įtikinėjimo šaltinis, ne konkretaus kaimo gyventojų apklausa. Todėl iš jos neperkeliame vaizdingų nutikimų į faktinį pasakojimą apie žmonių gyvenimą prieš sąjūdį ir po jo.
+
+<!-- EVIDENCE kvietimas -->
+
+## Pažadas ir gyvenimas tarp kaimynų
+
+Ko žmogus iš tikrųjų pasižadėdavo? Puzaro perteikiamose brolijos pareigose griežtai atsisakoma degtinės, romo, arako ir kitų stipriųjų gėrimų. Vynas, alus ir midus aptariami kitaip: leidžiamas saikingas vartojimas. Vadinasi, šių taisyklių blaivininkas nebūtinai buvo žmogus, visomis aplinkybėmis atsisakantis kiekvieno alkoholinio gėrimo. Svarbu suprasti konkretaus pažado ribas. Jų nepaisydami ir sąjūdžio sėkmę, ir žmogaus nusižengimą vertintume ne pagal tas taisykles, kurias jis girdėjo.
+
+Įsipareigojimas nesibaigdavo įrašymu į knygą. Puzaras aprašo maldą, priėmimo tvarką, metinį pažado atnaujinimą per Grabnyčias, vasario 2 dieną. Religiniai metai suteikė progą vėl sugrįžti prie savo žodžio. Toks atnaujinimas nereiškė, kad kitą dieną senasis pažadas tiesiog nustoja galioti. Jis priminė tęstinę pareigą. Brolijos narys nebuvo paliekamas vien su kadaise priimtu sprendimu: bendrija turėjo jį palaikyti, perspėti, padėti nenutolti nuo įsipareigojimo.
+
+Valančiaus laiške greta viešo skaitymo nurodymo skamba labai asmeniškas raginimas neimti net vienos siūlomos stiklinės. Jo adresatas nėra abstraktus gyventojų skaičius. Tai žmogus, kuris atsidurs tarp kitų žmonių ir turės atsakyti į pasiūlymą. Čia geriau negu didelėje sąjūdžio suvestinėje matyti kasdienis sunkumas: kartą prisiekus, kasdienybė nenustoja siūliusi progos nusileisti. Pakartotinis raginimas pats savaime liudija, kad vyskupas tokių situacijų nesitikėjo pašalinti vienu pamokslu.
+
+Tačiau bendruomenės dėmesys galėjo virsti žeminimu. Puzaras aprašo prievartines blaivinimo priemones ir Valančiaus draudimus jas taikyti. Vadinasi, negalime brolijų istorijos pasakoti kaip vien švelnaus palaikymo. Gėdinimas, spaudimas, noras viešai parodyti nusižengusįjį irgi priklausė šiai patirčiai. Vyskupo prieštaravimas nubrėžė ribą tarp įtikinėjimo ir elgesio, kuriuo pats žmogus nužeminamas. Kiekvienos parapijos gyvenimas į vieną tokią istoriją nesutelpa, bet ir patys draudimai nėra tuščia formalumo eilutė.
+
+Ypač ryškus Aleksandravičiaus aprašytas Vėžaičių atvejis. Dvaro savininkas E. Volmeris nustatė valstiečiams laiką, kada grįžti namo vasarą ir žiemą. Labiau girtaujančiais laikomi žmonės vakarais po darbų turėjo pasirodyti ponui ir atsiskaityti, kad negėrė. Valančiui teko kreiptis į dvarininką dėl žmogaus orumą žeminančių priemonių. Istorikas šį atvejį vadina netipišku. Jo nepaverčiame brolijų kasdienybės norma, tačiau jis neleidžia supainioti dviejų dalykų: priversti žmogų būti blaivų ir padėti jam laikytis savo pažado.
+
+Tokioje aplinkoje blaivybė galėjo būti ir palengvėjimas, ir naujas įtampos šaltinis. Tai nėra mūsų sugalvotas vieno valstiečio jausmas: skirtingas galimybes rodo skirtingi šaltiniai. Laiške valdžiai kalbama apie ramybę, nurodymuose kunigams — apie darbą su tebegeriančiais, prievartos atveju — apie pažeminimą. Norint papasakoti žmogaus patirtį, nereikia pasirinkti tik vieno iš šių balsų. Reikia palikti jiems vietos greta, neištrinant skirtumų tarp pažado, jo palaikymo ir jo kontrolės.
+
+Puzaro aprašytoje priėmimo tvarkoje stojantysis tą pačią dieną turėjo atlikti išpažintį ir priimti Komuniją. Kunigas priimdavo jo pažadą prie Švč. Mergelės Marijos altoriaus, pašlakstydavo naujus narius švęstu vandeniu ir sakydavo pamokslą. Šios detalės keičia pačią stojimo sampratą. Žmogus ne vien įrašomas į sąrašą ar pasižada sutaupyti pinigų. Jis savo sprendimą sieja su tikėjimu, atgaila ir išganymo viltimi. Religinis įsipareigojimas gali būti sunkiai pajuntamas šiandieniam skaitytojui, bet jo negalima išmesti iš istorijos paliekant vien veiksmingą organizavimą.
+
+Ir brolijos drausmė turėjo apibrėžtus žingsnius. Puzaro pateiktose taisyklėse pažado nesilaikantį narį klebonas turėjo du kartus įspėti; nepaklausiusį galėjo pašalinti iš brolijos. Vis dėlto pašalinimas neatleido nuo Dievui duoto pažado. Šis skirtumas svarbus: narystės privilegijos ir asmeninis religinis įsipareigojimas nesutapo. Kasmetinė malda bei atnaujinimas buvo skirti ištvermei, o ne kasmet naujai pradedamam bandymui. Todėl brolijos knygoje užrašytas vardas buvo tik viena daug platesnio santykio dalis.
+
+Skapiškyje ginčas dėl blaivybės susipynė su vietos bažnytinės brolijos ir klebono nesutarimais. „Ganytojiškų laiškų“ komentare pasakojama, kad kunigas Viktoras Rusteika buvo pasiųstas ištirti padėties. Klebonas skundė narius dėl gėrimo ir blogo pavyzdžio; broliukai, anot rengėjų, rodos, buvo nepatenkinti jo pareigų ėjimu. Dominykas Meilus ir Juozapas Valentas laikinai pašalinti iš brolijos, kol pasitaisys. Vieno bendro pažado neužteko santarvei palaikyti. Skundą reikėjo patikrinti, išklausyti konfliktuojančius žmones ir spręsti, kas slypi už kaltinimo. Blaivybės nesilaikymas galėjo reikšti ir tikrą problemą, ir patogų priekaištą priešininkui.
+
+Tose pačiose taisyklėse numatyta per pažado atnaujinimą išvardyti mirusius brolijos narius ir už jų vėles aukoti giedotas Mišias. Taigi bendrija turėjo atmintį: susirinkimas buvo skirtas ir gyvųjų ištvermei, ir mirusiems prisiminti. Šiandien, ieškodami vien įpročio keitimo priemonės, tokią eilutę lengvai praleistume. XIX amžiaus tikinčiajam ji galėjo būti esminė įsipareigojimo dalis. Negerti reiškė priklausyti bendrijai, kurios santykis su žmogumi nesibaigia jo darbu ar nauda dvaro ūkiui. To negalima išmatuoti parduotos degtinės kiekiu. Tai kita sąjūdžio pusė, greta blaivybės skelbėjų žadamos šeimos ramybės ir dvarininkų skaičiuojamų nuostolių.
+
+<!-- EVIDENCE pazadas -->
+
+## Kas keitėsi namuose, dvare ir valdžios raštuose?
+
+Laiške Nazimovui permaina turi labai apčiuopiamą pavidalą: mažiau muštynių, retesnė nesantaika šeimose, didesnis darbingumas. Jei žmogus ir jo artimieji tai patyrė, blaivybė galėjo reikšti daug daugiau nei sutaupytą mokestį karčemoje. Tačiau mūsų turimas pasakojimas neleidžia suskaičiuoti, kiek šeimų taip gyveno. Vyskupas perduoda sėkmės liudijimus ir juos apibendrina. Šeimos biudžeto, moters ar vaiko dienoraščio jų vietoje neturime. Todėl negalime pridėti nei tariamai nupirkto drabužio, nei išgalvotos ramios vakarienės.
+
+Permainą galima tikrinti kitu kampu — per gamybos duomenis. Puzaras pateikia Kauno gubernijos dvarininkų degtinės gamybą: 1859 metais 552 643 kibirai, 1860 metais 129 194. Tai to paties autoriaus nurodytos teritorijos ir gamintojų duomenys, o ne visos dabartinės Lietuvos suvartoto alkoholio skaičius. Paliekame istorinį matavimo vienetą, nekonvertuojame jo pagal šiandieninį buitinį kibirą. Šie dydžiai liudija didelį apskaitytos gamybos smukimą. Jie neleidžia sakyti, kad kiekvienas žmogus pradėjo gerti tiek pat kartų mažiau.
+
+<!-- FIGURE oginskis -->
+
+Oginskio pasirinkimas čia įgauna kitą svorį. Jo pritarimas nebuvo vien mandagus sakinys vyskupui, neturintis ekonominės kainos: laiške pats kunigaikštis siejo blaivybę su savo nuostoliu. Tačiau ir dvasininkų negalima sudėti į vieną pusę, dvarininkų — į priešingą. Aleksandravičius nurodo, kad 1861 metais Valančiui teko tramdyti iš degtinės gamybos bei pardavimo besipelniusius vienuolynus, tarp jų Raseinių ir Palėvenės dominikonus. Kvietimas atsisakyti pajamų pasiekė ir Bažnyčios institucijas. Religija savaime nepanaikino ūkinio intereso.
+
+Rusijos valdžios viduje atsakymai taip pat skyrėsi. 1859 metų pabaigoje Nazimovas vidaus reikalų ministrui išdėstė mintį, kad blaivybės gerinama asmeninė ir visuomeninė gerovė galėtų atverti kitus pajamų šaltinius. Jis siūlė negrįsti jų liaudies silpninimu. Tai konkretaus pareigūno pozicija konkrečiu metu, ne visos imperijos pažadas. Bet jos pakanka, kad sakinys „rusai skatino gerti“ pasirodytų per grubus. Vienoje administracijoje galėjo susidurti mokesčių, tvarkos, darbo ir politinės kontrolės sumetimai.
+
+Finansų ministras Aleksandras Kniaževičius 1860 metais siūlė iškelti Valančių iš vyskupijos, tačiau vyriausybė pasiūlymą atmetė. Puzaras aprašo ir Nazimovo siūlymą Kauno gubernijos finansinius reikalus tvarkyti apmokestinant pagamintą, o ne parduotą degtinę. Tai jau ginčas apie pajamų surinkimo būdą. Blaivybės sąjūdis vertė pareigūnus spręsti problemą, kurios nebuvo galima sutvarkyti vien paraginus kunigus tylėti. Valstietis, pirkdamas mažiau, veikė didesnę sistemą, nors ne jis sėdėjo prie ministro stalo.
+
+Štai kodėl tas pats pokytis dokumentuose atrodo skirtingai. Vyskupas gina pagerėjusius papročius, savininkas skaičiuoja nuostolį, pareigūnas ieško, iš kur surinkti pajamas. Nė vienas iš šių vaizdų vienas pats nėra visa istorija. Ekonominiai duomenys suteikia atsvarą pernelyg sklandžiam sėkmės pasakojimui, bet ir jie nepasako visko apie gyvenimą namuose. Blaivybės reikšmė išryškėja ten, kur vieno žmogaus atsisakymas pirkti tampa kito žmogaus būtinybe kažką keisti.
+
+<!-- EVIDENCE permaina -->
+
+## Kodėl permaina nebuvo galutinė?
+
+Grįžkime prie pirmojo laiško ramybės. Aleksandravičius gretina jį su tuo pačiu metu kunigams siųstais Valančiaus raginimais. 1858 metų pabaigoje vyskupas vis dar prašė skelbti blaivybę, nes buvo geriančių degtinę. Tai neprieštarauja galimybei, kad kai kuriose parapijose gyvenimas smarkiai pasikeitė. Prieštarauja kitam, daug patogesniam pasakojimui: esą kaimas vieną kartą paklausė vyskupo ir daugiau girtavimo nebeliko. Laiškų adresatai paaiškina skirtumą. Valdžiai reikėjo ginti sąjūdžio naudą, bendradarbiams — pasakyti, kiek darbo dar laukia.
+
+Brolijos narių skaičius irgi nėra nenutrūkstamo pažado laikymosi skaičius. Įrašas knygoje liudija įsipareigojimą, ne visus vėlesnius vakarus. Pakartotinis skaitymas, perspėjimai ir atnaujinimas per Grabnyčias prasmingi kaip tik todėl, kad apsisprendimą reikėjo palaikyti. Sąjūdžio istorijoje išlieka ir tebegeriančių, ir grįžtančių prie pažado žmonių vieta. Jų negalime tiesiog išbraukti, kad rezultatas atrodytų įspūdingesnis. Kita vertus, nuolatinių raginimų buvimas savaime nepaneigia to, kas kitur jau buvo pasiekta.
+
+Organizuotą veiklą paveikė ir politinis lūžis. Po 1863 metų sukilimo administracijos laikysena griežtėjo; 1864 metais Michailas Muravjovas uždraudė blaivybės brolijas. Ankstesnius vyriausybės nesutarimus reikia skaityti iki šio sprendimo, ne perkelti jų į nekintančią viso laikotarpio politiką. Platesnė Valančiaus ir imperijos santykio istorija aptarta <a href="/straipsniai/motiejus-valancius-ir-rusijos-imperija/">poriniame ciklo straipsnyje apie lojalumą ir pasipriešinimą</a>. Čia pakanka matyti, kad institucinis palaikymas ir teisė telktis negalėjo būti laikomi savaime suprantamais.
+
+<!-- FIGURE medalis -->
+
+Vėlesnis blaivybės medalis parodoje pažymėtas aiškiai: pagamintas po 1889 metų. Jis nėra 1858 metų stojimo į broliją ženklas ir negalėjo būti tuomet įteiktas Valančiaus. Tačiau toks daiktas liudija, kad blaivybės atmintis turėjo gyvenimą po pirmųjų brolijų istorijos. Nežinome konkretaus medalio savininko. Neprivalome jo sugalvoti. Užtenka atskirti ankstyvojo sąjūdžio praktiką nuo to, kaip vėliau ją prisiminė, tęsė ar iš naujo sau aiškino kiti žmonės.
+
+Yra ir arčiau kasdienybės vedantis vėlesnis liudijimas. 1877 metų balandžio 7 dieną, jau po Valančiaus mirties, Salantų klebonas Kazimieras Bielinskis rašė vyskupystės administratoriui sufraganui Beresnevičiui. Aleksandravičiaus pateiktoje ištraukoje klebonas teigė, kad blaivybė parapijoje įsišaknijusi taip tvirtai, jog valstiečiai degtinės nevartoją net per vestuves, krikštynas ir pakasynas. Vėl kalba kunigas, ne visi parapijiečiai vienu balsu. Ir kalba apie Salantus, ne apie kiekvieną gubernijos vietovę.
+
+Bet jo išvardytos progos sugrąžina prie pasakojimo pradžios. Ten degtinė lydėjo svarbiausius šeimos įvykius; šiame laiške tos pačios progos minimos kaip apsieinančios be jos. Būtent tokia permaina klebonui atrodė verta atskiro pranešimo. Ne vien ištuštėjusi karčema, ne vien sumažėjęs bravoro skaičius — pasikeitusi tvarka, kaip švenčiama, sutinkamas naujas žmogus ir atsisveikinama su mirusiuoju. Tiek apie konkrečią vietą ir laiką pasako išlikęs laiškas. Toliau už jo žodžius šios parapijos vardu neiname.
+
+<!-- EVIDENCE pabaiga -->
+
+## Šaltiniai ir bibliografija
+
+- Egidijus Aleksandravičius, *Blaivybė Lietuvoje XIX amžiuje*. Pasakojimo pagrindas: girtavimo aiškinimai, dvaro ūkis, laiško Nazimovui ištrauka, Vėžaičių atvejis ir valdžios nesutarimai. Tikslios ištraukos ir PDF puslapiai — įrodymų kortelėse.
+- Petras Puzaras, *Vyskupo Motiejaus Valančiaus pastoracinė veikla*. Brolijų taisyklės, sklaida, dvarininkų laikysena ir Kauno gubernijos gamybos duomenys.
+- Motiejus Valančius, *Ganytojiški laiškai*, rengė Vytautas Merkys ir Birutė Vanagienė. Atskirai naudojamas Valančiaus laiško tekstas ir leidinio rengėjų komentarai.
+- Vytautas Merkys, *Motiejus Valančius. Tarp katalikiškojo universalizmo ir tautiškumo*. Bendras ciklo biografinis ir politinis kontekstas; šis įrašas nepakeičia atskirų faktų nuorodų.
+
+Vaizdų autoriai, saugotojai, datavimas ir naudojimo sąlygos nurodyti kiekvienoje galerijos kortelėje. Istorinis kūrinys nėra automatiškai jame pasakojamo įvykio liudijimas. Generuotų istorinių rekonstrukcijų nėra.

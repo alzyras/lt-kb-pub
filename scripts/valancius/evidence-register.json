@@ -1,0 +1,2562 @@
+[
+  {
+    "claimId": "t-208492",
+    "claim": "1864 m. dėl caro valdžios draudimo lankyti parapijas Motiejus Valančius aplankė tik Kauną, Nemakščius, Raseinius, Girkalnį ir Čekiškę.",
+    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "Paroda A",
+        "section": "Tarnystė tęsiasi",
+        "item": "foto1867",
+        "role": "contextual"
+      },
+      {
+        "work": "motiejus-valancius-ir-rusijos-imperija",
+        "section": "Po sukilimo: išsaugoti veiklą siaurėjančioje erdvėje"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-191112",
+        "source": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+        "exactOriginal": "Nuo 1864 m. caro valdžia uždraudė vyskupams lan­\nkyti parapijas 5. Todėl vysk. M. Valančius tais metais ap­\nlankė tik Kauną, Nemakščius, Raseinius, Girkalnį ir Če­\nkiškę 6 7. Kitais metais vizitavo tik Vilkijos ir Karmėlavos \nparapijas 1. Tai buvo paskutinės vysk. M. Valančiaus ap­\nlankytos parapijos. Valdžia po to jau nebedavė jam lei­\ndimo ne tik parapijas lankyti, bet ir privačiai iš Kauno \nišvykti 8.",
+        "displayExcerpt": "",
+        "pages": {
+          "evidence_pk": "49b06ea03060eb992648ff02b44e875e0533d41c24ab247a900a69767147f709",
+          "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+          "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+          "quote_hash": "b6e9d5f558ef8017845e9dbbc90317c220bb2eab6062eeb177c954923f6353df",
+          "quote_start": 101570,
+          "quote_end": 101977,
+          "page_start_index": 55,
+          "page_end_index": 55,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 56,
+          "pdf_page_end": 56,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 56\"}",
+          "created_at": "2026-09-02T13:57:53.331227+03:00",
+          "updated_at": "2026-09-13T13:24:23.463886+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-208497",
+    "claim": "1864 m. rugsėjo 14 d. aplinkraščiu Motiejus Valančius nurodė kunigams atlikti rekolekcijas ir tais atvejais, kai dėl valdžios draudimo jie negalėjo į jas susirinkti.",
+    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "motiejus-valancius-ir-rusijos-imperija",
+        "section": "Po sukilimo: išsaugoti veiklą siaurėjančioje erdvėje"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-191117",
+        "source": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+        "exactOriginal": "Po 1863 m. sukilimo valdžia uždraudė kunigams su­\nvažiuoti į vieną vietą. Todėl vysk. M. Valančius 1864.IX.14 \naplinkraščiu kunigams priminė, kad, jeigu negalėsią su­\nvažiuoti į rekolekcijas, tegul jas atlieka pavieniui3.",
+        "displayExcerpt": "Po 1863 m. sukilimo valdžia uždraudė kunigams su­\nvažiuoti į vieną vietą. Todėl vysk. M. Valančius 1864.IX.14 \naplinkraščiu kunigams priminė, kad, jeigu negalėsią su­\nvažiuoti į rekolekcijas, tegul jas atlieka",
+        "pages": {
+          "evidence_pk": "b59a52baf47ae89427aeeec125bce32e03f82f000a6d7f12eca708abff7f78e4",
+          "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+          "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+          "quote_hash": "133d867d45462182cc66bdf919b814919a57263db0c3ef7d02bd8ff8f70dd39c",
+          "quote_start": 137560,
+          "quote_end": 137781,
+          "page_start_index": 73,
+          "page_end_index": 73,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 74,
+          "pdf_page_end": 74,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 74\"}",
+          "created_at": "2026-09-02T13:57:53.331227+03:00",
+          "updated_at": "2026-09-13T13:24:23.463886+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-208750",
+    "claim": "1851 m. aplinkraštyje vyskupas Motiejus Valančius rekomendavo kiekviename dekanate įsteigti biblioteką ir į dekanatus siuntė kunigams skirtą žurnalo egzempliorių.",
+    "notePath": "objektai/ivykiai/Dekanatų bibliotekų steigimas.md",
+    "publicStatus": "accepted",
+    "usedBy": [],
+    "evidence": [
+      {
+        "citationId": "c-191370",
+        "source": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+        "exactOriginal": "Antai 1851.XI.12 aplinkraštyje \njis rekomendavo kiekviename dekanate įsteigti bibliote­\nką, kuria galėtų naudotis dekanato kunigai. Be to, vysku­\npas rašė, jog jis užsakęs žurnalą ,,Pamiętnik relįgijno-mo- \nralny\" ir siunčiąs į dekanatus po 1 egzempliorių, kad vi­\nsi kunigai via curcoria jį perskaitytų, o žurnalui išpirkti \nsuaukotų 5,16 rub.",
+        "displayExcerpt": "1851.XI.12 aplinkraštyje \njis rekomendavo kiekviename dekanate įsteigti bibliote­\nką, kuria galėtų naudotis dekanato kunigai. Be to, vysku­\npas rašė, jog jis užsakęs žurnalą ,,Pamiętnik relįgijno-mo- \nralny\" ir siunčiąs į dekanatus po 1 egzempliorių, kad vi­\nsi kunigai via curcoria jį perskaitytų, o žurnalui išpirkti \nsuaukotų 5,16 rub.",
+        "pages": {
+          "evidence_pk": "8b42e0142fba302b6cda2ee99c7810784261cda27d3519b5b07a49ea111835c8",
+          "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+          "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+          "quote_hash": "b2a1a3b50bd754803496bc8322e53276b3cf2b2553b9b05495091466dd0d7c93",
+          "quote_start": 124977,
+          "quote_end": 125321,
+          "page_start_index": 67,
+          "page_end_index": 67,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 68,
+          "pdf_page_end": 68,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 68\"}",
+          "created_at": "2026-09-02T13:57:53.331227+03:00",
+          "updated_at": "2026-09-13T13:24:23.463886+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-208752",
+    "claim": "1867-01-19 Kauno gubernatorius Obolenskis, Vilniaus generalgubernatoriaus A. Baranovo įsakymu, iškėlė vysk. M. Valančiui bylą už savo valdžios viršijimą.",
+    "notePath": "objektai/ivykiai/Byla dėl vyskupo Motiejaus Valančiaus valdžios viršijimo.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "Paroda A",
+        "section": "Tarnystė tęsiasi",
+        "item": "tomasevicius",
+        "role": "contextual"
+      },
+      {
+        "work": "motiejus-valancius-ir-rusijos-imperija",
+        "section": "Po sukilimo: išsaugoti veiklą siaurėjančioje erdvėje"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-191372",
+        "source": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+        "exactOriginal": "Antai, kaip minėta, ganytojas per \nkuriją oficialiu raštu skyrė pinigų ištremtam kun. A. Ja­\nsevičiui. Šis raštas pateko į Irkutsko gubernijos raštinę, \no ši pasiuntė Kauno gubernatorių ištirti, kodėl yra ren­\nkami pinigai politiniams nusikaltėliams ir kodėl politinis \nnusikaltėlis, kuriam yra atimtos visos teisės, oficialiame \nrašte yra vadinamas kunigu *.\nPo ilgesnių tyrinėjimų, po revizijos kurijos raštinėje, \nVilniaus generalgubernatoriaus A. Baranovo įsakymu \nKauno gubernatorius Obolenskis vysk. M. Valančiui iš­\nkėlė bylą už savo valdžios viršijimą, kuri buvo pradėta \n1867.1.19 5.",
+        "displayExcerpt": "Po ilgesnių tyrinėjimų, po revizijos kurijos raštinėje, \nVilniaus generalgubernatoriaus A. Baranovo įsakymu \nKauno gubernatorius Obolenskis vysk. M. Valančiui iš­\nkėlė bylą už savo valdžios viršijimą, kuri buvo pradėta \n1867.1.19 5.",
+        "pages": {
+          "evidence_pk": "39ae8a94ae430a4b1d4bd05a22d3eeb1a6bd65f26259734f5442e9a2f880d8da",
+          "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+          "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+          "quote_hash": "0be71dd6dfed82ca5f10bb8084c956f2b571e88055b67b2874a6cdf90c6c8832",
+          "quote_start": 149391,
+          "quote_end": 149983,
+          "page_start_index": 78,
+          "page_end_index": 78,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 79,
+          "pdf_page_end": 79,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 79\"}",
+          "created_at": "2026-09-02T13:57:53.331227+03:00",
+          "updated_at": "2026-09-13T13:24:23.463886+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-208756",
+    "claim": "Vysk. M. Valančius pats suorganizavo slaptą katalikiškos lietuviškos literatūros leidimą Prūsijoje ir jos gabenimą į Lietuvą.",
+    "notePath": "objektai/ivykiai/Slaptas katalikiškos lietuviškos literatūros leidimas Prūsijoje ir jos gabenimas į Lietuvą.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "Paroda A",
+        "section": "Skirtingi raštai, skirtingos ribos",
+        "item": "kirilikos-knyga",
+        "role": "contextual"
+      },
+      {
+        "work": "motiejus-valancius-ir-rusijos-imperija",
+        "section": "Knyga: nuo prašymo iki slapto leidimo"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-191376",
+        "source": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+        "exactOriginal": "Vysk, M. Valančius šio kelio ne­\natsisakė. Priešingai, jis pats suorganizavo slaptą katalikiš­\nkos lietuviškos literatūros leidimą Prūsijoje ir jos gabe­\nnimą į Lietuvą. Tuo būdu vysk. M. Valančius pradėjo \ngarsiąją knygnešystę, kovą dėl religinių teisių ir lietu­\nviškų raidžių 4.",
+        "displayExcerpt": "Priešingai, jis pats suorganizavo slaptą katalikiš­\nkos lietuviškos literatūros leidimą Prūsijoje ir jos gabe­\nnimą į Lietuvą. Tuo būdu vysk. M. Valančius pradėjo \ngarsiąją knygnešystę, kovą dėl religinių teisių ir lietu­\nviškų raidžių 4.",
+        "pages": {
+          "evidence_pk": "77492945e86e954ad8a9dcdf1e1509c1779031f4ec00bd52846aa04600a3b5aa",
+          "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+          "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+          "quote_hash": "b5ddf226e78d1745f031b243bb40fedc7230c3b7f917513ae64a16a016846852",
+          "quote_start": 217040,
+          "quote_end": 217321,
+          "page_start_index": 109,
+          "page_end_index": 109,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 110,
+          "pdf_page_end": 110,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 110\"}",
+          "created_at": "2026-09-02T13:57:53.331227+03:00",
+          "updated_at": "2026-09-13T13:24:23.463886+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-208758",
+    "claim": "1870 m. spalio 24 d. Vilniaus generalgubernatorius A. Potapovas sudarė komisiją, įpareigotą atlikti vyskupo Motiejaus Valančiaus buto kratą, ir nurodė jo neareštuoti net radus draudžiamos literatūros.",
+    "notePath": "objektai/ivykiai/Vyskupo M. Valančiaus buto krata.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "motiejus-valancius-ir-rusijos-imperija",
+        "section": "Knyga: nuo prašymo iki slapto leidimo"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-191378",
+        "source": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+        "exactOriginal": "Caro valdžia įtarė vysk. M. Valančių, kad jis esąs \nPrūsijoje spausdinamų religinių brošiūrų autorius. Todėl \nVilniaus \ngeneralgubernatorius A. Potapovas \n1870.X.24 \nraštu Nr. 5451 sudarė komisiją, kuriai įsakė vysk. M. Va­\nlančiaus bute padaryti kratą ir nurodė, nors ir radus \ndraudžiamos literatūros, vyskupo neareštuoti3.",
+        "displayExcerpt": "Todėl \nVilniaus \ngeneralgubernatorius A. Potapovas \n1870.X.24 \nraštu Nr. 5451 sudarė komisiją, kuriai įsakė vysk. M. Va­\nlančiaus bute padaryti kratą ir nurodė, nors ir radus \ndraudžiamos literatūros, vyskupo neareštuoti3.",
+        "pages": {
+          "evidence_pk": "9badb950ee06aa672cbf02206d5a8c728d2e3ca5bbfd17dacf7853d67603ec49",
+          "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+          "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+          "quote_hash": "cbdbe1476ced6b4f5441a7eb99adc937406fff9e2761c3f621258658089b9de9",
+          "quote_start": 218765,
+          "quote_end": 219090,
+          "page_start_index": 110,
+          "page_end_index": 110,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 111,
+          "pdf_page_end": 111,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 111\"}",
+          "created_at": "2026-09-02T13:57:53.331227+03:00",
+          "updated_at": "2026-09-13T13:24:23.463886+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-208759",
+    "claim": "1870 m. gruodžio 12 d. komisija atliko vyskupo Motiejaus Valančiaus buto kratą, tačiau nieko įtartino nerado.",
+    "notePath": "objektai/ivykiai/Vyskupo M. Valančiaus buto krata.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "Paroda A",
+        "section": "Užrašas ir vėlesnis atvaizdas",
+        "item": "albumas1898",
+        "role": "contextual"
+      },
+      {
+        "work": "motiejus-valancius-ir-rusijos-imperija",
+        "section": "Knyga: nuo prašymo iki slapto leidimo"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-191379",
+        "source": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+        "exactOriginal": "Komisija \nvyskupo bute 1870.XII.12 padarė kratą, bet nieko įtartino \nnerado 4.",
+        "displayExcerpt": "",
+        "pages": {
+          "evidence_pk": "bbd2a28ed710b7454e3c9550246be8b7b958aa22df8d2e059a49ced9b3b8c9ee",
+          "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+          "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+          "quote_hash": "61a0485dfbbcc4fa4b0a768440d8e3264d9d4d34a203cd16e3362afdf8f948a8",
+          "quote_start": 219091,
+          "quote_end": 219169,
+          "page_start_index": 110,
+          "page_end_index": 110,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 111,
+          "pdf_page_end": 111,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 111\"}",
+          "created_at": "2026-09-02T13:57:53.331227+03:00",
+          "updated_at": "2026-09-13T13:24:23.463886+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-208765",
+    "claim": "1850 m. pirmajame pastoraciniame laiške vyskupas Motiejus Valančius kunigams priminė Dievo žodžio skelbimo pareigą ir įsakė sekmadieniais aiškinti katekizmą.",
+    "notePath": "objektai/ivykiai/1850 m. pirmasis pastoracinis laiškas kunigams.md",
+    "publicStatus": "quarantined",
+    "usedBy": [],
+    "evidence": [
+      {
+        "citationId": "c-191385",
+        "source": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+        "exactOriginal": "Jau pirmame pastoraciniame laiške 1850 m. \njis kreipėsi ir į kunigus, primindamas jiems Dievo žodžio \nskelbimo pareigą. Vyskupas įsakė dar papildomai šven­\ntadieniais po sumos arba po mišparų aiškinti katekizmą. \nBe to, ypač atkreipė dėmesį į tai, kad jų pamokslai būtų \npaprasti ir suprantami bemoksliams tikintiesiems.",
+        "displayExcerpt": "",
+        "pages": {
+          "evidence_pk": "fa4074ba8c2ef4080f637fd359247730a9f782bd47ef7f049b966b852020c62b",
+          "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+          "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+          "quote_hash": "bab5349db03fd613d577b034926e3d08a53a4795f15e3563782e4adaef2db5db",
+          "quote_start": 50557,
+          "quote_end": 50877,
+          "page_start_index": 28,
+          "page_end_index": 28,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 29,
+          "pdf_page_end": 29,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 29\"}",
+          "created_at": "2026-09-02T13:57:53.331227+03:00",
+          "updated_at": "2026-09-13T13:24:23.463886+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-208767",
+    "claim": "1853 m. kovo 28 d. aplinkraštyje Nr. 659–677 vyskupas Motiejus Valančius nurodė, kad lietuviškus pamokslus cenzūruos pats vyskupas, o pamokslus galima pakeisti katekizmo aiškinimu.",
+    "notePath": "objektai/ivykiai/1853 m. kovo 28 d. aplinkraštis Nr. 659–677 dėl pamokslų cenzūros.md",
+    "publicStatus": "accepted",
+    "usedBy": [],
+    "evidence": [
+      {
+        "citationId": "c-191387",
+        "source": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+        "exactOriginal": "Todėl 1853.III.28 aplinkraštyje Nr. \n659—677 kunigams taip jis aiškino cenzūros įstatymą: 1) \nateityje negalima sakyti latviškai ir lenkiškai naujų, baž­\nnytinių cenzorių dar nepatvirtintų pamokslų,— cenzoriui \npristatytini du pamokslo egzemplioriai; 2) lietuviškai ra­\nšytus pamokslus cenzūruos pats vyskupas,— reikia pri­\nstatyti vieną pamokslo egzempliorių; 3) galima sakyti \nlietuviškai, latviškai ir lenkiškai spausdintus, civilinės ir \nbažnytinės cenzūros patikrintus pamokslus,— nesant lie­\ntuviškų spausdintų pamokslų, galima sakyti išverstus iš \nkitų kalbų; 4) pamokslus galima pakeisti katekizmo aiš­\nkinimu 3.",
+        "displayExcerpt": "1853.III.28 aplinkraštyje Nr. \n659—677 kunigams taip jis aiškino cenzūros įstatymą: 1) \nateityje negalima sakyti latviškai ir lenkiškai naujų, baž­\nnytinių cenzorių dar nepatvirtintų pamokslų,— cenzoriui \npristatytini du pamokslo egzemplioriai; 2) lietuviškai ra­\nšytus pamokslus cenzūruos pats vyskupas,— reikia pri­\nstatyti vieną pamokslo egzempliorių; 3) galima sakyti \nlietuviškai, latviškai ir lenkiškai spausdintus, civilinės ir \nbažnytinės cenzūros patikrintus pamokslus,— nesant lie­\ntuviškų spausdintų pamokslų, galima sakyti išverstus iš \nkitų kalbų; 4) pamokslus galima pakeisti katekizmo aiš­\nkinimu 3.",
+        "pages": {
+          "evidence_pk": "5e34cb05c00a58b8a6d63d8aa3fb52d44b70632aa5a012e179d2657510db3a69",
+          "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+          "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+          "quote_hash": "a59e79ac6ce7775ae4f5b4f089b9e0cee91cc4d34256323ffd8d1059d8a665f1",
+          "quote_start": 54254,
+          "quote_end": 54874,
+          "page_start_index": 29,
+          "page_end_index": 29,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 30,
+          "pdf_page_end": 30,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 30\"}",
+          "created_at": "2026-09-02T13:57:53.331227+03:00",
+          "updated_at": "2026-09-13T13:24:23.463886+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-208773",
+    "claim": "1867 m. liepos 20 d. vyskupas Motiejus Valančius laiške Batakių dekanui kunigui Montvilui nurodė prižiūrėti, kad kunigai sekmadieniais katekizuotų žmones, o per šventes sakytų pamokslus.",
+    "notePath": "objektai/ivykiai/1867 m. liepos 20 d. laiškas Batakių dekanui kun. Montvilui.md",
+    "publicStatus": "accepted",
+    "usedBy": [],
+    "evidence": [
+      {
+        "citationId": "c-191393",
+        "source": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+        "exactOriginal": "Antai \n1867 m. VII.20 vyskupas rašė Batakių dekanui kun. Mont- \nvilui, jog dekanas privaląs budėti, kad kunigai sekma­\ndieniais katekizuotų žmones, o per šventes sakytų pamoks­\nlus 2.",
+        "displayExcerpt": "1867 m. VII.20 vyskupas rašė Batakių dekanui kun. Mont- \nvilui, jog dekanas privaląs budėti, kad kunigai sekma­\ndieniais katekizuotų žmones, o per šventes sakytų pamoks­\nlus 2.",
+        "pages": {
+          "evidence_pk": "ba9087f810d45dd432b36a9f8dac99306129eafa71f4c98c024133e3689cf930",
+          "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+          "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+          "quote_hash": "eaff26a55a93faf5d5220fce6cbd30b101327e620f628e20383c3a19723ae12a",
+          "quote_start": 53418,
+          "quote_end": 53601,
+          "page_start_index": 29,
+          "page_end_index": 29,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 30,
+          "pdf_page_end": 30,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 30\"}",
+          "created_at": "2026-09-02T13:57:53.331227+03:00",
+          "updated_at": "2026-09-13T13:24:23.463886+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-208774",
+    "claim": "1867–1868 m. Lietuvoje kilus badui, vyskupas Motiejus Valančius Kaune kasdien maitindavo kelis šimtus žmonių, nepaisydamas jų tikėjimo ir tautybės.",
+    "notePath": "objektai/ivykiai/1867–1868 m. badas Lietuvoje.md",
+    "publicStatus": "accepted",
+    "usedBy": [],
+    "evidence": [
+      {
+        "citationId": "c-191394",
+        "source": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+        "exactOriginal": "1867.—1868 m. Lietuvoje kilo badas 4. Vysk. M. Va­\nlančius Kaune kasdien maitindavo kelis šimtus žmonių \nneatsižvelgdamas nei į jų tikėjimą, nei į tautybę.",
+        "displayExcerpt": "1867.—1868 m. Lietuvoje kilo badas 4. Vysk. M. Va­\nlančius Kaune kasdien maitindavo kelis šimtus žmonių \nneatsižvelgdamas nei į jų tikėjimą, nei į tautybę",
+        "pages": {
+          "evidence_pk": "65ffd18194fb84064b6fc55638cf80a08ef07b4acd9e72af82482836b69edefc",
+          "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+          "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+          "quote_hash": "01d9a3275a40ae9e8e99637e8bd4f0da4bd345994d9b308f602a0dc403c51a22",
+          "quote_start": 315698,
+          "quote_end": 315853,
+          "page_start_index": 157,
+          "page_end_index": 157,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 158,
+          "pdf_page_end": 158,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 158\"}",
+          "created_at": "2026-09-02T13:57:53.331227+03:00",
+          "updated_at": "2026-09-13T13:24:23.463886+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-208786",
+    "claim": "Parapinių mokyklų uždarymas 1863 m., P. Puzaro vertinimu, buvo rimtas smūgis vyskupo Motiejaus Valančiaus švietimo akcijai.",
+    "notePath": "objektai/ivykiai/Parapinių mokyklų uždarymas.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "motiejus-valancius-ir-rusijos-imperija",
+        "section": "Knyga: nuo prašymo iki slapto leidimo"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-191406",
+        "source": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+        "exactOriginal": "Parapinių mokyklų uždarymas 1863 m. buvo rimtas \nsmūgis vysk. M. Valančiaus švietimo akcijai.",
+        "displayExcerpt": "",
+        "pages": {
+          "evidence_pk": "ee0af445bf0e8a114e6c445e610158bc12d3db89e5271074559c1a774e2dadd1",
+          "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+          "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+          "quote_hash": "47d4065919e3a94014a17c41727f83a1fe2ea9e96ecb0560c0191557ce861d37",
+          "quote_start": 171790,
+          "quote_end": 171883,
+          "page_start_index": 89,
+          "page_end_index": 89,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 90,
+          "pdf_page_end": 90,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 90\"}",
+          "created_at": "2026-09-02T13:57:53.331227+03:00",
+          "updated_at": "2026-09-13T13:24:23.463886+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-208788",
+    "claim": "1866 m. lapkričio 17 d. Vilniaus generalgubernatorius K. fon Kaufmanas uždraudė katalikiškas procesijas gatvėse, aikštėse, kaimuose ir laukuose, palikdamas jas tik bažnyčiose ar šventoriuose.",
+    "notePath": "objektai/ivykiai/Procesijų draudimas Žemaičių vyskupijoje 1866 m.md",
+    "publicStatus": "quarantined",
+    "usedBy": [],
+    "evidence": [
+      {
+        "citationId": "c-191408",
+        "source": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+        "exactOriginal": "1866.11.17 Vilniaus generalgubernatorius K. fon Kauf- \nmanas uždraudė katalikiškas procesijas miestų gatvėse ir \naikštėse, kaimuose ir laukuose. Kaimų ir miestelių para­\npijose buvo leidžiamos procecijos tik šventoriuose, o \nmiestų — tik bažnyčiose.",
+        "displayExcerpt": "",
+        "pages": {
+          "evidence_pk": "45cba0877fd948e450ae5842d1012efdb267c30f725a917dd58d9d3afdecb57a",
+          "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+          "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+          "quote_hash": "72a5123a82a6fa2b7544f5e825d1eeee58c5104bf0fe2585aed0dc2d9e6bb827",
+          "quote_start": 86045,
+          "quote_end": 86294,
+          "page_start_index": 46,
+          "page_end_index": 46,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 47,
+          "pdf_page_end": 47,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 47\"}",
+          "created_at": "2026-09-02T13:57:53.331227+03:00",
+          "updated_at": "2026-09-13T13:24:23.463886+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-208793",
+    "claim": "1864 m. sausio 28 d. vyskupas Motiejus Valančius Tytuvėnų parapijai parašė pastoracinį laišką, kuriame įspėjo parapijiečius nepasiduoti Antano Bortkevičiaus ir Juozapo Leščiausko apgaulei.",
+    "notePath": "objektai/ivykiai/Vyskupo Motiejaus Valančiaus pastoracinis laiškas Tytuvėnų parapijai.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "Paroda A",
+        "section": "Užrašas ir vėlesnis atvaizdas",
+        "item": "dienorastis",
+        "role": "contextual"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-191413",
+        "source": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+        "exactOriginal": "Apie \nšį įvykį sužinojęs iš gubernatoriaus vysk. M. Valančius \n1856.X parašė Kartenos parapijai pastoracinį laišką, ku­\nriame perspėjo karteniškius, vadindamas tokį elgesį pa­\ngonišku, ir ragino išlaikyti tikėjimo grynumą bei netikėti \nburtais3.\nSužinojęs, kad Tytuvėnų parapijoje burtininkai Anta­\nnas Bortkevičius ir Juozapas Leščiauskas, prisidengę pa­\nmaldumu, ėmė apgaudinėti žmones: šventinti žoles, na­\nmus, rašyti žmones į tretininkus, suteikinėti atlaidus, lai­\nminti bei dalyti kryželius, į juos įdėję akmenukų ar mi­\nrusiųjų kaulų, vysk. M. Valančius 1864.1.28 parašė Ty­\ntuvėnų parapijai pastoracinį laišką, kuriame priminė, kad \ntytuvėniškiai nesiduotų burtininkų apgaudinėjami4.",
+        "displayExcerpt": "Sužinojęs, kad Tytuvėnų parapijoje burtininkai Anta­\nnas Bortkevičius ir Juozapas Leščiauskas, prisidengę pa­\nmaldumu, ėmė apgaudinėti žmones: šventinti žoles, na­\nmus, rašyti žmones į tretininkus, suteikinėti atlaidus, lai­\nminti bei dalyti kryželius, į juos įdėję akmenukų ar mi­\nrusiųjų kaulų, vysk. M. Valančius 1864.1.28 parašė Ty­\ntuvėnų parapijai pastoracinį laišką, kuriame priminė, kad \ntytuvėniškiai nesiduotų burtininkų apgaudinėjami4.",
+        "pages": {
+          "evidence_pk": "da7bf156e19923d370fbfe8bac5ad27bf71fbdda9e32220c8050603ff7eef364",
+          "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+          "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+          "quote_hash": "fa0338706ce380649f4bf9d22b3fa34cad50269630d6a18b491541f94d59ead7",
+          "quote_start": 290811,
+          "quote_end": 291503,
+          "page_start_index": 143,
+          "page_end_index": 143,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 144,
+          "pdf_page_end": 144,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 144\"}",
+          "created_at": "2026-09-02T13:57:53.331227+03:00",
+          "updated_at": "2026-09-13T13:24:23.463886+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-208799",
+    "claim": "Vyskupas Motiejus Valančius rūpinosi, kad vaikai būtų tinkamai parengti Atgailos sakramentui ir priimti šv. Komuniją, šį darbą atlikdamas per kunigus ir asmeniškai.",
+    "notePath": "objektai/paprociai/Vaikų ruošimas pirmajai išpažinčiai ir šv. Komunijai.md",
+    "publicStatus": "accepted",
+    "usedBy": [],
+    "evidence": [
+      {
+        "citationId": "c-191419",
+        "source": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+        "exactOriginal": "Vysk. M. Valančius labai rūpinosi, kad vaikai būtų tin­\nkamai paruošti Atgailos sakramentui ir šv. Komunijai pri­\nimti. Jis veikė ne vien per kunigus, bet ir pats asme­\nniškai.",
+        "displayExcerpt": "",
+        "pages": {
+          "evidence_pk": "98c4e359aee188df4aa55f67e0bd20be3f12470bfedc610510b340c7ceeea1f2",
+          "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+          "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+          "quote_hash": "e0cb3f826cd8c3db7e3e6391fe88b6906af572b45bd41483b5fd24eeefc1509d",
+          "quote_start": 110328,
+          "quote_end": 110504,
+          "page_start_index": 59,
+          "page_end_index": 59,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 60,
+          "pdf_page_end": 60,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 60\"}",
+          "created_at": "2026-09-02T13:57:53.331227+03:00",
+          "updated_at": "2026-09-13T13:24:23.463886+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-208803",
+    "claim": "Antanina Radavičienė pasakoja, kad pirmosios šv. Komunijos dieną iš vyskupo Motiejaus Valančiaus gavo knygą „Senasis altorius“, o vyskupas vaikams bažnyčioje dalydavo knygas ir kviesdavosi juos pas save vaišinti.",
+    "notePath": "objektai/paprociai/Vaikų ruošimas pirmajai išpažinčiai ir šv. Komunijai.md",
+    "publicStatus": "accepted",
+    "usedBy": [],
+    "evidence": [
+      {
+        "citationId": "c-191423",
+        "source": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+        "exactOriginal": "Komunijos antrąją Velykų dieną ‘. O Antanina \nRadavičienė, kuri pirmosios šv. Komunijos dieną gavo iš \nvysk. M. Valančiaus knygą „Senasis altorius\", pasakoja, \nkad vyskupas šia proga knygas duodavęs vaikams baž­\nnyčioje, o po to vesdavęsis juos pas save pavaišinti1 2.",
+        "displayExcerpt": "O Antanina \nRadavičienė, kuri pirmosios šv. Komunijos dieną gavo iš \nvysk. M. Valančiaus knygą „Senasis altorius\", pasakoja, \nkad vyskupas šia proga knygas duodavęs vaikams baž­\nnyčioje, o po to vesdavęsis juos pas save pavaišinti1 2.",
+        "pages": {
+          "evidence_pk": "0bec81b681fafbe4420dd948b3edca857dc41f976fe38d0a1645e0ee29fb407a",
+          "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+          "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+          "quote_hash": "1e38955803e975b334d88e585a9a979470ab6cb19e5ad31ca1186eff1a230690",
+          "quote_start": 112625,
+          "quote_end": 112893,
+          "page_start_index": 60,
+          "page_end_index": 60,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 61,
+          "pdf_page_end": 61,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 61\"}",
+          "created_at": "2026-09-02T13:57:53.331227+03:00",
+          "updated_at": "2026-09-13T13:24:23.463886+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-208808",
+    "claim": "1852 m. Vainuto vizitacijos metu daug žmonių norėjo iš vyskupo Motiejaus Valančiaus rankų gauti atminimo dovanų, tačiau jų visiems neužteko.",
+    "notePath": "objektai/paprociai/Atminimo dovanėlių dalijimas vizitacijų metu.md",
+    "publicStatus": "accepted",
+    "usedBy": [],
+    "evidence": [
+      {
+        "citationId": "c-191428",
+        "source": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+        "exactOriginal": "Tikintieji jausdavo, kad juos aplankė ne oficialus \nvyskupas, bet juos mylintis ganytojas bei tėvas. Todėl \nprie vysk. M. Valančiaus per vizitacijas jo ganomieji \ngrūste grūsdavosi. Jis savo atsiminimuose rašo, kad \n1852 m. vizitacijos metu Vainute labai daug žmonių norė­\njo gauti iš jo rankų atminimo dovanų, tačiau šį kartą jų \nvisiems neužtekę 6.",
+        "displayExcerpt": "Jis savo atsiminimuose rašo, kad \n1852 m. vizitacijos metu Vainute labai daug žmonių norė­\njo gauti iš jo rankų atminimo dovanų, tačiau šį kartą jų \nvisiems neužtekę 6.",
+        "pages": {
+          "evidence_pk": "7c7304768a4f33a2baf087a5fd46c74d2388e0dc23a4bac2d5d8c2d4bc960cc7",
+          "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+          "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+          "quote_hash": "9d9dda0069f4095b3f153540656633718f4b04b8cb7e4913583ba3b01e72a309",
+          "quote_start": 99947,
+          "quote_end": 100297,
+          "page_start_index": 54,
+          "page_end_index": 54,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 55,
+          "pdf_page_end": 55,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 55\"}",
+          "created_at": "2026-09-02T13:57:53.331227+03:00",
+          "updated_at": "2026-09-13T13:24:23.463886+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-208814",
+    "claim": "Po 1863 m. sukilimo, valdžiai uždraudus kunigams susirinkti į vieną vietą, vyskupas Motiejus Valančius nurodė rekolekcijas atlikti pavieniui, o nuo 1865 m. jas sutrumpino iki trijų dienų.",
+    "notePath": "objektai/paprociai/Kunigų metinės rekolekcijos.md",
+    "publicStatus": "accepted",
+    "usedBy": [],
+    "evidence": [
+      {
+        "citationId": "c-191434",
+        "source": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+        "exactOriginal": "Po 1863 m. sukilimo valdžia uždraudė kunigams su­\nvažiuoti į vieną vietą. Todėl vysk. M. Valančius 1864.IX.14 \naplinkraščiu kunigams priminė, kad, jeigu negalėsią su­\nvažiuoti į rekolekcijas, tegul jas atlieka pavieniui3. Jau \nnuo 1865 m. pasunkėjus sąlygoms, ganytojas sutrumpino \nrekolekcijas iki trijų dienų4.",
+        "displayExcerpt": "",
+        "pages": {
+          "evidence_pk": "182e701a610f1fb757ec6d37e09e6747414f941a442e9cde66d578f8e395f2fe",
+          "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+          "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+          "quote_hash": "97c54eb394c9d920eb5a7fc4e76014d6d4c7f5d5147c1e68b17e0aab360eba48",
+          "quote_start": 137560,
+          "quote_end": 137872,
+          "page_start_index": 73,
+          "page_end_index": 73,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 74,
+          "pdf_page_end": 74,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 74\"}",
+          "created_at": "2026-09-02T13:57:53.331227+03:00",
+          "updated_at": "2026-09-13T13:24:23.463886+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-208821",
+    "claim": "Blaivybės brolijos nariai privalo visą amžių negerti degtinės, romo ir arako, raginti kitus žmones stoti į broliją, kas šventadienį kalbėti šv. Bernardo maldą ir per Grabnyčias atnaujinti blaivybės apžadą.",
+    "notePath": "objektai/paprociai/Blaivybės brolijos priėmimo ir apžado atnaujinimo praktika.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Brolijos pareigos, religinė praktika ir prievartos riba"
+      },
+      {
+        "work": "Paroda B",
+        "section": "Kvietimas ir pažadas",
+        "item": "brostwa",
+        "role": "contextual"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-191441",
+        "source": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+        "exactOriginal": "Blaivybės brolijos narių pareigos yra tokios: 1) visą \namžių negerti degtinės, romo ir arako (leidžiama saikin­\ngai gerti vyną, alų ir midų); 2) raginti kitus žmones, ypač \ngirtuoklius, stoti į Blaivybės broliją; 3) kiekvieną šven­\ntadienį sukalbėti šv. Bernardo maldą Švč. M. Marijai, ku­\nrioje yra ištvermės prašymas (nemokantys šios maldos \ngali kalbėti 3 kartus „Sveika Marija\"), 4) per Grabnyčių \nšventę (vasario 2 d.) atnaujinti blaivybės apžadą prieš \nŠvč. M. Marijos altorių arba paveikslą (ir neatnaujinęs \napžado lieka Blaivybės brolijos nariu); tą dieną klebo­\nnas, kaip parapijos Blaivybės brolijos pirmininkas, pri­\nvalo nariams pasakyti pamokslą, išvardyti mirusius na­\nrius ir atlaikyti giedotas šv. Mišias už jų vėles.",
+        "displayExcerpt": "",
+        "pages": {
+          "evidence_pk": "23e1bbd04de261776e28561546146b0187bbea89ade191a2a2d0ae49ca4da8a8",
+          "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+          "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+          "quote_hash": "afbfd10d25670819b68f289c3c449bf47ac1524b8e8a0a9d20c31d4b2142e3cc",
+          "quote_start": 253329,
+          "quote_end": 254063,
+          "page_start_index": 126,
+          "page_end_index": 126,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 127,
+          "pdf_page_end": 127,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 127\"}",
+          "created_at": "2026-09-02T13:57:53.331227+03:00",
+          "updated_at": "2026-09-14T12:28:16.760539+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "B redakcijos kortelėse atskiriamas dokumentas, istoriko aiškinimas, teritorija ir liudijimo mastas. Katalogo tapatybė nėra nustatoma iš kontekstinio teiginio."
+  },
+  {
+    "claimId": "t-208829",
+    "claim": "Sužinojęs, kad vieša atgaila praktikuojama Rietavo bažnyčioje, vyskupas Motiejus Valančius 1855 m. sausio 8 d. raštu Nr. 34 Rietavo klebonui įsakė neskirti viešų atgailų.",
+    "notePath": "objektai/paprociai/Vieša atgaila.md",
+    "publicStatus": "accepted",
+    "usedBy": [],
+    "evidence": [
+      {
+        "citationId": "c-191449",
+        "source": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+        "exactOriginal": "Pavyzdžiui, vysk. M. Va­\nlančius, sužinojęs, kad vieša atgaila praktikuojama Rieta­\nvo bažnyčioje, 1855.1.8 raštu Nr. 34 Rietavo klebonui įsa­\nkė neskirti viešų atgailų5. Taip pat 1869.III.17 rašte Nr. \n509 Gruzdžių klebonui vysk. rašė, kad klebonai viešų \natgailų neturį teisės skirti6 7.",
+        "displayExcerpt": "",
+        "pages": {
+          "evidence_pk": "4df1163f51ec225716785b521e80538238f606ba726ac991acbe1a774a1e990e",
+          "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+          "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+          "quote_hash": "99792b0cfef92c28cf4bf52d3801ead1a5530629b89f1d08fdf7935e17fa7a66",
+          "quote_start": 94981,
+          "quote_end": 95270,
+          "page_start_index": 52,
+          "page_end_index": 52,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 53,
+          "pdf_page_end": 53,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 53\"}",
+          "created_at": "2026-09-02T13:57:53.331227+03:00",
+          "updated_at": "2026-09-13T13:24:23.463886+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-208834",
+    "claim": "Per Grabnyčias, vasario 2 d., Blaivybės brolijos nariai turėjo atnaujinti blaivybės apžadą prieš Švč. M. Marijos altorių arba paveikslą.",
+    "notePath": "objektai/paprociai/Blaivybės brolijos apžadų atnaujinimas per Grabnyčias.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Brolijos pareigos, religinė praktika ir prievartos riba"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-191454",
+        "source": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+        "exactOriginal": "M. Marijai, ku­\nrioje yra ištvermės prašymas (nemokantys šios maldos \ngali kalbėti 3 kartus „Sveika Marija\"), 4) per Grabnyčių \nšventę (vasario 2 d.) atnaujinti blaivybės apžadą prieš \nŠvč. M. Marijos altorių arba paveikslą (ir neatnaujinęs \napžado lieka Blaivybės brolijos nariu); tą dieną klebo­\nnas, kaip parapijos Blaivybės brolijos pirmininkas, pri­\nvalo nariams pasakyti pamokslą, išvardyti mirusius na­\nrius ir atlaikyti giedotas šv. Mišias už jų vėles.",
+        "displayExcerpt": "4) per Grabnyčių \nšventę (vasario 2 d.) atnaujinti blaivybės apžadą prieš \nŠvč. M. Marijos altorių arba paveikslą (ir neatnaujinęs \napžado lieka Blaivybės brolijos nariu); tą dieną klebo­\nnas, kaip parapijos Blaivybės brolijos pirmininkas, pri­\nvalo nariams pasakyti pamokslą, išvardyti mirusius na­\nrius ir atlaikyti giedotas šv. Mišias už jų vėles.",
+        "pages": {
+          "evidence_pk": "2310bd4c3553d6badd74a7abb1ab8887219a203d7c6c0c447932475b24eb29d8",
+          "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+          "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+          "quote_hash": "96838bb03f6dccf2d1dc1defae8fd42302edfe51c6348e9f103af0744145c234",
+          "quote_start": 253603,
+          "quote_end": 254063,
+          "page_start_index": 126,
+          "page_end_index": 126,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 127,
+          "pdf_page_end": 127,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 127\"}",
+          "created_at": "2026-09-02T13:57:53.331227+03:00",
+          "updated_at": "2026-09-14T12:28:16.760539+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "B redakcijos kortelėse atskiriamas dokumentas, istoriko aiškinimas, teritorija ir liudijimo mastas. Katalogo tapatybė nėra nustatoma iš kontekstinio teiginio."
+  },
+  {
+    "claimId": "t-208845",
+    "claim": "Vyskupas Motiejus Valančius blaivybę skelbė pastoraciniais laiškais, kurie bažnyčiose būdavo skaitomi tris sekmadienius ir tapo svarbiu blaivybės akcijos veiksniu.",
+    "notePath": "objektai/paprociai/Pastoracinių blaivybės laiškų skaitymas bažnyčiose.md",
+    "publicStatus": "accepted",
+    "usedBy": [],
+    "evidence": [
+      {
+        "citationId": "c-191465",
+        "source": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+        "exactOriginal": "Tokios \nbausmės buvo taikomos tik nuolat girtaujantiems, retai \ntiems blaivininkams, kurie pirmą kartą gėrė degtinę4.\nVysk. M. Valančius skelbė blaivybę, rašydamas pas­\ntoracinius laiškus, kurie bažnyčiose būdavo skaitomi 3 \nsekmadienius. Šie laiškai buvo labai svarbus veiksnys \nblaivybės akcijoje.",
+        "displayExcerpt": "Vysk. M. Valančius skelbė blaivybę, rašydamas pas­\ntoracinius laiškus, kurie bažnyčiose būdavo skaitomi 3 \nsekmadienius. Šie laiškai buvo labai svarbus veiksnys \nblaivybės akcijoje.",
+        "pages": {
+          "evidence_pk": "97189797150d93bed6316bd03a9859a0d18b659f25a5e1dcbb596e60e90c8583",
+          "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+          "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+          "quote_hash": "af7a281e5b1ab530738e9a6525d3bbc9e9efd86ee2d73e6ba1e6f691fa419a6b",
+          "quote_start": 260276,
+          "quote_end": 260575,
+          "page_start_index": 129,
+          "page_end_index": 129,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 130,
+          "pdf_page_end": 130,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 130\"}",
+          "created_at": "2026-09-02T13:57:53.331227+03:00",
+          "updated_at": "2026-09-13T13:24:23.463886+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-208512",
+    "claim": "Motiejus Valančius draudė naudoti prievartą blaivybei skleisti ir dėl to išsiuntė kunigams du aplinkraščius.",
+    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Brolijos pareigos, religinė praktika ir prievartos riba"
+      },
+      {
+        "work": "Paroda B",
+        "section": "Blaivybė tarp kaimynų",
+        "item": "medzio-raizinys",
+        "role": "contextual"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-191132",
+        "source": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+        "exactOriginal": "Bet pasirodė, kad dauguma skundų buvo neteisingi, per­\ndėti, skundikai buvo smuklininkų pasamdyti5.\nTiesą, buvo keletas atsitikimų, kai prieš girtuoklius \nbuvo p’anaudotos prievartos priemonės, pavyzdžiui, Pa­\npilėje vienas girtuoklis buvo gainiojamas aplink bažny­\nčią, reikalaujant rankose laikyti butelį ir stikliuką, kitam \ngirtuokliui buvo įsakyta gulėti bažnyčioje kryžium, o prie \ngalvos buvo pastatytas butelys6 7.\nVysk. M. Valančius draudė naudoti tokią prievartą, \ntodėl tuo reikalu kunigams išsiuntė du aplinkraščius1.",
+        "displayExcerpt": "Vysk. M. Valančius draudė naudoti tokią prievartą, \ntodėl tuo reikalu kunigams išsiuntė du aplinkraščius1.",
+        "pages": {
+          "evidence_pk": "bf73979913a54b407dcd40ba7a34f93221d238a411064a3263035ea84607d063",
+          "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+          "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+          "quote_hash": "bbd4359b9018e6011d77d56ea4812fbc188ca87b3d3474cf496ff190ef53e010",
+          "quote_start": 280717,
+          "quote_end": 281246,
+          "page_start_index": 138,
+          "page_end_index": 138,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 139,
+          "pdf_page_end": 139,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 139\"}",
+          "created_at": "2026-09-02T13:57:53.331227+03:00",
+          "updated_at": "2026-09-14T12:28:16.760539+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "B redakcijos kortelėse atskiriamas dokumentas, istoriko aiškinimas, teritorija ir liudijimo mastas. Katalogo tapatybė nėra nustatoma iš kontekstinio teiginio."
+  },
+  {
+    "claimId": "t-209423",
+    "claim": "1860 m. pavasarį Vilniaus generalgubernatorius V. Nazimovas pareikalavo, kad vyskupas Motiejus Valančius pateiktų blaivybės judėjimo statistiką.",
+    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+    "publicStatus": "accepted",
+    "usedBy": [],
+    "evidence": [
+      {
+        "citationId": "c-192039",
+        "source": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+        "exactOriginal": "Paskui kunigas naują narį šlakstė švęstu \nvandeniu, šis bučiavo šventas relikvijas. Žodžiu, buvo panašios \nprocedūros kaip ir kitose religinėse brolijose (apie tai minėjo savo rašte \ngeneralgubernatoriui M. Valančius).\n1860 m. pavasarį V. Nazimovas pareikalavo, kad vyskupas M. \nValančius pateiktų statistinius duomenis apie blaivybės judėjimą.",
+        "displayExcerpt": "1860 m. pavasarį V. Nazimovas pareikalavo, kad vyskupas M. \nValančius pateiktų statistinius duomenis apie blaivybės judėjimą.",
+        "pages": {
+          "evidence_pk": "f0e62245afa7c0d8834f077b59368a8430ac6937d450024aa0ded07873b67111",
+          "source_rel": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+          "source_hash": "96d7c991f4509784b3c4005c114017db3006bd620ae6a28dea9630475acfda2e",
+          "quote_hash": "f93494a92bf90a311cf9785eade7c31429ef46d9dfd66ce4238adfd43fe7d7d8",
+          "quote_start": 147628,
+          "quote_end": 147972,
+          "page_start_index": 69,
+          "page_end_index": 69,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 70,
+          "pdf_page_end": 70,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 70\"}",
+          "created_at": "2026-09-02T04:55:15.729888+03:00",
+          "updated_at": "2026-09-13T13:24:38.864198+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-209258",
+    "claim": "1860 m. rudenį Motiejus Valančius dalyvavo Vilniuje surengtame Aleksandro II iškilmingame priėmime.",
+    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "Paroda A",
+        "section": "Autoritetas turi veidą ir parašą",
+        "item": "portretas1854",
+        "role": "contextual"
+      },
+      {
+        "work": "motiejus-valancius-ir-rusijos-imperija",
+        "section": "Veikti sistemoje nereiškė jai viskam pritarti"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-191972",
+        "source": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+        "exactOriginal": "Blaivybės judėjimo mastai Žemaitijoje buvo įspūdingi. Tiek pat \nįspūdingos sumos, kurių neteko Rusijos imperijos iždas dėl sumažėjusių \nakcizo įplaukų, Ta dingstimi finansų ministras kėlė klausimą dėl M. \nValančiaus, kaip blaivybės akcijos iniciatoriaus, ištrėmimo iš savos \nvyskupystės. Tačiau, kaip vėliau matysime, vyriausybės stovykla nebuvo \nvienalytė, ir M. Valančius, sužinojęs, kad 1860 m. rudenį į Vilnių \natvyks Aleksandras II, pasistengė dalyvauti jo iškilmingame priėmime.",
+        "displayExcerpt": "M. Valančius, sužinojęs, kad 1860 m. rudenį į Vilnių \natvyks Aleksandras II, pasistengė dalyvauti jo iškilmingame priėmime.",
+        "pages": {
+          "evidence_pk": "a0c4dde0bc57c9c5faa1a249db5634ca5c9fdfd236e408bbaf4bac0f45cbe6c0",
+          "source_rel": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+          "source_hash": "96d7c991f4509784b3c4005c114017db3006bd620ae6a28dea9630475acfda2e",
+          "quote_hash": "cb9c3f26d7f4b418c88da7d360a6a1ce95b46977b1c24d0e16e16e8646843622",
+          "quote_start": 151660,
+          "quote_end": 152144,
+          "page_start_index": 71,
+          "page_end_index": 71,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 72,
+          "pdf_page_end": 72,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 72\"}",
+          "created_at": "2026-09-02T04:55:15.729888+03:00",
+          "updated_at": "2026-09-13T13:24:38.864198+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-209266",
+    "claim": "1860 m. Rusijos vyriausybė atmetė finansų ministro A. Kniaževičiaus pasiūlymą iškelti iš diecezijos blaivybės judėjimo organizatorių vyskupą Motiejų Valančių.",
+    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "motiejus-valancius-ir-rusijos-imperija",
+        "section": "Veikti sistemoje nereiškė jai viskam pritarti"
+      },
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Gamyba, dvarininkas ir nesutarianti valdžia"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-191877",
+        "source": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+        "exactOriginal": "Dar daugiau,- atpirkėją \nvisai nejaudino, kad žlunga valstiečių ūkis. Jiems buvo svarbu \nskandinti liaudį svaigalą liūne karčemose, o valdžiai rūpėjo, kad tie \nvalstiečiai dar būtų darbingi. Todėl kai 1860 m. seno sukirpimo Rusijos \nfinansų ministras A. Kniaževičius pareikalavo blaivybės judėjimui- \nKauno gubernijoje duoti atkirtį, o patį organizatorių vyskupą M, \nValančių ištremti iš savo diecezijos, vyriausybė tų pačią metą rugsėjo \n1 d. posėdyje atmetė šį pasiūlymą.",
+        "displayExcerpt": "Todėl kai 1860 m. seno sukirpimo Rusijos \nfinansų ministras A. Kniaževičius pareikalavo blaivybės judėjimui- \nKauno gubernijoje duoti atkirtį, o patį organizatorių vyskupą M, \nValančių ištremti iš savo diecezijos, vyriausybė tų pačią metą rugsėjo \n1 d. posėdyje atmetė šį pasiūlymą.",
+        "pages": {
+          "evidence_pk": "1470c6f9833ff276ef10f8f27c9458a21113059a7aac3c77ef94113fbbf7faa3",
+          "source_rel": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+          "source_hash": "96d7c991f4509784b3c4005c114017db3006bd620ae6a28dea9630475acfda2e",
+          "quote_hash": "07c229ce0f6990df2bc7cee91d4de58051a605ed7d23c53bc273136409b3d556",
+          "quote_start": 205054,
+          "quote_end": 205527,
+          "page_start_index": 94,
+          "page_end_index": 94,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 95,
+          "pdf_page_end": 95,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 95\"}",
+          "created_at": "2026-09-02T04:55:15.729888+03:00",
+          "updated_at": "2026-09-14T12:28:16.703281+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "B redakcijos kortelėse atskiriamas dokumentas, istoriko aiškinimas, teritorija ir liudijimo mastas. Katalogo tapatybė nėra nustatoma iš kontekstinio teiginio."
+  },
+  {
+    "claimId": "t-209383",
+    "claim": "Motiejus Valančius rašte Vilniaus generalgubernatoriui V. Nazimovui įrodinėjo laikraščio būtinumą ir minėjo latvišką periodinę spaudą liaudžiai.",
+    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "motiejus-valancius-ir-rusijos-imperija",
+        "section": "Knyga: nuo prašymo iki slapto leidimo"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-192050",
+        "source": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+        "exactOriginal": "M. Valančiaus \nrašte \nVilniaus \ngeneralgubernatoriui \nV. \nNazimovui, \nkuriame \nįrodinėjamas laikraščio būtinumas, neatsitiktinai minimi latviški \nperiodiniai \nspaudiniai \nliaudžiai.",
+        "displayExcerpt": "",
+        "pages": {
+          "evidence_pk": "fe0a05b3b6d5d42ff586adfdb609880f8649d0b991b291478ad99cddfd421cb0",
+          "source_rel": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+          "source_hash": "96d7c991f4509784b3c4005c114017db3006bd620ae6a28dea9630475acfda2e",
+          "quote_hash": "1abd50bd063388987587178ece20a01bf244179a0eb409354fbceb39d5e608ea",
+          "quote_start": 167308,
+          "quote_end": 167489,
+          "page_start_index": 78,
+          "page_end_index": 78,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 79,
+          "pdf_page_end": 79,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 79\"}",
+          "created_at": "2026-09-02T04:55:15.729888+03:00",
+          "updated_at": "2026-09-13T13:24:38.864198+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-209449",
+    "claim": "Alekna teigė, kad kai kuriuos aplinkraščius dėl blaivybės ir kitų dalykų rašydavo sekretoriai vyskupo nurodymu.",
+    "notePath": "objektai/asmenys/A. Alekna.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "Paroda A",
+        "section": "Skirtingi raštai, skirtingos ribos",
+        "item": "fragmentas",
+        "role": "contextual"
+      },
+      {
+        "work": "motiejus-valancius-ir-rusijos-imperija",
+        "section": "1863-ieji: kam reikėjo vyskupo balso?"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-192069",
+        "source": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+        "exactOriginal": "Juos »galėję rašyti seminarijos rektorius Juozapas Silvestras Dovydaitis ir jo sūnėnas vyskupo \nsekretorius Justinas Dovydaitis6.\nA. Alekna dar anksčiau tvirtino, kad kai kuriuos aplinkraščius (turėtų būti -ganytojiškus laiškus) dėl \nblaivybės ir kitų dalykų rašydavo sekretoriai vyskupo nurodymu. Tačiau atskirus laiškus atitinkamoms \nparapijoms „vyskupas dažnai pats rašinėjo“7, iš tikrųjų išliko laiškai Suvainiškio (1863 m. vasario 18 d.) \nir Balninkų (1867 m. kovo 8 d.) parapijoms, ištisai rašyti paties Valančiaus ranka.",
+        "displayExcerpt": "A. Alekna dar anksčiau tvirtino, kad kai kuriuos aplinkraščius (turėtų būti -ganytojiškus laiškus) dėl \nblaivybės ir kitų dalykų rašydavo sekretoriai vyskupo nurodymu. Tačiau atskirus laiškus atitinkamoms \nparapijoms „vyskupas dažnai pats rašinėjo“7, iš tikrųjų išliko laiškai Suvainiškio (1863 m. vasario 18 d.) \nir Balninkų (1867 m. kovo 8 d.) parapijoms, ištisai rašyti paties Valančiaus ranka.",
+        "pages": {
+          "evidence_pk": "eb0546b2938b59a9ca540ee2ac9dd3394284d85227945e4aa1b824e20e796ca1",
+          "source_rel": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+          "source_hash": "1e23524c44a13d5aadcf927a7979ade2718f70de234b97ef77a734c24882792e",
+          "quote_hash": "fb3211df5f2bc628762a2eccce1b6e3e05fc2612faa1ef9bb7db3071ac12614a",
+          "quote_start": 21385,
+          "quote_end": 21912,
+          "page_start_index": 8,
+          "page_end_index": 8,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 9,
+          "pdf_page_end": 9,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 9\"}",
+          "created_at": "2026-09-03T06:44:12.847436+03:00",
+          "updated_at": "2026-09-13T13:26:09.254854+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-209460",
+    "claim": "Šį laišką Valančius parašė gavęs oficialų nurody mą iškilmingai paminėti caro Mikalojaus I vainikavi mo 25-ąsias metines.",
+    "notePath": "objektai/asmenys/Maksimilijonas I.md",
+    "publicStatus": "quarantined",
+    "usedBy": [],
+    "evidence": [
+      {
+        "citationId": "c-192080",
+        "source": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+        "exactOriginal": "177-181, be datos. \nN e p u b l i k u o t a s .\nŠį laišką Valančius parašė gavęs oficialų nurody­\nmą iškilmingai paminėti caro Mikalojaus I vainikavi­\nmo 25-ąsias metines.",
+        "displayExcerpt": "Šį laišką Valančius parašė gavęs oficialų nurody­\nmą iškilmingai paminėti caro Mikalojaus I vainikavi­\nmo 25-ąsias metines.",
+        "pages": {
+          "evidence_pk": "8dceadb72bcdb281d400430df60d17cd5106f7dc380677bc7ff54bad9eb7545a",
+          "source_rel": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+          "source_hash": "1e23524c44a13d5aadcf927a7979ade2718f70de234b97ef77a734c24882792e",
+          "quote_hash": "a7f6a333f5529da79eaaad93d7d06590c6cba37c1a2219d2ee9b79d574b72bb6",
+          "quote_start": 72292,
+          "quote_end": 72463,
+          "page_start_index": 28,
+          "page_end_index": 28,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 29,
+          "pdf_page_end": 29,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 29\"}",
+          "created_at": "2026-09-03T06:44:12.847436+03:00",
+          "updated_at": "2026-09-13T13:26:09.254854+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-209465",
+    "claim": "1863-09-06 Valančius išsiuntė galutinį laiško tekstą lietuvių kalba ir jo vertimą į rusų kalbą, patvirtintą J. Dovydaičio.",
+    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "motiejus-valancius-ir-rusijos-imperija",
+        "section": "Vienas parašas, kelios valios"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-192085",
+        "source": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+        "exactOriginal": "IX. 6 Valančius į Vilnių išsiuntė galutinį ga­\nnytojiško laiško tekstą lietuvių k. ir jo vertimą į rusų\nk. (abu patvirtinti J.Dovydaičio) ir pranešė, kad jį iš \nsakyklos ims skelbti IX. 8 (M. Valančiaus 1863.",
+        "displayExcerpt": "IX. 6 Valančius į Vilnių išsiuntė galutinį ga­\nnytojiško laiško tekstą lietuvių k. ir jo vertimą į rusų\nk. (abu patvirtinti J.Dovydaičio) ir pranešė, kad jį iš \nsakyklos ims skelbti IX. 8",
+        "pages": {
+          "evidence_pk": "9eee7a55293dbb4e27c49fa1c47dadafd3404a9e5a728f2640140a61b5a1efe7",
+          "source_rel": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+          "source_hash": "1e23524c44a13d5aadcf927a7979ade2718f70de234b97ef77a734c24882792e",
+          "quote_hash": "f69043eb145b08d9556d006f87132267ecec3712be73db63dbc4d01078a6dc6e",
+          "quote_start": 303222,
+          "quote_end": 303430,
+          "page_start_index": 165,
+          "page_end_index": 165,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 166,
+          "pdf_page_end": 166,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 166\"}",
+          "created_at": "2026-09-03T06:44:12.847436+03:00",
+          "updated_at": "2026-09-13T13:26:09.254854+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-209541",
+    "claim": "9 ganytojiško laiško projektas rusų ad ministracijai visiškai netiko.",
+    "notePath": "objektai/ivykiai/Motiejaus Valančiaus ganytojiško laiško projekto parengimas.md",
+    "publicStatus": "quarantined",
+    "usedBy": [],
+    "evidence": [
+      {
+        "citationId": "c-192161",
+        "source": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+        "exactOriginal": "25). M. Valan­\nčiaus VIII. 9 ganytojiško laiško projektas rusų ad­\nministracijai visiškai netiko.",
+        "displayExcerpt": "M. Valan­\nčiaus VIII. 9 ganytojiško laiško projektas rusų ad­\nministracijai visiškai netiko.",
+        "pages": {
+          "evidence_pk": "23bd9e932d1d5d3e5cf61661b1625bd3b211d79478c1657dbe4cc43d7dbec3e6",
+          "source_rel": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+          "source_hash": "1e23524c44a13d5aadcf927a7979ade2718f70de234b97ef77a734c24882792e",
+          "quote_hash": "0e48debf7fa65d490d7acf7793b6bb3016d76cad5f00f47c5e2353164461fdfb",
+          "quote_start": 275019,
+          "quote_end": 275116,
+          "page_start_index": 158,
+          "page_end_index": 158,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 159,
+          "pdf_page_end": 159,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 159\"}",
+          "created_at": "2026-09-03T06:44:12.847436+03:00",
+          "updated_at": "2026-09-13T13:26:09.254854+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-209543",
+    "claim": "1863 m. rugpjūčio 24 d. pas Valančių atvyko M. Muravjovo pasiųstas ypatingų įpareigojimų valdininkas Ivanas Nikotinas.",
+    "notePath": "objektai/ivykiai/Ivano Nikotino vizitas pas Motiejų Valančių.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "motiejus-valancius-ir-rusijos-imperija",
+        "section": "Vienas parašas, kelios valios"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-192163",
+        "source": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+        "exactOriginal": "394- \n395). VIII. 24 pas Valančių atvyko M.Muravjovo pa­\nsiųstas ypatingų įpareigojimų valdininkas Ivanas \nNikotinas.",
+        "displayExcerpt": "VIII. 24 pas Valančių atvyko M.Muravjovo pa­\nsiųstas ypatingų įpareigojimų valdininkas Ivanas \nNikotinas.",
+        "pages": {
+          "evidence_pk": "d2ab73fe115d2fc43477d4a8d693c4d6f7f3e2499f16ef619c631518dc221c78",
+          "source_rel": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+          "source_hash": "1e23524c44a13d5aadcf927a7979ade2718f70de234b97ef77a734c24882792e",
+          "quote_hash": "f268cae0735ff2d475ea1bd7d5e2aec1f4ded758cca1f218ddbeb61ea1ee366c",
+          "quote_start": 274717,
+          "quote_end": 274834,
+          "page_start_index": 158,
+          "page_end_index": 158,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 159,
+          "pdf_page_end": 159,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 159\"}",
+          "created_at": "2026-09-03T06:44:12.847436+03:00",
+          "updated_at": "2026-09-13T13:26:09.254854+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-209546",
+    "claim": "1863 m. liepos 13 d. Kauno gubernatorius Nikolajus Muravjovas atvyko pas Valančių į Varnius.",
+    "notePath": "objektai/ivykiai/Nikolajaus Muravjovo vizitas pas Motiejų Valančių Varniuose.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "motiejus-valancius-ir-rusijos-imperija",
+        "section": "Vienas parašas, kelios valios"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-192166",
+        "source": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+        "exactOriginal": "1863. VII. 13 pas Valančiui Varnius atvyko Kau­\nno gubernatorius Nikolajus Muravjovas. Jį atsiuntė jo \ntėvas Michailas Muravjovas, save titulavęs vyriausiuo­\nju Šiaurės vakarų krašto viršininku. Pastarasis per sū­\nnų reikalavo iš Valančiaus rašto, „šaukiančio žmones, \nkad padėtų ginklus ir pasiduotų rusų valdžiai“ (M. Va­\nlančius, Pastabos pačiam sau, Vilnius, 1996, p. 75).",
+        "displayExcerpt": "",
+        "pages": {
+          "evidence_pk": "a4fb8f9bc7afa654c493c573dee79ba3c4d58af68dd7a2602afeb70bff28086a",
+          "source_rel": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+          "source_hash": "1e23524c44a13d5aadcf927a7979ade2718f70de234b97ef77a734c24882792e",
+          "quote_hash": "7fd2353ca1a5a7464dfd8c1fc24d8e2b12bcb82da9daf70141705aba54d77bec",
+          "quote_start": 273269,
+          "quote_end": 273645,
+          "page_start_index": 158,
+          "page_end_index": 158,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 159,
+          "pdf_page_end": 159,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 159\"}",
+          "created_at": "2026-09-03T06:44:12.847436+03:00",
+          "updated_at": "2026-09-13T13:26:09.254854+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-209548",
+    "claim": "1850 m. vasario 24 d. Peterburgo katalikų šv. Kotrynos bažnyčioje Motiejus Volončevskis buvo įšvęstas į vyskupus.",
+    "notePath": "objektai/ivykiai/Motiejaus Volončevskio paskyrimas ir įšventinimas į vyskupus.md",
+    "publicStatus": "quarantined",
+    "usedBy": [],
+    "evidence": [
+      {
+        "citationId": "c-192168",
+        "source": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+        "exactOriginal": "O Tėvas Šventasis, sėdįs šiandien ant Stalyčios Apaštalų, Pijus IX, būdamas slaptinėj \nrodoj savo, 28 d. birželio 1849 meto priemiesty Neapolio, vadinamo Portiči, pakėlė mane į vyskupus \njūsų. Tai visa gcresniai pažinsite, perskaitę ant galo pridurtas gromatas Tėvo Šventojo. Gromatoms į \nmūsų žemę atėjus, Peterburge katalikų šv. Kotrynos bažnyčioj 24 d. vasario 1850 meto palikau įšvęstas \nį vyskupus; pašventė mane dievobaimingas Godojamas Mogiliovo arkivyskupas, visų katalikų bažnyčių \nMaskolių Ciesorystėj esančių metropolitas Jomylista Kazimieras Dmochovskis draugystėj savo padė­\ntojo ir atenčio įpėdinio Karistijos vyskupo Jomylistos Ignaciaus Holovinskio su Vilniaus vyskupu Jo­\nmylista Vaclovu Žilinskiu.",
+        "displayExcerpt": "",
+        "pages": {
+          "evidence_pk": "32e5de6ebd67d7b939a863ef1f7b174ee7afc727215ac3e85a14891b491d277e",
+          "source_rel": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+          "source_hash": "1e23524c44a13d5aadcf927a7979ade2718f70de234b97ef77a734c24882792e",
+          "quote_hash": "39c14af609a6508cf5a5a49d77c07c344d0533891e17d39f09425ea9fabb541f",
+          "quote_start": 60113,
+          "quote_end": 60828,
+          "page_start_index": 25,
+          "page_end_index": 25,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 26,
+          "pdf_page_end": 26,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 26\"}",
+          "created_at": "2026-09-03T06:44:12.847436+03:00",
+          "updated_at": "2026-09-13T13:26:09.254854+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-209551",
+    "claim": "Ganytojiški laiškai buvo viešai skaitomi iš bažnyčios sakyklos, nesvarbu, ar jie buvo spausdinti, ar ranka rašyti.",
+    "notePath": "objektai/paprociai/Ganytojiškų laiškų skelbimas bažnyčioje.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Ankstesnės iniciatyvos, raštas ir balsas"
+      },
+      {
+        "work": "Paroda B",
+        "section": "Kvietimas ir pažadas",
+        "item": "portretas1857",
+        "role": "contextual"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-192171",
+        "source": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+        "exactOriginal": "^ f i\nTrys svarbiausi ganytojiški laiškai buvo išspausdinti spaustuvėje: pirmasis po ingreso paties Valan­\nčiaus rūpesčiu, o kiti du 1861 m. kovo 8 d. dėl baudžiavos panaikinimo ir antrasis dėl 1863 m. sukilimo \nrusų administracijos pastangomis.\nAr ganytojiški laiškai buvo spausdinti, ar ranka rašyti, didelio skirtumo nebuvo, nes katalikams juos \nvisada skaitė iš bažnyčios sakyklos. Kada ir kaip juos skelbti vyskupas nurodydavo pačiuose laiškuose, \nnors ir ne visada.",
+        "displayExcerpt": "Ar ganytojiški laiškai buvo spausdinti, ar ranka rašyti, didelio skirtumo nebuvo, nes katalikams juos \nvisada skaitė iš bažnyčios sakyklos. Kada ir kaip juos skelbti vyskupas nurodydavo pačiuose laiškuose, \nnors ir ne visada.",
+        "pages": {
+          "evidence_pk": "ec2d305d9d857058d4feb88ff2b558beaec85b76fd6666f5d5a788a3bf9025e5",
+          "source_rel": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+          "source_hash": "1e23524c44a13d5aadcf927a7979ade2718f70de234b97ef77a734c24882792e",
+          "quote_hash": "60dfc1eefabde7d4f3ac599d4ce9ec7197c70eda3ab2dcc85109dfa6ce965655",
+          "quote_start": 17266,
+          "quote_end": 17737,
+          "page_start_index": 7,
+          "page_end_index": 7,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 8,
+          "pdf_page_end": 8,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 8\"}",
+          "created_at": "2026-09-03T06:44:12.847436+03:00",
+          "updated_at": "2026-09-08T14:35:06.979923+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "B redakcijos kortelėse atskiriamas dokumentas, istoriko aiškinimas, teritorija ir liudijimo mastas. Katalogo tapatybė nėra nustatoma iš kontekstinio teiginio."
+  },
+  {
+    "claimId": "t-209552",
+    "claim": "Laiškai buvo siunčiami dekanams, dekanai siųsdavo kle bonams, o šie laiškus perrašydavo į gaunamųjų raštų knygą ir nurodytu laiku, pirmąjį sekmadienį arba šventadienį, bažnyčioje iš sakyklos skelbdavo žmonėms.",
+    "notePath": "objektai/paprociai/Ganytojiškų laiškų skelbimas bažnyčioje.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "Paroda A",
+        "section": "Autoritetas turi veidą ir parašą",
+        "item": "taurage",
+        "role": "contextual"
+      },
+      {
+        "work": "motiejus-valancius-ir-rusijos-imperija",
+        "section": "1863-ieji: kam reikėjo vyskupo balso?"
+      },
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Ankstesnės iniciatyvos, raštas ir balsas"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-192172",
+        "source": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+        "exactOriginal": "Antai pirmajame po ingreso laiške rašoma: „įsakom mūsų Telšių konsistoriui, kad šią \ngromatąmūsų druktavotuose išrašuose per kunigus džekonus pasiųstų visoms parakvijos bažnyčioms ir \nlieptų, kad kiekvienas klebonas pirmoj po atėjimo to rašto nedėlioj perskaitytų žmonėms kozelnyčioj \nstojęs tokiu liežuviu, kokį moka klausytojai“. Laiškai buvo siunčiami dekanams, dekanai siųsdavo kle­\nbonams, o šie laiškus perrašydavo į gaunamųjų raštų knygą ir nurodytu laiku, pirmąjį sekmadienį arba \nšventadienį, bažnyčioje iš sakyklos skelbdavo žmonėms. Klebonai toliau gautąjį laišką siųsdavo ir savo \nparapijos filijalistams, jei tokių buvo.",
+        "displayExcerpt": "Laiškai buvo siunčiami dekanams, dekanai siųsdavo kle­\nbonams, o šie laiškus perrašydavo į gaunamųjų raštų knygą ir nurodytu laiku, pirmąjį sekmadienį arba \nšventadienį, bažnyčioje iš sakyklos skelbdavo žmonėms. Klebonai toliau gautąjį laišką siųsdavo ir savo \nparapijos filijalistams, jei tokių buvo.",
+        "pages": {
+          "evidence_pk": "3f7b248426bb7358c866ddb26acc393570f8d2720885bad7d4424e0353af473b",
+          "source_rel": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+          "source_hash": "1e23524c44a13d5aadcf927a7979ade2718f70de234b97ef77a734c24882792e",
+          "quote_hash": "c75f07a708f12ef8fd7352a2262d0da8830f963609cc7bd7860237ba54949358",
+          "quote_start": 17738,
+          "quote_end": 18371,
+          "page_start_index": 7,
+          "page_end_index": 7,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 8,
+          "pdf_page_end": 8,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 8\"}",
+          "created_at": "2026-09-03T06:44:12.847436+03:00",
+          "updated_at": "2026-09-08T14:35:06.979923+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "B redakcijos kortelėse atskiriamas dokumentas, istoriko aiškinimas, teritorija ir liudijimo mastas. Katalogo tapatybė nėra nustatoma iš kontekstinio teiginio."
+  },
+  {
+    "claimId": "t-209553",
+    "claim": "Kai kuriuose svarbiausiuose laiškuose, ypač dėl blaivybės, buvo nurodoma juos skelbti tris sekmadienius ar šventadienius iš eilės.",
+    "notePath": "objektai/paprociai/Ganytojiškų laiškų skelbimas bažnyčioje.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "motiejus-valancius-ir-rusijos-imperija",
+        "section": "1863-ieji: kam reikėjo vyskupo balso?"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-192173",
+        "source": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+        "exactOriginal": "Kai kuriuose svarbiausiuose laiškuose, ypač dėl blaivybės platinimo, nurodoma juos po pamokslo \nskelbti tris sekmadienius ar šventadienius iš eilės. Mat norėta, kad laiškus išgirstų ir tie suaugę parapi­\njiečiai, kurie bažnyčią lankydavo rečiau, ne kiekvieną savaitę. Rusų administracijos išreikalautuose \nlaiškuose dėl 1863 m. sukilimo sakoma, kad skelbtų tik du (pirmajame) arba vieną (antrajame) kartą.",
+        "displayExcerpt": "",
+        "pages": {
+          "evidence_pk": "63f8422431c73cec8da4ea357a4752fe0d8ec2dd30ea3a84bad865c78d7ab4bb",
+          "source_rel": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+          "source_hash": "1e23524c44a13d5aadcf927a7979ade2718f70de234b97ef77a734c24882792e",
+          "quote_hash": "8c942e91adaf46a53f200cbae85d78f4e77f74656041e2a55e703f7852b98712",
+          "quote_start": 18372,
+          "quote_end": 18777,
+          "page_start_index": 7,
+          "page_end_index": 7,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 8,
+          "pdf_page_end": 8,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 8\"}",
+          "created_at": "2026-09-03T06:44:12.847436+03:00",
+          "updated_at": "2026-09-13T13:26:09.254854+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-209554",
+    "claim": "Šitą mano gromatą perskaitys kunigai iš ambonos, per tris pagrečias šventes.",
+    "notePath": "objektai/paprociai/Blaivybės įžadas ir ganytojiško laiško skaitymas iš ambonos.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Ankstesnės iniciatyvos, raštas ir balsas"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-192174",
+        "source": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+        "exactOriginal": "Neklausykit tų suvedžiotojų, kurie įkalbinės jus, jogei vieną stiklelį \nišgėrus tai dar nėra nieko blogo; aš, vyskupas ir Piemuo jūsų, sakau, jogei anei vieno lašo nevalna gerti, ir \nmanęs klausykit. O tuokart aš, dagirdęs apie jūsų paprovą, prašysiu Dievo, kad jus tame pastanavijime \npastiprintų, kad duotų loską ištūrėjimo blaivystėj iki galo, o jūs savo gem paveikslu išnaikinsite papiktini­\nmus, kuriuos dabar padarėt, nuliūdusią širdį mano vėlei nuraminsit ir linksmybių pripildysit, ašarotos \nmano akys pažvelgs meilingai ant jūsų, ir laiminsiu Dievą, kad jus ant kelio išganymo pagrąžino.\nŠitą mano gromatą perskaitys kunigai iš ambonos, per tris pagrečias šventes.",
+        "displayExcerpt": "Šitą mano gromatą perskaitys kunigai iš ambonos, per tris pagrečias šventes.",
+        "pages": {
+          "evidence_pk": "8045d1ed22259bc0d253a2f2ed85fb4ed4c408380d3a097e1d621cbc9be6a7f9",
+          "source_rel": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+          "source_hash": "1e23524c44a13d5aadcf927a7979ade2718f70de234b97ef77a734c24882792e",
+          "quote_hash": "c68102cd07600e2bd2b440da55d8c464d26bf75efc396f864456db8b7533ad31",
+          "quote_start": 197330,
+          "quote_end": 198003,
+          "page_start_index": 109,
+          "page_end_index": 109,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 110,
+          "pdf_page_end": 110,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 110\"}",
+          "created_at": "2026-09-03T06:44:12.847436+03:00",
+          "updated_at": "2026-09-08T14:35:06.979923+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "B redakcijos kortelėse atskiriamas dokumentas, istoriko aiškinimas, teritorija ir liudijimo mastas. Katalogo tapatybė nėra nustatoma iš kontekstinio teiginio."
+  },
+  {
+    "claimId": "t-209566",
+    "claim": "Pijus IX 1849 m. birželio 28 d. Portičyje prie Neapolio pakėlė autorių į vyskupus.",
+    "notePath": "objektai/asmenys/Pijus IX.md",
+    "publicStatus": "quarantined",
+    "usedBy": [],
+    "evidence": [
+      {
+        "citationId": "c-192186",
+        "source": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+        "exactOriginal": "Nuo įvedimo į mūsų šalį krikščioniško tikėjimo lig šios gadynės Žemaičiai turėjo jau trisdešimtis šešis \ntikrus vyskupus, iš tų užvis minavotini ir sektini tarp daugel kitų yra: Motiejus I, Martynas III, Merkelis \nGiedraitis, Jurgis su Antanu Tiškevičių ir pastaras Juozapas Giedraitis. Tam pasirinkus, Galingiausias ir \nŠviesiausias Visų Maskolijų ciesorius MIKALOJUS I per gerybę savą meilingai žvilgterėjo ant reikalų \nžmonių savo. O Tėvas Šventasis, sėdįs šiandien ant Stalyčios Apaštalų, Pijus IX, būdamas slaptinėj \nrodoj savo, 28 d. birželio 1849 meto priemiesty Neapolio, vadinamo Portiči, pakėlė mane į vyskupus \njūsų.",
+        "displayExcerpt": "Tam pasirinkus, Galingiausias ir \nŠviesiausias Visų Maskolijų ciesorius MIKALOJUS I per gerybę savą meilingai žvilgterėjo ant reikalų \nžmonių savo. O Tėvas Šventasis, sėdįs šiandien ant Stalyčios Apaštalų, Pijus IX, būdamas slaptinėj \nrodoj savo, 28 d. birželio 1849 meto priemiesty Neapolio, vadinamo Portiči, pakėlė mane į vyskupus \njūsų.",
+        "pages": {
+          "evidence_pk": "45fa452aded810b08a27059821598eafbf816b35656eae3b84d7ab45737d0e0b",
+          "source_rel": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+          "source_hash": "1e23524c44a13d5aadcf927a7979ade2718f70de234b97ef77a734c24882792e",
+          "quote_hash": "1d2ecdc71744eae416497624688cfd4a6e6b1d73d38694f295bc8df10623c613",
+          "quote_start": 59678,
+          "quote_end": 60305,
+          "page_start_index": 25,
+          "page_end_index": 25,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 26,
+          "pdf_page_end": 26,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 26\"}",
+          "created_at": "2026-09-03T06:44:12.847436+03:00",
+          "updated_at": "2026-09-13T13:26:09.254854+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-209569",
+    "claim": "11 Skapiškio klebonas Dominykas Sa kalauskas rašė Valančiui, kad labai uoliai skelbęs blai vybę, dėl to žmonės visiškai nustoję girtauti.",
+    "notePath": "objektai/asmenys/Dominykas Sakalauskas.md",
+    "publicStatus": "quarantined",
+    "usedBy": [],
+    "evidence": [
+      {
+        "citationId": "c-192189",
+        "source": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+        "exactOriginal": "Antai 1859. XI. 11 Skapiškio klebonas Dominykas Sa­\nkalauskas rašė Valančiui, kad labai uoliai skelbęs blai­\nvybę, dėl to žmonės visiškai nustoję girtauti.",
+        "displayExcerpt": "",
+        "pages": {
+          "evidence_pk": "9d1c605164b4811d5dcca199544536f2ae7d9d95566099cd2947e6f6110a2a5b",
+          "source_rel": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+          "source_hash": "1e23524c44a13d5aadcf927a7979ade2718f70de234b97ef77a734c24882792e",
+          "quote_hash": "614a3e0e7ec8dcb0b130f9895bd1b68c50d61c65be750d7d9683a16cec56a8df",
+          "quote_start": 155658,
+          "quote_end": 155813,
+          "page_start_index": 84,
+          "page_end_index": 84,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 85,
+          "pdf_page_end": 85,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 85\"}",
+          "created_at": "2026-09-03T06:44:12.847436+03:00",
+          "updated_at": "2026-09-13T13:26:09.254854+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "Konkrečios ribos įvardytos straipsnio įrodymų kortelėje arba savarankiškame eksponato apraše. Katalogo tapatybė nelyginama su teminiu istoriniu teiginiu."
+  },
+  {
+    "claimId": "t-209575",
+    "claim": "Valančius pasiuntė Obelių dekaną ir Rokiškio kleboną Viktorą Rusteiką ištirti padėties Skapiškyje.",
+    "notePath": "objektai/asmenys/Viktoras Rusteika.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Brolijos pareigos, religinė praktika ir prievartos riba"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-192195",
+        "source": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+        "exactOriginal": "Viso brolija \nturėjo 17 narių (minėtasis laiškas, KAK, b. 159,1.294). \nPadėties Skapiškyje ištirti Valančius pasiuntė Obelių \ndekaną Rokiškio kleboną Viktorą Rusteiką.",
+        "displayExcerpt": "Valančius pasiuntė Obelių \ndekaną Rokiškio kleboną Viktorą Rusteiką.",
+        "pages": {
+          "evidence_pk": "1b7a4188086a4a7961f7a55f6d15e49893d1e3a096f59788bab826081a3181cd",
+          "source_rel": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+          "source_hash": "1e23524c44a13d5aadcf927a7979ade2718f70de234b97ef77a734c24882792e",
+          "quote_hash": "42d5eda797029f59407bdd115ef106966d8a451dcf0d9aabe08628f424ca5072",
+          "quote_start": 156085,
+          "quote_end": 156252,
+          "page_start_index": 84,
+          "page_end_index": 84,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 85,
+          "pdf_page_end": 85,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 85\"}",
+          "created_at": "2026-09-03T06:44:12.847436+03:00",
+          "updated_at": "2026-09-08T14:35:06.979923+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "B redakcijos kortelėse atskiriamas dokumentas, istoriko aiškinimas, teritorija ir liudijimo mastas. Katalogo tapatybė nėra nustatoma iš kontekstinio teiginio."
+  },
+  {
+    "claimId": "t-209576",
+    "claim": "Du broliukai Dominy kas Meilus ir Juozapas Valentas laikinai, kol pasitai sys, buvo iš brolijos pašalinti.",
+    "notePath": "objektai/asmenys/Dominykas Meilus.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Brolijos pareigos, religinė praktika ir prievartos riba"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-192196",
+        "source": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+        "exactOriginal": "Dekanas\nišaiškino, kad klebonas ir brolijos nariai nesutaria tar­\npusavyje. Beje, broliukai, rodos, buvo nepatenkinti ap­\nlaidžių klebono pareigų ėjimu. Du broliukai Dominy­\nkas Meilus ir Juozapas Valentas laikinai, kol pasitai­\nsys, buvo iš brolijos pašalinti, o brolijos vyresniajam \n(maršalui) Motiejui Burbai įsakyta atsiprašyti klebo­\nno.",
+        "displayExcerpt": "Du broliukai Dominy­\nkas Meilus ir Juozapas Valentas laikinai, kol pasitai­\nsys, buvo iš brolijos pašalinti",
+        "pages": {
+          "evidence_pk": "20aa052818aaa329544163a9dd1470fb984e7e6e3dc43de6dffc17b4189d2e43",
+          "source_rel": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md",
+          "source_hash": "1e23524c44a13d5aadcf927a7979ade2718f70de234b97ef77a734c24882792e",
+          "quote_hash": "4ad9a9f1a790aa387f1a2c0d3091224ce1ad725d13f847c08a46fe97dbe4fc70",
+          "quote_start": 156253,
+          "quote_end": 156596,
+          "page_start_index": 84,
+          "page_end_index": 84,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 85,
+          "pdf_page_end": 85,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 85\"}",
+          "created_at": "2026-09-03T06:44:12.847436+03:00",
+          "updated_at": "2026-09-08T14:35:06.979923+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "B redakcijos kortelėse atskiriamas dokumentas, istoriko aiškinimas, teritorija ir liudijimo mastas. Katalogo tapatybė nėra nustatoma iš kontekstinio teiginio."
+  },
+  {
+    "claimId": "t-208527",
+    "claim": "1860 m. rugsėjo 1 d. ministrų tarybos posėdyje generalgubernatorius V. Nazimovas siūlė Kauno gubernijos finansinę padėtį gerinti apmokestinant pagamintos, o ne parduotos degtinės kiekį.",
+    "notePath": "objektai/asmenys/V. Nazimovas.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Gamyba, dvarininkas ir nesutarianti valdžia"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-191147",
+        "source": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+        "exactOriginal": "Antai 1860.IX.1 ministrų tarybos posėdyje buvo svarsto­\nma kritiška Kauno gubernijos finansinė būklė. Vilniaus \ngeneralgubernatorius V. Nazimovas siūlė finansinę pa­\ndėtį gelbėti nauja mokesčių sistema, t. y. apmokestinti \npagal pagamintos, o ne pagal parduotos degtinės kiekį.",
+        "displayExcerpt": "",
+        "pages": {
+          "evidence_pk": "6827b10ac455cb3f73998663bc112007e5537b04fea55387fdde036db257989c",
+          "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+          "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+          "quote_hash": "2e9b7354e70e4ae476ce80bac01fb9cfe91dc99590caec073995a5cc26183888",
+          "quote_start": 277764,
+          "quote_end": 278041,
+          "page_start_index": 137,
+          "page_end_index": 137,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 138,
+          "pdf_page_end": 138,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 138\"}",
+          "created_at": "2026-09-02T13:57:53.331227+03:00",
+          "updated_at": "2026-09-14T12:28:16.760539+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "B redakcijos kortelėse atskiriamas dokumentas, istoriko aiškinimas, teritorija ir liudijimo mastas. Katalogo tapatybė nėra nustatoma iš kontekstinio teiginio."
+  },
+  {
+    "claimId": "t-208599",
+    "claim": "Kunigaikštis Ireniejus Oginskis iš Rietavo 1858 m. gruodžio 4 d. laiške vyskupui Motiejui Valančiui padėkojo už blaivybės skelbimą, pareiškė jam pritariąs ir nurodė dėl to patiriąs daugiau kaip 10 000 rublių metinį nuostolį.",
+    "notePath": "objektai/vietos/Rietavas.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Dvaro ūkis, nuoma ir mokesčių atpirkimas"
+      },
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Gamyba, dvarininkas ir nesutarianti valdžia"
+      },
+      {
+        "work": "Paroda B",
+        "section": "Permaina ir pasipriešinimas",
+        "item": "oginskis",
+        "role": "contextual"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-191219",
+        "source": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+        "exactOriginal": "Įtakingas kunigaikštis Ireniejus Oginskis iš \nRietavo 1858.XII.4 laiške vysk. M. Valančiui padėkojo \nuž blaivybės skelbimą ir pareiškė tam pritarimą, nors dėl \nto turįs daugiau kaip 10 000 rb nuostolio per metus.",
+        "displayExcerpt": "",
+        "pages": {
+          "evidence_pk": "506694bb49d19f110d537dbc8b6f703637169002544c32dcefddbe9e9093c2cc",
+          "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+          "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+          "quote_hash": "559dd4e0bab930e90433504fb0e691a11314dbbc10b45cba994a5d5f4c8a39f0",
+          "quote_start": 272256,
+          "quote_end": 272468,
+          "page_start_index": 134,
+          "page_end_index": 134,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 135,
+          "pdf_page_end": 135,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 135\"}",
+          "created_at": "2026-09-02T13:57:53.331227+03:00",
+          "updated_at": "2026-09-14T12:28:16.760539+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "B redakcijos kortelėse atskiriamas dokumentas, istoriko aiškinimas, teritorija ir liudijimo mastas. Katalogo tapatybė nėra nustatoma iš kontekstinio teiginio."
+  },
+  {
+    "claimId": "t-209281",
+    "claim": "V. Nazimovas 1859 m. pabaigoje vidaus reikalų ministrui išdėstė nuomonę, kad blaivybės plėtra turėtų skatinti ieškoti kitų pajamų šaltinių, neparemtų liaudies silpninimu ir tvirkinimu.",
+    "notePath": "objektai/autoriai/V. Nazimovas.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Gamyba, dvarininkas ir nesutarianti valdžia"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-191995",
+        "source": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+        "exactOriginal": "Antai jau 1859 m. pabaigoje V. \nNazimovas išdėstė savo nuomonę vidaus reikalų ministrui: \"Nors \nmanau, kad neturiu teisės svarstyti, kokie būdai bus pripažinti \ntinkamais padengti /degtinės/ atpirkimo nuostolius, jei blaivybės idėja \ntoliau plėtosis, bet negaliu neišsakyti Jūsų Prakilnybei savo asmeninės \nnuomonės, kad padidėjus tokiu būdu asmeninei ir visuomeninei \ngerovei, nesunku bus rasti kitų, tinkamesnių pajamų šaltinių, \nneparemtų liaudies silpninimu ir tvirkinimu...\".",
+        "displayExcerpt": "",
+        "pages": {
+          "evidence_pk": "bcdeb3639ff36c74e7c88445affcd24710502ef96fd77ea58e858406771a0a69",
+          "source_rel": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+          "source_hash": "96d7c991f4509784b3c4005c114017db3006bd620ae6a28dea9630475acfda2e",
+          "quote_hash": "f2ff316e8828df178cb4fb91909959b54b84ca725553ac2b750d0009c15f8acc",
+          "quote_start": 206203,
+          "quote_end": 206683,
+          "page_start_index": 95,
+          "page_end_index": 95,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 96,
+          "pdf_page_end": 96,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 96\"}",
+          "created_at": "2026-09-02T04:55:15.729888+03:00",
+          "updated_at": "2026-09-14T12:28:16.703281+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "B redakcijos kortelėse atskiriamas dokumentas, istoriko aiškinimas, teritorija ir liudijimo mastas. Katalogo tapatybė nėra nustatoma iš kontekstinio teiginio."
+  },
+  {
+    "claimId": "t-209294",
+    "claim": "1818 m. Lietuvoje išleisto „Veikalo apie girtavimą“ autorius buvo Jokūbas Šimkevičius (1775–1818).",
+    "notePath": "objektai/autoriai/Jokūbas Šimkevičius.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Papročiai ir amžininkų aiškinimai"
+      },
+      {
+        "work": "Paroda B",
+        "section": "Kvietimas ir pažadas",
+        "item": "knyga1849",
+        "role": "contextual"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-192028",
+        "source": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+        "exactOriginal": "1818 m. Lietuvoje išleistas labai aktualus tiems laikams, o ir iki \nšiol nepranoktas racionalumu, humanistine orientacija ir moksline \nerudicija \"Veikalas apie girtavimą\". Jo autorius - spalvinga, įdomi, \nkontraversiška ir netgi paslaptinga asmenybė. Tai, cituojant titulinio \naptariamos knygos puslapio tekstą, \"laisvųjų menų, filosofijos, \nmedicinos ir chirurgijos daktaro, jo imperatoriškosios didenybės rūmų \npatarėjo, Vilniaus imperatoriškojo universiteto, Vilniaus medicinos, \nVaršuvos karališkosios mokslo bičiulių draugijų garbės nario, \nParyžiaus medicinos akademijos, Praktinės medicinos, cmuliacijos ir \ngalvanikos draugijų nario\" - Jokūbo Šimkevičiaus (1775-1818) vizitinė \nkortelė, savo titulų sąrašu nenusileidžianti \naristokratams.",
+        "displayExcerpt": "",
+        "pages": {
+          "evidence_pk": "dfdf3588aa0d8958ed93eb4ca8b8da99370c155abad09806e82e2ba6a5600546",
+          "source_rel": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+          "source_hash": "96d7c991f4509784b3c4005c114017db3006bd620ae6a28dea9630475acfda2e",
+          "quote_hash": "36757e3dcb2fe7398f8637fcd99d9c09eede1b1a68014d0f41d01cadff002e7a",
+          "quote_start": 28333,
+          "quote_end": 29079,
+          "page_start_index": 16,
+          "page_end_index": 16,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 17,
+          "pdf_page_end": 17,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 17\"}",
+          "created_at": "2026-09-02T04:55:15.729888+03:00",
+          "updated_at": "2026-09-14T12:28:16.703281+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "B redakcijos kortelėse atskiriamas dokumentas, istoriko aiškinimas, teritorija ir liudijimo mastas. Katalogo tapatybė nėra nustatoma iš kontekstinio teiginio."
+  },
+  {
+    "claimId": "t-209310",
+    "claim": "XVI a. spiritus vinum mažomis dozėmis buvo vartojamas kaip vaistas.",
+    "notePath": "objektai/zodynas/spiritus vinum.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Papročiai ir amžininkų aiškinimai"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-191919",
+        "source": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+        "exactOriginal": "Dar XIX a. pradžioje dėl \nmokslinės literatūros apie girtavimo žalą stygiaus nebuvo visuotinai \nsuvokiama, kur veda besaikis jos vartojimas. Kaip nurodo J. \nSimkevicius, dar buvo gajus įsitikinimas, kad degtinė yra vaistas nuo \nvisų ligų15. Šis požiūris susiformavo XVI a., kai i5 tiesų spiritus \nvinum mažomis dozėmis buvo vartojamas kaip vaistas.",
+        "displayExcerpt": "Šis požiūris susiformavo XVI a., kai i5 tiesų spiritus \nvinum mažomis dozėmis buvo vartojamas kaip vaistas.",
+        "pages": {
+          "evidence_pk": "52bf23f2aa8ff8231a4a449aaa41c311629856ab27c89741ae4c2546cb724328",
+          "source_rel": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+          "source_hash": "96d7c991f4509784b3c4005c114017db3006bd620ae6a28dea9630475acfda2e",
+          "quote_hash": "3862d640f2ad660db1ed3c913dbbb31cf123aca8a4a8d70c5f6f0439aba6c7fe",
+          "quote_start": 45698,
+          "quote_end": 46046,
+          "page_start_index": 24,
+          "page_end_index": 24,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 25,
+          "pdf_page_end": 25,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 25\"}",
+          "created_at": "2026-09-02T04:55:15.729888+03:00",
+          "updated_at": "2026-09-14T12:28:16.703281+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "B redakcijos kortelėse atskiriamas dokumentas, istoriko aiškinimas, teritorija ir liudijimo mastas. Katalogo tapatybė nėra nustatoma iš kontekstinio teiginio."
+  },
+  {
+    "claimId": "t-209321",
+    "claim": "1864 m. M. Muravjovo įsakymu blaivybės brolijos buvo uždarytos.",
+    "notePath": "objektai/asmenys/M. Muravjovas.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Neužbaigta permaina ir Salantų liudijimas"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-191876",
+        "source": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+        "exactOriginal": "Kai 1863 m. sausio mėnesio \n1 d. įsigaliojo naujas akcizmo įstatymas, blaivybės brolijos, \nvadovaujamos katalikų bažnyčios, tapo valdžiai nebereikalingos ir jų \nlikimas buvo ¡S anksto nuspręstas. Todėl sukilimas, kilęs Lietuvoje 1863 \nm., iš esmės buvo tik pretekstas apkaltinti brolijas politiniu veiksmu ir \n1864 m. M. Muravjovo įsakymu jas uždaryti. Čia svarbu pažymėti, kad \ntas pats M. Muravjovas, 1860 m. būdamas Valstybės turtų ministru, \ngynė blaivybės brolijas ir M. Valančių specialiame vyriausybės \nposėdyje.",
+        "displayExcerpt": "",
+        "pages": {
+          "evidence_pk": "0ecef6ab66fc04c2ea6356e063cb3cf3be4ea71936d03cd36ac9d8d4ebb41d72",
+          "source_rel": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+          "source_hash": "96d7c991f4509784b3c4005c114017db3006bd620ae6a28dea9630475acfda2e",
+          "quote_hash": "361bec00d3dffd20e33340f34b67bc3e742ab4baa8143e3fcc7b98cf5c0a2fb6",
+          "quote_start": 266452,
+          "quote_end": 266971,
+          "page_start_index": 122,
+          "page_end_index": 122,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 123,
+          "pdf_page_end": 123,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 123\"}",
+          "created_at": "2026-09-02T04:55:15.729888+03:00",
+          "updated_at": "2026-09-14T12:28:16.703281+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "B redakcijos kortelėse atskiriamas dokumentas, istoriko aiškinimas, teritorija ir liudijimo mastas. Katalogo tapatybė nėra nustatoma iš kontekstinio teiginio."
+  },
+  {
+    "claimId": "t-209341",
+    "claim": "XIX a. antrajame dešimtmetyje J. Šimkevičius aprašė kunigo Legovičiaus išblaivintus parapijiečius, kuriuos aplinkiniai dvarininkai esą varžėsi samdyti.",
+    "notePath": "objektai/autoriai/J. Šimkevičius.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Ankstesnės iniciatyvos, raštas ir balsas"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-191952",
+        "source": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+        "exactOriginal": "Tas savybes buvo \ngalima palaikyti tik prie taurelės prisiminus saiką. Juk esant \npakankamai darbo jėgos rinkai, sėkmingai susitarti su darbdaviu galėjo \ntik blaivus žmogus. Tai, ką XIX a. antrajame dešimtmetyje rašė J. \nŠimkevičius apie kunigo Legovičiaus apšviestus ir išblaivintus \nparapijiečius \n(aplinkiniai \ndvarininkai \nneva \nkonkuruoja \njuos \nsamdydami), XIX a. viduryje jau buvo-visuotinai suprantamas dalykas.",
+        "displayExcerpt": "Juk esant \npakankamai darbo jėgos rinkai, sėkmingai susitarti su darbdaviu galėjo \ntik blaivus žmogus. Tai, ką XIX a. antrajame dešimtmetyje rašė J. \nŠimkevičius apie kunigo Legovičiaus apšviestus ir išblaivintus \nparapijiečius \n(aplinkiniai \ndvarininkai \nneva \nkonkuruoja \njuos \nsamdydami), XIX a. viduryje jau buvo-visuotinai suprantamas dalykas.",
+        "pages": {
+          "evidence_pk": "843ad43ac1dfa414bfd221b9728d164a3ac843d1f80df5666bfb247196b02d0f",
+          "source_rel": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+          "source_hash": "96d7c991f4509784b3c4005c114017db3006bd620ae6a28dea9630475acfda2e",
+          "quote_hash": "34448ca7fa18ec322773170f58b98b579ef371ddedc8ba0f25c158f433ec6ea2",
+          "quote_start": 116394,
+          "quote_end": 116813,
+          "page_start_index": 55,
+          "page_end_index": 55,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 56,
+          "pdf_page_end": 56,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 56\"}",
+          "created_at": "2026-09-02T04:55:15.729888+03:00",
+          "updated_at": "2026-09-14T12:28:16.703281+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "B redakcijos kortelėse atskiriamas dokumentas, istoriko aiškinimas, teritorija ir liudijimo mastas. Katalogo tapatybė nėra nustatoma iš kontekstinio teiginio."
+  },
+  {
+    "claimId": "t-209376",
+    "claim": "1861 m. vyskupui teko tramdyti Raseinių ir Palėvenio dominikonų vienuolynus, kurie pelnėsi iš degtinės gamybos ir pardavimo.",
+    "notePath": "objektai/grupes/Raseinių ir Palėvenio dominikonų vienuolynai.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Gamyba, dvarininkas ir nesutarianti valdžia"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-191925",
+        "source": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+        "exactOriginal": "Brolijos maršalų paskirtos nuobaudos, valstiečiams, \nsulaužiusiems priesakas negerti, neretai pasiekdavo policijos įstaigas, \nir tuo kaipmat pasinaudodavo valdžios atstovai, siekę apriboti katalikų \nbažnyčios įtaką liaudžiai augimą, tuo tarpu bajorijos ir pačios \ndvasininkijos elgsena, jos reguliavimas buvo labai subtilus dalykas. Juk \nalkoholio vartojimas tarp kunigų, net kai kurių bažnyčios institucijų, \nt.y. vienuolynų, gaminama degtinė buvo nemaža problema. Net 1861 \nm., kai blaivybės brolijos minėjo trečiąsias savo veiklos metines, \nvyskupui teko tramdyti Troškūnų bernardinus ir Raseinių hei \nPalėvenio dominikonų vienuolynus, kurie pelnėsi iš degtinės gamybos \nir pardavimo64.",
+        "displayExcerpt": "Net 1861 \nm., kai blaivybės brolijos minėjo trečiąsias savo veiklos metines, \nvyskupui teko tramdyti Troškūnų bernardinus ir Raseinių hei \nPalėvenio dominikonų vienuolynus, kurie pelnėsi iš degtinės gamybos \nir pardavimo64.",
+        "pages": {
+          "evidence_pk": "5bff2b9d3b48bb259c8c0df7b1362581ab270a5b814a7bb8894570871832ee75",
+          "source_rel": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+          "source_hash": "96d7c991f4509784b3c4005c114017db3006bd620ae6a28dea9630475acfda2e",
+          "quote_hash": "d5ed4705c0339f447fa74b4d8456e38eefa53bdc9f08d9cd53dec89ca15eaf1a",
+          "quote_start": 192388,
+          "quote_end": 193077,
+          "page_start_index": 89,
+          "page_end_index": 89,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 90,
+          "pdf_page_end": 90,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 90\"}",
+          "created_at": "2026-09-02T04:55:15.729888+03:00",
+          "updated_at": "2026-09-14T12:28:16.703281+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "B redakcijos kortelėse atskiriamas dokumentas, istoriko aiškinimas, teritorija ir liudijimo mastas. Katalogo tapatybė nėra nustatoma iš kontekstinio teiginio."
+  },
+  {
+    "claimId": "t-209416",
+    "claim": "1877 m. balandžio 7 d. Telšių apskrities Salantų klebonas kunigas Kazimieras Bielinskis rašė vyskupystės administratoriui sufraganui Beresnevičiui apie tvirtai įsišaknijusią blaivybę parapijoje.",
+    "notePath": "objektai/asmenys/Kazimieras Bielinskis.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Neužbaigta permaina ir Salantų liudijimas"
+      },
+      {
+        "work": "Paroda B",
+        "section": "Kas išliko",
+        "item": "medalis",
+        "role": "contextual"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-192042",
+        "source": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+        "exactOriginal": "gyvenime neištrintas žymes, išskiriančias tos kartos žmones (t.y. \ndalyvavusius blaivybės brolijose - E.A. pastaba) iš kitų.\nJau po Valančevskio mirties 1877 m. balandžio 7 d., rašė Telšių \napsk. Salantų klebonas (kun. Kazimieras Bielinskis) vyskupystės \nadministratoriui sufraganui Beresnevičiui, kad toje parapijoje blaivybė \nĮsišaknijo taip tvirtai, kad valstiečiai apskritai nevartoja degtinės net \nper vestuves, krikštynas, pakasynas.",
+        "displayExcerpt": "Jau po Valančevskio mirties 1877 m. balandžio 7 d., rašė Telšių \napsk. Salantų klebonas (kun. Kazimieras Bielinskis) vyskupystės \nadministratoriui sufraganui Beresnevičiui, kad toje parapijoje blaivybė \nĮsišaknijo taip tvirtai, kad valstiečiai apskritai nevartoja degtinės net \nper vestuves, krikštynas, pakasynas.",
+        "pages": {
+          "evidence_pk": "f389a98adf70b19d5ff8db2e6417f43721e61b7f76442a54b41844473bce1bda",
+          "source_rel": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+          "source_hash": "96d7c991f4509784b3c4005c114017db3006bd620ae6a28dea9630475acfda2e",
+          "quote_hash": "9848b02f3cae30b9b2da6319d03d5349398682225ceb00e7426bd4694e015c2e",
+          "quote_start": 241540,
+          "quote_end": 241979,
+          "page_start_index": 111,
+          "page_end_index": 111,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 112,
+          "pdf_page_end": 112,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 112\"}",
+          "created_at": "2026-09-02T04:55:15.729888+03:00",
+          "updated_at": "2026-09-14T12:28:16.703281+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "B redakcijos kortelėse atskiriamas dokumentas, istoriko aiškinimas, teritorija ir liudijimo mastas. Katalogo tapatybė nėra nustatoma iš kontekstinio teiginio."
+  },
+  {
+    "claimId": "t-225839",
+    "claim": "Egidijaus Aleksandravičiaus cituojamame laiške Vilniaus generalgubernatoriui V. Nazimovui Motiejus Valančius teigė, kad pirmųjų blaivybę priėmusių pasienio parapijų žmonių šeimose sumažėjo nesantaikos, o muštynes ir barnius pakeitė ramybė.",
+    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Laiškas Nazimovui ir jo adresatas"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-206363",
+        "source": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+        "exactOriginal": "štai kaip M. Valančius rašė apie\n16Pirraojj vyskupo blaivybės gromata j j Dovydaitis J. S. Šiaulėniškis Senelis, p. 286.\n17Gieczys K. Bractwa trzezfrosd, s. 25.\n65\n\nblaivybės brolijas Vilniaus generalgubernatoriui V. Nazimovui, \npraslinkus keturiems mėnesiams nuo pirmųjų iš jų įsikūrimo: \"Prieš \nkeletą mėnesių dvi trys parapijos, esančios prie Lenkijos Karalystės \nsienos, sekdamos anos Nemuno pusės pavyzdžiu, vien pamokslų apie \nblogas \ngirtuokliavimo \npasekmes \ndėka \nstaiga \nnustojo \ngerti \nsvaiginamuosius gėrimus, išskyrus gal keletą asmenų. Nepraėjo nė \nmėnuo, o didžiulės permainos, įvykusios tų žmonių papročiuose ir \ncharakteryje, nustebino visus sveikai mąstančius. Išnyko įvairūs \nnelaimingi atsitikimai, muštynės ir barniai - neišvengiami girtavimo \npalydovai. Nesantaika ir nesklandumai šeimoje tapo retenybe. Tyluma \nir ramybė įsiviešpatavo. Sumažėjo visokiausių nelaimių, pasireiškė \ndarbingumas ir polinkis prie visko, kas gera, taipgi nesuskaitomos \ngeros išdavos privertė tūkstančius žmonių, išvaduotų iš girtybės, \nšlovinti Dievą už palaimingą mintį visiškai susilaikyti nuo svaiginamų­\njų gėrimų /.../. Grįždamas į Varnius po maloningo caro apsilankymo, \nsavo akimis regėjau daugelio susilaikiusių nuo degtinės palaimą ir \ngirdėjau daug džiaugsmingų pasakojimų apie pačias geriausias \nblaivybės pasekmes. Pavyzdys, duodamas kartu su tokiais labdaringais \nvaisiais^ paveikė kaimynus parapijiečius, kurių prašymai, o kai kuriose \nvietose net reikalavimai, privertė jų sielų ganytojus paskelbti \nsusilaikymą nuo svaiginamųjų gėrimų, ir, keistas dalykas, visur užteko \nkeleto žodžių, o seniau patys karščiausi tų pačių pamokslininkų \nžodžiai likdavo be atgarsio...\"18. Iš šio ir daugelio kitų oficialių \nkorespondencijų administracijai, kaip ir iš memorialo carui aiškėja, kad \nM. Valančius sąmoningai padidino liaudies iniciatyvumą, parodė, kad \nkai kur patys parapijiečiai privertė kunigus iš ambonų skelbti blaivybę.",
+        "displayExcerpt": "",
+        "pages": {
+          "evidence_pk": "148f9d78d4aed2ede8be8642aa5557c798e845d786ac8d7d74618a65029575cc",
+          "source_rel": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+          "source_hash": "96d7c991f4509784b3c4005c114017db3006bd620ae6a28dea9630475acfda2e",
+          "quote_hash": "a866d37d184f8d6016fddfd611052a393a0e18d567ea190e5121b273146cd102",
+          "quote_start": 135049,
+          "quote_end": 136987,
+          "page_start_index": 63,
+          "page_end_index": 64,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 64,
+          "pdf_page_end": 65,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 64-65\"}",
+          "created_at": "2026-09-14T11:56:42.855332+03:00",
+          "updated_at": "2026-09-14T12:28:16.703281+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "B redakcijos kortelėse atskiriamas dokumentas, istoriko aiškinimas, teritorija ir liudijimo mastas. Katalogo tapatybė nėra nustatoma iš kontekstinio teiginio."
+  },
+  {
+    "claimId": "t-225840",
+    "claim": "Egidijus Aleksandravičius pažymi, kad Motiejus Valančius administracijai rašytuose laiškuose taktiniais sumetimais didino blaivybės judėjimo sėkmę, o 1858 m. pabaigos laiškuose kunigams ragino toliau skelbti blaivybę, nes dar buvo geriančių degtinę.",
+    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Laiškas Nazimovui ir jo adresatas"
+      },
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Neužbaigta permaina ir Salantų liudijimas"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-206364",
+        "source": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+        "exactOriginal": "Kitas dalykas, vyskupas gerokai padidino ir realią blaivybės judėjimo \nsėkmę. Anot tyrinėtojų, taip buvo elgiamasi taktiniais sumetimais, \nsiekiant sudaryti Rusijos imperijos vyriausybei įspūdį, esą tai visuotinis \nreiškinys, privertęs dvasininkiją prisidėti prie blaivybės judėjimo. Tai \nliudija ir kiti šaltiniai, išaiškinti K. Giečio. Turima omenyje M. \nValančiaus laiškai artimiems bendražygiams (A. Dobševičiui, Šiluvos \ninfulotui), rašyti tuo pačiu metu, kaip ir korespondencija V. Nazimovui. \nTuose laiškuose, rašytuose Žemaičių kunigams 1858 m. pačioje\n18Čit. iš ten pat, p. 26-27.\n66\n\npabaigoje vis raginama skelbti blaivystę, nes dar yra geriančių \ndegtinę19.",
+        "displayExcerpt": "",
+        "pages": {
+          "evidence_pk": "1b951c8c481b08f49c53507c16a638f2cf4c6ad3bee21e67e53fe051eeed3937",
+          "source_rel": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+          "source_hash": "96d7c991f4509784b3c4005c114017db3006bd620ae6a28dea9630475acfda2e",
+          "quote_hash": "fa8f9a7378ecdce809bf1d55635ef2e0dad42886eae08bda6b9b15b5bed8d917",
+          "quote_start": 136989,
+          "quote_end": 137658,
+          "page_start_index": 64,
+          "page_end_index": 65,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 65,
+          "pdf_page_end": 66,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 65-66\"}",
+          "created_at": "2026-09-14T11:56:42.855332+03:00",
+          "updated_at": "2026-09-14T12:28:16.703281+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "B redakcijos kortelėse atskiriamas dokumentas, istoriko aiškinimas, teritorija ir liudijimo mastas. Katalogo tapatybė nėra nustatoma iš kontekstinio teiginio."
+  },
+  {
+    "claimId": "t-225841",
+    "claim": "Egidijaus Aleksandravičiaus cituojamas Jokūbas Šimkevičius valstiečių girtavimą aiškino skurdu, pažeminimu, nelaisve ir sunkiais darbais: svaiginimasis esą trumpam padedąs užmiršti nedalią.",
+    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Papročiai ir amžininkų aiškinimai"
+      },
+      {
+        "work": "Paroda B",
+        "section": "Karčemos pasaulis: kam tekėjo pajamos",
+        "item": "karcemos-paveikslas",
+        "role": "contextual"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-206365",
+        "source": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+        "exactOriginal": "Kitas, gal net dar baisesnis dalykas - tai tautos apačių \n\"nuosmukis\". J. Šimkevičius atskleidžia prošvaistės nematančio \nvalstiečio situaciją, kada vienintelė užuobėga nuo neteisybės - karčema, \nkurioje ir veši dar didesnė apgaulė. \"Antra vertus, slegiantis skurdas, \nnemalonus iš visų pusių paniekinimas, sunkios nelaisvės ir darbų našta \nir iš niekur neprasiskverbiantis vilties, kad galima gyventi geriau, \nspindulėlis verčia nelaimingąjį srėbti jausmus ir pojūčius slopinantį \nsvaiginamąjį gėrimą, kuris, akimirkai susukdamas galvą, padeda \nužmiršti savo nedalią, bejėgiškumą, liūdesį ir artėjančias bėdas. Iš čia \nkilo pasakiškas padavimas apie Letos vandenį, leidžiantį pamiršti ir \nliūdesį, ir džiaugsmus\"13.",
+        "displayExcerpt": "",
+        "pages": {
+          "evidence_pk": "7cc3c796127f95a872b48c56a030d51e6b35ecfcf398108f111b17294b81bc1c",
+          "source_rel": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+          "source_hash": "96d7c991f4509784b3c4005c114017db3006bd620ae6a28dea9630475acfda2e",
+          "quote_hash": "48dba1eee0f94af24d502b10425cf6ef9f95a72497b6cda33178da9b683bbf18",
+          "quote_start": 41712,
+          "quote_end": 42428,
+          "page_start_index": 22,
+          "page_end_index": 22,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 23,
+          "pdf_page_end": 23,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 23\"}",
+          "created_at": "2026-09-14T11:56:42.855332+03:00",
+          "updated_at": "2026-09-14T12:28:16.703281+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "B redakcijos kortelėse atskiriamas dokumentas, istoriko aiškinimas, teritorija ir liudijimo mastas. Katalogo tapatybė nėra nustatoma iš kontekstinio teiginio."
+  },
+  {
+    "claimId": "t-225842",
+    "claim": "Egidijus Aleksandravičius degtinės ir alaus gamybą sieja su dvaro pramone, naudojusia palivarkų žaliavas ir realizavusia produkciją savo valdų ribose, ribotų žemės ūkio produktų rinkos ryšių sąlygomis.",
+    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Dvaro ūkis, nuoma ir mokesčių atpirkimas"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-206366",
+        "source": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+        "exactOriginal": "O juk pačios \nsvarbiausios propinacijos prielaidos išplaukia iš feodalinio, natūralaus \nūkio struktūros. Dėl labai ribotų žemės ūkio produktų rinkos ryšių \nnebuvo galima grūdus vartoti kitaip. Ta prasme degtinės, alaus \ndarymas, kaip ir plytų bei miltų gamyba, priklausė dvaro pramonei, \nkurj ir žaliavas ėmė iš dvaro palivarkų, ir produkciją realizavo savo \nvaldų ribose (bent legaliai).",
+        "displayExcerpt": "",
+        "pages": {
+          "evidence_pk": "5774334e29bd43a5c5626535037a1d22cadbeffef06cb8c27e6c1f5a0aed6bf9",
+          "source_rel": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+          "source_hash": "96d7c991f4509784b3c4005c114017db3006bd620ae6a28dea9630475acfda2e",
+          "quote_hash": "81f30de4b50a1e18aec1680d38eb75b30a29d3a6a79a8610b62432b18f497a1a",
+          "quote_start": 97696,
+          "quote_end": 98084,
+          "page_start_index": 47,
+          "page_end_index": 47,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 48,
+          "pdf_page_end": 48,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 48\"}",
+          "created_at": "2026-09-14T11:56:42.855332+03:00",
+          "updated_at": "2026-09-14T12:28:16.703281+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "B redakcijos kortelėse atskiriamas dokumentas, istoriko aiškinimas, teritorija ir liudijimo mastas. Katalogo tapatybė nėra nustatoma iš kontekstinio teiginio."
+  },
+  {
+    "claimId": "t-225843",
+    "claim": "Egidijus Aleksandravičius perspėja, kad užfiksuotų prievartinio degtinės pardavimo baudžiauninkams atvejų ir satyrų negalima laikyti visuotinę praktiką įrodančia taisykle.",
+    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Dvaro ūkis, nuoma ir mokesčių atpirkimas"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-206367",
+        "source": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+        "exactOriginal": "Svarbu pažymėti ir tai, kad istorinėje literatūroje stereotipiškai \nkartojami \nteiginiai \napie \nprievartinį \ndegtinės \npardavinėjimą \nbaudžiauninkams nėra visiškai pagrįsti. Jie turi pagrindo tiek, kiek \ndėsnis grindžiamas išimtimi, t.y. prievarta parduodamos degtinės faktų \nanuo metu užfiksuota, tačiau neretai tai galėjo būti susiję su satyrinės \nkalbos ypatybėmis, Imant Už gryną pinigą viską, kas satyrose rašyta, \nnesunku atsidurti panašioje padėtyje, kuri suformavo realaus \nTriųbočių\" ar \"Kontubernijos\" egzistavimo mitą.",
+        "displayExcerpt": "",
+        "pages": {
+          "evidence_pk": "e8fd68f8dc3cb473502ed1bb0b6816d3bac89ba6ddfcc7470257e8e0b3a6f317",
+          "source_rel": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+          "source_hash": "96d7c991f4509784b3c4005c114017db3006bd620ae6a28dea9630475acfda2e",
+          "quote_hash": "43eaf03c4f912f65f4bb7d57dab159bacef7392d94c5f6e8d94af17d346fe6f6",
+          "quote_start": 98913,
+          "quote_end": 99442,
+          "page_start_index": 47,
+          "page_end_index": 47,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 48,
+          "pdf_page_end": 48,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 48\"}",
+          "created_at": "2026-09-14T11:56:42.855332+03:00",
+          "updated_at": "2026-09-14T12:28:16.703281+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "B redakcijos kortelėse atskiriamas dokumentas, istoriko aiškinimas, teritorija ir liudijimo mastas. Katalogo tapatybė nėra nustatoma iš kontekstinio teiginio."
+  },
+  {
+    "claimId": "t-225844",
+    "claim": "Egidijus Aleksandravičius aprašo Vėžaičių savininko E. Volmerio taikytą prievartinį blaivinimą: valstiečiams nustatytą grįžimo laiką ir reikalavimą atsiskaityti dėl negėrimo; dėl žmogaus orumą žeminančių priemonių į dvarininką kreipėsi Motiejus Valančius.",
+    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Brolijos pareigos, religinė praktika ir prievartos riba"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-206368",
+        "source": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+        "exactOriginal": "Pirmuosius ir karščiausius blaivybės akcijos rėmėjus dvarinin­\nkus mini pats M. Valančius. Tai visų pirma 1. Oginskis, vienas \ndidžiausių ir įtakingiausių Kauno gubernijos turtuolių. Nuo pat 1858 \nm. rudens jis prisidėjo prie blaivybės šalininkų. Savo dvare J. Oginskis \nuždarė visus bravorus ir karčemas, kurios iki tol davė iki 100 tūkst. \nrublių pajamų. Dar daugiau, jis prašė M. Valančiaus atsiųsti tūkstantį\n50Kurjer Wilenski. 1859, N. 6.\n5*Tan pat.\n^Gieczys K. Bractwa trzczwosri, s. 162.\n85\n\negzempliorių, Blaivybės brolijos įstatų, kad galėtų išplatinti'tarp savo \nvalstiečių53.\nAntroje vietoje vyskupas paminėjo tris brolius grafus Huten- \nČapskius: Adolfą - Juzefavo ir Beržėnų (Šiaulių apskritis) savininką, \nKalnoberžę (Kauno apskritis) valdžiusį Edvardą ir Kėdainių savininką \nMarijoną. Jie uždarė savo dvaruose bravorus ir karčemas, taip pat ir \nsaviems baudžiauninkams įsakė negerti degtinės. Kai kuriais atvejais \nvalstiečių blaivinimas įgavo net prievartinį pobūdį. Antai E. Volmeris- \nVėžaičių savininkas ne tik prisakė saviems valstiečiams nevartoti \ndegtinės bet netgi griebėsi represinių blaivinimo priemonių - įvedė tam \ntikrą tvarkaraštį dvaro žmonėms: kada valstietis turi grįžti namo \nvasaros metu, kada žiemą. Be to, didesni girtuokliai turį prisistatyti \nvakarais po darbų pas poną ir kone raportuoti apie tai, kad neėmė į \nburną degtinės. Šis netipiškas atvejis, privertęs patį vyskupą kreiptis į \nVėžaičių šeimininką dėl žmogaus orumą žeminančių priemonių54, \nrodė, kad net blaivinimas kartais gali būti feodalinis.",
+        "displayExcerpt": "",
+        "pages": {
+          "evidence_pk": "2fd066671444cc47e8cf53593524384e010082deebb2ac3509a603564801c072",
+          "source_rel": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+          "source_hash": "96d7c991f4509784b3c4005c114017db3006bd620ae6a28dea9630475acfda2e",
+          "quote_hash": "fd582e38934eebf64d4c3149e583304d5dc8804cb74ef6c1c864ad92d092fc50",
+          "quote_start": 180341,
+          "quote_end": 181885,
+          "page_start_index": 83,
+          "page_end_index": 84,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 84,
+          "pdf_page_end": 85,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 84-85\"}",
+          "created_at": "2026-09-14T11:56:42.855332+03:00",
+          "updated_at": "2026-09-14T12:28:16.703281+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "B redakcijos kortelėse atskiriamas dokumentas, istoriko aiškinimas, teritorija ir liudijimo mastas. Katalogo tapatybė nėra nustatoma iš kontekstinio teiginio."
+  },
+  {
+    "claimId": "t-225845",
+    "claim": "Petras Puzaras pateikia Kauno gubernijos dvarininkų degtinės gamybos duomenis: 1859 m. – 552 643 kibirai, 1860 m. – 129 194 kibirai.",
+    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Gamyba, dvarininkas ir nesutarianti valdžia"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-206369",
+        "source": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+        "exactOriginal": "Dvarininkai į blaivybės sąjūdį reagavo skirtingai. Mat \njiems, turintiems degtinės monopolį, blaivybės klausimas \nbuvo kartu ekonominė problema. Blaivybės paplitimas \nliaudyje privertė dvarininkus mažinti degtinės gamybą, \nuždarinėti „bravorus\" ir smukles. 1850 m. Kauno guber­\nnijos dvarininkai pagamino 1 033 534 kibirus degtinės,\n1859 m, — 552 643 (gamyba sumažėjo 46,5 proc.), o\n1860 m. — jau tik 129 194 kibirus degtinės (gamyba su­\nmažėjo, palyginti su 1858 m., 87,5 proc.). Be to, ši deg­\ntinė buvo gaminama jau ne pardavimui, bet tik gaminti \n„brogai\", kuria buvo šeriami gyvuliai, neužderėjus tais \nmetais pašarinėms žolėms4 5.",
+        "displayExcerpt": "",
+        "pages": {
+          "evidence_pk": "0e21a6bdc0dacdc74d8f0758abd4ed8c488e0a7fc2c264937e7cdd823d5980ca",
+          "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+          "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+          "quote_hash": "87e8a4a18b0d95cadfe62802749261af014ecf6f4c66fdab8ff60a0003d5fdc6",
+          "quote_start": 271187,
+          "quote_end": 271823,
+          "page_start_index": 134,
+          "page_end_index": 134,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 135,
+          "pdf_page_end": 135,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 135\"}",
+          "created_at": "2026-09-14T12:03:02.485746+03:00",
+          "updated_at": "2026-09-14T12:28:16.760539+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "B redakcijos kortelėse atskiriamas dokumentas, istoriko aiškinimas, teritorija ir liudijimo mastas. Katalogo tapatybė nėra nustatoma iš kontekstinio teiginio."
+  },
+  {
+    "claimId": "t-225846",
+    "claim": "Petras Puzaras, aprašydamas Motiejaus Valančiaus laikų Žemaičių vyskupiją, mini degtinės vartojimą per krikštynas, vestuves, laidotuves, atlaidus, kryžių ir namų šventinimą.",
+    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Papročiai ir amžininkų aiškinimai"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-206370",
+        "source": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+        "exactOriginal": "paplitęs girtavimas. Jis buvo pavergęs vyrus, moteris, \nnet vaikus. Be degtinės neapsieidavo per krikštynas, ves­\ntuves, laidotuves, atlaidus, šventinant kryžius ir namus \nir t. t. 1 Kun. J. Ulickas (gim. 1867 m.) rašo, kad per jo \nmotinos krikštynas buvo išgerta 20 gorčių degtinės, t. y. \n56 litrai2.",
+        "displayExcerpt": "",
+        "pages": {
+          "evidence_pk": "eae11b79c02cb363d20d18b4fc8d960a0452524ac6aac7e49823f07781a7709d",
+          "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+          "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+          "quote_hash": "a400178b77d914633152c7f2e76d6c591689eb2a4b4ac9f52443fce49df4515d",
+          "quote_start": 245777,
+          "quote_end": 246079,
+          "page_start_index": 123,
+          "page_end_index": 123,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 124,
+          "pdf_page_end": 124,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 124\"}",
+          "created_at": "2026-09-14T12:03:02.485746+03:00",
+          "updated_at": "2026-09-14T12:28:16.760539+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "B redakcijos kortelėse atskiriamas dokumentas, istoriko aiškinimas, teritorija ir liudijimo mastas. Katalogo tapatybė nėra nustatoma iš kontekstinio teiginio."
+  },
+  {
+    "claimId": "t-225847",
+    "claim": "Egidijus Aleksandravičius nurodo, kad degtinės mokesčio atpirkėjai, už pastovias įmokas iždui varžytinėmis įsigiję teisę rinkti akcizą, buvo suinteresuoti didinti svaigalų vartojimą ir plėsti prekybos tinklą.",
+    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Dvaro ūkis, nuoma ir mokesčių atpirkimas"
+      },
+      {
+        "work": "Paroda B",
+        "section": "Karčemos pasaulis: kam tekėjo pajamos",
+        "item": "smilgiu-rastas",
+        "role": "contextual"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-206371",
+        "source": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+        "exactOriginal": "Paskutiniaisiais ikireforminiais metais ištuštėjęs Rusijos \nimperijos iždas buvo perdėm priklausomas nuo svaigalų mokesčių. \nSuma, kurią valstybei \nmokėjo degtinės \nmokesčio atpirkėjai, \nvaržytinėmis įsigiję teisę rinkti akcizą, 1859 m. pasiekė milžinišką dydį \n- 127 764 488 rublių 32 kapeikas ir sudarė 40 % visų iždo pajamų71. \nTuo tarpu 1819 m. įplaukos už degtinės akcizą sudarė 16,1&38 m. 23\n69ČcrnySevj>kis N. Žalinga dorybė / / Blaivybė, 1986, p. 76.\n70Добролюбов H. А. Народное дело. Распространение обществ трезвости / / \nСобрание сочинений в 3-х томах. М., 1952, т. 2, с. 249.\n71Нрыжов И. История кабаков в России. - Рстсрбург, 1863, с. 286.\nV. Fiodorovas nurodo kiek kitokią sumą - 106101131 rub., bet tai irgi sudarė 38% valstybės \npajamų. - Федоров В. А. Крестьянское трезвенное движение, c. 110.\n\nnuošimčius viso valstybės pelno72. Valstybės ekonominė politika, kaip \nk visas .atsilikęs feodalinis ūkis, tiesiogiai skatino girtavimą. Tačiau \npažangesni valdininkai jau Sestajame dešimtmetyje suvokė, kad tokia \npolitika veda į pražūtį. Pralaimėjimas Kryme tai dar sykį įrodė. Be \nabejo, aukštiesiems sluoksniams buvo žinoma reguliariai nedideliu \ntiražu spausdinama svaigalą pardavinėjimo ir akcizo didėjimo \nstatistika. Tačiau apie milžiniškus degtinės atpirkėją pelnus buvo \ngalima tik įtarti. Anot J. Pryžovo, žinomo XIX a. degtinės gamybos \nraidos tyrinėtojo, tuo metu imperijoje buvo 216 atpirkėją, o kiekvieno \niš ją pajamos iš akcizo siekė apie 3 milijonus rublią kasmet. Taigi \nsaujelės verslininką (daugiausia žydą tautybės) pelnai keleriopai viršijo \nRusijos iždo įplaukas . Mokėdami pastovias sumas į iždą, atpirkėjai \ntiesiogiai buvo suinteresuoti didinti svaigalą vartojimą, plėsti prekybos \ntinklą.",
+        "displayExcerpt": "Mokėdami pastovias sumas į iždą, atpirkėjai tiesiogiai buvo suinteresuoti didinti svaigalą vartojimą, plėsti prekybos tinklą.",
+        "pages": {
+          "evidence_pk": "f4a35ff7c61cdbf5bd710f931985358a712bf18cad72551b3aa4d65a3913d69b",
+          "source_rel": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md",
+          "source_hash": "96d7c991f4509784b3c4005c114017db3006bd620ae6a28dea9630475acfda2e",
+          "quote_hash": "7350d3fe4999cb264f0c70cca81a932c39b7d49eb4f11db7e78e0103c0d8359b",
+          "quote_start": 202602,
+          "quote_end": 204329,
+          "page_start_index": 93,
+          "page_end_index": 94,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 94,
+          "pdf_page_end": 95,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\":\"PDF 94-95\"}",
+          "created_at": "2026-09-14T12:03:02.126436+03:00",
+          "updated_at": "2026-09-14T12:28:16.703281+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "B redakcijos kortelėse atskiriamas dokumentas, istoriko aiškinimas, teritorija ir liudijimo mastas. Katalogo tapatybė nėra nustatoma iš kontekstinio teiginio."
+  },
+  {
+    "claimId": "t-225848",
+    "claim": "Petras Puzaras aprašo priėmimo į Blaivybės broliją tvarką: stojantysis tą pačią dieną atlieka išpažintį ir priima Komuniją, kunigas prie Švč. Mergelės Marijos altoriaus priima jo apžadą, apšlaksto naujus narius švęstu vandeniu ir sako pamokslą.",
+    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Brolijos pareigos, religinė praktika ir prievartos riba"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-206372",
+        "source": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+        "exactOriginal": "Į broliją gali priimti kiekvienas kunigas kas dieną. Įsi­\nrašydamas į broliją, stojantysis tą pačią dieną privalo \natlikti išpažintį ir priimti šv. Komuniją. Įrašęs į blaivi­\nninkų knygą, kunigas, apsivilkęs kamžą ir užsidėjęs stu­\nlą, prie Švč. M. Marijos altoriaus priima stojančiojo į \nbroliją apžadą negerti degtinės, romo ir arako (saldžios \ndegtinės). Brošiūroje yra šio pasižadėjimo formulė. Po \nto kunigas naujus brolijos narius apšlaksto švęstu vande­\nniu ir pasako pamokslą ‘.",
+        "displayExcerpt": "",
+        "pages": {
+          "evidence_pk": "87a95bc52e4367689d06716599c4e3c44d1547959ce9915594f4eb667f57e74f",
+          "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+          "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+          "quote_hash": "50de3fb037c4fef695beb35989e2e5c8096165e48e9ad9e5ffb472cd75cefa49",
+          "quote_start": 252842,
+          "quote_end": 253328,
+          "page_start_index": 126,
+          "page_end_index": 126,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 127,
+          "pdf_page_end": 127,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\": \"PDF 127\"}",
+          "created_at": "2026-09-14T12:28:16.760539+03:00",
+          "updated_at": "2026-09-14T12:28:16.760539+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "B redakcijos kortelėse atskiriamas dokumentas, istoriko aiškinimas, teritorija ir liudijimo mastas. Katalogo tapatybė nėra nustatoma iš kontekstinio teiginio."
+  },
+  {
+    "claimId": "t-225849",
+    "claim": "Petro Puzaro pateiktose Blaivybės brolijos taisyklėse klebonas apžado nesilaikantį narį turi du kartus įspėti, o nepasitaisiusį pašalinti iš brolijos; pašalintas žmogus vis tiek privalo laikytis Dievui duoto apžado.",
+    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+    "publicStatus": "accepted",
+    "usedBy": [
+      {
+        "work": "kaip-valancius-keite-kasdienybe",
+        "section": "Brolijos pareigos, religinė praktika ir prievartos riba"
+      }
+    ],
+    "evidence": [
+      {
+        "citationId": "c-206373",
+        "source": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+        "exactOriginal": "Narį, \nnebesilaikantį apžado, klebonas privalo du kartus įspėti, \no jei jis nepasitaiso, išmesti iš brolijos. Išmestasis nors \nir netenka visų privilegijų, bet privalo laikytis Dievui \nduoto blaivybės apžado 2.",
+        "displayExcerpt": "",
+        "pages": {
+          "evidence_pk": "a4fe2af7b87c117f1aa13b2510881c7d6ec71982e2f6a062d578d57ada45927f",
+          "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md",
+          "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+          "quote_hash": "e388d4388f389b3e4624d6e85a2a6edcd092eb0644c1b633523092886783b6a6",
+          "quote_start": 254064,
+          "quote_end": 254274,
+          "page_start_index": 126,
+          "page_end_index": 126,
+          "page_start_label": "",
+          "page_end_label": "",
+          "pdf_page_start": 127,
+          "pdf_page_end": 127,
+          "page_anchor_status": "pdf_only",
+          "provenance": "source_pages",
+          "metadata_json": "{\"page_label\": \"PDF 127\"}",
+          "created_at": "2026-09-14T12:28:16.760539+03:00",
+          "updated_at": "2026-09-14T12:28:16.760539+03:00"
+        },
+        "publicStatus": "accepted"
+      }
+    ],
+    "interpretationLimits": "B redakcijos kortelėse atskiriamas dokumentas, istoriko aiškinimas, teritorija ir liudijimo mastas. Katalogo tapatybė nėra nustatoma iš kontekstinio teiginio."
+  }
+]

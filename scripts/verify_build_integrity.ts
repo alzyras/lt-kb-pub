@@ -92,6 +92,7 @@ if (fs.existsSync(path.join(publicRoot, "static/exhibitionMediaContext.json"))) 
     "quartz/static/exhibitionSupplements.json",
     "quartz/static/exhibitionStateSymbols.json",
     "quartz/static/exhibitionAuthoritySeals.json",
+    "quartz/static/exhibitionValancius.json",
   ].flatMap((sourcePath) => {
     const payload = JSON.parse(
       fs.readFileSync(path.resolve(sourcePath), "utf8"),

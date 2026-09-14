@@ -13,6 +13,7 @@ import { Node } from "unist"
 import { StaticResources } from "../../util/resources"
 import { QuartzPluginData } from "../vfile"
 import { isObjectDetailSlug } from "../../util/objectDetail"
+import ContentCycle from "../../components/ContentCycle"
 
 async function processObjectDetail(
   ctx: BuildCtx,
@@ -50,7 +51,7 @@ export const ObjectDetailPages: QuartzEmitterPlugin = () => {
     beforeBody: [],
     left: [PageTitle(), Explorer()],
     right: [],
-    afterBody: [],
+    afterBody: [ContentCycle()],
     footer: Footer({
       links: {
         GitHub: "https://github.com/alzyras/lt-kb-pub",
@@ -58,14 +59,24 @@ export const ObjectDetailPages: QuartzEmitterPlugin = () => {
       },
     }),
   }
-  const { head: Head, header, pageBody, left, right, footer: FooterComponent } = opts
+  const { head: Head, header, pageBody, left, right, afterBody, footer: FooterComponent } = opts
   const Header = HeaderConstructor()
   const Body = BodyConstructor()
 
   return {
     name: "ObjectDetailPages",
     getQuartzComponents() {
-      return [Head, Header, Body, ...header, pageBody, ...left, ...right, FooterComponent]
+      return [
+        Head,
+        Header,
+        Body,
+        ...header,
+        pageBody,
+        ...left,
+        ...right,
+        ...afterBody,
+        FooterComponent,
+      ]
     },
     async *emit(ctx, content, resources) {
       const allFiles = content.map((item) => item[1].data)

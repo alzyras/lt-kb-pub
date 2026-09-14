@@ -14,6 +14,7 @@ import path from "path"
 import { visit } from "unist-util-visit"
 import isAbsoluteUrl from "is-absolute-url"
 import { Root } from "hast"
+import { loadExhibitionSlugs } from "../../util/exhibitions"
 
 interface Options {
   /** How to resolve Markdown paths */
@@ -37,11 +38,19 @@ export function isGeneratedMediaDetailLink(dest: string): boolean {
   return /^\/galerija\/[^?#]+--m-[a-zA-Z0-9_-]+(?:[?#].*)?$/.test(dest)
 }
 
+export function isGeneratedObjectEvidenceLink(dest: string, allSlugs: readonly string[]): boolean {
+  const match = dest.match(/^\/(objektai\/[^?#]+)\/irodymai(?:\/[1-9]\d*)?\/?(?:[?#].*)?$/)
+  if (!match) return false
+  const parent = decodeURIComponent(match[1])
+  return allSlugs.includes(parent) || allSlugs.includes(parent + "/index")
+}
+
 export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
   const opts = { ...defaultOptions, ...userOpts }
   return {
     name: "LinkProcessing",
     htmlPlugins(ctx) {
+      const exhibitionSlugs = loadExhibitionSlugs()
       return [
         () => {
           return (tree: Root, file) => {
@@ -110,9 +119,12 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                 const isInternal = !(
                   isAbsoluteUrl(dest, { httpOnly: false }) || dest.startsWith("#")
                 )
-                const isGeneratedMediaDetail = isInternal && isGeneratedMediaDetailLink(dest)
+                const isGeneratedMediaDetail = isInternal && (
+                  isGeneratedMediaDetailLink(dest) ||
+                  isGeneratedObjectEvidenceLink(dest, ctx.allSlugs)
+                )
                 if (isGeneratedMediaDetail) {
-                  // Media detail pages are emitted after Markdown has been transformed,
+                  // Media and evidence detail pages are emitted after Markdown has been transformed,
                   // so they are intentionally absent from ctx.allSlugs here. Preserve
                   // their canonical double-hyphen route instead of slugifying it and
                   // incorrectly removing the href as a broken link.
@@ -148,7 +160,9 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
 
                   const targetExists =
                     ctx.allSlugs.includes(full) ||
-                    ctx.allSlugs.includes(simple as unknown as FullSlug)
+                    ctx.allSlugs.includes(simple as unknown as FullSlug) ||
+                    ctx.allSlugs.includes(stripSlashes(simple) as FullSlug) ||
+                    exhibitionSlugs.has(stripSlashes(simple))
                   const isAttachmentLike = getFileExtension(full) !== undefined
                   if (!targetExists && !isAttachmentLike) {
                     classes.push("broken-internal")

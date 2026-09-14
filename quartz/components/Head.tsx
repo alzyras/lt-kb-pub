@@ -5,7 +5,13 @@ import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { unescapeHTML } from "../util/escape"
 import { CustomOgImagesEmitterName } from "../plugins/emitters/ogImage"
-import { isPoorSeoPage, pageStructuredData, seoDescription, seoTitle } from "../util/seo"
+import {
+  isPoorSeoPage,
+  pageStructuredData,
+  seoDescription,
+  seoTitle,
+  seoImageUrl,
+} from "../util/seo"
 import { displayCaption, parseMediaEntry } from "../util/objectMedia"
 import {
   isObjectDetailSlug,
@@ -31,6 +37,11 @@ export default (() => {
     const seoInput = {
       slug: fileData.slug,
       title: titleBase,
+      seoTitle: fileData.frontmatter?.seo_title,
+      author: fileData.frontmatter?.autorius,
+      datePublished: fileData.frontmatter?.date,
+      dateModified: fileData.frontmatter?.atnaujinta,
+      collectionPage: fileData.frontmatter?.exhibition_page === true,
       description: descriptionSource,
       text: fileData.text,
       itemType: fileData.frontmatter?.tipas,
@@ -106,7 +117,10 @@ export default (() => {
       (e) => e.name === CustomOgImagesEmitterName,
     )
     const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image-ldk-map.jpg`
-    const ogImagePath = mediaPrimaryThumb || ogImageDefaultPath
+    const ogImagePath = seoImageUrl(
+      mediaPrimaryThumb || ogImageDefaultPath,
+      cfg.baseUrl ?? "example.com",
+    )
 
     return (
       <head>
