@@ -1,0 +1,270 @@
+{
+  "base": "b691c5af465ccdabac95d0cfce4a7e6341dfcd92",
+  "reviewed": "46c86bdcb1",
+  "notes": [
+    {
+      "note": "objektai/asmenys/A. Alekna.md",
+      "retainedClaims": 2,
+      "reviewedClaims": 1,
+      "publishedClaims": 2,
+      "retainedCitations": 2,
+      "publishedCitations": 2
+    },
+    {
+      "note": "objektai/asmenys/Dominykas Meilus.md",
+      "retainedClaims": 1,
+      "reviewedClaims": 1,
+      "publishedClaims": 1,
+      "retainedCitations": 1,
+      "publishedCitations": 1
+    },
+    {
+      "note": "objektai/asmenys/Kazimieras Bielinskis.md",
+      "retainedClaims": 1,
+      "reviewedClaims": 1,
+      "publishedClaims": 1,
+      "retainedCitations": 1,
+      "publishedCitations": 1
+    },
+    {
+      "note": "objektai/asmenys/M. Muravjovas.md",
+      "retainedClaims": 4,
+      "reviewedClaims": 9,
+      "publishedClaims": 9,
+      "retainedCitations": 4,
+      "publishedCitations": 9
+    },
+    {
+      "note": "objektai/asmenys/Motiejus Valančius.md",
+      "retainedClaims": 5,
+      "reviewedClaims": 68,
+      "publishedClaims": 68,
+      "retainedCitations": 5,
+      "publishedCitations": 68
+    },
+    {
+      "note": "objektai/asmenys/V. Nazimovas.md",
+      "retainedClaims": 1,
+      "reviewedClaims": 7,
+      "publishedClaims": 7,
+      "retainedCitations": 1,
+      "publishedCitations": 8
+    },
+    {
+      "note": "objektai/asmenys/Viktoras Rusteika.md",
+      "retainedClaims": 1,
+      "reviewedClaims": 1,
+      "publishedClaims": 1,
+      "retainedCitations": 1,
+      "publishedCitations": 1
+    },
+    {
+      "note": "objektai/autoriai/J. Šimkevičius.md",
+      "retainedClaims": 3,
+      "reviewedClaims": 3,
+      "publishedClaims": 3,
+      "retainedCitations": 3,
+      "publishedCitations": 3
+    },
+    {
+      "note": "objektai/autoriai/Jokūbas Šimkevičius.md",
+      "retainedClaims": 1,
+      "reviewedClaims": 1,
+      "publishedClaims": 1,
+      "retainedCitations": 1,
+      "publishedCitations": 1
+    },
+    {
+      "note": "objektai/autoriai/V. Nazimovas.md",
+      "retainedClaims": 1,
+      "reviewedClaims": 1,
+      "publishedClaims": 1,
+      "retainedCitations": 1,
+      "publishedCitations": 1
+    },
+    {
+      "note": "objektai/grupes/Raseinių ir Palėvenio dominikonų vienuolynai.md",
+      "retainedClaims": 1,
+      "reviewedClaims": 1,
+      "publishedClaims": 1,
+      "retainedCitations": 1,
+      "publishedCitations": 1
+    },
+    {
+      "note": "objektai/ivykiai/1853 m. kovo 28 d. aplinkraštis Nr. 659–677 dėl pamokslų cenzūros.md",
+      "retainedClaims": 1,
+      "reviewedClaims": 1,
+      "publishedClaims": 1,
+      "retainedCitations": 1,
+      "publishedCitations": 1
+    },
+    {
+      "note": "objektai/ivykiai/1867 m. liepos 20 d. laiškas Batakių dekanui kun. Montvilui.md",
+      "retainedClaims": 1,
+      "reviewedClaims": 1,
+      "publishedClaims": 1,
+      "retainedCitations": 1,
+      "publishedCitations": 1
+    },
+    {
+      "note": "objektai/ivykiai/1867–1868 m. badas Lietuvoje.md",
+      "retainedClaims": 1,
+      "reviewedClaims": 1,
+      "publishedClaims": 1,
+      "retainedCitations": 1,
+      "publishedCitations": 1
+    },
+    {
+      "note": "objektai/ivykiai/Byla dėl vyskupo Motiejaus Valančiaus valdžios viršijimo.md",
+      "retainedClaims": 1,
+      "reviewedClaims": 1,
+      "publishedClaims": 1,
+      "retainedCitations": 1,
+      "publishedCitations": 1
+    },
+    {
+      "note": "objektai/ivykiai/Dekanatų bibliotekų steigimas.md",
+      "retainedClaims": 2,
+      "reviewedClaims": 1,
+      "publishedClaims": 2,
+      "retainedCitations": 2,
+      "publishedCitations": 2
+    },
+    {
+      "note": "objektai/ivykiai/Ivano Nikotino vizitas pas Motiejų Valančių.md",
+      "retainedClaims": 1,
+      "reviewedClaims": 1,
+      "publishedClaims": 1,
+      "retainedCitations": 1,
+      "publishedCitations": 1
+    },
+    {
+      "note": "objektai/ivykiai/Nikolajaus Muravjovo vizitas pas Motiejų Valančių Varniuose.md",
+      "retainedClaims": 1,
+      "reviewedClaims": 1,
+      "publishedClaims": 1,
+      "retainedCitations": 1,
+      "publishedCitations": 1
+    },
+    {
+      "note": "objektai/ivykiai/Parapinių mokyklų uždarymas.md",
+      "retainedClaims": 1,
+      "reviewedClaims": 1,
+      "publishedClaims": 1,
+      "retainedCitations": 1,
+      "publishedCitations": 1
+    },
+    {
+      "note": "objektai/ivykiai/Slaptas katalikiškos lietuviškos literatūros leidimas Prūsijoje ir jos gabenimas į Lietuvą.md",
+      "retainedClaims": 1,
+      "reviewedClaims": 1,
+      "publishedClaims": 1,
+      "retainedCitations": 1,
+      "publishedCitations": 1
+    },
+    {
+      "note": "objektai/ivykiai/Vyskupo M. Valančiaus buto krata.md",
+      "retainedClaims": 2,
+      "reviewedClaims": 2,
+      "publishedClaims": 2,
+      "retainedCitations": 2,
+      "publishedCitations": 2
+    },
+    {
+      "note": "objektai/ivykiai/Vyskupo Motiejaus Valančiaus pastoracinis laiškas Tytuvėnų parapijai.md",
+      "retainedClaims": 1,
+      "reviewedClaims": 1,
+      "publishedClaims": 1,
+      "retainedCitations": 1,
+      "publishedCitations": 1
+    },
+    {
+      "note": "objektai/paprociai/Atminimo dovanėlių dalijimas vizitacijų metu.md",
+      "retainedClaims": 2,
+      "reviewedClaims": 1,
+      "publishedClaims": 2,
+      "retainedCitations": 2,
+      "publishedCitations": 2
+    },
+    {
+      "note": "objektai/paprociai/Blaivybės brolijos apžadų atnaujinimas per Grabnyčias.md",
+      "retainedClaims": 1,
+      "reviewedClaims": 1,
+      "publishedClaims": 1,
+      "retainedCitations": 1,
+      "publishedCitations": 1
+    },
+    {
+      "note": "objektai/paprociai/Blaivybės brolijos priėmimo ir apžado atnaujinimo praktika.md",
+      "retainedClaims": 1,
+      "reviewedClaims": 1,
+      "publishedClaims": 1,
+      "retainedCitations": 1,
+      "publishedCitations": 1
+    },
+    {
+      "note": "objektai/paprociai/Blaivybės įžadas ir ganytojiško laiško skaitymas iš ambonos.md",
+      "retainedClaims": 1,
+      "reviewedClaims": 1,
+      "publishedClaims": 1,
+      "retainedCitations": 1,
+      "publishedCitations": 1
+    },
+    {
+      "note": "objektai/paprociai/Ganytojiškų laiškų skelbimas bažnyčioje.md",
+      "retainedClaims": 3,
+      "reviewedClaims": 3,
+      "publishedClaims": 3,
+      "retainedCitations": 3,
+      "publishedCitations": 3
+    },
+    {
+      "note": "objektai/paprociai/Kunigų metinės rekolekcijos.md",
+      "retainedClaims": 2,
+      "reviewedClaims": 1,
+      "publishedClaims": 2,
+      "retainedCitations": 2,
+      "publishedCitations": 2
+    },
+    {
+      "note": "objektai/paprociai/Pastoracinių blaivybės laiškų skaitymas bažnyčiose.md",
+      "retainedClaims": 1,
+      "reviewedClaims": 1,
+      "publishedClaims": 1,
+      "retainedCitations": 1,
+      "publishedCitations": 1
+    },
+    {
+      "note": "objektai/paprociai/Vaikų ruošimas pirmajai išpažinčiai ir šv. Komunijai.md",
+      "retainedClaims": 5,
+      "reviewedClaims": 2,
+      "publishedClaims": 5,
+      "retainedCitations": 5,
+      "publishedCitations": 5
+    },
+    {
+      "note": "objektai/paprociai/Vieša atgaila.md",
+      "retainedClaims": 2,
+      "reviewedClaims": 1,
+      "publishedClaims": 2,
+      "retainedCitations": 2,
+      "publishedCitations": 2
+    },
+    {
+      "note": "objektai/vietos/Rietavas.md",
+      "retainedClaims": 0,
+      "reviewedClaims": 3,
+      "publishedClaims": 3,
+      "retainedCitations": 0,
+      "publishedCitations": 3
+    },
+    {
+      "note": "objektai/zodynas/spiritus vinum.md",
+      "retainedClaims": 1,
+      "reviewedClaims": 1,
+      "publishedClaims": 1,
+      "retainedCitations": 1,
+      "publishedCitations": 1
+    }
+  ]
+}

@@ -59,19 +59,17 @@ Nenurodyta
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
 ## Teiginiai
 
 <a id="claim-t-209554"></a>
 - t-001
   teiginys: "Šitą mano gromatą perskaitys kunigai iš ambonos, per tris pagrečias šventes."
-  atnaujinta: "2026-09-13 15:29"
+  atnaujinta: "2026-09-13 13:26"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

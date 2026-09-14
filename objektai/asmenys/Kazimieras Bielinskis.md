@@ -66,19 +66,17 @@ canonical_biography: Kun. Kazimieras Bielinskis 1877 m. balandžio 7 d. įvardyt
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
 ## Teiginiai
 
 <a id="claim-t-209416"></a>
 - t-001
   teiginys: "1877 m. balandžio 7 d. Telšių apskrities Salantų klebonas kunigas Kazimieras Bielinskis rašė vyskupystės administratoriui sufraganui Beresnevičiui apie tvirtai įsišaknijusią blaivybę parapijoje."
-  atnaujinta: "2026-09-13 15:29"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

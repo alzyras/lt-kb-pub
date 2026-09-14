@@ -43,7 +43,7 @@ object_page_finisher_hash: 6ea6962b62798d63
 object_page_generated_at: '2026-09-19T18:06:14+00:00'
 object_page_source_checked_at: '2026-09-19T18:06:14+00:00'
 object_page_content_state: content
-object_page_claim_count: '8'
+object_page_claim_count: '9'
 object_page_source_count: '3'
 object_page_seo_description: 'M. Muravjovas: Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi…'
 object_page_seo_input_hash: 875c9449bbf231be3d927247be6e0e07f08f82dc5a76424334fb8cff757b50df
@@ -129,6 +129,73 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-75338
+
+<a id="claim-t-208472"></a>
+- t-005
+  teiginys: "Generalgubernatorius M. Muravjovas privertė vyskupą perkelti Adakavo kleboną į M. Muravjovo pageidautą parapiją."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191092
+
+<a id="claim-t-209319"></a>
+- t-006
+  teiginys: "M. Muravjovas suformavo kaimų savisaugos sistemą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191906
+
+<a id="claim-t-209321"></a>
+- t-007
+  teiginys: "1864 m. M. Muravjovo įsakymu blaivybės brolijos buvo uždarytos."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  temporaliniai_duomenys: "įvykio data: 1864 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai pagrįstas šaltinio nurodymu apie 1864 m. M. Muravjovo įsakymu uždarytas blaivybės brolijas."
+  pagrindžia:
+    - c-191876
+
+<a id="claim-t-209360"></a>
+- t-008
+  teiginys: "Sukilimo Lietuvoje įkarštyje, Egidijaus Aleksandravičiaus apibūdinimu, M. Muravjovas tapo visagaliu Lietuvos administratoriumi."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
+  pagrindžia:
+    - c-191993
+
+<a id="claim-t-209432"></a>
+- t-009
+  teiginys: "M. Muravjovas paskelbė įsaką, uždraudusį blaivybės brolijas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-192022
 
 ## Citatos
 
@@ -221,3 +288,114 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   patikimumo_saltinis: ai
   pagrindzia:
     - t-004
+
+- id: c-191092
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 82"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 82."
+  citata_originali: |
+    Kadangi kun. F. 2u-
+    kovskiui gyventi Adakave pasidarė pavojinga, jis krei­
+    pėsi į vysk. M. Valančių, prašydamas duoti jam parapiją
+    kitoje apskrityje. Vyskupas nesutiko. Tada generalguber­
+    natorius M. Muravjovas privertė vyskupą iškelti Adaka­
+    vo kleboną į jam pageidaujamą parapiją.
+  citata_rodoma: "Tada generalguber­\nnatorius M. Muravjovas privertė vyskupą iškelti Adaka­\nvo kleboną į jam pageidaujamą parapiją."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-005
+
+- id: c-191876
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 123"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 123."
+  citata_originali: |
+    Kai 1863 m. sausio mėnesio
+    1 d. įsigaliojo naujas akcizmo įstatymas, blaivybės brolijos,
+    vadovaujamos katalikų bažnyčios, tapo valdžiai nebereikalingos ir jų
+    likimas buvo ¡S anksto nuspręstas. Todėl sukilimas, kilęs Lietuvoje 1863
+    m., iš esmės buvo tik pretekstas apkaltinti brolijas politiniu veiksmu ir
+    1864 m. M. Muravjovo įsakymu jas uždaryti. Čia svarbu pažymėti, kad
+    tas pats M. Muravjovas, 1860 m. būdamas Valstybės turtų ministru,
+    gynė blaivybės brolijas ir M. Valančių specialiame vyriausybės
+    posėdyje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-007
+
+- id: c-191906
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 58"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 58."
+  citata_originali: |
+    O kintant socialinei situacijai buvo
+    galima tikėtis visko; ir senųjų Lietuvos valstybingumo tradicijų
+    akceptacijos, ir prorusiškų, net pravoslaviškų tendencijų pasireiškimo.
+    Kad panašiai atsitiko - liudija istoriniai faktai. 1863 metais sukilėlių
+    būriuose buvo bent 50 procentų valstiečių, bet M. Muravjovo
+    suformuota kaimų savisaugos sistema taip pat gyvavo.
+  citata_rodoma: "1863 metais sukilėlių \nbūriuose buvo bent 50 procentų valstiečių, bet M. Muravjovo \nsuformuota kaimų savisaugos sistema taip pat gyvavo."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-006
+
+- id: c-191993
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 99"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 99."
+  citata_originali: |
+    palaikė savo pirmtaką Vilniaus generalgubernatorių, apie kurį vėliau
+    jo žmonės atsiliepė labai nepalankiai. Be to, M. Muravjovas, sukilimo
+    Lietuvoje įkarštyje tapęs visagaliu Lietuvos administratoriumi, pasirašė
+    įsakymą uždrausti blaivybės brolijas ir bet kurias organizuoto (ypač
+    katalikų dvasininkų) blaivinimo priemones. Ar nerodo tai vyriausybės
+    sumanymo, kad, suvaidinus savąjį vaidmenį, blaivybės brolijoms turėjo
+    būti užkirstas kelias.
+  citata_rodoma: "Be to, M. Muravjovas, sukilimo \nLietuvoje įkarštyje tapęs visagaliu Lietuvos administratoriumi, pasirašė \nįsakymą uždrausti blaivybės brolijas ir bet kurias organizuoto (ypač \nkatalikų dvasininkų) blaivinimo priemones."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-008
+
+- id: c-192022
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 81"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 81."
+  citata_originali: |
+    J.S. Dovydaičiui pavyko paskelbti keturias "Šiaulėniškio
+    senelio" dalis. Tiesa, ketvirtoji turėjo ir kitą pavadinimą - "Gyvenimas
+    Stepo Raudnosio". Ji pasirodė jau po sukilimo nuslopinimo ir po M.
+    Muravjovo įsako, uždraudžiančio blaivybės brolijas, paskelbimo.
+  citata_rodoma: "Ji pasirodė jau po sukilimo nuslopinimo ir po M. \nMuravjovo įsako, uždraudžiančio blaivybės brolijas, paskelbimo."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-009

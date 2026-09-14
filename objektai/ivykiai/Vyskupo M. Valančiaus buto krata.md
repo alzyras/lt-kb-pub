@@ -55,13 +55,11 @@ Nenurodyta
     draudžiamos literatūros, vyskupo neareštuoti3.
   citata_rodoma: "Todėl \nVilniaus \ngeneralgubernatorius A. Potapovas \n1870.X.24 \nraštu Nr. 5451 sudarė komisiją, kuriai įsakė vysk. M. Va­\nlančiaus bute padaryti kratą ir nurodė, nors ir radus \ndraudžiamos literatūros, vyskupo neareštuoti3."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-191379
@@ -74,21 +72,18 @@ Nenurodyta
     vyskupo bute 1870.XII.12 padarė kratą, bet nieko įtartino
     nerado 4.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
 ## Teiginiai
 
 <a id="claim-t-208758"></a>
 - t-001
   teiginys: "1870 m. spalio 24 d. Vilniaus generalgubernatorius A. Potapovas sudarė komisiją, įpareigotą atlikti vyskupo Motiejaus Valančiaus buto kratą, ir nurodė jo neareštuoti net radus draudžiamos literatūros."
-  atnaujinta: "2026-09-13 15:29"
+  atnaujinta: "2026-09-13 13:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -101,7 +96,7 @@ Nenurodyta
 <a id="claim-t-208759"></a>
 - t-002
   teiginys: "1870 m. gruodžio 12 d. komisija atliko vyskupo Motiejaus Valančiaus buto kratą, tačiau nieko įtartino nerado."
-  atnaujinta: "2026-09-13 15:29"
+  atnaujinta: "2026-09-13 13:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

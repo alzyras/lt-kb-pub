@@ -53,13 +53,11 @@ Vyskupas Motiejus Valančius rūpinosi, kad vaikai būtų tinkamai parengti Atga
     imti. Jis veikė ne vien per kunigus, bet ir pats asme­
     niškai.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-191420
@@ -76,13 +74,12 @@ Vyskupas Motiejus Valančius rūpinosi, kad vaikai būtų tinkamai parengti Atga
     atlikinės išpažintį, su didesniu tikėjimu ir karštesne meile
     priiminėk šv. Komuniją.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-191421
@@ -97,13 +94,12 @@ Vyskupas Motiejus Valančius rūpinosi, kad vaikai būtų tinkamai parengti Atga
     vesdavęs vaikus prie pirmosios šv. Komunijos ir kiek­
     vienam dovanodavęs po knygelę 2.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-191422
@@ -119,13 +115,12 @@ Vyskupas Motiejus Valančius rūpinosi, kad vaikai būtų tinkamai parengti Atga
     sios šv. Komunijos antrąją Velykų dieną ‘.
   citata_rodoma: "Kaip liudija Ieva Butginienė, vysk. M. Valančius Var­\nnių katedroje iškilmingai privesdavęs vaikus prie pirmo­\nsios šv. Komunijos antrąją Velykų dieną ‘."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-004
 
 - id: c-191423
@@ -141,21 +136,18 @@ Vyskupas Motiejus Valančius rūpinosi, kad vaikai būtų tinkamai parengti Atga
     nyčioje, o po to vesdavęsis juos pas save pavaišinti1 2.
   citata_rodoma: "O Antanina \nRadavičienė, kuri pirmosios šv. Komunijos dieną gavo iš \nvysk. M. Valančiaus knygą „Senasis altorius\", pasakoja, \nkad vyskupas šia proga knygas duodavęs vaikams baž­\nnyčioje, o po to vesdavęsis juos pas save pavaišinti1 2."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-005
-
 ## Teiginiai
 
 <a id="claim-t-208799"></a>
 - t-001
   teiginys: "Vyskupas Motiejus Valančius rūpinosi, kad vaikai būtų tinkamai parengti Atgailos sakramentui ir priimti šv. Komuniją, šį darbą atlikdamas per kunigus ir asmeniškai."
-  atnaujinta: "2026-09-13 15:29"
+  atnaujinta: "2026-09-13 13:23"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -207,7 +199,7 @@ Vyskupas Motiejus Valančius rūpinosi, kad vaikai būtų tinkamai parengti Atga
 <a id="claim-t-208803"></a>
 - t-005
   teiginys: "Antanina Radavičienė pasakoja, kad pirmosios šv. Komunijos dieną iš vyskupo Motiejaus Valančiaus gavo knygą „Senasis altorius“, o vyskupas vaikams bažnyčioje dalydavo knygas ir kviesdavosi juos pas save vaišinti."
-  atnaujinta: "2026-09-13 15:29"
+  atnaujinta: "2026-09-13 13:23"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

@@ -57,21 +57,18 @@ Nenurodyta
     Nikotinas.
   citata_rodoma: "VIII. 24 pas Valančių atvyko M.Muravjovo pa­\nsiųstas ypatingų įpareigojimų valdininkas Ivanas \nNikotinas."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
 ## Teiginiai
 
 <a id="claim-t-209543"></a>
 - t-001
   teiginys: "1863 m. rugpjūčio 24 d. pas Valančių atvyko M. Muravjovo pasiųstas ypatingų įpareigojimų valdininkas Ivanas Nikotinas."
-  atnaujinta: "2026-09-13 15:29"
+  atnaujinta: "2026-09-13 13:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

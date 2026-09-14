@@ -61,21 +61,18 @@ Nenurodyta
     kad padėtų ginklus ir pasiduotų rusų valdžiai“ (M. Va­
     lančius, Pastabos pačiam sau, Vilnius, 1996, p. 75).
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
 ## Teiginiai
 
 <a id="claim-t-209546"></a>
 - t-001
   teiginys: "1863 m. liepos 13 d. Kauno gubernatorius Nikolajus Muravjovas atvyko pas Valančių į Varnius."
-  atnaujinta: "2026-09-13 15:29"
+  atnaujinta: "2026-09-13 13:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

@@ -59,21 +59,18 @@ Nenurodyta
     1867.1.19 5.
   citata_rodoma: "Po ilgesnių tyrinėjimų, po revizijos kurijos raštinėje, \nVilniaus generalgubernatoriaus A. Baranovo įsakymu \nKauno gubernatorius Obolenskis vysk. M. Valančiui iš­\nkėlė bylą už savo valdžios viršijimą, kuri buvo pradėta \n1867.1.19 5."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
 ## Teiginiai
 
 <a id="claim-t-208752"></a>
 - t-001
   teiginys: "1867-01-19 Kauno gubernatorius Obolenskis, Vilniaus generalgubernatoriaus A. Baranovo įsakymu, iškėlė vysk. M. Valančiui bylą už savo valdžios viršijimą."
-  atnaujinta: "2026-09-13 15:29"
+  atnaujinta: "2026-09-13 13:22"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

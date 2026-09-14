@@ -61,13 +61,12 @@ A. Alekna pirmasis rimčiau įsigilino į Žemaičių vyskupystės konsistorijos
     gubernatoriaus dokumentus.
   citata_rodoma: "A. Alekna pirmasis kiek rimčiau įsigilino į du svarbius \narchyvinius rinkinius: Žemaičių vyskupystės konsistorijos ir Kauno \ngubernatoriaus dokumentus."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-192069
@@ -84,15 +83,12 @@ A. Alekna pirmasis rimčiau įsigilino į Žemaičių vyskupystės konsistorijos
     ir Balninkų (1867 m. kovo 8 d.) parapijoms, ištisai rašyti paties Valančiaus ranka.
   citata_rodoma: "A. Alekna dar anksčiau tvirtino, kad kai kuriuos aplinkraščius (turėtų būti -ganytojiškus laiškus) dėl \nblaivybės ir kitų dalykų rašydavo sekretoriai vyskupo nurodymu. Tačiau atskirus laiškus atitinkamoms \nparapijoms „vyskupas dažnai pats rašinėjo“7, iš tikrųjų išliko laiškai Suvainiškio (1863 m. vasario 18 d.) \nir Balninkų (1867 m. kovo 8 d.) parapijoms, ištisai rašyti paties Valančiaus ranka."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
 ## Teiginiai
 
 <a id="claim-t-209430"></a>
@@ -110,7 +106,7 @@ A. Alekna pirmasis rimčiau įsigilino į Žemaičių vyskupystės konsistorijos
 <a id="claim-t-209449"></a>
 - t-002
   teiginys: "Alekna teigė, kad kai kuriuos aplinkraščius dėl blaivybės ir kitų dalykų rašydavo sekretoriai vyskupo nurodymu."
-  atnaujinta: "2026-09-13 15:29"
+  atnaujinta: "2026-09-13 13:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

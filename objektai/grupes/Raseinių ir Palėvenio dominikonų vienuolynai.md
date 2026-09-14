@@ -54,19 +54,17 @@ media_all_json: '[]'
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
 ## Teiginiai
 
 <a id="claim-t-209376"></a>
 - t-001
   teiginys: "1861 m. vyskupui teko tramdyti Raseinių ir Palėvenio dominikonų vienuolynus, kurie pelnėsi iš degtinės gamybos ir pardavimo."
-  atnaujinta: "2026-09-13 15:29"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

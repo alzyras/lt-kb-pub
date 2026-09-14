@@ -64,19 +64,17 @@ Blaivybės brolijos nariai privalo visą amžių negerti degtinės, romo ir arak
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
 ## Teiginiai
 
 <a id="claim-t-208821"></a>
 - t-001
   teiginys: "Blaivybės brolijos nariai privalo visą amžių negerti degtinės, romo ir arako, raginti kitus žmones stoti į broliją, kas šventadienį kalbėti šv. Bernardo maldą ir per Grabnyčias atnaujinti blaivybės apžadą."
-  atnaujinta: "2026-09-13 15:29"
+  atnaujinta: "2026-09-13 13:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

@@ -65,11 +65,10 @@ Ganytojiški laiškai buvo viešai skaitomi iš bažnyčios sakyklos, nesvarbu, 
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-192172
@@ -89,11 +88,10 @@ Ganytojiški laiškai buvo viešai skaitomi iš bažnyčios sakyklos, nesvarbu, 
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
 
 - id: c-192173
@@ -109,19 +107,17 @@ Ganytojiški laiškai buvo viešai skaitomi iš bažnyčios sakyklos, nesvarbu, 
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
-
 ## Teiginiai
 
 <a id="claim-t-209551"></a>
 - t-001
   teiginys: "Ganytojiški laiškai buvo viešai skaitomi iš bažnyčios sakyklos, nesvarbu, ar jie buvo spausdinti, ar ranka rašyti."
-  atnaujinta: "2026-09-13 15:29"
+  atnaujinta: "2026-09-13 13:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -133,7 +129,7 @@ Ganytojiški laiškai buvo viešai skaitomi iš bažnyčios sakyklos, nesvarbu, 
 <a id="claim-t-209552"></a>
 - t-002
   teiginys: "Laiškai buvo siunčiami dekanams, dekanai siųsdavo kle bonams, o šie laiškus perrašydavo į gaunamųjų raštų knygą ir nurodytu laiku, pirmąjį sekmadienį arba šventadienį, bažnyčioje iš sakyklos skelbdavo žmonėms."
-  atnaujinta: "2026-09-13 15:29"
+  atnaujinta: "2026-09-13 13:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -145,7 +141,7 @@ Ganytojiški laiškai buvo viešai skaitomi iš bažnyčios sakyklos, nesvarbu, 
 <a id="claim-t-209553"></a>
 - t-003
   teiginys: "Kai kuriuose svarbiausiuose laiškuose, ypač dėl blaivybės, buvo nurodoma juos skelbti tris sekmadienius ar šventadienius iš eilės."
-  atnaujinta: "2026-09-13 15:29"
+  atnaujinta: "2026-09-13 13:25"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"

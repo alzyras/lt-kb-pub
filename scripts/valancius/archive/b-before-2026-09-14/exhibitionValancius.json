@@ -1,0 +1,1511 @@
+{
+  "exhibitions": [
+    {
+      "description": "Valančiaus leidiniai, religiniai rankraščiai ir blaivybės ženklai: aštuoni eksponatai apie mokymą, skaitymą, pažadą ir judėjimo atmintį.",
+      "editorialProfile": "compact-documentary",
+      "exhibitionId": "valancius-nuo-sakyklos-iki-skaitytojo",
+      "hero": {
+        "attribution": "Aleksandras Vinkus-Vitkauskas. Blaivybę skatinantis medžio raižinys. 1861. Lietuvos nacionalinis dailės muziejus. CC BY 4.0.",
+        "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Woodcut_of_Valan%C4%8Dius_temperance_movement.jpg",
+        "caption": "Blaivybę skatinantis medžio raižinys",
+        "collection": "",
+        "confidence": 0.95,
+        "confidenceLevel": "contextual",
+        "country": "",
+        "creator": "Aleksandras Vinkus-Vitkauskas",
+        "dateDisplay": "1861",
+        "dateEnd": null,
+        "dateStart": 1861,
+        "displayUrl": "/static/media/valancius/vinkus-vitkauskas-blaivybes-medzio-raizinys-1861.jpg",
+        "height": 800,
+        "institution": "Lietuvos nacionalinis dailės muziejus",
+        "isPrimary": 0,
+        "judgeModel": "Codex editorial review",
+        "judgeReason": "Vaizdas ir katalogo aprašas patikrinti; datos sluoksniai atskirti.",
+        "language": "",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "mediaId": "m-c9c4872cb7f0d9142827f055",
+        "metadataEvidence": "https://www.europeana.eu/portal/en/record/2064101/Museu_ProvidedCHO_Lietuvos_dail_s_muziejus_LDM_LM_1387.html",
+        "originalTitle": "Blaivybę skatinantis medžio raižinys",
+        "provider": "commons",
+        "providerLabel": "Lietuvos nacionalinis dailės muziejus",
+        "relatedObjects": [
+          {
+            "directness": "contextual",
+            "itemType": "asmuo",
+            "notePath": "objektai/asmenys/Motiejus Valančius.md",
+            "relationType": "contextual",
+            "title": "Motiejus Valančius (vyskupas, XIX a.)"
+          }
+        ],
+        "reviewStatus": "accepted",
+        "reviewedAt": "2026-09-13T14:06:56+03:00",
+        "rightsNote": "CC BY 4.0; skaitmeninis vaizdas iš Wikimedia Commons. Kilmės įrašas: https://www.europeana.eu/portal/en/record/2064101/Museu_ProvidedCHO_Lietuvos_dail_s_muziejus_LDM_LM_1387.html. ",
+        "sourceMethod": "valancius_editorial_preview",
+        "sourceTags": [],
+        "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Woodcut_of_Valan%C4%8Dius_temperance_movement.jpg",
+        "tags": [],
+        "thumbUrl": "/static/media/valancius/vinkus-vitkauskas-blaivybes-medzio-raizinys-1861.jpg",
+        "title": "Blaivybę skatinantis medžio raižinys",
+        "visualEvidence": "Spalvotas raižinys sujungia religinius atvaizdus ir priešpriešinamas elgesio baigtis. Jis įtikinėja, o ne dokumentuoja vieną realiai nutikusią laidotuvių ar kelionės sceną. Apačioje įrašyta 1861 metų data priklauso kūrinio leidybiniam sluoksniui. Katalogas jį sieja su Aleksandru Vinkumi-Vitkausku. Šalia parinktas teiginys apie Valančiaus draudimą naudoti prievartą skatina atskirti moralinį perspėjimą nuo žmonėms taikomų veiksmų. Paveikslo griežtumas savaime neįrodo, kad kiekvienoje brolijoje buvo elgiamasi taip pat. Vaizdo skaitmeninė reprodukcija pateikiama pagal CC BY 4.0 sąlygas, nurodant saugotoją ir kilmės nuorodą.",
+        "visualReviewVersion": "media-import-visual-v1",
+        "width": 637
+      },
+      "heroMediaId": "m-c9c4872cb7f0d9142827f055",
+      "imageUrls": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/92/Motiejus_Valan%C4%8Dius_1857.jpg",
+        "https://iiif.kolekcijos.biblioteka.vu.lt/iiif/2/1fd9985a-c05a-4418-988b-b9f54a13a550/full/1200,/0/default.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/79/Cover_of_%C5%BDemajtiu_Wiskupiste.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/b/bb/Auksa_altorius_latin.jpg",
+        "https://iiif.kolekcijos.biblioteka.vu.lt/iiif/2/535fb69f-7b09-4b75-b2e7-125d8119c898/full/1200,/0/default.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/7/71/Woodcut_of_Valan%C4%8Dius_temperance_movement.jpg",
+        "https://iiif.kolekcijos.biblioteka.vu.lt/iiif/2/7b27130f-9a29-40a8-bb5a-45719b29d663/full/1200,/0/default.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ec/Devotional_medal_of_the_Valan%C4%8Dius_temperance_movement.jpeg"
+      ],
+      "noindex": true,
+      "relatedContent": [
+        {
+          "href": "/straipsniai/motiejus-valancius-ir-rusijos-imperija/",
+          "title": "Valančius ir Rusijos imperija · straipsnis"
+        },
+        {
+          "href": "/parodos/valancius-laiskai-imperijos-seselyje/",
+          "title": "Laiškai imperijos šešėlyje · paroda"
+        },
+        {
+          "href": "/straipsniai/kaip-valancius-keite-kasdienybe/",
+          "title": "Blaivybė, mokykla ir knyga · straipsnis"
+        },
+        {
+          "href": "/parodos/valancius-nuo-sakyklos-iki-skaitytojo/",
+          "title": "Nuo sakyklos iki skaitytojo · paroda"
+        }
+      ],
+      "relatedObject": {
+        "href": "/objektai/asmenys/Motiejus-Valancius",
+        "label": "Motiejus Valančius"
+      },
+      "schemaVersion": "ltkb-exhibition/v1",
+      "sections": [
+        {
+          "claimRefs": [],
+          "items": [
+            {
+              "catalogDescriptionLt": "Portretas rodo vyskupą iškilminga apranga, su krūtinės kryžiumi ir spausdintu vardu. Tai reprezentacinis kūrinys, o ne pamokslo akimirkos fiksacija. Jis atveria klausimą, kaip atpažįstamas asmuo, kurio raštai keliauja per kitų žmonių balsus. Susietas teiginys apie laiškų skaitymą bažnyčiose paaiškina šį ryšį, tačiau neįrodo, kad portretas kabėjo kiekvienoje parapijoje. Katalogo autorystę ir datą skiriame nuo savo pasakojimo apie kūrinio funkciją. Žiūrovas gali lyginti atvaizdo oficialumą su kitų eksponatų kuklumu: rankraščio lapas ar maža knygelė priklauso tam pačiam veiklos pasauliui, nors atrodo visai kitaip.",
+              "claimCodes": [
+                "t-209551"
+              ],
+              "claimRefs": [
+                {
+                  "citationId": "c-192171",
+                  "claimId": "t-209551",
+                  "role": "contextual"
+                }
+              ],
+              "claims": [
+                {
+                  "code": "t-209551",
+                  "sourceTitle": "Motiejus Valančius. Ganytojiški laiškai",
+                  "text": "Ganytojiški laiškai buvo viešai skaitomi iš bažnyčios sakyklos, nesvarbu, ar jie buvo spausdinti, ar ranka rašyti.",
+                  "url": "/objektai/paprociai/Ganytoji%C5%A1k%C5%B3-lai%C5%A1k%C5%B3-skelbimas-ba%C5%BEny%C4%8Dioje#claim-t-209551"
+                }
+              ],
+              "creatorDisplay": "Adolphe Lafosse; leidėjas Jonas Kazimieras Vilčinskis",
+              "dateDisplay": "1857",
+              "descriptionLt": "Portretas rodo vyskupą iškilminga apranga, su krūtinės kryžiumi ir spausdintu vardu. Tai reprezentacinis kūrinys, o ne pamokslo akimirkos fiksacija. Jis atveria klausimą, kaip atpažįstamas asmuo, kurio raštai keliauja per kitų žmonių balsus. Susietas teiginys apie laiškų skaitymą bažnyčiose paaiškina šį ryšį, tačiau neįrodo, kad portretas kabėjo kiekvienoje parapijoje. Katalogo autorystę ir datą skiriame nuo savo pasakojimo apie kūrinio funkciją. Žiūrovas gali lyginti atvaizdo oficialumą su kitų eksponatų kuklumu: rankraščio lapas ar maža knygelė priklauso tam pačiam veiklos pasauliui, nors atrodo visai kitaip.",
+              "evidenceNoteLt": "Teiginys aiškina temos kontekstą. Eksponato tapatybę ir datą pagrindžia jo katalogo įrašas.",
+              "exhibitionItemId": "valancius-nuo-sakyklos-iki-skaitytojo-portretas1857",
+              "featured": true,
+              "media": {
+                "attribution": "Adolphe Lafosse; leidėjas Jonas Kazimieras Vilčinskis. Valančiaus litografinis portretas, 1857. 1857. Lietuvos nacionalinis dailės muziejus (ankstesnis pavadinimas — Lietuvos dailės muziejus). Public domain.",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Motiejus_Valan%C4%8Dius_1857.jpg",
+                "caption": "Valančiaus litografinis portretas, 1857",
+                "collection": "",
+                "confidence": 0.95,
+                "confidenceLevel": "contextual",
+                "country": "",
+                "creator": "Adolphe Lafosse; leidėjas Jonas Kazimieras Vilčinskis",
+                "dateDisplay": "1857",
+                "dateEnd": null,
+                "dateStart": 1857,
+                "displayUrl": "/static/media/valancius/motiejus-valancius-lafosse-portretas-1857.jpg",
+                "height": 600,
+                "institution": "Lietuvos nacionalinis dailės muziejus (ankstesnis pavadinimas — Lietuvos dailės muziejus)",
+                "isPrimary": 0,
+                "judgeModel": "Codex editorial review",
+                "judgeReason": "Vaizdas ir katalogo aprašas patikrinti; datos sluoksniai atskirti.",
+                "language": "",
+                "license": "Public domain",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-daf0a20d5dc522b44c0fbcc5",
+                "metadataEvidence": "http://www.epaveldas.lt/object/recordDescription/LDM/1_1000132",
+                "originalTitle": "Valančiaus litografinis portretas, 1857",
+                "provider": "commons",
+                "providerLabel": "Lietuvos nacionalinis dailės muziejus (ankstesnis pavadinimas — Lietuvos dailės muziejus)",
+                "relatedObjects": [
+                  {
+                    "directness": "contextual",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+                    "relationType": "portrait_of",
+                    "title": "Motiejus Valančius (vyskupas, XIX a.)"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-13T14:06:56+03:00",
+                "rightsNote": "Public domain; skaitmeninis vaizdas iš Wikimedia Commons. Kilmės įrašas: http://www.epaveldas.lt/object/recordDescription/LDM/1_1000132. ",
+                "sourceMethod": "valancius_editorial_preview",
+                "sourceTags": [],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/9/92/Motiejus_Valan%C4%8Dius_1857.jpg",
+                "tags": [],
+                "thumbUrl": "/static/media/valancius/motiejus-valancius-lafosse-portretas-1857.jpg",
+                "title": "Valančiaus litografinis portretas, 1857",
+                "visualEvidence": "Portretas rodo vyskupą iškilminga apranga, su krūtinės kryžiumi ir spausdintu vardu. Tai reprezentacinis kūrinys, o ne pamokslo akimirkos fiksacija. Jis atveria klausimą, kaip atpažįstamas asmuo, kurio raštai keliauja per kitų žmonių balsus. Susietas teiginys apie laiškų skaitymą bažnyčiose paaiškina šį ryšį, tačiau neįrodo, kad portretas kabėjo kiekvienoje parapijoje. Katalogo autorystę ir datą skiriame nuo savo pasakojimo apie kūrinio funkciją. Žiūrovas gali lyginti atvaizdo oficialumą su kitų eksponatų kuklumu: rankraščio lapas ar maža knygelė priklauso tam pačiam veiklos pasauliui, nors atrodo visai kitaip.",
+                "visualReviewVersion": "media-import-visual-v1",
+                "width": 433
+              },
+              "mediaId": "m-daf0a20d5dc522b44c0fbcc5",
+              "titleLt": "Valančiaus litografinis portretas, 1857"
+            },
+            {
+              "catalogDescriptionLt": "Rankraščio antraštėje įvardijamas šventasis Petras, maldos ir katalikų naudojimui skirtas tekstas. Lapo apačioje matyti 1847 metai; pačioje antraštėje minimas ankstesnis teksto parengimo laikas nėra šio fizinio lapo automatinė sukūrimo data. Biblioteka kūrinį sieja su Valančiumi. Parodoje jis padeda atskirti religinio teksto paskirtį nuo bendros raštingumo temos: skaityti buvo mokomasi ir dėl maldos bei tikėjimo aiškinimo. Susietas teiginys apie vaikų ruošimą sakramentams nereiškia, kad šis rankraštis naudotas konkrečioje vaikų pamokoje. Tai kontekstinis ryšys, o ne nustatyta egzemplioriaus naudojimo biografija.",
+              "claimCodes": [
+                "t-208799"
+              ],
+              "claimRefs": [
+                {
+                  "citationId": "c-191419",
+                  "claimId": "t-208799",
+                  "role": "contextual"
+                }
+              ],
+              "claims": [
+                {
+                  "code": "t-208799",
+                  "sourceTitle": "Vyskupo Motiejaus Valančiaus pastoracinė veikla",
+                  "text": "Vyskupas Motiejus Valančius rūpinosi, kad vaikai būtų tinkamai parengti Atgailos sakramentui ir priimti šv. Komuniją, šį darbą atlikdamas per kunigus ir asmeniškai.",
+                  "url": "/objektai/paprociai/Vaik%C5%B3-ruo%C5%A1imas-pirmajai-i%C5%A1pa%C5%BEin%C4%8Diai-ir-%C5%A1v.-Komunijai#claim-t-208799"
+                }
+              ],
+              "creatorDisplay": "Motiejus Valančius (bibliotekos katalogo priskyrimas)",
+              "dateDisplay": "1847 (katalogo ir rodomo lapo data)",
+              "descriptionLt": "Rankraščio antraštėje įvardijamas šventasis Petras, maldos ir katalikų naudojimui skirtas tekstas. Lapo apačioje matyti 1847 metai; pačioje antraštėje minimas ankstesnis teksto parengimo laikas nėra šio fizinio lapo automatinė sukūrimo data. Biblioteka kūrinį sieja su Valančiumi. Parodoje jis padeda atskirti religinio teksto paskirtį nuo bendros raštingumo temos: skaityti buvo mokomasi ir dėl maldos bei tikėjimo aiškinimo. Susietas teiginys apie vaikų ruošimą sakramentams nereiškia, kad šis rankraštis naudotas konkrečioje vaikų pamokoje. Tai kontekstinis ryšys, o ne nustatyta egzemplioriaus naudojimo biografija.",
+              "evidenceNoteLt": "Teiginys aiškina temos kontekstą. Eksponato tapatybę ir datą pagrindžia jo katalogo įrašas.",
+              "exhibitionItemId": "valancius-nuo-sakyklos-iki-skaitytojo-litanija",
+              "featured": true,
+              "media": {
+                "attribution": "Motiejus Valančius (bibliotekos katalogo priskyrimas). „Litanije apej Š. Petrą Apasztalą“. 1847 (katalogo ir rodomo lapo data). Vilniaus universiteto biblioteka. Public domain.",
+                "canonicalUrl": "https://kolekcijos.biblioteka.vu.lt/objects/990008007801008452",
+                "caption": "„Litanije apej Š. Petrą Apasztalą“",
+                "collection": "",
+                "confidence": 0.95,
+                "confidenceLevel": "contextual",
+                "country": "",
+                "creator": "Motiejus Valančius (bibliotekos katalogo priskyrimas)",
+                "dateDisplay": "1847 (katalogo ir rodomo lapo data)",
+                "dateEnd": null,
+                "dateStart": 1847,
+                "displayUrl": "/static/media/valancius/valancius-litanije-petra-apasztala-1847.jpg",
+                "height": 1913,
+                "institution": "Vilniaus universiteto biblioteka",
+                "isPrimary": 0,
+                "judgeModel": "Codex editorial review",
+                "judgeReason": "Vaizdas ir katalogo aprašas patikrinti; datos sluoksniai atskirti.",
+                "language": "",
+                "license": "Public domain",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-4a0606b5f5bf77d7bc78d2c7",
+                "metadataEvidence": "https://kolekcijos.biblioteka.vu.lt/objects/990008007801008452",
+                "originalTitle": "„Litanije apej Š. Petrą Apasztalą“",
+                "provider": "vu",
+                "providerLabel": "Vilniaus universiteto biblioteka",
+                "relatedObjects": [
+                  {
+                    "directness": "contextual",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+                    "relationType": "contextual",
+                    "title": "Motiejus Valančius (vyskupas, XIX a.)"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-13T14:06:56+03:00",
+                "rightsNote": "Viešoji sritis, pagal VU bibliotekos IIIF įrašą. Nurodyti autorių, pavadinimą ir saugotoją. Biblioteka prašo pranešti apie panaudojimą; laiškas šiame darbe nesiunčiamas.",
+                "sourceMethod": "valancius_editorial_preview",
+                "sourceTags": [],
+                "sourceUrl": "https://iiif.kolekcijos.biblioteka.vu.lt/iiif/2/1fd9985a-c05a-4418-988b-b9f54a13a550/full/1200,/0/default.jpg",
+                "tags": [],
+                "thumbUrl": "/static/media/valancius/valancius-litanije-petra-apasztala-1847.jpg",
+                "title": "„Litanije apej Š. Petrą Apasztalą“",
+                "visualEvidence": "Rankraščio antraštėje įvardijamas šventasis Petras, maldos ir katalikų naudojimui skirtas tekstas. Lapo apačioje matyti 1847 metai; pačioje antraštėje minimas ankstesnis teksto parengimo laikas nėra šio fizinio lapo automatinė sukūrimo data. Biblioteka kūrinį sieja su Valančiumi. Parodoje jis padeda atskirti religinio teksto paskirtį nuo bendros raštingumo temos: skaityti buvo mokomasi ir dėl maldos bei tikėjimo aiškinimo. Susietas teiginys apie vaikų ruošimą sakramentams nereiškia, kad šis rankraštis naudotas konkrečioje vaikų pamokoje. Tai kontekstinis ryšys, o ne nustatyta egzemplioriaus naudojimo biografija.",
+                "visualReviewVersion": "media-import-visual-v1",
+                "width": 1200
+              },
+              "mediaId": "m-4a0606b5f5bf77d7bc78d2c7",
+              "titleLt": "„Litanije apej Š. Petrą Apasztalą“"
+            }
+          ],
+          "lead": "Lietuviškas religinis tekstas galėjo būti skaitomas, giedamas ar girdimas iš kito žmogaus. Todėl kelias iki skaitytojo nebūtinai prasideda jo paties mokėjimu skaityti. Portretas ir litanijos rankraštis čia žymi skirtingas to pasaulio puses: autoritetą ir tekstą, skirtą religiniam naudojimui. Eksponatai neleidžia suskaičiuoti klausytojų, tačiau padeda matyti, kad raštas turėjo paskirtį už popieriaus ribų. Platesnį perdavimo ir mokymo mechanizmą paaiškina porinis straipsnis, o šioje parodoje pirmiausia žiūrime į daiktų požymius.",
+          "navMediaId": "m-daf0a20d5dc522b44c0fbcc5",
+          "sectionId": "valancius-nuo-sakyklos-iki-skaitytojo-balsas",
+          "slug": "balsas",
+          "title": "Išgirstas ir užrašytas žodis"
+        },
+        {
+          "claimRefs": [],
+          "items": [
+            {
+              "catalogDescriptionLt": "Antraštinis lapas nurodo Valančiaus vardą, pirmąją veikalo dalį, Vilnių ir 1848 metus. Istorinio pasakojimo knyga čia atstovauja kitokiai skaitymo paskirčiai negu katekizmas ar maldaknygė. Jos negalima automatiškai pavadinti parapinės mokyklos vadovėliu. Prie eksponato susietas teiginys apie dekanatų bibliotekas primena pastangas telkti kunigams reikalingą literatūrą, bet nepatvirtina šio egzemplioriaus buvimo konkrečioje bibliotekoje. Apžiūrėkite puošybą ir senąją vardo bei antraštės rašybą. Šie požymiai liudija leidinio materialų pavidalą; skaitytojų skaičiui ar jo poveikiui įrodyti reikėtų kitų, atskirai tikrinamų šaltinių.",
+              "claimCodes": [
+                "t-208750"
+              ],
+              "claimRefs": [
+                {
+                  "citationId": "c-191370",
+                  "claimId": "t-208750",
+                  "role": "contextual"
+                }
+              ],
+              "claims": [
+                {
+                  "code": "t-208750",
+                  "sourceTitle": "Vyskupo Motiejaus Valančiaus pastoracinė veikla",
+                  "text": "1851 m. aplinkraštyje vyskupas Motiejus Valančius rekomendavo kiekviename dekanate įsteigti biblioteką ir į dekanatus siuntė kunigams skirtą žurnalo egzempliorių.",
+                  "url": "/objektai/ivykiai/Dekanat%C5%B3-bibliotek%C5%B3-steigimas#claim-t-208750"
+                }
+              ],
+              "creatorDisplay": "Motiejus Valančius; Juozapo Zavadzkio spaustuvė",
+              "dateDisplay": "1848",
+              "descriptionLt": "Antraštinis lapas nurodo Valančiaus vardą, pirmąją veikalo dalį, Vilnių ir 1848 metus. Istorinio pasakojimo knyga čia atstovauja kitokiai skaitymo paskirčiai negu katekizmas ar maldaknygė. Jos negalima automatiškai pavadinti parapinės mokyklos vadovėliu. Prie eksponato susietas teiginys apie dekanatų bibliotekas primena pastangas telkti kunigams reikalingą literatūrą, bet nepatvirtina šio egzemplioriaus buvimo konkrečioje bibliotekoje. Apžiūrėkite puošybą ir senąją vardo bei antraštės rašybą. Šie požymiai liudija leidinio materialų pavidalą; skaitytojų skaičiui ar jo poveikiui įrodyti reikėtų kitų, atskirai tikrinamų šaltinių.",
+              "evidenceNoteLt": "Teiginys aiškina temos kontekstą. Eksponato tapatybę ir datą pagrindžia jo katalogo įrašas.",
+              "exhibitionItemId": "valancius-nuo-sakyklos-iki-skaitytojo-vyskupyste",
+              "featured": true,
+              "media": {
+                "attribution": "Motiejus Valančius; Juozapo Zavadzkio spaustuvė. „Žemajtiu Wiskupiste“, pirmos dalies antraštinis lapas. 1848. Žemaičių muziejus „Alka“. Public domain.",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Cover_of_%C5%BDemajtiu_Wiskupiste.jpg",
+                "caption": "„Žemajtiu Wiskupiste“, pirmos dalies antraštinis lapas",
+                "collection": "",
+                "confidence": 0.95,
+                "confidenceLevel": "contextual",
+                "country": "",
+                "creator": "Motiejus Valančius; Juozapo Zavadzkio spaustuvė",
+                "dateDisplay": "1848",
+                "dateEnd": null,
+                "dateStart": 1848,
+                "displayUrl": "/static/media/valancius/valancius-zemajtiu-wiskupiste-1848.jpg",
+                "height": 1044,
+                "institution": "Žemaičių muziejus „Alka“",
+                "isPrimary": 0,
+                "judgeModel": "Codex editorial review",
+                "judgeReason": "Vaizdas ir katalogo aprašas patikrinti; datos sluoksniai atskirti.",
+                "language": "",
+                "license": "Public domain",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-bf6253cb169c649a18d3f4d0",
+                "metadataEvidence": "http://www.epaveldas.lt/object/recordDescription/ZAM/LIMIS-200000001819686",
+                "originalTitle": "„Žemajtiu Wiskupiste“, pirmos dalies antraštinis lapas",
+                "provider": "commons",
+                "providerLabel": "Žemaičių muziejus „Alka“",
+                "relatedObjects": [
+                  {
+                    "directness": "contextual",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+                    "relationType": "contextual",
+                    "title": "Motiejus Valančius (vyskupas, XIX a.)"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-13T14:06:56+03:00",
+                "rightsNote": "Public domain; skaitmeninis vaizdas iš Wikimedia Commons. Kilmės įrašas: http://www.epaveldas.lt/object/recordDescription/ZAM/LIMIS-200000001819686. ",
+                "sourceMethod": "valancius_editorial_preview",
+                "sourceTags": [],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/79/Cover_of_%C5%BDemajtiu_Wiskupiste.jpg",
+                "tags": [],
+                "thumbUrl": "/static/media/valancius/valancius-zemajtiu-wiskupiste-1848.jpg",
+                "title": "„Žemajtiu Wiskupiste“, pirmos dalies antraštinis lapas",
+                "visualEvidence": "Antraštinis lapas nurodo Valančiaus vardą, pirmąją veikalo dalį, Vilnių ir 1848 metus. Istorinio pasakojimo knyga čia atstovauja kitokiai skaitymo paskirčiai negu katekizmas ar maldaknygė. Jos negalima automatiškai pavadinti parapinės mokyklos vadovėliu. Prie eksponato susietas teiginys apie dekanatų bibliotekas primena pastangas telkti kunigams reikalingą literatūrą, bet nepatvirtina šio egzemplioriaus buvimo konkrečioje bibliotekoje. Apžiūrėkite puošybą ir senąją vardo bei antraštės rašybą. Šie požymiai liudija leidinio materialų pavidalą; skaitytojų skaičiui ar jo poveikiui įrodyti reikėtų kitų, atskirai tikrinamų šaltinių.",
+                "visualReviewVersion": "media-import-visual-v1",
+                "width": 666
+              },
+              "mediaId": "m-bf6253cb169c649a18d3f4d0",
+              "titleLt": "„Žemajtiu Wiskupiste“, pirmos dalies antraštinis lapas"
+            },
+            {
+              "catalogDescriptionLt": "Reprodukcijoje matyti maldaknygės antraštė, spaustuvės duomenys ir 1864 metų data. Vaizdas į „Commons“ pateko iš Giedriaus Subačiaus pristatymo; originalaus egzemplioriaus dabartinis saugotojas dar tikslinamas. Todėl ši kortelė palikta redakcinei peržiūrai, o ne laikoma užbaigtu kataloginiu aprašu. Ji padeda suprasti straipsnyje aptariamos dovanotos maldaknygės tipą, tačiau nėra įrodymas, kad matome Antaninai Radavičienei priklausiusią knygą. Antraštinis lapas gali identifikuoti leidimą, bet savininko istorijai reikia atskiro liudijimo. Taip pat neskaitome išspausdintos datos kaip besąlygiškos garantijos visiems panašiai pavadintiems leidiniams: jų bibliografinės istorijos skiriasi.",
+              "claimCodes": [
+                "t-208803"
+              ],
+              "claimRefs": [
+                {
+                  "citationId": "c-191423",
+                  "claimId": "t-208803",
+                  "role": "contextual"
+                }
+              ],
+              "claims": [
+                {
+                  "code": "t-208803",
+                  "sourceTitle": "Vyskupo Motiejaus Valančiaus pastoracinė veikla",
+                  "text": "Antanina Radavičienė pasakoja, kad pirmosios šv. Komunijos dieną iš vyskupo Motiejaus Valančiaus gavo knygą „Senasis altorius“, o vyskupas vaikams bažnyčioje dalydavo knygas ir kviesdavosi juos pas save vaišinti.",
+                  "url": "/objektai/paprociai/Vaik%C5%B3-ruo%C5%A1imas-pirmajai-i%C5%A1pa%C5%BEin%C4%8Diai-ir-%C5%A1v.-Komunijai#claim-t-208803"
+                }
+              ],
+              "creatorDisplay": "Leidėjas Juozapas Zavadzkis; rengėjai Tadas Juzumas ir Jeronimas Kiprijonas Račkauskis",
+              "dateDisplay": "1864 (antraštiniame lape išspausdinta data)",
+              "descriptionLt": "Reprodukcijoje matyti maldaknygės antraštė, spaustuvės duomenys ir 1864 metų data. Vaizdas į „Commons“ pateko iš Giedriaus Subačiaus pristatymo; originalaus egzemplioriaus dabartinis saugotojas dar tikslinamas. Todėl ši kortelė palikta redakcinei peržiūrai, o ne laikoma užbaigtu kataloginiu aprašu. Ji padeda suprasti straipsnyje aptariamos dovanotos maldaknygės tipą, tačiau nėra įrodymas, kad matome Antaninai Radavičienei priklausiusią knygą. Antraštinis lapas gali identifikuoti leidimą, bet savininko istorijai reikia atskiro liudijimo. Taip pat neskaitome išspausdintos datos kaip besąlygiškos garantijos visiems panašiai pavadintiems leidiniams: jų bibliografinės istorijos skiriasi.",
+              "evidenceNoteLt": "Prieš publikavimą nustatyti originalaus egzemplioriaus saugotoją ir pirminį katalogo įrašą. Neidentifikuota kaip Radavičienės knyga.",
+              "exhibitionItemId": "valancius-nuo-sakyklos-iki-skaitytojo-altorius",
+              "featured": true,
+              "media": {
+                "attribution": "Leidėjas Juozapas Zavadzkis; rengėjai Tadas Juzumas ir Jeronimas Kiprijonas Račkauskis. „Senas auksa altorius“: antraštinio lapo reprodukcija. 1864 (antraštiniame lape išspausdinta data). Originalaus egzemplioriaus dabartinis saugotojas tikslintinas; reprodukcija iš Giedriaus Subačiaus pristatymo per Wikimedia Commons. Public domain.",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Auksa_altorius_latin.jpg",
+                "caption": "„Senas auksa altorius“: antraštinio lapo reprodukcija",
+                "collection": "",
+                "confidence": 0.95,
+                "confidenceLevel": "contextual",
+                "country": "",
+                "creator": "Leidėjas Juozapas Zavadzkis; rengėjai Tadas Juzumas ir Jeronimas Kiprijonas Račkauskis",
+                "dateDisplay": "1864 (antraštiniame lape išspausdinta data)",
+                "dateEnd": null,
+                "dateStart": 1864,
+                "displayUrl": "/static/media/valancius/senas-auksa-altorius-antrastinis-lapas-1864.jpg",
+                "height": 819,
+                "institution": "Originalaus egzemplioriaus dabartinis saugotojas tikslintinas; reprodukcija iš Giedriaus Subačiaus pristatymo per Wikimedia Commons",
+                "isPrimary": 0,
+                "judgeModel": "Codex editorial review",
+                "judgeReason": "Prieš publikavimą nustatyti originalaus egzemplioriaus saugotoją ir pirminį katalogo įrašą. Neidentifikuota kaip Radavičienės knyga.",
+                "language": "",
+                "license": "Public domain",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-2cc60543abfd6bbb40371780",
+                "metadataEvidence": "http://www.uic.edu/classes/lith/lith115/SUBACIUS_Prohib_of%20Latin_letters_UIC_2006_03_07.ppt",
+                "originalTitle": "„Senas auksa altorius“: antraštinio lapo reprodukcija",
+                "provider": "commons",
+                "providerLabel": "Originalaus egzemplioriaus dabartinis saugotojas tikslintinas; reprodukcija iš Giedriaus Subačiaus pristatymo per Wikimedia Commons",
+                "relatedObjects": [
+                  {
+                    "directness": "contextual",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+                    "relationType": "contextual",
+                    "title": "Motiejus Valančius (vyskupas, XIX a.)"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-13T14:06:56+03:00",
+                "rightsNote": "Public domain; skaitmeninis vaizdas iš Wikimedia Commons. Kilmės įrašas: http://www.uic.edu/classes/lith/lith115/SUBACIUS_Prohib_of%20Latin_letters_UIC_2006_03_07.ppt. Prieš publikavimą nustatyti originalaus egzemplioriaus saugotoją ir pirminį katalogo įrašą. Neidentifikuota kaip Radavičienės knyga.",
+                "sourceMethod": "valancius_editorial_preview",
+                "sourceTags": [],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Auksa_altorius_latin.jpg",
+                "tags": [],
+                "thumbUrl": "/static/media/valancius/senas-auksa-altorius-antrastinis-lapas-1864.jpg",
+                "title": "„Senas auksa altorius“: antraštinio lapo reprodukcija",
+                "visualEvidence": "Reprodukcijoje matyti maldaknygės antraštė, spaustuvės duomenys ir 1864 metų data. Vaizdas į „Commons“ pateko iš Giedriaus Subačiaus pristatymo; originalaus egzemplioriaus dabartinis saugotojas dar tikslinamas. Todėl ši kortelė palikta redakcinei peržiūrai, o ne laikoma užbaigtu kataloginiu aprašu. Ji padeda suprasti straipsnyje aptariamos dovanotos maldaknygės tipą, tačiau nėra įrodymas, kad matome Antaninai Radavičienei priklausiusią knygą. Antraštinis lapas gali identifikuoti leidimą, bet savininko istorijai reikia atskiro liudijimo. Taip pat neskaitome išspausdintos datos kaip besąlygiškos garantijos visiems panašiai pavadintiems leidiniams: jų bibliografinės istorijos skiriasi.",
+                "visualReviewVersion": "media-import-visual-v1",
+                "width": 519
+              },
+              "mediaId": "m-2cc60543abfd6bbb40371780",
+              "titleLt": "„Senas auksa altorius“: antraštinio lapo reprodukcija"
+            }
+          ],
+          "lead": "Istorijos veikalas ir maldaknygė kelia skirtingus skaitymo lūkesčius. Vienas pasakoja apie institucijos praeitį, kitas pateikia kasdieniam religiniam naudojimui skirtus tekstus. Nei knygos antraštė, nei jos išlikimas nepasako, kas ją laikė rankose. Šiame skyriuje rūpi skirtumas tarp leidinio tapatybės ir konkretaus egzemplioriaus naudojimo. Straipsnyje aptariamas atsiminimas apie dovanotą knygą nesuteikia teisės čia rodomo atvaizdo paskelbti būtent ta dovana. Matomus leidybos duomenis skaitome tiksliai, o nežinomą saugojimo istorijos dalį pažymime atvirai.",
+          "navMediaId": "m-bf6253cb169c649a18d3f4d0",
+          "sectionId": "valancius-nuo-sakyklos-iki-skaitytojo-knyga",
+          "slug": "knyga",
+          "title": "Knyga, kuri moko ir pasakoja"
+        },
+        {
+          "claimRefs": [],
+          "items": [
+            {
+              "catalogDescriptionLt": "Antraštiniame lape sena rašyba įvardyta blaivybės brolija ir susilaikymas. Šiuolaikinis pavadinimo paaiškinimas padeda orientuotis, bet neperrašo istorinių taisyklių dabartiniais terminais. Vilniaus universiteto biblioteka saugo 1861 metais Klaipėdoje išleistą egzempliorių, kurio titulinį lapą čia rodome visą. Susietas teiginys apie brolijos pareigas padeda atskirti degtinės atsisakymą nuo kituose punktuose aptarto saikingumo. Knygelė yra dokumentas apie aiškinamą įsipareigojimą, ne jo vykdymo statistika. Antspaudai ir įrašai taip pat priklauso jos istorijai: ne visi lapo ženklai atsirado spaustuvėje kartu su pagrindiniu tekstu.",
+              "claimCodes": [
+                "t-208821"
+              ],
+              "claimRefs": [
+                {
+                  "citationId": "c-191441",
+                  "claimId": "t-208821",
+                  "role": "contextual"
+                }
+              ],
+              "claims": [
+                {
+                  "code": "t-208821",
+                  "sourceTitle": "Vyskupo Motiejaus Valančiaus pastoracinė veikla",
+                  "text": "Blaivybės brolijos nariai privalo visą amžių negerti degtinės, romo ir arako, raginti kitus žmones stoti į broliją, kas šventadienį kalbėti šv. Bernardo maldą ir per Grabnyčias atnaujinti blaivybės apžadą.",
+                  "url": "/objektai/paprociai/Blaivyb%C4%97s-brolijos-pri%C4%97mimo-ir-ap%C5%BEado-atnaujinimo-praktika#claim-t-208821"
+                }
+              ],
+              "creatorDisplay": "Motiejus Valančius; leidėjas Ed. Waikinnis ir Co.",
+              "dateDisplay": "1861",
+              "descriptionLt": "Antraštiniame lape sena rašyba įvardyta blaivybės brolija ir susilaikymas. Šiuolaikinis pavadinimo paaiškinimas padeda orientuotis, bet neperrašo istorinių taisyklių dabartiniais terminais. Vilniaus universiteto biblioteka saugo 1861 metais Klaipėdoje išleistą egzempliorių, kurio titulinį lapą čia rodome visą. Susietas teiginys apie brolijos pareigas padeda atskirti degtinės atsisakymą nuo kituose punktuose aptarto saikingumo. Knygelė yra dokumentas apie aiškinamą įsipareigojimą, ne jo vykdymo statistika. Antspaudai ir įrašai taip pat priklauso jos istorijai: ne visi lapo ženklai atsirado spaustuvėje kartu su pagrindiniu tekstu.",
+              "evidenceNoteLt": "Teiginys aiškina temos kontekstą. Eksponato tapatybę ir datą pagrindžia jo katalogo įrašas.",
+              "exhibitionItemId": "valancius-nuo-sakyklos-iki-skaitytojo-brostwa",
+              "featured": true,
+              "media": {
+                "attribution": "Motiejus Valančius; leidėjas Ed. Waikinnis ir Co.. „Apej brostwą błaiwistes arba nusiturieima“. 1861. Vilniaus universiteto biblioteka. Public domain.",
+                "canonicalUrl": "https://kolekcijos.biblioteka.vu.lt/objects/990004519391008452",
+                "caption": "„Apej brostwą błaiwistes arba nusiturieima“",
+                "collection": "",
+                "confidence": 0.95,
+                "confidenceLevel": "contextual",
+                "country": "",
+                "creator": "Motiejus Valančius; leidėjas Ed. Waikinnis ir Co.",
+                "dateDisplay": "1861",
+                "dateEnd": null,
+                "dateStart": 1861,
+                "displayUrl": "/static/media/valancius/valancius-apej-brostwa-blaivistes-1861.jpg",
+                "height": 2097,
+                "institution": "Vilniaus universiteto biblioteka",
+                "isPrimary": 0,
+                "judgeModel": "Codex editorial review",
+                "judgeReason": "Vaizdas ir katalogo aprašas patikrinti; datos sluoksniai atskirti.",
+                "language": "",
+                "license": "Public domain",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-dede0c64b874762c8662000b",
+                "metadataEvidence": "https://kolekcijos.biblioteka.vu.lt/objects/990004519391008452",
+                "originalTitle": "„Apej brostwą błaiwistes arba nusiturieima“",
+                "provider": "vu",
+                "providerLabel": "Vilniaus universiteto biblioteka",
+                "relatedObjects": [
+                  {
+                    "directness": "contextual",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+                    "relationType": "contextual",
+                    "title": "Motiejus Valančius (vyskupas, XIX a.)"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-13T14:06:56+03:00",
+                "rightsNote": "Viešoji sritis, pagal VU bibliotekos IIIF įrašą. Nurodyti autorių, pavadinimą ir saugotoją. Biblioteka prašo pranešti apie panaudojimą; laiškas šiame darbe nesiunčiamas.",
+                "sourceMethod": "valancius_editorial_preview",
+                "sourceTags": [],
+                "sourceUrl": "https://iiif.kolekcijos.biblioteka.vu.lt/iiif/2/535fb69f-7b09-4b75-b2e7-125d8119c898/full/1200,/0/default.jpg",
+                "tags": [],
+                "thumbUrl": "/static/media/valancius/valancius-apej-brostwa-blaivistes-1861.jpg",
+                "title": "„Apej brostwą błaiwistes arba nusiturieima“",
+                "visualEvidence": "Antraštiniame lape sena rašyba įvardyta blaivybės brolija ir susilaikymas. Šiuolaikinis pavadinimo paaiškinimas padeda orientuotis, bet neperrašo istorinių taisyklių dabartiniais terminais. Vilniaus universiteto biblioteka saugo 1861 metais Klaipėdoje išleistą egzempliorių, kurio titulinį lapą čia rodome visą. Susietas teiginys apie brolijos pareigas padeda atskirti degtinės atsisakymą nuo kituose punktuose aptarto saikingumo. Knygelė yra dokumentas apie aiškinamą įsipareigojimą, ne jo vykdymo statistika. Antspaudai ir įrašai taip pat priklauso jos istorijai: ne visi lapo ženklai atsirado spaustuvėje kartu su pagrindiniu tekstu.",
+                "visualReviewVersion": "media-import-visual-v1",
+                "width": 1200
+              },
+              "mediaId": "m-dede0c64b874762c8662000b",
+              "titleLt": "„Apej brostwą błaiwistes arba nusiturieima“"
+            },
+            {
+              "catalogDescriptionLt": "Spalvotas raižinys sujungia religinius atvaizdus ir priešpriešinamas elgesio baigtis. Jis įtikinėja, o ne dokumentuoja vieną realiai nutikusią laidotuvių ar kelionės sceną. Apačioje įrašyta 1861 metų data priklauso kūrinio leidybiniam sluoksniui. Katalogas jį sieja su Aleksandru Vinkumi-Vitkausku. Šalia parinktas teiginys apie Valančiaus draudimą naudoti prievartą skatina atskirti moralinį perspėjimą nuo žmonėms taikomų veiksmų. Paveikslo griežtumas savaime neįrodo, kad kiekvienoje brolijoje buvo elgiamasi taip pat. Vaizdo skaitmeninė reprodukcija pateikiama pagal CC BY 4.0 sąlygas, nurodant saugotoją ir kilmės nuorodą.",
+              "claimCodes": [
+                "t-208512"
+              ],
+              "claimRefs": [
+                {
+                  "citationId": "c-191132",
+                  "claimId": "t-208512",
+                  "role": "contextual"
+                }
+              ],
+              "claims": [
+                {
+                  "code": "t-208512",
+                  "sourceTitle": "Vyskupo Motiejaus Valančiaus pastoracinė veikla",
+                  "text": "Motiejus Valančius draudė naudoti prievartą blaivybei skleisti ir dėl to išsiuntė kunigams du aplinkraščius.",
+                  "url": "/objektai/asmenys/Motiejus-Valan%C4%8Dius#claim-t-208512"
+                }
+              ],
+              "creatorDisplay": "Aleksandras Vinkus-Vitkauskas",
+              "dateDisplay": "1861",
+              "descriptionLt": "Spalvotas raižinys sujungia religinius atvaizdus ir priešpriešinamas elgesio baigtis. Jis įtikinėja, o ne dokumentuoja vieną realiai nutikusią laidotuvių ar kelionės sceną. Apačioje įrašyta 1861 metų data priklauso kūrinio leidybiniam sluoksniui. Katalogas jį sieja su Aleksandru Vinkumi-Vitkausku. Šalia parinktas teiginys apie Valančiaus draudimą naudoti prievartą skatina atskirti moralinį perspėjimą nuo žmonėms taikomų veiksmų. Paveikslo griežtumas savaime neįrodo, kad kiekvienoje brolijoje buvo elgiamasi taip pat. Vaizdo skaitmeninė reprodukcija pateikiama pagal CC BY 4.0 sąlygas, nurodant saugotoją ir kilmės nuorodą.",
+              "evidenceNoteLt": "Teiginys aiškina temos kontekstą. Eksponato tapatybę ir datą pagrindžia jo katalogo įrašas.",
+              "exhibitionItemId": "valancius-nuo-sakyklos-iki-skaitytojo-medzio-raizinys",
+              "featured": true,
+              "media": {
+                "attribution": "Aleksandras Vinkus-Vitkauskas. Blaivybę skatinantis medžio raižinys. 1861. Lietuvos nacionalinis dailės muziejus. CC BY 4.0.",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Woodcut_of_Valan%C4%8Dius_temperance_movement.jpg",
+                "caption": "Blaivybę skatinantis medžio raižinys",
+                "collection": "",
+                "confidence": 0.95,
+                "confidenceLevel": "contextual",
+                "country": "",
+                "creator": "Aleksandras Vinkus-Vitkauskas",
+                "dateDisplay": "1861",
+                "dateEnd": null,
+                "dateStart": 1861,
+                "displayUrl": "/static/media/valancius/vinkus-vitkauskas-blaivybes-medzio-raizinys-1861.jpg",
+                "height": 800,
+                "institution": "Lietuvos nacionalinis dailės muziejus",
+                "isPrimary": 0,
+                "judgeModel": "Codex editorial review",
+                "judgeReason": "Vaizdas ir katalogo aprašas patikrinti; datos sluoksniai atskirti.",
+                "language": "",
+                "license": "CC BY 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+                "mediaId": "m-c9c4872cb7f0d9142827f055",
+                "metadataEvidence": "https://www.europeana.eu/portal/en/record/2064101/Museu_ProvidedCHO_Lietuvos_dail_s_muziejus_LDM_LM_1387.html",
+                "originalTitle": "Blaivybę skatinantis medžio raižinys",
+                "provider": "commons",
+                "providerLabel": "Lietuvos nacionalinis dailės muziejus",
+                "relatedObjects": [
+                  {
+                    "directness": "contextual",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+                    "relationType": "contextual",
+                    "title": "Motiejus Valančius (vyskupas, XIX a.)"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-13T14:06:56+03:00",
+                "rightsNote": "CC BY 4.0; skaitmeninis vaizdas iš Wikimedia Commons. Kilmės įrašas: https://www.europeana.eu/portal/en/record/2064101/Museu_ProvidedCHO_Lietuvos_dail_s_muziejus_LDM_LM_1387.html. ",
+                "sourceMethod": "valancius_editorial_preview",
+                "sourceTags": [],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/Woodcut_of_Valan%C4%8Dius_temperance_movement.jpg",
+                "tags": [],
+                "thumbUrl": "/static/media/valancius/vinkus-vitkauskas-blaivybes-medzio-raizinys-1861.jpg",
+                "title": "Blaivybę skatinantis medžio raižinys",
+                "visualEvidence": "Spalvotas raižinys sujungia religinius atvaizdus ir priešpriešinamas elgesio baigtis. Jis įtikinėja, o ne dokumentuoja vieną realiai nutikusią laidotuvių ar kelionės sceną. Apačioje įrašyta 1861 metų data priklauso kūrinio leidybiniam sluoksniui. Katalogas jį sieja su Aleksandru Vinkumi-Vitkausku. Šalia parinktas teiginys apie Valančiaus draudimą naudoti prievartą skatina atskirti moralinį perspėjimą nuo žmonėms taikomų veiksmų. Paveikslo griežtumas savaime neįrodo, kad kiekvienoje brolijoje buvo elgiamasi taip pat. Vaizdo skaitmeninė reprodukcija pateikiama pagal CC BY 4.0 sąlygas, nurodant saugotoją ir kilmės nuorodą.",
+                "visualReviewVersion": "media-import-visual-v1",
+                "width": 637
+              },
+              "mediaId": "m-c9c4872cb7f0d9142827f055",
+              "titleLt": "Blaivybę skatinantis medžio raižinys"
+            }
+          ],
+          "lead": "Blaivybės įsipareigojimas buvo aiškinamas žodžiais, bet galėjo būti primenamas ir paveikslu. Nedidelis leidinys bei spalvingas raižinys nėra tiesiog dvi to paties teiginio iliustracijos: pirmasis nurodo brolijos temą, antrasis kuria moralinę priešpriešą vaizdais. Skaitant juos verta klausti, ko buvo reikalaujama ir kaip siekta įtikinti. Istorinės blaivybės taisyklės ne visada sutampa su dabartine visiško susilaikymo samprata. Nei leidinio egzistavimas, nei perspėjantis vaizdas savaime neįrodo, kad visi juos matę žmonės pakeitė įpročius.",
+          "navMediaId": "m-dede0c64b874762c8662000b",
+          "sectionId": "valancius-nuo-sakyklos-iki-skaitytojo-pazadas",
+          "slug": "pazadas",
+          "title": "Pažadas įgauna tekstą ir vaizdą"
+        },
+        {
+          "claimRefs": [],
+          "items": [
+            {
+              "catalogDescriptionLt": "Rankraščio antraštę puošia augalinis ornamentas, o tolesniuose lapuose užrašytas religinis tekstas. Biblioteka rinkinį datuoja ne anksčiau kaip 1844 metais; tai apatinė laiko riba, o ne tikslūs sukūrimo metai. Katalogo ryšys su Valančiumi taip pat nesuteikia pagrindo jam automatiškai priskirti kiekvieną rinkinio eilutę. Parodoje šis daiktas liudija lietuviško religinio rašto įvairovę. Susietas teiginys apie katekizmo aiškinimą kalba apie kitą mokymo formą ir kitą datą. Jų ryšys teminis: abu primena, kad kalba buvo naudojama ne vien informacijai perduoti, bet ir religinei praktikai palaikyti.",
+              "claimCodes": [
+                "t-208773"
+              ],
+              "claimRefs": [
+                {
+                  "citationId": "c-191393",
+                  "claimId": "t-208773",
+                  "role": "contextual"
+                }
+              ],
+              "claims": [
+                {
+                  "code": "t-208773",
+                  "sourceTitle": "Vyskupo Motiejaus Valančiaus pastoracinė veikla",
+                  "text": "1867 m. liepos 20 d. vyskupas Motiejus Valančius laiške Batakių dekanui kunigui Montvilui nurodė prižiūrėti, kad kunigai sekmadieniais katekizuotų žmones, o per šventes sakytų pamokslus.",
+                  "url": "/objektai/ivykiai/1867-m.-liepos-20-d.-lai%C5%A1kas-Bataki%C5%B3-dekanui-kun.-Montvilui#claim-t-208773"
+                }
+              ],
+              "creatorDisplay": "Kataloge siejama su Motiejumi Valančiumi; visų rinkinio tekstų autorystė čia nenustatoma",
+              "dateDisplay": "Ne anksčiau kaip 1844 (bibliotekos katalogo datavimas)",
+              "descriptionLt": "Rankraščio antraštę puošia augalinis ornamentas, o tolesniuose lapuose užrašytas religinis tekstas. Biblioteka rinkinį datuoja ne anksčiau kaip 1844 metais; tai apatinė laiko riba, o ne tikslūs sukūrimo metai. Katalogo ryšys su Valančiumi taip pat nesuteikia pagrindo jam automatiškai priskirti kiekvieną rinkinio eilutę. Parodoje šis daiktas liudija lietuviško religinio rašto įvairovę. Susietas teiginys apie katekizmo aiškinimą kalba apie kitą mokymo formą ir kitą datą. Jų ryšys teminis: abu primena, kad kalba buvo naudojama ne vien informacijai perduoti, bet ir religinei praktikai palaikyti.",
+              "evidenceNoteLt": "Teiginys aiškina temos kontekstą. Eksponato tapatybę ir datą pagrindžia jo katalogo įrašas.",
+              "exhibitionItemId": "valancius-nuo-sakyklos-iki-skaitytojo-giesmynas",
+              "featured": true,
+              "media": {
+                "attribution": "Kataloge siejama su Motiejumi Valančiumi; visų rinkinio tekstų autorystė čia nenustatoma. „Giesmie ape Muka Jezusa Pona...“. Ne anksčiau kaip 1844 (bibliotekos katalogo datavimas). Vilniaus universiteto biblioteka. Public domain.",
+                "canonicalUrl": "https://kolekcijos.biblioteka.vu.lt/objects/990008075611008452",
+                "caption": "„Giesmie ape Muka Jezusa Pona...“",
+                "collection": "",
+                "confidence": 0.95,
+                "confidenceLevel": "contextual",
+                "country": "",
+                "creator": "Kataloge siejama su Motiejumi Valančiumi; visų rinkinio tekstų autorystė čia nenustatoma",
+                "dateDisplay": "Ne anksčiau kaip 1844 (bibliotekos katalogo datavimas)",
+                "dateEnd": null,
+                "dateStart": 1844,
+                "displayUrl": "/static/media/valancius/valancius-giesmie-ape-muka-rankrastis.jpg",
+                "height": 1431,
+                "institution": "Vilniaus universiteto biblioteka",
+                "isPrimary": 0,
+                "judgeModel": "Codex editorial review",
+                "judgeReason": "Vaizdas ir katalogo aprašas patikrinti; datos sluoksniai atskirti.",
+                "language": "",
+                "license": "Public domain",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-241700b4b78b6af673508eaa",
+                "metadataEvidence": "https://kolekcijos.biblioteka.vu.lt/objects/990008075611008452",
+                "originalTitle": "„Giesmie ape Muka Jezusa Pona...“",
+                "provider": "vu",
+                "providerLabel": "Vilniaus universiteto biblioteka",
+                "relatedObjects": [
+                  {
+                    "directness": "contextual",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+                    "relationType": "contextual",
+                    "title": "Motiejus Valančius (vyskupas, XIX a.)"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-13T14:06:56+03:00",
+                "rightsNote": "Viešoji sritis, pagal VU bibliotekos IIIF įrašą. Nurodyti autorių, pavadinimą ir saugotoją. Biblioteka prašo pranešti apie panaudojimą; laiškas šiame darbe nesiunčiamas.",
+                "sourceMethod": "valancius_editorial_preview",
+                "sourceTags": [],
+                "sourceUrl": "https://iiif.kolekcijos.biblioteka.vu.lt/iiif/2/7b27130f-9a29-40a8-bb5a-45719b29d663/full/1200,/0/default.jpg",
+                "tags": [],
+                "thumbUrl": "/static/media/valancius/valancius-giesmie-ape-muka-rankrastis.jpg",
+                "title": "„Giesmie ape Muka Jezusa Pona...“",
+                "visualEvidence": "Rankraščio antraštę puošia augalinis ornamentas, o tolesniuose lapuose užrašytas religinis tekstas. Biblioteka rinkinį datuoja ne anksčiau kaip 1844 metais; tai apatinė laiko riba, o ne tikslūs sukūrimo metai. Katalogo ryšys su Valančiumi taip pat nesuteikia pagrindo jam automatiškai priskirti kiekvieną rinkinio eilutę. Parodoje šis daiktas liudija lietuviško religinio rašto įvairovę. Susietas teiginys apie katekizmo aiškinimą kalba apie kitą mokymo formą ir kitą datą. Jų ryšys teminis: abu primena, kad kalba buvo naudojama ne vien informacijai perduoti, bet ir religinei praktikai palaikyti.",
+                "visualReviewVersion": "media-import-visual-v1",
+                "width": 1200
+              },
+              "mediaId": "m-241700b4b78b6af673508eaa",
+              "titleLt": "„Giesmie ape Muka Jezusa Pona...“"
+            },
+            {
+              "catalogDescriptionLt": "Aliuminio medalis su Marijos atvaizdu datuojamas laikotarpiu po 1889 metų. Vadinasi, tai nėra Valančiaus gyvenimo metais pagaminto brolijos ženklo įrodymas. Jo vieta parodoje — judėjimo atminties ir tęstinumo istorija. Su metiniu pažado atnaujinimu susietas teiginys paaiškina ankstesnės brolijos praktiką, bet ne šio medalio savininko elgesį. Nežinome, kas nešiojo konkretų egzempliorių. Todėl nevadiname jo vyskupo įteikta dovana. Nuotraukos naudojimo sąlygos atskiriamos nuo paties daikto amžiaus: skaitmeninis vaizdas pateikiamas su CC BY 4.0 nuoroda ir muziejaus atribucija, o ne laikomas laisvu vien dėl seno objekto.",
+              "claimCodes": [
+                "t-208834"
+              ],
+              "claimRefs": [
+                {
+                  "citationId": "c-191454",
+                  "claimId": "t-208834",
+                  "role": "contextual"
+                }
+              ],
+              "claims": [
+                {
+                  "code": "t-208834",
+                  "sourceTitle": "Vyskupo Motiejaus Valančiaus pastoracinė veikla",
+                  "text": "Per Grabnyčias, vasario 2 d., Blaivybės brolijos nariai turėjo atnaujinti blaivybės apžadą prieš Švč. M. Marijos altorių arba paveikslą.",
+                  "url": "/objektai/paprociai/Blaivyb%C4%97s-brolijos-ap%C5%BEad%C5%B3-atnaujinimas-per-Grabny%C4%8Dias#claim-t-208834"
+                }
+              ],
+              "creatorDisplay": "Gamintojas nežinomas",
+              "dateDisplay": "Po 1889 (katalogo datavimas)",
+              "descriptionLt": "Aliuminio medalis su Marijos atvaizdu datuojamas laikotarpiu po 1889 metų. Vadinasi, tai nėra Valančiaus gyvenimo metais pagaminto brolijos ženklo įrodymas. Jo vieta parodoje — judėjimo atminties ir tęstinumo istorija. Su metiniu pažado atnaujinimu susietas teiginys paaiškina ankstesnės brolijos praktiką, bet ne šio medalio savininko elgesį. Nežinome, kas nešiojo konkretų egzempliorių. Todėl nevadiname jo vyskupo įteikta dovana. Nuotraukos naudojimo sąlygos atskiriamos nuo paties daikto amžiaus: skaitmeninis vaizdas pateikiamas su CC BY 4.0 nuoroda ir muziejaus atribucija, o ne laikomas laisvu vien dėl seno objekto.",
+              "evidenceNoteLt": "Teiginys aiškina temos kontekstą. Eksponato tapatybę ir datą pagrindžia jo katalogo įrašas.",
+              "exhibitionItemId": "valancius-nuo-sakyklos-iki-skaitytojo-medalis",
+              "featured": true,
+              "media": {
+                "attribution": "Gamintojas nežinomas. Blaivybės judėjimo medalis — vėlesnis atminties ženklas. Po 1889 (katalogo datavimas). Žemaičių vyskupystės muziejus. CC BY 4.0.",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Devotional_medal_of_the_Valan%C4%8Dius_temperance_movement.jpeg",
+                "caption": "Blaivybės judėjimo medalis — vėlesnis atminties ženklas",
+                "collection": "",
+                "confidence": 0.95,
+                "confidenceLevel": "contextual",
+                "country": "",
+                "creator": "Gamintojas nežinomas",
+                "dateDisplay": "Po 1889 (katalogo datavimas)",
+                "dateEnd": null,
+                "dateStart": 1889,
+                "displayUrl": "/static/media/valancius/blaivybes-medalis-po-1889.jpg",
+                "height": 800,
+                "institution": "Žemaičių vyskupystės muziejus",
+                "isPrimary": 0,
+                "judgeModel": "Codex editorial review",
+                "judgeReason": "Vaizdas ir katalogo aprašas patikrinti; datos sluoksniai atskirti.",
+                "language": "",
+                "license": "CC BY 4.0",
+                "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+                "mediaId": "m-3902f3d829a04e06478f90cf",
+                "metadataEvidence": "https://www.europeana.eu/portal/en/record/2064101/Museu_ProvidedCHO__emai_i__vyskupyst_s_muziejus___Samogitian_Diocese_Museum_LIMIS_200000001811343.html",
+                "originalTitle": "Blaivybės judėjimo medalis — vėlesnis atminties ženklas",
+                "provider": "commons",
+                "providerLabel": "Žemaičių vyskupystės muziejus",
+                "relatedObjects": [
+                  {
+                    "directness": "contextual",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+                    "relationType": "contextual",
+                    "title": "Motiejus Valančius (vyskupas, XIX a.)"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-13T14:06:56+03:00",
+                "rightsNote": "CC BY 4.0; skaitmeninis vaizdas iš Wikimedia Commons. Kilmės įrašas: https://www.europeana.eu/portal/en/record/2064101/Museu_ProvidedCHO__emai_i__vyskupyst_s_muziejus___Samogitian_Diocese_Museum_LIMIS_200000001811343.html. ",
+                "sourceMethod": "valancius_editorial_preview",
+                "sourceTags": [],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Devotional_medal_of_the_Valan%C4%8Dius_temperance_movement.jpeg",
+                "tags": [],
+                "thumbUrl": "/static/media/valancius/blaivybes-medalis-po-1889.jpg",
+                "title": "Blaivybės judėjimo medalis — vėlesnis atminties ženklas",
+                "visualEvidence": "Aliuminio medalis su Marijos atvaizdu datuojamas laikotarpiu po 1889 metų. Vadinasi, tai nėra Valančiaus gyvenimo metais pagaminto brolijos ženklo įrodymas. Jo vieta parodoje — judėjimo atminties ir tęstinumo istorija. Su metiniu pažado atnaujinimu susietas teiginys paaiškina ankstesnės brolijos praktiką, bet ne šio medalio savininko elgesį. Nežinome, kas nešiojo konkretų egzempliorių. Todėl nevadiname jo vyskupo įteikta dovana. Nuotraukos naudojimo sąlygos atskiriamos nuo paties daikto amžiaus: skaitmeninis vaizdas pateikiamas su CC BY 4.0 nuoroda ir muziejaus atribucija, o ne laikomas laisvu vien dėl seno objekto.",
+                "visualReviewVersion": "media-import-visual-v1",
+                "width": 598
+              },
+              "mediaId": "m-3902f3d829a04e06478f90cf",
+              "titleLt": "Blaivybės judėjimo medalis — vėlesnis atminties ženklas"
+            }
+          ],
+          "lead": "Paskutiniai eksponatai grąžina prie laiko klausimo. Giesmyno katalogo data nurodo ankstyviausią galimą ribą, o medalio aprašas kalba apie laiką jau po Valančiaus mirties. Tokie skirtumai nekeičia daiktų vertės, bet keičia jų liudijimą. Rankraštis leidžia pažinti religinio teksto materialų pavidalą, vėlesnis ženklas — judėjimo atminties tęstinumą. Negalime medalio vadinti pirmųjų brolijų nario turėtu daiktu vien dėl jame minimo judėjimo. Nežinomas savininkas ir nepatvirtinta naudojimo aplinkybė lieka nežinomi, kol atsiranda atskiras įrodymas.",
+          "navMediaId": "m-241700b4b78b6af673508eaa",
+          "sectionId": "valancius-nuo-sakyklos-iki-skaitytojo-atminties-zenklai",
+          "slug": "atminties-zenklai",
+          "title": "Ne visi ženklai vienalaikiai"
+        }
+      ],
+      "seo_title": "Valančius: nuo sakyklos iki skaitytojo",
+      "slug": "parodos/valancius-nuo-sakyklos-iki-skaitytojo",
+      "status": "draft",
+      "subtitle": "Knyga, rankraštis ir blaivybės ženklas tarp žmogaus ir bendruomenės",
+      "theme": "documents",
+      "title": "Motiejus Valančius: nuo sakyklos iki skaitytojo",
+      "updatedAt": "2026-09-13T14:06:56.564418+03:00"
+    },
+    {
+      "description": "Trys Valančiaus laiškai, rankraštis, spaudinys ir portretai: skaitmeninė paroda apie vyskupo veikimą imperijos sąlygomis ir šaltinių skaitymą.",
+      "editorialProfile": "compact-documentary",
+      "exhibitionId": "valancius-laiskai-imperijos-seselyje",
+      "hero": {
+        "attribution": "Motiejus Valančius. Laiškas neįvardytam Tauragės klebonui. 1852 m. sausio 8 d. (dokumento data). Vilniaus universiteto biblioteka. Public domain.",
+        "canonicalUrl": "https://kolekcijos.biblioteka.vu.lt/objects/990003935071008452",
+        "caption": "Laiškas neįvardytam Tauragės klebonui",
+        "collection": "",
+        "confidence": 0.95,
+        "confidenceLevel": "contextual",
+        "country": "",
+        "creator": "Motiejus Valančius",
+        "dateDisplay": "1852 m. sausio 8 d. (dokumento data)",
+        "dateEnd": null,
+        "dateStart": 1852,
+        "displayUrl": "/static/media/valancius/valancius-laiskas-taurages-klebonui-1852.jpg",
+        "height": 1347,
+        "institution": "Vilniaus universiteto biblioteka",
+        "isPrimary": 0,
+        "judgeModel": "Codex editorial review",
+        "judgeReason": "Vaizdas ir katalogo aprašas patikrinti; datos sluoksniai atskirti.",
+        "language": "",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "mediaId": "m-d8735dc383bf8e5b33eede01",
+        "metadataEvidence": "https://kolekcijos.biblioteka.vu.lt/objects/990003935071008452",
+        "originalTitle": "Laiškas neįvardytam Tauragės klebonui",
+        "provider": "vu",
+        "providerLabel": "Vilniaus universiteto biblioteka",
+        "relatedObjects": [
+          {
+            "directness": "contextual",
+            "itemType": "asmuo",
+            "notePath": "objektai/asmenys/Motiejus Valančius.md",
+            "relationType": "contextual",
+            "title": "Motiejus Valančius (vyskupas, XIX a.)"
+          }
+        ],
+        "reviewStatus": "accepted",
+        "reviewedAt": "2026-09-13T14:06:56+03:00",
+        "rightsNote": "Viešoji sritis, pagal VU bibliotekos IIIF įrašą. Nurodyti autorių, pavadinimą ir saugotoją. Biblioteka prašo pranešti apie panaudojimą; laiškas šiame darbe nesiunčiamas.",
+        "sourceMethod": "valancius_editorial_preview",
+        "sourceTags": [],
+        "sourceUrl": "https://iiif.kolekcijos.biblioteka.vu.lt/iiif/2/82127a55-85a6-4359-be97-c25012d334ae/full/1200,/0/default.jpg",
+        "tags": [],
+        "thumbUrl": "/static/media/valancius/valancius-laiskas-taurages-klebonui-1852.jpg",
+        "title": "Laiškas neįvardytam Tauragės klebonui",
+        "visualEvidence": "Vilniaus universiteto biblioteka šį dokumentą aprašo kaip laišką neįvardytam Tauragės klebonui. Matomas lenkiškas tekstas, vietos bei datos eilutė ir vyskupo parašas. Lapą verta tyrinėti ne kaip abstraktų seną raštą: adresatas yra konkrečias parapijos pareigas einantis žmogus, nors jo pavardės katalogo antraštė neatskleidžia. Čia laiškas primena kasdienį vyskupo ir dvasininkų ryšį. Bendras teiginys apie dokumentų perdavimą per dekanus bei klebonus paaiškina institucinį kontekstą, tačiau neįrodo, kad šis asmeninis laiškas buvo skaitomas iš sakyklos. Gavėjo tapatybės savavališkai neatkuriame.",
+        "visualReviewVersion": "media-import-visual-v1",
+        "width": 1200
+      },
+      "heroMediaId": "m-d8735dc383bf8e5b33eede01",
+      "imageUrls": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8e/Motiejus_Valan%C4%8Dius_1854.jpg",
+        "https://iiif.kolekcijos.biblioteka.vu.lt/iiif/2/82127a55-85a6-4359-be97-c25012d334ae/full/1200,/0/default.jpg",
+        "https://iiif.kolekcijos.biblioteka.vu.lt/iiif/2/592ff4ac-2717-412d-a696-0d358545ec30/full/1200,/0/default.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ec/Lithuanian_language_book%2C_printed_in_the_Civil_Script_during_the_Lithuanian_press_ban%2C_Vilnius%2C_1865.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d1/Maciej_Wo%C5%82onczewski.jpg",
+        "https://iiif.kolekcijos.biblioteka.vu.lt/iiif/2/4ea30af2-6f3f-411e-b440-c8f98de8f2eb/full/1200,/0/default.jpg",
+        "https://iiif.kolekcijos.biblioteka.vu.lt/iiif/2/7e81f3fd-638e-450f-8cd7-b29cc457e764/full/1200,/0/default.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/6/61/Lietuviszkas_albumas_-_Lithuanian_album_1898_%2819162078%29.jpg"
+      ],
+      "noindex": true,
+      "relatedContent": [
+        {
+          "href": "/straipsniai/motiejus-valancius-ir-rusijos-imperija/",
+          "title": "Valančius ir Rusijos imperija · straipsnis"
+        },
+        {
+          "href": "/parodos/valancius-laiskai-imperijos-seselyje/",
+          "title": "Laiškai imperijos šešėlyje · paroda"
+        },
+        {
+          "href": "/straipsniai/kaip-valancius-keite-kasdienybe/",
+          "title": "Blaivybė, mokykla ir knyga · straipsnis"
+        },
+        {
+          "href": "/parodos/valancius-nuo-sakyklos-iki-skaitytojo/",
+          "title": "Nuo sakyklos iki skaitytojo · paroda"
+        }
+      ],
+      "relatedObject": {
+        "href": "/objektai/asmenys/Motiejus-Valancius",
+        "label": "Motiejus Valančius"
+      },
+      "schemaVersion": "ltkb-exhibition/v1",
+      "sections": [
+        {
+          "claimRefs": [],
+          "items": [
+            {
+              "catalogDescriptionLt": "Litografijoje Valančius pristatomas su vyskupo apranga ir krūtinės kryžiumi. Atvaizdas skirtas reprezentuoti asmenį bei jo pareigas, todėl jo laikysenos nelaikome tiesioginiu politinių pažiūrų įrodymu. Kataloge kūrinys siejamas su Alphonse’u-Léonu Noëliu ir Jono Kazimiero Vilčinskio leidybine veikla. Parodoje jis atveria skirtumą tarp matomo autoriteto ir institucinių galimybių. Greta pateiktas istorinis teiginys apie dalyvavimą oficialiame caro priėmime paaiškina veikimo aplinką, bet ne šios litografijos užsakymo aplinkybes. Portretas sukurtas anksčiau už tą susitikimą; tai ne įvykio iliustracija, o savarankiškas reprezentacinis kūrinys.",
+              "claimCodes": [
+                "t-209258"
+              ],
+              "claimRefs": [
+                {
+                  "citationId": "c-191972",
+                  "claimId": "t-209258",
+                  "role": "contextual"
+                }
+              ],
+              "claims": [
+                {
+                  "code": "t-209258",
+                  "sourceTitle": "Blaivybė Lietuvoje XIX amžiuje",
+                  "text": "1860 m. rudenį Motiejus Valančius dalyvavo Vilniuje surengtame Aleksandro II iškilmingame priėmime.",
+                  "url": "/objektai/asmenys/Motiejus-Valan%C4%8Dius#claim-t-209258"
+                }
+              ],
+              "creatorDisplay": "Alphonse-Léon Noël; leidėjas Jonas Kazimieras Vilčinskis",
+              "dateDisplay": "1854",
+              "descriptionLt": "Litografijoje Valančius pristatomas su vyskupo apranga ir krūtinės kryžiumi. Atvaizdas skirtas reprezentuoti asmenį bei jo pareigas, todėl jo laikysenos nelaikome tiesioginiu politinių pažiūrų įrodymu. Kataloge kūrinys siejamas su Alphonse’u-Léonu Noëliu ir Jono Kazimiero Vilčinskio leidybine veikla. Parodoje jis atveria skirtumą tarp matomo autoriteto ir institucinių galimybių. Greta pateiktas istorinis teiginys apie dalyvavimą oficialiame caro priėmime paaiškina veikimo aplinką, bet ne šios litografijos užsakymo aplinkybes. Portretas sukurtas anksčiau už tą susitikimą; tai ne įvykio iliustracija, o savarankiškas reprezentacinis kūrinys.",
+              "evidenceNoteLt": "Teiginys aiškina temos kontekstą. Eksponato tapatybę ir datą pagrindžia jo katalogo įrašas.",
+              "exhibitionItemId": "valancius-laiskai-imperijos-seselyje-portretas1854",
+              "featured": true,
+              "media": {
+                "attribution": "Alphonse-Léon Noël; leidėjas Jonas Kazimieras Vilčinskis. Vyskupo portretas, 1854. 1854. Lietuvos nacionalinis dailės muziejus (ankstesnis pavadinimas — Lietuvos dailės muziejus). Public domain.",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Motiejus_Valan%C4%8Dius_1854.jpg",
+                "caption": "Vyskupo portretas, 1854",
+                "collection": "",
+                "confidence": 0.95,
+                "confidenceLevel": "contextual",
+                "country": "",
+                "creator": "Alphonse-Léon Noël; leidėjas Jonas Kazimieras Vilčinskis",
+                "dateDisplay": "1854",
+                "dateEnd": null,
+                "dateStart": 1854,
+                "displayUrl": "/static/media/valancius/motiejus-valancius-noel-portretas-1854.jpg",
+                "height": 600,
+                "institution": "Lietuvos nacionalinis dailės muziejus (ankstesnis pavadinimas — Lietuvos dailės muziejus)",
+                "isPrimary": 0,
+                "judgeModel": "Codex editorial review",
+                "judgeReason": "Vaizdas ir katalogo aprašas patikrinti; datos sluoksniai atskirti.",
+                "language": "",
+                "license": "Public domain",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-1585a958d0a30e99da00cc11",
+                "metadataEvidence": "http://www.epaveldas.lt/object/recordDescription/LDM/1_1037259",
+                "originalTitle": "Vyskupo portretas, 1854",
+                "provider": "commons",
+                "providerLabel": "Lietuvos nacionalinis dailės muziejus (ankstesnis pavadinimas — Lietuvos dailės muziejus)",
+                "relatedObjects": [
+                  {
+                    "directness": "contextual",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+                    "relationType": "portrait_of",
+                    "title": "Motiejus Valančius (vyskupas, XIX a.)"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-13T14:06:56+03:00",
+                "rightsNote": "Public domain; skaitmeninis vaizdas iš Wikimedia Commons. Kilmės įrašas: http://www.epaveldas.lt/object/recordDescription/LDM/1_1037259. ",
+                "sourceMethod": "valancius_editorial_preview",
+                "sourceTags": [],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Motiejus_Valan%C4%8Dius_1854.jpg",
+                "tags": [],
+                "thumbUrl": "/static/media/valancius/motiejus-valancius-noel-portretas-1854.jpg",
+                "title": "Vyskupo portretas, 1854",
+                "visualEvidence": "Litografijoje Valančius pristatomas su vyskupo apranga ir krūtinės kryžiumi. Atvaizdas skirtas reprezentuoti asmenį bei jo pareigas, todėl jo laikysenos nelaikome tiesioginiu politinių pažiūrų įrodymu. Kataloge kūrinys siejamas su Alphonse’u-Léonu Noëliu ir Jono Kazimiero Vilčinskio leidybine veikla. Parodoje jis atveria skirtumą tarp matomo autoriteto ir institucinių galimybių. Greta pateiktas istorinis teiginys apie dalyvavimą oficialiame caro priėmime paaiškina veikimo aplinką, bet ne šios litografijos užsakymo aplinkybes. Portretas sukurtas anksčiau už tą susitikimą; tai ne įvykio iliustracija, o savarankiškas reprezentacinis kūrinys.",
+                "visualReviewVersion": "media-import-visual-v1",
+                "width": 463
+              },
+              "mediaId": "m-1585a958d0a30e99da00cc11",
+              "titleLt": "Vyskupo portretas, 1854"
+            },
+            {
+              "catalogDescriptionLt": "Vilniaus universiteto biblioteka šį dokumentą aprašo kaip laišką neįvardytam Tauragės klebonui. Matomas lenkiškas tekstas, vietos bei datos eilutė ir vyskupo parašas. Lapą verta tyrinėti ne kaip abstraktų seną raštą: adresatas yra konkrečias parapijos pareigas einantis žmogus, nors jo pavardės katalogo antraštė neatskleidžia. Čia laiškas primena kasdienį vyskupo ir dvasininkų ryšį. Bendras teiginys apie dokumentų perdavimą per dekanus bei klebonus paaiškina institucinį kontekstą, tačiau neįrodo, kad šis asmeninis laiškas buvo skaitomas iš sakyklos. Gavėjo tapatybės savavališkai neatkuriame.",
+              "claimCodes": [
+                "t-209552"
+              ],
+              "claimRefs": [
+                {
+                  "citationId": "c-192172",
+                  "claimId": "t-209552",
+                  "role": "contextual"
+                }
+              ],
+              "claims": [
+                {
+                  "code": "t-209552",
+                  "sourceTitle": "Motiejus Valančius. Ganytojiški laiškai",
+                  "text": "Laiškai buvo siunčiami dekanams, dekanai siųsdavo kle bonams, o šie laiškus perrašydavo į gaunamųjų raštų knygą ir nurodytu laiku, pirmąjį sekmadienį arba šventadienį, bažnyčioje iš sakyklos skelbdavo žmonėms.",
+                  "url": "/objektai/paprociai/Ganytoji%C5%A1k%C5%B3-lai%C5%A1k%C5%B3-skelbimas-ba%C5%BEny%C4%8Dioje#claim-t-209552"
+                }
+              ],
+              "creatorDisplay": "Motiejus Valančius",
+              "dateDisplay": "1852 m. sausio 8 d. (dokumento data)",
+              "descriptionLt": "Vilniaus universiteto biblioteka šį dokumentą aprašo kaip laišką neįvardytam Tauragės klebonui. Matomas lenkiškas tekstas, vietos bei datos eilutė ir vyskupo parašas. Lapą verta tyrinėti ne kaip abstraktų seną raštą: adresatas yra konkrečias parapijos pareigas einantis žmogus, nors jo pavardės katalogo antraštė neatskleidžia. Čia laiškas primena kasdienį vyskupo ir dvasininkų ryšį. Bendras teiginys apie dokumentų perdavimą per dekanus bei klebonus paaiškina institucinį kontekstą, tačiau neįrodo, kad šis asmeninis laiškas buvo skaitomas iš sakyklos. Gavėjo tapatybės savavališkai neatkuriame.",
+              "evidenceNoteLt": "Teiginys aiškina temos kontekstą. Eksponato tapatybę ir datą pagrindžia jo katalogo įrašas.",
+              "exhibitionItemId": "valancius-laiskai-imperijos-seselyje-taurage",
+              "featured": true,
+              "media": {
+                "attribution": "Motiejus Valančius. Laiškas neįvardytam Tauragės klebonui. 1852 m. sausio 8 d. (dokumento data). Vilniaus universiteto biblioteka. Public domain.",
+                "canonicalUrl": "https://kolekcijos.biblioteka.vu.lt/objects/990003935071008452",
+                "caption": "Laiškas neįvardytam Tauragės klebonui",
+                "collection": "",
+                "confidence": 0.95,
+                "confidenceLevel": "contextual",
+                "country": "",
+                "creator": "Motiejus Valančius",
+                "dateDisplay": "1852 m. sausio 8 d. (dokumento data)",
+                "dateEnd": null,
+                "dateStart": 1852,
+                "displayUrl": "/static/media/valancius/valancius-laiskas-taurages-klebonui-1852.jpg",
+                "height": 1347,
+                "institution": "Vilniaus universiteto biblioteka",
+                "isPrimary": 0,
+                "judgeModel": "Codex editorial review",
+                "judgeReason": "Vaizdas ir katalogo aprašas patikrinti; datos sluoksniai atskirti.",
+                "language": "",
+                "license": "Public domain",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-d8735dc383bf8e5b33eede01",
+                "metadataEvidence": "https://kolekcijos.biblioteka.vu.lt/objects/990003935071008452",
+                "originalTitle": "Laiškas neįvardytam Tauragės klebonui",
+                "provider": "vu",
+                "providerLabel": "Vilniaus universiteto biblioteka",
+                "relatedObjects": [
+                  {
+                    "directness": "contextual",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+                    "relationType": "contextual",
+                    "title": "Motiejus Valančius (vyskupas, XIX a.)"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-13T14:06:56+03:00",
+                "rightsNote": "Viešoji sritis, pagal VU bibliotekos IIIF įrašą. Nurodyti autorių, pavadinimą ir saugotoją. Biblioteka prašo pranešti apie panaudojimą; laiškas šiame darbe nesiunčiamas.",
+                "sourceMethod": "valancius_editorial_preview",
+                "sourceTags": [],
+                "sourceUrl": "https://iiif.kolekcijos.biblioteka.vu.lt/iiif/2/82127a55-85a6-4359-be97-c25012d334ae/full/1200,/0/default.jpg",
+                "tags": [],
+                "thumbUrl": "/static/media/valancius/valancius-laiskas-taurages-klebonui-1852.jpg",
+                "title": "Laiškas neįvardytam Tauragės klebonui",
+                "visualEvidence": "Vilniaus universiteto biblioteka šį dokumentą aprašo kaip laišką neįvardytam Tauragės klebonui. Matomas lenkiškas tekstas, vietos bei datos eilutė ir vyskupo parašas. Lapą verta tyrinėti ne kaip abstraktų seną raštą: adresatas yra konkrečias parapijos pareigas einantis žmogus, nors jo pavardės katalogo antraštė neatskleidžia. Čia laiškas primena kasdienį vyskupo ir dvasininkų ryšį. Bendras teiginys apie dokumentų perdavimą per dekanus bei klebonus paaiškina institucinį kontekstą, tačiau neįrodo, kad šis asmeninis laiškas buvo skaitomas iš sakyklos. Gavėjo tapatybės savavališkai neatkuriame.",
+                "visualReviewVersion": "media-import-visual-v1",
+                "width": 1200
+              },
+              "mediaId": "m-d8735dc383bf8e5b33eede01",
+              "titleLt": "Laiškas neįvardytam Tauragės klebonui"
+            }
+          ],
+          "lead": "Portretas parodo, kaip asmuo pristatomas, o laiškas leidžia priartėti prie jo veiklos. Šie du šaltiniai nėra vienas kito pakaitalai: iš litografijos nesužinosime laiško turinio, iš parašo — visų sprendimo aplinkybių. Pirmieji eksponatai kviečia atskirti viešą vyskupo atvaizdą nuo konkrečiam adresatui skirto rašto. Politinį šios veiklos aiškinimą plėtoja porinis straipsnis; čia pradedame nuo daiktų, kuriuose autoritetas tampa matomas. Žiūrėkite į aprangą, antraštę, datą ir dokumento pabaigą.",
+          "navMediaId": "m-1585a958d0a30e99da00cc11",
+          "sectionId": "valancius-laiskai-imperijos-seselyje-autoritetas",
+          "slug": "autoritetas",
+          "title": "Autoritetas turi veidą ir parašą"
+        },
+        {
+          "claimRefs": [],
+          "items": [
+            {
+              "catalogDescriptionLt": "Šis išlikęs lapas prasideda ne iškilmingu kreipiniu, o jau vykstančia mintimi. Apačioje matyti data ir Valančiaus parašas. Fragmentiškumas nėra vien vaizdo trūkumas: jis nustato, kiek galime pasakyti apie visą bendravimą. Katalogas adresatą įvardija tik kaip dvasininką, todėl nepriskiriame laiško žinomam sukilimo dalyviui ar konkrečiam ginčui. Prie eksponato pateikiamas rengėjo pastebėjimas apie laiškų rengimo praktiką padeda atskirti autorystę nuo raštvedybos darbo. Jis neįrodo, kas surašė būtent šį lapą. Tai mažas šaltinio kritikos pratimas: parašas negrąžina dingusios dokumento pradžios.",
+              "claimCodes": [
+                "t-209449"
+              ],
+              "claimRefs": [
+                {
+                  "citationId": "c-192069",
+                  "claimId": "t-209449",
+                  "role": "contextual"
+                }
+              ],
+              "claims": [
+                {
+                  "code": "t-209449",
+                  "sourceTitle": "Motiejus Valančius. Ganytojiški laiškai",
+                  "text": "Alekna teigė, kad kai kuriuos aplinkraščius dėl blaivybės ir kitų dalykų rašydavo sekretoriai vyskupo nurodymu.",
+                  "url": "/objektai/asmenys/A.-Alekna#claim-t-209449"
+                }
+              ],
+              "creatorDisplay": "Motiejus Valančius",
+              "dateDisplay": "1862 m. gegužės 7 d. (dokumento data)",
+              "descriptionLt": "Šis išlikęs lapas prasideda ne iškilmingu kreipiniu, o jau vykstančia mintimi. Apačioje matyti data ir Valančiaus parašas. Fragmentiškumas nėra vien vaizdo trūkumas: jis nustato, kiek galime pasakyti apie visą bendravimą. Katalogas adresatą įvardija tik kaip dvasininką, todėl nepriskiriame laiško žinomam sukilimo dalyviui ar konkrečiam ginčui. Prie eksponato pateikiamas rengėjo pastebėjimas apie laiškų rengimo praktiką padeda atskirti autorystę nuo raštvedybos darbo. Jis neįrodo, kas surašė būtent šį lapą. Tai mažas šaltinio kritikos pratimas: parašas negrąžina dingusios dokumento pradžios.",
+              "evidenceNoteLt": "Teiginys aiškina temos kontekstą. Eksponato tapatybę ir datą pagrindžia jo katalogo įrašas.",
+              "exhibitionItemId": "valancius-laiskai-imperijos-seselyje-fragmentas",
+              "featured": true,
+              "media": {
+                "attribution": "Motiejus Valančius. Laiško neįvardytam dvasininkui fragmentas. 1862 m. gegužės 7 d. (dokumento data). Vilniaus universiteto biblioteka. Public domain.",
+                "canonicalUrl": "https://kolekcijos.biblioteka.vu.lt/objects/990003935231008452",
+                "caption": "Laiško neįvardytam dvasininkui fragmentas",
+                "collection": "",
+                "confidence": 0.95,
+                "confidenceLevel": "contextual",
+                "country": "",
+                "creator": "Motiejus Valančius",
+                "dateDisplay": "1862 m. gegužės 7 d. (dokumento data)",
+                "dateEnd": null,
+                "dateStart": 1862,
+                "displayUrl": "/static/media/valancius/valancius-laisko-fragmentas-1862.jpg",
+                "height": 978,
+                "institution": "Vilniaus universiteto biblioteka",
+                "isPrimary": 0,
+                "judgeModel": "Codex editorial review",
+                "judgeReason": "Vaizdas ir katalogo aprašas patikrinti; datos sluoksniai atskirti.",
+                "language": "",
+                "license": "Public domain",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-8867f7cf92fe0db08ef97fcf",
+                "metadataEvidence": "https://kolekcijos.biblioteka.vu.lt/objects/990003935231008452",
+                "originalTitle": "Laiško neįvardytam dvasininkui fragmentas",
+                "provider": "vu",
+                "providerLabel": "Vilniaus universiteto biblioteka",
+                "relatedObjects": [
+                  {
+                    "directness": "contextual",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+                    "relationType": "contextual",
+                    "title": "Motiejus Valančius (vyskupas, XIX a.)"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-13T14:06:56+03:00",
+                "rightsNote": "Viešoji sritis, pagal VU bibliotekos IIIF įrašą. Nurodyti autorių, pavadinimą ir saugotoją. Biblioteka prašo pranešti apie panaudojimą; laiškas šiame darbe nesiunčiamas.",
+                "sourceMethod": "valancius_editorial_preview",
+                "sourceTags": [],
+                "sourceUrl": "https://iiif.kolekcijos.biblioteka.vu.lt/iiif/2/592ff4ac-2717-412d-a696-0d358545ec30/full/1200,/0/default.jpg",
+                "tags": [],
+                "thumbUrl": "/static/media/valancius/valancius-laisko-fragmentas-1862.jpg",
+                "title": "Laiško neįvardytam dvasininkui fragmentas",
+                "visualEvidence": "Šis išlikęs lapas prasideda ne iškilmingu kreipiniu, o jau vykstančia mintimi. Apačioje matyti data ir Valančiaus parašas. Fragmentiškumas nėra vien vaizdo trūkumas: jis nustato, kiek galime pasakyti apie visą bendravimą. Katalogas adresatą įvardija tik kaip dvasininką, todėl nepriskiriame laiško žinomam sukilimo dalyviui ar konkrečiam ginčui. Prie eksponato pateikiamas rengėjo pastebėjimas apie laiškų rengimo praktiką padeda atskirti autorystę nuo raštvedybos darbo. Jis neįrodo, kas surašė būtent šį lapą. Tai mažas šaltinio kritikos pratimas: parašas negrąžina dingusios dokumento pradžios.",
+                "visualReviewVersion": "media-import-visual-v1",
+                "width": 1200
+              },
+              "mediaId": "m-8867f7cf92fe0db08ef97fcf",
+              "titleLt": "Laiško neįvardytam dvasininkui fragmentas"
+            },
+            {
+              "catalogDescriptionLt": "Atverstame leidinyje lietuvių kalba išspausdinta kirilika. Antraštinis lapas nurodo Vilnių, Rommo spaustuvę ir 1865 metus; bibliotekos ženklai priklauso egzemplioriaus saugojimo istorijai. Šis spaudinys nėra Valančiaus parašyta knyga ir nėra jo slapto leidimo pavyzdys. Parodoje jis rodo alternatyvą, kurią skatino imperijos leidybos politika. Susietas teiginys apie lietuviškų katalikiškų knygų leidimą Prūsijoje padeda suprasti priešingą veiklos kryptį. Būtent palyginimas leidžia atskirti kalbą nuo raidyno: lietuviškas tekstas galėjo išlikti lietuviškas, nors jo rašmenys buvo keičiami. Vien šis egzempliorius neatskleidžia skaitytojų reakcijų.",
+              "claimCodes": [
+                "t-208756"
+              ],
+              "claimRefs": [
+                {
+                  "citationId": "c-191376",
+                  "claimId": "t-208756",
+                  "role": "contextual"
+                }
+              ],
+              "claims": [
+                {
+                  "code": "t-208756",
+                  "sourceTitle": "Vyskupo Motiejaus Valančiaus pastoracinė veikla",
+                  "text": "Vysk. M. Valančius pats suorganizavo slaptą katalikiškos lietuviškos literatūros leidimą Prūsijoje ir jos gabenimą į Lietuvą.",
+                  "url": "/objektai/ivykiai/Slaptas-kataliki%C5%A1kos-lietuvi%C5%A1kos-literat%C5%ABros-leidimas-Pr%C5%ABsijoje-ir-jos-gabenimas-%C4%AF-Lietuv%C4%85#claim-t-208756"
+                }
+              ],
+              "creatorDisplay": "R. M. Rommo spaustuvė; rengėjas pateiktame apraše nenurodytas",
+              "dateDisplay": "1865",
+              "descriptionLt": "Atverstame leidinyje lietuvių kalba išspausdinta kirilika. Antraštinis lapas nurodo Vilnių, Rommo spaustuvę ir 1865 metus; bibliotekos ženklai priklauso egzemplioriaus saugojimo istorijai. Šis spaudinys nėra Valančiaus parašyta knyga ir nėra jo slapto leidimo pavyzdys. Parodoje jis rodo alternatyvą, kurią skatino imperijos leidybos politika. Susietas teiginys apie lietuviškų katalikiškų knygų leidimą Prūsijoje padeda suprasti priešingą veiklos kryptį. Būtent palyginimas leidžia atskirti kalbą nuo raidyno: lietuviškas tekstas galėjo išlikti lietuviškas, nors jo rašmenys buvo keičiami. Vien šis egzempliorius neatskleidžia skaitytojų reakcijų.",
+              "evidenceNoteLt": "Teiginys aiškina temos kontekstą. Eksponato tapatybę ir datą pagrindžia jo katalogo įrašas.",
+              "exhibitionItemId": "valancius-laiskai-imperijos-seselyje-kirilikos-knyga",
+              "featured": true,
+              "media": {
+                "attribution": "R. M. Rommo spaustuvė; rengėjas pateiktame apraše nenurodytas. „Evangelios ant nedėlios dienų...“, kirilika. 1865. Vilniaus universiteto biblioteka (pagal VLE vaizdo aprašą). Public domain.",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Lithuanian_language_book,_printed_in_the_Civil_Script_during_the_Lithuanian_press_ban,_Vilnius,_1865.jpg",
+                "caption": "„Evangelios ant nedėlios dienų...“, kirilika",
+                "collection": "",
+                "confidence": 0.95,
+                "confidenceLevel": "contextual",
+                "country": "",
+                "creator": "R. M. Rommo spaustuvė; rengėjas pateiktame apraše nenurodytas",
+                "dateDisplay": "1865",
+                "dateEnd": null,
+                "dateStart": 1865,
+                "displayUrl": "/static/media/valancius/evangelios-kirilika-vilnius-1865.jpg",
+                "height": 920,
+                "institution": "Vilniaus universiteto biblioteka (pagal VLE vaizdo aprašą)",
+                "isPrimary": 0,
+                "judgeModel": "Codex editorial review",
+                "judgeReason": "Vaizdas ir katalogo aprašas patikrinti; datos sluoksniai atskirti.",
+                "language": "",
+                "license": "Public domain",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-ba5c3a97e22e246874e3f3a1",
+                "metadataEvidence": "https://www.vle.lt/straipsnis/knygu-leidyba-lietuvoje-1795-1904/",
+                "originalTitle": "„Evangelios ant nedėlios dienų...“, kirilika",
+                "provider": "commons",
+                "providerLabel": "Vilniaus universiteto biblioteka (pagal VLE vaizdo aprašą)",
+                "relatedObjects": [
+                  {
+                    "directness": "contextual",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+                    "relationType": "contextual",
+                    "title": "Motiejus Valančius (vyskupas, XIX a.)"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-13T14:06:56+03:00",
+                "rightsNote": "Public domain; skaitmeninis vaizdas iš Wikimedia Commons. Kilmės įrašas: https://www.vle.lt/straipsnis/knygu-leidyba-lietuvoje-1795-1904/. ",
+                "sourceMethod": "valancius_editorial_preview",
+                "sourceTags": [],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Lithuanian_language_book%2C_printed_in_the_Civil_Script_during_the_Lithuanian_press_ban%2C_Vilnius%2C_1865.jpg",
+                "tags": [],
+                "thumbUrl": "/static/media/valancius/evangelios-kirilika-vilnius-1865.jpg",
+                "title": "„Evangelios ant nedėlios dienų...“, kirilika",
+                "visualEvidence": "Atverstame leidinyje lietuvių kalba išspausdinta kirilika. Antraštinis lapas nurodo Vilnių, Rommo spaustuvę ir 1865 metus; bibliotekos ženklai priklauso egzemplioriaus saugojimo istorijai. Šis spaudinys nėra Valančiaus parašyta knyga ir nėra jo slapto leidimo pavyzdys. Parodoje jis rodo alternatyvą, kurią skatino imperijos leidybos politika. Susietas teiginys apie lietuviškų katalikiškų knygų leidimą Prūsijoje padeda suprasti priešingą veiklos kryptį. Būtent palyginimas leidžia atskirti kalbą nuo raidyno: lietuviškas tekstas galėjo išlikti lietuviškas, nors jo rašmenys buvo keičiami. Vien šis egzempliorius neatskleidžia skaitytojų reakcijų.",
+                "visualReviewVersion": "media-import-visual-v1",
+                "width": 1240
+              },
+              "mediaId": "m-ba5c3a97e22e246874e3f3a1",
+              "titleLt": "„Evangelios ant nedėlios dienų...“, kirilika"
+            }
+          ],
+          "lead": "Vienas lapas išsaugo tik dalį laiško, kitas rodo lietuvišką tekstą kirilika. Abu eksponatai ragina skaityti ne vien žodžius, bet ir jų pateikimo sąlygas. Trūkstama pradžia riboja mūsų žinojimą apie adresatą; raidynas primena valdžios reguliuotą leidybos aplinką. Šių daiktų nesujungiame į vieną nepaliudytą įvykį. Jie padeda kelti du atskirus klausimus: kiek dokumento išliko ir kokia forma tekstui buvo leidžiama pasiekti skaitytoją. Atsakymams reikia ir katalogo, ir platesnio istorinio konteksto.",
+          "navMediaId": "m-8867f7cf92fe0db08ef97fcf",
+          "sectionId": "valancius-laiskai-imperijos-seselyje-rastai-ir-ribos",
+          "slug": "rastai-ir-ribos",
+          "title": "Skirtingi raštai, skirtingos ribos"
+        },
+        {
+          "claimRefs": [],
+          "items": [
+            {
+              "catalogDescriptionLt": "Fotografinis atspaudas išsaugo Valančiaus pozą, aprangą ir ant kartono esantį rankraštinį įrašą. Kataloge fotografas nurodomas Szymiel Bucher. Fotografija gali atrodyti artimesnė žmogui negu litografija, tačiau jos tikslumas neapima vidinių būsenų: veido išraiškos nevadiname nei nusivylimu, nei slapto pasipriešinimo ženklu. Šalia pateikiamas teiginys apie ribotas vizitacijų galimybes paaiškina biografinį kontekstą, ne fotografavimo priežastį. Kūrinio ir užrašo datos sluoksniai atskiriami nuo šiuolaikinio skaitmeninimo. Žiūrovui paliekama galimybė įsižiūrėti į atspaudą, užuot užpildžius jį mūsų sugalvota psichologine istorija apie vieną gyvenimo akimirką.",
+              "claimCodes": [
+                "t-208492"
+              ],
+              "claimRefs": [
+                {
+                  "citationId": "c-191112",
+                  "claimId": "t-208492",
+                  "role": "contextual"
+                }
+              ],
+              "claims": [
+                {
+                  "code": "t-208492",
+                  "sourceTitle": "Vyskupo Motiejaus Valančiaus pastoracinė veikla",
+                  "text": "1864 m. dėl caro valdžios draudimo lankyti parapijas Motiejus Valančius aplankė tik Kauną, Nemakščius, Raseinius, Girkalnį ir Čekiškę.",
+                  "url": "/objektai/asmenys/Motiejus-Valan%C4%8Dius#claim-t-208492"
+                }
+              ],
+              "creatorDisplay": "Szymiel Bucher",
+              "dateDisplay": "1867 (katalogo data; ant atspaudo yra rankraštinė datos žyma)",
+              "descriptionLt": "Fotografinis atspaudas išsaugo Valančiaus pozą, aprangą ir ant kartono esantį rankraštinį įrašą. Kataloge fotografas nurodomas Szymiel Bucher. Fotografija gali atrodyti artimesnė žmogui negu litografija, tačiau jos tikslumas neapima vidinių būsenų: veido išraiškos nevadiname nei nusivylimu, nei slapto pasipriešinimo ženklu. Šalia pateikiamas teiginys apie ribotas vizitacijų galimybes paaiškina biografinį kontekstą, ne fotografavimo priežastį. Kūrinio ir užrašo datos sluoksniai atskiriami nuo šiuolaikinio skaitmeninimo. Žiūrovui paliekama galimybė įsižiūrėti į atspaudą, užuot užpildžius jį mūsų sugalvota psichologine istorija apie vieną gyvenimo akimirką.",
+              "evidenceNoteLt": "Teiginys aiškina temos kontekstą. Eksponato tapatybę ir datą pagrindžia jo katalogo įrašas.",
+              "exhibitionItemId": "valancius-laiskai-imperijos-seselyje-foto1867",
+              "featured": true,
+              "media": {
+                "attribution": "Szymiel Bucher. Fotografinis Valančiaus portretas. 1867 (katalogo data; ant atspaudo yra rankraštinė datos žyma). Lenkijos nacionalinė biblioteka, Varšuva. Public domain.",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Maciej_Wo%C5%82onczewski.jpg",
+                "caption": "Fotografinis Valančiaus portretas",
+                "collection": "",
+                "confidence": 0.95,
+                "confidenceLevel": "contextual",
+                "country": "",
+                "creator": "Szymiel Bucher",
+                "dateDisplay": "1867 (katalogo data; ant atspaudo yra rankraštinė datos žyma)",
+                "dateEnd": null,
+                "dateStart": 1867,
+                "displayUrl": "/static/media/valancius/motiejus-valancius-bucher-fotografija-1867.jpg",
+                "height": 2792,
+                "institution": "Lenkijos nacionalinė biblioteka, Varšuva",
+                "isPrimary": 0,
+                "judgeModel": "Codex editorial review",
+                "judgeReason": "Vaizdas ir katalogo aprašas patikrinti; datos sluoksniai atskirti.",
+                "language": "",
+                "license": "Public domain",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-53b6cd7856042cb1448f45c1",
+                "metadataEvidence": "https://polona.pl/item/portret-biskupa-macieja-wolonczewskiego,MTA5MDg1MjA4/0/#info:metadata",
+                "originalTitle": "Fotografinis Valančiaus portretas",
+                "provider": "commons",
+                "providerLabel": "Lenkijos nacionalinė biblioteka, Varšuva",
+                "relatedObjects": [
+                  {
+                    "directness": "contextual",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+                    "relationType": "portrait_of",
+                    "title": "Motiejus Valančius (vyskupas, XIX a.)"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-13T14:06:56+03:00",
+                "rightsNote": "Public domain; skaitmeninis vaizdas iš Wikimedia Commons. Kilmės įrašas: https://polona.pl/item/portret-biskupa-macieja-wolonczewskiego,MTA5MDg1MjA4/0/#info:metadata. ",
+                "sourceMethod": "valancius_editorial_preview",
+                "sourceTags": [],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Maciej_Wo%C5%82onczewski.jpg",
+                "tags": [],
+                "thumbUrl": "/static/media/valancius/motiejus-valancius-bucher-fotografija-1867.jpg",
+                "title": "Fotografinis Valančiaus portretas",
+                "visualEvidence": "Fotografinis atspaudas išsaugo Valančiaus pozą, aprangą ir ant kartono esantį rankraštinį įrašą. Kataloge fotografas nurodomas Szymiel Bucher. Fotografija gali atrodyti artimesnė žmogui negu litografija, tačiau jos tikslumas neapima vidinių būsenų: veido išraiškos nevadiname nei nusivylimu, nei slapto pasipriešinimo ženklu. Šalia pateikiamas teiginys apie ribotas vizitacijų galimybes paaiškina biografinį kontekstą, ne fotografavimo priežastį. Kūrinio ir užrašo datos sluoksniai atskiriami nuo šiuolaikinio skaitmeninimo. Žiūrovui paliekama galimybė įsižiūrėti į atspaudą, užuot užpildžius jį mūsų sugalvota psichologine istorija apie vieną gyvenimo akimirką.",
+                "visualReviewVersion": "media-import-visual-v1",
+                "width": 1736
+              },
+              "mediaId": "m-53b6cd7856042cb1448f45c1",
+              "titleLt": "Fotografinis Valančiaus portretas"
+            },
+            {
+              "catalogDescriptionLt": "Bibliotekos įrašas apima du laiškus kunigui Tomaševičiui; parodoje jie laikomi vienu eksponatu, o rodomas pirmasis dokumentas. Lotyniškame tekste kalbama apie dvasinį patarnavimą įkalintiems žmonėms ir kunigo įgaliojimus. Kalėjimo paminėjimas neleidžia gavėjų automatiškai pavadinti politiniais kaliniais. Dokumentas čia svarbus kaip tęsiamos pastoracinės jurisdikcijos pėdsakas. Prie jo susietas atskiras teiginys apie valdžios priekaištus dėl vyskupo galių aiškina platesnę įtampą, bet ne šio konkretaus laiško sukeltą bylą. Saugome skirtumą tarp dokumento turinio ir konteksto, kuriame jį šiandien skaitome.",
+              "claimCodes": [
+                "t-208752"
+              ],
+              "claimRefs": [
+                {
+                  "citationId": "c-191372",
+                  "claimId": "t-208752",
+                  "role": "contextual"
+                }
+              ],
+              "claims": [
+                {
+                  "code": "t-208752",
+                  "sourceTitle": "Vyskupo Motiejaus Valančiaus pastoracinė veikla",
+                  "text": "1867-01-19 Kauno gubernatorius Obolenskis, Vilniaus generalgubernatoriaus A. Baranovo įsakymu, iškėlė vysk. M. Valančiui bylą už savo valdžios viršijimą.",
+                  "url": "/objektai/ivykiai/Byla-d%C4%97l-vyskupo-Motiejaus-Valan%C4%8Diaus-vald%C5%BEios-vir%C5%A1ijimo#claim-t-208752"
+                }
+              ],
+              "creatorDisplay": "Motiejus Valančius",
+              "dateDisplay": "1870 m. spalio 18 d. (rodomo dokumento data)",
+              "descriptionLt": "Bibliotekos įrašas apima du laiškus kunigui Tomaševičiui; parodoje jie laikomi vienu eksponatu, o rodomas pirmasis dokumentas. Lotyniškame tekste kalbama apie dvasinį patarnavimą įkalintiems žmonėms ir kunigo įgaliojimus. Kalėjimo paminėjimas neleidžia gavėjų automatiškai pavadinti politiniais kaliniais. Dokumentas čia svarbus kaip tęsiamos pastoracinės jurisdikcijos pėdsakas. Prie jo susietas atskiras teiginys apie valdžios priekaištus dėl vyskupo galių aiškina platesnę įtampą, bet ne šio konkretaus laiško sukeltą bylą. Saugome skirtumą tarp dokumento turinio ir konteksto, kuriame jį šiandien skaitome.",
+              "evidenceNoteLt": "Teiginys aiškina temos kontekstą. Eksponato tapatybę ir datą pagrindžia jo katalogo įrašas.",
+              "exhibitionItemId": "valancius-laiskai-imperijos-seselyje-tomasevicius",
+              "featured": true,
+              "media": {
+                "attribution": "Motiejus Valančius. Laiškų kunigui Tomaševičiui rinkinio lapas. 1870 m. spalio 18 d. (rodomo dokumento data). Vilniaus universiteto biblioteka. Public domain.",
+                "canonicalUrl": "https://kolekcijos.biblioteka.vu.lt/objects/990003935191008452",
+                "caption": "Laiškų kunigui Tomaševičiui rinkinio lapas",
+                "collection": "",
+                "confidence": 0.95,
+                "confidenceLevel": "contextual",
+                "country": "",
+                "creator": "Motiejus Valančius",
+                "dateDisplay": "1870 m. spalio 18 d. (rodomo dokumento data)",
+                "dateEnd": null,
+                "dateStart": 1870,
+                "displayUrl": "/static/media/valancius/valancius-laiskas-tomaseviciui-1870.jpg",
+                "height": 1509,
+                "institution": "Vilniaus universiteto biblioteka",
+                "isPrimary": 0,
+                "judgeModel": "Codex editorial review",
+                "judgeReason": "Vaizdas ir katalogo aprašas patikrinti; datos sluoksniai atskirti.",
+                "language": "",
+                "license": "Public domain",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-df9865da9a2e6ee4d93f62e4",
+                "metadataEvidence": "https://kolekcijos.biblioteka.vu.lt/objects/990003935191008452",
+                "originalTitle": "Laiškų kunigui Tomaševičiui rinkinio lapas",
+                "provider": "vu",
+                "providerLabel": "Vilniaus universiteto biblioteka",
+                "relatedObjects": [
+                  {
+                    "directness": "contextual",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+                    "relationType": "contextual",
+                    "title": "Motiejus Valančius (vyskupas, XIX a.)"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-13T14:06:56+03:00",
+                "rightsNote": "Viešoji sritis, pagal VU bibliotekos IIIF įrašą. Nurodyti autorių, pavadinimą ir saugotoją. Biblioteka prašo pranešti apie panaudojimą; laiškas šiame darbe nesiunčiamas.",
+                "sourceMethod": "valancius_editorial_preview",
+                "sourceTags": [],
+                "sourceUrl": "https://iiif.kolekcijos.biblioteka.vu.lt/iiif/2/4ea30af2-6f3f-411e-b440-c8f98de8f2eb/full/1200,/0/default.jpg",
+                "tags": [],
+                "thumbUrl": "/static/media/valancius/valancius-laiskas-tomaseviciui-1870.jpg",
+                "title": "Laiškų kunigui Tomaševičiui rinkinio lapas",
+                "visualEvidence": "Bibliotekos įrašas apima du laiškus kunigui Tomaševičiui; parodoje jie laikomi vienu eksponatu, o rodomas pirmasis dokumentas. Lotyniškame tekste kalbama apie dvasinį patarnavimą įkalintiems žmonėms ir kunigo įgaliojimus. Kalėjimo paminėjimas neleidžia gavėjų automatiškai pavadinti politiniais kaliniais. Dokumentas čia svarbus kaip tęsiamos pastoracinės jurisdikcijos pėdsakas. Prie jo susietas atskiras teiginys apie valdžios priekaištus dėl vyskupo galių aiškina platesnę įtampą, bet ne šio konkretaus laiško sukeltą bylą. Saugome skirtumą tarp dokumento turinio ir konteksto, kuriame jį šiandien skaitome.",
+                "visualReviewVersion": "media-import-visual-v1",
+                "width": 1200
+              },
+              "mediaId": "m-df9865da9a2e6ee4d93f62e4",
+              "titleLt": "Laiškų kunigui Tomaševičiui rinkinio lapas"
+            }
+          ],
+          "lead": "Po sukilimo metų vyskupo veikla neišnyko, nors ją ribojo administracija. Fotografija ir kunigui skirtas dokumentas leidžia kalbėti apie asmenį bei jo pareigas, tačiau neleidžia kiekvieno gesto paversti politine deklaracija. Fotografiniame portrete nėra užrašytų žmogaus minčių. Pastoracinio rašto adresatas ir suteikiamų įgaliojimų pobūdis turi būti skaitomi tiksliai. Todėl kalėjimo konteksto automatiškai nesutapatiname su politinių kalinių istorija, o dvasinio patarnavimo nepaverčiame nepaliudytu slaptu susitarimu. Veikimo ribas paaiškina atskirai susieti istorikų nagrinėti dokumentai.",
+          "navMediaId": "m-53b6cd7856042cb1448f45c1",
+          "sectionId": "valancius-laiskai-imperijos-seselyje-tarnyste",
+          "slug": "tarnyste",
+          "title": "Tarnystė tęsiasi"
+        },
+        {
+          "claimRefs": [],
+          "items": [
+            {
+              "catalogDescriptionLt": "Rinkinio katalogas pateikia 1873 metus, tačiau skaitmeninto tomo pradžioje yra ir vėlesnių įrašų. Pasirinktas pagrindinio rankraščio pradžios lapas su antrašte „Pamiętnik domowy“, o ne 1938 metų pridėtinis tekstas. Pirmasis pasakojimas liečia religinės praktikos vertinimą; jo nepervadiname diena iš dienos rašytu šiuolaikinio tipo dienoraščiu. Susietas teiginys apie perspėjimą Tytuvėnų parapijai rodo giminingą pastoracinę problemą, ne tą patį rankraštyje aprašytą įvykį. Rinkinys leidžia svarstyti, kaip vyskupas pats perteikė patirtį, tačiau jo pasakojimą taip pat reikia tikrinti kitais šaltiniais ir skirti nuo vėlesnio įrišimo istorijos.",
+              "claimCodes": [
+                "t-208793"
+              ],
+              "claimRefs": [
+                {
+                  "citationId": "c-191413",
+                  "claimId": "t-208793",
+                  "role": "contextual"
+                }
+              ],
+              "claims": [
+                {
+                  "code": "t-208793",
+                  "sourceTitle": "Vyskupo Motiejaus Valančiaus pastoracinė veikla",
+                  "text": "1864 m. sausio 28 d. vyskupas Motiejus Valančius Tytuvėnų parapijai parašė pastoracinį laišką, kuriame įspėjo parapijiečius nepasiduoti Antano Bortkevičiaus ir Juozapo Leščiausko apgaulei.",
+                  "url": "/objektai/ivykiai/Vyskupo-Motiejaus-Valan%C4%8Diaus-pastoracinis-lai%C5%A1kas-Tytuv%C4%97n%C5%B3-parapijai#claim-t-208793"
+                }
+              ],
+              "creatorDisplay": "Motiejus Valančius",
+              "dateDisplay": "1873 (rinkinio katalogo data)",
+              "descriptionLt": "Rinkinio katalogas pateikia 1873 metus, tačiau skaitmeninto tomo pradžioje yra ir vėlesnių įrašų. Pasirinktas pagrindinio rankraščio pradžios lapas su antrašte „Pamiętnik domowy“, o ne 1938 metų pridėtinis tekstas. Pirmasis pasakojimas liečia religinės praktikos vertinimą; jo nepervadiname diena iš dienos rašytu šiuolaikinio tipo dienoraščiu. Susietas teiginys apie perspėjimą Tytuvėnų parapijai rodo giminingą pastoracinę problemą, ne tą patį rankraštyje aprašytą įvykį. Rinkinys leidžia svarstyti, kaip vyskupas pats perteikė patirtį, tačiau jo pasakojimą taip pat reikia tikrinti kitais šaltiniais ir skirti nuo vėlesnio įrišimo istorijos.",
+              "evidenceNoteLt": "Teiginys aiškina temos kontekstą. Eksponato tapatybę ir datą pagrindžia jo katalogo įrašas.",
+              "exhibitionItemId": "valancius-laiskai-imperijos-seselyje-dienorastis",
+              "featured": true,
+              "media": {
+                "attribution": "Motiejus Valančius. „Pamiętnik domowy“: pagrindinio rankraščio pradžia. 1873 (rinkinio katalogo data). Vilniaus universiteto biblioteka. Public domain.",
+                "canonicalUrl": "https://kolekcijos.biblioteka.vu.lt/objects/990008174101008452",
+                "caption": "„Pamiętnik domowy“: pagrindinio rankraščio pradžia",
+                "collection": "",
+                "confidence": 0.95,
+                "confidenceLevel": "contextual",
+                "country": "",
+                "creator": "Motiejus Valančius",
+                "dateDisplay": "1873 (rinkinio katalogo data)",
+                "dateEnd": null,
+                "dateStart": 1873,
+                "displayUrl": "/static/media/valancius/valancius-pamietnik-domowy-rankrastis-1873.jpg",
+                "height": 1505,
+                "institution": "Vilniaus universiteto biblioteka",
+                "isPrimary": 0,
+                "judgeModel": "Codex editorial review",
+                "judgeReason": "Vaizdas ir katalogo aprašas patikrinti; datos sluoksniai atskirti.",
+                "language": "",
+                "license": "Public domain",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-63b30f28882a3a0eeda5079d",
+                "metadataEvidence": "https://kolekcijos.biblioteka.vu.lt/objects/990008174101008452",
+                "originalTitle": "„Pamiętnik domowy“: pagrindinio rankraščio pradžia",
+                "provider": "vu",
+                "providerLabel": "Vilniaus universiteto biblioteka",
+                "relatedObjects": [
+                  {
+                    "directness": "contextual",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+                    "relationType": "contextual",
+                    "title": "Motiejus Valančius (vyskupas, XIX a.)"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-13T14:06:56+03:00",
+                "rightsNote": "Viešoji sritis, pagal VU bibliotekos IIIF įrašą. Nurodyti autorių, pavadinimą ir saugotoją. Biblioteka prašo pranešti apie panaudojimą; laiškas šiame darbe nesiunčiamas.",
+                "sourceMethod": "valancius_editorial_preview",
+                "sourceTags": [],
+                "sourceUrl": "https://iiif.kolekcijos.biblioteka.vu.lt/iiif/2/7e81f3fd-638e-450f-8cd7-b29cc457e764/full/1200,/0/default.jpg",
+                "tags": [],
+                "thumbUrl": "/static/media/valancius/valancius-pamietnik-domowy-rankrastis-1873.jpg",
+                "title": "„Pamiętnik domowy“: pagrindinio rankraščio pradžia",
+                "visualEvidence": "Rinkinio katalogas pateikia 1873 metus, tačiau skaitmeninto tomo pradžioje yra ir vėlesnių įrašų. Pasirinktas pagrindinio rankraščio pradžios lapas su antrašte „Pamiętnik domowy“, o ne 1938 metų pridėtinis tekstas. Pirmasis pasakojimas liečia religinės praktikos vertinimą; jo nepervadiname diena iš dienos rašytu šiuolaikinio tipo dienoraščiu. Susietas teiginys apie perspėjimą Tytuvėnų parapijai rodo giminingą pastoracinę problemą, ne tą patį rankraštyje aprašytą įvykį. Rinkinys leidžia svarstyti, kaip vyskupas pats perteikė patirtį, tačiau jo pasakojimą taip pat reikia tikrinti kitais šaltiniais ir skirti nuo vėlesnio įrišimo istorijos.",
+                "visualReviewVersion": "media-import-visual-v1",
+                "width": 1200
+              },
+              "mediaId": "m-63b30f28882a3a0eeda5079d",
+              "titleLt": "„Pamiętnik domowy“: pagrindinio rankraščio pradžia"
+            },
+            {
+              "catalogDescriptionLt": "Antano Miluko išleistame albume Valančiaus atvaizdas įgauna naują gyvenimą už jo biografijos laiko ribų. Rodomas visas puslapis su portretu ir lietuvišku užrašu, o ne vien iškirptas veidas. Albumas išleistas 1898 metais, jau po vyskupo mirties, todėl nėra vienalaikis jo konfliktų su valdžia dokumentas. Šalia pateikta žinia apie kratą priklauso ankstesnei biografijai; atvaizdas jos neiliustruoja kaip įvykio scena. Jis užbaigia parodą kitu klausimu: kaip žmogus virsta viešos atminties figūra? Leidinio data pasako apie šį panaudojimą, bet ne savaime apie pirminio portreto sukūrimą.",
+              "claimCodes": [
+                "t-208759"
+              ],
+              "claimRefs": [
+                {
+                  "citationId": "c-191379",
+                  "claimId": "t-208759",
+                  "role": "contextual"
+                }
+              ],
+              "claims": [
+                {
+                  "code": "t-208759",
+                  "sourceTitle": "Vyskupo Motiejaus Valančiaus pastoracinė veikla",
+                  "text": "1870 m. gruodžio 12 d. komisija atliko vyskupo Motiejaus Valančiaus buto kratą, tačiau nieko įtartino nerado.",
+                  "url": "/objektai/ivykiai/Vyskupo-M.-Valan%C4%8Diaus-buto-krata#claim-t-208759"
+                }
+              ],
+              "creatorDisplay": "Atvaizdo autorius kataloge nenurodytas; albumo leidėjas Antanas Milukas",
+              "dateDisplay": "1898 (albumo leidimas; pomirtinis atvaizdo panaudojimas)",
+              "descriptionLt": "Antano Miluko išleistame albume Valančiaus atvaizdas įgauna naują gyvenimą už jo biografijos laiko ribų. Rodomas visas puslapis su portretu ir lietuvišku užrašu, o ne vien iškirptas veidas. Albumas išleistas 1898 metais, jau po vyskupo mirties, todėl nėra vienalaikis jo konfliktų su valdžia dokumentas. Šalia pateikta žinia apie kratą priklauso ankstesnei biografijai; atvaizdas jos neiliustruoja kaip įvykio scena. Jis užbaigia parodą kitu klausimu: kaip žmogus virsta viešos atminties figūra? Leidinio data pasako apie šį panaudojimą, bet ne savaime apie pirminio portreto sukūrimą.",
+              "evidenceNoteLt": "Teiginys aiškina temos kontekstą. Eksponato tapatybę ir datą pagrindžia jo katalogo įrašas.",
+              "exhibitionItemId": "valancius-laiskai-imperijos-seselyje-albumas1898",
+              "featured": true,
+              "media": {
+                "attribution": "Atvaizdo autorius kataloge nenurodytas; albumo leidėjas Antanas Milukas. Valančius 1898 metų „Lietuviškame albume“. 1898 (albumo leidimas; pomirtinis atvaizdo panaudojimas). Lenkijos nacionalinė biblioteka, Varšuva. Public domain.",
+                "canonicalUrl": "https://commons.wikimedia.org/wiki/File:Lietuviszkas_albumas_-_Lithuanian_album_1898_(19162078).jpg",
+                "caption": "Valančius 1898 metų „Lietuviškame albume“",
+                "collection": "",
+                "confidence": 0.95,
+                "confidenceLevel": "contextual",
+                "country": "",
+                "creator": "Atvaizdo autorius kataloge nenurodytas; albumo leidėjas Antanas Milukas",
+                "dateDisplay": "1898 (albumo leidimas; pomirtinis atvaizdo panaudojimas)",
+                "dateEnd": null,
+                "dateStart": 1898,
+                "displayUrl": "/static/media/valancius/valancius-lietuviszkas-albumas-1898.jpg",
+                "height": 5927,
+                "institution": "Lenkijos nacionalinė biblioteka, Varšuva",
+                "isPrimary": 0,
+                "judgeModel": "Codex editorial review",
+                "judgeReason": "Vaizdas ir katalogo aprašas patikrinti; datos sluoksniai atskirti.",
+                "language": "",
+                "license": "Public domain",
+                "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+                "mediaId": "m-468d2ab47905ab39b0892053",
+                "metadataEvidence": "https://polona.pl/",
+                "originalTitle": "Valančius 1898 metų „Lietuviškame albume“",
+                "provider": "commons",
+                "providerLabel": "Lenkijos nacionalinė biblioteka, Varšuva",
+                "relatedObjects": [
+                  {
+                    "directness": "contextual",
+                    "itemType": "asmuo",
+                    "notePath": "objektai/asmenys/Motiejus Valančius.md",
+                    "relationType": "portrait_of",
+                    "title": "Motiejus Valančius (vyskupas, XIX a.)"
+                  }
+                ],
+                "reviewStatus": "accepted",
+                "reviewedAt": "2026-09-13T14:06:56+03:00",
+                "rightsNote": "Public domain; skaitmeninis vaizdas iš Wikimedia Commons. Kilmės įrašas: https://polona.pl/. ",
+                "sourceMethod": "valancius_editorial_preview",
+                "sourceTags": [],
+                "sourceUrl": "https://upload.wikimedia.org/wikipedia/commons/6/61/Lietuviszkas_albumas_-_Lithuanian_album_1898_%2819162078%29.jpg",
+                "tags": [],
+                "thumbUrl": "/static/media/valancius/valancius-lietuviszkas-albumas-1898.jpg",
+                "title": "Valančius 1898 metų „Lietuviškame albume“",
+                "visualEvidence": "Antano Miluko išleistame albume Valančiaus atvaizdas įgauna naują gyvenimą už jo biografijos laiko ribų. Rodomas visas puslapis su portretu ir lietuvišku užrašu, o ne vien iškirptas veidas. Albumas išleistas 1898 metais, jau po vyskupo mirties, todėl nėra vienalaikis jo konfliktų su valdžia dokumentas. Šalia pateikta žinia apie kratą priklauso ankstesnei biografijai; atvaizdas jos neiliustruoja kaip įvykio scena. Jis užbaigia parodą kitu klausimu: kaip žmogus virsta viešos atminties figūra? Leidinio data pasako apie šį panaudojimą, bet ne savaime apie pirminio portreto sukūrimą.",
+                "visualReviewVersion": "media-import-visual-v1",
+                "width": 4464
+              },
+              "mediaId": "m-468d2ab47905ab39b0892053",
+              "titleLt": "Valančius 1898 metų „Lietuviškame albume“"
+            }
+          ],
+          "lead": "Asmens gyvenimas, jo pasakojimai ir vėlesnė atmintis turi skirtingą laiką. Rankraštyje galima aptikti paties autoriaus tekstą, bet taip pat vėliau pridėtų lapų ar saugotojų žymų. Albumas, išleistas po Valančiaus mirties, liudija jo atvaizdo sklaidą, ne dalyvavimą albumo rengime. Paskutinis skyrius kviečia nesulyginti šių sluoksnių. Atvaizdo tikrumas dar nereiškia jo vienalaikiškumo su pasakojamu įvykiu, o katalogo data negali būti aklai pritaikyta kiekvienam įrišto rinkinio lapui. Žinojimo ribų įvardijimas čia yra pasakojimo dalis.",
+          "navMediaId": "m-63b30f28882a3a0eeda5079d",
+          "sectionId": "valancius-laiskai-imperijos-seselyje-atmintis",
+          "slug": "atmintis",
+          "title": "Užrašas ir vėlesnis atvaizdas"
+        }
+      ],
+      "seo_title": "Valančiaus laiškai: skaitmeninė paroda",
+      "slug": "parodos/valancius-laiskai-imperijos-seselyje",
+      "status": "draft",
+      "subtitle": "Vyskupo autoritetas, rašto kontrolė ir nevienodas atminties laikas",
+      "theme": "documents",
+      "title": "Motiejus Valančius: laiškai imperijos šešėlyje",
+      "updatedAt": "2026-09-13T14:06:56.560145+03:00"
+    }
+  ],
+  "schemaVersion": "ltkb-exhibition/v1"
+}

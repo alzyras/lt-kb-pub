@@ -7798,9 +7798,12 @@
     },
     "objektai/asmenys/M. Muravjovas.md": {
       "content_hash": "99c400bdc63641693f7e05a00ebd55fd8b10ed563c855fdd909d9ee55827ba63",
-      "rendered_hash": "c02ab2b3804c650291f2b8b54e3beb058d1dd1b0e3649c149b1a869deb447cec",
+      "rendered_hash": "ad2da0bac585cf65c85ea708bd6c763dc2776ac0c7b88146c5c1bee69481168c",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "2baf65046052c849c471f7aa2bd7aadce1ba4eda7580836b52f7d95cbe71aa37"
+      "enrichment_source_hash": "2baf65046052c849c471f7aa2bd7aadce1ba4eda7580836b52f7d95cbe71aa37",
+      "evidence_export_hash": "d8db2cd349c132f1951e8f8496752b832f73ecb0419000f136e1a55fa4b35be9",
+      "evidence_export_content_hash": "99c400bdc63641693f7e05a00ebd55fd8b10ed563c855fdd909d9ee55827ba63",
+      "evidence_base_hash": "c02ab2b3804c650291f2b8b54e3beb058d1dd1b0e3649c149b1a869deb447cec"
     },
     "objektai/asmenys/M. P. Sapiega.md": {
       "content_hash": "a09f21213fdfbd22234846baf5bd1e0b7f11066b5f0c81682dc70d9e6580d096",
@@ -8898,9 +8901,12 @@
     },
     "objektai/asmenys/Motiejus Valančius.md": {
       "content_hash": "cbcc77ce513cbcbf8b506f6d31e8979db4a80197b815cc1a6c165aec41866cfd",
-      "rendered_hash": "6554f7a347bd497c7153fb482c8a7083a6a5edcc838027f635f2e06e59e41fb1",
+      "rendered_hash": "8bc9184ec45e73b06a07ad1c78e0fc7928ab0cbf9ef69ec3df70d2bbc6d00e19",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "4959ae8cc302ca5b5955052b2c64d9bf44ebd48c429028825936345b07951637"
+      "enrichment_source_hash": "4959ae8cc302ca5b5955052b2c64d9bf44ebd48c429028825936345b07951637",
+      "evidence_export_hash": "25c4bfe89412bd6cd3514be2a81bf2cae4a6a6422ada1c1771d32aac4d5e71a2",
+      "evidence_export_content_hash": "cbcc77ce513cbcbf8b506f6d31e8979db4a80197b815cc1a6c165aec41866cfd",
+      "evidence_base_hash": "6554f7a347bd497c7153fb482c8a7083a6a5edcc838027f635f2e06e59e41fb1"
     },
     "objektai/asmenys/Motiejus Voderackis.md": {
       "content_hash": "4b17c87200d8fba28f0e298f7cc3b13b7a45e1050e4b7050fa49baec0a825693",
@@ -12048,9 +12054,12 @@
     },
     "objektai/asmenys/V. Nazimovas.md": {
       "content_hash": "9ae6b937d0f29d42a794390381474c73123edf45e8082219f0c706c8bde4b90f",
-      "rendered_hash": "216f593fd0ac587b732f7168828bc760df6b90855a86ccb34d8765babd04fe60",
+      "rendered_hash": "e4485acc10225ed0bc05c6715ee58b13ad56cf3fd5ec8025276c45e02ac77c32",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "89e6b45852341aac402e681b57880bb371d3b6843fbc6983973d8ab59e745ef3"
+      "enrichment_source_hash": "89e6b45852341aac402e681b57880bb371d3b6843fbc6983973d8ab59e745ef3",
+      "evidence_export_hash": "d441f5e2f8689493e4dce792b5420f8989c24e31b06916f12ca3923fafd912d3",
+      "evidence_export_content_hash": "9ae6b937d0f29d42a794390381474c73123edf45e8082219f0c706c8bde4b90f",
+      "evidence_base_hash": "216f593fd0ac587b732f7168828bc760df6b90855a86ccb34d8765babd04fe60"
     },
     "objektai/asmenys/V. Skorupskis.md": {
       "content_hash": "33e5dc330ec14cb52ff03f7f6729b6a3cee01e9206d55527f28ba84d92b2c8a2",
@@ -57044,7 +57053,11 @@
     },
     "objektai/vietos/Rietavas.md": {
       "content_hash": "7ae2e42850a2a4822e9a8397a0813cd96442a144b6386dfca129238aa8129437",
-      "rendered_hash": "0c047939a2d97509ed370e160ccc8c8249f506f2bc7c76610f30e85c8169075c"
+      "rendered_hash": "d6bee74223908e28d596f7f2840cb0273d1c04d0cb4433e52df5c9058d86707a",
+      "projection_mode": "authored_object_page",
+      "evidence_export_hash": "b2dd8642ac5a7d057a232fb947343731b9275e44256cf78b339de6f976f0196b",
+      "evidence_export_content_hash": "7ae2e42850a2a4822e9a8397a0813cd96442a144b6386dfca129238aa8129437",
+      "evidence_base_hash": "0c047939a2d97509ed370e160ccc8c8249f506f2bc7c76610f30e85c8169075c"
     },
     "objektai/vietos/Ryga.md": {
       "content_hash": "3283106b022edc274cdb014332b04a5065cf14e9969d10250d9871c647471955",
@@ -67190,9 +67203,12 @@
     },
     "objektai/asmenys/A. Alekna.md": {
       "content_hash": "262739aedc1bcd6f7d2929616ee045ec3c7ca4fe46161a50c69ea76f0a6e381e",
-      "rendered_hash": "6a8db701439f4a32af1ec75103cb953c38c0b365432ac2c1375ceb0e1413261d",
+      "rendered_hash": "ae1212b9220a7d1b148936e9ccfe6665635f0072cea7a920aefc315b690641a2",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "3db1dc31d09df94269bce60c4b01341d8a218f8ac29a840d190692c43a25d852"
+      "enrichment_source_hash": "3db1dc31d09df94269bce60c4b01341d8a218f8ac29a840d190692c43a25d852",
+      "evidence_export_hash": "f3a343219f30ab6ed2269fda08bd5e3545ce1add2de6c2de078d1853ebe7f9a4",
+      "evidence_export_content_hash": "262739aedc1bcd6f7d2929616ee045ec3c7ca4fe46161a50c69ea76f0a6e381e",
+      "evidence_base_hash": "6a8db701439f4a32af1ec75103cb953c38c0b365432ac2c1375ceb0e1413261d"
     },
     "objektai/asmenys/A. Baranovas.md": {
       "content_hash": "a9b91dd8efae4271f71a143f7e6cca9f4e256a9a1da3e8c52c561c03279391eb",
@@ -67490,9 +67506,12 @@
     },
     "objektai/asmenys/Dominykas Meilus.md": {
       "content_hash": "cfc1e17696ccbdaffaca117c23fba987aee3539517d36bda73547c7bc55fddf2",
-      "rendered_hash": "4301b712c7df5a36e62f5d8349173c19ffb5bced527f9365fff045b8f85cee45",
+      "rendered_hash": "72f0664bdfcc21d5c054d3ef4fc275a2f7218090571d6c01e7d073bc24849087",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "76e91718be92e085475ce99ea767c36b65a305dbf5d6a820f2930e294cf8cfdf"
+      "enrichment_source_hash": "76e91718be92e085475ce99ea767c36b65a305dbf5d6a820f2930e294cf8cfdf",
+      "evidence_export_hash": "94e6975df1758b2b182a5cd82438149f5a6c529a2a62c5b5f60c52235200a22a",
+      "evidence_export_content_hash": "cfc1e17696ccbdaffaca117c23fba987aee3539517d36bda73547c7bc55fddf2",
+      "evidence_base_hash": "4301b712c7df5a36e62f5d8349173c19ffb5bced527f9365fff045b8f85cee45"
     },
     "objektai/asmenys/Dominykas Sakalauskas.md": {
       "content_hash": "eba8578c995f168f66c2935efb34f5686a48a07c78eee9f6d60fabc274d66792",
@@ -67838,9 +67857,12 @@
     },
     "objektai/asmenys/Kazimieras Bielinskis.md": {
       "content_hash": "8b461b5d8ad3b73051235c2713c63d9071d9dff9ac133e81da4a5b58a509d9a3",
-      "rendered_hash": "6935c2a44dc73e7ad8ba376abf90b94f49d8b94e1e5bc5abfbe87506a8dfe7dc",
+      "rendered_hash": "af4d5d8cbe059cb03b0f6a82ed50a3b8fa75ae242d3b179bf446a7b5b21311d6",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "c29464992638717418136ae33ff09b75411cfb25845c0614d291f9bb46214aac"
+      "enrichment_source_hash": "c29464992638717418136ae33ff09b75411cfb25845c0614d291f9bb46214aac",
+      "evidence_export_hash": "aec3546cb6144c1f49333da48874fb2b807448a95506554d9b46d364967463a4",
+      "evidence_export_content_hash": "8b461b5d8ad3b73051235c2713c63d9071d9dff9ac133e81da4a5b58a509d9a3",
+      "evidence_base_hash": "6935c2a44dc73e7ad8ba376abf90b94f49d8b94e1e5bc5abfbe87506a8dfe7dc"
     },
     "objektai/asmenys/Kazimieras Dmochovskis.md": {
       "content_hash": "78802a05657c60370070cb12b22b6d17a75d48267cd8847ee1cf29ff89181fda",
@@ -68306,9 +68328,12 @@
     },
     "objektai/asmenys/Viktoras Rusteika.md": {
       "content_hash": "03607cf44240036a1f99f56e06a328b69c0be4f064c3000feaa945839dc266f1",
-      "rendered_hash": "47c46f11ebf1de4059c102b7acfca9ec330aac6dce263dddfdc91db2c8ae3904",
+      "rendered_hash": "1e6d6e0adc8940f38d14130f690f5187eb428057e3a8e12ed28fd9e5d5b20c03",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "30d4519282eefb5fe65949655f1312692be7dd527184491204b62837684d7481"
+      "enrichment_source_hash": "30d4519282eefb5fe65949655f1312692be7dd527184491204b62837684d7481",
+      "evidence_export_hash": "18878bc01eb03c76a407bc958ed6afa14f1d4b70014b6e125aed2f4146333e94",
+      "evidence_export_content_hash": "03607cf44240036a1f99f56e06a328b69c0be4f064c3000feaa945839dc266f1",
+      "evidence_base_hash": "47c46f11ebf1de4059c102b7acfca9ec330aac6dce263dddfdc91db2c8ae3904"
     },
     "objektai/asmenys/Viktoras Vizgirda.md": {
       "content_hash": "4416d12b9dd5cb02479cf89982757d3ed5639c7621457b00f1eaacf4687fccdd",
@@ -68534,9 +68559,12 @@
     },
     "objektai/autoriai/J. Šimkevičius.md": {
       "content_hash": "7edccf382344ad1353400856df8f01f98808e02f1f71b443ba2ae4581cdd93a9",
-      "rendered_hash": "120105fe158095d05d9623236fb878e5c80742f754935ec10ab8b86fe62d2644",
+      "rendered_hash": "3e5fcbbdcbeaf8aa5a4c1600d509f17fdf6615de707bda24bb25b1d4882ba5ef",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "a14fb10fa08b801e450260d5bf7cca003ce31354cdde504b8cac3cb14657cdda"
+      "enrichment_source_hash": "a14fb10fa08b801e450260d5bf7cca003ce31354cdde504b8cac3cb14657cdda",
+      "evidence_export_hash": "6516a67191e6607e8e65845bd4efc50795f948db56ef8312fe4ee7bd153a47be",
+      "evidence_export_content_hash": "7edccf382344ad1353400856df8f01f98808e02f1f71b443ba2ae4581cdd93a9",
+      "evidence_base_hash": "120105fe158095d05d9623236fb878e5c80742f754935ec10ab8b86fe62d2644"
     },
     "objektai/autoriai/Jeronimas Maleckis.md": {
       "content_hash": "5d001eeb6b07b0396ea387416ea7a0edb0a284b374f062234dda0d4735cb06f4",
@@ -68552,9 +68580,12 @@
     },
     "objektai/autoriai/Jokūbas Šimkevičius.md": {
       "content_hash": "4097c484c99970c3a860ef445617e90081180d6adb7a40abb7315b6fa8b73adb",
-      "rendered_hash": "cbd14455f378ba4350fd23e47fb0490b3a68e221afae2cf5ac8620c15ea40e3e",
+      "rendered_hash": "aa8d1a9de7e9084398b34dd574273ec8eb5936fc3f1c4a69e4b481aa07fead04",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "97ce376a9e5695ac9893422e2e12ded0af7e96ab6e98426568aad80298b24a8c"
+      "enrichment_source_hash": "97ce376a9e5695ac9893422e2e12ded0af7e96ab6e98426568aad80298b24a8c",
+      "evidence_export_hash": "4a535ca21f16369fe001d8003365ffb6c73f9609409dbdbf92be2a23266ab603",
+      "evidence_export_content_hash": "4097c484c99970c3a860ef445617e90081180d6adb7a40abb7315b6fa8b73adb",
+      "evidence_base_hash": "cbd14455f378ba4350fd23e47fb0490b3a68e221afae2cf5ac8620c15ea40e3e"
     },
     "objektai/autoriai/Jonas Ramas.md": {
       "content_hash": "360cb2213aedb6cef0b0aaa1e6cd5a4bb8a32209d7813989b75b3701f9d80cc3",
@@ -68762,9 +68793,12 @@
     },
     "objektai/autoriai/V. Nazimovas.md": {
       "content_hash": "b03b172bf86d9c1a01087fc55497bc2d1e9e267596fc54705d958bf343536483",
-      "rendered_hash": "a2ecaeb1602566e8e3780f4f0c34dbf35d0d4b6c0a7533066997b8dbf609c913",
+      "rendered_hash": "5823637ac801a8458285fe4d388f9418f57dbf2dc6f300da363cc53f5a8b546f",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "220aaa9464c245c83aef2180eb4deae0bdf6e1a7a071a4bdea801de26e144569"
+      "enrichment_source_hash": "220aaa9464c245c83aef2180eb4deae0bdf6e1a7a071a4bdea801de26e144569",
+      "evidence_export_hash": "a4c7b7b8ea6e7d16bc411c854aa7258caeb1af5f72f075876929f31e02f9f81c",
+      "evidence_export_content_hash": "b03b172bf86d9c1a01087fc55497bc2d1e9e267596fc54705d958bf343536483",
+      "evidence_base_hash": "a2ecaeb1602566e8e3780f4f0c34dbf35d0d4b6c0a7533066997b8dbf609c913"
     },
     "objektai/autoriai/Vincentas Kadlubek.md": {
       "content_hash": "af643fa1ee9e063430232e9aea7bd09eb83eff25de7c78c4a692d977d9a8598f",
@@ -71108,9 +71142,12 @@
     },
     "objektai/grupes/Raseinių ir Palėvenio dominikonų vienuolynai.md": {
       "content_hash": "183f49a6e3d98f596fb45235426045f1ffd4b7e981606883b37245da921bef77",
-      "rendered_hash": "24839fead178c727d671e81ce855cf66ab5dfbe17960c6907ae17e1d8f30fb55",
+      "rendered_hash": "ad56d730669a09a6b870884dfaea4def659def82b8b9310acf7b504fc42440ee",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "2c9e9df05bc13a2f0ed8e2c8511039b2932604d68141b46889f59a7e42a48ebd"
+      "enrichment_source_hash": "2c9e9df05bc13a2f0ed8e2c8511039b2932604d68141b46889f59a7e42a48ebd",
+      "evidence_export_hash": "66c65d259701a346f12b2bce6b741ee1f35c638cf1a5eeb574bc529edc2db24b",
+      "evidence_export_content_hash": "183f49a6e3d98f596fb45235426045f1ffd4b7e981606883b37245da921bef77",
+      "evidence_base_hash": "24839fead178c727d671e81ce855cf66ab5dfbe17960c6907ae17e1d8f30fb55"
     },
     "objektai/grupes/Raseinių masonų ložė.md": {
       "content_hash": "8999f6f8e26f03e12d13f3af8499bae23de0ef9fbbe461ba4c11661504257180",
@@ -71588,9 +71625,12 @@
     },
     "objektai/ivykiai/1853 m. kovo 28 d. aplinkraštis Nr. 659–677 dėl pamokslų cenzūros.md": {
       "content_hash": "81a98601c2146bf2f14e8df948e0693d56889aa27bf372941331f5dd424b8804",
-      "rendered_hash": "31769af2f1463c123bc0057c19c2a40b66c3fe3cd71c079b0e1a12294fab2015",
+      "rendered_hash": "abf0f5f447ee1dd54c441c3d3c6bd54c2412d50c775c1be020e38ce178a57b98",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "ea2138e2d943a8d80c3f4f0ae7889f958ed7d6af3e4581ea32f85c5fc4178cd7"
+      "enrichment_source_hash": "ea2138e2d943a8d80c3f4f0ae7889f958ed7d6af3e4581ea32f85c5fc4178cd7",
+      "evidence_export_hash": "a0c4474ac9f0781f6474af8309c8e7c9652b30ea77f04849ce368ecf55257525",
+      "evidence_export_content_hash": "81a98601c2146bf2f14e8df948e0693d56889aa27bf372941331f5dd424b8804",
+      "evidence_base_hash": "31769af2f1463c123bc0057c19c2a40b66c3fe3cd71c079b0e1a12294fab2015"
     },
     "objektai/ivykiai/1855 m. kovo 28 d. aplinkraštis dėl pamokslų cenzūros apeinimo.md": {
       "content_hash": "3b27f1903f33854ad82e6361b753e6a35d11ace315dd1bf1b55d322411825147",
@@ -71642,15 +71682,21 @@
     },
     "objektai/ivykiai/1867 m. liepos 20 d. laiškas Batakių dekanui kun. Montvilui.md": {
       "content_hash": "3ceb1f769d74e6910df4bd26def0d180c53c15f4bdaa701faf004a9236d48f01",
-      "rendered_hash": "0f6f1dc144ecbe08072db2a216859408e5566e24637fb5c46c1357915c6c31cb",
+      "rendered_hash": "5a6831fbcf12f855da136f31d7c362a0ede97a278b6de417f023e6a3f067f6c3",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "601e84d14768a5e2573c081801e5dcce6423df9ea724f8c0ed7279d9f2bfc87b"
+      "enrichment_source_hash": "601e84d14768a5e2573c081801e5dcce6423df9ea724f8c0ed7279d9f2bfc87b",
+      "evidence_export_hash": "ea94a36d6c5b26b253b58d83cfb0ff27e591c2f627e3954ae669adc5bc90989f",
+      "evidence_export_content_hash": "3ceb1f769d74e6910df4bd26def0d180c53c15f4bdaa701faf004a9236d48f01",
+      "evidence_base_hash": "0f6f1dc144ecbe08072db2a216859408e5566e24637fb5c46c1357915c6c31cb"
     },
     "objektai/ivykiai/1867–1868 m. badas Lietuvoje.md": {
       "content_hash": "b71fb251e7c27bb40970e9703e9be987954a892b966e59de8157cb8bf3bc769d",
-      "rendered_hash": "a9346a034bc738ede5210bbb135cfef30aefa7352e58ef86e5e291ab48509684",
+      "rendered_hash": "537474c317e2b7acc86b8d7b53e1c135bcf7bb4654136100eaf6c9fbbc7b3178",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "49f824f556ed2ac432506758617b4cff8efdfd7b3577789952832673f923d231"
+      "enrichment_source_hash": "49f824f556ed2ac432506758617b4cff8efdfd7b3577789952832673f923d231",
+      "evidence_export_hash": "b54f3b2e8fe30d63981cfc6ad6f95028de7280115ed023ee34869acf4118f7ac",
+      "evidence_export_content_hash": "b71fb251e7c27bb40970e9703e9be987954a892b966e59de8157cb8bf3bc769d",
+      "evidence_base_hash": "a9346a034bc738ede5210bbb135cfef30aefa7352e58ef86e5e291ab48509684"
     },
     "objektai/ivykiai/1885 m. gegužės 14 d. nauji svaigalų pardavinėjimo nuostatai.md": {
       "content_hash": "40ff036c81930b01d302a2e7c3f307088b6a298586b1212d82ee274356be48e6",
@@ -72038,9 +72084,12 @@
     },
     "objektai/ivykiai/Byla dėl vyskupo Motiejaus Valančiaus valdžios viršijimo.md": {
       "content_hash": "4902ed8565dcbc2a7012f86b67e2445c2e7ef96d065fcb28d258720bb2920cd8",
-      "rendered_hash": "2110191dc9416f63b4943f69fad4f72f81a0acf9eb859e3545a25fb51212b8a6",
+      "rendered_hash": "19d035569d2917b9e97b9a46aa002a70fb01a25893bcbd6a4f305a01566d7591",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "c58cc15ad91a664ccffd3a391f1ba5a060d1c241c5bf636a0a7f4c84f76cdde1"
+      "enrichment_source_hash": "c58cc15ad91a664ccffd3a391f1ba5a060d1c241c5bf636a0a7f4c84f76cdde1",
+      "evidence_export_hash": "f053add8295d1e4eb79ecb04b82122b7dde1060af56f91bcca3aabcadae66b54",
+      "evidence_export_content_hash": "4902ed8565dcbc2a7012f86b67e2445c2e7ef96d065fcb28d258720bb2920cd8",
+      "evidence_base_hash": "2110191dc9416f63b4943f69fad4f72f81a0acf9eb859e3545a25fb51212b8a6"
     },
     "objektai/ivykiai/Centralinio komiteto lėšų siuntimas į Vilnių.md": {
       "content_hash": "9f7406ab30f909eb8e5d8a7f22059c19ca03c3343ce41aaabfccc57ad033c7ff",
@@ -72110,9 +72159,12 @@
     },
     "objektai/ivykiai/Dekanatų bibliotekų steigimas.md": {
       "content_hash": "aac498ac70caf336a838ebfa3dc932de1991fd0ad29f8b615ce61b2345b590be",
-      "rendered_hash": "d28c1e4a48de7c7c2caba77fb0118fad699c659d3d6767b417db876ae8aee637",
+      "rendered_hash": "f927e11314488d0c924197a8f1ba36e934cbc39bb244d756243e78da291dc8f5",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "184bc0f5c70145bd674365d1773c573e91928441af01a25b39a875bbbf52208c"
+      "enrichment_source_hash": "184bc0f5c70145bd674365d1773c573e91928441af01a25b39a875bbbf52208c",
+      "evidence_export_hash": "490aa77e0736f7516d6724a73a56dfcb2b5634469faa0c28336c6abf093294df",
+      "evidence_export_content_hash": "aac498ac70caf336a838ebfa3dc932de1991fd0ad29f8b615ce61b2345b590be",
+      "evidence_base_hash": "d28c1e4a48de7c7c2caba77fb0118fad699c659d3d6767b417db876ae8aee637"
     },
     "objektai/ivykiai/Delegatų išleistuvių vakarienė Kaune.md": {
       "content_hash": "e8d2cc712772964a32ad38c478ef84d0e0c02894d1e5dc9f0a87726e75a2bc67",
@@ -72608,9 +72660,12 @@
     },
     "objektai/ivykiai/Ivano Nikotino vizitas pas Motiejų Valančių.md": {
       "content_hash": "ff83d4bbfb286d03371be92d9b843d5008cb6e345d39404c20c0c956f981d703",
-      "rendered_hash": "e2e97a3922e30289a3696aae9304a1a087bbc86bac5e6ec26b0b8c8278d80e5d",
+      "rendered_hash": "30ed3820481cde4cdf78961feba1d85a36fa073086337269946564db512a56cb",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "afaa59f6d72d2578969c0abf3dc2ccd6ffc12686ed5648049d6ce59b73f2706b"
+      "enrichment_source_hash": "afaa59f6d72d2578969c0abf3dc2ccd6ffc12686ed5648049d6ce59b73f2706b",
+      "evidence_export_hash": "f7035fe69d6820bd5a55959ed085ecbf6d3b21f4e49b629138f8f95244f3d481",
+      "evidence_export_content_hash": "ff83d4bbfb286d03371be92d9b843d5008cb6e345d39404c20c0c956f981d703",
+      "evidence_base_hash": "e2e97a3922e30289a3696aae9304a1a087bbc86bac5e6ec26b0b8c8278d80e5d"
     },
     "objektai/ivykiai/Išdavystės prieš Gardino pilį epizodas 1311 metais.md": {
       "content_hash": "3ebe25a58f32689bb4524909cd70acdfe41cbb7531c1c5ff1ace2bff423bc041",
@@ -73592,9 +73647,12 @@
     },
     "objektai/ivykiai/Nikolajaus Muravjovo vizitas pas Motiejų Valančių Varniuose.md": {
       "content_hash": "eed758178665fd1a3281a1c9e0199ddc6c94b2f746ec80a7bfb7a271d1560aef",
-      "rendered_hash": "a7ac82948424eee8829cff72185394c49e729ec71bce0f35d3a2f62fdd36c21e",
+      "rendered_hash": "8096fd125871e826f5fe8b15d6e4135ce7c1753b317ec203beea5fd7d61cf695",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "008a541dc699ef814c940e3b89af649744eb51feeb8d10364f86acc057ebc898"
+      "enrichment_source_hash": "008a541dc699ef814c940e3b89af649744eb51feeb8d10364f86acc057ebc898",
+      "evidence_export_hash": "908b546422c8b9d12df23c88818663e1dcefc7aa27ed66e139b88692f4e74d28",
+      "evidence_export_content_hash": "eed758178665fd1a3281a1c9e0199ddc6c94b2f746ec80a7bfb7a271d1560aef",
+      "evidence_base_hash": "a7ac82948424eee8829cff72185394c49e729ec71bce0f35d3a2f62fdd36c21e"
     },
     "objektai/ivykiai/Noliubo pasitraukimas ir paklusimas krikščionių tikėjimui.md": {
       "content_hash": "1b1a2544e450282b1d1f8f75143dede565a9c1a025cd3235756fb60eed3e2464",
@@ -73778,9 +73836,12 @@
     },
     "objektai/ivykiai/Parapinių mokyklų uždarymas.md": {
       "content_hash": "440a100311e58ada2638919977e0fe96e9f7c3c46ecdb0a3ac8111cafd3b9605",
-      "rendered_hash": "2b5ff2964038e1395462ba52d63edfb0af3a3b17fbe83024f3ac160e34ae207a",
+      "rendered_hash": "5b6c95214a2d68d6a0a6e3135b47bbb43ab4d2c0a3091ab2863a08fd146f1df2",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "bf30e4f344161a0c19d6adb099ca498ac27893ea2759910429792fdaad1887ce"
+      "enrichment_source_hash": "bf30e4f344161a0c19d6adb099ca498ac27893ea2759910429792fdaad1887ce",
+      "evidence_export_hash": "ecb61dbc2e4a2e85c99a9d6ba3bbb514fe4d8857b078f88afa399cf48460cd74",
+      "evidence_export_content_hash": "440a100311e58ada2638919977e0fe96e9f7c3c46ecdb0a3ac8111cafd3b9605",
+      "evidence_base_hash": "2b5ff2964038e1395462ba52d63edfb0af3a3b17fbe83024f3ac160e34ae207a"
     },
     "objektai/ivykiai/Pasikėsinimas prieš Lietuvos atstovus Parčevo seime.md": {
       "content_hash": "0ad1f59bd2dd391f8224ba5cbf3a7a8435a896f05efef4e6b84a6db0880ac03c",
@@ -74246,9 +74307,12 @@
     },
     "objektai/ivykiai/Slaptas katalikiškos lietuviškos literatūros leidimas Prūsijoje ir jos gabenimas į Lietuvą.md": {
       "content_hash": "d260285c8e10582369b4a658b06df9242f914aebdbb73599430860d5deb951b9",
-      "rendered_hash": "e28672addbac401b07424378e28a972d63f325aa5c5001c7dd7c9243e082518b",
+      "rendered_hash": "756114dc04a1d9eefa759ace96b3935c11166d84678851ef1226ed2c368d2d15",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "93bc98879d9b259aa99c19ce055d680e6f38a92123aea54e683236efc20aee01"
+      "enrichment_source_hash": "93bc98879d9b259aa99c19ce055d680e6f38a92123aea54e683236efc20aee01",
+      "evidence_export_hash": "2c57b2b68fa3e353494a250de8c281cc8d542d9e80ce2a0a89c11cb724e2108f",
+      "evidence_export_content_hash": "d260285c8e10582369b4a658b06df9242f914aebdbb73599430860d5deb951b9",
+      "evidence_base_hash": "e28672addbac401b07424378e28a972d63f325aa5c5001c7dd7c9243e082518b"
     },
     "objektai/ivykiai/Slavų įsiveržimas į Daniją ir Jarmeriko atsakomasis žygis.md": {
       "content_hash": "17ea6f71ecf8c00f06710111a0d4167ee95b28f55176fb85366bdb4682e398bb",
@@ -74726,9 +74790,12 @@
     },
     "objektai/ivykiai/Vyskupo M. Valančiaus buto krata.md": {
       "content_hash": "7d2e20f57c68f473cba109642938f112a8cb9d302a9de086cfd9cead87c5a2c2",
-      "rendered_hash": "09d32d3fab205acbaf5ed43a86d411dcc5a7a4d85759028fea4b0db62a9a0f55",
+      "rendered_hash": "1ab16f8c3a940a2c0bfa74be20b09055350f00f861cd1c6bf288ef0d79db61be",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "58ee1179034208b335c1aac4d1f5c5ea83585adb4059b15e30c9b1184ee4f2af"
+      "enrichment_source_hash": "58ee1179034208b335c1aac4d1f5c5ea83585adb4059b15e30c9b1184ee4f2af",
+      "evidence_export_hash": "292ef08823e2d767deab8ab7dd158028ba87fa37ace0a8f330ab8ba023d71c85",
+      "evidence_export_content_hash": "7d2e20f57c68f473cba109642938f112a8cb9d302a9de086cfd9cead87c5a2c2",
+      "evidence_base_hash": "09d32d3fab205acbaf5ed43a86d411dcc5a7a4d85759028fea4b0db62a9a0f55"
     },
     "objektai/ivykiai/Vyskupo Motiejaus Valančiaus 1860 m. gruodžio 17 d. aplinkraštis dėl blaivybės pamaldų.md": {
       "content_hash": "64dbd06831cd760db3123ccd74819b6cbce6291a0fcd9a690cfac472bf9087b7",
@@ -74744,9 +74811,12 @@
     },
     "objektai/ivykiai/Vyskupo Motiejaus Valančiaus pastoracinis laiškas Tytuvėnų parapijai.md": {
       "content_hash": "b8edb1cb646ec3ca952bc22cb0cc27e6874dce4d556f0363422da46d0b0473a3",
-      "rendered_hash": "38fd85517436b7cb092901ad33120c4fb3cb3bb1a34069c550211074b462fdda",
+      "rendered_hash": "a84bea86a31a34dc5686fdb16cc34c0b73796bc51ff8b4375aca3885389f1cbb",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "9f3b671e9f3dda3fdbfb495b8ba0653ffc72c7333b3733f65d8648f985551b85"
+      "enrichment_source_hash": "9f3b671e9f3dda3fdbfb495b8ba0653ffc72c7333b3733f65d8648f985551b85",
+      "evidence_export_hash": "094fdd2b191a8261c83b12bc97e2798936939d7326ae5c928776fa97d581f1fc",
+      "evidence_export_content_hash": "b8edb1cb646ec3ca952bc22cb0cc27e6874dce4d556f0363422da46d0b0473a3",
+      "evidence_base_hash": "38fd85517436b7cb092901ad33120c4fb3cb3bb1a34069c550211074b462fdda"
     },
     "objektai/ivykiai/Vyskupo Motiejaus Valančiaus pastoracinis laiškas prieš meškininkus.md": {
       "content_hash": "e31002af8abbd22ec992ab876770ed1ac98b6765a5463ff18cbc6263704ddfe4",
@@ -75116,9 +75186,12 @@
     },
     "objektai/paprociai/Atminimo dovanėlių dalijimas vizitacijų metu.md": {
       "content_hash": "d4163ee43785a82b46c022b0619dca31ad5e93aca4cf9dd352a435bb52eba680",
-      "rendered_hash": "ded119fadfd853841d87bf8e12fc789f57963c376d73792e2723d10e1ab4498c",
+      "rendered_hash": "bb9e4ab31eb7a108135ec84ed18da558aa8f41adaa0efb462687602a776ba3f8",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "1b60cc7680b1dbf605cd169775089fddfc2325e037f56bad4d9029d8f8e4830b"
+      "enrichment_source_hash": "1b60cc7680b1dbf605cd169775089fddfc2325e037f56bad4d9029d8f8e4830b",
+      "evidence_export_hash": "f8f100988b7ea0741f900f8a905da797db25ff51fc8ced89e2a6bd30bc0d7b4c",
+      "evidence_export_content_hash": "d4163ee43785a82b46c022b0619dca31ad5e93aca4cf9dd352a435bb52eba680",
+      "evidence_base_hash": "ded119fadfd853841d87bf8e12fc789f57963c376d73792e2723d10e1ab4498c"
     },
     "objektai/paprociai/Atrimpo aukojimas vandens ir žvejybos globai.md": {
       "content_hash": "4e2569ae24b69bb77bf2e2835b6da4eee2d5c636ce1401a4b06cb9aeeec3fb64",
@@ -75200,9 +75273,12 @@
     },
     "objektai/paprociai/Blaivybės brolijos apžadų atnaujinimas per Grabnyčias.md": {
       "content_hash": "b7529c4938a843984dd36411f5ce407833fde44a6955f66abe718a46ed95adc7",
-      "rendered_hash": "d3cff6fc66a484c63f1efb7831e47260b215e721fe7bea04f397d8cce0827d84",
+      "rendered_hash": "c93ac0212cda98d723f0ed4f46b5f7bb73158cc7a475afd08c7c60cbae3de572",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "1e52b2070f68a6823cc7b3db67d4d15d0ce1f8973c75e4980f6c84e9970c1f22"
+      "enrichment_source_hash": "1e52b2070f68a6823cc7b3db67d4d15d0ce1f8973c75e4980f6c84e9970c1f22",
+      "evidence_export_hash": "a860f586f620d28ea298e939d6d4312b9e636fde80d7073493a4b36fe31ca6d7",
+      "evidence_export_content_hash": "b7529c4938a843984dd36411f5ce407833fde44a6955f66abe718a46ed95adc7",
+      "evidence_base_hash": "d3cff6fc66a484c63f1efb7831e47260b215e721fe7bea04f397d8cce0827d84"
     },
     "objektai/paprociai/Blaivybės brolijos priesaikos ir priėmimo apeigos.md": {
       "content_hash": "739a3ce1249f3dca701b31ff3dc40077f9edd69107f60ec2dd072c3af9ae05be",
@@ -75218,9 +75294,12 @@
     },
     "objektai/paprociai/Blaivybės brolijos priėmimo ir apžado atnaujinimo praktika.md": {
       "content_hash": "d2f43b902208ba0144551207ac697dcefcc9cfc83a905019b374fabe2b544657",
-      "rendered_hash": "ac42622b93588915525b115247bea422ca8274431b372c69417cb2bb612a5677",
+      "rendered_hash": "5a7819436878c80443bf9bffcaaedfc9b729556f06fbaabb92829c50706ca6cc",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "7976603e0f87c3dce118f692fb6eaa11343a201244048b44f33c1763d6511fc4"
+      "enrichment_source_hash": "7976603e0f87c3dce118f692fb6eaa11343a201244048b44f33c1763d6511fc4",
+      "evidence_export_hash": "b6dbafdd0713cae3d7d7b0d508f3426f31de67669e200c30aa7c93f5d65db80e",
+      "evidence_export_content_hash": "d2f43b902208ba0144551207ac697dcefcc9cfc83a905019b374fabe2b544657",
+      "evidence_base_hash": "ac42622b93588915525b115247bea422ca8274431b372c69417cb2bb612a5677"
     },
     "objektai/paprociai/Blaivybės brolijos įstojimo priesaika.md": {
       "content_hash": "b9c60451cd14bc7dbc132c944956c349b17921bee9ece30ac334446e0b4b2b3d",
@@ -75284,9 +75363,12 @@
     },
     "objektai/paprociai/Blaivybės įžadas ir ganytojiško laiško skaitymas iš ambonos.md": {
       "content_hash": "68719c6993826800481015cb17381784dfe8275af49a77c12866e49af24aabc9",
-      "rendered_hash": "93f503e31d60a308fb1438e4fb7b71d7e4f1a70c1f0287af64a95e7da7fdad2c",
+      "rendered_hash": "684cbe0728526ad6560d61fe38681b37f1bb37b739473d4cfc72ff45b4b98a9b",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "addbb138fa444fc0b75ebfbcb4005e5157847f823a41f3338a5f13d7b1736376"
+      "enrichment_source_hash": "addbb138fa444fc0b75ebfbcb4005e5157847f823a41f3338a5f13d7b1736376",
+      "evidence_export_hash": "b67054e2fe371037144d41c6eb5ff2c9757d1655251fb44b8eda8a77efb44625",
+      "evidence_export_content_hash": "68719c6993826800481015cb17381784dfe8275af49a77c12866e49af24aabc9",
+      "evidence_base_hash": "93f503e31d60a308fb1438e4fb7b71d7e4f1a70c1f0287af64a95e7da7fdad2c"
     },
     "objektai/paprociai/Brostvininkų blaivybės priežiūra.md": {
       "content_hash": "a576885936a341857f43e7ef18a67358149de5d7811dc36dfae419a097114ad2",
@@ -75440,9 +75522,12 @@
     },
     "objektai/paprociai/Ganytojiškų laiškų skelbimas bažnyčioje.md": {
       "content_hash": "52f9605a4942b5cbdf5983e2bb0adbc40daaae5e8c869c8c7364f64596174975",
-      "rendered_hash": "3e10ca1c8e79a28f73c63c624c439664574ac1465701e5e502b95d8baa178ce6",
+      "rendered_hash": "0ad25d40e3d2f074b40faf422fcc0d72f72f5e1e7c59503765b6a0ae83f424a0",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "63cf9545c02b7a5ee3b3f63cd0575260edf6a8d202e13c1705a443bf0eb79935"
+      "enrichment_source_hash": "63cf9545c02b7a5ee3b3f63cd0575260edf6a8d202e13c1705a443bf0eb79935",
+      "evidence_export_hash": "e951b402813bb04f9004ef73ca5a25d446173952d0be27fff1bea34e77b3c73c",
+      "evidence_export_content_hash": "52f9605a4942b5cbdf5983e2bb0adbc40daaae5e8c869c8c7364f64596174975",
+      "evidence_base_hash": "3e10ca1c8e79a28f73c63c624c439664574ac1465701e5e502b95d8baa178ce6"
     },
     "objektai/paprociai/Gelonų-budinų draugiškumo ir ūkinis-prekybinis gyvenimo būdas.md": {
       "content_hash": "c2cf7018f8646970c7cd5432752c88c75c9b5fb03aeb50f544d07785e9c19eac",
@@ -75752,9 +75837,12 @@
     },
     "objektai/paprociai/Kunigų metinės rekolekcijos.md": {
       "content_hash": "f2e83d7cbebbf0a6a8be59d3693e42bef03b64eca4ca2cb466b2b721d10cbd5f",
-      "rendered_hash": "baca47794a9a5feea29e53a3342a1440dc006010e636b6e7fe279fc2d11fe830",
+      "rendered_hash": "3e3ef124dbd3e732bd4428b5c74039f1c2e1da14809fc086d1c8d06ecf0cf489",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "72f61ba7fd01d10334184b05dd8e902d2d08d0c9fc121e896ab51a0bcc5d3545"
+      "enrichment_source_hash": "72f61ba7fd01d10334184b05dd8e902d2d08d0c9fc121e896ab51a0bcc5d3545",
+      "evidence_export_hash": "a181e089c548ba965fe39536ef24f0f9046059c3ab81d8bbdd632e5a7588c287",
+      "evidence_export_content_hash": "f2e83d7cbebbf0a6a8be59d3693e42bef03b64eca4ca2cb466b2b721d10cbd5f",
+      "evidence_base_hash": "baca47794a9a5feea29e53a3342a1440dc006010e636b6e7fe279fc2d11fe830"
     },
     "objektai/paprociai/Kupolės šventės nakties susibūrimai.md": {
       "content_hash": "a19b99bd2b131d6716279fd7711f4412170f58e5e5034daedfa99dcdba7bc33c",
@@ -76160,9 +76248,12 @@
     },
     "objektai/paprociai/Pastoracinių blaivybės laiškų skaitymas bažnyčiose.md": {
       "content_hash": "dccac23cd79c0ce65182db5fdf0dc292cf5c40d7e34d1510113001f862843dd9",
-      "rendered_hash": "f505b3e70bcf3337846117d5ad4bdb83adc3e1d2f292fbb23eadf7b398b25753",
+      "rendered_hash": "fa841c9baaafed902c50ed3023d7f12cb2f4ce494cd683a6fd4b1428deefe3af",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "ed636f0428fe9119a50316aea190456c663e0e7af7cba8ddf0a0586019fcf637"
+      "enrichment_source_hash": "ed636f0428fe9119a50316aea190456c663e0e7af7cba8ddf0a0586019fcf637",
+      "evidence_export_hash": "d5a708e38466806c16e4804eefcd21f4f409b97d935bf3e54c5487503d701c69",
+      "evidence_export_content_hash": "dccac23cd79c0ce65182db5fdf0dc292cf5c40d7e34d1510113001f862843dd9",
+      "evidence_base_hash": "f505b3e70bcf3337846117d5ad4bdb83adc3e1d2f292fbb23eadf7b398b25753"
     },
     "objektai/paprociai/Patelo garbei laikoma mirusiojo kaukolė.md": {
       "content_hash": "e6864133ce13807172c1e885e5f980a22c4409396aa009e8e8275a96a7be1e7e",
@@ -76550,9 +76641,12 @@
     },
     "objektai/paprociai/Vaikų ruošimas pirmajai išpažinčiai ir šv. Komunijai.md": {
       "content_hash": "e144ff2e5fdccbac6aa5670f9a3fa3955306e4d522a9b7948bc35741b56fc584",
-      "rendered_hash": "d617f567f683bb60abddea182762732954c115a2927f3c33e9ea8afbbffe9f11",
+      "rendered_hash": "e795d0fbbf59496b7b1a8b7df382c690a5c686c688b13e69988d5bd7b623b2e0",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "60c5edcfa8a30c31f1c83378b73d43b9b5a564ea0ea1c1d61be3d84641ed695d"
+      "enrichment_source_hash": "60c5edcfa8a30c31f1c83378b73d43b9b5a564ea0ea1c1d61be3d84641ed695d",
+      "evidence_export_hash": "dcd94b801d9878f2139fc2434c69c10646517cebc3e9f2fcdac151867bb554e9",
+      "evidence_export_content_hash": "e144ff2e5fdccbac6aa5670f9a3fa3955306e4d522a9b7948bc35741b56fc584",
+      "evidence_base_hash": "d617f567f683bb60abddea182762732954c115a2927f3c33e9ea8afbbffe9f11"
     },
     "objektai/paprociai/Vaišių liekanų dalijimas pavargėliams kaip išmalda už mirusiuosius.md": {
       "content_hash": "6209a1887333d8a4e970fd7f7b9950376478a33ee3bb1ae42be89fc43c2aa411",
@@ -76616,9 +76710,12 @@
     },
     "objektai/paprociai/Vieša atgaila.md": {
       "content_hash": "ef867e53cb7f1a548ced06a49bf5430c73cb69594f284638ea2e37109329e87c",
-      "rendered_hash": "781da746bcc923f0e7ebd94c9c37d67b40b11f35100d1c38f3e5897c072b7f27",
+      "rendered_hash": "46ff71ee668278cfd76e4d4f2b190796bf4f696f078e446d774ba27f0ddd564b",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "91d9ec1f4de73795b48ea889c44c5a82b997d96e694544f9464330820f7182c9"
+      "enrichment_source_hash": "91d9ec1f4de73795b48ea889c44c5a82b997d96e694544f9464330820f7182c9",
+      "evidence_export_hash": "fcf875b6c0cae0092b210877d860f96d472c8e0a0f303e1f42783f996d9bd1cb",
+      "evidence_export_content_hash": "ef867e53cb7f1a548ced06a49bf5430c73cb69594f284638ea2e37109329e87c",
+      "evidence_base_hash": "781da746bcc923f0e7ebd94c9c37d67b40b11f35100d1c38f3e5897c072b7f27"
     },
     "objektai/paprociai/Viešas atgailos pasninkas ir septynių poterių kalbėjimas.md": {
       "content_hash": "d4aeeb290ffc7f81458c8545463e1d014c71dd31518769c08dcb2830995f8632",
@@ -83240,9 +83337,12 @@
     },
     "objektai/zodynas/spiritus vinum.md": {
       "content_hash": "9a6dbdbeefe25aa0cedf1e597c631bc9f213a24911ba64bef0e6d4bcf9f98dbd",
-      "rendered_hash": "2819893310b86638879843d59ada53ae79838e7a1629646adfe9c2f180c7a721",
+      "rendered_hash": "9293efb139ff7a1d3219c2433eb542f7b0ce2ef71bf2ea901a658462fdfde804",
       "projection_mode": "authored_object_page",
-      "enrichment_source_hash": "69a72e210e2d7664e2ae20b0fea4662b5bd74fc6bd375677e56d6e4e7d07b970"
+      "enrichment_source_hash": "69a72e210e2d7664e2ae20b0fea4662b5bd74fc6bd375677e56d6e4e7d07b970",
+      "evidence_export_hash": "9fcf48e07374859a20509398d903e99ad6f78a5aeafde9e38a1eb289b5d68a13",
+      "evidence_export_content_hash": "9a6dbdbeefe25aa0cedf1e597c631bc9f213a24911ba64bef0e6d4bcf9f98dbd",
+      "evidence_base_hash": "2819893310b86638879843d59ada53ae79838e7a1629646adfe9c2f180c7a721"
     },
     "objektai/zodynas/stebuklas (sąvoka).md": {
       "content_hash": "d454d1d1fc72599dc458472fd6c3ca5149a5ad6805e14384ed4b2987aae953ad",

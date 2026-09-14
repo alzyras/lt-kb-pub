@@ -68,19 +68,17 @@ canonical_biography: 1775–1818 m. Jokūbas Šimkevičius buvo „Veikalo apie 
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
 ## Teiginiai
 
 <a id="claim-t-209294"></a>
 - t-001
   teiginys: "1818 m. Lietuvoje išleisto „Veikalo apie girtavimą“ autorius buvo Jokūbas Šimkevičius (1775–1818)."
-  atnaujinta: "2026-09-13 15:29"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
