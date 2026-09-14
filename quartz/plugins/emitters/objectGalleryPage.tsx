@@ -22,6 +22,7 @@ import {
   objectGallerySlug,
 } from "../../util/objectMedia"
 import { buildMediaCatalog, mediaEntriesByObject } from "../../util/mediaCatalog"
+import { loadExhibitions } from "../../util/exhibitions"
 import {
   computeFacetSummary,
   MEDIA_GALLERY_PAGE_SIZE,
@@ -86,8 +87,12 @@ function absolutePageUrl(baseUrl: string | undefined, slug: FullSlug): string {
 function mediaStructuredData(entry: MediaEntry, pageUrl: string, description: string): string {
   const imageId = `${pageUrl}#image`
   const creator = displayCreator(entry.creator)
-  const contentUrl = mediaImageUrl(entry)
-  const thumbnailUrl = cleanText(entry.thumbUrl || contentUrl)
+  const rawContentUrl = mediaImageUrl(entry)
+  const rawThumbnailUrl = cleanText(entry.thumbUrl || rawContentUrl)
+  const absoluteImage = (value: string) =>
+    !value || /^https?:\/\//i.test(value) ? value : new URL(value, pageUrl).toString()
+  const contentUrl = absoluteImage(rawContentUrl)
+  const thumbnailUrl = absoluteImage(rawThumbnailUrl)
   const creditText = cleanText(
     entry.attribution || entry.institution || entry.providerLabel || entry.provider,
   )
@@ -138,6 +143,24 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
       const cfg = ctx.cfg.configuration
       const allFiles = content.map((c) => c[1].data)
       const catalog = buildMediaCatalog(allFiles)
+      const exhibitionReturns = new Map(
+        loadExhibitions()
+          .filter((exhibition) => exhibition.exhibitionId.startsWith("valancius-"))
+          .flatMap((exhibition) =>
+            exhibition.sections.flatMap((section) =>
+              section.items.map(
+                (item) =>
+                  [
+                    item.mediaId,
+                    {
+                      title: exhibition.title,
+                      href: `/${exhibition.slug}/#${item.exhibitionItemId}`,
+                    },
+                  ] as const,
+              ),
+            ),
+          ),
+      )
       const objectEntries = mediaEntriesByObject(catalog)
       const lightCatalog = catalog.map(publicEntry)
       const catalogContent = JSON.stringify(lightCatalog)
@@ -261,6 +284,7 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
             description,
             media_detail_page: true,
             media_detail_json: JSON.stringify(publicEntry(entry)),
+            media_exhibition_return: exhibitionReturns.get(entry.mediaId),
             media_primary_thumb_url: mediaImageUrl(entry),
             media_primary_width: entry.width,
             media_primary_height: entry.height,

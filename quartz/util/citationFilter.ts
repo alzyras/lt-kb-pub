@@ -47,6 +47,16 @@ export function collectClaimCount(markdown: string): number {
 
 function stripOuterQuotes(text: string): string {
   const trimmed = text.trim()
+  if (trimmed.startsWith('"') && trimmed.endsWith('"')) {
+    // DB scalar strings are JSON-escaped. Decode their quotes and line breaks
+    // before comparing them with the original literal-block quotation.
+    try {
+      const decoded = JSON.parse(trimmed)
+      if (typeof decoded === "string") return decoded
+    } catch {
+      /* Keep compatibility with older, non-JSON quoted scalars. */
+    }
+  }
   if (
     (trimmed.startsWith('"') && trimmed.endsWith('"')) ||
     (trimmed.startsWith("'") && trimmed.endsWith("'"))

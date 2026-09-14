@@ -12,3 +12,6 @@ replit.nix
 
 public_backup_*/
 test-results/
+.cache/
+.valancius-state/
+public-review-final/

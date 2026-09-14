@@ -31,7 +31,9 @@ const sourceFileBySlug = new Map(
 
 function sourcePath(url: string): string | undefined {
   const parsed = new URL(`http://exhibitions.test${url}`)
-  const slug = decodeURIComponent(parsed.pathname).replace(/^\//, "").replace(/\/$/, "")
+  const slug = decodeURIComponent(parsed.pathname)
+    .replace(/\/irodymai(?:\/\d+)?\/?$/, "")
+    .replace(/^\//, "").replace(/\/$/, "")
   const path = sourceFileBySlug.get(slug as FullSlug)
   return path && existsSync(path) ? path : undefined
 }
@@ -57,6 +59,29 @@ describe("exhibition manifest", () => {
     (entry) => entry.exhibitionId === "lietuvos-valstybes-zenklai",
   )
   const authoritySeals = exhibitions.find((entry) => entry.exhibitionId === "valdzia-vaske")
+
+  test("Valančius drafts retain SEO, four cycle links and compact documentary structure", () => {
+    const cycle = exhibitions.filter((entry) => entry.exhibitionId.startsWith("valancius-"))
+    assert.equal(cycle.length, 2)
+    for (const exhibition of cycle) {
+      assert.ok(exhibition.noindex)
+      assert.ok(exhibition.seo_title)
+      assert.equal(exhibition.relatedContent?.length, 4)
+      assert.ok(exhibition.relatedContent?.some((link) => link.href === `/${exhibition.slug}/`))
+      assert.equal(exhibition.sections.length, exhibition.exhibitionId.endsWith("iki-skaitytojo") ? 5 : 4)
+      assert.equal(exhibitionItemCount(exhibition), 8)
+      for (const section of exhibition.sections) {
+        assert.ok(section.lead.split(/\s+/).length >= 60)
+        for (const item of section.items) {
+          assert.ok(item.descriptionLt.split(/\s+/).length >= 70)
+          assert.ok(item.media.canonicalUrl)
+          assert.ok(item.media.license)
+          assert.equal(item.claims.length, 1)
+          assert.match(item.claims[0].url, /\/irodymai(?:\/\d+)?#claim-t-\d+$/)
+        }
+      }
+    }
+  })
 
   test("keeps the curated stories complete and distinct", () => {
     assert.ok(historical)
@@ -259,12 +284,7 @@ describe("exhibition manifest", () => {
       ...section.claimRefs.map((claim) => claim.claimId),
       ...section.items.flatMap((item) => item.claimRefs.map((claim) => claim.claimId)),
     ])
-    const retiredClaimIds: Array<`t-${number}`> = [
-      "t-78074",
-      "t-35760",
-      "t-64800",
-      "t-176642",
-    ]
+    const retiredClaimIds: Array<`t-${number}`> = ["t-78074", "t-35760", "t-64800", "t-176642"]
     for (const retiredClaimId of retiredClaimIds) {
       assert.ok(!claimIds.includes(retiredClaimId), `${retiredClaimId} must not remain in interwar`)
     }

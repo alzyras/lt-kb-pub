@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import ContentCycle from "./quartz/components/ContentCycle"
 
 function isObjectDetailPage(slug: string | undefined): boolean {
   return Boolean(slug?.startsWith("objektai/") && slug.split("/").length >= 3)
@@ -16,7 +17,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.ReaderMode(),
     Component.AdvancedEvidenceToggle(),
   ],
-  afterBody: [],
+  afterBody: [ContentCycle()],
   footer: Component.ConditionalRender({
     component: Component.Footer({
       links: {

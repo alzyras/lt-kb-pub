@@ -2,6 +2,7 @@ import test, { describe } from "node:test"
 import assert from "node:assert"
 import {
   generateSiteMap,
+  exhibitionContentEntry,
   filterPublicNavigationLinks,
   ContentDetails,
   ContentIndexMap,
@@ -27,6 +28,30 @@ function page(date?: Date, modifiedDate?: Date): ContentDetails {
 }
 
 describe("ContentIndex sitemap", () => {
+  test("local media has an absolute sitemap URL and draft exhibitions stay noindex", () => {
+    const xml = generateSiteMap(cfg, new Map(), [
+      { slug: "parodos/test" as FullSlug, imageUrls: ["/static/media/test.jpg"] },
+    ])
+    assert.match(xml, /https:\/\/example.com\/static\/media\/test.jpg/)
+    const entry = exhibitionContentEntry({
+      slug: "parodos/test",
+      title: "Paroda",
+      description: "Aprašas",
+      subtitle: "Tema",
+      updatedAt: "2026-09-13",
+      noindex: true,
+      sections: [
+        {
+          title: "Skyrius",
+          lead: "Įvadas",
+          items: [{ titleLt: "Eksponatas", descriptionLt: "Dokumento pasakojimas" }],
+        },
+      ],
+    } as any)
+    assert.ok(entry.content.includes("Dokumento pasakojimas"))
+    assert.equal(entry.noindex, true)
+    assert.ok(!generateSiteMap(cfg, new Map([[entry.slug, entry]])).includes("/parodos/test/"))
+  })
   test("generates Google-compatible sitemap XML", () => {
     const idx: ContentIndexMap = new Map([
       [

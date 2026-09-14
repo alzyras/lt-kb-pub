@@ -1,6 +1,16 @@
 import assert from "node:assert/strict"
 import test from "node:test"
-import { isGeneratedMediaDetailLink } from "./links"
+import { isGeneratedMediaDetailLink, isGeneratedObjectEvidenceLink } from "./links"
+
+test("preserves generated evidence routes only for existing source objects", () => {
+  const slugs = ["objektai/asmenys/Motiejus-Valancius"]
+  for (const tail of ["/irodymai/#claim-t-12", "/irodymai/2#claim-t-123", "/irodymai"]) {
+    assert.equal(isGeneratedObjectEvidenceLink("/" + slugs[0] + tail, slugs), true)
+  }
+  assert.equal(isGeneratedObjectEvidenceLink("/objektai/asmenys/Unknown/irodymai/#claim-t-12", slugs), false)
+  assert.equal(isGeneratedObjectEvidenceLink("/" + slugs[0] + "/irodymai/0", slugs), false)
+  assert.equal(isGeneratedObjectEvidenceLink("https://example.com/" + slugs[0] + "/irodymai", slugs), false)
+})
 
 test("recognizes canonical generated media detail routes", () => {
   assert.equal(

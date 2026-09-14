@@ -88,7 +88,13 @@ function mediaAspect(entry: MediaEntry): number {
   return ratio >= 0.1 && ratio <= 10 ? ratio : 4 / 3
 }
 
-function MediaDetailPage({ entry }: { entry: MediaEntry }) {
+function MediaDetailPage({
+  entry,
+  exhibitionReturn,
+}: {
+  entry: MediaEntry
+  exhibitionReturn?: { href: string; title: string }
+}) {
   const caption = displayCaption(entry)
   const originalTitle = cleanText(entry.originalTitle || entry.title)
   const creator = displayCreator(entry.creator)
@@ -213,6 +219,11 @@ function MediaDetailPage({ entry }: { entry: MediaEntry }) {
         </section>
       )}
       <footer class="media-detail-footer">
+        {exhibitionReturn && (
+          <a href={exhibitionReturn.href} data-exhibition-return>
+            <ArrowLeft size={16} /> Grįžti prie eksponato parodoje „{exhibitionReturn.title}“
+          </a>
+        )}
         <a href="/galerija">
           <ArrowLeft size={16} /> Grįžti į visą galeriją
         </a>
@@ -301,7 +312,16 @@ const ObjectMediaGallery: QuartzComponent = (props: QuartzComponentProps) => {
   const { fileData } = props
   const mediaDetail = parseMediaEntry(fileData.frontmatter?.media_detail_json)
   if (fileData.frontmatter?.media_detail_page && mediaDetail) {
-    return <MediaDetailPage entry={mediaDetail} />
+    return (
+      <MediaDetailPage
+        entry={mediaDetail}
+        exhibitionReturn={
+          fileData.frontmatter?.media_exhibition_return as
+            | { href: string; title: string }
+            | undefined
+        }
+      />
+    )
   }
   if (!isMediaGalleryPage(fileData.slug)) return null
 

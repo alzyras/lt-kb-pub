@@ -7,10 +7,15 @@ const POOR_DESCRIPTION = /\b(?:santrauka|aprašymas)\s+(?:nenurodyta|nepateikta|
 export type SeoInput = {
   slug?: string
   title?: unknown
+  seoTitle?: unknown
   description?: unknown
   text?: unknown
   itemType?: unknown
   noindex?: unknown
+  author?: unknown
+  datePublished?: unknown
+  dateModified?: unknown
+  collectionPage?: boolean
 }
 
 export function seoText(value: unknown): string {
@@ -65,8 +70,13 @@ export function seoTitle(
   suffix: string,
   maxLength = 60,
 ): string {
-  const base = seoText(input.title) || siteTitle
+  const editorialTitle = seoText(input.seoTitle)
+  const base = editorialTitle || seoText(input.title) || siteTitle
   if (base === siteTitle) return trimAtWord(base, maxLength)
+  // A deliberately short editorial title takes priority over the site suffix.
+  // Legacy pages without seo_title retain their existing truncation behavior.
+  if (editorialTitle && base.length <= maxLength && base.length + suffix.length > maxLength)
+    return base
   return `${trimAtWord(base, Math.max(18, maxLength - suffix.length))}${suffix}`
 }
 
@@ -134,6 +144,11 @@ function breadcrumbLabel(segment: string): string {
   )
 }
 
+export function seoImageUrl(value: string, baseUrl: string): string {
+  if (!value || /^https?:\/\//i.test(value)) return value
+  return new URL(value, `https://${baseUrl.replace(/^https?:\/\//i, "")}/`).toString()
+}
+
 export function pageStructuredData(
   input: SeoInput & {
     baseUrl: string
@@ -154,6 +169,7 @@ export function pageStructuredData(
   const slug = String(input.slug ?? "index")
   const title = seoText(input.title) || "Lietuvos istorija"
   const description = seoDescription(input)
+  const mediaUrl = input.mediaUrl ? seoImageUrl(input.mediaUrl, input.baseUrl) : undefined
   const segments = slug === "index" ? [] : slug.split("/").filter(Boolean)
   const breadcrumbs = ["index", ...segments].map((segment, index) => ({
     "@type": "ListItem",
@@ -175,6 +191,7 @@ export function pageStructuredData(
       daiktas: "Thing",
       paprotys: "Thing",
       posakis: "Quotation",
+      straipsnis: "Article",
       zodyno_irasas: "DefinedTerm",
     }[type] ?? "Thing"
   const graph: Record<string, unknown>[] = [
@@ -198,6 +215,19 @@ export function pageStructuredData(
       description,
       mainEntityOfPage: { "@id": input.canonicalUrl },
       sameAs: (input.sameAs ?? []).filter((url) => /^https:\/\//i.test(url)),
+      ...(type === "straipsnis"
+        ? {
+            headline: title,
+            author: {
+              "@type": "Organization",
+              name: seoText(input.author) || "Lietuvos istorijos žinių lobynas",
+            },
+            datePublished: input.datePublished || undefined,
+            dateModified: input.dateModified || input.datePublished || undefined,
+            image: mediaUrl,
+            inLanguage: "lt-LT",
+          }
+        : {}),
     },
   ]
   if (input.mediaUrl) {
@@ -206,8 +236,8 @@ export function pageStructuredData(
       graph.push({
         "@type": "ImageObject",
         "@id": imageId,
-        contentUrl: input.mediaUrl,
-        thumbnailUrl: input.mediaUrl,
+        contentUrl: mediaUrl,
+        thumbnailUrl: mediaUrl,
         caption: title,
         width: input.mediaWidth || undefined,
         height: input.mediaHeight || undefined,
@@ -215,6 +245,10 @@ export function pageStructuredData(
       })
     }
     ;(graph[0] as Record<string, unknown>).primaryImageOfPage = { "@id": imageId }
+  }
+  if (input.collectionPage) {
+    graph.splice(2, 1)
+    delete graph[0].mainEntity
   }
   return { "@context": "https://schema.org", "@graph": graph }
 }

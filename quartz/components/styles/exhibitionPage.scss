@@ -317,6 +317,16 @@
   background: linear-gradient(90deg, rgba(18, 10, 7, 0.86), rgba(18, 10, 7, 0.5));
 }
 
+// This documentary B navigation keeps a light paper background in both themes.
+.exhibition-page[data-exhibition-id="valancius-nuo-sakyklos-iki-skaitytojo"] {
+  .exhibition-chapters a:not([data-active]) {
+    color: var(--exhibition-ink);
+  }
+  .exhibition-chapters a:not([data-active]) .exhibition-chapter-number {
+    color: var(--exhibition-accent);
+  }
+}
+
 .exhibition-chapters a[data-active] > img {
   transform: scale(1);
 }
@@ -995,6 +1005,31 @@
 }
 
 @media (max-width: 800px) {
+  // The B booklet is a document to see, not a background hidden behind its title.
+  .exhibition-page[data-exhibition-id="valancius-nuo-sakyklos-iki-skaitytojo"] {
+    .exhibition-hero {
+      display: block;
+      padding: 0 0 1rem;
+    }
+    .exhibition-hero-media {
+      position: relative;
+      inset: auto;
+      height: min(94vw, 24rem);
+    }
+    .exhibition-hero-media img {
+      box-sizing: border-box;
+      padding: 1rem;
+      object-position: center;
+    }
+    .exhibition-hero-scrim {
+      display: none;
+    }
+    .exhibition-hero-content {
+      box-sizing: border-box;
+      width: auto;
+      margin: 0 0.75rem;
+    }
+  }
   .exhibition-hero {
     min-height: 0;
     margin-top: -1rem;
@@ -1038,6 +1073,7 @@
     grid-column: 1 / -1;
   }
   .exhibition-item,
+  .exhibition-item.is-portrait,
   .exhibitions-index > div > article {
     grid-template-columns: minmax(0, 1fr);
   }

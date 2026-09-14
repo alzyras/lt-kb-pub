@@ -118,8 +118,20 @@ if (!Array.isArray(catalog) || !catalog.length) {
       fail(failures, `${mediaId}: weak caption "${caption}"`)
     }
     const imageUrl = mediaImageUrl(entry)
+    const absoluteImageUrl = /^https?:\/\//i.test(imageUrl)
+      ? imageUrl
+      : new URL(imageUrl, siteOrigin).toString()
     try {
-      const url = new URL(imageUrl)
+      if (!/^https?:\/\//i.test(imageUrl)) {
+        const localPath = path.resolve(publicRoot, imageUrl.replace(/^\//, ""))
+        if (
+          !imageUrl.startsWith("/static/media/") ||
+          !localPath.startsWith(path.join(publicRoot, "static", "media") + path.sep) ||
+          !fs.existsSync(localPath)
+        )
+          throw new Error("missing or out-of-scope local image")
+      }
+      const url = new URL(absoluteImageUrl)
       if (!(url.protocol === "https:" || url.protocol === "http:"))
         throw new Error("unsupported protocol")
     } catch {
@@ -148,6 +160,15 @@ if (!Array.isArray(catalog) || !catalog.length) {
     if (metaContent(page.html, "twitter:image:alt") !== caption) {
       fail(failures, `${page.relative}: twitter:image:alt does not equal DB caption`)
     }
+    if (
+      metaContent(page.html, "og:image") !== absoluteImageUrl ||
+      metaContent(page.html, "twitter:image") !== absoluteImageUrl
+    ) {
+      fail(
+        failures,
+        `${page.relative}: social image URL must be absolute and match the catalog image`,
+      )
+    }
 
     const images = jsonLdNodes(page.html).filter(isImageObject)
     if (images.length !== 1) {
@@ -159,7 +180,7 @@ if (!Array.isArray(catalog) || !catalog.length) {
       if (text(image.name) !== caption || text(image.caption) !== caption) {
         fail(failures, `${page.relative}: ImageObject name/caption does not equal DB caption`)
       }
-      if (text(image.contentUrl) !== imageUrl)
+      if (text(image.contentUrl) !== absoluteImageUrl)
         fail(failures, `${page.relative}: ImageObject contentUrl mismatch`)
       if (entry.creator && !image.creator)
         fail(failures, `${page.relative}: missing ImageObject creator`)
@@ -170,7 +191,7 @@ if (!Array.isArray(catalog) || !catalog.length) {
 
     const sitemapEntry = sitemap.match(
       new RegExp(
-        `<url>\\s*<loc>${regexpEscape(htmlEscape(canonicalUrl))}</loc>[\\s\\S]*?<image:loc>${regexpEscape(htmlEscape(imageUrl))}</image:loc>[\\s\\S]*?</url>`,
+        `<url>\\s*<loc>${regexpEscape(htmlEscape(canonicalUrl))}</loc>[\\s\\S]*?<image:loc>${regexpEscape(htmlEscape(absoluteImageUrl))}</image:loc>[\\s\\S]*?</url>`,
       ),
     )
     if (!sitemapEntry) fail(failures, `${mediaId}: sitemap lacks canonical page + image URL pair`)
