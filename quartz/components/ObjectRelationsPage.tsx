@@ -52,7 +52,6 @@ export function RelationGroupCard({ group }: { group: ObjectRelationGroupItem })
       data-relation-group-kind={group.kind}
     >
       <div class="object-relation-group-heading">
-        {pageLinks && <p class="object-relation-page-links-kicker">Atskira grupė</p>}
         <h3 class="object-relation-group-predicate">
           {pageLinks ? "Puslapių nuorodos" : group.label.replace(/\s*\([^)]*\)/g, "")}:
         </h3>
@@ -179,7 +178,6 @@ ObjectRelationsPage.css = `${style}
 .object-relation-group { display: grid; grid-template-columns: minmax(13rem, .35fr) minmax(0, 1fr); gap: .35rem 1rem; align-items: baseline; padding: .85rem 1rem; border: 1px solid var(--object-rule); background: var(--object-wash); }
 .object-relation-group-heading { min-width: 0; }
 .object-relation-page-links-group { margin-top: 1.35rem; border-top: 3px solid var(--secondary); background: color-mix(in srgb, var(--secondary) 5%, var(--object-wash)); }
-.object-relation-page-links-kicker { margin: 0 0 .25rem; color: var(--secondary); font: 700 .68rem var(--codeFont); letter-spacing: .08em; text-transform: uppercase; }
 .object-relation-group-predicate { margin: 0; color: var(--gray); font: 800 .76rem var(--codeFont); letter-spacing: .04em; text-transform: uppercase; }
 .object-relation-page-links-group .object-relation-group-predicate { color: var(--secondary); }
 .object-relation-group-targets { line-height: 1.55; }
