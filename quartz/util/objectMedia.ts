@@ -199,7 +199,13 @@ export function objectMediaSet(frontmatter: QuartzPluginData["frontmatter"]): Ob
   const direct = parseMediaEntries(frontmatter?.media_direct_json)
   const contextual = parseMediaEntries(frontmatter?.media_contextual_json)
   const all = parseMediaEntries(frontmatter?.media_all_json)
-  const primary = parseMediaEntry(frontmatter?.media_primary_json)
+  const primaryId = cleanText(frontmatter?.object_page_primary_media_id)
+  const selectedPrimary = primaryId
+    ? all.find((entry) => cleanText(entry.mediaId) === primaryId)
+    : undefined
+  const primary = selectedPrimary
+    ? { ...selectedPrimary, isPrimary: 1 }
+    : parseMediaEntry(frontmatter?.media_primary_json)
   const fallbackPrimary = primary ?? direct[0] ?? contextual[0] ?? all[0]
   const totalCount = Number(frontmatter?.media_total_count ?? all.length) || all.length
 

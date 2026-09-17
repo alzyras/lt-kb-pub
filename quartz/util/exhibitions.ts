@@ -382,6 +382,25 @@ export function loadExhibitions(): ExhibitionManifest[] {
   return exhibitions
 }
 
+/** Catalogue metadata needs no resolved claim bodies; those are checked on the exhibition page. */
+export function loadExhibitionCatalog() {
+  const media = loadMediaCatalog()
+  return [
+    "exhibitionsSource.json",
+    "exhibitionSupplements.json",
+    "exhibitionStateSymbols.json",
+    "exhibitionAuthoritySeals.json",
+  ]
+    .flatMap((name) => sourcePayload(resolve("quartz/static", name)))
+    .map((source) => ({
+      slug: source.slug,
+      title: source.title,
+      subtitle: source.subtitle,
+      description: source.description,
+      hero: source.hero ?? media.get(source.heroMediaId),
+    }))
+}
+
 export function exhibitionItemCount(exhibition: ExhibitionManifest): number {
   return exhibition.sections.reduce((total, section) => total + section.items.length, 0)
 }

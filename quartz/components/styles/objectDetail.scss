@@ -5,6 +5,7 @@
   margin: 0 auto;
   padding: clamp(1rem, 3vw, 2.7rem) clamp(1rem, 3vw, 2rem) 4rem;
   color: var(--darkgray);
+  font-family: var(--bodyFont);
 
   [hidden] {
     display: none !important;
@@ -83,10 +84,10 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
   grid-template-columns: minmax(16rem, 0.82fr) minmax(30rem, 1.35fr);
   gap: clamp(1rem, 3vw, 2rem);
   align-items: stretch;
-  padding: clamp(1rem, 2.5vw, 1.65rem);
-  border-top: 5px solid var(--secondary);
+  padding: clamp(1rem, 2.5vw, 1.65rem) 0;
+  border-top: 1px solid var(--object-rule);
   border-bottom: 1px solid var(--object-rule);
-  background: var(--object-wash);
+  background: transparent;
 }
 
 .object-detail-identity {
@@ -186,7 +187,7 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
 .object-detail-map .object-map-preview-canvas {
   display: block;
   width: 100%;
-  height: clamp(20rem, 30vw, 27rem);
+  height: clamp(16rem, 25vw, 22rem);
   margin: 0;
 }
 .object-detail-map .object-map-preview-status {
@@ -235,6 +236,328 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
 
 .object-detail-page > section {
   margin-top: clamp(2.25rem, 5vw, 4rem);
+}
+.object-detail-wiki {
+  display: grid;
+  grid-template-columns: minmax(0, 1.35fr) minmax(18rem, 0.8fr);
+  gap: clamp(1.25rem, 3vw, 2.5rem);
+  align-items: start;
+  margin-top: clamp(1.8rem, 4vw, 3rem) !important;
+  padding: clamp(1rem, 2.5vw, 1.65rem);
+  border: 1px solid var(--object-rule);
+  border-top: 4px solid var(--secondary);
+  background: var(--object-wash);
+}
+.object-detail-wiki-main {
+  min-width: 0;
+}
+.object-detail-page .object-detail-wiki {
+  background: var(--ui-surface);
+  border: 1px solid var(--object-rule);
+  padding: clamp(1.25rem, 3vw, 2.5rem);
+  gap: 2.25rem;
+  margin-top: 2rem;
+}
+.object-detail-page .object-detail-wiki-intro,
+.object-detail-page .object-detail-wiki-summary-text {
+  font: 400 clamp(1.02rem, 1.3vw, 1.13rem)/1.8 var(--bodyFont);
+  color: var(--ui-text);
+  margin-top: 0;
+}
+.object-detail-paragraph-source {
+  margin: 0.7rem 0 0;
+  font: 400 0.78rem/1.6 var(--bodyFont);
+  color: var(--ui-muted);
+  a {
+    color: inherit;
+    text-decoration: underline;
+  }
+}
+.object-detail-page .object-detail-tabs a {
+  font: 600 0.82rem/1.4 var(--bodyFont);
+  letter-spacing: 0.015em;
+  text-transform: none;
+  padding: 0.8rem 1rem;
+}
+.object-detail-page .object-section-heading h2 {
+  font: 600 clamp(1.4rem, 2vw, 1.9rem)/1.25 var(--headerFont);
+  letter-spacing: -0.025em;
+}
+.object-detail-page .object-claim-card {
+  background: var(--ui-surface);
+  padding: 1.25rem 1.4rem;
+  border: 1px solid var(--object-rule);
+  border-left: 3px solid color-mix(in srgb, var(--bm-purple) 45%, var(--ui-border));
+}
+.object-detail-page .object-claim-card > p {
+  font: 400 1rem/1.75 var(--bodyFont);
+}
+.object-detail-page .object-evidence-citation summary {
+  font: 500 0.85rem/1.55 var(--bodyFont);
+}
+.object-detail-page .object-claim-id,
+.object-detail-page .object-claim-reliability {
+  font: 500 0.72rem/1.4 var(--bodyFont);
+  color: var(--ui-muted);
+}
+.object-detail-page .object-detail-wiki-origin,
+.object-detail-page .object-detail-wiki-attribution,
+.object-detail-page .object-detail-wiki-infobox-label,
+.object-detail-page .object-detail-wiki-footer-heading {
+  font-family: var(--bodyFont);
+  font-weight: 500;
+  text-transform: none;
+  letter-spacing: 0;
+}
+.object-detail-page .object-detail-wiki-links a {
+  background: var(--ui-surface);
+  font-weight: 500;
+  border-radius: 3px;
+  padding: 0.55rem 0.8rem;
+}
+.object-detail-page .object-detail-source-table-wrap,
+.object-detail-page .object-detail-traits-table-wrap {
+  background: var(--ui-surface);
+}
+.object-detail-page .object-detail-source-table th,
+.object-detail-page .object-detail-traits-table th {
+  font-family: var(--bodyFont);
+  font-weight: 600;
+  text-transform: none;
+  letter-spacing: 0;
+}
+.object-detail-page .object-relation-group {
+  background: var(--ui-surface);
+  border: 0;
+  border-bottom: 1px solid var(--object-rule);
+  padding: 1.1rem 0;
+}
+.object-detail-page .object-relation-group-predicate {
+  font: 600 0.85rem/1.5 var(--bodyFont);
+  text-transform: none;
+  letter-spacing: 0;
+}
+.object-detail-page .object-relation-group-target a {
+  font-weight: 500;
+}
+.object-detail-page .object-relations-header,
+.object-detail-page .object-evidence-header {
+  background: transparent;
+  border-top: 0;
+  padding: 1.5rem 0;
+}
+.object-detail-wiki .object-section-heading {
+  margin-bottom: 0;
+}
+.object-detail-wiki-copy {
+  max-width: 72ch;
+}
+.object-detail-wiki-summary {
+  max-width: 72ch;
+  margin-top: clamp(1.15rem, 2.5vw, 1.8rem);
+  padding-top: clamp(0.85rem, 2vw, 1.2rem);
+  border-top: 1px solid var(--object-rule);
+}
+.object-detail-wiki-summary-text {
+  margin: 0;
+  color: var(--darkgray);
+  font-size: clamp(0.96rem, 1.25vw, 1.08rem);
+  line-height: 1.55;
+}
+.object-detail-wiki-aside {
+  display: grid;
+  min-width: 0;
+  gap: 1rem;
+  align-self: start;
+}
+.object-detail-wiki-origin,
+.object-detail-wiki-attribution,
+.object-detail-wiki-infobox-label {
+  margin: 0;
+  color: var(--gray);
+  font: 800 0.72rem var(--codeFont);
+  letter-spacing: 0.04em;
+  line-height: 1.45;
+}
+.object-detail-wiki-intro {
+  margin: 0.55rem 0 0;
+  color: var(--darkgray);
+  font-size: clamp(1rem, 1.45vw, 1.16rem);
+  line-height: 1.68;
+}
+.object-detail-wiki-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-top: 1rem;
+}
+.object-detail-wiki-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.42rem 0.68rem;
+  border: 1px solid color-mix(in srgb, var(--secondary) 38%, var(--object-rule));
+  background: color-mix(in srgb, var(--secondary) 8%, var(--light));
+  color: var(--secondary);
+  font-size: 0.8rem;
+  font-weight: 800;
+  text-decoration: none;
+}
+.object-detail-wiki-links a:hover,
+.object-detail-wiki-links a:focus-visible {
+  background: var(--secondary);
+  color: var(--light);
+}
+.object-detail-wiki-attribution {
+  margin-top: 0.7rem;
+  font-weight: 500;
+  letter-spacing: 0;
+}
+.object-detail-wiki-attribution a {
+  color: inherit;
+}
+.object-detail-wiki-footer {
+  grid-column: 1 / -1;
+  padding-top: 1rem;
+  border-top: 1px solid var(--object-rule);
+}
+.object-detail-wiki-footer-heading {
+  margin: 0 0 0.55rem;
+  color: var(--secondary);
+  font: 800 0.72rem var(--codeFont);
+  letter-spacing: 0.12em;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+.object-detail-wiki-footer .object-detail-wiki-links {
+  margin-top: 0;
+}
+.object-detail-wiki-portrait {
+  display: grid;
+  overflow: hidden;
+  border: 1px solid var(--object-rule);
+  background: color-mix(in srgb, var(--light) 87%, var(--object-wash));
+  color: var(--gray);
+  text-decoration: none;
+}
+.object-detail-wiki-portrait:hover,
+.object-detail-wiki-portrait:focus-visible {
+  border-color: var(--secondary);
+  color: var(--secondary);
+}
+.object-detail-wiki-portrait img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 22rem;
+  aspect-ratio: 4 / 5;
+  object-fit: contain;
+  object-position: center;
+  background: color-mix(in srgb, var(--object-wash) 70%, var(--light));
+}
+.object-detail-wiki-portrait span {
+  display: block;
+  padding: 0.58rem 0.72rem;
+  font-size: 0.74rem;
+  font-weight: 800;
+  line-height: 1.35;
+}
+.object-detail-wiki-infobox {
+  overflow: hidden;
+  border: 1px solid var(--object-rule);
+  background: color-mix(in srgb, var(--light) 87%, var(--object-wash));
+}
+.object-detail-wiki-infobox-label {
+  padding: 0.72rem 0.85rem;
+  border-bottom: 1px solid var(--object-rule);
+  color: var(--secondary);
+  text-transform: uppercase;
+}
+.object-detail-wiki-table-wrap {
+  overflow-x: auto;
+}
+.object-detail-wiki-table {
+  width: 100%;
+  border-collapse: collapse;
+  color: var(--darkgray);
+  font-size: 0.88rem;
+}
+.object-detail-wiki-table th,
+.object-detail-wiki-table td {
+  padding: 0.62rem 0.85rem;
+  border-bottom: 1px solid var(--object-rule);
+  text-align: left;
+  vertical-align: top;
+  line-height: 1.42;
+}
+.object-detail-wiki-table tr:last-child th,
+.object-detail-wiki-table tr:last-child td {
+  border-bottom: 0;
+}
+.object-detail-wiki-table th {
+  width: 25%;
+  color: var(--dark);
+  font-weight: 800;
+}
+.object-detail-traits {
+  margin-top: clamp(2.1rem, 4vw, 3.2rem);
+}
+.object-detail-traits-table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--object-rule);
+  background: color-mix(in srgb, var(--object-wash) 68%, var(--light));
+}
+.object-detail-traits-table {
+  width: 100%;
+  min-width: 48rem;
+  border-collapse: collapse;
+  color: var(--darkgray);
+  font-size: 0.88rem;
+}
+.object-detail-traits-table th,
+.object-detail-traits-table td {
+  padding: 0.72rem 0.78rem;
+  border-bottom: 1px solid var(--object-rule);
+  text-align: left;
+  vertical-align: top;
+  line-height: 1.48;
+}
+.object-detail-traits-table thead th {
+  color: var(--gray);
+  font: 800 0.7rem var(--codeFont);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+.object-detail-traits-table tbody tr:last-child th,
+.object-detail-traits-table tbody tr:last-child td {
+  border-bottom: 0;
+}
+.object-detail-traits-table tbody th {
+  width: 15%;
+  color: var(--dark);
+}
+.object-detail-traits-table tbody th small {
+  display: block;
+  margin-top: 0.32rem;
+  color: var(--secondary);
+  font-size: 0.68rem;
+  font-weight: 500;
+}
+.object-detail-traits-table ul {
+  display: grid;
+  gap: 0.28rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.object-detail-traits-table li {
+  margin: 0;
+}
+.object-detail-traits-table a {
+  color: var(--secondary);
+  text-decoration: underline;
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.12em;
 }
 .object-section-heading {
   margin-bottom: 1.1rem;
@@ -400,22 +723,6 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
   font-weight: 800;
 }
 
-.object-detail-extra {
-  max-width: 68ch;
-  margin-top: 1.7rem;
-  padding: 0.85rem 1rem;
-  border: 1px solid var(--object-rule);
-}
-.object-detail-extra summary {
-  cursor: pointer;
-  color: var(--dark);
-  font-weight: 800;
-}
-.object-detail-extra p {
-  margin: 0.75rem 0 0;
-  line-height: 1.5;
-}
-
 .object-detail-panel-note {
   max-width: 65ch;
   color: var(--gray);
@@ -457,6 +764,12 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
 .object-detail-relation-targets a {
   display: inline-block;
   line-height: 1.35;
+}
+.object-detail-relation-unresolved {
+  display: inline-block;
+  line-height: 1.35;
+  color: var(--darkgray);
+  border-bottom: 1px dashed var(--gray);
 }
 .object-detail-relation-line strong {
   color: inherit;
@@ -577,6 +890,9 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
   display: none !important;
 }
 @media (max-width: 850px) {
+  .object-detail-wiki {
+    grid-template-columns: 1fr;
+  }
   .object-detail-intro {
     grid-template-columns: 1fr;
   }

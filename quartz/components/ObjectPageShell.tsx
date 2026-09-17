@@ -4,10 +4,10 @@ import { ObjectPageTabs, type ObjectPageTab } from "./ObjectPageTabs"
 import { objectDetailEvidenceFromFile } from "../util/objectDetail"
 import { objectPageViewModel } from "../util/objectPageView"
 import { objectBibliography } from "../util/objectBibliography"
-import { externalReadingCount } from "../util/objectPageView"
 import { cleanText, displayCaption, objectMediaSet } from "../util/objectMedia"
 import { graphSlugForPageData } from "../util/graphIdentity"
 import { FullSlug, simplifySlug, slugifyFilePath } from "../util/path"
+import { objectRelationInputs } from "../util/objectRelations"
 
 const filesBySlug = new WeakMap<
   QuartzComponentProps["allFiles"],
@@ -27,9 +27,9 @@ export function objectPortrait(frontmatter: Record<string, unknown>, editorialMe
   const media = objectMediaSet(frontmatter as any)
   const editorial = media.all.find((entry) => cleanText(entry.mediaId) === editorialMediaId)
   return (
+    media.primary ||
     editorial ||
     media.direct.find((entry) => /portret|atvaizd|graviūr/iu.test(displayCaption(entry))) ||
-    media.primary ||
     media.direct[0]
   )
 }
@@ -47,7 +47,6 @@ export function ObjectPageShell({
   const file = objectShellFile(props)
   const fm = (file.frontmatter || {}) as Record<string, unknown>
   const slug = file.slug as FullSlug
-  const current = props.fileData.slug as FullSlug
   const fullTitle = cleanText(fm.canonical_name || fm.pavadinimas || fm.title)
   const parts = fullTitle.match(/^(.+?)\s*\(([^()]+)\)$/u)
   const title = parts?.[1] || fullTitle
@@ -56,42 +55,44 @@ export function ObjectPageShell({
   )
   const media = objectMediaSet(fm as any)
   const view = objectPageViewModel(fm, evidence, { gallery: media.all.length })
-  view.counts.sources =
-    objectBibliography(props.allFiles, evidence).length + externalReadingCount(fm)
+  view.counts.sources = objectBibliography(props.allFiles, evidence).length
   const graphSlug = graphSlugForPageData(file as any, slug)
-  const relations = view.relationRows.length
-    ? view.relationRows.map((row) => ({ target: row.target, label: row.predicate }))
-    : evidence.relations
+  const relations = objectRelationInputs(fm, evidence)
   const mapIndex: Record<string, any> = {
     [graphSlug]: { slug: graphSlug, title, type: cleanText(fm.tipas), links: [] },
   }
   const lookup = filesBySlug.get(props.allFiles)!
   for (const row of relations) {
-    if (/mention|paminėj|paminej/iu.test(row.label)) continue
     const target = lookup.get(simplifySlug(slugifyFilePath(row.target.replace(/\.md$/, "") as any)))
-    if (!target || target.slug === slug) continue
-    const targetSlug = graphSlugForPageData(target as any, target.slug!)
+    if (target?.slug === slug) continue
+    const targetSlug = target
+      ? graphSlugForPageData(target as any, target.slug!)
+      : row.target.replace(/\.md$/u, "")
     if (targetSlug === graphSlug) continue
     const targetTitle = cleanText(
-      target.frontmatter?.canonical_name ||
-        target.frontmatter?.pavadinimas ||
-        target.frontmatter?.title,
+      target?.frontmatter?.canonical_name ||
+        target?.frontmatter?.pavadinimas ||
+        target?.frontmatter?.title ||
+        row.display ||
+        row.target.split("/").at(-1),
     )
     mapIndex[targetSlug] = {
       slug: targetSlug,
       title: targetTitle,
-      type: cleanText(target.frontmatter?.tipas),
+      type: cleanText(target?.frontmatter?.tipas),
       links: [],
     }
     mapIndex[graphSlug].links.push({
       target: targetSlug,
       targetTitle,
-      targetType: cleanText(target.frontmatter?.tipas),
+      targetType: cleanText(target?.frontmatter?.tipas),
       relationKind: row.label,
       defaultOn: true,
     })
   }
-  const mapHref = `/zemelapis/?focus=${encodeURIComponent(graphSlug)}&depth=1&panel=details`
+  view.counts.relations = mapIndex[graphSlug].links.length
+  mapIndex[graphSlug].totalRelationCount = view.counts.relations
+  const mapHref = `/zemelapis/?focus=${encodeURIComponent(graphSlug)}&depth=1&panel=details&minConfidence=0`
   return (
     <>
       <nav class="object-detail-breadcrumbs" aria-label="Kelias">
@@ -110,7 +111,7 @@ export function ObjectPageShell({
             <p class="object-detail-counts">
               <span>{view.counts.claims} teiginiai</span>
               <span>{view.counts.citations + view.counts.mentions} įrašai</span>
-              <span>{view.counts.relations} struktūruoti ryšiai</span>
+              <span>{view.counts.relations} ryšiai</span>
             </p>
           </div>
         </div>
@@ -118,6 +119,7 @@ export function ObjectPageShell({
           class="object-detail-map object-map-cta"
           data-object-map-cta="true"
           data-object-slug={graphSlug}
+          data-public-object-slug={slug}
           data-object-title={title}
           data-object-map-href={mapHref}
           data-object-semantic-count={view.counts.relations}
@@ -143,12 +145,7 @@ export function ObjectPageShell({
           </a>
         </aside>
       </header>
-      <ObjectPageTabs
-        currentSlug={current}
-        objectSlug={slug}
-        counts={view.counts}
-        active={active}
-      />
+      <ObjectPageTabs objectSlug={slug} counts={view.counts} active={active} />
       {children}
     </>
   )

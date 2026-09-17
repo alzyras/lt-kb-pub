@@ -1,7 +1,7 @@
 import { ExternalLink, Images } from "lucide-preact"
-import { FullSlug, resolveRelative, simplifySlug, slugifyFilePath } from "../util/path"
+import { FullSlug, resolveRelative, simplifySlug } from "../util/path"
 import {
-  citationQuote,
+  citationQuoteForClaim,
   isMeaningfulObjectText,
   objectDetailEvidenceFromFile,
   objectClaimHref,
@@ -20,6 +20,11 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { ObjectPageShell, objectPortrait } from "./ObjectPageShell"
 import { objectPageViewModel } from "../util/objectPageView"
 import { objectBibliography } from "../util/objectBibliography"
+import {
+  objectRelationCount,
+  objectRelationGroups,
+  objectRelationInputs,
+} from "../util/objectRelations"
 import style from "./styles/objectDetail.scss"
 // @ts-ignore Quartz bundles the inline lifecycle scripts as strings.
 import mapScript from "./scripts/object-map-preview.inline"
@@ -40,8 +45,7 @@ const TYPE_LABELS: Record<string, string> = {
 }
 
 type ExternalReading = { title: string; url: string; publisher?: string; kind?: string }
-type RelationTarget = { slug: FullSlug; label: string; title: string; type: string }
-type RelationGroup = { label: string; targets: RelationTarget[] }
+type ObjectPageModule = Record<string, any>
 type ObjectPageIndexes = {
   bySlug: Map<string, QuartzComponentProps["fileData"]>
   sourceByTitle: Map<string, FullSlug>
@@ -56,20 +60,6 @@ function normalized(value: unknown): string {
     .toLocaleLowerCase("lt")
     .replace(/[^a-z0-9]+/g, "-")
     .replace(/^-+|-+$/g, "")
-}
-
-function titleParts(frontmatter: Record<string, unknown> | undefined) {
-  const value = cleanText(
-    frontmatter?.canonical_name || frontmatter?.pavadinimas || frontmatter?.title,
-  )
-  const match = value.match(/^(.+?)\s*\(([^()]{3,})\)$/u)
-  return match
-    ? { title: match[1].trim(), qualifier: match[2].trim() }
-    : { title: value || "Istorijos objektas", qualifier: "" }
-}
-
-function objectType(frontmatter: Record<string, unknown> | undefined): string {
-  return cleanText(frontmatter?.tipas).toLocaleLowerCase("lt")
 }
 
 function typeLabel(type: string): string {
@@ -104,6 +94,393 @@ function externalReading(value: unknown): ExternalReading[] {
   }
 }
 
+function objectPageModules(frontmatter: Record<string, unknown>): ObjectPageModule {
+  const parseModule = (value: unknown): ObjectPageModule => {
+    try {
+      const parsed = typeof value === "string" ? JSON.parse(value) : value
+      return parsed && typeof parsed === "object" && !Array.isArray(parsed)
+        ? (parsed as ObjectPageModule)
+        : {}
+    } catch {
+      return {}
+    }
+  }
+  const modules = { ...parseModule(frontmatter.object_page_view_json) }
+  const candidate = parseModule(frontmatter.object_page_internal_summary_candidate_json)
+  const currentSummary = parseModule(modules.internal_summary)
+
+  // Keep the latest generated draft available for the development page even
+  // while the finisher still marks it quarantined. A published internal
+  // summary always wins; the candidate is only a fallback for a projection
+  // whose summary has no text yet.
+  if (
+    frontmatter.object_page_preview === true &&
+    cleanText(candidate.text) &&
+    !cleanText(currentSummary.text)
+  ) {
+    modules.internal_summary = { ...currentSummary, ...candidate }
+  }
+  return modules
+}
+
+function moduleRows(value: unknown): ObjectPageModule[] {
+  return Array.isArray(value)
+    ? value.filter((entry): entry is ObjectPageModule =>
+        Boolean(entry && typeof entry === "object" && !Array.isArray(entry)),
+      )
+    : []
+}
+
+function claimKey(value: unknown): string {
+  return cleanText(value)
+    .normalize("NFKD")
+    .replace(/\p{Diacritic}/gu, "")
+    .toLocaleLowerCase("lt")
+    .replace(/\s+/g, " ")
+}
+
+function featuredClaimsForPage(
+  ids: string[],
+  projectedClaims: ObjectPageModule[],
+  claims: ObjectEvidenceClaim[],
+): ObjectEvidenceClaim[] {
+  // A finisher projection can outlive a Markdown re-emission. Stable IDs are
+  // preferred, but exact text matching keeps a valid featured fact visible
+  // when only the local claim number changed. The rendered card still uses
+  // the current evidence claim and therefore keeps a current permalink.
+  const requested: ObjectPageModule[] = projectedClaims.length
+    ? projectedClaims
+    : ids.map((claimId) => ({ claim_id: claimId }))
+  const selected: ObjectEvidenceClaim[] = []
+  const used = new Set<string>()
+  for (const row of requested) {
+    const claimId = cleanText(row.claim_id || row.id)
+    const rowText = claimKey(row.text)
+    const byId = claimId
+      ? claims.find(
+          (claim) => claim.id === claimId || Boolean(claim.globalIds?.some((id) => id === claimId)),
+        )
+      : undefined
+    const byText = rowText
+      ? claims.find((claim) => claimKey(claim.text) === rowText && !used.has(claim.id))
+      : undefined
+    const claim = byId && !used.has(byId.id) ? byId : byText
+    if (claim && !used.has(claim.id)) {
+      selected.push(claim)
+      used.add(claim.id)
+    }
+  }
+  // A projection may contain a now-invalid or renamed featured id. Fill the
+  // remaining slots from the current supported stream so one stale row never
+  // makes the overview look artificially short.
+  for (const claim of claims) {
+    if (selected.length >= 7) break
+    if (used.has(claim.id)) continue
+    selected.push(claim)
+    used.add(claim.id)
+  }
+  return selected.slice(0, 7)
+}
+
+function safeExternalUrl(value: unknown): string {
+  const url = cleanText(value)
+  return /^https:\/\//iu.test(url) ? url : ""
+}
+
+function publicRouteHref(value: FullSlug | string): string {
+  return `/${String(value).replace(/^\/+|\/+$/g, "")}`
+}
+
+function wikiSourceLabel(source: ObjectPageModule): string {
+  const language = cleanText(source.language).toLocaleLowerCase("lt")
+  if (language && language !== "lt") return `Vikipedija (${language})`
+  return "Vikipedija"
+}
+
+function wikiModuleHasContent(module: ObjectPageModule | undefined): boolean {
+  if (!module) return false
+  const source =
+    module.source && typeof module.source === "object" && !Array.isArray(module.source)
+      ? (module.source as ObjectPageModule)
+      : {}
+  return Boolean(
+    cleanText(module.intro) ||
+    moduleRows(module.infobox).some((row) => cleanText(row.value)) ||
+    safeExternalUrl(source.url),
+  )
+}
+
+function WikipediaIntro({
+  module,
+  sourceButtons,
+  portrait,
+  galleryHref,
+  additionalLinks = [],
+  summary = "",
+}: {
+  module: ObjectPageModule
+  sourceButtons?: unknown
+  portrait?: MediaEntry
+  galleryHref?: string
+  additionalLinks?: ExternalReading[]
+  summary?: string
+}) {
+  const source =
+    module.source && typeof module.source === "object" && !Array.isArray(module.source)
+      ? (module.source as ObjectPageModule)
+      : {}
+  const intro = cleanText(module.intro)
+  const infobox = moduleRows(module.infobox).filter((row) => cleanText(row.value))
+  const wikiUrl = safeExternalUrl(source.url)
+  if (!intro && infobox.length === 0 && !wikiUrl && !summary) return null
+  const languageLabel = wikiSourceLabel(source)
+  const translation = cleanText(module.translation_status) === "translated_verified"
+  const links = [
+    ...moduleRows(module.source_buttons ?? sourceButtons).map((entry) => ({
+      label: cleanText(entry.label || entry.title || entry.publisher || "Šaltinis"),
+      url: safeExternalUrl(entry.url),
+    })),
+    ...additionalLinks.map((entry) => ({
+      label: cleanText(entry.publisher || entry.title || "Šaltinis"),
+      url: safeExternalUrl(entry.url),
+    })),
+    ...(wikiUrl ? [{ label: languageLabel, url: wikiUrl }] : []),
+  ].filter((entry) => entry.url)
+  const uniqueLinks = links.filter(
+    (entry, index) => links.findIndex((candidate) => candidate.url === entry.url) === index,
+  )
+  const portraitUrl = heroImage(portrait)
+  const hasAside = Boolean(infobox.length > 0 || (portraitUrl && galleryHref))
+  const hasLinks = uniqueLinks.length > 0
+  const attribution = (
+    <p class="object-detail-wiki-attribution">
+      {languageLabel}
+      {cleanText(source.license) && ` · ${cleanText(source.license)}`}
+      {safeExternalUrl(source.history_url) && (
+        <>
+          {" · "}
+          <a href={safeExternalUrl(source.history_url)} target="_blank" rel="noreferrer noopener">
+            Straipsnio istorija
+          </a>
+        </>
+      )}
+      {safeExternalUrl(source.license_url) && (
+        <>
+          {" · "}
+          <a href={safeExternalUrl(source.license_url)} target="_blank" rel="noreferrer noopener">
+            Licencija
+          </a>
+        </>
+      )}
+    </p>
+  )
+  return (
+    <section
+      class="object-detail-wiki"
+      id="vikipedija"
+      aria-label="Apie objektą"
+      data-object-panel="apzvalga"
+    >
+      <div class="object-detail-wiki-main">
+        <div class="object-detail-wiki-copy">
+          {intro && <p class="object-detail-wiki-intro">{intro}</p>}
+          <p class="object-detail-paragraph-source">
+            Šaltinis: <a href={wikiUrl}>{languageLabel}</a>
+            {translation && " · versta"}
+          </p>
+        </div>
+        {summary && (
+          <div class="object-detail-wiki-summary" id="musu-santrauka">
+            <p class="object-detail-wiki-summary-text">{summary}</p>
+            <p class="object-detail-paragraph-source">
+              Šaltinis: <a href="https://lietuvosistorija.eu">lietuvosistorija.eu</a>
+            </p>
+          </div>
+        )}
+      </div>
+      {hasAside && (
+        <aside class="object-detail-wiki-aside" aria-label="Vikipedijos duomenys ir portretas">
+          {portraitUrl && galleryHref && (
+            <a class="object-detail-wiki-portrait" href={galleryHref}>
+              <img
+                src={portraitUrl}
+                alt={displayCaption(portrait!)}
+                width={portrait?.width || undefined}
+                height={portrait?.height || undefined}
+                decoding="async"
+              />
+              <span>Patikrintas portretas · Žiūrėti galerijoje</span>
+            </a>
+          )}
+          {infobox.length > 0 && (
+            <div class="object-detail-wiki-infobox">
+              <p class="object-detail-wiki-infobox-label">
+                Pagrindiniai duomenys · {languageLabel}
+              </p>
+              <div class="object-detail-wiki-table-wrap">
+                <table class="object-detail-wiki-table">
+                  <tbody>
+                    {infobox.map((row) => (
+                      <tr>
+                        <th scope="row">{cleanText(row.label)}</th>
+                        <td>{cleanText(row.value)}</td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          )}
+        </aside>
+      )}
+      {(hasLinks || source.license || source.history_url || source.license_url) && (
+        <footer class="object-detail-wiki-footer">
+          {hasLinks && (
+            <div>
+              <p class="object-detail-wiki-footer-heading">Nuorodos</p>
+              <nav
+                class="object-detail-wiki-links"
+                aria-label="Vikipedijos ir kiti išoriniai šaltiniai"
+              >
+                {uniqueLinks.map((link) => (
+                  <a href={link.url} target="_blank" rel="noreferrer noopener">
+                    {link.label} <ExternalLink size={13} />
+                  </a>
+                ))}
+              </nav>
+            </div>
+          )}
+          {attribution}
+        </footer>
+      )}
+    </section>
+  )
+}
+
+type TraitGroup = { key: string; label: string; rows: ObjectPageModule[] }
+
+function sourceDisplayName(value: unknown): string {
+  const text = cleanText(value)
+  if (!text || /^https?:\/\//iu.test(text)) return text
+  const base = text.replaceAll("\\", "/").split("/").at(-1) || text
+  return base.replace(/\.md$/iu, "").trim()
+}
+
+function groupedTraitRows(rows: ObjectPageModule[]): TraitGroup[] {
+  const groups = new Map<string, TraitGroup>()
+  rows.forEach((row, index) => {
+    const label = cleanText(row.label || row.canonical_code) || `Savybė ${index + 1}`
+    const key = normalized(row.canonical_code || label) || `trait-${index}`
+    const group = groups.get(key)
+    if (group) group.rows.push(row)
+    else groups.set(key, { key, label, rows: [row] })
+  })
+  return [...groups.values()]
+}
+
+function traitSources(
+  rows: ObjectPageModule[],
+  sourceHrefs: Map<string, string | undefined>,
+): Array<{ title: string; href?: string }> {
+  const entries = new Map<string, { title: string; href?: string }>()
+  for (const row of rows) {
+    for (const ref of moduleRows(row.source_refs)) {
+      const title = sourceDisplayName(ref.title || ref.source)
+      if (!title) continue
+      const key = normalized(title)
+      if (entries.has(key)) continue
+      entries.set(key, {
+        title,
+        href: sourceHrefs.get(key) || sourceHrefs.get(normalized(ref.title || ref.source)),
+      })
+    }
+  }
+  return [...entries.values()]
+}
+
+function TraitsSection({
+  module,
+  sourceHrefs,
+}: {
+  module: ObjectPageModule
+  sourceHrefs: Map<string, string | undefined>
+}) {
+  if (cleanText(module.status) !== "published") return null
+  const rows = moduleRows(module.rows).filter((row) => cleanText(row.value))
+  if (rows.length === 0) return null
+  const groups = groupedTraitRows(rows)
+  return (
+    <section class="object-detail-traits" id="savybes" aria-labelledby="object-traits-title">
+      <div class="object-section-heading">
+        <p>Šaltiniais pagrįsti bruožai</p>
+        <h2 id="object-traits-title">Savybės</h2>
+      </div>
+      <div class="object-detail-traits-table-wrap">
+        <table class="object-detail-traits-table">
+          <thead>
+            <tr>
+              <th scope="col">Savybė</th>
+              <th scope="col">Aprašymas</th>
+              <th scope="col">Laikas / kontekstas</th>
+              <th scope="col">Šaltiniai</th>
+            </tr>
+          </thead>
+          <tbody>
+            {groups.map((group) => {
+              const contexts = [
+                ...new Set(group.rows.map((row) => cleanText(row.context)).filter(Boolean)),
+              ]
+              const sources = traitSources(group.rows, sourceHrefs)
+              const conflict = group.rows.some(
+                (row) => cleanText(row.conflict_status) === "source_disagreement",
+              )
+              return (
+                <tr>
+                  <th scope="row">
+                    {group.label}
+                    {conflict && <small>Šaltinių nesutarimas</small>}
+                  </th>
+                  <td>
+                    <ul class="object-detail-trait-values">
+                      {group.rows.map((row) => (
+                        <li>{cleanText(row.value)}</li>
+                      ))}
+                    </ul>
+                  </td>
+                  <td>
+                    {contexts.length > 0 ? (
+                      <ul class="object-detail-trait-values">
+                        {contexts.map((context) => (
+                          <li>{context}</li>
+                        ))}
+                      </ul>
+                    ) : (
+                      "—"
+                    )}
+                  </td>
+                  <td>
+                    {sources.length > 0 ? (
+                      <ul class="object-detail-trait-values">
+                        {sources.map((source) => (
+                          <li>
+                            {source.href ? <a href={source.href}>{source.title}</a> : source.title}
+                          </li>
+                        ))}
+                      </ul>
+                    ) : (
+                      "—"
+                    )}
+                  </td>
+                </tr>
+              )
+            })}
+          </tbody>
+        </table>
+      </div>
+    </section>
+  )
+}
+
 function sourcePriority(source: ExternalReading): number {
   const text = `${source.publisher} ${source.kind} ${source.title}`.toLocaleLowerCase("lt")
   if (/visuotinė lietuvių enciklopedija|\bvle\b/.test(text)) return 1
@@ -131,10 +508,13 @@ function objectPageIndexes(files: QuartzComponentProps["allFiles"]): ObjectPageI
   return index
 }
 
-function sourceLinks(titles: string[], index: ObjectPageIndexes, currentSlug: FullSlug) {
+function sourceLinks(titles: string[], index: ObjectPageIndexes) {
   return [...new Set(titles.filter(isMeaningfulObjectText))].map((title) => {
-    const source = index.sourceByTitle.get(normalized(title))
-    return { title, href: source ? resolveRelative(currentSlug, source) : undefined }
+    const displayTitle = sourceDisplayName(title)
+    const source =
+      index.sourceByTitle.get(normalized(title)) ||
+      index.sourceByTitle.get(normalized(displayTitle))
+    return { title: displayTitle, href: source ? publicRouteHref(source) : undefined }
   })
 }
 
@@ -194,49 +574,18 @@ function galleryPreview(
     .slice(0, 5)
 }
 
-function relationGroups(
-  relations: Array<{ label: string; target: string; display: string }>,
-  index: ObjectPageIndexes,
-): RelationGroup[] {
-  const groups = new Map<string, RelationTarget[]>()
-  for (const relation of relations) {
-    const label = cleanText(relation.label)
-    const targets = groups.get(label) ?? []
-    // Relation markdown keeps the human path (spaces/diacritics), while the
-    // Quartz file index uses its canonical slug.  Normalize both through the
-    // same slugifier before lookup; otherwise valid relation targets silently
-    // disappeared from the page.
-    const file = index.bySlug.get(simplifySlug(slugifyFilePath(relation.target as any)))
-    if (!file?.slug?.startsWith("objektai/")) continue
-    if (!targets.some((target) => target.slug === file.slug)) {
-      const targetTitle = titleParts(file.frontmatter as Record<string, unknown>).title
-      targets.push({
-        slug: file.slug,
-        label: cleanText(relation.display) || targetTitle,
-        title: targetTitle,
-        type: objectType(file.frontmatter as Record<string, unknown>),
-      })
-    }
-    if (targets.length) groups.set(label, targets)
-  }
-  return [...groups.entries()].map(([label, targets]) => ({ label, targets }))
-}
-
-function relationDirectionLabel(label: string, direction = ""): string {
-  const readable = cleanText(label).replaceAll("_", " ")
-  if (!readable) return "Susijęs objektas"
-  return direction === "inbound" ? `${readable} ←` : `${readable} →`
-}
-
 function ClaimCard({
   claim,
   sources,
   href,
+  context = "",
 }: {
   claim: ObjectEvidenceClaim
   sources: Map<string, string | undefined>
   href: string
+  context?: string
 }) {
+  if (claim.citations.length === 0) return null
   return (
     <article class="object-claim-card" id={`claim-${claim.id}`}>
       <div class="object-claim-card-header">
@@ -252,22 +601,25 @@ function ClaimCard({
           const source = cleanText(
             citation.fields.get("šaltinis") || citation.fields.get("saltinis"),
           )
-          const quote = citationQuote(citation, Number.MAX_SAFE_INTEGER)
-          const href = sources.get(normalized(source))
+          const sourceLabel = sourceDisplayName(source)
+          const quote = citationQuoteForClaim(
+            citation,
+            claim.text,
+            context,
+            Number.MAX_SAFE_INTEGER,
+          )
+          const href = sources.get(normalized(source)) || sources.get(normalized(sourceLabel))
           return (
             <article class="object-claim-citation" data-citation-id={citation.id}>
-              {source && (
+              {sourceLabel && (
                 <p class="object-claim-source">
-                  Šaltinis: {href ? <a href={href}>{source}</a> : source}
+                  Šaltinis: {href ? <a href={href}>{sourceLabel}</a> : sourceLabel}
                 </p>
               )}
               {quote && <blockquote>{quote}</blockquote>}
             </article>
           )
         })}
-        {claim.citations.length === 0 && (
-          <p class="object-claim-source">Vieša citata šiam teiginiui dar nesusieta.</p>
-        )}
       </details>
     </article>
   )
@@ -281,12 +633,23 @@ const ObjectDetailPage: QuartzComponent = (props) => {
   const index = objectPageIndexes(allFiles)
   const media = objectMediaSet(frontmatter as any)
   const view = objectPageViewModel(frontmatter, evidence, { gallery: media.all.length })
+  const pageModules = objectPageModules(frontmatter)
+  const wikiModule =
+    pageModules.wiki && typeof pageModules.wiki === "object" && !Array.isArray(pageModules.wiki)
+      ? (pageModules.wiki as ObjectPageModule)
+      : undefined
+  const traitsModule =
+    pageModules.traits &&
+    typeof pageModules.traits === "object" &&
+    !Array.isArray(pageModules.traits)
+      ? (pageModules.traits as ObjectPageModule)
+      : undefined
+  const projectedFeaturedClaims = moduleRows(pageModules.featured_claims)
   const hero = objectPortrait(frontmatter, view.portraitMediaId)
   const galleryItems = galleryPreview(media.all, hero, view.featuredGalleryIds)
   const sources = sourceLinks(
     [...new Set([...evidence.sourceTitles, ...asStrings(frontmatter.saltiniai)])],
     index,
-    slug,
   )
   const sourceClaimCounts = new Map<string, number>()
   const sourceCitationCounts = new Map<string, number>()
@@ -303,26 +666,37 @@ const ObjectDetailPage: QuartzComponent = (props) => {
     }
   }
   const sourceHrefs = new Map(sources.map((source) => [normalized(source.title), source.href]))
+  for (const source of sources) {
+    sourceHrefs.set(normalized(sourceDisplayName(source.title)), source.href)
+  }
   const bibliography = objectBibliography(allFiles, evidence)
-  const relations = relationGroups(
-    view.relationRows.length
-      ? view.relationRows.map((row) => ({
-          label: relationDirectionLabel(row.predicate, row.direction),
-          target: row.target,
-          display: row.label || "",
-        }))
-      : evidence.relations,
-    index,
+  const relations = objectRelationGroups(
+    objectRelationInputs(frontmatter, evidence),
+    index.bySlug,
+    {
+      dedupe: false,
+    },
   )
-  const fallbackRelationCount = relations.reduce((total, group) => total + group.targets.length, 0)
+  const fallbackRelationCount = objectRelationCount(relations)
   const externalLinks = externalReading(frontmatter.external_sources_json)
-  const aliases = asStrings(frontmatter.aliases)
-  const roles = asStrings(frontmatter.entity_roles)
-  const galleryHref = resolveRelative(slug, objectGallerySlug(slug))
-  const evidenceHref = resolveRelative(slug, `${slug}/irodymai` as FullSlug)
-  const relationCount = view.counts.relations || fallbackRelationCount
-  const summary = evidence.summary
-  const summaryPortrait = heroImage(hero)
+  const galleryHref = publicRouteHref(objectGallerySlug(slug))
+  const evidenceHref = publicRouteHref(`${slug}/irodymai` as FullSlug)
+  const relationCount = Math.max(view.counts.relations, fallbackRelationCount)
+  const internalSummaryModule =
+    pageModules.internal_summary &&
+    typeof pageModules.internal_summary === "object" &&
+    !Array.isArray(pageModules.internal_summary)
+      ? (pageModules.internal_summary as ObjectPageModule)
+      : undefined
+  const summary = cleanText(internalSummaryModule?.text) || evidence.summary
+  const supportedClaims = evidence.claims.filter((claim) => claim.citations.length > 0)
+  const evidenceContext = cleanText(
+    frontmatter.pavadinimas || frontmatter.canonical_name || frontmatter.title,
+  )
+  const wikiPublished = Boolean(
+    wikiModule && wikiModule.status === "published" && wikiModuleHasContent(wikiModule),
+  )
+  const summaryPortrait = wikiPublished ? "" : heroImage(hero)
   const fallbackMessage = evidence.claims.length
     ? "Šiam įrašui rengiama šaltiniais pagrįsta santrauka."
     : "Šis įrašas dar laukia šaltiniais pagrįstos santraukos."
@@ -330,32 +704,48 @@ const ObjectDetailPage: QuartzComponent = (props) => {
   return (
     <main class="object-detail-page" data-object-detail="true" data-object-tabs="true">
       <ObjectPageShell props={props} active="overview" />
+      {wikiModule && wikiPublished && (
+        <WikipediaIntro
+          module={wikiModule}
+          sourceButtons={pageModules.source_buttons}
+          portrait={hero}
+          galleryHref={galleryHref}
+          additionalLinks={externalLinks}
+          summary={summary}
+        />
+      )}
       <section class="object-detail-overview" id="apzvalga" data-object-panel="apzvalga">
-        <div class="object-section-heading">
-          <p>Apžvalga</p>
-          <h2>Santrauka</h2>
-        </div>
-        <div class="object-detail-summary-with-portrait">
-          <div>
-            {summary ? (
-              <p class="object-detail-summary">{summary}</p>
-            ) : (
-              <p class="object-detail-summary object-detail-summary-pending">{fallbackMessage}</p>
-            )}
-          </div>
-          {summaryPortrait && (
-            <a class="object-detail-summary-portrait" href={galleryHref}>
-              <img
-                src={summaryPortrait}
-                alt={displayCaption(hero!)}
-                width={hero?.width || undefined}
-                height={hero?.height || undefined}
-                decoding="async"
-              />
-              <span>Žiūrėti galerijoje</span>
-            </a>
-          )}
-        </div>
+        {!wikiPublished && (
+          <>
+            <div class="object-section-heading">
+              <p>Mūsų šaltiniai</p>
+              <h2>Mūsų santrauka</h2>
+            </div>
+            <div class="object-detail-summary-with-portrait">
+              <div>
+                {summary ? (
+                  <p class="object-detail-summary">{summary}</p>
+                ) : (
+                  <p class="object-detail-summary object-detail-summary-pending">
+                    {fallbackMessage}
+                  </p>
+                )}
+              </div>
+              {summaryPortrait && (
+                <a class="object-detail-summary-portrait" href={galleryHref}>
+                  <img
+                    src={summaryPortrait}
+                    alt={displayCaption(hero!)}
+                    width={hero?.width || undefined}
+                    height={hero?.height || undefined}
+                    decoding="async"
+                  />
+                  <span>Žiūrėti galerijoje</span>
+                </a>
+              )}
+            </div>
+          </>
+        )}
         {view.featuredQuote && (
           <figure class="object-detail-featured-quote">
             <blockquote>{view.featuredQuote.text}</blockquote>
@@ -366,7 +756,7 @@ const ObjectDetailPage: QuartzComponent = (props) => {
             </figcaption>
           </figure>
         )}
-        {externalLinks.length > 0 && (
+        {!wikiPublished && externalLinks.length > 0 && (
           <nav class="object-detail-reading" aria-label="Patikrintos skaitymo nuorodos">
             {externalLinks.slice(0, 5).map((source) => (
               <a href={source.url} target="_blank" rel="noreferrer noopener">
@@ -391,52 +781,35 @@ const ObjectDetailPage: QuartzComponent = (props) => {
             ))}
           </nav>
         )}
-        {evidence.claims.length > 0 && (
+        {traitsModule && <TraitsSection module={traitsModule} sourceHrefs={sourceHrefs} />}
+        {supportedClaims.length > 0 && (
           <div class="object-detail-overview-evidence">
             <div class="object-section-heading">
               <p>Patikrinti teiginiai</p>
               <h2>Svarbiausi faktai</h2>
             </div>
             <div class="object-detail-claims">
-              {(view.featuredClaimIds.length
-                ? view.featuredClaimIds
-                    .map((id) =>
-                      evidence.claims.find(
-                        (claim) => claim.id === id || claim.globalIds?.includes(id),
-                      ),
-                    )
-                    .filter((claim): claim is ObjectEvidenceClaim => Boolean(claim))
-                : evidence.claims.slice(0, 6)
-              )
-                .slice(0, 6)
-                .map((claim) => (
-                  <ClaimCard
-                    claim={claim}
-                    sources={sourceHrefs}
-                    href={objectClaimHref(slug, evidence, claim.id)}
-                  />
-                ))}
+              {(projectedFeaturedClaims.length || view.featuredClaimIds.length
+                ? featuredClaimsForPage(
+                    view.featuredClaimIds,
+                    projectedFeaturedClaims,
+                    supportedClaims,
+                  )
+                : supportedClaims.slice(0, 7)
+              ).map((claim) => (
+                <ClaimCard
+                  claim={claim}
+                  sources={sourceHrefs}
+                  href={objectClaimHref(slug, evidence, claim.id)}
+                  context={evidenceContext}
+                />
+              ))}
             </div>
             <a class="object-detail-all-evidence" href={evidenceHref}>
               Visi teiginiai ir įrodymai ({view.counts.claims} teiginiai,{" "}
               {view.counts.citations + view.counts.mentions} įrašai)
             </a>
           </div>
-        )}
-        {(aliases.length > 0 || roles.length > 0) && (
-          <details class="object-detail-extra">
-            <summary>Papildoma informacija</summary>
-            {roles.length > 0 && (
-              <p>
-                <strong>Vaidmenys:</strong> {roles.join(" · ")}
-              </p>
-            )}
-            {aliases.length > 0 && (
-              <p>
-                <strong>Kiti vardai:</strong> {aliases.join(" · ")}
-              </p>
-            )}
-          </details>
         )}
       </section>
       <section class="object-detail-relations" id="rysiai" data-object-panel="rysiai">
@@ -456,11 +829,20 @@ const ObjectDetailPage: QuartzComponent = (props) => {
                   {group.label.replace(/\s*\([^)]*\)/g, "")}:
                 </span>
                 <div class="object-detail-relation-targets">
-                  {group.targets.map((target) => (
-                    <a href={resolveRelative(slug, target.slug)} title={typeLabel(target.type)}>
-                      {target.title}
-                    </a>
-                  ))}
+                  {group.targets.map((target) =>
+                    target.linked ? (
+                      <a href={publicRouteHref(target.slug)} title={typeLabel(target.type)}>
+                        {target.title}
+                      </a>
+                    ) : (
+                      <span
+                        class="object-detail-relation-unresolved"
+                        title="Tikslinis puslapis šioje peržiūroje neįtrauktas"
+                      >
+                        {target.title}
+                      </span>
+                    ),
+                  )}
                 </div>
               </div>
             ))}
@@ -473,15 +855,14 @@ const ObjectDetailPage: QuartzComponent = (props) => {
       </section>
       <section class="object-detail-sources" id="saltiniai" data-object-panel="saltiniai">
         <div class="object-section-heading">
-          <p>Provenansas</p>
-          <h2>Šaltiniai ir tolesnis skaitymas</h2>
+          <h2>Šaltinių sąrašas</h2>
         </div>
         {sources.length > 0 && (
           <div class="object-detail-source-table-wrap">
             <table class="object-detail-source-table">
               <thead>
                 <tr>
-                  <th scope="col">Vidinis šaltinis</th>
+                  <th scope="col">Šaltinis</th>
                   <th scope="col">Autorius / metai</th>
                   <th scope="col">Teiginiai</th>
                   <th scope="col">Citatos ir paminėjimai</th>
@@ -492,7 +873,7 @@ const ObjectDetailPage: QuartzComponent = (props) => {
                   <tr>
                     <td data-label="Šaltinis">
                       {source.slug ? (
-                        <a href={resolveRelative(slug, source.slug)}>{source.title}</a>
+                        <a href={publicRouteHref(source.slug)}>{source.title}</a>
                       ) : (
                         source.title
                       )}
@@ -520,33 +901,7 @@ const ObjectDetailPage: QuartzComponent = (props) => {
             </table>
           </div>
         )}
-        {externalLinks.length > 0 && (
-          <div class="object-detail-source-table-wrap">
-            <table class="object-detail-source-table">
-              <thead>
-                <tr>
-                  <th scope="col">Tolesnis skaitymas</th>
-                  <th scope="col">Leidėjas</th>
-                  <th scope="col">Atverti</th>
-                </tr>
-              </thead>
-              <tbody>
-                {externalLinks.map((source) => (
-                  <tr>
-                    <td>{source.title}</td>
-                    <td>{source.publisher || "—"}</td>
-                    <td>
-                      <a href={source.url} target="_blank" rel="noreferrer noopener">
-                        Nuorodą <ExternalLink size={13} />
-                      </a>
-                    </td>
-                  </tr>
-                ))}
-              </tbody>
-            </table>
-          </div>
-        )}
-        {sources.length === 0 && externalLinks.length === 0 && (
+        {sources.length === 0 && (
           <p class="object-detail-panel-note">
             Šaltinių sąrašas bus papildytas kartu su įrodymais.
           </p>
