@@ -2,6 +2,9 @@
   --object-rule: color-mix(in srgb, var(--darkgray) 17%, transparent);
   --object-wash: color-mix(in srgb, var(--secondary) 5%, var(--light) 95%);
   max-width: 72rem;
+  width: 100%;
+  min-width: 0;
+  box-sizing: border-box;
   margin: 0 auto;
   padding: clamp(1rem, 3vw, 2.7rem) clamp(1rem, 3vw, 2rem) 4rem;
   color: var(--darkgray);
@@ -417,7 +420,9 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
 .object-detail-wiki-attribution a {
   color: inherit;
 }
+.page #quartz-body .object-detail-wiki-footer,
 .object-detail-wiki-footer {
+  grid-area: auto;
   grid-column: 1 / -1;
   padding-top: 1rem;
   border-top: 1px solid var(--object-rule);

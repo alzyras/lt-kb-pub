@@ -94,8 +94,30 @@
   color: var(--bm-purple);
   font: 600 0.85rem var(--bodyFont);
 }
-body:has(.editorial-catalog) .page-header {
+body:has(.editorial-catalog) .page-header > .popover-hint {
   display: none;
+}
+body:has(.editorial-catalog) .page-header {
+  padding-bottom: 0 !important;
+  border-bottom: 0 !important;
+}
+body:has(.editorial-catalog) .page > #quartz-body {
+  grid-template-areas: "grid-header" "grid-center" "grid-footer" !important;
+  grid-template-columns: minmax(0, 1fr) !important;
+  grid-template-rows: auto auto auto !important;
+  width: 100%;
+  max-width: none;
+}
+body:has(.editorial-catalog) .left.sidebar,
+body:has(.editorial-catalog) .right.sidebar {
+  display: none !important;
+}
+body:has(.editorial-catalog) .page > #quartz-body .center {
+  grid-area: grid-center;
+  width: 100%;
+  min-width: 0;
+  max-width: none;
+  margin: 0 auto;
 }
 @media (max-width: 650px) {
   .editorial-catalog-grid {
