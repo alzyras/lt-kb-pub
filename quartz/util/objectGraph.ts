@@ -1,6 +1,7 @@
 import { readFileSync, statSync, readdirSync, existsSync } from "node:fs"
 import { resolve } from "node:path"
 import { relationsFromMarkdown } from "./objectDetail"
+import { collectClaimCount } from "./citationFilter"
 
 let completeTopology: any
 
@@ -11,6 +12,10 @@ export function loadObjectTopology(): any {
     readFileSync(resolve("quartz/static/graph-data/topology.json"), "utf8"),
   )
   const nodes = new Map<string, any>(topology.nodes.map((node: any) => [node.slug, node]))
+  topology.edges = topology.edges.filter(
+    (edge: any) =>
+      edge.from !== edge.to && edge.from.startsWith("objektai/") && edge.to.startsWith("objektai/"),
+  )
   const seen = new Set<string>()
   const key = (source: string, target: string, label: string) =>
     JSON.stringify([source, target, label.replaceAll("_", " ").toLocaleLowerCase("lt").trim()])
@@ -27,6 +32,13 @@ export function loadObjectTopology(): any {
         if (!name.endsWith(".md")) continue
         const source = `objektai/${folder.name}/${name.slice(0, -3)}`
         const markdown = readFileSync(resolve(root, folder.name, name), "utf8")
+        const node = nodes.get(source)
+        if (node) {
+          node.claimCount = collectClaimCount(markdown)
+          node.quoteCount = new Set(
+            [...markdown.matchAll(/^\s*-\s+(c-\d+)\s*$/gmu)].map((match) => match[1]),
+          ).size
+        }
         for (const row of relationsFromMarkdown(markdown)) {
           const target = row.target.replace(/\.md$/u, "")
           if (source === target || !target.startsWith("objektai/")) continue
@@ -92,7 +104,26 @@ export function loadObjectTopology(): any {
         }
       }
     }
-  topology.relationKindCodes = Object.keys(topology.relationKinds)
+  topology.relationKindCodes = [
+    ...new Set([...topology.relationKindCodes, ...Object.keys(topology.relationKinds)]),
+  ]
+  for (const node of topology.nodes) {
+    node.relationCounts = {}
+    node.degree = 0
+  }
+  for (const edge of topology.edges) {
+    for (const [slug, direction] of [
+      [edge.from, "out"],
+      [edge.to, "in"],
+    ]) {
+      const node = nodes.get(slug)
+      if (!node) continue
+      node.degree++
+      node.connected = true
+      node.relationCounts[edge.kind] ??= { in: 0, out: 0 }
+      node.relationCounts[edge.kind][direction]++
+    }
+  }
   completeTopology = topology
   return topology
 }

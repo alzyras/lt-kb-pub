@@ -273,7 +273,10 @@ const server = http.createServer(async (req, res) => {
   }
   if (url.pathname.startsWith("/static/"))
     return handler(req, res, { public: path.join(root, "quartz"), cleanUrls: true })
-  await handler(req, res, { public: path.join(root, "public"), cleanUrls: true })
+  await handler(req, res, {
+    public: process.env.OBJECT_PREVIEW_PUBLIC_ROOT || path.join(root, "public"),
+    cleanUrls: true,
+  })
 })
 server.listen(Number(process.env.PORT || 8090), "127.0.0.1", () =>
   console.log(`Object preview: http://127.0.0.1:${process.env.PORT || 8090}/${slug}`),

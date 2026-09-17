@@ -84,7 +84,10 @@ export function ArticleCatalog({ allFiles }: QuartzComponentProps) {
         title: cleanText(file.frontmatter?.title),
         description: cleanText(file.frontmatter?.description || file.description),
         image,
-        kicker: "Istorijos pasakojimai",
+        kicker:
+          file.frontmatter?.statusas === "peržiūrai"
+            ? "Redakcinė peržiūra"
+            : "Istorijos pasakojimai",
       }
     })
   return (

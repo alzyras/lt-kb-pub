@@ -238,6 +238,7 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
   margin-top: clamp(2.25rem, 5vw, 4rem);
 }
 .object-detail-wiki {
+  scroll-margin-top: 5rem;
   display: grid;
   grid-template-columns: minmax(0, 1.35fr) minmax(18rem, 0.8fr);
   gap: clamp(1.25rem, 3vw, 2.5rem);

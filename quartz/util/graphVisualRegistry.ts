@@ -10,6 +10,7 @@ export const graphVisualRegistry = {
     posakis: "Posakiai",
     zodyno_irasas: "Žodynas",
     tema: "Temos",
+    saltinis: "Šaltiniai",
   },
   typeColors: {
     asmuo: 0x286456,
@@ -22,6 +23,7 @@ export const graphVisualRegistry = {
     posakis: 0x8d4d72,
     zodyno_irasas: 0x626262,
     tema: 0x445f8f,
+    saltinis: 0x8a715c,
   },
   fallbackNode: 0x85755f,
   focus: 0xb52c1e,
