@@ -15,6 +15,7 @@ import GoogleTranslate from "./GoogleTranslate"
 import ObjectMapCTA from "./ObjectMapCTA"
 import ObjectDetailPage from "./ObjectDetailPage"
 import ObjectEvidencePage from "./ObjectEvidencePage"
+import ObjectRelationsPage, { RelationGroupCard } from "./ObjectRelationsPage"
 import ObjectMediaGallery from "./ObjectMediaGallery"
 import ExhibitionPage from "./ExhibitionPage"
 import Head from "./Head"
@@ -54,6 +55,8 @@ export {
   ObjectMapCTA,
   ObjectDetailPage,
   ObjectEvidencePage,
+  ObjectRelationsPage,
+  RelationGroupCard,
   ObjectMediaGallery,
   ExhibitionPage,
   Head,

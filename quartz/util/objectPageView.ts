@@ -31,6 +31,7 @@ export type ObjectRelationRow = {
   target: string
   label?: string
   claimId?: string
+  confidence?: number
 }
 
 export type ObjectTimelineEntry = { date: string; label: string; claimId: string }
@@ -120,14 +121,16 @@ export function objectPageViewModel(
   return {
     version: 2,
     counts: {
-      claims: number(counts.claims, evidence.claims.length),
+      // The Markdown body is the list the visitor can actually open.  Keep a
+      // stale frontmatter count from hiding newly projected public claims.
+      claims: evidence.claims.length,
       citations: number(counts.citations, citations),
       mentions: number(counts.mentions, mentions),
-      relations: number(counts.relations, fallbackRelations),
+      relations: Math.max(number(counts.relations, 0), fallbackRelations),
       gallery: number(counts.gallery, options.gallery ?? 0),
       sources: number(counts.sources, fallbackSources),
     },
-    featuredClaimIds: strings(raw.featured_claim_ids).slice(0, 6),
+    featuredClaimIds: strings(raw.featured_claim_ids).slice(0, 7),
     featuredQuote: (() => {
       const quote = parse(raw.featured_quote)
       const claim = evidence.claims.find(
@@ -144,7 +147,10 @@ export function objectPageViewModel(
         : undefined
     })(),
     relationRows,
-    portraitMediaId: cleanText(portrait.media_id) || undefined,
+    portraitMediaId:
+      cleanText(frontmatter.object_page_primary_media_id) ||
+      cleanText(portrait.media_id) ||
+      undefined,
     featuredGalleryIds: featuredGallery,
     relatedContent: {
       articles: relatedRows(related.articles),

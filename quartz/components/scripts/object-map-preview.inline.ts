@@ -88,6 +88,8 @@ import { objectMapPreviewNeighbours } from "../../util/objectMapPreview"
     evidenceCount: number
     confidence: number
     relationKind?: string
+    parallelIndex?: number
+    parallelCount?: number
   }
 
   type ObjectMapLabelBounds = {
@@ -268,11 +270,7 @@ import { objectMapPreviewNeighbours } from "../../util/objectMapPreview"
   }
 
   function objectMapPreviewAllowed(slug: string): boolean {
-    return (
-      !slug.startsWith("laikotarpiai/") &&
-      !slug.startsWith("temos/") &&
-      !slug.startsWith("objektai/saltiniai/")
-    )
+    return slug.startsWith("objektai/")
   }
 
   function objectMapResolveNode(
@@ -428,7 +426,7 @@ import { objectMapPreviewNeighbours } from "../../util/objectMapPreview"
       }
     })
     const nodeById = new Map(nodes.map((runtimeNode) => [runtimeNode.id, runtimeNode]))
-    const linksByPair = new Map<string, ObjectMapRuntimeLink>()
+    const links: ObjectMapRuntimeLink[] = []
 
     const addLink = (sourceSlug: string, targetSlug: string, link: ObjectMapPreviewLink) => {
       if (sourceSlug === targetSlug || !selected.has(sourceSlug) || !selected.has(targetSlug))
@@ -436,7 +434,6 @@ import { objectMapPreviewNeighbours } from "../../util/objectMapPreview"
       const source = nodeById.get(sourceSlug)
       const target = nodeById.get(targetSlug)
       if (!source || !target) return
-      const pairKey = [sourceSlug, targetSlug].sort().join(" ")
       const evidenceCount = Math.max(0, Number(link.evidenceCount) || 0)
       const confidence = Math.max(0, Math.min(1, Number(link.confidence) || 0.34))
       if (
@@ -444,13 +441,7 @@ import { objectMapPreviewNeighbours } from "../../util/objectMapPreview"
         (link.defaultOn !== true && confidence < objectMapPreviewMinConfidence)
       )
         return
-      const existing = linksByPair.get(pairKey)
-      if (existing) {
-        existing.evidenceCount += evidenceCount
-        existing.confidence = Math.max(existing.confidence, confidence)
-        return
-      }
-      linksByPair.set(pairKey, {
+      links.push({
         source,
         target,
         evidenceCount,
@@ -467,7 +458,19 @@ import { objectMapPreviewNeighbours } from "../../util/objectMapPreview"
       }
     }
 
-    const links = [...linksByPair.values()]
+    const pairLinks = new Map<string, ObjectMapRuntimeLink[]>()
+    for (const link of links) {
+      const pairKey = [link.source.id, link.target.id].sort().join(" ")
+      const samePair = pairLinks.get(pairKey) ?? []
+      samePair.push(link)
+      pairLinks.set(pairKey, samePair)
+    }
+    for (const samePair of pairLinks.values()) {
+      samePair.forEach((link, parallelIndex) => {
+        link.parallelIndex = parallelIndex
+        link.parallelCount = samePair.length
+      })
+    }
     for (const link of links) {
       const [source, target] = objectMapLinkEndpoints(link)
       source.degree += 1
@@ -570,18 +573,21 @@ import { objectMapPreviewNeighbours } from "../../util/objectMapPreview"
       objectMapPreviewNeighbours(neighbours),
     )
     canvas.dataset.renderedNeighbours = String(graph.nodes.filter((item) => !item.focus).length)
+    canvas.dataset.renderedRelations = String(graph.links.length)
     layoutObjectMapPreviewGraph(graph.nodes)
 
-    const labelNodes = [...graph.nodes]
-      .sort((a, b) => {
-        const diff =
-          (b.focus ? 10000 : 0) +
-          b.score +
-          b.degree * 2 -
-          ((a.focus ? 10000 : 0) + a.score + a.degree * 2)
-        return diff === 0 ? a.title.localeCompare(b.title, "lt") : diff
-      })
-      .slice(0, graph.nodes.length > 96 ? 38 : 34)
+    // The canvas is a thumbnail, but it is still an overview of the complete
+    // neighbourhood. Keep every node in the layout and every relation in the
+    // edge layer. Collision handling below may omit a few text labels when
+    // there is no room, never the node or its relation.
+    const labelNodes = [...graph.nodes].sort((a, b) => {
+      const diff =
+        (b.focus ? 10000 : 0) +
+        b.score +
+        b.degree * 2 -
+        ((a.focus ? 10000 : 0) + a.score + a.degree * 2)
+      return diff === 0 ? a.title.localeCompare(b.title, "lt") : diff
+    })
     const labelSet = new Set(labelNodes.map((runtimeNode) => runtimeNode.id))
     const bounds = graph.nodes.map((runtimeNode) => {
       const x = runtimeNode.x ?? 0
@@ -621,7 +627,24 @@ import { objectMapPreviewNeighbours } from "../../util/objectMapPreview"
       const t = project(target)
       ctx.beginPath()
       ctx.moveTo(s.x, s.y)
-      ctx.lineTo(t.x, t.y)
+      const parallelCount = link.parallelCount ?? 1
+      const parallelIndex = link.parallelIndex ?? 0
+      if (parallelCount > 1) {
+        const middleX = (s.x + t.x) / 2
+        const middleY = (s.y + t.y) / 2
+        const dx = t.x - s.x
+        const dy = t.y - s.y
+        const length = Math.max(1, Math.hypot(dx, dy))
+        const offset = (parallelIndex - (parallelCount - 1) / 2) * 5.5
+        ctx.quadraticCurveTo(
+          middleX - (dy / length) * offset,
+          middleY + (dx / length) * offset,
+          t.x,
+          t.y,
+        )
+      } else {
+        ctx.lineTo(t.x, t.y)
+      }
       ctx.globalAlpha = Math.max(0.18, Math.min(0.68, (link.confidence || 0.34) * 0.72))
       ctx.strokeStyle =
         link.relationKind === "explicit_wikilink"
@@ -701,8 +724,8 @@ import { objectMapPreviewNeighbours } from "../../util/objectMapPreview"
       const projection = root.querySelector("[data-object-map-projection]")?.textContent
       let index: Record<string, ObjectMapPreviewNode>
       try {
-        // Use the full-map topology first. The hero must be the same graph, not a reduced relation view.
-        index = await loadObjectMapIndex(slug)
+        // The page embeds the same complete inventory used by its relation tab.
+        index = projection ? JSON.parse(projection).index : await loadObjectMapIndex(slug)
       } catch {
         if (!projection) throw new Error("No object map projection is available")
         index = JSON.parse(projection).index as Record<string, ObjectMapPreviewNode>
