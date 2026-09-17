@@ -7,7 +7,12 @@ import {
   objectEvidenceClaimItems,
   relationsFromMarkdown,
 } from "./objectDetail"
-import { objectRelationInputs, objectRelationGroups, objectRelationCount } from "./objectRelations"
+import {
+  objectRelationInputs,
+  objectRelationGroups,
+  objectRelationCount,
+  PAGE_LINKS_GROUP_LABEL,
+} from "./objectRelations"
 import { buildVisibleGraph, parseGraphState } from "../components/scripts/graph-explorer-model"
 
 test("unlinked evidence does not remove a claim from the complete list", () => {
@@ -40,6 +45,9 @@ test("object lists and the opened map retain exactly the same complete neighbour
       objectRelationCount(objectRelationGroups(rows, [], { dedupe: false })),
       inventory.length,
     )
+    const groups = objectRelationGroups(rows, [], { dedupe: false })
+    const pageLinks = groups.findIndex((group) => group.label === PAGE_LINKS_GROUP_LABEL)
+    if (pageLinks >= 0) assert.equal(pageLinks, groups.length - 1, slug)
     const state = parseGraphState(
       new URLSearchParams({ focus: slug, minConfidence: "0" }),
       defaults,

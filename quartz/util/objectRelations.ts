@@ -27,6 +27,8 @@ export type ObjectRelationGroup = {
   targets: ObjectRelationTarget[]
 }
 
+export const PAGE_LINKS_GROUP_LABEL = "Puslapio nuorodos"
+
 export type ObjectRelationFile = {
   slug?: FullSlug
   frontmatter?: Record<string, unknown>
@@ -146,7 +148,13 @@ export function objectRelationGroups(
     }
     if (targets.length) groups.set(label, targets)
   }
-  return [...groups.entries()].map(([label, targets]) => ({ label, targets }))
+  return [...groups.entries()]
+    .map(([label, targets]) => ({ label, targets }))
+    .sort(
+      (left, right) =>
+        Number(left.label === PAGE_LINKS_GROUP_LABEL) -
+        Number(right.label === PAGE_LINKS_GROUP_LABEL),
+    )
 }
 
 export function objectRelationCount(groups: ObjectRelationGroup[]): number {
