@@ -1,54 +1,61 @@
 @use "./base.scss";
 @use "./variables.scss" as *;
+@use "./editorial.scss" as editorial;
 
 // Collection-style skin.
 :root {
   --bm-font: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-editorial: Georgia, "Times New Roman", serif;
   --bm-mono: "IBM Plex Mono", "Courier New", monospace;
   --headerFont: var(--bm-font);
   --bodyFont: var(--bm-font);
   --codeFont: var(--bm-mono);
   --bm-black: #000;
-  --bm-white: #fff;
+  --bm-white: var(--ui-surface);
   --bm-site-max: 1600px;
-  --bm-cream: #efefef;
-  --bm-paper: #fff;
-  --bm-border: #d9d9d9;
-  --bm-border-strong: #000;
-  --bm-purple: #5a255f;
-  --bm-red: #d6421f;
+  --bm-cream: #f0ede6;
+  --bm-paper: #faf8f3;
+  --bm-border: #ded9cf;
+  --bm-border-strong: #b9251c;
+  --bm-purple: #b9251c;
+  --bm-red: #c93023;
+  --bm-ink: #302e29;
   --li-header-border: #2b2b2b;
-  --bm-muted: #6e6070;
-  --bm-shadow: 0 1rem 2.6rem rgba(0, 0, 0, 0.12);
-  --lt-history-accent: #d6421f;
-  --ui-page: #efefef;
-  --ui-surface: #ffffff;
-  --ui-surface-raised: #ffffff;
-  --ui-text: #201b20;
-  --ui-muted: #6e6070;
-  --ui-border: #d9d9d9;
-  --ui-border-strong: #5a255f;
-  --ui-input: #ffffff;
-  --ui-shadow: 0 1rem 2.6rem rgba(0, 0, 0, 0.12);
+  --bm-muted: #706b62;
+  --bm-shadow: 0 0.8rem 2.6rem rgba(37, 35, 31, 0.08);
+  --lt-history-accent: #cf2c20;
+  --ui-accent-fill: #c52b22;
+  --ui-on-accent: #fff;
+  --ui-accent-bright: #ff6250;
+  --ui-page: #f0ede6;
+  --ui-surface: #faf8f3;
+  --ui-surface-raised: #fffdf8;
+  --ui-text: #302e29;
+  --ui-muted: #706b62;
+  --ui-border: #ded9cf;
+  --ui-border-strong: #b9251c;
+  --ui-input: #fffdf8;
+  --ui-shadow: var(--bm-shadow);
 }
 
 :root[saved-theme="dark"] {
-  --ui-page: #111011;
-  --ui-surface: #191719;
-  --ui-surface-raised: #211e21;
-  --ui-text: #f4eff3;
-  --ui-muted: #b9aeb8;
-  --ui-border: #484047;
-  --ui-border-strong: #b887bd;
-  --ui-input: #242024;
+  --ui-page: #151512;
+  --ui-surface: #1c1b18;
+  --ui-surface-raised: #25241f;
+  --ui-text: #e4dfd4;
+  --ui-muted: #b9b3a7;
+  --ui-border: #403d36;
+  --ui-border-strong: #ff6250;
+  --ui-input: #25241f;
   --ui-shadow: 0 1rem 2.6rem rgba(0, 0, 0, 0.42);
   --bm-cream: var(--ui-page);
   --bm-paper: var(--ui-surface);
   --bm-white: var(--ui-surface);
   --bm-border: var(--ui-border);
   --bm-muted: var(--ui-muted);
-  --bm-purple: #d5a8da;
-  --bm-red: #ff704f;
+  --bm-purple: #ff6250;
+  --bm-red: #ff6250;
+  --bm-ink: var(--ui-text);
 }
 
 .lt-history-lockup {
@@ -110,7 +117,7 @@
 
   strong {
     font-size: clamp(1.92rem, 2.9vw, 3rem);
-    font-weight: 900;
+    font-weight: 600;
     letter-spacing: -0.03em;
   }
 }
@@ -118,8 +125,8 @@
 .lt-history-lockup small {
   display: block;
   color: color-mix(in srgb, currentColor 70%, transparent);
-  font-family: var(--codeFont);
-  font-size: 0.66rem;
+  font-family: var(--bodyFont);
+  font-size: 0.75rem;
   font-weight: 700;
   letter-spacing: 0.11em;
   line-height: 1.25;
@@ -135,7 +142,7 @@
 }
 
 .lt-history-lockup.is-compact small {
-  font-size: 0.54rem;
+  font-size: 0.75rem;
   letter-spacing: 0.1em;
 }
 
@@ -278,9 +285,9 @@ body:not([data-slug="index"]) .page-header .period-chip {
   grid-column: 1;
   padding-top: 0.28rem;
   color: var(--bm-red);
-  font-family: var(--codeFont);
-  font-size: 0.68rem;
-  font-weight: 850;
+  font-family: var(--bodyFont);
+  font-size: 0.75rem;
+  font-weight: 600;
   letter-spacing: 0.08em;
   line-height: 1.2;
   text-transform: uppercase;
@@ -323,7 +330,7 @@ body:not([data-slug="index"]) .page-header .period-chip {
 .object-map-cta-actions strong {
   min-width: 0;
   font-size: 0.95rem;
-  font-weight: 850;
+  font-weight: 600;
   line-height: 1.1;
 }
 
@@ -334,9 +341,9 @@ body:not([data-slug="index"]) .page-header .period-chip {
   place-items: center;
   background: var(--bm-red);
   color: var(--bm-white);
-  font-family: var(--codeFont);
+  font-family: var(--bodyFont);
   font-style: normal;
-  font-weight: 850;
+  font-weight: 600;
 }
 
 .object-map-cta-copy p {
@@ -344,9 +351,9 @@ body:not([data-slug="index"]) .page-header .period-chip {
   margin: 0;
   max-width: 100%;
   color: var(--bm-muted);
-  font-family: var(--codeFont);
-  font-size: 0.68rem;
-  font-weight: 800;
+  font-family: var(--bodyFont);
+  font-size: 0.75rem;
+  font-weight: 600;
   letter-spacing: 0.04em;
   line-height: 1.35;
   text-transform: uppercase;
@@ -393,9 +400,9 @@ body:not([data-slug="index"]) .page-header .period-chip {
   place-items: center;
   padding: 1rem;
   color: var(--bm-muted);
-  font-family: var(--codeFont);
-  font-size: 0.72rem;
-  font-weight: 850;
+  font-family: var(--bodyFont);
+  font-size: 0.75rem;
+  font-weight: 600;
   letter-spacing: 0.08em;
   text-align: center;
   text-transform: uppercase;
@@ -436,9 +443,9 @@ body[data-slug^="objektai/"] .object-section-nav {
 
 .object-section-nav a {
   color: var(--bm-purple);
-  font-family: var(--codeFont);
-  font-size: 0.68rem;
-  font-weight: 850;
+  font-family: var(--bodyFont);
+  font-size: 0.75rem;
+  font-weight: 600;
   letter-spacing: 0.07em;
   text-decoration: none;
   text-transform: uppercase;
@@ -492,9 +499,9 @@ body[data-slug^="objektai/"] .object-section-nav {
 .object-primary-media-count {
   margin: 0;
   color: var(--bm-red);
-  font-family: var(--codeFont);
-  font-size: 0.68rem;
-  font-weight: 850;
+  font-family: var(--bodyFont);
+  font-size: 0.75rem;
+  font-weight: 600;
   letter-spacing: 0.08em;
   line-height: 1.25;
   text-transform: uppercase;
@@ -522,8 +529,8 @@ body[data-slug^="objektai/"] .object-section-nav {
   border: 1px solid var(--bm-border);
   color: var(--bm-purple);
   font-family: var(--bodyFont);
-  font-size: 0.74rem;
-  font-weight: 780;
+  font-size: 0.75rem;
+  font-weight: 600;
   line-height: 1.1;
 }
 
@@ -552,7 +559,7 @@ body[data-slug^="objektai/"] .object-section-nav {
 
 .object-primary-media-actions a {
   color: var(--bm-purple);
-  font-weight: 820;
+  font-weight: 600;
   text-decoration-color: color-mix(in srgb, var(--bm-red) 68%, transparent);
   text-decoration-thickness: 0.08em;
   text-underline-offset: 0.18em;
@@ -822,7 +829,7 @@ article.popover-hint,
   color: var(--bm-purple);
   font-family: var(--bm-font);
   font-size: clamp(2.9rem, 4.4vw, 4.35rem);
-  font-weight: 900;
+  font-weight: 600;
   line-height: 1;
   letter-spacing: 0;
 }
@@ -842,9 +849,9 @@ article.popover-hint,
 .page-header .content-meta {
   margin-top: 0.85rem;
   color: var(--bm-muted);
-  font-family: var(--codeFont);
+  font-family: var(--bodyFont);
   font-size: 0.76rem;
-  font-weight: 800;
+  font-weight: 600;
   letter-spacing: 0.06em;
   text-transform: uppercase;
 }
@@ -852,7 +859,7 @@ article.popover-hint,
 .breadcrumb-container {
   margin-bottom: 1.1rem;
   color: var(--bm-muted);
-  font-family: var(--codeFont);
+  font-family: var(--bodyFont);
   font-size: 0.78rem;
   letter-spacing: 0.06em;
   text-transform: uppercase;
@@ -876,7 +883,7 @@ article.popover-hint > h2 {
   padding-top: 1.15rem;
   border-top: 1px solid var(--bm-purple);
   color: var(--bm-purple);
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: var(--font-editorial);
   font-size: clamp(1.7rem, 3vw, 2.55rem);
   line-height: 1.05;
 }
@@ -902,9 +909,9 @@ article.popover-hint > h2 {
 .bm-list-count {
   margin: 0;
   color: var(--bm-red);
-  font-family: var(--codeFont);
-  font-size: 0.72rem;
-  font-weight: 850;
+  font-family: var(--bodyFont);
+  font-size: 0.75rem;
+  font-weight: 600;
   letter-spacing: 0.08em;
   line-height: 1.25;
   text-transform: uppercase;
@@ -916,7 +923,7 @@ article.popover-hint > h2 {
   color: var(--bm-purple);
   font-family: var(--bm-font);
   font-size: clamp(3.4rem, 7vw, 5.7rem);
-  font-weight: 900;
+  font-weight: 600;
   letter-spacing: 0;
   line-height: 0.96;
 }
@@ -936,9 +943,9 @@ article.popover-hint > h2 {
 
 .bm-list-intro dt {
   color: var(--bm-red);
-  font-family: var(--codeFont);
-  font-size: 0.68rem;
-  font-weight: 850;
+  font-family: var(--bodyFont);
+  font-size: 0.75rem;
+  font-weight: 600;
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
@@ -947,7 +954,7 @@ article.popover-hint > h2 {
   margin: 0.35rem 0 0;
   color: var(--bm-purple);
   font-size: clamp(2rem, 3.6vw, 3.6rem);
-  font-weight: 900;
+  font-weight: 600;
   line-height: 0.94;
 }
 
@@ -965,7 +972,7 @@ article.popover-hint > h2 {
   margin: 0;
   border-color: var(--bm-purple) !important;
   color: var(--bm-purple) !important;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: var(--font-editorial);
   font-size: clamp(1.35rem, 2.5vw, 2.2rem);
   font-weight: 500;
   letter-spacing: 0;
@@ -1048,7 +1055,7 @@ body[data-slug="404"] footer {
   color: color-mix(in srgb, var(--bm-purple) 6%, transparent);
   font-family: var(--bm-font);
   font-size: clamp(9rem, 22vw, 26rem);
-  font-weight: 900;
+  font-weight: 600;
   line-height: 1;
   pointer-events: none;
 }
@@ -1060,9 +1067,9 @@ body[data-slug="404"] footer {
   border-bottom: 1px solid var(--bm-border);
   padding-bottom: 0.8rem;
   color: #6e6070;
-  font-family: var(--codeFont);
-  font-size: 0.72rem;
-  font-weight: 850;
+  font-family: var(--bodyFont);
+  font-size: 0.75rem;
+  font-weight: 600;
   letter-spacing: 0.1em;
   text-transform: uppercase;
 }
@@ -1083,9 +1090,9 @@ body[data-slug="404"] footer {
 .bm-not-found-eyebrow {
   margin: 0 0 1rem;
   color: var(--bm-red);
-  font-family: var(--codeFont);
+  font-family: var(--bodyFont);
   font-size: 0.76rem;
-  font-weight: 850;
+  font-weight: 600;
   letter-spacing: 0.1em;
   text-transform: uppercase;
 }
@@ -1095,7 +1102,7 @@ body[data-slug="404"] footer {
   color: var(--bm-purple);
   font-family: var(--bm-font);
   font-size: clamp(3.2rem, 7vw, 6rem);
-  font-weight: 900;
+  font-weight: 600;
   letter-spacing: 0;
   line-height: 0.94;
 }
@@ -1127,9 +1134,9 @@ body[data-slug="404"] footer {
   padding: 0.55rem 0.9rem;
   background: var(--bm-red);
   color: #fff;
-  font-family: var(--codeFont);
+  font-family: var(--bodyFont);
   font-size: 0.88rem;
-  font-weight: 850;
+  font-weight: 600;
   letter-spacing: 0.04em;
   text-decoration: none;
   text-transform: uppercase;
@@ -1219,9 +1226,9 @@ body[data-slug="404"] footer {
 
 .bm-not-found-record p {
   color: var(--bm-red);
-  font-family: var(--codeFont);
-  font-size: 0.74rem;
-  font-weight: 850;
+  font-family: var(--bodyFont);
+  font-size: 0.75rem;
+  font-weight: 600;
   letter-spacing: 0.1em;
   text-transform: uppercase;
 }
@@ -1289,8 +1296,8 @@ article.popover-hint table {
 
 article.popover-hint th {
   color: var(--bm-purple);
-  font-family: var(--codeFont);
-  font-size: 0.72rem;
+  font-family: var(--bodyFont);
+  font-size: 0.75rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
@@ -1326,14 +1333,14 @@ a.internal:hover {
   border-color: var(--bm-purple) !important;
   background: transparent !important;
   color: var(--bm-purple) !important;
-  font-family: var(--codeFont);
+  font-family: var(--bodyFont);
   letter-spacing: 0.03em;
 }
 
 .content-meta,
 .meta-box,
 .collection-card-meta {
-  font-family: var(--codeFont);
+  font-family: var(--bodyFont);
 }
 
 .explorer,
@@ -1349,9 +1356,9 @@ a.internal:hover {
 .backlinks h3,
 .graph > h3 {
   color: var(--bm-purple);
-  font-family: var(--codeFont);
+  font-family: var(--bodyFont);
   font-size: 0.78rem !important;
-  font-weight: 800;
+  font-weight: 600;
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
@@ -1415,9 +1422,9 @@ a.internal:hover {
 .page-listing > p,
 .popover-hint > p:first-child {
   color: var(--bm-muted);
-  font-family: var(--codeFont);
+  font-family: var(--bodyFont);
   font-size: 0.78rem;
-  font-weight: 800;
+  font-weight: 600;
   letter-spacing: 0.06em;
   text-transform: uppercase;
 }
@@ -1450,9 +1457,9 @@ li.section-li > .section::before {
   top: 1.35rem;
   left: 0;
   color: var(--bm-red);
-  font-family: var(--codeFont);
+  font-family: var(--bodyFont);
   font-size: 0.78rem;
-  font-weight: 850;
+  font-weight: 600;
   letter-spacing: 0.08em;
 }
 
@@ -1496,7 +1503,7 @@ li.section-li .title-row a {
   color: var(--bm-purple);
   font-family: var(--bm-font);
   font-size: clamp(1.18rem, 1.9vw, 1.7rem);
-  font-weight: 850;
+  font-weight: 600;
   line-height: 1.02;
   overflow-wrap: anywhere;
 }
@@ -1550,7 +1557,7 @@ li.section-li .title-row a:hover {
 }
 
 .page-list-type-heading {
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: var(--font-editorial);
   font-weight: 500;
 }
 
@@ -1800,7 +1807,7 @@ body.graph-explorer-active .page {
 
   li.section-li > .section::before {
     top: 1.15rem;
-    font-size: 0.72rem;
+    font-size: 0.75rem;
   }
 
   .section-ul {
@@ -1866,7 +1873,11 @@ body[data-slug^="temos/"] .page-header {
   padding: 0 0 clamp(1.4rem, 3vw, 2.6rem);
   border-bottom: 1px solid var(--bm-border);
   background:
-    radial-gradient(circle at 78% 22%, color-mix(in srgb, var(--bm-red) 10%, transparent), transparent 28rem),
+    radial-gradient(
+      circle at 78% 22%,
+      color-mix(in srgb, var(--bm-red) 10%, transparent),
+      transparent 28rem
+    ),
     var(--bm-white);
 }
 
@@ -1888,8 +1899,8 @@ body[data-slug^="temos/"] .page-header .article-title {
   margin: clamp(1.5rem, 4vw, 3.2rem) 0 0 !important;
   color: var(--bm-purple);
   font-size: clamp(2.8rem, 7vw, 5.6rem);
-  line-height: .92;
-  letter-spacing: -.025em;
+  line-height: 0.92;
+  letter-spacing: -0.025em;
 }
 
 body[data-slug^="temos/"] .page-header .content-meta {
@@ -1912,24 +1923,24 @@ body[data-slug^="temos/"] article.topic-page-content > h1:first-child {
 
 body[data-slug^="temos/"] article.topic-page-content > p:first-of-type {
   max-width: 46rem;
-  margin: 0 0 .6rem;
+  margin: 0 0 0.6rem;
   color: var(--bm-muted);
-  font-family: var(--codeFont);
-  font-size: .78rem;
-  font-weight: 800;
-  letter-spacing: .06em;
+  font-family: var(--bodyFont);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
   text-transform: uppercase;
 }
 
 body[data-slug^="temos/"] article.topic-page-content > p:nth-of-type(2) {
   display: inline-flex;
-  margin: .75rem 0 1.7rem;
-  padding: .65rem .85rem;
+  margin: 0.75rem 0 1.7rem;
+  padding: 0.65rem 0.85rem;
   border: 1px solid var(--bm-border);
   border-radius: 999px;
   background: color-mix(in srgb, var(--bm-purple) 7%, var(--bm-white));
   color: var(--bm-purple);
-  font-size: .88rem;
+  font-size: 0.88rem;
   font-weight: 750;
 }
 
@@ -1950,19 +1961,19 @@ body[data-slug^="temos/"] article.topic-page-content > h2 + ul {
 }
 
 body[data-slug^="temos/"] article.topic-page-content > h3 {
-  margin: 1.8rem 0 .75rem;
+  margin: 1.8rem 0 0.75rem;
   color: var(--bm-red);
-  font-family: var(--codeFont);
-  font-size: .74rem;
-  font-weight: 850;
-  letter-spacing: .1em;
+  font-family: var(--bodyFont);
+  font-size: 0.74rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
 }
 
 body[data-slug^="temos/"] article.topic-page-content > h3 + ul {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(min(100%, 15rem), 1fr));
-  gap: .7rem;
+  gap: 0.7rem;
   margin: 0;
   padding: 0;
   list-style: none;
@@ -1979,17 +1990,20 @@ body[data-slug^="temos/"] article.topic-page-content > h3 + ul > li > a {
   box-sizing: border-box;
   align-items: center;
   justify-content: space-between;
-  gap: .8rem;
-  padding: .85rem 1rem;
+  gap: 0.8rem;
+  padding: 0.85rem 1rem;
   border: 1px solid var(--bm-border);
   border-radius: 10px;
   background: var(--bm-white);
   color: var(--bm-purple);
-  font-size: .98rem;
+  font-size: 0.98rem;
   font-weight: 700;
   line-height: 1.25;
   text-decoration: none;
-  transition: border-color .16s ease, background .16s ease, transform .16s ease;
+  transition:
+    border-color 0.16s ease,
+    background 0.16s ease,
+    transform 0.16s ease;
 }
 
 body[data-slug^="temos/"] article.topic-page-content > h3 + ul > li > a::after {
@@ -2148,9 +2162,9 @@ li.section-li .title-row a {
 
 li.section-li .listing-evidence-meta {
   min-width: 7.5rem;
-  font-family: var(--codeFont);
-  font-size: 0.74rem;
-  font-weight: 850;
+  font-family: var(--bodyFont);
+  font-size: 0.75rem;
+  font-weight: 600;
   letter-spacing: 0.08em;
   line-height: 1.35;
   text-transform: uppercase;
@@ -2196,7 +2210,7 @@ li.section-li .listing-evidence-meta {
   }
 
   .bm-list-intro {
-    grid-template-columns: minmax(0, 1fr) !important;
+    grid-template-columns: minmax(0, 1fr);
     gap: 1.15rem;
     align-items: start;
     margin-bottom: 1.4rem;
@@ -2310,7 +2324,7 @@ body[data-slug="straipsniai/puota-svecias-ir-statusas"] .article-title {
   max-width: 18ch;
   margin-top: clamp(2.2rem, 6vw, 5.6rem);
   font-size: clamp(3rem, 6.5vw, 6.6rem);
-  font-weight: 900;
+  font-weight: 600;
   letter-spacing: -0.065em;
   line-height: 0.88;
   text-wrap: balance;
@@ -2348,9 +2362,9 @@ body[data-slug="straipsniai/puota-svecias-ir-statusas"] .center > .puota-feature
 .articles-index .article-card-kicker {
   margin: 0 0 1rem;
   color: var(--bm-red);
-  font-family: var(--codeFont);
+  font-family: var(--bodyFont);
   font-size: 0.76rem;
-  font-weight: 850;
+  font-weight: 600;
   letter-spacing: 0.12em;
   line-height: 1.35;
   text-transform: uppercase;
@@ -2371,7 +2385,7 @@ body[data-slug="straipsniai/puota-svecias-ir-statusas"] .center > .puota-feature
   border-top: 5px solid var(--bm-black);
   color: var(--ui-text);
   font-size: clamp(2rem, 4.8vw, 3.55rem);
-  font-weight: 900;
+  font-weight: 600;
   letter-spacing: -0.055em;
   line-height: 0.98;
   text-wrap: balance;
@@ -2434,7 +2448,7 @@ body[data-slug="straipsniai/puota-svecias-ir-statusas"] .center > .puota-feature
   max-width: 90ch;
   margin: 0.8rem auto 0;
   color: var(--ui-muted);
-  font-family: var(--codeFont);
+  font-family: var(--bodyFont);
   font-size: 0.7rem;
   letter-spacing: 0.015em;
   line-height: 1.5;
@@ -2456,9 +2470,9 @@ body[data-slug="straipsniai/puota-svecias-ir-statusas"] .center > .puota-feature
   display: block;
   margin-bottom: 1rem;
   color: #ff7657;
-  font-family: var(--codeFont);
-  font-size: 0.72rem;
-  font-weight: 850;
+  font-family: var(--bodyFont);
+  font-size: 0.75rem;
+  font-weight: 600;
   letter-spacing: 0.13em;
   text-transform: uppercase;
 }
@@ -2467,7 +2481,7 @@ body[data-slug="straipsniai/puota-svecias-ir-statusas"] .center > .puota-feature
   margin: 0;
   color: #fff;
   font-size: clamp(1.35rem, 3vw, 2.2rem);
-  font-weight: 800;
+  font-weight: 600;
   letter-spacing: -0.035em;
   line-height: 1.18;
 }
@@ -2600,7 +2614,7 @@ body[data-slug="straipsniai"] .articles-index {
   max-width: 12ch;
   color: #fff;
   font-size: clamp(2.2rem, 6vw, 4.7rem);
-  font-weight: 900;
+  font-weight: 600;
   letter-spacing: -0.055em;
   line-height: 0.92;
 }
@@ -2615,10 +2629,10 @@ body[data-slug="straipsniai"] .articles-index {
 .articles-index .article-card em {
   margin-top: 1rem;
   color: #fff;
-  font-family: var(--codeFont);
+  font-family: var(--bodyFont);
   font-size: 0.78rem;
   font-style: normal;
-  font-weight: 850;
+  font-weight: 600;
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
@@ -2721,7 +2735,7 @@ body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] article.popover-hint 
 body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] .page-header h1 {
   max-width: 18ch;
   margin-top: 0.5rem;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: var(--font-editorial);
   font-size: clamp(2.65rem, 6.3vw, 5.55rem);
   font-weight: 500;
   letter-spacing: -0.055em;
@@ -2731,7 +2745,7 @@ body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] .page-header h1 {
 
 body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] article.popover-hint {
   color: var(--history-ink);
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: var(--font-editorial);
   font-size: 1.08rem;
   line-height: 1.78;
 }
@@ -2742,7 +2756,7 @@ body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] article.popover-hint 
   border-top: 1px solid var(--history-rule);
   font-family: Arial, Helvetica, sans-serif;
   font-size: clamp(1.65rem, 3.7vw, 2.55rem);
-  font-weight: 800;
+  font-weight: 600;
   letter-spacing: -0.035em;
   line-height: 1.05;
   text-wrap: balance;
@@ -2757,7 +2771,7 @@ body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] article.popover-hint 
   color: var(--history-accent);
   font-family: Arial, Helvetica, sans-serif;
   font-size: 0.76rem;
-  font-weight: 800;
+  font-weight: 600;
   letter-spacing: 0.13em;
   text-transform: uppercase;
 }
@@ -2920,9 +2934,9 @@ body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] article.popover-hint 
   border-radius: 50%;
   color: var(--bm-purple);
   content: "+";
-  font-family: var(--codeFont);
+  font-family: var(--bodyFont);
   font-size: 1.05rem;
-  font-weight: 900;
+  font-weight: 600;
   line-height: 1.42rem;
   text-align: center;
 }
@@ -2944,9 +2958,9 @@ body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] article.popover-hint 
 .article-evidence__eyebrow {
   grid-column: 1;
   color: var(--bm-purple);
-  font-family: var(--codeFont);
-  font-size: 0.67rem;
-  font-weight: 850;
+  font-family: var(--bodyFont);
+  font-size: 0.75rem;
+  font-weight: 600;
   letter-spacing: 0.105em;
   line-height: 1.3;
   text-transform: uppercase;
@@ -2990,7 +3004,7 @@ body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] article.popover-hint 
 .article-evidence__source {
   margin-top: 0.45rem !important;
   color: var(--ui-muted);
-  font-family: var(--codeFont);
+  font-family: var(--bodyFont);
   font-size: 0.7rem;
   line-height: 1.55;
 }
@@ -3036,9 +3050,9 @@ body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] article.popover-hint 
   border: 1px solid color-mix(in srgb, var(--bm-purple) 45%, var(--ui-border));
   color: var(--bm-purple);
   content: "+";
-  font-family: var(--codeFont);
+  font-family: var(--bodyFont);
   font-size: 0.95rem;
-  font-weight: 900;
+  font-weight: 600;
   line-height: 1.15rem;
   text-align: center;
 }
@@ -3065,22 +3079,22 @@ body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] article.popover-hint 
   padding: 0.55rem 0.85rem 0.7rem;
   border-top: 1px solid color-mix(in srgb, var(--bm-purple) 22%, var(--ui-border));
   color: var(--ui-muted);
-  font-family: var(--codeFont);
-  font-size: 0.72rem;
+  font-family: var(--bodyFont);
+  font-size: 0.75rem;
   line-height: 1.5;
 }
 
 .puota-feature .article-claim-inline__evidence > span {
   color: var(--bm-purple);
-  font-size: 0.66rem;
-  font-weight: 850;
+  font-size: 0.75rem;
+  font-weight: 600;
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
 
 .puota-feature .article-claim-inline__evidence a {
   color: var(--bm-red);
-  font-weight: 800;
+  font-weight: 600;
 }
 
 .article-evidence__limit strong {
@@ -3104,7 +3118,7 @@ body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] article.popover-hint 
 
 .article-read-next a {
   color: var(--bm-red);
-  font-weight: 820;
+  font-weight: 600;
 }
 
 .history-article-figure figcaption a,
@@ -3112,7 +3126,7 @@ body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] article.popover-hint 
   display: inline-block;
   margin-left: 0.18rem;
   color: var(--bm-red);
-  font-weight: 850;
+  font-weight: 600;
   text-decoration-thickness: 0.1em;
 }
 
@@ -3150,3 +3164,5 @@ body[data-slug="straipsniai/viena-diena-xviii-a-vilniuje"] article.popover-hint 
     padding: 1rem;
   }
 }
+
+@include editorial.skin;

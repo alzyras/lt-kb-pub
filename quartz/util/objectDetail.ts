@@ -1,5 +1,6 @@
 import fs from "node:fs"
 import { parseEvidenceSections, type EvidenceEntry } from "./citationFilter"
+import { evidenceCitationQuoteForClaim, evidenceSupportsClaim } from "./evidenceIntegrity"
 
 export type ObjectDetailTier = "t0" | "t1" | "t2" | "t3"
 
@@ -23,6 +24,7 @@ export type ObjectEvidenceCitation = {
 }
 
 export type ObjectDetailEvidence = {
+  objectSlug?: string
   summary: string
   claims: ObjectEvidenceClaim[]
   citations: Map<string, EvidenceEntry>
@@ -34,6 +36,11 @@ export type ObjectDetailEvidence = {
 export type ObjectEvidenceDisplayItem =
   | { kind: "claim"; value: ObjectEvidenceClaim }
   | { kind: "citation"; value: ObjectEvidenceCitation }
+
+export type ObjectEvidenceClaimItem = {
+  kind: "claim"
+  value: ObjectEvidenceClaim
+}
 
 const OBJECT_TYPE_FOLDERS = new Set([
   "asmenys",
@@ -90,24 +97,35 @@ function summaryFromMarkdown(markdown: string): string {
   return clean(match[1])
 }
 
-function relationsFromMarkdown(
+export function relationsFromMarkdown(
   markdown: string,
 ): Array<{ label: string; target: string; display: string }> {
   const match = markdown.match(/^##\s+Ryšiai\s*\n([\s\S]*?)(?=^##\s+|(?![\s\S]))/mu)
   if (!match) return []
   const relations: Array<{ label: string; target: string; display: string }> = []
   for (const line of match[1].split(/\r?\n/)) {
-    const wikiStart = line.indexOf("[[")
-    // Some legacy labels preserve OCR brackets (for example
-    // `Da[he]nfeldo`). Match through the first `](` that closes the link
-    // instead of treating the inner bracket as the label terminator. Skip
-    // the second bracket of a `[[wikilink]]` while locating Markdown links.
-    let markdownStart = -1
-    const markdownCandidate = line.match(/(?<!\[)\[(?!\[)[^\n]*?\]\([^)]*\)/u)
-    if (markdownCandidate?.index != null) markdownStart = markdownCandidate.index
-    const linkStarts = [wikiStart, markdownStart].filter((value) => value >= 0)
-    const linkStart = linkStarts.length ? Math.min(...linkStarts) : -1
-    if (!/^\s*-\s+/u.test(line) || linkStart < 0) continue
+    if (!/^\s*-\s+/u.test(line)) continue
+    const targets: Array<{ index: number; target: string; display: string }> = []
+    for (const link of line.matchAll(/\[\[([^\]|#]+)(?:#[^\]|]+)?(?:\|([^\]]+))?\]\]/gu)) {
+      targets.push({ index: link.index ?? 0, target: clean(link[1]), display: clean(link[2]) })
+    }
+    // Some legacy authored pages use ordinary Markdown links in the
+    // relations list.  Keep those local object links in the same projection
+    // as wikilinks so a valid relation is not silently dropped.
+    for (const link of line.matchAll(/\[([^\]]+)\]\((\/objektai\/[^)#]+)(?:#[^)]*)?\)/gu)) {
+      let target = link[2]
+      try {
+        target = decodeURIComponent(target)
+      } catch {}
+      targets.push({
+        index: link.index ?? 0,
+        target: target.replace(/^\//u, ""),
+        display: clean(link[1]),
+      })
+    }
+    if (targets.length === 0) continue
+    targets.sort((left, right) => left.index - right.index)
+    const linkStart = targets[0].index
     // Older projections use `Santykis: [[…]]`; newer canonical relations
     // also use natural-language predicates without a colon, e.g.
     // `Vytautas valdė [[Lietuva]]`.  Markdown links are accepted too because
@@ -119,24 +137,10 @@ function relationsFromMarkdown(
         .replace(/^\s*-\s+/u, "")
         .replace(/:\s*$/u, ""),
     )
-    const wikiText = wikiStart >= 0 ? line.slice(wikiStart) : ""
-    for (const link of wikiText.matchAll(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/gu)) {
-      const target = clean(link[1])
+    for (const link of targets) {
+      const target = clean(link.target)
       if (target.startsWith("objektai/")) {
-        relations.push({ label, target, display: clean(link[2]) })
-      }
-    }
-    const markdownText = markdownStart >= 0 ? line.slice(markdownStart) : ""
-    for (const link of markdownText.matchAll(/\[([^\n]*?)\]\(([^)#]+)(?:#[^)]*)?\)/gu)) {
-      let target = clean(link[2]).replace(/^\/+/, "")
-      try {
-        target = decodeURIComponent(target)
-      } catch {
-        // Keep the original path when a legacy record contains malformed
-        // percent-encoding; slug resolution will still be deterministic.
-      }
-      if (target.startsWith("objektai/")) {
-        relations.push({ label, target, display: clean(link[1]) })
+        relations.push({ label, target, display: clean(link.display) })
       }
     }
   }
@@ -262,24 +266,32 @@ export function objectDetailEvidenceFromFile(filePath: string | undefined): Obje
   const cached = evidenceFileCache.get(path)
   if (cached && cached.mtimeMs === stat.mtimeMs && cached.size === stat.size) return cached.evidence
   const evidence = objectDetailEvidence(fs.readFileSync(path, "utf8"))
+  evidence.objectSlug = path.replaceAll("\\", "/").match(/(?:^|\/)(objektai\/.*)\.md$/u)?.[1]
   evidenceFileCache.set(path, { mtimeMs: stat.mtimeMs, size: stat.size, evidence })
   return evidence
+}
+
+export function objectEvidenceClaimItems(
+  evidence: ObjectDetailEvidence,
+): ObjectEvidenceClaimItem[] {
+  const claimNumber = (id: string) => Number(id.match(/\d+/u)?.[0] ?? Number.MAX_SAFE_INTEGER)
+  // Preserve a stable, comprehensible global-claim order (`t-001`, `t-002`, …)
+  // instead of the relevance ranking used for selecting overview cards.
+  // Missing citation links are shown explicitly by the card, not silently
+  // removed from the complete claim stream.
+  return [...evidence.claims]
+    .sort(
+      (left, right) =>
+        claimNumber(left.id) - claimNumber(right.id) || left.id.localeCompare(right.id),
+    )
+    .map((value) => ({ kind: "claim" as const, value }))
 }
 
 export function objectEvidenceDisplayItems(
   evidence: ObjectDetailEvidence,
 ): ObjectEvidenceDisplayItem[] {
-  const claimNumber = (id: string) => Number(id.match(/\d+/u)?.[0] ?? Number.MAX_SAFE_INTEGER)
   return [
-    // The complete-evidence view is an archive, not the overview: preserve a stable,
-    // comprehensible global-claim order (`t-001`, `t-002`, …) instead of the relevance
-    // ranking used for selecting the overview cards.
-    ...[...evidence.claims]
-      .sort(
-        (left, right) =>
-          claimNumber(left.id) - claimNumber(right.id) || left.id.localeCompare(right.id),
-      )
-      .map((value) => ({ kind: "claim" as const, value })),
+    ...objectEvidenceClaimItems(evidence),
     ...evidence.citationRecords
       .filter((record) => record.standalone || record.significantMention)
       .map((value) => ({ kind: "citation" as const, value })),
@@ -300,10 +312,9 @@ export function objectClaimHref(slug: string, evidence: ObjectDetailEvidence, id
   let positions = claimPositionCache.get(evidence)
   if (!positions) {
     positions = new Map()
-    objectEvidenceDisplayItems(evidence).forEach((item, position) => {
-      if (item.kind === "claim")
-        for (const key of [item.value.id, ...(item.value.globalIds || [])])
-          positions!.set(key, position)
+    objectEvidenceClaimItems(evidence).forEach((item, position) => {
+      for (const key of [item.value.id, ...(item.value.globalIds || [])])
+        positions!.set(key, position)
     })
     claimPositionCache.set(evidence, positions)
   }
@@ -370,6 +381,26 @@ export function objectPageIndexable(
 export function citationQuote(citation: EvidenceEntry, limit = 320): string {
   const quote = field(citation, "citata_rodoma", "citata_originali", "citata")
   if (!quote) return ""
+  if (quote.length <= limit) return quote
+  const segment = quote.slice(0, limit - 1)
+  const boundary = segment.lastIndexOf(" ")
+  return `${(boundary > limit * 0.65 ? segment.slice(0, boundary) : segment).trim()}…`
+}
+
+/**
+ * Return only a quotation whose curated display text supports the claim.
+ * Object pages must apply the same evidence guard as the generic evidence
+ * renderer; otherwise a stale display excerpt could be shown next to an
+ * unrelated claim.
+ */
+export function citationQuoteForClaim(
+  citation: EvidenceEntry,
+  claimText: string,
+  contextText = "",
+  limit = 320,
+): string {
+  const quote = evidenceCitationQuoteForClaim(citation, claimText, contextText, true)
+  if (!quote || !evidenceSupportsClaim(claimText, quote, contextText)) return ""
   if (quote.length <= limit) return quote
   const segment = quote.slice(0, limit - 1)
   const boundary = segment.lastIndexOf(" ")

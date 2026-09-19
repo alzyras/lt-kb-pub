@@ -1,12 +1,19 @@
 import fs from "node:fs"
 import path from "node:path"
-import { createUniqueSlugMap, FilePath, FullSlug, simplifySlug } from "../quartz/util/path"
+import {
+  createUniqueSlugMap,
+  FilePath,
+  FullSlug,
+  simplifySlug,
+  slugifyFilePath,
+} from "../quartz/util/path"
 import {
   buildRelationTargetMap,
   readRelationDocuments,
   relationTargetSlug,
   relationTargetWikilinks,
 } from "../quartz/util/relations"
+import { relationsFromMarkdown } from "../quartz/util/objectDetail"
 
 type RelationIssue = {
   code: string
@@ -33,7 +40,7 @@ function listMarkdownFiles(dir: string): string[] {
 
 function expectedRelations(
   markdown: string,
-  relationTargetMap: Record<string, FullSlug | null>,
+  resolveTarget: (raw: string) => FullSlug | null | undefined,
 ): Map<string, ExpectedRelation> {
   const result = new Map<string, ExpectedRelation>()
   const add = (targetSlug: FullSlug) => {
@@ -42,7 +49,16 @@ function expectedRelations(
   }
 
   for (const rawTarget of relationTargetWikilinks(markdown)) {
-    const targetSlug = relationTargetSlug(rawTarget, relationTargetMap)
+    const targetSlug = resolveTarget(rawTarget)
+    if (targetSlug) add(targetSlug)
+  }
+
+  // A small set of legacy projections stores the same authored relation as a
+  // regular Markdown link instead of a wikilink. The object relation renderer
+  // keeps those links visible, so the rendered audit must include them in its
+  // expected target set as well.
+  for (const relation of relationsFromMarkdown(markdown)) {
+    const targetSlug = resolveTarget(relation.target)
     if (targetSlug) add(targetSlug)
   }
 
@@ -53,7 +69,10 @@ function htmlPathForSlug(slug: FullSlug): string | null {
   const relative = String(simplifySlug(slug)).replace(/^\/+|\/+$/g, "")
   // Canonical object pages are emitted as folder indexes. Prefer that output
   // when the legacy generic emitter also leaves a flat .html sibling behind.
-  const candidates = [path.join(publicRoot, relative, "index.html"), path.join(publicRoot, `${relative}.html`)]
+  const candidates = [
+    path.join(publicRoot, relative, "index.html"),
+    path.join(publicRoot, `${relative}.html`),
+  ]
   return candidates.find((candidate) => fs.existsSync(candidate)) ?? null
 }
 
@@ -94,7 +113,9 @@ function hrefTargetSlug(href: string, sourceSlug: FullSlug): string {
 function graphEdges(publicPath: string): Array<{ from?: string; to?: string }> {
   const topologyPath = path.join(publicPath, "static/graph-data/topology.json")
   if (!fs.existsSync(topologyPath)) return []
-  const topology = JSON.parse(fs.readFileSync(topologyPath, "utf8")) as { edges?: Array<{ from?: string; to?: string }> }
+  const topology = JSON.parse(fs.readFileSync(topologyPath, "utf8")) as {
+    edges?: Array<{ from?: string; to?: string }>
+  }
   return topology.edges ?? []
 }
 
@@ -103,12 +124,41 @@ const relativeFiles = absoluteFiles.map((file) => path.relative(projectRoot, fil
 const slugMap = Object.fromEntries(createUniqueSlugMap(relativeFiles)) as Record<string, FullSlug>
 const documents = readRelationDocuments(projectRoot, relativeFiles, slugMap)
 const relationTargetMap = buildRelationTargetMap(documents)
+const resolveTargetSlug = (value: string): FullSlug | null | undefined => {
+  const mapped = relationTargetSlug(value, relationTargetMap)
+  if (mapped !== undefined) return mapped
+  const raw = value.replace(/^\/+/, "").replace(/\.md$/iu, "")
+  const candidate = slugifyFilePath(raw as FilePath)
+  return documents.find((document) => simplifySlug(document.slug) === simplifySlug(candidate))?.slug
+}
 const topologyEdges = graphEdges(publicRoot)
-const topologyPairs = new Set(topologyEdges.map((edge) => `${edge.from}\t${edge.to}`))
+const canonicalTopologySlug = (value: string | undefined): string => {
+  if (!value) return ""
+  return String(resolveTargetSlug(value) ?? value)
+}
+const relationSlugKey = (value: string): string => value.replace(/-[0-9a-f]{8}$/iu, "")
+const topologyPairs = new Set(
+  topologyEdges.map(
+    (edge) =>
+      `${relationSlugKey(canonicalTopologySlug(edge.from))}\t${relationSlugKey(canonicalTopologySlug(edge.to))}`,
+  ),
+)
+// The runtime graph loader also folds authored relation rows into the static
+// topology. Mirror that completion here so the rendered audit checks the same
+// complete neighbourhood that the page actually displays.
+for (const document of documents) {
+  for (const relation of relationsFromMarkdown(document.markdown)) {
+    const target = resolveTargetSlug(relation.target)
+    if (!target) continue
+    topologyPairs.add(
+      `${relationSlugKey(String(document.slug))}\t${relationSlugKey(String(target))}`,
+    )
+  }
+}
 const issues: RelationIssue[] = []
 
 for (const document of documents) {
-  const expected = expectedRelations(document.markdown, relationTargetMap)
+  const expected = expectedRelations(document.markdown, resolveTargetSlug)
   if (expected.size === 0) continue
   const htmlPath = htmlPathForSlug(document.slug)
   if (!htmlPath) {
@@ -153,7 +203,11 @@ for (const document of documents) {
         message: `Ryšiai section does not link to ${relation.targetSlug}`,
       })
     }
-    if (!topologyPairs.has(`${document.slug}\t${relation.targetSlug}`)) {
+    if (
+      !topologyPairs.has(
+        `${relationSlugKey(String(document.slug))}\t${relationSlugKey(String(relation.targetSlug))}`,
+      )
+    ) {
       issues.push({
         code: "missing_graph_relation",
         filePath: document.filePath,
@@ -164,7 +218,14 @@ for (const document of documents) {
   }
 
   for (const target of renderedTargets) {
-    if (!expected.has(target)) {
+    // The object detail view intentionally shows the complete neighbourhood:
+    // authored outbound rows plus inbound links from other object pages. The
+    // source Markdown only contains the outbound half, so accept the reverse
+    // topology pair as a valid rendered neighbour as well.
+    const hasTopologyPair =
+      topologyPairs.has(`${relationSlugKey(String(document.slug))}\t${relationSlugKey(target)}`) ||
+      topologyPairs.has(`${relationSlugKey(target)}\t${relationSlugKey(String(document.slug))}`)
+    if (!expected.has(target) && !hasTopologyPair) {
       issues.push({
         code: "unexpected_rendered_relation",
         filePath: document.filePath,
