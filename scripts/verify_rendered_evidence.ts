@@ -70,6 +70,15 @@ function claimAssetHtml(pageHtml: string, domKey: string): string | null {
   }
 }
 
+function renderedClaimCardHtml(pageHtml: string, domKey: string): string | null {
+  const escapedKey = domKey.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
+  return (
+    pageHtml.match(
+      new RegExp(`<article\\b[^>]*\\bid="claim-${escapedKey}"[^>]*>[\\s\\S]*?<\\/article>`),
+    )?.[0] ?? null
+  )
+}
+
 function objectEvidenceHtml(slug: string): string {
   const base = path.join(publicRoot, slug, "irodymai")
   const candidates: string[] = [

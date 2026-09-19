@@ -143,19 +143,6 @@ export function relationsFromMarkdown(
         relations.push({ label, target, display: clean(link.display) })
       }
     }
-    const markdownText = markdownStart >= 0 ? line.slice(markdownStart) : ""
-    for (const link of markdownText.matchAll(/\[([^\n]*?)\]\(([^)#]+)(?:#[^)]*)?\)/gu)) {
-      let target = clean(link[2]).replace(/^\/+/, "")
-      try {
-        target = decodeURIComponent(target)
-      } catch {
-        // Keep the original path when a legacy record contains malformed
-        // percent-encoding; slug resolution will still be deterministic.
-      }
-      if (target.startsWith("objektai/")) {
-        relations.push({ label, target, display: clean(link[1]) })
-      }
-    }
   }
   return relations
 }
