@@ -43,81 +43,6 @@ historical_names: []
 
 — 99 — (1393) Dievo Apveizdos bažnyčias, o kiek vėliau pastatė ir šiose vietose bažnyčias: Švenčionyse, Perlojoje, Trakuose, Gardine, Breste ir kt. Kaune ir Ašmenoje, po nenusisekusio Vorsklos mūšio, įkūrė vienuolynus pranciškonams; Breste įsteigė vienuolyną augustinijonams; juos taip pat gausiai apdovanojo Medininkuose (Viln.
 
-## Teiginiai
-
-<a id="claim-t-185230"></a>
-- t-001
-  teiginys: "Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir išžudyti žymiausius Lietuvos didikus."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168591
-
-<a id="claim-t-185231"></a>
-- t-002
-  teiginys: "Šich Achmetas, Užvolgio skitų valdovas, būdamas tremtinys ir beveik belaisvis Breste ir Radome tarėsi su Aleksandru."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168592
-
-<a id="claim-t-185233"></a>
-- t-003
-  teiginys: "Į Brestą atkeliavę Maskvos legatai turėjo patvirtinti paliaubas, bet karaliaus Lietuvoje neberado."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168594
-
-<a id="claim-t-193439"></a>
-- t-004
-  teiginys: "Netru kus į Brestą atkeliavo Maskvos legatai, atsiųsti patvir tinti paliaubų, tačiau nebeM a sk v o s p a siu n tin ia i surado karaliaus Lietuvoje."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168594
-
-<a id="claim-t-196677"></a>
-- t-005
-  teiginys: "Gediminas atsiėmė Drohičiną ir Brestą, prijungė kraštą prie Lietuvos valdų ir paliko lietuvių įgulas bei vietininkus."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-178835
-
-<a id="claim-t-201588"></a>
-- t-006
-  teiginys: "Tiek pat, kiek Kaunas, mokėti turėjo Belskas, Brestas, Kijevas, Mogiliavas, Pinskas, Polockas, Vitebskas."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184935
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Aleksandras Breste sušaukė seimą, ketindamas į pilį sukviesti, suimti ir išžudyti žymiausius Lietuvos didikus.'
@@ -242,8 +167,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-168592
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -274,8 +197,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-168594
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -302,9 +223,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-    - t-004
+  pagrindžia:
+    - t-001
 
 - id: c-178835
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -330,8 +250,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-002
 
 - id: c-184935
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -346,5 +266,45 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-003
+
+## Teiginiai
+
+<a id="claim-t-185233"></a>
+- t-001
+  teiginys: "Į Brestą atkeliavę Maskvos legatai turėjo patvirtinti paliaubas, bet karaliaus Lietuvoje neberado."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168594
+
+<a id="claim-t-196677"></a>
+- t-002
+  teiginys: "Gediminas atsiėmė Drohičiną ir Brestą, prijungė kraštą prie Lietuvos valdų ir paliko lietuvių įgulas bei vietininkus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-178835
+
+<a id="claim-t-201588"></a>
+- t-003
+  teiginys: "Tiek pat, kiek Kaunas, mokėti turėjo Belskas, Brestas, Kijevas, Mogiliavas, Pinskas, Polockas, Vitebskas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184935
+

@@ -9,11 +9,12 @@ import { QuartzPluginData } from "../../plugins/vfile"
 import { ComponentChildren } from "preact"
 import { concatenateResources } from "../../util/resources"
 import { trieFromAllFiles } from "../../util/ctx"
-import { resolveRelative } from "../../util/path"
+import { resolveRelative, FullSlug } from "../../util/path"
 import { themeEntries } from "../../util/themeCatalog"
 import ObjectDirectory from "../ObjectDirectory"
 import objectDirectoryStyle from "../styles/objectDirectory.scss"
 import { ArticleCatalog, editorialCatalogStyle } from "../EditorialCatalog"
+import { objectCountLabel, objectTypes } from "../../util/objectTypes"
 
 const ObjectDirectoryComponent = ObjectDirectory()
 
@@ -155,6 +156,52 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     const title = folderTitle(fileData.slug, rawTitle)
     const folderType = folderLabel(fileData.slug, title)
     const folderCount = uniquePagesInFolder.length.toLocaleString("lt-LT")
+    const collection = objectTypes.find(
+      (type) => `objektai/${type.folder}` === String(fileData.slug).replace(/\/index$/, ""),
+    )
+
+    if (collection) {
+      return (
+        <main
+          class="popover-hint bm-list-page bm-folder-page object-type-catalog"
+          data-catalog-type={collection.type}
+        >
+          <header class="object-catalog-intro">
+            <div>
+              <p class="object-catalog-eyebrow">Lietuvos istorijos kolekcija</p>
+              <div class="object-catalog-title">
+                <h1>{collection.title}</h1>
+                <span class="object-catalog-count">
+                  {folderCount}
+                  <span> {objectCountLabel(uniquePagesInFolder.length, "entries")}</span>
+                </span>
+              </div>
+              <p class="object-catalog-description">{collection.description}</p>
+            </div>
+            <a
+              class="object-catalog-back"
+              href={resolveRelative(fileData.slug!, "objektai/index" as FullSlug)}
+            >
+              Visa kolekcija <span aria-hidden="true">↗</span>
+            </a>
+          </header>
+          <nav class="object-catalog-types" aria-label="Objektų tipai">
+            {objectTypes.map((type) => (
+              <a
+                href={resolveRelative(fileData.slug!, `objektai/${type.folder}/index` as FullSlug)}
+                aria-current={type.type === collection.type ? "page" : undefined}
+              >
+                {type.title}
+              </a>
+            ))}
+          </nav>
+          {(tree as Root).children.length > 0 && <article class={classes}>{content}</article>}
+          <div class="page-listing">
+            <PageList {...listProps} />
+          </div>
+        </main>
+      )
+    }
 
     if (String(fileData.slug ?? "").replace(/\/index$/, "") === "temos") {
       const themes = themeEntries(allFiles)
@@ -163,7 +210,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
           <section class="bm-list-intro" aria-label="Puslapio santrauka">
             <div>
               <p>Temų indeksas</p>
-              <h2>Temos</h2>
+              <h1>Temos</h1>
             </div>
             <dl>
               <div>
@@ -173,7 +220,8 @@ export default ((opts?: Partial<FolderContentOptions>) => {
             </dl>
           </section>
           <p class="theme-catalog-lead">
-            Visos naudojamos kanoninės temos, surikiuotos pagal viešai matomų objektų skaičių.
+            Lietuvos praeitis per žmones, vietas ir idėjas. Pasirinkite temą ir atraskite su ja
+            susijusius objektus.
           </p>
           <div class="theme-catalog-grid">
             {themes.map((theme) => (
@@ -194,7 +242,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
         <section class="bm-list-intro" aria-label="Puslapio santrauka">
           <div>
             <p>{folderType}</p>
-            <h2>{title}</h2>
+            <h1>{title}</h1>
           </div>
           <dl>
             <div>

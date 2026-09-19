@@ -32,27 +32,6 @@ media_all_json: |-
 
 Tačiau apgaulė greitai išaiškėjo, jau Varmės vyskupas Eberhardas 1325 metais rašo: Quidam - factis caritatem negantes, que ambiciosa non est, nugis victum querentes in populo apud fideles predicare et asserere mendaciter sunt inventi, quod (Lethowini) Gristi.
 
-## Teiginiai
-
-<a id="claim-t-88147"></a>
-- t-001
-  teiginys: "1325 m. Varmės vyskupas Eberhardas rašė, kad teiginiai apie lietuvių norą atsiversti į krikščionybę buvo melagingi."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Eberhardas (Varmės vyskupas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Eberhardo Varmės vyskupo diploma (1325 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Eberhardas (Varmės vyskupas): mention_match, person, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Eberhardo Varmės vyskupo diploma (1325 m.)\" parinktas kaip owner_note_path. Targetas \"Eberhardas (Varmės vyskupas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1325 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinė formuluotė per ilga, fragmentiška ir kopijuoja lotynišką šaltinio tekstą."
-  pagrindžia:
-    - c-84126
-
 ## Citatos
 
 - id: c-84126
@@ -90,5 +69,27 @@ Tačiau apgaulė greitai išaiškėjo, jau Varmės vyskupas Eberhardas 1325 meta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-88147"></a>
+- t-001
+  teiginys: "1325 m. Varmės vyskupas Eberhardas rašė, kad teiginiai apie lietuvių norą atsiversti į krikščionybę buvo melagingi."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Eberhardas (Varmės vyskupas): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Eberhardo Varmės vyskupo diploma (1325 m.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Eberhardas (Varmės vyskupas): mention_match, person, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Eberhardo Varmės vyskupo diploma (1325 m.)\" parinktas kaip owner_note_path. Targetas \"Eberhardas (Varmės vyskupas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1325 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinė formuluotė per ilga, fragmentiška ir kopijuoja lotynišką šaltinio tekstą."
+  pagrindžia:
+    - c-84126
+

@@ -48,24 +48,6 @@ Teodoro Narbuto pasakojimu, Suzdalės kunigaikštis Borisas Konstantinovičius s
 
 Teodoro Narbuto pasakojimu, Suzdalės kunigaikštis Borisas Konstantinovičius siekė Algirdo dukters kunigaikštytės Agripinos rankos ir 1354 m. ją vedė.
 
-## Teiginiai
-
-<a id="claim-t-207006"></a>
-- t-001
-  teiginys: "Teodoro Narbuto pasakojimu, Suzdalės kunigaikštis Borisas Konstantinovičius siekė Algirdo dukters kunigaikštytės Agripinos rankos ir 1354 m. ją vedė."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1354 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleisti giminystės ryšiai ir pašalinti OCR bei skyrybos iškraipymai. Santuokos aplinkybės paliktos su atribucija, naujų faktų nepridėta."
-  vertinimo_atnaujinta: "2026-08-12T22:29:05Z"
-  pagrindžia:
-    - c-189621
-
 ## Citatos
 
 - id: c-189621
@@ -81,5 +63,24 @@ Teodoro Narbuto pasakojimu, Suzdalės kunigaikštis Borisas Konstantinovičius s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-207006"></a>
+- t-001
+  teiginys: "Teodoro Narbuto pasakojimu, Suzdalės kunigaikštis Borisas Konstantinovičius siekė Algirdo dukters kunigaikštytės Agripinos rankos ir 1354 m. ją vedė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1354 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleisti giminystės ryšiai ir pašalinti OCR bei skyrybos iškraipymai. Santuokos aplinkybės paliktos su atribucija, naujų faktų nepridėta."
+  vertinimo_atnaujinta: "2026-08-12T22:29:05Z"
+  pagrindžia:
+    - c-189621
+

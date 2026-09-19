@@ -61,3 +61,45 @@ Jeanas Louisas Flandrinas teigia, kad pirmoji privataus gyvenimo istorija buvo p
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207898"></a>
+- t-001
+  teiginys: "Jeanas Louisas Flandrinas teigia, kad pirmoji privataus gyvenimo istorija buvo parašyta 1782 m."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  temporaliniai_duomenys: "įvykio data: 1782 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190515
+
+## Citatos
+
+- id: c-190515
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 13"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 13."
+  citata_originali: |
+    Anglijoje, tada, kai visuomenė jau buvo perėmusi
+    „buržuazijos" kultūrą? - klausia ir ieško atsakymų Georgas Duby ir Filipas Ariesas stu-
+    dijoje, skirtoje Europos privataus gyvenimo istorijai nuo antikos iki Naujausiųjų laikų
+    20.
+    Taip baigiantis XX amžiui problemą formuluoja šimtmečiais plėtoto daugiašakio
+    Prancūzijos istorijos mokslo žmonės šalies, kurioje pirmoji privataus gyvenimo istorija,
+    kaip teigia Jeanas Louisas Flandrinas, buvo parašyta prieš 200 metų - 1782 m.
+  citata_rodoma: "Taip baigiantis XX amžiui problemą formuluoja šimtmečiais plėtoto daugiašakio\nPrancūzijos istorijos mokslo žmonės šalies, kurioje pirmoji privataus gyvenimo istorija,\nkaip teigia Jeanas Louisas Flandrinas, buvo parašyta prieš 200 metų - 1782 m."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+

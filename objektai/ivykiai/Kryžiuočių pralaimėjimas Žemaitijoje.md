@@ -42,21 +42,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206809"></a>
-- t-001
-  teiginys: "Narbutas rašo, kad Ragainės komtūras Jonas Rumpenheimas ir Insterburgo valdytojas, vadovaudami vokiečių plėšikautojų būriui, įsiveržė į Žemaitiją, pasiekė Šventosios ir Kaltinėnų apylinkes bei išsivarė žmonių ir galvijų."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189424
-
 ## Santrauka
 
 Narbutas rašo, kad Ragainės komtūras Jonas Rumpenheimas ir Insterburgo valdytojas, vadovaudami vokiečių plėšikautojų būriui, įsiveržė į Žemaitiją, pasiekė Šventosios ir Kaltinėnų apylinkes bei išsivarė žmonių ir galvijų.
@@ -79,5 +64,21 @@ Narbutas rašo, kad Ragainės komtūras Jonas Rumpenheimas ir Insterburgo valdyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206809"></a>
+- t-001
+  teiginys: "Narbutas rašo, kad Ragainės komtūras Jonas Rumpenheimas ir Insterburgo valdytojas, vadovaudami vokiečių plėšikautojų būriui, įsiveržė į Žemaitiją, pasiekė Šventosios ir Kaltinėnų apylinkes bei išsivarė žmonių ir galvijų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189424
+

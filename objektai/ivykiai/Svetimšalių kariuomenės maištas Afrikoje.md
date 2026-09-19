@@ -1,0 +1,60 @@
+---
+tipas: ivykis
+pavadinimas: 'Svetimšalių kariuomenės maištas Afrikoje'
+saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Svetimšalių kariuomenės maištas Afrikoje
+
+## Santrauka
+
+535 metais Afrikoje samdyta svetimšalių kariuomenė sukėlė maištą; ją sudarė herulai, vandalai ir maurai.
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+Nenurodyta
+
+## Eiga
+Nenurodyta
+
+## Rezultatas
+Nenurodyta
+
+## Santrauka
+
+535 metais Afrikoje samdyta svetimšalių kariuomenė sukėlė maištą; ją sudarė herulai, vandalai ir maurai.
+
+## Citatos
+
+- id: c-195616
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 325"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 325."
+  citata_originali: |
+    Taigi 535 metais, kai samdyta
+    svetimšalių kariuomenė Afrikoje sukėlė maištą, ją sudarė
+    beriliai, vandalai ir maurai.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+

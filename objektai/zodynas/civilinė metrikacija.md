@@ -33,20 +33,6 @@ media_all_json: |-
 
 Naujoji valdžia, taupydama lėšas, mažino atlyginimus, planavo įvesti civilinę metrikaciją (didelis finansinis smūgis katalikų kunigams, nes nuo 1927 m. pradžios dar ketinta nebemokėti algų dvasininkams), ėmė mažinti karininkų skaičių.
 
-## Teiginiai
-
-<a id="claim-t-77790"></a>
-- t-001
-  teiginys: "III Seimo naujoji valdžia planavo įvesti civilinę metrikaciją, kuri būtų finansiškai paveikusi katalikų kunigus."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: po 1927 m.; įvykio data: 1927 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas ir apkrautas kitais su civiline metrikacija nesusijusiais faktais."
-  pagrindžia:
-    - c-75115
-
 ## Citatos
 
 - id: c-75115
@@ -70,5 +56,20 @@ Naujoji valdžia, taupydama lėšas, mažino atlyginimus, planavo įvesti civili
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-77790"></a>
+- t-001
+  teiginys: "III Seimo naujoji valdžia planavo įvesti civilinę metrikaciją, kuri būtų finansiškai paveikusi katalikų kunigus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: po 1927 m.; įvykio data: 1927 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys per ilgas ir apkrautas kitais su civiline metrikacija nesusijusiais faktais."
+  pagrindžia:
+    - c-75115
+

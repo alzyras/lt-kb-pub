@@ -33,19 +33,6 @@ media_all_json: |-
 
 Zajączkowski, St.
 
-## Teiginiai
-
-<a id="claim-t-31929"></a>
-- t-001
-  teiginys: "St. Zajączkowskio „W sprawie zajęcia Podlasia przez Giedymina“ paskelbta 1929 m. AW 6 tome, 1-8 puslapiuose."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1929 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-33722
-
 ## Citatos
 
 - id: c-33722
@@ -65,5 +52,19 @@ Zajączkowski, St.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-31929"></a>
+- t-001
+  teiginys: "St. Zajączkowskio „W sprawie zajęcia Podlasia przez Giedymina“ paskelbta 1929 m. AW 6 tome, 1-8 puslapiuose."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1929 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-33722
+

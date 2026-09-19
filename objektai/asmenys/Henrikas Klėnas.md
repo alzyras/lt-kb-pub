@@ -43,34 +43,6 @@ Teodoro Narbuto aprašyme Henrikui Klėnui buvo pavesta vadovauti rinktinių kry
 
 Teodoro Narbuto aprašyme Henrikui Klėnui buvo pavesta vadovauti rinktinių kryžiuočių ir karių dalinių įgulai, kuri gynėsi pasiaukojamai ir narsiai. Teodoro Narbuto aprašyme Henrikas Klėnas įvardijamas kaip vienas labiausiai patyrusių kryžiuočių riterių.
 
-## Teiginiai
-
-<a id="claim-t-206969"></a>
-- t-001
-  teiginys: "Teodoro Narbuto aprašyme Henrikui Klėnui buvo pavesta vadovauti rinktinių kryžiuočių ir karių dalinių įgulai, kuri gynėsi pasiaukojamai ir narsiai."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-189584
-
-<a id="claim-t-206970"></a>
-- t-002
-  teiginys: "Teodoro Narbuto aprašyme Henrikas Klėnas įvardijamas kaip vienas labiausiai patyrusių kryžiuočių riterių."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-189585
-
 ## Citatos
 
 - id: c-189584
@@ -87,7 +59,7 @@ Teodoro Narbuto aprašyme Henrikui Klėnui buvo pavesta vadovauti rinktinių kry
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189585
@@ -103,5 +75,34 @@ Teodoro Narbuto aprašyme Henrikui Klėnui buvo pavesta vadovauti rinktinių kry
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-206969"></a>
+- t-001
+  teiginys: "Teodoro Narbuto aprašyme Henrikui Klėnui buvo pavesta vadovauti rinktinių kryžiuočių ir karių dalinių įgulai, kuri gynėsi pasiaukojamai ir narsiai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-189584
+
+<a id="claim-t-206970"></a>
+- t-002
+  teiginys: "Teodoro Narbuto aprašyme Henrikas Klėnas įvardijamas kaip vienas labiausiai patyrusių kryžiuočių riterių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-189585
+

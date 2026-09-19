@@ -38,10 +38,17 @@ Vartojamos formos: `strūnijo ar dailidavo`.
 
 ## Teiginiai
 
-<a id="claim-t-07661"></a>
-- t-001
+<a id="claim-t-209965"></a>
+- t-209965
+  teiginys: "Strūnijo vartojama kalbant apie namų įrengimą, kuriam reikalingus įrankius žmonės patys kalė."
+  atnaujinta: "2026-09-13 18:01"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+
+<a id="claim-t-210251"></a>
+- t-210251
   teiginys: "Strūnijo reiškia statė sau trobesius be svetimo meistro pagalbos."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-12 16:28"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   ryšio_patikimumas: "susije_su -> Kalnėnai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -51,8 +58,6 @@ Vartojamos formos: `strūnijo ar dailidavo`.
   ryšio_targeto_parinkimas: "Kalnėnai: mention_match, group"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"strūnijo\" parinktas kaip owner_note_path. Targetas \"Kalnėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-09594
 
 ## Citatos
 
@@ -74,6 +79,7 @@ Vartojamos formos: `strūnijo ar dailidavo`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-09594
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -91,5 +97,4 @@ Vartojamos formos: `strūnijo ar dailidavo`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

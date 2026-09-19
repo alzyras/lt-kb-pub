@@ -50,18 +50,6 @@ Tai pilnos profesoriaus pareigybės pavadinimas, pateiktas A. R. Niemi biografij
 
 Šiame šaltinyje terminas tiesiogiai siejamas su 1930 m. paskyrimu profesoriumi.
 
-## Teiginiai
-
-<a id="claim-t-195459"></a>
-- t-001
-  teiginys: "A. R. Niemi 1930 m. buvo paskirtas ordinariniu profesoriumi."
-  atnaujinta: "2026-07-12 03:27"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177880
-
 ## Citatos
 
 - id: c-177880
@@ -83,5 +71,18 @@ Tai pilnos profesoriaus pareigybės pavadinimas, pateiktas A. R. Niemi biografij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-195459"></a>
+- t-001
+  teiginys: "A. R. Niemi 1930 m. buvo paskirtas ordinariniu profesoriumi."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177880
+

@@ -44,29 +44,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-191039"></a>
-- t-001
-  teiginys: "Narbutas Argonautų kelionę sieja su Jasono vadovaujamu plaukimu Argo laivu ir nurodo, kad kartu plaukę jūreiviai buvo vadinami argonautais."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "keliavo_i -> Argonautų kelionė Argo laivu: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jasonas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Argonautų kelionė Argo laivu: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Jasono vadovaujamą kelionę, kuri sutampa su įvykio objektu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Jasonas keliavo į Argonautų kelionė Argo laivu (0.88); Argonautai keliavo į Argonautų kelionė Argo laivu (0.84)"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-173921
-
 ## Citatos
 
 - id: c-173921
@@ -90,5 +67,52 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-196116
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 42"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 42."
+  citata_originali: |
+    Prikso sūnus Argas pirmasis susiruošė į ke­
+    lionę minėta jūra, kurią tuomet vadino Pontos-Axenos,
+    t. y. nesvetinga jūra; šis pavadinimas buvo taikomas
+    Juodajai jūrai nuo Dunojaus žiočių net iki Dono žiočių.
+    Juodąja jūrą pavadino vėliau dėl dažnai virš jos tvy­
+    rančių ir labai tirštų rūkų1. Jasono vadovaujama kelionė
+    vyko Argo laivu, taip vadinamu gal dėl jo statytojo, o
+    plaukę kartu jūreiviai buvo vadinami argonautais. Tai
+    buvo 1350 metais iki Kristaus gimimo, 70 metų prieš
+    1 Skilakas, kilęs iš Kariando (Pėriple du Pont-Eux)*.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-214067"></a>
+- t-001
+  teiginys: "Narbutas Argonautų kelionę sieja su Jasono vadovaujamu plaukimu Argo laivu ir nurodo, kad kartu plaukę jūreiviai buvo vadinami argonautais."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Argonautų kelionė Argo laivu: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jasonas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Argonautų kelionė Argo laivu: llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Jasono vadovaujamą kelionę, kuri sutampa su įvykio objektu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Jasonas keliavo į Argonautų kelionė Argo laivu (0.88); Argonautai keliavo į Argonautų kelionė Argo laivu (0.84)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-196116
+

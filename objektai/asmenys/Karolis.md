@@ -36,10 +36,22 @@ Moravijos markgrafas Karolis, karaliaus Jono sūnus ir būsimas Romos imperatori
 
 ## Teiginiai
 
+<a id="claim-t-225198"></a>
+- t-225198
+  teiginys: "Dusburgietis nurodo, kad Karolis 1280 metais atidengė Marijos Magdalietės palaikus."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205568
+
 <a id="claim-t-186124"></a>
-- t-001
+- t-186124
   teiginys: "Moravijos markgrafas Karolis, karaliaus Jono sūnus ir būsimas Romos imperatorius, atvyko su moravais į kovą."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -76,5 +88,23 @@ Moravijos markgrafas Karolis, karaliaus Jono sūnus ir būsimas Romos imperatori
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-186124
+
+- id: c-205568
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 237"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 237."
+  citata_originali: |
+    1280 viešpaties metais Karolis, Salerno, o vėliau Sicilijos karalius, atidengė Marijos
+    Magdalietės palaikus
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225198
+

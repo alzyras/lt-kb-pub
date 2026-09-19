@@ -785,6 +785,7 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
           1080,
         )}
         <div class="collection-hero-content">
+          <h1 class="collection-home-title">Lietuvos istorijos kolekcija</h1>
           {spotlight.length > 0 && (
             <section
               class="collection-hero-spotlight"

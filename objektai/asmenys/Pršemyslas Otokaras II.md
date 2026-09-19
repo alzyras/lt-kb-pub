@@ -42,28 +42,6 @@ canonical_biography: "1255 m. Ordinui į pagalbą atvyko Pršemyslas Otokaras II
 
 1255 m. Ordinui į pagalbą atvyko Pršemyslas Otokaras II, Čekijos karalius, valdęs ir Moraviją, Austriją, Brandenburgo markgrafas, daugybė riterių iš įvairių Vokietijos žemių.
 
-## Teiginiai
-
-<a id="claim-t-39630"></a>
-- t-001
-  teiginys: "Pršemyslas Otokaras II 1255 m. atvyko į pagalbą Ordinui ir inicijavo Karaliaučiaus pilies statybą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Kryžiuočių ordinas: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pršemyslas Otokaras II: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Pršemyslas Otokaras II atvyko Ordinui į pagalbą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Pršemyslas Otokaras II rėmė Kryžiuočių ordinas (0.91); Pršemyslas Otokaras II buvo valdovas Čekija (0.90)"
-  temporaliniai_duomenys: "kelionės data: 1255 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Pršemyslo Otokaro II veiksmus 1255 m."
-  pagrindžia:
-    - c-41434
-
 ## Citatos
 
 - id: c-41434
@@ -85,9 +63,32 @@ canonical_biography: "1255 m. Ordinui į pagalbą atvyko Pršemyslas Otokaras II
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Pršemyslas Otokaras II buvo valdovas [[objektai/vietos/Čekija]]
 - Pršemyslas Otokaras II rėmė [[objektai/grupes/Kryžiuočių ordinas]]
+
+## Teiginiai
+
+<a id="claim-t-39630"></a>
+- t-001
+  teiginys: "Pršemyslas Otokaras II 1255 m. atvyko į pagalbą Ordinui ir inicijavo Karaliaučiaus pilies statybą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Kryžiuočių ordinas: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pršemyslas Otokaras II: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Pršemyslas Otokaras II atvyko Ordinui į pagalbą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Pršemyslas Otokaras II rėmė Kryžiuočių ordinas (0.91); Pršemyslas Otokaras II buvo valdovas Čekija (0.90)"
+  temporaliniai_duomenys: "kelionės data: 1255 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Pršemyslo Otokaro II veiksmus 1255 m."
+  pagrindžia:
+    - c-41434
+

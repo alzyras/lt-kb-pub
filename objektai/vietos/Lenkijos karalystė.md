@@ -47,10 +47,46 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
 
 ## Teiginiai
 
+<a id="claim-t-208517"></a>
+- t-208517
+  teiginys: "Lenkijos Karalystėje veikė blaivininkų organizacijos, kurios buvo valdžios uždraustos."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  pagrindžia:
+    - c-191137
+
+<a id="claim-t-209358"></a>
+- t-209358
+  teiginys: "Blaivybės brolijų idėjos pasiekė Lenkijos Karalystę per Poznanės kunigaikštystę ir Galiciją."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  pagrindžia:
+    - c-191945
+
+<a id="claim-t-210540"></a>
+- t-210540
+  teiginys: "Šventieji ežerai yra Lenkijos Karalystės Augustavo gubernijoje."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194657
+
 <a id="claim-t-114450"></a>
-- t-001
+- t-114450
   teiginys: "Jei valdovas mirtų Lenkijos Karalystėje, jis norėjo būti palaidotas Krokuvos pilies bažnyčios koplyčioje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -64,9 +100,9 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-105528
 
 <a id="claim-t-114451"></a>
-- t-002
+- t-114451
   teiginys: "Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų pilių Podolėje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lenkija: 0.72"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -81,9 +117,9 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-105533
 
 <a id="claim-t-114452"></a>
-- t-003
+- t-114452
   teiginys: "Numatomos autonomijos teritorija turėjo apimti Lenkijos karalystei priklausiusią Užnemunę, arba Suvalkiją."
-  atnaujinta: "2026-05-31 12:52"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lenkijos karalystė: 0.94"
   ryšio_patikimumo_lygis: "aukstas"
@@ -98,9 +134,9 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-24242
 
 <a id="claim-t-114453"></a>
-- t-004
+- t-114453
   teiginys: "Lenkijos Karalystėje esantys pabūklai, arkebuzos, muškietos ir kita karo amunicija buvo atiduoti Karalystei."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lenkijos karalystė: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -115,9 +151,9 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-105527
 
 <a id="claim-t-114454"></a>
-- t-005
+- t-114454
   teiginys: "Testamente nurodyta, kad Lenkijos Karalystėje esantys pabūklai, muškietos ir kita karo amunicija atiduodami Karalystei."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lenkijos karalystė: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -132,9 +168,9 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-105527
 
 <a id="claim-t-114455"></a>
-- t-006
+- t-114455
   teiginys: "Testamente Lenkijos Karalystei ir Lietuvos Didžiajai Kunigaikštystei palikta meilė, santarvė ir vienybė."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -148,9 +184,9 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-105530
 
 <a id="claim-t-114456"></a>
-- t-007
+- t-114456
   teiginys: "Lenkijos karalystės teritorijoje apie visišką lenkų kalbos ir kultūros išstūmimą iš viešojo gyvenimo ir švietimo įstaigų nekalbėta."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -167,9 +203,9 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-105532
 
 <a id="claim-t-114457"></a>
-- t-008
+- t-114457
   teiginys: "Lietuvių veikėjai siūlė nuo Lenkijos karalystės atskirti jos lietuviškąją dalį, tai yra Lietuvos Užnemunę."
-  atnaujinta: "2026-05-31 12:52"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lenkijos karalystė: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -186,9 +222,9 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-24243
 
 <a id="claim-t-114458"></a>
-- t-009
+- t-114458
   teiginys: "Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lenkija: 0.72"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -203,9 +239,9 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
     - c-105529
 
 <a id="claim-t-114459"></a>
-- t-010
+- t-114459
   teiginys: "Žygimantas Senasis dokumente tituluojamas išrinktu Lenkijos Karalystės karaliumi."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -238,8 +274,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-114452
 
 - id: c-24243
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -260,8 +296,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
+  pagrindžia:
+    - t-114457
 
 - id: c-105527
   autorius: "Michał Baliński"
@@ -290,9 +326,9 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
-    - t-005
+  pagrindžia:
+    - t-114453
+    - t-114454
 
 - id: c-105528
   autorius: "Michał Baliński"
@@ -321,8 +357,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-114450
 
 - id: c-105529
   autorius: "Michał Baliński"
@@ -341,8 +377,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
+  pagrindžia:
+    - t-114458
 
 - id: c-105530
   autorius: "Michał Baliński"
@@ -378,8 +414,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-114455
 
 - id: c-105531
   autorius: "Michał Baliński"
@@ -412,8 +448,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-010
+  pagrindžia:
+    - t-114459
 
 - id: c-105532
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -439,8 +475,8 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-114456
 
 - id: c-105533
   autorius: "Michał Baliński"
@@ -462,8 +498,63 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-114451
+
+- id: c-191137
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 66"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 66."
+  citata_originali: |
+    kada Lenkijos
+    Karalystėje veikusios (ir, kaip minėta, valdžios uždraustos) blaivininkų
+    organizacijos jau keletą metų buvo plačiai Lietuvoje žinomos20.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208517
+
+- id: c-191945
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 61"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 61."
+  citata_originali: |
+    liepos 28 d. buvo patvirtinti popiežiaus Pijaus IX7. Tai dar labiau
+    paspartino blaivybės judėjimą įvairiose Europos Šalyse. Per Poznanės
+    kunigaikštystę, Galiciją, brolijų idėjos pasiekė Lenkijos Karalystę.
+  citata_rodoma: "Per Poznanės \nkunigaikštystę, Galiciją, brolijų idėjos pasiekė Lenkijos Karalystę."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209358
+
+- id: c-194657
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 482"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 482."
+  citata_originali: |
+    Šventieji ežerai yra Lenkijos Karalystės Augustavo gubernijoje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210540
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Suvalkija]]

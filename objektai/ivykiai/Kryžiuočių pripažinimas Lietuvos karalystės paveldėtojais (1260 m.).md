@@ -40,21 +40,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206035"></a>
-- t-001
-  teiginys: "Mindaugas, Teodoro Narbuto pasakojimu, kryžiuočių spaudžiamas paskelbė Kryžiuočių ordiną visos valstybės paveldėtoju, jei neturėtų vyriškos lyties įpėdinio."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188650
-
 ## Santrauka
 
 Mindaugas, Teodoro Narbuto pasakojimu, kryžiuočių spaudžiamas paskelbė Kryžiuočių ordiną visos valstybės paveldėtoju, jei neturėtų vyriškos lyties įpėdinio.
@@ -83,5 +68,21 @@ Mindaugas, Teodoro Narbuto pasakojimu, kryžiuočių spaudžiamas paskelbė Kry�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206035"></a>
+- t-001
+  teiginys: "Mindaugas, Teodoro Narbuto pasakojimu, kryžiuočių spaudžiamas paskelbė Kryžiuočių ordiną visos valstybės paveldėtoju, jei neturėtų vyriškos lyties įpėdinio."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188650
+

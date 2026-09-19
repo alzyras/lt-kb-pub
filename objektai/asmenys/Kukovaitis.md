@@ -47,10 +47,61 @@ canonical_biography: "Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine l
 
 ## Teiginiai
 
+<a id="claim-t-196529"></a>
+- t-004
+  teiginys: "Kojelavičius vaizduoja Kukovaitį prieš mirtį perdavus valdžią sūnui, kai jį atgaivino žinia apie priešo įveikimą ir sūnaus pergalę."
+  atnaujinta: "2026-07-13 01:00"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-169494
+
+<a id="claim-t-211000"></a>
+- t-211000
+  teiginys: "O paskui mirė didysis Lietuvos ir Žemaičių kuni gaikštis Kukovaitis, buvęs labai teisingas ir malonin gas savo valdiniams."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193697
+
+<a id="claim-t-210352"></a>
+- t-210352
+  teiginys: "Lietuvos metraštis pasakoja, kad Kukovaitis, mylėdamas motiną Pajautą, pastatė jos vardo stabą prie Žaslių ežero."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-193439
+
+<a id="claim-t-210655"></a>
+- t-210655
+  teiginys: "Lietuvos metraštis pasakoja, kad Kukovaitis Pajautos atminimui pastatė jos išvaizdos stabą prie Žaslių ežero."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-193439
+
 <a id="claim-t-186133"></a>
-- t-001
+- t-186133
   teiginys: "Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine lietuvių ir žemaičių kariauna padėti Skirmantui."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -66,81 +117,10 @@ canonical_biography: "Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine l
   pagrindžia:
     - c-169494
 
-<a id="claim-t-188572"></a>
-- t-002
-  teiginys: "Narbutas Kukovaitį vadino sudvejintu lietuvių kunigaikščiu, Živinbudo II sūnumi, valdžiusiu Užnerio Lietuvoje ir mirusiu 1221 metais."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kukovaitis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kukovaitis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-171461
-
-<a id="claim-t-193943"></a>
-- t-003
-  teiginys: "Lietuvos metraštis pasakoja, kad Kukovaitis Pajautos atminimui pastatė jos išvaizdos stabą prie Žaslių ežero."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-  pagrindžia:
-    - c-176568
-
-<a id="claim-t-196529"></a>
-- t-004
-  teiginys: "Kojelavičius vaizduoja Kukovaitį prieš mirtį perdavus valdžią sūnui, kai jį atgaivino žinia apie priešo įveikimą ir sūnaus pergalę."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-169494
-
-<a id="claim-t-196843"></a>
-- t-005
-  teiginys: "Lietuvos metraštis pasakoja, kad Kukovaitis, mylėdamas motiną Pajautą, pastatė jos vardo stabą prie Žaslių ežero."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-176568
-
-<a id="claim-t-197419"></a>
-- t-006
-  teiginys: "Kukovaitis yra ant gana aukšto kalno, matomas toli iš jūros."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-171460
-
 <a id="claim-t-205416"></a>
-- t-007
+- t-205416
   teiginys: "Narbutas rašo, kad Kukovaitis su savo daliniu pasiekė Voluinės Vladimiro apylinkes ir Mozyrių."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -151,9 +131,9 @@ canonical_biography: "Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine l
     - c-187926
 
 <a id="claim-t-205533"></a>
-- t-008
+- t-205533
   teiginys: "Šio žygio vadais buvo Lietuvos Užnerio kunigaikš tis Kukovaitis3 5 ir narsusis kunigaikštis Mantvila, turėjęs valdą Aukštaitijoje."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -164,9 +144,9 @@ canonical_biography: "Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine l
     - c-187796
 
 <a id="claim-t-205577"></a>
-- t-009
+- t-205577
   teiginys: "Kukovaitis Mingailos ir Skirmanto sostinėje buvo iškilmingai pagerbtas suruoš tomis vaišėmis ir apdovanotas."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -175,6 +155,17 @@ canonical_biography: "Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine l
   vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
   pagrindžia:
     - c-187755
+
+<a id="claim-t-219143"></a>
+- t-219143
+  teiginys: "Narbutas pasakojo, kad kunigaikštis Kukovaitis prie Žaslių ežero pastatė stabą motinai, po mirties pripažintai deive."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -253,13 +244,14 @@ canonical_biography: "Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine l
     venimą, jis deramu laiku perdavė valdžią sūnui, kurį
     po pergalės triumfuojantį matė savo akimis.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
     - t-004
+    - t-186133
 
 - id: c-171460
   autorius: "Teodoras Narbutas"
@@ -283,8 +275,6 @@ canonical_biography: "Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
 
 - id: c-171461
   autorius: "Teodoras Narbutas"
@@ -309,8 +299,6 @@ canonical_biography: "Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-176568
   autorius: "Anoniminis metraštininkas"
@@ -330,9 +318,6 @@ canonical_biography: "Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-    - t-005
 
 - id: c-187755
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -349,8 +334,8 @@ canonical_biography: "Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
+  pagrindžia:
+    - t-205577
 
 - id: c-187796
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -368,8 +353,8 @@ canonical_biography: "Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
+  pagrindžia:
+    - t-205533
 
 - id: c-187926
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -391,8 +376,49 @@ canonical_biography: "Živinbudas pasiuntė savo sūnų Kukovaitį su rinktine l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-205416
+
+- id: c-193439
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 48"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 48."
+  citata_originali: |
+    Ir didysis kunigaikštis Kukovaitis, mylėdamas
+    savo motiną, jos atminimui pagerbti pagal jos išvaizdą
+    padirbo stabą ir pastatė tą savo motinos Pajautos vardo
+    stabą ties Žaslių ežeru. O tą jos stabą garbino ir Pa­
+    jautą laikė deive. Paskui tas stabas supuvo, ir toje vie­
+    loje išaugo liepos. Tąsias liepas garbino ir iki mūsų
+    dienų jas tebedievina, minėdami tą Pajautą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210352
+    - t-210655
+
+- id: c-193697
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 48"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 48."
+  citata_originali: |
+    O paskui mirė didysis Lietuvos ir Žemaičių kuni­
+    gaikštis Kukovaitis, buvęs labai teisingas ir malonin­
+    gas savo valdiniams.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211000
 
 ## Ryšiai
 - Kukovaitis rėmė [[objektai/asmenys/Skirmantas]]

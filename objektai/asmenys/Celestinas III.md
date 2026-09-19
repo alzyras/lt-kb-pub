@@ -39,10 +39,22 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
 
 ## Teiginiai
 
-<a id="claim-t-60224"></a>
-- t-001
+<a id="claim-t-220649"></a>
+- t-220649
+  teiginys: "Šaltinio pasakojime popiežius Celestinas III įkūrė ir pašventino Šventosios Marijos Teutonų ordino vienuolių ligoninę."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204986
+
+<a id="claim-t-220894"></a>
+- t-220894
   teiginys: "Popiežius Celestinas III Jeruzalėje įkūrė Šv. Marijos Teutonų ordino ligoninę ir paskyrė septynis kraštų valdytojus."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-09-13 11:42"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "pastate -> Jeruzalė: 0.70"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -53,13 +65,23 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
   ryšio_paaiskinimas: "Citata teigia, kad Celestinas III Jeruzalėje įkūrė ligoninę; konkrečios ligoninės objekto nėra, todėl fiksuojama vieta."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Celestinas III pastatė Jeruzalė (0.70)"
-  pagrindžia:
-    - c-60856
 
-<a id="claim-t-60225"></a>
-- t-002
+<a id="claim-t-221871"></a>
+- t-221871
+  teiginys: "Štai šis popiežius Celestinas III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151 ir „išsikirto septynis šulus“, tai yra paskyrė septynis brolius."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205446
+
+<a id="claim-t-225664"></a>
+- t-225664
   teiginys: "Celestinas III Jeruzalėje įkūrė ir pašventino Šv. Marijos Teutonų ordino vienuolių ligoninę."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-09-13 11:42"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "pastate -> Jeruzalė: 0.72"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -71,24 +93,12 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Celestinas III pastatė Jeruzalė (0.72)"
   pagrindžia:
-    - c-60857
-
-<a id="claim-t-197063"></a>
-- t-003
-  teiginys: "Štai šis popiežius Celestinas III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151 ir „išsikirto septynis šulus“, tai yra paskyrė septynis brolius."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-60857
+    - c-205446
 
 <a id="claim-t-200974"></a>
-- t-004
+- t-200974
   teiginys: "Sugraudintas ant galo jo pasakomis, pats po piežius Celestinas III apskelbė atpuskus ir griekų atleidimą tiems visiems krikščionims, kurie eis ka riauti pagonių į žemaičių kraštą ir tomis pačiomis privilijomis, aiba liecybomis, džiaugsis kaip jei tie, kurie."
-  atnaujinta: "2026-07-16 14:31"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -119,8 +129,6 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-60857
   autorius: "Petras Dusburgietis"
@@ -147,9 +155,6 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-003
 
 - id: c-184324
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -179,5 +184,56 @@ Dusburgietis teigia, kad septyniais sakramentais, taip dievo vietininkas žemėj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-200974
+
+- id: c-204986
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 36"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 36."
+  citata_originali: |
+    Mat
+    prie jo skuba visuotinė bažnyčia, trokšdama išgirsti ir pažinti jo mokymą, nelyginant
+    karalienė Saba, norėjusi patirti Saliamono išmintingumą. Štai šis popiežius Celestinas
+    III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios
+    naudai namus — šventosios Marijos Teutonų ordino vienuolių
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220649
+
+- id: c-205446
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 36"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 36."
+  citata_originali: |
+    Štai šis popiežius Celestinas
+    III Jeruzalėje „pastatė namus“, tai yra įkūrė ir pašventino savo bei šventosios bažnyčios
+    naudai namus — šventosios Marijos Teutonų ordino vienuolių ligoninę151 ir „išsikirto
+    septynis šulus“, tai yra paskyrė septynis brolius krašto komtūrus, arba kraštų valdytojus,
+    būtent: Livonijos, Prūsijos, Vokietijos, Austrijos, Apulijos, Romanijos ir Armėnijos152,
+    kurie ir laiko šio ordino brolius sakytum tikras namas, remiamas šulų, taigi šio namo
+    pamatai — didysis magistras bei kapitula; krašto komtūrai, arba kraštų valdytojai,— jo
+    šulai, o kiti broliai—sienos. Šitaip jo šventenybė popiežius pasekė tuo išmintingu vyru,
+    pasistačiusiu savo namą ant uolos ir pasakiusiu (Jn 6, 63): „Aš sutvirtinau jo šulus“.
+    Kadangi parašyta: „Dvasia teikia gyvybę, o kūnas nieko neduoda“, todėl buvo reikalingi
+    šiam namui septyni kitoniški šulai — dvasiniai, kurių trimis, būtent: klusnumu, neturtu ir
+    skaistybe, rėmėsi visiems privaloma drausmė, o keturi kiti, būtent: gailestis nusidėjus,
+    nuodėmių išpažinimas, atgaila ir gausius nusidėjimus atperkanti artimo meilė, tramdė
+    šventuoju pagarbumu tuos, kurie atbuko karštam teisybės ieškojimui.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221871
+    - t-225664
+

@@ -39,34 +39,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206916"></a>
-- t-001
-  teiginys: "Žemaičių pasiuntiniai prašė Vytauto, kurį vadino savo karaliumi, prie jų rašto prikabinti savo antspaudą, nes patys jo neturėjo."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-189531
-
-<a id="claim-t-206917"></a>
-- t-002
-  teiginys: "1390 m. Žemaičių pasiuntinių rašto pergamentinis originalas su kiek pažeistu raudono vaško Vytauto antspaudu buvo saugomas Slaptajame Karaliaučiaus archyve."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-189532
-
 ## Santrauka
 
 Žemaičių pasiuntiniai prašė Vytauto, kurį vadino savo karaliumi, prie jų rašto prikabinti savo antspaudą, nes patys jo neturėjo. 1390 m. Žemaičių pasiuntinių rašto pergamentinis originalas su kiek pažeistu raudono vaško Vytauto antspaudu buvo saugomas Slaptajame Karaliaučiaus archyve.
@@ -86,7 +58,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189532
@@ -103,5 +75,34 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-206916"></a>
+- t-001
+  teiginys: "Žemaičių pasiuntiniai prašė Vytauto, kurį vadino savo karaliumi, prie jų rašto prikabinti savo antspaudą, nes patys jo neturėjo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-189531
+
+<a id="claim-t-206917"></a>
+- t-002
+  teiginys: "1390 m. Žemaičių pasiuntinių rašto pergamentinis originalas su kiek pažeistu raudono vaško Vytauto antspaudu buvo saugomas Slaptajame Karaliaučiaus archyve."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-189532
+

@@ -29,44 +29,6 @@ media_all_json: |-
 
 Taip Otokarui su kryžėjais kariaujant samionis ir kitus žemaičius tarp upių Pragaro ir Nemuno, kalavijonys nuo antros pusės, tai yra nuo Padaugavio, tuointimpos veržės per Žemgalius į Žemaičius, dykdami visuomet su kryžėjais susinerti. Pradžioj samionys susiskliautę kantriai ir stipriai turėjos, bet ilgainiui, mažindamos kritusiais ir žeistaisiais, nebgalėjo meldžionų benuramdyti, nebstengdami įsitraukė į Kalgių kai mą, bet jog ir tenai meldžianys įkandin juos vijo, prasidėjo vėl baisesnė. Įkyrėjus vergauti kryžėjams, samionys Galgarbių apykaitose vėl buvo pakėlę ginklą ant savo galžudžių ir apgulę patį vyskupą Sami jos pilėj, Vischusen vadinamoj, bet, nestengdami tenai įsi laužti, pilį palikini paskydo.
 
-## Teiginiai
-
-<a id="claim-t-201228"></a>
-- t-001
-  teiginys: "Taip Otokarui su kryžėjais kariaujant samionis ir kitus žemaičius tarp upių Pragaro ir Nemuno, kalavijonys nuo antros pusės, tai yra nuo Padaugavio, tuointimpos veržės per Žemgalius į Žemaičius, dykdami visuomet su kryžėjais susinerti."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184578
-
-<a id="claim-t-201229"></a>
-- t-002
-  teiginys: "Pradžioj samionys susiskliautę kantriai ir stipriai turėjos, bet ilgainiui, mažindamos kritusiais ir žeistaisiais, nebgalėjo meldžionų benuramdyti, nebstengdami įsitraukė į Kalgių kai mą, bet jog ir tenai meldžianys įkandin juos vijo, prasidėjo vėl baisesnė."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184579
-
-<a id="claim-t-201230"></a>
-- t-003
-  teiginys: "Įkyrėjus vergauti kryžėjams, samionys Galgarbių apykaitose vėl buvo pakėlę ginklą ant savo galžudžių ir apgulę patį vyskupą Sami jos pilėj, Vischusen vadinamoj, bet, nestengdami tenai įsi laužti, pilį palikini paskydo."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184580
-
 ## Citatos
 
 - id: c-184578
@@ -95,7 +57,7 @@ Taip Otokarui su kryžėjais kariaujant samionis ir kitus žemaičius tarp upių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184579
@@ -127,7 +89,7 @@ Taip Otokarui su kryžėjais kariaujant samionis ir kitus žemaičius tarp upių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-184580
@@ -152,5 +114,44 @@ Taip Otokarui su kryžėjais kariaujant samionis ir kitus žemaičius tarp upių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+## Teiginiai
+
+<a id="claim-t-201228"></a>
+- t-001
+  teiginys: "Taip Otokarui su kryžėjais kariaujant samionis ir kitus žemaičius tarp upių Pragaro ir Nemuno, kalavijonys nuo antros pusės, tai yra nuo Padaugavio, tuointimpos veržės per Žemgalius į Žemaičius, dykdami visuomet su kryžėjais susinerti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184578
+
+<a id="claim-t-201229"></a>
+- t-002
+  teiginys: "Pradžioj samionys susiskliautę kantriai ir stipriai turėjos, bet ilgainiui, mažindamos kritusiais ir žeistaisiais, nebgalėjo meldžionų benuramdyti, nebstengdami įsitraukė į Kalgių kai mą, bet jog ir tenai meldžianys įkandin juos vijo, prasidėjo vėl baisesnė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184579
+
+<a id="claim-t-201230"></a>
+- t-003
+  teiginys: "Įkyrėjus vergauti kryžėjams, samionys Galgarbių apykaitose vėl buvo pakėlę ginklą ant savo galžudžių ir apgulę patį vyskupą Sami jos pilėj, Vischusen vadinamoj, bet, nestengdami tenai įsi laužti, pilį palikini paskydo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184580
+

@@ -29,10 +29,28 @@ Teodoras Narbutas, aiškindamas Tacitą, gitonus mini tarp venedų kaimynų gret
 
 ## Teiginiai
 
-<a id="claim-t-192971"></a>
-- t-001
+<a id="claim-t-212318"></a>
+- t-212318
+  teiginys: "Teodoras Narbutas, aiškindamas Tacitą, gitonus mini tarp venedų kaimynų greta estų."
+  atnaujinta: "2026-09-13 18:01"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Estai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gitonai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Estai: mention_match, group, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gitonai\" parinktas kaip owner_note_path. Targetas \"Estai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+
+<a id="claim-t-214589"></a>
+- t-214589
   teiginys: "Narbuto perteikiamame Sarmatijos aprašyme „venedų gitonai“ priskiriami mažesnėms gentims prie Vyslos žemupio."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -48,7 +66,7 @@ Teodoras Narbutas, aiškindamas Tacitą, gitonus mini tarp venedų kaimynų gret
   semantiniai_rysiai: "Gitonai gyveno Vysla (0.78); Finai gyveno Vysla (0.76)"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-175741
+    - c-195094
 
 ## Citatos
 
@@ -74,6 +92,7 @@ Teodoras Narbutas, aiškindamas Tacitą, gitonus mini tarp venedų kaimynų gret
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-175741
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -100,5 +119,34 @@ Teodoras Narbutas, aiškindamas Tacitą, gitonus mini tarp venedų kaimynų gret
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-195094
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 100"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 100."
+  citata_originali: |
+    Toliau jis
+    jau kalba apskritai apie visą Sarmatiją: „Sarmatijoje gy­
+    vena gausiausios venedų gentys prie Venedų įlankos
+    (nurodo Baltijos jūros kryptį), o aukščiau dakai, peucinai
+    ir basternai ir visą Meotijos pakrantę užimantys jazigai
+    ir roksolanai, taip pat toliau į sausumos gilumą — ha-
+    maksobai ir alanai-skitai. Mažesnės Sarmatijos gentys
+    gyvena prie Vyslos (tiksliau — jos žemupyje), venedų
+    gitonai ir finai (gal norėjo pasakyti gotai ir svebai), pas­
+    kui sulanai, žemiau jų frungudionai, toliau prie Vyslos
+    ištakų avarinai, žemiau , jų ambronai, toliau anartofrak-
+    tai, už jų burgionai, arsietai, sabocai, toliau pengitai ir
+    besai prie Karpatų kalnų. Iš jų visų arčiausiai prie ve­
+    nedų iš pietryčių yra galindai, sudinai ir stavanai net iki
+    1 St.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214589
+

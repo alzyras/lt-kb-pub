@@ -37,10 +37,22 @@ Narbutas rašo, kad mūsų kraštų prekės per Galiją arkliais per 50 dienų b
 
 ## Teiginiai
 
-<a id="claim-t-192883"></a>
-- t-001
+<a id="claim-t-212940"></a>
+- t-212940
+  teiginys: "Pabaltijo kraštų prekės per Galiją buvo gabenamos į Masiliją."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196470
+
+<a id="claim-t-213247"></a>
+- t-213247
   teiginys: "Narbutas rašo, kad mūsų kraštų prekės per Galiją arkliais per 50 dienų būdavo gabenamos į Masiliją."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -54,8 +66,6 @@ Narbutas rašo, kad mūsų kraštų prekės per Galiją arkliais per 50 dienų b
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Masilija\" parinktas kaip owner_note_path. Targetas \"Galija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-175653
 
 ## Citatos
 
@@ -78,5 +88,22 @@ Narbutas rašo, kad mūsų kraštų prekės per Galiją arkliais per 50 dienų b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-196470
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 166"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 166."
+  citata_originali: |
+    Taip mūsų kraštų prekės lengvai patekdavo arba
+    į Tartesą, arba prie Galijos krantų, o per Galiją arkliais
+    50 dienų būdavo gabenamos į Masiliją2.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212940
+

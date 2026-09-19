@@ -39,9 +39,9 @@ Aukštosios valstybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet k
     - c-166374
 
 <a id="claim-t-182976"></a>
-- t-002
+- t-182976
   teiginys: "Aukštosios valstybinės pareigos iki XVIII a. nebuvo atlyginamos, bet teikė įtakos valstybėje ir seniūnijomis vadintų valstybės dvarų."
-  atnaujinta: "2026-06-13 18:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -69,10 +69,12 @@ Aukštosios valstybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet k
     dengdavo valstybės pareigas einant padarytas išlaidas, bet ir
     nemažus turtus susikraudavo.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
-    - t-002
+    - t-182976
+

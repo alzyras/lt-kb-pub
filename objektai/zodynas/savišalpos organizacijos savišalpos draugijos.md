@@ -27,26 +27,6 @@ media_all_json: |-
 
 Čia, be to, dar prieškariniais laikais buvo smulkių lietuvių savišalpos organizacijų, nes didesnis lietuvių skaičius į Argentiną atvyko dar XIX amž. gale. Tai vietinės smulkios draugijos, kurios dažniausiai turi tikslą remti savo tautiečius nelaimėje ar bendrai varyti kokį nors verslą (biznį).
 
-## Teiginiai
-
-<a id="claim-t-70324"></a>
-- t-001
-  teiginys: "Jungtinėse Amerikos Valstijose smulkios lietuvių draugijos dažniausiai rėmė tautiečius nelaimėje arba bendrai plėtojo verslą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-69367
-
-<a id="claim-t-70325"></a>
-- t-002
-  teiginys: "Argentinoje dar prieš Pirmąjį pasaulinį karą veikė smulkios lietuvių savišalpos organizacijos."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-69368
-
 ## Citatos
 
 - id: c-69367
@@ -68,7 +48,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-69368
@@ -89,5 +69,26 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-70324"></a>
+- t-001
+  teiginys: "Jungtinėse Amerikos Valstijose smulkios lietuvių draugijos dažniausiai rėmė tautiečius nelaimėje arba bendrai plėtojo verslą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-69367
+
+<a id="claim-t-70325"></a>
+- t-002
+  teiginys: "Argentinoje dar prieš Pirmąjį pasaulinį karą veikė smulkios lietuvių savišalpos organizacijos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-69368
+

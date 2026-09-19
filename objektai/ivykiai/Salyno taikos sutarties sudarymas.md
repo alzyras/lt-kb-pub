@@ -42,20 +42,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-201955"></a>
-- t-001
-  teiginys: "Štai 1398 m. žemiau Kauno buvusioje Nemuno saloje Vytautas su Vokiečių ordinu sudarė vadinamąją Salyno taikos sutartį, be kita ko, atvėrusią prekybos kelius iš Lietuvos į Vokiečių ordino valstybę."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185302
-
 ## Citatos
 
 - id: c-185302
@@ -73,5 +59,20 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201955"></a>
+- t-001
+  teiginys: "Štai 1398 m. žemiau Kauno buvusioje Nemuno saloje Vytautas su Vokiečių ordinu sudarė vadinamąją Salyno taikos sutartį, be kita ko, atvėrusią prekybos kelius iš Lietuvos į Vokiečių ordino valstybę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185302
+

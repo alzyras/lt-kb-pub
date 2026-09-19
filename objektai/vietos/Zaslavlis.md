@@ -49,10 +49,22 @@ Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o 
 
 ## Teiginiai
 
+<a id="claim-t-210618"></a>
+- t-210618
+  teiginys: "Zaslavlis yra vietovė į pietryčius nuo Molodečno ir netoli Minsko."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193804
+
 <a id="claim-t-172045"></a>
-- t-001
+- t-172045
   teiginys: "Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o vėliau priartėjo prie Kauno."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzeme -> Zaslavlis: 0.94"
   ryšio_patikimumo_lygis: "aukstas"
@@ -67,9 +79,9 @@ Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o 
     - c-156474
 
 <a id="claim-t-184407"></a>
-- t-002
+- t-184407
   teiginys: "Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -131,8 +143,8 @@ Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-172045
 
 - id: c-167772
   autorius: "Zenonas Ivinskis"
@@ -151,8 +163,25 @@ Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-184407
+
+- id: c-193804
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 270"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 270."
+  citata_originali: |
+    Zaslavlls — dabar BTSR vietovė (45 km | pietryčius nuo
+    Molodečno, 20 Km nuo Minsko).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210618
 
 ## Ryšiai
 - Užėmė Zaslavlį: [[objektai/grupes/Totoriai]]

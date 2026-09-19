@@ -53,3 +53,41 @@ Hanna Krauze kartu su Jerzy Łojeku išryškino tuometinio diplomatinės atstovy
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-190959
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 262"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 262."
+  citata_originali: |
+    Spaudos istorijos tyrinėtojai Hanna Krauze ir Jerzy Łojekas išryškino tuo­
+    metinio diplomatinės atstovybės sekretoriaus, vėliau - pasiuntinybės rezidento
+    vaidmenį organizuojant Abiejų Tautų Respublikos reformų propagandą Harlemo
+    ir Leideno laikraščiuose3. H. Krauze es vertinimu, Nyderlandų spaudoje paskelbti
+    užsakomieji A . Midletono straipsniai buvo labai svarbūs Ketverių metų seimo
+    reformų propagandai, o propagandinė Kauno paseniūnio veikla Hagoje atskleidė
+    šio asmens „sąžiningumą ir šviesų mąstymą“4.
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-208342"></a>
+- t-001
+  teiginys: "Hanna Krauze kartu su Jerzy Łojeku išryškino tuometinio diplomatinės atstovybės sekretoriaus vaidmenį organizuojant Abiejų Tautų Respublikos reformų propagandą Harlemo ir Leideno laikraščiuose."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190959
+

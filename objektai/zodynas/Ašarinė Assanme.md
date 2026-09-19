@@ -34,46 +34,6 @@ media_all_json: |-
 
 Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras pastatydavo kape prie mirusiojo kojų. Narbutas rašė pastebėjęs sudaužytų ašarinių liekanų, kurių kai kurių šukių vidus buvo dengtas tamsiai ruda glazūra. Turėjau tis tokias ašarines, visas beveik vienodo dydžio, kuriose skys čio telpa tryliktoji lietuviškos kvortos dalis.
 
-## Teiginiai
-
-<a id="claim-t-189113"></a>
-- t-001
-  teiginys: "Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras pastatydavo kape prie mirusiojo kojų."
-  atnaujinta: "2026-07-26 17:49"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172001
-
-<a id="claim-t-189114"></a>
-- t-002
-  teiginys: "Narbutas rašė pastebėjęs sudaužytų ašarinių liekanų, kurių kai kurių šukių vidus buvo dengtas tamsiai ruda glazūra."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172002
-
-<a id="claim-t-197358"></a>
-- t-003
-  teiginys: "Turėjau tis tokias ašarines, visas beveik vienodo dydžio, kuriose skys čio telpa tryliktoji lietuviškos kvortos dalis."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-179149
-
 ## Citatos
 
 - id: c-172001
@@ -96,8 +56,6 @@ Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-172002
   autorius: "Teodoras Narbutas"
@@ -121,8 +79,6 @@ Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-179149
   autorius: "Teodoras Narbutas"
@@ -144,5 +100,95 @@ Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+
+- id: c-197760
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 375"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 375."
+  citata_originali: |
+    Dar pastebėjau su­
+    daužytų ašarinių liekanų; keleto šukių vidus buvo dengtas tam­
+    siai rudos spalvos glazūra. Vienas kaimietis man pasakojo, kad
+    valdant karaliui Stanislovui Augustui, maždaug prieš 38 me­
+    tus, tai yra apie 1789 metus, kažkokie ponai, atvažiavę iš Gar­
+    dino apžiūrėti mineralinių šaltinių, pasiėmė su savim visus mo­
+    linius dubenėlius, kurių seniau niekas nedrįsdavo judinti; vė­
+    liau smalsūs svečiai surinko ir šukes. Iš menkų jų likučių ir
+    vietinių pasakojimų įsitikinau, kad tos ašarinės buvo mažučiai
+    puodeliai, galėję turėti vos pusantro colio skersmenį ir gal iki
+    dviejų colių gylio, su šiek tiek siaurėjančiu kakleliu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+- id: c-198748
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 375"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 375."
+  citata_originali: |
+    1820
+    metais mano kaimynas kaimietis, kasdamas duobę bulvėms,
+    aptiko seną kapą, kuriame šalia kelių sutrūnijusių žmonių kau­
+    lų rado keletą ypatingo pavidalo stiklinių buteliukų (žiūrėk V
+    lentelės 36-ąjį piešinį). Ant apskritimo, nulipdyto iš stiklo, storo
+    ir gana nedailaus, stovi ropelė iš šviesiai žalio, gana permato­
+    mo stiklo, jos kaklelis yra ovalaus piltuvėlio pavidalo. Turėjau
+    tis tokias ašarines, visas beveik vienodo dydžio, kuriose skys­
+    čio telpa tryliktoji lietuviškos kvortos dalis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+    - t-218350
+
+## Teiginiai
+
+<a id="claim-t-219262"></a>
+- t-001
+  teiginys: "Narbutas rašė pastebėjęs sudaužytų ašarinių liekanų, kurių kai kurių šukių vidus buvo dengtas tamsiai ruda glazūra."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-197760
+
+<a id="claim-t-219754"></a>
+- t-002
+  teiginys: "Turėjau tis tokias ašarines, visas beveik vienodo dydžio, kuriose skys čio telpa tryliktoji lietuviškos kvortos dalis."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198748
+
+<a id="claim-t-218350"></a>
+- t-218350
+  teiginys: "Narbutas ašarinėmis vadino indus, į kuriuos per laidotuves surinktas ašaras pastatydavo kape prie mirusiojo kojų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-198748
+

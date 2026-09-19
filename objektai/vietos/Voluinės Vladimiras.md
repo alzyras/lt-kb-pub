@@ -42,58 +42,6 @@ historical_names: []
 
 1247 m. kunigaikštis Vasilka išžygiavo iš Voluinės Vladimiro ir trečią dieną pasivijo jotvingius prie Drohičino.
 
-## Teiginiai
-
-<a id="claim-t-192859"></a>
-- t-001
-  teiginys: "1247 m. kunigaikštis Vasilka išžygiavo iš Voluinės Vladimiro ir trečią dieną pasivijo jotvingius prie Drohičino."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "keliavo_i -> Voluinės Vladimiras: 0.66"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vasilka: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Voluinės Vladimiras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo Vasilkos išvykimo vietą, nors ryšys „keliavo_i“ tik apytikriai dengia išžygiavimą iš vietos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Vasilka keliavo į Voluinės Vladimiras (0.66)"
-  temporaliniai_duomenys: "kelionės data: 1247 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vasilka keliavo į Voluinės Vladimiras“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas veiksmo subjektas, data, kelionės pradžios vieta ir rezultatas. Neperkelti Narbuto spėjimai apie jotvingių ketinimus."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  pagrindžia:
-    - c-175629
-
-<a id="claim-t-206605"></a>
-- t-002
-  teiginys: "Voluinės Vladimirą apgulė kunigaikštis Liubartas, pasikvietęs brolį Kęstutį ir prie jo kariaunos prijungęs savo pajėgas."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
-  pagrindžia:
-    - c-189220
-
-<a id="claim-t-206606"></a>
-- t-003
-  teiginys: "Liubartas, netikėtai užėmęs Voluinės Vladimirą, įkurdino mieste stiprią kariauną ir pastatydino medinę pilį."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
-  pagrindžia:
-    - c-189221
-
 ## Citatos
 
 - id: c-175629
@@ -118,8 +66,6 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-189220
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -138,8 +84,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-206605
 
 - id: c-189221
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -164,5 +110,84 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-206606
+
+- id: c-194445
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 124"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
+  citata_originali: |
+    Ne
+    viskam galime įvirtai pritaikyti tai, ką dabar pateikėme,
+    nes turime žinių apie didelį ir galingą jotvingių žygį į
+    Pietų Rusią, Jie tikriausiai ketino pasinaudoti ianuometi­
+    niais to krašto sunkumais: mongolai nuolat puldinėjo, o
+    kunigaikščiai vaidijosi tarpusavyje. 1247 metais jotvin­
+    giai pasiekė net Holmą prie Ochodzos ir Busavnos; anuo­
+    met tai buvo garsūs valsčiai, ir tas kraštas buvo labai
+    nuniokotas. Kunigaikštis Vasilka, išžygiavęs iš Voluinės
+    Vladimiro, jau trečią dieną pasivijo juos prie pat Drohi-
+    čino (dabar Kobrino apskritis).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-212613"></a>
+- t-001
+  teiginys: "1247 m. kunigaikštis Vasilka išžygiavo iš Voluinės Vladimiro ir trečią dieną pasivijo jotvingius prie Drohičino."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Voluinės Vladimiras: 0.66"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vasilka: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Voluinės Vladimiras: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo Vasilkos išvykimo vietą, nors ryšys „keliavo_i“ tik apytikriai dengia išžygiavimą iš vietos."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Vasilka keliavo į Voluinės Vladimiras (0.66)"
+  temporaliniai_duomenys: "kelionės data: 1247 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vasilka keliavo į Voluinės Vladimiras“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas veiksmo subjektas, data, kelionės pradžios vieta ir rezultatas. Neperkelti Narbuto spėjimai apie jotvingių ketinimus."
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  pagrindžia:
+    - c-194445
+
+<a id="claim-t-206605"></a>
+- t-206605
+  teiginys: "Voluinės Vladimirą apgulė kunigaikštis Liubartas, pasikvietęs brolį Kęstutį ir prie jo kariaunos prijungęs savo pajėgas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189220
+
+<a id="claim-t-206606"></a>
+- t-206606
+  teiginys: "Liubartas, netikėtai užėmęs Voluinės Vladimirą, įkurdino mieste stiprią kariauną ir pastatydino medinę pilį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189221
+

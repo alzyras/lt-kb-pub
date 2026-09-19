@@ -45,20 +45,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-201380"></a>
-- t-001
-  teiginys: "Mažuose ūkės reikaluose pats kunigaikštis su ku nigais ryžos, bet didžiuose ūkės reikaluose turėjo kelti visą tautą į sueimą, kur visi susirinkę iš vieno teiravos pragumo, kuriuo galėtų ūkę savo nuo nelaimos gelbėti, susirinkę tenai ūkinykai večieji jau name."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184730
-
 ## Citatos
 
 - id: c-184730
@@ -92,5 +78,20 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201380"></a>
+- t-001
+  teiginys: "Mažuose ūkės reikaluose pats kunigaikštis su ku nigais ryžos, bet didžiuose ūkės reikaluose turėjo kelti visą tautą į sueimą, kur visi susirinkę iš vieno teiravos pragumo, kuriuo galėtų ūkę savo nuo nelaimos gelbėti, susirinkę tenai ūkinykai večieji jau name."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184730
+

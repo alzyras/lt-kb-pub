@@ -42,21 +42,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-203768"></a>
-- t-001
-  teiginys: "Gegužę Upytės pilies teismo knygoje užfiksuotas Jono Visgirdo skundas dėl dviejų pabėgusių nelaisvųjų brolių, kurie kartu išsivedė savo šeimas."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  vertinimo_atnaujinta: "2026-07-30T20:06:12Z"
-  pagrindžia:
-    - c-186372
-
 ## Santrauka
 
 Gegužę Upytės pilies teismo knygoje užfiksuotas Jono Visgirdo skundas dėl dviejų pabėgusių nelaisvųjų brolių, kurie kartu išsivedė savo šeimas.
@@ -83,5 +68,21 @@ Gegužę Upytės pilies teismo knygoje užfiksuotas Jono Visgirdo skundas dėl d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203768"></a>
+- t-001
+  teiginys: "Gegužę Upytės pilies teismo knygoje užfiksuotas Jono Visgirdo skundas dėl dviejų pabėgusių nelaisvųjų brolių, kurie kartu išsivedė savo šeimas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  vertinimo_atnaujinta: "2026-07-30T20:06:12Z"
+  pagrindžia:
+    - c-186372
+

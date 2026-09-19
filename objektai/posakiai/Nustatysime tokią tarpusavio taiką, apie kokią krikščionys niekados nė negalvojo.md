@@ -43,24 +43,6 @@ Formulė vartojama kviečiant miestus siųsti patikimus pasiuntinius ir pasitik�
 
 Tai iškilminga ir hiperbolinė taikos pažado formulė.
 
-## Teiginiai
-
-<a id="claim-t-54760"></a>
-- t-001
-  teiginys: "Lietuviškame vertime pažadas suformuluotas kaip taika, apie kokią krikščionys niekados nė negalvojo."
-  atnaujinta: "2026-05-27 07:01"
-  sprendimo_priezastis: "gap::sayings"
-  ryšio_patikimumas: "susije_su -> Krikščionys: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Krikščionys: mention_match, group, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo\" parinktas kaip owner_note_path. Targetas \"Krikščionys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55761
-
 ## Citatos
 
 - id: c-55760
@@ -97,6 +79,9 @@ Tai iškilminga ir hiperbolinė taikos pažado formulė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
 - id: c-55761
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -122,5 +107,40 @@ Tai iškilminga ir hiperbolinė taikos pažado formulė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-54760"></a>
+- t-001
+  teiginys: "Lietuviškame vertime pažadas suformuluotas kaip taika, apie kokią krikščionys niekados nė negalvojo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::sayings"
+  ryšio_patikimumas: "susije_su -> Krikščionys: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Krikščionys: mention_match, group, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo\" parinktas kaip owner_note_path. Targetas \"Krikščionys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55761
+
+<a id="claim-t-54761"></a>
+- t-002
+  teiginys: "Formulė „talem pacem ordinabimus“ žadėjo nustatyti tokią taiką, kokios krikščionys nebuvo patyrę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::sayings"
+  ryšio_patikimumas: "susije_su -> Krikščionys: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Krikščionys: mention_match, group, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo\" parinktas kaip owner_note_path. Targetas \"Krikščionys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55760
+

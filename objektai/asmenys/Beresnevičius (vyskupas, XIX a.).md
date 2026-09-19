@@ -67,6 +67,22 @@ Basanavičius Beresnevičių siejo su lenkų kalbos sugrąžinimu į kai kurias 
   pagrindžia:
     - c-184255
 
+<a id="claim-t-208466"></a>
+- t-208466
+  teiginys: "1877 m. Salantų klebonas Kazimieras Bielinskis rašė vyskupystės administratoriui sufraganui Beresnevičiui, kad parapijoje blaivybė buvo tvirtai įsišaknijusi."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  temporaliniai_duomenys: "įvykio data: 1877 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Formuluotė pataisyta, aiškiai įvardijant laiško autorių, adresatą, datą ir laiške aprašytą padėtį. Šaltinio vertinimas apie blaivybės įsitvirtinimą išlaikytas kaip laiško turinys."
+  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
+  pagrindžia:
+    - c-191086
+
 ## Citatos
 
 - id: c-184255
@@ -90,9 +106,35 @@ Basanavičius Beresnevičių siejo su lenkų kalbos sugrąžinimu į kai kurias 
     bażnyčiose [Kaune, Vendżiogaloje, L abunave ir
     k.] vēl įvesta tapo lenkiška kalba.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-15 12:10"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-191086
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 112"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 112."
+  citata_originali: |
+    gyvenime neištrintas žymes, išskiriančias tos kartos žmones (t.y.
+    dalyvavusius blaivybės brolijose - E.A. pastaba) iš kitų.
+    Jau po Valančevskio mirties 1877 m. balandžio 7 d., rašė Telšių
+    apsk. Salantų klebonas (kun. Kazimieras Bielinskis) vyskupystės
+    administratoriui sufraganui Beresnevičiui, kad toje parapijoje blaivybė
+    Įsišaknijo taip tvirtai, kad valstiečiai apskritai nevartoja degtinės net
+    per vestuves, krikštynas, pakasynas.
+  citata_rodoma: "Jau po Valančevskio mirties 1877 m. balandžio 7 d., rašė Telšių \napsk. Salantų klebonas (kun. Kazimieras Bielinskis) vyskupystės \nadministratoriui sufraganui Beresnevičiui, kad toje parapijoje blaivybė \nĮsišaknijo taip tvirtai, kad valstiečiai apskritai nevartoja degtinės net \nper vestuves, krikštynas, pakasynas."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208466
+

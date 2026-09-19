@@ -47,21 +47,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-205459"></a>
-- t-001
-  teiginys: "Šaltinis nurodo, kad 1217 m. kovo 3 d. buvo paskelbta bulė, leidžianti skelbti ginkluotą kryžiaus žygį į Prūsiją."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-187677
-
 ## Santrauka
 
 Šaltinis nurodo, kad 1217 m. kovo 3 d. buvo paskelbta bulė, leidžianti skelbti ginkluotą kryžiaus žygį į Prūsiją.
@@ -94,5 +79,21 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205459"></a>
+- t-001
+  teiginys: "Šaltinis nurodo, kad 1217 m. kovo 3 d. buvo paskelbta bulė, leidžianti skelbti ginkluotą kryžiaus žygį į Prūsiją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187677
+

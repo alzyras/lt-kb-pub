@@ -46,23 +46,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206025"></a>
-- t-001
-  teiginys: "1313 m. rudenį ordino maršalka Henrikas su Sambijos ir Natangijos kariuomene vėl puolė Bisėnos tvirtovę."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1313 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys jau yra taisyklingas, išsamus ir tiesiogiai apibūdina antrąjį Bisėnos antpuolį, todėl jo keisti nereikia."
-  pagrindžia:
-    - c-188640
-
 ## Santrauka
 
 1313 m. rudenį ordino maršalka Henrikas su Sambijos ir Natangijos kariuomene vėl puolė Bisėnos tvirtovę.
@@ -89,5 +72,23 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206025"></a>
+- t-001
+  teiginys: "1313 m. rudenį ordino maršalka Henrikas su Sambijos ir Natangijos kariuomene vėl puolė Bisėnos tvirtovę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1313 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys jau yra taisyklingas, išsamus ir tiesiogiai apibūdina antrąjį Bisėnos antpuolį, todėl jo keisti nereikia."
+  pagrindžia:
+    - c-188640
+

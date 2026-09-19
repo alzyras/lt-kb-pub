@@ -44,34 +44,6 @@ Apie aptariamą laiką Romuvos šventovės apylinkės prie Dubysos buvo gausiai 
 
 Apie aptariamą laiką Romuvos šventovės apylinkės prie Dubysos buvo gausiai apgyvendintos ir turtingos. Teodoras Narbutas, remdamasis jam gerai pažįstamos vietovės apžiūra ir topografiniais pokyčiais, manė Romuvą buvus taisyklingo trikampio pavidalo saloje tarp Nemuno ir išsišakojusios Dubysos vagos prie Seredžiaus.
 
-## Teiginiai
-
-<a id="claim-t-205842"></a>
-- t-001
-  teiginys: "Apie aptariamą laiką Romuvos šventovės apylinkės prie Dubysos buvo gausiai apgyvendintos ir turtingos."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
-  pagrindžia:
-    - c-188457
-
-<a id="claim-t-205843"></a>
-- t-002
-  teiginys: "Teodoras Narbutas, remdamasis jam gerai pažįstamos vietovės apžiūra ir topografiniais pokyčiais, manė Romuvą buvus taisyklingo trikampio pavidalo saloje tarp Nemuno ir išsišakojusios Dubysos vagos prie Seredžiaus."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
-  pagrindžia:
-    - c-188458
-
 ## Citatos
 
 - id: c-188457
@@ -96,7 +68,7 @@ Apie aptariamą laiką Romuvos šventovės apylinkės prie Dubysos buvo gausiai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188458
@@ -125,5 +97,34 @@ Apie aptariamą laiką Romuvos šventovės apylinkės prie Dubysos buvo gausiai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-205842"></a>
+- t-001
+  teiginys: "Apie aptariamą laiką Romuvos šventovės apylinkės prie Dubysos buvo gausiai apgyvendintos ir turtingos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
+  pagrindžia:
+    - c-188457
+
+<a id="claim-t-205843"></a>
+- t-002
+  teiginys: "Teodoras Narbutas, remdamasis jam gerai pažįstamos vietovės apžiūra ir topografiniais pokyčiais, manė Romuvą buvus taisyklingo trikampio pavidalo saloje tarp Nemuno ir išsišakojusios Dubysos vagos prie Seredžiaus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
+  pagrindžia:
+    - c-188458
+

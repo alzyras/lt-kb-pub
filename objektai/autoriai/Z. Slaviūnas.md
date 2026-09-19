@@ -41,24 +41,6 @@ canonical_biography: "Z. Slaviūnas kartu su M. Lukšiene parengė L. A. Jucevi�
 
 Z. Slaviūnas kartu su M. Lukšiene parengė L. A. Jucevičiaus „Raštų“ komentarus 1959 m. leidime.
 
-## Teiginiai
-
-<a id="claim-t-190409"></a>
-- t-001
-  teiginys: "Z. Slaviūnas kartu su M. Lukšiene parengė L. A. Jucevičiaus „Raštų“ komentarus 1959 m. leidime."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1959 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Iš fragmento išskleistas subjektas Z. Slaviūnas ir jo vaidmuo leidinyje. Nepridėta biografinių duomenų ar platesnio leidinio vertinimo."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173292
-
 ## Citatos
 
 - id: c-173292
@@ -75,5 +57,4 @@ Z. Slaviūnas kartu su M. Lukšiene parengė L. A. Jucevičiaus „Raštų“ ko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

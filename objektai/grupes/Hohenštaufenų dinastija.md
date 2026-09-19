@@ -28,21 +28,6 @@ Narbutas nurodo, kad imperatoriai Fridrikas I ir Henrikas VI iš Hohenštaufenų
 
 Narbutas nurodo, kad imperatoriai Fridrikas I ir Henrikas VI iš Hohenštaufenų giminės prisidėjo prie Kryžiuočių ordino iškilimo.
 
-## Teiginiai
-
-<a id="claim-t-205174"></a>
-- t-001
-  teiginys: "Narbutas nurodo, kad imperatoriai Fridrikas I ir Henrikas VI iš Hohenštaufenų giminės prisidėjo prie Kryžiuočių ordino iškilimo."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-187722
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo, kad imperatoriai Fridrikas I ir Henrikas VI iš Hohenštaufenų giminės prisidėjo prie Kryžiuočių ordino iškilimo.'
@@ -76,5 +61,21 @@ Narbutas nurodo, kad imperatoriai Fridrikas I ir Henrikas VI iš Hohenštaufenų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205174"></a>
+- t-001
+  teiginys: "Narbutas nurodo, kad imperatoriai Fridrikas I ir Henrikas VI iš Hohenštaufenų giminės prisidėjo prie Kryžiuočių ordino iškilimo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187722
+

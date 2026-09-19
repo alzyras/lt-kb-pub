@@ -35,26 +35,6 @@ media_all_json: |-
 
 Priselkov, M.
 
-## Teiginiai
-
-<a id="claim-t-31841"></a>
-- t-001
-  teiginys: "M. Priselkovo ir M. Fasmerio „Otryvki V. N. Beneševiča po istoriji russkoj cerkvi XIV v.“ publikuota 1916 m., p. 49–61."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> M. Fasmer: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "M. Priselkov, M. Fasmer Otryvki V. N. Beneševiča po istoriji russkoj cerkvi XIV v: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "M. Fasmer: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Priselkov, M. Fasmer Otryvki V. N. Beneševiča po istoriji russkoj cerkvi XIV v\" parinktas kaip owner_note_path. Targetas \"M. Fasmer\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1916 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-33659
-
 ## Citatos
 
 - id: c-33659
@@ -73,5 +53,26 @@ Priselkov, M.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-31841"></a>
+- t-001
+  teiginys: "M. Priselkovo ir M. Fasmerio „Otryvki V. N. Beneševiča po istoriji russkoj cerkvi XIV v.“ publikuota 1916 m., p. 49–61."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> M. Fasmer: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "M. Priselkov, M. Fasmer Otryvki V. N. Beneševiča po istoriji russkoj cerkvi XIV v: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "M. Fasmer: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"M. Priselkov, M. Fasmer Otryvki V. N. Beneševiča po istoriji russkoj cerkvi XIV v\" parinktas kaip owner_note_path. Targetas \"M. Fasmer\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1916 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-33659
+

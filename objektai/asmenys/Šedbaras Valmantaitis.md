@@ -40,32 +40,6 @@ canonical_biography: "1432 m. Kauno seniūnu vėl vadinamas Sudivojaus brolis Š
 
 1432 m. Kauno seniūnu vėl vadinamas Sudivojaus brolis Šedbaras Valmantaitis, bet ir šis tais pačiais metais dingo iš valstybės gyvenimo. Šedbaras vykdavo pasiuntiniu į Ordiną ar buvo derybų su Ordinu dalyvis 1416, 1425, 1430 m. Turėjo ir kitų pareigų - 1430 m. buvo pasiuntinybėje pas popiežių dėl Vytauto karūnavimo reikalų, 1431 m. Švitrigaila siuntė jį pas Jogailą.
 
-## Teiginiai
-
-<a id="claim-t-202099"></a>
-- t-001
-  teiginys: "1432 m. Kauno seniūnu vėl vadinamas Sudivojaus brolis Šedbaras Valmantaitis, bet ir šis tais pačiais metais dingo iš valstybės gyvenimo."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185446
-
-<a id="claim-t-202100"></a>
-- t-002
-  teiginys: "Šedbaras vykdavo pasiuntiniu į Ordiną ar buvo derybų su Ordinu dalyvis 1416, 1425, 1430 m. Turėjo ir kitų pareigų - 1430 m. buvo pasiuntinybėje pas popiežių dėl Vytauto karūnavimo reikalų, 1431 m. Švitrigaila siuntė jį pas Jogailą."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185447
-
 ## Citatos
 
 - id: c-185446
@@ -81,7 +55,7 @@ canonical_biography: "1432 m. Kauno seniūnu vėl vadinamas Sudivojaus brolis Š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185447
@@ -98,5 +72,32 @@ canonical_biography: "1432 m. Kauno seniūnu vėl vadinamas Sudivojaus brolis Š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-202099"></a>
+- t-001
+  teiginys: "1432 m. Kauno seniūnu vėl vadinamas Sudivojaus brolis Šedbaras Valmantaitis, bet ir šis tais pačiais metais dingo iš valstybės gyvenimo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185446
+
+<a id="claim-t-202100"></a>
+- t-002
+  teiginys: "Šedbaras vykdavo pasiuntiniu į Ordiną ar buvo derybų su Ordinu dalyvis 1416, 1425, 1430 m. Turėjo ir kitų pareigų - 1430 m. buvo pasiuntinybėje pas popiežių dėl Vytauto karūnavimo reikalų, 1431 m. Švitrigaila siuntė jį pas Jogailą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185447
+

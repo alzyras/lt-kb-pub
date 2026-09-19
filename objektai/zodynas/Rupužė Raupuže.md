@@ -27,21 +27,6 @@ media_all_json: |-
 
 Narbutas Rupužę vadino sausumos varle ir rašė, kad rupūžės buvo gerbiamos prie šventyklų bei kai kuriuose namuose.
 
-## Teiginiai
-
-<a id="claim-t-189248"></a>
-- t-001
-  teiginys: "Narbutas Rupužę vadino sausumos varle ir rašė, kad rupūžės buvo gerbiamos prie šventyklų bei kai kuriuose namuose."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172136
-
 ## Citatos
 
 - id: c-172136
@@ -61,5 +46,40 @@ Narbutas Rupužę vadino sausumos varle ir rašė, kad rupūžės buvo gerbiamos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-201492
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 204"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 204."
+  citata_originali: |
+    Rupužė (Raupuže)
+    Sausumos varlė, rupūžė. Ji taip pat buvo garsus fetišas: jas
+    laikė prie šventyklų, kai kuriuose namuose buvo ypač gerbia­
+    mos. Pas mus šis šliužas lenda į nešvarius butus ir kelia neap­
+    sakomą pasibjaurėjimą. Ji taip pat leidžiasi prijaukinama ir
+    taip pripranta, kad ją galima išmokyti kai kurių judesių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-216270"></a>
+- t-001
+  teiginys: "Narbutas Rupužę vadino sausumos varle ir rašė, kad rupūžės buvo gerbiamos prie šventyklų bei kai kuriuose namuose."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-201492
+

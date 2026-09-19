@@ -33,92 +33,6 @@ historical_names: []
 
 Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikuriančio miesto Turgaus aikštės, matyt, greta uosto ir muitinės. Centre buvo išplanuota netaisyklingo keturkampio 2,6 ha Turgaus aikštė. Rotušė buvo pradėta statyti Turgaus aikštės viduryje.
 
-## Teiginiai
-
-<a id="claim-t-201685"></a>
-- t-001
-  teiginys: "Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikuriančio miesto Turgaus aikštės, matyt, greta uosto ir muitinės."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185032
-
-<a id="claim-t-201686"></a>
-- t-002
-  teiginys: "Centre buvo išplanuota netaisyklingo keturkampio 2,6 ha Turgaus aikštė."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185033
-
-<a id="claim-t-201687"></a>
-- t-003
-  teiginys: "Rotušė buvo pradėta statyti Turgaus aikštės viduryje."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185034
-
-<a id="claim-t-201688"></a>
-- t-004
-  teiginys: "Turgaus aikštė buvo išties ankstyvas miesto urbanistinis elementas, atsiradęs pačiais pirmaisiais miesto gyvavimo metais."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185035
-
-<a id="claim-t-201689"></a>
-- t-005
-  teiginys: "Svarstyklės kitų didesnių miestų pavyzdžiu turėjo būti įrengiamos atskirame pastate, stovinčiame Turgaus aikštėje."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185036
-
-<a id="claim-t-201690"></a>
-- t-006
-  teiginys: "Turgaus aikštėje buvo ir vaškinė, bene 6 krosnys."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185037
-
-<a id="claim-t-201691"></a>
-- t-007
-  teiginys: "Vienuolynui buvo iš Kauno miestiečių nupirkti ar kitaip įsigyti Turgaus aikštės šiaurės vakarų kampe 2 kvartalai su 8 sklypais (posesijomis), kuriuose stovėjo gyvenamieji ir ūkiniai miestiečių pastatai."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185038
-
 ## Citatos
 
 - id: c-185032
@@ -137,7 +51,7 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185033
@@ -154,7 +68,7 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-185034
@@ -174,7 +88,7 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-185035
@@ -191,7 +105,7 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-185036
@@ -209,7 +123,7 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-185037
@@ -225,7 +139,7 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-185038
@@ -243,5 +157,92 @@ Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikurian
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+## Teiginiai
+
+<a id="claim-t-201685"></a>
+- t-001
+  teiginys: "Kaune pranciškonai buvo įkurdinti Nemuno pakrantėje, į pietus nuo besikuriančio miesto Turgaus aikštės, matyt, greta uosto ir muitinės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185032
+
+<a id="claim-t-201686"></a>
+- t-002
+  teiginys: "Centre buvo išplanuota netaisyklingo keturkampio 2,6 ha Turgaus aikštė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185033
+
+<a id="claim-t-201687"></a>
+- t-003
+  teiginys: "Rotušė buvo pradėta statyti Turgaus aikštės viduryje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185034
+
+<a id="claim-t-201688"></a>
+- t-004
+  teiginys: "Turgaus aikštė buvo išties ankstyvas miesto urbanistinis elementas, atsiradęs pačiais pirmaisiais miesto gyvavimo metais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185035
+
+<a id="claim-t-201689"></a>
+- t-005
+  teiginys: "Svarstyklės kitų didesnių miestų pavyzdžiu turėjo būti įrengiamos atskirame pastate, stovinčiame Turgaus aikštėje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185036
+
+<a id="claim-t-201690"></a>
+- t-006
+  teiginys: "Turgaus aikštėje buvo ir vaškinė, bene 6 krosnys."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185037
+
+<a id="claim-t-201691"></a>
+- t-007
+  teiginys: "Vienuolynui buvo iš Kauno miestiečių nupirkti ar kitaip įsigyti Turgaus aikštės šiaurės vakarų kampe 2 kvartalai su 8 sklypais (posesijomis), kuriuose stovėjo gyvenamieji ir ūkiniai miestiečių pastatai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185038
+

@@ -35,20 +35,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad samland: Ein Wegweiser für den Strand und das Innere/ Herausgegeben von A.
 
-## Teiginiai
-
-<a id="claim-t-61282"></a>
-- t-001
-  teiginys: "A. Henselio parengtas „Samland: Ein Wegweiser für den Strand und das Innere“ buvo išleistas Karaliaučiuje 1911 m."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1911 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia rengėją, pavadinimą, leidimo vietą ir metus."
-  pagrindžia:
-    - c-61914
-
 ## Citatos
 
 - id: c-61914
@@ -64,5 +50,36 @@ Dusburgietis teigia, kad samland: Ein Wegweiser für den Strand und das Innere/ 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-206256
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 271"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
+  citata_originali: |
+    Samland: Ein Wegweiser für den Strand und das Innere/ Herausgegeben von A.
+    Hensel.—Königsberg, 1911.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-223100"></a>
+- t-001
+  teiginys: "A. Henselio parengtas „Samland: Ein Wegweiser für den Strand und das Innere“ buvo išleistas Karaliaučiuje 1911 m."
+  atnaujinta: "2026-09-13 18:12"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1911 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia rengėją, pavadinimą, leidimo vietą ir metus."
+  pagrindžia:
+    - c-206256
+

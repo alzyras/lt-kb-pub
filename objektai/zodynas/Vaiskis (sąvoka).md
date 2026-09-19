@@ -36,20 +36,6 @@ media_all_json: |-
 
 Bajorams išjojus į karą, paviete prižiūrėti tvarkos likdavo kitas pavieto savivaldos pareigūnas, vadinamasis vaiskis (woyski).
 
-## Teiginiai
-
-<a id="claim-t-201787"></a>
-- t-001
-  teiginys: "Bajorams išjojus į karą, paviete prižiūrėti tvarkos likdavo kitas pavieto savivaldos pareigūnas, vadinamasis vaiskis (woyski)."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185134
-
 ## Citatos
 
 - id: c-185134
@@ -65,5 +51,20 @@ Bajorams išjojus į karą, paviete prižiūrėti tvarkos likdavo kitas pavieto 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201787"></a>
+- t-001
+  teiginys: "Bajorams išjojus į karą, paviete prižiūrėti tvarkos likdavo kitas pavieto savivaldos pareigūnas, vadinamasis vaiskis (woyski)."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185134
+

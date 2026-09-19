@@ -42,45 +42,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-189872"></a>
-- t-001
-  teiginys: "Narbutas rašė, kad lietuvių genčių dainiai kai kuriose giesmėse šaukdavosi Santvaro, kartais ir Lėlio."
-  atnaujinta: "2026-07-26 23:35"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-179093
-
-<a id="claim-t-197263"></a>
-- t-002
-  teiginys: "Vie noje dainoje pastebėjau, kad gydytojų ir vaistų globėjas yra Lė lius."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-179093
-
-<a id="claim-t-197264"></a>
-- t-003
-  teiginys: "Že maitijos žvejai ir šiandieną savo dainose apdainuoja jūrą dievą, vardu „ Dzivsvits “:r\\ Tai bus bendras jūrų ir kitų vandenų, kuriais plaukiota, dievas ir laivininkų globėjas."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-172755
-
 ## Citatos
 
 - id: c-172755
@@ -104,8 +65,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-179093
   autorius: "Teodoras Narbutas"
@@ -132,6 +91,107 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-199968
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 101."
+  citata_originali: |
+    Užkalbėjimai nuo gyva­
+    čių įkandimo, augalų gydomųjų savybių atradimas, žodžiu, visa
+    senovės lietuvių žynių medicina buvo globojama saulės, kurios
+    šiuo atveju buvo šaukiamasi, vadinant ją Lėliumi (Lelus)11. Vie­
+    noje dainoje pastebėjau, kad gydytojų ir vaistų globėjas yra Lė­
+    lius. Lydos krašte, Rodūnios parapijoje, netoli vienas nuo kito
+    yra du kaimai: Leliušių (Lelusze) ir Lelionių (Lelaiice); taip pat
+    Trakų apskrityje, ponų Gorskių dvare, yra Lelionių milžinka­
+    pis. Visa tai paaiškina dar mažai ištirtus Siaurės mitologijos mi­
+    tus. Iš lietuvių mitologijos tyrimų pastebima, kad Lėlius (Lelus)
+    ir Lėlė (Lela) - tai dvyniai: brolis ir sesuo, vyras ir žmona, kaž­
+    kokios deivės, kurios vardas pamirštas, vaikai; darau išvadą, kad
+    tai buvo Lada (Lado), atitinkanti graikų Latoną, o jos vaikai -
+    Apoloną ir Dianą, o slavų mitologijoje - Lėlių ir Polėlių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+    - t-218724
+
+- id: c-200127
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 103"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 103."
+  citata_originali: |
+    Vyskupo Petro rankraštyje aptinkame: „jie garbi­
+    no vandenį, vadindami Atropos, kurį laikė kilniu elementu“.
+    Matyti, kad šio dievo vardas šitaip parašytas per klaidą. Že­
+    maitijos žvejai ir šiandieną savo dainose apdainuoja jūrą dievą,
+    vardu „ Dzivsvits “:r\
+    Tai bus bendras jūrų ir kitų vandenų, kuriais plaukiota,
+    dievas ir laivininkų globėjas. Lietuviai gyveno susisiekiančia­
+    me su jūra krašte, kuriame daug visokių didelių vandenų, to­
+    dėl plaukioti buriniais laivais jiems buvo neišvengiama, taigi
+    jie negalėjo apsieiti be savo Neptūno.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-002
+    - t-218724
+
+## Teiginiai
+
+<a id="claim-t-216716"></a>
+- t-001
+  teiginys: "Vie noje dainoje pastebėjau, kad gydytojų ir vaistų globėjas yra Lė lius."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199968
+
+<a id="claim-t-219426"></a>
+- t-002
+  teiginys: "Že maitijos žvejai ir šiandieną savo dainose apdainuoja jūrą dievą, vardu „ Dzivsvits “:r\\ Tai bus bendras jūrų ir kitų vandenų, kuriais plaukiota, dievas ir laivininkų globėjas."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200127
+
+<a id="claim-t-218724"></a>
+- t-218724
+  teiginys: "Narbutas rašė, kad lietuvių genčių dainiai kai kuriose giesmėse šaukdavosi Santvaro, kartais ir Lėlio."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Burtininkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Santvaro kalendorinis garbinimas, aukos ir dainių šaukimasis: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Burtininkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Santvaro kalendorinis garbinimas, aukos ir dainių šaukimasis\" parinktas kaip owner_note_path. Targetas \"Burtininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-199968
+    - c-200127
+

@@ -33,28 +33,6 @@ canonical_biography: "Narbutas Henerį pristato kaip Senojo Bychovo apskrities g
 
 Narbutas Henerį pristato kaip Senojo Bychovo apskrities gydytoją, daugiau kaip keturiasdešimt metų gyvenusį Baltarusijoje.
 
-## Teiginiai
-
-<a id="claim-t-191644"></a>
-- t-001
-  teiginys: "Narbutas Henerį pristato kaip Senojo Bychovo apskrities gydytoją, daugiau kaip keturiasdešimt metų gyvenusį Baltarusijoje."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Baltarusija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Heneris: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Baltarusija: mention_match, place, gap=99"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Heneris\" parinktas kaip owner_note_path. Targetas \"Baltarusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-174526
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Henerį pristato kaip Senojo Bychovo apskrities gydytoją, daugiau kaip keturiasdešimt metų gyvenusį Baltarusijoje.'
@@ -107,5 +85,34 @@ Narbutas Henerį pristato kaip Senojo Bychovo apskrities gydytoją, daugiau kaip
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+## Teiginiai
+
+<a id="claim-t-212411"></a>
+- t-001
+  teiginys: "Narbutas Henerį pristato kaip Senojo Bychovo apskrities gydytoją, daugiau kaip keturiasdešimt metų gyvenusį Baltarusijoje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Baltarusija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Heneris: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Baltarusija: mention_match, place, gap=99"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Heneris\" parinktas kaip owner_note_path. Targetas \"Baltarusija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+
+<a id="claim-t-214856"></a>
+- t-002
+  teiginys: "Heneris buvo Senojo Bychovo apskrities gydytojas ir istorinių dalykų tyrinėtojas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+

@@ -43,20 +43,6 @@ canonical_biography: "' M stislavlio kunigaikštis Michailas — tai Zaslavlio (
 
 ' M stislavlio kunigaikštis Michailas — tai Zaslavlio (prie Mins ko) kunigaikštis M ykolas Jonaitis Zaslavliškis, Jaunučio palikuo nis.
 
-## Teiginiai
-
-<a id="claim-t-194141"></a>
-- t-001
-  teiginys: "' M stislavlio kunigaikštis Michailas — tai Zaslavlio (prie Mins ko) kunigaikštis M ykolas Jonaitis Zaslavliškis, Jaunučio palikuo nis."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-176754
-
 ## Citatos
 
 - id: c-176754
@@ -75,5 +61,4 @@ canonical_biography: "' M stislavlio kunigaikštis Michailas — tai Zaslavlio (
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

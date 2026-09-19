@@ -28,45 +28,6 @@ Bajorų racione dvaro tiekiamus maisto produktus papildė importuojamos silkės,
 
 Bajorų racione dvaro tiekiamus maisto produktus papildė importuojamos silkės, menkės ir įvairūs prieskoniai. Užsieniniais prieskoniais pagardinti patiekalai, vynas, žvėrienos kepsniai ir pyragai bajorų vaišėse žymėjo namų šeimininko statusą bei dosnumą. Vyno vartojimas buvo aukšto bajorų statuso ženklas.
 
-## Teiginiai
-
-<a id="claim-t-204293"></a>
-- t-001
-  teiginys: "Vyno vartojimas buvo aukšto bajorų statuso ženklas."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
-  pagrindžia:
-    - c-186905
-
-<a id="claim-t-204297"></a>
-- t-002
-  teiginys: "Bajorų racione dvaro tiekiamus maisto produktus papildė importuojamos silkės, menkės ir įvairūs prieskoniai."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
-  vertinimo_atnaujinta: "2026-08-06T23:41:06Z"
-  pagrindžia:
-    - c-186934
-
-<a id="claim-t-204316"></a>
-- t-003
-  teiginys: "Užsieniniais prieskoniais pagardinti patiekalai, vynas, žvėrienos kepsniai ir pyragai bajorų vaišėse žymėjo namų šeimininko statusą bei dosnumą."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
-  pagrindžia:
-    - c-186907
-
 ## Citatos
 
 - id: c-186905
@@ -91,7 +52,7 @@ Bajorų racione dvaro tiekiamus maisto produktus papildė importuojamos silkės,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186907
@@ -117,7 +78,7 @@ Bajorų racione dvaro tiekiamus maisto produktus papildė importuojamos silkės,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-186934
@@ -140,5 +101,45 @@ Bajorų racione dvaro tiekiamus maisto produktus papildė importuojamos silkės,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-204293"></a>
+- t-001
+  teiginys: "Vyno vartojimas buvo aukšto bajorų statuso ženklas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  pagrindžia:
+    - c-186905
+
+<a id="claim-t-204297"></a>
+- t-002
+  teiginys: "Bajorų racione dvaro tiekiamus maisto produktus papildė importuojamos silkės, menkės ir įvairūs prieskoniai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  vertinimo_atnaujinta: "2026-08-06T23:41:06Z"
+  pagrindžia:
+    - c-186934
+
+<a id="claim-t-204316"></a>
+- t-003
+  teiginys: "Užsieniniais prieskoniais pagardinti patiekalai, vynas, žvėrienos kepsniai ir pyragai bajorų vaišėse žymėjo namų šeimininko statusą bei dosnumą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  pagrindžia:
+    - c-186907
+

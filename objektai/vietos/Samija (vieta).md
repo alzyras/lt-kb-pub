@@ -38,32 +38,6 @@ historical_names: []
 
 Du keliu tebuvo iš Žemaičių į Samiją: pirmoji traktis ėjo per Nemuną, Šalaujus ir Nadraujus, antras ėjo nuo Klaipėdos kopomis tarp jūros ir marės, arba Klaipėdos atsiautos. Taip belėbaujanit Algirdui su viena dalia ka riaunos Padaugavy, su antra dalia kariaunos Kęstu tis lygia dalia rūstą dieną, kryžėjų mistrui kariau jant su lenkais ir pamariais, Parusny darė: kaipogi, įpuolęs į Samiją, nuo rindos neskiedės ir su meldžionimis.
 
-## Teiginiai
-
-<a id="claim-t-201127"></a>
-- t-001
-  teiginys: "Du keliu tebuvo iš Žemaičių į Samiją: pirmoji traktis ėjo per Nemuną, Šalaujus ir Nadraujus, antras ėjo nuo Klaipėdos kopomis tarp jūros ir marės, arba Klaipėdos atsiautos."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184477
-
-<a id="claim-t-201128"></a>
-- t-002
-  teiginys: "Taip belėbaujanit Algirdui su viena dalia ka riaunos Padaugavy, su antra dalia kariaunos Kęstu tis lygia dalia rūstą dieną, kryžėjų mistrui kariau jant su lenkais ir pamariais, Parusny darė: kaipogi, įpuolęs į Samiją, nuo rindos neskiedės ir su meldžionimis."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184478
-
 ## Citatos
 
 - id: c-184477
@@ -93,7 +67,7 @@ Du keliu tebuvo iš Žemaičių į Samiją: pirmoji traktis ėjo per Nemuną, Š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184478
@@ -121,5 +95,32 @@ Du keliu tebuvo iš Žemaičių į Samiją: pirmoji traktis ėjo per Nemuną, Š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-201127"></a>
+- t-001
+  teiginys: "Du keliu tebuvo iš Žemaičių į Samiją: pirmoji traktis ėjo per Nemuną, Šalaujus ir Nadraujus, antras ėjo nuo Klaipėdos kopomis tarp jūros ir marės, arba Klaipėdos atsiautos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184477
+
+<a id="claim-t-201128"></a>
+- t-002
+  teiginys: "Taip belėbaujanit Algirdui su viena dalia ka riaunos Padaugavy, su antra dalia kariaunos Kęstu tis lygia dalia rūstą dieną, kryžėjų mistrui kariau jant su lenkais ir pamariais, Parusny darė: kaipogi, įpuolęs į Samiją, nuo rindos neskiedės ir su meldžionimis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184478
+

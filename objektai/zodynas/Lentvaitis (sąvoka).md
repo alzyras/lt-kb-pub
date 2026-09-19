@@ -29,20 +29,6 @@ media_all_json: |-
 
 Vaitas turėjo teisę skirti savo pavaduotoją, lentvaitį (viceadvocatus, Landvoigt, JleHmaOUm, lentw6jt).
 
-## Teiginiai
-
-<a id="claim-t-201789"></a>
-- t-001
-  teiginys: "Vaitas turėjo teisę skirti savo pavaduotoją, lentvaitį (viceadvocatus, Landvoigt, JleHmaOUm, lentw6jt)."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185136
-
 ## Citatos
 
 - id: c-185136
@@ -60,5 +46,20 @@ Vaitas turėjo teisę skirti savo pavaduotoją, lentvaitį (viceadvocatus, Landv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201789"></a>
+- t-001
+  teiginys: "Vaitas turėjo teisę skirti savo pavaduotoją, lentvaitį (viceadvocatus, Landvoigt, JleHmaOUm, lentw6jt)."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185136
+

@@ -46,34 +46,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-205956"></a>
-- t-001
-  teiginys: "Teodoro Narbuto pasakojimu, Aldonos Gediminaitės ir Kazimiero santuokos proga Gediminas išlaisvino Lietuvoje laikytus 24 tūkst. lenkų belaisvių."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
-  pagrindžia:
-    - c-188571
-
-<a id="claim-t-205957"></a>
-- t-002
-  teiginys: "Teodoro Narbuto pasakojimu, 1325 m. birželio 28 d. karaliaus dvare vykusios iškilmės buvo puikios ir ištaigingos, o lietuviškų apdarų žavesys nustelbė visus paveikslus."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
-  pagrindžia:
-    - c-188572
-
 ## Santrauka
 
 Teodoro Narbuto pasakojimu, Aldonos Gediminaitės ir Kazimiero santuokos proga Gediminas išlaisvino Lietuvoje laikytus 24 tūkst. lenkų belaisvių. Teodoro Narbuto pasakojimu, 1325 m. birželio 28 d. karaliaus dvare vykusios iškilmės buvo puikios ir ištaigingos, o lietuviškų apdarų žavesys nustelbė visus paveikslus.
@@ -98,7 +70,7 @@ Teodoro Narbuto pasakojimu, Aldonos Gediminaitės ir Kazimiero santuokos proga G
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188572
@@ -132,5 +104,34 @@ Teodoro Narbuto pasakojimu, Aldonos Gediminaitės ir Kazimiero santuokos proga G
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-205956"></a>
+- t-001
+  teiginys: "Teodoro Narbuto pasakojimu, Aldonos Gediminaitės ir Kazimiero santuokos proga Gediminas išlaisvino Lietuvoje laikytus 24 tūkst. lenkų belaisvių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
+  pagrindžia:
+    - c-188571
+
+<a id="claim-t-205957"></a>
+- t-002
+  teiginys: "Teodoro Narbuto pasakojimu, 1325 m. birželio 28 d. karaliaus dvare vykusios iškilmės buvo puikios ir ištaigingos, o lietuviškų apdarų žavesys nustelbė visus paveikslus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
+  pagrindžia:
+    - c-188572
+

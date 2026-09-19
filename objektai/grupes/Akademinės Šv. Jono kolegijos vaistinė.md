@@ -36,44 +36,6 @@ media_all_json: |-
 
 Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą suremontavę, vaisti nei atidavė, taip pat onus [mokesčius] pavedė vaistininkui mokėti kasmet po 140 auksinų bažnyčios labui. Be aukščiau išvardintų pajamų ir išlaidų notandum [pa žymėtina], kad nemaža medikamentų dalis buvo išleista in Collegio sergantiems asmenims, kuriuos vaistininkams rei kia tenebantur be užmokesčio gydyti ir duoti vaistų.
 
-## Teiginiai
-
-<a id="claim-t-194297"></a>
-- t-001
-  teiginys: "Jono Kolegijos Vaistinės kronika 1546."
-  atnaujinta: "2026-07-06 12:56"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-176889
-
-<a id="claim-t-194298"></a>
-- t-002
-  teiginys: "Tėvai jėzuitai, tą mūrinį namą suremontavę, vaisti nei atidavė, taip pat onus [mokesčius] pavedė vaistininkui mokėti kasmet po 140 auksinų bažnyčios labui."
-  atnaujinta: "2026-07-06 12:56"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-176890
-
-<a id="claim-t-194299"></a>
-- t-003
-  teiginys: "Be aukščiau išvardintų pajamų ir išlaidų notandum [pa žymėtina], kad nemaža medikamentų dalis buvo išleista in Collegio sergantiems asmenims, kuriuos vaistininkams rei kia tenebantur be užmokesčio gydyti ir duoti vaistų."
-  atnaujinta: "2026-07-06 12:56"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-176891
-
 ## Citatos
 
 - id: c-176889
@@ -102,7 +64,7 @@ Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą sur
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176890
@@ -124,7 +86,7 @@ Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą sur
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-176891
@@ -144,5 +106,44 @@ Jono Kolegijos Vaistinės kronika 1546. Tėvai jėzuitai, tą mūrinį namą sur
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+## Teiginiai
+
+<a id="claim-t-194297"></a>
+- t-001
+  teiginys: "Jono Kolegijos Vaistinės kronika 1546."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-176889
+
+<a id="claim-t-194298"></a>
+- t-002
+  teiginys: "Tėvai jėzuitai, tą mūrinį namą suremontavę, vaisti nei atidavė, taip pat onus [mokesčius] pavedė vaistininkui mokėti kasmet po 140 auksinų bažnyčios labui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-176890
+
+<a id="claim-t-194299"></a>
+- t-003
+  teiginys: "Be aukščiau išvardintų pajamų ir išlaidų notandum [pa žymėtina], kad nemaža medikamentų dalis buvo išleista in Collegio sergantiems asmenims, kuriuos vaistininkams rei kia tenebantur be užmokesčio gydyti ir duoti vaistų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-176891
+

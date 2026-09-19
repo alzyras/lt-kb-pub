@@ -63,10 +63,218 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
 
 ## Teiginiai
 
+<a id="claim-t-210608"></a>
+- t-210608
+  teiginys: "1430 m. rudeni) Jogaila su ketvirtųjų žmona Soltja turėjo du sūnus: vyresnjjl Vladislovų — šešerių me tų (gimė 1424.X.31) ir jaunesnįjį Kazimierų — trejų metų."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193634
+
+<a id="claim-t-210826"></a>
+- t-210826
+  teiginys: "Vytauto skunde dėstomas jo konfliktas su Jogaila."
+  atnaujinta: "2026-09-12 20:03"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193169
+
+<a id="claim-t-210906"></a>
+- t-210906
+  teiginys: "Mūsų tėvas šito padaryti, atimti iš jo Vilnių, visiškai nenorėjo dėl savo brolio, kaip vyriau siojo, ir kunigaikštį Jogailą pasodino Vilniaus pilyje ir saugojo jį iš visų pusių, kol jis paaugo ir kol prie jo priprato žmonės."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-192960
+
+<a id="claim-t-210975"></a>
+- t-210975
+  teiginys: "Jogaila sudarė taiką su Prūsų ir Livonijos kraštais be Kęstučio žinios."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193440
+
+<a id="claim-t-211377"></a>
+- t-211377
+  teiginys: "Jogaila Liublino pilyje raštais užrašė Vytauto tėviškę Skirgailai."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193720
+
+<a id="claim-t-211699"></a>
+- t-211699
+  teiginys: "Tarp Lucko suvažiavimo ir Vytauto mirties Jogaila susiliko su Vytautu du kartus."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194330
+
+<a id="claim-t-211725"></a>
+- t-211725
+  teiginys: "Vėliau karalius Jogaila atsiuntė iš Lenkijos žymiau sius ponus, kurie paėmę kunigaikštytę Sofiją parvežė pas jį į Krokuvą."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-192990
+
+<a id="claim-t-211924"></a>
+- t-211924
+  teiginys: "Jogaila, lenkiškai vadinamas Vladislovu, sėdėjo Krokuvos karalystės soste."
+  atnaujinta: "2026-09-12 20:03"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+
+<a id="claim-t-210397"></a>
+- t-210397
+  teiginys: "Vytauto skunde buvo dėstomos jo konflikto su pusbroliu Jogaila priežastys."
+  atnaujinta: "2026-09-12 20:03"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-193169
+
+<a id="claim-t-210405"></a>
+- t-210405
+  teiginys: "Lietuvos metraštyje Kęstutis sako, kad Jogailai nieko nepadarė ir nepalietė jo iždo bei kaimenių."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-193452
+
+<a id="claim-t-210998"></a>
+- t-210998
+  teiginys: "Lietuvos metraštis Jogailą, vadinamą Vladislovu, vaizduoja tuo metu sėdėjusį Krokuvos karalystės soste ir gyvenusį su Vytautu meilėje."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-193359
+
+<a id="claim-t-211011"></a>
+- t-211011
+  teiginys: "Lietuvos metraštis pasakoja, kad Kęstutis Vilniuje suėmė Jogailą su broliais ir motina ir rado jų sutartis su vokiečiais."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-193215
+
+<a id="claim-t-211779"></a>
+- t-211779
+  teiginys: "Lietuvos metraštis Jogailą, vadinamą Vladislovu, vaizduoja Krokuvos soste ir santarvėje su Vytautu."
+  atnaujinta: "2026-09-12 20:03"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+
+<a id="claim-t-217142"></a>
+- t-217142
+  teiginys: "Narbutas rašo, kad Vladislovas Jogaila į Konstancos susirinkimą pasiuntė Teodorą Lenką skųsti kryžiuočių žiaurumų."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "siunte_i -> Konstanca: 0.85"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vladislovas Jogaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Konstanca: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekste sakoma, kad Vladislovas Jogaila pasiuntinį nusiuntė į Konstancos susirinkimą."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Vladislovas Jogaila siuntė į Konstanca (0.85)"
+  pagrindžia:
+    - c-198460
+
+<a id="claim-t-217654"></a>
+- t-217654
+  teiginys: "Narbutas atmeta nuomonę, kad Šventosios vardas kilo iš lietuvių krikštijimo jos vandeniu Jogailai atvertus tautą."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Neris: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Neris: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Neris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198070
+
+<a id="claim-t-218888"></a>
+- t-218888
+  teiginys: "Si epocha baigėsi 1386 metais, tai yra visiškai įvedus krikščionybę Lietuvoje, kai Jogaila vedė Lenkijos kara lienę Jadvygą, pats priėmė krikščionių tikėjimą ir vertė tą pat daryti visą tautą."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200924
+
 <a id="claim-t-182803"></a>
-- t-001
+- t-182803
   teiginys: "Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starodubo kunigaikštį Žygimantą Kęstutaitį."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jogaila (Lenkijos karalius, 1382 m.): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -80,9 +288,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-166218
 
 <a id="claim-t-182804"></a>
-- t-002
+- t-182804
   teiginys: "Siekdamas didelės valdžios, Jogaila pirmiausia sutelkė jėgas nusikratyti dėdės Kęstučio."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_priesas -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.74"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -97,9 +305,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-166217
 
 <a id="claim-t-182807"></a>
-- t-003
+- t-182807
   teiginys: "Vladislovo Jogailos lėšomis pradėtą statyti Šv. Jono bažnyčią užbaigė Vytautas."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kijevas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -113,9 +321,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-166210
 
 <a id="claim-t-182809"></a>
-- t-004
+- t-182809
   teiginys: "Jogailos laikais Lietuvos krikštas ir sąjunga su Lenkija neleido Vilniaus miestiečiams įgyti daugiau laisvių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -129,9 +337,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-166216
 
 <a id="claim-t-182810"></a>
-- t-005
+- t-182810
   teiginys: "Beginklis Jogaila su visa savo palyda buvo įkalintas pilyje ir daugybės kareivių saugojamas."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -145,9 +353,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-166215
 
 <a id="claim-t-182811"></a>
-- t-006
+- t-182811
   teiginys: "Jogaila siekė Lenkijos sosto ir ketino sukurti naują galingą valstybę Šiaurės Europoje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Europa: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -161,9 +369,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-166212
 
 <a id="claim-t-182812"></a>
-- t-007
+- t-182812
   teiginys: "Algirdui užleidus sostą, jo sūnus Jogaila dar tėvui gyvam esant perėmė aukščiausiąją Lietuvos valdžią."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_sunus -> Algirdas (Lietuvos valdovas): 0.96"
   ryšio_patikimumo_lygis: "aukstas"
@@ -178,9 +386,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-166223
 
 <a id="claim-t-182813"></a>
-- t-008
+- t-182813
   teiginys: "Jogaila, siekdamas atgauti paveldą ir atkeršyti už Vaidilos mirtį, sutelkė pajėgas ir nusprendė užimti Vilnių bei Trakus."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Trakai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -194,9 +402,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-166209
 
 <a id="claim-t-182815"></a>
-- t-009
+- t-182815
   teiginys: "Jogailos siekius patarimais rėmė ir savo įtaka skatino bajoras Vaidila."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -210,9 +418,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-166222
 
 <a id="claim-t-183536"></a>
-- t-010
+- t-183536
   teiginys: "Pagal 1385 m. Krėvos sutartį su Lenkija Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi."
-  atnaujinta: "2026-06-14 10:46"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -233,9 +441,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-166929
 
 <a id="claim-t-183537"></a>
-- t-011
+- t-183537
   teiginys: "1385 m. rugpjūčio 14 d. Jogaila sutiko su Krėvos sutarties dokumento turiniu."
-  atnaujinta: "2026-06-14 10:46"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -255,9 +463,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-166930
 
 <a id="claim-t-183538"></a>
-- t-012
+- t-183538
   teiginys: "Eidintas, Bumblauskas, Kulakauskas ir Tamošaitis Jogailos elgesį sudarant Krėvos sutartį aiškina ankstyvojo monarcho valstybės kaip nuosavybės samprata."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -275,9 +483,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-166931
 
 <a id="claim-t-183539"></a>
-- t-013
+- t-183539
   teiginys: "1387 m. vasario 17 d. Jogaila išleido privilegiją Vilniaus vyskupui, kuria buvo įsteigiama ir aprūpinama vyskupo institucija."
-  atnaujinta: "2026-06-14 10:46"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -297,9 +505,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-166932
 
 <a id="claim-t-183540"></a>
-- t-014
+- t-183540
   teiginys: "Žalgirio mūšio rytą Jogaila delsė laukdamas Ordino pasiūlymo derėtis, o Vytautas troško lemiamo mūšio."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -316,9 +524,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-166933
 
 <a id="claim-t-183541"></a>
-- t-015
+- t-183541
   teiginys: "Po Žalgirio mūšio Vakaruose sklido paskviliai, kad Jogailos ir Vytauto pergalė buvusi netikra, nes jie rėmėsi pagonimis ir totoriais musulmonais."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -338,9 +546,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-166934
 
 <a id="claim-t-183542"></a>
-- t-016
+- t-183542
   teiginys: "Jogailos ir Jadvygos vedybomis 1386 m. prasidėjo Lietuvos ir Lenkijos suartėjimas."
-  atnaujinta: "2026-06-14 10:46"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -360,9 +568,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-166935
 
 <a id="claim-t-184264"></a>
-- t-017
+- t-184264
   teiginys: "Pasimeldęs Jogaila Vytauto ir lenkų riterių raginimu užsidėjo šarvus ir nuvyko prie kariuomenės."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -379,9 +587,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-36349
 
 <a id="claim-t-184265"></a>
-- t-018
+- t-184265
   teiginys: "Jogaila netrukus įsakė duoti ženklą mūšiui."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -398,9 +606,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-36350
 
 <a id="claim-t-184266"></a>
-- t-019
+- t-184266
   teiginys: "1386 m. Jogaila su savo broliais, Vytautu, kaipo Gardino kunigaikščiu, ir būriu dvaro didikų išvyko į Krokuvą priimti krikšto, vesti lenkų karalaitę Jadvygą ir karūnuotis Lenkijos karaliumi."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -421,9 +629,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-36351
 
 <a id="claim-t-184267"></a>
-- t-020
+- t-184267
   teiginys: "1413 m. Kauno saloje vykusiame Žemaitijos sienų suvažiavime dalyvavo Jogaila."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -442,32 +650,10 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   pagrindžia:
     - c-167648
 
-<a id="claim-t-184268"></a>
-- t-021
-  teiginys: "1392 m. rugpjūčio 5 d. Ostrovoje Jogaila sudarė taiką su Vytautu ir grąžino jam tėviškę."
-  atnaujinta: "2026-06-13 17:10"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Gardinas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1392 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo nutrūkęs ir nebaigtas."
-  pagrindžia:
-    - c-36360
-
 <a id="claim-t-184269"></a>
-- t-022
+- t-184269
   teiginys: "Po Torno taikos Jogaila davė Vytautui lėno teisėmis vakarinę Podolijos dalį su Kamieniecu."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -487,9 +673,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-36362
 
 <a id="claim-t-184270"></a>
-- t-023
+- t-184270
   teiginys: "Po Jadvygos mirties lenkai pažadėjo Jogailai, kad Lenkijos sostą galės užimti jo vaikai."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -506,9 +692,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-167649
 
 <a id="claim-t-184271"></a>
-- t-024
+- t-184271
   teiginys: "1417 m. Jogaila vedė trečią žmoną."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -528,9 +714,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-36364
 
 <a id="claim-t-184272"></a>
-- t-025
+- t-184272
   teiginys: "Jogaila nebuvo visiškai nutraukęs santykių su Vytautu ir Lietuva, nes dažnai čia viešėdavo."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -547,9 +733,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-36365
 
 <a id="claim-t-184273"></a>
-- t-026
+- t-184273
   teiginys: "Lucke Zigmantas pasiūlė Jogailai karūnuoti Vytautą, kuris buvo suvažiavimo šeimininkas."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -566,9 +752,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-167650
 
 <a id="claim-t-184274"></a>
-- t-027
+- t-184274
   teiginys: "Laiške Jogaila atkalbinėjo Zigmantą nuo sumanymo karūnuoti Vytautą."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -585,9 +771,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-167651
 
 <a id="claim-t-184275"></a>
-- t-028
+- t-184275
   teiginys: "Jogaila atsakyme Vytautui teisinosi, kad laiškas Zigmantui buvo parašytas be jo žinios."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -604,9 +790,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-167652
 
 <a id="claim-t-184276"></a>
-- t-029
+- t-184276
   teiginys: "Jogaila suprato, kad laisva paveldima Lietuvos karalija padėtų jam tvirtai laikytis Lenkijoje ir išlaikyti dinastijos teises."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -623,9 +809,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-167653
 
 <a id="claim-t-184277"></a>
-- t-030
+- t-184277
   teiginys: "Jogailos ir Vytauto rūmuose kartais buvo mokama rubliais, patekusiais iš slavų kraštų."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -642,9 +828,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-167654
 
 <a id="claim-t-184278"></a>
-- t-031
+- t-184278
   teiginys: "Istoriškai reikšmingas Vytauto veikimas prasidėjo Kęstučio kovos su Jogaila metu."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -662,9 +848,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-167655
 
 <a id="claim-t-184279"></a>
-- t-032
+- t-184279
   teiginys: "Autoriaus vertinimu, Vytauto pasitikėjimas Jogaila buvo per didelis ir tapo Kęstučio mirties priežastimi."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -681,9 +867,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-167656
 
 <a id="claim-t-184280"></a>
-- t-033
+- t-184280
   teiginys: "1392 m. Jogaila susitaikė su Vytautu, kai šis atsisakė sąjungos su Ordinu ir gavo valdyti visą Lietuvą."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -703,9 +889,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-167657
 
 <a id="claim-t-184373"></a>
-- t-034
+- t-184373
   teiginys: "Jogaila su Olesnickiu atvyko į Vilnių ir, aiškėjant Vytauto įpėdinystei, linko nesipriešinti vainikavimui."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -723,9 +909,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-34193
 
 <a id="claim-t-184721"></a>
-- t-035
+- t-184721
   teiginys: "Sulaukęs paramos iš Livonijos ir Prūsijos, Jogaila su kariuomene traukė iš Vilniaus."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -742,9 +928,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-168082
 
 <a id="claim-t-184722"></a>
-- t-036
+- t-184722
   teiginys: "Kojelavičiaus pasakojime Jogaila, stodamas prieš Kęstučį, numanė dideles kovos aukas ir pirmiau bandė veikti žodžiais."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -763,9 +949,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-168083
 
 <a id="claim-t-184723"></a>
-- t-037
+- t-184723
   teiginys: "Jogaila įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -783,9 +969,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-168084
 
 <a id="claim-t-184725"></a>
-- t-038
+- t-184725
   teiginys: "Jogaila asmeniškai pasveikino karalienę ir per Skirgailą bei Vytautą pasiuntė jai gausių dovanų."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -801,41 +987,30 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   pagrindžia:
     - c-168086
 
-<a id="claim-t-184726"></a>
-- t-039
-  teiginys: "Sužinojęs apie Švitrigailos veiksmus Vitebske, Jogaila paliepė Vytautui kariauti, kol šis atsiims žemes ir sutriuškins Švitrigailą."
-  atnaujinta: "2026-07-12 22:28"
+<a id="claim-t-184727"></a>
+- t-184727
+  teiginys: "Įspėtas dėl gresiančio karo, Jogaila susitarė su Vytautu ir atvyko į Kauną, apsimesdamas turįs kitų ketinimų."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Dnepras: 0.83"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Dnepras: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Dnepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168087
-
-<a id="claim-t-184727"></a>
-- t-040
-  teiginys: "Įspėtas dėl gresiančio karo, Jogaila susitarė su Vytautu ir atvyko į Kauną, apsimesdamas turįs kitų ketinimų."
-  atnaujinta: "2026-07-26 23:35"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168084
+    - c-168088
 
 <a id="claim-t-184728"></a>
-- t-041
+- t-184728
   teiginys: "Norėdamas palengvinti maisto stokos kamuojamos Lietuvos dalią, Jogaila įsakė į Lietuvą gabenti dvidešimt laivų grūdų."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -853,9 +1028,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-168089
 
 <a id="claim-t-184731"></a>
-- t-042
+- t-184731
   teiginys: "Kai Edigejus siaubė Rusią, Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą, kurioje dalyvavo Austrijos erchercogas Leopoldas."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -873,9 +1048,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
     - c-168092
 
 <a id="claim-t-184732"></a>
-- t-043
+- t-184732
   teiginys: "Aptaręs pasiūlymus su senatu ir Vytautu, Jogaila sutiko jungtis į karą su turkais tik susitarus visiems krikščionių valdovams."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -890,49 +1065,12 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168093
-
-<a id="claim-t-184733"></a>
-- t-044
-  teiginys: "Iš Lucko grįžęs į Lenkiją, Jogaila Korčine sukvietė seimą, kad luomai nuspręstų, kaip priešintis Vytauto siekiams."
-  atnaujinta: "2026-07-19 18:48"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Korčinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Korčinas: mention_match, place, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Korčinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168094
-
-<a id="claim-t-184734"></a>
-- t-045
-  teiginys: "Sužinojęs apie Vytauto vainikavimo reikalą, karalius Jogaila ieškojo užtarėjų ir apie viską pranešė Romos popiežiui."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Zigmantas (Romos imperatorius): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Zigmantas (Romos imperatorius): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Zigmantas (Romos imperatorius)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168095
+    - c-176117
 
 <a id="claim-t-184736"></a>
-- t-046
+- t-184736
   teiginys: "Raginamas imtis veiksmų prieš Boleslovą, Jogaila neilgai priešinosi ir pasiuntė žygūnus pas Žygimantą."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -948,10 +1086,450 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   pagrindžia:
     - c-168097
 
-<a id="claim-t-188542"></a>
-- t-047
+<a id="claim-t-193393"></a>
+- t-193393
+  teiginys: "Dėl Jogailos, troškusio ka raliaus sosto, lengvabūdiškumo Podolė buvusi atplėšta nuo Lietuvos ir prijungta prie Lenkijos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-176117
+
+<a id="claim-t-194228"></a>
+- t-194228
+  teiginys: "Mažai težinoma mums patiems, o Europai visai negirdė ta, istorija, garsi riterių žygiais ir išmintingiausia Mindaugo, Ge dimino, Algirdo, Kęstučio, Jogailos ir Vytauto politika, istorija menkame plote išsitenkančios Tautos, kuri pati viena, savosios pagonybės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-176827
+
+<a id="claim-t-196485"></a>
+- t-196485
+  teiginys: "Kojelavičius rašo, kad vėliau Lenkijos karaliumi paskelbtas Jogaila Petro Pšonkos ir Otono Čecharovičiaus turtus perdavė karalystės iždui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-178722
+
+<a id="claim-t-196486"></a>
+- t-196486
+  teiginys: "Jogaila, sulaukęs paramos iš Livonijos ir Prūsijos, su kariuomene traukė iš Vilniaus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-168082
+
+<a id="claim-t-196487"></a>
+- t-196487
+  teiginys: "Kojelavičiaus pasakojime Jogaila prieš Kęstučio kariuomenę numanė dideles kovos aukas ir pirmiau mėgino veikti žodžiais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-168083
+
+<a id="claim-t-196488"></a>
+- t-196488
+  teiginys: "Jogaila su karaliene, lydimi lenkų didikų, išvyko į Lietuvą, nes nenorėjo, kad dėl delsimo kiltų naujas pavojus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-178725
+
+<a id="claim-t-196490"></a>
+- t-196490
+  teiginys: "Kojelavičius perteikia kryžiuočių nuostatą, kad Jogaila ir Vytautas, neseniai atidavę Žemaitiją, spaudžiami galėtų užleisti ir Lietuvą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-168088
+
+<a id="claim-t-196491"></a>
+- t-196491
+  teiginys: "Imperatorius su imperatoriene aplankė Jogailą ir vėliau svarstė Vytauto paskelbimo karaliumi klausimą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-178727
+
+<a id="claim-t-196494"></a>
+- t-196494
+  teiginys: "Netekęs vilties pasiekti taiką, Jogaila ėmėsi kitų priemonių prieš Boleslovą, kurį laikė savo karališkųjų teisių pažeidėju."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-168097
+
+<a id="claim-t-201000"></a>
+- t-201000
+  teiginys: "Tą teisybę paskesniuose dar laikuose randam: kaipogi Jogaila, didysis Lietuvos kunigaikštis ir Lenkų karalius, dar metuose 1420 kailinius avikai lius dėvėjo, valdydamas kraštą nuo Baltijos, arba Žemaičių, jūros iki Juodajai, nuo Možaisko ir upės Dono lig upei."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
+  pagrindžia:
+    - c-184350
+
+<a id="claim-t-201522"></a>
+- t-201522
+  teiginys: "Vienas iš svarbiausių tos kovos dalyvių Vytautas, neatlaikydamas varžovo Jogailos spaudimo ir ieškodamas paramos, 1382 m. pasitraukė į Vokiečių ordiną."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184869
+
+<a id="claim-t-201523"></a>
+- t-201523
+  teiginys: "1391 m. Jogailos ir Ordino įgaliotiniams tariantis dėl suvažiavimo buvo kalbama apie paliaubas jo metu, kad pirkliai galėtų laisvai prekiauti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184870
+
+<a id="claim-t-203608"></a>
+- t-203608
+  teiginys: "1429 m. Vytautas Didysis savo rezidencijoje Lucko pilyje sukvietė suvažiavimą, į kurį atvyko Jogaila, Ro mos imperatorius Zigmantas Liuksemburgietis, popie žiaus legatas, Tverės, Riazanės ir kiti rusų sritiniai kuni gaikščiai, be to, daugelio vokiečių miestų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais"
+  pagrindžia:
+    - c-186212
+
+<a id="claim-t-204008"></a>
+- t-204008
+  teiginys: "Karūnavus Jogailą Lenkijos karaliumi, jam kaip LDK siuzerenui buvo įteikti dalinių Lietuvos kunigaikščių homagialiniai dokumentai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  pagrindžia:
+    - c-186612
+
+<a id="claim-t-204009"></a>
+- t-204009
+  teiginys: "Po 1401 m. lietuvių kunigaikščių homagialinių priesaikų serijos Jogaila Lietuvoje galėjo turėti vieną vasalą – Vytautą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: po 1401 m.; įvykio data: 1401 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys išlaiko šaltinio atsargią formuluotę „galėjo“ ir aiškiai įvardija Jogailos bei Vytauto santykį po 1401 metų. Nauji faktai nepridėti."
+  pagrindžia:
+    - c-186613
+
+<a id="claim-t-204347"></a>
+- t-204347
+  teiginys: "Po Vytauto mirties Jogaila gavo Švitrigailos pasiūlymą susitikti, siekiant sureguliuoti Lietuvos ir Lenkijos santykius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186951
+
+<a id="claim-t-206293"></a>
+- t-206293
+  teiginys: "T. Narbutas priekaištavo Jogailai dėl valdžios pasidalijimo su Lietuvos didžiuoju kunigaikščiu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188908
+
+<a id="claim-t-206294"></a>
+- t-206294
+  teiginys: "Jogaila kartu su Vytautu ir Jurgiu Narimantaičiu lydėjo Kęstučio ir Liubarto vadovaujamą Lietuvos kariauną, kuri įsiveržė į Sandomiro apylinkes ir pasiekė Sano bei Vyslos upes."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188909
+
+<a id="claim-t-206295"></a>
+- t-206295
+  teiginys: "Teodoras Narbutas rašo, kad po Algirdo mirties 1377 m. Vilniuje susirinkę kunigaikščiai ir didikai, vadovaujami Kęstučio ir Liubarto, paskelbė Jogailą didžiuoju kunigaikščiu ir karūnavo Gedimino mitra."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188910
+
+<a id="claim-t-206296"></a>
+- t-206296
+  teiginys: "Teodoras Narbutas nurodo, kad Jogaila pats nusprendė rengti žygį Bugo link, o netikėtai kritus Drohičinui seniūnas Sašinas buvo atkirstas nuo savo pilies."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188911
+
+<a id="claim-t-206297"></a>
+- t-206297
+  teiginys: "Jogailą Teodoras Narbutas vaizduoja kaip valdovą, vengusį konfliktų su kryžiuočiais ir griežtai besilaikiusį abipusio teisingumo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188912
+
+<a id="claim-t-206298"></a>
+- t-206298
+  teiginys: "Prie Vilkyškių kaimo Jogailos ir Skirgailos vadovaujama lietuvių kariauna pavijo besiartinantį priešininką ir pradėjo atkaklias kautynes."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188913
+
+<a id="claim-t-206299"></a>
+- t-206299
+  teiginys: "Teodoras Narbutas rašo, kad siekdamas susitaikyti su Vytautu Jogaila pasiuntė pas jį aukštus pareigūnus ir laiškais pažadėjo atkurti seną brolišką draugystę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188914
+
+<a id="claim-t-206300"></a>
+- t-206300
+  teiginys: "Teodoras Narbutas rašo, kad Volkovyske sudarytas susitarimas Jogailą lenkų tautos vardu pripažino karaliumi ir būsimuoju Jadvygos vyru."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188915
+
+<a id="claim-t-206301"></a>
+- t-206301
+  teiginys: "Krokuvos Šv. Stanislovo katedroje Jogailos krikštas buvo atliktas pagal lotynų apeigas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188916
+
+<a id="claim-t-206302"></a>
+- t-206302
+  teiginys: "Teodoras Narbutas rašo, kad Jogaila maršalkai sakė norėjęs raitas vykti pas didįjį magistrą, tačiau jo didikai tam nepritarė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188917
+
+<a id="claim-t-207430"></a>
+- t-207430
+  teiginys: "1385 m. rugpjūčio 14 d. į Krėvos pilį atvykus lenkų delegacijai, Jogaila sutiko su dokumento, kurį lenkai, regis, buvo parengę iš anksto, turiniu, o dokumentas įėjo į istoriją Krėvos sutarties vardu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1385 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus sakinys apie Krėvos sutarties dokumento parengimą, Jogailos sutikimą ir datą."
+  vertinimo_atnaujinta: "2026-08-18T19:34:23Z"
+  pagrindžia:
+    - c-190081
+
+<a id="claim-t-207431"></a>
+- t-207431
+  teiginys: "Jogaila, Alfredo Bumblausko teigimu, tokiose situacijose likdavo nuošalyje ir Kęstučio susidorojimą pavedė broliui Skirgailai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190041
+
+<a id="claim-t-207438"></a>
+- t-207438
+  teiginys: "Jogaila, Alfredo Bumblausko aprašymu, sustabdė Vytautą, kai Vytautas buvo linkęs atiduoti Vokiečių ordinui Palangą su Birutės kalnu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-18T19:34:23Z"
+  pagrindžia:
+    - c-190037
+
+<a id="claim-t-207442"></a>
+- t-207442
+  teiginys: "Jogaila, Alfredo Bumblausko pateikimu, pažadėjo įvesti Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų belaisvius ir „prišlieti“ Lietuvą prie Lenkijos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-18T19:34:23Z"
+  pagrindžia:
+    - c-190082
+
+<a id="claim-t-207474"></a>
+- t-207474
+  teiginys: "Dvigubą kryžių Jogaila pirmą kartą pritaikė savo simbolikoje tapęs Lenkijos karaliumi."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  pagrindžia:
+    - c-190096
+
+<a id="claim-t-207477"></a>
+- t-207477
+  teiginys: "Tapęs Lenkijos karaliumi, Jogaila, Alfredo Bumblausko teigimu, Lietuvos herbui pasirinko iš Algirdaičių portretinių antspaudų perimtą raitelį vietoj asmeninio ženklo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190039
+
+<a id="claim-t-211870"></a>
+- t-211870
+  teiginys: "Lietuvos metraštyje Kęstutis sako nieko nepadaręs Jogailai ir nepalietęs jo iždo bei kaimenių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-193215
+    - c-193452
+
+<a id="claim-t-217183"></a>
+- t-217183
+  teiginys: "Au kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu sę, turėjo palikti jai tas apeigas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199963
+
+<a id="claim-t-218607"></a>
+- t-218607
   teiginys: "Narbutas aiškina, kad Jogaila ir Vytautas iš pagarbos Birutei paliko jai Žemaitijoje ilgiau išlikusį aukurą ir apeigas."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -965,564 +1543,26 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Aukuras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-171431
+    - c-199963
 
-<a id="claim-t-188543"></a>
-- t-048
-  teiginys: "Narbutas atmeta nuomonę, kad Šventosios vardas kilo iš lietuvių krikštijimo jos vandeniu Jogailai atvertus tautą."
-  atnaujinta: "2026-07-12 22:33"
+<a id="claim-t-219817"></a>
+- t-219817
+  teiginys: "Narbutas rašo, kad 1392 metais Vladislovas Jogaila pasiuntė Jeronimą Prahiškį pas Vytautą skelbti Lietuvoje krikščionių tikėjimo."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Neris: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Neris: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Neris\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-171432
-
-<a id="claim-t-188544"></a>
-- t-049
-  teiginys: "Narbutas aprašo autorių, giriantį Vladislovą Jogailą, jo brolius ir jų nuolankumą bažnyčiai dėl lietuvių atvertimo."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-171433
-
-<a id="claim-t-188545"></a>
-- t-050
-  teiginys: "Narbutas rašo, kad Vladislovas Jogaila į Konstancos susirinkimą pasiuntė Teodorą Lenką skųsti kryžiuočių žiaurumų."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "siunte_i -> Konstanca: 0.85"
+  ryšio_patikimumas: "siunte_i -> Lietuva: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
   ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
   ryšio_sprendimo_taisykle: "llm_validated_relation"
   ryšio_subjekto_parinkimas: "Vladislovas Jogaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Konstanca: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste sakoma, kad Vladislovas Jogaila pasiuntinį nusiuntė į Konstancos susirinkimą."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Vladislovas Jogaila siuntė į Konstanca (0.85)"
-  pagrindžia:
-    - c-171434
-
-<a id="claim-t-188546"></a>
-- t-051
-  teiginys: "Narbutas rašo, kad 1392 metais Vladislovas Jogaila pasiuntė Jeronimą Prahiškį pas Vytautą skelbti Lietuvoje krikščionių tikėjimo."
-  atnaujinta: "2026-07-26 23:35"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo, kad Vladislovas Jogaila 1392 metais nusiuntė Jeronimą skelbti tikėjimo Lietuvoje."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-171434
-
-<a id="claim-t-193393"></a>
-- t-052
-  teiginys: "Dėl Jogailos, troškusio ka raliaus sosto, lengvabūdiškumo Podolė buvusi atplėšta nuo Lietuvos ir prijungta prie Lenkijos."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-176117
-
-<a id="claim-t-193916"></a>
-- t-053
-  teiginys: "Lietuvos metraštis Jogailą Vladislovą mini kaip vyriausią Algirdo ir Julijonos Oljevnos sūnų."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-  pagrindžia:
-    - c-176541
-
-<a id="claim-t-193917"></a>
-- t-054
-  teiginys: "Lietuvos metraštis pasakoja, kad Kęstutis Vilniuje suėmė Jogailą su broliais ir motina ir rado jų sutartis su vokiečiais."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-  pagrindžia:
-    - c-176542
-
-<a id="claim-t-193918"></a>
-- t-055
-  teiginys: "Lietuvos metraštyje Kęstutis sako nieko nepadaręs Jogailai ir nepalietęs jo iždo bei kaimenių."
-  atnaujinta: "2026-07-26 23:35"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-  pagrindžia:
-    - c-176542
-
-<a id="claim-t-193919"></a>
-- t-056
-  teiginys: "Lietuvos metraštis Jogailą vadina karaliumi ir pasakoja, kad jis pasiuntė ponus pargabenti kunigaikštytę Sofiją į Krokuvą, ją vedė ir vainikavo."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-  pagrindžia:
-    - c-176544
-
-<a id="claim-t-193922"></a>
-- t-057
-  teiginys: "O kunigaikštis Jogaila pažado neišpildė, atstojo nuo tiesos ir mano tėviškės man neatidavė, o davė mano tėviškę savo broliui kunigaikščiui Skirgailai."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-176547
-
-<a id="claim-t-193923"></a>
-- t-058
-  teiginys: "Lietuvos metraštis Jogailą, vadinamą Vladislovu, vaizduoja tuo metu sėdėjusį Krokuvos karalystės soste ir gyvenusį su Vytautu meilėje."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-  pagrindžia:
-    - c-176548
-
-<a id="claim-t-193925"></a>
-- t-059
-  teiginys: "Vytauto skunde buvo dėstomos jo konflikto su pusbroliu Jogaila priežastys."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-  pagrindžia:
-    - c-176550
-
-<a id="claim-t-194228"></a>
-- t-060
-  teiginys: "Mažai težinoma mums patiems, o Europai visai negirdė ta, istorija, garsi riterių žygiais ir išmintingiausia Mindaugo, Ge dimino, Algirdo, Kęstučio, Jogailos ir Vytauto politika, istorija menkame plote išsitenkančios Tautos, kuri pati viena, savosios pagonybės."
-  atnaujinta: "2026-07-06 12:55"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-176827
-
-<a id="claim-t-194709"></a>
-- t-061
-  teiginys: "Si epocha baigėsi 1386 metais, tai yra visiškai įvedus krikščionybę Lietuvoje, kai Jogaila vedė Lenkijos kara lienę Jadvygą, pats priėmė krikščionių tikėjimą ir vertė tą pat daryti visą tautą."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-177105
-
-<a id="claim-t-196485"></a>
-- t-062
-  teiginys: "Kojelavičius rašo, kad vėliau Lenkijos karaliumi paskelbtas Jogaila Petro Pšonkos ir Otono Čecharovičiaus turtus perdavė karalystės iždui."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-178722
-
-<a id="claim-t-196486"></a>
-- t-063
-  teiginys: "Jogaila, sulaukęs paramos iš Livonijos ir Prūsijos, su kariuomene traukė iš Vilniaus."
-  atnaujinta: "2026-07-13 01:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-168082
-
-<a id="claim-t-196487"></a>
-- t-064
-  teiginys: "Kojelavičiaus pasakojime Jogaila prieš Kęstučio kariuomenę numanė dideles kovos aukas ir pirmiau mėgino veikti žodžiais."
-  atnaujinta: "2026-07-13 01:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-168083
-
-<a id="claim-t-196488"></a>
-- t-065
-  teiginys: "Jogaila su karaliene, lydimi lenkų didikų, išvyko į Lietuvą, nes nenorėjo, kad dėl delsimo kiltų naujas pavojus."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-178725
-
-<a id="claim-t-196490"></a>
-- t-066
-  teiginys: "Kojelavičius perteikia kryžiuočių nuostatą, kad Jogaila ir Vytautas, neseniai atidavę Žemaitiją, spaudžiami galėtų užleisti ir Lietuvą."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-168088
-
-<a id="claim-t-196491"></a>
-- t-067
-  teiginys: "Imperatorius su imperatoriene aplankė Jogailą ir vėliau svarstė Vytauto paskelbimo karaliumi klausimą."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-178727
-
-<a id="claim-t-196494"></a>
-- t-068
-  teiginys: "Netekęs vilties pasiekti taiką, Jogaila ėmėsi kitų priemonių prieš Boleslovą, kurį laikė savo karališkųjų teisių pažeidėju."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-168097
-
-<a id="claim-t-196829"></a>
-- t-069
-  teiginys: "Lietuvos metraštis pasakoja, kad Kęstutis suėmė Jogailą, jo brolius ir motiną Vilniuje po to, kai rado jų sutartis su vokiečiais."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-  pagrindžia:
-    - c-176542
-
-<a id="claim-t-196830"></a>
-- t-070
-  teiginys: "Lietuvos metraštyje Kęstutis sako, kad Jogailai nieko nepadarė ir nepalietė jo iždo bei kaimenių."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-  pagrindžia:
-    - c-176543
-
-<a id="claim-t-196831"></a>
-- t-071
-  teiginys: "Lietuvos metraštis Jogailą, vadinamą Vladislovu, vaizduoja Krokuvos soste ir santarvėje su Vytautu."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-  pagrindžia:
-    - c-176547
-
-<a id="claim-t-197403"></a>
-- t-072
-  teiginys: "Jogaila įkalbėjęs išnaikinti šventą dievų prieglobstį, ir jau nebeliko nė vieno, kuris būtų išdrįsęs imtis kirvio."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-171435
-
-<a id="claim-t-201000"></a>
-- t-073
-  teiginys: "Tą teisybę paskesniuose dar laikuose randam: kaipogi Jogaila, didysis Lietuvos kunigaikštis ir Lenkų karalius, dar metuose 1420 kailinius avikai lius dėvėjo, valdydamas kraštą nuo Baltijos, arba Žemaičių, jūros iki Juodajai, nuo Možaisko ir upės Dono lig upei."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  vertinimo_atnaujinta: "2026-07-14T18:29:34Z"
-  pagrindžia:
-    - c-184350
-
-<a id="claim-t-201522"></a>
-- t-074
-  teiginys: "Vienas iš svarbiausių tos kovos dalyvių Vytautas, neatlaikydamas varžovo Jogailos spaudimo ir ieškodamas paramos, 1382 m. pasitraukė į Vokiečių ordiną."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184869
-
-<a id="claim-t-201523"></a>
-- t-075
-  teiginys: "1391 m. Jogailos ir Ordino įgaliotiniams tariantis dėl suvažiavimo buvo kalbama apie paliaubas jo metu, kad pirkliai galėtų laisvai prekiauti."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184870
-
-<a id="claim-t-203608"></a>
-- t-076
-  teiginys: "1429 m. Vytautas Didysis savo rezidencijoje Lucko pilyje sukvietė suvažiavimą, į kurį atvyko Jogaila, Ro mos imperatorius Zigmantas Liuksemburgietis, popie žiaus legatas, Tverės, Riazanės ir kiti rusų sritiniai kuni gaikščiai, be to, daugelio vokiečių miestų."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais"
-  pagrindžia:
-    - c-186212
-
-<a id="claim-t-204008"></a>
-- t-077
-  teiginys: "Karūnavus Jogailą Lenkijos karaliumi, jam kaip LDK siuzerenui buvo įteikti dalinių Lietuvos kunigaikščių homagialiniai dokumentai."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  pagrindžia:
-    - c-186612
-
-<a id="claim-t-204009"></a>
-- t-078
-  teiginys: "Po 1401 m. lietuvių kunigaikščių homagialinių priesaikų serijos Jogaila Lietuvoje galėjo turėti vieną vasalą – Vytautą."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  temporaliniai_duomenys: "įvykio data: po 1401 m.; įvykio data: 1401 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys išlaiko šaltinio atsargią formuluotę „galėjo“ ir aiškiai įvardija Jogailos bei Vytauto santykį po 1401 metų. Nauji faktai nepridėti."
-  pagrindžia:
-    - c-186613
-
-<a id="claim-t-204347"></a>
-- t-079
-  teiginys: "Po Vytauto mirties Jogaila gavo Švitrigailos pasiūlymą susitikti, siekiant sureguliuoti Lietuvos ir Lenkijos santykius."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
-  pagrindžia:
-    - c-186951
-
-<a id="claim-t-206293"></a>
-- t-080
-  teiginys: "T. Narbutas priekaištavo Jogailai dėl valdžios pasidalijimo su Lietuvos didžiuoju kunigaikščiu."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-188908
-
-<a id="claim-t-206294"></a>
-- t-081
-  teiginys: "Jogaila kartu su Vytautu ir Jurgiu Narimantaičiu lydėjo Kęstučio ir Liubarto vadovaujamą Lietuvos kariauną, kuri įsiveržė į Sandomiro apylinkes ir pasiekė Sano bei Vyslos upes."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-188909
-
-<a id="claim-t-206295"></a>
-- t-082
-  teiginys: "Teodoras Narbutas rašo, kad po Algirdo mirties 1377 m. Vilniuje susirinkę kunigaikščiai ir didikai, vadovaujami Kęstučio ir Liubarto, paskelbė Jogailą didžiuoju kunigaikščiu ir karūnavo Gedimino mitra."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-188910
-
-<a id="claim-t-206296"></a>
-- t-083
-  teiginys: "Teodoras Narbutas nurodo, kad Jogaila pats nusprendė rengti žygį Bugo link, o netikėtai kritus Drohičinui seniūnas Sašinas buvo atkirstas nuo savo pilies."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-188911
-
-<a id="claim-t-206297"></a>
-- t-084
-  teiginys: "Jogailą Teodoras Narbutas vaizduoja kaip valdovą, vengusį konfliktų su kryžiuočiais ir griežtai besilaikiusį abipusio teisingumo."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-188912
-
-<a id="claim-t-206298"></a>
-- t-085
-  teiginys: "Prie Vilkyškių kaimo Jogailos ir Skirgailos vadovaujama lietuvių kariauna pavijo besiartinantį priešininką ir pradėjo atkaklias kautynes."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-188913
-
-<a id="claim-t-206299"></a>
-- t-086
-  teiginys: "Teodoras Narbutas rašo, kad siekdamas susitaikyti su Vytautu Jogaila pasiuntė pas jį aukštus pareigūnus ir laiškais pažadėjo atkurti seną brolišką draugystę."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-188914
-
-<a id="claim-t-206300"></a>
-- t-087
-  teiginys: "Teodoras Narbutas rašo, kad Volkovyske sudarytas susitarimas Jogailą lenkų tautos vardu pripažino karaliumi ir būsimuoju Jadvygos vyru."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-188915
-
-<a id="claim-t-206301"></a>
-- t-088
-  teiginys: "Krokuvos Šv. Stanislovo katedroje Jogailos krikštas buvo atliktas pagal lotynų apeigas."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-188916
-
-<a id="claim-t-206302"></a>
-- t-089
-  teiginys: "Teodoras Narbutas rašo, kad Jogaila maršalkai sakė norėjęs raitas vykti pas didįjį magistrą, tačiau jo didikai tam nepritarė."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-188917
+    - c-198460
 
 ## Reikšmingi paminėjimai
 - c-035
@@ -1851,8 +1891,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-034
+  pagrindžia:
+    - t-184373
 
 - id: c-36349
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1873,8 +1913,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-017
+  pagrindžia:
+    - t-184264
 
 - id: c-36350
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1893,8 +1933,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-018
+  pagrindžia:
+    - t-184265
 
 - id: c-36351
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1914,8 +1954,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-019
+  pagrindžia:
+    - t-184266
 
 - id: c-36360
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1935,8 +1975,6 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-021
 
 - id: c-36362
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1963,8 +2001,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-022
+  pagrindžia:
+    - t-184269
 
 - id: c-36364
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1986,8 +2024,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-024
+  pagrindžia:
+    - t-184271
 
 - id: c-36365
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2006,8 +2044,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-025
+  pagrindžia:
+    - t-184272
 
 - id: c-166209
   autorius: "Michał Baliński"
@@ -2028,8 +2066,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
+  pagrindžia:
+    - t-182813
 
 - id: c-166210
   autorius: "Michał Baliński"
@@ -2056,8 +2094,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-182807
 
 - id: c-166212
   autorius: "Michał Baliński"
@@ -2091,8 +2129,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-182811
 
 - id: c-166215
   autorius: "Michał Baliński"
@@ -2113,8 +2151,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-182810
 
 - id: c-166216
   autorius: "Michał Baliński"
@@ -2135,8 +2173,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-182809
 
 - id: c-166217
   autorius: "Michał Baliński"
@@ -2164,8 +2202,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-182804
 
 - id: c-166218
   autorius: "Michał Baliński"
@@ -2191,8 +2229,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-182803
 
 - id: c-166222
   autorius: "Michał Baliński"
@@ -2215,8 +2253,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
+  pagrindžia:
+    - t-182815
 
 - id: c-166223
   autorius: "Michał Baliński"
@@ -2253,8 +2291,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-182812
 
 - id: c-166929
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2273,8 +2311,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-010
+  pagrindžia:
+    - t-183536
 
 - id: c-166930
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2293,8 +2331,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-011
+  pagrindžia:
+    - t-183537
 
 - id: c-166931
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2318,8 +2356,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-012
+  pagrindžia:
+    - t-183538
 
 - id: c-166932
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2338,8 +2376,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-013
+  pagrindžia:
+    - t-183539
 
 - id: c-166933
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2357,8 +2395,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-014
+  pagrindžia:
+    - t-183540
 
 - id: c-166934
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2375,8 +2413,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-015
+  pagrindžia:
+    - t-183541
 
 - id: c-166935
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -2397,8 +2435,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-016
+  pagrindžia:
+    - t-183542
 
 - id: c-167648
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2422,8 +2460,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-020
+  pagrindžia:
+    - t-184267
 
 - id: c-167649
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2448,8 +2486,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-023
+  pagrindžia:
+    - t-184270
 
 - id: c-167650
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2472,8 +2510,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-026
+  pagrindžia:
+    - t-184273
 
 - id: c-167651
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2492,8 +2530,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-027
+  pagrindžia:
+    - t-184274
 
 - id: c-167652
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2516,8 +2554,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-028
+  pagrindžia:
+    - t-184275
 
 - id: c-167653
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2539,8 +2577,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-029
+  pagrindžia:
+    - t-184276
 
 - id: c-167654
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2561,8 +2599,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-030
+  pagrindžia:
+    - t-184277
 
 - id: c-167655
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2584,8 +2622,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-031
+  pagrindžia:
+    - t-184278
 
 - id: c-167656
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2605,8 +2643,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-032
+  pagrindžia:
+    - t-184279
 
 - id: c-167657
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -2628,8 +2666,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-033
+  pagrindžia:
+    - t-184280
 
 - id: c-168082
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2656,9 +2694,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-035
-    - t-063
+  pagrindžia:
+    - t-184721
+    - t-196486
 
 - id: c-168083
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2686,9 +2724,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-036
-    - t-064
+  pagrindžia:
+    - t-184722
+    - t-196487
 
 - id: c-168084
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2728,9 +2766,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-037
-    - t-040
+  pagrindžia:
+    - t-184723
+    - t-184727
 
 - id: c-168086
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2755,8 +2793,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-038
+  pagrindžia:
+    - t-184725
 
 - id: c-168087
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2793,8 +2831,6 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-039
 
 - id: c-168088
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2818,8 +2854,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-066
+  pagrindžia:
+    - t-184727
+    - t-196490
 
 - id: c-168089
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2842,8 +2879,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-041
+  pagrindžia:
+    - t-184728
 
 - id: c-168092
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2866,8 +2903,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-042
+  pagrindžia:
+    - t-184731
 
 - id: c-168093
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2901,8 +2938,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-043
+  pagrindžia:
+    - t-184732
 
 - id: c-168094
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2930,8 +2967,6 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-044
 
 - id: c-168095
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2965,8 +3000,6 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-045
 
 - id: c-168097
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2993,9 +3026,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-046
-    - t-068
+  pagrindžia:
+    - t-184736
+    - t-196494
 
 - id: c-171431
   autorius: "Teodoras Narbutas"
@@ -3017,8 +3050,6 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-047
 
 - id: c-171432
   autorius: "Teodoras Narbutas"
@@ -3036,8 +3067,6 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-048
 
 - id: c-171433
   autorius: "Teodoras Narbutas"
@@ -3063,8 +3092,6 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-049
 
 - id: c-171434
   autorius: "Teodoras Narbutas"
@@ -3086,9 +3113,6 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-050
-    - t-051
 
 - id: c-171435
   autorius: "Teodoras Narbutas"
@@ -3115,8 +3139,6 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-072
 
 - id: c-176117
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -3138,8 +3160,9 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-052
+  pagrindžia:
+    - t-184732
+    - t-193393
 
 - id: c-176541
   autorius: "Anoniminis metraštininkas"
@@ -3161,8 +3184,6 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-053
 
 - id: c-176542
   autorius: "Anoniminis metraštininkas"
@@ -3187,10 +3208,6 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-054
-    - t-055
-    - t-069
 
 - id: c-176543
   autorius: "Anoniminis metraštininkas"
@@ -3208,8 +3225,6 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-070
 
 - id: c-176544
   autorius: "Anoniminis metraštininkas"
@@ -3229,8 +3244,6 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-056
 
 - id: c-176547
   autorius: "Anoniminis metraštininkas"
@@ -3253,9 +3266,6 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-057
-    - t-071
 
 - id: c-176548
   autorius: "Anoniminis metraštininkas"
@@ -3274,8 +3284,6 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-058
 
 - id: c-176550
   autorius: "Anoniminis metraštininkas"
@@ -3296,8 +3304,6 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-059
 
 - id: c-176827
   autorius: "Michał Baliński"
@@ -3342,8 +3348,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-060
+  pagrindžia:
+    - t-194228
 
 - id: c-177105
   autorius: "Teodoras Narbutas"
@@ -3365,8 +3371,6 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-061
 
 - id: c-178722
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -3394,8 +3398,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-062
+  pagrindžia:
+    - t-196485
 
 - id: c-178725
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -3417,8 +3421,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-065
+  pagrindžia:
+    - t-196488
 
 - id: c-178727
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -3453,8 +3457,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-067
+  pagrindžia:
+    - t-196491
 
 - id: c-184350
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -3487,8 +3491,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-073
+  pagrindžia:
+    - t-201000
 
 - id: c-184869
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -3503,8 +3507,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-074
+  pagrindžia:
+    - t-201522
 
 - id: c-184870
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -3519,8 +3523,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-075
+  pagrindžia:
+    - t-201523
 
 - id: c-186212
   autorius: "Daiva Steponavičienė"
@@ -3539,8 +3543,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-076
+  pagrindžia:
+    - t-203608
 
 - id: c-186612
   autorius: "Rimvydas Petrauskas"
@@ -3580,8 +3584,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-077
+  pagrindžia:
+    - t-204008
 
 - id: c-186613
   autorius: "Rimvydas Petrauskas"
@@ -3599,8 +3603,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-078
+  pagrindžia:
+    - t-204009
 
 - id: c-186951
   šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
@@ -3627,8 +3631,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-079
+  pagrindžia:
+    - t-204347
 
 - id: c-188908
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -3647,8 +3651,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-080
+  pagrindžia:
+    - t-206293
 
 - id: c-188909
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -3666,8 +3670,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-081
+  pagrindžia:
+    - t-206294
 
 - id: c-188910
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -3686,8 +3690,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-082
+  pagrindžia:
+    - t-206295
 
 - id: c-188911
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -3703,8 +3707,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-083
+  pagrindžia:
+    - t-206296
 
 - id: c-188912
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -3730,8 +3734,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-084
+  pagrindžia:
+    - t-206297
 
 - id: c-188913
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -3747,8 +3751,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-085
+  pagrindžia:
+    - t-206298
 
 - id: c-188914
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -3795,8 +3799,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-086
+  pagrindžia:
+    - t-206299
 
 - id: c-188915
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -3812,8 +3816,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-087
+  pagrindžia:
+    - t-206300
 
 - id: c-188916
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -3842,8 +3846,8 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-088
+  pagrindžia:
+    - t-206301
 
 - id: c-188917
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -3861,8 +3865,433 @@ Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starod
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-089
+  pagrindžia:
+    - t-206302
+
+- id: c-190037
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 56"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 56."
+  citata_originali: |
+    Tačiau Jogaila niekada nepadarė tokio neapgalvoto
+    žingsnio kaip Vytautas prie Vorsklos. Jis dažnai delsdavo, bet darė tai sąmoningai, o ne
+    iš nežinojimo. Net Palangą su Birutės kalnu Vytautas vienu metu buvo linkęs atiduoti
+    Vokiečių ordinui, ir jį nuo tokio žingsnio sustabdė Jogaila.
+  citata_rodoma: "Net Palangą su Birutės kalnu Vytautas vienu metu buvo linkęs atiduoti \nVokiečių ordinui, ir jį nuo tokio žingsnio sustabdė Jogaila."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207438
+
+- id: c-190039
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 42"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 42."
+  citata_originali: |
+    Tačiau valstybės herbas antrojoje XIV a. pusėje dar nebuvo susifor-
+    mavęs. Taigi Jogaila, tapęs Lenkijos karaliumi, turėjo nuspręsti, kokį ženklą pasirinkti
+    Lietuvos herbui, kad derėtų šalia Lenkijos herbo. Jogailai, matyt, pasirodė, kad prie ere-
+    lio labiau tinka ne jo asmeninis ženklas, o iš Algirdaičių portretinių antspaudų perim-
+    tas raitelis.
+  citata_rodoma: "Taigi Jogaila, tapęs Lenkijos karaliumi, turėjo nuspręsti, kokį ženklą pasirinkti \nLietuvos herbui, kad derėtų šalia Lenkijos herbo. Jogailai, matyt, pasirodė, kad prie ere-\nlio labiau tinka ne jo asmeninis ženklas, o iš Algirdaičių portretinių antspaudų perim-\ntas raitelis."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207477
+
+- id: c-190041
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 56"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 56."
+  citata_originali: |
+    Net Palangą su Birutės kalnu Vytautas vienu metu buvo linkęs atiduoti
+    Vokiečių ordinui, ir jį nuo tokio žingsnio sustabdė Jogaila. Taigi Vytautas buvo azartiškas
+    žaidėjas, neriantis į sudėtingą situaciją, pasiektas tikslas jam – priemonė naujam tikslui.
+    Jogaila tokiose situacijose sugebėdavo likti nuošalyje (su Kęstučiu susidorojo ne pats, o
+    pavedė tai broliui Skirgailai).
+  citata_rodoma: "Jogaila tokiose situacijose sugebėdavo likti nuošalyje (su Kęstučiu susidorojo ne pats, o \npavedė tai broliui Skirgailai)."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207431
+
+- id: c-190081
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 114"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 114."
+  citata_originali: |
+    Krėvos sutartis
+    1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija. Lenkai, regis, jau turėjo
+    parengtą sutarties dokumentą. Jogaila su šio dokumento turiniu sutiko, jis buvo priimtas
+    ir į istoriją įėjo Krėvos sutarties vardu.
+  citata_rodoma: "1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija. Lenkai, regis, jau turėjo \nparengtą sutarties dokumentą. Jogaila su šio dokumento turiniu sutiko, jis buvo priimtas \nir į istoriją įėjo Krėvos sutarties vardu."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207430
+
+- id: c-190082
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 114"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 114."
+  citata_originali: |
+    Jogaila su šio dokumento turiniu sutiko, jis buvo priimtas
+    ir į istoriją įėjo Krėvos sutarties vardu. Sutarties sąlygos buvo šios: Jogaila veda Lenkijos
+    karalaitę Jadvygą, pažada įvesti Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos že-
+    mes, paleisti lenkų belaisvius ir svarbiausia – „prišlieti“ Lietuvą prie Lenkijos. „Prišlieti“
+    būtina rašyti su kabutėmis: mat iki šiol ginčijamasi, kaip išversti lotynišką žodį applicare.
+  citata_rodoma: "ies sąlygos buvo šios: Jogaila veda Lenkijos \nkaralaitę Jadvygą, pažada įvesti Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos že-\nmes, paleisti lenkų belaisvius ir svarbiausia – „prišlieti“ Lietuvą prie Lenkijos. „Priš"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207442
+
+- id: c-190096
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 44"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 44."
+  citata_originali: |
+    Tačiau akivaizdu, kad tai
+    bandymas į skydą sutalpinti dviejų pagrindinių Lietuvos kunigaikštijų – Vilniaus ir Tra-
+    kų – kunigaikščių portretinių antspaudų ženklus.
+    Lietuvos didžiaisiais kunigaikščiais tapus Jogailaičiams, Vyčio skyde liko dvigu-
+    bas Jogailos kryžius. Dvigubą kryžių savo simbolikai Jogaila pirmą kartą pritaikė tapęs
+    Lenkijos karaliumi.
+  citata_rodoma: "Lietuvos didžiaisiais kunigaikščiais tapus Jogailaičiams, Vyčio skyde liko dvigu-\nbas Jogailos kryžius. Dvigubą kryžių savo simbolikai Jogaila pirmą kartą pritaikė tapęs \nLenkijos karaliumi."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207474
+
+- id: c-192960
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 173"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 173."
+  citata_originali: |
+    Mūsų tėvas šito padaryti, atimti iš jo
+    Vilnių, visiškai nenorėjo dėl savo brolio, kaip vyriau­
+    siojo, ir kunigaikštį Jogailą pasodino Vilniaus pilyje
+    ir saugojo jį iš visų pusių, kol jis paaugo ir kol prie
+    jo priprato žmonės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210906
+
+- id: c-192990
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 100"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 100."
+  citata_originali: |
+    Vėliau karalius Jogaila atsiuntė iš Lenkijos žymiau­
+    sius ponus, kurie paėmę kunigaikštytę Sofiją parvežė
+    pas jį į Krokuvą. O jis iškėlė šaunias vestuves, paėmė
+    ją sau žmona ir vainikavo ją
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211725
+
+- id: c-193169
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 331"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 331."
+  citata_originali: |
+    Parašytas,
+    veikiausiai,
+    pačiam Vytautui
+    diktuojant,
+    kryžiuočių vadovybės reikalavimu. Skunde dėstomos priežastys, dėl
+    kurių kilo Vytauto konfliktas su savo pusbroliu Jogaila. Ir siekiama
+    įrodyti, kad Vytautas — doras krikščionis ir katalikas, kuriam pri­
+    klausanti teisė į didžiojo kunigaikščio valdžių Lietuvoje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 20:03"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210397
+    - t-210826
+
+- id: c-193215
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 78-79"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 78-79."
+  citata_originali: |
+    O didysis kunigaikštis Kęstutis, sutelkęs savo pajė­
+    gas, skuba į Vilnių ir suima didįjį kunigaikštį Jogailą
+    su broliaisM ir su motina, suranda tas sutartis, kurias
+    buvo su vokiečiais sudarę, ir pasiunčia žygūną pas sa­
+    vo sūnų, didįjį kunigaikštį Vytautą, į Drohičiną, pra­
+    nešdamas, kas įvyko. Tas žygūnas suranda didįjį ku-
+    SJ
+
+    nigaikštį Vytautą Gardine, nes jis jau buvo iš Drohiči-
+    no atvykęs į Gardiną. Didysis kunigaikštis Vytautas
+    per vieną dieną atskuba iš Gardino pas savo tėvą, di­
+    dįjį kunigaikštį Kęstutį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211011
+    - t-211870
+
+- id: c-193359
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 178"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 178."
+  citata_originali: |
+    Ir Danijos
+    karalius didžiai šlovino ir daugeliu dovanų apdovanojo
+    šlovingąjį valdovą, didį kunigaikštį Vytautą.
+    Tais laikais jo brolis Jogaila, lenkiškai Vladislovu
+    vadinamas, sėdėjo Krokuvos karalystės soste. Ir tasai
+    gyveno su juo didelėje meilėje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210998
+
+- id: c-193440
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 173"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 173."
+  citata_originali: |
+    Ir paskui mūsų tėvas patyrė iš kai kurių savo drau­
+    gų, kad kunigaikštis Jogaila be mūsų tėvo žinios, nu­
+    slėpdamas nuo mūsų tėvo, sudarė taiką su Prūsų kraštu
+    ir su Livonijos kraštu ir mūsų tėvą išdavė
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210975
+
+- id: c-193452
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 79"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 79."
+  citata_originali: |
+    Štai
+    tos sutartys, kurias buvo sudarę prieš mus. Bet die­
+    vai 61 mus apsaugojo. Tačiau aš didžiajam kunigaikš­
+    čiui Jogailai nieko nepadariau, nepaliečiau nei jo iždo,
+    nei kaimenių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210405
+    - t-211870
+
+- id: c-193634
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 266"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 266."
+  citata_originali: |
+    1430 m. rudeni) Jogaila su ketvirtųjų
+    žmona Soltja turėjo du sūnus: vyresnjjl Vladislovų — šešerių me­
+    tų (gimė 1424.X.31) ir jaunesnįjį Kazimierų — trejų metų
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210608
+
+- id: c-193720
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 175"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 175."
+  citata_originali: |
+    Jau metai laiko nūnai, kai kunigaikštis [Jogailai
+    Liublino pilyje užrašė kunigaikščiui Skirgailai raštais
+    visą mano tėviškę mano akivaizdoje6. Man tai buvo
+    labai skaudu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211377
+
+- id: c-194330
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 263"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 263."
+  citata_originali: |
+    Tarp Lucko suvažiavimo ir Vytauto mirties Jogaila susiliko
+    su Vytautu du kartus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211699
+
+- id: c-198070
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 227"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 227."
+  citata_originali: |
+    1.
+    Upė, tekanti pro Ukmergę, įteka į Nerį jos dešiniajame
+    krante, aukščiau Jonavos, ir vadinasi Šventoji (Swięta). Nieko
+    verta nuomonė, jog upė turinti tokį vardą dėl to, kad jos van­
+    deniu buvo krikštijami lietuviai, kai Jogaila visus atvertė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217654
+
+- id: c-198460
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 398"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 398."
+  citata_originali: |
+    Jeronimą sudegino gyvą Konstancoje 1416 metais bir­
+    želio 21 dieną2.
+    Tuometinės Lietuvos bažnyčios būklė ir smulkesnė jos is­
+    torija Konstancos susirinkimo tėvams šiaip nebuvo nežinoma,
+    nes Vladislovas Jogaila pasiuntiniu į tą susirinkimą specialiai
+    nusiuntė dominikoną, pramintą Teodoru Lenku (Theodoras
+    Polonus), kad jis išdėstytų skundus prieš kryžiuočius, savo žiau­
+    rumais atgrasančius lietuvius veiksmingai priimti šventąjį ti­
+    kėjimą. Apie tai žinome iš Dlugošo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217142
+    - t-219817
+
+- id: c-199963
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
+  citata_originali: |
+    Patys kryžiuočiai tą vietą visuomet palikdavo neliestą:
+    viena, tikėdami kažkokiais pranašavimais, antra, dėl tos ug­
+    nies, degančios kiekvieną naktį, naudingumo jūrininkams. Au­
+    kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
+    nas Žemaitijoje, kadangi Jogaila ir Vytautas iš pagarbos kuni­
+    gaikštienei Birutei, negalėdami palenkti jos į krikščionybės pu­
+    sę, turėjo palikti jai tas apeigas. Paprasti žmonės, linkę į savo
+    senuosius prietarus, dar jai gyvai esant, ėmė garbinti ją kaip
+    deivę, juk ir Strijkovskis tą patvirtina.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217183
+    - t-218607
+
+- id: c-200924
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 457"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 457."
+  citata_originali: |
+    Pirmoje šio laikotarpio dalyje Lietuva turėjo labai didelių
+    problemų, susijusių su kryžiuočių puldinėjimais, tuo tarpu ant­
+    roje (ypač nuo Gedimino valdymo) Lietuvos galia ir jėga nepa­
+    prastai išaugo. Si epocha baigėsi 1386 metais, tai yra visiškai
+    įvedus krikščionybę Lietuvoje, kai Jogaila vedė Lenkijos kara­
+    lienę Jadvygą, pats priėmė krikščionių tikėjimą ir vertė tą pat
+    daryti visą tautą.
+    IV 1386-1447 metai, tai yra iki to laikotarpio, kai Lietuva
+    nustojo turėjusi dalinius kunigaikščius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218888
 
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Elžbieta Granauskaitė]], [[objektai/asmenys/Jadvyga]], [[objektai/asmenys/Jadvyga Jogailienė]]

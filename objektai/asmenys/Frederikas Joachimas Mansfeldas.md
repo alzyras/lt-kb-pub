@@ -42,43 +42,6 @@ canonical_biography: "Mansfeldo kavaleristams iš flango ir suduoda stiprų smū
 
 Mansfeldo kavaleristams iš flango ir suduoda stiprų smūgį. 1608 m. vasarą Livonijoje išsilaipino grafo Frederiko Joachimo Mansfeldo vadovaujamas 8000 Švedijos karių ekspedicinis korpusas, kuris 1608 m. rugpjūčio 1 d. užėmė Daugavgryvos senąją pilį ir pradėjo Rygos miesto blokadą, neleisdamas 4 nei finansinės paramos.
 
-## Teiginiai
-
-<a id="claim-t-40107"></a>
-- t-001
-  teiginys: "Dambravos raitarai smogė Frederiko Joachimo Mansfeldo kavaleristams iš flango."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dambrava: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Frederikas Joachimas Mansfeldas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Dambrava: mention_match, place, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Frederikas Joachimas Mansfeldas\" parinktas kaip owner_note_path. Targetas \"Dambrava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-41908
-
-<a id="claim-t-40108"></a>
-- t-002
-  teiginys: "1608 m. vasarą Frederikas Joachimas Mansfeldas vadovavo 8000 Švedijos karių ekspediciniam korpusui Livonijoje."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Daugavgryva: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Frederikas Joachimas Mansfeldas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Daugavgryva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Mansfeldo vadovaujamas korpusas užėmė Daugavgryvos pilį, todėl veiksmas priskiriamas jo vadovavimui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Frederikas Joachimas Mansfeldas užėmė Daugavgryva (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1608 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-44329
-
 ## Citatos
 
 - id: c-41908
@@ -95,7 +58,7 @@ Mansfeldo kavaleristams iš flango ir suduoda stiprų smūgį. 1608 m. vasarą L
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-44329
@@ -122,5 +85,43 @@ Mansfeldo kavaleristams iš flango ir suduoda stiprų smūgį. 1608 m. vasarą L
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-40107"></a>
+- t-001
+  teiginys: "Dambravos raitarai smogė Frederiko Joachimo Mansfeldo kavaleristams iš flango."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dambrava: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Frederikas Joachimas Mansfeldas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Dambrava: mention_match, place, gap=25"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Frederikas Joachimas Mansfeldas\" parinktas kaip owner_note_path. Targetas \"Dambrava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-41908
+
+<a id="claim-t-40108"></a>
+- t-002
+  teiginys: "1608 m. vasarą Frederikas Joachimas Mansfeldas vadovavo 8000 Švedijos karių ekspediciniam korpusui Livonijoje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Daugavgryva: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Frederikas Joachimas Mansfeldas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Daugavgryva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Mansfeldo vadovaujamas korpusas užėmė Daugavgryvos pilį, todėl veiksmas priskiriamas jo vadovavimui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Frederikas Joachimas Mansfeldas užėmė Daugavgryva (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1608 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-44329
+

@@ -42,10 +42,95 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
 
 ## Teiginiai
 
+<a id="claim-t-210589"></a>
+- t-210589
+  teiginys: "Jonas Goštautas visa tai greitai padarė ir didikus prikalbėjo, o čia jau kunigaikštis Kazimieras, savo globėjo Jono Goštauto prikalbėtas ir savo Tarybos po nų prašomas, nustojo pykti ant kunigaikščio Jurgio Lengvenaičio."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194204
+
+<a id="claim-t-210850"></a>
+- t-210850
+  teiginys: "Šaltinis Joną Goštautą vaizduoja kaip lietuvių vadą Žalgirio mūšyje."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-08-18T19:34:23Z"
+  pagrindžia:
+    - c-193123
+
+<a id="claim-t-211143"></a>
+- t-211143
+  teiginys: "Jonas Goštautas 1430–1431 m. buvo didžiojo kunigaikščio dvaro maršalas."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194339
+
+<a id="claim-t-210426"></a>
+- t-210426
+  teiginys: "Lietuvos metraštis Joną Goštautą mini kaip Kazimiero globėją, kurį Kazimieras ir Ponų Taryba skubiai pasiuntė su kariuomene."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+
+<a id="claim-t-211051"></a>
+- t-211051
+  teiginys: "Lietuvos metraštis Joną Goštautą nurodo kaip Kazimiero globėją, kurį Kazimieras ir Ponų Taryba pasiuntė su kariuomene."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+
+<a id="claim-t-211442"></a>
+- t-211442
+  teiginys: "Lietuvos metraštis pasakoja, kad Kazimieras sutelkė Lietuvos pajėgas ir skubiai pasiuntė savo globėją Joną Goštautą."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-194217
+
+<a id="claim-t-211534"></a>
+- t-211534
+  teiginys: "Lietuvos metraštis pasakoja, kad Kazimieras, sutelkęs Lietuvos pajėgas, skubiai pasiuntė savo globėją Joną Goštautą."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-194217
+
 <a id="claim-t-185980"></a>
-- t-001
+- t-185980
   teiginys: "Pašalinus Leliušą iš senato, Trakų vaivadija buvo perduota Jonui Goštautui."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -55,9 +140,9 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
     - c-169341
 
 <a id="claim-t-185981"></a>
-- t-002
+- t-185981
   teiginys: "Jono Goštauto vadovaujama kariuomenė išvijo Mykolą iš Kijevo ir Seversko žemių, taip pat atsiėmė Brianską ir Starodubą."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -67,9 +152,9 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
     - c-169342
 
 <a id="claim-t-193497"></a>
-- t-003
+- t-193497
   teiginys: "Jono Goštauto vedama kariuomenė išvijo Mykolą iš Kijevo ir Seversko žemių, taip pat atsiėmė Brianską ir Starodubą."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -78,70 +163,6 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-169342
-
-<a id="claim-t-193926"></a>
-- t-004
-  teiginys: "Ir jų dar nebuvo suvažiavusių, nes kai kurie buvo tolimuose Didžiosios Kunigaikštystės miestuose, srityse: 2emaičių seniūnas Kęsgailą2 Žemaitijoje, Jonas Goštautas3 Smolenske, nes jis tuo metu buvo Smolensko vietininku."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-176551
-
-<a id="claim-t-193927"></a>
-- t-005
-  teiginys: "Lietuvos metraštis Joną Goštautą mini kaip Kazimiero globėją, kurį Kazimieras ir Ponų Taryba skubiai pasiuntė su kariuomene."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-  pagrindžia:
-    - c-176552
-
-<a id="claim-t-193929"></a>
-- t-006
-  teiginys: "Lietuvos metraštis pasakoja, kad Kazimieras, sutelkęs Lietuvos pajėgas, skubiai pasiuntė savo globėją Joną Goštautą."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-  pagrindžia:
-    - c-176554
-
-<a id="claim-t-196832"></a>
-- t-007
-  teiginys: "Lietuvos metraštis Joną Goštautą nurodo kaip Kazimiero globėją, kurį Kazimieras ir Ponų Taryba pasiuntė su kariuomene."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-  pagrindžia:
-    - c-176552
-
-<a id="claim-t-196833"></a>
-- t-008
-  teiginys: "Lietuvos metraštis pasakoja, kad Kazimieras sutelkė Lietuvos pajėgas ir skubiai pasiuntė savo globėją Joną Goštautą."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-  pagrindžia:
-    - c-176554
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -269,8 +290,8 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-185980
 
 - id: c-169342
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -289,9 +310,9 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-003
+  pagrindžia:
+    - t-185981
+    - t-193497
 
 - id: c-176551
   autorius: "Anoniminis metraštininkas"
@@ -324,8 +345,6 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
 
 - id: c-176552
   autorius: "Anoniminis metraštininkas"
@@ -358,9 +377,6 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
-    - t-007
 
 - id: c-176554
   autorius: "Anoniminis metraštininkas"
@@ -383,6 +399,87 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
-    - t-008
+
+- id: c-193123
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 25"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 25."
+  citata_originali: |
+    taip pat apie Joną Goštautą, lietuvių vadą Žalgirio
+    mūšyje, LDK kanclerį (1440—1458) ir labai nusipelniu­
+    sį jauno didžiojo kunigaikščio Kazimiero globėją bei
+    patarėją.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210850
+
+- id: c-194204
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 129"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 129."
+  citata_originali: |
+    Jonas Goštautas visa tai greitai padarė ir didikus
+    prikalbėjo, o čia jau kunigaikštis Kazimieras, savo
+    globėjo Jono Goštauto prikalbėtas ir savo Tarybos po­
+    nų prašomas, nustojo pykti ant kunigaikščio Jurgio
+    Lengvenaičio
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210589
+
+- id: c-194217
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 131"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 131."
+  citata_originali: |
+    Ir jis labai
+    gailėjos, kad jo sugalvoti būdai virsta niekais ir daro
+    naudą didžiajam kunigaikščiui Kazimierui, o jis pats
+    krinta į duobę, kurią jam buvo iškasęs. Ir jis ėmė la­
+    bai bijoti, pabėgo į Brianską, į savo tolimiausią miestą.
+    Būdamas Brianske, sutelkė nemaža kariuomenės ir su
+    Maskvos pagalba 12 žygiuoja ir užima Kijevo miestą l3.
+    Ir didysis kunigaikštis Kazimieras sutelkia visas sa­
+    vo Lietuvos jėgas ir skubiai siunčia savo globėją Joną
+    Goštautą ".
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211442
+    - t-211534
+
+- id: c-194339
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 257"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 257."
+  citata_originali: |
+    Nežinoma, kad Jonas Goštautas butų turėjęs „dvaro etmono"
+    titulą. 1430—'1431 m. jis buvo didžiojo kunigaikščio dvaio marša­
+    las; 1431 m. vadovavo vienam Švitrigailos kariuomenės daliniui
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211143
+

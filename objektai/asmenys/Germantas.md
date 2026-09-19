@@ -46,10 +46,23 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 
 ## Teiginiai
 
+<a id="claim-t-207761"></a>
+- t-207761
+  teiginys: "Kiaupienės aptariamame pasakojime Germantas po Šventaragio mirties karuose su Rusia ir Kryžiuočiais narsa įrodė esąs riteris."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  vertinimo_atnaujinta: "2026-08-18T20:02:07Z"
+  pagrindžia:
+    - c-190454
+
 <a id="claim-t-87425"></a>
-- t-001
+- t-87425
   teiginys: "Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėjo pirmasis įkurdinti vaidilą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_valdovas -> Lietuva: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -64,9 +77,9 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     - c-83406
 
 <a id="claim-t-87426"></a>
-- t-002
+- t-87426
   teiginys: "Balińskis teigė, kad Germantas Šventaragio slėnyje plėtė senovinę Vilniaus gyvenvietę palei Vilnios krantus."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -80,9 +93,9 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     - c-83404
 
 <a id="claim-t-87427"></a>
-- t-003
+- t-87427
   teiginys: "Pasak kronikų, Germantas pirmasis Šventaragio slėnyje iškirto miškus ir skyrė vietą kapavietėms."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_sunus -> Šventaragis: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -100,9 +113,9 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     - c-83405
 
 <a id="claim-t-184703"></a>
-- t-004
+- t-184703
   teiginys: "Kojelavičiaus pasakojime Šventaragis, norėdamas ramybės tėvynėje, paskyrė beveik šešiasdešimtmetį sūnų Germantą įpėdiniu."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -121,9 +134,9 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     - c-168064
 
 <a id="claim-t-184704"></a>
-- t-005
+- t-184704
   teiginys: "Germantas apvalė valdovų laidojimo aikštę, paskelbė ją laidotuvių vieta ir įsteigė žynių tarnybas amžinajai ugniai prižiūrėti."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -133,9 +146,9 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     - c-168065
 
 <a id="claim-t-184705"></a>
-- t-006
+- t-184705
   teiginys: "Kojelavičiaus pasakojime Germantas su lenkais sudarė sąjungą ne tiek taikai, kiek siekdamas visomis jėgomis pulti rusus."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -152,30 +165,10 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   pagrindžia:
     - c-168066
 
-<a id="claim-t-184706"></a>
-- t-007
-  teiginys: "Po Germanto mirties Kernavės didikų sueigoje jo vyresnysis sūnus Giliginas paskelbtas Lietuvos valdovu."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_sunus -> Germantas: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Giliginas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Germantas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Giliginas tiesiogiai įvardytas kaip Germanto vyresnysis sūnus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Giliginas buvo sūnus Germantas (0.96); Trobius valdė teritoriją Žemaitija (0.86)"
-  pagrindžia:
-    - c-168067
-
 <a id="claim-t-196459"></a>
-- t-008
+- t-196459
   teiginys: "Germantas ėmėsi taikiai tvarkytis ir kurdinti šalyje nausėdijas: tuo metu buvo padėti pamatai Gervėčių miesteliui."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -185,9 +178,9 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
     - c-178702
 
 <a id="claim-t-196460"></a>
-- t-009
+- t-196460
   teiginys: "Kojelavičiaus pasakojime po Germanto Kernavėje jo vyresnysis sūnus Giliginas paskelbtas Lietuvos valdovu, o Trobiui patikėta Žemaitija."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -262,8 +255,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-87426
 
 - id: c-83405
   autorius: "Michał Baliński"
@@ -298,8 +291,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-87427
 
 - id: c-83406
   autorius: "Michał Baliński"
@@ -326,8 +319,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-87425
 
 - id: c-168064
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -349,8 +342,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-184703
 
 - id: c-168065
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -380,8 +373,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-184704
 
 - id: c-168066
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -409,8 +402,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-184705
 
 - id: c-168067
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -434,8 +427,6 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
 
 - id: c-178702
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -457,8 +448,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
+  pagrindžia:
+    - t-196459
 
 - id: c-178703
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -484,8 +475,29 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
+  pagrindžia:
+    - t-196460
+
+- id: c-190454
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 76"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 76."
+  citata_originali: |
+    Lietuvos Didžiosios Kunigaikštystės karių didvyrių, vadinamų riteriais, portretų
+    galeriją M. Stryjkovskis pradeda nuo legendinių Palemono ir jo bendražygių palikuo-
+    nių, „Dorybės pasiuntinyje" vadindamas riteriais tuos legendinius lietuvių kunigaikščius,
+    kurie įrodė savo narsumą. Vienas tokių buvo Germantas. Po Šventaragio mirties ka-
+    ruose su Rusia ir Kryžiuočiais jis narsa įrodė esąs riteris (šalt.
+  citata_rodoma: "Vienas tokių buvo Germantas. Po Šventaragio mirties ka-\nruose su Rusia ir Kryžiuočiais jis narsa įrodė esąs riteris"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207761
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Giliginas]]

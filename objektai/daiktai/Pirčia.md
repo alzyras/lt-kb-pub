@@ -47,17 +47,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-08314"></a>
-- t-001
-  teiginys: "Pirčioje buvo krosnis, plautai ir suolai, ant kurių pėrėsi su vantomis."
-  atnaujinta: "2026-05-31 10:29"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-10269
-
 ## Citatos
 
 - id: c-10269
@@ -77,5 +66,36 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-192823
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 73"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 73."
+  citata_originali: |
+    Ašmasis trobesys buvo vadinamas pirčia; pačioj pirty buvo krosnis, pusėj sienų buvo plautai,
+        nuo žodžio plauti, suolai, ant kurių voliodamies su lapuotomis beržinėmis vantomis pėrės,
+        žemiau pasieniais taip pat buvo suolai, ant kurių mazgojos ir trinkos; į kurias pirtis vedė ne vien
+        svečius ir pakeleivingus, bet siuntinius svetimų tautų: kaipogi senovėj visų didžiausia goda buvo
+        svetį į pirtį nuvesti ir išperdinti, nesgi pirtį žmogui susikeliavusiam už didžiai naudingą ir
+        reikalingą daiktą turėjo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 16:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-210013"></a>
+- t-001
+  teiginys: "Pirčioje buvo krosnis, plautai ir suolai, ant kurių pėrėsi su vantomis."
+  atnaujinta: "2026-09-12 16:28"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-192823
+

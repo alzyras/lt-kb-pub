@@ -36,34 +36,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206760"></a>
-- t-001
-  teiginys: "Smolenską užėmęs valdovas, kurį Narbutas vadina didžiuoju kunigaikščiu, paskelbė, kad kunigaikštystę reikia labiau globoti nuo totorių jungo ir Rusios kunigaikščių, nei galėjo Glėbas."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189375
-
-<a id="claim-t-206761"></a>
-- t-002
-  teiginys: "Smolensko kunigaikštystė, kaip nurodo Narbutas, tapo Lietuvos provincija, valdoma Jomanto ir Bazilijaus Boreikio, o kunigaikščiui Glėbui atiteko Polonos miestas."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189376
-
 ## Santrauka
 
 Smolenską užėmęs valdovas, kurį Narbutas vadina didžiuoju kunigaikščiu, paskelbė, kad kunigaikštystę reikia labiau globoti nuo totorių jungo ir Rusios kunigaikščių, nei galėjo Glėbas. Smolensko kunigaikštystė, kaip nurodo Narbutas, tapo Lietuvos provincija, valdoma Jomanto ir Bazilijaus Boreikio, o kunigaikščiui Glėbui atiteko Polonos miestas.
@@ -92,7 +64,7 @@ Smolenską užėmęs valdovas, kurį Narbutas vadina didžiuoju kunigaikščiu, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189376
@@ -112,5 +84,34 @@ Smolenską užėmęs valdovas, kurį Narbutas vadina didžiuoju kunigaikščiu, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-206760"></a>
+- t-001
+  teiginys: "Smolenską užėmęs valdovas, kurį Narbutas vadina didžiuoju kunigaikščiu, paskelbė, kad kunigaikštystę reikia labiau globoti nuo totorių jungo ir Rusios kunigaikščių, nei galėjo Glėbas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189375
+
+<a id="claim-t-206761"></a>
+- t-002
+  teiginys: "Smolensko kunigaikštystė, kaip nurodo Narbutas, tapo Lietuvos provincija, valdoma Jomanto ir Bazilijaus Boreikio, o kunigaikščiui Glėbui atiteko Polonos miestas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189376
+

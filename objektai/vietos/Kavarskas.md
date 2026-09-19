@@ -38,10 +38,23 @@ Tiktai Albetrandis apsirinka, sakydamas, kad Asti­ ko dvaras Kavarske buvo nuto
 
 ## Teiginiai
 
+<a id="claim-t-208554"></a>
+- t-208554
+  teiginys: "Vyskupas Motiejus Valančius ragino Kavarsko dvarininkų maršalką Siesickį tęsti bažnyčios statybą, tačiau Siesickis ją laikinai atidėjo dėl pabrangusių darbininkų."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:47Z"
+  pagrindžia:
+    - c-191174
+
 <a id="claim-t-86196"></a>
-- t-001
+- t-86196
   teiginys: "Kavarskas nuo Ukmergės buvo nutolęs per 4 mylias, o nuo Vilniaus - per 15 mylių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Ukmergė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -76,5 +89,26 @@ Tiktai Albetrandis apsirinka, sakydamas, kad Asti­ ko dvaras Kavarske buvo nuto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-86196
+
+- id: c-191174
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 41"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 41."
+  citata_originali: |
+    Panašiai vysk. M. Valančius ragino kavarskietį dva­
+    rininkų maršalką Siesickį 6. Šis teisinosi, kad pabrangę dar­
+    bininkai, todėl esąs priverstas laikinai bažnyčios statybą
+    atidėti ateičiai7.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208554
+

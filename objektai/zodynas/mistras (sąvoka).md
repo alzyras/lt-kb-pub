@@ -35,44 +35,6 @@ media_all_json: |-
 
 Mistras pats kryžėjų su didžia iškilme priėmė Otokarą karalių, su kurio kariauna susinė ręs, turėjo daugiaus nei ©0 000 karėjų; su ta galy be įgulęs į Parusnį, užėmė Onedos, arba Baigos, pilį su visa ąpykarta. Mistras kalavijonų Zangerhauzenas, nujautęs tą ermyderį samionų, ketino juos sudrausti, kaipogi, skubiniai sukėlęs stiprią kariauną ir susinėręs su Klaipėdos įgulė, traukė į Samiją kopomis. Naujasis mistras kalavijonų Andriejus Vestfalenas, norėdamas ant žemaičių apmaudą nugiežti už praėjusį nuopuolį, sukėlęs vėl Padaugavy kariauną, traukė žemaičių kariauti, kurį antpuolę žemaičiai staiga abaze stovintį, patį mistrą, 20 brostviu ir daugybę.
 
-## Teiginiai
-
-<a id="claim-t-201197"></a>
-- t-001
-  teiginys: "Mistras pats kryžėjų su didžia iškilme priėmė Otokarą karalių, su kurio kariauna susinė ręs, turėjo daugiaus nei ©0 000 karėjų; su ta galy be įgulęs į Parusnį, užėmė Onedos, arba Baigos, pilį su visa ąpykarta."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184547
-
-<a id="claim-t-201198"></a>
-- t-002
-  teiginys: "Mistras kalavijonų Zangerhauzenas, nujautęs tą ermyderį samionų, ketino juos sudrausti, kaipogi, skubiniai sukėlęs stiprią kariauną ir susinėręs su Klaipėdos įgulė, traukė į Samiją kopomis."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184548
-
-<a id="claim-t-201199"></a>
-- t-003
-  teiginys: "Naujasis mistras kalavijonų Andriejus Vestfalenas, norėdamas ant žemaičių apmaudą nugiežti už praėjusį nuopuolį, sukėlęs vėl Padaugavy kariauną, traukė žemaičių kariauti, kurį antpuolę žemaičiai staiga abaze stovintį, patį mistrą, 20 brostviu ir daugybę."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184549
-
 ## Citatos
 
 - id: c-184547
@@ -97,7 +59,7 @@ Mistras pats kryžėjų su didžia iškilme priėmė Otokarą karalių, su kurio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184548
@@ -131,7 +93,7 @@ Mistras pats kryžėjų su didžia iškilme priėmė Otokarą karalių, su kurio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-184549
@@ -154,5 +116,44 @@ Mistras pats kryžėjų su didžia iškilme priėmė Otokarą karalių, su kurio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+## Teiginiai
+
+<a id="claim-t-201197"></a>
+- t-001
+  teiginys: "Mistras pats kryžėjų su didžia iškilme priėmė Otokarą karalių, su kurio kariauna susinė ręs, turėjo daugiaus nei ©0 000 karėjų; su ta galy be įgulęs į Parusnį, užėmė Onedos, arba Baigos, pilį su visa ąpykarta."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184547
+
+<a id="claim-t-201198"></a>
+- t-002
+  teiginys: "Mistras kalavijonų Zangerhauzenas, nujautęs tą ermyderį samionų, ketino juos sudrausti, kaipogi, skubiniai sukėlęs stiprią kariauną ir susinėręs su Klaipėdos įgulė, traukė į Samiją kopomis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184548
+
+<a id="claim-t-201199"></a>
+- t-003
+  teiginys: "Naujasis mistras kalavijonų Andriejus Vestfalenas, norėdamas ant žemaičių apmaudą nugiežti už praėjusį nuopuolį, sukėlęs vėl Padaugavy kariauną, traukė žemaičių kariauti, kurį antpuolę žemaičiai staiga abaze stovintį, patį mistrą, 20 brostviu ir daugybę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184549
+

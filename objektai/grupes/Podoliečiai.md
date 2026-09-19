@@ -26,25 +26,6 @@ media_all_json: |-
 
 O kurie dalyvavo, tai buvo daugiausia mozūrai ir Spyteko iš Melštino vadovaujami podoliečiai.
 
-## Teiginiai
-
-<a id="claim-t-35745"></a>
-- t-001
-  teiginys: "Spyteko iš Melštino vadovaujami podoliečiai dalyvavo Vytauto kariuomenės žygyje kartu su mozūrais."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Podoliečiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Podoliečiai dalyvavo Vytauto kariuomenės žygyje, todėl jie veikė kartu su Vytautu, nors ryšys išreikštas netiesiogiai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Podoliečiai buvo sąjungininkas su Vytautas (Lietuvos valdovas, XIV–XV a.) (0.62)"
-  pagrindžia:
-    - c-38289
-
 ## Citatos
 
 - id: c-38289
@@ -65,5 +46,25 @@ O kurie dalyvavo, tai buvo daugiausia mozūrai ir Spyteko iš Melštino vadovauj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-35745"></a>
+- t-001
+  teiginys: "Spyteko iš Melštino vadovaujami podoliečiai dalyvavo Vytauto kariuomenės žygyje kartu su mozūrais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Podoliečiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Podoliečiai dalyvavo Vytauto kariuomenės žygyje, todėl jie veikė kartu su Vytautu, nors ryšys išreikštas netiesiogiai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Podoliečiai buvo sąjungininkas su Vytautas (Lietuvos valdovas, XIV–XV a.) (0.62)"
+  pagrindžia:
+    - c-38289
+

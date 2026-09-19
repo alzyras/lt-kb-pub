@@ -40,71 +40,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-113191"></a>
-- t-001
-  teiginys: "1272 m. Lietuvą puolę Haličo kunigaikščiai veikė kartu su Nogajaus mongolais."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuva: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Haličo kunigaikščiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Haličo kunigaikščiai puolė Lietuvą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Haličo kunigaikščiai puolė Lietuva (0.94); Haličo kunigaikščiai buvo sąjungininkas su Mongolai (0.82); Mongolai puolė Lietuva (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1272 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko mongolų dalyvavimą puolime; pašalintas nesusijęs puslapio triukšmas."
-  pagrindžia:
-    - c-104471
-
-<a id="claim-t-113192"></a>
-- t-002
-  teiginys: "Prie Mėlynųjų vandenų Algirdo vadovaujama Lietuvos kariuomenė sutriuškino rusų žemėse su lietuviais konkuravusius mongolus."
-  atnaujinta: "2026-06-14 10:59"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Mongolai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Mongolai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Sutriuškinimas prie Mėlynųjų vandenų tiesiogiai rodo Lietuvos kariuomenės karinį veiksmą prieš mongolus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Lietuvos kariuomenė kariavo prieš Mongolai (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1328 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra enciklopedinis ir tiksliai perteikia citatos faktą."
-  pagrindžia:
-    - c-104470
-
-<a id="claim-t-183665"></a>
-- t-003
-  teiginys: "Mongolus prie Mėlynųjų vandenų sutriuškino gerai organizuota Lietuvos kariuomenė, vadovaujama Algirdo."
-  atnaujinta: "2026-06-14 10:59"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "kariavo_pries -> Mongolai: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Mongolai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata nurodo, kad mongolai konkuravo su lietuviais ir buvo sutriuškinti Lietuvos kariuomenės; leidžiamas kandidatas leidžia užfiksuoti lietuvių ir mongolų priešpriešą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Lietuviai kariavo prieš Mongolai (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1328 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškus ir paremtas pateikta citata."
-  pagrindžia:
-    - c-167057
-
 ## Citatos
 
 - id: c-104470
@@ -129,7 +64,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-104471
@@ -156,7 +91,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167057
@@ -182,9 +117,75 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 ## Ryšiai
 - Kariavo prieš: [[objektai/grupes/Lietuvos kariuomenė]]
 - Mongolai puolė [[objektai/vietos/Lietuva]]
+
+## Teiginiai
+
+<a id="claim-t-113191"></a>
+- t-001
+  teiginys: "1272 m. Lietuvą puolę Haličo kunigaikščiai veikė kartu su Nogajaus mongolais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lietuva: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Haličo kunigaikščiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Haličo kunigaikščiai puolė Lietuvą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Haličo kunigaikščiai puolė Lietuva (0.94); Haličo kunigaikščiai buvo sąjungininkas su Mongolai (0.82); Mongolai puolė Lietuva (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1272 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko mongolų dalyvavimą puolime; pašalintas nesusijęs puslapio triukšmas."
+  pagrindžia:
+    - c-104471
+
+<a id="claim-t-113192"></a>
+- t-002
+  teiginys: "Prie Mėlynųjų vandenų Algirdo vadovaujama Lietuvos kariuomenė sutriuškino rusų žemėse su lietuviais konkuravusius mongolus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Mongolai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Mongolai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Sutriuškinimas prie Mėlynųjų vandenų tiesiogiai rodo Lietuvos kariuomenės karinį veiksmą prieš mongolus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuvos kariuomenė kariavo prieš Mongolai (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1328 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra enciklopedinis ir tiksliai perteikia citatos faktą."
+  pagrindžia:
+    - c-104470
+
+<a id="claim-t-183665"></a>
+- t-003
+  teiginys: "Mongolus prie Mėlynųjų vandenų sutriuškino gerai organizuota Lietuvos kariuomenė, vadovaujama Algirdo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "kariavo_pries -> Mongolai: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Mongolai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata nurodo, kad mongolai konkuravo su lietuviais ir buvo sutriuškinti Lietuvos kariuomenės; leidžiamas kandidatas leidžia užfiksuoti lietuvių ir mongolų priešpriešą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuviai kariavo prieš Mongolai (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1328 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškus ir paremtas pateikta citata."
+  pagrindžia:
+    - c-167057
+

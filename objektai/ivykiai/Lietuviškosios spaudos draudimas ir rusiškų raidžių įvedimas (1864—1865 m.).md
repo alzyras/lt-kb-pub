@@ -43,27 +43,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-66672"></a>
-- t-001
-  teiginys: "Kaufmanas 1865 m. rugsėjo 6 d. įsakymu uždraudė spausdinti ir platinti lietuviškas knygas lotyniškomis raidėmis."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-66869
-
-<a id="claim-t-66673"></a>
-- t-002
-  teiginys: "Įvedant rusiškas raides siekta lietuvius atitraukti nuo lenkų ir priartinti prie rusų, bet lietuviai priešinosi šiai rusinimo priemonei."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-66868
-
 ## Citatos
 
 - id: c-66868
@@ -83,7 +62,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-66869
@@ -102,5 +81,27 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-66672"></a>
+- t-001
+  teiginys: "Kaufmanas 1865 m. rugsėjo 6 d. įsakymu uždraudė spausdinti ir platinti lietuviškas knygas lotyniškomis raidėmis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-66869
+
+<a id="claim-t-66673"></a>
+- t-002
+  teiginys: "Įvedant rusiškas raides siekta lietuvius atitraukti nuo lenkų ir priartinti prie rusų, bet lietuviai priešinosi šiai rusinimo priemonei."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-66868
+

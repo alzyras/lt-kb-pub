@@ -35,20 +35,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad jäger E.
 
-## Teiginiai
-
-<a id="claim-t-61090"></a>
-- t-001
-  teiginys: "E. Jägerio „Prussia-Karten. 1542—1810“ 1982 m. išleido A. H. Konrad Verlag."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1982 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia autoriaus, pavadinimo, leidyklos ir metų faktą."
-  pagrindžia:
-    - c-61722
-
 ## Citatos
 
 - id: c-61722
@@ -64,5 +50,35 @@ Dusburgietis teigia, kad jäger E.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-203810
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 264"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 264."
+  citata_originali: |
+    Jäger E. Prussia-Karten. 1542—1810: Geschichte der kartographischen Darstellung
+    Ostpreußens vom 16. bis zum 19. Jahrhundert —A. H. Konrad Verlag, 1982.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-222127"></a>
+- t-001
+  teiginys: "E. Jägerio „Prussia-Karten. 1542—1810“ 1982 m. išleido A. H. Konrad Verlag."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1982 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia autoriaus, pavadinimo, leidyklos ir metų faktą."
+  pagrindžia:
+    - c-203810
+

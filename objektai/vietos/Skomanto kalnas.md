@@ -36,18 +36,6 @@ historical_names: []
 
 Dusburgietis teigia, kad skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyba, p.
 
-## Teiginiai
-
-<a id="claim-t-58727"></a>
-- t-001
-  teiginys: "Skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyba, p."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  pagrindžia:
-    - c-59359
-
 ## Citatos
 
 - id: c-59359
@@ -71,5 +59,14 @@ Dusburgietis teigia, kad skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+## Teiginiai
+
+<a id="claim-t-222553"></a>
+- t-001
+  teiginys: "Skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyba, p."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
+

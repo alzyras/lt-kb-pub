@@ -31,20 +31,6 @@ canonical_biography: "Jis valdovo iždui buvo įsiskolinęs 94 kapas grašių u�
 
 Jis valdovo iždui buvo įsiskolinęs 94 kapas grašių už iš Vilniaus pilininko ir Valkininkų laikytojo Jopo Pretfuso nupirktas 47 statines sūdytos mėsos, paskui gavo iš valdovo iždo 16 kapų grašių už kalkių atgabenimą, bet įsipareigojimo neatliko.
 
-## Teiginiai
-
-<a id="claim-t-202124"></a>
-- t-001
-  teiginys: "Jis valdovo iždui buvo įsiskolinęs 94 kapas grašių už iš Vilniaus pilininko ir Valkininkų laikytojo Jopo Pretfuso nupirktas 47 statines sūdytos mėsos, paskui gavo iš valdovo iždo 16 kapų grašių už kalkių atgabenimą, bet įsipareigojimo neatliko."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185471
-
 ## Citatos
 
 - id: c-185471
@@ -62,5 +48,20 @@ Jis valdovo iždui buvo įsiskolinęs 94 kapas grašių už iš Vilniaus pilinin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202124"></a>
+- t-001
+  teiginys: "Jis valdovo iždui buvo įsiskolinęs 94 kapas grašių už iš Vilniaus pilininko ir Valkininkų laikytojo Jopo Pretfuso nupirktas 47 statines sūdytos mėsos, paskui gavo iš valdovo iždo 16 kapų grašių už kalkių atgabenimą, bet įsipareigojimo neatliko."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185471
+

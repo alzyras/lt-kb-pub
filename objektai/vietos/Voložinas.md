@@ -37,32 +37,38 @@ Jonas Goštautas užsuko pas Voložino kunigaikščius. Voložine Goštautą pas
 
 ## Teiginiai
 
-<a id="claim-t-200368"></a>
-- t-001
+<a id="claim-t-212046"></a>
+- t-003
+  teiginys: "Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pa sisvečiuoti pas Voložino kunigaikščius, ir Voložine at ėjo žinia apie didžiojo kunigaikščio Žygimanto mirtį."
+  atnaujinta: "2026-09-12 20:03"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+
+<a id="claim-t-210719"></a>
+- t-210719
   teiginys: "Voložine Goštautą pasiekė žinia apie Žygimanto mirtį."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-12 20:03"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Teiginys glaustas, faktinis ir tiesiogiai paremtas citata."
   susije_objektai: "mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_place: Smolenskas"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-183659
 
-<a id="claim-t-200370"></a>
-- t-002
+<a id="claim-t-211996"></a>
+- t-211996
   teiginys: "Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pasisvečiuoti pas Voložino kunigaikščius."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-12 20:03"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra aiškus faktinis sakinys apie Jono Goštauto sustojimą pas Voložino kunigaikščius. Citatoje minimos vėlesnės žinios ir kelionė toliau sąmoningai nepridėtos."
+  sudarymo_pagrindimas: "Teiginys tiesiogiai remiasi citata ir turi konkretų veikėją, kelionės kryptį bei sustojimo vietą. Vertinimų ar papildomų aplinkybių nepridėta."
   susije_objektai: "llm_object: Voložinas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Smolenskas; llm_object: Smolenskas"
   semantiniai_rysiai: "[[objektai/asmenys/Goštautas|Goštautas]] keliavo į Voložinas"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-183659
 
 ## Citatos
 
@@ -91,6 +97,4 @@ Jonas Goštautas užsuko pas Voložino kunigaikščius. Voložine Goštautą pas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
+

@@ -28,38 +28,6 @@ media_all_json: |-
 
 Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri kartu su Petrapilio latvių pabėgėlių komitetu ėmė rūpintis sukurti nepriklausomą Latviją.
 
-## Teiginiai
-
-<a id="claim-t-72599"></a>
-- t-001
-  teiginys: "Petrapilio latvių pabėgėlių komitetas kartu su Tautos Taryba rūpinosi nepriklausomos Latvijos sukūrimu."
-  atnaujinta: "2026-06-13 18:29"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Tautos taryba (institucija): 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petrapilio latvių pabėgėlių komitetas (institucija): llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Tautos taryba (institucija): llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tautos Taryba ir Petrapilio latvių pabėgėlių komitetas tiesiogiai nurodyti kartu rūpinęsi nepriklausomos Latvijos sukūrimu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  semantiniai_rysiai: "Petrapilio latvių pabėgėlių komitetas (institucija) buvo sąjungininkas su Tautos taryba (institucija) (0.88)"
-  pagrindžia:
-    - c-71004
-
-<a id="claim-t-193121"></a>
-- t-002
-  teiginys: "Kai Rusijoje kilo revoliucija, beveik visa Latvija buvo užimta vokiečių, kurie svajojo paimti į savo valdžią visą Pabaltijį."
-  atnaujinta: "2026-07-06 12:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-175881
-
 ## Citatos
 
 - id: c-71004
@@ -79,7 +47,7 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175881
@@ -100,5 +68,38 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-72599"></a>
+- t-001
+  teiginys: "Petrapilio latvių pabėgėlių komitetas kartu su Tautos Taryba rūpinosi nepriklausomos Latvijos sukūrimu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Tautos taryba (institucija): 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Petrapilio latvių pabėgėlių komitetas (institucija): llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Tautos taryba (institucija): llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Tautos Taryba ir Petrapilio latvių pabėgėlių komitetas tiesiogiai nurodyti kartu rūpinęsi nepriklausomos Latvijos sukūrimu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Petrapilio latvių pabėgėlių komitetas (institucija) buvo sąjungininkas su Tautos taryba (institucija) (0.88)"
+  pagrindžia:
+    - c-71004
+
+<a id="claim-t-193121"></a>
+- t-002
+  teiginys: "Kai Rusijoje kilo revoliucija, beveik visa Latvija buvo užimta vokiečių, kurie svajojo paimti į savo valdžią visą Pabaltijį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-175881
+

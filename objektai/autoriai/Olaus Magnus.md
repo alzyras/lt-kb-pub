@@ -40,21 +40,6 @@ canonical_biography: "183- Turima omenyje Olafo Monsono (1490-1558) „Šiaurės
 
 183- Turima omenyje Olafo Monsono (1490-1558) „Šiaurės tautų istorija“ (Olaus Magnus.
 
-## Teiginiai
-
-<a id="claim-t-194843"></a>
-- t-001
-  teiginys: "183- Turima omenyje Olafo Monsono (1490-1558) „Šiaurės tautų istorija“ (Olaus Magnus."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-177239
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '183- Turima omenyje Olafo Monsono (1490-1558) „Šiaurės tautų istorija“ (Olaus Magnus.'
@@ -90,5 +75,4 @@ canonical_biography: "183- Turima omenyje Olafo Monsono (1490-1558) „Šiaurės
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

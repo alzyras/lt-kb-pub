@@ -36,25 +36,6 @@ canonical_biography: "Dusburgietis teigia, kad apie šventosios žemės reikalus
 
 Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to, kai imperatorius Heraklijus pasitraukė iš šventosios žemės, vienas arabų kunigaikštis, vardu Omaras, trečias Mahometo karalystės paveldėtojas, žiauriai įsiveržė į Šventąją žemę bei ją visą užėmė, ir šitaip.
 
-## Teiginiai
-
-<a id="claim-t-60397"></a>
-- t-001
-  teiginys: "Arabų kunigaikštis Omaras, trečias Mahometo karalystės paveldėtojas, įsiveržė į Šventąją žemę ir ją užėmė."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Jeruzalė: 0.60"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Omaras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Jeruzalė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginyje nurodyta, kad Omaras užėmė Šventąją žemę; leistinas artimiausias konkretus vietos kandidatas yra Jeruzalė, minima citatoje kaip Šventosios žemės miestas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Omaras užėmė Jeruzalė (0.60)"
-  pagrindžia:
-    - c-61029
-
 ## Citatos
 
 - id: c-61029
@@ -77,5 +58,21 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+## Teiginiai
+
+<a id="claim-t-224979"></a>
+- t-001
+  teiginys: "Arabų kunigaikštis Omaras, trečias Mahometo karalystės paveldėtojas, įsiveržė į Šventąją žemę ir ją užėmė."
+  atnaujinta: "2026-09-13 18:13"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Jeruzalė: 0.60"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Omaras: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Jeruzalė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginyje nurodyta, kad Omaras užėmė Šventąją žemę; leistinas artimiausias konkretus vietos kandidatas yra Jeruzalė, minima citatoje kaip Šventosios žemės miestas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Omaras užėmė Jeruzalė (0.60)"
+

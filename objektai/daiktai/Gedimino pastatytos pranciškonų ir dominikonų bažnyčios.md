@@ -46,25 +46,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-87077"></a>
-- t-001
-  teiginys: "Gediminas nurodė pastatęs dvi pranciškonų bažnyčias Vilniuje ir Naugarduke bei trečią dominikonų bažnyčią."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Gedimino pastatytos pranciškonų ir dominikonų bažnyčios: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Gedimino pastatytos pranciškonų ir dominikonų bažnyčios: llm_allowed_candidate, thing"
-  ryšio_paaiskinimas: "Citatoje Gediminas savo vardu nurodo pastatęs bažnyčias."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Gediminas pastatė Gedimino pastatytos pranciškonų ir dominikonų bažnyčios (0.93)"
-  pagrindžia:
-    - c-83056
-
 ## Citatos
 
 - id: c-83056
@@ -94,8 +75,28 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+
+## Teiginiai
+
+<a id="claim-t-87077"></a>
+- t-001
+  teiginys: "Gediminas nurodė pastatęs dvi pranciškonų bažnyčias Vilniuje ir Naugarduke bei trečią dominikonų bažnyčią."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Gedimino pastatytos pranciškonų ir dominikonų bažnyčios: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gedimino pastatytos pranciškonų ir dominikonų bažnyčios: llm_allowed_candidate, thing"
+  ryšio_paaiskinimas: "Citatoje Gediminas savo vardu nurodo pastatęs bažnyčias."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Gediminas pastatė Gedimino pastatytos pranciškonų ir dominikonų bažnyčios (0.93)"
+  pagrindžia:
+    - c-83056
+

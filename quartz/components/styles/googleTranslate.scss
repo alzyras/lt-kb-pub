@@ -4,7 +4,7 @@
   align-items: center;
   gap: 0.3rem;
   color: #fff;
-  font-family: var(--codeFont);
+  font-family: var(--bodyFont);
   line-height: 1;
   white-space: nowrap;
 }
@@ -18,9 +18,9 @@
   background: #333;
   color: #fff;
   cursor: pointer;
-  font-family: var(--codeFont);
-  font-size: 0.68rem;
-  font-weight: 800;
+  font-family: var(--bodyFont);
+  font-size: 0.75rem;
+  font-weight: 600;
   letter-spacing: 0;
 }
 

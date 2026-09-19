@@ -34,21 +34,6 @@ canonical_biography: "Lietuvos metraštis Julijoną Oljevną vadina Tverės did�
 
 Lietuvos metraštis Julijoną Oljevną vadina Tverės didžiojo kunigaikščio dukterimi ir nurodo, kad su Algirdu ji turėjo šešis sūnus.
 
-## Teiginiai
-
-<a id="claim-t-194137"></a>
-- t-001
-  teiginys: "Lietuvos metraštis Julijoną Oljevną vadina Tverės didžiojo kunigaikščio dukterimi ir nurodo, kad su Algirdu ji turėjo šešis sūnus."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-  pagrindžia:
-    - c-176750
-
 ## Citatos
 
 - id: c-176750
@@ -71,5 +56,4 @@ Lietuvos metraštis Julijoną Oljevną vadina Tverės didžiojo kunigaikščio d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

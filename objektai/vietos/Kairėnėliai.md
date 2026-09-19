@@ -47,28 +47,6 @@ Kairėnėliai šiame šaltinyje minimi kaip jaunavedžių ir vestuvininkų kelio
 
 Kairėnėliai šiame šaltinyje yra kaimas ar gyvenvietė.
 
-## Teiginiai
-
-<a id="claim-t-195656"></a>
-- t-001
-  teiginys: "Kviesliai buvo išsiųsti į Kairėnėlius kviesti jaunavedžių ant atgrąžtų."
-  atnaujinta: "2026-07-12 09:30"
-  sprendimo_priezastis: "gap::places"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178057
-
-<a id="claim-t-195657"></a>
-- t-002
-  teiginys: "Vestuvininkai nuvažiavo į Kairėnėlius."
-  atnaujinta: "2026-07-12 09:30"
-  sprendimo_priezastis: "gap::places"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178058
-
 ## Citatos
 
 - id: c-178057
@@ -90,7 +68,7 @@ Kairėnėliai šiame šaltinyje yra kaimas ar gyvenvietė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-178058
@@ -111,5 +89,28 @@ Kairėnėliai šiame šaltinyje yra kaimas ar gyvenvietė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-195656"></a>
+- t-001
+  teiginys: "Kviesliai buvo išsiųsti į Kairėnėlius kviesti jaunavedžių ant atgrąžtų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::places"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-178057
+
+<a id="claim-t-195657"></a>
+- t-002
+  teiginys: "Vestuvininkai nuvažiavo į Kairėnėlius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::places"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-178058
+

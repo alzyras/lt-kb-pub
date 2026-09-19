@@ -33,21 +33,6 @@ media_all_json: |-
 
 „Ašies“ susidarymas kilus politinei krizei dėl užsienio intervencijos rodė pasikeitus opozicinių partijų veiklos taktiką.
 
-## Teiginiai
-
-<a id="claim-t-193674"></a>
-- t-001
-  teiginys: "„Ašies“ susidarymas kilus politinei krizei dėl užsienio intervencijos rodė pasikeitus opozicinių partijų veiklos taktiką."
-  atnaujinta: "2026-07-06 12:55"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  pagrindžia:
-    - c-176343
-
 ## Citatos
 
 - id: c-176343
@@ -70,5 +55,21 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-193674"></a>
+- t-001
+  teiginys: "„Ašies“ susidarymas kilus politinei krizei dėl užsienio intervencijos rodė pasikeitus opozicinių partijų veiklos taktiką."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  pagrindžia:
+    - c-176343
+

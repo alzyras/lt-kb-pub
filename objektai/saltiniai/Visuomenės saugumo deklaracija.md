@@ -36,20 +36,6 @@ Visuomenės saugumo deklaracija pabrėžė būtinybę griežtai bausti už nusik
 
 Visuomenės saugumo deklaracija pabrėžė būtinybę griežtai bausti už nusikaltimus viešose vietose.
 
-## Teiginiai
-
-<a id="claim-t-203715"></a>
-- t-001
-  teiginys: "Visuomenės saugumo deklaracija pabrėžė būtinybę griežtai bausti už nusikaltimus viešose vietose."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
-  pagrindžia:
-    - c-186319
-
 ## Citatos
 
 - id: c-186319
@@ -71,5 +57,20 @@ Visuomenės saugumo deklaracija pabrėžė būtinybę griežtai bausti už nusik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203715"></a>
+- t-001
+  teiginys: "Visuomenės saugumo deklaracija pabrėžė būtinybę griežtai bausti už nusikaltimus viešose vietose."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186319
+

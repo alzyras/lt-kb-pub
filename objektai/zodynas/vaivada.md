@@ -44,19 +44,39 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
 
 ## Teiginiai
 
+<a id="claim-t-211769"></a>
+- t-211769
+  teiginys: "Goštautas paskirtas pirmuoju Vilniaus vaivada."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-192987
+
 <a id="claim-t-12600"></a>
-- t-001
+- t-12600
   teiginys: "Unijos akte Jogaila ir Vytautas pažadėjo Vilniuje įsteigti vaivados ir kašteliono pareigybes."
-  atnaujinta: "2026-07-26 23:35"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "vaivada: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=47"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"vaivada\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-14722
+    - c-160263
 
 <a id="claim-t-176248"></a>
-- t-002
+- t-176248
   teiginys: "Lenkų karalystėje buvusios dignitorijos, kėdės ir urėdai turėjo būti įsteigti Vilniuje, įskaitant Vilniaus vaivadą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -70,9 +90,9 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
     - c-14722
 
 <a id="claim-t-184643"></a>
-- t-003
+- t-184643
   teiginys: "Į Korčino seimą Vytautas iš pradžių nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -91,33 +111,10 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   pagrindžia:
     - c-168004
 
-<a id="claim-t-187532"></a>
-- t-004
-  teiginys: "Vilniaus ir Trakų vaivadų pareigybės įvestos 1413 m.; iki tol panašias vaivadų funkcijas vykdė seniūnai."
-  atnaujinta: "2026-07-19 17:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "vaivada: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"vaivada\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  temporaliniai_duomenys: "įvykio data: 1387 m.; įvykio data: 1413 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo Vilniaus ir Trakų vaivadų pareigybių įvedimą ir ankstesnes seniūnų funkcijas. Vėlesnių pirmųjų pareigūnų pavyzdžių nepridėta."
-  vertinimo_atnaujinta: "2026-06-16T16:17:41Z"
-  pagrindžia:
-    - c-170482
-
 <a id="claim-t-193163"></a>
-- t-005
+- t-193163
   teiginys: "Tik Vilniaus ir Trakų sritys nuo 1413 m. turėjo savo viršininkus, vadinamus ne vietininkais, bet vaivadomis."
-  atnaujinta: "2026-07-06 12:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -186,9 +183,9 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
+  pagrindžia:
+    - t-12600
+    - t-176248
 
 - id: c-46936
   redaktorius: "A. Šapoka"
@@ -207,8 +204,8 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-193163
 
 - id: c-160263
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -228,6 +225,9 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-12600
+
 - id: c-168004
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -251,8 +251,8 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-184643
 
 - id: c-170482
   autorius: "Anoniminis metraštininkas"
@@ -272,5 +272,23 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+
+- id: c-192987
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 67"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 67."
+  citata_originali: |
+    Ir, įkurdinęs miestą, perkėlė savo sostinę iš Trakų
+    į Vilnių ir pirmuoju Vilniaus vaivada paskyrė savo
+    etmoną Goštautą5, Stulpų herbo, gimusį iš Grumbio,
+    kurį vokiečiai Kaune buvo paėmę nelaisvėn.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211769
+

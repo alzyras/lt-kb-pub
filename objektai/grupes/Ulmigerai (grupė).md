@@ -33,21 +33,6 @@ Narbutas teigia, kad suvienytos lietuvių padermių atšakos uždraudė ulmigera
 
 Narbutas teigia, kad suvienytos lietuvių padermių atšakos uždraudė ulmigerams duoti vaikus kaip duoklę.
 
-## Teiginiai
-
-<a id="claim-t-205076"></a>
-- t-001
-  teiginys: "Narbutas teigia, kad suvienytos lietuvių padermių atšakos uždraudė ulmigerams duoti vaikus kaip duoklę."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T21:22:05Z"
-  pagrindžia:
-    - c-188037
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas teigia, kad suvienytos lietuvių padermių atšakos uždraudė ulmigerams duoti vaikus kaip duoklę.'
@@ -82,5 +67,21 @@ Narbutas teigia, kad suvienytos lietuvių padermių atšakos uždraudė ulmigera
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205076"></a>
+- t-001
+  teiginys: "Narbutas teigia, kad suvienytos lietuvių padermių atšakos uždraudė ulmigerams duoti vaikus kaip duoklę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T21:22:05Z"
+  pagrindžia:
+    - c-188037
+

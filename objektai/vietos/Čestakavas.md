@@ -46,18 +46,6 @@ historical_names: []
 
 Čestakavas šiame šaltinyje yra šventa vieta ar šventovė.
 
-## Teiginiai
-
-<a id="claim-t-195485"></a>
-- t-001
-  teiginys: "Čestakavas minimas kaip viena iš šventų vietų, iš kurių parnešamas palaiminimas."
-  atnaujinta: "2026-07-12 04:09"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177906
-
 ## Citatos
 
 - id: c-177906
@@ -73,5 +61,18 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-195485"></a>
+- t-001
+  teiginys: "Čestakavas minimas kaip viena iš šventų vietų, iš kurių parnešamas palaiminimas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177906
+

@@ -46,24 +46,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206877"></a>
-- t-001
-  teiginys: "1349 m. Kazimiero žygio metu kiti Voluinės ir Brastos Polesės miestai, priklausę lietuvių kunigaikščiams ar Rusios kunigaikščių palikuonims, pasidavė be pasipriešinimo."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1349 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Fragmentas paverstas išsamiu sakiniu, įvardijant žygio laiką, miestus ir jų valdovų statusą. Išlaikytas citatoje nurodytas pasidavimo būdas."
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189492
-
 ## Santrauka
 
 1349 m. Kazimiero žygio metu kiti Voluinės ir Brastos Polesės miestai, priklausę lietuvių kunigaikščiams ar Rusios kunigaikščių palikuonims, pasidavė be pasipriešinimo.
@@ -92,5 +74,24 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206877"></a>
+- t-001
+  teiginys: "1349 m. Kazimiero žygio metu kiti Voluinės ir Brastos Polesės miestai, priklausę lietuvių kunigaikščiams ar Rusios kunigaikščių palikuonims, pasidavė be pasipriešinimo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1349 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Fragmentas paverstas išsamiu sakiniu, įvardijant žygio laiką, miestus ir jų valdovų statusą. Išlaikytas citatoje nurodytas pasidavimo būdas."
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189492
+

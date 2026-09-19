@@ -38,10 +38,26 @@ Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraiči
 
 ## Teiginiai
 
+<a id="claim-t-208622"></a>
+- t-208622
+  teiginys: "Vyskupui pasiūlius, Vidiškio filija 1856 m. buvo pakelta į parapiją."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  temporaliniai_duomenys: "įvykio data: 1856 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pridėta citatoje esanti aplinkybė apie vyskupo pasiūlymą, o pagrindinis teiginys ir data išlaikyti. Vyskupo vardas nenurodytas, nes citatoje jis neįvardytas."
+  vertinimo_atnaujinta: "2026-09-02T11:31:51Z"
+  pagrindžia:
+    - c-191242
+
 <a id="claim-t-42266"></a>
-- t-001
+- t-42266
   teiginys: "Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzeme -> Vidiškis: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -78,8 +94,30 @@ Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraiči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-42266
+
+- id: c-191242
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 76"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 76."
+  citata_originali: |
+    Steigdamas naujas parapijas, vysk. M. Valančius rū­
+    pinosi, kad dvarininkai joms skirtų užtektinai žemės, iš
+    kurios kunigai galėtų padoriai pragyventi. Pavyzdžiui,
+    vyskupui pasiūlius, 1856 m. Vidiškio filija buvo pakelta
+    į parapijas.
+  citata_rodoma: "Pavyzdžiui, \nvyskupui pasiūlius, 1856 m. Vidiškio filija buvo pakelta \nį parapijas."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208622
 
 ## Ryšiai
 - Užėmė Vidiškį: [[objektai/grupes/Lenkai]]

@@ -51,29 +51,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-62507"></a>
-- t-001
-  teiginys: "1311 m. totoriai su armėnais ir gruzinais žygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkst. raitelių."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "surenge_zygi_i -> Palestina: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Palestina: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Žygio kryptis apima ir Palestiną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Totoriai surengė žygį į Sirija (0.94); Totoriai surengė žygį į Palestina (0.94); Armėnai surengė žygį į Sirija (0.86); Gruzinai surengė žygį į Sirija (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1311 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia faktą, bet pradinis teiginys kopijuoja antraštę ir nutrūkusią bibliografinę nuorodą."
-  pagrindžia:
-    - c-63181
-
 ## Citatos
 
 - id: c-63181
@@ -92,5 +69,25 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+## Teiginiai
+
+<a id="claim-t-221037"></a>
+- t-001
+  teiginys: "1311 m. totoriai su armėnais ir gruzinais žygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkst. raitelių."
+  atnaujinta: "2026-09-13 18:12"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "surenge_zygi_i -> Palestina: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Palestina: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Žygio kryptis apima ir Palestiną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Totoriai surengė žygį į Sirija (0.94); Totoriai surengė žygį į Palestina (0.94); Armėnai surengė žygį į Sirija (0.86); Gruzinai surengė žygį į Sirija (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1311 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata remia faktą, bet pradinis teiginys kopijuoja antraštę ir nutrūkusią bibliografinę nuorodą."
+

@@ -44,32 +44,6 @@ canonical_biography: "Dusburgietis teigia, kad fridrichas (Austrijos kunigaikšt
 
 Dusburgietis teigia, kad fridrichas (Austrijos kunigaikštis) sušakosiąs ir ateityje duosiąs gausybę vaisių, štai todėl visi mūsų aukščiau suminėti valdovai priėjo nuomonės, kad ponas Fridrichas, Svabijos kunigaikštis, turįs pasiųsti oficialius legatus pas savo brolį šviesiausiąjį valdovą Henriką VI, Romos karalių, busimąjį imperatorių, kuris privaląs paprašyti jo šventenybę popiežių leisti įsteigti mūsų minėtąją ligoninę ir ją patvirtinti. Dusburgietis teigia, kad apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni­ gaikštis, buvo išrinkti Romos karaliais Tų pačių metų spalio 21 dieną Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis, dėl nesantarvės vienu metu buvo išrinkti.
 
-## Teiginiai
-
-<a id="claim-t-194481"></a>
-- t-001
-  teiginys: "Apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni gaikštis, buvo išrinkti Romos karaliais Tų pačių metų spalio 21 dieną Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis, dėl nesantarvės vienu metu buvo išrinkti."
-  atnaujinta: "2026-07-26 23:35"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-60750
-
-<a id="claim-t-197078"></a>
-- t-002
-  teiginys: "Sis karalius neseniai buvo kunigaikštis, visai neseniai apaštališkasis sostas jį pakėlė į karalius, vildamasis, kad dėl to jis uoliau, ištikimiau ir ryžtingiau kovosiąs už šventąją bažnyčią, tikėjimą ir tikinčiuosius."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-60749
-
 ## Citatos
 
 - id: c-60749
@@ -90,8 +64,6 @@ Dusburgietis teigia, kad fridrichas (Austrijos kunigaikštis) sušakosiąs ir at
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-60750
   autorius: "Petras Dusburgietis"
@@ -130,5 +102,53 @@ Dusburgietis teigia, kad fridrichas (Austrijos kunigaikštis) sušakosiąs ir at
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-201822
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 254"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 254."
+  citata_originali: |
+    Sis karalius neseniai buvo kunigaikštis,
+    visai neseniai apaštališkasis sostas jį pakėlė į karalius, vildamasis, kad dėl to jis uoliau,
+    ištikimiau ir ryžtingiau kovosiąs už šventąją bažnyčią, tikėjimą ir tikinčiuosius. Tačiau jis
+    dabar ne tik negynė tikinčiųjų bendruomenės, bet anaiptol — žiauriai puolė tuos, kurie
+    ją gynė. Dar blogiau buvo tai, kad jis ryžosi piktadarybei, apie kurią jau esame kalbėję,
+    tada, kai Čekijos karalius, magistras bei jų kariuomenė kovojo prieš netikėlius ir keršijo
+    už nukryžiuotojo viešpaties kančias.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+    - t-222028
+
+## Teiginiai
+
+<a id="claim-t-222540"></a>
+- t-001
+  teiginys: "Sis karalius neseniai buvo kunigaikštis, visai neseniai apaštališkasis sostas jį pakėlė į karalius, vildamasis, kad dėl to jis uoliau, ištikimiau ir ryžtingiau kovosiąs už šventąją bažnyčią, tikėjimą ir tikinčiuosius."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-201822
+
+<a id="claim-t-222028"></a>
+- t-222028
+  teiginys: "Apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni gaikštis, buvo išrinkti Romos karaliais Tų pačių metų spalio 21 dieną Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis, dėl nesantarvės vienu metu buvo išrinkti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-201822
+

@@ -57,21 +57,6 @@ Terminas nusako ne vertimą į kitą kalbą, o kirilika rašyto teksto perrašym
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-200401"></a>
-- t-001
-  teiginys: "Bychovco kronikos rankraštis buvo ne vertimas, o kirilica rašyto teksto transkripcija lotyniškai lenkiškais rašmenimis."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys pilnai nusako Bychovco kronikos rankraščio pobūdį kaip transkripciją, o ne vertimą. Citatos lenkiškas užrašas neperkeliamas, nes teiginiui pakanka paaiškinamosios dalies."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Bychovco kronikos rankraštis|Bychovco kronikos rankraštis]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-186193
-
 ## Citatos
 
 - id: c-183739
@@ -98,6 +83,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-186193
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -126,5 +112,17 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+## Teiginiai
+
+<a id="claim-t-210534"></a>
+- t-001
+  teiginys: "Bychovco kronikos rankraštis buvo ne vertimas, o kirilica rašyto teksto transkripcija lotyniškai lenkiškais rašmenimis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys pilnai nusako Bychovco kronikos rankraščio pobūdį kaip transkripciją, o ne vertimą. Citatos lenkiškas užrašas neperkeliamas, nes teiginiui pakanka paaiškinamosios dalies."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Bychovco kronikos rankraštis|Bychovco kronikos rankraštis]]"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+

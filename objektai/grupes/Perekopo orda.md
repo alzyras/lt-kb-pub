@@ -35,10 +35,22 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
 
 ## Teiginiai
 
+<a id="claim-t-211369"></a>
+- t-211369
+  teiginys: "Ir visus tuos metus, kol valdė Kazimieras ir kol gy vas buvo tas chanas Ač-Girėjus, tarp Lietuvos kuni gaikštystės ir Perekopo ordos viešpatavo taika, kadan gi tasai chanas Ač-Girėjus už didžiojo kunigaikščio Kazimiero malonę, kurios dėka jis tapo chanu."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193841
+
 <a id="claim-t-86767"></a>
-- t-001
+- t-86767
   teiginys: "Perekopo ordos chanas Šach Achmedas savo pajėgomis rėmė lietuvius prieš Mendli Girėjų."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "reme -> Lietuviai: 0.96"
   ryšio_patikimumo_lygis: "aukstas"
@@ -79,5 +91,27 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-86767
+
+- id: c-193841
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 132"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 132."
+  citata_originali: |
+    Ir visus tuos metus, kol valdė Kazimieras ir kol gy­
+    vas buvo tas chanas Ač-Girėjus, tarp Lietuvos kuni­
+    gaikštystės ir Perekopo ordos viešpatavo taika, kadan­
+    gi tasai chanas Ač-Girėjus už didžiojo kunigaikščio
+    Kazimiero malonę, kurios dėka jis tapo chanu, veikė
+    Lietuvos valstybės naudai;
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211369
+

@@ -43,25 +43,6 @@ canonical_biography: "Dusburgietis teigia, kad vis dėlto broliai Ditrichas ir G
 
 Dusburgietis teigia, kad vis dėlto broliai Ditrichas ir Giunteris iš Regenšteino, tikri broliai, pasitelkę brolių bei ginklanešių, sugriovė šią pilaitę, o visą įgulą išžudė arba paėmė į nelaisvę.
 
-## Teiginiai
-
-<a id="claim-t-60293"></a>
-- t-001
-  teiginys: "Giunteris iš Regenšteino su broliu Ditrichu ir pasitelktais kariais sugriovė pilaitę prie įeigos į Notangos žemę."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Pilaitė: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Giunteris iš Regenšteino: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pilaitė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Giunteris kartu su kitais sugriovė pilaitę, todėl tai tiesioginis karinis veiksmas prieš ją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Giunteris iš Regenšteino puolė Pilaitė (0.86)"
-  pagrindžia:
-    - c-167456
-
 ## Citatos
 
 - id: c-167456
@@ -89,5 +70,55 @@ Dusburgietis teigia, kad vis dėlto broliai Ditrichas ir Giunteris iš Regenšte
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-203107
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 132"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 132."
+  citata_originali: |
+    Apie tai, kaip Notangos žemę nusiaubė Meiseno markos valdovas Ditrichas
+    Kai 1272 viešpaties metais dievas aiškiai pamatė, kaip kamuojama jo tauta Prūsijos
+    žemėje, ir panoro, atėjus tinkamam laikui, pasigailėti savo žmonių, atvyko į Prūsiją
+    su daugybe karių Meiseno markos valdovas Ditrichas406, šviesiojo kunigaikščio valdovo
+    Henriko sūnus, kurį esame minėję, kalbėdami apie karą su pamedėnais; kai, pasitelkęs
+    magistrą ir brolius, ketino užgriūti priešus, prie įeigos į Notangos žemę rado pilaitę407,
+    ginamą daugybės ginklanešių, kliudžiusių šiam kunigaikščiui žygiuoti į priekį. Vis dėlto
+    broliai Ditrichas ir Giunteris iš Regenšteino, tikri broliai, pasitelkę brolių bei ginklanešių,
+    sugriovė šią pilaitę, o visą įgulą išžudė arba paėmė į nelaisvę. Kai šitai buvo padaryta,
+    minėtasis kunigaikštis, eidamas garbingomis savo tėvo pėdomis, nelyginant bebaimis
+    liūtas, kurio nebaugina jokios kovos, patraukė su savo kariuomene į priekį, nužygiuodamas
+    Notangos žeme ligi Gerkynės prekyvietės408, kur išbuvo tris dienas ir naktis, kiekvieną
+    dieną valydamas Notangą gaisrais bei plėšimais Jis  taip nusiaubė šią [žemę], kad kitais
+    metais ji vėl pasidavė tikėjimui bei broliams.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-221810"></a>
+- t-001
+  teiginys: "Giunteris iš Regenšteino su broliu Ditrichu ir pasitelktais kariais sugriovė pilaitę prie įeigos į Notangos žemę."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Pilaitė: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Giunteris iš Regenšteino: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pilaitė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Giunteris kartu su kitais sugriovė pilaitę, todėl tai tiesioginis karinis veiksmas prieš ją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Giunteris iš Regenšteino puolė Pilaitė (0.86)"
+  pagrindžia:
+    - c-203107
+

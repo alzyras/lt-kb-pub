@@ -34,39 +34,6 @@ media_all_json: |-
 
 1585 m. Upytės pilies teisme Valentinas Tancevičius pranešė apie iš jo dvaro išėjusius valstiečius, tačiau labiausiai rūpinosi jų išsivestais gyvuliais. 1585 m. Upytės pavieto vaznys raportavo apie ieškovo dvare ištuštėjusius valstiečių namus ir bėglių išlupas duris bei langus.
 
-## Teiginiai
-
-<a id="claim-t-203791"></a>
-- t-001
-  teiginys: "1585 m. Upytės pilies teisme Valentinas Tancevičius pranešė apie iš jo dvaro išėjusius valstiečius, tačiau labiausiai rūpinosi jų išsivestais gyvuliais."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  temporaliniai_duomenys: "įvykio data: 1585 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "„Ypač nurodė“ pakeista citatą tiksliau atspindinčia formuluote apie šeimininko rūpestį gyvuliais. Išlaikyti veikėjas, vieta, data ir įvykio objektas."
-  vertinimo_atnaujinta: "2026-07-30T20:06:12Z"
-  pagrindžia:
-    - c-186395
-
-<a id="claim-t-203792"></a>
-- t-002
-  teiginys: "1585 m. Upytės pavieto vaznys raportavo apie ieškovo dvare ištuštėjusius valstiečių namus ir bėglių išlupas duris bei langus."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  temporaliniai_duomenys: "įvykio data: 1585 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškai taisyklingas ir tiesiogiai paremtas citatoje aprašytu vaznio raportu. Naujų faktų nepridėta."
-  pagrindžia:
-    - c-186396
-
 ## Citatos
 
 - id: c-186395
@@ -89,7 +56,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186396
@@ -109,5 +76,39 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-203791"></a>
+- t-001
+  teiginys: "1585 m. Upytės pilies teisme Valentinas Tancevičius pranešė apie iš jo dvaro išėjusius valstiečius, tačiau labiausiai rūpinosi jų išsivestais gyvuliais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1585 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "„Ypač nurodė“ pakeista citatą tiksliau atspindinčia formuluote apie šeimininko rūpestį gyvuliais. Išlaikyti veikėjas, vieta, data ir įvykio objektas."
+  vertinimo_atnaujinta: "2026-07-30T20:06:12Z"
+  pagrindžia:
+    - c-186395
+
+<a id="claim-t-203792"></a>
+- t-002
+  teiginys: "1585 m. Upytės pavieto vaznys raportavo apie ieškovo dvare ištuštėjusius valstiečių namus ir bėglių išlupas duris bei langus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1585 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškai taisyklingas ir tiesiogiai paremtas citatoje aprašytu vaznio raportu. Naujų faktų nepridėta."
+  pagrindžia:
+    - c-186396
+

@@ -38,24 +38,6 @@ Teodoras Narbutas, remdamasis laiško Čekijos karaliui Otokarui II citata, kuri
 
 Teodoras Narbutas, remdamasis laiško Čekijos karaliui Otokarui II citata, kurioje Mindaugas vadinamas krikščioniu, Mindaugui priskyrė 1263 m. bulę Krokuvos vyskupui Prandotai.
 
-## Teiginiai
-
-<a id="claim-t-206121"></a>
-- t-001
-  teiginys: "Teodoras Narbutas, remdamasis laiško Čekijos karaliui Otokarui II citata, kurioje Mindaugas vadinamas krikščioniu, Mindaugui priskyrė 1263 m. bulę Krokuvos vyskupui Prandotai."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1263 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas neaiškus įvardis ir aiškiai įvardytas atribucijos subjektas. Mindaugo apibūdinimas bei bulės priskyrimas išlaikyti kaip Narbuto interpretacija."
-  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
-  pagrindžia:
-    - c-188736
-
 ## Citatos
 
 - id: c-188736
@@ -79,5 +61,24 @@ Teodoras Narbutas, remdamasis laiško Čekijos karaliui Otokarui II citata, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206121"></a>
+- t-001
+  teiginys: "Teodoras Narbutas, remdamasis laiško Čekijos karaliui Otokarui II citata, kurioje Mindaugas vadinamas krikščioniu, Mindaugui priskyrė 1263 m. bulę Krokuvos vyskupui Prandotai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1263 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas neaiškus įvardis ir aiškiai įvardytas atribucijos subjektas. Mindaugo apibūdinimas bei bulės priskyrimas išlaikyti kaip Narbuto interpretacija."
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188736
+

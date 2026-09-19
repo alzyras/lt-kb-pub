@@ -35,21 +35,6 @@ Teodoro Narbuto pasakojimu, Eustacho bendrininkai, išgirdę žmonių nuomonę p
 
 Teodoro Narbuto pasakojimu, Eustacho bendrininkai, išgirdę žmonių nuomonę prieš posadniką ir laikydami save apgautais, Naugardo sueigoje jį puolė ir mirtinai užkapojo.
 
-## Teiginiai
-
-<a id="claim-t-206993"></a>
-- t-001
-  teiginys: "Teodoro Narbuto pasakojimu, Eustacho bendrininkai, išgirdę žmonių nuomonę prieš posadniką ir laikydami save apgautais, Naugardo sueigoje jį puolė ir mirtinai užkapojo."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-189608
-
 ## Citatos
 
 - id: c-189608
@@ -67,5 +52,21 @@ Teodoro Narbuto pasakojimu, Eustacho bendrininkai, išgirdę žmonių nuomonę p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206993"></a>
+- t-001
+  teiginys: "Teodoro Narbuto pasakojimu, Eustacho bendrininkai, išgirdę žmonių nuomonę prieš posadniką ir laikydami save apgautais, Naugardo sueigoje jį puolė ir mirtinai užkapojo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-189608
+

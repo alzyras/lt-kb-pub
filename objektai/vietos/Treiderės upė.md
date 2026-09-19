@@ -47,87 +47,6 @@ historical_names: []
 
 Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Rygos miestiečių pakviestas, užėmė Karkuso pilį550, kur paėmė į nelaisvę 4 brolius bei jų šeimyną, o pilies apylinkes nusiaubė, degindamas bei plėšdamas; kai jau susirengė grįžti namo, brolis Brunonas. Dusburgietis teigia, kad 551 Dab. Gauja, upė Latvijoje. Naujojo Malūno pilį.
 
-## Teiginiai
-
-<a id="claim-t-58645"></a>
-- t-001
-  teiginys: "1298 m. birželio 1 d. Livonijos magistras Brunonas užpuolė Vytenį pajūryje prie Treiderės upės."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Treiderės upė: 0.54"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Teutonai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Treiderės upė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Brunonas buvo Teutonų ordino brolis, tačiau pats Brunonas nėra allowed_candidates sąraše, todėl ryšys su grupe yra netiesioginis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Teutonai puolė Treiderės upė (0.54)"
-  temporaliniai_duomenys: "įvykio data: 1298 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus faktinis sakinys apie Treiderės upę ir atitinka citatos duomenis."
-  pagrindžia:
-    - c-59277
-
-<a id="claim-t-185164"></a>
-- t-002
-  teiginys: "Kojelavičiaus pasakojime magistras Brunonas prie Treiderės upės netoli Livonijos įlankos užpuolė grobiu apsikrovusius siaubėjus."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Treiderės upė: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Brunonas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Treiderės upė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Brunono puolimo vieta tiesiogiai nurodyta prie Treiderės upės."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-168525
-
-<a id="claim-t-196748"></a>
-- t-003
-  teiginys: "Kojelavičius vaizduoja, kad magistras Brunonas prie Treiderės upės netoli Livonijos įlankos nirtulingai užpuolė grobiu apsikrovusius siaubėjus."
-  atnaujinta: "2026-07-13 01:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-168525
-
-<a id="claim-t-196749"></a>
-- t-004
-  teiginys: "Kojelavičiaus pasakojime lietuviai prie Treiderės upės turėjo kautis, nes jūra, upė ir puolantys priešai jiems nepaliko vilties pabėgti."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-178888
-
-<a id="claim-t-205825"></a>
-- t-005
-  teiginys: "Teodoro Narbuto aprašyme birželio 1 d. Brunonas prie Treiderės upės pavijo stovyklavusius lietuvius, atsiėmė belaisvius ir nukovė aštuonis šimtus žmonių."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
-  pagrindžia:
-    - c-188440
-
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Kojelavičiaus pasakojime magistras Brunonas prie Treiderės upės netoli Livonijos įlankos užpuolė grobiu apsikrovusius siaubėjus.'
@@ -180,8 +99,6 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-168525
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -204,9 +121,9 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-003
+  pagrindžia:
+    - t-185164
+    - t-196748
 
 - id: c-178888
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -229,8 +146,8 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-196749
 
 - id: c-188440
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -252,5 +169,85 @@ Dusburgietis teigia, kad 1298 viešpaties metais Vytenis, lietuvių karalius, Ry
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-205825
+
+## Teiginiai
+
+<a id="claim-t-225715"></a>
+- t-001
+  teiginys: "1298 m. birželio 1 d. Livonijos magistras Brunonas užpuolė Vytenį pajūryje prie Treiderės upės."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Treiderės upė: 0.54"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Teutonai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Treiderės upė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Brunonas buvo Teutonų ordino brolis, tačiau pats Brunonas nėra allowed_candidates sąraše, todėl ryšys su grupe yra netiesioginis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Teutonai puolė Treiderės upė (0.54)"
+  temporaliniai_duomenys: "įvykio data: 1298 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus faktinis sakinys apie Treiderės upę ir atitinka citatos duomenis."
+
+<a id="claim-t-185164"></a>
+- t-185164
+  teiginys: "Kojelavičiaus pasakojime magistras Brunonas prie Treiderės upės netoli Livonijos įlankos užpuolė grobiu apsikrovusius siaubėjus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Treiderės upė: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Brunonas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Treiderės upė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Brunono puolimo vieta tiesiogiai nurodyta prie Treiderės upės."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-168525
+
+<a id="claim-t-196748"></a>
+- t-196748
+  teiginys: "Kojelavičius vaizduoja, kad magistras Brunonas prie Treiderės upės netoli Livonijos įlankos nirtulingai užpuolė grobiu apsikrovusius siaubėjus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-168525
+
+<a id="claim-t-196749"></a>
+- t-196749
+  teiginys: "Kojelavičiaus pasakojime lietuviai prie Treiderės upės turėjo kautis, nes jūra, upė ir puolantys priešai jiems nepaliko vilties pabėgti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-178888
+
+<a id="claim-t-205825"></a>
+- t-205825
+  teiginys: "Teodoro Narbuto aprašyme birželio 1 d. Brunonas prie Treiderės upės pavijo stovyklavusius lietuvius, atsiėmė belaisvius ir nukovė aštuonis šimtus žmonių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
+  pagrindžia:
+    - c-188440
+

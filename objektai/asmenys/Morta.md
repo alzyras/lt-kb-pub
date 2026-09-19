@@ -42,41 +42,6 @@ canonical_biography: "Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindauga
 
 Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir žmonai Mortai krikštą, o sau – karaliaus karūną.
 
-## Teiginiai
-
-<a id="claim-t-19156"></a>
-- t-001
-  teiginys: "1251 m. pavasarį arba vasaros pradžioje Morta kartu su Mindaugu gavo krikštą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_zmona -> Mindaugas (valdovas, XIII a.): 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Morta: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Morta tiesiogiai įvardyta Mindaugo žmona."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Morta buvo žmona Mindaugas (valdovas, XIII a.) (0.94)"
-  temporaliniai_duomenys: "įvykio data: 1251 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys labiau akcentuoja Mindaugą, todėl perrašytas kaip faktas apie Mortą."
-  pagrindžia:
-    - c-21901
-
-<a id="claim-t-205706"></a>
-- t-002
-  teiginys: "Teodoras Narbutas rašo, kad Mindaugui grįžus iš Komos karalienė Morta netrukus per anksti mirė."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
-  pagrindžia:
-    - c-188321
-
 ## Citatos
 
 - id: c-21901
@@ -98,7 +63,7 @@ Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188321
@@ -116,8 +81,44 @@ Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
+
+## Teiginiai
+
+<a id="claim-t-19156"></a>
+- t-001
+  teiginys: "1251 m. pavasarį arba vasaros pradžioje Morta kartu su Mindaugu gavo krikštą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_zmona -> Mindaugas (valdovas, XIII a.): 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Morta: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Morta tiesiogiai įvardyta Mindaugo žmona."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Morta buvo žmona Mindaugas (valdovas, XIII a.) (0.94)"
+  temporaliniai_duomenys: "įvykio data: 1251 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys labiau akcentuoja Mindaugą, todėl perrašytas kaip faktas apie Mortą."
+  pagrindžia:
+    - c-21901
+
+<a id="claim-t-205706"></a>
+- t-002
+  teiginys: "Teodoras Narbutas rašo, kad Mindaugui grįžus iš Komos karalienė Morta netrukus per anksti mirė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188321
+

@@ -28,21 +28,6 @@ Pagal Narbuto minimą Voluinės kronikos aprašymą, Rogvolodas apgulė Minską,
 
 Pagal Narbuto minimą Voluinės kronikos aprašymą, Rogvolodas apgulė Minską, o miestą gynė Volodaro brolis Rostislavas.
 
-## Teiginiai
-
-<a id="claim-t-205368"></a>
-- t-001
-  teiginys: "Pagal Narbuto minimą Voluinės kronikos aprašymą, Rogvolodas apgulė Minską, o miestą gynė Volodaro brolis Rostislavas."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
-  pagrindžia:
-    - c-187975
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pagal Narbuto minimą Voluinės kronikos aprašymą, Rogvolodas apgulė Minską, o miestą gynė Volodaro brolis Rostislavas.'
@@ -79,5 +64,21 @@ Pagal Narbuto minimą Voluinės kronikos aprašymą, Rogvolodas apgulė Minską,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205368"></a>
+- t-001
+  teiginys: "Pagal Narbuto minimą Voluinės kronikos aprašymą, Rogvolodas apgulė Minską, o miestą gynė Volodaro brolis Rostislavas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-187975
+

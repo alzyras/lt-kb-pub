@@ -36,27 +36,6 @@ media_all_json: |-
 
 Valstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudoja kaip kovos su priešiškomis žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gaujomis rezervą ypatinguoju laikotarpiu ar karo metu.“ Antanas Starkus-Montė (1948 m. (Kontržvalgybos žodynas, Maskva, 1972, p. 6-7).
 
-## Teiginiai
-
-<a id="claim-t-41536"></a>
-- t-001
-  teiginys: "KGB kontržvalgybos organai agentus-smogikus laikė rezervu kovai su žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gaujomis karo metu."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Baltija: 0.64"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Agentai-smogikai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Baltija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo agentų-smogikų verbavimą Baltijos šalių teritorijoje, todėl fiksuojamas atsargus grupės ir vietos ryšys."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Agentai-smogikai gyveno Ukraina (0.64); Agentai-smogikai gyveno Baltija (0.64)"
-  temporaliniai_duomenys: "įvykio data: 1940-1950; įvykio data: 1948 m.; įvykio data: 1949 m.; įvykio data: 1950 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-44996
-
 ## Citatos
 
 - id: c-44996
@@ -82,5 +61,27 @@ Valstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-41536"></a>
+- t-001
+  teiginys: "KGB kontržvalgybos organai agentus-smogikus laikė rezervu kovai su žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gaujomis karo metu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Baltija: 0.64"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Agentai-smogikai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Baltija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo agentų-smogikų verbavimą Baltijos šalių teritorijoje, todėl fiksuojamas atsargus grupės ir vietos ryšys."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Agentai-smogikai gyveno Ukraina (0.64); Agentai-smogikai gyveno Baltija (0.64)"
+  temporaliniai_duomenys: "įvykio data: 1940-1950; įvykio data: 1948 m.; įvykio data: 1949 m.; įvykio data: 1950 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-44996
+

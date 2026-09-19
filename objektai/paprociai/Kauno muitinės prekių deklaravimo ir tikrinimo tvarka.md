@@ -45,20 +45,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-202049"></a>
-- t-001
-  teiginys: "Ankstyviausiame iš išlikusių 1495 m. Kauno muitinėje renkamų muitų tvarkos išdėstyme daugiausia rašoma apie pirklių, atvykstančių į Kauną ar iš jo išvykstančių, pareigą prisistatyti muitininkams."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185396
-
 ## Citatos
 
 - id: c-185396
@@ -77,5 +63,20 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202049"></a>
+- t-001
+  teiginys: "Ankstyviausiame iš išlikusių 1495 m. Kauno muitinėje renkamų muitų tvarkos išdėstyme daugiausia rašoma apie pirklių, atvykstančių į Kauną ar iš jo išvykstančių, pareigą prisistatyti muitininkams."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185396
+

@@ -33,21 +33,6 @@ canonical_biography: "Nužymėti šį prekybos kelią padėjo: Kraus."
 
 Nužymėti šį prekybos kelią padėjo: Kraus.
 
-## Teiginiai
-
-<a id="claim-t-194883"></a>
-- t-001
-  teiginys: "Nužymėti šį prekybos kelią padėjo: Kraus."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-177279
-
 ## Citatos
 
 - id: c-177279
@@ -66,5 +51,39 @@ Nužymėti šį prekybos kelią padėjo: Kraus.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-196046
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 166"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 166."
+  citata_originali: |
+    5 Nužymėti šį prekybos kelią padėjo:
+    Kraus.
+    Archiv fiir alte
+    Geographie. Heft III; Didysis Vokietijos žemėlapis, kur vadovas buvo
+    Reichardas, Prie šių aprašymų išdėstyta neabejotinų įrodymų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-213877"></a>
+- t-001
+  teiginys: "Nužymėti šį prekybos kelią padėjo: Kraus."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-196046
+

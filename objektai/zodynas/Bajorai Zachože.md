@@ -28,21 +28,6 @@ Iš čia išaugo dar viena lais vųjų valstiečių rūšis, vadinama bajorais Z
 
 Iš čia išaugo dar viena lais vųjų valstiečių rūšis, vadinama bajorais ZACHOŽE.
 
-## Teiginiai
-
-<a id="claim-t-205553"></a>
-- t-001
-  teiginys: "Iš čia išaugo dar viena lais vųjų valstiečių rūšis, vadinama bajorais ZACHOŽE."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
-  pagrindžia:
-    - c-188082
-
 ## Citatos
 
 - id: c-188082
@@ -60,5 +45,21 @@ Iš čia išaugo dar viena lais vųjų valstiečių rūšis, vadinama bajorais Z
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205553"></a>
+- t-001
+  teiginys: "Iš čia išaugo dar viena lais vųjų valstiečių rūšis, vadinama bajorais ZACHOŽE."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-188082
+

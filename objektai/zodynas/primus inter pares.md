@@ -35,28 +35,6 @@ media_all_json: |-
 
 Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares (pirmas tarp lygiųjų) tarp visų pasiuntinių.
 
-## Teiginiai
-
-<a id="claim-t-22257"></a>
-- t-001
-  teiginys: "Stasys Lozoraitis diplomatijos šefo pareigas aiškino kaip primus inter pares, pirmojo tarp lygiųjų, vaidmenį tarp pasiuntinių."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Stasys Antanas Bačkis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "primus inter pares: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Stasys Antanas Bačkis: mention_match, person, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"primus inter pares\" parinktas kaip owner_note_path. Targetas \"Stasys Antanas Bačkis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1940-1983; įvykio data: 1983 m.; įvykio data: 1983-1991; įvykio data: 1991 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Vardas turi būti išplėstas, o sakinys suformuluotas enciklopediškiau."
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  pagrindžia:
-    - c-24946
-
 ## Citatos
 
 - id: c-24946
@@ -81,5 +59,28 @@ Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares (pir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-22257"></a>
+- t-001
+  teiginys: "Stasys Lozoraitis diplomatijos šefo pareigas aiškino kaip primus inter pares, pirmojo tarp lygiųjų, vaidmenį tarp pasiuntinių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Stasys Antanas Bačkis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "primus inter pares: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Stasys Antanas Bačkis: mention_match, person, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"primus inter pares\" parinktas kaip owner_note_path. Targetas \"Stasys Antanas Bačkis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1940-1983; įvykio data: 1983 m.; įvykio data: 1983-1991; įvykio data: 1991 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Vardas turi būti išplėstas, o sakinys suformuluotas enciklopediškiau."
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  pagrindžia:
+    - c-24946
+

@@ -42,21 +42,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-194808"></a>
-- t-001
-  teiginys: "Šios rūšies paminklai buvo labiausiai naikinami Lietuvai priimant krikščionių tikėjimą; ypač atvertėjai - kryžiuočių ir kalavijuočių riteriai griovė, naikino, skandino viską, kas tik nors kiek buvo susiję su stabmeldiškųjų dievų vaizdavimu."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-177204
-
 ## Citatos
 
 - id: c-177204
@@ -78,5 +63,42 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-198767
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 259"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 259."
+  citata_originali: |
+    Šios rūšies paminklai buvo labiausiai naikinami Lietuvai
+    priimant krikščionių tikėjimą; ypač atvertėjai - kryžiuočių ir
+    kalavijuočių riteriai griovė, naikino, skandino viską, kas tik nors
+    kiek buvo susiję su stabmeldiškųjų dievų vaizdavimu. Mūsų
+    upės, ežerai ir pelkės ne vienoje vietoje slepia dievų stabus iš
+    akmens ir metalo.
+    Prilvico stabai saugomi Raceburgo bibliotekoje ir Nauja­
+    jame Brandenburge, Sponholco kabinete**.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-218908"></a>
+- t-001
+  teiginys: "Šios rūšies paminklai buvo labiausiai naikinami Lietuvai priimant krikščionių tikėjimą; ypač atvertėjai - kryžiuočių ir kalavijuočių riteriai griovė, naikino, skandino viską, kas tik nors kiek buvo susiję su stabmeldiškųjų dievų vaizdavimu."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-198767
+

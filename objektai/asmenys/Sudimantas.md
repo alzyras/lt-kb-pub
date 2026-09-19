@@ -46,10 +46,23 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
 
 ## Teiginiai
 
+<a id="claim-t-206392"></a>
+- t-006
+  teiginys: "Sudimantas dokumente įvardijamas kaip svainis ir siejamas su Vėžiške, kurią Teodoras Narbutas atsargiai tapatina su Eišiškėmis."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189007
+
 <a id="claim-t-87582"></a>
-- t-001
+- t-87582
   teiginys: "Per puolimą sučiuptas lietuvių vadas Sudimantas prūsų buvo nuteistas pakarti kaip išdavikas."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Prūsai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -63,9 +76,9 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
     - c-83562
 
 <a id="claim-t-87583"></a>
-- t-002
+- t-87583
   teiginys: "Sudimantas vadovavo pilies sargybai ir sutrukdė Vytauto šalininkams užimti Vilnių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyne -> Vilnius: 0.84"
   ryšio_patikimumo_lygis: "aukstas"
@@ -80,9 +93,9 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
     - c-83561
 
 <a id="claim-t-206389"></a>
-- t-003
+- t-206389
   teiginys: "Teodoras Narbutas Sudimantą apibūdina kaip aukštos kilmės lietuvių didiką ir Eišiškių tėvonį."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -93,9 +106,9 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
     - c-189004
 
 <a id="claim-t-206390"></a>
-- t-004
+- t-206390
   teiginys: "Senoji Prūsijos kronika Sudimantą vadino Vytauto svainiu, o Teodoras Narbutas spėjo, kad juos siejo giminystė."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -106,9 +119,9 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
     - c-189005
 
 <a id="claim-t-206391"></a>
-- t-005
+- t-206391
   teiginys: "Teodoras Narbutas aprašo Sudimantą kaip Vytauto svainį ir kadaise jo bičiulį emigracijoje; mūšyje prie Paparčių jis pateko į nelaisvę ir buvo pakartas už kojų."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -117,19 +130,6 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
   vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
   pagrindžia:
     - c-189006
-
-<a id="claim-t-206392"></a>
-- t-006
-  teiginys: "Sudimantas dokumente įvardijamas kaip svainis ir siejamas su Vėžiške, kurią Teodoras Narbutas atsargiai tapatina su Eišiškėmis."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
-  pagrindžia:
-    - c-189007
 
 ## Citatos
 
@@ -158,8 +158,8 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-87583
 
 - id: c-83562
   autorius: "Michał Baliński"
@@ -183,8 +183,8 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-87582
 
 - id: c-189004
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -200,8 +200,8 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-206389
 
 - id: c-189005
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -215,8 +215,8 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-206390
 
 - id: c-189006
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -234,8 +234,8 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-206391
 
 - id: c-189007
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -253,9 +253,11 @@ Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovav�
     mūsų svainis, Sudimantas iš Vėžiškės (Eišiškių? -T. N), įsakė­
     me mūsų antspaudus prikabinti
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-16 22:50"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
+

@@ -35,12 +35,25 @@ Justinas imperatoriui pagoniui Antoninui Pijui (138–161) rašė: [D]ieną, vad
 
 Justinas imperatoriui pagoniui Antoninui Pijui (138–161) rašė: [D]ieną, vadinamą Saulės diena, toje pačioje vietoje susirenka visi, gyvenantys miestuose bei kaimuose.
 
+## Citatos
+
+- id: c-185922
+  autorius: "Rimvydas Laužikas"
+  šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
+  puslapiai: "PDF 6"
+  indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 6."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-26 20:29"
+  pagrindžia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-202564"></a>
 - t-001
   teiginys: "Justinas imperatoriui pagoniui Antoninui Pijui (138–161) rašė: [D]ieną, vadinamą Saulės diena, toje pačioje vietoje susirenka visi, gyvenantys miestuose bei kaimuose."
-  atnaujinta: "2026-07-26 20:37"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -56,15 +69,3 @@ Justinas imperatoriui pagoniui Antoninui Pijui (138–161) rašė: [D]ieną, vad
   pagrindžia:
     - c-185922
 
-## Citatos
-
-- id: c-185922
-  autorius: "Rimvydas Laužikas"
-  šaltinis: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.)"
-  puslapiai: "PDF 6"
-  indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 6."
-  citatos_rezimas: "indeksas"
-  statusas: verified
-  atnaujinta: "2026-07-26 20:29"
-  pagrindzia:
-    - t-001

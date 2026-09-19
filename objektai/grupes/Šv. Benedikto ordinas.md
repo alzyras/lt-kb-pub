@@ -34,36 +34,6 @@ Benedikto ordiną. 1008 m. Brunonas į Kijevą vyko su dviem benediktinų ordino
 
 Benedikto ordiną. 1008 m. Brunonas į Kijevą vyko su dviem benediktinų ordino vienuoliais Jonu ir Benediktu bei šešiolika kitų krikščionių.
 
-## Teiginiai
-
-<a id="claim-t-205116"></a>
-- t-001
-  teiginys: "1008 m. Brunonas į Kijevą vyko su dviem benediktinų ordino vienuoliais Jonu ir Benediktu bei šešiolika kitų krikščionių."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1008 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškai taisyklingas sakinys su aiškiu subjektu, veiksmais, data ir benediktinų ordino paminėjimu. Papildoma atribucija nereikalinga, nes perteikiamas konkretus įvykis."
-  pagrindžia:
-    - c-188110
-
-<a id="claim-t-205514"></a>
-- t-002
-  teiginys: "Benedikto ordiną."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-188157
-
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: '1008 m. Brunonas į Kijevą vyko su dviem benediktinų ordino vienuoliais Jonu ir Benediktu bei šešiolika kitų krikščionių.'
@@ -98,7 +68,7 @@ Benedikto ordiną. 1008 m. Brunonas į Kijevą vyko su dviem benediktinų ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188157
@@ -115,5 +85,36 @@ Benedikto ordiną. 1008 m. Brunonas į Kijevą vyko su dviem benediktinų ordino
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-205116"></a>
+- t-001
+  teiginys: "1008 m. Brunonas į Kijevą vyko su dviem benediktinų ordino vienuoliais Jonu ir Benediktu bei šešiolika kitų krikščionių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1008 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškai taisyklingas sakinys su aiškiu subjektu, veiksmais, data ir benediktinų ordino paminėjimu. Papildoma atribucija nereikalinga, nes perteikiamas konkretus įvykis."
+  pagrindžia:
+    - c-188110
+
+<a id="claim-t-205514"></a>
+- t-002
+  teiginys: "Benedikto ordiną."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-188157
+

@@ -71,9 +71,11 @@ Romėnas Giovanni Maria Gaili su Pietro Peretti paskirstė Antakalnio bažnyčio
     gausą planą, tvarką, sistemą — tai jau pačių skulptorių dekoratorių nuo­
     pelnas.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

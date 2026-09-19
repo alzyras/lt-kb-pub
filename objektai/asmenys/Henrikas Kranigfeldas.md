@@ -35,20 +35,6 @@ Henrikas Kranigfeldas buvo Rastenburgo konvento valdytojas.
 
 Henrikas Kranigfeldas buvo Rastenburgo konvento valdytojas.
 
-## Teiginiai
-
-<a id="claim-t-206998"></a>
-- t-001
-  teiginys: "Henrikas Kranigfeldas buvo Rastenburgo konvento valdytojas."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189613
-
 ## Citatos
 
 - id: c-189613
@@ -65,5 +51,20 @@ Henrikas Kranigfeldas buvo Rastenburgo konvento valdytojas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206998"></a>
+- t-001
+  teiginys: "Henrikas Kranigfeldas buvo Rastenburgo konvento valdytojas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189613
+

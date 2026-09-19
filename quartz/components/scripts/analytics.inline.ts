@@ -31,8 +31,6 @@ type AnalyticsWindow = Window & {
 
 const analyticsWindow = window as AnalyticsWindow
 const TAG_ID = "__LI_GA4_TAG_ID__"
-const CONSENT_KEY = "li.analytics.consent.v1"
-type AnalyticsConsent = "unknown" | "granted" | "denied"
 const EXPLORATION_KEY = `li.analytics.exploration.${ANALYTICS_SCHEMA_VERSION}`
 const SESSION_DEDUPE_KEY = `li.analytics.dedupe.${ANALYTICS_SCHEMA_VERSION}`
 const PRODUCTION_HOSTS = new Set(["lietuvosistorija.eu", "www.lietuvosistorija.eu"])
@@ -76,74 +74,7 @@ const EXHIBITION_PARAM_ALLOWLIST = new Set([
 ])
 
 function analyticsEnabled(): boolean {
-  if (!PRODUCTION_HOSTS.has(location.hostname) || navigator.webdriver) return false
-  return readConsent() === "granted"
-}
-
-function readConsent(): AnalyticsConsent {
-  try {
-    const value = localStorage.getItem(CONSENT_KEY)
-    return value === "granted" || value === "denied" ? value : "unknown"
-  } catch {
-    return "unknown"
-  }
-}
-
-function deleteAnalyticsCookies() {
-  for (const cookie of document.cookie.split(";")) {
-    const name = cookie.split("=", 1)[0]?.trim()
-    if (!name || (!name.startsWith("_ga") && !name.startsWith("_gid"))) continue
-    document.cookie = `${name}=; Max-Age=0; path=/`
-    document.cookie = `${name}=; Max-Age=0; path=/; domain=.${location.hostname}`
-  }
-}
-
-function saveConsent(value: Exclude<AnalyticsConsent, "unknown">) {
-  try {
-    localStorage.setItem(CONSENT_KEY, value)
-  } catch {
-    // A blocked storage implementation must not prevent navigation.
-  }
-  if (value === "denied") deleteAnalyticsCookies()
-  document.dispatchEvent(new CustomEvent("analytics-consent-change", { detail: value }))
-}
-
-function renderConsentUi() {
-  if (!PRODUCTION_HOSTS.has(location.hostname) || document.querySelector("[data-analytics-consent]")) {
-    return
-  }
-  const root = document.createElement("aside")
-  root.dataset.analyticsConsent = "true"
-  root.setAttribute("aria-label", "Analitikos pasirinkimai")
-  root.style.cssText = "position:fixed;inset:auto 1rem 1rem 1rem;z-index:10000;max-width:42rem;margin:auto;padding:1rem;background:var(--light,#fff);color:var(--dark,#111);border:1px solid currentColor;box-shadow:0 8px 30px #0003"
-  const text = document.createElement("p")
-  text.textContent = "Naudojame pasirenkamą Google Analytics, kad suprastume, kaip naudojama svetainė."
-  const allow = document.createElement("button")
-  allow.type = "button"
-  allow.textContent = "Leisti analitiką"
-  const deny = document.createElement("button")
-  deny.type = "button"
-  deny.textContent = "Ne, ačiū"
-  const settings = document.createElement("button")
-  settings.type = "button"
-  settings.textContent = "Privatumo nustatymai"
-  const actions = document.createElement("div")
-  actions.append(allow, deny, settings)
-  root.append(text, actions)
-  document.body.append(root)
-  const update = (value: Exclude<AnalyticsConsent, "unknown">) => {
-    saveConsent(value)
-    text.textContent = value === "granted" ? "Analitika leidžiama." : "Analitika išjungta."
-    allow.hidden = true
-    deny.hidden = true
-  }
-  allow.addEventListener("click", () => update("granted"))
-  deny.addEventListener("click", () => update("denied"))
-  settings.addEventListener("click", () => {
-    const current = readConsent()
-    if (current === "granted") update("denied")
-    else update("granted")
-  })
+  return PRODUCTION_HOSTS.has(location.hostname) && !navigator.webdriver
 }
 
 function siteLanguage(): string {
@@ -848,13 +779,4 @@ function installAnalytics() {
   document.head.appendChild(script)
 }
 
-document.addEventListener("analytics-consent-change", () => {
-  if (readConsent() === "granted") installAnalytics()
-  else if (analyticsWindow.liAnalytics) {
-    delete analyticsWindow.liAnalytics
-    deleteAnalyticsCookies()
-  }
-})
-
-if (readConsent() === "granted") installAnalytics()
-else renderConsentUi()
+installAnalytics()

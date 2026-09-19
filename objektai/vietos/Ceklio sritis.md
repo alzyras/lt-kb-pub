@@ -36,25 +36,6 @@ historical_names: []
 
 Vadinamoji Ceklio sritis, kuri priskiriama Kuršiams, siekė ir dešinįjį Ventos krantą (A.
 
-## Teiginiai
-
-<a id="claim-t-32098"></a>
-- t-001
-  teiginys: "Kuršiams priskiriama Ceklio sritis istorinių laikų pradžioje siekė dešinįjį Ventos krantą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kuršiai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ceklio sritis: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Kuršiai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Ceklio sritis tiesiogiai pasakyta kaip priskiriama Kuršiams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Ceklio sritis priklausė Kuršiai (0.88)"
-  pagrindžia:
-    - c-33812
-
 ## Citatos
 
 - id: c-33812
@@ -75,5 +56,25 @@ Vadinamoji Ceklio sritis, kuri priskiriama Kuršiams, siekė ir dešinįjį Vent
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-32098"></a>
+- t-001
+  teiginys: "Kuršiams priskiriama Ceklio sritis istorinių laikų pradžioje siekė dešinįjį Ventos krantą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kuršiai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ceklio sritis: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Kuršiai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Ceklio sritis tiesiogiai pasakyta kaip priskiriama Kuršiams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Ceklio sritis priklausė Kuršiai (0.88)"
+  pagrindžia:
+    - c-33812
+

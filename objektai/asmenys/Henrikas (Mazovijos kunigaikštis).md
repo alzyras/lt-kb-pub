@@ -36,25 +36,6 @@ canonical_biography: "Nepaprastas Rin­ gailės grožis taip pakerėjo Mazovijos
 
 Nepaprastas Rin­ gailės grožis taip pakerėjo Mazovijos kunigaikštį Henriką, su slaptu Vladislovo Jogailos pavedimu atvykusį pas Vytautą, kad, nepaisydamas padėties, kurią jau turėjo būdamas nomi­ nuotas į Plocko vyskupus, nė kiek nedvejojo imdamas į žmo­ nas.
 
-## Teiginiai
-
-<a id="claim-t-87685"></a>
-- t-001
-  teiginys: "Mazovijos kunigaikštis Henrikas, atvykęs pas Vytautą su slaptu Jogailos pavedimu, vedė Ringailę."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "vede -> Ringailė: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas (Mazovijos kunigaikštis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ringailė: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Henrikas vedė Ringailę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Henrikas (Mazovijos kunigaikštis) vedė Ringailė (0.96)"
-  pagrindžia:
-    - c-83664
-
 ## Citatos
 
 - id: c-83664
@@ -81,8 +62,28 @@ Nepaprastas Rin­ gailės grožis taip pakerėjo Mazovijos kunigaikštį Henrik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Ringailė]]
+
+## Teiginiai
+
+<a id="claim-t-87685"></a>
+- t-001
+  teiginys: "Mazovijos kunigaikštis Henrikas, atvykęs pas Vytautą su slaptu Jogailos pavedimu, vedė Ringailę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "vede -> Ringailė: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Henrikas (Mazovijos kunigaikštis): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Ringailė: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Henrikas vedė Ringailę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Henrikas (Mazovijos kunigaikštis) vedė Ringailė (0.96)"
+  pagrindžia:
+    - c-83664
+

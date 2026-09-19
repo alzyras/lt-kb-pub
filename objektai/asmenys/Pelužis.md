@@ -49,59 +49,6 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
 
 ## Teiginiai
 
-<a id="claim-t-90002"></a>
-- t-001
-  teiginys: "Pelužis su Karaliaučiaus komtūro paskirtais vyrais užpuolė savo viešpaties sodybą ir nužudė 70 kunigaikščių."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Martynas iš Golino: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pelužis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Martynas iš Golino: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Martynas buvo paskirtas veikti kartu su Pelužiu keršto žygyje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Pelužis buvo sąjungininkas su Martynas iš Golino (0.62)"
-  pagrindžia:
-    - c-85906
-
-<a id="claim-t-90003"></a>
-- t-002
-  teiginys: "Pelužio prašymu Karaliaučiaus komtūras jam paskyrė Martyną iš Golino, Konradą Velnią, Stavimėlą ir 20 kitų vyrų."
-  atnaujinta: "2026-07-26 17:49"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pelužis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Martynas iš Golino: mention_match, person, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pelužis\" parinktas kaip owner_note_path. Targetas \"Martynas iš Golino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1286 m.; įvykio data: apie 1286 m.; įvykio data: 1289 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Citata palaiko konkretų faktą, bet pradinė formuluotė turi išnašos ir OCR triukšmo."
-  pagrindžia:
-    - c-85907
-
-<a id="claim-t-90004"></a>
-- t-003
-  teiginys: "Lietuvis Pelužis, įžeistas savo viešpaties kunigaikščio, atvyko pas Sembos žemės brolius ir siekė atkeršyti už patirtas skriaudas."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Semba: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pelužis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Semba: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pelužis tiesiogiai nurodytas atvykęs pas Sembos žemės brolius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Pelužis keliavo į Semba (0.88)"
-  pagrindžia:
-    - c-85906
-
 <a id="claim-t-184817"></a>
 - t-004
   teiginys: "Pelužis apie sumanymą pranešė Karaliaučiaus komtūrui Albertui fon Meisenui, kuris jį parėmė."
@@ -121,17 +68,67 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
   pagrindžia:
     - c-168178
 
-<a id="claim-t-197791"></a>
-- t-005
+<a id="claim-t-222045"></a>
+- t-222045
+  teiginys: "Pelužis buvo lietuvis, kuris dėl konflikto su savo viešpačiu kreipėsi į Sembos žemės brolius."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-202304
+
+<a id="claim-t-213886"></a>
+- t-213886
   teiginys: "Dusiburgas2 primena vardą įžymaus žmogaus, kilusio iš kunigaikščio Pelužio giminės; anot vietinių tyrinėjimų, Lydos apskrityje būta ir kilmingos Pelužių, arba Pelusų, Pelasų, giminės; ten taip pat Pelesos upė ir to paties pavadinimo ežeras, į kurį ji įteka."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-179341
+    - c-194645
+
+<a id="claim-t-220635"></a>
+- t-220635
+  teiginys: "Pelužis buvo viešpaties išgydytas, o plaukai taip jam ataugo, kad nė žymės nebeliko buvusio bjaurumo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-221928"></a>
+- t-221928
+  teiginys: "Pelužio prašymu Karaliaučiaus komtūras jam paskyrė Martyną iš Golino, Konradą Velnią, Stavimėlą ir 20 kitų vyrų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pelužis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Martynas iš Golino: mention_match, person, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pelužis\" parinktas kaip owner_note_path. Targetas \"Martynas iš Golino\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1286 m.; įvykio data: apie 1286 m.; įvykio data: 1289 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Citata palaiko konkretų faktą, bet pradinė formuluotė turi išnašos ir OCR triukšmo."
+
+<a id="claim-t-224272"></a>
+- t-224272
+  teiginys: "Pelužis kasdien kalbėjo tą maldą, pagarbiai tardamas žodžius, ir štai galop užgeso jame nuodėmės deglas ir paliovė jį kamavusios siaubingos pagundos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -211,9 +208,6 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-003
 
 - id: c-85907
   autorius: "Petras Dusburgietis"
@@ -235,8 +229,6 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-168178
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -254,11 +246,12 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
     čių vado planais karių.
   citata_rodoma: "Tegu su kariais netikėtai pasirodąs, iš pa­\nčių lietuvių tikrai netruksią tokių, kurie jį uoliai rem-\nsią. Pelužis, lengvai patikėjęs patarimu, apie viską pra­\nnešė Albertui ton Meisenuį, Karaliaučiaus komtūrui,\nkuris parėmė sumanymą. Žygis nereikalavo didelės ka­\nriuomenės, būtų užtekę negausaus, bet ryžtingo būrio,\nlengvai ginkluotų, bet drąsių, ne per daug besidomin­\nčių vado planais karių."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-179341
@@ -286,5 +279,51 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+
+- id: c-194645
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 196"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 196."
+  citata_originali: |
+    Dabar
+    panagrinėkime naujesnius pėdsakus, liudijančius, kad šių
+    protėvių vardas ne tik nebuvo svetimas Lietuvoje, bet ir
+    įsiamžino įžymių žmonių, giminių asmenvardžiuose, upių,
+    ežerų, gyvenviečių pavadinimuose. Dusiburgas2 primena
+    vardą įžymaus žmogaus, kilusio iš kunigaikščio Pelužio
+    giminės; anot vietinių tyrinėjimų, Lydos apskrityje būta
+    ir kilmingos Pelužių, arba Pelusų, Pelasų, giminės; ten
+    taip pat Pelesos upė ir to paties pavadinimo ežeras, į kurį
+    ji įteka, be to, esama kaimų, senovinių gyvenviečių, yra
+    senoji ir naujoji Pelesa, taip pat Palaškos, esančios toje
+    pačioje apskrityje ir netoli šių vandens telkinių. Netoli
+    šių vietų plytinti gana didelė sritis seniau buvo vadinama
+    Peluzija.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213886
+
+- id: c-202304
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 175"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 175."
+  citata_originali: |
+    Tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo],
+    vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos
+    karaliaus524, atvyko pas Sembos žemės brolius
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222045
+

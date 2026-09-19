@@ -28,21 +28,6 @@ Teodoras Narbutas nurodė aptikęs lotynišką XV amžiaus rankraštį, tikriaus
 
 Teodoras Narbutas nurodė aptikęs lotynišką XV amžiaus rankraštį, tikriausiai verstą iš vokiečių kalbos ir siejamą su Prūsijos karo prie Kazimiero Jogailaičio laikais.
 
-## Teiginiai
-
-<a id="claim-t-207068"></a>
-- t-001
-  teiginys: "Teodoras Narbutas nurodė aptikęs lotynišką XV amžiaus rankraštį, tikriausiai verstą iš vokiečių kalbos ir siejamą su Prūsijos karo prie Kazimiero Jogailaičio laikais."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189683
-
 ## Citatos
 
 - id: c-189683
@@ -68,5 +53,21 @@ Teodoras Narbutas nurodė aptikęs lotynišką XV amžiaus rankraštį, tikriaus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-207068"></a>
+- t-001
+  teiginys: "Teodoras Narbutas nurodė aptikęs lotynišką XV amžiaus rankraštį, tikriausiai verstą iš vokiečių kalbos ir siejamą su Prūsijos karo prie Kazimiero Jogailaičio laikais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189683
+

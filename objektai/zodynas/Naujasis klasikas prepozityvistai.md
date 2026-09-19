@@ -27,17 +27,6 @@ media_all_json: |-
 
 Svarbi tyrinėtojos išvada, jog „susidaro įspūdis, kad jis niekuomet ir nebuvo „tik­ rasis" romantikas - tik „naujasis klasikas".
 
-## Teiginiai
-
-<a id="claim-t-86566"></a>
-- t-001
-  teiginys: "Požiūris į Jono Sniadeckio darbus laikytas romantikų, prepozityvistų ir „naujųjų klasikų“ skirties požymiu."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-82545
-
 ## Citatos
 
 - id: c-82545
@@ -58,5 +47,17 @@ Svarbi tyrinėtojos išvada, jog „susidaro įspūdis, kad jis niekuomet ir neb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-86566"></a>
+- t-001
+  teiginys: "Požiūris į Jono Sniadeckio darbus laikytas romantikų, prepozityvistų ir „naujųjų klasikų“ skirties požymiu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-82545
+

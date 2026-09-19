@@ -40,10 +40,36 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
 
 ## Teiginiai
 
+<a id="claim-t-211478"></a>
+- t-211478
+  teiginys: "Ten dalyvavo ir Lietuvos didikai 66."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-193115
+
+<a id="claim-t-212069"></a>
+- t-212069
+  teiginys: "Lietuvos didikai Lydoje surinko dešimt tūkstančių raitų ir ginkluotų vyrų ir nutarė kautis su totoriais."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-193577
+
 <a id="claim-t-81459"></a>
-- t-001
+- t-81459
   teiginys: "Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Vilniuje didino miesto iškilmingumą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -57,9 +83,9 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
     - c-78080
 
 <a id="claim-t-81460"></a>
-- t-002
+- t-81460
   teiginys: "Kazimiero valdymo laikotarpiu Vilniuje dažnai vyko Lietuvos didikų suvažiavimai ir pasitarimai."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -73,9 +99,9 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
     - c-78080
 
 <a id="claim-t-81461"></a>
-- t-003
+- t-81461
   teiginys: "Lietuvos didikai po Liublino unijos išlaikė stiprią valstybingumo sąmonę ir nenorėjo sutikti su tuo, kas buvo įvykę Liubline."
-  atnaujinta: "2026-05-31 12:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -89,9 +115,9 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
     - c-78082
 
 <a id="claim-t-184556"></a>
-- t-004
+- t-184556
   teiginys: "Lietuvos didikai ir bajorai svarstė rinkti valdovą, kuris asmeniškai rūpintųsi Lietuvos Didžiosios Kunigaikštystės vientisumu."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -108,9 +134,9 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
     - c-167917
 
 <a id="claim-t-184557"></a>
-- t-005
+- t-184557
   teiginys: "Į Brestą kviesti Kazimiero buvo pasiųsti žymūs Lietuvos didikai broliai Mykolas ir Jonas Kęsgailos."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -181,9 +207,9 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
+  pagrindžia:
+    - t-81459
+    - t-81460
 
 - id: c-78082
   autorius: "Zenonas Ivinskis"
@@ -205,8 +231,8 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-81461
 
 - id: c-167917
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -231,8 +257,8 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-184556
 
 - id: c-167918
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -260,5 +286,76 @@ Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Viln
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-184557
+
+- id: c-193115
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 164-165"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 164-165."
+  citata_originali: |
+    paskui į Ordą.
+    169
+
+    Tą pačią žiemą Minske buvo didelis maras, ilgai jis
+    siautė visame krašte.
+    Tą patį rudenį62 Maskvos didysis kunigaikštis Vasi­
+    lijus Ivanovičius pasiuntė savo brolį, kunigaikštį Di-
+    mitrijų Zilką, su juo savo vyriausiąjį vaivadą kuni­
+    gaikštį Fedorą Ivanovičių Belskį ir daugelį kitų vaiva­
+    dų su visomis Maskvos pajėgomis, su kariuomene,
+    kuri jojo raita ir plaukė laivais Volga prieš Kazanės
+    chaną Machmet-Ali M.
+    Taigi atėjo į Kazanę ir apsupo miestą iš visų pu­
+    sių — iš sausumos ir vandens. Prie miesto kareiviai iš­
+    lipo iš laivų j krantą. Ir atjoję raiti totoriai visus iš­
+    mušė, o kiti bebėgdami nuskendo Bjauriajame ežere,
+    o kas pasiliko ant vandens, laivuose, tuos užgriuvo
+    uraganai ir vos ne visus paskandino. Tiktai kunigaikš­
+    tis Dimitrijus su vaivada kunigaikščiu Teodoru su sau­
+    ja žmonių liko galutinai nepražuvę. O kas iš maskvėnų
+    atjojo prie miesto krantų, tuos taip pat bemaž visus
+    išmušė, ir labai mažai kas iš jų pabėgo. Ir Maskvos
+    Didžioji Kunigaikštystė sunkiai pralaimėjo ir neapsa­
+    komai daug neteko; labai maža maskvėnų pargrįžo,
+    nesuskaičiuojama jų daugybė žuvo.
+    Paskui61 karalius Aleksandras paskyrė Lenkijos po­
+    nams seimą Radome rudenį, šventųjų Kozmo ir Dami­
+    jono dieną 65. Ten dalyvavo ir Lietuvos didikai 66.
+    Atvažiavo Lietuvos didikai, norėdami prašyti lenkų
+    ponus, kad juos užtartų karaliui dėl to pykčio, kuriuo
+    tas užsidegė ant Jų, nekaltų, klausydamas Glinskio
+    šmeižtų ir pagal jo valią
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211478
+
+- id: c-193577
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 167"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 167."
+  citata_originali: |
+    Lietuvos didikai, savo akimis matydami pagonis taip
+    žiauriai juos užpuolus ir šaukdamiesi visagalio dievo
+    pagalbos, susiėjo visi į vieną vietą ir susitarę surinko
+    dešimt tūkstančių rinktinių vyrų, raitų ir ginkluotų,
+    kurie tuo metu pasitaikė, nes taip greit negalėjo dau­
+    giau žmonių surinkti 7. Ir ar mažai, ar daug, visi drauge
+    vieningai sumanė ir nutarė, pasitelkus pagalbon dievą,
+    tik eiti ir kautis su totoriais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212069
+

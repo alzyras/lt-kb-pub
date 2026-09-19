@@ -52,12 +52,25 @@ Nenurodyta
 
 Nenurodyta
 
+## Citatos
+
+- id: c-183944
+  autorius: "Domininkas Burba"
+  šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
+  puslapiai: "PDF 7"
+  indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 7."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-26 17:37"
+  pagrindžia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-200612"></a>
 - t-001
   teiginys: "Po Juozapo Sapiegos mirties Steponas(?) Olendskis perėmė kanauninko lobyne likusį turtą ir išsivežė sidabrą, alavą, varį bei staltieses pagal velionio dvasininko registrą."
-  atnaujinta: "2026-07-26 17:50"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "gap::items"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Bernardinai (grupė): 0.83"
@@ -71,15 +84,3 @@ Nenurodyta
   pagrindžia:
     - c-183944
 
-## Citatos
-
-- id: c-183944
-  autorius: "Domininkas Burba"
-  šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
-  puslapiai: "PDF 7"
-  indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 7."
-  citatos_rezimas: "indeksas"
-  statusas: verified
-  atnaujinta: "2026-07-26 17:37"
-  pagrindzia:
-    - t-001

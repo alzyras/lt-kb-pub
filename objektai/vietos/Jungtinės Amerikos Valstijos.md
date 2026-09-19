@@ -47,10 +47,22 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
 
 ## Teiginiai
 
+<a id="claim-t-209617"></a>
+- t-209617
+  teiginys: "Valstijos turi savo pasiuntinius."
+  atnaujinta: "2026-09-12 14:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192237
+
 <a id="claim-t-76352"></a>
-- t-001
+- t-76352
   teiginys: "JAV prezidentas Džordžas Bušas Vilniuje pareiškė, kad Lietuvos priešai taptų ir Jungtinių Amerikos Valstijų priešais."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Džordžas Bušas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -64,9 +76,9 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
     - c-73944
 
 <a id="claim-t-76353"></a>
-- t-002
+- t-76353
   teiginys: "JAV įvestos imigracijos kvotos skatino neprasigyvenusius smulkius mažažemius valstiečius emigruoti daugiausia į Pietų Amerikos šalis."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -83,9 +95,9 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
     - c-73947
 
 <a id="claim-t-76354"></a>
-- t-003
+- t-76354
   teiginys: "Jungtinėse Amerikos Valstijose veikė didžiausia lietuvių išeivijos dalis ir svarbiausios jos organizacijos ALT, PLB bei VLIK."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Amerikos lietuvių taryba (institucija): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -124,8 +136,8 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-76354
 
 - id: c-73944
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -142,8 +154,8 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-76352
 
 - id: c-73947
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -163,5 +175,26 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-76353
+
+- id: c-192237
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 22"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 22."
+  citata_originali: |
+    Danija, Šveica­
+    rija,
+    Holandija,
+    Švedija,
+    Norvegija ir Suv.
+    A. Valstijos turi savo pasiuntinius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209617
+

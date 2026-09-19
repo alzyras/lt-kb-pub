@@ -39,20 +39,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-201368"></a>
-- t-001
-  teiginys: "Tuomi dar popiežius nekakinos, visą dar kraštą, nuo lietuvių ir žemaičių užkariautąjį, patvirtino kryžėjams ir patį jų zokaną į savo užtarymą paėmė, ir ženklui tos savo geradėjystės įdavė popiežius di džiajam mistrui savo žiedą, kaipo vadą savo vyres nybės ir."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184718
-
 ## Citatos
 
 - id: c-184718
@@ -86,5 +72,20 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201368"></a>
+- t-001
+  teiginys: "Tuomi dar popiežius nekakinos, visą dar kraštą, nuo lietuvių ir žemaičių užkariautąjį, patvirtino kryžėjams ir patį jų zokaną į savo užtarymą paėmė, ir ženklui tos savo geradėjystės įdavė popiežius di džiajam mistrui savo žiedą, kaipo vadą savo vyres nybės ir."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184718
+

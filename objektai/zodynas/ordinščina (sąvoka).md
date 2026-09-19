@@ -36,20 +36,6 @@ media_all_json: |-
 
 Nors Kaunui totorių puolimai negrėsė, solidariai su kitais miestais jis turėjo rinkti vadinamąją ordinščinq.
 
-## Teiginiai
-
-<a id="claim-t-201808"></a>
-- t-001
-  teiginys: "Nors Kaunui totorių puolimai negrėsė, solidariai su kitais miestais jis turėjo rinkti vadinamąją ordinščinq."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185155
-
 ## Citatos
 
 - id: c-185155
@@ -67,5 +53,20 @@ Nors Kaunui totorių puolimai negrėsė, solidariai su kitais miestais jis turė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201808"></a>
+- t-001
+  teiginys: "Nors Kaunui totorių puolimai negrėsė, solidariai su kitais miestais jis turėjo rinkti vadinamąją ordinščinq."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185155
+

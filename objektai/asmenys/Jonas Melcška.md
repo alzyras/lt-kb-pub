@@ -88,9 +88,11 @@ Jonas Melcška buvo Gardino pavieto stalininkas.
     3 2 paviete rinkusiam Gardino stalininkui Jonui Melcškai.
   citata_rodoma: "Antrasis dokumentas\" y r a iš Gardino žemės teismo teismo \nk n y g o s Nr. 13. Tai \n1594 m. Gardino seniūno J. Kliukovskio raštas (pakvitavimas), d u o t a s dar 1591 m . m o ­\nk e s č i u s\n3 2 paviete rinkusiam Gardino stalininkui Jonui Melcškai"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

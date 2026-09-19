@@ -45,10 +45,34 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
 
 ## Teiginiai
 
+<a id="claim-t-215969"></a>
+- t-215969
+  teiginys: "Tokiu viešpačiu karaliumi Vladislovu ir jo broliais Dievas apdovanojo Lietuvą būtent ta da, kai jam prireikė stebuklingu būdu atversti tą užkietėjusią stabmeldiškais ir manichėjiškais paklydimais šalį ir įžiebti joje tikėjimo šviesą."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198145
+
+<a id="claim-t-218663"></a>
+- t-218663
+  teiginys: "Narbutas nurodo, kad Lenkijos karalius Vladislovas Jogaila pasiuntė Jeronimą Prahiškį į Lietuvą plėsti krikščionių tikėjimo."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198727
+
 <a id="claim-t-173225"></a>
-- t-001
+- t-173225
   teiginys: "Jogaila sutelkė nemažas pajėgas ir, turėdamas ryšių su Vilniaus miestiečiais, nusprendė užimti Vilnių ir Trakus."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzeme -> Trakai: 0.66"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -63,9 +87,9 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157575
 
 <a id="claim-t-173226"></a>
-- t-002
+- t-173226
   teiginys: "Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -79,9 +103,9 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157562
 
 <a id="claim-t-173227"></a>
-- t-003
+- t-173227
   teiginys: "Jogaila Vilniaus seniūno pareigas pavedė Jonui Olesnickiui, kuris sustiprino abiejų pilių įgulas."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -95,9 +119,9 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157570
 
 <a id="claim-t-173228"></a>
-- t-004
+- t-173228
   teiginys: "1397 m. Vladislovas Jogaila ir Vytautas Vilniaus vyskupui Andriui laidavo dviejų šimtų markių metines pajamas."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -114,9 +138,9 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157561
 
 <a id="claim-t-173229"></a>
-- t-005
+- t-173229
   teiginys: "1401 m. Vladislovas Jogaila iš Vytauto gavo aktą, kad po Vytauto mirties Lietuva ir Rusia pereis karaliaus valdžion."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde -> Lietuva: 0.72"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -134,9 +158,9 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157568
 
 <a id="claim-t-173232"></a>
-- t-006
+- t-173232
   teiginys: "Beginklis Jogaila su visa palyda buvo įkalintas pilyje ir saugomas daugybės kareivių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -150,9 +174,9 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157555
 
 <a id="claim-t-173235"></a>
-- t-007
+- t-173235
   teiginys: "Vladislovas Jogaila paveldėjimo teise vėl suteikė Panerius katedrai ir Vilniaus kapitulai."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Vilniaus kapitula: 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -167,9 +191,9 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157577
 
 <a id="claim-t-173236"></a>
-- t-008
+- t-173236
   teiginys: "Pagal Vladislovo Jogailos potvarkį Vilniaus sargyba ir policija laikinai priklausė pilies tarnybai."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -183,9 +207,9 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157558
 
 <a id="claim-t-173237"></a>
-- t-009
+- t-173237
   teiginys: "Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starodubo kunigaikštį Žygimantą Kęstutaitį."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jogaila (Lenkijos karalius, 1382 m.): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -199,9 +223,9 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157569
 
 <a id="claim-t-173238"></a>
-- t-010
+- t-173238
   teiginys: "Karalius Vladislovas ir karalienė Jadvyga prašė pripažinti Vilnių miestu, o Šv. Stanislovo bažnyčią - katedra."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jadvyga: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -215,9 +239,9 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157560
 
 <a id="claim-t-173239"></a>
-- t-011
+- t-173239
   teiginys: "Vladislovas Jogaila katedrai ir vyskupams skyrė nemažą Vilniaus miesto dalį nuo pilies iki Šv. Mikalojaus kapinių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -231,9 +255,9 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157573
 
 <a id="claim-t-173240"></a>
-- t-012
+- t-173240
   teiginys: "Siekdamas didelės valdžios, Jogaila pirmiausia sutelkė jėgas nusikratyti dėde Kęstučiu."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_priesas -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.84"
   ryšio_patikimumo_lygis: "aukstas"
@@ -248,9 +272,9 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157574
 
 <a id="claim-t-173241"></a>
-- t-013
+- t-173241
   teiginys: "Jogaila siekė Lenkijos sosto ir sumanė sukurti naują galingą valstybę Šiaurės Europoje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_priesas -> Kryžiuočių ordinas: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -265,9 +289,9 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157565
 
 <a id="claim-t-173242"></a>
-- t-014
+- t-173242
   teiginys: "Bajoras Vaidila patarimais ir įtaka rėmė Jogailos siekius, o 1380 m. Prūsijoje ruošė dirvą slaptam sandėriui."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_priesas -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -285,9 +309,9 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157578
 
 <a id="claim-t-173243"></a>
-- t-015
+- t-173243
   teiginys: "Vladislovas Jogaila aplankė Lietuvą diegdamas naujo tikėjimo nuostatus ir, numaldęs bruzdėjimus Baltojoje Rusioje, grįžo į Vilnių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "paskyre -> Skirgaila: 0.94"
   ryšio_patikimumo_lygis: "aukstas"
@@ -302,9 +326,9 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157556
 
 <a id="claim-t-173244"></a>
-- t-016
+- t-173244
   teiginys: "1390 m. Vladislovas Jogaila Vilniaus kapitulai suteikė privilegiją, kuria dovanojo Panerius."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde -> Lietuva: 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -322,9 +346,9 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157564
 
 <a id="claim-t-173245"></a>
-- t-017
+- t-173245
   teiginys: "Vladislovas Jogaila nepasitikėjo Vytautu ir negrąžino jam nei Lietuvos valdymo, nei po Kęstučio mirties priklausiusio paveldo."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde -> Lietuva: 0.68"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -339,9 +363,9 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157563
 
 <a id="claim-t-173246"></a>
-- t-018
+- t-173246
   teiginys: "Jogailos laikais Lietuvos krikštas ir sąjunga su Lenkija nesuteikė Vilniaus miestiečiams palankaus meto įgyti daugiau laisvių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -355,9 +379,9 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157571
 
 <a id="claim-t-173247"></a>
-- t-019
+- t-173247
   teiginys: "Vladislovas Jogaila Vilniuje įsakė statyti Šv. Martyno ir Šv. Jono bažnyčias."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Martynas iš Golino: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -371,9 +395,9 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157559
 
 <a id="claim-t-173248"></a>
-- t-020
+- t-173248
   teiginys: "Vladislovas Jogaila Merkinėje rašytu iškilmingu aktu suteikė Vilniui Magdeburgo teises."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde_miesta -> Vilnius: 0.70"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -388,9 +412,9 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157572
 
 <a id="claim-t-173249"></a>
-- t-021
+- t-173249
   teiginys: "Algirdui užleidus sostą, jo sūnus Jogaila dar tėvui gyvam esant perėmė aukščiausiąją Lietuvos valdžią."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_sunus -> Algirdas (Lietuvos valdovas): 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -405,9 +429,9 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157579
 
 <a id="claim-t-173250"></a>
-- t-022
+- t-173250
   teiginys: "1390 m. lapkritį Vladislovas Jogaila su gausia kariuomene parvyko iš Lenkijos į griuvėsiais virtusį Vilnių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Vilnius: 0.93"
   ryšio_patikimumo_lygis: "aukstas"
@@ -425,9 +449,9 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-157557
 
 <a id="claim-t-194243"></a>
-- t-023
+- t-194243
   teiginys: "Mažai težinoma mums patiems, o Europai visai negirdė ta, istorija, garsi riterių žygiais ir išmintingiausia Mindaugo, Ge dimino, Algirdo, Kęstučio, Jogailos ir Vytauto politika, istorija menkame plote išsitenkančios Tautos, kuri pati viena, savosios pagonybės."
-  atnaujinta: "2026-07-06 12:55"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -437,9 +461,9 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-176839
 
 <a id="claim-t-194244"></a>
-- t-024
+- t-194244
   teiginys: "Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui būtų patvirtintos teisės ir privilegijos į Didžią ją Kunigaikštystę24."
-  atnaujinta: "2026-07-06 12:55"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -449,9 +473,9 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-176840
 
 <a id="claim-t-206413"></a>
-- t-025
+- t-206413
   teiginys: "Pasak T. Narbuto, Vladislovas, išgirdęs apie tėvynę ištikusias negandas, atvyko su dalimi lenkų kariuomenės ir suteikė nusiaubtiems tėvynainiams paguodą, o visą žiemą tiekė grūdus bei ūkio reikmenis."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -462,9 +486,9 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
     - c-189028
 
 <a id="claim-t-206414"></a>
-- t-026
+- t-206414
   teiginys: "Pasak T. Narbuto, Vladislovas Jaską Olesnickį paskyrė Vilniaus seniūnu, o Skirgailą nušalino ir išsiuntė į Kijevą Pietų Rusios vietininku."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -495,8 +519,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-173232
 
 - id: c-157556
   autorius: "Michał Baliński"
@@ -520,8 +544,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-015
+  pagrindžia:
+    - t-173243
 
 - id: c-157557
   autorius: "Michał Baliński"
@@ -551,8 +575,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-022
+  pagrindžia:
+    - t-173250
 
 - id: c-157558
   autorius: "Michał Baliński"
@@ -575,8 +599,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
+  pagrindžia:
+    - t-173236
 
 - id: c-157559
   autorius: "Michał Baliński"
@@ -598,8 +622,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-019
+  pagrindžia:
+    - t-173247
 
 - id: c-157560
   autorius: "Michał Baliński"
@@ -623,8 +647,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-010
+  pagrindžia:
+    - t-173238
 
 - id: c-157561
   autorius: "Michał Baliński"
@@ -652,8 +676,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-173228
 
 - id: c-157562
   autorius: "Michał Baliński"
@@ -677,8 +701,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-173226
 
 - id: c-157563
   autorius: "Michał Baliński"
@@ -702,8 +726,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-017
+  pagrindžia:
+    - t-173245
 
 - id: c-157564
   autorius: "Michał Baliński"
@@ -738,8 +762,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-016
+  pagrindžia:
+    - t-173244
 
 - id: c-157565
   autorius: "Michał Baliński"
@@ -773,8 +797,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-013
+  pagrindžia:
+    - t-173241
 
 - id: c-157568
   autorius: "Michał Baliński"
@@ -798,8 +822,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-173229
 
 - id: c-157569
   autorius: "Michał Baliński"
@@ -825,8 +849,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
+  pagrindžia:
+    - t-173237
 
 - id: c-157570
   autorius: "Michał Baliński"
@@ -848,8 +872,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-173227
 
 - id: c-157571
   autorius: "Michał Baliński"
@@ -870,8 +894,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-018
+  pagrindžia:
+    - t-173246
 
 - id: c-157572
   autorius: "Michał Baliński"
@@ -901,8 +925,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-020
+  pagrindžia:
+    - t-173248
 
 - id: c-157573
   autorius: "Michał Baliński"
@@ -923,8 +947,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-011
+  pagrindžia:
+    - t-173239
 
 - id: c-157574
   autorius: "Michał Baliński"
@@ -952,8 +976,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-012
+  pagrindžia:
+    - t-173240
 
 - id: c-157575
   autorius: "Michał Baliński"
@@ -974,8 +998,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-173225
 
 - id: c-157577
   autorius: "Michał Baliński"
@@ -1001,8 +1025,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-173235
 
 - id: c-157578
   autorius: "Michał Baliński"
@@ -1025,8 +1049,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-014
+  pagrindžia:
+    - t-173242
 
 - id: c-157579
   autorius: "Michał Baliński"
@@ -1063,8 +1087,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-021
+  pagrindžia:
+    - t-173249
 
 - id: c-176839
   autorius: "Michał Baliński"
@@ -1109,8 +1133,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-023
+  pagrindžia:
+    - t-194243
 
 - id: c-176840
   autorius: "Michał Baliński"
@@ -1133,8 +1157,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-024
+  pagrindžia:
+    - t-194244
 
 - id: c-189028
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -1153,8 +1177,8 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-025
+  pagrindžia:
+    - t-206413
 
 - id: c-189029
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -1177,8 +1201,47 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-026
+  pagrindžia:
+    - t-206414
+
+- id: c-198145
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 393"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 393."
+  citata_originali: |
+    Tokiu viešpačiu karaliumi
+    Vladislovu ir jo broliais Dievas apdovanojo Lietuvą būtent ta­
+    da, kai jam prireikė stebuklingu būdu atversti tą užkietėjusią
+    stabmeldiškais ir manichėjiškais paklydimais šalį ir įžiebti joje
+    tikėjimo šviesą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215969
+
+- id: c-198727
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 452"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 452."
+  citata_originali: |
+    Mat
+    Jeronimas Prahiškis, kurį Lenkijos karalius Vladislovas Jogaila
+    buvo nusiuntęs į Lietuvą plėsti krikščionių tikėjimo, rašo” , jog
+    pirmieji lietuviai, pas kuriuos jis atvykęs, garbinę žalčius:
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218663
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

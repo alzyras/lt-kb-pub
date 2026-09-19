@@ -32,19 +32,6 @@ media_all_json: |-
 
 Arbusow : Römischer Arbeitsbericht (Acta Universitatis Latviensis) 1928, 386 p. Plg.
 
-## Teiginiai
-
-<a id="claim-t-31780"></a>
-- t-001
-  teiginys: "L. Arbusowo „Römischer Arbeitsbericht“ 1928 m. išėjo „Acta Universitatis Latviensis“ leidinyje."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1928 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-33616
-
 ## Citatos
 
 - id: c-33616
@@ -66,5 +53,19 @@ Arbusow : Römischer Arbeitsbericht (Acta Universitatis Latviensis) 1928, 386 p.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-31780"></a>
+- t-001
+  teiginys: "L. Arbusowo „Römischer Arbeitsbericht“ 1928 m. išėjo „Acta Universitatis Latviensis“ leidinyje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1928 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-33616
+

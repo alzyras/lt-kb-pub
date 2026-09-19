@@ -34,41 +34,6 @@ canonical_biography: "Narbutas rašė, kad apie 253 metus finų, galindų ir ven
 
 Narbutas rašė, kad apie 253 metus finų, galindų ir venedų būriai kariavo su imperatoriumi Valuzianu, vėliau šlovintu kaip jų nugalėtoju. Esama neabejotinų įrodymų, nes, valdant imperatoriui Galui, apie 253 metus jungtiniai finų, galindų ir venedų būriai kariavo su imperatorium Valuzianu, pirmojo sūnum, kai šis kariavo su sarmatais; jį šlo vino kaip vandalų, finų, galindų ir venedų nugalėto ją.
 
-## Teiginiai
-
-<a id="claim-t-191482"></a>
-- t-001
-  teiginys: "Narbutas rašė, kad apie 253 metus finų, galindų ir venedų būriai kariavo su imperatoriumi Valuzianu, vėliau šlovintu kaip jų nugalėtoju."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "kariavo_pries -> Sarmatai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Valuzianas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Sarmatai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai mini Valuziano karą su sarmatais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Valuzianas kariavo prieš Sarmatai (0.88)"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-174364
-
-<a id="claim-t-197838"></a>
-- t-002
-  teiginys: "Esama neabejotinų įrodymų, nes, valdant imperatoriui Galui, apie 253 metus jungtiniai finų, galindų ir venedų būriai kariavo su imperatorium Valuzianu, pirmojo sūnum, kai šis kariavo su sarmatais; jį šlo vino kaip vandalų, finų, galindų ir venedų nugalėto ją."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-174364
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašė, kad apie 253 metus finų, galindų ir venedų būriai kariavo su imperatoriumi Valuzianu, vėliau šlovintu kaip jų nugalėtoju.'
@@ -129,6 +94,35 @@ Narbutas rašė, kad apie 253 metus finų, galindų ir venedų būriai kariavo s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
+
+## Teiginiai
+
+<a id="claim-t-214806"></a>
+- t-001
+  teiginys: "Esama neabejotinų įrodymų, nes, valdant imperatoriui Galui, apie 253 metus jungtiniai finų, galindų ir venedų būriai kariavo su imperatorium Valuzianu, pirmojo sūnum, kai šis kariavo su sarmatais; jį šlo vino kaip vandalų, finų, galindų ir venedų nugalėto ją."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
+<a id="claim-t-215221"></a>
+- t-002
+  teiginys: "Narbutas rašė, kad apie 253 metus finų, galindų ir venedų būriai kariavo su imperatoriumi Valuzianu, vėliau šlovintu kaip jų nugalėtoju."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "kariavo_pries -> Sarmatai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Valuzianas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Sarmatai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai mini Valuziano karą su sarmatais."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Valuzianas kariavo prieš Sarmatai (0.88)"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+

@@ -35,20 +35,6 @@ Joanikijus Malinovskis daugiausia dėmesio skyrė nusikaltimo sampratai, turiniu
 
 Joanikijus Malinovskis daugiausia dėmesio skyrė nusikaltimo sampratai, turiniui, objektui ir subjektui, taip pat nusikaltimų rūšims bei bausmėms.
 
-## Teiginiai
-
-<a id="claim-t-203703"></a>
-- t-001
-  teiginys: "Joanikijus Malinovskis daugiausia dėmesio skyrė nusikaltimo sampratai, turiniui, objektui ir subjektui, taip pat nusikaltimų rūšims bei bausmėms."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
-  pagrindžia:
-    - c-186307
-
 ## Citatos
 
 - id: c-186307
@@ -69,5 +55,20 @@ Joanikijus Malinovskis daugiausia dėmesio skyrė nusikaltimo sampratai, turiniu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203703"></a>
+- t-001
+  teiginys: "Joanikijus Malinovskis daugiausia dėmesio skyrė nusikaltimo sampratai, turiniui, objektui ir subjektui, taip pat nusikaltimų rūšims bei bausmėms."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186307
+

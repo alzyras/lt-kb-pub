@@ -36,21 +36,6 @@ historical_names: []
 
 Si maldelė buvo labai iškilminga ir visiems žinoma, ji rasta išra šyta runomis ant paminklų prie Penės upės, tarp Elbės ir Ode rio, krašte, apgyventame vilkijų ir veletabų, kuriame anksčiau gyveno herulai.
 
-## Teiginiai
-
-<a id="claim-t-194769"></a>
-- t-001
-  teiginys: "Si maldelė buvo labai iškilminga ir visiems žinoma, ji rasta išra šyta runomis ant paminklų prie Penės upės, tarp Elbės ir Ode rio, krašte, apgyventame vilkijų ir veletabų, kuriame anksčiau gyveno herulai."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-177165
-
 ## Citatos
 
 - id: c-177165
@@ -70,5 +55,53 @@ Si maldelė buvo labai iškilminga ir visiems žinoma, ji rasta išra šyta runo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-198695
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 345"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 345."
+  citata_originali: |
+    Si
+    maldelė buvo labai iškilminga ir visiems žinoma, ji rasta išra­
+    šyta runomis ant paminklų prie Penės upės, tarp Elbės ir Ode­
+    rio, krašte, apgyventame vilkijų ir veletabų, kuriame anksčiau
+    gyveno herulai. Užrašo žodžiai buvo tokie: Perkun. Devvajte.
+    ne. muskis. und man'.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+    - t-002
+
+## Teiginiai
+
+<a id="claim-t-216372"></a>
+- t-001
+  teiginys: "Prie Penės upės ant paminklų buvo rasta runomis išrašyta maldelė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198695
+
+<a id="claim-t-218087"></a>
+- t-002
+  teiginys: "Si maldelė buvo labai iškilminga ir visiems žinoma, ji rasta išra šyta runomis ant paminklų prie Penės upės, tarp Elbės ir Ode rio, krašte, apgyventame vilkijų ir veletabų, kuriame anksčiau gyveno herulai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-198695
+

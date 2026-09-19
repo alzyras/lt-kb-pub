@@ -52,18 +52,6 @@ Estų salos čia minimos kaip 1899 m. estų liaudies dainų rinkimo vieta.
 
 Estų salos šiame šaltinyje yra salų regionas.
 
-## Teiginiai
-
-<a id="claim-t-195491"></a>
-- t-001
-  teiginys: "1899 m. Augustas Robertas Niemi keliavo į Estų salas, kur rinko estų liaudies dainas."
-  atnaujinta: "2026-07-12 04:09"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177914
-
 ## Citatos
 
 - id: c-177914
@@ -99,5 +87,18 @@ Estų salos šiame šaltinyje yra salų regionas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-195491"></a>
+- t-001
+  teiginys: "1899 m. Augustas Robertas Niemi keliavo į Estų salas, kur rinko estų liaudies dainas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177914
+

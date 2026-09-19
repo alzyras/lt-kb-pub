@@ -39,20 +39,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-203695"></a>
-- t-001
-  teiginys: "Valstiečius turėjo teisti patys bajorai, o jiems nesiėmus spręsti bylos galėjo įsikišti valdovo teisėjas."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
-  pagrindžia:
-    - c-186299
-
 ## Santrauka
 
 Valstiečius turėjo teisti patys bajorai, o jiems nesiėmus spręsti bylos galėjo įsikišti valdovo teisėjas.
@@ -75,5 +61,20 @@ Valstiečius turėjo teisti patys bajorai, o jiems nesiėmus spręsti bylos gal�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203695"></a>
+- t-001
+  teiginys: "Valstiečius turėjo teisti patys bajorai, o jiems nesiėmus spręsti bylos galėjo įsikišti valdovo teisėjas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186299
+

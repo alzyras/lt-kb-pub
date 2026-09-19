@@ -43,21 +43,6 @@ Ordino maršalka Henrikas Dusemeris ir Reino falcgrafas su kariuomene atskubėjo
 
 Ordino maršalka Henrikas Dusemeris ir Reino falcgrafas su kariuomene atskubėjo įgulai į pagalbą, o susisiekę naktį puolė lietuvių stovyklą.
 
-## Teiginiai
-
-<a id="claim-t-206100"></a>
-- t-001
-  teiginys: "Ordino maršalka Henrikas Dusemeris ir Reino falcgrafas su kariuomene atskubėjo įgulai į pagalbą, o susisiekę naktį puolė lietuvių stovyklą."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
-  pagrindžia:
-    - c-188715
-
 ## Citatos
 
 - id: c-188715
@@ -79,5 +64,21 @@ Ordino maršalka Henrikas Dusemeris ir Reino falcgrafas su kariuomene atskubėjo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206100"></a>
+- t-001
+  teiginys: "Ordino maršalka Henrikas Dusemeris ir Reino falcgrafas su kariuomene atskubėjo įgulai į pagalbą, o susisiekę naktį puolė lietuvių stovyklą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188715
+

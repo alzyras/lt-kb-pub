@@ -42,54 +42,6 @@ canonical_biography: "Is­ torija yra nustačiusi tokią Kęstučio vaikų eilę
 
 Is­ torija yra nustačiusi tokią Kęstučio vaikų eilę; sūnūs: Patirgas, Butautas, Vaidotas, Vytautas, Tautvila ir Zigmantas; dukte­ rys : Miklausa, Danuta, Ringailė ir vienos vardas nežinomas.
 
-## Teiginiai
-
-<a id="claim-t-96040"></a>
-- t-001
-  teiginys: "Patirgas buvo vyriausias Kęstučio sūnus ir 1348-1365 m. laikotarpiu lydėjo Algirdo bei Kęstučio žygius."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.99"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Patirgas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Patirgas tiesiogiai įvardytas kaip Kęstučio sūnus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Patirgas buvo sūnus Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.99); Patirgas buvo sąjungininkas su Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.75); Patirgas buvo sąjungininkas su Algirdas (Lietuvos valdovas) (0.72)"
-  temporaliniai_duomenys: "įvykio data: 1348-1365; įvykio data: 1365 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Vietoje triukšmingo sąrašo parinktas aiškus citata paremtas faktas apie Patirgą."
-  pagrindžia:
-    - c-36484
-
-<a id="claim-t-206368"></a>
-- t-002
-  teiginys: "Patirgas, pasak Narbuto, įvardijamas kunigaikščiu, vadovavusiu Gardinui, kai kryžiuočių kariauna žygiavo miesto link."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-188983
-
-<a id="claim-t-206369"></a>
-- t-003
-  teiginys: "Patirgo sumanymas, pasak Narbuto, išgelbėjo Gardiną, tačiau nepatiko Kęstučiui, nes Patirgas persikėlė vadu prie Rusios sienos, tikriausiai į Polesę."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-188984
-
 ## Citatos
 
 - id: c-36484
@@ -115,7 +67,7 @@ Is­ torija yra nustačiusi tokią Kęstučio vaikų eilę; sūnūs: Patirgas, B
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188983
@@ -134,7 +86,7 @@ Is­ torija yra nustačiusi tokią Kęstučio vaikų eilę; sūnūs: Patirgas, B
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188984
@@ -150,8 +102,57 @@ Is­ torija yra nustačiusi tokią Kęstučio vaikų eilę; sūnūs: Patirgas, B
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
+
+## Teiginiai
+
+<a id="claim-t-96040"></a>
+- t-001
+  teiginys: "Patirgas buvo vyriausias Kęstučio sūnus ir 1348-1365 m. laikotarpiu lydėjo Algirdo bei Kęstučio žygius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.99"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Patirgas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kęstutis (vakarų pasienio valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Patirgas tiesiogiai įvardytas kaip Kęstučio sūnus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Patirgas buvo sūnus Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.99); Patirgas buvo sąjungininkas su Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.75); Patirgas buvo sąjungininkas su Algirdas (Lietuvos valdovas) (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1348-1365; įvykio data: 1365 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Vietoje triukšmingo sąrašo parinktas aiškus citata paremtas faktas apie Patirgą."
+  pagrindžia:
+    - c-36484
+
+<a id="claim-t-206368"></a>
+- t-002
+  teiginys: "Patirgas, pasak Narbuto, įvardijamas kunigaikščiu, vadovavusiu Gardinui, kai kryžiuočių kariauna žygiavo miesto link."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188983
+
+<a id="claim-t-206369"></a>
+- t-003
+  teiginys: "Patirgo sumanymas, pasak Narbuto, išgelbėjo Gardiną, tačiau nepatiko Kęstučiui, nes Patirgas persikėlė vadu prie Rusios sienos, tikriausiai į Polesę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188984
+

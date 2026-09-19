@@ -60,3 +60,42 @@ Teodoras Cvingeris nuo 1565 m. Bazelyje buvo graikų kalbos profesorius.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207914"></a>
+- t-001
+  teiginys: "Teodoras Cvingeris nuo 1565 m. Bazelyje buvo graikų kalbos profesorius."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  temporaliniai_duomenys: "įvykio data: po 1565 m.; įvykio data: 1565 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190559
+
+## Citatos
+
+- id: c-190559
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 266"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 266."
+  citata_originali: |
+    Teodoras Cvingeris (Teodor Zwinger, 1533-1588) nuo 1565 m. Bazelyje buvo graikų kalbos profeso-
+    rius, vėliau vadovavo etikos ir teorinės medicinos katedroms. Išgarsėjo 1565 m. pirmą kartą išleista
+    studija Theatrum vitae humanae, kurioje pateikė daug žymių žmonių charakteristikų. 1570 m. parašė
+    studijinių kelionių po svečias šalis vadovą, kuriame buvo įdėti Bazelio, Padujos, Paryžiaus, Atėnų miestų
+    aprašymai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+

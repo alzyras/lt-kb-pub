@@ -46,24 +46,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-204050"></a>
-- t-001
-  teiginys: "1475 m. Landshuto vestuvėse dalyvavęs Albertas Jonaitis Manvydas išsiskyrė iš kitų Lenkijos ir Lietuvos ponų 50 žmonių palyda."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  temporaliniai_duomenys: "įvykio data: 1475 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Patikslintas Alberto Jonaičio Manvydo vaidmuo ir išskirtinumas. Įtraukta šaltinyje nurodyta palydos sudėtis, nepridėta kitų faktų."
-  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
-  pagrindžia:
-    - c-186654
-
 ## Santrauka
 
 1475 m. Landshuto vestuvėse dalyvavęs Albertas Jonaitis Manvydas išsiskyrė iš kitų Lenkijos ir Lietuvos ponų 50 žmonių palyda.
@@ -86,5 +68,24 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204050"></a>
+- t-001
+  teiginys: "1475 m. Landshuto vestuvėse dalyvavęs Albertas Jonaitis Manvydas išsiskyrė iš kitų Lenkijos ir Lietuvos ponų 50 žmonių palyda."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1475 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslintas Alberto Jonaičio Manvydo vaidmuo ir išskirtinumas. Įtraukta šaltinyje nurodyta palydos sudėtis, nepridėta kitų faktų."
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186654
+

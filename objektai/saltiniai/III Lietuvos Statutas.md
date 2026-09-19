@@ -30,32 +30,6 @@ media_all_json: |-
 
 II Lietuvos Statutas nurodė į vėliavininkų pareigas surašinėti bajorus ir valdovui paskelbus visuotinį šaukimą organizuoti jį paviete.
 
-## Teiginiai
-
-<a id="claim-t-202275"></a>
-- t-001
-  teiginys: "II Lietuvos Statutas nurodė į vėliavininkų pareigas surašinėti bajorus ir valdovui paskelbus visuotinį šaukimą organizuoti jį paviete."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185622
-
-<a id="claim-t-204086"></a>
-- t-002
-  teiginys: "Tiesiogiai balta rusiškųjų pavietų žemės teismo knygų sudėtis iki III Lietuvos Statuto priėmimo anksčiau tirta ir Lietuvoje\"."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
-  pagrindžia:
-    - c-186690
-
 ## Citatos
 
 - id: c-185622
@@ -71,7 +45,7 @@ II Lietuvos Statutas nurodė į vėliavininkų pareigas surašinėti bajorus ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186690
@@ -92,5 +66,32 @@ II Lietuvos Statutas nurodė į vėliavininkų pareigas surašinėti bajorus ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-202275"></a>
+- t-001
+  teiginys: "II Lietuvos Statutas nurodė į vėliavininkų pareigas surašinėti bajorus ir valdovui paskelbus visuotinį šaukimą organizuoti jį paviete."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185622
+
+<a id="claim-t-204086"></a>
+- t-002
+  teiginys: "Tiesiogiai balta rusiškųjų pavietų žemės teismo knygų sudėtis iki III Lietuvos Statuto priėmimo anksčiau tirta ir Lietuvoje\"."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
+  pagrindžia:
+    - c-186690
+

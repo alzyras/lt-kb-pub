@@ -44,10 +44,22 @@ canonical_biography: "1905 m. sukilimą lietė E. Griškūnaitė 121 , P. Girdzi
 
 ## Teiginiai
 
+<a id="claim-t-207864"></a>
+- t-207864
+  teiginys: "Antanas Tyla nurodo, kad XVI a."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190536
+
 <a id="claim-t-30546"></a>
-- t-001
+- t-30546
   teiginys: "A. Tyla svarstė 1905 m. revoliucijos klausimus ir teikė pastabų dėl lietuviškos knygos istorijos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> L. Mulevičius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -64,9 +76,9 @@ canonical_biography: "1905 m. sukilimą lietė E. Griškūnaitė 121 , P. Girdzi
     - c-32892
 
 <a id="claim-t-204083"></a>
-- t-002
+- t-204083
   teiginys: "Apie lų iticlų mokesčius yra minėjęs A. Tyla, žr.: A. T y 1 a, Lietimui."
-  atnaujinta: "2026-08-07 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -98,8 +110,8 @@ canonical_biography: "1905 m. sukilimą lietė E. Griškūnaitė 121 , P. Girdzi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-30546
 
 - id: c-186687
   šaltinis: "Žemės teismo knygų, išlikusių Baltarusijos nacionaliniame istorijos archyve Minske, apžvalga iki 1600 m.: žemės teismo knygos kaip šaltinis tiriant bajorijos istoriją"
@@ -117,5 +129,32 @@ canonical_biography: "1905 m. sukilimą lietė E. Griškūnaitė 121 , P. Girdzi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-204083
+
+- id: c-190536
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 162"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 162."
+  citata_originali: |
+    Tačiau pašauktinė kariuomenė buvo problemiškas organizmas. Ją
+    sudariusių bajorų nuotaikos greitai keisdavosi, jas veikdavo daugybė įvairių veiksnių:
+    kaip dažnai būdavo skelbiamas visuotinis šaukimas, kiek ilgai reikėdavo gyventi karo
+    lauko stovyklose nekariaujant, kokios ten būdavo buities sąlygos, koks metų laikas, ar
+    geras tais metais užaugo derlius ir kt. Todėl bajorai toli gražu ne visada su noru atsiliep-
+    davo į šaukimą ir nustatytu laiku susirinkdavo, daugėjo savavališkai pasišalinančiųjų iš
+    karo stovyklų. Antanas Tyla nurodo, kad XVI a. pabaigos šaltiniuose atsispindi Lietu-
+    vos Didžiosios Kunigaikštystės bajorijos noras išvengti tiesioginio dalyvavimo visuoti-
+    nio šaukimo, neatsisakant pačios teisės į šią prievolę, nes ji sudarė jiems prielaidas apri-
+    boti karaliaus kontrolę ir jo valdžią.
+  citata_rodoma: "Antanas Tyla nurodo, kad XVI a. pabaigos šaltiniuose atsispindi Lietu-\nvos Didžiosios Kunigaikštystės bajorijos noras išvengti tiesioginio dalyvavimo visuoti-\nnio šaukimo, neatsisakant pačios teisės į šią prievolę, nes ji sudarė jiems prielaidas apri-\nboti karaliaus kontrolę ir jo valdžią."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207864
+

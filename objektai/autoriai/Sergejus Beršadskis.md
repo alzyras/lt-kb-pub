@@ -35,20 +35,6 @@ Sergejus Beršadskis nurodė, kad ne visos aptariamos nuorodos atitiko Lietuvos 
 
 Sergejus Beršadskis nurodė, kad ne visos aptariamos nuorodos atitiko Lietuvos teisines realijas, o kai kurios joms prieštaravo ir buvo skirtos Lenkijos bei Lietuvos teisės normoms palyginti.
 
-## Teiginiai
-
-<a id="claim-t-203708"></a>
-- t-001
-  teiginys: "Sergejus Beršadskis nurodė, kad ne visos aptariamos nuorodos atitiko Lietuvos teisines realijas, o kai kurios joms prieštaravo ir buvo skirtos Lenkijos bei Lietuvos teisės normoms palyginti."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
-  pagrindžia:
-    - c-186312
-
 ## Citatos
 
 - id: c-186312
@@ -69,5 +55,20 @@ Sergejus Beršadskis nurodė, kad ne visos aptariamos nuorodos atitiko Lietuvos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203708"></a>
+- t-001
+  teiginys: "Sergejus Beršadskis nurodė, kad ne visos aptariamos nuorodos atitiko Lietuvos teisines realijas, o kai kurios joms prieštaravo ir buvo skirtos Lenkijos bei Lietuvos teisės normoms palyginti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186312
+

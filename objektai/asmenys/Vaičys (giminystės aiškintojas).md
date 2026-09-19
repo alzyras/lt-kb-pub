@@ -52,38 +52,6 @@ Vaičys vaizduojamas kaip žila galva ir senas žmogus, geriau už kitus aiškin
 
 - giminystės aiškintojas
 
-## Teiginiai
-
-<a id="claim-t-195559"></a>
-- t-001
-  teiginys: "Vaičys apibūdinamas kaip senas žmogus, galintis apie bet kurį dalyką pašnekėti geriau už kitą."
-  atnaujinta: "2026-07-12 06:38"
-  sprendimo_priezastis: "gap::people"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177976
-
-<a id="claim-t-195560"></a>
-- t-002
-  teiginys: "Aiškindamas giminystę Vaičys sakė, kad antroji Lukošiukė buvo jo senelė, nuėjusi į Papušinį už Grigės."
-  atnaujinta: "2026-07-12 06:38"
-  sprendimo_priezastis: "gap::people"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177978
-
-<a id="claim-t-195561"></a>
-- t-003
-  teiginys: "Vaičys aiškino, kad ir broliai, ir nebroliai yra keliai, nes visas svietas yra giminės."
-  atnaujinta: "2026-07-12 06:38"
-  sprendimo_priezastis: "gap::people"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177977
-
 ## Citatos
 
 - id: c-177976
@@ -103,7 +71,7 @@ Vaičys vaizduojamas kaip žila galva ir senas žmogus, geriau už kitus aiškin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177977
@@ -119,7 +87,7 @@ Vaičys vaizduojamas kaip žila galva ir senas žmogus, geriau už kitus aiškin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177978
@@ -138,5 +106,38 @@ Vaičys vaizduojamas kaip žila galva ir senas žmogus, geriau už kitus aiškin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-195559"></a>
+- t-001
+  teiginys: "Vaičys apibūdinamas kaip senas žmogus, galintis apie bet kurį dalyką pašnekėti geriau už kitą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177976
+
+<a id="claim-t-195560"></a>
+- t-002
+  teiginys: "Aiškindamas giminystę Vaičys sakė, kad antroji Lukošiukė buvo jo senelė, nuėjusi į Papušinį už Grigės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177978
+
+<a id="claim-t-195561"></a>
+- t-003
+  teiginys: "Vaičys aiškino, kad ir broliai, ir nebroliai yra keliai, nes visas svietas yra giminės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177977
+

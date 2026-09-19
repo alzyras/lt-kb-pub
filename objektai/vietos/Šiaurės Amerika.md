@@ -46,10 +46,34 @@ Didžioji lietuvių kolonija Šiaurės Amerikoj nuo pat karo pradžios griebėsi
 
 ## Teiginiai
 
+<a id="claim-t-208545"></a>
+- t-208545
+  teiginys: "T. Metju penktajame dešimtmetyje išvyko į Šiaurės Ameriką."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  pagrindžia:
+    - c-191165
+
+<a id="claim-t-217481"></a>
+- t-217481
+  teiginys: "Huronų - Šiaurės Amerikoje, Kanadoje, gyvenančios tau tos - yra labai panašios laidotuvių apeigos."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200926
+
 <a id="claim-t-44042"></a>
-- t-001
+- t-44042
   teiginys: "Lietuvių kolonija Šiaurės Amerikoje nuo karo pradžios šelpė nukentėjusią Lietuvą ir iš pradžių reikalavo autonomijos, vėliau nepriklausomybės."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyveno -> Šiaurės Amerika: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -84,5 +108,45 @@ Didžioji lietuvių kolonija Šiaurės Amerikoj nuo pat karo pradžios griebėsi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-44042
+
+- id: c-191165
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 60"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 60."
+  citata_originali: |
+    T. Metju idėjos (o tai labai
+    svarbu) rado šalininkų ir tarp kitų krikščioniškų religijų išpažintojų.
+    Judėjimas apėmė išties visą liaudį. Plėsdamas savo veiklą, T. Metju
+    penktajame dešimtmetyje išvyko į Šiaurės Ameriką, kur taip pat buvo
+    kuriamos Totai abstinence society" atšakos.
+  citata_rodoma: "Plėsdamas savo veiklą, T. Metju \npenktajame dešimtmetyje išvyko į Šiaurės Ameriką, kur taip pat buvo \nkuriamos Totai abstinence society\" atšakos."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208545
+
+- id: c-200926
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 362"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 362."
+  citata_originali: |
+    Huronų - Šiaurės Amerikoje, Kanadoje, gyvenančios tau­
+    tos - yra labai panašios laidotuvių apeigos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217481
+

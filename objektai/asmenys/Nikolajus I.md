@@ -45,10 +45,51 @@ canonical_biography: "Čartoriskis, susiaurintos Vilniaus švietimo apygardos ri
 
 ## Teiginiai
 
+<a id="claim-t-208524"></a>
+- t-208524
+  teiginys: "Valančiui pradėjus valdyti vyskupiją, Rusijos caru buvo Nikolajus I (1825–1855), kurį Valančius laikė daug bloga katalikams padariusiu."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:44Z"
+  pagrindžia:
+    - c-191144
+
+<a id="claim-t-208525"></a>
+- t-208525
+  teiginys: "Valdant carui Nikolajui I, Kauno gubernijoje uždaryti 29 vienuolynai, trys katalikų bažnyčios paverstos cerkvėmis, uždarytos katalikiškos mokyklos ir atimtas bažnyčių turtas."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:44Z"
+  pagrindžia:
+    - c-191145
+
+<a id="claim-t-208526"></a>
+- t-208526
+  teiginys: "Valdant carui Nikolajui I, 1832 m. įvesta civilinė pamokslų cenzūra."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  temporaliniai_duomenys: "įvykio data: 1832 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra užbaigtas, gramatiškas ir tiesiogiai nurodo 1832 m. įvestą civilinę pamokslų cenzūrą."
+  pagrindžia:
+    - c-191146
+
 <a id="claim-t-82633"></a>
-- t-001
+- t-82633
   teiginys: "1855 m., po caro Nikolajaus I mirties ir Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Krymas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -65,9 +106,9 @@ canonical_biography: "Čartoriskis, susiaurintos Vilniaus švietimo apygardos ri
     - c-79097
 
 <a id="claim-t-82634"></a>
-- t-002
+- t-82634
   teiginys: "Įkūrus slaptąją policiją, caro Nikolajaus I priežiūra Vilniaus švietimo apygardoje tapo dar akylesnė."
-  atnaujinta: "2026-06-14 10:46"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -81,9 +122,9 @@ canonical_biography: "Čartoriskis, susiaurintos Vilniaus švietimo apygardos ri
     - c-21921
 
 <a id="claim-t-82635"></a>
-- t-003
+- t-82635
   teiginys: "Po Nikolajaus I mirties 1855 m. ir Rusijos pralaimėjimo Krymo kare imperijoje prasidėjo reformos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Krymas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -121,8 +162,8 @@ canonical_biography: "Čartoriskis, susiaurintos Vilniaus švietimo apygardos ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-82634
 
 - id: c-79097
   autorius: "Michał Baliński"
@@ -146,6 +187,71 @@ canonical_biography: "Čartoriskis, susiaurintos Vilniaus švietimo apygardos ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-003
+  pagrindžia:
+    - t-82633
+    - t-82635
+
+- id: c-191144
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 16"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 16."
+  citata_originali: |
+    Kauno gubernatorius buvo pavaldus
+    Vilniaus generalgubernatoriui, o Kuršo gubernatorius —
+    Rygos generalgubernatoriui.
+    Vysk. M. Valančiui pradėjus valdyti vyskupiją, Ru­
+    sijos caru buvo Nikolajus I (1825—1855 m.) '. Apie jį
+    vysk. M. Valančius rašė, kad jis yra daug pikta katali­
+    kams padaręs 1 2.
+  citata_rodoma: "Vysk. M. Valančiui pradėjus valdyti vyskupiją, Ru­\nsijos caru buvo Nikolajus I (1825—1855 m.) '. Apie jį \nvysk. M. Valančius rašė, kad jis yra daug pikta katali­\nkams padaręs 1 2."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208524
+
+- id: c-191145
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 16"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 16."
+  citata_originali: |
+    Valdant Rusiją carui Nikolajui I, Kauno gubernijoje
+    buvo uždaryti dvidešimt devyni vienuolynai, trys kata­
+    likų bažnyčios paverstos stačiatikių cerkvėmis, uždarytos
+    katalikiškos mokyklos, atimti iš bažnyčių turtai, palie­
+    kant mažas algas ir po žemės sklypelį tik vyskupui, ka­
+    nauninkams, vienuolynams, seminarijai ir klebonams5.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208525
+
+- id: c-191146
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 30"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 30."
+  citata_originali: |
+    Dar valdant carui Nikolajui I, 1832 m. buvo
+    įvesta civilinės valdžios pamokslų cenzūra.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208526
+

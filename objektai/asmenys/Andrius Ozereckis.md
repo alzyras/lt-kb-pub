@@ -60,3 +60,43 @@ Andrius Ozereckis buvo Bogdano Ozereckio tėvas; šaltinyje jis įvardijamas kun
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207996"></a>
+- t-001
+  teiginys: "Andrius Ozereckis buvo Bogdano Ozereckio tėvas; šaltinyje jis įvardijamas kunigaikščiu."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  vertinimo_atnaujinta: "2026-08-18T20:02:07Z"
+  pagrindžia:
+    - c-190389
+
+## Citatos
+
+- id: c-190389
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 180"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 180."
+  citata_originali: |
+    Plūdo prašymai
+    skirti laikinas kitas valdas. Kartais tokie prašytojai atsiliepdavo net po kelerių metų.
+    Iš kunigaikčio Bogdano Ozereckio prašymo sužinome, kad paėmus Polocko pilį
+    pražuvo jo tėvui kunigaikščiui Andriui Ozereckiui 1551.11.16 už gerą karo tarnybą
+    duota valdovo privilegija, suteikusi jam ir jo žmonai leno teise valdyti Dusetų dvarą
+    Utenos valsčiuje.
+  citata_rodoma: "Iš kunigaikčio Bogdano Ozereckio prašymo sužinome, kad paėmus Polocko pilį\npražuvo jo tėvui kunigaikščiui Andriui Ozereckiui 1551.11.16 už gerą karo tarnybą\nduota valdovo privilegija, suteikusi jam ir jo žmonai leno teise valdyti Dusetų dvarą\nUtenos valsčiuje."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+

@@ -44,28 +44,6 @@ historical_names: []
 
 Iki 1362 jis užėmė Smolensko kunigaikštijai priklausantį Mogiliavą, Toropiecą, Mstislavlį ir kt. 156 Toreida, upė 222 Tomas 167, 296, 334, 340, 343; Torno analai 277 Torno taika 325, 336, 342, 343, 345, 353, 355, 358, 360, 366 Toropiecas 264 Toržokas, vietovė 242 Totoraitis J.
 
-## Teiginiai
-
-<a id="claim-t-99915"></a>
-- t-001
-  teiginys: "Iki 1362 m. Algirdas užėmė Smolensko kunigaikštijai priklausiusį Toropiecą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Toropiec: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Toropiec: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Algirdas užėmė Toropiecą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) užėmė Toropiec (0.95); Toropiec priklausė Smolenskas (0.82)"
-  temporaliniai_duomenys: "įvykio data: iki 1362 m.; įvykio data: 1362 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys paremtas, bet reikia aiškaus veikėjo ir taisyklingos datos."
-  pagrindžia:
-    - c-93865
-
 ## Citatos
 
 - id: c-93865
@@ -83,8 +61,31 @@ Iki 1362 jis užėmė Smolensko kunigaikštijai priklausantį Mogiliavą, Toropi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Užėmė Toropiec: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+
+## Teiginiai
+
+<a id="claim-t-99915"></a>
+- t-001
+  teiginys: "Iki 1362 m. Algirdas užėmė Smolensko kunigaikštijai priklausiusį Toropiecą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Toropiec: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Toropiec: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Algirdas užėmė Toropiecą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) užėmė Toropiec (0.95); Toropiec priklausė Smolenskas (0.82)"
+  temporaliniai_duomenys: "įvykio data: iki 1362 m.; įvykio data: 1362 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys paremtas, bet reikia aiškaus veikėjo ir taisyklingos datos."
+  pagrindžia:
+    - c-93865
+

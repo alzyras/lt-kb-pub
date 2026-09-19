@@ -70,9 +70,9 @@ Nenurodyta
     - c-177811
 
 <a id="claim-t-195393"></a>
-- t-002
+- t-195393
   teiginys: "Žiemos šventadieniais sutemus kaimo jaunimas ir nejaunimas rinkdavosi į vieną grįčią giedoti."
-  atnaujinta: "2026-07-12 02:18"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
@@ -80,9 +80,9 @@ Nenurodyta
     - c-177809
 
 <a id="claim-t-195394"></a>
-- t-003
+- t-195394
   teiginys: "Neatėjęs rytą ražončiaus giedoti galėjo būti apkaltintas tinginyste ir išstumtas iš grįčios."
-  atnaujinta: "2026-07-12 02:18"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
@@ -109,8 +109,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-195393
 
 - id: c-177810
   autorius: "M. Katkus"
@@ -125,8 +125,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-195394
 
 - id: c-177811
   autorius: "M. Katkus"
@@ -145,9 +145,11 @@ Nenurodyta
     šventvakarį nėr kur dėtis, namie sėdint nėr kas veikti.
   citata_rodoma: "Vakarinį giedojimą lankyti nesunku: anksti kelti nereikia, ir šventvakarį nėr kur dėtis, namie sėdint nėr kas veikti."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

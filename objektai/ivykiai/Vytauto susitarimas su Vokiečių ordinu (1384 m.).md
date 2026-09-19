@@ -46,34 +46,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-204046"></a>
-- t-001
-  teiginys: "1384 m., per pirmąjį pabėgimą į Ordino teritoriją, Vytautas dokumente įsipareigojo priimti savo ir tėvo žemes iš Vokiečių ordino kaip leną bei tarnauti ordinui."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
-  pagrindžia:
-    - c-186650
-
-<a id="claim-t-204047"></a>
-- t-002
-  teiginys: "Vokiečių ordino didžiojo magistro dokumente Vytautui tie patys feodaliniai principai buvo įtvirtinti tiksliau apibrėžiant feodalinę išmaros teisę."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
-  pagrindžia:
-    - c-186651
-
 ## Santrauka
 
 1384 m., per pirmąjį pabėgimą į Ordino teritoriją, Vytautas dokumente įsipareigojo priimti savo ir tėvo žemes iš Vokiečių ordino kaip leną bei tarnauti ordinui. Vokiečių ordino didžiojo magistro dokumente Vytautui tie patys feodaliniai principai buvo įtvirtinti tiksliau apibrėžiant feodalinę išmaros teisę.
@@ -100,7 +72,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186651
@@ -117,5 +89,34 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-204046"></a>
+- t-001
+  teiginys: "1384 m., per pirmąjį pabėgimą į Ordino teritoriją, Vytautas dokumente įsipareigojo priimti savo ir tėvo žemes iš Vokiečių ordino kaip leną bei tarnauti ordinui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186650
+
+<a id="claim-t-204047"></a>
+- t-002
+  teiginys: "Vokiečių ordino didžiojo magistro dokumente Vytautui tie patys feodaliniai principai buvo įtvirtinti tiksliau apibrėžiant feodalinę išmaros teisę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186651
+

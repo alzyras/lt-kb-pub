@@ -46,79 +46,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-09884"></a>
-- t-001
-  teiginys: "Per Ulos (Čašnikų) mūšį žuvo apie 8000–10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje."
-  atnaujinta: "2026-07-19 16:33"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "dalyvavo_musyje -> Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Žuvusių maskvėnų skaičius tiesiogiai rodo jų dalyvavimą mūšyje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Maskvėnai dalyvavo mūšyje Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.) (0.90)"
-  temporaliniai_duomenys: "mirties data: 1573 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys pagrįstas citatomis, tik aiškiau susietas su note objektu."
-  pagrindžia:
-    - c-11930
-
-<a id="claim-t-09885"></a>
-- t-002
-  teiginys: "Per Ulos (Čašnikų) mūšį Lietuvos didysis etmonas sutelkė smūgį prieš maskvėnų artileriją ir šaulius, o išmušus juos iš pozicijų kilo sumaištis."
-  atnaujinta: "2026-06-13 17:10"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "dalyvavo_musyje -> Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Lietuvių vėliavos pradėjo puolimą šiame mūšyje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Lietuviai dalyvavo mūšyje Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.) (0.86); Lietuviai puolė Maskvėnai (0.84)"
-  pagrindžia:
-    - c-11928
-
-<a id="claim-t-09886"></a>
-- t-003
-  teiginys: "Mūšio pabaigoje maskvėnai buvo triuškinami, dalis jų skendo bandydami perplaukti Ulos upę."
-  atnaujinta: "2026-05-20 21:34"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "dalyvavo_musyje -> Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Maskvėnai buvo mūšio pabaigos triuškinimo objektas, todėl jie dalyvavo Ulos mūšyje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Maskvėnai dalyvavo mūšyje Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.) (0.86)"
-  pagrindžia:
-    - c-11929
-
-<a id="claim-t-09887"></a>
-- t-004
-  teiginys: "Petras Šuiskis pasirinko mūšio vietą prie Ulos upės netoli Čašnikų."
-  atnaujinta: "2026-06-14 10:59"
-  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
-  ryšio_patikimumas: "dalyvavo_musyje -> Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Petras Šuiskis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Petras Šuiskis pasirinko Ulos mūšio vietą ir laukė lietuvių, todėl dalyvavo šiame mūšyje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Petras Šuiskis dalyvavo mūšyje Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.) (0.86); Petras Šuiskis kariavo prieš Lietuviai (0.73)"
-  pagrindžia:
-    - c-11927
-
 ## Citatos
 
 - id: c-11927
@@ -144,7 +71,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-11928
@@ -174,7 +101,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-11929
@@ -194,7 +121,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-11930
@@ -223,7 +150,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-11931
@@ -248,3 +175,77 @@ Nenurodyta
 
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Maskvėnai]]
+
+## Teiginiai
+
+<a id="claim-t-09884"></a>
+- t-001
+  teiginys: "Per Ulos (Čašnikų) mūšį žuvo apie 8000–10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  ryšio_patikimumas: "dalyvavo_musyje -> Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Žuvusių maskvėnų skaičius tiesiogiai rodo jų dalyvavimą mūšyje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Maskvėnai dalyvavo mūšyje Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.) (0.90)"
+  temporaliniai_duomenys: "mirties data: 1573 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys pagrįstas citatomis, tik aiškiau susietas su note objektu."
+  pagrindžia:
+    - c-11930
+
+<a id="claim-t-09885"></a>
+- t-002
+  teiginys: "Per Ulos (Čašnikų) mūšį Lietuvos didysis etmonas sutelkė smūgį prieš maskvėnų artileriją ir šaulius, o išmušus juos iš pozicijų kilo sumaištis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  ryšio_patikimumas: "dalyvavo_musyje -> Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Lietuvių vėliavos pradėjo puolimą šiame mūšyje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuviai dalyvavo mūšyje Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.) (0.86); Lietuviai puolė Maskvėnai (0.84)"
+  pagrindžia:
+    - c-11928
+
+<a id="claim-t-09886"></a>
+- t-003
+  teiginys: "Mūšio pabaigoje maskvėnai buvo triuškinami, dalis jų skendo bandydami perplaukti Ulos upę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  ryšio_patikimumas: "dalyvavo_musyje -> Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Maskvėnai buvo mūšio pabaigos triuškinimo objektas, todėl jie dalyvavo Ulos mūšyje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Maskvėnai dalyvavo mūšyje Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.) (0.86)"
+  pagrindžia:
+    - c-11929
+
+<a id="claim-t-09887"></a>
+- t-004
+  teiginys: "Petras Šuiskis pasirinko mūšio vietą prie Ulos upės netoli Čašnikų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md"
+  ryšio_patikimumas: "dalyvavo_musyje -> Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Petras Šuiskis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Petras Šuiskis pasirinko Ulos mūšio vietą ir laukė lietuvių, todėl dalyvavo šiame mūšyje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Petras Šuiskis dalyvavo mūšyje Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.) (0.86); Petras Šuiskis kariavo prieš Lietuviai (0.73)"
+  pagrindžia:
+    - c-11927
+

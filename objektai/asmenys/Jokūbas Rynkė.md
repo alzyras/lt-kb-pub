@@ -39,20 +39,6 @@ canonical_biography: "Štai 1638 m. Kauno pirklys Laurynas KojaIavičius kratės
 
 Štai 1638 m. Kauno pirklys Laurynas KojaIavičius kratėsi Klaipė dos pirklio Jokūbo Rynkės pretenzijų: pastarasis, būdamas skolingas Kojalavičiui už prekes kelis šimtus auksinų, pasiūlė uŽ jas varpą.
 
-## Teiginiai
-
-<a id="claim-t-202170"></a>
-- t-001
-  teiginys: "Štai 1638 m. Kauno pirklys Laurynas KojaIavičius kratėsi Klaipė dos pirklio Jokūbo Rynkės pretenzijų: pastarasis, būdamas skolingas Kojalavičiui už prekes kelis šimtus auksinų, pasiūlė uŽ jas varpą."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185517
-
 ## Citatos
 
 - id: c-185517
@@ -70,5 +56,20 @@ canonical_biography: "Štai 1638 m. Kauno pirklys Laurynas KojaIavičius kratės
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202170"></a>
+- t-001
+  teiginys: "Štai 1638 m. Kauno pirklys Laurynas KojaIavičius kratėsi Klaipė dos pirklio Jokūbo Rynkės pretenzijų: pastarasis, būdamas skolingas Kojalavičiui už prekes kelis šimtus auksinų, pasiūlė uŽ jas varpą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185517
+

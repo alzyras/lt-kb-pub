@@ -42,17 +42,6 @@ historical_names: []
 
 Be to, šios kautynės sunkiomis žiemos sąlygomis suteikė nejkainojamos patirties būsimiems partizanų vadams ir eiliniams jų dalyviams, padidino pasitikėjimą savo jėgomis, o svarbiausia, žinios apie Dzūkijos partizanų sėkmę paskatino ir visur kitur Lietuvoje.
 
-## Teiginiai
-
-<a id="claim-t-41709"></a>
-- t-001
-  teiginys: "Žinios apie Dzūkijos partizanų sėkmę paskatino kitur Lietuvoje veikusius laisvės kovotojus imtis aktyvesnių veiksmų."
-  atnaujinta: "2026-07-12 10:19"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-45090
-
 ## Citatos
 
 - id: c-45090
@@ -80,5 +69,17 @@ Be to, šios kautynės sunkiomis žiemos sąlygomis suteikė nejkainojamos patir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-41709"></a>
+- t-001
+  teiginys: "Žinios apie Dzūkijos partizanų sėkmę paskatino kitur Lietuvoje veikusius laisvės kovotojus imtis aktyvesnių veiksmų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-45090
+

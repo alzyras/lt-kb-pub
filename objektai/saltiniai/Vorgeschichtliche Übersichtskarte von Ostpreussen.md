@@ -27,24 +27,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad [Hollack E.] Vorgeschichtliche Übersichtskarte von Ostpreussen / Im Auftrage des ostpreussischen Provinzial-Verbandes entworfen und gezeichnet von Emil Hollack.
 
-## Teiginiai
-
-<a id="claim-t-61357"></a>
-- t-001
-  teiginys: "„Vorgeschichtliche Übersichtskarte von Ostpreussen“ Emil Hollack parengė Rytprūsių provincijos sąjungos pavedimu."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Rytprūsiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vorgeschichtliche Übersichtskarte von Ostpreussen: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Rytprūsiai: mention_match, place, gap=72"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vorgeschichtliche Übersichtskarte von Ostpreussen\" parinktas kaip owner_note_path. Targetas \"Rytprūsiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-61989
-
 ## Citatos
 
 - id: c-61989
@@ -61,5 +43,40 @@ Dusburgietis teigia, kad [Hollack E.] Vorgeschichtliche Übersichtskarte von Ost
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-203944
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 264"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 264."
+  citata_originali: |
+    [Hollack E.] Vorgeschichtliche Übersichtskarte von Ostpreussen / Im Auftrage des
+    ostpreussischen Provinzial-Verbandes entworfen und gezeichnet von Emil Hollack.
+    Massstab 1 :300 000 Kilometer.— Glogau—Berlin.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-221714"></a>
+- t-001
+  teiginys: "„Vorgeschichtliche Übersichtskarte von Ostpreussen“ Emil Hollack parengė Rytprūsių provincijos sąjungos pavedimu."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Rytprūsiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vorgeschichtliche Übersichtskarte von Ostpreussen: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Rytprūsiai: mention_match, place, gap=72"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vorgeschichtliche Übersichtskarte von Ostpreussen\" parinktas kaip owner_note_path. Targetas \"Rytprūsiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203944
+

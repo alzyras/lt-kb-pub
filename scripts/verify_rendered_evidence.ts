@@ -2,6 +2,7 @@ import fs from "node:fs"
 import path from "node:path"
 import {
   CITATION_SECTION_TITLES,
+  EvidenceEntry,
   normalizeEvidenceId,
   parseEvidenceSections,
 } from "../quartz/util/citationFilter"
@@ -67,6 +68,89 @@ function claimAssetHtml(pageHtml: string, domKey: string): string | null {
   } catch {
     return null
   }
+}
+
+function objectEvidenceHtml(slug: string): string {
+  const base = path.join(publicRoot, slug, "irodymai")
+  const candidates: string[] = [
+    path.join(publicRoot, `${slug}/irodymai.html`),
+    path.join(base, "index.html"),
+  ]
+  if (fs.existsSync(base)) {
+    for (const entry of fs.readdirSync(base, { withFileTypes: true })) {
+      if (entry.isFile() && entry.name.endsWith(".html")) candidates.push(path.join(base, entry.name))
+      if (entry.isDirectory()) {
+        const index = path.join(base, entry.name, "index.html")
+        if (fs.existsSync(index)) candidates.push(index)
+      }
+    }
+  }
+  return [...new Set(candidates)]
+    .filter((candidate) => fs.existsSync(candidate))
+    .map((candidate) => fs.readFileSync(candidate, "utf8"))
+    .join("\n")
+}
+
+function verifyObjectEvidence(
+  evidenceHtml: string,
+  claims: EvidenceEntry[],
+  citationById: Map<string, EvidenceEntry>,
+  context: string,
+  relativePath: string,
+  issues: Array<{ file: string; claim: string; citation?: string; reason: string }>,
+): void {
+  const renderedClaims = [...evidenceHtml.matchAll(/<article\b[^>]*data-evidence-kind=["']claim["'][^>]*>/giu)]
+  const renderedClaimStarts = renderedClaims.map((match) => match.index ?? 0)
+  claims.forEach((claim) => {
+    const escapedClaim = claim.id.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")
+    const claimMatch = evidenceHtml.match(
+      new RegExp(`<article\\b[^>]*data-evidence-kind=["']claim["'][^>]*id=["']claim-${escapedClaim}["'][^>]*>`, "iu"),
+    )
+    if (!claimMatch?.index && claimMatch?.index !== 0) {
+      issues.push({ file: relativePath, claim: claim.id, reason: `Missing rendered object evidence claim ${claim.id}` })
+      return
+    }
+    const claimStart = claimMatch.index
+    const nextClaim = renderedClaimStarts.find((start) => start > claimStart)
+    const claimHtml = evidenceHtml.slice(claimStart, nextClaim ?? evidenceHtml.length)
+    const refs = claim.lists.get("pagrindžia") ?? claim.lists.get("pagrindzia") ?? []
+    for (const rawRef of refs) {
+      const citationId = normalizeEvidenceId(rawRef)
+      const citation = citationById.get(citationId)
+      if (!citation) continue
+      const citationMatch = claimHtml.match(
+        new RegExp(`data-citation-id=["']${citationId.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}['"]`, "iu"),
+      )
+      if (!citationMatch) {
+        issues.push({ file: relativePath, claim: claim.id, citation: citationId, reason: "Missing rendered object citation" })
+        continue
+      }
+      if (
+        citation.fields.get("citatos_rezimas")?.trim() === "indeksas" &&
+        citation.fields.get("indeksas")?.trim()
+      ) {
+        continue
+      }
+      const shouldRenderQuote = evidenceSupportsClaim(
+        claim.fields.get("teiginys") ?? "",
+        evidenceCitationQuoteForClaim(citation, claim.fields.get("teiginys") ?? "", context),
+        context,
+      )
+      const citationStart = citationMatch.index ?? 0
+      const citationEnd = claimHtml.indexOf("</details>", citationStart)
+      const citationHtml = claimHtml.slice(
+        citationStart,
+        citationEnd >= 0 ? citationEnd + "</details>".length : claimHtml.length,
+      )
+      const hasQuote = /<blockquote\b/iu.test(citationHtml)
+      if (shouldRenderQuote && !hasQuote) {
+        issues.push({ file: relativePath, claim: claim.id, citation: citationId, reason: "Supported object citation quote is not rendered" })
+      }
+      if (!shouldRenderQuote && hasQuote) {
+        issues.push({ file: relativePath, claim: claim.id, citation: citationId, reason: "Unsupported object citation quote is rendered" })
+      }
+    }
+  })
 }
 
 function citationCard(assetHtml: string, citationId: string): string | null {
@@ -144,6 +228,11 @@ for (const file of sourceFiles) {
   }
   const pageHtml = fs.readFileSync(htmlPath, "utf8")
   const context = evidenceDocumentContext(markdown)
+  const renderedObjectEvidence = objectEvidenceHtml(slug)
+  if (renderedObjectEvidence.includes('data-object-evidence-page="true"')) {
+    verifyObjectEvidence(renderedObjectEvidence, claims, citationById, context, relativePath, issues)
+    continue
+  }
   const renderedKeys = new Set<string>()
   const renderedLocalKeys = new Set<string>()
   const hiddenGlobals = hiddenClaimGlobalIds(markdown)

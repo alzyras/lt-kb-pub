@@ -39,10 +39,22 @@ Dusburgietis teigia, kad šito įvykio išgąsdinti, raiteliai bei pėstininkai 
 
 ## Teiginiai
 
-<a id="claim-t-58660"></a>
-- t-001
+<a id="claim-t-222743"></a>
+- t-222743
+  teiginys: "Kryžiuočiai, įsiveržę į Reisių valsčių, priartėjo prie Zirgūnos upės."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203587
+
+<a id="claim-t-223205"></a>
+- t-223205
   teiginys: "Prūsų raiteliai ir pėstininkai įsirengė stovyklą ant Zirgūnos upės kranto, o broliai su kariuomene apsistojo priešais."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-09-13 11:42"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kaltis: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -52,13 +64,11 @@ Dusburgietis teigia, kad šito įvykio išgąsdinti, raiteliai bei pėstininkai 
   ryšio_targeto_parinkimas: "Kaltis: mention_match, person"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zirgūna\" parinktas kaip owner_note_path. Targetas \"Kaltis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-59292
 
-<a id="claim-t-58661"></a>
-- t-002
+<a id="claim-t-224661"></a>
+- t-224661
   teiginys: "Zirgūnos upe plukdydami atsargas Kristburgo broliams, broliai ir jų tarnai dažnai prarasdavo krovinius ir gyvybes."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-09-13 11:42"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kristburgas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -68,8 +78,6 @@ Dusburgietis teigia, kad šito įvykio išgąsdinti, raiteliai bei pėstininkai 
   ryšio_targeto_parinkimas: "Kristburgas: mention_match, place, gap=33"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Zirgūna\" parinktas kaip owner_note_path. Targetas \"Kristburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-59293
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -114,8 +122,6 @@ Dusburgietis teigia, kad šito įvykio išgąsdinti, raiteliai bei pėstininkai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-59293
   autorius: "Petras Dusburgietis"
@@ -139,5 +145,21 @@ Dusburgietis teigia, kad šito įvykio išgąsdinti, raiteliai bei pėstininkai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-203587
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 74"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 74."
+  citata_originali: |
+    įsibrovė į Reisių valsčių ir, ten išžudę arba paėmę į nelaisvę daugybę
+    žmonių, priartėjo prie Zirgūnos upės232, kur ir sulaukė to, ko taip ilgai buvo troškę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222743
+

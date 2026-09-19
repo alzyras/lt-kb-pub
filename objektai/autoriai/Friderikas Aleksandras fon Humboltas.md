@@ -46,10 +46,22 @@ Narbutas tikriausiai rėmėsi Frideriko Aleksandro fon Humbolto kelionių apraš
 
 ## Teiginiai
 
-<a id="claim-t-190390"></a>
-- t-001
+<a id="claim-t-215573"></a>
+- t-215573
+  teiginys: "T. Narbutas tikriausiai rėmėsi Frideriko Aleksandro fon Humboldto kelionių aprašymu."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196751
+
+<a id="claim-t-218244"></a>
+- t-218244
   teiginys: "Narbutas tikriausiai rėmėsi Frideriko Aleksandro fon Humbolto kelionių aprašymu apie 1799–1804 m. keliones į Naujojo žemyno lygiadienio sritis."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-09-12 23:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -67,7 +79,7 @@ Narbutas tikriausiai rėmėsi Frideriko Aleksandro fon Humbolto kelionių apraš
   temporalinis_llm_pakomentavimas: "Spėjamo šaltinio pobūdis paliktas su „tikriausiai“, nes taip formuluoja citata. Pašalinti OCR trūkiniai ir neišvardyti nereikalingi leidimo techniniai duomenys."
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173273
+    - c-198659
 
 ## Citatos
 
@@ -90,5 +102,45 @@ Narbutas tikriausiai rėmėsi Frideriko Aleksandro fon Humbolto kelionių apraš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-196751
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 480"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 480."
+  citata_originali: |
+    Tikriausiai T. Narbutas šią informa­
+    ciją paėmė iš keliautojo ir mokslininko barono Frideriko Alek­
+    sandro fon Humbolto (1769—1859) kelionių aprašymo
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215573
+
+- id: c-198659
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 489"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 489."
+  citata_originali: |
+    Tik­
+    riausiai T. Narbutas šią informaeiją paėmė iš ke­
+    liautojo ir mokslininko barono Frideriko Aleksan­
+    dro fon Humbolto (1769-1859) kelionių aprašymo
+    (HumboldtA. von und Bonplandt A. Reise in die
+    Aeąuinoctiol-Gegenden dės neuen Continents in
+    den Jahren 1799,1800,1801,1802,1803 und 1804. -
+    T. I-VI. - Stuttgart-Tuubingen, 1815-1832).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218244
+

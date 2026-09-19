@@ -32,20 +32,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad remeika J.
 
-## Teiginiai
-
-<a id="claim-t-61271"></a>
-- t-001
-  teiginys: "J. Remeikos „Ką kalneliai pasakoja: Padavimai iš Klaipėdos krašto piliakalnių praeities“ išleista Klaipėdoje 1938 m."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1938 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, pavadinimą, leidimo vietą ir metus."
-  pagrindžia:
-    - c-61903
-
 ## Citatos
 
 - id: c-61903
@@ -61,5 +47,36 @@ Dusburgietis teigia, kad remeika J.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-202132
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 270"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
+  citata_originali: |
+    Remeika J. Ką kalneliai pasakoja: Padavimai iš Klaipėdos krašto piliakalnių praeities.—
+    Klaipėda, 1938.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-220720"></a>
+- t-001
+  teiginys: "J. Remeikos „Ką kalneliai pasakoja: Padavimai iš Klaipėdos krašto piliakalnių praeities“ išleista Klaipėdoje 1938 m."
+  atnaujinta: "2026-09-13 18:12"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1938 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, pavadinimą, leidimo vietą ir metus."
+  pagrindžia:
+    - c-202132
+

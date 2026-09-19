@@ -49,10 +49,23 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
 
 ## Teiginiai
 
+<a id="claim-t-209397"></a>
+- t-209397
+  teiginys: "Žemaičiai nustojo gerti, sekdami Užnemunės lietuvių pavyzdžiu."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:28Z"
+  pagrindžia:
+    - c-191922
+
 <a id="claim-t-182731"></a>
-- t-001
+- t-182731
   teiginys: "Vytautas pretendavo į visą Žemaitiją iki Nemuno, Klaipėdą ir Užnemunę."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -66,9 +79,9 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
     - c-166150
 
 <a id="claim-t-182735"></a>
-- t-002
+- t-182735
   teiginys: "Lietuvos Užnemunėje caro valdžia nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Rusai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -82,9 +95,9 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
     - c-166149
 
 <a id="claim-t-182736"></a>
-- t-003
+- t-182736
   teiginys: "Lietuvos Užnemunė priklausė gubernijai, iš pradžių vadintai Augustavo, o nuo 1867 m. Suvalkų gubernija."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Suvalkų gubernija: 0.88"
   ryšio_patikimumo_lygis: "aukstas"
@@ -102,9 +115,9 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
     - c-166152
 
 <a id="claim-t-183097"></a>
-- t-004
+- t-183097
   teiginys: "Užnemunė Prūsų valdžioje ir Lenkų karalystėje Užnemunė Prūsų karalystėje."
-  atnaujinta: "2026-06-13 18:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -122,9 +135,9 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
     - c-46770
 
 <a id="claim-t-183098"></a>
-- t-005
+- t-183098
   teiginys: "1807 m. Užnemunė buvo priskirta Varšuvos kunigaikštystei."
-  atnaujinta: "2026-06-13 18:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -144,9 +157,9 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
     - c-24526
 
 <a id="claim-t-193240"></a>
-- t-006
+- t-193240
   teiginys: "Kaip visoje kunigaikštystėje, taip ir Užnemunėje buvo įvestas Napoleono kodeksas, kuriuo valstiečiai buvo atleisti nuo baudžiavos, tik be žemės."
-  atnaujinta: "2026-07-06 12:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -156,9 +169,9 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
     - c-175977
 
 <a id="claim-t-193653"></a>
-- t-007
+- t-193653
   teiginys: "Nors didžiosios etninės Lietuvos dalies raidos ir Užnemunės politinės sąlygos skyrėsi, modernios tautos formavimasis vyko ta pačia kryptimi."
-  atnaujinta: "2026-07-06 12:55"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -166,6 +179,19 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-176322
+
+<a id="claim-t-207613"></a>
+- t-207613
+  teiginys: "Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
+  pagrindžia:
+    - c-190230
 
 ## Citatos
 
@@ -186,8 +212,8 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-183098
 
 - id: c-46770
   redaktorius: "A. Šapoka"
@@ -206,8 +232,8 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-183097
 
 - id: c-166149
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -228,8 +254,8 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-182735
 
 - id: c-166150
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -248,8 +274,8 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-182731
 
 - id: c-166152
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -269,8 +295,8 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-182736
 
 - id: c-175977
   redaktorius: "A. Šapoka"
@@ -291,8 +317,8 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-193240
 
 - id: c-176322
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -312,8 +338,54 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-193653
+
+- id: c-190230
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 194"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 194."
+  citata_originali: |
+    Didžiausia po antrojo padalijimo likusi LDK teritorijos dalis, t. y.
+    etninės lietuvių žemės, atiteko Rusijai (ir priklausė jai iki Pirmojo pasaulinio karo). Prūsija
+    prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsijai ji priklausė iki 1806 m.,
+    kai Napoleonas įkūrė Varšuvos kunigaikštiją; 1815 m. Užnemunė atiteko Rusijai).
+  citata_rodoma: "Prūsija \nprisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsijai ji priklausė iki 1806 m., \nkai Napoleonas įkūrė Varšuvos kunigaikštiją; 1815 m. Užnemunė atiteko Rusijai)."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207613
+
+- id: c-191922
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 62"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 62."
+  citata_originali: |
+    NUo 1856 m. domėjosi, kaip blaivybės brolijos veikia Lenkijos
+    Karalystėje11. Tad atsitiktinis vienos parapijos klebono užklydimas į
+    Seinus negalėjo būti nei naujienų Šaltinis, nei pačios blaivybės brolijos
+    idėjų plitimo Lietuvoje pradžia. Anot vyskupo, gerti Užnemunės
+    lietuvių pavyzdžiu žemaičiai nustoję patys, o tai pastebėjęs uolus
+    Jurbarko klebonas M. Kirvelis "prikalbėjo savo parapiją visiškai
+    išsižadėti degtinės (1858 m. rugpjūčio 15 d.)"12 Be to, kun. M. Kirvelis
+    gavo Gaurės klebono F. Jakutavičiaus ir Skirsnemunės klebono K.
+    Baracevičiaus pasižadėjimą, kad savose parapijose paskelbsią blaivybę.
+  citata_rodoma: "Anot vyskupo, gerti Užnemunės \nlietuvių pavyzdžiu žemaičiai nustoję patys, o tai pastebėjęs uolus \nJurbarko klebonas M. Kirvelis \"prikalbėjo savo parapiją visiškai \nišsižadėti degtinės (1858 m. rugpjūčio 15 d.)\"12"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209397
 
 ## Ryšiai
 - Užnemunė priklausė [[objektai/vietos/Augustavo gubernija]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Rusija]]

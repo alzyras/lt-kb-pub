@@ -40,21 +40,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206041"></a>
-- t-001
-  teiginys: "1323 m. gegužės 25 d. Memelio miestas buvo paimtas šturmu; gynyboje žuvo septyniasdešimt riterių, gyventojai išvaryti į nelaisvę, o trys prie miesto buvusios tvirtovės taip pat užimtos."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188656
-
 ## Santrauka
 
 1323 m. gegužės 25 d. Memelio miestas buvo paimtas šturmu; gynyboje žuvo septyniasdešimt riterių, gyventojai išvaryti į nelaisvę, o trys prie miesto buvusios tvirtovės taip pat užimtos.
@@ -80,5 +65,21 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206041"></a>
+- t-001
+  teiginys: "1323 m. gegužės 25 d. Memelio miestas buvo paimtas šturmu; gynyboje žuvo septyniasdešimt riterių, gyventojai išvaryti į nelaisvę, o trys prie miesto buvusios tvirtovės taip pat užimtos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188656
+

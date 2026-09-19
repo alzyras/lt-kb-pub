@@ -33,28 +33,6 @@ media_all_json: |-
 
 Bžostovskio įkurta Paulavos respublika.
 
-## Teiginiai
-
-<a id="claim-t-23406"></a>
-- t-001
-  teiginys: "1791 m. Ketverių metų seimas patvirtino P. K. Bžostovskio įkurtos Paulavos respublikos įstatus."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Paulava: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Povilas Ksaveras Bžostovskis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Paulava: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Formuluotė tiesiogiai nurodo, kad P. K. Bžostovskis įkūrė Paulavos respubliką; artimiausias leidžiamas santykis yra pastatė/įkūrė vietą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Povilas Ksaveras Bžostovskis pastatė Paulava (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1791 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie įstatų patvirtinimą."
-  pagrindžia:
-    - c-75441
-
 ## Citatos
 
 - id: c-75441
@@ -74,5 +52,28 @@ Bžostovskio įkurta Paulavos respublika.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-23406"></a>
+- t-001
+  teiginys: "1791 m. Ketverių metų seimas patvirtino P. K. Bžostovskio įkurtos Paulavos respublikos įstatus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Paulava: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Povilas Ksaveras Bžostovskis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Paulava: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Formuluotė tiesiogiai nurodo, kad P. K. Bžostovskis įkūrė Paulavos respubliką; artimiausias leidžiamas santykis yra pastatė/įkūrė vietą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Povilas Ksaveras Bžostovskis pastatė Paulava (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1791 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie įstatų patvirtinimą."
+  pagrindžia:
+    - c-75441
+

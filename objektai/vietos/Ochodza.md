@@ -42,32 +42,6 @@ historical_names: []
 
 1247 m. jotvingiai pasiekė Holmą prie Ochodzos ir Busavnos, o tas kraštas buvo labai nuniokotas.
 
-## Teiginiai
-
-<a id="claim-t-192886"></a>
-- t-001
-  teiginys: "1247 m. jotvingiai pasiekė Holmą prie Ochodzos ir Busavnos, o tas kraštas buvo labai nuniokotas."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "surenge_zygi_i -> Holmas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Holmas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Jotvingių žygis tiesiogiai nurodytas kaip pasiekęs Holmą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Jotvingiai surengė žygį į Holmas (0.86); Jotvingiai keliavo į Ochodza (0.72); Jotvingiai puolė Holmas (0.70)"
-  temporaliniai_duomenys: "įvykio data: 1247 m.; kelionės data: 1247 m.; mūšio data: 1247 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jotvingiai surengė žygį į Holmas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jotvingiai keliavo į Ochodza“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jotvingiai puolė Holmas“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sutvarkytas OCR tekstas ir paliktas aiškus veiksmas su data, vietomis bei padariniu. Spėjimas apie jotvingių motyvus neįtrauktas."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-175656
-
 ## Citatos
 
 - id: c-175656
@@ -92,5 +66,56 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-195737
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 124"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 124."
+  citata_originali: |
+    Ne
+    viskam galime įvirtai pritaikyti tai, ką dabar pateikėme,
+    nes turime žinių apie didelį ir galingą jotvingių žygį į
+    Pietų Rusią, Jie tikriausiai ketino pasinaudoti ianuometi­
+    niais to krašto sunkumais: mongolai nuolat puldinėjo, o
+    kunigaikščiai vaidijosi tarpusavyje. 1247 metais jotvin­
+    giai pasiekė net Holmą prie Ochodzos ir Busavnos; anuo­
+    met tai buvo garsūs valsčiai, ir tas kraštas buvo labai
+    nuniokotas. Kunigaikštis Vasilka, išžygiavęs iš Voluinės
+    Vladimiro, jau trečią dieną pasivijo juos prie pat Drohi-
+    čino (dabar Kobrino apskritis).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-214490"></a>
+- t-001
+  teiginys: "1247 m. jotvingiai pasiekė Holmą prie Ochodzos ir Busavnos, o tas kraštas buvo labai nuniokotas."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "surenge_zygi_i -> Holmas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jotvingiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Holmas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Jotvingių žygis tiesiogiai nurodytas kaip pasiekęs Holmą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Jotvingiai surengė žygį į Holmas (0.86); Jotvingiai keliavo į Ochodza (0.72); Jotvingiai puolė Holmas (0.70)"
+  temporaliniai_duomenys: "įvykio data: 1247 m.; kelionės data: 1247 m.; mūšio data: 1247 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jotvingiai surengė žygį į Holmas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jotvingiai keliavo į Ochodza“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jotvingiai puolė Holmas“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sutvarkytas OCR tekstas ir paliktas aiškus veiksmas su data, vietomis bei padariniu. Spėjimas apie jotvingių motyvus neįtrauktas."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-195737
+

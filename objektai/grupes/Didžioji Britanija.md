@@ -53,3 +53,43 @@ Didžioji Britanija buvo susieta trišale sąjungos sutartimi su Nyderlandais ir
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-190910
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 268"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 268."
+  citata_originali: |
+    Austrija svarstė galimybes
+    įsijungti į karą prieš Osmanų imperiją, tačiau turėjo spręsti savo vidaus problemas:
+    1789-1790 m. Brabanto revoliucijos metu susikūrusios Jungtinės Belgijos Valstijos,
+    visokeriopai palaikomos revoliucinės Prancūzijos, paskelbė nepriklausomybę nuo
+    Austrijos Habsburgu. Prasidėjusios varžybos dėl įtakos regione tarp Prūsijos it
+    Didžiosios Britanijos į Europos politinių intrigų centrą iškėlė Nyderlandus, kurie
+    nuo 1788 m. buvo susieti trišale sąjungos sutartimi ir su Prūsija, ir su Didžiąja
+    Britanija43.
+  citata_rodoma: "Prasidėjusios varžybos dėl įtakos regione tarp Prūsijos it \nDidžiosios Britanijos į Europos politinių intrigų centrą iškėlė Nyderlandus, kurie \nnuo 1788 m. buvo susieti trišale sąjungos sutartimi ir su Prūsija, ir su Didžiąja \nBritanija43."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-208293"></a>
+- t-001
+  teiginys: "Didžioji Britanija buvo susieta trišale sąjungos sutartimi su Nyderlandais ir Prūsija."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190910
+

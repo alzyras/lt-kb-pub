@@ -45,15 +45,6 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-66667"></a>
-- t-001
-  teiginys: "Sao Paule buvo suorganizuota lietuvių parapija ir pastatyta bažnyčia, pašventinta 1936 m. vasario 16 d."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-66866
-
 <a id="claim-t-66668"></a>
 - t-002
   teiginys: "Kunigas T. Radžius Urugvajuje subūrė tautiškas lietuvių organizacijas į Urugvajaus Lietuvių Klubą."
@@ -64,10 +55,19 @@ Nenurodyta
   pagrindžia:
     - c-66863
 
+<a id="claim-t-66667"></a>
+- t-66667
+  teiginys: "Sao Paule buvo suorganizuota lietuvių parapija ir pastatyta bažnyčia, pašventinta 1936 m. vasario 16 d."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-66866
+
 <a id="claim-t-66669"></a>
-- t-003
+- t-66669
   teiginys: "1929 m. į Sao Paulą atvykęs pirmasis Lietuvos konsulas rėmė lietuvių organizacijas, spaudą, mokyklų kūrimą ir parapijos organizavimą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
@@ -94,8 +94,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-66669
 
 - id: c-66863
   redaktorius: "A. Šapoka"
@@ -113,11 +113,12 @@ Nenurodyta
     pavadintą Urugvajaus Lietuvių Klubu.
   citata_rodoma: "Jo rūpesčiu buvo įkurta lietuvių katalikų bend-\nruomenė, nemaža kitų organizacijų ir lietuviškoji 3 skyrių mo-\nkykla (joje yra apie 100 mokinių). Visos tautiškos organiza-\ncijos to paties kun. Radžiaus buvo suburtos į vieną centrą,\npavadintą Urugvajaus Lietuvių Klubu."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-66866
@@ -137,5 +138,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-66667
+

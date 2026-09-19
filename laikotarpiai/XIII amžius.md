@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XIII amžius"
 periodo_pradzia: 1201
 periodo_pabaiga: 1300
-periodo_objektu_skaicius: 1055
+periodo_objektu_skaicius: 1062
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1055.
+Objektų skaičius: 1062.
 
 ## Susiję objektai
 
@@ -949,6 +949,8 @@ Objektų skaičius: 1055.
 - [[objektai/saltiniai/1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumentas]]
 - [[objektai/saltiniai/1324 m. popiežiaus legatų dokumentas dėl taikos su Gediminu]]
 - [[objektai/saltiniai/1329 m. dokumentas su forma „Kanthe“]]
+- [[objektai/saltiniai/1808. X. 29 Platelių dvaro inventorius]]
+- [[objektai/saltiniai/A. Filipeckio pamokslų rinkinys]]
 - [[objektai/saltiniai/A. Prochaska, Dzieje Witolda]]
 - [[objektai/saltiniai/Albericho 1228 metų kronika]]
 - [[objektai/saltiniai/Baltische Geschichte 1180-1918]]
@@ -973,6 +975,7 @@ Objektų skaičius: 1055.
 - [[objektai/saltiniai/Jasas R. Didysis prūsų sukilimas (1260—1274)]]
 - [[objektai/saltiniai/Johanno Voigto Prūsijos istorija]]
 - [[objektai/saltiniai/Kauno miestiečiai ir Lietuvos bernardinų provincijos ikūrimas XVI a. pradžioje]]
+- [[objektai/saltiniai/Kauno vicegubernatoriaus 1874 m. vasario 12 d. raštas Vilniaus generalgubernatoriui]]
 - [[objektai/saltiniai/Klaipėdos miesto istorija 1252-1466]]
 - [[objektai/saltiniai/Klemenso IV bulė apie Mindaugą (1268 m.)]]
 - [[objektai/saltiniai/Konrado 1230 m. dovanojimo raštas]]
@@ -986,6 +989,7 @@ Objektų skaičius: 1055.
 - [[objektai/saltiniai/Lietuvių kalbos žodynas, t. I (1968)]]
 - [[objektai/saltiniai/Lietuvos kronika]]
 - [[objektai/saltiniai/Livonijos kronika]]
+- [[objektai/saltiniai/M. Bialobžeskio pamokslų rinkinys]]
 - [[objektai/saltiniai/Martyno iš Opavos popiežių ir imperatorių istorija]]
 - [[objektai/saltiniai/Mindaugas-Lietuvos karalius]]
 - [[objektai/saltiniai/Mindaugo dovanojimo raštas Livonijos ordinui]]
@@ -997,6 +1001,7 @@ Objektų skaičius: 1055.
 - [[objektai/saltiniai/P. Šležas, Vytauto D. kovos dėl Žemaičių ir Klaipėdos]]
 - [[objektai/saltiniai/Pasakojimas apie Teutonų ordino pradžią]]
 - [[objektai/saltiniai/Pasaulio aprašymo pradžia]]
+- [[objektai/saltiniai/Patarlės žemaičių]]
 - [[objektai/saltiniai/Pašuta V. Lietuvos valstybės susidarymas]]
 - [[objektai/saltiniai/Pelplino analai]]
 - [[objektai/saltiniai/Piętka J. Geneza mazowieckiej elity feudalnej i jej stan w pierwszym okresie niezależności księstwa (1138—1371)]]
@@ -1023,6 +1028,8 @@ Objektų skaičius: 1055.
 - [[objektai/saltiniai/Tolede surasta akmeninė knyga]]
 - [[objektai/saltiniai/Varakauskas R. Kautynės ties Ašerade (1279 m.) Iš lietuvių kovų prieš Livonijos ordiną XIII a]]
 - [[objektai/saltiniai/Varakauskas R. Lietuvių kova su vokiškaisiais agresoriais Mindaugo valdymo laikotarpiu (1236—1263)]]
+- [[objektai/saltiniai/Vidaus reikalų viceministro 1869 m. lapkričio 27 d. raštas A. Potapovui]]
+- [[objektai/saltiniai/Vilniaus cenzūros komiteto 1865. II. 16 posėdžio protokolas]]
 - [[objektai/saltiniai/Vokiečių ordino statutų prologas]]
 - [[objektai/saltiniai/Volynijos kronika]]
 - [[objektai/saltiniai/Volynės metraštis]]

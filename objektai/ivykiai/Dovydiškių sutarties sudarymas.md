@@ -56,10 +56,23 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
 
 ## Teiginiai
 
+<a id="claim-t-206211"></a>
+- t-006
+  teiginys: "Teodoras Narbutas Dovydiškių sutarties sudarymą datuoja 1380 m. ir nurodo, kad ji sudaryta lauke prie Dovydiškių per Dievo Kūno aštuntadienį."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-188826
+
 <a id="claim-t-12402"></a>
-- t-001
+- t-12402
   teiginys: "Vytautas dalyvavo medžioklėje, bet slaptos sutarties sudarymo nepajuto; jo dalyvavimu Jogaila prisidengė nuo Kęstučio įtarimų."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -73,9 +86,9 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
     - c-14177
 
 <a id="claim-t-66523"></a>
-- t-002
+- t-66523
   teiginys: "Ivinskis pabrėžia, kad Dovydiškių sutartis palieka svarbių neatsakytų klausimų dėl Vytauto žinojimo ir Jogailos laikysenos."
-  atnaujinta: "2026-05-31 10:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.64"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -90,9 +103,9 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
     - c-66735
 
 <a id="claim-t-66524"></a>
-- t-003
+- t-66524
   teiginys: "1380 m. gegužės 31 d. Jogaila slapta sudarė Dovydiškių sutartį su kryžiuočiais medžioklės metu, turbūt arti Gardino."
-  atnaujinta: "2026-05-31 10:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.93"
   ryšio_patikimumo_lygis: "aukstas"
@@ -109,9 +122,9 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
     - c-66736
 
 <a id="claim-t-66525"></a>
-- t-004
+- t-66525
   teiginys: "1380 m. Jogaila slapta, be Kęstučio žinios, sudarė Dovydiškių sutartį su ordinu tam surengtoje medžioklėje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.91"
   ryšio_patikimumo_lygis: "aukstas"
@@ -129,9 +142,9 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
     - c-66737
 
 <a id="claim-t-66526"></a>
-- t-005
+- t-66526
   teiginys: "Dovydiškių sutartimi Kęstučio žemės buvo išskirtos ir paliktos tolesniems ordino naikinimams."
-  atnaujinta: "2026-05-31 10:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -143,19 +156,6 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-66738
-
-<a id="claim-t-206211"></a>
-- t-006
-  teiginys: "Teodoras Narbutas Dovydiškių sutarties sudarymą datuoja 1380 m. ir nurodo, kad ji sudaryta lauke prie Dovydiškių per Dievo Kūno aštuntadienį."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-188826
 
 ## Citatos
 
@@ -177,8 +177,8 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-12402
 
 - id: c-66735
   autorius: "Zenonas Ivinskis"
@@ -199,8 +199,8 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-66523
 
 - id: c-66736
   autorius: "Zenonas Ivinskis"
@@ -220,8 +220,8 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-66524
 
 - id: c-66737
   redaktorius: "A. Šapoka"
@@ -239,8 +239,8 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-66525
 
 - id: c-66738
   autorius: "Zenonas Ivinskis"
@@ -258,8 +258,8 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-66526
 
 - id: c-188826
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -269,9 +269,11 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
     Transakcijos data: lauke prie Dovydiškių, Vieš­
     paties metais 1380, per Dievo Kūno aštuntadienį
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-16 22:50"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
+

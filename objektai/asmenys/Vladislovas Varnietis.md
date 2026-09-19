@@ -45,80 +45,6 @@ canonical_biography: "Ir po metų, mirus tėvui, Vladislovas Varnietis nesiprie�
 
 Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui būtų patvirtintos teisės ir privilegijos į Didžią­ ją Kunigaikštystę24.
 
-## Teiginiai
-
-<a id="claim-t-87886"></a>
-- t-001
-  teiginys: "Mirus Jogailai, Vladislovas Varnietis nesipriešino, kad Žygimantui būtų patvirtintos teisės į Didžiąją Kunigaikštystę."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Žygimantas: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vladislovas Varnietis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Žygimantas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Nesipriešinimas teisių patvirtinimui reiškia pasyvią paramą Žygimanto teisių įtvirtinimui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-83865
-
-<a id="claim-t-190997"></a>
-- t-002
-  teiginys: "1436 m. Lenkijos karalius Vladislovas Varnietis ir kryžiuočių magistras Povilas Rusdorfas sudarė pasienio konvenciją dėl sienos."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "sudare_sutarti_su -> Rusdorfas: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vladislovas Varnietis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Rusdorfas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginyje tiesiogiai pasakyta, kad Vladislovas Varnietis ir Povilas Rusdorfas sudarė konvenciją."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Vladislovas Varnietis sudarė sutartį su Rusdorfas (0.92)"
-  temporaliniai_duomenys: "sutarties data: 1436 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vladislovas Varnietis sudarė sutartį su Rusdorfas“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys turi aiškų subjektą, datą, veiksmą ir rezultatą, susietą su Vladislovu Varniečiu. Nepridėta papildomų detalių apie Rusios padalijimą ar vėlesnę priklausomybę."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-173879
-
-<a id="claim-t-190998"></a>
-- t-003
-  teiginys: "Narbutas vietos padavimams priskiria teiginį, kad Mituva pavadinta nuo Vladislovo Varniečio laikais prie jos kranto buvusios muitinės."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vladislovas Varnietis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vladislovas Varnietis\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-173880
-
-<a id="claim-t-197841"></a>
-- t-004
-  teiginys: "Tik 1436 metais Lenkijos karalius Vladis lovas Varnietis iš vienos ir kryžiuočių magistras Povilas Rusdorfas iš kitos pusės sudarė pasienio konvenciją, ku ria visiems laikams buvo nustatyta minėtų valstybių sie na, o Rusia buvo padalyta į dvi nelygias dalis2."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-179358
-
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Narbutas vietos padavimams priskiria teiginį, kad Mituva pavadinta nuo Vladislovo Varniečio laikais prie jos kranto buvusios muitinės.'
@@ -161,8 +87,8 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-87886
 
 - id: c-173879
   autorius: "Teodoras Narbutas"
@@ -189,8 +115,6 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-173880
   autorius: "Teodoras Narbutas"
@@ -218,8 +142,6 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-179358
   autorius: "Teodoras Narbutas"
@@ -244,8 +166,135 @@ Ir po metų, mirus tėvui, Vladislovas Varnietis nesipriešino, kad Žygimantui 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+
+- id: c-197256
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 237"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 237."
+  citata_originali: |
+    Laikui bėgant, Rusios kraštas
+    patyrė įvairių pokyčių, galop kryžiuočių laikais tapo be­
+    veik visiška dykra, kuri daugelyje vietų tarp Prūsijos ir
+    Žemaitijos buvo beveik neperžengiama taip, kad beveik
+    ištisus du amžius nebuvo Lietuvos ir Prūsų valstybių tar­
+    pusavio sienos. Tik 1436 metais Lenkijos karalius Vladis­
+    lovas Varnietis iš vienos ir kryžiuočių magistras Povilas
+    Rusdorfas iš kitos pusės sudarė pasienio konvenciją, ku­
+    ria visiems laikams buvo nustatyta minėtų valstybių sie­
+    na, o Rusia buvo padalyta į dvi nelygias dalis2. Tačiau
+    iki tos epochos didesnė Rusios dalis laikėsi Lietuvos ir
+    išsaugojo savo giminės gyventojų kartą*, kuri ramesniais
+    laikais, patekusi į kryžiuočių priklausomybę, išvengė pra­
+    žūties, ištikusios kitą tautos dalį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+
+- id: c-197569
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 237"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 237."
+  citata_originali: |
+    Tik 1436 metais Lenkijos karalius Vladis­
+    lovas Varnietis iš vienos ir kryžiuočių magistras Povilas
+    Rusdorfas iš kitos pusės sudarė pasienio konvenciją, ku­
+    ria visiems laikams buvo nustatyta minėtų valstybių sie­
+    na, o Rusia buvo padalyta į dvi nelygias dalis2. Tačiau
+    iki tos epochos didesnė Rusios dalis laikėsi Lietuvos ir
+    išsaugojo savo giminės gyventojų kartą*, kuri ramesniais
+    laikais, patekusi į kryžiuočių priklausomybę, išvengė pra­
+    žūties, ištikusios kitą tautos dalį. Ypač užkampyje tarp
+    Nemuno ir Jūros upės žemupio, miškingose Smalininkų
+    apylinkėse, smėlėtoje ir nedėkingoje žemėje ligi šiol gy­
+    vena senovės rusų-lietuvių giminė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 - Vladislovas Varnietis sudarė sutartį su [[objektai/asmenys/Rusdorfas]]
+
+## Teiginiai
+
+<a id="claim-t-213270"></a>
+- t-001
+  teiginys: "Narbutas vietos padavimams priskiria teiginį, kad Mituva pavadinta nuo Vladislovo Varniečio laikais prie jos kranto buvusios muitinės."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vladislovas Varnietis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vladislovas Varnietis\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+
+<a id="claim-t-213648"></a>
+- t-002
+  teiginys: "Tik 1436 metais Lenkijos karalius Vladis lovas Varnietis iš vienos ir kryžiuočių magistras Povilas Rusdorfas iš kitos pusės sudarė pasienio konvenciją, ku ria visiems laikams buvo nustatyta minėtų valstybių sie na, o Rusia buvo padalyta į dvi nelygias dalis2."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197569
+
+<a id="claim-t-214964"></a>
+- t-003
+  teiginys: "1436 m. Lenkijos karalius Vladislovas Varnietis ir kryžiuočių magistras Povilas Rusdorfas sudarė pasienio konvenciją dėl sienos."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "sudare_sutarti_su -> Rusdorfas: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vladislovas Varnietis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Rusdorfas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginyje tiesiogiai pasakyta, kad Vladislovas Varnietis ir Povilas Rusdorfas sudarė konvenciją."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Vladislovas Varnietis sudarė sutartį su Rusdorfas (0.92)"
+  temporaliniai_duomenys: "sutarties data: 1436 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vladislovas Varnietis sudarė sutartį su Rusdorfas“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys turi aiškų subjektą, datą, veiksmą ir rezultatą, susietą su Vladislovu Varniečiu. Nepridėta papildomų detalių apie Rusios padalijimą ar vėlesnę priklausomybę."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-197256
+
+<a id="claim-t-87886"></a>
+- t-87886
+  teiginys: "Mirus Jogailai, Vladislovas Varnietis nesipriešino, kad Žygimantui būtų patvirtintos teisės į Didžiąją Kunigaikštystę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Žygimantas: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vladislovas Varnietis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Žygimantas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Nesipriešinimas teisių patvirtinimui reiškia pasyvią paramą Žygimanto teisių įtvirtinimui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-83865
+

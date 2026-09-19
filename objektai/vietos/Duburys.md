@@ -60,9 +60,9 @@ Duburys šiame šaltinyje yra upuokšnis.
     - c-177902
 
 <a id="claim-t-195481"></a>
-- t-002
+- t-195481
   teiginys: "Duburys prieš susiliedamas su Ažyte neturėjo vagos, bėgo lygia lanka ir į Ažytės vagą krito mažu kriokliuku."
-  atnaujinta: "2026-07-12 04:09"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
@@ -92,8 +92,8 @@ Duburys šiame šaltinyje yra upuokšnis.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-195481
 
 - id: c-177902
   autorius: "M. Katkus"
@@ -104,9 +104,11 @@ Duburys šiame šaltinyje yra upuokšnis.
     Duburys panoro gilesnės vagos. Tas pats krioklys imasi ją gilinti visa tėkmė.
   citata_rodoma: "Duburys panoro gilesnės vagos. Tas pats krioklys imasi ją gilinti visa tėkmė."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 04:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

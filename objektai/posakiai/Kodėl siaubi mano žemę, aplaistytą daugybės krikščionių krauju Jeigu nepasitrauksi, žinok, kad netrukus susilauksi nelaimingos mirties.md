@@ -47,3 +47,23 @@ Dusburgietis teigia, kad apie vieną stebuklą Šioje kariuomenėje buvo vienas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+- id: c-202690
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 257"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 257."
+  citata_originali: |
+    18. Apie vieną stebuklą
+
+      Šioje kariuomenėje buvo vienas grafas magistras Vilhelmas, vengrų karvedys, kuriam
+    naktį, kai jis ilsėjosi savo lovoje, pasirodė švenčiausioji mergelė ir, rūsčiais žodžiais jį
+    išbarusi, pasakė: „Kodėl siaubi mano žemę, aplaistytą daugybės krikščionių krauju?
+    Jeigu nepasitrauksi, žinok, kad netrukus susilauksi nelaimingos mirties”.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+

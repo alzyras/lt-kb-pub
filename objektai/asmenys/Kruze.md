@@ -36,10 +36,34 @@ Kruze vykdė kasinėjimus Kurše, Infliantuose ir Estijoje, Narbutui aptariant �
 
 ## Teiginiai
 
-<a id="claim-t-191291"></a>
-- t-001
+<a id="claim-t-214088"></a>
+- t-003
+  teiginys: "Kruze vykdė kasinėjimus Kurše, Infliantuose ir Estijoje."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195258
+
+<a id="claim-t-212597"></a>
+- t-212597
+  teiginys: "Tuo remdamasis, ponas Kruze daro išvadą apie kapaviečių amžių: 1) jeigu akmeniniai kirvukai, strėlių antgaliai, kaltukai yra randami prie gryno vario likučių, tai kapavietė priklauso pačiai seniausiai epochai, kai dar nebuvo naudojama geležis; 2) jeigu greta."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196016
+
+<a id="claim-t-212280"></a>
+- t-212280
   teiginys: "Kruze vykdė kasinėjimus Kurše, Infliantuose ir Estijoje, Narbutui aptariant Šiaurės Europos kapaviečių pėdsakus."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -54,20 +78,16 @@ Kruze vykdė kasinėjimus Kurše, Infliantuose ir Estijoje, Narbutui aptariant �
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   semantiniai_rysiai: "Kruze keliavo į Estija (0.74)"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-174173
 
-<a id="claim-t-197772"></a>
-- t-002
+<a id="claim-t-215588"></a>
+- t-215588
   teiginys: "Kurše, Infliantuose ir Estijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru sioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi čius3."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-174173
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -119,6 +139,53 @@ Kruze vykdė kasinėjimus Kurše, Infliantuose ir Estijoje, Narbutui aptariant �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
+
+- id: c-195258
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 385"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 385."
+  citata_originali: |
+    Kurše, Infliantuose ir
+    Estijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru­
+    sioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi­
+    čius3. Visiškai gali būti, jog tokie paminklai Lietuvoje yra
+    retenybė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+
+- id: c-196016
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 386-387"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 386-387."
+  citata_originali: |
+    Tuo
+    remdamasis, ponas Kruze daro išvadą apie kapaviečių
+    amžių: 1) jeigu akmeniniai kirvukai, strėlių antgaliai,
+    kaltukai yra randami prie gryno vario likučių, tai kapa-
+    376
+
+    vietė priklauso pačiai seniausiai epochai, kai dar nebuvo
+    naudojama geležis; 2) jeigu greta varinių ir sidabrinių
+    papuošalų randama ir geležinių dirbinių ar nedidelių
+    daiktų, kurie gali būti priskiriami ginklams arba kokiems
+    nors kitiems daiktams, — vadinasi, pilkapis priklauso
+    vėlesnei epochai; 3) jeigu randamos rūbų, ginklų, žirgo
+    puošybos liekanos, tai byloja apie pačią vėlyviausią epo­
+    chą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212597
+

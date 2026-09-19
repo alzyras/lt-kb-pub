@@ -87,9 +87,11 @@ Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems 
     tikėjimo vertų.
   citata_rodoma: "Baltramiejaus šventės, tūkstan­\ntis penki šimtai pirmaisiais Viešpaties metais. Ten pat daly­\nvaujant didžiai gerbiamiems, didingiesiems ir prakilnie­\nsiems vyskupui Albertui, Vilniaus kaštelionui ir Gardino \nseniūnui Aleksandrui Jurgėvičiui, Trakų vaivadai ir LDK \ndidžiajam maršalkai Jonui iš Zabrežjės, LDK pataurininkiui \nir Bełsko seniūnui Mikalojui Mikolajevičiui, mūsų raikyto- \njui ir Slonimo tenuto laikytojui Jonušui Aleksandravičiui, \nGlinsko kunigaikščiui ir mūsų rūmų maršalkai Mykolui, mū­\nsų virtuvininkui Petrui Aleknavičiui ir daugeliui kitų, pasi­\ntikėjimo vertų."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

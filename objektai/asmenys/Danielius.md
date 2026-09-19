@@ -48,31 +48,47 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
 
 ## Teiginiai
 
-<a id="claim-t-191160"></a>
-- t-001
-  teiginys: "Narbutas pasakoja, kad traukiantis jotvingiams Danielius pavijo vadą Nebrą, atėmė jo ietį ir jį sužeidė, bet grįžo padėti Vasilkai."
-  atnaujinta: "2026-07-12 22:34"
+<a id="claim-t-211824"></a>
+- t-211824
+  teiginys: "Danielius su Vasilka nusiuntė Vykin tą pas jotvingius ir žemaičius bei į Rygą pas vokiečius."
+  atnaujinta: "2026-09-12 19:43"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Nebra: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Danielius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Nebra: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Danielius tiesiogiai sužeidė Nebrą, todėl tai laikytina puolimu prieš asmenį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Danielius puolė Nebra (0.82)"
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   pagrindžia:
-    - c-174042
+    - c-194151
 
-<a id="claim-t-191161"></a>
-- t-002
+<a id="claim-t-210895"></a>
+- t-210895
+  teiginys: "Danielius buvo anksčiau suteikęs Tautvilai pagalbą, su kuria Tautvila kartu su jotvingiais ir žemaičiais žygiavo prieš Mindaugą."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-193870
+
+<a id="claim-t-212328"></a>
+- t-212328
+  teiginys: "Tarp jų du apsiginklavę šarvais buvo nukauti, o trečiasis sugautas ir atvestas pas kunigaikštį Danielių."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194830
+
+<a id="claim-t-212805"></a>
+- t-212805
   teiginys: "Narbutas Danielių apibūdina kaip klastingą, godų ir neramų Pietų Rusios kunigaikščių vadą, 1237 m. vedusį būrius prieš jotvingius prie Brastos."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -91,49 +107,24 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Danielių, jo vadovavimą ir 1237 m. žygio sumanymą. Moralinis apibūdinimas paliktas su Narbuto atribucija."
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
-    - c-174043
+    - c-195150
 
-<a id="claim-t-196816"></a>
-- t-003
-  teiginys: "Danielius buvo anksčiau suteikęs Tautvilai pagalbą, su kuria Tautvila kartu su jotvingiais ir žemaičiais žygiavo prieš Mindaugą."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-  pagrindžia:
-    - c-178928
-
-<a id="claim-t-197720"></a>
-- t-004
+<a id="claim-t-215181"></a>
+- t-215181
   teiginys: "Danielius nesutiko."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-179305
-
-<a id="claim-t-197721"></a>
-- t-005
-  teiginys: "Tarp jų du apsiginklavę šarvais buvo nukauti, o trečiasis sugautas ir atvestas pas kunigaikštį Danielių."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-179306
+    - c-197046
 
 <a id="claim-t-200975"></a>
-- t-006
+- t-200975
   teiginys: "Ku nigas Danielius į Lenevaldę iškeliavo, priimtas tenai žmoniškai, ūkinykus apkrikštijo."
-  atnaujinta: "2026-07-16 14:31"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -143,9 +134,9 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
     - c-184325
 
 <a id="claim-t-200976"></a>
-- t-007
+- t-200976
   teiginys: "Tas patsai Danielius nusisuko į Turaidą ir pilį Dabrelio, kur, visur žmoniškai pri imtas, svietą krikštijo, nuo tenai nuėjo į Kesės pilį krikštyti."
-  atnaujinta: "2026-07-16 14:31"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -155,9 +146,9 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
     - c-184326
 
 <a id="claim-t-200977"></a>
-- t-008
+- t-200977
   teiginys: "Tuo pačiu laiku rados netaikos tarp Veisekės, Kuoknesės kunigaikščio, ir kamendoto Lenevaldės pilės Danieliaus, kurios įgulė antpuolė naktį pasalu Kuoknesės įgulę miegančią ir tenai, vienus netikė lius lietuvius nugalavusi, kitus išblaškiusi, nutvėrė patį."
-  atnaujinta: "2026-07-16 14:31"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -167,9 +158,9 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
     - c-184327
 
 <a id="claim-t-205660"></a>
-- t-009
+- t-205660
   teiginys: "Teodoras Narbutas rašo, kad didysis kunigaikštis su Danieliumi ir Vasilka vedė derybas, pasibaigusias taikos sutartimi, kuria jiems palikti Volkovyskas ir Slonimas, o įkaitu atiduotas Mindaugo sūnus Vaišelga."
-  atnaujinta: "2026-08-12 08:57"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -230,6 +221,7 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-174042
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
@@ -253,8 +245,6 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-174043
   autorius: "Teodoras Narbutas"
@@ -276,8 +266,6 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-178928
   autorius: "Anoniminis metraštininkas"
@@ -301,8 +289,6 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-179305
   autorius: "Teodoras Narbutas"
@@ -321,8 +307,6 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
 
 - id: c-179306
   autorius: "Teodoras Narbutas"
@@ -342,8 +326,6 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
 
 - id: c-184325
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -362,8 +344,8 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-200975
 
 - id: c-184326
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -382,8 +364,8 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-200976
 
 - id: c-184327
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -413,8 +395,8 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
+  pagrindžia:
+    - t-200977
 
 - id: c-188275
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -433,5 +415,116 @@ Danielius ryžosi padėti pabėgėliams. Tada jie pabėgo pas savo giminaitį Vo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
+  pagrindžia:
+    - t-205660
+
+- id: c-193870
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 50"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 50."
+  citata_originali: |
+    Tautvilos išpažinties klausė Rygos vyskupas22 ir
+    [katedros] klebonas; gailėjosi jo, žinodami, kad jeigu
+    Tautvilą nebūtų išvarytas iš Lietuvos žemės, jis būtų
+    jų rankose, ir [lietuviai), nors ir nenorėdami, būtų
+    krikštą priėmę.
+    Visa tai padarė, kad Lietuva netapo krikščioniška.
+    Andrių broliai riteriai pašalino iš pareigų, o Tautvilą
+    parbėgo į 2emaitiją pas savo dėdę Vykintą, pasiėmė
+    jotvingius ir žemaičius bei Danieliaus pagalbą, kurią
+    Danielius buvo jam anksčiau davęs, ir išžygiavo prieš
+    Mindaugą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210895
+
+- id: c-194151
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 49"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 49."
+  citata_originali: |
+    Danielius su Vasilka nusiuntė Vykin­
+    tą pas jotvingius ir žemaičius bei į Rygą pas vokiečius
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211824
+
+- id: c-194830
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 130."
+  citata_originali: |
+    Tarp jų du
+    apsiginklavę šarvais buvo nukauti, o trečiasis sugautas ir
+    atvestas pas kunigaikštį Danielių. Kunigaikštis jam ištiesė
+    ranką ir pažadėjo dovanoti gyvybę, jeigu šis sutiks būti
+    vedliu. Pastarasis pasiūlymą priėmė ir nuvedė net iki Li­
+    kos upės. Kitą dieną priešams buvo atsiųsta pagalba —
+    prūsai ir bartai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212328
+
+- id: c-195150
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 123"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 123."
+  citata_originali: |
+    Būgas jau tuomet buvo Mazovijos ir rusų
+    žemių riba. Vis dėlto prie Brastos turėjo būti gana svar­
+    bių jotvingių gyvenviečių, nes jas tikėjosi užpulti Pietų
+    Rusios kunigaikščiai, kuriems
+    vadovavo Danielius —
+    klastingas, godus ir neramus žmogus. 1237 metais jis ve­
+    dė savo būrius prieš jotvingius į Brastos apylinkes, bet
+    itin dideli pavasario potvyniai ;užtvindė upių krantus, ir
+    jo sumanymas nebuvo įgyvendintas3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212805
+
+- id: c-197046
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 129"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 129."
+  citata_originali: |
+    Vakarop atvyko pasiuntiniai, vadovaujami tokio Ne-
+    biasto, kuris visos jotvingių tautos vardu prašė Danie­
+    liaus, kad šis taikiai išeitų iŠ jų žemės ir atsisakytų bend­
+    radarbiauti su lenkais. Danielius nesutiko. Naktį jotvin­
+    giai užpuolė tik lenkus, o rusinu —■ ne. Priešinamasi buvo
+    atkakliai, žiauriai, nuodėguliai krito kaip žaibai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215181
+

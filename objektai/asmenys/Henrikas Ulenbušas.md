@@ -34,42 +34,6 @@ canonical_biography: "Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas,
 
 Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs brolį Henriką Ulenbušą, įtempiantį arbaletą375, pribėgo prie jo, sakydamas: „Šiandien pat pasiųsiu tave į dangų“, ir pervėrė jį savo ietimi, sunkiai sužeisdamas, nors toji žaizda vėliau ir užgijo. Dusburgietis teigia, kad vis dėlto brolis Henrikas Ulenbušas, labai kilnus vyras, nepasitraukė iš vietos ir taip narsiai pradėjo gintis, kad ir kiti, atgavę jėgas bei drąsą, sugrįžo į mūšio lauką ir nukovė daugybę sembų.
 
-## Teiginiai
-
-<a id="claim-t-60139"></a>
-- t-001
-  teiginys: "Herkus Mantas ietimi sunkiai sužeidė Henriką Ulenbušą, kai šis tempė arbaletą, bet Henriko Ulenbušo žaizda vėliau užgijo."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Henrikas Ulenbušas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Herkus Mantas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Henrikas Ulenbušas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Herkus Mantas tiesiogiai sužeidė Henriką Ulenbušą ietimi."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Herkus Mantas puolė Henrikas Ulenbušas (0.90)"
-  pagrindžia:
-    - c-60772
-
-<a id="claim-t-60140"></a>
-- t-002
-  teiginys: "Henrikas Ulenbušas nepasitraukė iš mūšio lauko ir narsiu gynimusi paskatino kitus grįžti į kovą su sembais."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Sembai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas Ulenbušas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Sembai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Henriko gynimasis paskatino grįžti į mūšį, kuriame nukauta daug sembų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Henrikas Ulenbušas kariavo prieš Sembai (0.82)"
-  pagrindžia:
-    - c-60771
-
 ## Citatos
 
 - id: c-60771
@@ -93,8 +57,6 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-60772
   autorius: "Petras Dusburgietis"
@@ -114,8 +76,39 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Ryšiai
 - Puolė Henrikas Ulenbušą: [[objektai/asmenys/Herkus Mantas]]
+
+## Teiginiai
+
+<a id="claim-t-222383"></a>
+- t-001
+  teiginys: "Herkus Mantas ietimi sunkiai sužeidė Henriką Ulenbušą, kai šis tempė arbaletą, bet Henriko Ulenbušo žaizda vėliau užgijo."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Henrikas Ulenbušas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Herkus Mantas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Henrikas Ulenbušas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Herkus Mantas tiesiogiai sužeidė Henriką Ulenbušą ietimi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Herkus Mantas puolė Henrikas Ulenbušas (0.90)"
+
+<a id="claim-t-223999"></a>
+- t-002
+  teiginys: "Henrikas Ulenbušas nepasitraukė iš mūšio lauko ir narsiu gynimusi paskatino kitus grįžti į kovą su sembais."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Sembai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Henrikas Ulenbušas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Sembai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Henriko gynimasis paskatino grįžti į mūšį, kuriame nukauta daug sembų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Henrikas Ulenbušas kariavo prieš Sembai (0.82)"
+

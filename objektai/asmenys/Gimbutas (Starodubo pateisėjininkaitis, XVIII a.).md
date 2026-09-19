@@ -53,9 +53,9 @@ Gimbutas minimas kaip Starodubo pateisėjininkaitis, 1760 m. vedęs Starodubo ž
     - c-183875
 
 <a id="claim-t-200526"></a>
-- t-002
+- t-200526
   teiginys: "1760 m. Starodubo pateisėjininkaitis Gimbutas vedė Starodubo žemės teisėjaitę Stravinskaitę."
-  atnaujinta: "2026-07-26 17:50"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Gimbutas: 0.85"
@@ -79,7 +79,9 @@ Gimbutas minimas kaip Starodubo pateisėjininkaitis, 1760 m. vedęs Starodubo ž
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 11."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 17:37"
-  pagrindzia:
+  pagrindžia:
     - t-001
-    - t-002
+    - t-200526
+

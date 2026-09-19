@@ -27,25 +27,6 @@ media_all_json: |-
 
 Pirmiausia kalbėjęs arkivyskupas savo skundą kryžiuo­ čiais trumpai užbaigė taip: „Bažnyčios tarnams trukdo skleisti tarp pagonių Evangelijos šviesą ir atsako jiems reikalingo sau­ gumo keliaujant per anų žemes, kad naujakrikščius apdeda nepakeliama prievolių. Popiežius po atskiro pasitarimo su kardinolais visuoti­ niame susirinkime pareiškė tokį sprendimą: „Kryžiuočių or­ dino riteriai turi Rygos Bažnyčiai, vyskupams bei kapitulai atiduoti viską, ką paėmę, ir daugiau jų nepuldinėti; prakeiks­ mas kris ant to.
 
-## Teiginiai
-
-<a id="claim-t-86783"></a>
-- t-001
-  teiginys: "Popiežius nusprendė, kad Kryžiuočių ordino riteriai turi Rygos Bažnyčiai grąžinti paimtą turtą ir jos nebepuldinėti."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Rygos vyskupija Rygos Bažnyčia: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Rygos vyskupija Rygos Bažnyčia: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Sprendime įsakyta ordino riteriams nebepuldinėti Rygos Bažnyčios."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Kryžiuočių ordinas puolė Rygos vyskupija Rygos Bažnyčia (0.70)"
-  pagrindžia:
-    - c-82763
-
 ## Citatos
 
 - id: c-82763
@@ -78,5 +59,25 @@ Pirmiausia kalbėjęs arkivyskupas savo skundą kryžiuo­ čiais trumpai užbai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-86783"></a>
+- t-001
+  teiginys: "Popiežius nusprendė, kad Kryžiuočių ordino riteriai turi Rygos Bažnyčiai grąžinti paimtą turtą ir jos nebepuldinėti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Rygos vyskupija Rygos Bažnyčia: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Rygos vyskupija Rygos Bažnyčia: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Sprendime įsakyta ordino riteriams nebepuldinėti Rygos Bažnyčios."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Kryžiuočių ordinas puolė Rygos vyskupija Rygos Bažnyčia (0.70)"
+  pagrindžia:
+    - c-82763
+

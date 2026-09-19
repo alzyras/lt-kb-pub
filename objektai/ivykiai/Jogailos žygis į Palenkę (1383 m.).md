@@ -40,21 +40,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206736"></a>
-- t-001
-  teiginys: "Pasak Teodoro Narbuto, Jogailai rūpėjo kunigaikščio Jonošo užgrobta Vytauto paveldėta Palenkės dalis, tačiau Jogaila žygį Bugo link veikiausiai rengė tam, kad Kęstučio šeima įtvirtintų pilių priedangoje nesusikurtų ginkluotos kariaunos."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-189351
-
 ## Santrauka
 
 Pasak Teodoro Narbuto, Jogailai rūpėjo kunigaikščio Jonošo užgrobta Vytauto paveldėta Palenkės dalis, tačiau Jogaila žygį Bugo link veikiausiai rengė tam, kad Kęstučio šeima įtvirtintų pilių priedangoje nesusikurtų ginkluotos kariaunos.
@@ -78,5 +63,21 @@ Pasak Teodoro Narbuto, Jogailai rūpėjo kunigaikščio Jonošo užgrobta Vytaut
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206736"></a>
+- t-001
+  teiginys: "Pasak Teodoro Narbuto, Jogailai rūpėjo kunigaikščio Jonošo užgrobta Vytauto paveldėta Palenkės dalis, tačiau Jogaila žygį Bugo link veikiausiai rengė tam, kad Kęstučio šeima įtvirtintų pilių priedangoje nesusikurtų ginkluotos kariaunos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-189351
+

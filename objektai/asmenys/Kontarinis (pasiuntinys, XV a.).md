@@ -83,9 +83,11 @@ canonical_biography: "1477 m. vasario 25 d. Venecijos atstovas Kontarinis, iš M
     1 1 1, Kazimieras siunčia du kilmingus vyrus pasveikinti Kon-
     tarinį bei pakviesti kitos dienos pusryčių.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-24 14:16"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

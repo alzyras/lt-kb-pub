@@ -31,21 +31,6 @@ canonical_biography: "Tuo metu Jogailos kariuomenėje didžiuoju etmonu buvo pon
 
 Tuo metu Jogailos kariuomenėje didžiuoju etmonu buvo ponas Sokolas Čekas \ o kiemo etmonu 5 — ponas Spytka Spytkovičius 6 .
 
-## Teiginiai
-
-<a id="claim-t-198226"></a>
-- t-001
-  teiginys: "Tuo metu Jogailos kariuomenėje didžiuoju etmonu buvo ponas Sokolas Čekas \\ o kiemo etmonu 5 — ponas Spytka Spytkovičius 6 ."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-180022
-
 ## Citatos
 
 - id: c-180022
@@ -68,5 +53,17 @@ Tuo metu Jogailos kariuomenėje didžiuoju etmonu buvo ponas Sokolas Čekas \ o 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+## Teiginiai
+
+<a id="claim-t-210649"></a>
+- t-001
+  teiginys: "Tuo metu Jogailos kariuomenėje didžiuoju etmonu buvo ponas Sokolas Čekas \\ o kiemo etmonu 5 — ponas Spytka Spytkovičius 6 ."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+

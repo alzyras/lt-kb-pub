@@ -51,10 +51,35 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
 
 ## Teiginiai
 
+<a id="claim-t-208629"></a>
+- t-208629
+  teiginys: "Keliaudamas per vyskupystę, vyskupas aplankė kalinius Šiauliuose, Telšiuose, Raseiniuose, Vilkmergėje, Panevėžyje, Ežerėnuose ir Kaune."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:52Z"
+  pagrindžia:
+    - c-191249
+
+<a id="claim-t-209664"></a>
+- t-209664
+  teiginys: "Šiauliuose veikė lietuvių gimnazija."
+  atnaujinta: "2026-09-12 14:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192284
+
 <a id="claim-t-182783"></a>
-- t-001
+- t-182783
   teiginys: "Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   ryšio_patikimumas: "keliavo_i -> Šiauliai: 0.96"
   ryšio_patikimumo_lygis: "aukstas"
@@ -69,9 +94,9 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
     - c-12723
 
 <a id="claim-t-182785"></a>
-- t-002
+- t-182785
   teiginys: "1794 m. balandžio 16 d. Šiauliuose ir jų apylinkėse sukilimą pradėjo LDK 1-oji Tautinė brigada."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   ryšio_patikimumas: "susije_su -> LDK 1-oji Tautinė brigada: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -88,9 +113,9 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
     - c-44078
 
 <a id="claim-t-182786"></a>
-- t-003
+- t-182786
   teiginys: "Šiauliuose, ties dabartinių Tilžės ir Vilniaus gatvių sankryža, buvo pagrindinė Šiaulių žemės strateginė kelių sankryža."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   ryšio_patikimumas: "susije_su -> Tilžė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -105,9 +130,9 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
     - c-166193
 
 <a id="claim-t-193258"></a>
-- t-004
+- t-193258
   teiginys: "Ties Šiauliais įvyko didelis mūšis, kurį laimėjo lietuviai."
-  atnaujinta: "2026-07-06 12:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -118,9 +143,9 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
     - c-175990
 
 <a id="claim-t-193783"></a>
-- t-005
+- t-193783
   teiginys: "Mindaugo ir vėlesnių Lietuvos valdovų Lietuva turėjo kovoti su Vokiečių ordinu prie Saulės (1236), Durbės (1260) ir gausybėje kitų mūšių iki pat Žalgirio (1410)."
-  atnaujinta: "2026-07-06 12:55"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -130,9 +155,9 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
     - c-176434
 
 <a id="claim-t-201683"></a>
-- t-006
+- t-201683
   teiginys: "Lietuviškųjų žemių miestai turėjo mokėti taip: Trakai 100 kapų grašių, Merkinė, Šeduva, Virbalis - po 40 kapų grašių, Jurbarkas, Panevėžys, Šiauliai - po 30 kapų grašių, dar keliolika miestų ir miestelių - po 8-20 kapų grašių."
-  atnaujinta: "2026-07-19 10:18"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -140,6 +165,21 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-185030
+
+<a id="claim-t-207630"></a>
+- t-207630
+  teiginys: "Lietuvoje 1794 m. sukilimas prasidėjo Šiauliuose."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1794 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, turi aiškų subjektą ir predikatą bei tiesiogiai nurodo Šiauliuose prasidėjusį 1794 m. sukilimą."
+  pagrindžia:
+    - c-190247
 
 ## Citatos
 
@@ -161,8 +201,8 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-182783
 
 - id: c-44078
   sudarytojas: "Karolis Zikaras"
@@ -184,8 +224,8 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-182785
 
 - id: c-166193
   sudarytojas: "Karolis Zikaras"
@@ -206,8 +246,8 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-182786
 
 - id: c-175990
   redaktorius: "A. Šapoka"
@@ -225,8 +265,8 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-193258
 
 - id: c-176434
   sudarytojas: "Karolis Zikaras"
@@ -245,8 +285,8 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-193783
 
 - id: c-185030
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -264,8 +304,70 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-201683
+
+- id: c-190247
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 194"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 194."
+  citata_originali: |
+    Šiandienių antigegu-
+    žininkų alternatyvi orientacija į Masalskį ir targovitėnus nuosekliai turi atvesti į poziciją,
+    kad būtent Jekaterina II ir Muravjovas Korikas išgelbėjo lietuvybę.
+    Dėl Gardino seimo nutarimų 1794 m. kovą Lenkijoje prasidėjo sukilimas, kuriam
+    vadovavo iš LDK kilęs ir kovose dėl JAV nepriklausomybės pasižymėjęs generolas Ta-
+    das Kosciuška. Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose.
+  citata_rodoma: "Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiauliuose."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207630
+
+- id: c-191249
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 214"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 214."
+  citata_originali: |
+    Argi nežinot, jogiai kožnas, išplė­
+    šius ar pavagiąs svetimą naudą, tol negali būti išgany­
+    tas, kol nesugrąžins, ką išplėšė ar pavogė.
+    Važiuodamas kiaurai per vyskupystę, aplankiau visus
+    kalinius. Su skausmu širdies savo radau; Šiauliuose, Tel­
+    šiuose, Raseiniuose, Vilkmergėj, Panevėžy, Ežerėnuose ir
+    Kaune daugybę uždarytų per nelaimes, vaikų savo.
+  citata_rodoma: "Važiuodamas kiaurai per vyskupystę, aplankiau visus \nkalinius. Su skausmu širdies savo radau; Šiauliuose, Tel­\nšiuose, Raseiniuose, Vilkmergėj, Panevėžy, Ežerėnuose ir \nKaune daugybę uždarytų per nelaimes, vaikų savo."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208629
+
+- id: c-192284
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 69"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 69."
+  citata_originali: |
+    Lietuvių gimnazi­
+    jų esama Kaune, Vilniuje ir Šiauliuose.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209664
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Virgoličiaus rinktinė]]

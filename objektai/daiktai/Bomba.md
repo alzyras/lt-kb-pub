@@ -62,10 +62,34 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-209600"></a>
+- t-209600
+  teiginys: "Moterė lės verkia iš susirūpinimo, ir negali suprasti, kad kas nors iš liuoso noro važiuotų ten, kur kulkosvaidžiai ardo gyvastis, kur bombos dras ko namus ir kūnus Jos sako: klebonas ne grįši pas mus daugiau; iš kitų veidų galima skaityti abejojimas apie."
+  atnaujinta: "2026-09-12 14:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192220
+
+<a id="claim-t-209601"></a>
+- t-209601
+  teiginys: "Tarp Berno ir Friburg'o susitinka traukiniai ir rei kia matyti, sako šveicaras tuos sumaltus, su draskytus bombomis, kulkosvaidžiais nepana šius į žmones kareivius, kuomet jie ligišiolei didžiausi priešai, viens kitą meilingai sveikina ir lieja ašarų upelius."
+  atnaujinta: "2026-09-12 14:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192221
+
 <a id="claim-t-45472"></a>
-- t-001
+- t-45472
   teiginys: "Lapkričio 15 d. Kaune sprogusi bomba sužeidė E. Galvanauską, bet jis liko gyvas."
-  atnaujinta: "2026-06-01 14:44"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
   ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -79,9 +103,9 @@ Nenurodyta
     - c-16402
 
 <a id="claim-t-45473"></a>
-- t-002
+- t-45473
   teiginys: "Lapkričio 15 d. Kaune ant derybininko E. Galvanausko miegamojo palangės sprogo padėta bomba."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md::validation_repair"
   ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -120,6 +144,52 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
+  pagrindžia:
+    - t-45472
+    - t-45473
+
+- id: c-192220
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 10"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 10."
+  citata_originali: |
+    Moterė­
+    lės verkia iš susirūpinimo, ir negali suprasti,
+    kad kas nors iš liuoso noro važiuotų ten, kur
+    kulkosvaidžiai ardo gyvastis, kur bombos dras­
+    ko namus ir kūnus
+    Jos sako: klebonas ne­
+    grįši pas mus daugiau; iš kitų veidų galima
+    skaityti abejojimas apie mano važiavimą Lie­
+    tuvon
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209600
+
+- id: c-192221
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 24"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 24."
+  citata_originali: |
+    Tarp
+    Berno ir Friburg'o susitinka traukiniai ir rei­
+    kia matyti, sako šveicaras tuos sumaltus, su­
+    draskytus bombomis, kulkosvaidžiais nepana­
+    šius į žmones kareivius,
+    kuomet jie ligišiolei
+    didžiausi priešai, viens kitą meilingai sveikina
+    ir lieja ašarų upelius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209601
+

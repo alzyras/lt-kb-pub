@@ -47,10 +47,34 @@ historical_names: []
 
 ## Teiginiai
 
+<a id="claim-t-210767"></a>
+- t-210767
+  teiginys: "Ir kai jau baigė kariuome nę tvarkyti, patraukė į Vroclavą."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193074
+
+<a id="claim-t-211654"></a>
+- t-211654
+  teiginys: "Prie Vroclavo Kazimiero kariuomenė susidūrė su Jiržio kariuomene."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193921
+
 <a id="claim-t-85591"></a>
-- t-001
+- t-85591
   teiginys: "1432 m. Vroclavo gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su savo prekėmis."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "prekiavo_su -> Vilnius: 0.68"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -69,9 +93,9 @@ historical_names: []
     - c-81576
 
 <a id="claim-t-85592"></a>
-- t-002
+- t-85592
   teiginys: "Švitrigaila prašė garantuoti Vroclavo gyventojams laisvą kelionę su prekėmis per Ordino žemes."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kistrinas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -85,9 +109,9 @@ historical_names: []
     - c-81579
 
 <a id="claim-t-85593"></a>
-- t-003
+- t-85593
   teiginys: "Jogaila ir Vytautas pasiuntė į Vroclavą protestus, kuriuos gabeno Zbignievas Olesnickis."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "siunte_i -> Vroclavas: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -102,9 +126,9 @@ historical_names: []
     - c-81578
 
 <a id="claim-t-85595"></a>
-- t-004
+- t-85595
   teiginys: "Švitrigaila prašė garantuoti Vroclavo gyventojams laisvą ir nevaržomą keliavimą su prekėmis per Ordino žemes."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kistrinas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -118,9 +142,9 @@ historical_names: []
     - c-81579
 
 <a id="claim-t-85596"></a>
-- t-005
+- t-85596
   teiginys: "Jogaila tuojau apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo sprendimą."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -134,9 +158,9 @@ historical_names: []
     - c-81581
 
 <a id="claim-t-206607"></a>
-- t-006
+- t-206607
   teiginys: "Vroclave per Kalėdas buvo planuota surengti suvažiavimą, kuriame, dalyvaujant imperatoriui, turėjo būti imtasi įgyvendinti priešsutartinius priesakus."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -147,9 +171,9 @@ historical_names: []
     - c-189222
 
 <a id="claim-t-206608"></a>
-- t-007
+- t-206608
   teiginys: "Teodoras Narbutas aprašo, kad dėl abiejų pusių atkaklumo nė viena jų nenusileido, todėl įgaliotiniai, nieko neįrodę, grįžo į Vokietiją, o prieš Kalėdas Vroclave sutiko imperatorių su dvariškiais."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -181,8 +205,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-85591
 
 - id: c-81577
   autorius: "Michał Baliński"
@@ -208,8 +232,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-85591
 
 - id: c-81578
   autorius: "Zenonas Ivinskis"
@@ -229,8 +253,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-85593
 
 - id: c-81579
   autorius: "Michał Baliński"
@@ -267,9 +291,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-004
+  pagrindžia:
+    - t-85592
+    - t-85595
 
 - id: c-81581
   autorius: "Zenonas Ivinskis"
@@ -286,8 +310,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-85596
 
 - id: c-189222
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -314,8 +338,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-206607
 
 - id: c-189223
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -331,8 +355,44 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-206608
+
+- id: c-193074
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 137"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 137."
+  citata_originali: |
+    Ir kai jau baigė kariuome­
+    nę tvarkyti, patraukė į Vroclavą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210767
+
+- id: c-193921
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 137"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 137."
+  citata_originali: |
+    Kai karalius
+    Kazimieras, parengęs visus būrius mūšiui, su kariuo­
+    mene priartėjo prie Vroclavo, susidūrė su Jiržio 26 ka­
+    riuomene ir susikovė
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211654
 
 ## Ryšiai
 - Buvo siuntimo vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

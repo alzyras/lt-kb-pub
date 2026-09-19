@@ -51,3 +51,40 @@ Hobbeso prigimtinės tvarkos dėsniai iškelia žmonijos norą išlikti, kurį g
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-190970
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 137"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 137."
+  citata_originali: |
+    Tačiau atsakymas į
+    klausimą, kodėl reikalinga visuomenės sutartis, nebuvo vienodas (pig. Thorn aso
+    Hobbeso, Johno Lockeo ir Jeano-Jacqueso Rousseau skirtumus).
+    T. Hobbeso prigimtinės tvarkos dėsniai iškelia žmonijos norą išlikti, kurį gali­
+    ma įgyvendinti tik kiekvienam siekiant taikos ir laikantis susitarimų.
+  citata_rodoma: "T. Hobbeso prigimtinės tvarkos dėsniai iškelia žmonijos norą išlikti, kurį gali­\nma įgyvendinti tik kiekvienam siekiant taikos ir laikantis susitarimų."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-208376"></a>
+- t-001
+  teiginys: "Hobbeso prigimtinės tvarkos dėsniai iškelia žmonijos norą išlikti, kurį gali ma įgyvendinti tik kiekvienam siekiant taikos ir laikantis susitarimų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190970
+

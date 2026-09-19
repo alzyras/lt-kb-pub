@@ -33,27 +33,6 @@ media_all_json: |-
 
 Elenos dieną, už šimtą kapų lietu­ viškų grašių ir dešimtį pūdų pipirų: Vendimus abscedimus, et resignamus vivum nostrum Vingier, seu torrentem vulgariterque dictum extra civitatis mo­ enia existentem, una cum alveo et aqua ex indė fluenti et canalibus.
 
-## Teiginiai
-
-<a id="claim-t-86875"></a>
-- t-001
-  teiginys: "Formulė „Vendimus abscedimus, et resignamus“ pavartota 1536 m. dominikonų sutartyje, kuria miestui parduotas Vingrių šaltinis."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vingrių šaltinis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vendimus abscedimus, et resignamus: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vingrių šaltinis: mention_match, place, gap=100"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vendimus abscedimus, et resignamus\" parinktas kaip owner_note_path. Targetas \"Vingrių šaltinis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1536 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi OCR triukšmo ir yra per ilgas, bet citata pagrindžia sutarties faktą."
-  pagrindžia:
-    - c-82854
-
 ## Citatos
 
 - id: c-82854
@@ -95,5 +74,27 @@ Elenos dieną, už šimtą kapų lietu­ viškų grašių ir dešimtį pūdų pi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-86875"></a>
+- t-001
+  teiginys: "Formulė „Vendimus abscedimus, et resignamus“ pavartota 1536 m. dominikonų sutartyje, kuria miestui parduotas Vingrių šaltinis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vingrių šaltinis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vendimus abscedimus, et resignamus: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vingrių šaltinis: mention_match, place, gap=100"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vendimus abscedimus, et resignamus\" parinktas kaip owner_note_path. Targetas \"Vingrių šaltinis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1536 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys turi OCR triukšmo ir yra per ilgas, bet citata pagrindžia sutarties faktą."
+  pagrindžia:
+    - c-82854
+

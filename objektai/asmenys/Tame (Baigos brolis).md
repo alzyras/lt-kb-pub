@@ -41,28 +41,6 @@ canonical_biography: "Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gy
 
 Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gyvenimą 1321 viešpaties metais brolis Tame, kilęs iš Meiseno, penkiasdešimt šeštus metus gyveno Baigoje, tiek pat metų išbuvęs Teutonų ordine, o per 30 metų iki savo mirties nė karto neišėjęs už šios pilies sienų.
 
-## Teiginiai
-
-<a id="claim-t-60444"></a>
-- t-001
-  teiginys: "1321 m. brolis Tame iš Meiseno penkiasdešimt šeštus metus gyveno Baigoje ir tiek pat metų buvo išbuvęs Teutonų ordine."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Baiga: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Tame (Baigos brolis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Baiga: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai pasako, kad Tame gyveno Baigoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Tame (Baigos brolis) gyveno Baiga (0.97)"
-  temporaliniai_duomenys: "gyvenimo laikotarpis: 1321 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Tame (Baigos brolis) gyveno Baiga“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus biografinis sakinys, paremtas citata."
-  pagrindžia:
-    - c-61076
-
 ## Citatos
 
 - id: c-61076
@@ -83,8 +61,64 @@ Dusburgietis teigia, kad apie Baigos brolį Tamę ir jo gyvenimą 1321 viešpati
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-202463
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 215"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 215."
+  citata_originali: |
+    Apie Baigos brolį Tamę ir jo gyvenimą
+    1321 viešpaties metais brolis Tame, kilęs iš Meiseno, penkiasdešimt šeštus metus
+    gyveno Baigoje, tiek pat metų išbuvęs Teutonų ordine, o per 30 metų iki savo mirties
+    nė karto neišėjęs už šios pilies sienų. Jis negėrė nei medaus vyno, arba midaus, nei
+    kitokių svaigalų, dėvėjo ašutinę, o visų švenčių išvakarėse valgė vien duoną ir gėrė vien
+    vandenį. Galop susirgęs priėmė šventuosius sakramentus, 39 dienas bei naktis išbuvo
+    be maisto ir po to laimingai atidavė viešpačiui sielą.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+    - t-002
 
 ## Ryšiai
 - Tame (Baigos brolis) gyveno [[objektai/vietos/Baiga]]
+
+## Teiginiai
+
+<a id="claim-t-223267"></a>
+- t-001
+  teiginys: "1321 m. brolis Tame iš Meiseno penkiasdešimt šeštus metus gyveno Baigoje ir tiek pat metų buvo išbuvęs Teutonų ordine."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Baiga: 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Tame (Baigos brolis): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Baiga: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai pasako, kad Tame gyveno Baigoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Tame (Baigos brolis) gyveno Baiga (0.97)"
+  temporaliniai_duomenys: "gyvenimo laikotarpis: 1321 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Tame (Baigos brolis) gyveno Baiga“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus biografinis sakinys, paremtas citata."
+  pagrindžia:
+    - c-202463
+
+<a id="claim-t-225353"></a>
+- t-002
+  teiginys: "Tame buvo kilęs iš Meiseno ir 56 metus gyveno Baigoje bei priklausė Teutonų ordinui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202463
+

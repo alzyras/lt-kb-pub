@@ -36,20 +36,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-201335"></a>
-- t-001
-  teiginys: "Šindekopas, norėdamas pribengti lietu vius, vijo juos ¡įkandin nakčia pagal, bet Kęstutis, staiga atsibloškęs ant kryžėjų, taip narsiai juos surėmė mėnesienoj, jog pats marčelga, užsiaustas su kestiniu nuo Vaišviliaus, kėžterėjęs nuo žirgo žekterėjo; 26."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184685
-
 ## Citatos
 
 - id: c-184685
@@ -75,5 +61,20 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201335"></a>
+- t-001
+  teiginys: "Šindekopas, norėdamas pribengti lietu vius, vijo juos ¡įkandin nakčia pagal, bet Kęstutis, staiga atsibloškęs ant kryžėjų, taip narsiai juos surėmė mėnesienoj, jog pats marčelga, užsiaustas su kestiniu nuo Vaišviliaus, kėžterėjęs nuo žirgo žekterėjo; 26."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184685
+

@@ -42,23 +42,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-203770"></a>
-- t-001
-  teiginys: "1585 m. Jono Zareckio byloje prieš Grigorijų Delnickį atsakovas vizito dieną buvo išvykęs iš dvaro."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  temporaliniai_duomenys: "įvykio data: 1585 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškai taisyklingas, turi aiškų subjektą ir predikatą bei tiesiogiai apibūdina bylos aplinkybę."
-  pagrindžia:
-    - c-186374
-
 ## Santrauka
 
 1585 m. Jono Zareckio byloje prieš Grigorijų Delnickį atsakovas vizito dieną buvo išvykęs iš dvaro.
@@ -83,5 +66,23 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203770"></a>
+- t-001
+  teiginys: "1585 m. Jono Zareckio byloje prieš Grigorijų Delnickį atsakovas vizito dieną buvo išvykęs iš dvaro."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1585 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškai taisyklingas, turi aiškų subjektą ir predikatą bei tiesiogiai apibūdina bylos aplinkybę."
+  pagrindžia:
+    - c-186374
+

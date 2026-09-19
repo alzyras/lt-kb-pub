@@ -37,10 +37,22 @@ media_all_json: |-
 
 ## Teiginiai
 
+<a id="claim-t-217809"></a>
+- t-217809
+  teiginys: "1856 metais „Mažesniuose istorijos raštuose“ iš dalies įgyvendinta pakartotinio „Lietuvių tautos istorijos“ leidimo idėja."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-197829
+
 <a id="claim-t-206118"></a>
-- t-001
+- t-206118
   teiginys: "1856 m. T. Narbutas „Mažesniuosiuose istorijos raštuose“ išspausdino J. Pomarnackio 1838 m. lapkričio laiške pateiktas mintis."
-  atnaujinta: "2026-08-12 08:57"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -72,5 +84,25 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-206118
+
+- id: c-197829
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 73"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 73."
+  citata_originali: |
+    Taigi 1856 me­
+    tais „Mažesniuose istorijos raštuose“ bent iš dalies buvo reali­
+    zuota pakartotinio LTI leidimo idėja, kuri, regis, galutinai bu­
+    vo palaidota 1855 metais, mirus A. Marcinovskiui.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217809
+

@@ -27,59 +27,6 @@ media_all_json: |-
 
 Mongolų imperija XIII a. Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę.
 
-## Teiginiai
-
-<a id="claim-t-74872"></a>
-- t-001
-  teiginys: "Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Mongolų imperija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Auksinė Orda: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Mongolų imperija: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai apibūdina Aukso ordą kaip suskilusios Mongolų imperijos dalį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Auksinė Orda priklausė Mongolų imperija (0.90); Rusai priklausė Auksinė Orda (0.76)"
-  pagrindžia:
-    - c-22678
-
-<a id="claim-t-74873"></a>
-- t-002
-  teiginys: "XIII a. Mongolų imperija sudaužė Kijevo Rusią, o Lietuva pasinaudojo pergale ir pajungė kai kurias rusų žemes."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzkariavo -> Kijevas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mongolų imperija: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Formuluotė apie Kijevo Rusios sudaužymą tiesiogiai nurodo Mongolų imperijos karinį pajungimą; leidžiamas artimiausias objektas yra Kijevas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Mongolų imperija užkariavo Kijevas (0.72)"
-  pagrindžia:
-    - c-22677
-
-<a id="claim-t-74875"></a>
-- t-003
-  teiginys: "Rusų kunigaikštijos buvo patekusios į Aukso ordos, suskilusios Mongolų imperijos dalies, valdžią ir mokėjo jai duoklę."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Mongolų imperija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Auksinė Orda: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Mongolų imperija: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai apibūdina Aukso ordą kaip suskilusios Mongolų imperijos dalį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Auksinė Orda priklausė Mongolų imperija (0.90); Rusai priklausė Auksinė Orda (0.76)"
-  pagrindžia:
-    - c-72858
-
 ## Citatos
 
 - id: c-22677
@@ -104,7 +51,7 @@ Mongolų imperija XIII a. Rusų kunigaikštijos buvo patekusios Aukso ordos (sus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-22678
@@ -126,7 +73,7 @@ Mongolų imperija XIII a. Rusų kunigaikštijos buvo patekusios Aukso ordos (sus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-72858
@@ -147,8 +94,62 @@ Mongolų imperija XIII a. Rusų kunigaikštijos buvo patekusios Aukso ordos (sus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/grupes/Auksinė Orda]]
+
+## Teiginiai
+
+<a id="claim-t-74872"></a>
+- t-001
+  teiginys: "Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Mongolų imperija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Auksinė Orda: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Mongolų imperija: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai apibūdina Aukso ordą kaip suskilusios Mongolų imperijos dalį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Auksinė Orda priklausė Mongolų imperija (0.90); Rusai priklausė Auksinė Orda (0.76)"
+  pagrindžia:
+    - c-22678
+
+<a id="claim-t-74873"></a>
+- t-002
+  teiginys: "XIII a. Mongolų imperija sudaužė Kijevo Rusią, o Lietuva pasinaudojo pergale ir pajungė kai kurias rusų žemes."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzkariavo -> Kijevas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mongolų imperija: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kijevas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Formuluotė apie Kijevo Rusios sudaužymą tiesiogiai nurodo Mongolų imperijos karinį pajungimą; leidžiamas artimiausias objektas yra Kijevas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Mongolų imperija užkariavo Kijevas (0.72)"
+  pagrindžia:
+    - c-22677
+
+<a id="claim-t-74875"></a>
+- t-003
+  teiginys: "Rusų kunigaikštijos buvo patekusios į Aukso ordos, suskilusios Mongolų imperijos dalies, valdžią ir mokėjo jai duoklę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Mongolų imperija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Auksinė Orda: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Mongolų imperija: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai apibūdina Aukso ordą kaip suskilusios Mongolų imperijos dalį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Auksinė Orda priklausė Mongolų imperija (0.90); Rusai priklausė Auksinė Orda (0.76)"
+  pagrindžia:
+    - c-72858
+

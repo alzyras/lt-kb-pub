@@ -44,75 +44,6 @@ historical_names: []
 
 Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugybė jų dvarus plėšiančių būrių, kurie pagaliau susispietė Lydos ir Ašmenos apylinkėse, o iš ten atėjo prie Valkininkų. Višniaveckis jį nusivežė į Valkininkus, kur kitą rytą įsiutusi bajorų minia, nepaisydama Višniaveckio pasipriešinimo, jį kardais sukapojo. Jis datuotas Valkininkuose 1700 m. lapkričio 24 d., t.
 
-## Teiginiai
-
-<a id="claim-t-181533"></a>
-- t-001
-  teiginys: "1700 m. lapkričio 19–24 d. Valkininkuose vykęs respublikonų bajorijos suvažiavimas priėmė Valkininkų nutarimą ir įkūrė LDK bajorijos generalinę konfederaciją."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Respublikonai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valkininkai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Respublikonai: mention_match, group, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valkininkai\" parinktas kaip owner_note_path. Targetas \"Respublikonai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įkūrimo data: 1700 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti pilnesnį faktą apie Valkininkuose priimtą nutarimą."
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  pagrindžia:
-    - c-43959
-
-<a id="claim-t-181535"></a>
-- t-002
-  teiginys: "Nugalėtojai su belaisviais, 8 patrankomis ir apie šimtu gurguolės vežimų vakare grįžo į Valkininkus."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vežimai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valkininkai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Vežimai: mention_match, thing, gap=22"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valkininkai\" parinktas kaip owner_note_path. Targetas \"Vežimai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-165069
-
-<a id="claim-t-204131"></a>
-- t-003
-  teiginys: "1534 m. Rūdninkų medžioklės dvare Žygimantas Senasis įsakė Jurgiui Mikalojaičiui Radvilai atleisti nuo karinės tarnybos Lieponių ir Valkininkų dvarų laikytoją."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  temporaliniai_duomenys: "įvykio data: 1534 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas šaltinyje nurodytas įsakymo vykdytojas ir vietos kontekstas. Nauji faktai nepridėti."
-  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
-  pagrindžia:
-    - c-186719
-
-<a id="claim-t-204176"></a>
-- t-004
-  teiginys: "1561 m. į Lietuvos didžiojo kunigaikščio rengiamą medžioklę Valkininkuose iš Kaniavos ir Dubičių dvarų turėjo būti pasiųsta 100 valstiečių penkioms dienoms, iš Alytaus dvaro – 200, iš Daugų – 75."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  temporaliniai_duomenys: "įvykio data: 1561 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus faktinis sakinys apie medžioklę Valkininkuose ir valstiečių telkimą. Šaltinio duomenys pateikti be papildomos atribucijos."
-  pagrindžia:
-    - c-186780
-
 ## Citatos
 
 - id: c-43959
@@ -141,8 +72,8 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-181533
 
 - id: c-165069
   sudarytojas: "Karolis Zikaras"
@@ -170,8 +101,8 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-181535
 
 - id: c-186719
   autorius: "Toma Zarankaitė"
@@ -190,8 +121,8 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-204131
 
 - id: c-186780
   autorius: "Toma Zarankaitė"
@@ -213,5 +144,112 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-204176
+
+- id: c-190854
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 235"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 235."
+  citata_originali: |
+    Vis dėlto liūdniausią minorinę
+    gaidą Vilniaus pranciškonų memoriale kuria 1831 m. carinės valdžios vajus po
+    1831 m. sukilimo uždarinėti katalikų vienuolynus. Šios represijos tiesiogiai ir
+    skaudžiai palietė pranciškonus konventualus. įgyvendinus 1831 m. liepos 19 d.
+    caro Nikolajaus I įsaką, iš 41 Lietuvos pranciškonų provincijos vienuolyno liko
+    tik io64. Memoriale fiksuojami keli atvejai, kai, pranciškonų manymu, pasaulie­
+    tinė dvasininkija (pvz., Vilniaus vyskupas sufraganas Benediktas Klongevičius)
+    bendradarbiavo su caro valdžia uždarant vieną ar kitą vienuolyną (pvz., Gelvonų,
+    Valkininkų)65.
+  citata_rodoma: "Memoriale fiksuojami keli atvejai, kai, pranciškonų manymu, pasaulie­\ntinė dvasininkija (pvz., Vilniaus vyskupas sufraganas Benediktas Klongevičius) \nbendradarbiavo su caro valdžia uždarant vieną ar kitą vienuolyną (pvz., Gelvonų, \nValkininkų)65."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-208250"></a>
+- t-001
+  teiginys: "Valkininkai minimi kaip vienas iš vienuolynų, kuriuos uždarant pranciškonai matė caro valdžios ir dvasininkijos bendradarbiavimą."
+  atnaujinta: "2026-09-13 23:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190854
+
+<a id="claim-t-181533"></a>
+- t-181533
+  teiginys: "1700 m. lapkričio 19–24 d. Valkininkuose vykęs respublikonų bajorijos suvažiavimas priėmė Valkininkų nutarimą ir įkūrė LDK bajorijos generalinę konfederaciją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Respublikonai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valkininkai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Respublikonai: mention_match, group, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valkininkai\" parinktas kaip owner_note_path. Targetas \"Respublikonai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įkūrimo data: 1700 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti pilnesnį faktą apie Valkininkuose priimtą nutarimą."
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  pagrindžia:
+    - c-43959
+
+<a id="claim-t-181535"></a>
+- t-181535
+  teiginys: "Nugalėtojai su belaisviais, 8 patrankomis ir apie šimtu gurguolės vežimų vakare grįžo į Valkininkus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vežimai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valkininkai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Vežimai: mention_match, thing, gap=22"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valkininkai\" parinktas kaip owner_note_path. Targetas \"Vežimai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-165069
+
+<a id="claim-t-204131"></a>
+- t-204131
+  teiginys: "1534 m. Rūdninkų medžioklės dvare Žygimantas Senasis įsakė Jurgiui Mikalojaičiui Radvilai atleisti nuo karinės tarnybos Lieponių ir Valkininkų dvarų laikytoją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1534 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas šaltinyje nurodytas įsakymo vykdytojas ir vietos kontekstas. Nauji faktai nepridėti."
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186719
+
+<a id="claim-t-204176"></a>
+- t-204176
+  teiginys: "1561 m. į Lietuvos didžiojo kunigaikščio rengiamą medžioklę Valkininkuose iš Kaniavos ir Dubičių dvarų turėjo būti pasiųsta 100 valstiečių penkioms dienoms, iš Alytaus dvaro – 200, iš Daugų – 75."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1561 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus faktinis sakinys apie medžioklę Valkininkuose ir valstiečių telkimą. Šaltinio duomenys pateikti be papildomos atribucijos."
+  pagrindžia:
+    - c-186780
+

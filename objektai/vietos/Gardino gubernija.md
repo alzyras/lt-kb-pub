@@ -47,10 +47,74 @@ historical_names: []
 
 ## Teiginiai
 
+<a id="claim-t-209267"></a>
+- t-209267
+  teiginys: "1804, 1807 ir 1813 m. Rusijos valdžios įsakai dėl žydų iškeldinimo iš dvarų ir sodžių Gardino gubernijoje pradėti vykdyti tik iš dalies."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  temporaliniai_duomenys: "įvykio data: 1813 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įvardytas įsakų leidėjas, jų turinys ir taikymo apimtis. Vėlesnė citatoje minima karo aplinkybė sąmoningai neįtraukta."
+  vertinimo_atnaujinta: "2026-09-02T01:53:28Z"
+  pagrindžia:
+    - c-191944
+
+<a id="claim-t-209470"></a>
+- t-209470
+  teiginys: "Vilniaus, Kauno ir Gardino gubernijose."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
+  pagrindžia:
+    - c-192090
+
+<a id="claim-t-209614"></a>
+- t-209614
+  teiginys: "Siųskime pinigus jeigu nenorim nustoti Lietuvai Vilniaus ir Gardino gubernijų."
+  atnaujinta: "2026-09-12 14:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192234
+
+<a id="claim-t-209615"></a>
+- t-209615
+  teiginys: "Lietuvos administratyvės sienos siekia Suval kų miestą (inclusive), Augustavo kanalą ir visą plotą Gardino gubernijos, užimtą vokie čių armijos."
+  atnaujinta: "2026-09-12 14:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192235
+
+<a id="claim-t-211586"></a>
+- t-211586
+  teiginys: "Aleksandras Bychovcas buvo Gardino gubernijos Volkovysko apskrities teisėjas."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194158
+
 <a id="claim-t-101721"></a>
-- t-001
+- t-101721
   teiginys: "1843 m. prie Vilniaus gubernijos prijungtos trys apskritys, iki tol priklausiusios Minsko ir Gardino gubernijoms."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -67,9 +131,9 @@ historical_names: []
     - c-95150
 
 <a id="claim-t-101723"></a>
-- t-002
+- t-101723
   teiginys: "Gardino gubernijos šiaurinis pakraštys istoriniu etnografiniu požiūriu buvo laikomas lietuvišku."
-  atnaujinta: "2026-05-31 12:11"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -85,9 +149,9 @@ historical_names: []
     - c-24126
 
 <a id="claim-t-101724"></a>
-- t-003
+- t-101724
   teiginys: "1801 m. buvo sudaryta Lietuvos Gardino gubernija, pavaldi Vilniuje veikusiai generalgubernatoriaus institucijai."
-  atnaujinta: "2026-05-31 12:11"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -103,9 +167,9 @@ historical_names: []
     - c-24125
 
 <a id="claim-t-101725"></a>
-- t-004
+- t-101725
   teiginys: "1843 m. prie Vilniaus gubernijos priskirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino gubernijoms."
-  atnaujinta: "2026-06-14 10:46"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -120,6 +184,22 @@ historical_names: []
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir pagrįstas citata apie Gardino gubernijai priklausiusias apskritis."
   pagrindžia:
     - c-95150
+
+<a id="claim-t-207578"></a>
+- t-207578
+  teiginys: "1840 m. Lietuvos vardas buvo išbrauktas iš Vilniaus ir Gardino gubernijų pavadinimų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1840 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys suformuluotas tiesiogiai, nurodant datą ir abu gubernijų pavadinimus. Iš citatos paimtas tik faktas, be papildomo politinio vertinimo."
+  vertinimo_atnaujinta: "2026-08-19T00:09:52Z"
+  pagrindžia:
+    - c-190195
 
 ## Reikšmingi paminėjimai
 - c-004
@@ -160,8 +240,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-101724
 
 - id: c-24126
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -183,8 +263,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-101723
 
 - id: c-95150
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -209,6 +289,128 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-004
+  pagrindžia:
+    - t-101721
+    - t-101725
+
+- id: c-190195
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 208"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 208."
+  citata_originali: |
+    Tiesa, Medicinos fakultetas pertvarkomas
+    į Medicinos-chirurgijos akademiją, o Teologijos fakultetas – į Dvasinę akademiją. Tačiau ir
+    šios 1842–1844 m. perkeliamos į Kijevą ir Peterburgą. 1839 m. likviduojama Graikų katalikų
+    bažnyčia, 1840 m. naikinamas Lietuvos Statuto veikimas, Lietuvos vardas išbraukiamas iš
+    Vilniaus ir Gardino gubernijų pavadinimų, o 1843 m. sudaroma nauja Kauno gubernija.
+  citata_rodoma: "1839 m. likviduojama Graikų katalikų \nbažnyčia, 1840 m. naikinamas Lietuvos Statuto veikimas, Lietuvos vardas išbraukiamas iš \nVilniaus ir Gardino gubernijų pavadinimų, o 1843 m. sudaroma nauja Kauno gubernija."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207578
+
+- id: c-191944
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 51"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 51."
+  citata_originali: |
+    1804,
+    1807,
+    1813 m. Rusijos valdžia, gindama
+    viešpataujančios klasės interesus, išleido įsakus, įpareigojančius žydus
+    išsikelti iš dvarų ir sodžių. Kuršo, Gardino gubernijose iš dalies tie
+    patvarkymai pradėti vykdyti59, bet 1812 karo metu Lietuvos
+    bajoriškajai visuomenei daug prisidėjus prie Napoleono žygio, o žydų
+    bendruomenei gerai pasidarbavus Rusijos interesų labui, tie įsakai liko
+    tik popieriuje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209267
+
+- id: c-192090
+  autorius: "Merkys, Vytautas; Vanagienė, Birutė"
+  šaltinis: "Motiejus Valančius. Ganytojiški laiškai"
+  puslapiai: "PDF 54"
+  indeksas: "Merkys, Vytautas; Vanagienė, Birutė, Motiejus Valančius. Ganytojiški laiškai, PDF 54."
+  citata_originali: |
+    Caras Aleksandras II 1857. XI. 20 reskriptu krei­
+    pėsi į Vilniaus generalgubernatorių V. Nazimovą, leis­
+    damas Vilniaus, Kauno ir Gardino gubernijose sudalyti
+    vietos bajorų dvarininkų komitetus valstiečių reformos
+    projektams nagrinėti.
+  citata_rodoma: "Vilniaus, Kauno ir Gardino gubernijose"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209470
+
+- id: c-192234
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 52"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 52."
+  citata_originali: |
+    Siųs-
+    kime pinigus jeigu nenorim nustoti Lietuvai
+    Vilniaus ir Gardino gubernijų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209614
+
+- id: c-192235
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 65"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 65."
+  citata_originali: |
+    Lietuvos administratyvės sienos siekia Suval­
+    kų miestą (inclusive), Augustavo kanalą ir
+    visą plotą Gardino gubernijos, užimtą vokie­
+    čių armijos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209615
+
+- id: c-194158
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 3"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 3."
+  citata_originali: |
+    „Bychovco kronika" jis buvo pramintas XIX a.
+    pagal rankraščio savininką, Gardino gubernijos Volko-
+    vysko apskrities teisėją Aleksandrą Bychovcą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211586
+

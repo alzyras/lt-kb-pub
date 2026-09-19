@@ -45,24 +45,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-204139"></a>
-- t-001
-  teiginys: "1561 m. Valkininkų medžioklei kaip varovai turėjo būti pasiųsti 100 valstiečių iš Kaniavos ir Dubičių dvarų, 200 iš Alytaus ir 75 iš Daugų, visus penkioms dienoms."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  temporaliniai_duomenys: "įvykio data: 1561 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Patikslintas šaltinio modalumas ir aiškiai susieti valstiečiai su varovų funkcija bei dvarais. Neįtraukta papildoma informacija apie bendrą dalyvių skaičių."
-  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
-  pagrindžia:
-    - c-186743
-
 ## Santrauka
 
 1561 m. Valkininkų medžioklei kaip varovai turėjo būti pasiųsti 100 valstiečių iš Kaniavos ir Dubičių dvarų, 200 iš Alytaus ir 75 iš Daugų, visus penkioms dienoms.
@@ -89,5 +71,24 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204139"></a>
+- t-001
+  teiginys: "1561 m. Valkininkų medžioklei kaip varovai turėjo būti pasiųsti 100 valstiečių iš Kaniavos ir Dubičių dvarų, 200 iš Alytaus ir 75 iš Daugų, visus penkioms dienoms."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1561 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslintas šaltinio modalumas ir aiškiai susieti valstiečiai su varovų funkcija bei dvarais. Neįtraukta papildoma informacija apie bendrą dalyvių skaičių."
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186743
+

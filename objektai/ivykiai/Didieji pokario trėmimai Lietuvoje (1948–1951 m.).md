@@ -51,21 +51,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-193680"></a>
-- t-001
-  teiginys: "Dislokuotos Lietuvoje NKVD divizijos vykdė baudžiamąsias operacijas: vien 1944 m. liepą–gruodį okupantų teroro aktais nužudyti 2 489 žmonės, apie 100 tūkst."
-  atnaujinta: "2026-07-06 12:55"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  pagrindžia:
-    - c-176349
-
 ## Citatos
 
 - id: c-176349
@@ -88,5 +73,21 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-193680"></a>
+- t-001
+  teiginys: "Dislokuotos Lietuvoje NKVD divizijos vykdė baudžiamąsias operacijas: vien 1944 m. liepą–gruodį okupantų teroro aktais nužudyti 2 489 žmonės, apie 100 tūkst."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  pagrindžia:
+    - c-176349
+

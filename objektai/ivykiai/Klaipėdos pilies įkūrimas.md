@@ -43,20 +43,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-201286"></a>
-- t-001
-  teiginys: "Taip sukalbėję, 29 liepos mėnesy metuo se 1251 Klaipėdos pilį pamatavo, kurią metams su kankant nubengė ir tenai vyskupas įkūręs bažnyčią paskyrė sau už katedrą, o pilį už buveinę, kaipogi iki šiolei Kuršo vyskupas lindojo Rygoj, jog žem galiai ir kuržemiai."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184636
-
 ## Citatos
 
 - id: c-184636
@@ -95,5 +81,20 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201286"></a>
+- t-001
+  teiginys: "Taip sukalbėję, 29 liepos mėnesy metuo se 1251 Klaipėdos pilį pamatavo, kurią metams su kankant nubengė ir tenai vyskupas įkūręs bažnyčią paskyrė sau už katedrą, o pilį už buveinę, kaipogi iki šiolei Kuršo vyskupas lindojo Rygoj, jog žem galiai ir kuržemiai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184636
+

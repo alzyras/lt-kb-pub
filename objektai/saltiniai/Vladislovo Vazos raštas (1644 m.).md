@@ -34,20 +34,6 @@ media_all_json: |-
 
 1644 m. Vladislovo Vazos rašte teigiama, kad jų anksčiau turėtus nuostatus valdovas atnaujinąs ir į vieną cechą prie laivavedžių jungiąs dar vežėjus ir linininkus.
 
-## Teiginiai
-
-<a id="claim-t-202301"></a>
-- t-001
-  teiginys: "1644 m. Vladislovo Vazos rašte teigiama, kad jų anksčiau turėtus nuostatus valdovas atnaujinąs ir į vieną cechą prie laivavedžių jungiąs dar vežėjus ir linininkus."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185648
-
 ## Citatos
 
 - id: c-185648
@@ -64,5 +50,20 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202301"></a>
+- t-001
+  teiginys: "1644 m. Vladislovo Vazos rašte teigiama, kad jų anksčiau turėtus nuostatus valdovas atnaujinąs ir į vieną cechą prie laivavedžių jungiąs dar vežėjus ir linininkus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185648
+

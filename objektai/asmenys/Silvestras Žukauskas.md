@@ -44,20 +44,6 @@ canonical_biography: "Žukauskas vedė liuteronę Zozefing Hasdorfaitę ir perė
 
 Žukauskas vedė liuteronę Zozefing Hasdorfaitę ir perėjo į evangelikų reformatorių tikėjimą | tapti vyresniaisiais karininkais.
 
-## Teiginiai
-
-<a id="claim-t-80722"></a>
-- t-001
-  teiginys: "1894 m. Silvestras Žukauskas vedė liuteronę Zozefing Hasdorfaitę ir perėjo į evangelikų reformatų tikėjimą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1894 m.; įvykio data: 1904-1905; įvykio data: 1905 m.; įvykio data: 1912 m.; įvykio data: 1914 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir paliktas citata paremtas faktas."
-  pagrindžia:
-    - c-42216
-
 ## Citatos
 
 - id: c-42216
@@ -84,5 +70,20 @@ canonical_biography: "Žukauskas vedė liuteronę Zozefing Hasdorfaitę ir perė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-80722"></a>
+- t-001
+  teiginys: "1894 m. Silvestras Žukauskas vedė liuteronę Zozefing Hasdorfaitę ir perėjo į evangelikų reformatų tikėjimą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1894 m.; įvykio data: 1904-1905; įvykio data: 1905 m.; įvykio data: 1912 m.; įvykio data: 1914 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir paliktas citata paremtas faktas."
+  pagrindžia:
+    - c-42216
+

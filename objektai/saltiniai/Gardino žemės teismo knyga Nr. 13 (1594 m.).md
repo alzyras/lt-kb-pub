@@ -39,20 +39,6 @@ Gardino žemės teismo knygoje Nr. 13 yra 1594 m. Gardino seniūno J. Kliukovski
 
 Gardino žemės teismo knygoje Nr. 13 yra 1594 m. Gardino seniūno J. Kliukovskio raštas-pakvitavimas.
 
-## Teiginiai
-
-<a id="claim-t-204111"></a>
-- t-001
-  teiginys: "Gardino žemės teismo knygoje Nr. 13 yra 1594 m. Gardino seniūno J. Kliukovskio raštas-pakvitavimas."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
-  pagrindžia:
-    - c-186715
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Gardino žemės teismo knygoje Nr. 13 yra 1594 m. Gardino seniūno J. Kliukovskio raštas-pakvitavimas.'
@@ -87,5 +73,20 @@ Gardino žemės teismo knygoje Nr. 13 yra 1594 m. Gardino seniūno J. Kliukovski
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204111"></a>
+- t-001
+  teiginys: "Gardino žemės teismo knygoje Nr. 13 yra 1594 m. Gardino seniūno J. Kliukovskio raštas-pakvitavimas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
+  pagrindžia:
+    - c-186715
+

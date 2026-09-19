@@ -36,26 +36,6 @@ historical_names: []
 
 sudarė žydai, vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV.
 
-## Teiginiai
-
-<a id="claim-t-77144"></a>
-- t-001
-  teiginys: "Pietų Afrikos Sąjunga buvo viena iš krypčių, į kurias per 20 metų vyko apie 30 proc. iš Lietuvos emigravusių žydų."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Pietų Afrikos Sąjunga: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žydai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Pietų Afrikos Sąjunga: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai pagrindžia žydų vykimą į Pietų Afrikos Sąjungą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Žydai keliavo į Pietų Afrikos Sąjunga (0.90)"
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  pagrindžia:
-    - c-24382
-
 ## Citatos
 
 - id: c-24382
@@ -75,8 +55,29 @@ sudarė žydai, vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/grupes/Žydai]]
+
+## Teiginiai
+
+<a id="claim-t-77144"></a>
+- t-001
+  teiginys: "Pietų Afrikos Sąjunga buvo viena iš krypčių, į kurias per 20 metų vyko apie 30 proc. iš Lietuvos emigravusių žydų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Pietų Afrikos Sąjunga: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žydai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Pietų Afrikos Sąjunga: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai pagrindžia žydų vykimą į Pietų Afrikos Sąjungą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Žydai keliavo į Pietų Afrikos Sąjunga (0.90)"
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  pagrindžia:
+    - c-24382
+

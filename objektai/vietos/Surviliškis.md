@@ -62,8 +62,24 @@ Surviliškis šiame šaltinyje yra vietovė.
     A. Žilgulis (iš Survilišk. v.) . .
   citata_rodoma: "A. Žilgulis (iš Survilišk. v.)"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 04:09"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-195497"></a>
+- t-001
+  teiginys: "1931 m. Tautosakos komisijos suvestinėje A. Žilgulis nurodytas kaip iš Surviliškio."
+  atnaujinta: "2026-09-13 18:02"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177920
+

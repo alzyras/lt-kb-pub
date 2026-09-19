@@ -35,26 +35,6 @@ Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos t
 
 ## Teiginiai
 
-<a id="claim-t-186316"></a>
-- t-001
-  teiginys: "Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos tarp Jogailos ir kryžiuočių."
-  atnaujinta: "2026-07-26 17:49"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata rodo, kad Vytautas dalyvavo Racionže vykusiame abiejų šalių taikos svarstyme su kryžiuočiais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  pagrindžia:
-    - c-169677
-
 <a id="claim-t-186317"></a>
 - t-002
   teiginys: "Racionžo sutartyje Vytautas turėjo užleisti kryžiuočiams Žemaitiją, Jogaila sumokėti 40 tūkst. florinų, o kryžiuočiai atiduoti lenkams Dobrynę."
@@ -72,6 +52,41 @@ Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos t
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karaliaus ir Vytauto sutartis su kryžiuočiais Racionže (1404 m.)\" parinktas kaip owner_note_path. Targetas \"Dobrynė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
+    - c-169678
+
+<a id="claim-t-186316"></a>
+- t-186316
+  teiginys: "Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos tarp Jogailos ir kryžiuočių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata rodo, kad Vytautas dalyvavo Racionže vykusiame abiejų šalių taikos svarstyme su kryžiuočiais."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
+  pagrindžia:
+    - c-169677
+    - c-169678
+
+<a id="claim-t-196349"></a>
+- t-196349
+  teiginys: "Kojelavičiaus pasakojime kryžiuočiai per Švitrigailos antrą pabėgimą į Prūsiją baisiai nusiaubė Lietuvą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-169677
     - c-169678
 
 ## Reikšmingi paminėjimai
@@ -157,8 +172,9 @@ Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-186316
+    - t-196349
 
 - id: c-169678
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -182,9 +198,13 @@ Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos t
     kurias pakvietė karalių ir Vytautą.
   citata_rodoma: "Mat Vytautas, gal\nnorėdamas pastūmėti Švitrigailą, praradusį kryžiuočių\npalankumą, į ką kita, gal dėl to, kad jau tada slaptai\ngalvojo apie karą su Maskva, sutiko su gana sunkiomis\nsąlygomis. Karaliaus Vladislovo vyskupo pasiūlytoje su­\ntartyje buvo surašytos štai šitokios sąlygos: Vytautas\nkryžiuočiams užleisiąs amžinai valdyti Žemaitiją, kara­\nlius Jogaila sumokėsiąs keturiasdešimt tūkstančių flori­\nnų, kryžiuočiai atiduosią lenkams Dobrynę, abi šalys\ntvarkingai grąžinsią viena kitai belaisvius, ištremsią iš\nsavo žemių perbėgėlius ir nutrauksią visokius išpuolius\nį kaimynų pasienio apygardas. Taikos sudarymui pažy­\nmėti Konradas Toninėje surengė iškilmingas vaišes, į\nkurias pakvietė karalių ir Vytautą."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+    - t-186316
+    - t-196349
+

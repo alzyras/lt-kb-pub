@@ -33,46 +33,6 @@ media_all_json: |-
 
 Už parlamento apsaugą ir gynybą tai išdavystė, visi bėga, jūs per naktį tik lavonais liksite, tai tuščias pastatas, ne pastate "2 2 atsakingos KAD, savanorių ir ATAS pajėgos juk Lietuvos simbolis“. “ Aukščiausiosios Tarybos pirmininkas ir šalies vadovas Vytautas Lansbergis 1991 m. sausio 13 d., saugomas ATAS (Aukščiausiosios Tarybos Apsaligos skyriaus) pareigūnų prieigose Žvėryno tiltas užtvertas „Kraz“ sunkvežimiu ir dviem „Kirovec“ traktoriais. Sausio įvykių metu iš medžiotojų būrelių bei specializuotų medžiotojų parduotuvių pavyko gauti medžioklinių šautuvų, šiek tiek kovinių ginklų gauta iš inkasatorių, vėliau jų suteikė kai kurios vidaus reikalų struktūros (Dešiniojoje nuotraukoje — ATAS.
 
-## Teiginiai
-
-<a id="claim-t-40832"></a>
-- t-001
-  teiginys: "1991 m. sausio 13 d. Vytautą Landsbergį saugojo ATAS pareigūnai."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "ATAS: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Aukščiausiosios Tarybos rūmai (institucija): mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"ATAS\" parinktas kaip owner_note_path. Targetas \"Aukščiausiosios Tarybos rūmai (institucija)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1991 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-44716
-
-<a id="claim-t-40833"></a>
-- t-002
-  teiginys: "Sausio įvykių metu ATAS darbuotojas Aukščiausiosios Tarybos rūmuose saugojo objektą ginkluotas TT pistoletu."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Aukščiausiosios Tarybos rūmai (institucija): 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "ATAS: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Aukščiausiosios Tarybos rūmai (institucija): llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad ATAS darbuotojas saugojo AT rūmuose."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "ATAS gynė Aukščiausiosios Tarybos rūmai (institucija) (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1991 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia pašalinti puslapio ir OCR triukšmą bei aiškiau nusakyti citatoje minimą veiksmą."
-  pagrindžia:
-    - c-44715
-
 ## Citatos
 
 - id: c-44715
@@ -118,7 +78,7 @@ Už parlamento apsaugą ir gynybą tai išdavystė, visi bėga, jūs per naktį 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-44716
@@ -149,5 +109,46 @@ Už parlamento apsaugą ir gynybą tai išdavystė, visi bėga, jūs per naktį 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-40832"></a>
+- t-001
+  teiginys: "1991 m. sausio 13 d. Vytautą Landsbergį saugojo ATAS pareigūnai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "ATAS: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Aukščiausiosios Tarybos rūmai (institucija): mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"ATAS\" parinktas kaip owner_note_path. Targetas \"Aukščiausiosios Tarybos rūmai (institucija)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1991 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-44716
+
+<a id="claim-t-40833"></a>
+- t-002
+  teiginys: "Sausio įvykių metu ATAS darbuotojas Aukščiausiosios Tarybos rūmuose saugojo objektą ginkluotas TT pistoletu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Aukščiausiosios Tarybos rūmai (institucija): 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "ATAS: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Aukščiausiosios Tarybos rūmai (institucija): llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad ATAS darbuotojas saugojo AT rūmuose."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "ATAS gynė Aukščiausiosios Tarybos rūmai (institucija) (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1991 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia pašalinti puslapio ir OCR triukšmą bei aiškiau nusakyti citatoje minimą veiksmą."
+  pagrindžia:
+    - c-44715
+

@@ -26,33 +26,6 @@ media_all_json: |-
 
 „KALBA“ bendrinės kalbos žurnalas I. Salio, ir kalbininkų Talmanto, Laurynaičio ir Kuzmickio straipsniai.
 
-## Teiginiai
-
-<a id="claim-t-34909"></a>
-- t-001
-  teiginys: "„Kalba“ buvo bendrinės kalbos žurnalo pirmasis sąsiuvinis, redaguotas Prano Skardžiaus."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-36134
-
-<a id="claim-t-34910"></a>
-- t-002
-  teiginys: "„Kalbos“ numeryje buvo įdėtas paskutinis prof. Jablonskio-Rygiškių Jono straipsnis."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kuzmickis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kalba: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Kuzmickis: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalba\" parinktas kaip owner_note_path. Targetas \"Kuzmickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-36135
-
 ## Citatos
 
 - id: c-36134
@@ -70,7 +43,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-36135
@@ -89,5 +62,33 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-34909"></a>
+- t-001
+  teiginys: "„Kalba“ buvo bendrinės kalbos žurnalo pirmasis sąsiuvinis, redaguotas Prano Skardžiaus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-36134
+
+<a id="claim-t-34910"></a>
+- t-002
+  teiginys: "„Kalbos“ numeryje buvo įdėtas paskutinis prof. Jablonskio-Rygiškių Jono straipsnis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kuzmickis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kalba: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Kuzmickis: mention_match, author"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalba\" parinktas kaip owner_note_path. Targetas \"Kuzmickis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-36135
+

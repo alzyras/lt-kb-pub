@@ -34,34 +34,6 @@ canonical_biography: "Kęstučio kalboje Andrius Kuprys įvardijamas kaip Kęstu
 
 Kęstučio kalboje Andrius Kuprys įvardijamas kaip Kęstučio sūnus ir Vytauto brolis, kuriam priklausė Jogailos su vokiečiais puolamas Polockas.
 
-## Teiginiai
-
-<a id="claim-t-194105"></a>
-- t-001
-  teiginys: "Kęstučio kalboje Andrius Kuprys įvardijamas kaip Kęstučio sūnus ir Vytauto brolis, kuriam priklausė Jogailos su vokiečiais puolamas Polockas."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-  pagrindžia:
-    - c-176718
-
-<a id="claim-t-206263"></a>
-- t-002
-  teiginys: "Teodoro Narbuto pasakojimu, Andrius šešiolika savaičių gynė apgultą Polocką, vadovavo jam palankiems miestiečiams ir išlaikė miesto valdovo statusą, nepaisydamas Skirgailos bei Livonijos magistro pastangų."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-188878
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kęstučio kalboje Andrius Kuprys įvardijamas kaip Kęstučio sūnus ir Vytauto brolis, kuriam priklausė Jogailos su vokiečiais puolamas Polockas.'
@@ -106,8 +78,6 @@ Kęstučio kalboje Andrius Kuprys įvardijamas kaip Kęstučio sūnus ir Vytauto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-188878
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -124,5 +94,32 @@ Kęstučio kalboje Andrius Kuprys įvardijamas kaip Kęstučio sūnus ir Vytauto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-206263
+
+## Teiginiai
+
+<a id="claim-t-211888"></a>
+- t-001
+  teiginys: "Kęstučio kalboje Andrius Kuprys įvardijamas kaip Kęstučio sūnus ir Vytauto brolis, kuriam priklausė Jogailos su vokiečiais puolamas Polockas."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+
+<a id="claim-t-206263"></a>
+- t-206263
+  teiginys: "Teodoro Narbuto pasakojimu, Andrius šešiolika savaičių gynė apgultą Polocką, vadovavo jam palankiems miestiečiams ir išlaikė miesto valdovo statusą, nepaisydamas Skirgailos bei Livonijos magistro pastangų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188878
+

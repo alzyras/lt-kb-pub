@@ -38,34 +38,6 @@ media_all_json: |-
 
 1390 m. Žemaičių pasiuntinių rašte išvardyti Medininkų, Kaltinėnų, Rietavo, Kražių, Viduklės, Raseinių ir Ariogalos pavietų gyventojai, sudarę sutartį su Prūsijos maršalka ir didikais. Žemaičių pasiuntinių raštas surašytas Karaliaučiaus pilyje 1390 m. gegužės 26 d., ketvirtadienį po Sekminių, o prie jo prikabintas Vytauto antspaudas.
 
-## Teiginiai
-
-<a id="claim-t-207047"></a>
-- t-001
-  teiginys: "1390 m. Žemaičių pasiuntinių rašte išvardyti Medininkų, Kaltinėnų, Rietavo, Kražių, Viduklės, Raseinių ir Ariogalos pavietų gyventojai, sudarę sutartį su Prūsijos maršalka ir didikais."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189662
-
-<a id="claim-t-207048"></a>
-- t-002
-  teiginys: "Žemaičių pasiuntinių raštas surašytas Karaliaučiaus pilyje 1390 m. gegužės 26 d., ketvirtadienį po Sekminių, o prie jo prikabintas Vytauto antspaudas."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189663
-
 ## Citatos
 
 - id: c-189662
@@ -97,7 +69,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189663
@@ -119,5 +91,34 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-207047"></a>
+- t-001
+  teiginys: "1390 m. Žemaičių pasiuntinių rašte išvardyti Medininkų, Kaltinėnų, Rietavo, Kražių, Viduklės, Raseinių ir Ariogalos pavietų gyventojai, sudarę sutartį su Prūsijos maršalka ir didikais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189662
+
+<a id="claim-t-207048"></a>
+- t-002
+  teiginys: "Žemaičių pasiuntinių raštas surašytas Karaliaučiaus pilyje 1390 m. gegužės 26 d., ketvirtadienį po Sekminių, o prie jo prikabintas Vytauto antspaudas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189663
+

@@ -38,10 +38,22 @@ Kojelavičiaus pasakojime Germantas pagal Šventaragio prašymą apvalė aikšt�
 
 ## Teiginiai
 
+<a id="claim-t-212002"></a>
+- t-212002
+  teiginys: "Gediminas apsinakvojo Šventaragio slėnyje."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194039
+
 <a id="claim-t-196778"></a>
-- t-001
+- t-196778
   teiginys: "Kojelavičiaus pasakojime Germantas pagal Šventaragio prašymą apvalė aikštę ir paskelbė ją valdovų laidotuvių vieta."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -108,5 +120,25 @@ Kojelavičiaus pasakojime Germantas pagal Šventaragio prašymą apvalė aikšt�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-196778
+
+- id: c-194039
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 66"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 66."
+  citata_originali: |
+    O kad buvo labai vėlu
+    grįžti į Trakus, jis sustojo Šventaragio slėnyje, kur
+    degindavo pirmuosius didžiuosius kunigaikščius, ir čia
+    apsinakvojo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212002
+

@@ -55,28 +55,6 @@ Kariela šiame šaltinyje minima kaip Augusto Roberto Niemio kelionių, studijų
 
 Kariela šiame šaltinyje yra regionas.
 
-## Teiginiai
-
-<a id="claim-t-195653"></a>
-- t-001
-  teiginys: "Augustas Robertas Niemi Lonnroto pėdomis padarė keletą kelionių po Karielą."
-  atnaujinta: "2026-07-12 09:30"
-  sprendimo_priezastis: "gap::places"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178054
-
-<a id="claim-t-195654"></a>
-- t-002
-  teiginys: "1909 m. Augustas Robertas Niemi studijų ir dainų rinkimo tikslais keliavo po Suomijos Karielą."
-  atnaujinta: "2026-07-12 09:30"
-  sprendimo_priezastis: "gap::places"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178055
-
 ## Citatos
 
 - id: c-178054
@@ -99,7 +77,7 @@ Kariela šiame šaltinyje yra regionas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-178055
@@ -128,5 +106,28 @@ Kariela šiame šaltinyje yra regionas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-195653"></a>
+- t-001
+  teiginys: "Augustas Robertas Niemi Lonnroto pėdomis padarė keletą kelionių po Karielą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::places"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-178054
+
+<a id="claim-t-195654"></a>
+- t-002
+  teiginys: "1909 m. Augustas Robertas Niemi studijų ir dainų rinkimo tikslais keliavo po Suomijos Karielą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::places"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-178055
+

@@ -46,50 +46,60 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
 
 ## Teiginiai
 
-<a id="claim-t-190011"></a>
-- t-001
-  teiginys: "Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę parsinešė Viklifo raštus."
-  atnaujinta: "2026-07-19 18:48"
+<a id="claim-t-217427"></a>
+- t-217427
+  teiginys: "Narbutas pasakoja, kad Jeronimas sugriovė šventyklą, užpylė šventąją ugnį ir įvedė krikščioniškus papročius."
+  atnaujinta: "2026-09-12 23:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jeronimas Prahiškis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jeronimas Prahiškis\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172894
+    - c-198793
 
-<a id="claim-t-190014"></a>
-- t-002
-  teiginys: "Narbutas pasakoja, kad Jeronimas Prahiškis įtikino žmones apgavyste, sugriovė šventyklą, užpylė ugnį ir įvedė krikščioniškus papročius."
-  atnaujinta: "2026-07-26 17:49"
+<a id="claim-t-219830"></a>
+- t-219830
+  teiginys: "Jeronimą Konstancoje 1416 m. birželio 21 d. sudegino gyvą."
+  atnaujinta: "2026-09-12 23:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Žyniai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jeronimas Prahiškis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Žyniai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jeronimas Prahiškis\" parinktas kaip owner_note_path. Targetas \"Žyniai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198472
+
+<a id="claim-t-216791"></a>
+- t-216791
+  teiginys: "Jeronimas Prahiškis 1416 m. birželio 21 d. buvo sudegintas gyvas Konstancoje."
+  atnaujinta: "2026-09-13 23:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "mirties data: 1416 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jeronimas Prahiškis mirė Konstanca“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys jau paremtas aiškiu faktiniu sakiniu, bet pataisyti OCR tarpai ir suformuota švari data. Nepridėtas susirinkimo apklausos kontekstas."
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172897
+    - c-198472
 
-<a id="claim-t-190016"></a>
-- t-003
+<a id="claim-t-218110"></a>
+- t-218110
+  teiginys: "Narbutas teigia, kad jeronimas pasijuokė iš jų nai vumo ir parodė, kad tai tuščios pasakos; įtikino, kad saulė, mėnuo ir žvaigždės yra Dievo kūriniai, kuriais aukščiausiasis Dievas papuošė dangų ir įsakė jiems amžinai šviesti žmonėms."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+
+<a id="claim-t-219486"></a>
+- t-219486
   teiginys: "Narbutas pasakoja, kad Jeronimas Prahiškis ilgai mokė žmones tikėjimo paslapčių ir liepė iškirsti šventąjį mišką."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-09-12 23:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -104,24 +114,12 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172899
-
-<a id="claim-t-197402"></a>
-- t-004
-  teiginys: "Narbutas teigia, kad jeronimas pasijuokė iš jų nai vumo ir parodė, kad tai tuščios pasakos; įtikino, kad saulė, mėnuo ir žvaigždės yra Dievo kūriniai, kuriais aukščiausiasis Dievas papuošė dangų ir įsakė jiems amžinai šviesti žmonėms."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-172896
+    - c-198826
 
 <a id="claim-t-206291"></a>
-- t-005
+- t-206291
   teiginys: "Karalius iš Krokuvos pasiuntė vienuolį kamaldulį Jeronimą Prahiškį pas Vytautą; atvykęs į Gardiną ir gavęs saugumo garantiją, jis buvo išsiųstas į pagonybę išpažįstančius valsčius."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -132,9 +130,9 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
     - c-188906
 
 <a id="claim-t-206292"></a>
-- t-006
+- t-206292
   teiginys: "Teodoras Narbutas aprašo, kad Jeronimas Prahiškis peržegnojo parkritusį žmogų ir liepė jam stotis, o įvykis buvo palaikytas stebuklingu."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -143,6 +141,24 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
   vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
   pagrindžia:
     - c-188907
+
+<a id="claim-t-219103"></a>
+- t-219103
+  teiginys: "Narbutas cituoja žinią, kad Jogailos į Lietuvą siųstas Jeronimas Prahiškis rašė apie pirmųjų sutiktų lietuvių žalčių garbinimą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "siunte_i -> Lietuva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jogaila (Lenkijos karalius, 1382 m.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Jogaila nusiuntė Jeronimą į Lietuvą."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -238,8 +254,6 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-172896
   autorius: "Teodoras Narbutas"
@@ -264,8 +278,6 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
 
 - id: c-172897
   autorius: "Teodoras Narbutas"
@@ -285,8 +297,6 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-172899
   autorius: "Teodoras Narbutas"
@@ -305,8 +315,6 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-188906
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -323,8 +331,8 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-206291
 
 - id: c-188907
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -342,8 +350,64 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 metus grįždamas į tėvynę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-206292
+
+- id: c-198472
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 398"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 398."
+  citata_originali: |
+    Jeronimą sudegino gyvą Konstancoje 1416 metais bir­
+    želio 21 dieną2.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216791
+    - t-219830
+
+- id: c-198793
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 453"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 453."
+  citata_originali: |
+    Jeronimas įtikino, kad tai apgavystė, sugriovė
+    šventyklą, užpylė ugnį ir įvedė krikščioniškus papročius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217427
+
+- id: c-198826
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 454"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 454."
+  citata_originali: |
+    Čia Jeronimas ilgai mokė
+    žmones, aiškino jiems šventąsias tikėjimo paslaptis, o mišką
+    liepė iškirsti. Žmonėms atėjus su kirviais, neatsirado nė vie­
+    no, kuris būtų išdrįsęs prisiliesti geležimi prie šventojo me­
+    džio. Todėl Jeronimas, pagriebęs kirvį, pirmas nukirto vieną iš
+    aukščiausių medžių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219486
 
 ## Ryšiai
 - Jeronimas Prahiškis mirė [[objektai/vietos/Konstanca]]

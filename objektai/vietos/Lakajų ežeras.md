@@ -37,24 +37,6 @@ historical_names: []
 
 Taip pat mūsų Lakajų ežerą, greta vyskupo dvaro, vadinamo Jakubiškėmis, esantį, su upėmis, į tą ežerą įtekančiomis ir iš jo ištekančiomis; pirmoji jų - Lakaja, antroji - Kamu­ žė, trečioji - Kimė, ketvirtoji - Fro­ mą, penktoji - Rašelė Dubingių vals­ čiuje.
 
-## Teiginiai
-
-<a id="claim-t-86204"></a>
-- t-001
-  teiginys: "Lakajų ežeras buvo greta vyskupo dvaro Jakubiškėse ir turėjo į jį įtekančių bei iš jo ištekančių upių."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dubingiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lakajų ežeras: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Dubingiai: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lakajų ežeras\" parinktas kaip owner_note_path. Targetas \"Dubingiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-82183
-
 ## Citatos
 
 - id: c-82183
@@ -92,5 +74,24 @@ Taip pat mūsų Lakajų ežerą, greta vyskupo dvaro, vadinamo Jakubiškėmis, e
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-86204"></a>
+- t-001
+  teiginys: "Lakajų ežeras buvo greta vyskupo dvaro Jakubiškėse ir turėjo į jį įtekančių bei iš jo ištekančių upių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dubingiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lakajų ežeras: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Dubingiai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lakajų ežeras\" parinktas kaip owner_note_path. Targetas \"Dubingiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-82183
+

@@ -28,21 +28,6 @@ media_all_json: |-
 
 Visus raštus į Maskvą antspauduodavo Lietuvos kancleriai, o iš Maskvos gaunami raštai ir su ja padarytos sutartys būdavo įteikiamos Lietuvos kancleriams ir saugomos Lietuvos valstybės archyve (metrikoje).
 
-## Teiginiai
-
-<a id="claim-t-193295"></a>
-- t-001
-  teiginys: "Visus raštus į Maskvą antspauduodavo Lietuvos kancleriai, o iš Maskvos gaunami raštai ir su ja padarytos sutartys būdavo įteikiamos Lietuvos kancleriams ir saugomos Lietuvos valstybės archyve (metrikoje)."
-  atnaujinta: "2026-07-06 12:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  pagrindžia:
-    - c-176023
-
 ## Citatos
 
 - id: c-176023
@@ -64,5 +49,21 @@ Visus raštus į Maskvą antspauduodavo Lietuvos kancleriai, o iš Maskvos gauna
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-193295"></a>
+- t-001
+  teiginys: "Visus raštus į Maskvą antspauduodavo Lietuvos kancleriai, o iš Maskvos gaunami raštai ir su ja padarytos sutartys būdavo įteikiamos Lietuvos kancleriams ir saugomos Lietuvos valstybės archyve (metrikoje)."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
+  pagrindžia:
+    - c-176023
+

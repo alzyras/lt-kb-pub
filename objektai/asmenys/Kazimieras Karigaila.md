@@ -70,23 +70,6 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
 
 ## Teiginiai
 
-<a id="claim-t-54975"></a>
-- t-001
-  teiginys: "Karigaila kovėsi su Vytautu, žemaičiais, Derbio kunigaikščiu ir anglų pėstininkais Vilniaus puolimo metu."
-  atnaujinta: "2026-05-31 14:13"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Vilnius: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kazimieras Karigaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kontekstas rodo, kad Karigaila vadovavo gynėjams Vilniaus miesto tvirtovėse puolimo metu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Kazimieras Karigaila gynė Vilnius (0.72)"
-  pagrindžia:
-    - c-55519
-
 <a id="claim-t-54976"></a>
 - t-002
   teiginys: "Karigaila, vadinamas vyriausiuoju vadu, žuvo bėgdamas į Aukštutinę pilį."
@@ -120,10 +103,27 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   pagrindžia:
     - c-55521
 
+<a id="claim-t-54975"></a>
+- t-54975
+  teiginys: "Karigaila kovėsi su Vytautu, žemaičiais, Derbio kunigaikščiu ir anglų pėstininkais Vilniaus puolimo metu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Vilnius: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kazimieras Karigaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kontekstas rodo, kad Karigaila vadovavo gynėjams Vilniaus miesto tvirtovėse puolimo metu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Kazimieras Karigaila gynė Vilnius (0.72)"
+  pagrindžia:
+    - c-55519
+
 <a id="claim-t-54978"></a>
-- t-004
+- t-54978
   teiginys: "Kita versija teigia, kad kunigaikštis Karigaila buvo kareivių neatpažintas nukautas."
-  atnaujinta: "2026-05-31 14:13"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Karigaila: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -137,9 +137,9 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
     - c-55522
 
 <a id="claim-t-173188"></a>
-- t-005
+- t-173188
   teiginys: "Kazimieras Karigaila buvo nužudytas, o jo galva atskirta nuo kūno ir išniekinta karaliaus paniekinimui."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Karigaila: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -153,9 +153,9 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
     - c-55521
 
 <a id="claim-t-173189"></a>
-- t-006
+- t-173189
   teiginys: "Kazimieras Karigaila žuvo mūšio lauke, bėgdamas gelbėtis į Aukštutinę pilį ir priešų neatpažintas."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "mire -> Vilnius: 0.71"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -170,9 +170,9 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
     - c-157519
 
 <a id="claim-t-173190"></a>
-- t-007
+- t-173190
   teiginys: "1396 m. Vytauto privilegija Kazimierui Karigailai, kaip mirusiam jo broliui, numatė kasdienes skaitytines mišias."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_brolis -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.66"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -190,9 +190,9 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
     - c-157520
 
 <a id="claim-t-173192"></a>
-- t-008
+- t-173192
   teiginys: "Kazimieras Karigaila buvo palaidotas katedroje, šalia vėliau iškilmingai palaidoto mirusiojo."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Karigaila: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -206,9 +206,9 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
     - c-157523
 
 <a id="claim-t-173193"></a>
-- t-009
+- t-173193
   teiginys: "Kazimieras Karigaila buvo palaidotas katedroje, o šalia jo iškilmingai palaidotas Aleksandras Vygantas."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Aleksandras Jogailaitis: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -222,9 +222,9 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
     - c-55523
 
 <a id="claim-t-173194"></a>
-- t-010
+- t-173194
   teiginys: "Ordino pareigūno laiške teigta, kad Karigaila buvo nukautas kareivių neatpažintas, o apie jo žūtį sužinota penktą dieną."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Karigaila: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -258,8 +258,8 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-54975
 
 - id: c-55521
   autorius: "Michał Baliński"
@@ -284,13 +284,14 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
     užgauliojo karaliaus paniekinimui].
   citata_rodoma: ", p. 35, parašyta: \nTandem Christianissimum principem \ndominum Cazimirum dictum Cortgel- \nlo, fratrem germanum domini Regis, in­\nterfecerunt, interfectique caput a corpo­\nre scindentes et amputantes et \ndetruncantes, cum eodem capite ludib­\nria et multas subsannaciones fecerunt \nin vilipendium Regis. [Pagaliau krikš­\nčioniškąjį valdovą poną Kazimierą, \nvadinamą Karigaila, tikrą karaliaus \nbrolį, nužudė, ir nužudytojo galvą \nnuo kūno nuplėšę, nupjovę ir nukir­\ntę, iš šios galvos visaip tyčiojosi ir ją \nužgauliojo karaliaus paniekinimui]."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
-    - t-005
+    - t-173188
 
 - id: c-55522
   autorius: "Michał Baliński"
@@ -335,9 +336,9 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
-    - t-010
+  pagrindžia:
+    - t-173194
+    - t-54978
 
 - id: c-55523
   autorius: "Michał Baliński"
@@ -360,8 +361,8 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
+  pagrindžia:
+    - t-173193
 
 - id: c-157519
   autorius: "Michał Baliński"
@@ -390,13 +391,14 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
     (Briefe des Grosskomthurs an den Köm.
   citata_rodoma: "Arkikomtūro laiškas Romos\n- •\n123\n\n## Puslapis 140\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nPatrankų, apie kurias neseniai buvo sužinota, baisūs pa­\ndariniai bei anglų lankininkų narsa ir sumanumas, mūšiuose \nįgauti, lėmė Lietuvos patirtus didžiausius smūgius30. Siaubo \npagautų žmonių kamšatis ir visur umaru besibraunantis, įsi- \nšėliojęs priešas atėmė iš vadų paskutinę galimybę išsigelbė­\nti; netgi pats vyriausiasis vadas kunigaikštis Karigaila, į Aukš­\ntutinę pilį bėgęs gelbėtis, priešo užpultas ir neatpažintas, krito \nmūšio lauke nukautas, ilgam palikęs visus nežinioje apie sa­\nvo likimą31. Taip pasibaigė toji diena, lig tolei baisiausia Lie­\ntuvos sostinei."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
-    - t-006
+    - t-173189
 
 - id: c-157520
   autorius: "Michał Baliński"
@@ -449,8 +451,8 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-173190
 
 - id: c-157523
   autorius: "Michał Baliński"
@@ -473,8 +475,8 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
+  pagrindžia:
+    - t-173192
 
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

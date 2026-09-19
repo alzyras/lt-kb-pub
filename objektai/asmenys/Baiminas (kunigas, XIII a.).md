@@ -44,20 +44,6 @@ canonical_biography: "Pirmasis jo rūpinimos buvo pasidaryti tarpeju Mestvino, P
 
 Pirmasis jo rūpinimos buvo pasidaryti tarpeju Mestvino, Pamarių kunig., ir su kryžėjais jį sude rinti, kaipogi Mestvimas, apleistas nuo savo brolio, maž tešelpiamas nuo Baimino, kunig.
 
-## Teiginiai
-
-<a id="claim-t-201457"></a>
-- t-001
-  teiginys: "Pirmasis jo rūpinimos buvo pasidaryti tarpeju Mestvino, Pamarių kunig., ir su kryžėjais jį sude rinti, kaipogi Mestvimas, apleistas nuo savo brolio, maž tešelpiamas nuo Baimino, kunig."
-  atnaujinta: "2026-07-16 14:37"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184807
-
 ## Citatos
 
 - id: c-184807
@@ -76,5 +62,20 @@ Pirmasis jo rūpinimos buvo pasidaryti tarpeju Mestvino, Pamarių kunig., ir su 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201457"></a>
+- t-001
+  teiginys: "Pirmasis jo rūpinimos buvo pasidaryti tarpeju Mestvino, Pamarių kunig., ir su kryžėjais jį sude rinti, kaipogi Mestvimas, apleistas nuo savo brolio, maž tešelpiamas nuo Baimino, kunig."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184807
+

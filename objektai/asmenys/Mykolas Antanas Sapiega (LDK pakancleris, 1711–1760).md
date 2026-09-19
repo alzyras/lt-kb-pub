@@ -67,23 +67,6 @@ Mykolas Antanas Sapiega buvo LDK pakancleris. Mykolas Antanas Sapiega Gimė 1711
   pagrindžia:
     - c-183908
 
-<a id="claim-t-200679"></a>
-- t-002
-  teiginys: "Mykolas Antanas Sapiega Gimė 1711 m. ir mirė 1760 m."
-  atnaujinta: "2026-07-26 17:50"
-  sprendimo_priezastis: "final::darbas/prompts/06_deduplication/01_deduplicate_entities.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Antanas Tovianskis (tribunolo vicemaršalo siekęs bajoras, XVIII a.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Antanas Tovianskis (tribunolo vicemaršalo siekęs bajoras, XVIII a.): mention_match, person, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760)\" parinktas kaip owner_note_path. Targetas \"Antanas Tovianskis (tribunolo vicemaršalo siekęs bajoras, XVIII a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
-  pagrindžia:
-    - c-183908
-
 <a id="claim-t-200680"></a>
 - t-003
   teiginys: "Mykolas Antanas Sapiega buvo LDK pakancleris."
@@ -120,6 +103,38 @@ Mykolas Antanas Sapiega buvo LDK pakancleris. Mykolas Antanas Sapiega Gimė 1711
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir aiškiai nurodo Mykolo Antano Sapiegos veiksmą bei 1755 m. laiško kontekstą. Naujų faktų ar papildomos atribucijos nereikėjo."
   pagrindžia:
     - c-183908
+
+<a id="claim-t-208027"></a>
+- t-208027
+  teiginys: "1746 m. balandžio 1 d. Vilniuje Lietuvos medžioklis Mykolas Antanas Sapiega parašė laišką neįvardytam kunigaikščiui."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  temporaliniai_duomenys: "įvykio data: 1746 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Ištaisytas OCR triukšmas ir fragmentas paverstas sakiniu, išlaikant datą, vietą, autoriaus pareigas ir neįvardytą adresatą."
+  vertinimo_atnaujinta: "2026-08-18T20:43:07Z"
+  pagrindžia:
+    - c-190706
+
+<a id="claim-t-208099"></a>
+- t-208099
+  teiginys: "1746 m. Mykolas Antanas Sapiega, Lietuvos medžioklis, laiške neįvardytam kunigaikščiui minėjo savo sėkmę Vilniuje ir būsimus Lietuvos Vyriausiojo Tribunolo posėdžius."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  temporaliniai_duomenys: "įvykio data: 1746 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sutvarkytas OCR tarpas ir sutrumpintas sakinys; išlaikytas laiške minimas turinys, nepridedant nepatvirtintų detalių."
+  vertinimo_atnaujinta: "2026-08-18T20:43:07Z"
+  pagrindžia:
+    - c-190737
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -172,12 +187,52 @@ Mykolas Antanas Sapiega buvo LDK pakancleris. Mykolas Antanas Sapiega Gimė 1711
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 6."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 17:37"
-  pagrindzia:
+  pagrindžia:
     - t-001
-    - t-002
     - t-003
     - t-004
+
+- id: c-190706
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 186"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 186."
+  citata_originali: |
+    1746 m. balandžio 1 d. Vilnius. Lietuvos medžioklio Mykolo Antano Sapiegos laižkas nežino­
+    mam kunigaikščiui. Zakład Narodowy itn.
+  citata_rodoma: "1746 m. balandžio 1 d. Vilnius. Lietuvos medžioklio Mykolo Antano Sapiegos laižkas nežino­\nmam kunigaikščiui."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208027
+
+- id: c-190737
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 186"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 186."
+  citata_originali: |
+    5916 I I I , 1.30114.
+    1746 m. Lietuvos medžioklis Mykolas Antanas Sapiega neįvardytam kunigaikščiui
+    rašė, kad Vilniuje jam sekasi, bet daugiau nieko konkretaus šiame laiške nepasa­
+    kyta, tik pasvarstyta apie būsimus Lietuvos Vyriausiojo Tribunolo posėdžius*.
+  citata_rodoma: "1746 m. Lietuvos medžioklis Mykolas Antanas Sapiega neįvardytam kunigaikščiui \nrašė, kad Vilniuje jam sekasi, bet daugiau nieko konkretaus šiame laiške nepasa­\nkyta, tik pasvarstyta apie būsimus Lietuvos Vyriausiojo Tribunolo posėdžius*."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208099
 
 ## Ryšiai
 - Mykolas Antanas Sapiega (LDK pakancleris, 1711–1760) mirė [[objektai/vietos/Slonimas]]

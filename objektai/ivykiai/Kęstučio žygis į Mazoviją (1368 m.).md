@@ -40,21 +40,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206820"></a>
-- t-001
-  teiginys: "1368 m. Kęstutis netikėtai įsiveržė į Mazoviją, užėmė Pultuską, įsakė miestą apiplėšti ir sudeginti, o pilyje pasislėpę gyventojai ją gynė, kol pilis buvo padegta."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189435
-
 ## Santrauka
 
 1368 m. Kęstutis netikėtai įsiveržė į Mazoviją, užėmė Pultuską, įsakė miestą apiplėšti ir sudeginti, o pilyje pasislėpę gyventojai ją gynė, kol pilis buvo padegta.
@@ -77,5 +62,21 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206820"></a>
+- t-001
+  teiginys: "1368 m. Kęstutis netikėtai įsiveržė į Mazoviją, užėmė Pultuską, įsakė miestą apiplėšti ir sudeginti, o pilyje pasislėpę gyventojai ją gynė, kol pilis buvo padegta."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189435
+

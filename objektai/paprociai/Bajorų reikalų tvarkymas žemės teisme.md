@@ -39,32 +39,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-204097"></a>
-- t-001
-  teiginys: "Bajorų juridiniai veiksmai ir finansinės operacijos būdavo užfiksuojami pilies arba žemės teisme, o iš pilies teismo knygų į žemės teismą peraktuojami notariniai įrašai ir vaznių pareiškimai."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
-  pagrindžia:
-    - c-186701
-
-<a id="claim-t-204098"></a>
-- t-002
-  teiginys: "Žemės teismas tapo pagrindine viešosios erdvės vieta, kur spręsti bajorų tarpusavio ginčai ir tvirtintos finansinės operacijos."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
-  pagrindžia:
-    - c-186702
-
 ## Santrauka
 
 Bajorų juridiniai veiksmai ir finansinės operacijos būdavo užfiksuojami pilies arba žemės teisme, o iš pilies teismo knygų į žemės teismą peraktuojami notariniai įrašai ir vaznių pareiškimai. Žemės teismas tapo pagrindine viešosios erdvės vieta, kur spręsti bajorų tarpusavio ginčai ir tvirtintos finansinės operacijos.
@@ -89,7 +63,7 @@ Bajorų juridiniai veiksmai ir finansinės operacijos būdavo užfiksuojami pili
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186702
@@ -109,5 +83,32 @@ Bajorų juridiniai veiksmai ir finansinės operacijos būdavo užfiksuojami pili
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-204097"></a>
+- t-001
+  teiginys: "Bajorų juridiniai veiksmai ir finansinės operacijos būdavo užfiksuojami pilies arba žemės teisme, o iš pilies teismo knygų į žemės teismą peraktuojami notariniai įrašai ir vaznių pareiškimai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
+  pagrindžia:
+    - c-186701
+
+<a id="claim-t-204098"></a>
+- t-002
+  teiginys: "Žemės teismas tapo pagrindine viešosios erdvės vieta, kur spręsti bajorų tarpusavio ginčai ir tvirtintos finansinės operacijos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
+  pagrindžia:
+    - c-186702
+

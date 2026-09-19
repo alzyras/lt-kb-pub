@@ -51,3 +51,43 @@ Rugsėjo 10 d. dienraštyje „Lietuva“ paskelbtoje publikacijoje Hymanso proj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-190324
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 234"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 234."
+  citata_originali: |
+    Nors istorikai neabejoja, kad sąmokslo gijos veda prie šaulių, kariuomenės ir
+    tautininkų. Jau po dienos nuo Hymanso projekto publikacijos rugsėjo 10 d. jų dienraštyje
+    „Lietuva“ buvo rašoma: „ne tik atskiri kurie nors siūlomo projekto straipsniai, bet bendra
+    jo pamatinė tendencija verčia mus šiuo metu daryti kiekvieną žingsnį didžiausiu atsargu-
+    mu, įtempti ištvermę, jei nenorime pradėti eit Liublino ir Horodlės keliais.“ LDK istorijos
+    interpretacijos veiksnys įjungiamas visu pajėgumu.
+  citata_rodoma: "nos nuo Hymanso projekto publikacijos rugsėjo 10 d. jų dienraštyje \n„Lietuva“ buvo rašoma: „ne tik atskiri kurie nors siūlomo projekto straipsniai, bet bendra \njo pamatinė tendencija verčia mus šiuo metu daryti kiekvieną žingsnį didžiausiu atsargu-\nmu, įtempti ištvermę, jei nenorime pradėti eit Liublino ir Horodlės keliais.“ LDK istor"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-207707"></a>
+- t-001
+  teiginys: "Rugsėjo 10 d. dienraštyje „Lietuva“ paskelbtoje publikacijoje Hymanso projektas kritikuotas dėl galimo grįžimo Liublino ir Horodlės keliais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190324
+

@@ -37,10 +37,46 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
 
 ## Teiginiai
 
+<a id="claim-t-210358"></a>
+- t-210358
+  teiginys: "Visi tie didikai suvažiavo į Alšėnus pas kunigaikštį Jurgį ir vienbalsiai nutarė rinkti Didžiosios Kunigaikš tystės šeimininku Jogailos sūnų karalaitį Kazimierą l0, Lietuvos žemės tėvonį."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193136
+
+<a id="claim-t-210711"></a>
+- t-210711
+  teiginys: "Karalius, sunkios ligos kamuojamas ir nežinodamas, ko griebtis, sušaukė pas save Tarybos ponus ir savo etmoną poną Stanislovą Petravičių Kišką, ir savo favoritą rūmų maršalą kuni gaikštį Mykolą Glinskį, perdavė į jų rankas visus sa vuosius valdovo ir."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193300
+
+<a id="claim-t-211292"></a>
+- t-211292
+  teiginys: "Išgirdę apie tai tikrą žinią, didysis kunigaikštis Ka zimieras ir Didžiosios Kunigaikštystės Ponų Taryba skubiai siunčia su kariuomene Joną Goštautą, kurį, įke liant Kazimierą į sostą, buvo paskyrę didžiojo kuni gaikščio globėju, nes kunigaikštis Kazimieras."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194160
+
 <a id="claim-t-86840"></a>
-- t-001
+- t-86840
   teiginys: "1560 m. Vilniuje vykusiame Lietuvos Didžiosios Kunigaikštystės Ponų Tarybos seime karalius leido bajorams rinkti delegatus."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -57,9 +93,9 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
     - c-82819
 
 <a id="claim-t-204332"></a>
-- t-002
+- t-204332
   teiginys: "Kazimiero laikais Ponų tarybos sueigos buvo vadinamos tais pačiais terminais kaip ir skirtingos apimties suvažiavimai."
-  atnaujinta: "2026-08-07 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -69,9 +105,9 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
     - c-186936
 
 <a id="claim-t-204334"></a>
-- t-003
+- t-204334
   teiginys: "Kasdienė dvaro taryba Vytauto laikais tapo institucine Didžiojo kunigaikščio taryba, o Kazimiero Jogailaičio valdymo metu virto Ponų taryba."
-  atnaujinta: "2026-08-07 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -104,8 +140,8 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-86840
 
 - id: c-186936
   šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
@@ -129,8 +165,8 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-204332
 
 - id: c-186938
   šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
@@ -149,5 +185,93 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-204334
+
+- id: c-190358
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 200"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 200."
+  citata_originali: |
+    XVI a. pirmojoje pusėje pradėtas kaupti diplomatinio darbo imperatoriaus dvare
+    patyrimas, užmegzti asmeniniai ryšiai labai pravertė po Zygimato Augusto mirties
+    1572 m. prasidėjus bekaralmečiams ir Abiejų Tautų Respublikos valdovo paieškoms.
+    Tai buvo laikai, kada buvo tikrinamas Lietuvos Didžiosios Kunigaikštystės diploma-
+    tinės tarnybos gebėjimas suktis tarp kelių tarptautinių jėgų—Maskvos, Imperijos, Prūsi-
+    jos, Prancūzijos, Švedijos, partnerės ir konkurentės 1569 m. unijos sujungtų valstybių
+    gyvenime — Lenkijos. Lietuvos Didžiosios Kunigaikštystės Ponų taryba dėjo daug pa-
+    stangų diplomatiniais manevrais „pataisyti uniją", primesti Lenkijai savą kandidatą į
+    sostą arba net pasiekti, kad būtų išrinktas atskiras Lietuvos didysis kunigaikštis.
+  citata_rodoma: "Lietuvos Didžiosios Kunigaikštystės Ponų taryba dėjo daug pa-\nstangų diplomatiniais manevrais „pataisyti uniją\", primesti Lenkijai savą kandidatą į\nsostą arba net pasiekti, kad būtų išrinktas atskiras Lietuvos didysis kunigaikštis."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-193136
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 122"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 122."
+  citata_originali: |
+    Visi tie didikai suvažiavo į Alšėnus pas kunigaikštį
+    Jurgį ir vienbalsiai nutarė rinkti Didžiosios Kunigaikš­
+    tystės šeimininku Jogailos sūnų karalaitį Kazimierą l0,
+    Lietuvos žemės tėvonį
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210358
+
+- id: c-193300
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 166"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 166."
+  citata_originali: |
+    Karalius, sunkios
+    ligos kamuojamas ir nežinodamas, ko griebtis, sušaukė
+    pas save Tarybos ponus ir savo etmoną poną Stanislovą
+    Petravičių Kišką, ir savo favoritą rūmų maršalą kuni­
+    gaikštį Mykolą Glinskį, perdavė į jų rankas visus sa­
+    vuosius valdovo ir valstybės reikalus, o save liepė
+    neštuvais nugabenti į Vilnių6; Ponų Taryba, ir etmo­
+    nas. ir maršalas kunigaikštis Mykolas Glinskis su visais
+    žmonėmis pasiliko Lydoje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210711
+
+- id: c-194160
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 124"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 124."
+  citata_originali: |
+    Išgirdę apie tai tikrą žinią, didysis kunigaikštis Ka­
+    zimieras ir Didžiosios Kunigaikštystės Ponų Taryba
+    skubiai siunčia su kariuomene Joną Goštautą, kurį, įke­
+    liant Kazimierą į sostą, buvo paskyrę didžiojo kuni­
+    gaikščio globėju, nes kunigaikštis Kazimieras dar bu­
+    vo mažametis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211292
+

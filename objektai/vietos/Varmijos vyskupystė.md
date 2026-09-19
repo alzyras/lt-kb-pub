@@ -45,48 +45,6 @@ historical_names: []
 
 Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę. Jėzuitų į Lenkiją atkvietė garsus katalikybės gynėjas Varmijos vyskupas St.
 
-## Teiginiai
-
-<a id="claim-t-02829"></a>
-- t-001
-  teiginys: "1564 m. Varmijos vyskupas Stanislovas Hozijus atkvietė jėzuitus į Lenkiją ir įkurdino juos Braunsberge."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Varmijos vyskupystė: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Braunsbergas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Varmijos vyskupystė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Braunsbergas įvardytas kaip Varmijos vyskupystės centras."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  semantiniai_rysiai: "Braunsbergas priklausė Varmijos vyskupystė (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1564 m.; įvykio data: 1569 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko tikslesnį sakinį, susiejantį Varmijos vyskupystę su Braunsbergu."
-  pagrindžia:
-    - c-03067
-
-<a id="claim-t-02830"></a>
-- t-002
-  teiginys: "1466 m. Torno taika Varmijos vyskupystę perleido Lenkijai."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lenkija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Varmijos vyskupystė: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Varmijos vyskupystė buvo perleista Lenkijai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  semantiniai_rysiai: "Varmijos vyskupystė priklausė Lenkija (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1466 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sutrumpinta iki aiškaus fakto apie Varmijos vyskupystę."
-  pagrindžia:
-    - c-03068
-
 ## Citatos
 
 - id: c-03067
@@ -114,7 +72,7 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-03068
@@ -132,8 +90,51 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai
 - Varmijos vyskupystė priklausė [[objektai/vietos/Lenkija]]
+
+## Teiginiai
+
+<a id="claim-t-02829"></a>
+- t-001
+  teiginys: "1564 m. Varmijos vyskupas Stanislovas Hozijus atkvietė jėzuitus į Lenkiją ir įkurdino juos Braunsberge."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Varmijos vyskupystė: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Braunsbergas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Varmijos vyskupystė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Braunsbergas įvardytas kaip Varmijos vyskupystės centras."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Braunsbergas priklausė Varmijos vyskupystė (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1564 m.; įvykio data: 1569 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko tikslesnį sakinį, susiejantį Varmijos vyskupystę su Braunsbergu."
+  pagrindžia:
+    - c-03067
+
+<a id="claim-t-02830"></a>
+- t-002
+  teiginys: "1466 m. Torno taika Varmijos vyskupystę perleido Lenkijai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lenkija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Varmijos vyskupystė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Varmijos vyskupystė buvo perleista Lenkijai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Varmijos vyskupystė priklausė Lenkija (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1466 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sutrumpinta iki aiškaus fakto apie Varmijos vyskupystę."
+  pagrindžia:
+    - c-03068
+

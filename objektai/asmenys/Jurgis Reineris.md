@@ -40,32 +40,6 @@ canonical_biography: "1577 m. Kauno seniūnas Jonas Chodkevičius suteikė Jurgi
 
 1577 m. Kauno seniūnas Jonas Chodkevičius suteikė Jurgiui Reineriui sklypą seniūnijos žemėje Jiesios ir Vyčio upių santakoje popieriaus malūnui statyti. Reineris 10 metų neprivalės valdovui atlikinėti jokių prievolių, tik paskui reikės kasmet atiduoti valdovo reikmėms 10 rėzų popieriaus.
 
-## Teiginiai
-
-<a id="claim-t-202085"></a>
-- t-001
-  teiginys: "1577 m. Kauno seniūnas Jonas Chodkevičius suteikė Jurgiui Reineriui sklypą seniūnijos žemėje Jiesios ir Vyčio upių santakoje popieriaus malūnui statyti."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185432
-
-<a id="claim-t-202086"></a>
-- t-002
-  teiginys: "Reineris 10 metų neprivalės valdovui atlikinėti jokių prievolių, tik paskui reikės kasmet atiduoti valdovo reikmėms 10 rėzų popieriaus."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185433
-
 ## Citatos
 
 - id: c-185432
@@ -81,7 +55,7 @@ canonical_biography: "1577 m. Kauno seniūnas Jonas Chodkevičius suteikė Jurgi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185433
@@ -98,5 +72,32 @@ canonical_biography: "1577 m. Kauno seniūnas Jonas Chodkevičius suteikė Jurgi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-202085"></a>
+- t-001
+  teiginys: "1577 m. Kauno seniūnas Jonas Chodkevičius suteikė Jurgiui Reineriui sklypą seniūnijos žemėje Jiesios ir Vyčio upių santakoje popieriaus malūnui statyti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185432
+
+<a id="claim-t-202086"></a>
+- t-002
+  teiginys: "Reineris 10 metų neprivalės valdovui atlikinėti jokių prievolių, tik paskui reikės kasmet atiduoti valdovo reikmėms 10 rėzų popieriaus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185433
+

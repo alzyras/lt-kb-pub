@@ -41,32 +41,6 @@ canonical_biography: "Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap d
 
 Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap dovanojamas, žinome iš vieno laiško, parašyto keliavusio kartu su Vytautu juokdario Henne Vokiečių Ordino Magistrui^1 ). Jau minėtas vokietis Henne rašė Ordino ma gistrui, kad totorių pinigai būdavo su Vytauto Didžiojo atvaizdu.
 
-## Teiginiai
-
-<a id="claim-t-194978"></a>
-- t-001
-  teiginys: "Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap dovanojamas, žinome iš vieno laiško, parašyto keliavusio kartu su Vytautu juokdario Henne Vokiečių Ordino Magistrui^1 )."
-  atnaujinta: "2026-07-06 12:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-177364
-
-<a id="claim-t-194979"></a>
-- t-002
-  teiginys: "Jau minėtas vokietis Henne rašė Ordino ma gistrui, kad totorių pinigai būdavo su Vytauto Didžiojo atvaizdu."
-  atnaujinta: "2026-07-06 12:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-177365
-
 ## Citatos
 
 - id: c-177364
@@ -89,7 +63,7 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap dovanojamas, žinome i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177365
@@ -112,5 +86,32 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap dovanojamas, žinome i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-194978"></a>
+- t-001
+  teiginys: "Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap dovanojamas, žinome iš vieno laiško, parašyto keliavusio kartu su Vytautu juokdario Henne Vokiečių Ordino Magistrui^1 )."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-177364
+
+<a id="claim-t-194979"></a>
+- t-002
+  teiginys: "Jau minėtas vokietis Henne rašė Ordino ma gistrui, kad totorių pinigai būdavo su Vytauto Didžiojo atvaizdu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-177365
+

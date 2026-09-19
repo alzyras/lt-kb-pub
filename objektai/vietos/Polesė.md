@@ -40,27 +40,46 @@ Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo bro
 
 ## Teiginiai
 
-<a id="claim-t-28531"></a>
-- t-001
-  teiginys: "Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo brolio Narimanto sūnus."
-  atnaujinta: "2026-07-10 10:39"
+<a id="claim-t-212774"></a>
+- t-212774
+  teiginys: "1264 metais Boleslovas Gėdingasis Polesės viduryje tarp Bugo ir Narevo sutriuškino jotvingius."
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_brolis -> Algirdas (Lietuvos valdovas): 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Narimantą Algirdo broliu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Narimantas (Pinsko kunigaikštis) buvo brolis Algirdas (Lietuvos valdovas) (0.93)"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-28435
+    - c-196757
 
-<a id="claim-t-192723"></a>
-- t-002
+<a id="claim-t-214151"></a>
+- t-214151
+  teiginys: "Polesės žemės pavadinimo nereikia kildinti iš poleksėnais vadinamos tautos, nes ji pati gavo krašto, kuria me gyveno, vardą."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-193057
+
+<a id="claim-t-215154"></a>
+- t-215154
+  teiginys: "Jis, remda masis Herodoto ir Ktesijaus, o ypač pirmojo, kuris paliko budinu ša lies aprašymą, duomenimis, daro išvadą, jog lai turėjusi būti dabar tinė Polesė."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195864
+
+<a id="claim-t-213521"></a>
+- t-213521
   teiginys: "Teodoras Narbutas Polesę po jotvingių iškapojimo vaizduoja kaip plačias kapines ir nykią dykrą, nebekėlusią baimės kaimynams."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-13 18:12"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -75,12 +94,29 @@ Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo bro
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
-    - c-175493
+    - c-197359
+
+<a id="claim-t-28531"></a>
+- t-28531
+  teiginys: "Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo brolio Narimanto sūnus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_brolis -> Algirdas (Lietuvos valdovas): 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai įvardija Narimantą Algirdo broliu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Narimantas (Pinsko kunigaikštis) buvo brolis Algirdas (Lietuvos valdovas) (0.93)"
+  pagrindžia:
+    - c-28435
 
 <a id="claim-t-205220"></a>
-- t-003
+- t-205220
   teiginys: "Per tai buvo įsigyta nemaža dalis valdų, mat kunigaikštis Konradas savo donacijas pasiliko sau, magistrą su kai kuriais ri teriais perkeldindamas j Polesę, kur įkurdino juos seno viniame Drohičino mieste."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -131,8 +167,8 @@ Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo bro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-28531
 
 - id: c-175493
   autorius: "Teodoras Narbutas"
@@ -153,8 +189,6 @@ Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo bro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-187701
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -176,8 +210,96 @@ Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo bro
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-205220
+
+- id: c-193057
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 118"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 118."
+  citata_originali: |
+    Polesės žemės pavadinimo nereikia kildinti iš polek-
+    sėnais vadinamos tautos, nes ji pati gavo krašto, kuria­
+    me gyveno, vardą. Šio pavadinimo šaltinis yra miškas
+    (las), miškinga,
+    pamiškėse, už
+    miškų
+    esanti
+    žemė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214151
+
+- id: c-195864
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 57"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 57."
+  citata_originali: |
+    Jis, remda­
+    masis Herodoto ir Ktesijaus, o ypač pirmojo, kuris paliko budinu ša­
+    lies aprašymą, duomenimis, daro išvadą, jog lai turėjusi būti dabar­
+    tinė Polesė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215154
+
+- id: c-196757
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 132"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 132."
+  citata_originali: |
+    Boleslovas Gėdingasis 1264
+    metais, surinkęs bajorus iš visos Lenkijos, ryžosi ¡galuti­
+    nai išsivaduoti iš tų grobikų kaimynų. Jis su didžiule ka­
+    riuomene prie Zavichosto persikėlė per Vyslą įr įsiveržė
+    į patį Polesės vidurį, kažkur tarp Bugo ir Narevo su­
+    spaudęs jotvingius, birželio 23 dieną visiškai juos sutriuš­
+    kino
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212774
+
+- id: c-197359
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 134"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 134."
+  citata_originali: |
+    Tačiau jotvingiai
+    paniekino nelaisvę ir leidosi visi iškapojami.
+    136
+    Nuo tada Polesės kraštas, virtęs plačiomis ¡kapinėmis
+    ir nykia dykra, iš tikrųjų nekėlė jokios ¡baimės savo kai­
+    mynams. Jis buvo apgyvendinamas lėtai ir labai nežymiai,
+    nes ir šimtui metų praėjus, kryžiuočių istorijos rašė, kad
+    buvo labai mažai gyvenamas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213521
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/grupes/Lenkai]]

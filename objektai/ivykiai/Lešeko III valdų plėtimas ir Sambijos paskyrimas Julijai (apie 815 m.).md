@@ -40,21 +40,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-205520"></a>
-- t-001
-  teiginys: "Pasak Narbuto, Lešekas III savo žmonai Julijai kaip sutuoktuvių dovaną skyrė Sambijos provinciją."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-187774
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pasak Narbuto, Lešekas III savo žmonai Julijai kaip sutuoktuvių dovaną skyrė Sambijos provinciją.'
@@ -93,5 +78,21 @@ Pasak Narbuto, Lešekas III savo žmonai Julijai kaip sutuoktuvių dovaną skyr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205520"></a>
+- t-001
+  teiginys: "Pasak Narbuto, Lešekas III savo žmonai Julijai kaip sutuoktuvių dovaną skyrė Sambijos provinciją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187774
+

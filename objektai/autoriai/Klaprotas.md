@@ -45,10 +45,33 @@ Narbutas remiasi Klaproto „Asia Polyglotta“ osetinų kalbos žodynu, teigdam
 
 ## Teiginiai
 
-<a id="claim-t-191628"></a>
-- t-001
+<a id="claim-t-216974"></a>
+- t-216974
+  teiginys: "Ponas Klaprotas pastebėjo panašų Kaukazo tautos osetinų paprotį ."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198383
+
+<a id="claim-t-214525"></a>
+- t-214525
+  teiginys: "Narbuto tekste gamtos tyrinėtojai Klaprotas ir Hagenas nurodomi kaip teigę, kad gintaras yra senojo pasaulio kūrinys."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+
+<a id="claim-t-215844"></a>
+- t-215844
   teiginys: "Narbutas remiasi Klaproto „Asia Polyglotta“ osetinų kalbos žodynu, teigdamas neradęs ryškaus panašumo į lietuvių kalbą."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -63,20 +86,19 @@ Narbutas remiasi Klaproto „Asia Polyglotta“ osetinų kalbos žodynu, teigdam
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-174510
+    - c-195412
 
-<a id="claim-t-192529"></a>
-- t-002
-  teiginys: "Narbuto tekste gamtos tyrinėtojai Klaprotas ir Hagenas nurodomi kaip teigę, kad gintaras yra senojo pasaulio kūrinys."
-  atnaujinta: "2026-07-12 22:34"
+<a id="claim-t-215928"></a>
+- t-215928
+  teiginys: "Žinomi šios tautos likučiai, Kaukazo kalnų gyventojai osetinai, ištirti mokslininko, senovės istoriko pono Klaproto, kuris veikale „Asia Polyglotta“ pateikia osetinų kalbos žo dyną, kuriame nerandame nieko, ką galima būtų vadinti panašumu į lietuvių kalbą."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-175317
+    - c-195412
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -125,8 +147,6 @@ Narbutas remiasi Klaproto „Asia Polyglotta“ osetinų kalbos žodynu, teigdam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-175317
   autorius: "Teodoras Narbutas"
@@ -152,5 +172,56 @@ Narbutas remiasi Klaproto „Asia Polyglotta“ osetinų kalbos žodynu, teigdam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-195412
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 188"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 188."
+  citata_originali: |
+    Juk šiandien negalima nieko įro­
+    dyti, kad lietuvius ir alanus siejo giminingumas. Žinomi
+    šios tautos likučiai, Kaukazo kalnų gyventojai osetinai,
+    ištirti mokslininko, senovės istoriko pono Klaproto, kuris
+    veikale „Asia Polyglotta“** pateikia osetinų kalbos žo­
+    dyną, kuriame nerandame nieko, ką galima būtų vadinti
+    panašumu į lietuvių kalbą, išskyrus kelis žodžius, bendrus
+    tūkstančiams kitų kalbų, atėjusių iŠ kalbų motinos.
+    192
+    Pirmame šio veikalo tome mes stengėmės pateikti iš­
+    samų lietuvių tautos senovės paminklų vaizdą, iš kurio
+    kiekvienas skaitytojas galėjo įsitikinti, kas kažkada buvo
+    ši senovinė tauta ir ar dera vadinti ją laukine orda miškų
+    gyventojų, atsiskyrusių nuo nežinomos barbarų minios,
+    1 Lib.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215844
+    - t-215928
+
+- id: c-198383
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 241"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 241."
+  citata_originali: |
+    Reikia manyti, kad tiek senovės graikai, tiek ir lietuviai
+    paaukotų gyvulių ragais puošdavo aukurus arba šventyklų sie­
+    nas; pagal juos būdavo skaičiuojamos praėjusios epochos ir
+    prisimenami žymūs šalies įvykiai - taip pagal J. F. R. kronikos
+    pastabas. Ponas Klaprotas pastebėjo panašų Kaukazo tautos
+    osetinų paprotį .
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216974
+

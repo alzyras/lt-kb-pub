@@ -33,26 +33,6 @@ media_all_json: |-
 
 Be kartečės ir paprastų sviedinių, iš patrankų buvo šaudoma ir apšviečiamaisiais bei skirtingų konstrukcijų padegamaisiais sviediniais (iki raudonumo įkaitinti metaliniai sviediniai arba iš ketaus pagaminti tuščiaviduriai sviediniai, užpildyti padegamuoju.
 
-## Teiginiai
-
-<a id="claim-t-42419"></a>
-- t-001
-  teiginys: "Brandskugeliai buvo tuščiaviduriai ketaus sviediniai su padegamuoju mišiniu, o karkasai - ovalūs iš geležinių žiedų sudaryti padegamieji sviediniai."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Parakas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Brandskugeliai karkasai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Parakas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Brandskugeliai karkasai\" parinktas kaip owner_note_path. Targetas \"Parakas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1794 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-45492
-
 ## Citatos
 
 - id: c-45492
@@ -95,5 +75,26 @@ Be kartečės ir paprastų sviedinių, iš patrankų buvo šaudoma ir apšvieči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-42419"></a>
+- t-001
+  teiginys: "Brandskugeliai buvo tuščiaviduriai ketaus sviediniai su padegamuoju mišiniu, o karkasai - ovalūs iš geležinių žiedų sudaryti padegamieji sviediniai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Parakas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Brandskugeliai karkasai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Parakas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Brandskugeliai karkasai\" parinktas kaip owner_note_path. Targetas \"Parakas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1794 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-45492
+

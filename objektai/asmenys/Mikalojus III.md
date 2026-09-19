@@ -62,10 +62,22 @@ Vilniaus vyskupas Mikalojus III Radvila po brolio Alberto I lėšomis rėmė 152
   pagrindžia:
     - c-184216
 
+<a id="claim-t-223729"></a>
+- t-223729
+  teiginys: "1277 viešpaties metais valdė popiežius Mikalojus III ir Rudolfas."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205355
+
 <a id="claim-t-201015"></a>
-- t-002
+- t-201015
   teiginys: "Popiežius Mikalojus III, įsėdęs į baž nyčios suolą, turėjo rūpintis didesniais reikalais nekaip pagalba kryiėjų."
-  atnaujinta: "2026-07-16 14:31"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -89,11 +101,12 @@ Vilniaus vyskupas Mikalojus III Radvila po brolio Alberto I lėšomis rėmė 152
     tytojų uolumą; pritrūkus lėšų, Bernardinų bažnyčios statyba užsitęsė iki pat
     XVI amžiaus galo.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184365
@@ -120,5 +133,22 @@ Vilniaus vyskupas Mikalojus III Radvila po brolio Alberto I lėšomis rėmė 152
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-201015
+
+- id: c-205355
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 237"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 237."
+  citata_originali: |
+    1277 viešpaties metais valdė popiežius Mikalojus III ir Rudolfas
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223729
+

@@ -39,20 +39,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-203694"></a>
-- t-001
-  teiginys: "Mirties bausme nuteistą vagį nuo kartuvių buvo galima išpirkti, tačiau išsipirkęs ar globėjų išprašytas bajoras netekdavo garbės ir bajoriškų privilegijų."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
-  pagrindžia:
-    - c-186298
-
 ## Santrauka
 
 Mirties bausme nuteistą vagį nuo kartuvių buvo galima išpirkti, tačiau išsipirkęs ar globėjų išprašytas bajoras netekdavo garbės ir bajoriškų privilegijų.
@@ -75,5 +61,20 @@ Mirties bausme nuteistą vagį nuo kartuvių buvo galima išpirkti, tačiau išs
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203694"></a>
+- t-001
+  teiginys: "Mirties bausme nuteistą vagį nuo kartuvių buvo galima išpirkti, tačiau išsipirkęs ar globėjų išprašytas bajoras netekdavo garbės ir bajoriškų privilegijų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186298
+

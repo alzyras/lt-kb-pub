@@ -45,33 +45,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206932"></a>
-- t-001
-  teiginys: "Žemaičiai privalėjo prireikus tarnauti Ordino kariaunoje, o jų ir Prūsijos pirklių prekybai nurodytuose kraštuose buvo numatytos laisvos sąlygos."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189547
-
-<a id="claim-t-206933"></a>
-- t-002
-  teiginys: "Žemaitijos nesusipratimus turėjo taikiai spręsti komisija, sudaryta iš Vytauto, keturių Žemaitijos didikų, ordino maršalkos ir keturių ordino vyresniųjų."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189548
-
 ## Santrauka
 
 Žemaičiai privalėjo prireikus tarnauti Ordino kariaunoje, o jų ir Prūsijos pirklių prekybai nurodytuose kraštuose buvo numatytos laisvos sąlygos. Žemaitijos nesusipratimus turėjo taikiai spręsti komisija, sudaryta iš Vytauto, keturių Žemaitijos didikų, ordino maršalkos ir keturių ordino vyresniųjų.
@@ -96,7 +69,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189548
@@ -114,5 +87,33 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-206932"></a>
+- t-001
+  teiginys: "Žemaičiai privalėjo prireikus tarnauti Ordino kariaunoje, o jų ir Prūsijos pirklių prekybai nurodytuose kraštuose buvo numatytos laisvos sąlygos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189547
+
+<a id="claim-t-206933"></a>
+- t-002
+  teiginys: "Žemaitijos nesusipratimus turėjo taikiai spręsti komisija, sudaryta iš Vytauto, keturių Žemaitijos didikų, ordino maršalkos ir keturių ordino vyresniųjų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189548
+

@@ -48,3 +48,40 @@ Mikalojus Daukša parengė „Katekizmą“, pirmąją lietuvišką knygą Lietu
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-190338
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 168"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 168."
+  citata_originali: |
+    Nors egzistavo lotyniškasis ir lietuviškasis kultūros modeliai, bet vis labiau plito len-
+    kiškasis. 1595 m. Mikalojus Daukša parengė pirmąją lietuvišką knygą LDK – „Katekiz-
+    mą“, o 1599 m. kitą lietuvišką leidinį – „Postilė“.
+  citata_rodoma: ". Mikalojus Daukša parengė pirmąją lietuvišką knygą LDK – „Katekiz-\nmą“, o 15"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-207721"></a>
+- t-001
+  teiginys: "Mikalojus Daukša parengė „Katekizmą“, pirmąją lietuvišką knygą Lietuvos Didžiojoje Kunigaikštystėje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190338
+

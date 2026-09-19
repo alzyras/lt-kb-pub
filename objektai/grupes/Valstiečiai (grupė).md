@@ -41,21 +41,6 @@ XVI a. pirmosios pusės teismo byla rodo, kad valstiečių ir bajorų kasdienio 
 
 XVI a. pirmosios pusės teismo byla rodo, kad valstiečių ir bajorų kasdienio maisto produktai faktiškai nesiskyrė.
 
-## Teiginiai
-
-<a id="claim-t-204310"></a>
-- t-001
-  teiginys: "XVI a. pirmosios pusės teismo byla rodo, kad valstiečių ir bajorų kasdienio maisto produktai faktiškai nesiskyrė."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
-  vertinimo_atnaujinta: "2026-08-06T23:41:06Z"
-  pagrindžia:
-    - c-186916
-
 ## Citatos
 
 - id: c-186916
@@ -75,5 +60,21 @@ XVI a. pirmosios pusės teismo byla rodo, kad valstiečių ir bajorų kasdienio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204310"></a>
+- t-001
+  teiginys: "XVI a. pirmosios pusės teismo byla rodo, kad valstiečių ir bajorų kasdienio maisto produktai faktiškai nesiskyrė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  vertinimo_atnaujinta: "2026-08-06T23:41:06Z"
+  pagrindžia:
+    - c-186916
+

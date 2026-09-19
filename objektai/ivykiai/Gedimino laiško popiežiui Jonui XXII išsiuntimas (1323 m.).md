@@ -40,21 +40,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-205921"></a>
-- t-001
-  teiginys: "Gediminas laiške popiežiui Jonui XXII, kaip perteikia Teodoras Narbutas, pripažino priklausymo Apaštališkajai Sostinei teisę, bet dėl Ordino klastos liko netikėjimo klystkeliuose."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188536
-
 ## Santrauka
 
 Gediminas laiške popiežiui Jonui XXII, kaip perteikia Teodoras Narbutas, pripažino priklausymo Apaštališkajai Sostinei teisę, bet dėl Ordino klastos liko netikėjimo klystkeliuose.
@@ -86,5 +71,21 @@ Gediminas laiške popiežiui Jonui XXII, kaip perteikia Teodoras Narbutas, pripa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205921"></a>
+- t-001
+  teiginys: "Gediminas laiške popiežiui Jonui XXII, kaip perteikia Teodoras Narbutas, pripažino priklausymo Apaštališkajai Sostinei teisę, bet dėl Ordino klastos liko netikėjimo klystkeliuose."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188536
+

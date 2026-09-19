@@ -48,42 +48,22 @@ Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiež
 
 ## Teiginiai
 
-<a id="claim-t-60333"></a>
-- t-001
-  teiginys: "1243 m. popiežius Inocentas IV pasiuntė Vilhelmą į Prūsiją padalyti žemės į keturias vyskupystes ir sutvarkyti taisytinus dalykus."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Prūsija: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Inocentas IV: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Inocentas IV pasiuntė Vilhelmą į Prūsiją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Inocentas IV siuntė į Prūsija (0.93)"
-  temporaliniai_duomenys: "įvykio data: 1243 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys buvo su OCR triukšmu; citata aiškiai pagrindžia konkrečią Inocento IV veiklą."
-  pagrindžia:
-    - c-60965
-
-<a id="claim-t-197104"></a>
-- t-002
-  teiginys: "Inocentas IV apaštališkojo sosto vardu įsakė skelbti kryžiaus karą karalystėse ir provincijose, kurios buvo numatytos tam reikalui, įpareigodamas kryžininkus bei Teutonų ordino brolius, davus dorovingus šventojo klusnumo įžadus ir tikintis nuodėmių atleidimo, ginti, kiek jėgos leidžia, Kristaus tikėjimą ir tikinčiųjų bažnyčią Prūsijos žemėse nuo šitokio žiauraus bei neteisingo šio kunigaikščio persekiojimo270."
-  atnaujinta: "2026-07-12 22:31"
+<a id="claim-t-221713"></a>
+- t-221713
+  teiginys: "Inocentas IV buvo popiežius, suteikęs į Prūsiją ir Livoniją vykstantiems svetimšaliams kryžininkams privilegijų ir atlaidų."
+  atnaujinta: "2026-09-13 11:42"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-60965
+    - c-201816
 
 <a id="claim-t-200997"></a>
-- t-003
+- t-200997
   teiginys: "Inocentas IV popiežius buvo jau jutęs apie ka res Sviatopelko su kryžėjais, kurie, lūgodami jo teisybės, jam guodės."
-  atnaujinta: "2026-07-16 14:31"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -93,9 +73,9 @@ Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiež
     - c-184347
 
 <a id="claim-t-205685"></a>
-- t-004
+- t-205685
   teiginys: "Teodoro Narbuto pasakojime tuo metu Inocentas IV užėmė šventojo Petro sostą ir gyveno Milane."
-  atnaujinta: "2026-08-12 08:57"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -132,9 +112,6 @@ Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiež
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
 
 - id: c-184347
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -159,8 +136,8 @@ Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiež
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-200997
 
 - id: c-188300
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -179,8 +156,53 @@ Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiež
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-205685
+
+- id: c-201816
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 51"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 51."
+  citata_originali: |
+    tas pats popiežius, o vėliau popiežius
+    Inocentas IV suteikė svetimšaliams, vykstantiems į Prūsiją bei Livoniją, tokių pat
+    privilegijų bei atlaidų, kokių gaudavo vykstantys į Jeruzalę
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221713
+
+- id: c-204565
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 85"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 85."
+  citata_originali: |
+    Pasiuntinys apaštališkojo sosto vardu
+    parašė minėtajam kunigaikščiui, įsakydamas liautis persekioti tikėjimą ir tikinčiuosius.
+    Tuo tarpu šis, nepaisydamas savo sielos išganymo, atkaklus ir užsispyręs nelyginant
+    susuktas medis, kuris negali lankstytis, neklausė tėviškų pamokymų, kurie tikrai kilo
+    iš meilės, vis labiau krypdamas į blogį, kurstė sąmyšį tarp žmonių, įtikėjusių Kristumi,
+    ir žemėje, ir jūroje, žodžiu, visur, kur begalėdamas, vieniems plėšė turtus, kitus ėmė
+    į nelaisvę, trečius žudė. Taigi pasiuntinys, matydamas, kad kunigaikštis visai neketina
+    taisytis ir nieku būdu nenori grįžti į šventosios motinos bažnyčios prieglobstį, deramai
+    jį įspėjo, kad, didėjant užsispyrimui, didėsianti ir bausmė; norėdamas sutramdyti šio
+    tirono bei jo šalininkų piktus darbus, jis apaštališkojo sosto vardu įsakė skelbti kryžiaus
+    karą karalystėse ir provincijose, kurios buvo numatytos tam reikalui, įpareigodamas
+    kryžininkus bei Teutonų ordino brolius, davus dorovingus šventojo klusnumo įžadus ir
+    tikintis nuodėmių atleidimo, ginti, kiek jėgos leidžia, Kristaus tikėjimą ir tikinčiųjų bažnyčią
+    Prūsijos žemėse nuo šitokio žiauraus bei neteisingo šio kunigaikščio persekiojimo270.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Inocentas IV siuntė į [[objektai/vietos/Prūsija]]

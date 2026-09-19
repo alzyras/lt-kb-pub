@@ -30,44 +30,6 @@ media_all_json: |-
 
 Suolininkai spręsdavo įvai rius miestiečių ginčus, nagrinėjo kriminalinius nusikaltimus, bet negalėjo teisti kitos miesto savivaldos institucijos - tarybos arba magistrato - narių. Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Kauno miestiečių bendruomenės nariams. Kauno ginčuose su Dancigu ir kitais Prūsų miestais nuolat buvo minimi dancigiečių įsigyti namai.
 
-## Teiginiai
-
-<a id="claim-t-201850"></a>
-- t-001
-  teiginys: "Suolininkai spręsdavo įvai rius miestiečių ginčus, nagrinėjo kriminalinius nusikaltimus, bet negalėjo teisti kitos miesto savivaldos institucijos - tarybos arba magistrato - narių."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185197
-
-<a id="claim-t-201851"></a>
-- t-002
-  teiginys: "Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Kauno miestiečių bendruomenės nariams."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185198
-
-<a id="claim-t-201852"></a>
-- t-003
-  teiginys: "Kauno ginčuose su Dancigu ir kitais Prūsų miestais nuolat buvo minimi dancigiečių įsigyti namai."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185199
-
 ## Citatos
 
 - id: c-185197
@@ -86,7 +48,7 @@ Suolininkai spręsdavo įvai rius miestiečių ginčus, nagrinėjo kriminalinius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185198
@@ -103,7 +65,7 @@ Suolininkai spręsdavo įvai rius miestiečių ginčus, nagrinėjo kriminalinius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-185199
@@ -119,5 +81,44 @@ Suolininkai spręsdavo įvai rius miestiečių ginčus, nagrinėjo kriminalinius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+## Teiginiai
+
+<a id="claim-t-201850"></a>
+- t-001
+  teiginys: "Suolininkai spręsdavo įvai rius miestiečių ginčus, nagrinėjo kriminalinius nusikaltimus, bet negalėjo teisti kitos miesto savivaldos institucijos - tarybos arba magistrato - narių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185197
+
+<a id="claim-t-201851"></a>
+- t-002
+  teiginys: "Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Kauno miestiečių bendruomenės nariams."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185198
+
+<a id="claim-t-201852"></a>
+- t-003
+  teiginys: "Kauno ginčuose su Dancigu ir kitais Prūsų miestais nuolat buvo minimi dancigiečių įsigyti namai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185199
+

@@ -46,21 +46,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-205399"></a>
-- t-001
-  teiginys: "1058 metais, susijungę su jotvingiais, o tiksliau — jų va dovaujam i, įniršę nusitrenkė su gro bikišku žygiu net ik i Sochačiovo."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-188180
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1058 metais, susijungę su jotvingiais, o tiksliau — jų va dovaujam i, įniršę nusitrenkė su gro bikišku žygiu net ik i Sochačiovo.'
@@ -111,5 +96,21 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205399"></a>
+- t-001
+  teiginys: "1058 metais, susijungę su jotvingiais, o tiksliau — jų va dovaujam i, įniršę nusitrenkė su gro bikišku žygiu net ik i Sochačiovo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-188180
+

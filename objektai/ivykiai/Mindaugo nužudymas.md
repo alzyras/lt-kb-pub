@@ -79,3 +79,46 @@ Nenurodyta
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-190038
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 88"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 88."
+  citata_originali: |
+    Taigi atrodytų, kad pagrin-
+    dinis Mindaugo nužudymo motyvas buvo tiesiog kova dėl valdžios – Treniota pasinaudojo
+    Daumanto įtūžiu dėl žmonos suviliojimo.
+    Po Mindaugo nužudymo būta didžiulės sumaišties: per kelerius metus Lietuvoje nu-
+    žudyti dar trys dėl valdžios kovoję kunigaikščiai ir vienas išvytas. Pavardinkime šiuos
+    faktus: 1263 m. ruduo – Daumantui nužudžius Mindaugą ir du jo sūnus, Lietuvos sostą
+    užėmė Treniota, 1263 m. pabaiga – varžybos dėl valdžios tarp artimiausių Mindaugo gi-
+    minaičių Tautvilo ir Treniotos baigėsi pirmojo nužudymu, 1264 m. vidurys – Mindaugo
+    šalininkams nužudžius Treniotą, Lietuvos valdovu tapo Mindaugo sūnus Vaišelga.
+  citata_rodoma: "daugo nužudymo būta didžiulės sumaišties: per kelerius metus Lietuvoje nu-\nžudyti dar trys dėl valdžios kovoję kunigaikščiai ir vienas išvytas. Pavar"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-207468"></a>
+- t-001
+  teiginys: "Po Mindaugo nužudymo, Alfredo Bumblausko vertinimu, Lietuvoje kilo didžiulė sumaištis: per kelerius metus buvo nužudyti dar trys dėl valdžios kovoję kunigaikščiai, o dar vienas išvytas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-18T19:34:24Z"
+  pagrindžia:
+    - c-190038
+

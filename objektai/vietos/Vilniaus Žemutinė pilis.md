@@ -53,10 +53,22 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 
 ## Teiginiai
 
+<a id="claim-t-211256"></a>
+- t-211256
+  teiginys: "Vilniaus Žemutinė pilis buvo gynybinių įrengimų ir kitų pastatų kompleksas Gedimino kalno papėdėje."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194002
+
 <a id="claim-t-85901"></a>
-- t-001
+- t-85901
   teiginys: "Žemutinė pilis, vadinta Kreivąja, driekėsi pilies kalno papėdėje palei Viliją."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -70,9 +82,9 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     - c-81884
 
 <a id="claim-t-85902"></a>
-- t-002
+- t-85902
   teiginys: "Per svetimšalių puolimą Žemutinėje pilyje keliose vietose įsiplieskė ugnis ir apėmė medinius statinius."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -86,19 +98,27 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     - c-81885
 
 <a id="claim-t-85903"></a>
-- t-003
+- t-85903
   teiginys: "Žemutinė pilis taip pat vadinta Kreivąja pilimi."
-  atnaujinta: "2026-07-26 23:35"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Žemutinė pilis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vilniaus Žemutinė pilis: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Žemutinė pilis: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vilniaus Žemutinė pilis\" parinktas kaip owner_note_path. Targetas \"Žemutinė pilis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   vertinimo_atnaujinta: "2026-06-13T14:21:42Z"
   pagrindžia:
     - c-81884
+    - c-81886
 
 <a id="claim-t-85904"></a>
-- t-004
+- t-85904
   teiginys: "Iš Žemutinės pilies vakarinių vartų kelias vedė per du tiltus, nutiestus per Vilnią ir Vingrių upokšnį."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -112,9 +132,9 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     - c-81883
 
 <a id="claim-t-85905"></a>
-- t-005
+- t-85905
   teiginys: "Žemutinė pilis, vadinta Kreivąja, driekėsi apačioje, joje buvo kunigaikščių menės."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bokštai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -153,8 +173,8 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-85904
 
 - id: c-81884
   autorius: "Michał Baliński"
@@ -178,9 +198,9 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-003
+  pagrindžia:
+    - t-85901
+    - t-85903
 
 - id: c-81885
   autorius: "Michał Baliński"
@@ -201,8 +221,8 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-85902
 
 - id: c-81886
   autorius: "Michał Baliński"
@@ -218,6 +238,9 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-85903
+
 - id: c-81887
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -235,5 +258,29 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-85905
+
+- id: c-194002
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 213-214"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 213-214."
+  citata_originali: |
+    Vilniaus Žemųja pilimi laikomas gynybinių (rengimų ir kitų
+    pastatų kompleksas, buvęs Vilniuje Gedimino kalno papėdėje. Šio­
+    je
+    vietoje sodybų žymių rasta jau Iš I tūkstantmečio vidurio, o
+    XIII a. antrojoje pusėje ir XIV a. pradžioje šioje teritorijoje (prie
+    221
+
+    dabartinių Pionierių rūmų) būta ir mūrinio pastato
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211256
+

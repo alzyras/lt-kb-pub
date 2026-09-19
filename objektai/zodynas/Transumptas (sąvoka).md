@@ -33,34 +33,6 @@ Transumptas perteikia Vytauto rašytinį įsipareigojimą įvykdyti Ordinui anks
 
 Transumptas perteikia Vytauto rašytinį įsipareigojimą įvykdyti Ordinui anksčiau duotus užrašymo aktus. Transumptas saugomas Slaptajame Karaliaučiaus archyve, 56 stalčiuje, Nr. 4.
 
-## Teiginiai
-
-<a id="claim-t-206659"></a>
-- t-001
-  teiginys: "Transumptas perteikia Vytauto rašytinį įsipareigojimą įvykdyti Ordinui anksčiau duotus užrašymo aktus."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
-  pagrindžia:
-    - c-189274
-
-<a id="claim-t-206660"></a>
-- t-002
-  teiginys: "Transumptas saugomas Slaptajame Karaliaučiaus archyve, 56 stalčiuje, Nr. 4."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
-  pagrindžia:
-    - c-189275
-
 ## Citatos
 
 - id: c-189274
@@ -75,7 +47,7 @@ Transumptas perteikia Vytauto rašytinį įsipareigojimą įvykdyti Ordinui anks
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189275
@@ -90,5 +62,34 @@ Transumptas perteikia Vytauto rašytinį įsipareigojimą įvykdyti Ordinui anks
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-206659"></a>
+- t-001
+  teiginys: "Transumptas perteikia Vytauto rašytinį įsipareigojimą įvykdyti Ordinui anksčiau duotus užrašymo aktus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189274
+
+<a id="claim-t-206660"></a>
+- t-002
+  teiginys: "Transumptas saugomas Slaptajame Karaliaučiaus archyve, 56 stalčiuje, Nr. 4."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189275
+

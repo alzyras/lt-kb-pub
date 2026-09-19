@@ -50,10 +50,58 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
 
 ## Teiginiai
 
+<a id="claim-t-208470"></a>
+- t-208470
+  teiginys: "Šv. Julijonos, mergaitės ir kankinės, gyvenimo pavyzdžiu Valančius moko aukotis Dievo garbei savanoriškai."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  pagrindžia:
+    - c-191090
+
+<a id="claim-t-211609"></a>
+- t-211609
+  teiginys: "Julijona buvo antroji Vytauto žmona."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193219
+
+<a id="claim-t-211781"></a>
+- t-211781
+  teiginys: "Algirdas vedė Julijoną ir dėl jos priėmė krikštą bei rusų tikėjimą."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193298
+
+<a id="claim-t-217610"></a>
+- t-217610
+  teiginys: "Šaltinio pasakojime apie 1331 m. Julijona įsakė panaikinti Ragučio maldyklą ir jos vietoje įkūrė cerkvę su šventiku."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201064
+
 <a id="claim-t-05184"></a>
-- t-001
+- t-05184
   teiginys: "Julijona buvo Tverės kunigaikščio Aleksandro duktė ir Algirdo žmona."
-  atnaujinta: "2026-05-31 14:15"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -67,9 +115,9 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
     - c-160501
 
 <a id="claim-t-05185"></a>
-- t-002
+- t-05185
   teiginys: "Julijona paminėta Žemaičių dovanojimo dokumente kartu su kunigaikščio taryba."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Dubysa: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -83,9 +131,9 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
     - c-04832
 
 <a id="claim-t-05186"></a>
-- t-003
+- t-05186
   teiginys: "Remiantis Torno analų žinia, Julijonos įtaka aiškinamas Jogailos atsisakymas judėti pas magistrą."
-  atnaujinta: "2026-06-01 14:44"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -101,9 +149,9 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
     - c-160504
 
 <a id="claim-t-176500"></a>
-- t-004
+- t-176500
   teiginys: "Julijona prisidėjo prie Jogailos sutarties su Ordinu, nukreiptos prieš Kęstutį, sudarymo."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -117,9 +165,9 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
     - c-160505
 
 <a id="claim-t-176502"></a>
-- t-005
+- t-176502
   teiginys: "Julijonos sūnūs Kaributas, Karigaila, Lengvenis, Vygandas ir Švitrigaila buvo trijų Jogailos ir Skirgailos sutarčių liudininkai."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Skirgaila: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -133,9 +181,9 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
     - c-04832
 
 <a id="claim-t-176503"></a>
-- t-006
+- t-176503
   teiginys: "Zenonas Ivinskis, remdamasis Torno analais, svarsto, kad Julijona galėjo nenorėti Lietuvos krikšto lotynų apeigomis."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -152,9 +200,9 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
     - c-160504
 
 <a id="claim-t-176505"></a>
-- t-007
+- t-176505
   teiginys: "Po Onos mirties Vilniuje 1418 m. Vytautas nusprendė vesti jos dukterėčią Julijoną, Jono Algimantaičio dukterį."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Alšėnai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -171,9 +219,9 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
     - c-160500
 
 <a id="claim-t-184743"></a>
-- t-008
+- t-184743
   teiginys: "Julijonos noru Algirdas sutiko priimti krikščionybę ir Vitebske pastatė rusams dvi šventoves."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -190,9 +238,9 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
     - c-168104
 
 <a id="claim-t-203609"></a>
-- t-009
+- t-203609
   teiginys: "Didysis Ordino magistras 1423 m. Reino vynu malo nino ir kunigaikštienę Julijoną, antrąją Vytauto žmoną, už ką ji atsidėkodama magistrui pasiuntė aukštą kepu rę ir porą pirštinių (24)."
-  atnaujinta: "2026-08-07 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -202,9 +250,9 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
     - c-186213
 
 <a id="claim-t-206303"></a>
-- t-010
+- t-206303
   teiginys: "1349 m. Algirdas vedė Tverės kunigaikščio Aleksandro Michailovičiaus dukterį Julijoną, savo pirmosios žmonos Marijos seserį; santuoką palaimino metropolitas Teognostas."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -215,9 +263,9 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
     - c-188918
 
 <a id="claim-t-206304"></a>
-- t-011
+- t-206304
   teiginys: "1341 m. Algirdas antrą kartą vedė Julijoną, Tverės kunigaikščio Aleksandro dukterį, o Rusios kronikininkai, Teodoro Narbuto teigimu, tvirtino, kad Algirdas priėmė krikštą."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -228,9 +276,9 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
     - c-188919
 
 <a id="claim-t-206305"></a>
-- t-012
+- t-206305
   teiginys: "Teodoras Narbutas spėja, kad ąžuolas, ant kurio buvo pakarti kankiniai, stovėjo Švenčiausiosios Trejybės cerkvės vietoje, o pirmoji cerkvė buvo pastatyta Julijonos Algirdienės laikais."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -265,9 +313,9 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-005
+  pagrindžia:
+    - t-05185
+    - t-176502
 
 - id: c-160500
   autorius: "Michał Baliński"
@@ -296,8 +344,8 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-176505
 
 - id: c-160501
   autorius: "Zenonas Ivinskis"
@@ -317,8 +365,8 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-05184
 
 - id: c-160504
   autorius: "Zenonas Ivinskis"
@@ -341,9 +389,9 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-    - t-006
+  pagrindžia:
+    - t-05186
+    - t-176503
 
 - id: c-160505
   redaktorius: "A. Šapoka"
@@ -367,8 +415,8 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-176500
 
 - id: c-168104
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -400,8 +448,8 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
+  pagrindžia:
+    - t-184743
 
 - id: c-186213
   autorius: "Daiva Steponavičienė"
@@ -418,8 +466,8 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
+  pagrindžia:
+    - t-203609
 
 - id: c-188918
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -439,8 +487,8 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-010
+  pagrindžia:
+    - t-206303
 
 - id: c-188919
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -455,8 +503,8 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-011
+  pagrindžia:
+    - t-206304
 
 - id: c-188920
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -476,5 +524,90 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-012
+  pagrindžia:
+    - t-206305
+
+- id: c-191090
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 96"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 96."
+  citata_originali: |
+    Ignaco Lojolos gyvenimo aprašymo pabaigoje au­
+    torius moko nepasiduoti piktosios dvasios pagundai, esą
+    mūsų išpažintys esančios negeros, ir pataria, kaip reikia
+    šiuo atveju elgtis8.
+    Šv. Julijonos, mergaitės ir kankinės, gyvenimo pavyz­
+    džiu vysk. M. Valančius moko aukotis Dievo garbei sa­
+    vanoriškai, o ne tik gyvenimo aplinkybėms verčiant9.
+  citata_rodoma: "Šv. Julijonos, mergaitės ir kankinės, gyvenimo pavyz­\ndžiu vysk. M. Valančius moko aukotis Dievo garbei sa­\nvanoriškai, o ne tik gyvenimo aplinkybėms"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208470
+
+- id: c-193219
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 255"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 255."
+  citata_originali: |
+    Julijona, Alšėnų kunigaikštytė, buvo ne trečioji, o antroji
+    Vytauto žmona, ištekėjusi už Vytauto Gardine 1418 m. prieš Ka­
+    lėdas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211609
+
+- id: c-193298
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 72"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 72."
+  citata_originali: |
+    Kunigaikštis Algirdas, vedęs Vitebsko kunigaikšty­
+    tę Julijoną, dėl jos priėmė krikštą ir rusų tikėjimą,
+    o visi lietuvių didikai pasiliko pagonys.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211781
+
+- id: c-201064
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 273"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 273."
+  citata_originali: |
+    Maldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs­
+    ko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo­
+    vei, Lietuvos ir Rusios didžiojo kunigaikščio Algirdo žmonai.
+    Ši pamaldi krikščionė kunigaikštienė, savo amžiaus rusų tau­
+    tos krikščionių, arba cerkvės, atrama, minėtosios Ragučio mal­
+    dyklos vietoje įkūrė cerkvę su šventiku. Ji ir šiandien liaudiš­
+    kai vadinama Petionka nuo senojo miško, kurio pavadinimas
+    kilęs nuo Ragučio šventikų, vadintųpietiniki, kitaip Puotinin­
+    kai (Potinikaj), tai yra ištvirkėliai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217610
+

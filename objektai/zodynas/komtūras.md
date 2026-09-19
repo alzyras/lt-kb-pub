@@ -40,10 +40,22 @@ media_all_json: |-
 
 ## Teiginiai
 
+<a id="claim-t-221074"></a>
+- t-221074
+  teiginys: "1327 metais brolis Hermanas buvo Elbingo komtūras ir didysis Ordino špitolininkas."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204086
+
 <a id="claim-t-182848"></a>
-- t-001
+- t-182848
   teiginys: "Vytauto krikštatėvis buvo Ragainės komtūras, turėjęs tokį pat Vigando vardą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -57,9 +69,9 @@ media_all_json: |-
     - c-14694
 
 <a id="claim-t-183715"></a>
-- t-002
+- t-183715
   teiginys: "1348 m. didysis komtūras Vinrichas iš Kniprodės dalyvavo Strėvos mūšyje ir narsiai kovėsi."
-  atnaujinta: "2026-06-14 10:59"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -79,9 +91,9 @@ media_all_json: |-
     - c-167103
 
 <a id="claim-t-183834"></a>
-- t-003
+- t-183834
   teiginys: "Ordino maršalas Gotfridas Lindenas su komtūrais sudegino Semeliškes Trakų paviete ir veržėsi iki Vilniaus tvirtovių."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -118,8 +130,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-182848
 
 - id: c-167103
   sudarytojas: "Karolis Zikaras"
@@ -135,8 +147,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-183715
 
 - id: c-167219
   autorius: "Michał Baliński"
@@ -159,5 +171,24 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-183834
+
+- id: c-204086
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 252"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 252."
+  citata_originali: |
+    1327 viešpaties metais brolis Hermanas, Elbingo komtūras bei didysis Ordino
+    špitolininkas, netoli Zalfeldo miesto pastatė jau minėtą miestą, vardu Morungenas600,
+    gavusį vardą nuo ežero, kurio pakrantėje jis ir buvęs įkurdintas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221074
+

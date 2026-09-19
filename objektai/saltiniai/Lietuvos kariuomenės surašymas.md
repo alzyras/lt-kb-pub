@@ -30,20 +30,6 @@ media_all_json: |-
 
 Štai 1528 m. Lietuvos kariuomenės surašyme tarp Upytės pavieto bajorų randame Kauno miestietį Jokūbą Januševičių ir Janką Liachą iš Kauno.
 
-## Teiginiai
-
-<a id="claim-t-202289"></a>
-- t-001
-  teiginys: "Štai 1528 m. Lietuvos kariuomenės surašyme tarp Upytės pavieto bajorų randame Kauno miestietį Jokūbą Januševičių ir Janką Liachą iš Kauno."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185636
-
 ## Citatos
 
 - id: c-185636
@@ -59,5 +45,20 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202289"></a>
+- t-001
+  teiginys: "Štai 1528 m. Lietuvos kariuomenės surašyme tarp Upytės pavieto bajorų randame Kauno miestietį Jokūbą Januševičių ir Janką Liachą iš Kauno."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185636
+

@@ -41,10 +41,22 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
 
 ## Teiginiai
 
+<a id="claim-t-212450"></a>
+- t-212450
+  teiginys: "Kraševskio recenzija buvo paskelbta oficioze „Tygodnik Petersburski“."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197589
+
 <a id="claim-t-87432"></a>
-- t-001
+- t-87432
   teiginys: "Juozapas Ignas Kraševskis savo Vilniaus istorijoje panaudojo archyvinę medžiagą, kronikas ir metraščius."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kraševskis: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -61,9 +73,9 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
     - c-83411
 
 <a id="claim-t-87433"></a>
-- t-002
+- t-87433
   teiginys: "Juozapas Ignas Kraševskis beveik tuo pat metu kaip M. Balinskis rašė savo Vilniaus miesto istoriją."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -77,9 +89,9 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
     - c-83413
 
 <a id="claim-t-87434"></a>
-- t-003
+- t-87434
   teiginys: "Juozapo Igno Kraševskio darbai laikyti senosios Vilniaus istoriografijos pagrindo dalimi."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kraševskis: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -116,8 +128,8 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-87432
 
 - id: c-83412
   autorius: "Michał Baliński"
@@ -139,8 +151,8 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-87434
 
 - id: c-83413
   autorius: "Michał Baliński"
@@ -163,5 +175,28 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-87433
+
+- id: c-197589
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 446"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 446."
+  citata_originali: |
+    Oficialūs atgarsiai į T. Narbuto „Lie­
+    tuvių mitologiją“ pasirodė netrukus, t. y. tais pačiais
+    1835 ir kitais 1836 metais. Tai buvo dvi didelės recenzi­
+    jos: pirmoji išspausdinta leidinyje „Wizerunki i Roztrzą-
+    sania Naukowe“, antroji — oficioze „Tygodnik Petersbur-
+    ski“. Pirmoji buvo anonimiška, o antroji priklausė Juo­
+    zapo Ignoto Kraševskio plunksnai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212450
+

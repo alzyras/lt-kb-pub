@@ -45,20 +45,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-202044"></a>
-- t-001
-  teiginys: "Kai kurias svečius varžančias nuostatas - svečių apsigyvenimo, - kauniečiai išsaugojo, kai kurios - draudimas hanziečiams apsipirkti turguje - buvo atšauktos ir tapo būsimų ginčų objektu."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185391
-
 ## Citatos
 
 - id: c-185391
@@ -80,5 +66,20 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202044"></a>
+- t-001
+  teiginys: "Kai kurias svečius varžančias nuostatas - svečių apsigyvenimo, - kauniečiai išsaugojo, kai kurios - draudimas hanziečiams apsipirkti turguje - buvo atšauktos ir tapo būsimų ginčų objektu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185391
+

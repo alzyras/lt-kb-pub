@@ -26,26 +26,6 @@ media_all_json: |-
 
 Savo tyrinėjimus jis paskelbė ir atskira knyga — „Apie lietuvių tautos ir kalbos kilmę" (1806 m.), kurioje ragina gelbėti lietuvybę. Kad lietuvių kalba nežūtų, jis siūlo įsteigti Lietuvą mylinčių ir lietuvių kalbą mokančių draugiją, kuri rinktų tautosaką, senienas ir rūpintųsi leisti liaudžiai ir kunigams reikalingas lietuviškas knygas.
 
-## Teiginiai
-
-<a id="claim-t-67358"></a>
-- t-001
-  teiginys: "Ks. Bauža 1806 m. išleido knygą „Apie lietuvių tautos ir kalbos kilmę“, kurioje ragino gelbėti lietuvybę."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67298
-
-<a id="claim-t-67359"></a>
-- t-002
-  teiginys: "Veikale „Apie lietuvių tautos ir kalbos kilmę“ siūloma įsteigti lietuvių kalbą mokančią draugiją, kuri rinktų tautosaką, senienas ir leistų lietuviškas knygas."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67297
-
 ## Citatos
 
 - id: c-67297
@@ -66,7 +46,7 @@ Savo tyrinėjimus jis paskelbė ir atskira knyga — „Apie lietuvių tautos ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-67298
@@ -85,5 +65,26 @@ Savo tyrinėjimus jis paskelbė ir atskira knyga — „Apie lietuvių tautos ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-67358"></a>
+- t-001
+  teiginys: "Ks. Bauža 1806 m. išleido knygą „Apie lietuvių tautos ir kalbos kilmę“, kurioje ragino gelbėti lietuvybę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67298
+
+<a id="claim-t-67359"></a>
+- t-002
+  teiginys: "Veikale „Apie lietuvių tautos ir kalbos kilmę“ siūloma įsteigti lietuvių kalbą mokančią draugiją, kuri rinktų tautosaką, senienas ir leistų lietuviškas knygas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67297
+

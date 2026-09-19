@@ -56,43 +56,6 @@ Kryžiuočiai ilgai siekė sunaikinti Romainių šventvietę, o 1294 m. užėmė
 
 Šaltinio pasakojime pilies užėmimas baigėsi turto paėmimu ir žynių išžudymu; autorius svarsto, ar po šio smūgio religinės relikvijos nebuvo perkeltos į Vilnių.
 
-## Teiginiai
-
-<a id="claim-t-55130"></a>
-- t-001
-  teiginys: "1294 m. kryžiuočiai užėmė Romainių pilį, pasiėmė turtą ir išžudė žynius."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "gap::events"
-  ryšio_patikimumas: "susije_su -> Romainiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Romainių šventvietės sunaikinimas (1294 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Romainiai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romainių šventvietės sunaikinimas (1294 m.)\" parinktas kaip owner_note_path. Targetas \"Romainiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1294 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir tiksliai atitinka citatos informaciją."
-  pagrindžia:
-    - c-78376
-
-<a id="claim-t-55131"></a>
-- t-002
-  teiginys: "Balińskio manymu, po Romainių sunaikinimo Perkūno tikėjimo relikvijos ir Krivių Krivaitis su aukotojais galėjo būti perkelti į Vilnių."
-  atnaujinta: "2026-06-13 17:10"
-  sprendimo_priezastis: "gap::events"
-  ryšio_patikimumas: "susije_su -> Romainiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Romainių šventvietės sunaikinimas (1294 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Romainiai: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romainių šventvietės sunaikinimas (1294 m.)\" parinktas kaip owner_note_path. Targetas \"Romainiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-78376
-
 ## Citatos
 
 - id: c-78376
@@ -136,6 +99,44 @@ Kryžiuočiai ilgai siekė sunaikinti Romainių šventvietę, o 1294 m. užėmė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-55130"></a>
+- t-001
+  teiginys: "1294 m. kryžiuočiai užėmė Romainių pilį, pasiėmė turtą ir išžudė žynius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::events"
+  ryšio_patikimumas: "susije_su -> Romainiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Romainių šventvietės sunaikinimas (1294 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Romainiai: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romainių šventvietės sunaikinimas (1294 m.)\" parinktas kaip owner_note_path. Targetas \"Romainiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1294 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, faktinis ir tiksliai atitinka citatos informaciją."
+  pagrindžia:
+    - c-78376
+
+<a id="claim-t-55131"></a>
+- t-002
+  teiginys: "Balińskio manymu, po Romainių sunaikinimo Perkūno tikėjimo relikvijos ir Krivių Krivaitis su aukotojais galėjo būti perkelti į Vilnių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::events"
+  ryšio_patikimumas: "susije_su -> Romainiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Romainių šventvietės sunaikinimas (1294 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Romainiai: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romainių šventvietės sunaikinimas (1294 m.)\" parinktas kaip owner_note_path. Targetas \"Romainiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-78376
+

@@ -32,21 +32,6 @@ media_all_json: |-
 
 1390 m. reversine sutartimi Vytautas ir Kryžiuočių ordinas susitarė dėl taikos, Vytauto pagalbos kovoje su ordino priešais ir prekybos ryšių tarp Žemaitijos bei ordino valdų.
 
-## Teiginiai
-
-<a id="claim-t-207043"></a>
-- t-001
-  teiginys: "1390 m. reversine sutartimi Vytautas ir Kryžiuočių ordinas susitarė dėl taikos, Vytauto pagalbos kovoje su ordino priešais ir prekybos ryšių tarp Žemaitijos bei ordino valdų."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189658
-
 ## Citatos
 
 - id: c-189658
@@ -68,5 +53,21 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-207043"></a>
+- t-001
+  teiginys: "1390 m. reversine sutartimi Vytautas ir Kryžiuočių ordinas susitarė dėl taikos, Vytauto pagalbos kovoje su ordino priešais ir prekybos ryšių tarp Žemaitijos bei ordino valdų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189658
+

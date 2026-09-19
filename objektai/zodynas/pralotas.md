@@ -29,10 +29,34 @@ Užsitęsusio karo metu mirė vyskupas ir daugy bė pralotų; drauge su jais žu
 
 ## Teiginiai
 
+<a id="claim-t-209610"></a>
+- t-002
+  teiginys: "TJ-gi, sako pralotas, aš Tamstą pa lydėsiu pas šv."
+  atnaujinta: "2026-09-12 14:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192230
+
+<a id="claim-t-209609"></a>
+- t-209609
+  teiginys: "Pralotas Prapuolenis, sužinojęs apie tai, be galo džiaugėsi."
+  atnaujinta: "2026-09-12 14:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192229
+
 <a id="claim-t-03124"></a>
-- t-001
+- t-03124
   teiginys: "Užsitęsusio karo metu mirus vyskupui ir daugeliui pralotų, buvo prarasta valdovų kapų vietos paslaptis."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Rusai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -71,5 +95,38 @@ Užsitęsusio karo metu mirė vyskupas ir daugy bė pralotų; drauge su jais žu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-03124
+
+- id: c-192229
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 77"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 77."
+  citata_originali: |
+    Pralotas Prapuolenis, sužinojęs apie tai, be­
+    galo džiaugėsi.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209609
+
+- id: c-192230
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 77"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 77."
+  citata_originali: |
+    TJ-gi, sako pralotas, aš Tamstą pa­
+    lydėsiu pas šv. Tėvą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+

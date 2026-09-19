@@ -38,32 +38,6 @@ historical_names: []
 
 Augustinas, kadangi nebuvo sėslus miestietis, turėjo ieškoti laiduotojo, juo tapo miestietis iš Kauno priemiesčio Raginės Mykolas Romanaitis. Mikalojaus bažnyčiai, įsikūrusiai Raginėje, priklausė 2 namai netoli bažnyčios ir 1 daržas.
 
-## Teiginiai
-
-<a id="claim-t-201698"></a>
-- t-001
-  teiginys: "Augustinas, kadangi nebuvo sėslus miestietis, turėjo ieškoti laiduotojo, juo tapo miestietis iš Kauno priemiesčio Raginės Mykolas Romanaitis."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185045
-
-<a id="claim-t-201699"></a>
-- t-002
-  teiginys: "Mikalojaus bažnyčiai, įsikūrusiai Raginėje, priklausė 2 namai netoli bažnyčios ir 1 daržas."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185046
-
 ## Citatos
 
 - id: c-185045
@@ -81,7 +55,7 @@ Augustinas, kadangi nebuvo sėslus miestietis, turėjo ieškoti laiduotojo, juo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185046
@@ -97,5 +71,32 @@ Augustinas, kadangi nebuvo sėslus miestietis, turėjo ieškoti laiduotojo, juo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-201698"></a>
+- t-001
+  teiginys: "Augustinas, kadangi nebuvo sėslus miestietis, turėjo ieškoti laiduotojo, juo tapo miestietis iš Kauno priemiesčio Raginės Mykolas Romanaitis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185045
+
+<a id="claim-t-201699"></a>
+- t-002
+  teiginys: "Mikalojaus bažnyčiai, įsikūrusiai Raginėje, priklausė 2 namai netoli bažnyčios ir 1 daržas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185046
+

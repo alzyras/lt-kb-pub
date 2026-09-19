@@ -29,25 +29,17 @@ Narbutas, remdamasis Jonu Potockiu, mini kalmukų garbinimo praktiką, kurią la
 
 ## Teiginiai
 
-<a id="claim-t-192983"></a>
-- t-001
-  teiginys: "Narbutas, remdamasis Jonu Potockiu, mini kalmukų garbinimo praktiką, kurią laiko ne tokią ryškią kaip senovės lietuvių."
-  atnaujinta: "2026-07-19 17:58"
+<a id="claim-t-212274"></a>
+- t-212274
+  teiginys: "T. Narbutas teigia, kad Jonas Potockis slenksčių garbinimą pastebėjo ir pas kalmukus, nors ne tokį ryškų kaip pas senovės lietuvius."
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Slavai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kalmukai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Slavai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kalmukai\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-175753
+    - c-195611
 
 ## Citatos
 
@@ -70,5 +62,23 @@ Narbutas, remdamasis Jonu Potockiu, mini kalmukų garbinimo praktiką, kurią la
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-195611
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 475"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 475."
+  citata_originali: |
+    Grafas Jonas Potockis tokį garbinimą
+    pastebėjo ir pas kalmukus (jie turėtų būti mongolų palikuonys),
+    bet vis dėlto ne tokį ryškų, kaip tat matome buvus pas senovės
+    lietuvius1.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212274
+

@@ -53,19 +53,84 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
 
 ## Teiginiai
 
+<a id="claim-t-208439"></a>
+- t-208439
+  teiginys: "Kan. A. Alekna teigia, kad ingreso proga buvo perskaitytos bulės."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
+  pagrindžia:
+    - c-191059
+
+<a id="claim-t-209275"></a>
+- t-209275
+  teiginys: "A. Alekną šaltinis pristato kaip pirmąjį, kiek rimčiau įsigilinusį į Žemaičių vyskupystės konsistorijos ir Kauno gubernatoriaus dokumentus."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
+  pagrindžia:
+    - c-191974
+
+<a id="claim-t-209295"></a>
+- t-209295
+  teiginys: "A. Alekna M. Valančiaus biografijoje teigė, kad popiežiaus Pijaus IX išleisti blaivybės brolijų įstatai paskatino platinti blaivybę."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
+  pagrindžia:
+    - c-191886
+
+<a id="claim-t-209394"></a>
+- t-209394
+  teiginys: "A. Aleknos publikacijos buvo pasitelktos išdėstant pagrindinius blaivybės brolijų veiklos metmenis."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T11:31:44Z"
+  pagrindžia:
+    - c-191891
+
+<a id="claim-t-209436"></a>
+- t-209436
+  teiginys: "A. Alekna tvirtino, kad kai kuriuos aplinkraščius dėl blaivybės ir kitų dalykų rašydavo sekretoriai vyskupo nurodymu."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
+  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
+  pagrindžia:
+    - c-192056
+
 <a id="claim-t-64500"></a>
-- t-001
+- t-64500
   teiginys: "Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patarimais ir buvo numatytas įžangos žodžio autorius."
-  atnaujinta: "2026-05-31 10:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-13902
 
 <a id="claim-t-64501"></a>
-- t-002
+- t-64501
   teiginys: "Zenonas Ivinskis vertino, kad A. Aleknos „Katalikų Bažnyčia Lietuvoje“ parodė jo gebėjimą kritiškai ir objektyviai vertinti šaltinius."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -82,9 +147,9 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
     - c-30385
 
 <a id="claim-t-64502"></a>
-- t-003
+- t-64502
   teiginys: "A. Alekna, remdamasis Kauno vyskupijos kurijos archyvine medžiaga, 1923 m. išleido veikalą „Žemaičių vysk. M. Valančius“."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -101,9 +166,9 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
     - c-30385
 
 <a id="claim-t-64503"></a>
-- t-004
+- t-64503
   teiginys: "A. Aleknos „Lietuvos istorijos“ antras leidimas buvo išleistas Tilžėje 1923 m."
-  atnaujinta: "2026-05-31 10:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -119,9 +184,9 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
     - c-13903
 
 <a id="claim-t-64504"></a>
-- t-005
+- t-64504
   teiginys: "Antanas Alekna 1922–1930 m. dėstė Lietuvos istoriją, jos šaltinius ir istorinę geografiją Teologijos-Filosofijos fakulteto Filosofijos skyriuje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -138,9 +203,9 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
     - c-30385
 
 <a id="claim-t-64505"></a>
-- t-006
+- t-64505
   teiginys: "Prof. A. Alekna peržiūrėjo ir patikrino apie Vytautą Didįjį išleistą plačią monografiją."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> S. Daukantas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -154,9 +219,9 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
     - c-13904
 
 <a id="claim-t-64506"></a>
-- t-007
+- t-64506
   teiginys: "A. Alekna parašė „Katalikų Bažnyčia Lietuvoje“, išleistą Kaune 1936 m."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Katalikų Bažnyčia: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -190,8 +255,8 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-64506
 
 - id: c-13902
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -214,8 +279,8 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-64500
 
 - id: c-13903
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -230,8 +295,8 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-64503
 
 - id: c-13904
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -249,8 +314,8 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-64505
 
 - id: c-30385
   autorius: "Zenonas Ivinskis"
@@ -273,7 +338,123 @@ Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patari
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-003
-    - t-005
+  pagrindžia:
+    - t-64501
+    - t-64502
+    - t-64504
+
+- id: c-191059
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 9"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 9."
+  citata_originali: |
+    Vysk. M. Valančius
+    savo atsiminimuose rašo, kad po ingreso katedroje atlikę
+    „paprastas formalybes" 8. Kan. A. Alekna teigia, kad šia
+    proga buvo perskaitytos bulės9.
+  citata_rodoma: "Kan. A. Alekna teigia, kad šia \nproga buvo perskaitytos bulės9."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208439
+
+- id: c-191886
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 55"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 55."
+  citata_originali: |
+    Minėtas autorius net nebando gilintis į
+    objektyvesnes blaivinimo akcijos paskatas, tenkindamasis tuo, kad
+    pažangesnė, nauja Lietuvos katalikų dvasininkijos karta suvokė
+    katastrofišką padėtį ir įsisąmonino savo pašaukimą kovoti dėl liaudies
+    blaivybės. Iš esmės identiškai mąstė M. Brenšteinas ir A. Alekną.
+    Pastarasis M. Valančiaus biografijoje teigė, jog ¡raginimą labiail imtis
+    platinti blaivybę davė popiežiaus Pijaus IX išleisti blaivybės brolijų
+    įstatai"1 2.
+  citata_rodoma: "Iš esmės identiškai mąstė M. Brenšteinas ir A. Alekną. \nPastarasis M. Valančiaus biografijoje teigė, jog ¡raginimą labiail imtis \nplatinti blaivybę davė popiežiaus Pijaus IX išleisti blaivybės brolijų \nįstatai\"1 2."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209295
+
+- id: c-191891
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 8"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 8."
+  citata_originali: |
+    Be to, plačiai panaudojo XIX a. antrosios
+    pusės periodinę spaudą. A. Brenšteino indėlis šioje stityje kuklesnis.
+    Tiesioginiais
+    šaltiniais,
+    archhyviniais
+    dukumentais jis beveik
+    nepasinaudojo, tačiau, remdamasis periodika, jau
+    paskelbtais
+    straipsniais, A. Aleknos publikacijomis, išdėstė pagrindinius blaivybės
+    brolijų veiklos metmenis.
+  citata_rodoma: "remdamasis periodika, jau \npaskelbtais \nstraipsniais, A. Aleknos publikacijomis, išdėstė pagrindinius blaivybės \nbrolijų veiklos metmenis."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209394
+
+- id: c-191974
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 8"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 8."
+  citata_originali: |
+    Pastarasis Žemaitijos kultūros
+    žinovas Vilniaus Mokslo bičiulių draugijos leidinyje 1915-1918 m.
+    paskelbė seriją straipsnių apie blaivybės brolijas Žemaičių vyskupijoje.
+    1918 m. pasirodė ir atskiras tos medžiagos atspaudas3.
+    A. Alekna pirmasis kiek rimčiau įsigilino į du svarbius
+    archyvinius rinkinius: Žemaičių vyskupystės konsistorijos ir Kauno
+    gubernatoriaus dokumentus.
+  citata_rodoma: "A. Alekna pirmasis kiek rimčiau įsigilino į du svarbius \narchyvinius rinkinius: Žemaičių vyskupystės konsistorijos ir Kauno \ngubernatoriaus dokumentus."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209275
+
+- id: c-192056
+  autorius: "Merkys, Vytautas; Vanagienė, Birutė"
+  šaltinis: "Motiejus Valančius. Ganytojiški laiškai"
+  puslapiai: "PDF 9"
+  indeksas: "Merkys, Vytautas; Vanagienė, Birutė, Motiejus Valančius. Ganytojiški laiškai, PDF 9."
+  citata_originali: |
+    A. Alekna dar anksčiau tvirtino, kad kai kuriuos aplinkraščius (turėtų būti -ganytojiškus laiškus) dėl
+    blaivybės ir kitų dalykų rašydavo sekretoriai vyskupo nurodymu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209436
+

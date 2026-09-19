@@ -43,23 +43,6 @@ canonical_biography: "1737 m. Juozapas Malinovskis su Antanu Krukovskiu užpuol�
 
 1737 m. Juozapas Malinovskis su Antanu Krukovskiu užpuolė Andriaus Lemnickio dvarelį prie Vilniaus pilies.
 
-## Teiginiai
-
-<a id="claim-t-203917"></a>
-- t-001
-  teiginys: "1737 m. Juozapas Malinovskis su Antanu Krukovskiu užpuolė Andriaus Lemnickio dvarelį prie Vilniaus pilies."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  temporaliniai_duomenys: "įvykio data: 1737 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai įvardija Juozapą Malinovskį, jo bendrininką, veiksmą, laiką ir vietą. Formuluotė atitinka citatoje pateiktus faktus."
-  pagrindžia:
-    - c-186521
-
 ## Citatos
 
 - id: c-186521
@@ -78,5 +61,23 @@ canonical_biography: "1737 m. Juozapas Malinovskis su Antanu Krukovskiu užpuol�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203917"></a>
+- t-001
+  teiginys: "1737 m. Juozapas Malinovskis su Antanu Krukovskiu užpuolė Andriaus Lemnickio dvarelį prie Vilniaus pilies."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1737 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai įvardija Juozapą Malinovskį, jo bendrininką, veiksmą, laiką ir vietą. Formuluotė atitinka citatoje pateiktus faktus."
+  pagrindžia:
+    - c-186521
+

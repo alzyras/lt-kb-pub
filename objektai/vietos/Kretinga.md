@@ -47,10 +47,23 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
 
 ## Teiginiai
 
+<a id="claim-t-208556"></a>
+- t-208556
+  teiginys: "Kretingoje vaikai, Puzaro apibūdinami kaip neklusnūs, čiuožė ant plono ledo, įlūžo ir būtų prigėrę, jei jų nebūtų išgelbėjęs suaugęs žmogus."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:47Z"
+  pagrindžia:
+    - c-191176
+
 <a id="claim-t-171658"></a>
-- t-001
+- t-171658
   teiginys: "Geležinkelio linija Klaipėda–Šiauliai per Kretingą ir Kužius buvo baigta tiesti tik 1936 m."
-  atnaujinta: "2026-05-31 14:12"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kužiai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -66,9 +79,9 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
     - c-43518
 
 <a id="claim-t-171659"></a>
-- t-002
+- t-171659
   teiginys: "Jono Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Latvija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -82,9 +95,9 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
     - c-156139
 
 <a id="claim-t-183032"></a>
-- t-003
+- t-183032
   teiginys: "IV Kražių apygardoje apygardėlinės mokyklos buvo Kaune, Kretingoje, Panevėžyje, Raseiniuose ir Ukmergėje."
-  atnaujinta: "2026-06-13 18:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -132,8 +145,8 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-171658
 
 - id: c-156139
   sudarytojas: "Karolis Zikaras"
@@ -152,8 +165,8 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-171659
 
 - id: c-166424
   redaktorius: "A. Šapoka"
@@ -173,5 +186,28 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-183032
+
+- id: c-191176
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 114"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 114."
+  citata_originali: |
+    „Vaikai neklausantys". Vysk. M. Valančius keturiais
+    vaizdeliais iliustruoja skaudžias IV Dievo įsakymo lau­
+    žymo pasekmes. Štai Kretingoje neklusnūs vaikai čiuožė
+    ant plono ledo, įlūžo ir būtų prigėrę, jeigu jų nebūtų iš­
+    gelbėjęs suaugęs žmogus.
+  citata_rodoma: "Štai Kretingoje neklusnūs vaikai čiuožė \nant plono ledo, įlūžo ir būtų prigėrę, jeigu jų nebūtų iš­\ngelbėjęs suaugęs žmogus."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208556
+

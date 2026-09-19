@@ -47,10 +47,58 @@ Boleslovas Narsusis, nugalėjęs rusus, buvo užėmęs Kijevą ir privertęs kij
 
 ## Teiginiai
 
+<a id="claim-t-205175"></a>
+- t-004
+  teiginys: "Boleslovas Narsusis palankiai priėmė Vaitiekų savo prieglobstyje."
+  atnaujinta: "2026-08-11 18:54"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187965
+
+<a id="claim-t-213030"></a>
+- t-213030
+  teiginys: "Po šv. Vaitiekaus kankinimo Gaudencijus gyveno Boleslovo Narsiojo rūmuose."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196910
+
+<a id="claim-t-213198"></a>
+- t-213198
+  teiginys: "Po 1018 metų Boleslovas Narsusis atsiėmė prie Bugo esančią Rusią ir dalį Polesės bei prijungė šias žemes prie Lenkijos karalystės."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196216
+
+<a id="claim-t-214040"></a>
+- t-214040
+  teiginys: "Tai buvo Boleslovo Narsiojo tėvas Mečislovas, valdęs nuo 964 iki 999 metų."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195362
+
 <a id="claim-t-186000"></a>
-- t-001
+- t-186000
   teiginys: "Boleslovas Narsusis, nugalėjęs rusus, buvo užėmęs Kijevą ir privertęs kijeviečius mokėti duoklę."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -59,10 +107,61 @@ Boleslovas Narsusis, nugalėjęs rusus, buvo užėmęs Kijevą ir privertęs kij
   pagrindžia:
     - c-169361
 
-<a id="claim-t-191200"></a>
-- t-002
+<a id="claim-t-205102"></a>
+- t-205102
+  teiginys: "Kadlubekas dar atsimena, kad tuo metu, kai Boleslovas Narsusis puolė Prūsiją, ne buvo ten būstų, kuriuos būtų buvę galima pripažinti esant patogius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187698
+
+<a id="claim-t-205398"></a>
+- t-205398
+  teiginys: "Veikiai Boleslovas Narsusis išsiuntė pasiuntinius į Prū siją su pasiūlymu grąžinti šventojo palaikus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187821
+
+<a id="claim-t-205540"></a>
+- t-205540
+  teiginys: "Pasirenkant pas tarąjį kraštą, matyt, nebuvo apsieita be paties Boleslovo, kuriam labai rūpėjo krikštas šių kaimynų, gausios karin gos tautos, su toli nusidriekusiomis gyvenvietėmis, tad karo atveju galėjo daug rūpesčių pridaryti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188089
+
+<a id="claim-t-212204"></a>
+- t-212204
+  teiginys: "Dytmaras, Merzeburgo vyskupas, pasakodamas apie Boleslovo Nar siojo karus, 1009 metais mini ir lietuvius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196450
+
+<a id="claim-t-213085"></a>
+- t-213085
   teiginys: "Dytmaras, Merzeburgo vyskupas, pasakodamas apie Boleslovo Narsiojo karus, 1009 m. paminėjo ir lietuvius."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -80,58 +179,7 @@ Boleslovas Narsusis, nugalėjęs rusus, buvo užėmęs Kijevą ir privertęs kij
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys, siejantis Boleslovą Narsųjį su Dytmaro pasakojimu apie karus. Nepridėta papildomų teiginių apie Lietuvos paminėjimo pirmumą."
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
-    - c-174082
-
-<a id="claim-t-205102"></a>
-- t-003
-  teiginys: "Kadlubekas dar atsimena, kad tuo metu, kai Boleslovas Narsusis puolė Prūsiją, ne buvo ten būstų, kuriuos būtų buvę galima pripažinti esant patogius."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-187698
-
-<a id="claim-t-205175"></a>
-- t-004
-  teiginys: "Boleslovas Narsusis palankiai priėmė Vaitiekų savo prieglobstyje."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-187965
-
-<a id="claim-t-205398"></a>
-- t-005
-  teiginys: "Veikiai Boleslovas Narsusis išsiuntė pasiuntinius į Prū siją su pasiūlymu grąžinti šventojo palaikus."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-187821
-
-<a id="claim-t-205540"></a>
-- t-006
-  teiginys: "Pasirenkant pas tarąjį kraštą, matyt, nebuvo apsieita be paties Boleslovo, kuriam labai rūpėjo krikštas šių kaimynų, gausios karin gos tautos, su toli nusidriekusiomis gyvenvietėmis, tad karo atveju galėjo daug rūpesčių pridaryti."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-188089
+    - c-196450
 
 ## Citatos
 
@@ -168,8 +216,8 @@ Boleslovas Narsusis, nugalėjęs rusus, buvo užėmęs Kijevą ir privertęs kij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-186000
 
 - id: c-174082
   autorius: "Teodoras Narbutas"
@@ -189,8 +237,6 @@ Boleslovas Narsusis, nugalėjęs rusus, buvo užėmęs Kijevą ir privertęs kij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-187698
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -210,8 +256,8 @@ Boleslovas Narsusis, nugalėjęs rusus, buvo užėmęs Kijevą ir privertęs kij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-205102
 
 - id: c-187821
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -228,8 +274,8 @@ Boleslovas Narsusis, nugalėjęs rusus, buvo užėmęs Kijevą ir privertęs kij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-205398
 
 - id: c-187965
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -245,11 +291,12 @@ Boleslovas Narsusis, nugalėjęs rusus, buvo užėmęs Kijevą ir privertęs kij
     tijo, kitų krikštą sutvirtino.
   citata_rodoma: "Boleslovo Narsiojo, kuris buvo girdėjęs apie Vaitiekaus \nmokymą, dorybes, dievotumą ir imperatoriaus Otono III \njam rodomą palankumą, jis buvo sutiktas su dideliu mei­\nlumu. Kurį laiką paviešėjęs Boleslovo prieglobstyje, iš­\nvyko į Chroibatiją, kur Krokuvos apylinkėse vienus krikš­\ntijo, kitų krikštą sutvirtino."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-11 18:54"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-188089
@@ -268,5 +315,85 @@ Boleslovas Narsusis, nugalėjęs rusus, buvo užėmęs Kijevą ir privertęs kij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-205540
+
+- id: c-195362
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 216"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 216."
+  citata_originali: |
+    Tai buvo Boleslovo Narsiojo tėvas Mečislovas,
+    valdęs nuo 964 iki 999 metų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214040
+
+- id: c-196216
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 120"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 120."
+  citata_originali: |
+    Boleslovas Narsusis, atsiėmęs
+    prie Bugo esančią Rusią, o kartu ir dalį Polesės, arba
+    Jotvingijos, Rusios duoklininkės, po 1018 metų prijungė
+    tas žemes prie Lenkijos karalystės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213198
+
+- id: c-196450
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 272"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 272."
+  citata_originali: |
+    Iš
+    mums žinomų originalių istorikų pirmasis, Lietuvą pa­
+    minėjęs 860 metais ar kiek vėliau, buvo Nestoras; jis iš­
+    vardijo rusų variagams ¡priklausiusias gentis2. Dytmaras,
+    Merzeburgo vyskupas, pasakodamas apie Boleslovo Nar­
+    siojo karus, 1009 metais mini ir lietuvius**.
+    ’ Hist.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212204
+    - t-213085
+
+- id: c-196910
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 259"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 259."
+  citata_originali: |
+    Tai liudija, kad šis biografas žinojo
+    tikrąjį krašto ¡pavadinimą, nes pats asmeniškai ten buvo,
+    kalėjo prūsų kalėjime, po šv. Vaitiekaus kankinimo gy­
+    veno Lenkijos Karalystės sostinėje ir karaliaus Boleslovo
+    Narsiojo rūmuose.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213030
+

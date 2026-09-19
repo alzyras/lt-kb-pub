@@ -47,10 +47,22 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
 
 ## Teiginiai
 
+<a id="claim-t-212008"></a>
+- t-212008
+  teiginys: "Viduklėje buvo įsteigta viena iš pirmųjų katalikų bažnyčių Žemaitijoje."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194170
+
 <a id="claim-t-69561"></a>
-- t-001
+- t-69561
   teiginys: "Viduklės srities atstovai kartu su kitų šešių Žemaičių aukštumos sričių atstovais darė taiką su Vytautu ir Ordinu."
-  atnaujinta: "2026-05-31 10:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "sudare_sutarti_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -65,9 +77,9 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
     - c-68865
 
 <a id="claim-t-69562"></a>
-- t-002
+- t-69562
   teiginys: "1416 m. Vytautas Viduklėje pastatė vieną iš aštuonių Žemaitijos parapijinių bažnyčių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Viena: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -105,8 +117,8 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-69562
 
 - id: c-68865
   autorius: "Zenonas Ivinskis"
@@ -127,5 +139,24 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-69561
+
+- id: c-194170
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 259"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 259."
+  citata_originali: |
+    Pirmo­
+    sios katalikų bažnyčios Žemaitijoje buvo įsteigtos pietrytinėje jos
+    dalyje — Ariogaloje, Raseiniuose, Viduklėje, Kražiuose.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212008
+

@@ -47,81 +47,6 @@ canonical_biography: "Įvadinis tekstas Liudviką Jucevičių pristato kaip švi
 
 ## Teiginiai
 
-<a id="claim-t-187952"></a>
-- t-001
-  teiginys: "Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje išleistas šaltinis."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "gap::authors"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Liudvikas Adomas Jucevičius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=61"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Liudvikas Adomas Jucevičius\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1959 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Jucevičiaus „Raštų“ bibliografinę nuorodą. Papildomas turinys iš citatos nepridedamas."
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-170947
-
-<a id="claim-t-188441"></a>
-- t-002
-  teiginys: "Kunigo Jucevičiaus nuomone, Palangos pajūrio lietuviai žvejai Atrimpą vadino „Dzivsvits“."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "gyveno -> Palanga: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Palanga: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad lietuviai gyveno prie Palangos."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Lietuviai gyveno Palanga (0.90)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-183830
-
-<a id="claim-t-188442"></a>
-- t-003
-  teiginys: "Narbutas mini, kad ekskunigas Adomas Jucevičius legendos apie gegužės pavirtimą aprašymu užėmė nemažą „Tygodnik Petersburski“ 1836 m. Nr. 28 dalį."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1836 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Fragmentas perrašytas į sakinį apie Jucevičiaus paskelbtą legendos aprašymą. Legendinis turinys paliktas su Narbuto atribucija."
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-183829
-
-<a id="claim-t-200442"></a>
-- t-004
-  teiginys: "Narbutas nurodo, kad ekskunigas Adomas Jucevičius „Tygodnik Petersburski“ 1836 m. Nr. 28 aprašė legendą apie gegužės pavirtimą."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Legendos turinys paliktas su Narbuto atribucija, nes profilis reikalauja atribucijos legendoms. Nepridėta paties pavirtimo siužeto, kurio citata dar neišdėsto."
-  temporaliniai_duomenys: "įvykio data: 1836 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Legendos turinys paliktas su Narbuto atribucija, nes profilis reikalauja atribucijos legendoms. Nepridėta paties pavirtimo siužeto, kurio citata dar neišdėsto."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-173637
-
 <a id="claim-t-202495"></a>
 - t-005
   teiginys: "Liudvikas Jucevičius ir Stanislovas Čerskis aptariamą hierarchą vertino kaip vieną iš puikiausių vyskupų, pabrėždami jo žmoniškumą, šeimininkiškumą, pomėgį mokslui ir gerą skonį."
@@ -140,6 +65,100 @@ canonical_biography: "Įvadinis tekstas Liudviką Jucevičių pristato kaip švi
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
   pagrindžia:
     - c-183835
+
+<a id="claim-t-212695"></a>
+- t-212695
+  teiginys: "T. Narbutas padavimą apie septynias deives paėmė iš L. A. Jucevičiaus monografijos „Lietuva“."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195428
+
+<a id="claim-t-218023"></a>
+- t-218023
+  teiginys: "T. Narbutas naudojo L. A. Jucevičiaus monografijas „Lietuvių liaudies priežodžiai“ (1840), „Žemaitijos atsiminimai“ (1842) ir „Lietuva“ (1846)."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-197941
+
+<a id="claim-t-212261"></a>
+- t-212261
+  teiginys: "Antrojo LTI leidimo papildymo medžiaga buvo paimta iš L. A. Jucevičiaus „Lietuvos“ dalies „Metamorfozės lietuvių mitologijoje“."
+  atnaujinta: "2026-09-13 20:06"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Sakinys sutrumpintas ir paliktas faktinis ryšys su L. A. Jucevičiaus veikalu. Nepridėta papildomos informacijos apie PEĮ lapą ar leidimo rengimo aplinkybes."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+
+<a id="claim-t-213033"></a>
+- t-213033
+  teiginys: "Narbutas nurodo, kad ekskunigas Adomas Jucevičius „Tygodnik Petersburski“ 1836 m. Nr. 28 aprašė legendą apie gegužės pavirtimą."
+  atnaujinta: "2026-09-13 21:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1836 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Legendos turinys paliktas su Narbuto atribucija, nes profilis reikalauja atribucijos legendoms. Nepridėta paties pavirtimo siužeto, kurio citata dar neišdėsto."
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-197234
+
+<a id="claim-t-217363"></a>
+- t-217363
+  teiginys: "Kunigo Jucevičiaus nuomone, Palangos pajūrio lietuviai žvejai Atrimpą vadino „Dzivsvits“."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Pašalintos OCR ir išnašų liekanos, o mitologinis dievybės vardo teiginys paliktas su Jucevičiaus atribucija. Nepridėtas Atrimpo ženklo aprašymas."
+  susije_objektai: "llm_object: Palanga; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Atrimpo vandens indas arba urna su žalčiu|Atrimpo vandens indas arba urna su žalčiu]]; mentioned_place: Pajūris; mentioned_place: Palanga"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+
+<a id="claim-t-219000"></a>
+- t-219000
+  teiginys: "Narbutas mini, kad ekskunigas Adomas Jucevičius legendos apie gegužės pavirtimą aprašymu užėmė nemažą „Tygodnik Petersburski“ 1836 m. Nr. 28 dalį."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Fragmentas perrašytas į sakinį apie Jucevičiaus paskelbtą legendos aprašymą. Legendinis turinys paliktas su Narbuto atribucija."
+  temporaliniai_duomenys: "įvykio data: 1836 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Fragmentas perrašytas į sakinį apie Jucevičiaus paskelbtą legendos aprašymą. Legendinis turinys paliktas su Narbuto atribucija."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+
+<a id="claim-t-220144"></a>
+- t-220144
+  teiginys: "Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje išleistas šaltinis."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra pilnas sakinys apie Jucevičiaus „Raštų“ bibliografinę nuorodą. Papildomas turinys iš citatos nepridedamas."
+  susije_objektai: "mentioned_place: Vilnius"
+  temporaliniai_duomenys: "įvykio data: 1959 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Jucevičiaus „Raštų“ bibliografinę nuorodą. Papildomas turinys iš citatos nepridedamas."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -172,8 +191,6 @@ canonical_biography: "Įvadinis tekstas Liudviką Jucevičių pristato kaip švi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-173637
   autorius: "Teodoras Narbutas"
@@ -190,8 +207,6 @@ canonical_biography: "Įvadinis tekstas Liudviką Jucevičių pristato kaip švi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
 
 - id: c-173638
   autorius: "Teodoras Narbutas"
@@ -210,6 +225,7 @@ canonical_biography: "Įvadinis tekstas Liudviką Jucevičių pristato kaip švi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-183828
   autorius: "Teodoras Narbutas"
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
@@ -227,6 +243,7 @@ canonical_biography: "Įvadinis tekstas Liudviką Jucevičių pristato kaip švi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-183829
   autorius: "Teodoras Narbutas"
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -244,8 +261,6 @@ canonical_biography: "Įvadinis tekstas Liudviką Jucevičių pristato kaip švi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-183830
   autorius: "Teodoras Narbutas"
@@ -264,8 +279,6 @@ canonical_biography: "Įvadinis tekstas Liudviką Jucevičių pristato kaip švi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-183835
   autorius: "Domininkas Burba"
@@ -274,6 +287,66 @@ canonical_biography: "Įvadinis tekstas Liudviką Jucevičių pristato kaip švi
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.), PDF 2."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 17:37"
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+- id: c-195428
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 474"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 474."
+  citata_originali: |
+    Padavimą apie septynias deives is­
+    torikas paėmė iš L. A. Jucevičiaus monografijos „Lietuva“
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212695
+
+- id: c-197234
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 480"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 480."
+  citata_originali: |
+    O taip atsitiktų, jeigu aš pateikčiau ilgą legendą
+    apie gegužės pavirtimą, kurio aprašymu ekskunigas Adomas Ju­
+    cevičius užėmė nemenką „Tygodnik Petersburski“ (1836. Nr. 28)
+    dalį. Vis dėlto patį pavirtimo turinį privalau aprašyti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213033
+
+- id: c-197941
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 72"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 72."
+  citata_originali: |
+    Su L. A. Jucevi­
+    čiumi, regis, taip pat nebūta glaudesnių kontaktų; laiškų neli­
+    ko, o ir vertinimų taip pat. Vis dėlto parankiniame egzemplio­
+    riuje gausu citatų iš L. A. Jucevičiaus monografijų („Lietuvių
+    liaudies priežodžiai“, 1840; „Žemaitijos atsiminimai“, 1842;
+    „Lietuva“, 1846); po T. Volianskio tai buvo antras ryškiausias
+    darbinio LTI varianto autorius, ir tai jau daug ką pasako.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218023
+

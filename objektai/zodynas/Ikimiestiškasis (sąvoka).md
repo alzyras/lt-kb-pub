@@ -35,20 +35,6 @@ media_all_json: |-
 
 Pirmasis ikimiestiškasis prasideda nuo pirmosios archeologijos metodais fiksuojamos gyvenvietės Nemuno ir Neries santakos apylinkėse, baigiasi iki 1408 m. Vytauto privilegijos.
 
-## Teiginiai
-
-<a id="claim-t-201801"></a>
-- t-001
-  teiginys: "Pirmasis ikimiestiškasis prasideda nuo pirmosios archeologijos metodais fiksuojamos gyvenvietės Nemuno ir Neries santakos apylinkėse, baigiasi iki 1408 m. Vytauto privilegijos."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185148
-
 ## Citatos
 
 - id: c-185148
@@ -65,5 +51,20 @@ Pirmasis ikimiestiškasis prasideda nuo pirmosios archeologijos metodais fiksuoj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201801"></a>
+- t-001
+  teiginys: "Pirmasis ikimiestiškasis prasideda nuo pirmosios archeologijos metodais fiksuojamos gyvenvietės Nemuno ir Neries santakos apylinkėse, baigiasi iki 1408 m. Vytauto privilegijos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185148
+

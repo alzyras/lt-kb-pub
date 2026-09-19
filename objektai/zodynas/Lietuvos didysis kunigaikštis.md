@@ -49,9 +49,9 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
     - c-168735
 
 <a id="claim-t-185376"></a>
-- t-002
+- t-185376
   teiginys: "Lenkų istorikų teigimu, Kazimieras turėjo valdyti Lietuvą brolio vardu ir nesisavinti Lietuvos didžiojo kunigaikščio titulo."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -68,9 +68,9 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
     - c-168737
 
 <a id="claim-t-185377"></a>
-- t-003
+- t-185377
   teiginys: "Kazimierą rėmę lietuviai aiškino, kad Lietuvai reikalingas savarankiškai sprendžiantis valdovas, o ne karaliaus vietininkas."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -87,9 +87,9 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
     - c-168738
 
 <a id="claim-t-193379"></a>
-- t-004
+- t-193379
   teiginys: "Kojelavičiaus pasakojime tremtyje tarp kryžiuočių gyvenęs lietuvis siekė įsigyti didžiojo kunigaikščio titulą."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -192,11 +192,12 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
     dino pilių viršininkų.
   citata_rodoma: "Alek­\nsandras Vytautas su žmona\nOna savo bei savo palikuonių vardu turįs prisiekti, kad\njis su visomis Lietuvos valdomis amžinai liksiąs paklus­\nnus bei ištikimas karaliui; šventai saugosiąs Lietuvos\nkunigaikštystės sąjungą ir sandraugą su Lenkijos ka­\nralyste, nebandydamas nei nuo jos atsiskirti, nei ją pa­\nžeisti; visada laikysiąs savo draugais ir priešais Lenkijos\nkaralystės bei Lenkijos karaliaus draugus ir priešus; su\nSkirgaila visada stengsiąsis gyventi taikoje ir broliškoje\nsantarvėje; skirsiąs lėšų ir duosiąs karių atkariauti Skir­\ngailai bei jo palikuonims Kijevo kunigaikštystę su viso­\nmis jos valdomis, tuojau pat jam atiduosiąs valdyti Tra­\nkus, Kremenecą ir kai kurias kitas mažesnes valdas.\nTuo tarpu Kazimieras Skirgaila, pasitenkinęs gautomis\nkunigaikštystėmis, nesieksiąs Lietuvos didžiojo kuni­\ngaikščio vardo. Karalius Jogaila neskirsiąs be Vytauto\n330\n\n## Puslapis 329\n\nžinios ir sutikimo Vilniaus, Vitebsko, Merkinės ir Gar­\ndino pilių viršininkų."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-168737
@@ -220,8 +221,8 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-185376
 
 - id: c-168738
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -244,8 +245,8 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-185377
 
 - id: c-176104
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -275,5 +276,6 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-193379
+

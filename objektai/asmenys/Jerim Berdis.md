@@ -34,21 +34,6 @@ canonical_biography: "Žuvus Tochtamyšui, Jerim Berdis pabėgo pas Vytautą, o 
 
 Žuvus Tochtamyšui, Jerim Berdis pabėgo pas Vytautą, o Kojelavičius šį veiksmą aiškino garbės troškimu.
 
-## Teiginiai
-
-<a id="claim-t-186046"></a>
-- t-001
-  teiginys: "Žuvus Tochtamyšui, Jerim Berdis pabėgo pas Vytautą, o Kojelavičius šį veiksmą aiškino garbės troškimu."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-169407
-
 ## Citatos
 
 - id: c-169407
@@ -69,9 +54,25 @@ canonical_biography: "Žuvus Tochtamyšui, Jerim Berdis pabėgo pas Vytautą, o 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Puolė Jerim Berdį: [[objektai/asmenys/Kerim Berdis]]
 - Jerim Berdis keliavo į [[objektai/vietos/Skitija]]
+
+## Teiginiai
+
+<a id="claim-t-186046"></a>
+- t-001
+  teiginys: "Žuvus Tochtamyšui, Jerim Berdis pabėgo pas Vytautą, o Kojelavičius šį veiksmą aiškino garbės troškimu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-169407
+

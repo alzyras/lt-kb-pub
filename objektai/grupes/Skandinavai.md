@@ -40,179 +40,34 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 
 ## Teiginiai
 
-<a id="claim-t-66129"></a>
-- t-001
-  teiginys: "Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Skandinavai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kuršiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Skandinavai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Kuršiai tekste įvardyti kaip turėję atremti plėšikaujančius skandinavus, todėl karinė priešprieša pagrįsta."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Prūsai kariavo prieš Skandinavai (0.82); Kuršiai kariavo prieš Skandinavai (0.82)"
-  pagrindžia:
-    - c-42931
-
-<a id="claim-t-188332"></a>
-- t-002
-  teiginys: "Narbutas mano, kad lietuvių ir skandinavų mitologijų panašumą ryškino skandinavų perimti graikų elementai."
-  atnaujinta: "2026-07-19 18:48"
+<a id="claim-t-212729"></a>
+- t-212729
+  teiginys: "Netrukus užsimezgė santykiai su skandinavais."
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Graikai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skandinavai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skandinavai\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-171225
-
-<a id="claim-t-188334"></a>
-- t-003
-  teiginys: "Narbutas rašo, kad skandinavai Frėjos kelione aiškino jos žinomumą ir garbinimą įvairiuose kraštuose."
-  atnaujinta: "2026-07-26 17:49"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-171227
-
-<a id="claim-t-188335"></a>
-- t-004
-  teiginys: "Narbutas rašo, kad skandinavams koboliai buvo įkyrios ir irzlios mitinės būtybės, su kuriomis buvo galima kovoti ir jas užmušti."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Koboliai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skandinavai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Koboliai: mention_match, group, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skandinavai\" parinktas kaip owner_note_path. Targetas \"Koboliai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-171228
-
-<a id="claim-t-188336"></a>
-- t-005
-  teiginys: "Narbutas perteikia Prūsijos kronikininkų nuomonę, kad lietuviai paskutines penkias dievaičių rūšis perėmė iš skandinavų."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skandinavai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=55"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skandinavai\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-171229
-
-<a id="claim-t-188339"></a>
-- t-006
-  teiginys: "Narbutas primena, kad skandinavų mitologijoje Išminties šaltinį valdo Mimiras, o Igdrasilis jame maitina vieną savo šaknį."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Viena: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skandinavai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=83"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skandinavai\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-171232
-
-<a id="claim-t-188340"></a>
-- t-007
-  teiginys: "Narbutas mano, kad skandinavai tikėjimą šventojo ąžuolo reikšme iš dalies perėmė iš lietuvių."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Švedai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skandinavai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Švedai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skandinavai\" parinktas kaip owner_note_path. Targetas \"Švedai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-171233
-
-<a id="claim-t-192456"></a>
-- t-008
-  teiginys: "Narbutas darė prielaidą, kad dalis žmonių iš Šiaurės Azijos per Lapiją galėjo patekti į Skandinaviją, Švediją ir Norvegiją."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Skandinavija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skandinavai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Skandinavija: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skandinavai\" parinktas kaip owner_note_path. Targetas \"Skandinavija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-175250
+    - c-196976
 
-<a id="claim-t-192457"></a>
-- t-009
-  teiginys: "Narbutas spėjo, kad skandinavai iš Baltijos jūros per Nevą ir Ladogos ežerą galėjo pasiekti Pailmenės slavus."
-  atnaujinta: "2026-07-12 22:34"
+<a id="claim-t-217781"></a>
+- t-217781
+  teiginys: "Mat nors nėra abejonės, kad se novės lietuviai daug ką perėmė iš skandinavų, ypač religijos srityje, - net Romovė turėjusi būti senosios skandinavų Upsa los kopija, - bet juk ir ten grafo tarp žynių negirdėti."
+  atnaujinta: "2026-09-12 23:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Skandinavai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skandinavai\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-175251
+    - c-201458
 
-<a id="claim-t-192458"></a>
-- t-010
+<a id="claim-t-212967"></a>
+- t-212967
   teiginys: "Narbutas rašė, kad Malte-Brunas Baltijos jūros pavadinimą kildino iš senovės skandinavų žodžio Balt arba Beet."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-13 18:12"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -227,12 +82,12 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-175252
+    - c-197111
 
-<a id="claim-t-192459"></a>
-- t-011
+<a id="claim-t-214334"></a>
+- t-214334
   teiginys: "Narbutas Assagardą laikė senovės šiaurės miestu Rusioje, kur, jo teigimu, nuolat gyveno skandinavai."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -246,13 +101,181 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skandinavai\" parinktas kaip owner_note_path. Targetas \"Azovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-175253
 
-<a id="claim-t-192460"></a>
-- t-012
+<a id="claim-t-216006"></a>
+- t-216006
+  teiginys: "Narbutas primena, kad skandinavų mitologijoje Išminties šaltinį valdo Mimiras, o Igdrasilis jame maitina vieną savo šaknį."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Skandinavai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=83"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skandinavai\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-198554
+
+<a id="claim-t-217226"></a>
+- t-217226
+  teiginys: "Narbutas rašo, kad skandinavams koboliai buvo įkyrios ir irzlios mitinės būtybės, su kuriomis buvo galima kovoti ir jas užmušti."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Koboliai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Skandinavai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Koboliai: mention_match, group, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skandinavai\" parinktas kaip owner_note_path. Targetas \"Koboliai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-197959
+
+<a id="claim-t-218475"></a>
+- t-218475
+  teiginys: "Tas skaičius devyni yra religinis, ypač, kaip pažymi ponas Rėza, Prūsijos lietuviams, kurie jį perėmė iš skandinavų."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198764
+
+<a id="claim-t-218536"></a>
+- t-218536
+  teiginys: "Leisdamiesi nuo tryliktojo amžiaus gilyn į praeitį, pastebi me vedybų papročius, bendrus lietuviams ir skandinavams, tai yra kad tik viena, pirmoji, žmona buvo iš tikrųjų laikoma tei sėta žmona ir namų šeimininke, o vėliau paimtos į namus mo terys neturėjo."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-197856
+
+<a id="claim-t-219298"></a>
+- t-219298
+  teiginys: "Anot visų tyrimų, šios deivės ypatybės buvo perimtos iš skandinavų, kurie ją vadino Frėja; ji buvo jūrų ir ugnies dievo, žemiškos laimės, turtų, sostų dalintojo Niordo duktė, o pati buvo laisvės, nepriklausomybės, malonumų, meilės poezijos mo tina ."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199360
+
+<a id="claim-t-66129"></a>
+- t-66129
+  teiginys: "Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Skandinavai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kuršiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Skandinavai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Kuršiai tekste įvardyti kaip turėję atremti plėšikaujančius skandinavus, todėl karinė priešprieša pagrįsta."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Prūsai kariavo prieš Skandinavai (0.82); Kuršiai kariavo prieš Skandinavai (0.82)"
+  pagrindžia:
+    - c-42931
+
+<a id="claim-t-193128"></a>
+- t-193128
+  teiginys: "Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolatinį upių susisiekimą su Bizantija."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-175887
+
+<a id="claim-t-205092"></a>
+- t-205092
+  teiginys: "Apskritai jūros pakrantės, besitęsiančios nuo Nemuno iki Dauguvos žiočių, didžiausią skandinavų ant plūdį ėmė patirti nuo VI amžiaus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187943
+
+<a id="claim-t-212626"></a>
+- t-212626
+  teiginys: "Narbutas darė prielaidą, kad dalis žmonių iš Šiaurės Azijos per Lapiją galėjo patekti į Skandinaviją, Švediją ir Norvegiją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Skandinavija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Skandinavai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Skandinavija: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skandinavai\" parinktas kaip owner_note_path. Targetas \"Skandinavija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-195131
+
+<a id="claim-t-212807"></a>
+- t-212807
+  teiginys: "Narbutas spėjo, kad skandinavai iš Baltijos jūros per Nevą ir Ladogos ežerą galėjo pasiekti Pailmenės slavus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Skandinavai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skandinavai\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-197425
+
+<a id="claim-t-213785"></a>
+- t-213785
+  teiginys: "Gal senų seniausiais laikais skandinavai kitu keliu iš Baltijos jūros patekdavo į Nevo-s upę ir Ladogos ežerą, o iš ten — pas Pailmenės slavus, kurie iš Britanijos ir Es tijos atgabentas prekes sugebėdavo pergabenti į pietus Volgos, Dono ir Dnepro upėmis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197425
+
+<a id="claim-t-214861"></a>
+- t-214861
   teiginys: "Narbutas skandinavų užkariavimus lietuvių žemėse apibūdino kaip labai senus ir didelius."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -267,105 +290,98 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-175254
+    - c-195541
 
-<a id="claim-t-193128"></a>
-- t-013
-  teiginys: "Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolatinį upių susisiekimą su Bizantija."
-  atnaujinta: "2026-07-06 12:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-175887
-
-<a id="claim-t-194595"></a>
-- t-014
-  teiginys: "Su šių dviejų religijų sistemomis sumišo trečioji, tai yra skandinavų, o iš tos sam plaikos kilo mitologija, kurią imamės išdėstyti."
-  atnaujinta: "2026-07-26 17:49"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-176994
-
-<a id="claim-t-194596"></a>
-- t-015
-  teiginys: "Anot visų tyrimų, šios deivės ypatybės buvo perimtos iš skandinavų, kurie ją vadino Frėja; ji buvo jūrų ir ugnies dievo, žemiškos laimės, turtų, sostų dalintojo Niordo duktė, o pati buvo laisvės, nepriklausomybės, malonumų, meilės poezijos mo tina ."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-176995
-
-<a id="claim-t-194597"></a>
-- t-016
-  teiginys: "Tas skaičius devyni yra religinis, ypač, kaip pažymi ponas Rėza, Prūsijos lietuviams, kurie jį perėmė iš skandinavų."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-176996
-
-<a id="claim-t-194598"></a>
-- t-017
-  teiginys: "Atsakymas trumpas: pajūrio Lietuva, kaip ir Biarmija, buvo užkariauta skandinavų - tai patvirtins tolesnis šios istorijos tę sinys, - todėl tos šalys galėjo turėti tarpusavio ryšių, - taigi ir auksas, ir menininkai, ir naudingieji mokslai buvo bendri abiem."
-  atnaujinta: "2026-07-26 17:49"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-176997
-
-<a id="claim-t-194599"></a>
-- t-018
-  teiginys: "Leisdamiesi nuo tryliktojo amžiaus gilyn į praeitį, pastebi me vedybų papročius, bendrus lietuviams ir skandinavams, tai yra kad tik viena, pirmoji, žmona buvo iš tikrųjų laikoma tei sėta žmona ir namų šeimininke, o vėliau paimtos į namus mo terys neturėjo."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-176998
-
-<a id="claim-t-194600"></a>
-- t-019
-  teiginys: "Pasak islandų sagose esančių padavimų, skandinavai taip pat žinojo pakirptuves."
-  atnaujinta: "2026-07-26 17:49"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-176999
-
-<a id="claim-t-205092"></a>
-- t-020
-  teiginys: "Apskritai jūros pakrantės, besitęsiančios nuo Nemuno iki Dauguvos žiočių, didžiausią skandinavų ant plūdį ėmė patirti nuo VI amžiaus."
-  atnaujinta: "2026-08-11 18:54"
+<a id="claim-t-215032"></a>
+- t-215032
+  teiginys: "Padavimai, išlikę Šiaurės tautų sagose, visada pasakoja apie skandinavų protėvių atvy kimą iš Skitijos pusės Odinui vadovaujant; tai patvirtina skandinavų giminės bruožai, panašūs į skitų."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-187943
+    - c-195131
+
+<a id="claim-t-215046"></a>
+- t-215046
+  teiginys: "Taip pat skandinavų užkariavi mai lietuvių žemėse buvo labai seni ir dideli."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195541
+
+<a id="claim-t-216196"></a>
+- t-216196
+  teiginys: "Atsakymas trumpas: pajūrio Lietuva, kaip ir Biarmija, buvo užkariauta skandinavų - tai patvirtins tolesnis šios istorijos tę sinys, - todėl tos šalys galėjo turėti tarpusavio ryšių, - taigi ir auksas, ir menininkai, ir naudingieji mokslai buvo bendri abiem."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198764
+
+<a id="claim-t-219188"></a>
+- t-219188
+  teiginys: "Narbutas mano, kad skandinavai tikėjimą šventojo ąžuolo reikšme iš dalies perėmė iš lietuvių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Švedai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Skandinavai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Švedai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Skandinavai\" parinktas kaip owner_note_path. Targetas \"Švedai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-197979
+
+<a id="claim-t-219616"></a>
+- t-219616
+  teiginys: "Tikėjimą šito medžio šventumu skandinavai iš dalies pe rėmė iš lietuvių, kadangi ne visi ir ne visur turėjo šventyklas po ąžuolais; kaip praneša Adomas Bremenietis, to ypač laikė si švedų protėviai ."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-197979
+
+<a id="claim-t-219669"></a>
+- t-219669
+  teiginys: "Narbutas rašo, kad skandinavai Frėjos kelione aiškino jos žinomumą ir garbinimą įvairiuose kraštuose."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+
+<a id="claim-t-219865"></a>
+- t-219865
+  teiginys: "Pasak islandų sagose esančių padavimų, skandinavai taip pat žinojo pakirptuves."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-197959
 
 ## Reikšmingi paminėjimai
 - c-008
@@ -414,8 +430,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-66129
 
 - id: c-171225
   autorius: "Teodoras Narbutas"
@@ -442,8 +458,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-171227
   autorius: "Teodoras Narbutas"
@@ -464,8 +478,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-171228
   autorius: "Teodoras Narbutas"
@@ -485,8 +497,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
 
 - id: c-171229
   autorius: "Teodoras Narbutas"
@@ -505,8 +515,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
 
 - id: c-171232
   autorius: "Teodoras Narbutas"
@@ -524,8 +532,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
 
 - id: c-171233
   autorius: "Teodoras Narbutas"
@@ -548,8 +554,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
 
 - id: c-175250
   autorius: "Teodoras Narbutas"
@@ -575,8 +579,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
 
 - id: c-175251
   autorius: "Teodoras Narbutas"
@@ -600,8 +602,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
 
 - id: c-175252
   autorius: "Teodoras Narbutas"
@@ -625,8 +625,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-010
 
 - id: c-175253
   autorius: "Teodoras Narbutas"
@@ -655,8 +653,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-011
 
 - id: c-175254
   autorius: "Teodoras Narbutas"
@@ -677,8 +673,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-012
 
 - id: c-175887
   redaktorius: "A. Šapoka"
@@ -698,8 +692,8 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-013
+  pagrindžia:
+    - t-193128
 
 - id: c-176994
   autorius: "Teodoras Narbutas"
@@ -722,8 +716,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-014
 
 - id: c-176995
   autorius: "Teodoras Narbutas"
@@ -745,8 +737,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-015
 
 - id: c-176996
   autorius: "Teodoras Narbutas"
@@ -766,8 +756,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-016
 
 - id: c-176997
   autorius: "Teodoras Narbutas"
@@ -790,8 +778,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-017
 
 - id: c-176998
   autorius: "Teodoras Narbutas"
@@ -821,8 +807,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-018
 
 - id: c-176999
   autorius: "Teodoras Narbutas"
@@ -842,8 +826,6 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-019
 
 - id: c-187943
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -863,8 +845,303 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-020
+  pagrindžia:
+    - t-205092
+
+- id: c-195131
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 38"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 38."
+  citata_originali: |
+    Į tai atsi­
+    žvelgus, nesunku padaryti prielaidą, jog tam tikri žmo­
+    nės iš Šiaurės Azijos, patraukę iš pietesnių šios pasaulio
+    dalies kraštų beveik poliarinio rato link, eidami iš rytų
+    j vakarus, galėjo per Lapiją patekti į Skandinaviją arba
+    i Švediją ir Norvegiją. Padavimai, išlikę Šiaurės tautų
+    sagose, visada pasakoja apie skandinavų protėvių atvy­
+    kimą iš Skitijos pusės Odinui vadovaujant; tai patvirtina
+    skandinavų giminės bruožai, panašūs į skitų. Iš tiesų
+    tik taip galima įspėti mįslę didžios senovinės Šiaurės
+    Europos tautos, kuri tolimiausioje senovėje vadinama hi­
+    perborėjų, o vėliau skandinavų, giminingų keltams, var­
+    du, nes ir šie kilę iš skitų lizdo.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212626
+    - t-215032
+
+- id: c-195541
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 242"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 242."
+  citata_originali: |
+    Istorikas, rašęs jau praėjus
+    šio Kauno įkūrėjo amžiui, neįsigilinęs į istorines detales,
+    galėjo vadinti jam žinomais vardais šią ir anksčiau minė­
+    tas žemes pagal jų padėtį; tačiau Protono III amžiuje tų
+    pavadinimų dar nebuvo1. Taip pat skandinavų užkariavi­
+    mai lietuvių žemėse buvo labai seni ir dideli. Tai patvir­
+    tina Nestoro pateiktos žinios, kad skandinavams priklau­
+    sė daug kraštų ir tautų2.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214861
+    - t-215046
+
+- id: c-196976
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 238"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 238."
+  citata_originali: |
+    Netrukus užsimezgė santykiai su skandinavais. Tai
+    jie, vadinami gotais, gyveno pajūryje nuo Oderio iki Vys­
+    los, vadinosi gitonais arba variagais, prekiavo gintaru,
+    žodžiu, ¡buvo užėmę visas Baltijos pakrantes ir paskuti­
+    niame amžiuje prieš Kristaus gimimą bei Kristaus eros
+    pradžioje ¡buvo galinga, Danijos karalių valdoma tauta.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212729
+
+- id: c-197111
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 177"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 177."
+  citata_originali: |
+    Taip pat įvai­
+    riai buvo vadinamos ir įlankos: Plinijus Rygos įlanką va­
+    dina Sinus Clytipenus, kurios gale yra sala Lairis, šian­
+    dien Eželis2, Kitos mums mažiau rūpi, todėl ir pralei­
+    džiame.
+    180
+    Išliko gal pats tinkamiausias Baltijos pavadinimas,
+    nes pirmiausia atsirado iš prie jos įsigalėjusios tautos
+    vardo. Senovės skandinavų, gal seniausių šios jūros šei­
+    mininkų, kalba Balt arba Beet reiškė vandens telkinį; iš jo
+    Malte-Brunas kildina jūros pavadinimą3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212967
+
+- id: c-197425
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 165"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 165."
+  citata_originali: |
+    Beje, vėliau nustatyta, kad vietinės prekės
+    niekad nebuvo gabenamos šia upe aukštyn, bet tik jūros
+    link.
+    168
+    Gal senų seniausiais laikais skandinavai kitu keliu iš
+    Baltijos jūros patekdavo į Nevo-s upę ir Ladogos ežerą, o
+    iš ten — pas Pailmenės slavus, kurie iš Britanijos ir Es­
+    tijos atgabentas prekes sugebėdavo pergabenti į pietus
+    Volgos, Dono ir Dnepro upėmis. Nėra jokių prieštaravimų
+    dėl šio kelio egzistavimo, atvirkščiai, yra išlikusių jo pėd­
+    sakų2.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212807
+    - t-213785
+
+- id: c-197856
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 349"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 349."
+  citata_originali: |
+    Senovės prūsų merginas, jeigu norė­
+    davo jas vesti, turėdavo iš tėvų nusipirkti1.
+    Leisdamiesi nuo tryliktojo amžiaus gilyn į praeitį, pastebi­
+    me vedybų papročius, bendrus lietuviams ir skandinavams, tai
+    yra kad tik viena, pirmoji, žmona buvo iš tikrųjų laikoma tei­
+    sėta žmona ir namų šeimininke, o vėliau paimtos į namus mo­
+    terys neturėjo tokios reikšmės ir nors jų vaikai, tėvo pripažin­
+    ti, buvo laikomi teisėtais, kaip ir pagimdyti pirmosios žmonos,
+    vis dėlto ta daugpatystė buvo labai apribota, net iki to, kad
+    kitos žmonos buvo laikomos vergėmis ir namų nuosavybe, ku­
+    rią po šeimininko mirties pasidalydavo įpėdiniai; jos būdavo
+    arba iš paimtų per karą, arba nupirktos iš vargingų tėvų. O iš
+    tikrųjų senovinė teisė ir papročiai numatė vienpatystę; juk ki­
+    tos lietuvių genties tautos laikėsi šito griežčiau negu prūsai;
+    mat istorijoje nematome net pėdsako, kad lietuvių didikai ir
+    kunigaikščiai būtų turėję daugiau kaip vieną žmoną; vėl ves­
+    davo tiktai po žmonos mirties.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218536
+
+- id: c-197959
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 181"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 181."
+  citata_originali: |
+    Vietiniai kaimiečiai dar nepaliauja tikėję, kad esama žmo­
+    nių, susidėjusių su koboliais, kurie jiems slapčia neša dovanų
+    w Skandinavams tai buvo mitinės būtybės, tačiau įkyrios ir ir­
+    zlios; su jomis buvo galima kovoti ir jas užmušti. Jos turėjo savo sei­
+    mą ir karalienę, vardu Huldą, kuri turėjo dvi dukteris - Tergerdą
+    (Thergerd) ir Irpą (Yrpo). Jos statė šventyklą Odino garbei, gyveno
+    miškuose ir Siaurės šalyse (Islandų saga, pavadinta Huldasaga).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217226
+    - t-219865
+
+- id: c-197979
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 238"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 238."
+  citata_originali: |
+    Apskritai reikia ma­
+    nyti, kad visur, kur buvo šventyklos, augo šventieji ąžuolai,
+    kadangi šio medžio šventumas lietuvių mitologijoje susiliejo
+    su dievų buveinės vaizdiniu.
+    Tikėjimą šito medžio šventumu skandinavai iš dalies pe­
+    rėmė iš lietuvių, kadangi ne visi ir ne visur turėjo šventyklas
+    po ąžuolais; kaip praneša Adomas Bremenietis, to ypač laikė­
+    si švedų protėviai .
+    Lietuvių liaudies pasakos mini, kad žmonės valgydavę gi­
+    les, iškeptas pelenuose arba virtas su pelenais.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219188
+    - t-219616
+
+- id: c-198554
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 228"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 228."
+  citata_originali: |
+    Pamenu, jog skandinavų mitologijoje yra Iš­
+    minties šaltinis, kuriame uosis Igdrasilis (arba Idrasibas) maiti­
+    na vieną savo šaknį. Ežerą valdo išminčių išminčius Mimiras.
+    Kai Odinas panorėjo atsigerti iš to šaltinio, tai turėjo už tai ati­
+    duoti vieną savo akį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216006
+
+- id: c-198764
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 189"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 189."
+  citata_originali: |
+    O į klausimą, kada apsi­
+    vilkti baltus vestuvinius drabužius, motina atsako: tą dieną,
+    kai švies devynios saulės. Tas skaičius devyni yra religinis,
+    ypač, kaip pažymi ponas Rėza, Prūsijos lietuviams, kurie jį
+    perėmė iš skandinavų. Todėl laikas buvo dalijamas į devynis
+    tam tikrus periodus, ir tam skaičiui būdavo priskiriamos įvai­
+    rios ypatybės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216196
+    - t-218475
+
+- id: c-199360
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 127"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 127."
+  citata_originali: |
+    Ją tebežino lietu­
+    viai, ypač senojoje Trakų vaivadijoje, latviai ir estai.
+    Anot visų tyrimų, šios deivės ypatybės buvo perimtos iš
+    skandinavų, kurie ją vadino Frėja; ji buvo jūrų ir ugnies dievo,
+    žemiškos laimės, turtų, sostų dalintojo Niordo duktė, o pati
+    buvo laisvės, nepriklausomybės, malonumų, meilės poezijos mo­
+    tina *. Be to, ji raita nulėkdavo į kiekvieno mūšio lauką ir pasi­
+    dalydavo su Odinu žuvusių karių vėles, lietuviškai vadinamas
+    murgais (murgi).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219298
+
+- id: c-201458
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 281"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 281."
+  citata_originali: |
+    Mat nors nėra abejonės, kad se­
+    novės lietuviai daug ką perėmė iš skandinavų, ypač religijos
+    srityje, - net Romovė turėjusi būti senosios skandinavų Upsa­
+    los kopija, - bet juk ir ten grafo tarp žynių negirdėti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217781
 
 ## Ryšiai
 - Kariavo prieš: [[objektai/grupes/Kuršiai]]

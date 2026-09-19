@@ -1,0 +1,74 @@
+---
+tipas: vieta
+pavadinimas: 'Meisenas (vieta)'
+identifikacija: 'vieta'
+variantai:
+  - 'Meisenas'
+aliases:
+  - 'Meisenas'
+saltiniai:
+  - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+entity_id: "ent-e41755c18948b3bb7111d90d"
+canonical_name: "Meisenas (vieta)"
+entity_roles: ["place"]
+entity_view_role: "place"
+entity_aliases: ["Meisenas","Meisenas (vieta)"]
+sameAs: []
+canonical_biography: "Meiseno markgrafas Ditrichas."
+---
+# Meisenas (vieta)
+
+## Santrauka
+
+Meiseno markgrafas Ditrichas.
+
+## Santrauka
+
+Meiseno markgrafas Ditrichas.
+
+## Teiginiai
+
+<a id="claim-t-224744"></a>
+- t-001
+  teiginys: "Meiseno markgrafas Ditrichas."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203768
+
+## Citatos
+
+- id: c-203768
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 132"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 132."
+  citata_originali: |
+    Meiseno markgrafas Ditrichas
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+

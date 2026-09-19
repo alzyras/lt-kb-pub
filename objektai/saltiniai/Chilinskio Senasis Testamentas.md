@@ -32,20 +32,6 @@ media_all_json: |-
 
 Chilinskis, išguldęs vėl Raštą Šventą, Senąjį Testamentą išspaudė 1645.
 
-## Teiginiai
-
-<a id="claim-t-201448"></a>
-- t-001
-  teiginys: "Chilinskis, išguldęs vėl Raštą Šventą, Senąjį Testamentą išspaudė 1645."
-  atnaujinta: "2026-07-16 14:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184798
-
 ## Citatos
 
 - id: c-184798
@@ -65,5 +51,20 @@ Chilinskis, išguldęs vėl Raštą Šventą, Senąjį Testamentą išspaudė 16
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201448"></a>
+- t-001
+  teiginys: "Chilinskis, išguldęs vėl Raštą Šventą, Senąjį Testamentą išspaudė 1645."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184798
+

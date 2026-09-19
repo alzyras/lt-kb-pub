@@ -37,10 +37,23 @@ Kazimieras, užėmęs Smolensko pilį ir ne per griežtai nubaudęs maištininku
 
 ## Teiginiai
 
+<a id="claim-t-211627"></a>
+- t-211627
+  teiginys: "Andrius Sakavičius, dar Žygimanto siųstas vieton Jono Goštauto, valdė Smolenską."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
+  pagrindžia:
+    - c-193361
+
 <a id="claim-t-186034"></a>
-- t-001
+- t-186034
   teiginys: "Kazimieras, užėmęs Smolensko pilį ir ne per griežtai nubaudęs maištininkus, paliko Andrių Sakavičių vietininku."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -85,5 +98,23 @@ Kazimieras, užėmęs Smolensko pilį ir ne per griežtai nubaudęs maištininku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-186034
+
+- id: c-193361
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 127"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 127."
+  citata_originali: |
+    Andrius Sakavičius, dar Žygimanto siųstas vieton
+    Jono Goštauto, valdė Smolenską
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211627
+

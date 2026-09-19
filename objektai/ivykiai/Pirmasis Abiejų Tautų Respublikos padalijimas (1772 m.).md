@@ -54,26 +54,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-41343"></a>
-- t-001
-  teiginys: "Pirmojo Abiejų Tautų Respublikos padalijimo sutartys buvo pasirašytos 1772 m. Sankt Peterburge, o 1773–1775 m. patvirtintos Varšuvos delegaciniame seime."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pirmasis Abiejų Tautų Respublikos padalijimas (1772 m.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pirmasis Abiejų Tautų Respublikos padalijimas (1772 m.)\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1772 m.; įvykio data: 1773-1775; įvykio data: 1775 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-44924
-
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Vilniaus pranciškonų memoriale pirmasis padalijimas vartojamas kaip chronologinė riba ir kaip istorinis orientyras.'
@@ -107,5 +87,58 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190825
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 231"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 231."
+  citata_originali: |
+    Pirmasis padalijimas prisimenamas
+    kaip tam tikra chronologinė riba44. Kaip chronologinis orientyras naudojamas ir
+    antrasis bei trečiasis (galutinis) Abiejų Tautų Respublikos padalijimai45. Lenkijos
+    •r Lietuvos valstybės panaikinimas Vilniaus pranciškonų memoriale dažniausiai
+    suvokiamas kaip „Lenkijos“, „Lenkijos Karalystės“ (Regni Poloniae) padalijimas
+    (<dismembratio), nors yra atvejis, kai šalia Lenkijos buvo paminėta ir Lietuva46.
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Teiginiai
+
+<a id="claim-t-41343"></a>
+- t-001
+  teiginys: "Pirmojo Abiejų Tautų Respublikos padalijimo sutartys buvo pasirašytos 1772 m. Sankt Peterburge, o 1773–1775 m. patvirtintos Varšuvos delegaciniame seime."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pirmasis Abiejų Tautų Respublikos padalijimas (1772 m.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pirmasis Abiejų Tautų Respublikos padalijimas (1772 m.)\" parinktas kaip owner_note_path. Targetas \"Abiejų Tautų Respublika\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1772 m.; įvykio data: 1773-1775; įvykio data: 1775 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-44924
+
+<a id="claim-t-208398"></a>
+- t-002
+  teiginys: "Vilniaus pranciškonų memoriale pirmasis padalijimas vartojamas kaip chronologinė riba ir kaip istorinis orientyras."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190825
+

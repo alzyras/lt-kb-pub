@@ -53,3 +53,43 @@ Liudas Glemža kartu su R. Civinsku šaltinyje apibūdinamas kaip paskutinėje k
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-190898
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 355"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 355."
+  citata_originali: |
+    Į tolesnį tyrim o lauką R . Civinskas įtraukė svarbiausius X I X a. pradžios
+    dem ografinius, socialinius ir ekonom inius reiškinius, kurie darė ženkliausią
+    įtaką adm inistruojančiam miesto elitui, toliau autorius nagrinėjo elito grupės
+    narių tarpusavio sąveiką, konfliktų kovas dėl galios, o savo tyrimą užbaigė Kauno
+    miestiečių kolektyvinės tapatybės ir jos raiškos analize.
+    Paskutinėje knygos dalyje autoriai R. Civinskas, L. Glemža konceptualiai
+    ir išsamiai išdėstė apibendrinamąsias mintis.
+  citata_rodoma: "Paskutinėje knygos dalyje autoriai R. Civinskas, L. Glemža konceptualiai \nir išsamiai išdėstė apibendrinamąsias mintis."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-208274"></a>
+- t-001
+  teiginys: "Liudas Glemža kartu su R. Civinsku šaltinyje apibūdinamas kaip paskutinėje knygos dalyje konceptualiai ir išsamiai išdėstęs apibendrinamąsias mintis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  vertinimo_atnaujinta: "2026-08-18T21:24:30Z"
+  pagrindžia:
+    - c-190898
+

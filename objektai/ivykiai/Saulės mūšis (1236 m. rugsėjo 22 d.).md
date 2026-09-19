@@ -57,10 +57,26 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-10289"></a>
+- t-003
+  teiginys: "Saulės mūšis išstūmė vokiečių ekspansiją iki Dauguvos ir paskatino žiemgalių, kuršių bei saremiečių sukilimus."
+  atnaujinta: "2026-05-31 10:29"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Dauguva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Saulės mūšis (1236 m. rugsėjo 22 d.): owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Dauguva: mention_match, place, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Saulės mūšis (1236 m. rugsėjo 22 d.)\" parinktas kaip owner_note_path. Targetas \"Dauguva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-11909
+
 <a id="claim-t-10287"></a>
-- t-001
+- t-10287
   teiginys: "1236 m. rugsėjį į Lietuvą įžengusios Kalavijuočių ordino brolių ir Europos kryžininkų pajėgos pasidalijo į būrius ir ėmė plėšti."
-  atnaujinta: "2026-06-14 10:59"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Lietuva: 0.75"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -79,9 +95,9 @@ Nenurodyta
     - c-11907
 
 <a id="claim-t-10288"></a>
-- t-002
+- t-10288
   teiginys: "Saulės žemėje lietuviai užmušė 50 ordino brolių ir daugybę tikratikių."
-  atnaujinta: "2026-06-14 10:59"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -94,26 +110,10 @@ Nenurodyta
   pagrindžia:
     - c-11908
 
-<a id="claim-t-10289"></a>
-- t-003
-  teiginys: "Saulės mūšis išstūmė vokiečių ekspansiją iki Dauguvos ir paskatino žiemgalių, kuršių bei saremiečių sukilimus."
-  atnaujinta: "2026-05-31 10:29"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Dauguva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Saulės mūšis (1236 m. rugsėjo 22 d.): owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Dauguva: mention_match, place, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Saulės mūšis (1236 m. rugsėjo 22 d.)\" parinktas kaip owner_note_path. Targetas \"Dauguva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-11909
-
 <a id="claim-t-10290"></a>
-- t-004
+- t-10290
   teiginys: "1236 m. pergalė Šiaulių žemėje buvo itin reikšminga Lietuvos, Baltijos regiono ir Rytų Europos istorinei raidai."
-  atnaujinta: "2026-06-14 10:59"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -131,9 +131,9 @@ Nenurodyta
     - c-11910
 
 <a id="claim-t-66879"></a>
-- t-005
+- t-66879
   teiginys: "Ivinskis Saulės mūšį lokalizuoja prie Saulės, Šiaulių srityje, ir datuoja 1236 m. rugsėjo 22 d."
-  atnaujinta: "2026-07-19 16:33"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1236 m."
@@ -142,9 +142,9 @@ Nenurodyta
     - c-66987
 
 <a id="claim-t-66880"></a>
-- t-006
+- t-66880
   teiginys: "Prieš Saulės mūšį 1236 m. kalavijuočiai su svečiais įsiveržė į Lietuvą ir žiauriai nusiaubė kraštą."
-  atnaujinta: "2026-06-13 18:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Lietuva: 0.92"
   ryšio_patikimumo_lygis: "aukstas"
@@ -162,9 +162,9 @@ Nenurodyta
     - c-66984
 
 <a id="claim-t-66881"></a>
-- t-007
+- t-66881
   teiginys: "Po pralaimėto Saulės mūšio likusieji kalavijuočiai paprašė kryžiuočius priimti juos į savo tarpą."
-  atnaujinta: "2026-06-13 18:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "sudare_sutarti_su -> Kryžiuočių ordinas: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -182,9 +182,9 @@ Nenurodyta
     - c-66988
 
 <a id="claim-t-66882"></a>
-- t-008
+- t-66882
   teiginys: "1236 m. rugsėjo 22 d. prie Saulės Vykinto vadovaujami būriai sumušė grįžtančius riterius; žuvo Volkevinas ir 48 riteriai."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Mauricijus: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -199,6 +199,22 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Pašalintas boilerplate ir teiginys aiškiai susietas su Saulės mūšiu."
   pagrindžia:
     - c-66987
+
+<a id="claim-t-207462"></a>
+- t-207462
+  teiginys: "1236 m. Saulės mūšyje, Alfredo Bumblausko teigimu, dalyvavo tik žemaičiai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1236 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys turi aiškų įvykį, datą ir dalyvius, o šaltinio išvada tinkamai priskirta Bumblauskui. Papildomų dalyvių ar aplinkybių nepridėta."
+  vertinimo_atnaujinta: "2026-08-18T19:34:24Z"
+  pagrindžia:
+    - c-190092
 
 ## Reikšmingi paminėjimai
 - c-009
@@ -237,8 +253,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-10287
 
 - id: c-11908
   sudarytojas: "Karolis Zikaras"
@@ -256,8 +272,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-10288
 
 - id: c-11909
   sudarytojas: "Karolis Zikaras"
@@ -272,11 +288,12 @@ Nenurodyta
     blokšta iki Dauguvos, į XIII a. pradžios
     ribas.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-11910
@@ -303,8 +320,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-10290
 
 - id: c-66984
   redaktorius: "A. Šapoka"
@@ -322,8 +339,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-66880
 
 - id: c-66986
   autorius: "Zenonas Ivinskis"
@@ -358,6 +375,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-66987
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -376,9 +394,9 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
-    - t-008
+  pagrindžia:
+    - t-66879
+    - t-66882
 
 - id: c-66988
   redaktorius: "A. Šapoka"
@@ -397,5 +415,26 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-66881
+
+- id: c-190092
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 82"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 82."
+  citata_originali: |
+    Iki šiol buvo manoma, kad lemtingame Saulės mūšyje 1236 m. Livo-
+    nijos ordiną turėjo nugalėti suvienytos Lietuvos valstybės kariuomenė. Dabar aišku, kad
+    Saulės mūšyje dalyvavo tik žemaičiai. Tiesa, 1235 m. rusų metraščiai mini „Mindaugo Lie-
+    tuvą“.
+  citata_rodoma: "ol buvo manoma, kad lemtingame Saulės mūšyje 1236 m. Livo-\nnijos ordiną turėjo nugalėti suvienytos Lietuvos valstybės kariuomenė. Dabar aišku, kad \nSaulės mūšyje dalyvavo tik žemaičiai. Tiesa"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207462
+

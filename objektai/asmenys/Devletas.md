@@ -43,28 +43,6 @@ canonical_biography: "Devletas pabandė iš to protektorato išsivaduoti, neteko
 
 Devletas pabandė iš to protektorato išsivaduoti, neteko sosto ir vos gyvas pats paspruko.
 
-## Teiginiai
-
-<a id="claim-t-34716"></a>
-- t-001
-  teiginys: "1422 m. Devletas bandė išsivaduoti iš protektorato, neteko sosto ir vos gyvas paspruko."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Konstantinopolis: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Devletas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Konstantinopolis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata rodo, kad Devletas buvo Konstantinopolyje, nes iš ten rašė Vytautui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Devletas keliavo į Konstantinopolis (0.68)"
-  temporaliniai_duomenys: "įvykio data: 1422 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis sakinys apie Devletą ir remiasi citata."
-  pagrindžia:
-    - c-35941
-
 ## Citatos
 
 - id: c-35941
@@ -84,5 +62,28 @@ Devletas pabandė iš to protektorato išsivaduoti, neteko sosto ir vos gyvas pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-34716"></a>
+- t-001
+  teiginys: "1422 m. Devletas bandė išsivaduoti iš protektorato, neteko sosto ir vos gyvas paspruko."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Konstantinopolis: 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Devletas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Konstantinopolis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata rodo, kad Devletas buvo Konstantinopolyje, nes iš ten rašė Vytautui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Devletas keliavo į Konstantinopolis (0.68)"
+  temporaliniai_duomenys: "įvykio data: 1422 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra faktinis sakinys apie Devletą ir remiasi citata."
+  pagrindžia:
+    - c-35941
+

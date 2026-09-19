@@ -30,10 +30,22 @@ Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių va
 
 ## Teiginiai
 
+<a id="claim-t-215517"></a>
+- t-215517
+  teiginys: "Kokiu gi kitu būdu galėjo suformuoti bajoriją tautos, ne žinojusios jokių kitų pajamų, o tik gautas iš žemdirbys tės, jei ne per dideles žemėvaldas?"
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196575
+
 <a id="claim-t-193290"></a>
-- t-001
+- t-193290
   teiginys: "Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių vadai—rikiai—tapo aukštesniuoju visuomenės sluoksniu, arba bajorija."
-  atnaujinta: "2026-07-06 12:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -60,5 +72,29 @@ Iškilus didesnių sričių valdovams —kunigaikščiams, senieji apylinkių va
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-193290
+
+- id: c-196575
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 355"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 355."
+  citata_originali: |
+    Nuo seniausių laikų šios gentys pri­
+    klausė tam tikrai kastai arba luomui, turėjusiam virše­
+    nybę kitiems; iš čia buvo renkami vadai ir įsakinėtojai.
+    Kokiu gi kitu būdu galėjo suformuoti bajoriją tautos, ne­
+    žinojusios jokių kitų pajamų, o tik gautas iš žemdirbys­
+    tės, jei ne per dideles žemėvaldas? Vadinasi, krašto ba­
+    jorai buvo turtingi žemvaldžiai, plačių valsčių ponai, at­
+    skirų apskričių savininkai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215517
+

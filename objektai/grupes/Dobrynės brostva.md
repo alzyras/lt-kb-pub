@@ -24,32 +24,6 @@ media_all_json: |-
 
 To vildamos, pradėjo Konra das Dobrynės pilį dirbti ant skardžio upės Drevencos. Sunėrimas brostvių Dobrynės su kryžėjais buvo jau nubengtas, ku rie buvo apsisavinę ne vien Dobrynės pilę, bet ir visais valsčiais, Konradui gyniojant.
 
-## Teiginiai
-
-<a id="claim-t-201240"></a>
-- t-001
-  teiginys: "To vildamos, pradėjo Konra das Dobrynės pilį dirbti ant skardžio upės Drevencos."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184590
-
-<a id="claim-t-201241"></a>
-- t-002
-  teiginys: "Sunėrimas brostvių Dobrynės su kryžėjais buvo jau nubengtas, ku rie buvo apsisavinę ne vien Dobrynės pilę, bet ir visais valsčiais, Konradui gyniojant."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184591
-
 ## Citatos
 
 - id: c-184590
@@ -75,7 +49,7 @@ To vildamos, pradėjo Konra das Dobrynės pilį dirbti ant skardžio upės Dreve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184591
@@ -94,5 +68,32 @@ To vildamos, pradėjo Konra das Dobrynės pilį dirbti ant skardžio upės Dreve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-201240"></a>
+- t-001
+  teiginys: "To vildamos, pradėjo Konra das Dobrynės pilį dirbti ant skardžio upės Drevencos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184590
+
+<a id="claim-t-201241"></a>
+- t-002
+  teiginys: "Sunėrimas brostvių Dobrynės su kryžėjais buvo jau nubengtas, ku rie buvo apsisavinę ne vien Dobrynės pilę, bet ir visais valsčiais, Konradui gyniojant."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184591
+

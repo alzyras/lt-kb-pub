@@ -45,10 +45,22 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
 
 ## Teiginiai
 
-<a id="claim-t-60382"></a>
-- t-001
+<a id="claim-t-222578"></a>
+- t-222578
+  teiginys: "Manfredas buvo nesantuokinis imperatoriaus Fridriko II sūnus."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205984
+
+<a id="claim-t-223886"></a>
+- t-223886
   teiginys: "1263 m. popiežius Urbonas Sicilijos karalystę, kurią buvo užgrobęs Manfredas, atidavė Karoliui, Provanso grafui ir Prancūzijos karaliaus broliui."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-09-13 18:13"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Prancūzija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -61,8 +73,6 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
   temporaliniai_duomenys: "įvykio data: 1263 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys buvo su OCR triukšmu ir neužbaigtas, bet citata patvirtina aiškų faktą apie Manfredą."
-  pagrindžia:
-    - c-61014
 
 ## Citatos
 
@@ -83,5 +93,23 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-205984
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 234"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 234."
+  citata_originali: |
+    1265 viešpaties metais Klemensas IV, popiežius, apvainikavo anksčiau minėtąjį Karolį
+    Sicilijos karaliumi, kurią jam davė popiežius Urbonas. Tas Karolis atėmė iš Manfredo,
+    nesantuokinio imperatoriaus Fridricho II sūnaus, ir gyvybę, ir sostą (Mart. p. 408; Ptol.
+    22, 30).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222578
+

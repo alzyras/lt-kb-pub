@@ -27,18 +27,6 @@ media_all_json: |-
 
 Kūrybai pasitarnavo vadinamoji „brežnevinė epocha“: kuo žmogus buvo žinomesnis, tuo sunkiau jam buvo iškelti baudžiamąją bylą (stalinizmo epochoje buvo „visi lygūs“ – saugumo pareigūnai vienodai galėjo suimti ir profesorių, ir ministrą, ir eilinį žmogų).
 
-## Teiginiai
-
-<a id="claim-t-20963"></a>
-- t-001
-  teiginys: "Stalinizmo epochoje saugumo pareigūnai vienodai galėjo suimti profesorių, ministrą ar eilinį žmogų, todėl šia prasme buvo „visi lygūs“."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-23689
-    - c-166907
-
 ## Citatos
 
 - id: c-23689
@@ -60,7 +48,7 @@ Kūrybai pasitarnavo vadinamoji „brežnevinė epocha“: kuo žmogus buvo žin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166907
@@ -82,5 +70,18 @@ Kūrybai pasitarnavo vadinamoji „brežnevinė epocha“: kuo žmogus buvo žin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-20963"></a>
+- t-001
+  teiginys: "Stalinizmo epochoje saugumo pareigūnai vienodai galėjo suimti profesorių, ministrą ar eilinį žmogų, todėl šia prasme buvo „visi lygūs“."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-23689
+    - c-166907
+

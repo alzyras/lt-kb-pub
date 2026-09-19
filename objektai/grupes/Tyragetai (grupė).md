@@ -29,20 +29,6 @@ media_all_json: |-
 
 Ir taip skitai, anapus Dunojaus gyveną, vadinos trakais, šiapus Dunojaus getais, juo į šiaurę einant, vadinos tyragetais, tai yra gyventojai tyrų, kaipogi tenai nė kokio medžio nebuvo, bet vieni tyri lau kai, kurie šiandien dar pietinėj Padalijo j ir Ukrainoj.
 
-## Teiginiai
-
-<a id="claim-t-201255"></a>
-- t-001
-  teiginys: "Ir taip skitai, anapus Dunojaus gyveną, vadinos trakais, šiapus Dunojaus getais, juo į šiaurę einant, vadinos tyragetais, tai yra gyventojai tyrų, kaipogi tenai nė kokio medžio nebuvo, bet vieni tyri lau kai, kurie šiandien dar pietinėj Padalijo j ir Ukrainoj."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184605
-
 ## Citatos
 
 - id: c-184605
@@ -68,5 +54,20 @@ Ir taip skitai, anapus Dunojaus gyveną, vadinos trakais, šiapus Dunojaus getai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201255"></a>
+- t-001
+  teiginys: "Ir taip skitai, anapus Dunojaus gyveną, vadinos trakais, šiapus Dunojaus getais, juo į šiaurę einant, vadinos tyragetais, tai yra gyventojai tyrų, kaipogi tenai nė kokio medžio nebuvo, bet vieni tyri lau kai, kurie šiandien dar pietinėj Padalijo j ir Ukrainoj."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184605
+

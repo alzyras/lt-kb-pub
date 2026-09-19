@@ -43,34 +43,6 @@ Teodoras Narbutas rašo, kad Kaributas Dmitrijus nenorėjo paklusti Vytautui ir 
 
 Teodoras Narbutas rašo, kad Kaributas Dmitrijus nenorėjo paklusti Vytautui ir prieštaravo nustatytos duoklės rinkimui į valstybės iždą. Kaributas, remiamas Tverės kunigaikščio, stojo į mūšį prie Nedochodovo ir po atkaklaus susirėmimo pabėgo.
 
-## Teiginiai
-
-<a id="claim-t-206961"></a>
-- t-001
-  teiginys: "Teodoras Narbutas rašo, kad Kaributas Dmitrijus nenorėjo paklusti Vytautui ir prieštaravo nustatytos duoklės rinkimui į valstybės iždą."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-189576
-
-<a id="claim-t-206962"></a>
-- t-002
-  teiginys: "Kaributas, remiamas Tverės kunigaikščio, stojo į mūšį prie Nedochodovo ir po atkaklaus susirėmimo pabėgo."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-189577
-
 ## Citatos
 
 - id: c-189576
@@ -88,7 +60,7 @@ Teodoras Narbutas rašo, kad Kaributas Dmitrijus nenorėjo paklusti Vytautui ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189577
@@ -106,5 +78,34 @@ Teodoras Narbutas rašo, kad Kaributas Dmitrijus nenorėjo paklusti Vytautui ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-206961"></a>
+- t-001
+  teiginys: "Teodoras Narbutas rašo, kad Kaributas Dmitrijus nenorėjo paklusti Vytautui ir prieštaravo nustatytos duoklės rinkimui į valstybės iždą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-189576
+
+<a id="claim-t-206962"></a>
+- t-002
+  teiginys: "Kaributas, remiamas Tverės kunigaikščio, stojo į mūšį prie Nedochodovo ir po atkaklaus susirėmimo pabėgo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-189577
+

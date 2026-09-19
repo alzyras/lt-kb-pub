@@ -40,21 +40,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206748"></a>
-- t-001
-  teiginys: "1391 m. kryžiuočių kariaunai žygiuojant į Vilnių, paaiškėjo, kad lietuviai keturių–penkių mylių atstumu nuniokojo miesto apylinkes, iškeldino žmones ir panaikino galimybes apsirūpinti maistu, todėl atsisakyta ryžtingo puolimo."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189363
-
 ## Santrauka
 
 1391 m. kryžiuočių kariaunai žygiuojant į Vilnių, paaiškėjo, kad lietuviai keturių–penkių mylių atstumu nuniokojo miesto apylinkes, iškeldino žmones ir panaikino galimybes apsirūpinti maistu, todėl atsisakyta ryžtingo puolimo.
@@ -85,5 +70,21 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206748"></a>
+- t-001
+  teiginys: "1391 m. kryžiuočių kariaunai žygiuojant į Vilnių, paaiškėjo, kad lietuviai keturių–penkių mylių atstumu nuniokojo miesto apylinkes, iškeldino žmones ir panaikino galimybes apsirūpinti maistu, todėl atsisakyta ryžtingo puolimo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189363
+

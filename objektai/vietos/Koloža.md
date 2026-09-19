@@ -43,41 +43,6 @@ historical_names: []
 
 Komentare teigiama, kad 1406 m. Vytautas paėmė Pskovui priklausiusį Koložos miestą. Koloža šiame gabale minima LDK ir Pskovo karo kontekste.
 
-## Teiginiai
-
-<a id="claim-t-199320"></a>
-- t-001
-  teiginys: "Koloža minima XV a. pirmosios pusės LDK ir Pskovo karo kontekste."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Perrašyta į pilnesnį faktinį sakinį be migloto „šiame gabale“."
-  susije_objektai: "mentioned_place: Pskovas; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Velikije Lūki"
-  temporaliniai_duomenys: "įvykio data: 1406 m.; įvykio data: 1426 m.; įvykio data: 1428 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta į pilnesnį faktinį sakinį be migloto „šiame gabale“."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-181883
-
-<a id="claim-t-199321"></a>
-- t-002
-  teiginys: "1406 m. Vytautas paėmė Pskovui priklausiusį Koložos miestą."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Komentaro atribucija nereikalinga paprastam faktui."
-  susije_objektai: "llm_object: Koloža; llm_object: Pskovas; llm_object: Velikije Lūki; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Pskovas; mentioned_place: Velikije Lūki; llm_object: Polockas"
-  semantiniai_rysiai: "[[objektai/asmenys/Vytautas|Vytautas]] užėmė Koloža; Koloža priklausė Pskovas"
-  temporaliniai_duomenys: "įvykio data: 1406 m.; įvykio data: 1426 m.; įvykio data: 1428 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Komentaro atribucija nereikalinga paprastam faktui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-181883
-
 ## Citatos
 
 - id: c-181883
@@ -99,6 +64,35 @@ Komentare teigiama, kad 1406 m. Vytautas paėmė Pskovui priklausiusį Koložos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
+
+## Teiginiai
+
+<a id="claim-t-210393"></a>
+- t-001
+  teiginys: "Koloža minima XV a. pirmosios pusės LDK ir Pskovo karo kontekste."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Perrašyta į pilnesnį faktinį sakinį be migloto „šiame gabale“."
+  susije_objektai: "mentioned_place: Pskovas; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Velikije Lūki"
+  temporaliniai_duomenys: "įvykio data: 1406 m.; įvykio data: 1426 m.; įvykio data: 1428 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta į pilnesnį faktinį sakinį be migloto „šiame gabale“."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+
+<a id="claim-t-211018"></a>
+- t-002
+  teiginys: "1406 m. Vytautas paėmė Pskovui priklausiusį Koložos miestą."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Komentaro atribucija nereikalinga paprastam faktui."
+  susije_objektai: "llm_object: Koloža; llm_object: Pskovas; llm_object: Velikije Lūki; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Pskovas; mentioned_place: Velikije Lūki; llm_object: Polockas"
+  semantiniai_rysiai: "[[objektai/asmenys/Vytautas|Vytautas]] užėmė Koloža; Koloža priklausė Pskovas"
+  temporaliniai_duomenys: "įvykio data: 1406 m.; įvykio data: 1426 m.; įvykio data: 1428 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Komentaro atribucija nereikalinga paprastam faktui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+

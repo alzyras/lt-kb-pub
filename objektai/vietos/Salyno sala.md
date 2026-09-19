@@ -36,25 +36,6 @@ historical_names: []
 
 Iškilmingas tos sutarties ratifikavimas (patvir­ tinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­ mune).
 
-## Teiginiai
-
-<a id="claim-t-34248"></a>
-- t-001
-  teiginys: "Salyno saloje Nemune spalio 12 d. įvyko iškilmingas sutarties ratifikavimas."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Salynas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Salyno sala: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Salynas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pavadinimas ir citata sieja Salyno salą su Salynu, bet tai daugiau lokalizacijos ryšys."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Salyno sala priklausė Salynas (0.72)"
-  pagrindžia:
-    - c-35473
-
 ## Citatos
 
 - id: c-35473
@@ -75,5 +56,25 @@ Iškilmingas tos sutarties ratifikavimas (patvir­ tinimas) įvyko tų pačių m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-34248"></a>
+- t-001
+  teiginys: "Salyno saloje Nemune spalio 12 d. įvyko iškilmingas sutarties ratifikavimas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Salynas: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Salyno sala: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Salynas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pavadinimas ir citata sieja Salyno salą su Salynu, bet tai daugiau lokalizacijos ryšys."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Salyno sala priklausė Salynas (0.72)"
+  pagrindžia:
+    - c-35473
+

@@ -42,28 +42,6 @@ canonical_biography: "Bent jau apie Narimantą kal­ bant, pirmiausia, Dlugošas
 
 Bent jau apie Narimantą kal­ bant, pirmiausia, Dlugošas, žinia, apsirinka jį prie Algirdo brolių pri­ skirdamas, ir žinome iš Rusios met­ raštininkų, kad jis Didįjį Naugardą valdęs iki 1348 m.; o po jo ten val­ džią perėmęs jo sūnus Patrikas, ar­ ba.
 
-## Teiginiai
-
-<a id="claim-t-87816"></a>
-- t-001
-  teiginys: "Patrikas, arba Patricijus, po Narimanto perėmė valdžią Didžiajame Naugarde."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Narimantas (Pinsko kunigaikštis): 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Patrikas, arba Patricijus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Patriką kaip Narimanto sūnų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Patrikas, arba Patricijus buvo sūnus Narimantas (Pinsko kunigaikštis) (0.96); Patrikas, arba Patricijus valdė Naugardas (0.88)"
-  temporaliniai_duomenys: "įvykio data: iki 1348 m.; įvykio data: 1348 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata aiškiai nurodo Patriko valdžios perėmimą po Narimanto, o pradinis tekstas buvo fragmentiškas."
-  pagrindžia:
-    - c-83795
-
 ## Citatos
 
 - id: c-83795
@@ -94,8 +72,31 @@ Bent jau apie Narimantą kal­ bant, pirmiausia, Dlugošas, žinia, apsirinka j�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]]
+
+## Teiginiai
+
+<a id="claim-t-87816"></a>
+- t-001
+  teiginys: "Patrikas, arba Patricijus, po Narimanto perėmė valdžią Didžiajame Naugarde."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Narimantas (Pinsko kunigaikštis): 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Patrikas, arba Patricijus: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Patriką kaip Narimanto sūnų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Patrikas, arba Patricijus buvo sūnus Narimantas (Pinsko kunigaikštis) (0.96); Patrikas, arba Patricijus valdė Naugardas (0.88)"
+  temporaliniai_duomenys: "įvykio data: iki 1348 m.; įvykio data: 1348 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata aiškiai nurodo Patriko valdžios perėmimą po Narimanto, o pradinis tekstas buvo fragmentiškas."
+  pagrindžia:
+    - c-83795
+

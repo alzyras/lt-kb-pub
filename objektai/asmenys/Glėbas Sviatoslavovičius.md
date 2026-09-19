@@ -35,34 +35,6 @@ Teodoro Narbuto aprašyme Glėbas, palaikydamas brolio pusę, savo svainiui atsi
 
 Teodoro Narbuto aprašyme Glėbas, palaikydamas brolio pusę, savo svainiui atsilygino „nedėkingumu“. Teodoro Narbuto pasakojime kunigaikštis Glėbas, būdamas tikras svainio gražiais ketinimais, pasiuntė jam sėkmės linkėjimą ir atvyko į lietuvių stovyklą.
 
-## Teiginiai
-
-<a id="claim-t-206964"></a>
-- t-001
-  teiginys: "Teodoro Narbuto aprašyme Glėbas, palaikydamas brolio pusę, savo svainiui atsilygino „nedėkingumu“."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-189579
-
-<a id="claim-t-206965"></a>
-- t-002
-  teiginys: "Teodoro Narbuto pasakojime kunigaikštis Glėbas, būdamas tikras svainio gražiais ketinimais, pasiuntė jam sėkmės linkėjimą ir atvyko į lietuvių stovyklą."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-189580
-
 ## Citatos
 
 - id: c-189579
@@ -79,7 +51,7 @@ Teodoro Narbuto aprašyme Glėbas, palaikydamas brolio pusę, savo svainiui atsi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189580
@@ -101,5 +73,34 @@ Teodoro Narbuto aprašyme Glėbas, palaikydamas brolio pusę, savo svainiui atsi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-206964"></a>
+- t-001
+  teiginys: "Teodoro Narbuto aprašyme Glėbas, palaikydamas brolio pusę, savo svainiui atsilygino „nedėkingumu“."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-189579
+
+<a id="claim-t-206965"></a>
+- t-002
+  teiginys: "Teodoro Narbuto pasakojime kunigaikštis Glėbas, būdamas tikras svainio gražiais ketinimais, pasiuntė jam sėkmės linkėjimą ir atvyko į lietuvių stovyklą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-189580
+

@@ -29,18 +29,6 @@ media_all_json: |-
 
 Birutės draugija: pirmoji tokia organizacija buvo 1885 m. Tilžėje įkurta „Birutės" draugija. Tuo tarpu, kai vokiečių Literatų Draugija turėjo tikslą konservuoti lietuviškosios kultūros kūrinius mokslo reikalams, „Birutės" tikslas buvo stiprinti lietuviškumą ir kel- ti tautišką. Birutės draugija: jos sumanytojai buvo Basanavi- čius, Šliūpas, Zauerveinas, M. Jankus, V. Bruožis, Mikšas ir nemaža kitų M. Lietuvos veikėjų.
 
-## Teiginiai
-
-<a id="claim-t-71608"></a>
-- t-001
-  teiginys: "„Birutės“ draugijos sumanytojai buvo Basanavičius, Šliūpas, Zauerveinas, M. Jankus, V. Bruožis, Mikšas ir kiti Mažosios Lietuvos veikėjai."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-70162
-
 ## Citatos
 
 - id: c-70162
@@ -62,5 +50,18 @@ Birutės draugija: pirmoji tokia organizacija buvo 1885 m. Tilžėje įkurta „
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-71608"></a>
+- t-001
+  teiginys: "„Birutės“ draugijos sumanytojai buvo Basanavičius, Šliūpas, Zauerveinas, M. Jankus, V. Bruožis, Mikšas ir kiti Mažosios Lietuvos veikėjai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-70162
+

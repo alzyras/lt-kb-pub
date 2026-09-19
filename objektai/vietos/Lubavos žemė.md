@@ -46,10 +46,22 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
 
 ## Teiginiai
 
-<a id="claim-t-58664"></a>
-- t-001
+<a id="claim-t-222399"></a>
+- t-222399
+  teiginys: "Lubavos žemė buvo į rytus nuo Drevantos aukštupio."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202457
+
+<a id="claim-t-221851"></a>
+- t-221851
   teiginys: "Dėl Lubavos žemės, tapusios vyskupo Kristijono valda, vėliau ginčijosi kryžiuočiai ir Konradas."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-09-13 11:42"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Kristijonas: 0.94"
   ryšio_patikimumo_lygis: "aukstas"
@@ -63,30 +75,11 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
   temporaliniai_duomenys: "įvykio data: 1234 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys pilnas ir atitinka citatoje nurodytą ginčą dėl žemės."
-  pagrindžia:
-    - c-59296
 
-<a id="claim-t-58665"></a>
-- t-002
-  teiginys: "Lubavos žemės nobiliai, vadovaujami Survabūno, pripažino Kristijono valdžią."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kristijonas: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lubavos žemė: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Kristijonas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Lubavos žemės nobiliai pripažino Kristijono valdžią, todėl ryšys rodo priklausymą jo valdžiai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Lubavos žemė priklausė Kristijonas (0.72)"
-  pagrindžia:
-    - c-59297
-
-<a id="claim-t-58666"></a>
-- t-003
+<a id="claim-t-224758"></a>
+- t-224758
   teiginys: "Apie 1226 arba 1230 m. Kulmo ir Lubavos žemės buvo atiduotos Teutonų namų ordino broliams."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-09-13 11:42"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Teutonai: 0.88"
   ryšio_patikimumo_lygis: "aukstas"
@@ -100,8 +93,6 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
   temporaliniai_duomenys: "įvykio data: 1230 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra tikslus, glaustas ir paremtas dovanojimo aprašymu."
-  pagrindžia:
-    - c-59298
 
 ## Citatos
 
@@ -126,8 +117,6 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-59297
   autorius: "Petras Dusburgietis"
@@ -144,8 +133,6 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-59298
   autorius: "Petras Dusburgietis"
@@ -172,8 +159,23 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+
+- id: c-202457
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 58"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 58."
+  citata_originali: |
+    Lubavo
+    žemė dokumentuose apibūdinama kaip teritorija į rytus nuo Drevantos aukštupio
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222399
 
 ## Ryšiai
 - Lubavos žemė priklausė [[objektai/asmenys/Kristijonas|Kristijonas (vyskupas, XIII a.)]]

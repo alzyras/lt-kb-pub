@@ -44,3 +44,41 @@ Etninės kilmės lenkai LDK ir didelė dalis Lietuvos bajorijos tapo Lietuvos le
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-190260
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 282"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 282."
+  citata_originali: |
+    civilizacinių poslinkių, reikia atsisakyti polonizacijos kaip prievartinio lenkų kalbos ir
+    kultūros skverbimosi į Lietuvą koncepto. Tiek etninės kilmės lenkai LDK, tiek didelė da-
+    lis Lietuvos bajorijos tapo Lietuvos lenkais. Todėl šiandieniai Lietuvos lenkai laikytini jų
+    ainiais ir jų protėvių kilmės problema tampa antraeile, mažai ką bendro turinčia su iden-
+    titeto formavimusi.
+  citata_rodoma: "ės kilmės lenkai LDK, tiek didelė da-\nlis Lietuvos bajorijos tapo Lietuvos lenkais. Todėl šia"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-207643"></a>
+- t-001
+  teiginys: "Etninės kilmės lenkai LDK ir didelė dalis Lietuvos bajorijos tapo Lietuvos lenkais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  pagrindžia:
+    - c-190260
+

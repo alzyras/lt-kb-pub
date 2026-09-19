@@ -28,33 +28,6 @@ media_all_json: |-
 
 Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų (mišrius iš užverbuotų buvusių partizanų ir MGB kadrinių karininkų) būrius. MGB-KGB agentai smogikai naudojo rezistencijos atributiką ir uniformas terorui, rezistentams naikinti, kankindavo ginkluoto pasipriešinimo dalyvius, tarp jų moteris, senelius, vaikus, sušaudydavo partizanų ryšininkus, rėmėjus.
 
-## Teiginiai
-
-<a id="claim-t-19935"></a>
-- t-001
-  teiginys: "Okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų būrius, sudarytus iš užverbuotų buvusių partizanų ir MGB karininkų."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-22665
-
-<a id="claim-t-19936"></a>
-- t-002
-  teiginys: "MGB-KGB agentai smogikai terorui ir rezistentų naikinimui naudojo rezistencijos atributiką bei uniformas, kankino pasipriešinimo dalyvius."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> agentai smogikai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "MGB-KGB agentai smogikai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "agentai smogikai: mention_match, thing, gap=8"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"MGB-KGB agentai smogikai\" parinktas kaip owner_note_path. Targetas \"agentai smogikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-22666
-
 ## Citatos
 
 - id: c-22665
@@ -75,7 +48,7 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-22666
@@ -104,5 +77,33 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-19935"></a>
+- t-001
+  teiginys: "Okupacinė valdžia kovai su partizanais vis dažniau naudojo agentų smogikų būrius, sudarytus iš užverbuotų buvusių partizanų ir MGB karininkų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-22665
+
+<a id="claim-t-19936"></a>
+- t-002
+  teiginys: "MGB-KGB agentai smogikai terorui ir rezistentų naikinimui naudojo rezistencijos atributiką bei uniformas, kankino pasipriešinimo dalyvius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> agentai smogikai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "MGB-KGB agentai smogikai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "agentai smogikai: mention_match, thing, gap=8"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"MGB-KGB agentai smogikai\" parinktas kaip owner_note_path. Targetas \"agentai smogikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-22666
+

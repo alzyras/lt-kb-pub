@@ -28,20 +28,6 @@ Išeivinis žmogus, priėmęs valaką ar jo dalį už lažą ar činčą, pereid
 
 Išeivinis žmogus, priėmęs valaką ar jo dalį už lažą ar činčą, pereidavo į naujojo šeimininko teismo ir administracijos jurisdikciją.
 
-## Teiginiai
-
-<a id="claim-t-203754"></a>
-- t-001
-  teiginys: "Išeivinis žmogus, priėmęs valaką ar jo dalį už lažą ar činčą, pereidavo į naujojo šeimininko teismo ir administracijos jurisdikciją."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  pagrindžia:
-    - c-186358
-
 ## Citatos
 
 - id: c-186358
@@ -64,5 +50,20 @@ Išeivinis žmogus, priėmęs valaką ar jo dalį už lažą ar činčą, pereid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203754"></a>
+- t-001
+  teiginys: "Išeivinis žmogus, priėmęs valaką ar jo dalį už lažą ar činčą, pereidavo į naujojo šeimininko teismo ir administracijos jurisdikciją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  pagrindžia:
+    - c-186358
+

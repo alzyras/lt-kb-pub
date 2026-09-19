@@ -33,20 +33,6 @@ historical_names: []
 
 Ateinantį metą mistras sukėlė naują kariauną ir nujautęs, jqg daug lietuvių Parusny, nenorinčių vokyčiams vergauti, išsikraustė į Lietuvą ir Žemai čius ir apygardose Gardino apsigyveno, kurie, trau kiant lietuviams ir žemaičiams į Parusnį, rodė kelią ir tuo.
 
-## Teiginiai
-
-<a id="claim-t-201134"></a>
-- t-001
-  teiginys: "Ateinantį metą mistras sukėlė naują kariauną ir nujautęs, jqg daug lietuvių Parusny, nenorinčių vokyčiams vergauti, išsikraustė į Lietuvą ir Žemai čius ir apygardose Gardino apsigyveno, kurie, trau kiant lietuviams ir žemaičiams į Parusnį, rodė kelią ir tuo."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184484
-
 ## Citatos
 
 - id: c-184484
@@ -73,5 +59,36 @@ Ateinantį metą mistras sukėlė naują kariauną ir nujautęs, jqg daug lietuv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-206306
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 190"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 190."
+  citata_originali: |
+    Kitą dieną broliai persikėlė per
+    užšalusį Nemuną ir įsiveržė į Gardino pilies apylinkes bei papilį, degindami ir piešdami;
+    neskaitant užmuštųjų, jie išsivarė į nelaisvę 200 žmonių
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+## Teiginiai
+
+<a id="claim-t-201134"></a>
+- t-001
+  teiginys: "Ateinantį metą mistras sukėlė naują kariauną ir nujautęs, jqg daug lietuvių Parusny, nenorinčių vokyčiams vergauti, išsikraustė į Lietuvą ir Žemai čius ir apygardose Gardino apsigyveno, kurie, trau kiant lietuviams ir žemaičiams į Parusnį, rodė kelią ir tuo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184484
+

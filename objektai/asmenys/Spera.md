@@ -37,10 +37,35 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
 
 ## Teiginiai
 
+<a id="claim-t-210402"></a>
+- t-210402
+  teiginys: "Spera valdė daugelį metų ir mirė nepalikęs įpėdinių."
+  atnaujinta: "2026-09-12 20:03"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194142
+
+<a id="claim-t-210626"></a>
+- t-210626
+  teiginys: "Lietuvos metraštis Sperą vaizduoja kaip ilgai valdžiusį, valdiniams gerą valdovą, kuris mirė nepalikęs įpėdinių."
+  atnaujinta: "2026-09-12 20:03"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-194142
+
 <a id="claim-t-186163"></a>
-- t-001
+- t-186163
   teiginys: "Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie didžiulio ežero pastatė pilį."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -56,23 +81,10 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
   pagrindžia:
     - c-169524
 
-<a id="claim-t-193987"></a>
-- t-002
-  teiginys: "Lietuvos metraštis Sperą vaizduoja kaip ilgai valdžiusį, valdiniams gerą valdovą, kuris mirė nepalikęs įpėdinių."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-176612
-
 <a id="claim-t-196592"></a>
-- t-003
+- t-196592
   teiginys: "Apie Speros paminėtinus darbus vėlesnės kartos, Kojelavičiaus teigimu, nežinojo."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -83,9 +95,9 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
     - c-178784
 
 <a id="claim-t-205552"></a>
-- t-004
+- t-205552
   teiginys: "Netrukus Spera, likęs bevaikis, baigė savo gyve nimo dienas."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -115,8 +127,8 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-186163
 
 - id: c-176612
   autorius: "Anoniminis metraštininkas"
@@ -135,8 +147,6 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-178784
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -156,8 +166,8 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-196592
 
 - id: c-187692
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -176,5 +186,28 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-205552
+
+- id: c-194142
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 41"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 41."
+  citata_originali: |
+    Ir viešpatavo Spera daugelį metų, buvo geras savo
+    valdiniams, paskui mirė, nepalikęs įpėdinių. Valdiniai,
+    jį mylėjusieji, jo atminimui romėnų papročiu pastatė
+    stabą ir praminė jį Spera. O paskui tie žmonės, gyve­
+    nantys aplinkui, ėmė jam atnašauti aukas ir laikyti jį
+    dievu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 20:03"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210402
+    - t-210626
+

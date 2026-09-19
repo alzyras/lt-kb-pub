@@ -66,3 +66,74 @@ Ingė Lukšaitė pabrėžia A. Volano požiūrio į luominę visuomenės sąrang
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207868"></a>
+- t-001
+  teiginys: "Ingė Lukšaitė pabrėžia A. Volano požiūrio į luominę visuomenės sąrangą modernumą."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190485
+
+<a id="claim-t-207869"></a>
+- t-002
+  teiginys: "Ingė Lukšaitė nurodo, kad M. Radvila Rudasis būrė ir materialiai rėmė gabius bei energingus politikus, tarp kurių buvo J. Abramavičius."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190486
+
+## Citatos
+
+- id: c-190485
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 50"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 50."
+  citata_originali: |
+    Lietuvos Didžio-
+    sios Kunigaikštystės didikų giminės atstovui Mikalojui Radvilai Rudajam.
+    A.Volano kūrybos tyrėja ir publikuotoja Ingė Lukšaitė pabrėžia šio autoriaus požiū-
+    rio į luominę visuomenės sąrangą, į paskirus luomus, modernumą XVI a. Europos
+    visuomeninės minties raidos kontekste.
+  citata_rodoma: "A.Volano kūrybos tyrėja ir publikuotoja Ingė Lukšaitė pabrėžia šio autoriaus požiū-\nrio į luominę visuomenės sąrangą, į paskirus luomus, modernumą XVI a. Europos\nvisuomeninės minties raidos kontekste."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+- id: c-190486
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 152"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 152."
+  citata_originali: |
+    Ingė Lukšaitė nurodo, kad M. Radvila
+    Rudasis apie save būrė, rėmė, materialiai palaikė gabius ir energingus politikus, tarp
+    kurių buvo ir J. Abramavičius, vadina jį Radvilos Rudojo sūnaus Kristupo Radvilos
+    Perkūno vienu iš artimiausių bendraminčių, kalvinistu senatoriumi, pabrėžia, kad J. Ab-
+    ramavičius kaip asmenybė subrendo Radvilos Rudojo dvare ir pats ėmėsi mecenavimo
+    leidžiant Jono Radvano kūrinį „Radviliada".
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+

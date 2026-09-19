@@ -53,48 +53,6 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
 
 - piemuo
 
-## Teiginiai
-
-<a id="claim-t-195288"></a>
-- t-001
-  teiginys: "Baltras mokėjo pinti vyžas iš suraitytų karnų."
-  atnaujinta: "2026-07-12 01:06"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177652
-
-<a id="claim-t-195289"></a>
-- t-002
-  teiginys: "Baltras buvo vikresnis ir smarkesnis už Napaliuką, todėl tvarkė ganymą."
-  atnaujinta: "2026-07-12 01:06"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177655
-
-<a id="claim-t-195290"></a>
-- t-003
-  teiginys: "Baltras sutaisė Napaliuko darbą ir padarė dailią mažą vyžiukę."
-  atnaujinta: "2026-07-12 01:06"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177653
-
-<a id="claim-t-195291"></a>
-- t-004
-  teiginys: "Baltras iš alksnio pasidarė adiklį ir ąsiklius, o vyžas paadė karnomis."
-  atnaujinta: "2026-07-12 01:06"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177654
-
 ## Citatos
 
 - id: c-177652
@@ -110,7 +68,7 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177653
@@ -126,7 +84,7 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177654
@@ -147,7 +105,7 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-177655
@@ -171,5 +129,48 @@ Baltras vaizduojamas kaip vikresnis ir smarkesnis piemenų būrio narys, vadovav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-195288"></a>
+- t-001
+  teiginys: "Baltras mokėjo pinti vyžas iš suraitytų karnų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177652
+
+<a id="claim-t-195289"></a>
+- t-002
+  teiginys: "Baltras buvo vikresnis ir smarkesnis už Napaliuką, todėl tvarkė ganymą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177655
+
+<a id="claim-t-195290"></a>
+- t-003
+  teiginys: "Baltras sutaisė Napaliuko darbą ir padarė dailią mažą vyžiukę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177653
+
+<a id="claim-t-195291"></a>
+- t-004
+  teiginys: "Baltras iš alksnio pasidarė adiklį ir ąsiklius, o vyžas paadė karnomis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177654
+

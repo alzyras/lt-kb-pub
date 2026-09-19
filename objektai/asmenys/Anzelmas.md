@@ -49,27 +49,47 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
 
 ## Teiginiai
 
-<a id="claim-t-60084"></a>
-- t-001
-  teiginys: "Varmės vyskupas Anzelmas pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje."
-  atnaujinta: "2026-07-12 22:31"
+<a id="claim-t-218331"></a>
+- t-218331
+  teiginys: "Ąžuolą taip pat nukirto valdant kryžiuočiams, Varmijos vys kupo Anzelmo laikais, kaip mes aukščiau sakėme."
+  atnaujinta: "2026-09-12 23:46"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Brunsbergas: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Anzelmas (vyskupas, XIII a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Brunsbergas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claim tiesiogiai teigia, kad Anzelmas pastatė Brunsbergo pilį ir miestą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Anzelmas (vyskupas, XIII a.) pastatė Brunsbergas (0.94)"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-60717
+    - c-200283
 
-<a id="claim-t-188513"></a>
-- t-002
+<a id="claim-t-215758"></a>
+- t-215758
+  teiginys: "Viena me Varmijos vyskupo Anzelmo rašte (Bacho."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
+  pagrindžia:
+    - c-195931
+
+<a id="claim-t-200969"></a>
+- t-200969
+  teiginys: "Jis gi nuleido antrą raštą Anzelmui, Varmijos vyskupui, keldamas jį siuntiniu savo Parusny ir liepdamas jam, idant visiems meldžionims, susirin kusiems ant totorių, įsakytų nertis su kryžėjais ir eiti netikėlių lietuvių kariauti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184319
+
+<a id="claim-t-217158"></a>
+- t-217158
   teiginys: "Pasak Narbuto cituojamo Treterio, Varmijos vyskupas Anzelmas įsakė nukirsti ąžuolą, prie kurio žmonės garbino dievus."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -83,32 +103,44 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Anzelmas (vyskupas, XIII a.)\" parinktas kaip owner_note_path. Targetas \"Krikščionys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-171403
+    - c-199649
 
-<a id="claim-t-194910"></a>
-- t-003
-  teiginys: "Viena me Varmijos vyskupo Anzelmo rašte (Bacho."
-  atnaujinta: "2026-07-12 22:34"
+<a id="claim-t-219625"></a>
+- t-219625
+  teiginys: "Sunaikinus Kurko šventyklą, tas ąžuolas dar stovėjo, ir pa prasti žmonės, nepaisydami Varmijos vyskupo Anzelmo pa mokslų ir pamokymų, nesiliovė po juo garbinti dievų."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-177306
+    - c-199649
 
-<a id="claim-t-200969"></a>
-- t-004
-  teiginys: "Jis gi nuleido antrą raštą Anzelmui, Varmijos vyskupui, keldamas jį siuntiniu savo Parusny ir liepdamas jam, idant visiems meldžionims, susirin kusiems ant totorių, įsakytų nertis su kryžėjais ir eiti netikėlių lietuvių kariauti."
-  atnaujinta: "2026-07-16 14:31"
+<a id="claim-t-220573"></a>
+- t-220573
+  teiginys: "Varmės vyskupas Anzelmas pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Brunsbergas: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Anzelmas (vyskupas, XIII a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Brunsbergas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim tiesiogiai teigia, kad Anzelmas pastatė Brunsbergo pilį ir miestą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Anzelmas (vyskupas, XIII a.) pastatė Brunsbergas (0.94)"
+
+<a id="claim-t-221707"></a>
+- t-221707
+  teiginys: "Anzelmas pastatė Brunsbergo pilį ir miestą Serijos upės žemupyje."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184319
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
 
 ## Citatos
 
@@ -132,8 +164,6 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-171403
   autorius: "Teodoras Narbutas"
@@ -158,8 +188,6 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-177306
   autorius: "Teodoras Narbutas"
@@ -176,8 +204,6 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-184319
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -208,8 +234,73 @@ Dusburgietis teigia, kad apie sembų pavergimą Kai atsivertė mūsų anksčiau 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-200969
+
+- id: c-195931
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 347"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 347."
+  citata_originali: |
+    Viena­
+    me Varmijos vyskupo Anzelmo rašte (Bacho. T. 1. P. 289),
+    neminint liudytojų, taip pat minimas Lemptenburgas, kai
+    rašoma apie Rudolfus in Lemptenburg plebanus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215758
+
+- id: c-199649
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 236"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 236."
+  citata_originali: |
+    Varmijos vyskupų biografas Trete-
+    ris sako: „Toje vietoje, kur yra Heiligenbeilis, augo milžiniš­
+    kas ąžuolas, kuris tiek vasarą, tiek žiemą žaliavo (be abejo,
+    velnio pastangomis).
+    Sunaikinus Kurko šventyklą, tas ąžuolas dar stovėjo, ir pa­
+    prasti žmonės, nepaisydami Varmijos vyskupo Anzelmo pa­
+    mokslų ir pamokymų, nesiliovė po juo garbinti dievų. Tad, kai
+    vyskupas įsakė ąžuolą nukirsti, atsitiko taip, jog kirvis, atšokęs
+    nuo kamieno, mirtinai sužeidė žmogų, todėl krikščionys ne­
+    bedrįso jo liesti, kol pats vyskupas, paėmęs į rankas kirvį, ne­
+    pradėjo vadovauti kirtimui, tačiau ir šiaip be ugnies nepajėgta
+    susidoroti su ąžuolu.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217158
+    - t-219625
+
+- id: c-200283
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 267"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 267."
+  citata_originali: |
+    Ąžuolą taip pat nukirto valdant kryžiuočiams, Varmijos vys­
+    kupo Anzelmo laikais, kaip mes aukščiau sakėme. Miesto her­
+    be išliko kirvukas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218331
 
 ## Ryšiai
 - Anzelmas (vyskupas, XIII a.) pastatė [[objektai/vietos/Brunsbergas]]

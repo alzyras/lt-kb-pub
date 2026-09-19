@@ -40,10 +40,22 @@ Lietuviškųjų žemių miestai turėjo mokėti taip: Trakai 100 kapų grašių,
 
 ## Teiginiai
 
+<a id="claim-t-209657"></a>
+- t-209657
+  teiginys: "Nuo traukinio buvo matyti neišgriautos Virbalio bažnyčios bokštai."
+  atnaujinta: "2026-09-12 14:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192277
+
 <a id="claim-t-201708"></a>
-- t-001
+- t-201708
   teiginys: "Lietuviškųjų žemių miestai turėjo mokėti taip: Trakai 100 kapų grašių, Merkinė, Šeduva, Virbalis - po 40 kapų grašių, Jurbarkas, Panevėžys, Šiauliai - po 30 kapų grašių, dar keliolika miestų ir miestelių - po 8-20 kapų grašių."
-  atnaujinta: "2026-07-19 10:18"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -70,5 +82,24 @@ Lietuviškųjų žemių miestai turėjo mokėti taip: Trakai 100 kapų grašių,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-201708
+
+- id: c-192277
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 39"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 39."
+  citata_originali: |
+    To­
+    li matyti Virbaliaus bažnyčios bokštai.
+    Ma­
+    tyt išliko neišgriauta.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209657
+

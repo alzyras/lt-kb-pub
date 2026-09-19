@@ -33,21 +33,6 @@ Teodoras Narbutas aprašo, kad vyskupas, matydamas XIV amžiaus vandalų nunioko
 
 Teodoras Narbutas aprašo, kad vyskupas, matydamas XIV amžiaus vandalų nuniokotus valsčius ir išblaškytus žmones, susitarė su piratais, vadintais vitalianais, ir užmezgė ryšius su Stetino kunigaikščiu Sventiboru.
 
-## Teiginiai
-
-<a id="claim-t-206666"></a>
-- t-001
-  teiginys: "Teodoras Narbutas aprašo, kad vyskupas, matydamas XIV amžiaus vandalų nuniokotus valsčius ir išblaškytus žmones, susitarė su piratais, vadintais vitalianais, ir užmezgė ryšius su Stetino kunigaikščiu Sventiboru."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
-  pagrindžia:
-    - c-189281
-
 ## Citatos
 
 - id: c-189281
@@ -67,5 +52,21 @@ Teodoras Narbutas aprašo, kad vyskupas, matydamas XIV amžiaus vandalų nunioko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206666"></a>
+- t-001
+  teiginys: "Teodoras Narbutas aprašo, kad vyskupas, matydamas XIV amžiaus vandalų nuniokotus valsčius ir išblaškytus žmones, susitarė su piratais, vadintais vitalianais, ir užmezgė ryšius su Stetino kunigaikščiu Sventiboru."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189281
+

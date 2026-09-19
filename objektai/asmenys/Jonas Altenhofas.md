@@ -35,21 +35,6 @@ Riteris Jonas Altenhofas žuvo prie nuleisto tilto per užpuolikų puolimą, per
 
 Riteris Jonas Altenhofas žuvo prie nuleisto tilto per užpuolikų puolimą, per kurį taip pat buvo nužudyti du kunigai ir keli pilies žmonės.
 
-## Teiginiai
-
-<a id="claim-t-207014"></a>
-- t-001
-  teiginys: "Riteris Jonas Altenhofas žuvo prie nuleisto tilto per užpuolikų puolimą, per kurį taip pat buvo nužudyti du kunigai ir keli pilies žmonės."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-189629
-
 ## Citatos
 
 - id: c-189629
@@ -67,5 +52,21 @@ Riteris Jonas Altenhofas žuvo prie nuleisto tilto per užpuolikų puolimą, per
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-207014"></a>
+- t-001
+  teiginys: "Riteris Jonas Altenhofas žuvo prie nuleisto tilto per užpuolikų puolimą, per kurį taip pat buvo nužudyti du kunigai ir keli pilies žmonės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-189629
+

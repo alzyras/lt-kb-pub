@@ -39,20 +39,6 @@ canonical_biography: "1645 m. Kauno vaitas Aleksandras Pečiūga, valdęs iš va
 
 1645 m. Kauno vaitas Aleksandras Pečiūga, valdęs iš valdovo iki gyvos galvos gautą rudnią Kauno paviete prie Jūros upės, Vladislovo Vazos leidimu perleido ją giminaičiui Jonui Jasudavičiui.
 
-## Teiginiai
-
-<a id="claim-t-202084"></a>
-- t-001
-  teiginys: "1645 m. Kauno vaitas Aleksandras Pečiūga, valdęs iš valdovo iki gyvos galvos gautą rudnią Kauno paviete prie Jūros upės, Vladislovo Vazos leidimu perleido ją giminaičiui Jonui Jasudavičiui."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185431
-
 ## Citatos
 
 - id: c-185431
@@ -70,5 +56,20 @@ canonical_biography: "1645 m. Kauno vaitas Aleksandras Pečiūga, valdęs iš va
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202084"></a>
+- t-001
+  teiginys: "1645 m. Kauno vaitas Aleksandras Pečiūga, valdęs iš valdovo iki gyvos galvos gautą rudnią Kauno paviete prie Jūros upės, Vladislovo Vazos leidimu perleido ją giminaičiui Jonui Jasudavičiui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185431
+

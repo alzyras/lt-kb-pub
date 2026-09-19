@@ -28,40 +28,6 @@ media_all_json: |-
 
 A. Kojelavičius tariamą brolžudystę vadino piktadaryste ir pabrėžė, kad dėl jos valstybė likusi našlaitė. Kojelavičiaus tekste tariama Traidenio brolžudystė vadinama piktadaryste, o valstybė po jos vaizduojama likusi našlaitė.
 
-## Teiginiai
-
-<a id="claim-t-185390"></a>
-- t-001
-  teiginys: "A. Kojelavičius tariamą brolžudystę vadino piktadaryste ir pabrėžė, kad dėl jos valstybė likusi našlaitė."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Albertas Vijūkas-Kojelavičius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "piktadarystė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Albertas Vijūkas-Kojelavičius: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"piktadarystė\" parinktas kaip owner_note_path. Targetas \"Albertas Vijūkas-Kojelavičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168751
-
-<a id="claim-t-196385"></a>
-- t-002
-  teiginys: "Kojelavičiaus tekste tariama Traidenio brolžudystė vadinama piktadaryste, o valstybė po jos vaizduojama likusi našlaitė."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:02Z"
-  pagrindžia:
-    - c-178658
-
 ## Citatos
 
 - id: c-168751
@@ -82,7 +48,7 @@ A. Kojelavičius tariamą brolžudystę vadino piktadaryste ir pabrėžė, kad d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-178658
@@ -109,5 +75,40 @@ A. Kojelavičius tariamą brolžudystę vadino piktadaryste ir pabrėžė, kad d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-185390"></a>
+- t-001
+  teiginys: "A. Kojelavičius tariamą brolžudystę vadino piktadaryste ir pabrėžė, kad dėl jos valstybė likusi našlaitė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Albertas Vijūkas-Kojelavičius: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "piktadarystė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Albertas Vijūkas-Kojelavičius: mention_match, author"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"piktadarystė\" parinktas kaip owner_note_path. Targetas \"Albertas Vijūkas-Kojelavičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168751
+
+<a id="claim-t-196385"></a>
+- t-002
+  teiginys: "Kojelavičiaus tekste tariama Traidenio brolžudystė vadinama piktadaryste, o valstybė po jos vaizduojama likusi našlaitė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:02Z"
+  pagrindžia:
+    - c-178658
+

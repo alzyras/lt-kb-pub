@@ -34,21 +34,6 @@ Sofijos metraštis vienintelis tvirtina Jaroslavo žygį į Lietuvą bu vus 1044
 
 Sofijos metraštis vienintelis tvirtina Jaroslavo žygį į Lietuvą bu vus 1044 metais, tačiau jo padarinius nutyli.
 
-## Teiginiai
-
-<a id="claim-t-205156"></a>
-- t-001
-  teiginys: "Sofijos metraštis vienintelis tvirtina Jaroslavo žygį į Lietuvą bu vus 1044 metais, tačiau jo padarinius nutyli."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
-  pagrindžia:
-    - c-188015
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Sofijos metraštis vienintelis tvirtina Jaroslavo žygį į Lietuvą bu vus 1044 metais, tačiau jo padarinius nutyli.'
@@ -79,5 +64,21 @@ Sofijos metraštis vienintelis tvirtina Jaroslavo žygį į Lietuvą bu vus 1044
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205156"></a>
+- t-001
+  teiginys: "Sofijos metraštis vienintelis tvirtina Jaroslavo žygį į Lietuvą bu vus 1044 metais, tačiau jo padarinius nutyli."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-188015
+

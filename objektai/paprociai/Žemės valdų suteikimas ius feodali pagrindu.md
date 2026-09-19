@@ -39,20 +39,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-204062"></a>
-- t-001
-  teiginys: "XV a. antrame dešimtmetyje Vytauto kanceliarijoje kai kuriose žemės valdų suteiktyse vartota formulė „iure tamen feodali alias lenskim“."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  pagrindžia:
-    - c-186666
-
 ## Santrauka
 
 XV a. antrame dešimtmetyje Vytauto kanceliarijoje kai kuriose žemės valdų suteiktyse vartota formulė „iure tamen feodali alias lenskim“.
@@ -74,5 +60,20 @@ XV a. antrame dešimtmetyje Vytauto kanceliarijoje kai kuriose žemės valdų su
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204062"></a>
+- t-001
+  teiginys: "XV a. antrame dešimtmetyje Vytauto kanceliarijoje kai kuriose žemės valdų suteiktyse vartota formulė „iure tamen feodali alias lenskim“."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  pagrindžia:
+    - c-186666
+

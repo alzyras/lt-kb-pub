@@ -73,9 +73,9 @@ Nenurodyta
     - c-31413
 
 <a id="claim-t-97129"></a>
-- t-002
+- t-97129
   teiginys: "Zigmantas įrodinėjo, kad Vytautui vainiką gali suteikti ir Romoje nevainikuotas imperatorius, remdamasis karalių vainikavimu be patepimo."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -89,9 +89,9 @@ Nenurodyta
     - c-31414
 
 <a id="claim-t-97130"></a>
-- t-003
+- t-97130
   teiginys: "Zigmantas teigė, kad Vytautui karaliaus vainiką galėjo suteikti ir Romoje nevainikuotas imperatorius."
-  atnaujinta: "2026-06-01 14:44"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -105,27 +105,27 @@ Nenurodyta
     - c-31414
 
 <a id="claim-t-97131"></a>
-- t-004
+- t-97131
   teiginys: "Pagal ordines vainikuotas ir šventais aliejais pateptas valdovas turėjo prisidėti prie Kristaus karalystės platinimo žemėje."
-  atnaujinta: "2026-05-31 12:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-91644
 
 <a id="claim-t-97132"></a>
-- t-005
+- t-97132
   teiginys: "Pagal ordines vainikuotas ir šventais aliejais pateptas krikščioniškas valdovas turėjo platinti tikėjimą ir ginti Bažnyčią."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-91645
 
 <a id="claim-t-97133"></a>
-- t-006
+- t-97133
   teiginys: "Pačios karūnavimo apeigos skaitėsi sakramentu."
-  atnaujinta: "2026-05-31 12:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -157,8 +157,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-97133
 
 - id: c-31413
   autorius: "Zenonas Ivinskis"
@@ -172,11 +172,12 @@ Nenurodyta
     išaiškinti, jog karaliaus vainikavimnisi popiežiaus sutikimas nesąs
     reikalingas.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-31414
@@ -200,9 +201,9 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-003
+  pagrindžia:
+    - t-97129
+    - t-97130
 
 - id: c-91644
   autorius: "Zenonas Ivinskis"
@@ -224,8 +225,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-97131
 
 - id: c-91645
   autorius: "Zenonas Ivinskis"
@@ -247,5 +248,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-97132
+

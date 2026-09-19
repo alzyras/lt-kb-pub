@@ -38,10 +38,22 @@ canonical_biography: "1776 m. Antanas Zabiela, Šv. Jono bažnyčios zakristijon
 
 ## Teiginiai
 
+<a id="claim-t-208023"></a>
+- t-208023
+  teiginys: "Antanas Zabiela buvo Kauno pavieto maršalas."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190621
+
 <a id="claim-t-203925"></a>
-- t-001
+- t-203925
   teiginys: "1776 m. Šv. Jono bažnyčios zakristijonas Antanas Zabiela buvo vienas iš Lukiškėse, prie Neries, karmelitėms priklausiusį dvarelį užpuolusios talkininkų gaujos narių."
-  atnaujinta: "2026-08-07 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -106,5 +118,28 @@ canonical_biography: "1776 m. Antanas Zabiela, Šv. Jono bažnyčios zakristijon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-203925
+
+- id: c-190621
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 51"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 51."
+  citata_originali: |
+    Šaltinių ir istoriografijos analizė leidžia padaryti šias išvadas. Augusto III laikų
+    Kauno seimelis buvo „nesužlugdytas" dėl to, kad vietos elitas pasiekė kompromisą.
+    Pavietų grupuočių vietiniai lyderiai - Kauno pavieto pilies teismo seniūnas
+    Simonas Sirutis ir Kauno pavieto maršalas Antanas Zabiela - susitarė „nežlugdyti"
+    Kauno seimelio.
+  citata_rodoma: "Pavietų grupuočių vietiniai lyderiai - Kauno pavieto pilies teismo seniūnas \nSimonas Sirutis ir Kauno pavieto maršalas Antanas Zabiela - susitarė „nežlugdyti\" \nKauno seimelio."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208023
+

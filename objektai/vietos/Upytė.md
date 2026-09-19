@@ -48,10 +48,24 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
 
 ## Teiginiai
 
+<a id="claim-t-207867"></a>
+- t-207867
+  teiginys: "1593 m. gavo Upytės pakamarės urėdą."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  temporaliniai_duomenys: "įvykio data: 1593 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190422
+
 <a id="claim-t-69480"></a>
-- t-001
+- t-69480
   teiginys: "Rugpjūčio pabaigoje trys Livonijos daliniai paeiliui įsibrovė į Žemaitiją ir niokojo Upytės kraštą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Dlugošas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -67,9 +81,9 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
     - c-167198
 
 <a id="claim-t-203748"></a>
-- t-002
+- t-203748
   teiginys: "1585 m. Upytės pilies teisme Bartolomėjus Petravičius skundėsi Ivano Visgirdo tarnų savivale ir jėga išvestais valstiečiais."
-  atnaujinta: "2026-08-07 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -82,9 +96,9 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
     - c-186352
 
 <a id="claim-t-203749"></a>
-- t-003
+- t-203749
   teiginys: "1585 m. Upytės pilies teisme Valentinas Tancevičius pranešė apie iš jo dvaro išėjusius valstiečius ir pabėgėlio išsivestus gyvulius, o Petraškevičius bei Ivanas Vizgirdas – apie pabėgusius arba savavališkai pasitraukusius valstiečius."
-  atnaujinta: "2026-08-07 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -98,9 +112,9 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
     - c-186353
 
 <a id="claim-t-203750"></a>
-- t-004
+- t-203750
   teiginys: "1584 m. Upytės pavieto vaznys Mikalojus Matvejevičius pranešė, kad Mykolas Andrejevičius negalėjo atsiimti pavaldinio iš kunigaikštienės Ščastnos Borovskos valdų: savininkai buvo išvykę, o duktė atsisakė veikti be tėvų sutikimo."
-  atnaujinta: "2026-08-07 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -137,8 +151,8 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-69480
 
 - id: c-167198
   sudarytojas: "Karolis Zikaras"
@@ -160,8 +174,8 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-69480
 
 - id: c-186352
   autorius: "Giedrė Sabaitytė"
@@ -189,8 +203,8 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-203748
 
 - id: c-186353
   autorius: "Giedrė Sabaitytė"
@@ -210,8 +224,8 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-203749
 
 - id: c-186354
   autorius: "Giedrė Sabaitytė"
@@ -234,8 +248,30 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-203750
+
+- id: c-190422
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 223"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 223."
+  citata_originali: |
+    Prieš tai jis jau buvo pasimokęs Karaliaučiuje
+    (imatrikuliuotas 1570 m.) ir Leipcige. 1578 m. grižęs j Lietuvą gavo Ukmergės mokesčių
+    rinkėjo pareigas, greitai išpopuliarėjo tarp bajorų, ne kartą buvo renkamas pasiuntiniu į
+    seimą ir siunčiamas atstovauti Lietuvos Didžiajai Kunigaikštystei kitomis progomis:
+    1588 m. buvo tarp pasiuntinių, vykusių pranešti Zigmantui Vazai, kad Lietuvos Didžio-
+    ji Kunigaikštystė pripažįsta jį valdovu. 1593 m. gavo Upytės pakamarės urėdą.
+  citata_rodoma: "1593 m. gavo Upytės pakamarės urėdą."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207867
 
 ## Ryšiai
 - Gyvenamoji vieta: [[objektai/grupes/Hiriai ir hendai]]

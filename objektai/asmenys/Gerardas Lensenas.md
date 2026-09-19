@@ -35,21 +35,6 @@ Teodoro Narbuto pasakojimu, Ragainės komtūras Gerardas Lensenas, ieškodamas g
 
 Teodoro Narbuto pasakojimu, Ragainės komtūras Gerardas Lensenas, ieškodamas grobio Kaltinėnų apylinkėse, paėmė belaisvių, tačiau grįždamas susidūrė su Žemaitijos kariauna, o kryžiuočiai paliko žirgus ir ėjo pėsčiomis.
 
-## Teiginiai
-
-<a id="claim-t-206996"></a>
-- t-001
-  teiginys: "Teodoro Narbuto pasakojimu, Ragainės komtūras Gerardas Lensenas, ieškodamas grobio Kaltinėnų apylinkėse, paėmė belaisvių, tačiau grįždamas susidūrė su Žemaitijos kariauna, o kryžiuočiai paliko žirgus ir ėjo pėsčiomis."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-189611
-
 ## Citatos
 
 - id: c-189611
@@ -69,5 +54,21 @@ Teodoro Narbuto pasakojimu, Ragainės komtūras Gerardas Lensenas, ieškodamas g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206996"></a>
+- t-001
+  teiginys: "Teodoro Narbuto pasakojimu, Ragainės komtūras Gerardas Lensenas, ieškodamas grobio Kaltinėnų apylinkėse, paėmė belaisvių, tačiau grįždamas susidūrė su Žemaitijos kariauna, o kryžiuočiai paliko žirgus ir ėjo pėsčiomis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-189611
+

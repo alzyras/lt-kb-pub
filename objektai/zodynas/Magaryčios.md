@@ -64,6 +64,16 @@ Terminas vartojamas mažųjų pokylių ir gėrimo kontekste.
   pagrindžia:
     - c-178020
 
+<a id="claim-t-195618"></a>
+- t-195618
+  teiginys: "Magaryčios šiame šaltinyje priskiriamos prie mažųjų pokylių."
+  atnaujinta: "2026-09-13 21:19"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-178019
+
 ## Citatos
 
 - id: c-178019
@@ -75,11 +85,15 @@ Terminas vartojamas mažųjų pokylių ir gėrimo kontekste.
     Be tų buvo dar mažieji pokyliai: pabaigtuvės, skerstuvės, skolinimas, grąžinimas skolos, samdymas darbininko, atleidimas, magaryčios ir daugybė kitų.
   citata_rodoma: "Be tų buvo dar mažieji pokyliai: pabaigtuvės, skerstuvės, skolinimas, grąžinimas skolos, samdymas darbininko, atleidimas, magaryčios ir daugybė kitų."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 08:46"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-195618
+
 - id: c-178020
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -95,9 +109,11 @@ Terminas vartojamas mažųjų pokylių ir gėrimo kontekste.
     nepakelia.
   citata_rodoma: "Čia geriama magaryčias tiek, kiek galva pakelia arba kiek nepakelia."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 08:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

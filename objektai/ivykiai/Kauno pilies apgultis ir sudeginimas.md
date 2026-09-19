@@ -36,20 +36,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-201266"></a>
-- t-001
-  teiginys: "Jau ketino pačią pilį apgulti, kuri didžiai stipriai aptverta turėjo 5000 įgulės, kurios pilės vyru, arba kamendotu, bu vo narsus Vaidotas, /sūnus Kęstučio, kurią jis su tokia kantrybe ir narsybe gyniojo, jog kryžėjai ne galėjo viltis veikiai įsilaušią."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184616
-
 ## Citatos
 
 - id: c-184616
@@ -75,5 +61,20 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201266"></a>
+- t-001
+  teiginys: "Jau ketino pačią pilį apgulti, kuri didžiai stipriai aptverta turėjo 5000 įgulės, kurios pilės vyru, arba kamendotu, bu vo narsus Vaidotas, /sūnus Kęstučio, kurią jis su tokia kantrybe ir narsybe gyniojo, jog kryžėjai ne galėjo viltis veikiai įsilaušią."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184616
+

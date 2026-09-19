@@ -46,25 +46,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-59718"></a>
-- t-001
-  teiginys: "Ragainės pilies viduryje buvo maždaug 20 žingsnių ilgio ir beveik tokio pat pločio žuvų tvenkinys."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Ragainė: 0.78"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žuvų tvenkinys Ragainės pilyje (pilis): llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Ragainė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tvenkinys tiesiogiai apibūdintas kaip buvęs Ragainės pilies viduryje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Žuvų tvenkinys Ragainės pilyje (pilis) priklausė Ragainė (0.78)"
-  pagrindžia:
-    - c-60350
-
 ## Citatos
 
 - id: c-60350
@@ -87,5 +68,48 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-203348
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 154"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 154."
+  citata_originali: |
+    atitraukusi čia 9 metais anksčiau, nei Teutonų ordinas atvyko į Prūsijos žemę467. Galop
+    rutėnai, pavargę nuo įstangų  ir patyrę didelių išlaidų, paklausė apsiaustųjų, kuo jie
+    bemintą. Šie atsakė: „Žuvimis“. Mat  jie turėję  viduryje pilies 20 žingsnių  ilgio  ir
+    beveik tokio pat pločio žuvų tvenkinį, jame buvę tiek žuvies, kad jos pakako visiems
+    apsiaustiesiems maitintis. Šitai išgirdę, rutėnai nutraukė apgulą. Štai koks nuostabus
+    dalykas! Kol skalviai buvo netikėliai, jie turėjo žuvies, o dabar laiko varles, kai yra
+    krikščionys, nes tame tvenkinyje jau nebėra tiek vandens, kad jo pakaktų žuvims.
+    Kodėl šitaip yra, nežinau, težino vienas dievas, kurio sprendimai nesuprantami, o keliai
+    nesuvokiami.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-224180"></a>
+- t-001
+  teiginys: "Ragainės pilies viduryje buvo maždaug 20 žingsnių ilgio ir beveik tokio pat pločio žuvų tvenkinys."
+  atnaujinta: "2026-09-13 18:13"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Ragainė: 0.78"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žuvų tvenkinys Ragainės pilyje (pilis): llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Ragainė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tvenkinys tiesiogiai apibūdintas kaip buvęs Ragainės pilies viduryje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Žuvų tvenkinys Ragainės pilyje (pilis) priklausė Ragainė (0.78)"
+  pagrindžia:
+    - c-203348
+

@@ -29,50 +29,54 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
 
 ## Teiginiai
 
-<a id="claim-t-189398"></a>
-- t-001
-  teiginys: "Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl milžino, juo sudaužiusio bokštą ir išvadavusio pagrobtą saulę."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Gardinas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žyniai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Gardinas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žyniai\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172285
-
-<a id="claim-t-194606"></a>
-- t-002
-  teiginys: "Tuomet žyniai nakčia kreipdavosi į ugnį, o rytą atsakydavo klausėjams, kad prie šventosios ugnies matę ligonio šešėlį; šildydamasis prie ugnies, jis parūdydavęs arba mirties, arba gyvybės ženklus: jeigu ligoniui būdavę lemta gy venti, šešėlis stovėdavęs veidu."
-  atnaujinta: "2026-07-12 22:33"
+<a id="claim-t-219303"></a>
+- t-004
+  teiginys: "Vėliau žyniai, ištaškyti po Lie tuvos kraštus, tam įkūrė daugybę asmeninių šventyklų arba visur pristatė aukurų."
+  atnaujinta: "2026-09-12 23:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-177005
+    - c-198282
 
-<a id="claim-t-197228"></a>
-- t-003
+<a id="claim-t-218226"></a>
+- t-218226
+  teiginys: "Narbutas teigia, kad žyniai pagal dangaus kūnų judėjimą apskaičiuodavo metus, pažino Zodiaką ir dalijo metus į mėnesius."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200845
+
+<a id="claim-t-216507"></a>
+- t-216507
   teiginys: "Nedera čia praleisti, jog laidotuvių žyniai tulisonys ir lygašonys per laidotuves sakydavo kalbas, garbstydami mirusiojo žygius, jo aukštą kilmę, protą ir 1.1., taip pat pasakodavo gimi naičiams savo mitus, pavyzdžiui, kad matę mirusiojo vėlę rai tą ant."
-  atnaujinta: "2026-07-12 22:32"
+  atnaujinta: "2026-09-12 23:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-179075
+    - c-201260
+
+<a id="claim-t-218856"></a>
+- t-218856
+  teiginys: "Tuomet žyniai nakčia kreipdavosi į ugnį, o rytą atsakydavo klausėjams, kad prie šventosios ugnies matę ligonio šešėlį; šildydamasis prie ugnies, jis parūdydavęs arba mirties, arba gyvybės ženklus: jeigu ligoniui būdavę lemta gy venti, šešėlis stovėdavęs veidu."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-199312
 
 ## Citatos
 
@@ -99,8 +103,6 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-177005
   autorius: "Teodoras Narbutas"
@@ -123,8 +125,6 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-179075
   autorius: "Teodoras Narbutas"
@@ -147,8 +147,93 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+
+- id: c-198282
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 319"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 319."
+  citata_originali: |
+    Vėliau žyniai, ištaškyti po Lie­
+    tuvos kraštus, tam įkūrė daugybę asmeninių šventyklų arba
+    visur pristatė aukurų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
+- id: c-199312
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 453"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 453."
+  citata_originali: |
+    Vėliau
+    jis aptikęs, kad žmonės garbinę ugnį ir vadinę ją Amžinąja.
+    Prie šventovių gyvenančių žynių darbas buvo rūpintis ku­
+    ru, kad ugnis niekad neužgestų. Bičiuliai teiraudavosi žynių,
+    ar ligoniai išliks gyvi. Tuomet žyniai nakčia kreipdavosi į ugnį,
+    o rytą atsakydavo klausėjams, kad prie šventosios ugnies matę
+    ligonio šešėlį; šildydamasis prie ugnies, jis parūdydavęs arba
+    mirties, arba gyvybės ženklus: jeigu ligoniui būdavę lemta gy­
+    venti, šešėlis stovėdavęs veidu į ugnį; priešingai, jeigu pasiro­
+    dydavo nugara į ugnį, neabejotinai laukė mirtis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218856
+
+- id: c-200845
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 323"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 323."
+  citata_originali: |
+    Jau anksčiau matėme, kad žyniai pagal dangaus kūnų ju­
+    dėjimą apskaičiuodavo metus, pažino Zodiaką ir metus dalijo
+    į mėnesius (Menuo), kurie trukdavo nuo jauno iki jauno mė­
+    nulio.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218226
+
+- id: c-201260
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 364"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 364."
+  citata_originali: |
+    Neturime jokio pa­
+    tvirtinimo, kad lietuviai savo šventose giraitėse ant medžių ka­
+    bindavo karalių kūnus, parištus ant aukso grandinių .
+    Nedera čia praleisti, jog laidotuvių žyniai tulisonys ir lyga-
+    šonys per laidotuves sakydavo kalbas, garbstydami mirusiojo
+    žygius, jo aukštą kilmę, protą ir 1.1., taip pat pasakodavo gimi­
+    naičiams savo mitus, pavyzdžiui, kad matę mirusiojo vėlę rai­
+    tą ant puikaus žirgo, ginkluotą, šuoliuojančią dangaus vidu­
+    riu, Paukščių taku, laikančią rankoje tris žvaigždes ir su didele
+    draugų palyda kylančią į amžinosios laimės buveinę .
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216507
 
 ## Ryšiai
 - Žyniai gyveno [[objektai/vietos/Upsala]]

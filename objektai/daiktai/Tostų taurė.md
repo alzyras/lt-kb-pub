@@ -47,18 +47,6 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-202554"></a>
-- t-001
-  teiginys: "„Meilingumo taurės“ paprastai buvo nemenkõs talpos ir gaminamos su dviem ąsomis, kad būtų patogiau perduoti kitam (Loving Cup [2016])."
-  atnaujinta: "2026-07-26 20:37"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Rimvydas Laužikas"
-  pagrindžia:
-    - c-185912
-
 <a id="claim-t-202555"></a>
 - t-002
   teiginys: "Po antrojo patiekalo šeimininkas pradėdavo tostus, atsistojęs gerdavo į garbingiausio svečio sveikatą, o išgėręs taurę perduodavo tam svečiui."
@@ -79,6 +67,18 @@ Nenurodyta
   pagrindžia:
     - c-185913
 
+<a id="claim-t-202554"></a>
+- t-202554
+  teiginys: "„Meilingumo taurės“ paprastai buvo nemenkõs talpos ir gaminamos su dviem ąsomis, kad būtų patogiau perduoti kitam (Loving Cup [2016])."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Rimvydas Laužikas"
+  pagrindžia:
+    - c-185912
+
 ## Santrauka
 
 „Meilingumo taurės“ paprastai buvo nemenkõs talpos ir gaminamos su dviem ąsomis, kad būtų patogiau perduoti kitam (Loving Cup [2016]). Po antrojo patiekalo šeimininkas pradėdavo tostus, atsistojęs gerdavo į garbingiausio svečio sveikatą, o išgėręs taurę perduodavo tam svečiui.
@@ -93,8 +93,8 @@ Nenurodyta
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-26 20:29"
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-202554
 
 - id: c-185913
   autorius: "Rimvydas Laužikas"
@@ -103,6 +103,8 @@ Nenurodyta
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 14."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 20:35"
-  pagrindzia:
+  pagrindžia:
     - t-002
+

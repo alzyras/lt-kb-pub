@@ -39,71 +39,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-191021"></a>
-- t-001
-  teiginys: "340 m. pr. Kr. Masilijos astronomas ir jūrų keliautojas Pitėjas išplaukė į Atlanto vandenyną ir pasiekė Britanijos salas."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Masilija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pitėjo Masiliečio kelionė į šiaurines jūras ir gintaringus krantus: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Masilija: mention_match, place, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pitėjo Masiliečio kelionė į šiaurines jūras ir gintaringus krantus\" parinktas kaip owner_note_path. Targetas \"Masilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 340 m"
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, pilnas sakinys apie Pitėjo kelionę ir remiasi citatos data bei maršrutu. Neperimtos papildomos detalės apie Kanono kyšulį ir atstumą."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-173903
-
-<a id="claim-t-191022"></a>
-- t-002
-  teiginys: "Teodoras Narbutas Abalo salą siejo su Semba, aiškindamas, kad senoviniai jos krantai galėjo suklaidinti jūros keliautoją."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Kuršiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pitėjo Masiliečio kelionė į šiaurines jūras ir gintaringus krantus: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Kuršiai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pitėjo Masiliečio kelionė į šiaurines jūras ir gintaringus krantus\" parinktas kaip owner_note_path. Targetas \"Kuršiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-173904
-
-<a id="claim-t-191023"></a>
-- t-003
-  teiginys: "Pasak Narbuto minimų autorių, gintaringos pakrantės buvo pažįstamos dėl IV a. pr. Kr. išsiplėtusios masiliečių prekybos alavu ir gintaru."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Masiliečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pitėjo Masiliečio kelionė į šiaurines jūras ir gintaringus krantus: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Masiliečiai: mention_match, group, gap=70"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pitėjo Masiliečio kelionė į šiaurines jūras ir gintaringus krantus\" parinktas kaip owner_note_path. Targetas \"Masiliečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-173905
-
 ## Citatos
 
 - id: c-173903
@@ -125,8 +60,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-173904
   autorius: "Teodoras Narbutas"
@@ -156,8 +89,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-173905
   autorius: "Teodoras Narbutas"
@@ -185,5 +116,155 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-194515
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 157"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 157."
+  citata_originali: |
+    O kalbėdami apie
+    Abalo salą, geriausi ¡senovės tyrinėtojai, ir tai labiausiai
+    įtikėtina, turi omeny šiandienę Sembą, kuri, būdama pu­
+    siasalis, dėl savo krantų, kurie aiškiai ¡skyrėsi nuo šian­
+    dienių, išties galėjo būti palaikyta sala: iš vienos pusės
+    žiotys Priegliaus, įtekančio į gerokai sausumon įsirėžusią
+    įlanką; iš kitos pusės Kuršių nerija, pertraukta ties Ra­
+    syte; pagaliau miškingos pakrantės galėjo lengvai suklai­
+    dinti jūros keliautoją, aprašinėjusį šią krašto dalį. Pitėjas
+    turbūt priplaukė prie kranto ties Nogato žiotimis, nes
+    vėliau ten dideliu laivu buvo atplaukęs Vulfstanas, — apie
+    jį kalbėsime vėliau, — pasiekė Druso miestą, be to, iš ten
+    išilgai krantų vieną ar porą dienų galėjo plaukti iki Sem­
+    bos. Čia ¡suprantame, kad tarp Nogato žiočių ir Sembos
+    vidurio senovėje buvo gana toli į jūrą išsikišusi sausumos
+    juosta, vadinta Vitlandija; ji iš dalies egzistavo XIII am­
+    žiaus pradžioje3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-003
+
+- id: c-194861
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 155"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 155."
+  citata_originali: |
+    Norint palengvinti tokį žygį, kelionėn buvo išsiųstas įžy­
+    mus Masilijos astronomas ir jūrų keliautojas Pitėjas. Jis,
+    gerai nustatęs išvykimo vietos, t. y. Masilijos uosto, geo­
+    grafinę padėtį, išplaukė į Atlanto vandenyną. Tai įvyko
+    praėjus 90 metų po H imi Ikaro kelionės, arba 340 metais
+    ¡prieš Kristaus gimimą. Sis keliautojas atvyko prie Brita­
+    nijos salų ir išsilaipino ¡pietryčių pusėje, prie Kanono ky­
+    šulio, 100 stadijų nuo žemyno atstumu3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+- id: c-197594
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 158"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 158."
+  citata_originali: |
+    Pagaliau kurui kaip
+    malkas vartojamą gintarą, kurio senovės Sembos gyven­
+    tojams netrūko, galima suprasti kaip iškasamas palmes,
+    iš kurių kažkada sunkėsi gintaras, apie tai kalbėjome
+    anksčiau; jų gal nemažai buvo išgaunama iš pakrančių
+    smėlio sluoksnio arba jų išmesdavo jūra.
+    162
+    Pasak autorių, gintaringos pakrantės buvo pažįstamos
+    dėl masiliečių prekybos, ypač alavu ir gintaru, išsiplėtu­
+    sios ir suklestėjusios IV amžiuje prieš Kristaus gimimą1.
+    Senovės tyrinėtojai netgi padarė gana taiklių prielaidų,
+    jog finikiečių, o gal ir masiliečių pirkliai turėję savo pre­
+    kyvietes, arba emporiurnus, Prūsijoje; iš jų viena buvusi
+    Ilelados pusiasalyje, Scurgon2 ramovėje, o antra ■— Kul­
+    nie prie Vyslos3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Teiginiai
+
+<a id="claim-t-212932"></a>
+- t-001
+  teiginys: "340 m. pr. Kr. Masilijos astronomas ir jūrų keliautojas Pitėjas išplaukė į Atlanto vandenyną ir pasiekė Britanijos salas."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Masilija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pitėjo Masiliečio kelionė į šiaurines jūras ir gintaringus krantus: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Masilija: mention_match, place, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pitėjo Masiliečio kelionė į šiaurines jūras ir gintaringus krantus\" parinktas kaip owner_note_path. Targetas \"Masilija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 340 m"
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, pilnas sakinys apie Pitėjo kelionę ir remiasi citatos data bei maršrutu. Neperimtos papildomos detalės apie Kanono kyšulį ir atstumą."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-194861
+
+<a id="claim-t-213191"></a>
+- t-002
+  teiginys: "Pasak Narbuto minimų autorių, gintaringos pakrantės buvo pažįstamos dėl IV a. pr. Kr. išsiplėtusios masiliečių prekybos alavu ir gintaru."
+  atnaujinta: "2026-09-13 18:12"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Masiliečiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pitėjo Masiliečio kelionė į šiaurines jūras ir gintaringus krantus: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Masiliečiai: mention_match, group, gap=70"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pitėjo Masiliečio kelionė į šiaurines jūras ir gintaringus krantus\" parinktas kaip owner_note_path. Targetas \"Masiliečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-197594
+
+<a id="claim-t-215665"></a>
+- t-003
+  teiginys: "Teodoras Narbutas Abalo salą siejo su Semba, aiškindamas, kad senoviniai jos krantai galėjo suklaidinti jūros keliautoją."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kuršiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pitėjo Masiliečio kelionė į šiaurines jūras ir gintaringus krantus: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Kuršiai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pitėjo Masiliečio kelionė į šiaurines jūras ir gintaringus krantus\" parinktas kaip owner_note_path. Targetas \"Kuršiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-194515
+

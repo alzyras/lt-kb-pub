@@ -38,20 +38,6 @@ historical_names: []
 
 Pas valstietį Byką Ažėnuose buvo vestuvės.
 
-## Teiginiai
-
-<a id="claim-t-202400"></a>
-- t-001
-  teiginys: "Pas valstietį Byką Ažėnuose buvo vestuvės."
-  atnaujinta: "2026-07-19 13:11"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys"
-  pagrindžia:
-    - c-185747
-
 ## Citatos
 
 - id: c-185747
@@ -62,5 +48,20 @@ Pas valstietį Byką Ažėnuose buvo vestuvės.
   citatos_rezimas: "indeksas"
   statusas: verified
   atnaujinta: "2026-07-19 13:07"
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202400"></a>
+- t-001
+  teiginys: "Pas valstietį Byką Ažėnuose buvo vestuvės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys"
+  pagrindžia:
+    - c-185747
+

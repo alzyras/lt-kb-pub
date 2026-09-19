@@ -44,6 +44,10 @@ function navSlug(slug: string): FullSlug {
   return slugTag(slug) as FullSlug
 }
 
+function isCurrentSection(currentSlug: FullSlug, slug: string): boolean {
+  return currentSlug === slug || currentSlug.startsWith(`${slug}/`)
+}
+
 function HeaderDropdown({
   label,
   slug,
@@ -66,6 +70,7 @@ function HeaderDropdown({
         href={resolveRelative(currentSlug, navSlug(slug))}
         aria-haspopup="true"
         aria-expanded="false"
+        aria-current={isCurrentSection(currentSlug, slug) ? "true" : undefined}
         data-li-menu-trigger
       >
         {label}
@@ -76,7 +81,14 @@ function HeaderDropdown({
         data-li-menu-panel
       >
         {links.map(([linkLabel, linkSlug]) => (
-          <a href={resolveRelative(currentSlug, navSlug(linkSlug))}>{linkLabel}</a>
+          <a
+            href={resolveRelative(currentSlug, navSlug(linkSlug))}
+            aria-current={
+              currentSlug.replace(/\/index$/, "") === navSlug(linkSlug) ? "page" : undefined
+            }
+          >
+            {linkLabel}
+          </a>
         ))}
       </div>
     </div>
@@ -104,7 +116,7 @@ const LIHeader: QuartzComponent = (props: QuartzComponentProps) => {
       </div>
       <div class="li-header-main">
         <a class="li-header-brand" href={resolveRelative(currentSlug, "index" as FullSlug)}>
-          <BrandLockup invert />
+          <BrandLockup showTagline={false} />
         </a>
         <nav class="li-header-nav" aria-label="Pagrindinė navigacija">
           <HeaderDropdown
@@ -130,10 +142,19 @@ const LIHeader: QuartzComponent = (props: QuartzComponentProps) => {
             variant="periods"
             currentSlug={currentSlug}
           />
-          <a href={resolveRelative(currentSlug, navSlug("zemelapis"))}>Žemėlapis</a>
-          <a href={resolveRelative(currentSlug, navSlug("galerija"))}>Galerija</a>
-          <a href={resolveRelative(currentSlug, navSlug("straipsniai"))}>Straipsniai</a>
-          <a href={resolveRelative(currentSlug, navSlug("parodos"))}>Parodos</a>
+          {[
+            ["zemelapis", "Žemėlapis"],
+            ["galerija", "Galerija"],
+            ["straipsniai", "Straipsniai"],
+            ["parodos", "Parodos"],
+          ].map(([slug, label]) => (
+            <a
+              href={resolveRelative(currentSlug, navSlug(slug))}
+              aria-current={isCurrentSection(currentSlug, slug) ? "true" : undefined}
+            >
+              {label}
+            </a>
+          ))}
         </nav>
       </div>
     </div>

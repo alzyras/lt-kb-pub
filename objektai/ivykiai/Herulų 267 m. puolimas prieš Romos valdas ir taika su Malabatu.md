@@ -39,41 +39,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-191030"></a>
-- t-001
-  teiginys: "Narbuto pasakojimu, Malabatas po nesėkmės puldinėjo Graikiją, išgriovė Čižiką, pasiekė Atėnus ir privertė imperiją pirkti taiką."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Atėnai: 0.66"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Malabatas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Atėnai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Malabato puldinėjimo eiga nurodo pasiekimą iki Atėnų; tai pakankamai tiesioginis karinis judėjimas miesto link."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Malabatas puolė Atėnai (0.66)"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  pagrindžia:
-    - c-173912
-
-<a id="claim-t-197536"></a>
-- t-002
-  teiginys: "Iš pra džių jų ginklai įvarė gerokai baimės, bet imperatoriaus sūnus Galėnas sulaikė puolimą ir sutriuškino herulus."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-179236
-
 ## Citatos
 
 - id: c-173912
@@ -99,8 +64,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-179236
   autorius: "Teodoras Narbutas"
@@ -123,5 +86,92 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-194763
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 301"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 301."
+  citata_originali: |
+    Iš pra­
+    džių jų ginklai įvarė gerokai baimės, bet imperatoriaus
+    sūnus Galėnas sulaikė puolimą ir sutriuškino herulus. Ta­
+    čiau ši nesėkmė neišgąsdino vado; jis puldinėjo net Grai­
+    kiją, išgriovė Čižiką ir priėjo net iki Atėnų, galop tapo
+    toks pavojingas, jog teko, su, juo sudaryti sąjungą ir nu­
+    sipirkti taiką, paaukojus kažkokį pajūrio kraštą. Taip ta­
+    pęs imperijos piliečiu, Malabatas gavo teisę užimti joje
+    aukščiausias pareigas, nes netrukus imperatorius suteikė
+    jam Romos konsulo titulą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-002
+
+- id: c-196200
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 301"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 301."
+  citata_originali: |
+    Ta­
+    čiau ši nesėkmė neišgąsdino vado; jis puldinėjo net Grai­
+    kiją, išgriovė Čižiką ir priėjo net iki Atėnų, galop tapo
+    toks pavojingas, jog teko, su, juo sudaryti sąjungą ir nu­
+    sipirkti taiką, paaukojus kažkokį pajūrio kraštą. Taip ta­
+    pęs imperijos piliečiu, Malabatas gavo teisę užimti joje
+    aukščiausias pareigas, nes netrukus imperatorius suteikė
+    jam Romos konsulo titulą.
+    298
+    Netrukus po to, apie 269 metus, gotai, surinkę milži­
+    nišką apie 320 000 ginkluotų žmonių armiją, puolė impe­
+    riją, norėdami užkariauti visą valstybę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-214014"></a>
+- t-001
+  teiginys: "Narbuto pasakojimu, Malabatas po nesėkmės puldinėjo Graikiją, išgriovė Čižiką, pasiekė Atėnus ir privertė imperiją pirkti taiką."
+  atnaujinta: "2026-09-13 18:12"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Atėnai: 0.66"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Malabatas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Atėnai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Malabato puldinėjimo eiga nurodo pasiekimą iki Atėnų; tai pakankamai tiesioginis karinis judėjimas miesto link."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Malabatas puolė Atėnai (0.66)"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
+  pagrindžia:
+    - c-196200
+
+<a id="claim-t-215010"></a>
+- t-002
+  teiginys: "Iš pra džių jų ginklai įvarė gerokai baimės, bet imperatoriaus sūnus Galėnas sulaikė puolimą ir sutriuškino herulus."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194763
+

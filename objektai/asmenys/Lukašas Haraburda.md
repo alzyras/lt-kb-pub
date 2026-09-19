@@ -61,3 +61,47 @@ Jūratė Kiaupienė rašo, kad 1569 m. Liublino seime bajoras Lukašas Haraburda
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207754"></a>
+- t-001
+  teiginys: "Jūratė Kiaupienė rašo, kad 1569 m. Liublino seime bajoras Lukašas Haraburda prašė valdos, nes jo turtas liko priešo rankose Polocko pilyje ir žemėje."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  temporaliniai_duomenys: "įvykio data: 1569 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas prašymo laikas, vieta ir priežastis. Priešo apibūdinimas bei motyvo paaiškinimas palikti atribuoti autorei, naujų faktų nepridėta."
+  vertinimo_atnaujinta: "2026-08-18T20:02:07Z"
+  pagrindžia:
+    - c-190526
+
+## Citatos
+
+- id: c-190526
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 180"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 180."
+  citata_originali: |
+    1569 m. vasarą Liublino seime bajoras Lukašas Haraburda prašė duoti jam valdą,
+    nes jo turėtas visas kilnojamasis ir nekilnojamasis turtas liko priešo rankose Polocko
+    pilyje ir Polocko žemėje. Kreipiasi su šiuo prašymu L. Haraburda tik 1569 m., nes
+    1563 m. paėmus Polocką, jis kartu su vaivada ir kitais riteriais pateko į Maskvos ne-
+    laisvę, kur gana ilgai kalėjo. Lenkijos Karūnos ir Lietuvos Didžiosios Kunigaikštystės
+    Tarybų Ponai pripažino, kad jo prašymas yra pagrįstas ir prašė Žygimantą Augustą
+    duoti jam kitą valdą.
+  citata_rodoma: "1569 m. vasarą Liublino seime bajoras Lukašas Haraburda prašė duoti jam valdą,\nnes jo turėtas visas kilnojamasis ir nekilnojamasis turtas liko priešo rankose Polocko\npilyje ir Polocko žemėje."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+

@@ -29,18 +29,41 @@ Narbutas cituoja Vyskupo Petro rankraštį kaip liudijimą, kad ugnies krikštas
 
 ## Teiginiai
 
-<a id="claim-t-190505"></a>
-- t-001
-  teiginys: "Narbutas cituoja Vyskupo Petro rankraštį kaip liudijimą, kad ugnies krikštas buvo suprantamas kaip apsivalymas."
-  atnaujinta: "2026-07-19 17:58"
+<a id="claim-t-216192"></a>
+- t-002
+  teiginys: "Vyskupo Petro rankraštyje aptinkame: „jie garbi no vandenį, vadindami Atropos, kurį laikė kilniu elementu“."
+  atnaujinta: "2026-09-12 23:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-173388
+    - c-201566
+
+<a id="claim-t-219471"></a>
+- t-003
+  teiginys: "Rankraštyje Mėnulis vadinamas deive Lelia Menelia, valdė naktį ir matavo laiką."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-197958
+
+<a id="claim-t-216156"></a>
+- t-216156
+  teiginys: "Vyskupo Petro rankraštyje yra duomenų, kad lietuviai gar bino deivę Lellia Menelia su didžiuliu prietaringumu, horribili cum superstitione colenda. To neradome jokio pėdsako."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198587
 
 ## Citatos
 
@@ -64,5 +87,59 @@ Narbutas cituoja Vyskupo Petro rankraštį kaip liudijimą, kad ugnies krikštas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-197958
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 187"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 187."
+  citata_originali: |
+    Vyskupo Petro rankraštyje yra tokia užuomina apie lietu­
+    vių tikėjimo suasmenintus reikšmingiausius dangaus kūnus:
+    „Tarp tos prigimties dievų po Saulės pirmą vietą pripažįsta
+    Mėnuliui, kuriam paprastai nusilenkia kaip deivei Lelia Me-
+    nelia. Jis valdė naktį ir todėl matavo laiką“.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+
+- id: c-198587
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 122"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 122."
+  citata_originali: |
+    Vyskupo Petro rankraštyje yra duomenų, kad lietuviai gar­
+    bino deivę Lellia Menelia su didžiuliu prietaringumu, horribili
+    cum superstitione colenda. To neradome jokio pėdsako.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216156
+
+- id: c-201566
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 103"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 103."
+  citata_originali: |
+    Vyskupo Petro rankraštyje aptinkame: „jie garbi­
+    no vandenį, vadindami Atropos, kurį laikė kilniu elementu“.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+

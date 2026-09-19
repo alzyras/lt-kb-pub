@@ -34,37 +34,6 @@ canonical_biography: "Dusburgietis teigia, kad kai šitaip padarė, notangai, su
 
 Dusburgietis teigia, kad kai šitaip padarė, notangai, suvokdami, kad nedidelė kariauna nedrįs jų žemės siaubti, sutelkė jėgas ir sausio 22 dieną užpuolė Pokarviuose364 likusią kariuomenės dalį; maldininkai ir broliai narsiai jiems priešinosi, ypač vienas riteris iš Vestfalijos, vardu.
 
-## Teiginiai
-
-<a id="claim-t-60476"></a>
-- t-001
-  teiginys: "Štenkelis iš Bentheimo Pokarviuose įsiveržė į notangų rikiuotę ir grįždamas buvo nukautas."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Notangai: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Štenkelis iš Bentheimo: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Notangai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Kontekste priešas yra notangai, prieš kurių rikiuotę Štenkelis kovojo."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Štenkelis iš Bentheimo kariavo prieš Notangai (0.70)"
-  pagrindžia:
-    - c-61108
-
-<a id="claim-t-197168"></a>
-- t-002
-  teiginys: "Štenkelis iš Bentheimo buvo sudegintas367."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-61108
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Štenkelis iš Bentheimo Pokarviuose įsiveržė į notangų rikiuotę ir grįždamas buvo nukautas.'
@@ -107,6 +76,4 @@ Dusburgietis teigia, kad kai šitaip padarė, notangai, suvokdami, kad nedidelė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
+

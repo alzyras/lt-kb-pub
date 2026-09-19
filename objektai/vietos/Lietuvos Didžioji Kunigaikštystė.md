@@ -54,42 +54,6 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
 
 ## Teiginiai
 
-<a id="claim-t-194282"></a>
-- t-001
-  teiginys: "Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, arba valdų, atitekusių iš jo didenybės mūsų velionio tė vo, kurias mums, gyvas būdamas, beveik visas, kaip ir pats jo karališkoji didenybė turėjo, malonėjo duoti ir dovanoti, kaip tai."
-  atnaujinta: "2026-07-06 12:55"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-176874
-
-<a id="claim-t-194283"></a>
-- t-002
-  teiginys: "Jeigu kredenso pritrūktų, prašo me, kad tiems mūsų tarnams pagal kiekvieno nuopelnus iš valstybės iždo, kaip Karalystės, taip ir Lietuvos, kiekvienam būtų sumokėta, kad būtų dievobaimingai už ištikimą savo tarnystę atlyginti, o jeigu šis mūsų kredensas būtų."
-  atnaujinta: "2026-07-06 12:55"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-176875
-
-<a id="claim-t-197472"></a>
-- t-003
-  teiginys: "„Lenkų istorikai ir istorijos tyrėjai visuomet mus, lietuvius, žemino ir žemina <...>; dėl tokių priežasčių reikia rinkti grynai lietuviškos dvasios paminklus ir parodyti, kad mes jų turime daugiau ir kur kas geresnių negu lenkai“11."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-179209
-
 <a id="claim-t-200715"></a>
 - t-004
   teiginys: "Laužikas pabrėžia korporatyvumo skirtumus tarp Vakarų Europos šalių ir Lietuvos aiškindamas gėrimo iš vienos taurės reikšmes."
@@ -110,10 +74,94 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
   pagrindžia:
     - c-184060
 
+<a id="claim-t-207789"></a>
+- t-207789
+  teiginys: "Karo lauko stovykla prie Vitebsko aprašoma kaip Lietuvos Didžiosios Kunigaikštystės įvykių vieta."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190406
+
+<a id="claim-t-207866"></a>
+- t-207866
+  teiginys: "Lietuvos Didžioji Kunigaikštystė XVI a."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190516
+
+<a id="claim-t-210333"></a>
+- t-210333
+  teiginys: "Esant šiam Vytautui didžiuoju kunigaikščiu ir val dant Lietuvos ir Rusų Didžiąją Kunigaikštystę ir daugelį kitų šalių, tiesiog visa Rusų žemė, ir ne vien Rusų že mė, bet ir Vengrų žemės valdovas, vadinamas Romos imperatoriumigyveno su juo didelėje meilėje."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194141
+
+<a id="claim-t-211639"></a>
+- t-211639
+  teiginys: "Kazimieras valdė Lietuvos, Rusų ir Volynės Kunigaikštystę iš Vilniaus."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193834
+
+<a id="claim-t-218933"></a>
+- t-218933
+  teiginys: "„Lenkų istorikai ir istorijos tyrėjai visuomet mus, lietuvius, žemino ir žemina <...>; dėl tokių priežasčių reikia rinkti grynai lietuviškos dvasios paminklus ir parodyti, kad mes jų turime daugiau ir kur kas geresnių negu lenkai“11."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201298
+
+<a id="claim-t-194282"></a>
+- t-194282
+  teiginys: "Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, arba valdų, atitekusių iš jo didenybės mūsų velionio tė vo, kurias mums, gyvas būdamas, beveik visas, kaip ir pats jo karališkoji didenybė turėjo, malonėjo duoti ir dovanoti, kaip tai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-176874
+
+<a id="claim-t-194283"></a>
+- t-194283
+  teiginys: "Jeigu kredenso pritrūktų, prašo me, kad tiems mūsų tarnams pagal kiekvieno nuopelnus iš valstybės iždo, kaip Karalystės, taip ir Lietuvos, kiekvienam būtų sumokėta, kad būtų dievobaimingai už ištikimą savo tarnystę atlyginti, o jeigu šis mūsų kredensas būtų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-176875
+
 <a id="claim-t-201629"></a>
-- t-005
+- t-201629
   teiginys: "Lietuvos miestai, buvo tarsi trinaris, jį sudarė pats savavaldus miestas ir jo miestiečių bendruomenė bei nemiestiškos Kauno dalys, pilis kaip Lietuvos valstybės teritorinio administracinio vieneto, Kauno seniūni jos/pavieto centras ir bažnyčios struktūros."
-  atnaujinta: "2026-07-19 10:18"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -123,9 +171,9 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
     - c-184976
 
 <a id="claim-t-203745"></a>
-- t-006
+- t-203745
   teiginys: "XVI–XVII a. Lietuvos Didžiojoje Kunigaikštystėje buvo išplitęs dvarų antpuolių („najazdų“) reiškinys."
-  atnaujinta: "2026-08-07 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -136,9 +184,9 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
     - c-186349
 
 <a id="claim-t-203746"></a>
-- t-007
+- t-203746
   teiginys: "Lietuvos Didžiosios Kunigaikštystės teritorijoje galiojo principas, kad mieste tam tikrą laiką išgyvenęs asmuo tapdavo laisvasis."
-  atnaujinta: "2026-08-07 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -148,9 +196,9 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
     - c-186350
 
 <a id="claim-t-203810"></a>
-- t-008
+- t-203810
   teiginys: "Trečiajame Lietuvos Statute už bajoro namo, užvažiuojamųjų namų patalpos, bažnyčios ar vienuolyno užpuolimą buvo numatytos bausmės, įskaitant mirties bausmę."
-  atnaujinta: "2026-08-07 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -159,6 +207,32 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
   vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
   pagrindžia:
     - c-186414
+
+<a id="claim-t-208044"></a>
+- t-208044
+  teiginys: "Lietuvos Didžiojoje Kunigaikštystėje 1765 m. buvo sukurti muitinės tarnybos pagrindai ir padalyta teritorinė muitinių sistema."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  temporaliniai_duomenys: "įvykio data: 1765 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190662
+
+<a id="claim-t-208125"></a>
+- t-208125
+  teiginys: "XVIII a. Lietuvos Didžiojoje Kunigaikštystėje emblemos ir lotyniškos inskripcijos tebebuvo labai svarbios proginėse dekoracijose."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190806
 
 ## Citatos
 
@@ -205,8 +279,8 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-194282
 
 - id: c-176875
   autorius: "Michał Baliński"
@@ -235,8 +309,8 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-194283
 
 - id: c-179209
   autorius: "Teodoras Narbutas"
@@ -253,8 +327,6 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-184060
   autorius: "Rimvydas Laužikas"
@@ -263,8 +335,9 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
   indeksas: "Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.), PDF 15."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 20:29"
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-184976
@@ -283,8 +356,8 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-201629
 
 - id: c-186349
   autorius: "Giedrė Sabaitytė"
@@ -306,8 +379,8 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-203745
 
 - id: c-186350
   autorius: "Giedrė Sabaitytė"
@@ -327,8 +400,8 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-203746
 
 - id: c-186414
   autorius: "Domininkas Burba"
@@ -347,5 +420,161 @@ Kadangi mes Lietuvos Didžiojoje Kunigaikštystėje turime nejudamojo tur to, ar
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
+  pagrindžia:
+    - t-203810
+
+- id: c-190406
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 96"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 96."
+  citata_originali: |
+    Vitebsko peticija
+    Istorinėje literatūroje daug metų iš studijos į studiją per-
+    rašomas teiginys, esą XVI a. viduryje gausi Lietuvos Didžiosios
+    Kunigaikštystės vidutinioji ir smulkioji bajorija norėjusi, kad unija
+    su Lenkija būtų sudaryta kuo greičiau. Eilinius bajorus vilioju-
+    sios Lenkijos bajorų gerokai anksčiau išsikovotos didelės teisės ir
+    privilegijos, o unijai priešinosi tik Radvilų giminės vadovaujami
+    didikai, bijoję prarasti turėtą valdžią ir didžiulius turtus.
+    Taip jau susiklostė, kad ši tezė istoriografijoje buvo priimta be diskusijų; neieškota
+    ir daug argumentų jai paremti, pasitenkinta žinomais 1562 m. įvykių Lietuvos Didžio-
+    sios Kunigaikštystės karo lauko stovykloje prie Vitebsko aprašymais.
+  citata_rodoma: "Taip jau susiklostė, kad ši tezė istoriografijoje buvo priimta be diskusijų; neieškota\nir daug argumentų jai paremti, pasitenkinta žinomais 1562 m. įvykių Lietuvos Didžio-\nsios Kunigaikštystės karo lauko stovykloje prie Vitebsko aprašymais."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207789
+
+- id: c-190516
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 159"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 159."
+  citata_originali: |
+    Lietuvos Didžioji Kunigaikštystė XVI a. šia prasme gyveno europietiškų ritmu.
+    XV a. pabaigoje prasidėjo ilgas nuolatinių karų su Maskvos Didžiąja Kunigaikštyste
+    laikotarpis, patirtos pirmosios teritorinės netektys. 1494 m. taikos sutartimi su Mask-
+    vos didžiuoju kunigaikščiu Ivanu III Lietuvos Didžioji Kunigaikštystė prarado Viaz-
+    mos kunigaikštystę ir nemažą teritoriją Okos aukštupio baseine.
+  citata_rodoma: "Lietuvos Didžioji Kunigaikštystė XVI a. šia prasme gyveno europietiškų ritmu."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207866
+
+- id: c-190662
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 124"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 124."
+  citata_originali: |
+    Modernizavimo proceso pradžią rodė jau vien tai, kad Lietuvos Didžiojoje
+    Kunigaikštystėje buvo suformuota valstybės institucija, kurioje visi sprendimai
+    buvo priimami dauguma balsų. Iždo komisijos kompetenciją sudarė valstybės
+    ūkinių klausimų sprendimas, tarp jų ir Lietuvos muitinės tarnybos organizavimas
+    bei jos veiklos kontrolė.
+    Iždo komisija jau 1765 m. sukūrė Lietuvos Didžiosios Kunigaikštystės mui­
+    tinės tarnybos pagrindus: valstybės teritorija buvo padalyta j teritorines muitines -
+    reparticijas, kurias sudarė muirinės (kamaros), jų filialai (muitinėlės - pakamaros),
+    vyriausieji sargybos postai ir sargybos postai.
+  citata_rodoma: "Iždo komisija jau 1765 m. sukūrė Lietuvos Didžiosios Kunigaikštystės mui­\ntinės tarnybos pagrindus: valstybės teritorija buvo padalyta j teritorines muitines -\nreparticijas, kurias sudarė muirinės (kamaros), jų filialai (muitinėlės - pakamaros), \nvyriausieji sargybos postai ir sargybos postai."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208044
+
+- id: c-190806
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 329"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 329."
+  citata_originali: |
+    З З О
+    X V I I I amžiaus studijos 1
+    Projektuotojai fejerverkų konstrukcijose panaudodavo stacionarius elementus:
+    emblemas, alegorinę prasmę turinčius paveikslus. Emblemos fejerverkuose sim­
+    boliškai vaizdavo tokias abstrakcijas kaip dorybės arba siekiai, o jrašai piešinių
+    idėjas išreikšdavo verbaliai".
+    Lietuvos Didžiojoje Kunigaikštystėje XVIII a. emblemos ir lotyniškos
+    inskripcijos tebeturėjo didelę reikšmę proginėse dekoracijose.
+  citata_rodoma: "Lietuvos Didžiojoje Kunigaikštystėje XVIII a. emblemos ir lotyniškos \ninskripcijos tebeturėjo didelę reikšmę proginėse dekoracijose."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208125
+
+- id: c-193834
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 124"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 124."
+  citata_originali: |
+    O paskui didysis kunigaikštis Kazimieras atvyko
+    į Vilnių ir sėdo valdyti Vilniaus — savo dėdės ir tėvo,
+    didžiojo kunigaikščio Vytauto, sostinės— ir visos Di­
+    džiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211639
+
+- id: c-194141
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 177"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 177."
+  citata_originali: |
+    Esant šiam Vytautui didžiuoju kunigaikščiu ir val­
+    dant Lietuvos ir Rusų Didžiąją Kunigaikštystę ir daugelį
+    kitų šalių, tiesiog visa Rusų žemė, ir ne vien Rusų že­
+    mė, bet ir Vengrų žemės valdovas, vadinamas Romos
+    imperatoriumigyveno su juo didelėje meilėje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210333
+
+- id: c-201298
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 11"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 11."
+  citata_originali: |
+    „Lenkų istorikai ir istorijos tyrėjai visuomet
+    mus, lietuvius, žemino ir žemina <...>; dėl tokių priežasčių
+    reikia rinkti grynai lietuviškos dvasios paminklus ir parodyti,
+    kad mes jų turime daugiau ir kur kas geresnių negu lenkai“11.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218933
+

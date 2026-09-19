@@ -36,10 +36,34 @@ Pagaliau mokslo siekiams karštai pritarian tis ir talentingas rašytojas Leonas
 
 ## Teiginiai
 
+<a id="claim-t-216397"></a>
+- t-002
+  teiginys: "Leonas Rogalskis redagavo leidinį „Wizerunki i Roztrząsania Naukowe“."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200443
+
+<a id="claim-t-215331"></a>
+- t-215331
+  teiginys: "Leonas Rogalskis iš pradžių redagavo leidinį „Wizerunki i Roztrząsania Naukowe“."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195006
+
 <a id="claim-t-194317"></a>
-- t-001
+- t-194317
   teiginys: "Pagaliau mokslo siekiams karštai pritarian tis ir talentingas rašytojas Leonas Rogalskis uoliai prisidėjo kuo galėdamas prie mano darbo."
-  atnaujinta: "2026-07-06 12:56"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -71,5 +95,44 @@ Pagaliau mokslo siekiams karštai pritarian tis ir talentingas rašytojas Leonas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-194317
+
+- id: c-195006
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 449"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 449."
+  citata_originali: |
+    „Wizerunki i Roztrząsania Naukowe“, iš pradžių re­
+    daguotas Leono Rogalskio, o vėliau — Ignoto Sidlovskio,
+    buvo vienas iš stambiausių ir solidžiausių to meto inte­
+    lektualinės pakraipos leidinių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215331
+
+- id: c-200443
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 57"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 57."
+  citata_originali: |
+    „Wizerunki i Roztrząsania Naukowe“, iš pradžių redaguo­
+    tas Leono Rogalskio, o vėliau - Ignoto Sidlovskio, buvo vie­
+    nas stambiausių ir solidžiausių to meto intelektualinės pakrai­
+    pos leidinių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+

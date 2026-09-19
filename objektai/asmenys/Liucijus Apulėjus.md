@@ -34,21 +34,6 @@ canonical_biography: "Liucijus Apulėjus savo „Auksiniame asile“ paliko mums
 
 Liucijus Apulėjus savo „Auksiniame asile“ paliko mums šiokį tokį tų senovės paslapčių aprašymą.
 
-## Teiginiai
-
-<a id="claim-t-194835"></a>
-- t-001
-  teiginys: "Liucijus Apulėjus savo „Auksiniame asile“ paliko mums šiokį tokį tų senovės paslapčių aprašymą."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-177231
-
 ## Citatos
 
 - id: c-177231
@@ -73,5 +58,4 @@ Liucijus Apulėjus savo „Auksiniame asile“ paliko mums šiokį tokį tų sen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

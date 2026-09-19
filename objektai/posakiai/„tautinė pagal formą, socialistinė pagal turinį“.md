@@ -29,22 +29,6 @@ Formulė nusako sovietų kultūros politikos principą, kai tautinė forma turė
 
 ## Teiginiai
 
-<a id="claim-t-26655"></a>
-- t-001
-  teiginys: "Kultūra Lietuvoje plėtota pagal sovietų principą „tautinė pagal formą, socialistinė pagal turinį“."
-  atnaujinta: "2026-06-14 10:46"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„tautinė pagal formą, socialistinė pagal turinį“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=18"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„tautinė pagal formą, socialistinė pagal turinį“\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-26746
-
 <a id="claim-t-26907"></a>
 - t-002
   teiginys: "Formulė iliustruojama tautiniais drabužiais vilkinčiais choristais, dainavusiais apie V. Leniną."
@@ -61,10 +45,26 @@ Formulė nusako sovietų kultūros politikos principą, kai tautinė forma turė
   pagrindžia:
     - c-26746
 
+<a id="claim-t-26655"></a>
+- t-26655
+  teiginys: "Kultūra Lietuvoje plėtota pagal sovietų principą „tautinė pagal formą, socialistinė pagal turinį“."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "„tautinė pagal formą, socialistinė pagal turinį“: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=18"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„tautinė pagal formą, socialistinė pagal turinį“\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-26746
+
 <a id="claim-t-75622"></a>
-- t-003
+- t-75622
   teiginys: "Dainų šventėse principas „tautinė pagal formą, socialistinė pagal turinį“ ilgainiui liko privalomos socialistinės programos apvalkalu."
-  atnaujinta: "2026-06-14 10:46"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
@@ -72,9 +72,9 @@ Formulė nusako sovietų kultūros politikos principą, kai tautinė forma turė
     - c-26746
 
 <a id="claim-t-75623"></a>
-- t-004
+- t-75623
   teiginys: "Pagal principą „tautinė pagal formą, socialistinė pagal turinį“ choristai tautiniais drabužiais dainavo apie V. Leniną."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Drabužiai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -105,12 +105,14 @@ Formulė nusako sovietų kultūros politikos principą, kai tautinė forma turė
     srityse išmokta atiduoti duoklę komunizmui, o toliau kuriamas kad ir ri-
     botas, bet tautinės kultūros reiškinys.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
     - t-002
-    - t-003
-    - t-004
+    - t-26655
+    - t-75622
+    - t-75623
+

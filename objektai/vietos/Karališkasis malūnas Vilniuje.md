@@ -66,60 +66,6 @@ Vilniaus malūnas prie Vilnios, vadintas Karališkuoju.
 
 Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
 
-## Teiginiai
-
-<a id="claim-t-55248"></a>
-- t-001
-  teiginys: "1515 m. Žygimantas Senasis leido Ulrikui Hošui savo lėšomis statyti Karališkąjį malūną ir iki gyvos galvos imti trečią grūdą."
-  atnaujinta: "2026-07-19 17:26"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Reikėjo įvardyti karalių ir pašalinti dviprasmį agentą."
-  susije_objektai: "mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Vilnius"
-  temporaliniai_duomenys: "įvykio data: 1515 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikėjo įvardyti karalių ir pašalinti dviprasmį agentą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177469
-
-<a id="claim-t-55249"></a>
-- t-002
-  teiginys: "1515 metais karalius leido Ulrikui Hošui savo lėšomis statyti Vilniaus Karališkąjį malūną."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata palaiko statybos leidimą, pradinė formuluotė nutrūkusi."
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Vilnius; llm_object: Vilnius"
-  semantiniai_rysiai: "Karališkasis malūnas Vilniuje priklausė Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-177469
-
-<a id="claim-t-195086"></a>
-- t-003
-  teiginys: "Antraštė: Molendinum Vilnense [Vil niaus malūnas]."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55849
-
-<a id="claim-t-195087"></a>
-- t-004
-  teiginys: "Karališkasis malūnas Vilniuje Lietuvos Metrikoje buvo įvardytas kaip Molendinum Vilnense, arba Vilniaus malūnas."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Karališkasis malūnas; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Vilnius"
-  semantiniai_rysiai: "Karališkasis malūnas Vilniuje priklausė Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55849
-
 ## Citatos
 
 - id: c-55849
@@ -138,7 +84,7 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-004
 
@@ -170,6 +116,61 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-55248"></a>
+- t-001
+  teiginys: "1515 m. Žygimantas Senasis leido Ulrikui Hošui savo lėšomis statyti Karališkąjį malūną ir iki gyvos galvos imti trečią grūdą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Reikėjo įvardyti karalių ir pašalinti dviprasmį agentą."
+  susije_objektai: "mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Vilnius"
+  temporaliniai_duomenys: "įvykio data: 1515 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikėjo įvardyti karalių ir pašalinti dviprasmį agentą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177469
+
+<a id="claim-t-55249"></a>
+- t-002
+  teiginys: "1515 metais karalius leido Ulrikui Hošui savo lėšomis statyti Vilniaus Karališkąjį malūną."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Citata palaiko statybos leidimą, pradinė formuluotė nutrūkusi."
+  susije_objektai: "mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Vilnius; llm_object: Vilnius"
+  semantiniai_rysiai: "Karališkasis malūnas Vilniuje priklausė Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-177469
+
+<a id="claim-t-195086"></a>
+- t-003
+  teiginys: "Antraštė: Molendinum Vilnense [Vil niaus malūnas]."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55849
+
+<a id="claim-t-195087"></a>
+- t-004
+  teiginys: "Karališkasis malūnas Vilniuje Lietuvos Metrikoje buvo įvardytas kaip Molendinum Vilnense, arba Vilniaus malūnas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  susije_objektai: "mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Karališkasis malūnas; mentioned_place: Lietuva; mentioned_place: Vilnius; llm_object: Vilnius"
+  semantiniai_rysiai: "Karališkasis malūnas Vilniuje priklausė Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55849
+

@@ -39,20 +39,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-203777"></a>
-- t-001
-  teiginys: "Persikėlę į kitą dvarą pabėgę valstiečiai galėjo tęsti ankstesnę žemdirbystės ar namų ūkio veiklą arba imtis naujos veiklos."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  pagrindžia:
-    - c-186381
-
 ## Santrauka
 
 Persikėlę į kitą dvarą pabėgę valstiečiai galėjo tęsti ankstesnę žemdirbystės ar namų ūkio veiklą arba imtis naujos veiklos.
@@ -74,5 +60,20 @@ Persikėlę į kitą dvarą pabėgę valstiečiai galėjo tęsti ankstesnę žem
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203777"></a>
+- t-001
+  teiginys: "Persikėlę į kitą dvarą pabėgę valstiečiai galėjo tęsti ankstesnę žemdirbystės ar namų ūkio veiklą arba imtis naujos veiklos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  pagrindžia:
+    - c-186381
+

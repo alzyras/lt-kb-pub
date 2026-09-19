@@ -62,9 +62,9 @@ Nenurodyta
     - c-02172
 
 <a id="claim-t-01936"></a>
-- t-002
+- t-01936
   teiginys: "Bendri Lietuvos ir Lenkijos seimai dažnai nieko neišspręsdavo ir pasibaigdavo triukšmingai."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -78,9 +78,9 @@ Nenurodyta
     - c-02174
 
 <a id="claim-t-01937"></a>
-- t-003
+- t-01937
   teiginys: "Akte numatyti bendri seimai ir bendra karaliaus elekcija, tačiau jų vykdymo tvarka turėjo būti nustatyta vėliau."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kūnas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -113,11 +113,12 @@ Nenurodyta
     pinigus.
   citata_rodoma: "Šiuo susita-\nrimu buvo norima įkurti viena jungtinė valstybė, kuri turė-\ntų bendrą seimą, bendrai vienoje vietoje\nrinktąjį valdovą, bendrą apsaugą ir bendrus\npinigus."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-02173
@@ -137,8 +138,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-01937
 
 - id: c-02174
   redaktorius: "A. Šapoka"
@@ -158,5 +159,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-01936
+

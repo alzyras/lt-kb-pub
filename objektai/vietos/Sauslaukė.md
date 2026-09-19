@@ -42,28 +42,6 @@ historical_names: []
 
 VIII amž. pusėje jie randami Sauslauke (prie Durbės).
 
-## Teiginiai
-
-<a id="claim-t-28461"></a>
-- t-001
-  teiginys: "VIII a. viduryje švedai buvo aptinkami Sauslaukėje prie Durbės."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Sauslaukė: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švedai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Sauslaukė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Švedai aptinkami Sauslaukėje, todėl jų buvimas šioje vietoje palaikomas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Švedai gyveno Sauslaukė (0.74)"
-  temporaliniai_duomenys: "įvykio data: 650 m; įvykio data: apie 650 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Pirminis teiginys buvo fragmentiškas, bet citata leidžia suformuluoti faktą."
-  pagrindžia:
-    - c-28365
-
 ## Citatos
 
 - id: c-28365
@@ -83,5 +61,28 @@ VIII amž. pusėje jie randami Sauslauke (prie Durbės).
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-28461"></a>
+- t-001
+  teiginys: "VIII a. viduryje švedai buvo aptinkami Sauslaukėje prie Durbės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Sauslaukė: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švedai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Sauslaukė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Švedai aptinkami Sauslaukėje, todėl jų buvimas šioje vietoje palaikomas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Švedai gyveno Sauslaukė (0.74)"
+  temporaliniai_duomenys: "įvykio data: 650 m; įvykio data: apie 650 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Pirminis teiginys buvo fragmentiškas, bet citata leidžia suformuluoti faktą."
+  pagrindžia:
+    - c-28365
+

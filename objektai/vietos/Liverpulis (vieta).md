@@ -63,3 +63,41 @@ Liverpulyje minima Šv. Jurgio rotušė kaip neoklasicistinis pastatas.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-190690
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 273"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 273."
+  citata_originali: |
+    Pastatyta nemažai šios ideologijos neoklasi­
+    cistinių rotušių: Shire Hali Hereforde (1817—1819 m., archit. Robertas Smirke);
+    korintinio peripterio stiliaus Birmingemo rotušė (1831-1834 m., archit. Josephas
+    Hansomas); Liverpulio Šv. Jurgio rotušė (1841-1854 m., archit. Harvey Lonsdale
+    Elmesas).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-208106"></a>
+- t-001
+  teiginys: "Liverpulyje minima Šv. Jurgio rotušė kaip neoklasicistinis pastatas."
+  atnaujinta: "2026-09-13 23:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190690
+

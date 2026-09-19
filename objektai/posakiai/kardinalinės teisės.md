@@ -27,28 +27,6 @@ media_all_json: |-
 
 kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyti konfe- deracijos aktą, kuriuo kvietė prisidėti prie konfederacijos ir kara- lių, pripažino lygias teises kitatikiams, o Kotryną II prašė „priimti pareigą" saugoti Respublikos konstituciją, arba, kaip ją. buvo pripažinta teisė žiūrėti, kad nebūtų pakeistos kardinalinės teisės, arba, kaip tada buvo sakoma, jai buvo pripažinta ga- rantija. kardinalinės teisės: buvo patvirtintos 1768 m. vad. kardi- nalinės teisės, kurių garantu vėl tapo Rusija ir jos są- jungininkės. Jose buvo pakeistas tik vienas kitatikius (disi- dentus) lietęs punktas: jų teisės buvo suvaržytos, ir į seimą galėjo pakliūti tik 3 disidentų.
 
-## Teiginiai
-
-<a id="claim-t-67299"></a>
-- t-001
-  teiginys: "1768 m. kardinalinės teisės buvo patvirtintos, o jų garantu vėl tapo Rusija ir jos sąjungininkės."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-67260
-
-<a id="claim-t-67301"></a>
-- t-002
-  teiginys: "Kardinalinės teisės paliko liberum veto, karalių elekciją ir bajorijos teisę neklausyti karaliaus, jei nevykdomi pacta conventa punktai."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-67261
-
 ## Citatos
 
 - id: c-67260
@@ -71,7 +49,7 @@ kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-67261
@@ -95,5 +73,28 @@ kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-67299"></a>
+- t-001
+  teiginys: "1768 m. kardinalinės teisės buvo patvirtintos, o jų garantu vėl tapo Rusija ir jos sąjungininkės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-67260
+
+<a id="claim-t-67301"></a>
+- t-002
+  teiginys: "Kardinalinės teisės paliko liberum veto, karalių elekciją ir bajorijos teisę neklausyti karaliaus, jei nevykdomi pacta conventa punktai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-67261
+

@@ -35,12 +35,25 @@ Totorius Tahiras Bohdanovičius iš Trakų rakto gavo lapės kailio šūbą.
 
 Totorius Tahiras Bohdanovičius iš Trakų rakto gavo lapės kailio šūbą.
 
+## Citatos
+
+- id: c-185686
+  autorius: "Marija Matušakaitė"
+  šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.)"
+  puslapiai: "p. 59 (PDF 2)"
+  indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.), p. 59 (PDF 2)."
+  citatos_rezimas: "indeksas"
+  statusas: verified
+  atnaujinta: "2026-07-26 19:20"
+  pagrindžia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-202339"></a>
 - t-001
   teiginys: "Totorius Tahiras Bohdanovičius iš Trakų rakto gavo lapės kailio šūbą."
-  atnaujinta: "2026-07-26 19:27"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -57,15 +70,3 @@ Totorius Tahiras Bohdanovičius iš Trakų rakto gavo lapės kailio šūbą.
   pagrindžia:
     - c-185686
 
-## Citatos
-
-- id: c-185686
-  autorius: "Marija Matušakaitė"
-  šaltinis: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.)"
-  puslapiai: "p. 59 (PDF 2)"
-  indeksas: "Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.), p. 59 (PDF 2)."
-  citatos_rezimas: "indeksas"
-  statusas: verified
-  atnaujinta: "2026-07-26 19:20"
-  pagrindzia:
-    - t-001

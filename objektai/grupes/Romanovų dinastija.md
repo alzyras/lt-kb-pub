@@ -40,10 +40,23 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
 
 ## Teiginiai
 
+<a id="claim-t-208440"></a>
+- t-208440
+  teiginys: "Ataskaitiniais metais apskrities komitetas daug rūpesčių ir darbo skyrė Romanovų dinastijos viešpatavimo trijų šimtų metų jubiliejaus šventei."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:26Z"
+  pagrindžia:
+    - c-191060
+
 <a id="claim-t-66060"></a>
-- t-001
+- t-66060
   teiginys: "Romanovų dinastijos pradžia 1613 m. Abiejų Tautų Respublikoje neturėjo reikšmingesnių atliepimų."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -60,9 +73,9 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
     - c-31250
 
 <a id="claim-t-66061"></a>
-- t-002
+- t-66061
   teiginys: "Romanovų vyriškoji linija išmirė jau XVIII amžiuje, bet carai Romanovais vadinosi iki pat galo."
-  atnaujinta: "2026-06-13 18:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Mykolas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -78,9 +91,9 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
     - c-66378
 
 <a id="claim-t-66062"></a>
-- t-003
+- t-66062
   teiginys: "Romanovų, Hohenzollernų ir Habsburgų dinastijų nuvertimas nuo sostų sudarė sąlygas buvusiems unijos partneriams siekti tautinių idealų."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Habsburgai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -121,8 +134,8 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-66060
 
 - id: c-31251
   autorius: "Zenonas Ivinskis"
@@ -145,8 +158,8 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-66062
 
 - id: c-66378
   redaktorius: "A. Šapoka"
@@ -169,5 +182,31 @@ Caru buvo išrinktas metropolito Filareto, Teodoro Romanovo, sūnus Mykolas (161
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-66061
+
+- id: c-191060
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 114"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 114."
+  citata_originali: |
+    Todėl būtina įvertinti įvykius revoliucijos apimtame krašte ir
+    blaivybės reikalus. Kita vertus, tik vėlesnių metų Liaudies blaivybės
+    globos komitetų veiksmai iki galo atskleidžia rusų valdžios tikslus
+    Lietuvoje. Paskaitykime vieną išraiškingą Kauno apskrities komiteto
+    ataskaitą (1913 m.): "Greta savo tiesioginių pareigų, numatytų liaudies
+    blaivybės globoje nuostatuose, apskrities komitetas ataskaitiniais metais
+    daug rūpesčių ir darbo skyrė Romanovų dinastijos viešpatavimo trijų
+    šimtų metų jubiliejaus šventei.
+  citata_rodoma: "Greta savo tiesioginių pareigų, numatytų liaudies \nblaivybės globoje nuostatuose, apskrities komitetas ataskaitiniais metais \ndaug rūpesčių ir darbo skyrė Romanovų dinastijos viešpatavimo trijų \nšimtų metų jubiliejaus šventei."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208440
+

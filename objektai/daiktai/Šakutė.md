@@ -79,9 +79,9 @@ Nenurodyta
     - c-16412
 
 <a id="claim-t-13465"></a>
-- t-002
+- t-13465
   teiginys: "Šakutė tuo metu buvo nežinoma Lietuvoje ir Skandinavijos šalyse."
-  atnaujinta: "2026-05-31 10:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -112,10 +112,12 @@ Nenurodyta
     liškų pasivaikščiojimų“ – pokylių šokių – iki... šakutės, tuo metu nežino-
     tos ne tik Lietuvoje, bet ir Skandinavijos šalyse.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
-    - t-002
+    - t-13465
+

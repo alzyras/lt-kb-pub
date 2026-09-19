@@ -42,21 +42,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-196798"></a>
-- t-001
-  teiginys: "Maskvėnams užėmus Briansko miestą ir kraštą, brianskiečiai prisiekė tarnauti Maskvos didžiajam kunigaikščiui."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-178916
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Po sutarties su karaliumi Olbrachtu Moldavijos vaivada Steponas, Lietuvos metraščio vaizdavimu, nepaisė priesaikos ir amžinosios taikos sutarties ir telkė sąjungininkų kariuomenę.'
@@ -117,5 +102,50 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-193566
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 151"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 151."
+  citata_originali: |
+    O kai
+    tik maskvėnai išgirdo Briansko pilį sudegus, paskubėjo
+    miesto linkui ir viename kaime sučiupo poną Stanislovą
+    Bartoševičių ir su juo daugelį kitų brianskiečių. O po
+    to atėję užėmė Briansko miestą ir visą kraštą l0. Ir visi
+    brianskiečiai prisiekė tarnausią Maskvos didžiajam ku­
+    nigaikščiui.
+    Sužinoję, kad maskvėnai paėmė Brianską, Možaisko
+    kunigaikštis Semionas Ivanovičius bei kunigaikštis Va­
+    silijus Ivanovičius Semiačičius atvyko prie Kontovto"
+    upės pas Maskvos didžiojo kunigaikščio vaivadą Jako­
+    vą Zacharičių ir prisiekė tarnausią Maskvos didžiajam
+    kunigaikščiui su visais miestais — su Černigovu, su
+    Starodubu, su Gomeliu, su Naugardu-Seversku, su Ryls-
+    ku ir su visais valsčiais, kuriuos valdė, būdami Lietuvos
+    Didžiosios Kunigaikštystės valdiniais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-211940"></a>
+- t-001
+  teiginys: "Maskvėnams užėmus Briansko miestą ir kraštą, brianskiečiai prisiekė tarnauti Maskvos didžiajam kunigaikščiui."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-193566
+

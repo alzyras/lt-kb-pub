@@ -27,25 +27,6 @@ media_all_json: |-
 
 LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF programos punktas atšaukė teisę žydams gyventi Lietuvoje).
 
-## Teiginiai
-
-<a id="claim-t-21115"></a>
-- t-001
-  teiginys: "Kazys Škirpa manė, kad Lietuvių aktyvistų frontas turi palaikyti ypač glaudžius ryšius su nacių Vokietija."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Nacių Vokietija: 0.83"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvių aktyvistų frontas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Nacių Vokietija: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad LAF turėjo palaikyti glaudžius ryšius su nacių Vokietija; tai atitinka sąjungininkišką politinį ryšį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Lietuvių aktyvistų frontas buvo sąjungininkas su Nacių Vokietija (0.83)"
-  pagrindžia:
-    - c-23826
-
 ## Citatos
 
 - id: c-23826
@@ -70,5 +51,25 @@ LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-21115"></a>
+- t-001
+  teiginys: "Kazys Škirpa manė, kad Lietuvių aktyvistų frontas turi palaikyti ypač glaudžius ryšius su nacių Vokietija."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Nacių Vokietija: 0.83"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvių aktyvistų frontas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Nacių Vokietija: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad LAF turėjo palaikyti glaudžius ryšius su nacių Vokietija; tai atitinka sąjungininkišką politinį ryšį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Lietuvių aktyvistų frontas buvo sąjungininkas su Nacių Vokietija (0.83)"
+  pagrindžia:
+    - c-23826
+

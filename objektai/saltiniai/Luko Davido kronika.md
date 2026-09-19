@@ -26,34 +26,6 @@ media_all_json: |-
 
 Narbutas rašo, kad viena sena kronika vietovę vadina Lentzinburg, o Lukas Davidas savo kronikos IV tome ją pateikia kaip Lenzenburg.
 
-## Teiginiai
-
-<a id="claim-t-205342"></a>
-- t-001
-  teiginys: "Jau kalbėdami apie lietuvių mitologiją, nu rodėme kai kuriuos senovinius įstatymus ir papročius, čia pridursime dar labiau išsiplėsdami, paėmę žinių iš Luko Davido kronikos; šias žinias jis buvo surinkęs naudoda masis ¡seniausiais šaltiniais ir padavimais (kn."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
-  pagrindžia:
-    - c-187792
-
-<a id="claim-t-205643"></a>
-- t-002
-  teiginys: "Aktai nuo II iki V numerio perrašyti iš Luko Davido kronikos pagal Hėnigo išleistus originalus."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
-  pagrindžia:
-    - c-188258
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad viena sena kronika vietovę vadina Lentzinburg, o Lukas Davidas savo kronikos IV tome ją pateikia kaip Lenzenburg.'
@@ -94,7 +66,7 @@ Narbutas rašo, kad viena sena kronika vietovę vadina Lentzinburg, o Lukas Davi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188258
@@ -114,5 +86,34 @@ Narbutas rašo, kad viena sena kronika vietovę vadina Lentzinburg, o Lukas Davi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-205342"></a>
+- t-001
+  teiginys: "Jau kalbėdami apie lietuvių mitologiją, nu rodėme kai kuriuos senovinius įstatymus ir papročius, čia pridursime dar labiau išsiplėsdami, paėmę žinių iš Luko Davido kronikos; šias žinias jis buvo surinkęs naudoda masis ¡seniausiais šaltiniais ir padavimais (kn."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-187792
+
+<a id="claim-t-205643"></a>
+- t-002
+  teiginys: "Aktai nuo II iki V numerio perrašyti iš Luko Davido kronikos pagal Hėnigo išleistus originalus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188258
+

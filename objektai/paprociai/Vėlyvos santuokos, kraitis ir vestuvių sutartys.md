@@ -56,24 +56,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-67234"></a>
-- t-001
-  teiginys: "Mergaitės iki ištekėjimo dirbo ir krovė kraitį, o nuotakos ieškojo ne turtingų, bet narsių vyrų."
-  atnaujinta: "2026-05-31 10:29"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Duona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vėlyvos santuokos, kraitis ir vestuvių sutartys: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Duona: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėlyvos santuokos, kraitis ir vestuvių sutartys\" parinktas kaip owner_note_path. Targetas \"Duona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-10048
-
 ## Citatos
 
 - id: c-10048
@@ -96,5 +78,46 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-192691
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 101"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 101."
+  citata_originali: |
+    Nesgi mergaitės, nubengusios sunkiuosius darbus pas savo tėvus, tuojau verpė ir audė sau ant
+        tėvų duonos ir drabužio lig ištekančios, kas vadinos pas juos kraitį kloti; nuo to paties regima yra,
+        jog juo sumitusi buvo merga, juo didesnį kraitį suklotą turėjo, turtingesne buvo ir veikiau gavo
+        vyrą, kursai, ją vesdamas, ne vien didį turtą sau rado, bet ir mergą it kūgį gavo, prie kurios galėjo
+        pats pasišildyti, o jos kraičiu plikį iš savo būtos išvaryti, nesgi ir nuotakos pačios neieškojo sau
+        turtingų vyrų ir negeidė jų turtuose tižti ir lepintis, kaip šiandien kad daro, nes narsių žaliūkų
+        lietos ar ūkės vyrų veizėjo, kaipogi pačios ne vien šeimyną vienos būtos, bet trijų, keturių butų
+        savo kraičiu galėjo apdaryti. Pinigų nežinojo, ir jų niekam nereikėjo, nesgi mokesnių niekam
+        nemokėjo, duoklių nedavė ir rinkliavų nežinojo, kaipogi visi liuosi sau gyvendami dirbo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 16:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-210133"></a>
+- t-001
+  teiginys: "Mergaitės iki ištekėjimo dirbo ir krovė kraitį, o nuotakos ieškojo ne turtingų, bet narsių vyrų."
+  atnaujinta: "2026-09-12 16:28"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Duona: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vėlyvos santuokos, kraitis ir vestuvių sutartys: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Duona: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėlyvos santuokos, kraitis ir vestuvių sutartys\" parinktas kaip owner_note_path. Targetas \"Duona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-192691
+

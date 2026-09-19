@@ -43,28 +43,17 @@ Retro ir Prilvico stabų tyrimai buvo aprašyti Suroveckio studijoje, išspausdi
 
 ## Teiginiai
 
-<a id="claim-t-190456"></a>
-- t-001
-  teiginys: "Retro ir Prilvico stabų tyrimai buvo aprašyti Suroveckio studijoje, išspausdintoje 1812 m. Varšuvoje."
-  atnaujinta: "2026-07-12 22:33"
+<a id="claim-t-215309"></a>
+- t-215309
+  teiginys: "Vėliau, VI amžiaus pradžioje, plačiai išplitę dešiniojoje Vyslos pakrantėje slavai, užėmę budinu kraštus (tai tei gia ponas Suroveckis1), galėjo visiškai išstumti ir ga lindus iš Nemuno vidurupio net už Narevo, o po to nuvyti juos į čia mūsų aptariamos."
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Varšuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Suroveckis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Varšuva: mention_match, place, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Suroveckis\" parinktas kaip owner_note_path. Targetas \"Varšuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1812 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Bibliografinis fragmentas perrašytas į pilną sakinį apie Suroveckio studiją. Palikti tik citatoje esantys tyrimo objektai, vieta ir metai."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-173339
+    - c-195634
 
 ## Citatos
 
@@ -85,5 +74,24 @@ Retro ir Prilvico stabų tyrimai buvo aprašyti Suroveckio studijoje, išspausdi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-195634
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 266"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 266."
+  citata_originali: |
+    Vėliau, VI amžiaus pradžioje, plačiai išplitę dešiniojoje
+    Vyslos pakrantėje slavai, užėmę budinu kraštus (tai tei­
+    gia ponas Suroveckis1), galėjo visiškai išstumti ir ga­
+    lindus iš Nemuno vidurupio net už Narevo, o po to nuvyti
+    juos į čia mūsų aptariamos provincijos teritoriją.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215309
+

@@ -33,21 +33,6 @@ canonical_biography: "Narbuto aptariamoje vietoje pas pranašą Ezechielį žodi
 
 Narbuto aptariamoje vietoje pas pranašą Ezechielį žodis Ross ar Russ mokslininkų aiškintas kaip tautovardis, asmenvardis arba perkeltinė sąvoka.
 
-## Teiginiai
-
-<a id="claim-t-191394"></a>
-- t-001
-  teiginys: "Narbuto aptariamoje vietoje pas pranašą Ezechielį žodis Ross ar Russ mokslininkų aiškintas kaip tautovardis, asmenvardis arba perkeltinė sąvoka."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  pagrindžia:
-    - c-174276
-
 ## Citatos
 
 - id: c-174276
@@ -73,5 +58,47 @@ Narbuto aptariamoje vietoje pas pranašą Ezechielį žodis Ross ar Russ mokslin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-196134
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 215"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 215."
+  citata_originali: |
+    Manydami, kad mūsų skaity­
+    tojai prisimena anksčiau šia tema sakytus dalykus (§55),
+    ir norėdami geriau suprasti visą dalyką, turime papildomai
+    aiškinti.
+    221
+    Šventajame Rašte, pas pranašą Ezechielį, mokslininkai
+    aptinka žodį Ross ar Russ, kurį vieni laiko tam tikros
+    tautos pavadinimu, kiti — asmenvardžiu, o dar kiti, kurių
+    pusėje yra ir Karamzinas, supranta jį perkeltine Gtowa,
+    Olomnošč, galvos, svarbiausio dalyko, prasme. Rytų ra­
+    šytojai, remdamiesi Korano aiškinimais, linkę pritarti pir­
+    mam požiūriui.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-214633"></a>
+- t-001
+  teiginys: "Narbuto aptariamoje vietoje pas pranašą Ezechielį žodis Ross ar Russ mokslininkų aiškintas kaip tautovardis, asmenvardis arba perkeltinė sąvoka."
+  atnaujinta: "2026-09-13 18:13"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
+  pagrindžia:
+    - c-196134
+

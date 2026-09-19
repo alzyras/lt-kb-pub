@@ -27,41 +27,6 @@ media_all_json: |-
 
 Narbutas Saulę aprašo kaip moteriškos giminės dienos šviesos deivę, viso gėrio ir gyvybės teikėją. Narbutas Saulės rūmus vaizduoja rytuose, šventoje ir palaimintoje lietuvių protėvių tėvynėje, vadintoje Aušinimą zemme. Narbutas Saulės aptemimą aiškina kaip drakonų ir kerėtojų puolimą prieš dieną skriejančią Saulę.
 
-## Teiginiai
-
-<a id="claim-t-189177"></a>
-- t-001
-  teiginys: "Narbutas Saulės rūmus vaizduoja rytuose, šventoje ir palaimintoje lietuvių protėvių tėvynėje, vadintoje Aušinimą zemme."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172065
-
-<a id="claim-t-189178"></a>
-- t-002
-  teiginys: "Narbutas Saulės aptemimą aiškina kaip drakonų ir kerėtojų puolimą prieš dieną skriejančią Saulę."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Graikai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Saulė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Graikai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Saulė\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172066
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Saulę aprašo kaip moteriškos giminės dienos šviesos deivę, viso gėrio ir gyvybės teikėją.'
@@ -104,8 +69,6 @@ Narbutas Saulę aprašo kaip moteriškos giminės dienos šviesos deivę, viso g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-172066
   autorius: "Teodoras Narbutas"
@@ -128,5 +91,43 @@ Narbutas Saulę aprašo kaip moteriškos giminės dienos šviesos deivę, viso g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-200959
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 185"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 185."
+  citata_originali: |
+    Saulės rūmai buvo rytuose, kur buvo šventa ir palaiminta
+    šalis, lietuvių protėvių tėvynė - rytų šalis (Aušinimą zemme).
+    Iš šių rūmų tekanti Saulė išvažiuodavo nuostabiu vežimu, ku­
+    ris švietė skaisčiau už devynias galybes liepsnojančių deglų.
+    Vežimą traukė trejetas arklių - sidabrinis, auksinis ir deiman­
+    tinis. Didingai riedėdama savo keliu, apžvelgusi visą pasaulį,
+    kuris, lietuvių supratimu, buvęs ne apvalus, o plokščias ir ova­
+    lus, kaip lėkštė, priartėdavo prie jūros, nugrimzdavo joje nusi­
+    maudyti ir vykdavo į savo rūmus nakties poilsio.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-215961"></a>
+- t-001
+  teiginys: "Narbutas Saulės rūmus vaizduoja rytuose, šventoje ir palaimintoje lietuvių protėvių tėvynėje, vadintoje Aušinimą zemme."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-200959
+

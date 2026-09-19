@@ -50,40 +50,6 @@ Kimerija buvo žemės šnypis arba pusiasalis prie Uksinės marės. Kimerija vė
 
 Kimerija minima kaip Uksinės marės įsikišęs žemės šnypis, kur gyveno ankstyvieji gyventojai ir į kurį vėliau įsigrūdo kitos tautos.
 
-## Teiginiai
-
-<a id="claim-t-07968"></a>
-- t-001
-  teiginys: "Kimerija buvo žemės šnypis arba pusiasalis prie Uksinės marės."
-  atnaujinta: "2026-05-20 21:56"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Juodoji jūra: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kimerija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Juodoji jūra: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kimerija\" parinktas kaip owner_note_path. Targetas \"Juodoji jūra\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-10413
-
-<a id="claim-t-07969"></a>
-- t-002
-  teiginys: "Kimerijoje grekonys įsikūrė kai kuriose vietose ir pasistatė Chersoneso, Teodosijos bei Albijos pilis."
-  atnaujinta: "2026-06-13 17:10"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  ryšio_patikimumas: "susije_su -> Teodosija (Kafa): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kimerija: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Teodosija (Kafa): mention_match, place, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kimerija\" parinktas kaip owner_note_path. Targetas \"Teodosija (Kafa)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-10412
-
 ## Citatos
 
 - id: c-10412
@@ -101,8 +67,6 @@ Kimerija minima kaip Uksinės marės įsikišęs žemės šnypis, kur gyveno ank
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-10413
   autorius: "Simonas Daukantas"
@@ -119,5 +83,34 @@ Kimerija minima kaip Uksinės marės įsikišęs žemės šnypis, kur gyveno ank
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+## Teiginiai
+
+<a id="claim-t-209970"></a>
+- t-001
+  teiginys: "Kimerijoje grekonys įsikūrė kai kuriose vietose ir pasistatė Chersoneso, Teodosijos bei Albijos pilis."
+  atnaujinta: "2026-09-12 16:28"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  ryšio_patikimumas: "susije_su -> Teodosija (Kafa): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kimerija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Teodosija (Kafa): mention_match, place, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kimerija\" parinktas kaip owner_note_path. Targetas \"Teodosija (Kafa)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+
+<a id="claim-t-210314"></a>
+- t-002
+  teiginys: "Kimerija buvo žemės šnypis arba pusiasalis prie Uksinės marės."
+  atnaujinta: "2026-09-12 16:28"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  ryšio_patikimumas: "susije_su -> Juodoji jūra: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kimerija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Juodoji jūra: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kimerija\" parinktas kaip owner_note_path. Targetas \"Juodoji jūra\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+

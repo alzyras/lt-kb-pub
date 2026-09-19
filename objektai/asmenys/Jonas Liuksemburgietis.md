@@ -43,27 +43,6 @@ canonical_biography: "Iš kitų puolimų yra išskirtinas 1329 pradžioje pirmas
 
 Iš kitų puolimų yra išskirtinas 1329 pradžioje pirmasis Čekijos karaliaus Jono Liuksemburgiečio žygis į pietvakarių Žemaičius. Šis žygis, kuriame buvo daug svečių iš visur, net iš Anglijos, paminėtas ne tik ordino kronikose, bet ir žygyje dalyvavusio prancūzų.
 
-## Teiginiai
-
-<a id="claim-t-30310"></a>
-- t-001
-  teiginys: "1329 m. pradžioje Čekijos karalius Jonas Liuksemburgietis surengė pirmąjį žygį į pietvakarių Žemaičius."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Čekija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jonas Liuksemburgietis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Čekija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Jonas Liuksemburgietis tiesiogiai įvardytas Čekijos karaliumi."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Jonas Liuksemburgietis buvo valdovas Čekija (0.90)"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1329 m.; valdymo laikotarpis: 1357 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jonas Liuksemburgietis buvo valdovas Čekija“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-32759
-
 ## Citatos
 
 - id: c-32759
@@ -87,8 +66,30 @@ Iš kitų puolimų yra išskirtinas 1329 pradžioje pirmasis Čekijos karaliaus 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Jonas Liuksemburgietis buvo valdovas [[objektai/vietos/Čekija]]
+
+## Teiginiai
+
+<a id="claim-t-30310"></a>
+- t-001
+  teiginys: "1329 m. pradžioje Čekijos karalius Jonas Liuksemburgietis surengė pirmąjį žygį į pietvakarių Žemaičius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_valdovas -> Čekija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jonas Liuksemburgietis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Čekija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Jonas Liuksemburgietis tiesiogiai įvardytas Čekijos karaliumi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Jonas Liuksemburgietis buvo valdovas Čekija (0.90)"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1329 m.; valdymo laikotarpis: 1357 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jonas Liuksemburgietis buvo valdovas Čekija“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-32759
+

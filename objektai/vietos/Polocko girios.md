@@ -36,20 +36,6 @@ historical_names: []
 
 Nemę Polocko girias su keliais tūks tančiais Livonijos karių, užVytautui tol kariauti, kol neatsiims žemės ir nesutriuš kins Švitrigailos.
 
-## Teiginiai
-
-<a id="claim-t-193453"></a>
-- t-001
-  teiginys: "Nemę Polocko girias su keliais tūks tančiais Livonijos karių, užVytautui tol kariauti, kol neatsiims žemės ir nesutriuš kins Švitrigailos."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-176164
-
 ## Citatos
 
 - id: c-176164
@@ -87,5 +73,4 @@ Nemę Polocko girias su keliais tūks tančiais Livonijos karių, užVytautui to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

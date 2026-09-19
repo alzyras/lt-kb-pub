@@ -43,28 +43,6 @@ canonical_biography: "Čia 1448 metais su Prūsijos ordinu su­ daryta37 garsi s
 
 Čia 1448 metais su Prūsijos ordinu su­ daryta37 garsi sutartis, o po dvidešimties metų (1468 me­ tais) pats didžiojo magistro pavaduotojas Henrikas Plauenas toje Lietuvos sostinėje, kurios sienas jo pirmtakai kadaise įžūliai griovė, žemai lenkėsi prieš.
 
-## Teiginiai
-
-<a id="claim-t-87689"></a>
-- t-001
-  teiginys: "Henrikas Plauenas 1468 m. Vilniuje lenkėsi prieš Kazimiero Jogailaičio sostą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.65"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Henrikas Plauenas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Henrikas Plauenas aprašomas veikiantis Vilniuje, todėl remiamas atvykimo ar buvimo vietos santykis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Henrikas Plauenas keliavo į Vilnius (0.65)"
-  temporaliniai_duomenys: "įvykio data: 1468 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Henriką Plaueną ir atitinka citatos turinį."
-  pagrindžia:
-    - c-83668
-
 ## Citatos
 
 - id: c-83668
@@ -92,5 +70,28 @@ canonical_biography: "Čia 1448 metais su Prūsijos ordinu su­ daryta37 garsi s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-87689"></a>
+- t-001
+  teiginys: "Henrikas Plauenas 1468 m. Vilniuje lenkėsi prieš Kazimiero Jogailaičio sostą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.65"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Henrikas Plauenas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Henrikas Plauenas aprašomas veikiantis Vilniuje, todėl remiamas atvykimo ar buvimo vietos santykis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Henrikas Plauenas keliavo į Vilnius (0.65)"
+  temporaliniai_duomenys: "įvykio data: 1468 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Henriką Plaueną ir atitinka citatos turinį."
+  pagrindžia:
+    - c-83668
+

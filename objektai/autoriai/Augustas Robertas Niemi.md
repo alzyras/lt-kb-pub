@@ -67,16 +67,6 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
 
 ## Teiginiai
 
-<a id="claim-t-195247"></a>
-- t-001
-  teiginys: "Prof. Niemi parašė apie 70 folkloro veikalų ir trumpesnių studijų, o jo moksliškas darbas prasidėjo 1895 m."
-  atnaujinta: "2026-07-12 00:24"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177613
-
 <a id="claim-t-195248"></a>
 - t-002
   teiginys: "1898 m. Augustas Robertas Niemi parašė „Kalevalos I sudėtį. Rinkinį runų apie Vainamoiną“, nurodytą kaip licenciato disertaciją."
@@ -87,10 +77,20 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
   pagrindžia:
     - c-177618
 
+<a id="claim-t-195247"></a>
+- t-195247
+  teiginys: "Prof. Niemi parašė apie 70 folkloro veikalų ir trumpesnių studijų, o jo moksliškas darbas prasidėjo 1895 m."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177613
+
 <a id="claim-t-195249"></a>
-- t-003
+- t-195249
   teiginys: "1911 m. Augustas Robertas Niemi paskelbė darbą „Latviškos ir lietuviškos žymės suomių liaudies poezijoje“."
-  atnaujinta: "2026-07-12 00:24"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
@@ -98,9 +98,9 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
     - c-177615
 
 <a id="claim-t-195250"></a>
-- t-004
+- t-195250
   teiginys: "1913 m. Augusto Roberto Niemio „Lietuvių liaudies dainų tyrinėjimai“ buvo spausdinami kun. A. Sabaliausko vertime Tautosakos komisijoje."
-  atnaujinta: "2026-07-12 00:24"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
@@ -108,9 +108,9 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
     - c-177614
 
 <a id="claim-t-195251"></a>
-- t-005
+- t-195251
   teiginys: "Augustas Robertas Niemi buvo suomis, gimęs 1869 m. liepos 25 d. vakarų Suomijoje, prie Turku ir Naantalio."
-  atnaujinta: "2026-07-12 00:24"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
@@ -118,9 +118,9 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
     - c-177616
 
 <a id="claim-t-195252"></a>
-- t-006
+- t-195252
   teiginys: "1912 m. Augustas Robertas Niemi paskelbė „Lietuvių dainas ir giesmes šiaurės rytų Lietuvoje“ kaip dainų rinkinį drauge su kun. A. Sabaliausko rinkiniu."
-  atnaujinta: "2026-07-12 00:24"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
@@ -150,8 +150,8 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-195247
 
 - id: c-177614
   autorius: "A. Sabaliauskas"
@@ -168,8 +168,8 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-195250
 
 - id: c-177615
   autorius: "A. Sabaliauskas"
@@ -186,8 +186,8 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-195249
 
 - id: c-177616
   autorius: "A. Sabaliauskas"
@@ -209,8 +209,8 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-195251
 
 - id: c-177617
   autorius: "A. Sabaliauskas"
@@ -227,8 +227,8 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-195252
 
 - id: c-177618
   autorius: "A. Sabaliauskas"
@@ -243,9 +243,11 @@ Augustas Robertas Niemi šiame straipsnyje pristatomas kaip suomių folkloristas
     cenciato disertacija.
   citata_rodoma: "1898. Kalevalos I sudėtis. \nRinkinys runų apie Vainamoiną. Li­\ncenciato disertacija."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 00:24"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+

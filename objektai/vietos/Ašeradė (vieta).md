@@ -42,46 +42,6 @@ Savo noru priėmus krikštą visose provincijose, sudariu siose tuometinę Livon
 
 Savo noru priėmus krikštą visose provincijose, sudariu siose tuometinę Livoniją, — Turaidoje, Kubeselėje, Metsepolėje, Holme, Lielvardėje, Remine, Ašeradėje, Vendene, Idūmėjoje ir Ropoję, šalyje jau buvo įsigalėjusi ramybė.
 
-## Teiginiai
-
-<a id="claim-t-205461"></a>
-- t-001
-  teiginys: "Savo noru priėmus krikštą visose provincijose, sudariu siose tuometinę Livoniją, — Turaidoje, Kubeselėje, Metsepolėje, Holme, Lielvardėje, Remine, Ašeradėje, Vendene, Idūmėjoje ir Ropoję, šalyje jau buvo įsigalėjusi ramybė."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
-  pagrindžia:
-    - c-188020
-
-<a id="claim-t-205751"></a>
-- t-002
-  teiginys: "Prie Ašeradės kryžiuočiai subūrė savo pajėgas ir išžygiavo."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
-  pagrindžia:
-    - c-188366
-
-<a id="claim-t-205752"></a>
-- t-003
-  teiginys: "Ašeradės pilyje buvo nužudytas lietuvių karaliaus pasiuntinys Sedgaila."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-188367
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Savo noru priėmus krikštą visose provincijose, sudariu siose tuometinę Livoniją, — Turaidoje, Kubeselėje, Metsepolėje, Holme, Lielvardėje, Remine, Ašeradėje, Vendene, Idūmėjoje ir Ropoję, šalyje jau buvo įsigalėjusi ramybė.'
@@ -114,7 +74,7 @@ Savo noru priėmus krikštą visose provincijose, sudariu siose tuometinę Livon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188366
@@ -133,7 +93,7 @@ Savo noru priėmus krikštą visose provincijose, sudariu siose tuometinę Livon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188367
@@ -161,5 +121,46 @@ Savo noru priėmus krikštą visose provincijose, sudariu siose tuometinę Livon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+## Teiginiai
+
+<a id="claim-t-205461"></a>
+- t-001
+  teiginys: "Savo noru priėmus krikštą visose provincijose, sudariu siose tuometinę Livoniją, — Turaidoje, Kubeselėje, Metsepolėje, Holme, Lielvardėje, Remine, Ašeradėje, Vendene, Idūmėjoje ir Ropoję, šalyje jau buvo įsigalėjusi ramybė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-188020
+
+<a id="claim-t-205751"></a>
+- t-002
+  teiginys: "Prie Ašeradės kryžiuočiai subūrė savo pajėgas ir išžygiavo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188366
+
+<a id="claim-t-205752"></a>
+- t-003
+  teiginys: "Ašeradės pilyje buvo nužudytas lietuvių karaliaus pasiuntinys Sedgaila."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188367
+

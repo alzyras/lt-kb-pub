@@ -39,21 +39,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206919"></a>
-- t-001
-  teiginys: "Teodoras Narbutas aprašo, kad aukso ir sidabro garbės dovanų vertais pripažinti Henrikas Pruchdorfas iš Holšteino, Bertoldas Puchenau iš Heseno ir ginklanešys Zigfridas Forsteris."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-189534
-
 ## Santrauka
 
 Teodoras Narbutas aprašo, kad aukso ir sidabro garbės dovanų vertais pripažinti Henrikas Pruchdorfas iš Holšteino, Bertoldas Puchenau iš Heseno ir ginklanešys Zigfridas Forsteris.
@@ -76,5 +61,21 @@ Teodoras Narbutas aprašo, kad aukso ir sidabro garbės dovanų vertais pripaži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206919"></a>
+- t-001
+  teiginys: "Teodoras Narbutas aprašo, kad aukso ir sidabro garbės dovanų vertais pripažinti Henrikas Pruchdorfas iš Holšteino, Bertoldas Puchenau iš Heseno ir ginklanešys Zigfridas Forsteris."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-189534
+

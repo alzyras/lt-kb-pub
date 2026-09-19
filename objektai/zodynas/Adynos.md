@@ -37,26 +37,6 @@ Vartojamos formos: `adynas`, `sambrėškis`, `brėkšta`, `santėmis`, `sutemo`,
 
 - Dalis pavadinimų turi sinonimines poras, bet pats paros skirstymo modelis aiškus.
 
-## Teiginiai
-
-<a id="claim-t-07721"></a>
-- t-001
-  teiginys: "Adynos šiame tekste reiškia 24 dienos ir nakties valandas."
-  atnaujinta: "2026-06-13 17:10"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-09645
-
-<a id="claim-t-07722"></a>
-- t-002
-  teiginys: "Adynos turėjo konkrečius vardus, tarp jų sambrėškį, vakarą, naktovidą, pietus ir saulėlydį."
-  atnaujinta: "2026-06-13 17:10"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-09645
-
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Brėkšta (Brekszta) Tamsumų deivė.'
@@ -92,6 +72,20 @@ Vartojamos formos: `adynas`, `sambrėškis`, `brėkšta`, `santėmis`, `sutemo`,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
+
+## Teiginiai
+
+<a id="claim-t-210316"></a>
+- t-001
+  teiginys: "Adynos šiame tekste reiškia 24 dienos ir nakties valandas."
+  atnaujinta: "2026-09-12 16:28"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+
+<a id="claim-t-210325"></a>
+- t-002
+  teiginys: "Adynos turėjo konkrečius vardus, tarp jų sambrėškį, vakarą, naktovidą, pietus ir saulėlydį."
+  atnaujinta: "2026-09-12 16:28"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+

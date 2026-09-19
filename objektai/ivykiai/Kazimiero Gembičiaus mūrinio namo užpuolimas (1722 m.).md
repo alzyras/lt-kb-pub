@@ -46,24 +46,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-203882"></a>
-- t-001
-  teiginys: "1722 m. jėzuitų bursos studentai ir Šv. Kazimiero bažnyčios giedotojai užpuolė Kazimiero Gembičiaus mūrinį namą, tačiau Elžbieta Pranckevičienė subūrė žmones ir išvaikė užpuolikus."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  temporaliniai_duomenys: "įvykio data: 1722 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Neutralizuotas vertinamasis žodis „gauja“, o sakinys papildytas citatoje nurodyta užpuolimo baigtimi. Nepateikta kitų, citatoje nesančių aplinkybių."
-  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
-  pagrindžia:
-    - c-186486
-
 ## Santrauka
 
 1722 m. jėzuitų bursos studentai ir Šv. Kazimiero bažnyčios giedotojai užpuolė Kazimiero Gembičiaus mūrinį namą, tačiau Elžbieta Pranckevičienė subūrė žmones ir išvaikė užpuolikus.
@@ -85,5 +67,24 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203882"></a>
+- t-001
+  teiginys: "1722 m. jėzuitų bursos studentai ir Šv. Kazimiero bažnyčios giedotojai užpuolė Kazimiero Gembičiaus mūrinį namą, tačiau Elžbieta Pranckevičienė subūrė žmones ir išvaikė užpuolikus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1722 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Neutralizuotas vertinamasis žodis „gauja“, o sakinys papildytas citatoje nurodyta užpuolimo baigtimi. Nepateikta kitų, citatoje nesančių aplinkybių."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186486
+

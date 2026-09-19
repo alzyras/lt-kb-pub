@@ -30,20 +30,6 @@ media_all_json: |-
 
 Sausuma Kauną pasiekdavo pirkliai iš Palenkės ir net tolimos Mažosios Lenkijos miestų.
 
-## Teiginiai
-
-<a id="claim-t-201881"></a>
-- t-001
-  teiginys: "Sausuma Kauną pasiekdavo pirkliai iš Palenkės ir net tolimos Mažosios Lenkijos miestų."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185228
-
 ## Citatos
 
 - id: c-185228
@@ -59,5 +45,20 @@ Sausuma Kauną pasiekdavo pirkliai iš Palenkės ir net tolimos Mažosios Lenkij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201881"></a>
+- t-001
+  teiginys: "Sausuma Kauną pasiekdavo pirkliai iš Palenkės ir net tolimos Mažosios Lenkijos miestų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185228
+

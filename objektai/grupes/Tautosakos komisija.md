@@ -77,9 +77,11 @@ Tautosakos rinkimo ir dainų tvarkymo komisija.
     ir tvarkomos dainos.
   citata_rodoma: "Tautosakos Komisijos perrašytos (iki š. m. XII. 1) ir tvarkomos dainos."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 04:52"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

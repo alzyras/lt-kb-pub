@@ -43,26 +43,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-62766"></a>
-- t-001
-  teiginys: "Flandrijos gyventojai liepos mėnesį sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "dalyvavo_musyje -> Daugybės prancūzų ir flandrų žūtis: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Flandrai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Daugybės prancūzų ir flandrų žūtis: llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo flandrų dalyvavimą mūšyje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Flandrai dalyvavo mūšyje Daugybės prancūzų ir flandrų žūtis (0.72); Prancūzai dalyvavo mūšyje Daugybės prancūzų ir flandrų žūtis (0.70)"
-  pagrindžia:
-    - c-63556
-
 ## Citatos
 
 - id: c-63556
@@ -85,5 +65,22 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+## Teiginiai
+
+<a id="claim-t-225638"></a>
+- t-001
+  teiginys: "Flandrijos gyventojai liepos mėnesį sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų."
+  atnaujinta: "2026-09-13 18:13"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "dalyvavo_musyje -> Daugybės prancūzų ir flandrų žūtis: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Flandrai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Daugybės prancūzų ir flandrų žūtis: llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo flandrų dalyvavimą mūšyje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Flandrai dalyvavo mūšyje Daugybės prancūzų ir flandrų žūtis (0.72); Prancūzai dalyvavo mūšyje Daugybės prancūzų ir flandrų žūtis (0.70)"
+

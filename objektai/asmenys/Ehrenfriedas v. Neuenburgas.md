@@ -31,20 +31,6 @@ canonical_biography: "Tą matančiam mistrui kryžeivių rodės tarimas mistro k
 
 Tą matančiam mistrui kryžeivių rodės tarimas mistro kalavijonų, arba Kristaus karėjų, dar reika lingesnių nekaip pirma, kursai, norėdamas dar ži noti kraštą, kunigus, įsakymus, apsiėjimus ir būdą kalavijonų, nusiuntė du išmintingu vyru kryžeiviu Ehrenfriedą v.
 
-## Teiginiai
-
-<a id="claim-t-201418"></a>
-- t-001
-  teiginys: "Tą matančiam mistrui kryžeivių rodės tarimas mistro kalavijonų, arba Kristaus karėjų, dar reika lingesnių nekaip pirma, kursai, norėdamas dar ži noti kraštą, kunigus, įsakymus, apsiėjimus ir būdą kalavijonų, nusiuntė du išmintingu vyru kryžeiviu Ehrenfriedą v."
-  atnaujinta: "2026-07-16 14:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184768
-
 ## Citatos
 
 - id: c-184768
@@ -68,5 +54,20 @@ Tą matančiam mistrui kryžeivių rodės tarimas mistro kalavijonų, arba Krist
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201418"></a>
+- t-001
+  teiginys: "Tą matančiam mistrui kryžeivių rodės tarimas mistro kalavijonų, arba Kristaus karėjų, dar reika lingesnių nekaip pirma, kursai, norėdamas dar ži noti kraštą, kunigus, įsakymus, apsiėjimus ir būdą kalavijonų, nusiuntė du išmintingu vyru kryžeiviu Ehrenfriedą v."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184768
+

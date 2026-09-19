@@ -57,9 +57,9 @@ canonical_biography: "(^4) PRATARMĖ Šitame ryšyje verta paminėti, kad prof. 
     - c-78482
 
 <a id="claim-t-81966"></a>
-- t-002
+- t-81966
   teiginys: "Stasio Šalkauskio „Raštų“ I–VIII tomai buvo išleisti 1990–2005 m."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -75,9 +75,9 @@ canonical_biography: "(^4) PRATARMĖ Šitame ryšyje verta paminėti, kad prof. 
     - c-78482
 
 <a id="claim-t-81967"></a>
-- t-003
+- t-81967
   teiginys: "Stasys Šalkauskis lietuvių tautos pašaukimą aiškino lietuvių gyvenimu tarp slavų ir germanų pasaulių."
-  atnaujinta: "2026-05-31 12:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Germanai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -91,9 +91,9 @@ canonical_biography: "(^4) PRATARMĖ Šitame ryšyje verta paminėti, kad prof. 
     - c-78485
 
 <a id="claim-t-81968"></a>
-- t-004
+- t-81968
   teiginys: "Stasio Šalkauskio „Raštų“ I-VIII tomai buvo išleisti 1990-2005 m."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -149,14 +149,15 @@ canonical_biography: "(^4) PRATARMĖ Šitame ryšyje verta paminėti, kad prof. 
     Estetika - XX a.
   citata_rodoma: "41a, LT-08217 Vilnius.\nKaina sutartinė\n\n## Puslapis 495\n\nIšleista:\nJozefas Frankas \nAtsiminimai apie Vilnių, 2001\nŽygimantas Liauksminas \nRinktiniai raštai, 2004\nTeodoras Narbutas\nLietuvių tautos istorija, I-V tomai, 1995-2001\nStasys Šalkauskis \nRaštai, I-VIII tomai, 1990-2005\nVincas Vyčinas \nRaštai, I-II tomai, 2002-2007\nRengiama spaudai:\nSudarytojas Antanas Katalynas \nEstetika - XX a."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
-    - t-002
-    - t-004
+    - t-81966
+    - t-81968
 
 - id: c-78483
   autorius: "Michał Baliński"
@@ -207,6 +208,7 @@ canonical_biography: "(^4) PRATARMĖ Šitame ryšyje verta paminėti, kad prof. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-78485
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -226,5 +228,6 @@ canonical_biography: "(^4) PRATARMĖ Šitame ryšyje verta paminėti, kad prof. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-81967
+

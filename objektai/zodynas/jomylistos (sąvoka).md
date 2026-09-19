@@ -29,20 +29,6 @@ media_all_json: |-
 
 Vi sų pirma kaipo vėdliai jojo lenkai, jomylistos, pilių vyrai, urėdai, arba vojevodos, nuo aukso ir sidabro žibantys.
 
-## Teiginiai
-
-<a id="claim-t-201223"></a>
-- t-001
-  teiginys: "Vi sų pirma kaipo vėdliai jojo lenkai, jomylistos, pilių vyrai, urėdai, arba vojevodos, nuo aukso ir sidabro žibantys."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184573
-
 ## Citatos
 
 - id: c-184573
@@ -63,5 +49,20 @@ Vi sų pirma kaipo vėdliai jojo lenkai, jomylistos, pilių vyrai, urėdai, arba
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201223"></a>
+- t-001
+  teiginys: "Vi sų pirma kaipo vėdliai jojo lenkai, jomylistos, pilių vyrai, urėdai, arba vojevodos, nuo aukso ir sidabro žibantys."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184573
+

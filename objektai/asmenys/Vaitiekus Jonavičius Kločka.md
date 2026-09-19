@@ -41,20 +41,6 @@ canonical_biography: "Po jo iki 1498 m. Kauno seniūnu ar vietininku, kaip dažn
 
 Po jo iki 1498 m. Kauno seniūnu ar vietininku, kaip dažniau vadinamas, buvo valdovo maršalas Stankus Kostevičius, jį pakeitė minėtas Vaitiekus Jonavičius, Kauno vietininko pareigas ėjęs 1498-1514 m. Be šių pareigų, jis 1495-1512 m. dar buvo Lietuvos.
 
-## Teiginiai
-
-<a id="claim-t-202109"></a>
-- t-001
-  teiginys: "Po jo iki 1498 m. Kauno seniūnu ar vietininku, kaip dažniau vadinamas, buvo valdovo maršalas Stankus Kostevičius, jį pakeitė minėtas Vaitiekus Jonavičius, Kauno vietininko pareigas ėjęs 1498-1514 m. Be šių pareigų, jis 1495-1512 m. dar buvo Lietuvos."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185456
-
 ## Citatos
 
 - id: c-185456
@@ -72,5 +58,20 @@ Po jo iki 1498 m. Kauno seniūnu ar vietininku, kaip dažniau vadinamas, buvo va
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202109"></a>
+- t-001
+  teiginys: "Po jo iki 1498 m. Kauno seniūnu ar vietininku, kaip dažniau vadinamas, buvo valdovo maršalas Stankus Kostevičius, jį pakeitė minėtas Vaitiekus Jonavičius, Kauno vietininko pareigas ėjęs 1498-1514 m. Be šių pareigų, jis 1495-1512 m. dar buvo Lietuvos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185456
+

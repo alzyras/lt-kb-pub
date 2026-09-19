@@ -46,3 +46,39 @@ Komedija M eilė dorybei buvo rašyta pagal Pranciškaus Bohomolco komedijų int
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-190967
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 292"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 292."
+  citata_originali: |
+    Pirmoji komedija M eilė dorybei buvo sąmoningai rašyta pagal
+    Pranciškaus Bohomolco komedijų intrigos schemą, tačiau, žinant jos sukūrimo
+    aplinkybes, atrodo, kad joje buvo išreikšta tai, kas buvo aktualu pačiam autoriui -
+    žmogaus vertinimas ne dėl kilmės ir turtų, bet dėl dorybių.
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-208350"></a>
+- t-001
+  teiginys: "Komedija M eilė dorybei buvo rašyta pagal Pranciškaus Bohomolco komedijų intrigos schemą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  vertinimo_atnaujinta: "2026-08-19T04:03:13Z"
+  pagrindžia:
+    - c-190967
+

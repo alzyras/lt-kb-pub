@@ -36,26 +36,6 @@ historical_names: []
 
 Akcija pradėta laiku: Vakaruose vyko karšti disputai dėl nesumokėtų vokiečių reparacijų ir prancūzų dalinių įvedimo į Ruro kraštą.
 
-## Teiginiai
-
-<a id="claim-t-21761"></a>
-- t-001
-  teiginys: "Vakaruose vyko ginčai dėl nesumokėtų Vokietijos reparacijų ir prancūzų dalinių įvedimo į Ruro kraštą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Ruro kraštas (kraštas): 0.80"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Ruro kraštas (kraštas): llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Dalinių įvedimas į Ruro kraštą tiesiogiai rodo prancūzų karinį nukreipimą į šią vietą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Prancūzai siuntė į Ruro kraštas (kraštas) (0.80)"
-  pagrindžia:
-    - c-24440
-    - c-167021
-
 ## Citatos
 
 - id: c-24440
@@ -77,7 +57,7 @@ Akcija pradėta laiku: Vakaruose vyko karšti disputai dėl nesumokėtų vokieč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167021
@@ -97,5 +77,26 @@ Akcija pradėta laiku: Vakaruose vyko karšti disputai dėl nesumokėtų vokieč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-21761"></a>
+- t-001
+  teiginys: "Vakaruose vyko ginčai dėl nesumokėtų Vokietijos reparacijų ir prancūzų dalinių įvedimo į Ruro kraštą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Ruro kraštas (kraštas): 0.80"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Ruro kraštas (kraštas): llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Dalinių įvedimas į Ruro kraštą tiesiogiai rodo prancūzų karinį nukreipimą į šią vietą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Prancūzai siuntė į Ruro kraštas (kraštas) (0.80)"
+  pagrindžia:
+    - c-24440
+    - c-167021
+

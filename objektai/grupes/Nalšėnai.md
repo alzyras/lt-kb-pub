@@ -27,32 +27,6 @@ media_all_json: |-
 
 Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centrai, būtent, Deltuva (prie Ukmergės)^216 ir Nalšėnai. Vaišvilkui persekiojant tėvo nužudymo sąmokslininkus ir jo suvienytos Lietuvos priešus, Livonijon pabėgo kitas žymus Nalšėnų kunigas Suksė ( Suxe ).
 
-## Teiginiai
-
-<a id="claim-t-194993"></a>
-- t-001
-  teiginys: "Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centrai, būtent, Deltuva (prie Ukmergės)^216 ir Nalšėnai."
-  atnaujinta: "2026-07-06 12:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-177375
-
-<a id="claim-t-194994"></a>
-- t-002
-  teiginys: "Vaišvilkui persekiojant tėvo nužudymo sąmokslininkus ir jo suvienytos Lietuvos priešus, Livonijon pabėgo kitas žymus Nalšėnų kunigas Suksė ( Suxe )."
-  atnaujinta: "2026-07-06 12:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-177376
-
 ## Citatos
 
 - id: c-177375
@@ -72,7 +46,7 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177376
@@ -92,5 +66,32 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-194993"></a>
+- t-001
+  teiginys: "Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centrai, būtent, Deltuva (prie Ukmergės)^216 ir Nalšėnai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-177375
+
+<a id="claim-t-194994"></a>
+- t-002
+  teiginys: "Vaišvilkui persekiojant tėvo nužudymo sąmokslininkus ir jo suvienytos Lietuvos priešus, Livonijon pabėgo kitas žymus Nalšėnų kunigas Suksė ( Suxe )."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-177376
+

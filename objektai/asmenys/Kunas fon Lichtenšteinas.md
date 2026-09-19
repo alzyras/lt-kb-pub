@@ -35,25 +35,6 @@ canonical_biography: "Kariuomenei išsirikiavus mūšio lauke, kairiajam sparnui
 
 Kariuomenei išsirikiavus mūšio lauke, kairiajam sparnui vadovavo didysis maršalas Frydrichas fon Valenrodas, dešiniajam - didysis komtūras Kunas fon Lichtenšteinas.
 
-## Teiginiai
-
-<a id="claim-t-40298"></a>
-- t-001
-  teiginys: "Didysis komtūras Kunas fon Lichtenšteinas mūšio lauke vadovavo dešiniajam kariuomenės sparnui."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> komtūras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kunas fon Lichtenšteinas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "komtūras: mention_match, thing, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kunas fon Lichtenšteinas\" parinktas kaip owner_note_path. Targetas \"komtūras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  pagrindžia:
-    - c-167138
-
 ## Citatos
 
 - id: c-167138
@@ -84,5 +65,25 @@ Kariuomenei išsirikiavus mūšio lauke, kairiajam sparnui vadovavo didysis mar�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-40298"></a>
+- t-001
+  teiginys: "Didysis komtūras Kunas fon Lichtenšteinas mūšio lauke vadovavo dešiniajam kariuomenės sparnui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> komtūras: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kunas fon Lichtenšteinas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "komtūras: mention_match, thing, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kunas fon Lichtenšteinas\" parinktas kaip owner_note_path. Targetas \"komtūras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
+  pagrindžia:
+    - c-167138
+

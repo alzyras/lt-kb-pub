@@ -42,73 +42,6 @@ Narbutas teigia, kad iš Gercikos prie Rygos netikėtai priartėjo Rusios kuniga
 
 Narbutas teigia, kad iš Gercikos prie Rygos netikėtai priartėjo Rusios kunigaikštis ar smulkus valdovas. Lengvai, padarius rašy bos klaidą — sukeitus raides, Carogradas virto į Heroiką arba Gerciką. Gercikoje viešpatavo rusų kunigaikštis Vsevolodas; šaltinyje nurodoma, kad ten dabar esąs miestelis Carogradas.
 
-## Teiginiai
-
-<a id="claim-t-205235"></a>
-- t-001
-  teiginys: "Lengvai, padarius rašy bos klaidą — sukeitus raides, Carogradas virto į Heroiką arba Gerciką."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
-  pagrindžia:
-    - c-187843
-
-<a id="claim-t-205263"></a>
-- t-002
-  teiginys: "Vsevolodas atstatė Gercikos miestą ir gavo kraštą su Antine bei Zasa."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
-  pagrindžia:
-    - c-187979
-
-<a id="claim-t-205352"></a>
-- t-003
-  teiginys: "Iš ten tiesiai priėjo prie Gercikos miesto."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
-  pagrindžia:
-    - c-188025
-
-<a id="claim-t-205550"></a>
-- t-004
-  teiginys: "Gercikoje viešpatavo rusų kunigaikštis Vsevolodas; šaltinyje nurodoma, kad ten dabar esąs miestelis Carogradas."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
-  pagrindžia:
-    - c-187678
-
-<a id="claim-t-205555"></a>
-- t-005
-  teiginys: "Narbutas teigia, kad iš Gercikos prie Rygos netikėtai priartėjo Rusios kunigaikštis ar smulkus valdovas."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T21:22:05Z"
-  pagrindžia:
-    - c-187893
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas teigia, kad iš Gercikos prie Rygos netikėtai priartėjo Rusios kunigaikštis ar smulkus valdovas.'
@@ -194,7 +127,7 @@ Narbutas teigia, kad iš Gercikos prie Rygos netikėtai priartėjo Rusios kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-187843
@@ -213,7 +146,7 @@ Narbutas teigia, kad iš Gercikos prie Rygos netikėtai priartėjo Rusios kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-187893
@@ -237,7 +170,7 @@ Narbutas teigia, kad iš Gercikos prie Rygos netikėtai priartėjo Rusios kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-187979
@@ -267,7 +200,7 @@ Narbutas teigia, kad iš Gercikos prie Rygos netikėtai priartėjo Rusios kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188025
@@ -287,5 +220,73 @@ Narbutas teigia, kad iš Gercikos prie Rygos netikėtai priartėjo Rusios kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+## Teiginiai
+
+<a id="claim-t-205235"></a>
+- t-001
+  teiginys: "Lengvai, padarius rašy bos klaidą — sukeitus raides, Carogradas virto į Heroiką arba Gerciką."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-187843
+
+<a id="claim-t-205263"></a>
+- t-002
+  teiginys: "Vsevolodas atstatė Gercikos miestą ir gavo kraštą su Antine bei Zasa."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-187979
+
+<a id="claim-t-205352"></a>
+- t-003
+  teiginys: "Iš ten tiesiai priėjo prie Gercikos miesto."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-188025
+
+<a id="claim-t-205550"></a>
+- t-004
+  teiginys: "Gercikoje viešpatavo rusų kunigaikštis Vsevolodas; šaltinyje nurodoma, kad ten dabar esąs miestelis Carogradas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-187678
+
+<a id="claim-t-205555"></a>
+- t-005
+  teiginys: "Narbutas teigia, kad iš Gercikos prie Rygos netikėtai priartėjo Rusios kunigaikštis ar smulkus valdovas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T21:22:05Z"
+  pagrindžia:
+    - c-187893
+

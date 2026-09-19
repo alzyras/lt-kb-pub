@@ -37,10 +37,48 @@ media_all_json: |-
 
 ## Teiginiai
 
+<a id="claim-t-210715"></a>
+- t-210715
+  teiginys: "Turkai 1453 metais paėmė Konstantinopolį."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-193996
+
+<a id="claim-t-210800"></a>
+- t-210800
+  teiginys: "Turkai užėmė Kalą, Kiliją ir Belgorodą."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-194293
+
+<a id="claim-t-210905"></a>
+- t-210905
+  teiginys: "Iš tikrųjų, sudarius paliaubas, Steponas įspėjo Lenkijos ka ralių Joną Olbrachtą nežygiuoti atgal stačiai i šiaurę, nes paliau bų sutartis neliete Moldavijos sąjungininkų turkų, totorių ir vala kų (rumunų), o Sučiavos—Cernovcų kelias kalnų tarpekliuose buvo."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194155
+
 <a id="claim-t-185420"></a>
-- t-001
+- t-185420
   teiginys: "1429 m. valdovų posėdyje imperatorius ragino po husitų numalšinimo kariuomenę nukreipti prieš turkus ir saracėnus."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -48,36 +86,12 @@ media_all_json: |-
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168781
-
-<a id="claim-t-185421"></a>
-- t-002
-  teiginys: "Jogaila sutiko stoti į ginklų sąjungą prieš turkus tik tada, jei visi krikščioniškųjų šalių valdovai ryžtųsi karui sausumoje ir jūroje."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
     - c-168782
 
-<a id="claim-t-187769"></a>
-- t-003
-  teiginys: "Turkų sultono didysis paša Malkočas su Moldavijos vaivada Steponu kariavo Lenkijos žemėje iki Lvovo ir Tarnovo apylinkių."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  pagrindžia:
-    - c-170708
-
 <a id="claim-t-193466"></a>
-- t-004
+- t-193466
   teiginys: "1429 m. valdovų posėdyje imperatorius Zigmantas ragino po husitų numalšinimo nukreipti kariuomenę prieš turkus ir saracėnus."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -183,8 +197,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-185420
 
 - id: c-168782
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -213,9 +227,9 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-004
+  pagrindžia:
+    - t-185420
+    - t-193466
 
 - id: c-170708
   autorius: "Anoniminis metraštininkas"
@@ -235,5 +249,60 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+
+- id: c-193996
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 140"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 140."
+  citata_originali: |
+    Šeši tūkstančiai devyni šimtai šešiasdešimt pirmai­
+    siais Į1453] metais gegužės dvidešimt devintą turkai
+    paėmė Konstantinopolį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210715
+
+- id: c-194155
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 312"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 312."
+  citata_originali: |
+    Iš tikrųjų, sudarius paliaubas, Steponas įspėjo Lenkijos ka­
+    ralių Joną Olbrachtą nežygiuoti atgal stačiai i šiaurę,
+    nes paliau­
+    bų sutartis neliete Moldavijos sąjungininkų turkų, totorių ir vala­
+    kų (rumunų), o Sučiavos—Cernovcų kelias kalnų tarpekliuose buvo
+    patogus antpuoliams iš pasalų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210905
+
+- id: c-194293
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 141"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 141."
+  citata_originali: |
+    O paskui13 turkai atėjo j Moldaviją ir užėmė
+    Kiliją 14 ir Belgorodą 15.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210800
+

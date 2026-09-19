@@ -43,20 +43,6 @@ canonical_biography: "1477 m., antrosios kelionės metu, po pusvalandi nio pokal
 
 1477 m., antrosios kelionės metu, po pusvalandi nio pokalbio su karaliumi, Ambrozijus Kontarinis bu vo nuvestas j salę, kur buvę paruošti stalai.
 
-## Teiginiai
-
-<a id="claim-t-203614"></a>
-- t-001
-  teiginys: "1477 m., antrosios kelionės metu, po pusvalandi nio pokalbio su karaliumi, Ambrozijus Kontarinis bu vo nuvestas j salę, kur buvę paruošti stalai."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais"
-  pagrindžia:
-    - c-186218
-
 ## Citatos
 
 - id: c-186218
@@ -73,5 +59,20 @@ canonical_biography: "1477 m., antrosios kelionės metu, po pusvalandi nio pokal
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203614"></a>
+- t-001
+  teiginys: "1477 m., antrosios kelionės metu, po pusvalandi nio pokalbio su karaliumi, Ambrozijus Kontarinis bu vo nuvestas j salę, kur buvę paruošti stalai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais"
+  pagrindžia:
+    - c-186218
+

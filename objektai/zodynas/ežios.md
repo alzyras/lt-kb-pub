@@ -27,21 +27,6 @@ media_all_json: |-
 
 Visa žemė buvo išmatuota ir nustatytos aiškios ežios. ežios: tik bylos dėl žemės ribų (ežių) buvo pavestos atskiram pakamorės teismui.
 
-## Teiginiai
-
-<a id="claim-t-193293"></a>
-- t-001
-  teiginys: "Visa žemė buvo išmatuota ir nustatytos aiškios ežios."
-  atnaujinta: "2026-07-06 12:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  pagrindžia:
-    - c-176021
-
 ## Citatos
 
 - id: c-176021
@@ -61,5 +46,21 @@ Visa žemė buvo išmatuota ir nustatytos aiškios ežios. ežios: tik bylos dė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-193293"></a>
+- t-001
+  teiginys: "Visa žemė buvo išmatuota ir nustatytos aiškios ežios."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
+  pagrindžia:
+    - c-176021
+

@@ -68,24 +68,6 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
   pagrindžia:
     - c-55783
 
-<a id="claim-t-54782"></a>
-- t-002
-  teiginys: "1536 m. privilegijos įžangoje teigiama, kad raštu neužrašyti darbai lengvai pražūna žmonių atmintyje."
-  atnaujinta: "2026-05-27 07:04"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Raštu neužrašyti darbai pražūna iš atminties: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Raštu neužrašyti darbai pražūna iš atminties\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1536 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-55784
-
 <a id="claim-t-54783"></a>
 - t-003
   teiginys: "Privilegijos įžangoje teigiama, kad raštai įamžina valdovų valdymo metu nuveiktus darbus."
@@ -101,6 +83,24 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-55782
+
+<a id="claim-t-54782"></a>
+- t-54782
+  teiginys: "1536 m. privilegijos įžangoje teigiama, kad raštu neužrašyti darbai lengvai pražūna žmonių atmintyje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Raštu neužrašyti darbai pražūna iš atminties: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Raštu neužrašyti darbai pražūna iš atminties\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1536 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-55784
 
 ## Citatos
 
@@ -122,11 +122,12 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
     Lietuvos, Žemaitijos, Rusios, Kijevo ir 1.1, kunigaikštis.
   citata_rodoma: "IV KNYGA\nVardan šventosios ir nedalomosios Trejybės Amen. Vi­\nsus mirtingųjų atliekamus darbus kartu su pačiu žmogumi \nsunaikina griaunanti senatvė, ir jokios žinios ateinančioms \nkartoms nebūtų perduotos, jei nebūtų nenykstančių, patiki­\nmai paliudytų raštų. Gilios išminties karaliai ir valdovai su­\nprato, kad jų valdymo metu nuveikti darbai turi būti įam­\nžinti rašto paminklais ir patikimais paliudijimais. Amžinai \ndalykų atminčiai. Mes, Aleksandras, Dievo malone didysis \nLietuvos, Žemaitijos, Rusios, Kijevo ir 1.1, kunigaikštis."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-55783
@@ -145,11 +146,12 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
     ir tėvonis. Amžinai dalykų atminčiai.
   citata_rodoma: "IV  KNYGA\nVardan Viešpaties Amen. Kad savo metu nuveikti žmo­\nnių darbai iš mirtingųjų atminties neišnyktų, gilios išmin­\nties karaliai ir valdovai sugalvojo tokius aktus ir darbus raš­\ntais ir patikimais liudininkų parašais įmažinti. Todėl mes, \nAleksandras, Dievo malone Lenkijos karalius, didysis Lie­\ntuvos, Rusios, Prūsijos, Žemaitijos ir 1.1, kunigaikštis. Ponas \nir tėvonis. Amžinai dalykų atminčiai."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-55784
@@ -186,5 +188,6 @@ Raštas saugo veiksmus nuo užmaršties ir perduoda žinią ateinančioms kartom
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-54782
+

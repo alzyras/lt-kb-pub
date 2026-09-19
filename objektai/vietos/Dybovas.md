@@ -44,26 +44,17 @@ Narbutas rašė, kad Dybove prie Torunės buvusi senovės prūsų šventykla su 
 
 ## Teiginiai
 
-<a id="claim-t-188993"></a>
-- t-001
-  teiginys: "Narbutas rašė, kad Dybove prie Torunės buvusi senovės prūsų šventykla su didžiuliu ąžuolu buvo gerai įtvirtinta dėl artimos sienos."
-  atnaujinta: "2026-07-19 17:58"
+<a id="claim-t-217586"></a>
+- t-217586
+  teiginys: "Dybove prie Torunės buvo senovės prūsų šventasis ąžuolas arba šventykla."
+  atnaujinta: "2026-09-12 23:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "uzeme -> Dybovas: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dybovas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje pasakyta, kad kryžiuočiai paėmė ten buvusią šventyklą; ji lokalizuota Dybove, todėl objektas siejamas su Dybovu."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Kryžiuočių ordinas užėmė Dybovas (0.76)"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-171882
+    - c-199477
 
 ## Citatos
 
@@ -85,5 +76,21 @@ Narbutas rašė, kad Dybove prie Torunės buvusi senovės prūsų šventykla su 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-199477
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 237"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 237."
+  citata_originali: |
+    Dybove, prie Torunės, buvo senovės prūsų šventasis ąžuo­
+    las arba šventykla
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217586
+

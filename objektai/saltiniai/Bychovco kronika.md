@@ -29,10 +29,22 @@ media_all_json: |-
 
 ## Teiginiai
 
+<a id="claim-t-219928"></a>
+- t-219928
+  teiginys: "T. Narbutas vėliau susidūrė su kitais Vilniaus leidėjais, kai spausdino „Bychovco kroniką“."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201333
+
 <a id="claim-t-100152"></a>
-- t-001
+- t-100152
   teiginys: "Bychovco kronika nurodyta PSRL 17 tome, 525 puslapyje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   vertinimo_atnaujinta: "2026-06-13T14:38:41Z"
@@ -40,9 +52,9 @@ media_all_json: |-
     - c-94042
 
 <a id="claim-t-200950"></a>
-- t-002
+- t-200950
   teiginys: "Netrukus Teodoras Narbutas paskelbs ir vėlyvąją Lietuvos metraščio redakciją — Bychovco kroniką, kuria Daukantas pasinaudoti nebespės."
-  atnaujinta: "2026-07-16 14:30"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -52,9 +64,9 @@ media_all_json: |-
     - c-184300
 
 <a id="claim-t-205339"></a>
-- t-003
+- t-205339
   teiginys: "1834 m. pabaigoje T. Narbutui buvo perduotas Lietuvos metraštis, arba Bychovco kronika."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -64,9 +76,9 @@ media_all_json: |-
     - c-188022
 
 <a id="claim-t-206242"></a>
-- t-004
+- t-206242
   teiginys: "Teodoras Narbutas nurodė, kad Bychovco kronika ir Lindenblatto šaltinis neužsimena apie antrąją Vytauto emigraciją, o po 1390 m. Vytautui priskiria tik vieną emigraciją."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -97,8 +109,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-100152
 
 - id: c-184300
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -120,8 +132,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-200950
 
 - id: c-188022
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -143,8 +155,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-205339
 
 - id: c-188857
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -164,5 +176,24 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-206242
+
+- id: c-201333
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 52"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 52."
+  citata_originali: |
+    Vėliau, susidūręs su kitais Vilniaus leidėjais (ypač kai
+    spausdino „Bychovco kroniką“ ir „Mažesniuosius istorijos raš­
+    tus“), įvertino LTI leidėjo privalumus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219928
+

@@ -59,3 +59,40 @@ Jan Hikman pateikė skundą Kauno pilies teisme 1782 m. rugsėjo 16 d.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-190822
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 205"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 205."
+  citata_originali: |
+    Išliko tai patvirtinanti informacija
+    apie visus atvejus, išskyrus liečiantį brolius Pečkius. Kai kurias įdomias egzeku­
+    cijos smulkmenas atskleidžia dvasininko Jono Hikmano (Jan Hikman) 178z m.
+    rugsėjo 16 d. Kauno pilies teisme pateiktas skundas31. Skundas atskleidė, jog
+    mirtimi nuteistas A .
+  citata_rodoma: "Kai kurias įdomias egzeku­\ncijos smulkmenas atskleidžia dvasininko Jono Hikmano (Jan Hikman) 178z m. \nrugsėjo 16 d. Kauno pilies teisme pateiktas skundas31. Skundas"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-208206"></a>
+- t-001
+  teiginys: "Jan Hikman pateikė skundą Kauno pilies teisme 1782 m. rugsėjo 16 d."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190822
+

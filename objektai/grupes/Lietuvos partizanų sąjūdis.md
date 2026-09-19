@@ -27,20 +27,6 @@ media_all_json: |-
 
 Po antros sovietų okupacijos priklausė pogrindžio Lietuvos išlaisvinimo tarybai.
 
-## Teiginiai
-
-<a id="claim-t-193811"></a>
-- t-001
-  teiginys: "Po antros sovietų okupacijos priklausė pogrindžio Lietuvos išlaisvinimo tarybai."
-  atnaujinta: "2026-07-06 12:55"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-176456
-
 ## Citatos
 
 - id: c-176456
@@ -58,5 +44,20 @@ Po antros sovietų okupacijos priklausė pogrindžio Lietuvos išlaisvinimo tary
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-193811"></a>
+- t-001
+  teiginys: "Po antros sovietų okupacijos priklausė pogrindžio Lietuvos išlaisvinimo tarybai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-176456
+

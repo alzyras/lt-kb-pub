@@ -67,10 +67,31 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-08355"></a>
-- t-001
+<a id="claim-t-12341"></a>
+- t-008
+  teiginys: "Riteris neturėjo teisės palikęs savo vėliavą bėgti iš mūšio."
+  atnaujinta: "2026-07-26 23:35"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-160245
+
+<a id="claim-t-214916"></a>
+- t-214916
+  teiginys: "Taip pat daromos teisingos išvados, jog jie nekariavo su hunų vėliavomis, bet atvirkščiai — priešinosi hunams, o pra laimėję turėjo keltis į tolimą kraštą, kur jų nepasiekė kerštingi tų barbarų ginklai."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195299
+
+<a id="claim-t-210283"></a>
+- t-210283
   teiginys: "Kareiviams būdavo paduodama raudona vėliava kaip karo ženklas ir laiminimo dalis."
-  atnaujinta: "2026-05-31 14:15"
+  atnaujinta: "2026-09-12 16:28"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> vėliava: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -81,12 +102,12 @@ Nenurodyta
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėliavos\" parinktas kaip owner_note_path. Targetas \"vėliava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
-    - c-10308
+    - c-192693
 
-<a id="claim-t-08356"></a>
-- t-002
+<a id="claim-t-210312"></a>
+- t-210312
   teiginys: "Prie karūžojo buvo laikoma karės vėliava tos apykartos."
-  atnaujinta: "2026-05-31 14:15"
+  atnaujinta: "2026-09-12 16:28"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> vėliava: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -97,28 +118,32 @@ Nenurodyta
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėliavos\" parinktas kaip owner_note_path. Targetas \"vėliava\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   pagrindžia:
-    - c-10309
+    - c-192802
 
-<a id="claim-t-08357"></a>
-- t-003
-  teiginys: "Kariauna stodama į kovą turėjo didelę baltą vėliavą su ženklu ir įrašu."
-  atnaujinta: "2026-05-31 14:15"
+<a id="claim-t-215789"></a>
+- t-215789
+  teiginys: "Narbuto pasakojime jotvingiai smarkiai puolė Lozoriaus rezerve buvusius poloviečius ir atėmė vado vėliavą."
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Karūna: 0.83"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Danielius: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Vėliavos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Karūna: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėliavos\" parinktas kaip owner_note_path. Targetas \"Karūna\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  ryšio_targeto_parinkimas: "Danielius: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėliavos\" parinktas kaip owner_note_path. Targetas \"Danielius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-10310
+    - c-197034
 
 <a id="claim-t-10166"></a>
-- t-004
+- t-10166
   teiginys: "1368 m. Algirdas su savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "surenge_zygi_i -> Maskva: 0.85"
   ryšio_patikimumo_lygis: "aukstas"
@@ -136,9 +161,9 @@ Nenurodyta
     - c-160238
 
 <a id="claim-t-10167"></a>
-- t-005
+- t-10167
   teiginys: "Žalgirio mūšyje lietuviai, pridengę lenkų kraštines pozicijas trimis Smolensko vėliavomis, pradėjo atsitraukimo manevrą."
-  atnaujinta: "2026-05-31 14:15"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Lietuviai: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -153,9 +178,9 @@ Nenurodyta
     - c-42581
 
 <a id="claim-t-10168"></a>
-- t-006
+- t-10168
   teiginys: "Žalgirio mūšyje neatlaikiusi spaudimo krito didžioji Krokuvos vėliava."
-  atnaujinta: "2026-05-31 14:15"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -169,9 +194,9 @@ Nenurodyta
     - c-42582
 
 <a id="claim-t-12340"></a>
-- t-007
+- t-12340
   teiginys: "Riterių būrys buvo vadinamas vėliava ir telkėsi apie savo ženklą."
-  atnaujinta: "2026-05-31 14:15"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> vėliava: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -184,19 +209,10 @@ Nenurodyta
   pagrindžia:
     - c-14345
 
-<a id="claim-t-12341"></a>
-- t-008
-  teiginys: "Riteris neturėjo teisės palikęs savo vėliavą bėgti iš mūšio."
-  atnaujinta: "2026-07-26 23:35"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-160245
-
 <a id="claim-t-12343"></a>
-- t-009
+- t-12343
   teiginys: "Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs dar prieš karą."
-  atnaujinta: "2026-06-13 17:24"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -210,9 +226,9 @@ Nenurodyta
     - c-160236
 
 <a id="claim-t-12344"></a>
-- t-010
+- t-12344
   teiginys: "Tarp pabėgusių lenkų vėliavų buvo ir šv. Jurgio vėliava."
-  atnaujinta: "2026-05-31 14:15"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> vėliava: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -226,9 +242,9 @@ Nenurodyta
     - c-14349
 
 <a id="claim-t-176206"></a>
-- t-011
+- t-176206
   teiginys: "Vytauto vadovaujami Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų, sugrįžo į kovos lauką."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -242,9 +258,9 @@ Nenurodyta
     - c-160240
 
 <a id="claim-t-176207"></a>
-- t-012
+- t-176207
   teiginys: "Vytauto vadovaujami Lietuvos pulkai buvo patraukę paskui save kelias priešo vėliavas ir sugrįžo į kovos lauką."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -258,9 +274,9 @@ Nenurodyta
     - c-160241
 
 <a id="claim-t-176209"></a>
-- t-013
+- t-176209
   teiginys: "Kiekvienas riteris kaudavosi po savo vėliava ir neturėjo teisės ją palikęs bėgti."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> vėliava: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -274,9 +290,9 @@ Nenurodyta
     - c-160245
 
 <a id="claim-t-176210"></a>
-- t-014
+- t-176210
   teiginys: "Vyriausioji Lenkijos vėliava pateko į priešų rankas."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> vėliava: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -291,9 +307,9 @@ Nenurodyta
     - c-167714
 
 <a id="claim-t-176211"></a>
-- t-015
+- t-176211
   teiginys: "Lenkams patiriant didelį spaudimą centre ir dešinėje, Žalgirio mūšyje krito didžioji Krokuvos vėliava."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -307,9 +323,9 @@ Nenurodyta
     - c-42582
 
 <a id="claim-t-176212"></a>
-- t-016
+- t-176212
   teiginys: "Zyndramas iš Moškovicų kovojo prie vyriausios vėliavos, o visos sąjunginės kariuomenės vadovybė atiteko Vytautui."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Drevenca: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -323,9 +339,9 @@ Nenurodyta
     - c-36751
 
 <a id="claim-t-176213"></a>
-- t-017
+- t-176213
   teiginys: "1410 m. rudenį Transilvanijos vaivada puolė Lenkiją su 10 vėliavų."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -342,9 +358,9 @@ Nenurodyta
     - c-160235
 
 <a id="claim-t-176214"></a>
-- t-018
+- t-176214
   teiginys: "Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs Jogailai dar prieš karą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -358,9 +374,9 @@ Nenurodyta
     - c-160237
 
 <a id="claim-t-176215"></a>
-- t-019
+- t-176215
   teiginys: "XIV a. antrosios pusės lietuvių kario rekonstrukcijoje karys vaizduojamas tarnaujantis Lietuvos valdovo asmeninėje vėliavoje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminaičių stulpai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -378,9 +394,9 @@ Nenurodyta
     - c-160246
 
 <a id="claim-t-176216"></a>
-- t-020
+- t-176216
   teiginys: "Lietuviai, pridengę lenkų kraštines pozicijas trimis Smolensko vėliavomis, pradėjo atsitraukimo manevrą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyne -> Lenkai: 0.76"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -395,9 +411,9 @@ Nenurodyta
     - c-160239
 
 <a id="claim-t-176217"></a>
-- t-021
+- t-176217
   teiginys: "Algirdas su visomis savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "surenge_zygi_i -> Maskva: 0.84"
   ryšio_patikimumo_lygis: "aukstas"
@@ -413,26 +429,6 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: "Citatos fragmentas perrašytas į vientisą enciklopedinį sakinį."
   pagrindžia:
     - c-160238
-
-<a id="claim-t-192507"></a>
-- t-022
-  teiginys: "Narbuto pasakojime jotvingiai smarkiai puolė Lozoriaus rezerve buvusius poloviečius ir atėmė vado vėliavą."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Danielius: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vėliavos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Danielius: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vėliavos\" parinktas kaip owner_note_path. Targetas \"Danielius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-175297
 
 ## Citatos
 
@@ -450,8 +446,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-10309
   autorius: "Simonas Daukantas"
@@ -472,8 +466,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-10310
   autorius: "Simonas Daukantas"
@@ -491,8 +483,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-14345
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -511,8 +501,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-12340
 
 - id: c-14349
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -528,8 +518,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-010
+  pagrindžia:
+    - t-12344
 
 - id: c-36751
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -551,8 +541,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-016
+  pagrindžia:
+    - t-176212
 
 - id: c-42581
   sudarytojas: "Karolis Zikaras"
@@ -573,8 +563,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-10167
 
 - id: c-42582
   sudarytojas: "Karolis Zikaras"
@@ -595,9 +585,9 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
-    - t-015
+  pagrindžia:
+    - t-10168
+    - t-176211
 
 - id: c-160234
   autorius: "Zenonas Ivinskis"
@@ -614,8 +604,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-014
+  pagrindžia:
+    - t-176210
 
 - id: c-160235
   autorius: "Zenonas Ivinskis"
@@ -634,8 +624,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-017
+  pagrindžia:
+    - t-176213
 
 - id: c-160236
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -655,8 +645,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
+  pagrindžia:
+    - t-12343
 
 - id: c-160237
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -677,8 +667,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-018
+  pagrindžia:
+    - t-176214
 
 - id: c-160238
   sudarytojas: "Karolis Zikaras"
@@ -710,9 +700,9 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
-    - t-021
+  pagrindžia:
+    - t-10166
+    - t-176217
 
 - id: c-160239
   sudarytojas: "Karolis Zikaras"
@@ -736,8 +726,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-020
+  pagrindžia:
+    - t-176216
 
 - id: c-160240
   autorius: "Zenonas Ivinskis"
@@ -754,8 +744,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-011
+  pagrindžia:
+    - t-176206
 
 - id: c-160241
   autorius: "Zenonas Ivinskis"
@@ -773,8 +763,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-012
+  pagrindžia:
+    - t-176207
 
 - id: c-160245
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -790,13 +780,14 @@ Nenurodyta
     būdavo pasielgti savo nuožiūra — ar trauktis, ar kautis prisi­
     dėjus prie kitos vėliavos.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
-    - t-013
+    - t-176209
 
 - id: c-160246
   sudarytojas: "Karolis Zikaras"
@@ -820,8 +811,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-019
+  pagrindžia:
+    - t-176215
 
 - id: c-167714
   autorius: "Zenonas Ivinskis"
@@ -838,8 +829,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-014
+  pagrindžia:
+    - t-176210
 
 - id: c-175297
   autorius: "Teodoras Narbutas"
@@ -857,5 +848,103 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-022
+
+- id: c-192693
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 289-290"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 289-290."
+  citata_originali: |
+    Kaipogi pats kūrėjų kūrėjas, išleisdamas kariauną į karę, laimino ją tokiu būdu: visų pirma
+        pasimeldęs išvyturo raudoną vėliavą ir kareiviams padavė, paskui, nešiojamas po rindas, barstė, regis,
+        druską ant kareivių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 16:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210283
+
+- id: c-192802
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 290"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 290."
+  citata_originali: |
+    Kiekvienos pavietės buvo karūžasis, kurs turėjo visus žemlionis, arba vyčius, surašytus ir kas metą,
+        sujojus visiems į pavietę ant įsakytos dienos, paprastai rudenį, visus perskaitė ir perveizėjo kožno
+        žemlionies ginklą ir arklį, jei nerado kaip reikiant, tokį iš reistro išpaišė^1303. Atlikusysis arba išmestasis
+        ir nevaidinusysis ant tos perveizos^1304 vėl duoklę turėjo duoti su kitais valsčionimis; prie jo buvo
+        laikoma karės vėliava tos apykartos; kėlė į tą godą^1305 ne dėl didelumo turtų, kaip paskesnėse
+        gadynėse kad darė, bet, kaip sakiau, visų narsųjį ir guvųjį vyrą tarp pačių žemlionų, ką gal regėti
+        reistre Lietuvos ūkės kareivių, surašytų metuose 1528, kuriame karūžieji yra minavojami tarp tų pačių
+        žemlionų, arba vyčių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 16:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210312
+
+- id: c-192897
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 297"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 297."
+  citata_originali: |
+    Kariauna, stodama į kovą, turėjo priešaky didelę baltą vėliavą, ant kurios buvęs skydas, pusiau
+        perdalytas, viršutinėje pusėj geltoni, o apatinėje mėlyni laukai, geltonuosiuose laukuose karūna
+        buvusi stati, o mėlynuosiuose aukštynoka^1334. Kartais turėję baltą vėliavą, kurios skyde buvęs žmogus
+        besėdįs meškos galva, ant kurios vėliavos buvę išrašyti tie žodžiai: „Dieve kūrėjau, supyk ant
+        pustytojų^1335 , užtik juos.“
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-195299
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 114"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 114."
+  citata_originali: |
+    Taip pat
+    daromos teisingos išvados, jog jie nekariavo su hunų
+    vėliavomis, bet atvirkščiai — priešinosi hunams, o pra­
+    laimėję turėjo keltis į tolimą kraštą, kur jų nepasiekė
+    kerštingi tų barbarų ginklai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214916
+
+- id: c-197034
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 129"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 129."
+  citata_originali: |
+    Kunigaikštis Danielius
+    išžygiavo su Boleslovo būrio lenkais ir gerokai atsitraukė.
+    Vasilka pasiliko su Ziemovitu, o Lozorius lūkuriavo re­
+    zerve su poloviečiais. Pastaruosius jotvingiai smarkiai puo­
+    lė ir atėmė vado vėliavą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215789
+

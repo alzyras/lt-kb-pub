@@ -37,21 +37,6 @@ Lietuviai, apiplėšę visą tą provinciją, prieš naktį susibūrė Anonos ka
 
 Lietuviai, apiplėšę visą tą provinciją, prieš naktį susibūrė Anonos kaime, o kitą die ną, anksti, su laimikiu ir į nelaisvę paimtais įvairaus am žiaus ir lyties žmonėmis patraukė atgalios.
 
-## Teiginiai
-
-<a id="claim-t-205121"></a>
-- t-001
-  teiginys: "Lietuviai, apiplėšę visą tą provinciją, prieš naktį susibūrė Anonos kaime, o kitą die ną, anksti, su laimikiu ir į nelaisvę paimtais įvairaus am žiaus ir lyties žmonėmis patraukė atgalios."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
-  pagrindžia:
-    - c-187858
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuviai, apiplėšę visą tą provinciją, prieš naktį susibūrė Anonos kaime, o kitą die ną, anksti, su laimikiu ir į nelaisvę paimtais įvairaus am žiaus ir lyties žmonėmis patraukė atgalios.'
@@ -88,5 +73,21 @@ Lietuviai, apiplėšę visą tą provinciją, prieš naktį susibūrė Anonos ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205121"></a>
+- t-001
+  teiginys: "Lietuviai, apiplėšę visą tą provinciją, prieš naktį susibūrė Anonos kaime, o kitą die ną, anksti, su laimikiu ir į nelaisvę paimtais įvairaus am žiaus ir lyties žmonėmis patraukė atgalios."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-187858
+

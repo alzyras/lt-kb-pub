@@ -45,10 +45,34 @@ Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už p
 
 ## Teiginiai
 
-<a id="claim-t-192832"></a>
-- t-001
+<a id="claim-t-215652"></a>
+- t-004
+  teiginys: "Narbutas teigia, kad Vitlandijos žemę užliejo jūra po tos pačios gamtinės revoliucijos, kuri Memelio vagą pavertė marių dalimi."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196463
+
+<a id="claim-t-213166"></a>
+- t-213166
+  teiginys: "Savaime su prantama, galima pagrįstai manyti, kad liubekiečių rei kalaujamas ir sutartyje paminėtas tarp Sambijos ir Varmi jos plyt ėjęs, be to, vadintas Vitlandija, yra vienas ir tas pats kraštas."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194710
+
+<a id="claim-t-214611"></a>
+- t-214611
   teiginys: "Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už pagalbą kryžiuočiams užkariaujant sambius."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -63,12 +87,24 @@ Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už p
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
-    - c-175602
+    - c-197397
 
-<a id="claim-t-192833"></a>
-- t-002
+<a id="claim-t-215244"></a>
+- t-215244
+  teiginys: "Ten pažymėta krašto dalis, kurią Liūbeko gyventojai gavo kaip atlygi nimą už suteiktą kryžiuočiams pagalbą užkariaujant sambius, o būtent Sambiją, Vitlandiją ir dalį Varmijos."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197397
+
+<a id="claim-t-215826"></a>
+- t-215826
   teiginys: "Narbutas pabrėžė, kad Vitlandija minima atskirai greta Sambijos ir kad toks skirtumas aptinkamas jau 1224 metų Honorijaus III bulėje."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -76,19 +112,7 @@ Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už p
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
-    - c-175603
-
-<a id="claim-t-197941"></a>
-- t-003
-  teiginys: "Ten pažymėta krašto dalis, kurią Liūbeko gyventojai gavo kaip atlygi nimą už suteiktą kryžiuočiams pagalbą užkariaujant sambius, o būtent Sambiją, Vitlandiją ir dalį Varmijos."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-175602
+    - c-196427
 
 ## Citatos
 
@@ -110,9 +134,6 @@ Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-003
 
 - id: c-175603
   autorius: "Teodoras Narbutas"
@@ -132,8 +153,92 @@ Vitlandija minima kaip viena iš sričių, kurias Liūbeko gyventojai gavo už p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-194710
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 348"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 348."
+  citata_originali: |
+    Savaime su­
+    prantama, galima pagrįstai manyti, kad liubekiečių rei­
+    kalaujamas ir sutartyje paminėtas tarp Sambijos ir Varmi­
+    jos plyt ėjęs, be to, vadintas Vitlandija, yra vienas ir tas
+    pats kraštas
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213166
+
+- id: c-196427
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
+  citata_originali: |
+    Visų pirma čia Vitlandija minima atski­
+    rai greta Sambijos. Sis skirtumas yra esminis dalykas;
+    mes jį aptinkame jau 1224 metais popiežiaus Honorijaus
+    III bulėje, kur greta Samlandia ypač pabrėžta Witlandia
+    (Gruber. Orig. Livon. P. 265), ten vietoj (Wirlandia rei­
+    kia skaityti Witlandia-, tai jau teigė Tunmanas (Unter­
+    suchungen ettr.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215826
+
+- id: c-196463
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 186"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 186."
+  citata_originali: |
+    Ne mažiau įdomios yra pono Foigto studijos apie pra­
+    dingusią, jūrai užliejus, Vitlandijos žemę, taip pat po tos
+    pačios gamtinės revoliucijos, kuri Memelio vagą pavertė
+    marių dalimi. Tai buvęs tankiai gyvenamas, gana platus
+    kraštas, kur driekėsi nemažai kaimų, Liubeko pirklių pa­
+    statytas uostas, vadinamas Lipsa
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
+- id: c-197397
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 346"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 346."
+  citata_originali: |
+    Ligi šiol žinoma seniausia sutartis, primenanti dingu­
+    sios Sambijos dalies egzistavimą senovėje; ji esanti 1246
+    metų Kocebaus darbe (t. 1. P. 418—420). Ten pažymėta
+    krašto dalis, kurią Liūbeko gyventojai gavo kaip atlygi­
+    nimą už suteiktą kryžiuočiams pagalbą užkariaujant sam-
+    bius, o būtent Sambiją, Vitlandiją ir dalį Varmijos. Šioje
+    sutartyje yra viena detalė, atskleidžianti visą esmę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214611
+    - t-215244
 
 ## Ryšiai
 - Vitlandija priklausė [[objektai/vietos/Varmija]]

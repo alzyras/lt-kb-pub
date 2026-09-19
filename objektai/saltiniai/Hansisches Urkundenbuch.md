@@ -24,20 +24,6 @@ media_all_json: |-
 
 Kauno, Dancigo/Gdansko ir Hanzos kontoros Kaune susirašinėjimo medžiaga, paskelbta minėtame šaltinių rinkinyje Hansisches Urkundenbuch.
 
-## Teiginiai
-
-<a id="claim-t-202239"></a>
-- t-001
-  teiginys: "Kauno, Dancigo/Gdansko ir Hanzos kontoros Kaune susirašinėjimo medžiaga, paskelbta minėtame šaltinių rinkinyje Hansisches Urkundenbuch."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185586
-
 ## Citatos
 
 - id: c-185586
@@ -55,5 +41,20 @@ Kauno, Dancigo/Gdansko ir Hanzos kontoros Kaune susirašinėjimo medžiaga, pask
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202239"></a>
+- t-001
+  teiginys: "Kauno, Dancigo/Gdansko ir Hanzos kontoros Kaune susirašinėjimo medžiaga, paskelbta minėtame šaltinių rinkinyje Hansisches Urkundenbuch."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185586
+

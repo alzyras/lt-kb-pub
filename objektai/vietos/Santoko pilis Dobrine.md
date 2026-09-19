@@ -37,25 +37,6 @@ historical_names: []
 
 Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasienio punktai (Drezdenka ir Santoko pilis Dobrine), turį priklausyti kryžiuočiams.
 
-## Teiginiai
-
-<a id="claim-t-99948"></a>
-- t-001
-  teiginys: "Naujame dokumente skelbta, kad Santoko pilis Dobrine, Drezdenka, Žemaičiai ir Sūduva turi priklausyti kryžiuočiams."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Santoko pilis Dobrine: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Claimas tiesiogiai sako, kad Santoko pilis Dobrine turėjo priklausyti kryžiuočiams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Santoko pilis Dobrine priklausė Kryžiuočių ordinas (0.96); Sūduva priklausė Kryžiuočių ordinas (0.94); Žemaičių kraštas (kraštas) priklausė Kryžiuočių ordinas (0.94)"
-  pagrindžia:
-    - c-93896
-
 ## Citatos
 
 - id: c-93896
@@ -74,8 +55,28 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Santoko pilis Dobrine priklausė [[objektai/grupes/Kryžiuočių ordinas]]
+
+## Teiginiai
+
+<a id="claim-t-99948"></a>
+- t-001
+  teiginys: "Naujame dokumente skelbta, kad Santoko pilis Dobrine, Drezdenka, Žemaičiai ir Sūduva turi priklausyti kryžiuočiams."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Santoko pilis Dobrine: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Claimas tiesiogiai sako, kad Santoko pilis Dobrine turėjo priklausyti kryžiuočiams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Santoko pilis Dobrine priklausė Kryžiuočių ordinas (0.96); Sūduva priklausė Kryžiuočių ordinas (0.94); Žemaičių kraštas (kraštas) priklausė Kryžiuočių ordinas (0.94)"
+  pagrindžia:
+    - c-93896
+

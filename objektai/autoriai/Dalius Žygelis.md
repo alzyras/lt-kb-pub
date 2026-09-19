@@ -42,26 +42,6 @@ canonical_biography: "pradžioje Karolis Zikaras, Vytautas Lesčius 190 Šiauli�
 
 pradžioje Karolis Zikaras, Vytautas Lesčius 190 Šiaulių-Radviliškio operacija 1919 Vytautas Lesčius 192 Augustavo-Suvalkų operacija 1920 Vytautas Lescius 196 Širvintų kautynės 1920 Vytautas Lesčius 204 Giedraičių kautynės 1920 Vytautas Lesčius 208 Klaipėdos.
 
-## Teiginiai
-
-<a id="claim-t-40613"></a>
-- t-001
-  teiginys: "Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Dalius Žygelis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.): mention_match, event, gap=70"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dalius Žygelis\" parinktas kaip owner_note_path. Targetas \"Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1919 m.; įvykio data: 1920 m.; įvykio data: 1945-1949; įvykio data: 1949 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-44606
-
 ## Citatos
 
 - id: c-44606
@@ -125,5 +105,26 @@ pradžioje Karolis Zikaras, Vytautas Lesčius 190 Šiaulių-Radviliškio operaci
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-40613"></a>
+- t-001
+  teiginys: "Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Dalius Žygelis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.): mention_match, event, gap=70"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Dalius Žygelis\" parinktas kaip owner_note_path. Targetas \"Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1919 m.; įvykio data: 1920 m.; įvykio data: 1945-1949; įvykio data: 1949 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-44606
+

@@ -27,17 +27,6 @@ media_all_json: |-
 
 Šią knygą skaito visas pasaulis, jos jau kitomis kalbomis išpirk­ ta su viršum milijonas egz.
 
-## Teiginiai
-
-<a id="claim-t-36024"></a>
-- t-001
-  teiginys: "Posakis „Šią knygą skaito visas pasaulis“ vartotas reklamuojant knygą, kurios vertimų buvo išpirkta daugiau kaip milijonas egzempliorių."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-38396
-
 ## Citatos
 
 - id: c-38396
@@ -59,5 +48,17 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-36024"></a>
+- t-001
+  teiginys: "Posakis „Šią knygą skaito visas pasaulis“ vartotas reklamuojant knygą, kurios vertimų buvo išpirkta daugiau kaip milijonas egzempliorių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-38396
+

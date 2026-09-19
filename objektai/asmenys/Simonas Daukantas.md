@@ -52,10 +52,71 @@ Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praei
 
 ## Teiginiai
 
+<a id="claim-t-209400"></a>
+- t-209400
+  teiginys: "„Pakeleivingo“ projektas, šaltinio vertinimu, turėjo būti svarstomas S. Daukanto ir M. Akelaičio, tuo metu kartu gyvenusių lietuvių Atgimimo veikėjų."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
+  pagrindžia:
+    - c-191918
+
+<a id="claim-t-214429"></a>
+- t-214429
+  teiginys: "Dionizui Poškai buvo žinomas Simono Daukanto veikalas „Darbai senųjų lietuvių ir žemaičių“."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197519
+
+<a id="claim-t-217542"></a>
+- t-217542
+  teiginys: "Daukanto „Darbai senųjų lietuvių ir žemaičių“."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200273
+
+<a id="claim-t-218494"></a>
+- t-218494
+  teiginys: "Daukanto istorikui atsiųstos „Dai nės žemaičių“ (Peterburgas."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198937
+
+<a id="claim-t-219412"></a>
+- t-219412
+  teiginys: "Daukantas nutraukė santykius su Narbutu, nusivylęs jo elgesiu ir negavęs atsiųsto Herbyno."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199885
+
 <a id="claim-t-105707"></a>
-- t-001
+- t-105707
   teiginys: "Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -72,9 +133,9 @@ Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praei
     - c-21971
 
 <a id="claim-t-105708"></a>
-- t-002
+- t-105708
   teiginys: "Simonas Daukantas buvo parašęs veikalą „Darbai žemaičių ir lietuvių“."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -88,9 +149,9 @@ Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praei
     - c-98418
 
 <a id="claim-t-105709"></a>
-- t-003
+- t-105709
   teiginys: "P. Malevskis buvo tiesioginis istoriko Simono Daukanto viršininkas Lietuvos Metrikos padalinyje prie Senato Trečiojo departamento."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -104,9 +165,9 @@ Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praei
     - c-98412
 
 <a id="claim-t-105710"></a>
-- t-004
+- t-105710
   teiginys: "Simonas Daukantas įkalbino Motiejų Valančių rašyti ir lietuviškai išleisti Žemaičių vyskupijos istoriją."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -122,10 +183,27 @@ Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praei
   pagrindžia:
     - c-98416
 
+<a id="claim-t-105711"></a>
+- t-105711
+  teiginys: "Simonas Daukantas domėjosi M. Balinskio publikacijomis apie kultūrinį sąjūdį Žemaitijoje ir kitus kultūros klausimus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Simonas Daukantas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras Balinskis: mention_match, person, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Simonas Daukantas\" parinktas kaip owner_note_path. Targetas \"Aleksandras Balinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-98413
+    - c-98418
+
 <a id="claim-t-105712"></a>
-- t-005
+- t-105712
   teiginys: "Simono Daukanto tiesioginis viršininkas buvo Lietuvos Metrikos padalinio vadovas Pranciškus Malevskis."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -139,9 +217,9 @@ Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praei
     - c-98412
 
 <a id="claim-t-105713"></a>
-- t-006
+- t-105713
   teiginys: "Simoną Daukantą įkvėpė suvokimas, kad tautos ateičiai būtina tautos atmintis, todėl jis raštu įamžino Lietuvos praeitį."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -157,42 +235,10 @@ Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praei
   pagrindžia:
     - c-98414
 
-<a id="claim-t-188607"></a>
-- t-007
-  teiginys: "Manoma, kad Simonas Daukantas tuo metu jau buvo parašęs „Darbus senųjų lietuvių ir žemaičių“."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Simonas Daukantas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Simonas Daukantas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-171496
-
-<a id="claim-t-188608"></a>
-- t-008
-  teiginys: "Savo „Darbų“ pratarmėje Simonas Daukantas rašė: „<...> aš ne dėl mokytų vyrų ir galvočių, bet dėl tų motinų rašiau“."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-171497
-
 <a id="claim-t-193630"></a>
-- t-009
+- t-193630
   teiginys: "Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m. parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų plito nuorašais."
-  atnaujinta: "2026-07-06 12:55"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -203,9 +249,9 @@ Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praei
     - c-176301
 
 <a id="claim-t-205711"></a>
-- t-010
+- t-205711
   teiginys: "Simonas Daukantas laiške Teodorui Narbutui stebėjosi, kad Danilavičius ginčijo Rimgaudo buvimą."
-  atnaujinta: "2026-08-12 08:57"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -216,9 +262,9 @@ Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praei
     - c-188326
 
 <a id="claim-t-206375"></a>
-- t-011
+- t-206375
   teiginys: "S. Daukanto darbą šaltame Peterburgo Senato archyve Narbutas apibūdina kaip alinantį praeities tyrinėtojo darbą."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -227,6 +273,19 @@ Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praei
   vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
   pagrindžia:
     - c-188990
+
+<a id="claim-t-207427"></a>
+- t-207427
+  teiginys: "Simono Daukanto interpretacijoje žalčiai buvo lietuviškosios kultūros ir religijos ženklas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-18T19:34:23Z"
+  pagrindžia:
+    - c-190048
 
 ## Reikšmingi paminėjimai
 - c-007
@@ -300,8 +359,8 @@ Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-105707
 
 - id: c-98412
   autorius: "Michał Baliński"
@@ -324,9 +383,9 @@ Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-    - t-005
+  pagrindžia:
+    - t-105709
+    - t-105712
 
 - id: c-98413
   autorius: "Michał Baliński"
@@ -349,6 +408,9 @@ Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-105711
+
 - id: c-98414
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -369,8 +431,8 @@ Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-105713
 
 - id: c-98416
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -390,8 +452,8 @@ Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-105710
 
 - id: c-98418
   autorius: "Michał Baliński"
@@ -414,8 +476,9 @@ Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-105708
+    - t-105711
 
 - id: c-171496
   autorius: "Teodoras Narbutas"
@@ -435,8 +498,6 @@ Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
 
 - id: c-171497
   autorius: "Teodoras Narbutas"
@@ -455,8 +516,6 @@ Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
 
 - id: c-176301
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -478,8 +537,8 @@ Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
+  pagrindžia:
+    - t-193630
 
 - id: c-188326
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -497,8 +556,8 @@ Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-010
+  pagrindžia:
+    - t-205711
 
 - id: c-188990
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -514,5 +573,130 @@ Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-011
+  pagrindžia:
+    - t-206375
+
+- id: c-190048
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 20"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 20."
+  citata_originali: |
+    Net iš LDK tradicijų išaugęs Adomas Mickevičius, nors savo garsųjį „Poną Tadą“
+    1834 m. pradeda „Litwo, ojczyzno moja“, tačiau Lietuva jam yra virtusi integralia Lenkijos
+    dalimi, o tikroji Lietuva yra pagoniška ir „visa praeityje“.
+    Įdomu, kad tokiai Lietuvos vizijai iš esmės neprieštaravo ir Simonas Daukantas. Tie-
+    sa, Daukantui žalčiai yra lietuviškosios kultūros ir religijos ženklas, o miškai ir vyrai
+    su meškenomis – laisvės simbolis.
+  citata_rodoma: "Tie-\nsa, Daukantui žalčiai yra lietuviškosios kultūros ir religijos ženklas, o miškai ir vyrai \nsu meškenomis – laisvės simbolis."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207427
+
+- id: c-191918
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 78"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 78."
+  citata_originali: |
+    Vienų nuomone (K. Giečys), laikraščio idėja
+    priklausė M. Akelaičiui, kuris dar 1858 m. kovo 4 d. rašė M. Valančiui
+    apie būtinumą organizuoti periodinio laikraščio leidimą ir siūlė
+    vyskupui tarti pirmą žodį42 43. Kiti autoriai, ypač pastaruoju metu (V.
+    Merkys), kėlė mintį, jog viskam pradžią davęs Š. Daukantas44. Abi
+    šios nuomonės iš esmės yra viena kitai artimos, kadangi Svyrlaukyje
+    vienu metu gyveno ir S. Daukantas, ir M. Akelaitis, todėl
+    "Pakeleivingo” projektas turėjo būti svarstomas abiejų lietuvių
+    Atgimimo veikėjų, o žinomas dar mažų mažiausiai keliems asmenims
+    (P. Smuglevičius).
+  citata_rodoma: "vienu metu gyveno ir S. Daukantas, ir M. Akelaitis, todėl \n\"Pakeleivingo” projektas turėjo būti svarstomas abiejų lietuvių \nAtgimimo veikėjų"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209400
+
+- id: c-197519
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 442"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 442."
+  citata_originali: |
+    Manoma, kad tuo
+    metu jau buvo parašyti S. Daukanto „Darbai senųjų lie­
+    tuvių ir žemaičių“. D. Poškai buvo žinomas šis veikalas,
+    net spėjama, kad jis galėjo būti jo
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214429
+
+- id: c-198937
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 485"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 485."
+  citata_originali: |
+    Galima spėti, kad nemažos įtakos
+    tam turėjo ir S. Daukanto istorikui atsiųstos „Dai­
+    nės žemaičių“ (Peterburgas. 1846. VI. 24 (VII. 6).
+    S. Daukantas. T. Narbutui // Simonas Daukantas.
+    Raštai. Laiškai Teodorui Narbutui. - V., 1996. -
+    P. 571
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218494
+
+- id: c-199885
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 12"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 12."
+  citata_originali: |
+    Nusivylęs T. Narbutu ir negavęs jam nusiųsto „Herbyno“,
+    S. Daukantas nutraukė su juo santykius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219412
+
+- id: c-200273
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 50"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 50."
+  citata_originali: |
+    Manoma, kad tuo metu jau buvo parašyti
+    S. Daukanto „Darbai senųjų lietuvių ir žemaičių“. D. Poškai
+    buvo žinomas šis veikalas, net spėjama, kad jis galėjo būti jo
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217542
+

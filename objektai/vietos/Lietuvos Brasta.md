@@ -50,10 +50,22 @@ historical_names: []
 
 ## Teiginiai
 
+<a id="claim-t-213687"></a>
+- t-213687
+  teiginys: "1227 metais jotvingiai gyveno slavų Brastos kaimynystėje ir jų antpuoliai pasiekė Voluinės Vladimirą."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197440
+
 <a id="claim-t-79640"></a>
-- t-001
+- t-79640
   teiginys: "1435 m. gruodžio 31 d. sudaryta Bresto taika tarp Lenkijos, Lietuvos Didžiosios Kunigaikštystės ir Vokiečių ordino atstovų."
-  atnaujinta: "2026-05-31 12:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -69,9 +81,9 @@ historical_names: []
     - c-76604
 
 <a id="claim-t-79641"></a>
-- t-002
+- t-79641
   teiginys: "Remiantis S. Zabielos raportais, Lietuvos kariuomenė per Lietuvos Brastos mūšį neteko apie 300 karių."
-  atnaujinta: "2026-06-01 14:44"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Brasta: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -85,9 +97,9 @@ historical_names: []
     - c-43588
 
 <a id="claim-t-79642"></a>
-- t-003
+- t-79642
   teiginys: "1657 m. švedų apsiausta Lietuvos Brasta galiausiai pasidavė priešui ir buvo gerokai suniokota."
-  atnaujinta: "2026-05-31 12:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "apgule -> Lietuvos Brasta: 0.94"
   ryšio_patikimumo_lygis: "aukstas"
@@ -104,9 +116,9 @@ historical_names: []
     - c-43585
 
 <a id="claim-t-79643"></a>
-- t-004
+- t-79643
   teiginys: "Remiantis S. Zabielos raportais, prie Lietuvos Brastos Lietuvos kariuomenė neteko apie 300 karių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Brasta: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -120,9 +132,9 @@ historical_names: []
     - c-43588
 
 <a id="claim-t-79645"></a>
-- t-005
+- t-79645
   teiginys: "1432 m. pradžioje Švitrigaila su kryžiuočių atstovais buvo Brastoje, kai strigo lenkų ir lietuvių derybos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -139,9 +151,9 @@ historical_names: []
     - c-76605
 
 <a id="claim-t-79646"></a>
-- t-006
+- t-79646
   teiginys: "Vienas paskutinių svarbių gynybos taškų liko Lietuvos Brastos miestas, prie kurio nutarta pabandyti sustabdyti Rusijos kariuomenės veržimąsi į vakarus."
-  atnaujinta: "2026-06-14 10:59"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Brasta: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -155,9 +167,9 @@ historical_names: []
     - c-43586
 
 <a id="claim-t-204358"></a>
-- t-007
+- t-204358
   teiginys: "1432 m. vasario Polubicų susitikimas vyko tarp Parčevo ir Lietuvos Brastos."
-  atnaujinta: "2026-08-07 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -189,8 +201,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-79642
 
 - id: c-43586
   sudarytojas: "Karolis Zikaras"
@@ -211,8 +223,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-79646
 
 - id: c-43588
   sudarytojas: "Karolis Zikaras"
@@ -231,9 +243,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-004
+  pagrindžia:
+    - t-79641
+    - t-79643
 
 - id: c-76604
   sudarytojas: "Karolis Zikaras"
@@ -257,8 +269,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-79640
 
 - id: c-76605
   sudarytojas: "Karolis Zikaras"
@@ -275,8 +287,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-79645
 
 - id: c-186962
   šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
@@ -296,8 +308,29 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-204358
+
+- id: c-197440
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 122"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 122."
+  citata_originali: |
+    Jotvingiai, nepaisy­
+    dami iš mazoviečių ir prūsų patirtų nesėkmių, gyvendami
+    slavų Brastos kaimynystėje, 1227 metais savo antpuolius
+    išplėtė net iki Voluinės Vladimiro, kur buvo suimti du
+    jotvingių vadai: Sutras Monoduničius ir Stegutas Zebro-
+    vičius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213687
 
 ## Ryšiai
 - Apgulė Lietuvos Brastą: [[objektai/grupes/Švedai]]

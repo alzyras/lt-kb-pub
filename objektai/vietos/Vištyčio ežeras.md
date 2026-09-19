@@ -47,10 +47,22 @@ Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo eže
 
 ## Teiginiai
 
+<a id="claim-t-221843"></a>
+- t-221843
+  teiginys: "Romintės giria yra į pietvakarius nuo Vištyčio ežero."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202072
+
 <a id="claim-t-172039"></a>
-- t-001
+- t-172039
   teiginys: "Nubrėžtos sienos ėjo pro Vištyčio ežerą į Leipūnos upę."
-  atnaujinta: "2026-05-31 14:13"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Grajevo: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -88,5 +100,24 @@ Jos buvo pravestos nuo Mozūrijos sienos upe aukštyn į Grajevo ir Ragordo eže
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-172039
+
+- id: c-202072
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 65"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 65."
+  citata_originali: |
+    Nadruvos pietryčiuose, Pisos intako Romintės (dab. Krasnaja) aukštupyje,
+    į pietvakarius nuo Vištyčio ežero yra didelė kalvota Romintės (Romintos) giria, o jos
+    šiauriniame pakraštyje buvo kaimas Sventiškiai, kur išliko piliakalnis (HE, p. 50).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221843
+

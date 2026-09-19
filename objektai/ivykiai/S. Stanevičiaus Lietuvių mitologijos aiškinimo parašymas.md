@@ -54,18 +54,6 @@ Nenurodyta
 
 Tekstas liko nespausdintas ir, pagal įvadinį tekstą, negalėjo paveikti viešosios nuomonės apie T. Narbuto veikalą.
 
-## Teiginiai
-
-<a id="claim-t-187975"></a>
-- t-001
-  teiginys: "S. Stanevičiaus „Lietuvių mitologijos aiškinimas“ liko nespausdintas."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "gap::events"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-170977
-
 ## Data ir vieta
 
 Datavimas pateiktas kaip J. Lebedžio nuomonė: ne anksčiau kaip 1838 m.
@@ -98,5 +86,14 @@ Datavimas pateiktas kaip J. Lebedžio nuomonė: ne anksčiau kaip 1838 m.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+## Teiginiai
+
+<a id="claim-t-219381"></a>
+- t-001
+  teiginys: "S. Stanevičiaus „Lietuvių mitologijos aiškinimas“ liko nespausdintas."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+

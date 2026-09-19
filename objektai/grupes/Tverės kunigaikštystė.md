@@ -35,25 +35,6 @@ media_all_json: |-
 
 Gindamas teises savo švogerio, Tverės kunigaikščio Mykolo (Aleksandro sūnaus), Algirdas ginklu kliudė ten įsistiprinti Maskvai.
 
-## Teiginiai
-
-<a id="claim-t-31363"></a>
-- t-001
-  teiginys: "Algirdas, gindamas Tverės kunigaikščio Mykolo teises, ginklu kliudė Maskvai įsitvirtinti Tverėje."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Tverės kunigaikštystė: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Tverės kunigaikštystė: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Algirdas tiesiogiai ginė Tverės kunigaikščio Mykolo teises; objektas apibendrintas į Tverės kunigaikštystę, nes Mykolo kandidato nėra."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) gynė Tverės kunigaikštystė (0.72)"
-  pagrindžia:
-    - c-33360
-
 ## Citatos
 
 - id: c-33360
@@ -73,5 +54,25 @@ Gindamas teises savo švogerio, Tverės kunigaikščio Mykolo (Aleksandro sūnau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-31363"></a>
+- t-001
+  teiginys: "Algirdas, gindamas Tverės kunigaikščio Mykolo teises, ginklu kliudė Maskvai įsitvirtinti Tverėje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Tverės kunigaikštystė: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Tverės kunigaikštystė: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Algirdas tiesiogiai ginė Tverės kunigaikščio Mykolo teises; objektas apibendrintas į Tverės kunigaikštystę, nes Mykolo kandidato nėra."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) gynė Tverės kunigaikštystė (0.72)"
+  pagrindžia:
+    - c-33360
+

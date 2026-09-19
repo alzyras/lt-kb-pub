@@ -38,32 +38,6 @@ historical_names: []
 
 Nujautęs tą, valdymieras Pleskavo Ditrichą paleido ir paskui jį savo siuntinius išleido į Rygą taikinti netikėlių su vokyčiais, kuriems ant pasiregėjimo 29 dieną bir želio mėnesio paženklino paupy Vogenės.
 
-## Teiginiai
-
-<a id="claim-t-201154"></a>
-- t-001
-  teiginys: "Nujautęs tą, valdymieras Pleskavo Ditrichą paleido ir paskui jį savo siuntinius išleido į Rygą taikinti netikėlių su vokyčiais, kuriems ant pasiregėjimo 29 dieną bir želio mėnesio paženklino paupy Vogenės."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184504
-
-<a id="claim-t-205471"></a>
-- t-002
-  teiginys: "Sutartą dieną prie Vogenės susirinko ginkluoti latviai."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-187788
-
 ## Citatos
 
 - id: c-184504
@@ -85,7 +59,7 @@ Nujautęs tą, valdymieras Pleskavo Ditrichą paleido ir paskui jį savo siuntin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-187788
@@ -106,5 +80,32 @@ Nujautęs tą, valdymieras Pleskavo Ditrichą paleido ir paskui jį savo siuntin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-201154"></a>
+- t-001
+  teiginys: "Nujautęs tą, valdymieras Pleskavo Ditrichą paleido ir paskui jį savo siuntinius išleido į Rygą taikinti netikėlių su vokyčiais, kuriems ant pasiregėjimo 29 dieną bir želio mėnesio paženklino paupy Vogenės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184504
+
+<a id="claim-t-205471"></a>
+- t-002
+  teiginys: "Sutartą dieną prie Vogenės susirinko ginkluoti latviai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187788
+

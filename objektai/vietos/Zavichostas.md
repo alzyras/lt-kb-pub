@@ -39,10 +39,38 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
 
 ## Teiginiai
 
+<a id="claim-t-211521"></a>
+- t-211521
+  teiginys: "Kai visi lietuviai kariai, paėmę po pagalį, me tė į miestą ir primėtė pilną miestą pagalių, uždegė vi są Zavichosto."
+  atnaujinta: "2026-09-12 20:03"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+
+<a id="claim-t-211932"></a>
+- t-211932
+  teiginys: "Lietuvių kariai, primetę į miestą pagalių, sudegino visą Zavichostą."
+  atnaujinta: "2026-09-12 20:03"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Zavichostas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Zavichostas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Zavichosto sudeginimas lietuvių karių veiksmais tiesiogiai rodo miesto puolimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+
 <a id="claim-t-185257"></a>
-- t-001
+- t-185257
   teiginys: "Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -58,30 +86,10 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
   pagrindžia:
     - c-168618
 
-<a id="claim-t-187690"></a>
-- t-002
-  teiginys: "Lietuvių kariai, primetę į miestą pagalių, sudegino visą Zavichostą."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Zavichostas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Zavichostas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Zavichosto sudeginimas lietuvių karių veiksmais tiesiogiai rodo miesto puolimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  pagrindžia:
-    - c-170630
-
 <a id="claim-t-196762"></a>
-- t-003
+- t-196762
   teiginys: "Kojelavičius, remdamasis Strijkovskiu ir rusų metraštininkais, rašo, kad lietuvių kariuomenė su grobiu traukė į stovyklą netoli Zavichosto."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -92,9 +100,9 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
     - c-168618
 
 <a id="claim-t-206612"></a>
-- t-004
+- t-206612
   teiginys: "Teodoras Narbutas Lenkijos didikus apibūdina kaip drąsos stokojančius ir nurodo, kad bajorai bei didikai pabėgo anapus Vyslos ir užsidarė Zavichosto pilyje."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -154,9 +162,9 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-003
+  pagrindžia:
+    - t-185257
+    - t-196762
 
 - id: c-170630
   autorius: "Anoniminis metraštininkas"
@@ -179,8 +187,6 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-189227
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -205,5 +211,6 @@ Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-206612
+

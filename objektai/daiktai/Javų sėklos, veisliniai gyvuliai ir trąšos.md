@@ -63,27 +63,6 @@ Naudoti ūkininkų aprūpinimui ir žemės ūkio našumui didinti.
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-23286"></a>
-- t-001
-  teiginys: "Valstybė lengvatinėmis sąlygomis aprūpindavo ūkininkus geresnėmis javų sėklomis ir veisliniais gyvuliais."
-  atnaujinta: "2026-06-14 10:46"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-166686
-
-<a id="claim-t-23287"></a>
-- t-002
-  teiginys: "Žemės ūkyje pradėjus naudoti organines ir mineralines trąšas, javų derlingumas padidėjo nuo 9 cnt prieš karą iki 12 cnt ketvirtajame dešimtmetyje."
-  atnaujinta: "2026-06-14 10:46"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  pagrindžia:
-    - c-166686
-
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
@@ -108,6 +87,28 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-23286"></a>
+- t-001
+  teiginys: "Valstybė lengvatinėmis sąlygomis aprūpindavo ūkininkus geresnėmis javų sėklomis ir veisliniais gyvuliais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-166686
+
+<a id="claim-t-23287"></a>
+- t-002
+  teiginys: "Žemės ūkyje pradėjus naudoti organines ir mineralines trąšas, javų derlingumas padidėjo nuo 9 cnt prieš karą iki 12 cnt ketvirtajame dešimtmetyje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  pagrindžia:
+    - c-166686
+

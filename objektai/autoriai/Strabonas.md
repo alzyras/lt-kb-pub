@@ -37,30 +37,22 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
 
 ## Teiginiai
 
-<a id="claim-t-190454"></a>
-- t-001
-  teiginys: "Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė pirmaisiais dievų šventyklų statytojais."
-  atnaujinta: "2026-07-19 17:58"
+<a id="claim-t-214560"></a>
+- t-214560
+  teiginys: "Strabonas mano, jog jų gyvenimo pa 1 Karamzin."
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Egiptiečiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Strabonas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Egiptiečiai: mention_match, group, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Strabonas\" parinktas kaip owner_note_path. Targetas \"Egiptiečiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-173337
+    - c-197351
 
-<a id="claim-t-190794"></a>
-- t-002
+<a id="claim-t-212290"></a>
+- t-212290
   teiginys: "Teodoras Narbutas mini spėjimą, kad šališkas aiškintojas Strabonas Pytejui priskyrė svetimos medžiagos."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -74,13 +66,11 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Strabonas\" parinktas kaip owner_note_path. Targetas \"Anglai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-173676
 
-<a id="claim-t-190795"></a>
-- t-003
+<a id="claim-t-215108"></a>
+- t-215108
   teiginys: "Teodoras Narbutas Straboną mini tarp autorių, kalbėjusių apie vandens lygio kritimą ir pateikusių to įrodymų."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -94,21 +84,6 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Strabonas\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-173677
-
-<a id="claim-t-194890"></a>
-- t-004
-  teiginys: "Strabonas pasuko į pietus, įplaukė į Baltijos jūrą, atplaukė ¡prie gintaringų 1 Strabo."
-  atnaujinta: "2026-07-19 18:48"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-177286
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -163,8 +138,6 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-173676
   autorius: "Teodoras Narbutas"
@@ -185,8 +158,6 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-173677
   autorius: "Teodoras Narbutas"
@@ -217,8 +188,6 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-177286
   autorius: "Teodoras Narbutas"
@@ -235,5 +204,32 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+
+- id: c-197351
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 110-111"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 110-111."
+  citata_originali: |
+    Strabonas mano, jog jų gyvenimo pa­
+    1 Karamzin. Istor. Hos. Ross. T. III. S. 233, 234.
+    2 Trans I strum regio est castra inhabit aia, ut aiunt, a Ziginis (la ­
+    zi gis) qui ueste eudem, qua Medi, utuntur. (Anapus Istros yra tvirtovė,
+    kur, sakoma, gyvena jazigai, dėvintys tokį pat apdarę kaip ir medai.)
+    (Cap, XV. P. 457). Buvo teigiama, jog čia kalbama apie čigonus,
+    tačiau šiandien to daryli jau nebegalima, nes jų istorija gerai ži­
+    noma'’1'.
+    113
+
+    grindą sudarė žemdirbystė, be to, randa jų kolonijų į
+    šiaurę nuo tyrogetų, t. y. Ukrainoje, dešiniojoje Dnepro
+    pakrantėje
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214560
+

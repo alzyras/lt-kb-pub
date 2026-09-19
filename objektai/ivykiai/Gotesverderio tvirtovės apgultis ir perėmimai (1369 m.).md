@@ -40,21 +40,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206731"></a>
-- t-001
-  teiginys: "Pasak Teodoro Narbuto, po penkių dienų kryžiuočiai vėl tapo Gotesverderio tvirtovės šeimininkais, tačiau dėl lietuvių įgulos likimo šaltiniuose nesutariama: vieni teigė, kad ji išliko gyva, kiti – kad buvo išžudyta."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-189346
-
 ## Santrauka
 
 Pasak Teodoro Narbuto, po penkių dienų kryžiuočiai vėl tapo Gotesverderio tvirtovės šeimininkais, tačiau dėl lietuvių įgulos likimo šaltiniuose nesutariama: vieni teigė, kad ji išliko gyva, kiti – kad buvo išžudyta.
@@ -78,5 +63,21 @@ Pasak Teodoro Narbuto, po penkių dienų kryžiuočiai vėl tapo Gotesverderio t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206731"></a>
+- t-001
+  teiginys: "Pasak Teodoro Narbuto, po penkių dienų kryžiuočiai vėl tapo Gotesverderio tvirtovės šeimininkais, tačiau dėl lietuvių įgulos likimo šaltiniuose nesutariama: vieni teigė, kad ji išliko gyva, kiti – kad buvo išžudyta."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-189346
+

@@ -46,32 +46,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-202019"></a>
-- t-001
-  teiginys: "Bendruomenės prisiekusieji dažnai buvo kviečiami į tarybos posėdžius ir į jų nuomonę buvo atsižvelgiama."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185366
-
-<a id="claim-t-202020"></a>
-- t-002
-  teiginys: "1557 m. vaito, tarybos, suolininkų ir bendruomenės prisiekusiųjų bendru sutarimu (unamini eonsensu) tarybos posėdyje buvo priimtas nedidelis vilkieras dėl naktinės sargybos mieste organizavimo."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185367
-
 ## Citatos
 
 - id: c-185366
@@ -89,7 +63,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185367
@@ -109,5 +83,32 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-202019"></a>
+- t-001
+  teiginys: "Bendruomenės prisiekusieji dažnai buvo kviečiami į tarybos posėdžius ir į jų nuomonę buvo atsižvelgiama."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185366
+
+<a id="claim-t-202020"></a>
+- t-002
+  teiginys: "1557 m. vaito, tarybos, suolininkų ir bendruomenės prisiekusiųjų bendru sutarimu (unamini eonsensu) tarybos posėdyje buvo priimtas nedidelis vilkieras dėl naktinės sargybos mieste organizavimo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185367
+

@@ -46,34 +46,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-205929"></a>
-- t-001
-  teiginys: "Teodoro Narbuto aprašymu, 1322 m. žiemą kryžiuočių armijai vadovavo kunigaikštis Bernardas Svidnickis, grafas Geroldizekė ir du grafai iš Julicho bei Vildenbergo."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188544
-
-<a id="claim-t-205930"></a>
-- t-002
-  teiginys: "Teodoro Narbuto aprašymu, kitą dieną po vietovės užpuolimo kryžiuočių kariuomenė perėjo Nemuną ir Raseinių paviete per Klogėnų valsčių bei Ariogalos apylinkes viską niokojo."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188545
-
 ## Santrauka
 
 Teodoro Narbuto aprašymu, 1322 m. žiemą kryžiuočių armijai vadovavo kunigaikštis Bernardas Svidnickis, grafas Geroldizekė ir du grafai iš Julicho bei Vildenbergo. Teodoro Narbuto aprašymu, kitą dieną po vietovės užpuolimo kryžiuočių kariuomenė perėjo Nemuną ir Raseinių paviete per Klogėnų valsčių bei Ariogalos apylinkes viską niokojo.
@@ -102,7 +74,7 @@ Teodoro Narbuto aprašymu, 1322 m. žiemą kryžiuočių armijai vadovavo kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188545
@@ -125,5 +97,34 @@ Teodoro Narbuto aprašymu, 1322 m. žiemą kryžiuočių armijai vadovavo kuniga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-205929"></a>
+- t-001
+  teiginys: "Teodoro Narbuto aprašymu, 1322 m. žiemą kryžiuočių armijai vadovavo kunigaikštis Bernardas Svidnickis, grafas Geroldizekė ir du grafai iš Julicho bei Vildenbergo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188544
+
+<a id="claim-t-205930"></a>
+- t-002
+  teiginys: "Teodoro Narbuto aprašymu, kitą dieną po vietovės užpuolimo kryžiuočių kariuomenė perėjo Nemuną ir Raseinių paviete per Klogėnų valsčių bei Ariogalos apylinkes viską niokojo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188545
+

@@ -42,32 +42,6 @@ historical_names: []
 
 Čečersko miestiečiai ir valsčiaus žmonės, gavę Žygimanto Senojo raštą, suėmė vietininką ir, valdovui leidus, patys įvykdė mirties bausmę nuskandindami išdaviką. Čečerske Nikolskio vietininkas Kurbaka turėjo būti pakartas, bet miestiečiai ir valsčiaus žmonės jį nuskandino.
 
-## Teiginiai
-
-<a id="claim-t-203966"></a>
-- t-001
-  teiginys: "Čečersko miestiečiai ir valsčiaus žmonės, gavę Žygimanto Senojo raštą, suėmė vietininką ir, valdovui leidus, patys įvykdė mirties bausmę nuskandindami išdaviką."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
-  pagrindžia:
-    - c-186570
-
-<a id="claim-t-203967"></a>
-- t-002
-  teiginys: "Čečerske Nikolskio vietininkas Kurbaka turėjo būti pakartas, bet miestiečiai ir valsčiaus žmonės jį nuskandino."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
-  pagrindžia:
-    - c-186571
-
 ## Citatos
 
 - id: c-186570
@@ -89,7 +63,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186571
@@ -106,5 +80,32 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-203966"></a>
+- t-001
+  teiginys: "Čečersko miestiečiai ir valsčiaus žmonės, gavę Žygimanto Senojo raštą, suėmė vietininką ir, valdovui leidus, patys įvykdė mirties bausmę nuskandindami išdaviką."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  pagrindžia:
+    - c-186570
+
+<a id="claim-t-203967"></a>
+- t-002
+  teiginys: "Čečerske Nikolskio vietininkas Kurbaka turėjo būti pakartas, bet miestiečiai ir valsčiaus žmonės jį nuskandino."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  pagrindžia:
+    - c-186571
+

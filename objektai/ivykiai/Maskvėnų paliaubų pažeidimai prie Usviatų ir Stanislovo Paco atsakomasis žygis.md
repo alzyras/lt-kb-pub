@@ -81,9 +81,11 @@ Nenurodyta
     laiškus, n ei p e r pasiuntinius, k araliu s p arag in o gretim ų
     pilių seniūnus p u ld in ėti m ask v ėn ų žem es.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 00:09"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

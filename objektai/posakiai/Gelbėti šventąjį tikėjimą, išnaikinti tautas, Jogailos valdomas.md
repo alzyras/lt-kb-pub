@@ -28,21 +28,6 @@ Teodoro Narbuto vaizduojamas Kryžiuočių ordinas kryžiaus žygio šūkiu skel
 
 Teodoro Narbuto vaizduojamas Kryžiuočių ordinas kryžiaus žygio šūkiu skelbė: „Gelbėti šventąjį tikėjimą, išnaikinti tautas, Jogailos valdomas!“
 
-## Teiginiai
-
-<a id="claim-t-206690"></a>
-- t-001
-  teiginys: "Teodoro Narbuto vaizduojamas Kryžiuočių ordinas kryžiaus žygio šūkiu skelbė: „Gelbėti šventąjį tikėjimą, išnaikinti tautas, Jogailos valdomas!“"
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189305
-
 ## Citatos
 
 - id: c-189305
@@ -67,5 +52,21 @@ Teodoro Narbuto vaizduojamas Kryžiuočių ordinas kryžiaus žygio šūkiu skel
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206690"></a>
+- t-001
+  teiginys: "Teodoro Narbuto vaizduojamas Kryžiuočių ordinas kryžiaus žygio šūkiu skelbė: „Gelbėti šventąjį tikėjimą, išnaikinti tautas, Jogailos valdomas!“"
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189305
+

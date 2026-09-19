@@ -43,26 +43,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-66678"></a>
-- t-001
-  teiginys: "Po revoliucijos Rusijoje lietuviai pradėjo telkti lietuvius karininkus ir kareivius į atskiras kariuomenės dalis."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-66876
-
-<a id="claim-t-66679"></a>
-- t-002
-  teiginys: "Lietuvių karininkams pavyko suorganizuoti kelis lietuviškus batalionus Vitebske, Smolenske, Rovnoje, Sibire ir kitur."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-66875
-
 ## Citatos
 
 - id: c-66875
@@ -85,7 +65,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-66876
@@ -105,5 +85,26 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-66678"></a>
+- t-001
+  teiginys: "Po revoliucijos Rusijoje lietuviai pradėjo telkti lietuvius karininkus ir kareivius į atskiras kariuomenės dalis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-66876
+
+<a id="claim-t-66679"></a>
+- t-002
+  teiginys: "Lietuvių karininkams pavyko suorganizuoti kelis lietuviškus batalionus Vitebske, Smolenske, Rovnoje, Sibire ir kitur."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-66875
+

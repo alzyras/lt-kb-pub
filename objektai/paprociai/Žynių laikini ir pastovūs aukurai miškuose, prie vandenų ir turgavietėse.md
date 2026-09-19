@@ -43,29 +43,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-189959"></a>
-- t-001
-  teiginys: "Narbutas rašo, kad žemesnės kategorijos žyniai miškuose, prie vandenų ir turgavietėse įsirengdavo laikinus ar pastovius aukurus aukoms."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "pastate -> Aukurai: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žyniai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Aukurai: llm_allowed_candidate, thing"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad žyniai įsirengdavo aukurus; tai artimiausiai atitinka aukurų pastatymo arba įrengimo santykį."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Žyniai pastatė Aukurai (0.72)"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172842
-
 ## Citatos
 
 - id: c-172842
@@ -91,5 +68,54 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-198090
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 269"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 269."
+  citata_originali: |
+    Pačiuose Prūsuose yra panašių
+    vietų, kurių suskaičiuojama iki šešeto, o Hartknochas veltui
+    kamuojasi su jomis nežinodamas, kurią laikyti tikrąja Romo-
+    ve; mat tie pavadinimai galėjo atsirasti dėl įvairių krašto nuti­
+    kimų, kurie galėjo paskatinti vyriausiuosius žynius apleisti vieną
+    vietą ir perkelti savo buveinę į kitą ir kartu įkurti naują šven­
+    tyklą. Kadangi lietuvių genties tautos turėjo krivių įvairiose
+    vietose, todėl buvo gausu ir aukų atnašavimo vietų, kurios ne­
+    buvo šventyklos to žodžio prasme. Taip pat ir žemesnės kate­
+    gorijos žyniai įsirengdavo laikinus arba pastovius aukurus miš­
+    kuose, po šventaisiais medžiais, upių, ežerų pakrantėse, vidu­
+    ry miestų turgaviečių ir ten prireikus atnašaudavo aukas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-216338"></a>
+- t-001
+  teiginys: "Narbutas rašo, kad žemesnės kategorijos žyniai miškuose, prie vandenų ir turgavietėse įsirengdavo laikinus ar pastovius aukurus aukoms."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "pastate -> Aukurai: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žyniai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Aukurai: llm_allowed_candidate, thing"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad žyniai įsirengdavo aukurus; tai artimiausiai atitinka aukurų pastatymo arba įrengimo santykį."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Žyniai pastatė Aukurai (0.72)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-198090
+

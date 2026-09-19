@@ -64,3 +64,45 @@ Nenurodyta
 ## Santrauka
 
 1600–1601 m. Didžioji Abiejų Tautų Respublikos pasiuntinybė vyko į Maskvą derėtis dėl „amžinosios taikos“ sudarymo.
+
+## Teiginiai
+
+<a id="claim-t-207732"></a>
+- t-001
+  teiginys: "1600–1601 m. Didžioji Abiejų Tautų Respublikos pasiuntinybė vyko į Maskvą derėtis dėl „amžinosios taikos“ sudarymo."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  temporaliniai_duomenys: "įvykio data: 1601 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys suformuluotas pagal citatoje nurodytą pasiuntinybės veiksmą ir derybų tikslą. Leono Sapiegos vardas nepridėtas, nes citata jo nemini."
+  vertinimo_atnaujinta: "2026-08-18T20:02:07Z"
+  pagrindžia:
+    - c-190547
+
+## Citatos
+
+- id: c-190547
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 226"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 226."
+  citata_originali: |
+    1600-1601 m. E. Pilgrimovijus važiavo su Didžiąja Abiejų Tautų Respublikos
+    pasiuntinybe į Maskvą vesti derybų dėl „amžinosios taikos" sudarymo. Grižęs proza ir
+    eilėmis to meto Lietuvos Didžiosios Kunigaikštystės lenkų kalba vaizdingai aprašė
+    sudėtingų derybų eigą ir kasdienį diplomatų gyvenimą Maskvoje, pateikė valdovo Bo-
+    riso Godunovo laikų Maskvos Kremliaus, diplomatinio Rusijos ceremonialo ap-
+    rašymus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+

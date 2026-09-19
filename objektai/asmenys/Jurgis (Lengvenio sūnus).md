@@ -35,24 +35,6 @@ canonical_biography: "Centre tarp lietuvių ir lenkų (kariuomenės kairiojo spa
 
 Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smolensko pulkai, kuriems vadovavo Lengvenio sūnus Jurgis, anot Dlugošo, «laimėjo didelę...
 
-## Teiginiai
-
-<a id="claim-t-29022"></a>
-- t-001
-  teiginys: "Lengvenio sūnus Jurgis vadovavo Smolensko pulkams, kurie Žalgirio mūšyje laikėsi tarp lietuvių ir lenkų kariuomenės dalių."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Lengvenis: 0.98"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jurgis (Lengvenio sūnus): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lengvenis: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai įvardija Jurgį kaip Lengvenio sūnų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-28927
-
 ## Citatos
 
 - id: c-28927
@@ -70,5 +52,24 @@ Centre tarp lietuvių ir lenkų (kariuomenės kairiojo sparno) pasilikusieji Smo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-29022"></a>
+- t-001
+  teiginys: "Lengvenio sūnus Jurgis vadovavo Smolensko pulkams, kurie Žalgirio mūšyje laikėsi tarp lietuvių ir lenkų kariuomenės dalių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Lengvenis: 0.98"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jurgis (Lengvenio sūnus): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lengvenis: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai įvardija Jurgį kaip Lengvenio sūnų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-28927
+

@@ -33,24 +33,6 @@ canonical_biography: "Dusburgietis teigia, kad triller.—Marburg, 1961; Bd. 4 (
 
 Dusburgietis teigia, kad triller.—Marburg, 1961; Bd. 4 (1346—1351) /Н.
 
-## Teiginiai
-
-<a id="claim-t-60668"></a>
-- t-001
-  teiginys: "A. Triller kartu su H. Koeppenu parengė „Preussisches Urkundenbuch“ trečio tomo papildymus ir registrą."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "A. Triller: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person, gap=75"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Triller\" parinktas kaip owner_note_path. Targetas \"Tomas (Hertvigo iš Pokarvių sūnus)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-61300
-
 ## Citatos
 
 - id: c-61300
@@ -72,5 +54,46 @@ Dusburgietis teigia, kad triller.—Marburg, 1961; Bd. 4 (1346—1351) /Н.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-202436
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 270"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
+  citata_originali: |
+    Preussisches Urkundenbuch: Politische Abtheilung.—Bd. 1. Erste Hälfte (1140—1257)
+    / Philippi, Wölky.— 1882, 1961, Aalen; Zweite Hälfte (1257—1309) / A. Seraphim,
+    1909, 1961 — Aalen; Bd. 2/М. Hein, E. Maschke.— Königsberg Pr.: 1 Lieferung (1309—
+    1324); 2 Lieferung (1324—1331), 1935; 3 Lieferung (1331—1335), 1937; 4 Lieferung
+    (Orts, Personen und Sachregister), 1939; Bd. 3: 1 Lieferung (1335—1341) / M. Hein.—
+    Königsberg Pr., 1944, Marburg, 1975; 2 Lieferung (1342— 1345)/H. Koeppen.— Marburg,
+    1958; [3 Lieferung): Nachträge, Register/H. Koeppen, A. Triller.—Marburg, 1961; Bd. 4
+    (1346—1351) /Н. Koeppen.— Marburg, 1960.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-222652"></a>
+- t-001
+  teiginys: "A. Triller kartu su H. Koeppenu parengė „Preussisches Urkundenbuch“ trečio tomo papildymus ir registrą."
+  atnaujinta: "2026-09-13 18:12"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "A. Triller: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person, gap=75"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"A. Triller\" parinktas kaip owner_note_path. Targetas \"Tomas (Hertvigo iš Pokarvių sūnus)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202436
+

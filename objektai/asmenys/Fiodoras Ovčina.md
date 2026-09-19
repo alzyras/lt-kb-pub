@@ -42,29 +42,6 @@ canonical_biography: "Kojelavičius Fiodorą Ovčiną vaizduoja kaip valdžią u
 
 Kojelavičius Fiodorą Ovčiną vaizduoja kaip valdžią užgrobusį caro globėją, kuris klastingomis kalbomis sukurstė karą prieš Lietuvą. Kojelavičius Fiodorą Ovčiną vaizduoja kaip valdžią užgrobusį caro globėją, kuris klastingomis kalbomis sukurstė karą prieš Lietuvą.
 
-## Teiginiai
-
-<a id="claim-t-186040"></a>
-- t-001
-  teiginys: "Kojelavičius Fiodorą Ovčiną vaizduoja kaip valdžią užgrobusį caro globėją, kuris klastingomis kalbomis sukurstė karą prieš Lietuvą."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Lietuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad maskvėnai nusiaubė Lietuvą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Maskvėnai puolė Lietuva (0.90)"
-  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
-  pagrindžia:
-    - c-169401
-
 ## Citatos
 
 - id: c-169401
@@ -92,5 +69,29 @@ Kojelavičius Fiodorą Ovčiną vaizduoja kaip valdžią užgrobusį caro globė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-186040"></a>
+- t-001
+  teiginys: "Kojelavičius Fiodorą Ovčiną vaizduoja kaip valdžią užgrobusį caro globėją, kuris klastingomis kalbomis sukurstė karą prieš Lietuvą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Lietuva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad maskvėnai nusiaubė Lietuvą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Maskvėnai puolė Lietuva (0.90)"
+  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
+  pagrindžia:
+    - c-169401
+

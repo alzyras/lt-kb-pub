@@ -35,17 +35,6 @@ canonical_biography: "Vladislovas buvo Čekų ir Vengrų karalius. Jis tuo tarpu
 
 Vladislovas buvo Čekų ir Vengrų karalius. Jis tuo tarpu gyveno Silezijoje, kur iš brolio, Čekų karaliaus Vladislovo, buvo gavęs valdyti keletą mažų kunigaikštysčių.
 
-## Teiginiai
-
-<a id="claim-t-64248"></a>
-- t-001
-  teiginys: "Vladislovas buvo Čekų ir Vengrų karalius."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-65053
-
 ## Citatos
 
 - id: c-65053
@@ -67,5 +56,17 @@ Vladislovas buvo Čekų ir Vengrų karalius. Jis tuo tarpu gyveno Silezijoje, ku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-64248"></a>
+- t-001
+  teiginys: "Vladislovas buvo Čekų ir Vengrų karalius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-65053
+

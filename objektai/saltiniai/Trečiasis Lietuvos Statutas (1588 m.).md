@@ -34,87 +34,6 @@ media_all_json: |-
 
 pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų), atskiras iždas, kariuomenė, teismai ir teisinė sistema, kurią įformino Trečiasis Lietuvos Statutas 1588 m. Taigi Abiejų Tautų Respublika – ne unitarinė valstybė, o federacija, kurioje bendros yra.
 
-## Teiginiai
-
-<a id="claim-t-203736"></a>
-- t-001
-  teiginys: "1588 m. Trečiojo Lietuvos Statuto XII skyriaus 2 skirsnyje išvardytos nelaisvųjų ir priklausomų žmonių kategorijos, kurių savavališkas pasitraukimas iš dvaro laikytas nusikalstamu pabėgimu."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  temporaliniai_duomenys: "įvykio data: 1588 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Trečiojo Lietuvos Statuto nuostatą ir yra gramatiškai užbaigtas. Naujų faktų ar papildomos atribucijos nepridėta."
-  pagrindžia:
-    - c-186340
-
-<a id="claim-t-203737"></a>
-- t-002
-  teiginys: "Trečiasis Lietuvos Statutas pabėgėlių bylų nagrinėjimą siejo su paieškos arealu, senaties terminu, atpažinimo ir sulaikymo aplinkybėmis bei išdavimo ir teisėtumo reikalavimo procedūromis."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  vertinimo_atnaujinta: "2026-07-30T20:06:12Z"
-  pagrindžia:
-    - c-186341
-
-<a id="claim-t-203738"></a>
-- t-003
-  teiginys: "Trečiojo Statuto XII skyriaus 14 skirsnyje nustatyta kompensacija po 6 kapas grašių už kiekvieno bėglio dieną ir po 2 grašius už vaiką; smurtinis žmonių pagrobimas iš šeimininkų baustas kartuvėmis."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  pagrindžia:
-    - c-186342
-
-<a id="claim-t-203739"></a>
-- t-004
-  teiginys: "Trečiasis Lietuvos Statutas 6 mylių atstumą nuo buvusio šeimininko dvaro nustatė kaip atspirties tašką sprendžiant pabėgimo bylas ir buvusio šeimininko pretenzijų pagrįstumą."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  vertinimo_atnaujinta: "2026-07-30T20:06:12Z"
-  pagrindžia:
-    - c-186343
-
-<a id="claim-t-203740"></a>
-- t-005
-  teiginys: "Trečiojo Lietuvos Statuto XII skyriaus 24 skirsnis įpareigojo į miestą atvykusį ar pastogės ieškantį žmogų nurodyti savo tapatybę, kilmę, ankstesnę tarnybą ir kelionės tikslą."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  vertinimo_atnaujinta: "2026-07-30T20:06:12Z"
-  pagrindžia:
-    - c-186344
-
-<a id="claim-t-203803"></a>
-- t-006
-  teiginys: "Trečiajame Lietuvos Statute už bajoro namo užpuolimą buvo numatyta mirties bausmė, tačiau neaptikta nė vieno tokio nuosprendžio."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
-  pagrindžia:
-    - c-186407
-
 ## Citatos
 
 - id: c-23984
@@ -139,6 +58,9 @@ pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų), atskiras i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
 - id: c-186340
   autorius: "Giedrė Sabaitytė"
   šaltinis: "Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas — Pabėgusių iš dvarų valstiečių „užribiškumo\" problema XVI—XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenėje"
@@ -158,8 +80,8 @@ pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų), atskiras i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-002
 
 - id: c-186341
   autorius: "Giedrė Sabaitytė"
@@ -182,8 +104,8 @@ pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų), atskiras i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-003
 
 - id: c-186342
   autorius: "Giedrė Sabaitytė"
@@ -211,8 +133,8 @@ pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų), atskiras i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-004
 
 - id: c-186343
   autorius: "Giedrė Sabaitytė"
@@ -233,8 +155,8 @@ pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų), atskiras i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-005
 
 - id: c-186344
   autorius: "Giedrė Sabaitytė"
@@ -259,8 +181,8 @@ pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų), atskiras i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-006
 
 - id: c-186407
   autorius: "Domininkas Burba"
@@ -276,5 +198,142 @@ pusėje ėmė rastis ir bendrų vykdomosios valdžios institucijų), atskiras i�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-007
+
+- id: c-190186
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 168"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 168."
+  citata_originali: |
+    Aukščiausia (šalia valdovo) valdžios institucija buvo bendras seimas, susidėjęs iš senato
+    ir atstovų rūmų ir rinkęs karalių. Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta
+    vienai Lenkijos provincijai (jos buvo dvi – Didžioji Lenkija su Poznane ir Mažoji Lenkija
+    su Krokuva).
+    Tačiau išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk-
+    domoji valdžia – kancleris, iždininkas, etmonas ir kt. (tik antrojoje XVIII a. pusėje ėmė
+    rastis ir bendros vykdomosios valdžios institucijos), atskiras iždas, kariuomenė, teismai ir
+    teisinė sistema, kurią įformino Trečiasis Lietuvos Statutas 1588 metais.
+  citata_rodoma: "teisinė sistema, kurią įformino Trečiasis Lietuvos Statutas 1588 metais."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-008
+
+## Teiginiai
+
+<a id="claim-t-21285"></a>
+- t-001
+  teiginys: "Trečiasis Lietuvos Statutas 1588 m. įformino atskirą LDK teisinę sistemą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Trečiasis Lietuvos Statutas (1588 m.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Trečiasis Lietuvos Statutas (1588 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1588 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys buvo fragmentiškas, o citata pagrindžia glaustą faktą."
+  pagrindžia:
+    - c-23984
+
+<a id="claim-t-203736"></a>
+- t-002
+  teiginys: "1588 m. Trečiojo Lietuvos Statuto XII skyriaus 2 skirsnyje išvardytos nelaisvųjų ir priklausomų žmonių kategorijos, kurių savavališkas pasitraukimas iš dvaro laikytas nusikalstamu pabėgimu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1588 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Trečiojo Lietuvos Statuto nuostatą ir yra gramatiškai užbaigtas. Naujų faktų ar papildomos atribucijos nepridėta."
+  pagrindžia:
+    - c-186340
+
+<a id="claim-t-203737"></a>
+- t-003
+  teiginys: "Trečiasis Lietuvos Statutas pabėgėlių bylų nagrinėjimą siejo su paieškos arealu, senaties terminu, atpažinimo ir sulaikymo aplinkybėmis bei išdavimo ir teisėtumo reikalavimo procedūromis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  vertinimo_atnaujinta: "2026-07-30T20:06:12Z"
+  pagrindžia:
+    - c-186341
+
+<a id="claim-t-203738"></a>
+- t-004
+  teiginys: "Trečiojo Statuto XII skyriaus 14 skirsnyje nustatyta kompensacija po 6 kapas grašių už kiekvieno bėglio dieną ir po 2 grašius už vaiką; smurtinis žmonių pagrobimas iš šeimininkų baustas kartuvėmis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  pagrindžia:
+    - c-186342
+
+<a id="claim-t-203739"></a>
+- t-005
+  teiginys: "Trečiasis Lietuvos Statutas 6 mylių atstumą nuo buvusio šeimininko dvaro nustatė kaip atspirties tašką sprendžiant pabėgimo bylas ir buvusio šeimininko pretenzijų pagrįstumą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  vertinimo_atnaujinta: "2026-07-30T20:06:12Z"
+  pagrindžia:
+    - c-186343
+
+<a id="claim-t-203740"></a>
+- t-006
+  teiginys: "Trečiojo Lietuvos Statuto XII skyriaus 24 skirsnis įpareigojo į miestą atvykusį ar pastogės ieškantį žmogų nurodyti savo tapatybę, kilmę, ankstesnę tarnybą ir kelionės tikslą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  vertinimo_atnaujinta: "2026-07-30T20:06:12Z"
+  pagrindžia:
+    - c-186344
+
+<a id="claim-t-203803"></a>
+- t-007
+  teiginys: "Trečiajame Lietuvos Statute už bajoro namo užpuolimą buvo numatyta mirties bausmė, tačiau neaptikta nė vieno tokio nuosprendžio."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186407
+
+<a id="claim-t-207569"></a>
+- t-008
+  teiginys: "Trečiasis Lietuvos Statutas įformino LDK teisinę sistemą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  pagrindžia:
+    - c-190186
+

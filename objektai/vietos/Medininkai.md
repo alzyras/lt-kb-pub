@@ -44,10 +44,22 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
 
 ## Teiginiai
 
+<a id="claim-t-210748"></a>
+- t-210748
+  teiginys: "Medininkai buvo vieta, kurioje Vytautas pastatė švento Petro bažnyčią ir įsteigė Žemaičių vyskupiją."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193700
+
 <a id="claim-t-94746"></a>
-- t-001
+- t-94746
   teiginys: "Apie gegužės 20 d. į Vilniaus srities Medininkus buvo įsiveržta, ten išbūta aštuonias dienas ir pasitraukta su dideliu grobiu."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -61,9 +73,9 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
     - c-37543
 
 <a id="claim-t-206525"></a>
-- t-002
+- t-206525
   teiginys: "Keturkampės Medininkų pilies griuvėsių yra iki šiol."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -89,8 +101,8 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-94746
 
 - id: c-189140
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -103,8 +115,27 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-206525
+
+- id: c-193700
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 107"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 107."
+  citata_originali: |
+    Tais pačiais metais Vytautas įsteigė Žemaičių vys­
+    kupiją ir pastatė švento Petro bažnyčią Medininkuose,
+    kuriuos žemaičiai dabar Varniais vadina; paskyrė ka­
+    nauninkus, apdovanojo bažnyčią turtais9
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210748
 
 ## Ryšiai
 - Puolė Medininkai: [[objektai/grupes/Kryžiuočių ordinas]]

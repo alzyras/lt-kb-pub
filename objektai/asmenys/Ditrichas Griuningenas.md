@@ -39,20 +39,6 @@ canonical_biography: "Jusdami tą pavojų, kryžėjai parvadino tuojau iš Padau
 
 Jusdami tą pavojų, kryžėjai parvadino tuojau iš Padaugavio Balką, kursai pernykščiai buvo ten nukeliavęs, bet tą išgirdęs, atdavęs tenai valdžią brostviui Ditrichui Griuningenui, pagrįžo į Payslį ir steigė tą pavojų kaip įmanąs attolinti.
 
-## Teiginiai
-
-<a id="claim-t-201417"></a>
-- t-001
-  teiginys: "Jusdami tą pavojų, kryžėjai parvadino tuojau iš Padaugavio Balką, kursai pernykščiai buvo ten nukeliavęs, bet tą išgirdęs, atdavęs tenai valdžią brostviui Ditrichui Griuningenui, pagrįžo į Payslį ir steigė tą pavojų kaip įmanąs attolinti."
-  atnaujinta: "2026-07-16 14:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184767
-
 ## Citatos
 
 - id: c-184767
@@ -74,5 +60,20 @@ Jusdami tą pavojų, kryžėjai parvadino tuojau iš Padaugavio Balką, kursai p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201417"></a>
+- t-001
+  teiginys: "Jusdami tą pavojų, kryžėjai parvadino tuojau iš Padaugavio Balką, kursai pernykščiai buvo ten nukeliavęs, bet tą išgirdęs, atdavęs tenai valdžią brostviui Ditrichui Griuningenui, pagrįžo į Payslį ir steigė tą pavojų kaip įmanąs attolinti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184767
+

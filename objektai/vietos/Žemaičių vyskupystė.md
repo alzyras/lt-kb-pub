@@ -45,10 +45,23 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
 
 ## Teiginiai
 
+<a id="claim-t-209279"></a>
+- t-209279
+  teiginys: "Žemaičių vyskupystėje, anot Egidijaus Aleksandravičiaus, švietimo ir ekonominė padėtis gerokai pranoko likusios Lietuvos valstiečių padėtį."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:28Z"
+  pagrindžia:
+    - c-192040
+
 <a id="claim-t-02939"></a>
-- t-001
+- t-02939
   teiginys: "Žemaičių vyskupystė 1849 m. buvo padidinta, prie jos prijungus 93 Vilniaus vyskupystės parapijas."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -87,5 +100,29 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-02939
+
+- id: c-192040
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 30"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 30."
+  citata_originali: |
+    O šitai,
+    kaip visuotinai žinoma, yra netiesą. Pati didžiausia blaivybės idėjų
+    sklaida Žemaičių žemėje buvo ne todėl, kad čionykščiai valstiečiai
+    būtų tamsesni, girtesni ar skurdesni. Priešingai, kaip išaiškinsime
+    vėliau, Žemaičių vyskupystėje švietimas ir ekonominė padėtis gerokai
+    pranoko likusios Lietuvos valstiečių padėtį.
+  citata_rodoma: "Priešingai, kaip išaiškinsime \nvėliau, Žemaičių vyskupystėje švietimas ir ekonominė padėtis gerokai \npranoko likusios Lietuvos valstiečių padėtį."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209279
+

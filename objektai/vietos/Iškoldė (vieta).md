@@ -50,21 +50,6 @@ Iškoldės dvarui priklausę bajorai ir tarnai, karinio šaukimo bei žygių met
 
 Iškoldės dvarui priklausę bajorai ir tarnai, karinio šaukimo bei žygių metu apsiginklavę savo lėšomis, sudarė du dalinius.
 
-## Teiginiai
-
-<a id="claim-t-204033"></a>
-- t-001
-  teiginys: "Iškoldės dvarui priklausę bajorai ir tarnai, karinio šaukimo bei žygių metu apsiginklavę savo lėšomis, sudarė du dalinius."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
-  pagrindžia:
-    - c-186637
-
 ## Citatos
 
 - id: c-186637
@@ -107,5 +92,21 @@ Iškoldės dvarui priklausę bajorai ir tarnai, karinio šaukimo bei žygių met
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204033"></a>
+- t-001
+  teiginys: "Iškoldės dvarui priklausę bajorai ir tarnai, karinio šaukimo bei žygių metu apsiginklavę savo lėšomis, sudarė du dalinius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186637
+

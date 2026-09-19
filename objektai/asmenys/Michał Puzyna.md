@@ -53,3 +53,42 @@ Michał Puzyna buvo pisarz litewski ir ėjo sekretoriaus funkciją.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-190830
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 72"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 72."
+  citata_originali: |
+    Na dobrą sprawę jedynymi osiągnięciami poselstwa było wypuszczenie z niewoli
+    rosyjskiej pewnej grupy Polaków i Litwinów oraz zwrot części z n o armat,
+    których oddania domagała się strona polsko-litewska21. Niewiele wiadomo o
+    roli odegranej w negocjacjach przez pisarza litewskiego Michała Puzynę. W
+    oficjalnych dokumentach relacjonujących przebieg poselstwa jedynie okazjo­
+    nalnie wymieniany jest pełniący funkcję sekretarza Puzyna, choć niewątpliwie
+    był wtedy, jak byśmy to dzisiaj powiedzieli, specjalistą od spraw rosyjskich.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-208199"></a>
+- t-001
+  teiginys: "Michał Puzyna buvo pisarz litewski ir ėjo sekretoriaus funkciją."
+  atnaujinta: "2026-09-13 21:45"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190830
+

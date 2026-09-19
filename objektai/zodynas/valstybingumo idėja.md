@@ -78,22 +78,6 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
   pagrindžia:
     - c-05598
 
-<a id="claim-t-05470"></a>
-- t-002
-  teiginys: "Visas veikalo dėstymas sutelktas apie valstybingumo idėją lietuvių tautoje."
-  atnaujinta: "2026-05-31 10:29"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "valstybingumo idėja: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=20"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"valstybingumo idėja\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-05599
-
 <a id="claim-t-05471"></a>
 - t-003
   teiginys: "Valstybingumo idėja aprašoma kaip atsiradusi, vystęsi, išbujavusi, silpusi, atsigavusi ir realizuota."
@@ -110,10 +94,26 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
   pagrindžia:
     - c-05599
 
+<a id="claim-t-05470"></a>
+- t-05470
+  teiginys: "Visas veikalo dėstymas sutelktas apie valstybingumo idėją lietuvių tautoje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "valstybingumo idėja: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuviai: mention_match, group, gap=20"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"valstybingumo idėja\" parinktas kaip owner_note_path. Targetas \"Lietuviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-05599
+
 <a id="claim-t-05472"></a>
-- t-004
+- t-05472
   teiginys: "Viena Lietuvos istorijos periodizacija remiasi valstybingumo idėja."
-  atnaujinta: "2026-05-31 10:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -129,9 +129,9 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
     - c-05600
 
 <a id="claim-t-05473"></a>
-- t-005
+- t-05473
   teiginys: "Lietuvių tautos valstybingumo idėja grindė periodizaciją pagal Lietuvos valstybės raidą, žlugimą ir atkūrimą."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -148,9 +148,9 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
     - c-05600
 
 <a id="claim-t-05474"></a>
-- t-006
+- t-05474
   teiginys: "Naujaisiais laikais šiai periodizacijai svarbiausia valstybingumo idėja."
-  atnaujinta: "2026-05-31 10:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -219,11 +219,12 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
     buvo suklota ir vis tebekovojama laisvame pasaulyje.
   citata_rodoma: "Šitoks nuo XIX amžiaus pirmos pusės išpuoselėtas savo praei-\nties idealizavimas lietuvių tautoje yra jau atlikęs sau skirtą vaid-\nmenį. Lietuvių tauta tiek tautiškai susiprato, kad ji daug pastangų\npadėjo, kol ji prieš pusę šimtmečio įgyvendino Lietuvos valsty-\nbingumo idealą. Už tą patį, savos istorijos pagalba įsisąmonintą\nidealą ir po Antrojo Pasaulinio karo pačiame krašte daug aukų\nbuvo suklota ir vis tebekovojama laisvame pasaulyje."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-05599
@@ -241,13 +242,14 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
     religinio, kultūrinio bei ūkinio gyvenimo faktais.
   citata_rodoma: "Bandydami _kritiškai_ ir, kiek žmogiškai prigimčiai nustatytos\nribos leidžia, _objektyviai_ eiti į lietuvių tautos išgyventus šimtme-\nčius, visą savo dėstymą norime sutelkti apie _valstybingumo idėją_\nlietuvių tautoje. Kaip ji _atsirado,_ vystėsi, išbujojo ir paskui silpo\nir kaip ji vėl _atsigavo_ ir vėl buvo realizuota, yra mūsojo darbo\nvedamoji mintis per visus šimtmečius. Ji paryškinta politinio,\nreliginio, kultūrinio bei ūkinio gyvenimo faktais."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
     - t-003
+    - t-05470
 
 - id: c-05600
   autorius: "Zenonas Ivinskis"
@@ -269,9 +271,9 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
-    - t-005
+  pagrindžia:
+    - t-05472
+    - t-05473
 
 - id: c-05601
   autorius: "Zenonas Ivinskis"
@@ -290,5 +292,6 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-05474
+

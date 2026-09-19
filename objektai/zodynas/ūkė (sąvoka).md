@@ -29,32 +29,6 @@ media_all_json: |-
 
 Kernius, kunigaikštis Lietuvos, tapęs nuo karių Jaroslavo jautresnis, saugodamos nuo antpuolių gu dų, aukštame skardy linksmoj laukymėj tarp ąžuo lynų rimtą pilį įkūręs ir nuo savo vardo ją Kerna ve praminęs, kurioje pats su ūkės rėdą ir Lietuvos vyresnybe. Įgavus ūkės valdžią Vladislovui Hermanui, bro liui Boleslovo Drąsiojo, ne vien pamezonys, nes gu dai ir pamariai lenkų nebklausė ir duoklės nebdavė.
 
-## Teiginiai
-
-<a id="claim-t-201204"></a>
-- t-001
-  teiginys: "Kernius, kunigaikštis Lietuvos, tapęs nuo karių Jaroslavo jautresnis, saugodamos nuo antpuolių gu dų, aukštame skardy linksmoj laukymėj tarp ąžuo lynų rimtą pilį įkūręs ir nuo savo vardo ją Kerna ve praminęs, kurioje pats su ūkės rėdą ir Lietuvos vyresnybe."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184554
-
-<a id="claim-t-201205"></a>
-- t-002
-  teiginys: "Įgavus ūkės valdžią Vladislovui Hermanui, bro liui Boleslovo Drąsiojo, ne vien pamezonys, nes gu dai ir pamariai lenkų nebklausė ir duoklės nebdavė."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184555
-
 ## Citatos
 
 - id: c-184554
@@ -89,7 +63,7 @@ Kernius, kunigaikštis Lietuvos, tapęs nuo karių Jaroslavo jautresnis, saugoda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184555
@@ -113,5 +87,32 @@ Kernius, kunigaikštis Lietuvos, tapęs nuo karių Jaroslavo jautresnis, saugoda
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-201204"></a>
+- t-001
+  teiginys: "Kernius, kunigaikštis Lietuvos, tapęs nuo karių Jaroslavo jautresnis, saugodamos nuo antpuolių gu dų, aukštame skardy linksmoj laukymėj tarp ąžuo lynų rimtą pilį įkūręs ir nuo savo vardo ją Kerna ve praminęs, kurioje pats su ūkės rėdą ir Lietuvos vyresnybe."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184554
+
+<a id="claim-t-201205"></a>
+- t-002
+  teiginys: "Įgavus ūkės valdžią Vladislovui Hermanui, bro liui Boleslovo Drąsiojo, ne vien pamezonys, nes gu dai ir pamariai lenkų nebklausė ir duoklės nebdavė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184555
+

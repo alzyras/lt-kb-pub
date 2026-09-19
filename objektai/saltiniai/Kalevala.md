@@ -38,18 +38,6 @@ A. Sabaliauskas „Kalevalą“ mini kaip kūrinį, nulėmusį A. R. Niemio pasi
 
 A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 
-## Teiginiai
-
-<a id="claim-t-195218"></a>
-- t-001
-  teiginys: "A. Sabaliauskas rašo, kad „Kalevala“ ir jos kūrėjas Lonnrotas nulėmė A. R. Niemio liaudies dainų tyrimo krypties pasirinkimą."
-  atnaujinta: "2026-07-11 22:44"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177584
-
 ## Citatos
 
 - id: c-177584
@@ -69,5 +57,18 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-195218"></a>
+- t-001
+  teiginys: "A. Sabaliauskas rašo, kad „Kalevala“ ir jos kūrėjas Lonnrotas nulėmė A. R. Niemio liaudies dainų tyrimo krypties pasirinkimą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177584
+

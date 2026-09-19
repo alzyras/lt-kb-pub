@@ -42,21 +42,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206876"></a>
-- t-001
-  teiginys: "1395 m. žiemą Lengvenis Simonas su Lietuvos kariauna ir smolenskiečiais nukariavo žemes tarp Okos ir Dono ir išgabeno grobį į Lietuvą."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189491
-
 ## Santrauka
 
 1395 m. žiemą Lengvenis Simonas su Lietuvos kariauna ir smolenskiečiais nukariavo žemes tarp Okos ir Dono ir išgabeno grobį į Lietuvą.
@@ -81,5 +66,21 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206876"></a>
+- t-001
+  teiginys: "1395 m. žiemą Lengvenis Simonas su Lietuvos kariauna ir smolenskiečiais nukariavo žemes tarp Okos ir Dono ir išgabeno grobį į Lietuvą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189491
+

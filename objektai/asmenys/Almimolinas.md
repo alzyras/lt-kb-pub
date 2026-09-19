@@ -35,25 +35,6 @@ canonical_biography: "Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo u�
 
 Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totorių Taip pat tuo metu Almimolinas, saracėnų valdovas, atvyko su begaline gausybe karių į Ispaniją ir paskelbė karą visiems, kurie gerbia nukryžiuotąjį.
 
-## Teiginiai
-
-<a id="claim-t-60235"></a>
-- t-001
-  teiginys: "Almimolinas, saracėnų valdovas, su gausia kariuomene atvyko į Ispaniją ir paskelbė karą nukryžiuotąjį gerbiantiems žmonėms."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Ispanija: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Almimolinas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ispanija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Almimolino atvykimą į Ispaniją su kariuomene."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Almimolinas keliavo į Ispanija (0.94)"
-  pagrindžia:
-    - c-60867
-
 ## Citatos
 
 - id: c-60867
@@ -73,9 +54,49 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-203609
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 226"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 226."
+  citata_originali: |
+    Apie tai, kaip Ispanijoje buvo užmušta daugybė totorių
+
+       Taip pat tuo metu Almimolinas, saracėnų valdovas, atvyko su begaline gausybe karių
+    į Ispaniją  ir paskelbė karą visiems, kurie gerbia nukryžiuotąjį. Ispanijos karaliai,  jį
+    užpuolę, nugalėjo, o tiek daug jų kovoje krito, kad nuo užmuštų saracėnų plūdo upeliai
+    kraujo. Almimolinas gėdingai pabėgo su keliais savo kariais (Ptol. 21,9; Mart. p. 392).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Almimolinas buvo valdovas [[objektai/grupes/Saracėnai]]
 - Almimolinas keliavo į [[objektai/vietos/Ispanija]]
+
+## Teiginiai
+
+<a id="claim-t-221689"></a>
+- t-001
+  teiginys: "Almimolinas, saracėnų valdovas, su gausia kariuomene atvyko į Ispaniją ir paskelbė karą nukryžiuotąjį gerbiantiems žmonėms."
+  atnaujinta: "2026-09-13 18:12"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Ispanija: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Almimolinas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Ispanija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Almimolino atvykimą į Ispaniją su kariuomene."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Almimolinas keliavo į Ispanija (0.94)"
+  pagrindžia:
+    - c-203609
+

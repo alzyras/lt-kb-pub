@@ -24,20 +24,6 @@ media_all_json: |-
 
 O vilniečiai, pagal savo privilegijas neturintys mokėti muito, atvykę į Kauną privalėjo sumokėti muitininkui vadinamąją pranešimo rinkliavą (o6ecmKa) - vieną grašį.
 
-## Teiginiai
-
-<a id="claim-t-201791"></a>
-- t-001
-  teiginys: "O vilniečiai, pagal savo privilegijas neturintys mokėti muito, atvykę į Kauną privalėjo sumokėti muitininkui vadinamąją pranešimo rinkliavą (o6ecmKa) - vieną grašį."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185138
-
 ## Citatos
 
 - id: c-185138
@@ -58,5 +44,20 @@ O vilniečiai, pagal savo privilegijas neturintys mokėti muito, atvykę į Kaun
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201791"></a>
+- t-001
+  teiginys: "O vilniečiai, pagal savo privilegijas neturintys mokėti muito, atvykę į Kauną privalėjo sumokėti muitininkui vadinamąją pranešimo rinkliavą (o6ecmKa) - vieną grašį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185138
+

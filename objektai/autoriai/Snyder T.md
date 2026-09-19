@@ -75,9 +75,11 @@ Snyder T.
     1999. Vilnius, 2003.
   citata_rodoma: "Snyder T. Tautų rekonstrukcija. Lietuva, Lenkija, Ukraina, Baltarusija 1569–\n1999. Vilnius, 2003."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -32,12 +32,47 @@ media_all_json: |-
 
 „Musų senovės“ 1940 m. trečiame tome nurodomi J. Spudulio laiškai A. Dambrauskui-Jakštui.
 
+## Citatos
+
+- id: c-173433
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 13"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 13."
+  citata_originali: |
+    Lietuvos bajorai buvo laikomi su­
+    14 J. Spudulio laiškai A. Dambrauskui-Jakštui // Musų senovė. -
+    1940. - T. 3. - P. 169.
+  statusas: verified
+  atnaujinta: "2026-07-12 22:33"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-199270
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 13"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 13."
+  citata_originali: |
+    Lietuvos bajorai buvo laikomi su­
+    14 J. Spudulio laiškai A. Dambrauskui-Jakštui // Musų senovė. -
+    1940. - T. 3. - P. 169.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
 ## Teiginiai
 
-<a id="claim-t-190550"></a>
+<a id="claim-t-219035"></a>
 - t-001
   teiginys: "„Musų senovės“ 1940 m. trečiame tome nurodomi J. Spudulio laiškai A. Dambrauskui-Jakštui."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-09-12 23:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -55,23 +90,5 @@ media_all_json: |-
   temporalinis_llm_pakomentavimas: "Bibliografinis fragmentas perrašytas į pilną sakinį apie leidinį. Nepridėta turinio apie laiškus ar Lietuvos bajorus, nes citata to nepakankamai pagrindžia."
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-173433
+    - c-199270
 
-## Citatos
-
-- id: c-173433
-  autorius: "Teodoras Narbutas"
-  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  puslapiai: "PDF 13"
-  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 13."
-  citata_originali: |
-    Lietuvos bajorai buvo laikomi su­
-    14 J. Spudulio laiškai A. Dambrauskui-Jakštui // Musų senovė. -
-    1940. - T. 3. - P. 169.
-  statusas: verified
-  atnaujinta: "2026-07-12 22:33"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

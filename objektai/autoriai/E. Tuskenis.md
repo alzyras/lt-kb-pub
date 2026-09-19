@@ -34,17 +34,6 @@ canonical_biography: "Tuskenis."
 
 Tuskenis.
 
-## Teiginiai
-
-<a id="claim-t-19390"></a>
-- t-001
-  teiginys: "E. Tuskenis redagavo leidinį „Lithuania in European Politics“."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-22127
-
 ## Citatos
 
 - id: c-22127
@@ -61,5 +50,17 @@ Tuskenis.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-19390"></a>
+- t-001
+  teiginys: "E. Tuskenis redagavo leidinį „Lithuania in European Politics“."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-22127
+

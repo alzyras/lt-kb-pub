@@ -35,10 +35,32 @@ Narbutas nurodė, kad ponas Kruze vykdė kapaviečių kasinėjimus Kurše, Infli
 
 ## Teiginiai
 
-<a id="claim-t-191892"></a>
-- t-001
+<a id="claim-t-214973"></a>
+- t-003
+  teiginys: "Tuo remdamasis, ponas Kruze daro išvadą apie kapaviečių amžių: 1) jeigu akmeniniai kirvukai, strėlių antgaliai, kaltukai yra randami prie gryno vario likučių, tai kapavietė priklauso pačiai seniausiai epochai, kai dar nebuvo naudojama geležis; 2) jeigu greta."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196181
+
+<a id="claim-t-212283"></a>
+- t-212283
+  teiginys: "Kurše, Infliantuose ir Estijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru sioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi čius3."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
+<a id="claim-t-214526"></a>
+- t-214526
   teiginys: "Narbutas nurodė, kad ponas Kruze vykdė kapaviečių kasinėjimus Kurše, Infliantuose ir Estijoje."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -52,20 +74,6 @@ Narbutas nurodė, kad ponas Kruze vykdė kapaviečių kasinėjimus Kurše, Infli
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kruze\" parinktas kaip owner_note_path. Targetas \"Estija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-174774
-
-<a id="claim-t-197621"></a>
-- t-002
-  teiginys: "Kurše, Infliantuose ir Estijoje kasinėjimus vykdė ponas Kruze2, Lietuvos Ru sioje, Borisovo apskrityje, kasinėjo Eustachijus Tiškevi čius3."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-174774
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -117,6 +125,33 @@ Narbutas nurodė, kad ponas Kruze vykdė kapaviečių kasinėjimus Kurše, Infli
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
+
+- id: c-196181
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 386-387"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 386-387."
+  citata_originali: |
+    Tuo
+    remdamasis, ponas Kruze daro išvadą apie kapaviečių
+    amžių: 1) jeigu akmeniniai kirvukai, strėlių antgaliai,
+    kaltukai yra randami prie gryno vario likučių, tai kapa-
+    376
+
+    vietė priklauso pačiai seniausiai epochai, kai dar nebuvo
+    naudojama geležis; 2) jeigu greta varinių ir sidabrinių
+    papuošalų randama ir geležinių dirbinių ar nedidelių
+    daiktų, kurie gali būti priskiriami ginklams arba kokiems
+    nors kitiems daiktams, — vadinasi, pilkapis priklauso
+    vėlesnei epochai; 3) jeigu randamos rūbų, ginklų, žirgo
+    puošybos liekanos, tai byloja apie pačią vėlyviausią epo­
+    chą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+

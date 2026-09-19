@@ -39,20 +39,6 @@ canonical_biography: "Štai 1561 m. Austrijos erchercogo Ferdinando tarnas Adoma
 
 Štai 1561 m. Austrijos erchercogo Ferdinando tarnas Adomas Timas Kauno vaitui Motiejui Heinui apskundė dėl vagystės Andrisą Rodtą, matyt, vokietį, kuris Veliuonoje prisijungė prie jo, kad išmoktų lietuvių kalbos.
 
-## Teiginiai
-
-<a id="claim-t-202116"></a>
-- t-001
-  teiginys: "Štai 1561 m. Austrijos erchercogo Ferdinando tarnas Adomas Timas Kauno vaitui Motiejui Heinui apskundė dėl vagystės Andrisą Rodtą, matyt, vokietį, kuris Veliuonoje prisijungė prie jo, kad išmoktų lietuvių kalbos."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185463
-
 ## Citatos
 
 - id: c-185463
@@ -70,5 +56,20 @@ canonical_biography: "Štai 1561 m. Austrijos erchercogo Ferdinando tarnas Adoma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202116"></a>
+- t-001
+  teiginys: "Štai 1561 m. Austrijos erchercogo Ferdinando tarnas Adomas Timas Kauno vaitui Motiejui Heinui apskundė dėl vagystės Andrisą Rodtą, matyt, vokietį, kuris Veliuonoje prisijungė prie jo, kad išmoktų lietuvių kalbos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185463
+

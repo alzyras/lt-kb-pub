@@ -42,20 +42,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-201329"></a>
-- t-001
-  teiginys: "Ateinantį metą Jaroslavas, kunigaikštis Naugar- 1191 do, regėdamas, jog su lietuviais nebebus doros, at sidėjęs iš visos galios ketėjo su jais kariauti; kaipogi, susitaręs su kitais gudų kunigaikščiais, traukė ne į Lietuvą, bet į Žemgalius, kurių visą kraštą."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184679
-
 ## Citatos
 
 - id: c-184679
@@ -85,5 +71,20 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201329"></a>
+- t-001
+  teiginys: "Ateinantį metą Jaroslavas, kunigaikštis Naugar- 1191 do, regėdamas, jog su lietuviais nebebus doros, at sidėjęs iš visos galios ketėjo su jais kariauti; kaipogi, susitaręs su kitais gudų kunigaikščiais, traukė ne į Lietuvą, bet į Žemgalius, kurių visą kraštą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184679
+

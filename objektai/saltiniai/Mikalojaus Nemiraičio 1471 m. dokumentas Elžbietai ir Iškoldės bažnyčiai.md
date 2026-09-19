@@ -37,37 +37,6 @@ media_all_json: |-
 
 1471 m. Mikalojaus Nemiraičio dokumentas, skirtas žmonai Elžbietai ir Iškoldės bažnyčiai, nurodo, kad Iškoldės dvarui priklausantys bajorai tarnauja ex iure feodali. 1471 m. Mikalojaus Nemiraičio dokumentas nurodo, kad Zuchowiczczi, Thuhanowczy ir Lissiczczi vietovių bajorai bei tarnai, apsiginklavę savo lėšomis, sudaro du dalinius.
 
-## Teiginiai
-
-<a id="claim-t-204076"></a>
-- t-001
-  teiginys: "1471 m. Mikalojaus Nemiraičio dokumentas, skirtas žmonai Elžbietai ir Iškoldės bažnyčiai, nurodo, kad Iškoldės dvarui priklausantys bajorai tarnauja ex iure feodali."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  temporaliniai_duomenys: "įvykio data: 1471 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pasyvi formuluotė pakeista aiškiu dokumento subjektu ir veiksmu. Lotyniška šaltinio frazė palikta nepakeista."
-  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
-  pagrindžia:
-    - c-186680
-
-<a id="claim-t-204077"></a>
-- t-002
-  teiginys: "1471 m. Mikalojaus Nemiraičio dokumentas nurodo, kad Zuchowiczczi, Thuhanowczy ir Lissiczczi vietovių bajorai bei tarnai, apsiginklavę savo lėšomis, sudaro du dalinius."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
-  pagrindžia:
-    - c-186681
-
 ## Citatos
 
 - id: c-186680
@@ -106,7 +75,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186681
@@ -125,5 +94,37 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-204076"></a>
+- t-001
+  teiginys: "1471 m. Mikalojaus Nemiraičio dokumentas, skirtas žmonai Elžbietai ir Iškoldės bažnyčiai, nurodo, kad Iškoldės dvarui priklausantys bajorai tarnauja ex iure feodali."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1471 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pasyvi formuluotė pakeista aiškiu dokumento subjektu ir veiksmu. Lotyniška šaltinio frazė palikta nepakeista."
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186680
+
+<a id="claim-t-204077"></a>
+- t-002
+  teiginys: "1471 m. Mikalojaus Nemiraičio dokumentas nurodo, kad Zuchowiczczi, Thuhanowczy ir Lissiczczi vietovių bajorai bei tarnai, apsiginklavę savo lėšomis, sudaro du dalinius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186681
+

@@ -46,23 +46,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-204327"></a>
-- t-001
-  teiginys: "1556 m. Vitebsko vaivada Steponas Zbaražskis, išsinuomodamas smuklę iš Vitebsko klebono Juozapo Jasinskio, pasižadėjo išmaitinti kelis kunigus."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
-  temporaliniai_duomenys: "įvykio data: 1556 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys aiškiai nurodo veikėją, datą, nuomos aplinkybes ir įsipareigojimą. Jis tiesiogiai atitinka citatoje pateiktą faktą."
-  pagrindžia:
-    - c-186922
-
 ## Santrauka
 
 1556 m. Vitebsko vaivada Steponas Zbaražskis, išsinuomodamas smuklę iš Vitebsko klebono Juozapo Jasinskio, pasižadėjo išmaitinti kelis kunigus.
@@ -97,5 +80,23 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204327"></a>
+- t-001
+  teiginys: "1556 m. Vitebsko vaivada Steponas Zbaražskis, išsinuomodamas smuklę iš Vitebsko klebono Juozapo Jasinskio, pasižadėjo išmaitinti kelis kunigus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  temporaliniai_duomenys: "įvykio data: 1556 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys aiškiai nurodo veikėją, datą, nuomos aplinkybes ir įsipareigojimą. Jis tiesiogiai atitinka citatoje pateiktą faktą."
+  pagrindžia:
+    - c-186922
+

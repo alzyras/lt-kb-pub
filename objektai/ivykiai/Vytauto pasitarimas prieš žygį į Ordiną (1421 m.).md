@@ -46,20 +46,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-204395"></a>
-- t-001
-  teiginys: "Rengdamas žygį prieš Ordiną Vytautas į savo dvarą pasikvietė artimiausius bajorus."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  pagrindžia:
-    - c-186999
-
 ## Santrauka
 
 Rengdamas žygį prieš Ordiną Vytautas į savo dvarą pasikvietė artimiausius bajorus.
@@ -89,5 +75,20 @@ Rengdamas žygį prieš Ordiną Vytautas į savo dvarą pasikvietė artimiausius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204395"></a>
+- t-001
+  teiginys: "Rengdamas žygį prieš Ordiną Vytautas į savo dvarą pasikvietė artimiausius bajorus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  pagrindžia:
+    - c-186999
+

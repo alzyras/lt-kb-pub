@@ -26,40 +26,6 @@ media_all_json: |-
 
 Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus laikė slavais, kuriuos kadaise nukariavo skitai. 1 Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus mano buvus slavus, kuriuos kadaise nukariavo skitai.
 
-## Teiginiai
-
-<a id="claim-t-191855"></a>
-- t-001
-  teiginys: "Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus laikė slavais, kuriuos kadaise nukariavo skitai."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Slavai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Safaržyko slavų senienų tyrinėjimai: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Slavai: mention_match, group, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Safaržyko slavų senienų tyrinėjimai\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-174737
-
-<a id="claim-t-197689"></a>
-- t-002
-  teiginys: "1 Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus mano buvus slavus, kuriuos kadaise nukariavo skitai."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-179296
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus laikė slavais, kuriuos kadaise nukariavo skitai.'
@@ -100,8 +66,6 @@ Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus laikė slavai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-179296
   autorius: "Teodoras Narbutas"
@@ -120,5 +84,57 @@ Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus laikė slavai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-195102
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 375"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 375."
+  citata_originali: |
+    Tai turėjo įvykti anks­
+    čiau, negu persų karalius Darijus užpuolė Sikitiją; tai at­
+    sitiko V amžiaus prieš Kristaus gimimą pradžioje. Vadi­
+    nasi, čia gyventa jau iki IV amžiaus.
+    1 Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus
+    mano buvus slavus, kuriuos kadaise nukariavo skitai*.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-214263"></a>
+- t-001
+  teiginys: "Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus laikė slavais, kuriuos kadaise nukariavo skitai."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Slavai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Safaržyko slavų senienų tyrinėjimai: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Slavai: mention_match, group, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Safaržyko slavų senienų tyrinėjimai\" parinktas kaip owner_note_path. Targetas \"Slavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+
+<a id="claim-t-215697"></a>
+- t-002
+  teiginys: "1 Safaržykas savo slavų senienų tyrinėjimuose žemdirbius skitus mano buvus slavus, kuriuos kadaise nukariavo skitai."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195102
+

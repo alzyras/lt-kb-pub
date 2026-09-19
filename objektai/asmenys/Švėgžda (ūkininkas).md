@@ -52,28 +52,6 @@ canonical_biography: "Švėgžda aprašomas kaip geras ir nepavydingas ūkininka
 
 - ūkininkas
 
-## Teiginiai
-
-<a id="claim-t-195283"></a>
-- t-001
-  teiginys: "Švėgžda užleido pasakotojui savo svirne aruodą."
-  atnaujinta: "2026-07-12 01:06"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177648
-
-<a id="claim-t-195284"></a>
-- t-002
-  teiginys: "Švėgžda buvo geras ir nepavydingas žmogus, leidęs pasakotojui pačiam sėtis."
-  atnaujinta: "2026-07-12 01:06"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177649
-
 ## Citatos
 
 - id: c-177648
@@ -89,7 +67,7 @@ canonical_biography: "Švėgžda aprašomas kaip geras ir nepavydingas ūkininka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177649
@@ -105,5 +83,28 @@ canonical_biography: "Švėgžda aprašomas kaip geras ir nepavydingas ūkininka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-195283"></a>
+- t-001
+  teiginys: "Švėgžda užleido pasakotojui savo svirne aruodą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177648
+
+<a id="claim-t-195284"></a>
+- t-002
+  teiginys: "Švėgžda buvo geras ir nepavydingas žmogus, leidęs pasakotojui pačiam sėtis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177649
+

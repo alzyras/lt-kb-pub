@@ -33,20 +33,6 @@ historical_names: []
 
 Vita vudas būk tuojau naują pilį, vadinamą Naito, tarp Nemuno ir Ailibo upės gret šios dienos Karaliau čiaus įkūręs1.
 
-## Teiginiai
-
-<a id="claim-t-201173"></a>
-- t-001
-  teiginys: "Vita vudas būk tuojau naują pilį, vadinamą Naito, tarp Nemuno ir Ailibo upės gret šios dienos Karaliau čiaus įkūręs1."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184523
-
 ## Citatos
 
 - id: c-184523
@@ -71,5 +57,20 @@ Vita vudas būk tuojau naują pilį, vadinamą Naito, tarp Nemuno ir Ailibo upė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201173"></a>
+- t-001
+  teiginys: "Vita vudas būk tuojau naują pilį, vadinamą Naito, tarp Nemuno ir Ailibo upės gret šios dienos Karaliau čiaus įkūręs1."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184523
+

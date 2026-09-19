@@ -28,34 +28,6 @@ Jo pastebėjimais iš senų rankraštinių kronikų pagrįsta Vaidevučio laikam
 
 Jo pastebėjimais iš senų rankraštinių kronikų pagrįsta Vaidevučio laikams priskirtina žinia apie tai, kad turtin gieji, pasisavinę aukščiausiąją valdžią, naudodamiesi ne turtingųjų darbu, ėmė juos engti ir sukėlė tuo sąmyšį, kitaip sakant, maištą, kurio metu. Kunigaikštis Andislavas (Andislaus) — kaip jį vadina Lukas Davidas, o kitas kronikininkas nu rodo jį buvus vardu Anthones, Antonos, Antonius — iš siuntė pasiuntinius, reikalaudamas duoklės, kurią buvo lilkę skolingi.
 
-## Teiginiai
-
-<a id="claim-t-205073"></a>
-- t-001
-  teiginys: "Kunigaikštis Andislavas (Andislaus) — kaip jį vadina Lukas Davidas, o kitas kronikininkas nu rodo jį buvus vardu Anthones, Antonos, Antonius — iš siuntė pasiuntinius, reikalaudamas duoklės, kurią buvo lilkę skolingi."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
-  pagrindžia:
-    - c-188010
-
-<a id="claim-t-205185"></a>
-- t-002
-  teiginys: "Jo pastebėjimais iš senų rankraštinių kronikų pagrįsta Vaidevučio laikams priskirtina žinia apie tai, kad turtin gieji, pasisavinę aukščiausiąją valdžią, naudodamiesi ne turtingųjų darbu, ėmė juos engti ir sukėlė tuo sąmyšį, kitaip sakant, maištą, kurio metu."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
-  pagrindžia:
-    - c-187830
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jo pastebėjimais iš senų rankraštinių kronikų pagrįsta Vaidevučio laikams priskirtina žinia apie tai, kad turtin gieji, pasisavinę aukščiausiąją valdžią, naudodamiesi ne turtingųjų darbu, ėmė juos engti ir sukėlė tuo sąmyšį, kitaip sakant, maištą, kurio metu.'
@@ -113,7 +85,7 @@ Jo pastebėjimais iš senų rankraštinių kronikų pagrįsta Vaidevučio laikam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188010
@@ -142,5 +114,34 @@ Jo pastebėjimais iš senų rankraštinių kronikų pagrįsta Vaidevučio laikam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205073"></a>
+- t-001
+  teiginys: "Kunigaikštis Andislavas (Andislaus) — kaip jį vadina Lukas Davidas, o kitas kronikininkas nu rodo jį buvus vardu Anthones, Antonos, Antonius — iš siuntė pasiuntinius, reikalaudamas duoklės, kurią buvo lilkę skolingi."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-188010
+
+<a id="claim-t-205185"></a>
+- t-002
+  teiginys: "Jo pastebėjimais iš senų rankraštinių kronikų pagrįsta Vaidevučio laikams priskirtina žinia apie tai, kad turtin gieji, pasisavinę aukščiausiąją valdžią, naudodamiesi ne turtingųjų darbu, ėmė juos engti ir sukėlė tuo sąmyšį, kitaip sakant, maištą, kurio metu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-187830
+

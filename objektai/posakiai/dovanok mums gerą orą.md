@@ -47,18 +47,6 @@ Tai apeiginis prašymas gero oro vietoje pradinės formos „laimingą rasą“.
 
 Apeiginis prašymas gero oro vietoje pradinės formos „laimingą rasą“.
 
-## Teiginiai
-
-<a id="claim-t-195415"></a>
-- t-001
-  teiginys: "Vietoje „laimingą rasą“ giedojime sakydavo „dovanok mums gerą orą“."
-  atnaujinta: "2026-07-12 02:45"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177836
-
 ## Citatos
 
 - id: c-177836
@@ -74,5 +62,18 @@ Apeiginis prašymas gero oro vietoje pradinės formos „laimingą rasą“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-195415"></a>
+- t-001
+  teiginys: "Vietoje „laimingą rasą“ giedojime sakydavo „dovanok mums gerą orą“."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177836
+

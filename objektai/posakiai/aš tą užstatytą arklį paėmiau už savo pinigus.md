@@ -28,24 +28,6 @@ media_all_json: |-
 
 O jeigu koks žirgas pas žydą pasirodytų vogtas ir pas kokį krikš­ čionį atsirastų, žydas savo priesaika turi išsiginti, sakyda­ mas, aš tą užstatytą arklį paėmiau už savo pinigus, ir tas pats žydas už šias bylas bus tuoj pat išlaisvintas.
 
-## Teiginiai
-
-<a id="claim-t-86853"></a>
-- t-001
-  teiginys: "Formulė „aš tą užstatytą arklį paėmiau už savo pinigus“ buvo žydo priesaikos tekstas ginče dėl vogto žirgo."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Užstato daiktai Trakų žydų privilegijoje: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "aš tą užstatytą arklį paėmiau už savo pinigus: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Užstato daiktai Trakų žydų privilegijoje: mention_match, thing, gap=6"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"aš tą užstatytą arklį paėmiau už savo pinigus\" parinktas kaip owner_note_path. Targetas \"Užstato daiktai Trakų žydų privilegijoje\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-82832
-
 ## Citatos
 
 - id: c-82832
@@ -67,5 +49,24 @@ O jeigu koks žirgas pas žydą pasirodytų vogtas ir pas kokį krikš­ čionį
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-86853"></a>
+- t-001
+  teiginys: "Formulė „aš tą užstatytą arklį paėmiau už savo pinigus“ buvo žydo priesaikos tekstas ginče dėl vogto žirgo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Užstato daiktai Trakų žydų privilegijoje: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "aš tą užstatytą arklį paėmiau už savo pinigus: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Užstato daiktai Trakų žydų privilegijoje: mention_match, thing, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"aš tą užstatytą arklį paėmiau už savo pinigus\" parinktas kaip owner_note_path. Targetas \"Užstato daiktai Trakų žydų privilegijoje\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-82832
+

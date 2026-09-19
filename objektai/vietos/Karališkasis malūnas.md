@@ -45,28 +45,6 @@ historical_names: []
 
 225 ## Puslapis 242 VILNIAUS MIESTO ISTORIJA II TOMAS nusidriekęs palei Vilnios upę prie Karališkojo malūno.
 
-## Teiginiai
-
-<a id="claim-t-86297"></a>
-- t-001
-  teiginys: "1469 m. bernardinams Vilniuje buvo atiduotas platus slėnis palei Vilnios upę prie Karališkojo malūno."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Vilnius: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karališkasis malūnas Vilniuje: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kontekstas nurodo vietą Vilniuje prie Vilnios upės ir Karališkojo malūno, todėl malūnas lokalizuojamas Vilniuje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Karališkasis malūnas Vilniuje priklausė Vilnius (0.68)"
-  temporaliniai_duomenys: "įvykio data: 900 m; įvykio data: 1469 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai sieja vietą su Karališkuoju malūnu ir yra pagrįstas citata."
-  pagrindžia:
-    - c-82276
-
 ## Citatos
 
 - id: c-82276
@@ -123,5 +101,28 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-86297"></a>
+- t-001
+  teiginys: "1469 m. bernardinams Vilniuje buvo atiduotas platus slėnis palei Vilnios upę prie Karališkojo malūno."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Vilnius: 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Karališkasis malūnas Vilniuje: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kontekstas nurodo vietą Vilniuje prie Vilnios upės ir Karališkojo malūno, todėl malūnas lokalizuojamas Vilniuje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Karališkasis malūnas Vilniuje priklausė Vilnius (0.68)"
+  temporaliniai_duomenys: "įvykio data: 900 m; įvykio data: 1469 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai sieja vietą su Karališkuoju malūnu ir yra pagrįstas citata."
+  pagrindžia:
+    - c-82276
+

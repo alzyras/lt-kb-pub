@@ -27,21 +27,6 @@ media_all_json: |-
 
 Simonaitė (Simonajte) Moteriškos giminės fetišas, jį garbino Mikuckių giminė.
 
-## Teiginiai
-
-<a id="claim-t-194792"></a>
-- t-001
-  teiginys: "Simonaitė (Simonajte) Moteriškos giminės fetišas, jį garbino Mikuckių giminė."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-177188
-
 ## Citatos
 
 - id: c-177188
@@ -62,5 +47,4 @@ Simonaitė (Simonajte) Moteriškos giminės fetišas, jį garbino Mikuckių gimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

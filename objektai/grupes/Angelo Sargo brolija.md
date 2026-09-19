@@ -32,44 +32,6 @@ media_all_json: |-
 
 Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv. Jurgio bažnyčioje ėmė rinktis laivavedžių Angelo Sargo brolija. Onos brolijos veikla, 1617 m. pradėjo rinktis Angelo Sargo brolija, telkusi Kauno laivavedžius.
 
-## Teiginiai
-
-<a id="claim-t-201853"></a>
-- t-001
-  teiginys: "Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185200
-
-<a id="claim-t-201854"></a>
-- t-002
-  teiginys: "Jurgio bažnyčioje ėmė rinktis laivavedžių Angelo Sargo brolija."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185201
-
-<a id="claim-t-201855"></a>
-- t-003
-  teiginys: "Onos brolijos veikla, 1617 m. pradėjo rinktis Angelo Sargo brolija, telkusi Kauno laivavedžius."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185202
-
 ## Citatos
 
 - id: c-185200
@@ -84,7 +46,7 @@ Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv. Jurgio baž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185201
@@ -100,7 +62,7 @@ Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv. Jurgio baž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-185202
@@ -117,5 +79,44 @@ Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv. Jurgio baž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+## Teiginiai
+
+<a id="claim-t-201853"></a>
+- t-001
+  teiginys: "Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185200
+
+<a id="claim-t-201854"></a>
+- t-002
+  teiginys: "Jurgio bažnyčioje ėmė rinktis laivavedžių Angelo Sargo brolija."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185201
+
+<a id="claim-t-201855"></a>
+- t-003
+  teiginys: "Onos brolijos veikla, 1617 m. pradėjo rinktis Angelo Sargo brolija, telkusi Kauno laivavedžius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185202
+

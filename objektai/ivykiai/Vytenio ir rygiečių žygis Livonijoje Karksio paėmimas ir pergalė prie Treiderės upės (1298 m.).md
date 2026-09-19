@@ -48,29 +48,6 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-185672"></a>
-- t-001
-  teiginys: "1298 m. rygiečiams pažadėjus atlyginimą, Vytenis sutelkė kariuomenę ir pagrindines pajėgas atvedė prie Karksio."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Rygiečiai: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Rygiečiai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata rodo Vytenio ir rygiečių karinę sandraugą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Vytenis buvo sąjungininkas su Rygiečiai (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1298 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti pilną faktinį sakinį be boilerplate."
-  pagrindžia:
-    - c-169033
-
 <a id="claim-t-185673"></a>
 - t-002
   teiginys: "Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius Vytenio karius."
@@ -90,10 +67,33 @@ Nenurodyta
   pagrindžia:
     - c-169034
 
+<a id="claim-t-185672"></a>
+- t-185672
+  teiginys: "1298 m. rygiečiams pažadėjus atlyginimą, Vytenis sutelkė kariuomenę ir pagrindines pajėgas atvedė prie Karksio."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Rygiečiai: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytenis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Rygiečiai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata rodo Vytenio ir rygiečių karinę sandraugą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Vytenis buvo sąjungininkas su Rygiečiai (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1298 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti pilną faktinį sakinį be boilerplate."
+  pagrindžia:
+    - c-169033
+
 <a id="claim-t-185674"></a>
-- t-003
+- t-185674
   teiginys: "Prie Treiderės upės lietuviai atrėmė kryžiuočių puolimą, privertė juos bėgti, o mūšyje žuvo magistras Brunonas."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -111,9 +111,9 @@ Nenurodyta
     - c-169035
 
 <a id="claim-t-196281"></a>
-- t-004
+- t-196281
   teiginys: "1298 m. Vytenis pagrindines jėgas atvedė prie Karksio, po apsupties įsiveržė į sutvirtinimus ir paėmė pilį."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -124,9 +124,9 @@ Nenurodyta
     - c-169033
 
 <a id="claim-t-196282"></a>
-- t-005
+- t-196282
   teiginys: "Prie Treiderės upės Vytenio padėtis iš pradžių buvo sunki, nes grobį gabenusi kariuomenė buvo išsisklaidžiusi po kaimus."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -175,9 +175,9 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-004
+  pagrindžia:
+    - t-185672
+    - t-196281
 
 - id: c-169034
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -197,13 +197,14 @@ Nenurodyta
     ir priekyje puolė priešai, jie turėjo kariauti, nes ne­
     buvo jokios vilties pabėgti.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
-    - t-005
+    - t-196282
 
 - id: c-169035
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -226,5 +227,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-185674
+

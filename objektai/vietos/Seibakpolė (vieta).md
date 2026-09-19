@@ -42,21 +42,6 @@ Seibakpolės (Seibaklaukio) vietovėje, dabartinės Lydos apskrities lygumoje, k
 
 Seibakpolės (Seibaklaukio) vietovėje, dabartinės Lydos apskrities lygumoje, kaip nurodo Teodoras Narbutas, totoriai pralaimėjo mūšį ir buvo visiškai sutriuškinti.
 
-## Teiginiai
-
-<a id="claim-t-205857"></a>
-- t-001
-  teiginys: "Seibakpolės (Seibaklaukio) vietovėje, dabartinės Lydos apskrities lygumoje, kaip nurodo Teodoras Narbutas, totoriai pralaimėjo mūšį ir buvo visiškai sutriuškinti."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
-  pagrindžia:
-    - c-188472
-
 ## Citatos
 
 - id: c-188472
@@ -80,5 +65,21 @@ Seibakpolės (Seibaklaukio) vietovėje, dabartinės Lydos apskrities lygumoje, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205857"></a>
+- t-001
+  teiginys: "Seibakpolės (Seibaklaukio) vietovėje, dabartinės Lydos apskrities lygumoje, kaip nurodo Teodoras Narbutas, totoriai pralaimėjo mūšį ir buvo visiškai sutriuškinti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
+  pagrindžia:
+    - c-188472
+

@@ -42,49 +42,6 @@ canonical_biography: "Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos kara
 
 Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granados karalių Tuo pat metu Ferdinandas, Kastilijos karalius, nunugalėjo Granados saracėnų karalių, 596 1241 m. įvykiai. Dusburgietis teigia, kad be to, ten buvo parašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart.
 
-## Teiginiai
-
-<a id="claim-t-60113"></a>
-- t-001
-  teiginys: "Be to, ten buvo parašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  pagrindžia:
-    - c-60745
-
-<a id="claim-t-60114"></a>
-- t-002
-  teiginys: "Ferdinandas, Kastilijos karalius, nugalėjo Granados saracėnų karalių, kuris vėliau mokėjo jam duoklę."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Saracėnai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ferdinandas (Kastilijos karalius): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Saracėnai: mention_match, group, gap=52"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ferdinandas (Kastilijos karalius)\" parinktas kaip owner_note_path. Targetas \"Saracėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1241 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatos faktą."
-  pagrindžia:
-    - c-60746
-
-<a id="claim-t-197076"></a>
-- t-003
-  teiginys: "Ferdinandas (Kastilijos karalius) atsisakė jam į žmonas pažadėtos Austrijos kunigaikščio dukters ir, uoliai laikydamasis švento sumanymo, papasakojo savo patikėtiniams, kaip viskas atsitiko, pasiūlydamas, kad ir jie iš pagarbos dievui bei jam įstotų į šį ordiną."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-60746
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Be to, ten buvo parašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart.'
@@ -131,8 +88,6 @@ Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-60746
   autorius: "Petras Dusburgietis"
@@ -153,6 +108,16 @@ Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-003
+
+## Teiginiai
+
+<a id="claim-t-220437"></a>
+- t-001
+  teiginys: "Ferdinandas (Kastilijos karalius) atsisakė jam į žmonas pažadėtos Austrijos kunigaikščio dukters ir, uoliai laikydamasis švento sumanymo, papasakojo savo patikėtiniams, kaip viskas atsitiko, pasiūlydamas, kad ir jie iš pagarbos dievui bei jam įstotų į šį ordiną."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+

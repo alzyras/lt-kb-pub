@@ -38,10 +38,24 @@ Livonijos riterių ordinas sutarties sąlygomis atidavė Lietuvai Sėlpilio pil�
 
 ## Teiginiai
 
+<a id="claim-t-207977"></a>
+- t-207977
+  teiginys: "1561 m. birželio 15 d. liepta susirinkti į Sėlpilį."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  temporaliniai_duomenys: "įvykio data: 1561 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190615
+
 <a id="claim-t-185311"></a>
-- t-001
+- t-185311
   teiginys: "Livonijos riterių ordinas sutarties sąlygomis atidavė Lietuvai Sėlpilio pilį su apylinkėmis."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -93,5 +107,27 @@ Livonijos riterių ordinas sutarties sąlygomis atidavė Lietuvai Sėlpilio pil�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-185311
+
+- id: c-190615
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 173"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 173."
+  citata_originali: |
+    1561 m. vasarą ir rudenį pasirengimo karui
+    karštinė apėmė visą kraštą.
+    Gegužės 14 d. po visą valstybės teritoriją pareigūnams ir bajorams buvo išsiun-
+    tinėtas 1561.05.13 valdovo raštas, nurodantis birželio 15 d., per Sv. Vitą, susirinkti į
+    Sėlpilį ginti Livonijos.
+  citata_rodoma: "Gegužės 14 d. po visą valstybės teritoriją pareigūnams ir bajorams buvo išsiun-\ntinėtas 1561.05.13 valdovo raštas, nurodantis birželio 15 d., per Sv. Vitą, susirinkti į\nSėlpilį ginti Livonijos."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207977
+

@@ -86,9 +86,11 @@ Davies N.
     New York, 1982.
   citata_rodoma: "Davies N. God’s playground: a history of Poland. T. 1: The origins to 1795. \nNew York, 1982."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

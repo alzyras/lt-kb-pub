@@ -29,20 +29,6 @@ media_all_json: |-
 
 Tenai mistras bruko karaliui savo bendrą Gedunę, arba Gadunę, senį, jomylistą samionų, sūnų Visgaudžio, kurio karalius klausė, kaip jam regis, ar gal jis su tokia galybe nuveikti samioms.
 
-## Teiginiai
-
-<a id="claim-t-201219"></a>
-- t-001
-  teiginys: "Tenai mistras bruko karaliui savo bendrą Gedunę, arba Gadunę, senį, jomylistą samionų, sūnų Visgaudžio, kurio karalius klausė, kaip jam regis, ar gal jis su tokia galybe nuveikti samioms."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184569
-
 ## Citatos
 
 - id: c-184569
@@ -65,5 +51,20 @@ Tenai mistras bruko karaliui savo bendrą Gedunę, arba Gadunę, senį, jomylist
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201219"></a>
+- t-001
+  teiginys: "Tenai mistras bruko karaliui savo bendrą Gedunę, arba Gadunę, senį, jomylistą samionų, sūnų Visgaudžio, kurio karalius klausė, kaip jam regis, ar gal jis su tokia galybe nuveikti samioms."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184569
+

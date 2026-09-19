@@ -39,20 +39,6 @@ canonical_biography: "Kitą bylą su gėralų rinkiku Martynu Piadzevskiu Kauno 
 
 Kitą bylą su gėralų rinkiku Martynu Piadzevskiu Kauno miestas irgi laimėjo.
 
-## Teiginiai
-
-<a id="claim-t-202127"></a>
-- t-001
-  teiginys: "Kitą bylą su gėralų rinkiku Martynu Piadzevskiu Kauno miestas irgi laimėjo."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185474
-
 ## Citatos
 
 - id: c-185474
@@ -69,5 +55,20 @@ Kitą bylą su gėralų rinkiku Martynu Piadzevskiu Kauno miestas irgi laimėjo.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202127"></a>
+- t-001
+  teiginys: "Kitą bylą su gėralų rinkiku Martynu Piadzevskiu Kauno miestas irgi laimėjo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185474
+

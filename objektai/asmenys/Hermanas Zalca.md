@@ -35,37 +35,6 @@ Susirinkę į kapitulą, riteriai išrinko naują magistrą, kuriuo tapo ordino 
 
 Susirinkę į kapitulą, riteriai išrinko naują magistrą, kuriuo tapo ordino maršalka Her manas Zalca — kilęs iš Tiuringijos, jau keliolika metų ordino narys, daug kuo nusipelnęs vyras. Narbutas teigia, kad Hermanas Zalca perkėlė ordino sostinę į Veneciją ir paskyrė vietinius magistrus.
 
-## Teiginiai
-
-<a id="claim-t-205158"></a>
-- t-001
-  teiginys: "Susirinkę į kapitulą, riteriai išrinko naują magistrą, kuriuo tapo ordino maršalka Her manas Zalca — kilęs iš Tiuringijos, jau keliolika metų ordino narys, daug kuo nusipelnęs vyras."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1210 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas Hermano Zalcės ankstesnis vaidmuo ir rinkimo aplinkybės. Vertinamasis apibūdinimas paliktas su atribucija."
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-188018
-
-<a id="claim-t-205444"></a>
-- t-002
-  teiginys: "Narbutas teigia, kad Hermanas Zalca perkėlė ordino sostinę į Veneciją ir paskyrė vietinius magistrus."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T21:22:05Z"
-  pagrindžia:
-    - c-188029
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Susirinkę į kapitulą, riteriai išrinko naują magistrą, kuriuo tapo ordino maršalka Her manas Zalca — kilęs iš Tiuringijos, jau keliolika metų ordino narys, daug kuo nusipelnęs vyras.'
@@ -109,7 +78,7 @@ Susirinkę į kapitulą, riteriai išrinko naują magistrą, kuriuo tapo ordino 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188029
@@ -129,5 +98,37 @@ Susirinkę į kapitulą, riteriai išrinko naują magistrą, kuriuo tapo ordino 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-205158"></a>
+- t-001
+  teiginys: "Susirinkę į kapitulą, riteriai išrinko naują magistrą, kuriuo tapo ordino maršalka Her manas Zalca — kilęs iš Tiuringijos, jau keliolika metų ordino narys, daug kuo nusipelnęs vyras."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1210 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas Hermano Zalcės ankstesnis vaidmuo ir rinkimo aplinkybės. Vertinamasis apibūdinimas paliktas su atribucija."
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188018
+
+<a id="claim-t-205444"></a>
+- t-002
+  teiginys: "Narbutas teigia, kad Hermanas Zalca perkėlė ordino sostinę į Veneciją ir paskyrė vietinius magistrus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T21:22:05Z"
+  pagrindžia:
+    - c-188029
+

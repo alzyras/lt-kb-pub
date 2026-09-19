@@ -44,28 +44,6 @@ historical_names: []
 
 Gardine išleista privilegija nurodė statyti a i miesto gynybinę mūro sieną ## Puslapis 79 Nuo 1466 m. ry Vakarų Prūsija ir Varmė buvo prijungtos tiesiogiai prie Lenkijos.
 
-## Teiginiai
-
-<a id="claim-t-42239"></a>
-- t-001
-  teiginys: "Nuo 1466 m. Vakarų Prūsija ir Varmė buvo tiesiogiai prijungtos prie Lenkijos."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lenkija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Varmė: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Varmė prijungta prie Lenkijos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vakarų Prūsija priklausė Lenkija (0.90); Varmė priklausė Lenkija (0.90)"
-  temporaliniai_duomenys: "įvykio data: po 1466 m.; įvykio data: 1466 m.; įvykio data: 1503 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys, o OCR triukšmas citatoje nekeičia pagrindinio fakto."
-  pagrindžia:
-    - c-45390
-
 ## Citatos
 
 - id: c-45390
@@ -107,8 +85,31 @@ Gardine išleista privilegija nurodė statyti a i miesto gynybinę mūro sieną 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Vakarų Prūsija priklausė [[objektai/vietos/Lenkija]]
+
+## Teiginiai
+
+<a id="claim-t-42239"></a>
+- t-001
+  teiginys: "Nuo 1466 m. Vakarų Prūsija ir Varmė buvo tiesiogiai prijungtos prie Lenkijos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lenkija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Varmė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Varmė prijungta prie Lenkijos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vakarų Prūsija priklausė Lenkija (0.90); Varmė priklausė Lenkija (0.90)"
+  temporaliniai_duomenys: "įvykio data: po 1466 m.; įvykio data: 1466 m.; įvykio data: 1503 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys, o OCR triukšmas citatoje nekeičia pagrindinio fakto."
+  pagrindžia:
+    - c-45390
+

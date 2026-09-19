@@ -47,20 +47,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-202021"></a>
-- t-001
-  teiginys: "Štai 1545 m. stiklius Jonas sudarė sutartį su Matisu dėl pastarojo mokymo amato, 1550 m. minimi tas pats stiklius Jonas ir jo mokinys Bartolomiejus Snukis, 1551 m. delininkas Norkus atidavė tarnauti savo sūnų barzdaskučiui Hanusui Ofmanui, o šis įsipareigojo."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185368
-
 ## Citatos
 
 - id: c-185368
@@ -81,5 +67,20 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202021"></a>
+- t-001
+  teiginys: "Štai 1545 m. stiklius Jonas sudarė sutartį su Matisu dėl pastarojo mokymo amato, 1550 m. minimi tas pats stiklius Jonas ir jo mokinys Bartolomiejus Snukis, 1551 m. delininkas Norkus atidavė tarnauti savo sūnų barzdaskučiui Hanusui Ofmanui, o šis įsipareigojo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185368
+

@@ -31,20 +31,6 @@ canonical_biography: "Kauno klebonas Bartlomiejus Ciešinskis pasinaudodamas pro
 
 Kauno klebonas Bartlomiejus Ciešinskis pasinaudodamas proga išprašė iš iždo 2 000 auksinų paramą bažnyčios statybai.
 
-## Teiginiai
-
-<a id="claim-t-202118"></a>
-- t-001
-  teiginys: "Kauno klebonas Bartlomiejus Ciešinskis pasinaudodamas proga išprašė iš iždo 2 000 auksinų paramą bažnyčios statybai."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185465
-
 ## Citatos
 
 - id: c-185465
@@ -61,5 +47,20 @@ Kauno klebonas Bartlomiejus Ciešinskis pasinaudodamas proga išprašė iš ižd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202118"></a>
+- t-001
+  teiginys: "Kauno klebonas Bartlomiejus Ciešinskis pasinaudodamas proga išprašė iš iždo 2 000 auksinų paramą bažnyčios statybai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185465
+

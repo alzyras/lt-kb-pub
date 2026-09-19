@@ -43,69 +43,6 @@ historical_names: []
 
 Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to, kai imperatorius Heraklijus pasitraukė iš šventosios žemės, vienas arabų kunigaikštis, vardu Omaras, trečias Mahometo karalystės paveldėtojas, žiauriai įsiveržė į Šventąją žemę bei ją visą užėmė, ir šitaip. Dusburgietis teigia, kad po to daug karalių ir kunigaikščių, atžygiavusių su nesuskaitoma galybe karių, atsiėmė šventąją žemę, tačiau vėl ją prarado, ir šitaip ji 1250 viešpaties metais pradėjo aiškiai irti, kol to paties viešpaties 1290 metais pagonys iš pamatų sugriovė Akono. Dusburgietis teigia, kad dejonė dėl šventosios žemės apleidimo Šitaip tu, o šventa žadėtoji žeme, pamilta dievo ir pagerbta šventųjų angelų, žadinanti viso pasaulio nuostabą, viešpaties išrinktoji ir išskirtoji, nes tavimi jis akivaizdžiai puošė savo buvimą, o tavo vadavimo mums.
 
-## Teiginiai
-
-<a id="claim-t-58407"></a>
-- t-001
-  teiginys: "Dusburgietis personifikuoja Šventąją žemę kaip krikščionių tautas į pagalbą ir išvadavimą kviečiančią žemę."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Skydas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šventoji žemė: owner_note_path, place"
-  ryšio_targeto_parinkimas: "Skydas: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventoji žemė\" parinktas kaip owner_note_path. Targetas \"Skydas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-59040
-
-<a id="claim-t-58408"></a>
-- t-002
-  teiginys: "Karaliai ir kunigaikščiai buvo atsiėmę Šventąją žemę, bet vėliau ją prarado, o 1290 m. pagonys sugriovė Akono miestą."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> kunigaikščiai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šventoji žemė: owner_note_path, place"
-  ryšio_targeto_parinkimas: "kunigaikščiai: mention_match, thing, gap=13"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventoji žemė\" parinktas kaip owner_note_path. Targetas \"kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1290 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia glaustą faktą apie Šventosios žemės praradimą ir Akono sugriovimą."
-  pagrindžia:
-    - c-59039
-
-<a id="claim-t-58409"></a>
-- t-003
-  teiginys: "Dusburgietis Šventąją žemę vaizduoja kaip Dievo išrinktą, bet apleistą ir sielvarto prislėgtą žemę."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-59042
-
-<a id="claim-t-58410"></a>
-- t-004
-  teiginys: "Omaras, trečias Mahometo karalystės paveldėtojas, įsiveržė į Šventąją žemę ir ją užėmė po Heraklijaus pasitraukimo."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Šventoji žemė: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Arabai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Šventoji žemė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Šventosios žemės užėmimą arabų kunigaikščio veiksmu; leidžiamas subjektas yra arabai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Arabai užėmė Šventoji žemė (0.78); Arabai puolė Šventoji žemė (0.69)"
-  pagrindžia:
-    - c-59041
-
 ## Citatos
 
 - id: c-59039
@@ -132,8 +69,6 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-59040
   autorius: "Petras Dusburgietis"
@@ -158,8 +93,6 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-59041
   autorius: "Petras Dusburgietis"
@@ -181,8 +114,6 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
 
 - id: c-59042
   autorius: "Petras Dusburgietis"
@@ -205,5 +136,59 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+
+## Teiginiai
+
+<a id="claim-t-221140"></a>
+- t-001
+  teiginys: "Dusburgietis personifikuoja Šventąją žemę kaip krikščionių tautas į pagalbą ir išvadavimą kviečiančią žemę."
+  atnaujinta: "2026-09-13 18:12"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Skydas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šventoji žemė: owner_note_path, place"
+  ryšio_targeto_parinkimas: "Skydas: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventoji žemė\" parinktas kaip owner_note_path. Targetas \"Skydas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-222765"></a>
+- t-002
+  teiginys: "Karaliai ir kunigaikščiai buvo atsiėmę Šventąją žemę, bet vėliau ją prarado, o 1290 m. pagonys sugriovė Akono miestą."
+  atnaujinta: "2026-09-13 18:12"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> kunigaikščiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Šventoji žemė: owner_note_path, place"
+  ryšio_targeto_parinkimas: "kunigaikščiai: mention_match, thing, gap=13"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventoji žemė\" parinktas kaip owner_note_path. Targetas \"kunigaikščiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1290 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia glaustą faktą apie Šventosios žemės praradimą ir Akono sugriovimą."
+
+<a id="claim-t-224171"></a>
+- t-003
+  teiginys: "Dusburgietis Šventąją žemę vaizduoja kaip Dievo išrinktą, bet apleistą ir sielvarto prislėgtą žemę."
+  atnaujinta: "2026-09-13 18:13"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-225208"></a>
+- t-004
+  teiginys: "Omaras, trečias Mahometo karalystės paveldėtojas, įsiveržė į Šventąją žemę ir ją užėmė po Heraklijaus pasitraukimo."
+  atnaujinta: "2026-09-13 18:13"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Šventoji žemė: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Arabai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Šventoji žemė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Šventosios žemės užėmimą arabų kunigaikščio veiksmu; leidžiamas subjektas yra arabai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Arabai užėmė Šventoji žemė (0.78); Arabai puolė Šventoji žemė (0.69)"
+

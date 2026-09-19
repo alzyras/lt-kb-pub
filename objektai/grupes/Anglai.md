@@ -40,10 +40,39 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
 
 ## Teiginiai
 
+<a id="claim-t-209595"></a>
+- t-209595
+  teiginys: "Gibral tare anglų valdžia krato pasažierius ir peržiū rinėja pašportus."
+  atnaujinta: "2026-09-12 14:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192215
+
+<a id="claim-t-210298"></a>
+- t-210298
+  teiginys: "Anglai buvo sutartiniai prekybos partneriai, kuriems leista gyventi ir prekiauti Žemaičiuose bei Kalne."
+  atnaujinta: "2026-09-12 16:28"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Lietuva: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Anglai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo anglams leistą prekybą lietuviškose žemėse; tikslių Žemaičių ir Kalno vietų kandidatuose nėra."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  semantiniai_rysiai: "Anglai prekiavo su Lietuva (0.62); Anglai gyveno Lietuva (0.60)"
+  pagrindžia:
+    - c-192918
+
 <a id="claim-t-172067"></a>
-- t-001
+- t-172067
   teiginys: "Tūkstančiui rinktinių anglų lankininkų, išsilaipinusių Gdansko uoste, vadovavo Derbio grafas Henrikas."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Henrikas IV: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -60,9 +89,9 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
     - c-156497
 
 <a id="claim-t-172069"></a>
-- t-002
+- t-172069
   teiginys: "Anglija, Škotija ir Prancūzija savanoriais papildė vokiečių riterių būrius, susirinkusius Karaliaučiuje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Prancūzija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -79,9 +108,9 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
     - c-156494
 
 <a id="claim-t-172070"></a>
-- t-003
+- t-172070
   teiginys: "Anglų lankininkų narsa ir mūšiuose įgytas sumanumas prisidėjo prie Lietuvos patirtų smūgių Vilniaus apgultyje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -95,9 +124,9 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
     - c-156496
 
 <a id="claim-t-172071"></a>
-- t-004
+- t-172071
   teiginys: "Anglų lankininkų narsa ir sumanumas kartu su patrankų poveikiu lėmė didžiausius Lietuvos smūgius."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -111,9 +140,9 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
     - c-156496
 
 <a id="claim-t-172072"></a>
-- t-005
+- t-172072
   teiginys: "Rugpjūtį į Prūsiją atvykę savanoriai iš Anglijos ir Prancūzijos norėjo kariauti su pagonimis."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Anglija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -127,9 +156,9 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
     - c-156499
 
 <a id="claim-t-172073"></a>
-- t-006
+- t-172073
   teiginys: "Rugpjūtį į Prūsiją atvyko savanorių iš Anglijos ir Prancūzijos, norėjusių kartu su kryžiuočiais kariauti su pagonimis."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Prūsija: 0.78"
   ryšio_patikimumo_lygis: "aukstas"
@@ -143,27 +172,10 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   pagrindžia:
     - c-156499
 
-<a id="claim-t-172074"></a>
-- t-007
-  teiginys: "Anglai buvo sutartiniai prekybos partneriai, kuriems leista gyventi ir prekiauti Žemaičiuose bei Kalne."
-  atnaujinta: "2026-07-19 16:33"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Lietuva: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Anglai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo anglams leistą prekybą lietuviškose žemėse; tikslių Žemaičių ir Kalno vietų kandidatuose nėra."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  semantiniai_rysiai: "Anglai prekiavo su Lietuva (0.62); Anglai gyveno Lietuva (0.60)"
-  pagrindžia:
-    - c-10105
-
 <a id="claim-t-172075"></a>
-- t-008
+- t-172075
   teiginys: "Vilniaus puolimo metu Derbio kunigaikštis ir anglų pėstininkai kartu su Vytautu bei žemaičiais kovėsi su Karigaila."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Vilnius: 0.66"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -194,8 +206,6 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
 
 - id: c-10106
   autorius: "Simonas Daukantas"
@@ -210,6 +220,7 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-156493
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -227,8 +238,8 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
+  pagrindžia:
+    - t-172075
 
 - id: c-156494
   autorius: "Michał Baliński"
@@ -289,8 +300,8 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-172069
 
 - id: c-156496
   autorius: "Michał Baliński"
@@ -323,9 +334,9 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-    - t-004
+  pagrindžia:
+    - t-172070
+    - t-172071
 
 - id: c-156497
   autorius: "Michał Baliński"
@@ -380,8 +391,8 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-172067
 
 - id: c-156499
   autorius: "Michał Baliński"
@@ -406,6 +417,63 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
-    - t-006
+  pagrindžia:
+    - t-172072
+    - t-172073
+
+- id: c-192215
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 83"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 83."
+  citata_originali: |
+    Gibral­
+    tare anglų valdžia krato pasažierius ir peržiū­
+    rinėja pašportus.
+    Čion ir vėl atsitiko nauja
+    bėda su manim.
+    Anglų oficieriai, atėję į mū­
+    sų klesą, šaukia mane pirmutinį ir klausia vo­
+    kiečių kalboje, kaip ilgai aš buvau Vokietijo­
+    je.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209595
+
+- id: c-192671
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 334"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 334."
+  citata_originali: |
+    Atentį metą anglai buvo įkūrę tenai prekės draugybą^1512.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-192918
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 318"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 318."
+  citata_originali: |
+    Ant galų galo, nebgalėdami nė nuo ko geležies gauti, nemintą metuose 1340 Kęstučiui, didžiajam Lietuvos kunigaikščiui, ūkę valdant, išleido
+        siuntinius^1432 į Anglijos žemę, kurie tenai su anglais padarė sandarą^1433 , kurioje sutarė, jog lietuviai,
+        kalnėnai ir žemaičiai, galės Anglijos žemėj prekioti ir gyventi, lygia dalia anglai galės Žemaičiuose ir
+        Kalne gyventi ir prekioti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 16:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210298
+

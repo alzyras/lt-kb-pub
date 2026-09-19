@@ -40,21 +40,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-205924"></a>
-- t-001
-  teiginys: "Ordino magistras pasiuntė Henriką Cukšvertą, Natangijos vaitą, su 29 riteriais ir 1 200 rinktinių karių į girią tarp Luko ir Narevo upių, kur būrys aštuonias dienas laukė stokodamas maisto."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188539
-
 ## Santrauka
 
 Ordino magistras pasiuntė Henriką Cukšvertą, Natangijos vaitą, su 29 riteriais ir 1 200 rinktinių karių į girią tarp Luko ir Narevo upių, kur būrys aštuonias dienas laukė stokodamas maisto.
@@ -81,5 +66,21 @@ Ordino magistras pasiuntė Henriką Cukšvertą, Natangijos vaitą, su 29 riteri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205924"></a>
+- t-001
+  teiginys: "Ordino magistras pasiuntė Henriką Cukšvertą, Natangijos vaitą, su 29 riteriais ir 1 200 rinktinių karių į girią tarp Luko ir Narevo upių, kur būrys aštuonias dienas laukė stokodamas maisto."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188539
+

@@ -33,57 +33,6 @@ media_all_json: |-
 
 Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaikščiai; atvyko daugybė Vytauto priklausomų rusų kunigaikščių; pagaliau atvyko pats imperatorius Zigmantas, popiežiaus legatas ir daugelio Vokietijos miestų ir kunigaikščių atstovų.
 
-## Teiginiai
-
-<a id="claim-t-185345"></a>
-- t-001
-  teiginys: "Augustas paragino savo legatus su kunigaikščiu Ivanu kalbėtis ir dėl Livonijos reikalų."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168706
-
-<a id="claim-t-185346"></a>
-- t-002
-  teiginys: "Legatams pareikalavus Seversko ir Smolensko, Maskvos didikai atsisakė tartis dėl užimtų žemių grąžinimo."
-  atnaujinta: "2026-07-26 17:49"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168707
-
-<a id="claim-t-193459"></a>
-- t-003
-  teiginys: "Legatams reikalaujant Seversko ir Smolensko, Maskvos didikai atsakė, kad nesą kunigaikščio įgalioti tartis dėl užimtų žemių sugrąžinimo."
-  atnaujinta: "2026-07-26 17:49"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168707
-
-<a id="claim-t-196376"></a>
-- t-004
-  teiginys: "Kojelavičiaus pasakojime senatoriai aiškino, kad Maskvos didikai, pasiuntę didžiojo kunigaikščio legatą pas karalių, galėtų sustabdyti kraujo praliejimą."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-178652
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Augustas paragino savo legatus su kunigaikščiu Ivanu kalbėtis ir dėl Livonijos reikalų.'
@@ -156,8 +105,6 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-168707
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -195,9 +142,9 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
+    - t-001
     - t-002
-    - t-003
 
 - id: c-178652
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -229,5 +176,49 @@ Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-001
+    - t-002
+    - t-003
+
+## Teiginiai
+
+<a id="claim-t-185346"></a>
+- t-001
+  teiginys: "Legatams pareikalavus Seversko ir Smolensko, Maskvos didikai atsisakė tartis dėl užimtų žemių grąžinimo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168707
+    - c-178652
+
+<a id="claim-t-193459"></a>
+- t-002
+  teiginys: "Legatams reikalaujant Seversko ir Smolensko, Maskvos didikai atsakė, kad nesą kunigaikščio įgalioti tartis dėl užimtų žemių sugrąžinimo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168707
+    - c-178652
+
+<a id="claim-t-196376"></a>
+- t-003
+  teiginys: "Kojelavičiaus pasakojime senatoriai aiškino, kad Maskvos didikai, pasiuntę didžiojo kunigaikščio legatą pas karalių, galėtų sustabdyti kraujo praliejimą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-178652
+

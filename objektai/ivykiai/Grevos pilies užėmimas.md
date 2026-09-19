@@ -36,20 +36,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-201320"></a>
-- t-001
-  teiginys: "Kaipogi tebesikaulijant Sviatopelkui su kryžėjais, Vida, jų rėdytojas, sukėlė visą savo galybę, kursai, susinėręs su meldžionimis, gulė į Pamezoniją lietuvių kariauti žiemos vidų, nuty kinęs pasalu pas pilį Grevą (Christburgą), kurios įgulė, nuvargusi."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184670
-
 ## Citatos
 
 - id: c-184670
@@ -77,5 +63,20 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201320"></a>
+- t-001
+  teiginys: "Kaipogi tebesikaulijant Sviatopelkui su kryžėjais, Vida, jų rėdytojas, sukėlė visą savo galybę, kursai, susinėręs su meldžionimis, gulė į Pamezoniją lietuvių kariauti žiemos vidų, nuty kinęs pasalu pas pilį Grevą (Christburgą), kurios įgulė, nuvargusi."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184670
+

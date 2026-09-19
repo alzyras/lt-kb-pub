@@ -38,26 +38,17 @@ Narbutas Himalajų kalnus siejo su indų kilme ir teigė, kad jo aptariamas kult
 
 ## Teiginiai
 
-<a id="claim-t-189004"></a>
-- t-001
-  teiginys: "Narbutas Himalajų kalnus siejo su indų kilme ir teigė, kad jo aptariamas kultas kilo iš prie jų gyvenusios tautos."
-  atnaujinta: "2026-07-19 17:58"
+<a id="claim-t-210513"></a>
+- t-210513
+  teiginys: "Vidurinėje Azijoje nusidriekę Himalajų kalnai, sudarantys Ki nijos pietų sieną, anot naujesnių duomenų, savo vidutiniu aukščiu viršija Cimborasą, Amerikos Kordiljerų grandinės kalną, lig šiol lai kytą aukščiausiu Žemės kalnu."
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "gyveno -> Himalajų kalnai: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Indai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Himalajų kalnai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata indų kilmę sieja su tauta, gyvenusia prie Himalajų kalnų."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Indai gyveno Himalajų kalnai (0.68)"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-171893
+    - c-196341
 
 ## Citatos
 
@@ -84,5 +75,23 @@ Narbutas Himalajų kalnus siejo su indų kilme ir teigė, kad jo aptariamas kult
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-196341
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 39"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 39."
+  citata_originali: |
+    Vidurinėje Azijoje nusidriekę Himalajų kalnai, sudarantys Ki­
+    nijos pietų sieną, anot naujesnių duomenų, savo vidutiniu aukščiu
+    viršija Cimborasą, Amerikos Kordiljerų grandinės kalną, lig šiol lai­
+    kytą aukščiausiu Žemės kalnu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210513
+

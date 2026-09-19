@@ -41,28 +41,6 @@ canonical_biography: "1769 m. vienas iš klasicizmo architektūros L I E T U V O
 
 1769 m. vienas iš klasicizmo architektūros L I E T U V O S I S T O R I J A 90 pradininkų Lietuvoje Martynas Knakfusas (Marcin Knackfus, apie 1740– 1821) tapo būsimojo pirmojo Edukacinės komisijos pirmininko Vilniaus vyskupo Ignoto Masalskio architektu ir.
 
-## Teiginiai
-
-<a id="claim-t-26454"></a>
-- t-001
-  teiginys: "Martynas Knakfusas 1769 m. tapo Vilniaus vyskupo Ignoto Masalskio architektu ir pradėjo statyti vyskupo rūmus Verkiuose."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Verkiai: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Martynas Knakfusas (vyskupas, XVIII–XIX a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Verkiai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai mini Knakfuso pradėtą statybą Verkiuose, nors objektas yra rūmai, o kandidatuose yra vieta."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Martynas Knakfusas (vyskupas, XVIII–XIX a.) pastatė Verkiai (0.62)"
-  temporaliniai_duomenys: "įvykio data: 1769 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Knakfuso vaidmenį, datą ir darbą, o citata tai tiesiogiai patvirtina."
-  pagrindžia:
-    - c-26679
-
 ## Citatos
 
 - id: c-26679
@@ -87,5 +65,28 @@ canonical_biography: "1769 m. vienas iš klasicizmo architektūros L I E T U V O
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-26454"></a>
+- t-001
+  teiginys: "Martynas Knakfusas 1769 m. tapo Vilniaus vyskupo Ignoto Masalskio architektu ir pradėjo statyti vyskupo rūmus Verkiuose."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Verkiai: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Martynas Knakfusas (vyskupas, XVIII–XIX a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Verkiai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai mini Knakfuso pradėtą statybą Verkiuose, nors objektas yra rūmai, o kandidatuose yra vieta."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Martynas Knakfusas (vyskupas, XVIII–XIX a.) pastatė Verkiai (0.62)"
+  temporaliniai_duomenys: "įvykio data: 1769 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nusako Knakfuso vaidmenį, datą ir darbą, o citata tai tiesiogiai patvirtina."
+  pagrindžia:
+    - c-26679
+

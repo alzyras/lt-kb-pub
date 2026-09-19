@@ -34,20 +34,6 @@ Aleksandro Pšezdzieckio monografija „Jadvygos ir Jogailos namų gyvenimas“ 
 
 Aleksandro Pšezdzieckio monografija „Jadvygos ir Jogailos namų gyvenimas“ pasirodė 1854 m.
 
-## Teiginiai
-
-<a id="claim-t-207042"></a>
-- t-001
-  teiginys: "Aleksandro Pšezdzieckio monografija „Jadvygos ir Jogailos namų gyvenimas“ pasirodė 1854 m."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189657
-
 ## Citatos
 
 - id: c-189657
@@ -69,5 +55,20 @@ Aleksandro Pšezdzieckio monografija „Jadvygos ir Jogailos namų gyvenimas“ 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-207042"></a>
+- t-001
+  teiginys: "Aleksandro Pšezdzieckio monografija „Jadvygos ir Jogailos namų gyvenimas“ pasirodė 1854 m."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189657
+

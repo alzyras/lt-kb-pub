@@ -51,29 +51,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-75097"></a>
-- t-001
-  teiginys: "1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais, padėjo leisti „Sintaksis“ ir teikė informaciją iš Lietuvos."
-  atnaujinta: "2026-06-14 10:46"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Tomas Venclova: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pranas Morkus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Tomas Venclova: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Abu asmenys kartu įvardyti kaip pirmieji lietuviai disidentai, veikę su Maskvos disidentais."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Pranas Morkus buvo sąjungininkas su Tomas Venclova (0.70)"
-  temporaliniai_duomenys: "įvykio data: 1948 m.; įvykio data: 1960 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Papildyta citatoje nurodytu informacijos teikimu ir patikslintas žurnalo leidimas."
-  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
-  pagrindžia:
-    - c-73013
-
 ## Citatos
 
 - id: c-73013
@@ -98,5 +75,29 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-75097"></a>
+- t-001
+  teiginys: "1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais, padėjo leisti „Sintaksis“ ir teikė informaciją iš Lietuvos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Tomas Venclova: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pranas Morkus: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Tomas Venclova: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Abu asmenys kartu įvardyti kaip pirmieji lietuviai disidentai, veikę su Maskvos disidentais."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Pranas Morkus buvo sąjungininkas su Tomas Venclova (0.70)"
+  temporaliniai_duomenys: "įvykio data: 1948 m.; įvykio data: 1960 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Papildyta citatoje nurodytu informacijos teikimu ir patikslintas žurnalo leidimas."
+  vertinimo_atnaujinta: "2026-06-14T07:46:02Z"
+  pagrindžia:
+    - c-73013
+

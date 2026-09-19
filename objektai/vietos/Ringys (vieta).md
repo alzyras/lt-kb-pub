@@ -42,33 +42,6 @@ Ringys buvo upelis už pusės varsto nuo Kapelių ir Užpalių.
 
 Ringys buvo upelis už pusės varsto nuo Kapelių ir Užpalių.
 
-## Teiginiai
-
-<a id="claim-t-205856"></a>
-- t-001
-  teiginys: "Ringys buvo upelis už pusės varsto nuo Kapelių ir Užpalių."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-188471
-
-<a id="claim-t-206570"></a>
-- t-002
-  teiginys: "Teodoras Narbutas spėja, kad Ringio upelio vardas siejasi su didžiojo kunigaikščio Rimgaudo vardu, o prie jo krantų Rimgaudas galėjo laimėti pergalę."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
-  pagrindžia:
-    - c-189185
-
 ## Citatos
 
 - id: c-188471
@@ -88,7 +61,7 @@ Ringys buvo upelis už pusės varsto nuo Kapelių ir Užpalių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189185
@@ -110,5 +83,33 @@ Ringys buvo upelis už pusės varsto nuo Kapelių ir Užpalių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-205856"></a>
+- t-001
+  teiginys: "Ringys buvo upelis už pusės varsto nuo Kapelių ir Užpalių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188471
+
+<a id="claim-t-206570"></a>
+- t-002
+  teiginys: "Teodoras Narbutas spėja, kad Ringio upelio vardas siejasi su didžiojo kunigaikščio Rimgaudo vardu, o prie jo krantų Rimgaudas galėjo laimėti pergalę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189185
+

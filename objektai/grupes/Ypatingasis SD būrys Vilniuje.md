@@ -28,25 +28,6 @@ media_all_json: |-
 
 Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypatingasis SD būrys Vilniuje (Paneriuose) ir Heinricho Hamano (Heinrich Hamann) „skrajojantis būrys“, kelis kartus per savaitę vykdavęs į provincijos vietoves ir ten šaudęs (jo pagrindą.
 
-## Teiginiai
-
-<a id="claim-t-20093"></a>
-- t-001
-  teiginys: "Ypatingasis SD būrys Vilniuje (Paneriuose) buvo iš lietuvių sudaryta speciali zonderkomanda, vykdžiusi šaudymus."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Žydai: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ypatingasis SD būrys Vilniuje: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Žydai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citatos kontekste žydų bendruomenių šaudymas priskirtas specialiosioms zonderkomandoms, tarp jų Ypatingajam SD būriui Vilniuje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Ypatingasis SD būrys Vilniuje puolė Žydai (0.76)"
-  pagrindžia:
-    - c-22828
-
 ## Citatos
 
 - id: c-22828
@@ -73,5 +54,25 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-20093"></a>
+- t-001
+  teiginys: "Ypatingasis SD būrys Vilniuje (Paneriuose) buvo iš lietuvių sudaryta speciali zonderkomanda, vykdžiusi šaudymus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Žydai: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ypatingasis SD būrys Vilniuje: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Žydai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citatos kontekste žydų bendruomenių šaudymas priskirtas specialiosioms zonderkomandoms, tarp jų Ypatingajam SD būriui Vilniuje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Ypatingasis SD būrys Vilniuje puolė Žydai (0.76)"
+  pagrindžia:
+    - c-22828
+

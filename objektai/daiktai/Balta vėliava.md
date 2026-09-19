@@ -39,20 +39,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-201364"></a>
-- t-001
-  teiginys: "Pasakoja tų laikų rašytojai, jog danams, arba saulėlydiniams žuvėdams, vienoj kru vinoj ir maringoj mūšoj būk iš dangaus balta vė liava nusileidusi, kuriuo ženklu pastiprinti danai per laužę rindą netikėlių."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184714
-
 ## Citatos
 
 - id: c-184714
@@ -80,5 +66,20 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201364"></a>
+- t-001
+  teiginys: "Pasakoja tų laikų rašytojai, jog danams, arba saulėlydiniams žuvėdams, vienoj kru vinoj ir maringoj mūšoj būk iš dangaus balta vė liava nusileidusi, kuriuo ženklu pastiprinti danai per laužę rindą netikėlių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184714
+

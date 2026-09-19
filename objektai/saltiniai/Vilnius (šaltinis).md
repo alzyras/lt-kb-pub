@@ -39,21 +39,6 @@ Juozapo Ignoto Kraševskio monografijos „Vilnius“ antrasis leidimas išleist
 
 Juozapo Ignoto Kraševskio monografijos „Vilnius“ antrasis leidimas išleistas 1840 m., beveik tuo pat metu kaip ir penktasis LTI tomas.
 
-## Teiginiai
-
-<a id="claim-t-207046"></a>
-- t-001
-  teiginys: "Juozapo Ignoto Kraševskio monografijos „Vilnius“ antrasis leidimas išleistas 1840 m., beveik tuo pat metu kaip ir penktasis LTI tomas."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189661
-
 ## Citatos
 
 - id: c-189661
@@ -72,5 +57,21 @@ Juozapo Ignoto Kraševskio monografijos „Vilnius“ antrasis leidimas išleist
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-207046"></a>
+- t-001
+  teiginys: "Juozapo Ignoto Kraševskio monografijos „Vilnius“ antrasis leidimas išleistas 1840 m., beveik tuo pat metu kaip ir penktasis LTI tomas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189661
+

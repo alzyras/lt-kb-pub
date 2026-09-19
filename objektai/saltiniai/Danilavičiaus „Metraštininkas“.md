@@ -28,20 +28,6 @@ Pasak Narbuto, Danilavičiaus „Metraštininkas“ teigia, kad Eustachijus pala
 
 Pasak Narbuto, Danilavičiaus „Metraštininkas“ teigia, kad Eustachijus palaidotas Vilniuje prie Šv. Mikalojaus cerkvės vienoje duobėje su Antanu ir Jonu.
 
-## Teiginiai
-
-<a id="claim-t-207049"></a>
-- t-001
-  teiginys: "Pasak Narbuto, Danilavičiaus „Metraštininkas“ teigia, kad Eustachijus palaidotas Vilniuje prie Šv. Mikalojaus cerkvės vienoje duobėje su Antanu ir Jonu."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189664
-
 ## Citatos
 
 - id: c-189664
@@ -60,5 +46,20 @@ Pasak Narbuto, Danilavičiaus „Metraštininkas“ teigia, kad Eustachijus pala
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-207049"></a>
+- t-001
+  teiginys: "Pasak Narbuto, Danilavičiaus „Metraštininkas“ teigia, kad Eustachijus palaidotas Vilniuje prie Šv. Mikalojaus cerkvės vienoje duobėje su Antanu ir Jonu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189664
+

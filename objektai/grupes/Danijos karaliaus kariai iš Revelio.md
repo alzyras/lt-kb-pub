@@ -34,43 +34,6 @@ media_all_json: |-
 
 ), iš Vokietijos žemių 30 naujai įstojusių Ordino brolių būrys, Revelio (Talino) danų kariuomenė, vadovaujama švedų kunigaikščio Karolio, turėjusio dar savo būrį. “ Šiam patarimui nepritarė Danijos karaliaus kariai iš Revelio ir daugybė kitų, tvirtindami, kad be žirgų jie nejstengsią mūšyje atsilaikyti dėl savo sunkios ginkluotės.
 
-## Teiginiai
-
-<a id="claim-t-40871"></a>
-- t-001
-  teiginys: "Danijos karaliaus kariai iš Revelio nepritarė siūlymui kautis pėsčiomis, nes dėl sunkios ginkluotės manė neatsilaikysią mūšyje."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Revelis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Danijos karaliaus kariai iš Revelio: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Revelis: mention_match, place, gap=28"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Danijos karaliaus kariai iš Revelio\" parinktas kaip owner_note_path. Targetas \"Revelis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-44729
-
-<a id="claim-t-40872"></a>
-- t-002
-  teiginys: "Revelio danų kariuomenei vadovavo švedų kunigaikštis Karolis, turėjęs ir savo būrį."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Danijos karaliaus kariai iš Revelio: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Revelio danų kariuomenė išvardyta tarp Klaipėdoje prieš Lietuvą sutelktų pajėgų, todėl jų judėjimas į šią akciją Lietuvoje pagrįstas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Danijos karaliaus kariai iš Revelio keliavo į Lietuva (0.72)"
-  temporaliniai_duomenys: "įvykio data: 1260 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-44730
-
 ## Citatos
 
 - id: c-44729
@@ -98,7 +61,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-44730
@@ -128,5 +91,43 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-40871"></a>
+- t-001
+  teiginys: "Danijos karaliaus kariai iš Revelio nepritarė siūlymui kautis pėsčiomis, nes dėl sunkios ginkluotės manė neatsilaikysią mūšyje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Revelis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Danijos karaliaus kariai iš Revelio: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Revelis: mention_match, place, gap=28"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Danijos karaliaus kariai iš Revelio\" parinktas kaip owner_note_path. Targetas \"Revelis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-44729
+
+<a id="claim-t-40872"></a>
+- t-002
+  teiginys: "Revelio danų kariuomenei vadovavo švedų kunigaikštis Karolis, turėjęs ir savo būrį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Danijos karaliaus kariai iš Revelio: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Revelio danų kariuomenė išvardyta tarp Klaipėdoje prieš Lietuvą sutelktų pajėgų, todėl jų judėjimas į šią akciją Lietuvoje pagrįstas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Danijos karaliaus kariai iš Revelio keliavo į Lietuva (0.72)"
+  temporaliniai_duomenys: "įvykio data: 1260 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-44730
+

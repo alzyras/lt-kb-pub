@@ -34,69 +34,6 @@ canonical_biography: "Divonis Narbuto pasakojime buvo vienintelis Bitinijos keli
 
 Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs ligą, kuri vasarą pražudė kitus jo bendrakeleivius. 1, p. 32) vadina jį Divones, o 623 puslapyje — kitaip, t. Divonis, jeigu nėra graikiškas žodis Dionysios, Dionys, — tai yra tikrai lietuviškas žodis, išverstas iš lotyniško Theodorus, arba Theodotus; Teodoras Augusto laikais buvo išsiųstas į Siau rės kraštus, iki pat Baltijos jūros, kad atliktų geografinius tyrimus.
 
-## Teiginiai
-
-<a id="claim-t-191139"></a>
-- t-001
-  teiginys: "Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs ligą, kuri vasarą pražudė kitus jo bendrakeleivius."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  pagrindžia:
-    - c-174021
-
-<a id="claim-t-197722"></a>
-- t-002
-  teiginys: "1, p. 32) vadina jį Divones, o 623 puslapyje — kitaip, t."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-179307
-
-<a id="claim-t-197723"></a>
-- t-003
-  teiginys: "Divonis, jeigu nėra graikiškas žodis Dionysios, Dionys, — tai yra tikrai lietuviškas žodis, išverstas iš lotyniško Theodorus, arba Theodotus; Teodoras Augusto laikais buvo išsiųstas į Siau rės kraštus, iki pat Baltijos jūros, kad atliktų geografinius tyrimus."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-179308
-
-<a id="claim-t-200980"></a>
-- t-004
-  teiginys: "Penkiose srityse atsirado tokie vyrai: Olan das Samijoj, Montė Natangijoj, Glapas Varmijoj, Divonis Partijoj o Auktuma Pagezonijoj."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184330
-
-<a id="claim-t-200981"></a>
-- t-005
-  teiginys: "Divonis palikinąs tyrus grobį, gyvolius ir im tinius su didesne dalia savo kariaunos pirma pa leido, o pats su rinktiniais paskui grįžo namo į Barti ją."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184331
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs ligą, kuri vasarą pražudė kitus jo bendrakeleivius.'
@@ -144,8 +81,6 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-179307
   autorius: "Teodoras Narbutas"
@@ -164,8 +99,6 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-179308
   autorius: "Teodoras Narbutas"
@@ -189,8 +122,6 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-184330
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -216,8 +147,8 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-200980
 
 - id: c-184331
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -238,5 +169,114 @@ Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs l
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-200981
+
+- id: c-194853
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 169"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 169."
+  citata_originali: |
+    Hartknochas
+    jį vadina Divanes, in genetivo: Divanis. Foigtas (t. 1, p. 32) vadina jį
+    Divones, o 623 puslapyje — kitaip, t. y. Dimones, Dimonis, Dywones.
+    Gruna'u (mano rankraštyje II traktato I skyrius) vieną kartą jį įvar­
+    dija Dymoynis, o kitą kartą — Dymoniys, kitur Dybonis, o dar kitur
+    Dyvaonys, paskutinį kartą Dymonis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+- id: c-196570
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 169"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 169."
+  citata_originali: |
+    Gruna'u (mano rankraštyje II traktato I skyrius) vieną kartą jį įvar­
+    dija Dymoynis, o kitą kartą — Dymoniys, kitur Dybonis, o dar kitur
+    Dyvaonys, paskutinį kartą Dymonis. Iš to galima padaryti išvadą, jog
+    šis vardas, t. y. Divonis, jeigu nėra graikiškas žodis Dionysios, Dio-
+    nys, — tai yra tikrai lietuviškas žodis, išverstas iš lotyniško Theodo-
+    rus, arba Theodotus; Teodoras Augusto laikais buvo išsiųstas į Siau­
+    rės kraštus, iki pat Baltijos jūros, kad atliktų geografinius tyrimus ir
+    išmatuotų žemes. Juk visi slavai graikų ir romėnų vardus — Theo-
+    dorus, Theophilus. Theodatus, Deogratus etc. — vertė į savo kalbą
+    taip: Bogumilas, Boguchvalas, Bogislavas ir t. t. Panašiai ir lietuviai
+    Teodotą išvertė savaip — Diemonis (Diewas — Deus).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Teiginiai
+
+<a id="claim-t-213214"></a>
+- t-001
+  teiginys: "1, p. 32) vadina jį Divones, o 623 puslapyje — kitaip, t."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194853
+
+<a id="claim-t-214758"></a>
+- t-002
+  teiginys: "Divonis, jeigu nėra graikiškas žodis Dionysios, Dionys, — tai yra tikrai lietuviškas žodis, išverstas iš lotyniško Theodorus, arba Theodotus; Teodoras Augusto laikais buvo išsiųstas į Siau rės kraštus, iki pat Baltijos jūros, kad atliktų geografinius tyrimus."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196570
+
+<a id="claim-t-215780"></a>
+- t-003
+  teiginys: "Divonis Narbuto pasakojime buvo vienintelis Bitinijos keliautojas, išgyvenęs ligą, kuri vasarą pražudė kitus jo bendrakeleivius."
+  atnaujinta: "2026-09-13 21:19"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
+
+<a id="claim-t-200980"></a>
+- t-200980
+  teiginys: "Penkiose srityse atsirado tokie vyrai: Olan das Samijoj, Montė Natangijoj, Glapas Varmijoj, Divonis Partijoj o Auktuma Pagezonijoj."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184330
+
+<a id="claim-t-200981"></a>
+- t-200981
+  teiginys: "Divonis palikinąs tyrus grobį, gyvolius ir im tinius su didesne dalia savo kariaunos pirma pa leido, o pats su rinktiniais paskui grįžo namo į Barti ją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184331
+

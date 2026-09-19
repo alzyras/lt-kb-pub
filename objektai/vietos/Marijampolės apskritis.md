@@ -43,32 +43,6 @@ historical_names: []
 
 1809 m. Lokaičių kaime Marijampolės apskrityje kaimietis Kavaliauskas po supuvusiu ąžuolo kelmu rado įvairių ginklų nuolaužų.
 
-## Teiginiai
-
-<a id="claim-t-189023"></a>
-- t-001
-  teiginys: "1809 m. Lokaičių kaime Marijampolės apskrityje kaimietis Kavaliauskas po supuvusiu ąžuolo kelmu rado įvairių ginklų nuolaužų."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "priklause -> Marijampolės apskritis: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lokaičiai: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Marijampolės apskritis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Lokaičiai tiesiogiai lokalizuojami Marijampolės apskrityje."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Lokaičiai priklausė Marijampolės apskritis (0.90)"
-  temporaliniai_duomenys: "priklausymo laikotarpis: 1809 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Lokaičiai priklausė Marijampolės apskritis“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Ilgas radinio aprašymas sutrumpintas iki aiškaus sakinio apie Marijampolės apskritį. Neįtrauktos vėlesnės pasakojimo detalės apie žiedą."
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-171912
-
 ## Citatos
 
 - id: c-171912
@@ -94,8 +68,73 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-199749
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 96"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 96."
+  citata_originali: |
+    Man sakė, kad Karaliaučiuje
+    buvo Kęstučio vėliava, kurioje pavaizduotas šuoliuojantis juo­
+    das žirgas, o ant jo - juodas gaidys.
+    1809 metais Marijampolės apskrityje, netoli nuo kairiojo
+    Nemuno kranto, Lokaičių (Lokajce) kaime, kaimietis Kava­
+    liauskas, įdirbdamas skynimą arimui, po supuvusiu kadaise mil­
+    žiniško ąžuolo kelmu rado daugybę įvairių ginklų nuolaužų:
+    lai buvo rūdžių suėsti kalavijai, kardai, berdyšiai, skydai, ant­
+    veidžiai, kai kurie variniai ir sidabriniai daiktai. 1813 metais jo
+    mylista Daujotas, anuometinis Lokaičių palivarko nuomoto­
+    jas, man pasakojo: „Gavau varinį žiedą su puse colio pločio,
+    11 colių diametro“.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+    - t-002
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lokaičiai]]
+
+## Teiginiai
+
+<a id="claim-t-216341"></a>
+- t-001
+  teiginys: "1809 m. Lokaičių kaime Marijampolės apskrityje kaimietis Kavaliauskas po supuvusiu ąžuolo kelmu rado įvairių ginklų nuolaužų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Marijampolės apskritis: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lokaičiai: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Marijampolės apskritis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lokaičiai tiesiogiai lokalizuojami Marijampolės apskrityje."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Lokaičiai priklausė Marijampolės apskritis (0.90)"
+  temporaliniai_duomenys: "priklausymo laikotarpis: 1809 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Lokaičiai priklausė Marijampolės apskritis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Ilgas radinio aprašymas sutrumpintas iki aiškaus sakinio apie Marijampolės apskritį. Neįtrauktos vėlesnės pasakojimo detalės apie žiedą."
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-199749
+
+<a id="claim-t-217310"></a>
+- t-002
+  teiginys: "1809 metais Marijampolės apskrityje, netoli nuo kairiojo Nemuno kranto, Lokaičių (Lokajce) kaime, kaimietis Kava liauskas, įdirbdamas skynimą arimui, po supuvusiu kadaise mil žiniško ąžuolo kelmu rado daugybę įvairių ginklų nuolaužų: lai buvo rūdžių suėsti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199749
+

@@ -45,19 +45,41 @@ Avižonis : Vladimiras, LE, t. Avižonis : Bajorai valstybiniame Lietuvos gyveni
 
 ## Teiginiai
 
-<a id="claim-t-30721"></a>
-- t-001
-  teiginys: "K. Avižonis parašė Lietuvių enciklopedijos straipsnį „Vladimiras“."
-  atnaujinta: "2026-07-26 23:35"
+<a id="claim-t-207960"></a>
+- t-207960
+  teiginys: "1932 m. Konstantinas Avižonis išleido ir Berlyne apgynė daktaro disertaciją „Lietuvių bajorijos atsiradimas ir raida iki Lietuvos-Lenkijos unijos 1385“."
+  atnaujinta: "2026-09-08 15:22"
   sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  temporaliniai_duomenys: "įvykio data: 1932 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190365
+
+<a id="claim-t-30721"></a>
+- t-30721
+  teiginys: "K. Avižonis parašė Lietuvių enciklopedijos straipsnį „Vladimiras“."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Juška: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "K. Avižonis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "A. Juška: mention_match, author, gap=3"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"K. Avižonis\" parinktas kaip owner_note_path. Targetas \"A. Juška\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-30613
+    - c-32987
 
 <a id="claim-t-30723"></a>
-- t-002
+- t-30723
   teiginys: "K. Avižonis tyrė poliublininius laikus, parašė veikalą apie bajorus Vazų laikų Lietuvoje ir kelias kritiškas istorijos studijas."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -73,9 +95,9 @@ Avižonis : Vladimiras, LE, t. Avižonis : Bajorai valstybiniame Lietuvos gyveni
     - c-30613
 
 <a id="claim-t-203667"></a>
-- t-003
+- t-203667
   teiginys: "Konstantinas Avižonis, nagrinėdamas Lietuvos teisę ir teismus, aptarė mirties bausmę už karaliaus majestoto įžeidimą ir krašto išdavimą bei analizavo Lietuvos Statutų ir valdovų privilegijų tekstus."
-  atnaujinta: "2026-08-07 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -108,9 +130,9 @@ Avižonis : Vladimiras, LE, t. Avižonis : Bajorai valstybiniame Lietuvos gyveni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
+  pagrindžia:
+    - t-30721
+    - t-30723
 
 - id: c-32987
   autorius: "Zenonas Ivinskis"
@@ -131,6 +153,9 @@ Avižonis : Vladimiras, LE, t. Avižonis : Bajorai valstybiniame Lietuvos gyveni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-30721
+
 - id: c-186271
   autorius: "Gitana Zujienė"
   šaltinis: "Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose — Mirties bausmė Lietuvos Didžiosios Kunigaikštystės bajoriškos teisės aktuose (XV–XVI a.)"
@@ -146,5 +171,28 @@ Avižonis : Vladimiras, LE, t. Avižonis : Bajorai valstybiniame Lietuvos gyveni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-203667
+
+- id: c-190365
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 53"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 53."
+  citata_originali: |
+    Tai termino prasmės chronologinio kitėjimo pavyzdys"
+    20.
+    1932 m. Konstantinas Avižonis išleido vokiečių kalba parašytą ir Berlyne apgintą
+    daktaro disertaciją „Lietuvių bajorijos atsiradimas ir raida iki Lietuvos-Lenkijos unijos
+    1385"
+    21.
+  citata_rodoma: "1932 m. Konstantinas Avižonis išleido vokiečių kalba parašytą ir Berlyne apgintą\ndaktaro disertaciją „Lietuvių bajorijos atsiradimas ir raida iki Lietuvos-Lenkijos unijos\n1385\""
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207960
+

@@ -62,3 +62,45 @@ Nenurodyta
 ## Santrauka
 
 1794 m. balandžio 25 d. Lietuvos Taryba įsteigė Visuomenės saugumo deputaciją.
+
+## Citatos
+
+- id: c-190712
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 147"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 147."
+  citata_originali: |
+    Aukščiausioji Lietuvos sukilėlių institucija - Lietuvos Aukščiausioji Taryba
+    (lenk. Rada Najwyższa Litewska, toliau - Lietuvos Taryba), sukurta 1794 m.
+    balandžio 24 d. Lietuvių tautos sukilimo aktu, jau kitą dieną, balandžio 25 d.,
+    išleido universalą', kuriuo buvo įsteigtos kitos sukilimo valdžios institucijos -
+    Kriminalinis teismas. Visuomenės saugumo (toliau Saugumo), Iždo, Aprūpinimo
+    deputacijos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-208003"></a>
+- t-001
+  teiginys: "1794 m. balandžio 25 d. Lietuvos Taryba įsteigė Visuomenės saugumo deputaciją."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  temporaliniai_duomenys: "įkūrimo data: 1794 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas sakinys apie nurodyto įvykio objektą ir tiksliai perteikia šaltinio datą bei veiksmą. Papildomų faktų ar atribucijos nereikia."
+  pagrindžia:
+    - c-190712
+

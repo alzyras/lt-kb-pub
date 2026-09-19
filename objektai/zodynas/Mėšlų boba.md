@@ -29,18 +29,17 @@ Narbutas Mėšlų bobą aprašo kaip deivę, globojusią iš namų iššluojamas
 
 ## Teiginiai
 
-<a id="claim-t-189316"></a>
-- t-001
-  teiginys: "Narbutas Mėšlų bobą aprašo kaip deivę, globojusią iš namų iššluojamas šiukšles ir pagerbiamą darželyje laikoma mėšlo ar šiukšlių krūva."
-  atnaujinta: "2026-07-19 17:58"
+<a id="claim-t-219970"></a>
+- t-219970
+  teiginys: "Mėšlų boba laikoma iš namų iššluojamų šiukšlių globėja."
+  atnaujinta: "2026-09-12 23:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
-    - c-172203
+    - c-199129
 
 ## Citatos
 
@@ -63,5 +62,23 @@ Narbutas Mėšlų bobą aprašo kaip deivę, globojusią iš namų iššluojamas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-199129
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 146"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 146."
+  citata_originali: |
+    Deivė, iššluojamų iš namų šiukšlių globėja. Jos garbei šei­
+    mininkės savo darželiuose laikydavo nedidelę mėšlo arba šiukš­
+    lių krūvą. Deivė pasirodydavo kaip labai iškaršusį ir drebanti
+    maža senutė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219970
+

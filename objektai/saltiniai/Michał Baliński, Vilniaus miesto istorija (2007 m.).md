@@ -52,74 +52,6 @@ Tai 2007 m. lietuviškas Mykolo Balinskio Vilniaus miesto istorijos leidimas, ve
 
 ## Teiginiai
 
-<a id="claim-t-54392"></a>
-- t-001
-  teiginys: "2007 m. lietuvišką leidimą išleido MINTIS; bibliografinėje eilutėje nurodytas ISBN 978-5-417-00907-5."
-  atnaujinta: "2026-05-25 16:41"
-  sprendimo_priezastis: "source_intake"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Michał Baliński, Vilniaus miesto istorija (2007 m.): owner_note_path, source"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=9"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Michał Baliński, Vilniaus miesto istorija (2007 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 2007 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-55236
-
-<a id="claim-t-54393"></a>
-- t-002
-  teiginys: "Įvade nurodyta siekti iš kronikų ir archyvinių rankraščių surinkti žinias apie Vilniaus kilmę, miesto teises ir privilegijas."
-  atnaujinta: "2026-06-13 17:10"
-  sprendimo_priezastis: "source_intake"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Michał Baliński, Vilniaus miesto istorija (2007 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Michał Baliński, Vilniaus miesto istorija (2007 m.)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55235
-
-<a id="claim-t-54394"></a>
-- t-003
-  teiginys: "Įvade Vilnius apibūdinamas kaip beveik du amžius buvusi vienos galingiausių Šiaurės Europos šalių sostinė ir vėlesnis mokslo bei vyriausiosios valdžios centras Lietuvoje."
-  atnaujinta: "2026-05-25 16:41"
-  sprendimo_priezastis: "source_intake"
-  ryšio_patikimumas: "susije_su -> Europa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Michał Baliński, Vilniaus miesto istorija (2007 m.): owner_note_path, source"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=85"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Michał Baliński, Vilniaus miesto istorija (2007 m.)\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55235
-
-<a id="claim-t-54395"></a>
-- t-004
-  teiginys: "Tituliniame puslapyje veikalas pristatomas kaip Mykolo Balinskio „Vilniaus miesto istorijos“ I tomas, apimantis Vilniaus istoriją nuo miesto įkūrimo iki 1430 m."
-  atnaujinta: "2026-05-25 16:41"
-  sprendimo_priezastis: "source_intake"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Michał Baliński, Vilniaus miesto istorija (2007 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Michał Baliński, Vilniaus miesto istorija (2007 m.)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: iki 1430 m.; įvykio data: 1430 m.; įvykio data: 1560 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-55234
-
 <a id="claim-t-54396"></a>
 - t-005
   teiginys: "2007 m. leidinys verstas iš Michało Balińskio veikalo „Historya Miasta Wilna“, 1836-1837 m. spausdinto Vilniuje Antono Marcinovskio spaustuvėje."
@@ -138,6 +70,74 @@ Tai 2007 m. lietuviškas Mykolo Balinskio Vilniaus miesto istorijos leidimas, ve
   temporalinis_llm_pakomentavimas: "Patikslinta forma ir išlaikyti tik citatoje nurodyti bibliografiniai duomenys."
   pagrindžia:
     - c-55236
+
+<a id="claim-t-54392"></a>
+- t-54392
+  teiginys: "2007 m. lietuvišką leidimą išleido MINTIS; bibliografinėje eilutėje nurodytas ISBN 978-5-417-00907-5."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "source_intake"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Michał Baliński, Vilniaus miesto istorija (2007 m.): owner_note_path, source"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=9"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Michał Baliński, Vilniaus miesto istorija (2007 m.)\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 2007 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-55236
+
+<a id="claim-t-54393"></a>
+- t-54393
+  teiginys: "Įvade nurodyta siekti iš kronikų ir archyvinių rankraščių surinkti žinias apie Vilniaus kilmę, miesto teises ir privilegijas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "source_intake"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Michał Baliński, Vilniaus miesto istorija (2007 m.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Michał Baliński, Vilniaus miesto istorija (2007 m.)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55235
+
+<a id="claim-t-54394"></a>
+- t-54394
+  teiginys: "Įvade Vilnius apibūdinamas kaip beveik du amžius buvusi vienos galingiausių Šiaurės Europos šalių sostinė ir vėlesnis mokslo bei vyriausiosios valdžios centras Lietuvoje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "source_intake"
+  ryšio_patikimumas: "susije_su -> Europa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Michał Baliński, Vilniaus miesto istorija (2007 m.): owner_note_path, source"
+  ryšio_targeto_parinkimas: "Europa: mention_match, place, gap=85"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Michał Baliński, Vilniaus miesto istorija (2007 m.)\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55235
+
+<a id="claim-t-54395"></a>
+- t-54395
+  teiginys: "Tituliniame puslapyje veikalas pristatomas kaip Mykolo Balinskio „Vilniaus miesto istorijos“ I tomas, apimantis Vilniaus istoriją nuo miesto įkūrimo iki 1430 m."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "source_intake"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Michał Baliński, Vilniaus miesto istorija (2007 m.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Michał Baliński, Vilniaus miesto istorija (2007 m.)\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: iki 1430 m.; įvykio data: 1430 m.; įvykio data: 1560 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-55234
 
 ## Citatos
 
@@ -172,8 +172,8 @@ Tai 2007 m. lietuviškas Mykolo Balinskio Vilniaus miesto istorijos leidimas, ve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-54395
 
 - id: c-55235
   autorius: "Michał Baliński"
@@ -208,9 +208,9 @@ Tai 2007 m. lietuviškas Mykolo Balinskio Vilniaus miesto istorijos leidimas, ve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-003
+  pagrindžia:
+    - t-54393
+    - t-54394
 
 - id: c-55236
   autorius: "Michał Baliński"
@@ -248,10 +248,12 @@ Tai 2007 m. lietuviškas Mykolo Balinskio Vilniaus miesto istorijos leidimas, ve
     © MINTIS, 2007
   citata_rodoma: "UDK 947.45 \nBa237\nVersta iš\nMichała Balińskiego \nHistory a Miasta Wilna \nWilno. Drukiem \nAntoniego Marcinowskiego, \n1836-1837\nKnygos leidimą parėmė \nLietuvos Respublikos \nkultūros ministerija\nKnyga išleista \nLietuvos tūkstantmečio \nminėjimo direkcijai \nparėmus\nRedaktorė\nSkirmantė Ramanauskaitė\nKnygos dailininkas \nRomas Dubonis\nISBN 978-5-417-00907-5 © Vertimas į lietuvių kalbą,\nOna Slavėnaitė, 2007 \n© Vertimas į lietuvių kalbą,\nIrena Katilienė, 2007 \n© Vertimas į lietuvių kalbą,\nJūratė Dalia Baronienė, 2007 \n© Romas Dubonis, apipavidalinimas, \n2007\n© MINTIS, 2007"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
     - t-005
+    - t-54392
+

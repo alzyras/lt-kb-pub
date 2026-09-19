@@ -40,10 +40,22 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
 
 ## Teiginiai
 
+<a id="claim-t-211023"></a>
+- t-211023
+  teiginys: "Naugardiečiai pasižadėjo tarnauti Vytautui, laikyti jį valdovu ir mokėti duoklę."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193103
+
 <a id="claim-t-05243"></a>
-- t-001
+- t-05243
   teiginys: "Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Naugardas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/proistorė|proistorė]]; mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Pskovas; llm_object: Pskovas"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -52,9 +64,9 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
     - c-180572
 
 <a id="claim-t-05244"></a>
-- t-002
+- t-05244
   teiginys: "Nuo XII amžiaus antros pusės ginkluoti plėšiamieji puolimai pasiekdavo Novgorodo prekybos respubliką."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
@@ -62,10 +74,51 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   pagrindžia:
     - c-180574
 
+<a id="claim-t-12357"></a>
+- t-12357
+  teiginys: "Didysis Naugardas atsisakė pradėti karą su vokiečiais, nes turėjo atskiras taikos sutartis su Maskva, Lietuva ir vokiečiais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "sudare_sutarti_su -> Vokiečiai: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Didžiojo Naugardo respublika: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citatoje naugardiečiai tiesiogiai sako turėję atskirą taikos sutartį su vokiečiais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Didžiojo Naugardo respublika sudarė sutartį su Vokiečiai (0.86)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-14963
+    - c-180567
+    - c-180571
+
+<a id="claim-t-12358"></a>
+- t-12358
+  teiginys: "Vytautui gyvenimo pabaigoje pasisekė paimti savo įtakon Pskovą ir Didįjį Naugardą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_place: Naugardas; mentioned_place: Maskva; mentioned_place: Odojevas; mentioned_place: Pskovas"
+  ryšio_patikimumas: "susije_su -> Naugardas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Didžiojo Naugardo respublika: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Naugardas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Didžiojo Naugardo respublika\" parinktas kaip owner_note_path. Targetas \"Naugardas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-14963
+    - c-180567
+    - c-14964
+    - c-180571
+
 <a id="claim-t-198533"></a>
-- t-003
+- t-198533
   teiginys: "Nuo XII a. antros pusės lietuvių ginkluoti būriai rengė plėšiamuosius puolimus iki Pskovo ir Novgorodo respublikų."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Pašalintas kontekstinis fragmentas ir sukonkretintas agentas."
   susije_objektai: "llm_object: Pskovas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Pskovas"
@@ -74,33 +127,10 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   pagrindžia:
     - c-180574
 
-<a id="claim-t-198534"></a>
-- t-004
-  teiginys: "Didžiojo Naugardo gyventojai kasmet mokėjo Vytautui 10 000 auksinų, 40 sunkiųjų žirgų ir kailių duoklę."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Iš sąrašo suformuotas glaustas enciklopedinis sakinys."
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Naugardas; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva"
-  semantiniai_rysiai: "[[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]] rėmė [[objektai/asmenys/Vytautas|Vytautas]]"
-  ryšio_patikimumas: "reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Didžiojo Naugardo respublika: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Naugardiečiai kasmet davė Vytautui duoklę, todėl tai palaikymo ar duoklinio rėmimo santykis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-180569
-
 <a id="claim-t-198535"></a>
-- t-005
+- t-198535
   teiginys: "Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Pradinis teiginys prasideda neaiškiu įvardžiu, todėl agentas perrašytas aiškiai."
   susije_objektai: "mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/proistorė|proistorė]]; mentioned_place: Dniepras; mentioned_place: Lietuva; llm_object: Pskovas"
@@ -110,9 +140,9 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
     - c-180572
 
 <a id="claim-t-198537"></a>
-- t-006
+- t-198537
   teiginys: "Algirdas siekė priversti Naugardo respubliką paklusti, nors ji ilgą laiką priešinosi Lietuvos ir Maskvos įtakai."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Pradinis sakinys turi neaiškų kontekstinį žodį „panašiai“, todėl perrašytas aiškiau."
   susije_objektai: "mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: D. Naugardas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]"
@@ -122,9 +152,9 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
     - c-180570
 
 <a id="claim-t-203060"></a>
-- t-007
+- t-203060
   teiginys: "Zenono Ivinskio teigimu, prieš Algirdo mirtį Didžiajame Naugarde įsigalėjo Maskvos įtaka, dėl kurios 1375 m. Didysis Naugardas sudarė sutartį su Dimitru."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Citata palaiko faktą, bet pradinė forma pagerinta pašalinant fragmentiškumą."
   susije_objektai: "mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: D. Naugardas"
@@ -136,9 +166,9 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
     - c-180570
 
 <a id="claim-t-206196"></a>
-- t-008
+- t-206196
   teiginys: "Didžiojo Naugardo pasiuntiniai pastojo kelią Algirdui, o jis priėmė jų atsiprašymus ir susitaikė, su sąlyga, kad naugardiečiai prireikus padės prieš kryžiuočius."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -147,6 +177,27 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
   pagrindžia:
     - c-188811
+
+<a id="claim-t-211912"></a>
+- t-211912
+  teiginys: "Didžiojo Naugardo gyventojai, bijodami Vytauto kariuomenės, pažadėjo jam tarnauti, mokėti duoklę ir laikyti jį valdovu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Pašalintas fragmentiškumas ir palikta aiški faktinė mintis apie Naugardą."
+  susije_objektai: "llm_object: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; llm_object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Naugardas; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Pinskas"
+  semantiniai_rysiai: "[[objektai/asmenys/Vytautas|Vytautas]] buvo valdovas [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]] rėmė [[objektai/asmenys/Vytautas|Vytautas]]"
+  ryšio_patikimumas: "buvo_valdovas -> Didžiojo Naugardo respublika: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Didžiojo Naugardo respublika: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Naugardiečiai pasižadėjo Vytautą laikyti savo valdovu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
 
 ## Citatos
 
@@ -174,6 +225,10 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-12357
+    - t-12358
+
 - id: c-14964
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -195,6 +250,9 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-12358
+
 - id: c-170671
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -228,6 +286,7 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-180567
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -252,6 +311,10 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-12357
+    - t-12358
+
 - id: c-180568
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -285,6 +348,7 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-180569
   autorius: "Anoniminis metraštininkas"
   šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
@@ -308,8 +372,6 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
 
 - id: c-180570
   autorius: "Zenonas Ivinskis"
@@ -329,9 +391,9 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
-    - t-007
+  pagrindžia:
+    - t-198537
+    - t-203060
 
 - id: c-180571
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -357,6 +419,10 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-12357
+    - t-12358
+
 - id: c-180572
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -376,9 +442,9 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-005
+  pagrindžia:
+    - t-05243
+    - t-198535
 
 - id: c-180573
   autorius: "Anoniminis metraštininkas"
@@ -397,6 +463,7 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-180574
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
@@ -417,9 +484,9 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-003
+  pagrindžia:
+    - t-05244
+    - t-198533
 
 - id: c-188811
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -436,8 +503,29 @@ Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus. Nuo XII amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
+  pagrindžia:
+    - t-206196
+
+- id: c-193103
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 103"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 103."
+  citata_originali: |
+    Naugardiečiai, matydami pskoviečius jam pasidavus
+    ir priėmus jo vietininką, nebenorėdami, kad jų žemė
+    nuo didžiojo kunigaikščio Vytauto dar labiau nukentė­
+    tų, atsiuntė pas jį savo pasiuntinius, pasižadėdami jam
+    tarnauti, ir duoklę duoti, ir laikyti ji savo valdovu,
+    kaip ir pskoviečiai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211023
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/grupes/Didžiojo Naugardo bojarinai]]

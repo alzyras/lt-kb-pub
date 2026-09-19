@@ -49,10 +49,19 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
 
 ## Teiginiai
 
-<a id="claim-t-49628"></a>
-- t-001
-  teiginys: "Aukščiausiosios Tarybos rūmų rūsyje gynybai buvo įrengtos ginklų remonto, šovinių ir sprogmenų gamybos dirbtuvės bei šaudykla."
+<a id="claim-t-49630"></a>
+- t-003
+  teiginys: "Aukščiausiosios Tarybos rūmų fojė ginkluoti vyrai buvo surinkti ir suskirstyti penketukais."
   atnaujinta: "2026-05-23 13:41"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-51590
+
+<a id="claim-t-49628"></a>
+- t-49628
+  teiginys: "Aukščiausiosios Tarybos rūmų rūsyje gynybai buvo įrengtos ginklų remonto, šovinių ir sprogmenų gamybos dirbtuvės bei šaudykla."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   ryšio_patikimumas: "susije_su -> Ginklai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -66,28 +75,19 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
     - c-51594
 
 <a id="claim-t-49629"></a>
-- t-002
+- t-49629
   teiginys: "Ant Aukščiausiosios Tarybos rūmų stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-51592
     - c-167162
 
-<a id="claim-t-49630"></a>
-- t-003
-  teiginys: "Aukščiausiosios Tarybos rūmų fojė ginkluoti vyrai buvo surinkti ir suskirstyti penketukais."
-  atnaujinta: "2026-05-23 13:41"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-51590
-
 <a id="claim-t-49632"></a>
-- t-004
+- t-49632
   teiginys: "1991 m. sausio 11-12 d. rūmų vidus buvo įtvirtinamas spygliuota viela, smėlio maišais, armatūros tinklais, užminuotais laiptais ir baldų barikadomis."
-  atnaujinta: "2026-05-23 13:41"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   temporaliniai_duomenys: "įvykio data: 1991 m."
@@ -106,11 +106,12 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
     „Visus ginkluotus vyrus surinko AT rūmų fojė, suskirstė penketu-
     kais. Man priskyrė penkis KAD būrio vyrus. Mūsų vieta ir užduotis
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-51591
@@ -136,8 +137,8 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-49632
 
 - id: c-51592
   sudarytojas: "Karolis Zikaras"
@@ -153,8 +154,8 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-49629
 
 - id: c-51594
   sudarytojas: "Karolis Zikaras"
@@ -171,8 +172,8 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-49628
 
 - id: c-167162
   sudarytojas: "Karolis Zikaras"
@@ -197,5 +198,6 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-49629
+

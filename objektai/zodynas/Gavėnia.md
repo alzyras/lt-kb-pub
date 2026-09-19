@@ -51,18 +51,6 @@ Gavėnia šiame šaltinyje reiškia religinį susilaikymo laikotarpį, keičiant
 
 Terminas vartojamas kalbant apie triukšmo draudimą ir tam laikui būdingus valgius.
 
-## Teiginiai
-
-<a id="claim-t-195456"></a>
-- t-001
-  teiginys: "Gavėnios metu šiame šaltinyje draudžiama rėkauti ir ūžti."
-  atnaujinta: "2026-07-12 03:27"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177877
-
 ## Citatos
 
 - id: c-177877
@@ -89,5 +77,18 @@ Terminas vartojamas kalbant apie triukšmo draudimą ir tam laikui būdingus val
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-195456"></a>
+- t-001
+  teiginys: "Gavėnios metu šiame šaltinyje draudžiama rėkauti ir ūžti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177877
+

@@ -52,3 +52,41 @@ Franęois Quesnay formuluodamas gamtos tvarkos principus perėmė dekaniškąjį
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-190958
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 140"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 140."
+  citata_originali: |
+    Tokiu atveju tikėjimas tampa
+    pagrindiniu doro ir teisingo gyvenimo moraliniu imperatyvu.
+    Šį proto ir tikėjimo santykį aiškiai identifikuoja fiziokratų doktrina. Franęois
+    Quesnay, formuluodamas gamtos tvarkos principus, buvo perėmęs dekaniškąjį sie­
+    los ir kūno dualizmą ir pritarė, kad žmogus sudarytas iš dvasios ir materijos - sielos
+    ir kūno.
+  citata_rodoma: "Šį proto ir tikėjimo santykį aiškiai identifikuoja fiziokratų doktrina. Franęois \nQuesnay, formuluodamas gamtos tvarkos principus, buvo perėmęs dekaniškąjį sie­\nlos ir kūno dualizmą ir pritarė, kad žmogus sudarytas iš dvasios ir materijos - sielos \nir kūno."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-208341"></a>
+- t-001
+  teiginys: "Franęois Quesnay formuluodamas gamtos tvarkos principus perėmė dekaniškąjį sielos ir kūno dualizmą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190958
+

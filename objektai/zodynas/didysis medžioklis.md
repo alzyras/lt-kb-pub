@@ -34,87 +34,6 @@ Didysis medžioklis buvo vyriausiasis LDK medžioklės ūkio pareigūnas. Nors J
 
 Didysis medžioklis buvo vyriausiasis LDK medžioklės ūkio pareigūnas. Nors Jerzy Ochmańskis didžiojo medžioklio pareigybę šaltiniuose datavo nuo XV a. antrosios pusės, 1437 m. ja jau ėjo Petras Volkovijus. Įsitvirtinus didžiojo medžioklio pareigybei, jos turėtojas LDK valdovo dvare vadovavo kitiems medžioklės ūkio pareigūnams ir keitė valdovo medžioklių organizavimą.
 
-## Teiginiai
-
-<a id="claim-t-204123"></a>
-- t-001
-  teiginys: "Didžiųjų medžioklių pareigos iki XVI a. pabaigos nekito, o po Mikalojaus Radvilos Rudojo mirties pareigybę perėmė Valavičių, Naruševičių ir Radvilų giminės."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
-  pagrindžia:
-    - c-186744
-
-<a id="claim-t-204125"></a>
-- t-002
-  teiginys: "Didysis medžioklis buvo vyriausiasis LDK medžioklės ūkio pareigūnas."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  pagrindžia:
-    - c-186722
-
-<a id="claim-t-204138"></a>
-- t-003
-  teiginys: "XVI a. LDK medžioklės ceremonialą žodiniu lygmeniu tikėtinai kontroliavo valdovas ir vyriausieji medžioklės pareigūnai, tarp jų didieji medžiokliai."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  pagrindžia:
-    - c-186736
-
-<a id="claim-t-204148"></a>
-- t-004
-  teiginys: "Didžiųjų medžioklių pareigybės atsiradimas palengvino valdovo pastangas riboti savavališką miškų ir medžioklės plotų naikinimą, nes pareigūnų dispozicijoje atsidūrė visos valdovui priklausiusios girios."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
-  pagrindžia:
-    - c-186769
-
-<a id="claim-t-204166"></a>
-- t-005
-  teiginys: "Įsitvirtinus didžiojo medžioklio pareigybei, jos turėtojas LDK valdovo dvare vadovavo kitiems medžioklės ūkio pareigūnams ir keitė valdovo medžioklių organizavimą."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
-  pagrindžia:
-    - c-186734
-
-<a id="claim-t-204173"></a>
-- t-006
-  teiginys: "Nors Jerzy Ochmańskis didžiojo medžioklio pareigybę šaltiniuose datavo nuo XV a. antrosios pusės, 1437 m. ja jau ėjo Petras Volkovijus."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  temporaliniai_duomenys: "įvykio data: 1437 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išsaugota Jerzy Ochmańskio pozicijos atribucija ir aiškiai atskirtas 1437 m. faktas. Prieštaringa chronologija perteikta vienu nuosekliu sakiniu."
-  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
-  pagrindžia:
-    - c-186750
-
 ## Citatos
 
 - id: c-186722
@@ -135,7 +54,7 @@ Didysis medžioklis buvo vyriausiasis LDK medžioklės ūkio pareigūnas. Nors J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-186734
@@ -157,7 +76,7 @@ Didysis medžioklis buvo vyriausiasis LDK medžioklės ūkio pareigūnas. Nors J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-186736
@@ -183,7 +102,7 @@ Didysis medžioklis buvo vyriausiasis LDK medžioklės ūkio pareigūnas. Nors J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-186744
@@ -205,7 +124,7 @@ Didysis medžioklis buvo vyriausiasis LDK medžioklės ūkio pareigūnas. Nors J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186750
@@ -226,7 +145,7 @@ Didysis medžioklis buvo vyriausiasis LDK medžioklės ūkio pareigūnas. Nors J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-186769
@@ -250,5 +169,87 @@ Didysis medžioklis buvo vyriausiasis LDK medžioklės ūkio pareigūnas. Nors J
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+## Teiginiai
+
+<a id="claim-t-204123"></a>
+- t-001
+  teiginys: "Didžiųjų medžioklių pareigos iki XVI a. pabaigos nekito, o po Mikalojaus Radvilos Rudojo mirties pareigybę perėmė Valavičių, Naruševičių ir Radvilų giminės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186744
+
+<a id="claim-t-204125"></a>
+- t-002
+  teiginys: "Didysis medžioklis buvo vyriausiasis LDK medžioklės ūkio pareigūnas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186722
+
+<a id="claim-t-204138"></a>
+- t-003
+  teiginys: "XVI a. LDK medžioklės ceremonialą žodiniu lygmeniu tikėtinai kontroliavo valdovas ir vyriausieji medžioklės pareigūnai, tarp jų didieji medžiokliai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186736
+
+<a id="claim-t-204148"></a>
+- t-004
+  teiginys: "Didžiųjų medžioklių pareigybės atsiradimas palengvino valdovo pastangas riboti savavališką miškų ir medžioklės plotų naikinimą, nes pareigūnų dispozicijoje atsidūrė visos valdovui priklausiusios girios."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186769
+
+<a id="claim-t-204166"></a>
+- t-005
+  teiginys: "Įsitvirtinus didžiojo medžioklio pareigybei, jos turėtojas LDK valdovo dvare vadovavo kitiems medžioklės ūkio pareigūnams ir keitė valdovo medžioklių organizavimą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186734
+
+<a id="claim-t-204173"></a>
+- t-006
+  teiginys: "Nors Jerzy Ochmańskis didžiojo medžioklio pareigybę šaltiniuose datavo nuo XV a. antrosios pusės, 1437 m. ja jau ėjo Petras Volkovijus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1437 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išsaugota Jerzy Ochmańskio pozicijos atribucija ir aiškiai atskirtas 1437 m. faktas. Prieštaringa chronologija perteikta vienu nuosekliu sakiniu."
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186750
+

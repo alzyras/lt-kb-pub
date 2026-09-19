@@ -49,130 +49,6 @@ canonical_biography: "Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294.
 
 Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m. Zigmantas mirė 1632 m., iškaraliavęs net 44 m. 1598 m. Zigmantas III Vaza su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti.
 
-## Teiginiai
-
-<a id="claim-t-82985"></a>
-- t-001
-  teiginys: "Zigmantas mirė 1632 m., iškaraliavęs net 44 m."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-79405
-
-<a id="claim-t-82987"></a>
-- t-002
-  teiginys: "1598 m. Zigmantas III Vaza su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Švedija: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Zigmantas Vaza: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Švedija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Zigmantas Vaza nuvyko į Švediją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Zigmantas Vaza keliavo į Švedija (0.95)"
-  temporaliniai_duomenys: "kelionės data: 1598 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  pagrindžia:
-    - c-79403
-
-<a id="claim-t-82988"></a>
-- t-003
-  teiginys: "1632 m. maskvėnai pasinaudojo Zigmanto Vazos mirtimi ir įsiveržė į Lietuvos teritoriją, siekdami atgauti Smolenską."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Lietuva: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad maskvėnai įsiveržė į Lietuvos teritoriją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Maskvėnai puolė Lietuva (0.92)"
-  temporaliniai_duomenys: "įvykio data: 1632 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir citata patvirtina nurodytą įsiveržimo aplinkybę."
-  pagrindžia:
-    - c-79401
-
-<a id="claim-t-194248"></a>
-- t-004
-  teiginys: "Motiejus (arba Matas) Božiminskis, iš bajorų, paskirtas karaliaus Zigmanto Vazos raštu, rašytu spalio 30 d. iš Varšuvos - Burmistras Kuzma Mamoničius - 10."
-  atnaujinta: "2026-07-06 12:55"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-176844
-
-<a id="claim-t-201559"></a>
-- t-005
-  teiginys: "1631 m. Zigmantas Vaza rašė Kauno miesto savivaldos pareigūnams gavęs Kauno pavieto bajorų pranešimą dėl to, kad neprižiūrint tvarkos mieste ir jo teisių kilo rugių, kitokių grūdų ir maisto kainos Kaune."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184906
-
-<a id="claim-t-201560"></a>
-- t-006
-  teiginys: "1622 m. Zigmantas Vaza ginčą išsprendė Vilniaus naudai, kauniečiams buvo įsakyta netrukdyti vilniečiams prekiauti Kaune ir leisti gabenti prekes savo arkliais."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184907
-
-<a id="claim-t-201561"></a>
-- t-007
-  teiginys: "1580 m. Steponas Batoras leido Kauno cecho siuvėjams naudotis vilniečių nuostatais, 1609 m. Zigmantas Vaza tą leidimą patvirtino."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184908
-
-<a id="claim-t-201562"></a>
-- t-008
-  teiginys: "Vis dėlto 1626 m. Zigmantas Vaza nusprendė, kad Kauno miestas, kuris buvo gavęs leidimą pasigaminti pelenLĮ Kauno girioje ir už juos gautas pajamas panaudoti savo reikalams, privalo pastatyti prie vienuolyno ir jo bažnyčios pylimą arba krantinę."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184909
-
-<a id="claim-t-201563"></a>
-- t-009
-  teiginys: "Tai sakoma 1576 m. Stepono Batoro leidime, apie tai kalbama ir 1584 m. Kauno miesto tarybos nutarime, 1594 m. Zigmanto Vazos leidime."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184910
-
 ## Reikšmingi paminėjimai
 - c-011
   santrauka: 'Savarankiškos LDK monetos, atskirai vaizduojančios Vytį, buvo kaldinamos Zigmanto Vazos ir Jono Kazimiero laikais.'
@@ -209,8 +85,8 @@ Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m. Zigmantas mirė 1632 m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-004
 
 - id: c-79402
   redaktorius: "A. Šapoka"
@@ -229,6 +105,9 @@ Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m. Zigmantas mirė 1632 m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
 - id: c-79403
   sudarytojas: "Karolis Zikaras"
   šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
@@ -247,8 +126,8 @@ Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m. Zigmantas mirė 1632 m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-003
 
 - id: c-79405
   redaktorius: "A. Šapoka"
@@ -265,8 +144,9 @@ Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m. Zigmantas mirė 1632 m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+    - t-002
 
 - id: c-176844
   autorius: "Michał Baliński"
@@ -289,8 +169,8 @@ Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m. Zigmantas mirė 1632 m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-005
 
 - id: c-184906
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -307,8 +187,8 @@ Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m. Zigmantas mirė 1632 m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-006
 
 - id: c-184907
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -325,8 +205,8 @@ Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m. Zigmantas mirė 1632 m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-007
 
 - id: c-184908
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -340,8 +220,8 @@ Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m. Zigmantas mirė 1632 m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-008
 
 - id: c-184909
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -358,8 +238,8 @@ Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m. Zigmantas mirė 1632 m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
+  pagrindžia:
+    - t-009
 
 - id: c-184910
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -375,8 +255,181 @@ Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m. Zigmantas mirė 1632 m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
+  pagrindžia:
+    - t-010
+
+- id: c-190027
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 48"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 48."
+  citata_originali: |
+    Žygimanto Augusto kaldintos plataus
+    nominalų spektro monetos: smulkios – obolai, denarai, dvidenariai, pusgrašiai, grašiai bei
+    vidutinės – antrokai, trečiokai, ketvirtokai, šeštokai, taleriai arba auksinai.
+    Liublino unijos aktais buvo numatyta suvienodinti LDK pinigų vertę su Lenkijos, tai
+    ir padarė Steponas Batoras 1580 m. – taip buvo įvesta bendra su Lenkija pinigų sistema.
+    Ant LDK monetų atsirado LDK žemės iždinininkų herbiniai ženklai, o savarankiškos LDK
+    monetos, ant kurių dar atskirai galima išvysti Vytį, kaldintos Zigmanto Vazos ir Jono
+    Kazimiero laikais.
+  citata_rodoma: "Ant LDK monetų atsirado LDK žemės iždinininkų herbiniai ženklai, o savarankiškos LDK \nmonetos, ant kurių dar atskirai galima išvysti Vytį, kaldintos Zigmanto Vazos ir Jono \nKazimiero laikais."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-011
 
 ## Ryšiai
 - Zigmantas Vaza keliavo į [[objektai/vietos/Švedija]]
+
+## Teiginiai
+
+<a id="claim-t-82984"></a>
+- t-001
+  teiginys: "Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-79402
+    - c-79405
+
+<a id="claim-t-82985"></a>
+- t-002
+  teiginys: "Zigmantas mirė 1632 m., iškaraliavęs net 44 m."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-79405
+
+<a id="claim-t-82987"></a>
+- t-003
+  teiginys: "1598 m. Zigmantas III Vaza su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Švedija: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Zigmantas Vaza: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Švedija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Zigmantas Vaza nuvyko į Švediją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Zigmantas Vaza keliavo į Švedija (0.95)"
+  temporaliniai_duomenys: "kelionės data: 1598 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-79403
+
+<a id="claim-t-82988"></a>
+- t-004
+  teiginys: "1632 m. maskvėnai pasinaudojo Zigmanto Vazos mirtimi ir įsiveržė į Lietuvos teritoriją, siekdami atgauti Smolenską."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Lietuva: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Maskvėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad maskvėnai įsiveržė į Lietuvos teritoriją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Maskvėnai puolė Lietuva (0.92)"
+  temporaliniai_duomenys: "įvykio data: 1632 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys ir citata patvirtina nurodytą įsiveržimo aplinkybę."
+  pagrindžia:
+    - c-79401
+
+<a id="claim-t-194248"></a>
+- t-005
+  teiginys: "Motiejus (arba Matas) Božiminskis, iš bajorų, paskirtas karaliaus Zigmanto Vazos raštu, rašytu spalio 30 d. iš Varšuvos - Burmistras Kuzma Mamoničius - 10."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-176844
+
+<a id="claim-t-201559"></a>
+- t-006
+  teiginys: "1631 m. Zigmantas Vaza rašė Kauno miesto savivaldos pareigūnams gavęs Kauno pavieto bajorų pranešimą dėl to, kad neprižiūrint tvarkos mieste ir jo teisių kilo rugių, kitokių grūdų ir maisto kainos Kaune."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184906
+
+<a id="claim-t-201560"></a>
+- t-007
+  teiginys: "1622 m. Zigmantas Vaza ginčą išsprendė Vilniaus naudai, kauniečiams buvo įsakyta netrukdyti vilniečiams prekiauti Kaune ir leisti gabenti prekes savo arkliais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184907
+
+<a id="claim-t-201561"></a>
+- t-008
+  teiginys: "1580 m. Steponas Batoras leido Kauno cecho siuvėjams naudotis vilniečių nuostatais, 1609 m. Zigmantas Vaza tą leidimą patvirtino."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184908
+
+<a id="claim-t-201562"></a>
+- t-009
+  teiginys: "Vis dėlto 1626 m. Zigmantas Vaza nusprendė, kad Kauno miestas, kuris buvo gavęs leidimą pasigaminti pelenLĮ Kauno girioje ir už juos gautas pajamas panaudoti savo reikalams, privalo pastatyti prie vienuolyno ir jo bažnyčios pylimą arba krantinę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184909
+
+<a id="claim-t-201563"></a>
+- t-010
+  teiginys: "Tai sakoma 1576 m. Stepono Batoro leidime, apie tai kalbama ir 1584 m. Kauno miesto tarybos nutarime, 1594 m. Zigmanto Vazos leidime."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184910
+
+<a id="claim-t-207441"></a>
+- t-011
+  teiginys: "Savarankiškos LDK monetos, atskirai vaizduojančios Vytį, buvo kaldinamos Zigmanto Vazos ir Jono Kazimiero laikais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-18T19:34:24Z"
+  pagrindžia:
+    - c-190027
+

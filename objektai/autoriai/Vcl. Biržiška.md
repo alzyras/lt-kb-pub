@@ -45,10 +45,48 @@ Vcl. Biržiška parašė veikalą „Senųjų lietuviškų knygų istorija“, k
 
 ## Teiginiai
 
+<a id="claim-t-208449"></a>
+- t-208449
+  teiginys: "V. Biržiška vadina M. Valančių rimtu teologu, remdamasis Kražių gimnazijos bibliotekos knygose išlikusiomis pastabomis."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  pagrindžia:
+    - c-191069
+
+<a id="claim-t-208451"></a>
+- t-208451
+  teiginys: "V. Biržiška vyskupą Motiejų Valančių vadino caro autoriteto palaikytoju, kovojusiu ne su caru, o su jo valdininkais."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:44Z"
+  pagrindžia:
+    - c-191071
+
+<a id="claim-t-208453"></a>
+- t-208453
+  teiginys: "V. Biržiška nurodė, kad vyskupas Motiejus Valančius kunigui atleisdavo nusižengimus už parašytą nedidelę religinio turinio knygelę, nors paprastai už juos bausdavo."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:44Z"
+  pagrindžia:
+    - c-191073
+
 <a id="claim-t-100121"></a>
-- t-001
+- t-100121
   teiginys: "Vcl. Biržiška parašė veikalą „Senųjų lietuviškų knygų istorija“, kurio pirmasis tomas išleistas 1953 m. Čikagoje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -88,5 +126,73 @@ Vcl. Biržiška parašė veikalą „Senųjų lietuviškų knygų istorija“, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-100121
+
+- id: c-191069
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 8"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 8."
+  citata_originali: |
+    Nuo 1834 m. jis jau anuo metu gar­
+    sios Kražių jėzuitų gimnazijos kapelionas 5.
+    Tuo metu kun. M. Valančius daug skaito, gilina moks­
+    lo žinias.
+    Remdamasis išlikusiose Kražių gimnazijos bibliotekos
+    knygose kun. M. Valančiaus pastabomis, V. Biržiška va­
+    dina jį rimtu teologu6.
+  citata_rodoma: "Remdamasis išlikusiose Kražių gimnazijos bibliotekos \nknygose kun. M. Valančiaus pastabomis, V. Biržiška va­\ndina jį rimtu teologu6."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208449
+
+- id: c-191071
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 19"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 19."
+  citata_originali: |
+    vysk. M. Valančių vadina griežtu kovotoju prieš
+    aidžią ir kartu nuolankiu caro valdžios tarn u 3.
+    .t^damėtina, kad vysk. M. Valančius vienaip vertina
+    carą, o kitaip — jo valdininkus. Teisingai V. Biržiška
+    vadina vysk. M. Valančių caro autoriteto palaikytoju, ko­
+    vojusiu ne su caru, o su jo valdininkais4.
+  citata_rodoma: "Teisingai V. Biržiška \nvadina vysk. M. Valančių caro autoriteto palaikytoju, ko­\nvojusiu ne su caru, o su jo valdininkais4."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208451
+
+- id: c-191073
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 106"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 106."
+  citata_originali: |
+    V. Biržiška nurodo, kad ga­
+    nytojas kunigui už parašytą kad ir niažą, religinio turinio
+    knygelę atleisdavęs nusižengimus, už kuriuos šiaip jau
+    bausdavo7.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208453
+

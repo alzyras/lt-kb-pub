@@ -35,22 +35,6 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Rezervas parėm
 
 ## Teiginiai
 
-<a id="claim-t-38707"></a>
-- t-001
-  teiginys: "Rezervas parėmė J. Nastopkos koloną, o vadovavimą perėmė karininkas J. Reikala."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> J. Reikala: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "bendrasis rezervas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "J. Reikala: mention_match, person, gap=16"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"bendrasis rezervas\" parinktas kaip owner_note_path. Targetas \"J. Reikala\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-40512
-
 <a id="claim-t-38708"></a>
 - t-002
   teiginys: "Bendrąjį rezervą, vadovaujamą karininko J. Reikalos, sudarė Panevėžio bataliono 2-oji ir 6-oji kuopos bei kiti daliniai."
@@ -69,6 +53,22 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Rezervas parėm
   temporalinis_llm_pakomentavimas: "Pradinis teiginys sugadintas OCR triukšmo, bet citata remia glaustą faktą apie rezervo sudėtį."
   pagrindžia:
     - c-40511
+
+<a id="claim-t-38707"></a>
+- t-38707
+  teiginys: "Rezervas parėmė J. Nastopkos koloną, o vadovavimą perėmė karininkas J. Reikala."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> J. Reikala: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "bendrasis rezervas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "J. Reikala: mention_match, person, gap=16"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"bendrasis rezervas\" parinktas kaip owner_note_path. Targetas \"J. Reikala\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-40512
 
 ## Citatos
 
@@ -91,11 +91,12 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Rezervas parėm
     2val. - Ramygaloje, 4 val. vykti į šiaurę
     vieškeliu Ramygala-Panevėžys.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-40512
@@ -111,5 +112,6 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Rezervas parėm
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-38707
+

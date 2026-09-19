@@ -49,3 +49,42 @@ media_all_json: |-
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207946"></a>
+- t-001
+  teiginys: "1557 m. Pasvalio sutartis nutraukė Lietuvos ir Livonijos konfliktą."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  temporaliniai_duomenys: "sutarties data: 1557 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190563
+
+## Citatos
+
+- id: c-190563
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 170"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 170."
+  citata_originali: |
+    61 Karo veiksmai neprasidėjo, ta-
+    čiau sutelkta didžiulė kariuomenė darė nuostolius pasienio apylinkų gyventojams.
+    1557 m. Pasvalio sutartis nutraukė Lietuvos ir Livonijos konfliktą, bet paaštrino
+    santykius su Maskva.
+  citata_rodoma: "1557 m. Pasvalio sutartis nutraukė Lietuvos ir Livonijos konfliktą, bet paaštrino\nsantykius su Maskva."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+

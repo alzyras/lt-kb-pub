@@ -27,26 +27,6 @@ media_all_json: |-
 
 „Mužikus nori padaryti bajorais, o mus — mužikais", — šaukė bajorija. Mužikus nori padaryti bajorais, o mus — mužikais: jame buvo nuostatų, palengvinančių valstiečių būklę ir paimančių juos įstatymo globon.
 
-## Teiginiai
-
-<a id="claim-t-67278"></a>
-- t-001
-  teiginys: "Bajorija šūkiu „Mužikus nori padaryti bajorais, o mus — mužikais“ protestavo prieš valstiečiams numatytus palengvinimus."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67248
-
-<a id="claim-t-67279"></a>
-- t-002
-  teiginys: "Mužikus nori padaryti bajorais, o mus — mužikais: jame buvo nuostatų, palengvinančių valstiečių būklę ir paimančių juos įstatymo globon."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67249
-
 ## Citatos
 
 - id: c-67248
@@ -67,7 +47,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-67249
@@ -87,5 +67,26 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-67278"></a>
+- t-001
+  teiginys: "Bajorija šūkiu „Mužikus nori padaryti bajorais, o mus — mužikais“ protestavo prieš valstiečiams numatytus palengvinimus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67248
+
+<a id="claim-t-67279"></a>
+- t-002
+  teiginys: "Mužikus nori padaryti bajorais, o mus — mužikais: jame buvo nuostatų, palengvinančių valstiečių būklę ir paimančių juos įstatymo globon."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67249
+

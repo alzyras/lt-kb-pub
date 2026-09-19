@@ -48,20 +48,6 @@ Pavinkšniai buvo dabartiniame Kėdainių rajone.
 
 Pavinkšniai buvo dabartiniame Kėdainių rajone.
 
-## Teiginiai
-
-<a id="claim-t-203836"></a>
-- t-001
-  teiginys: "Pavinkšniai buvo dabartiniame Kėdainių rajone."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  pagrindžia:
-    - c-186440
-
 ## Citatos
 
 - id: c-186440
@@ -80,5 +66,20 @@ Pavinkšniai buvo dabartiniame Kėdainių rajone.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203836"></a>
+- t-001
+  teiginys: "Pavinkšniai buvo dabartiniame Kėdainių rajone."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  pagrindžia:
+    - c-186440
+

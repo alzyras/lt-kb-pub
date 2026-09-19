@@ -36,28 +36,6 @@ historical_names: []
 
 Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užgrobė.
 
-## Teiginiai
-
-<a id="claim-t-185278"></a>
-- t-001
-  teiginys: "Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užgrobė."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "uzeme -> Bajorų pilaitė: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Šindekopfas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Bajorų pilaitė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Įvardyta, kad Šindekopfas užgrobė Bajorų pilaitę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Šindekopfas užėmė Bajorų pilaitė (0.93)"
-  pagrindžia:
-    - c-168639
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užgrobė.'
@@ -120,8 +98,31 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Užėmė Bajorų pilaitę: [[objektai/asmenys/Šindekopfas]]
+
+## Teiginiai
+
+<a id="claim-t-185278"></a>
+- t-001
+  teiginys: "Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užgrobė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "uzeme -> Bajorų pilaitė: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Šindekopfas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Bajorų pilaitė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Įvardyta, kad Šindekopfas užgrobė Bajorų pilaitę."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Šindekopfas užėmė Bajorų pilaitė (0.93)"
+  pagrindžia:
+    - c-168639
+

@@ -35,26 +35,17 @@ Narbutas medalį laikė įrodymu, kad Spera Palemonaitis, vadintas Palemono sūn
 
 ## Teiginiai
 
-<a id="claim-t-190118"></a>
-- t-001
-  teiginys: "Narbutas medalį laikė įrodymu, kad Spera Palemonaitis, vadintas Palemono sūnumi, buvo galingas žmogus ir kaldino auksinius medalius."
-  atnaujinta: "2026-07-12 22:33"
+<a id="claim-t-216722"></a>
+- t-216722
+  teiginys: "Šitas neįkainojamas mūsų senovės paminklas - tai įrody mas, kad Spera Palemonaitis, arba Palemono sūnus, buvo ga lingas žmogus, nes kaldino auksinius medalius."
+  atnaujinta: "2026-09-12 23:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_sunus -> Palemonas: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Spera Palemonaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Palemonas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Frazė tiesiogiai įvardija Sperą Palemonaitį Palemono sūnumi."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Spera Palemonaitis buvo sūnus Palemonas (0.95)"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173001
+    - c-199771
 
 ## Citatos
 
@@ -79,8 +70,24 @@ Narbutas medalį laikė įrodymu, kad Spera Palemonaitis, vadintas Palemono sūn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-199771
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 219"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 219."
+  citata_originali: |
+    Šitas neįkainojamas mūsų senovės paminklas - tai įrody­
+    mas, kad Spera Palemonaitis, arba Palemono sūnus, buvo ga­
+    lingas žmogus, nes kaldino auksinius medalius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216722
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Palemonas]]

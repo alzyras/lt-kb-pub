@@ -34,59 +34,6 @@ canonical_biography: "Dusburgietis teigia, kad štai pirmosiose kovose prieš Or
 
 Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino sūnus Mata tarnavo vėliau Ordinui, jo anūkai ir proanūkiai minimi dar XIV a. Dusburgietis teigia, kad šis Pipinas buvo tėvas kilmingojo Pamedės vyro, vardu Mata; kiek jo tėvas užpuldinėjimais pakenkė tikėjimui bei tikintiesiems, tiek jo sūnus savo uolumu pasitarnavo Kristaus tikėjimui ir tikintiesiems, nes drąsiai iki pat mirties gynė Kristaus tikėjimą222. Dusburgietis teigia, kad šitai išgirdę, broliai ir visa kariuomenė sukruto rengtis kovai, norėdami išvaduoti iš priešo rankų Kristaus krauju atpirktas sielas; vienas kilmingas pamedėnas, vardu Mata345, Pipino sūnus, brolio maršalo Henriko346 paklaustas, kaip reikėtų pulti priešus.
 
-## Teiginiai
-
-<a id="claim-t-60055"></a>
-- t-001
-  teiginys: "Pipino sūnus Mata, kurio tėvas žuvo pirmosiose kovose prieš Ordiną, vėliau tarnavo Ordinui."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Pipinas: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mata: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pipinas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai įvardija Matą kaip Pipino sūnų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Mata buvo sūnus Pipinas (0.97); Pipinas kariavo prieš Kryžiuočių ordinas (0.90); Mata rėmė Kryžiuočių ordinas (0.84)"
-  pagrindžia:
-    - c-60688
-
-<a id="claim-t-60056"></a>
-- t-002
-  teiginys: "Kilmingas pamedėnas Mata, Pipino sūnus, patarė broliams ir kariuomenei pulti priešus pėsčiomis, palikus arklius užnugaryje."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Pipinas: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mata: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pipinas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Mata buvo Pipino sūnus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Mata buvo sūnus Pipinas (0.96)"
-  pagrindžia:
-    - c-60689
-
-<a id="claim-t-60057"></a>
-- t-003
-  teiginys: "Mata buvo kilmingas Pamedės vyras ir Pipino sūnus, iki mirties drąsiai gynęs Kristaus tikėjimą."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Pipinas: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mata: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pipinas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai įvardija Matą kaip Pipino sūnų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Mata buvo sūnus Pipinas (0.96)"
-  pagrindžia:
-    - c-60687
-
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Pipino sūnus Mata, kurio tėvas žuvo pirmosiose kovose prieš Ordiną, vėliau tarnavo Ordinui.'
@@ -124,8 +71,6 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-60688
   autorius: "Petras Dusburgietis"
@@ -142,8 +87,6 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-60689
   autorius: "Petras Dusburgietis"
@@ -167,8 +110,64 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Pipinas]]
+
+## Teiginiai
+
+<a id="claim-t-221449"></a>
+- t-001
+  teiginys: "Pipino sūnus Mata, kurio tėvas žuvo pirmosiose kovose prieš Ordiną, vėliau tarnavo Ordinui."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Pipinas: 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mata: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pipinas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai įvardija Matą kaip Pipino sūnų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Mata buvo sūnus Pipinas (0.97); Pipinas kariavo prieš Kryžiuočių ordinas (0.90); Mata rėmė Kryžiuočių ordinas (0.84)"
+
+<a id="claim-t-223154"></a>
+- t-002
+  teiginys: "Kilmingas pamedėnas Mata, Pipino sūnus, patarė broliams ir kariuomenei pulti priešus pėsčiomis, palikus arklius užnugaryje."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Pipinas: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mata: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pipinas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Mata buvo Pipino sūnus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Mata buvo sūnus Pipinas (0.96)"
+
+<a id="claim-t-222371"></a>
+- t-222371
+  teiginys: "Dusburgietis teigia, kad Mata savo uolumu pasitarnavo Kristaus tikėjimui ir iki mirties jį gynė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-225629"></a>
+- t-225629
+  teiginys: "Mata buvo kilmingas Pamedės vyras ir Pipino sūnus, iki mirties drąsiai gynęs Kristaus tikėjimą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Pipinas: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mata: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pipinas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai įvardija Matą kaip Pipino sūnų."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Mata buvo sūnus Pipinas (0.96)"
+

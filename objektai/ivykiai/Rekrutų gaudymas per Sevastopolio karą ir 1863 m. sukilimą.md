@@ -62,58 +62,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-195581"></a>
-- t-001
-  teiginys: "1855 m. rekrutų gaudymas siautėjo ypač smarkiai."
-  atnaujinta: "2026-07-12 07:26"
-  sprendimo_priezastis: "gap::events"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177989
-
-<a id="claim-t-195582"></a>
-- t-002
-  teiginys: "Po Sevastopolio karo trejus metus visai neėmė rekrutų."
-  atnaujinta: "2026-07-12 07:26"
-  sprendimo_priezastis: "gap::events"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177990
-
-<a id="claim-t-195583"></a>
-- t-003
-  teiginys: "1855 m. rekrutai buvo gaudomi ištisus metus, nežiūrint nei į amžių, nei į sveikatos trūkumus."
-  atnaujinta: "2026-07-12 07:26"
-  sprendimo_priezastis: "gap::events"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177989
-
-<a id="claim-t-195584"></a>
-- t-004
-  teiginys: "Vėliau rekrutų rinkimas tapo žmoniškesnis, valstiečius surašius į vieną valsčių, valdomą taikos tarpininko."
-  atnaujinta: "2026-07-12 07:26"
-  sprendimo_priezastis: "gap::events"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177990
-
-<a id="claim-t-195585"></a>
-- t-005
-  teiginys: "Atėjus 1863 m. sukilimui, dvejus metus pagrečiui vėl neėmė rekrutų."
-  atnaujinta: "2026-07-12 07:26"
-  sprendimo_priezastis: "gap::events"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177990
-
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -132,7 +80,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
 
@@ -149,7 +97,60 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-004
     - t-005
+
+## Teiginiai
+
+<a id="claim-t-195581"></a>
+- t-001
+  teiginys: "1855 m. rekrutų gaudymas siautėjo ypač smarkiai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177989
+
+<a id="claim-t-195582"></a>
+- t-002
+  teiginys: "Po Sevastopolio karo trejus metus visai neėmė rekrutų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177990
+
+<a id="claim-t-195583"></a>
+- t-003
+  teiginys: "1855 m. rekrutai buvo gaudomi ištisus metus, nežiūrint nei į amžių, nei į sveikatos trūkumus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177989
+
+<a id="claim-t-195584"></a>
+- t-004
+  teiginys: "Vėliau rekrutų rinkimas tapo žmoniškesnis, valstiečius surašius į vieną valsčių, valdomą taikos tarpininko."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177990
+
+<a id="claim-t-195585"></a>
+- t-005
+  teiginys: "Atėjus 1863 m. sukilimui, dvejus metus pagrečiui vėl neėmė rekrutų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177990
+

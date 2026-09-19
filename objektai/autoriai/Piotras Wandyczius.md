@@ -52,3 +52,42 @@ Piotras Wandyczius rašė, kad baudžiavos negalima laikyti svarbiausiu kriterij
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207910"></a>
+- t-001
+  teiginys: "Piotras Wandyczius rašė, kad baudžiavos negalima laikyti svarbiausiu kriterijumi, skyrusiu Vidurio Rytų Europą nuo likusios žemyno dalies."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190569
+
+## Citatos
+
+- id: c-190569
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 19"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 19."
+  citata_originali: |
+    Galop nebūtina lygintis su toli-
+    mąja Anglija. Čia pat, kaimyninėse Lenkijos, Vengrijos, rytinėse Vokietijos žemėse,
+    XVI a. vyko analogiški baudžiavos stiprinimo, lažinio-palivarkinio ūkio plėtros proce-
+    sai. O gal neteisus buvo Piotras Wandyczius, kuris rašė, kad baudžiavos negalima laiky-
+    ti svarbiausiu kriterijumi, XVI a. skyrusiu Vidurio Rytų Europą nuo likusios žemyno
+    dalies.
+  citata_rodoma: "O gal neteisus buvo Piotras Wandyczius, kuris rašė, kad baudžiavos negalima laiky-\nti svarbiausiu kriterijumi, XVI a. skyrusiu Vidurio Rytų Europą nuo likusios žemyno\ndalies."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+

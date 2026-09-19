@@ -49,36 +49,22 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
 
 ## Teiginiai
 
-<a id="claim-t-195088"></a>
-- t-001
-  teiginys: "Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie Klecko su belaisviais ir grobiu."
-  atnaujinta: "2026-08-11 18:54"
+<a id="claim-t-210518"></a>
+- t-210518
+  teiginys: "Bychovco kronikos rankraščio tekstas nutrūksta pasakojant apie 1506 m. LDK kariuomenės mūšį su Krymo totoriais ties Klecku."
+  atnaujinta: "2026-09-12 19:43"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Teiginys pašalina religinį ir moralinį vertinimą, bet išlaiko pagrįstą faktą."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Vilnius; llm_object: Kleckas"
-  semantiniai_rysiai: "[[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]] keliavo į Kleckas; [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] keliavo į Kleckas"
-  temporaliniai_duomenys: "įvykio data: 1503 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pašalina religinį ir moralinį vertinimą, bet išlaiko pagrįstą faktą."
-  ryšio_patikimumas: "keliavo_i -> Kleckas: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kleckas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys nurodo, kad Lietuvos kariuomenė grįžo į stovyklą prie Klecko."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
   pagrindžia:
-    - c-177476
+    - c-194205
 
 <a id="claim-t-195089"></a>
-- t-002
+- t-195089
   teiginys: "1506 metų rugpjūtį ties Kłecku Lietuvos pajėgos pasiekė lemiamą pergalę prieš Krymo ordos karius."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Citata pagrindžia mūšio vietą, laiką, priešininką ir rezultatą."
@@ -88,9 +74,9 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
     - c-177470
 
 <a id="claim-t-195091"></a>
-- t-003
+- t-195091
   teiginys: "Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio bažnyčią pergalei ties Kłecku prieš totorius atminti."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Citata pagrindžia fundatorių, datą, paskirtį ir ryšį su Kłecku."
@@ -100,9 +86,9 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
     - c-177477
 
 <a id="claim-t-195092"></a>
-- t-004
+- t-195092
   teiginys: "Totoriai ties Kłecku įsirengė stovyklą ir nemažą būrį pasiuntė į Naugarduką."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Reikia pašalinti perteklinį terminą ir sutrumpinti sakinį."
@@ -112,9 +98,9 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
     - c-177473
 
 <a id="claim-t-195093"></a>
-- t-005
+- t-195093
   teiginys: "Šaltinių sąrašas 271 VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE p. 77 Krymo totorių isiveržimas į Lietuvą ir Lietuvos kariuomenės žygis link Klecko xv a., Karolis Zikaras, Loreta Uzdraitė."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -124,9 +110,9 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
     - c-177475
 
 <a id="claim-t-195094"></a>
-- t-006
+- t-195094
   teiginys: "LDK politinės tautos prielaidas kūrė karinės pergalės Žalgiryje, Klecke, Oršoje, Kirchholme ir Chotyne."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -138,9 +124,9 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
     - c-177472
 
 <a id="claim-t-195095"></a>
-- t-007
+- t-195095
   teiginys: "Apie liepos 20–22 d. totoriai įsirengė stovyklą prie Klecko, nes 1503 m. jų sunaikintas miestas buvo patogus išpuoliams."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Pradinis teiginys per ilgas; citata leidžia suformuluoti glaustesnį sakinį."
@@ -174,8 +160,8 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-195089
 
 - id: c-177471
   sudarytojas: "Karolis Zikaras"
@@ -206,8 +192,8 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-195095
 
 - id: c-177472
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -228,8 +214,8 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-195094
 
 - id: c-177473
   autorius: "Michał Baliński"
@@ -249,8 +235,8 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-195092
 
 - id: c-177475
   sudarytojas: "Karolis Zikaras"
@@ -272,8 +258,8 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-195093
 
 - id: c-177476
   autorius: "Anoniminis metraštininkas"
@@ -297,8 +283,6 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-177477
   autorius: "Michał Baliński"
@@ -337,5 +321,30 @@ Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-195091
+
+- id: c-194205
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 11"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 11."
+  citata_originali: |
+    Svarbiausias Bychovco kronikos rankraščio trūku­
+    mas — tai pradžios ir pabaigos stoka. Tekstas praside­
+    da per vidurį nutrauktu sakiniu apie romėnų išgąstį dėl
+    Atilos vadovaujamų hunų įsiveržimo į Italiją: „[romė­
+    nai kurie] byli u tom miste, baczeczy tak welikuiu
+    šilu ludey ieho, byli ohorneny strachom welikim y
+    rozbehlisia z mesta", o baigiasi taip pat nutrauktu sa­
+    kiniu apie LDK kariuomenės mūšį su Krymo totoriais
+    ties Klecku 1506 m.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210518
+

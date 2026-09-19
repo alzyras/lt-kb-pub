@@ -48,21 +48,6 @@ historical_names: []
 
 1205 metais viena prie Gaujos susivienijusios kariaunos dalis pasuko Dabrelės pilies link.
 
-## Teiginiai
-
-<a id="claim-t-205484"></a>
-- t-001
-  teiginys: "1205 metais viena prie Gaujos susivienijusios kariaunos dalis pasuko Dabrelės pilies link."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
-  pagrindžia:
-    - c-187849
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1205 metais viena prie Gaujos susivienijusios kariaunos dalis pasuko Dabrelės pilies link.'
@@ -100,5 +85,21 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205484"></a>
+- t-001
+  teiginys: "1205 metais viena prie Gaujos susivienijusios kariaunos dalis pasuko Dabrelės pilies link."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-187849
+

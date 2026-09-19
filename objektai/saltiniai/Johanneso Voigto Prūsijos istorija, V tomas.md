@@ -26,24 +26,6 @@ media_all_json: |-
 
 Dabartinis iš tiesų visiškai skiriasi nuo pirmesniojo, kurio klaidas stengėmės ištai­ syti, remdamiesi naujais, vėliau ap­ tiktais šaltiniais, būtent: F o i g t o naujai išleistos Prūsijos istorijos T.
 
-## Teiginiai
-
-<a id="claim-t-88312"></a>
-- t-001
-  teiginys: "Balińskis pataisytą žygio į Vilnių aprašymą grindė Johanneso Voigto Prūsijos istorijos V tomu ir Ignaco Onacevičiaus pastabomis."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ignacas Onacevičius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Johanneso Voigto Prūsijos istorija, V tomas: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Ignacas Onacevičius: mention_match, author, gap=69"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Johanneso Voigto Prūsijos istorija, V tomas\" parinktas kaip owner_note_path. Targetas \"Ignacas Onacevičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-84291
-
 ## Citatos
 
 - id: c-84291
@@ -70,5 +52,24 @@ Dabartinis iš tiesų visiškai skiriasi nuo pirmesniojo, kurio klaidas stengėm
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-88312"></a>
+- t-001
+  teiginys: "Balińskis pataisytą žygio į Vilnių aprašymą grindė Johanneso Voigto Prūsijos istorijos V tomu ir Ignaco Onacevičiaus pastabomis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ignacas Onacevičius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Johanneso Voigto Prūsijos istorija, V tomas: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Ignacas Onacevičius: mention_match, author, gap=69"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Johanneso Voigto Prūsijos istorija, V tomas\" parinktas kaip owner_note_path. Targetas \"Ignacas Onacevičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-84291
+

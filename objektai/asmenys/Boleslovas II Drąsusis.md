@@ -35,34 +35,6 @@ O kai ¡sostą užėmė Kazimiero vyresnysis sūnus Boleslovas II, pramintas Dr�
 
 O kai ¡sostą užėmė Kazimiero vyresnysis sūnus Boleslovas II, pramintas Drąsiuoju, prūsai ne tik kad spyrėsi nemokėsią duoklės, kuri, Lenkijos karalių nuomo ne, turėjo būti jiems, kaip aukščiausią visos tautos val džią turintiems, mokama, bet netgi, kai. Be to, dar nauja Boleslovo taktika, kuri dau giausia rėmėsi sumaniu priešo puolimu iš įvairių pusių, manevrais, apsimetinėjimais ir pasalomis, padėjo lenkams pasiekti visišką pergalę.
 
-## Teiginiai
-
-<a id="claim-t-205211"></a>
-- t-001
-  teiginys: "O kai ¡sostą užėmė Kazimiero vyresnysis sūnus Boleslovas II, pramintas Drąsiuoju, prūsai ne tik kad spyrėsi nemokėsią duoklės, kuri, Lenkijos karalių nuomo ne, turėjo būti jiems, kaip aukščiausią visos tautos val džią turintiems, mokama, bet netgi, kai."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-188048
-
-<a id="claim-t-205421"></a>
-- t-002
-  teiginys: "Be to, dar nauja Boleslovo taktika, kuri dau giausia rėmėsi sumaniu priešo puolimu iš įvairių pusių, manevrais, apsimetinėjimais ir pasalomis, padėjo lenkams pasiekti visišką pergalę."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-187734
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'O kai ¡sostą užėmė Kazimiero vyresnysis sūnus Boleslovas II, pramintas Drąsiuoju, prūsai ne tik kad spyrėsi nemokėsią duoklės, kuri, Lenkijos karalių nuomo ne, turėjo būti jiems, kaip aukščiausią visos tautos val džią turintiems, mokama, bet netgi, kai.'
@@ -104,7 +76,7 @@ O kai ¡sostą užėmė Kazimiero vyresnysis sūnus Boleslovas II, pramintas Dr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188048
@@ -134,5 +106,34 @@ O kai ¡sostą užėmė Kazimiero vyresnysis sūnus Boleslovas II, pramintas Dr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205211"></a>
+- t-001
+  teiginys: "O kai ¡sostą užėmė Kazimiero vyresnysis sūnus Boleslovas II, pramintas Drąsiuoju, prūsai ne tik kad spyrėsi nemokėsią duoklės, kuri, Lenkijos karalių nuomo ne, turėjo būti jiems, kaip aukščiausią visos tautos val džią turintiems, mokama, bet netgi, kai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188048
+
+<a id="claim-t-205421"></a>
+- t-002
+  teiginys: "Be to, dar nauja Boleslovo taktika, kuri dau giausia rėmėsi sumaniu priešo puolimu iš įvairių pusių, manevrais, apsimetinėjimais ir pasalomis, padėjo lenkams pasiekti visišką pergalę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187734
+

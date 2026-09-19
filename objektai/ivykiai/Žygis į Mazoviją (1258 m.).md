@@ -40,21 +40,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206011"></a>
-- t-001
-  teiginys: "Žygio į Mazoviją metu kariai netikėtai užpuolė Mazoviją ir Jarošove su visu dvaru sučiupo kunigaikštį Ziemovitą bei jo sūnų Konradą; Ziemovitą nukirto Svarnas, o Konradą vėliau už išpirką išlaisvino Mindaugas."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188626
-
 ## Santrauka
 
 Žygio į Mazoviją metu kariai netikėtai užpuolė Mazoviją ir Jarošove su visu dvaru sučiupo kunigaikštį Ziemovitą bei jo sūnų Konradą; Ziemovitą nukirto Svarnas, o Konradą vėliau už išpirką išlaisvino Mindaugas.
@@ -81,5 +66,21 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206011"></a>
+- t-001
+  teiginys: "Žygio į Mazoviją metu kariai netikėtai užpuolė Mazoviją ir Jarošove su visu dvaru sučiupo kunigaikštį Ziemovitą bei jo sūnų Konradą; Ziemovitą nukirto Svarnas, o Konradą vėliau už išpirką išlaisvino Mindaugas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188626
+

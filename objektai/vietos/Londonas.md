@@ -52,10 +52,34 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
 
 ## Teiginiai
 
+<a id="claim-t-209634"></a>
+- t-209634
+  teiginys: "Kuomet aš jam priminiau, kad mačiausi su p. Green — 7 — Newarke, sekretorium 100.000.000 Rockefete rio įstaigos nukentėjusiems nuo karės žmonėms šelpti, kuris yra pasirengęs važiuoti Londonan ir Berlynan rūpintis diplomatijos keliu išgauti gvaranciją iš."
+  atnaujinta: "2026-09-12 14:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192254
+
+<a id="claim-t-218917"></a>
+- t-218917
+  teiginys: "Londono A l yra tiesiog ištobulintas šitas alus."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201387
+
 <a id="claim-t-79713"></a>
-- t-001
+- t-79713
   teiginys: "Zigmantą Sierakauską, ginklų ir savanorių iš Londono."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Ginklai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -71,9 +95,9 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
     - c-76660
 
 <a id="claim-t-79716"></a>
-- t-002
+- t-79716
   teiginys: "Nuo 1990 m. dalis iš Lietuvos išvykusių daugiau kaip pusės milijono gyventojų emigravo į Jungtinę Karalystę, įskaitant Londoną."
-  atnaujinta: "2026-05-31 12:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Ispanija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -89,9 +113,9 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
     - c-24267
 
 <a id="claim-t-79717"></a>
-- t-003
+- t-79717
   teiginys: "1935 m. Londone gimė Antanas Kazimeras Žemaitis, sukūręs roko pasaulyje bendrine sąvoka tapusią gitarą „Zemaitis“."
-  atnaujinta: "2026-05-31 12:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Abiejų Tautų Respublika: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -107,9 +131,9 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
     - c-24268
 
 <a id="claim-t-193646"></a>
-- t-004
+- t-193646
   teiginys: "Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus naują Lietuvos konstituciją, kuri deklaravo Vilnių Lietuvos sostine."
-  atnaujinta: "2026-07-06 12:55"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -118,6 +142,23 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-176316
+
+<a id="claim-t-217056"></a>
+- t-217056
+  teiginys: "Narbutas Londono alų laikė ištobulinta senojo lietuviško alaus forma."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Alus: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Londonas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Alus: mention_match, thing"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Londonas\" parinktas kaip owner_note_path. Targetas \"Alus\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
 
 ## Citatos
 
@@ -138,8 +179,8 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-79716
 
 - id: c-24268
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -161,8 +202,8 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-79717
 
 - id: c-76660
   sudarytojas: "Karolis Zikaras"
@@ -186,8 +227,8 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-79713
 
 - id: c-171658
   autorius: "Teodoras Narbutas"
@@ -206,6 +247,7 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-176316
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
@@ -222,8 +264,56 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-193646
+
+- id: c-192254
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 6-7"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 6-7."
+  citata_originali: |
+    Kuomet
+    aš jam priminiau,
+    kad mačiausi su p. Green
+
+    — 7 —
+    Newarke,
+    sekretorium 100.000.000 Rockefete­
+    rio įstaigos nukentėjusiems nuo karės žmonėms
+    šelpti, kuris yra pasirengęs važiuoti Londonan
+    ir Berlynan rūpintis diplomatijos keliu išgauti
+    gvaranciją iš abiejų užinteresuotų šalių t. y.
+    gvaranciją vokiečių,
+    kad ji nieko neišvež iš
+    užimtų vietų, o viskų paliks rankose neutrališkų *
+    šalių, kurios rūpįsis išdirbiniu žemės, pramo­
+    ne, vaizba ir 1.1, kad tokiu būdu išgelbėjus
+    nekaltus žmones nuo baisaus bado ir mirties
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209634
+
+- id: c-201387
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 307"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 307."
+  citata_originali: |
+    Londono A l yra tiesiog ištobulintas šitas
+    alus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218917
 
 ## Ryšiai
 - Gimimo vieta: [[objektai/asmenys/Antanas Kazimeras Žemaitis]]

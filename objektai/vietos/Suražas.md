@@ -36,21 +36,6 @@ historical_names: []
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206581"></a>
-- t-001
-  teiginys: "Narbutas Suražą apibūdina kaip prie Narvos stovėjusią tvirtovę, Jogailos užleistą Henrikui Mazoviečiui."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-189196
-
 ## Citatos
 
 - id: c-189196
@@ -69,8 +54,24 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Užėmė Suražą: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)]]
+
+## Teiginiai
+
+<a id="claim-t-206581"></a>
+- t-001
+  teiginys: "Narbutas Suražą apibūdina kaip prie Narvos stovėjusią tvirtovę, Jogailos užleistą Henrikui Mazoviečiui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-189196
+

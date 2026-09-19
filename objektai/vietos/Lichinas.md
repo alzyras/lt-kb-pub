@@ -35,21 +35,6 @@ historical_names: []
 
 Bresto vaivada Jonas iš Lichino buvo vienas iš pasiuntinybės narių, kurią senatas skubiai išsiuntė į Lietuvą dėl Žygimanto pakėlimo.
 
-## Teiginiai
-
-<a id="claim-t-193451"></a>
-- t-001
-  teiginys: "Bresto vaivada Jonas iš Lichino buvo vienas iš pasiuntinybės narių, kurią senatas skubiai išsiuntė į Lietuvą dėl Žygimanto pakėlimo."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-176163
-
 ## Citatos
 
 - id: c-176163
@@ -80,5 +65,21 @@ Bresto vaivada Jonas iš Lichino buvo vienas iš pasiuntinybės narių, kurią s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-193451"></a>
+- t-001
+  teiginys: "Bresto vaivada Jonas iš Lichino buvo vienas iš pasiuntinybės narių, kurią senatas skubiai išsiuntė į Lietuvą dėl Žygimanto pakėlimo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-176163
+

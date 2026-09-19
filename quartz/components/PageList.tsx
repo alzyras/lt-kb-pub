@@ -17,6 +17,7 @@ import {
 } from "../util/citationFilter"
 import { tagKind } from "./TagList"
 import { concatenateResources } from "../util/resources"
+import { objectCardTags, objectCountLabel } from "../util/objectTypes"
 // @ts-ignore
 import periodFilterScript from "./scripts/period-filter.inline"
 // @ts-ignore
@@ -303,6 +304,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
     const tags = (page.frontmatter?.tags ?? []).map((tag) => String(tag).trim()).filter(Boolean)
     const tipas = normalizedType(page.frontmatter?.tipas)
     const objectPage = isObjectPage(page, tipas)
+    const visibleTags = showObjectListControls ? objectCardTags(tags, tipas) : tags
     const citationMetadata = objectPage ? citationMetadataForPage(page) : emptyCitationMetadata
     const quoteCount = citationMetadata.quoteCount
     const citationSourceIds = citationMetadata.sourceIds
@@ -349,9 +351,9 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
                 {title}
               </a>
             </h3>
-            {tags.length > 0 && (
+            {visibleTags.length > 0 && (
               <ul class="tags inline-tags">
-                {[...tags]
+                {[...visibleTags]
                   .sort((a, b) => {
                     const rank = { topic: 0, period: 1, type: 2 }
                     const kindDiff = rank[tagKind(a)] - rank[tagKind(b)]
@@ -371,8 +373,14 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
             )}
             {objectPage && (
               <p class="listing-evidence-meta">
-                {claimCount.toLocaleString("lt-LT")} teig. / {quoteCount.toLocaleString("lt-LT")}{" "}
-                cit.
+                <span>
+                  <strong>{claimCount.toLocaleString("lt-LT")}</strong>{" "}
+                  {objectCountLabel(claimCount, "claims")}
+                </span>
+                <span>
+                  <strong>{quoteCount.toLocaleString("lt-LT")}</strong>{" "}
+                  {objectCountLabel(quoteCount, "quotes")}
+                </span>
               </p>
             )}
           </div>
@@ -394,27 +402,27 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
             <input
               id="object-list-query"
               type="search"
-              placeholder="Ieškoti šiame sąraše"
+              placeholder="Ieškoti pagal pavadinimą…"
               data-object-list-query=""
             />
           </div>
           <div class="object-list-control-group">
             <label for="object-list-sort">Rikiavimas</label>
             <select id="object-list-sort" data-object-list-sort="">
-              <option value="current">Dabartinė</option>
-              <option value="title-asc">A-Z</option>
-              <option value="title-desc">Z-A</option>
+              <option value="current">Pradinė tvarka</option>
+              <option value="title-asc">Pavadinimas: A–Ž</option>
+              <option value="title-desc">Pavadinimas: Ž–A</option>
               <option value="claims-desc" selected>
-                Teiginiai ↓
+                Daugiausia teiginių
               </option>
-              <option value="claims-asc">Teiginiai ↑</option>
+              <option value="claims-asc">Mažiausia teiginių</option>
             </select>
           </div>
           {objectListTagOptions.length > 0 && (
             <div class="object-list-control-group object-list-tag-control">
-              <label for="object-list-tag-select">Tagai</label>
+              <label for="object-list-tag-select">Žyma</label>
               <select id="object-list-tag-select" data-object-list-tag-select="">
-                <option value="">Pasirinkti tagą</option>
+                <option value="">Visos žymos</option>
                 {objectListTagOptions.map((tag) => (
                   <option value={tag}>{tag}</option>
                 ))}
@@ -422,7 +430,12 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
               <div class="object-list-tag-pills" data-object-list-tag-pills="" />
             </div>
           )}
-          <span class="object-list-summary" data-object-list-summary="">
+          <span
+            class="object-list-summary"
+            data-object-list-summary=""
+            aria-live="polite"
+            aria-atomic="true"
+          >
             Rodoma 0 iš 0
           </span>
           <nav
@@ -441,21 +454,25 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
           <div class="object-list-active-filters" data-object-list-active-filters="" hidden>
             <div data-object-list-active-pills="" />
             <button type="button" data-object-list-reset="">
-              Atstatyti visus
+              Išvalyti filtrus
             </button>
           </div>
         </div>
       )}
       {showPeriodFilter && (
-        <div class="period-filter-controls" data-period-filter-controls="true">
-          <div class="period-filter-header">
+        <details
+          class="period-filter-controls"
+          data-period-filter-controls="true"
+          open={!showObjectListControls}
+        >
+          <summary class="period-filter-header">
             <span class="period-filter-label">Laikotarpis</span>
             <span class="period-filter-range-label">
               <span data-period-value="start">0</span>
               {" – "}
               <span data-period-value="end">2000</span>
             </span>
-          </div>
+          </summary>
           <div class="period-filter-slider" aria-label="Laikotarpio intervalas">
             <div class="period-filter-track" />
             <div class="period-filter-range" data-period-range-fill="" />
@@ -487,7 +504,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
               Rodyti be aiškaus laikotarpio
             </label>
           </div>
-        </div>
+        </details>
       )}
       {groups.map(([groupType, items]) => (
         <section class={groupedByType ? "page-list-type-group" : undefined}>
@@ -507,6 +524,16 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
           </ul>
         </section>
       ))}
+      {showObjectListControls && (
+        <div class="object-list-empty" data-object-list-empty hidden>
+          <span aria-hidden="true">⌕</span>
+          <h2>Įrašų nerasta</h2>
+          <p>Pabandykite kitą paieškos žodį arba išvalykite pasirinktus filtrus.</p>
+          <button type="button" data-object-list-empty-reset>
+            Išvalyti filtrus
+          </button>
+        </div>
+      )}
     </>
   )
 }

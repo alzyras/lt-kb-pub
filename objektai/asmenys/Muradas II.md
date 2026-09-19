@@ -43,25 +43,6 @@ canonical_biography: "Turkų sultonas Muradas II siuntė Vytautui į Smolenską 
 
 Turkų sultonas Muradas II siuntė Vytautui į Smolenską dovanų.
 
-## Teiginiai
-
-<a id="claim-t-35251"></a>
-- t-001
-  teiginys: "Turkų sultonas Muradas II siuntė Vytautui į Smolenską dovanų."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Smolenskas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Muradas II: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Smolenskas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Muradas II siuntė dovanas į Smolenską."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Muradas II siuntė į Smolenskas (0.90)"
-  pagrindžia:
-    - c-38105
-
 ## Citatos
 
 - id: c-38105
@@ -86,8 +67,28 @@ Turkų sultonas Muradas II siuntė Vytautui į Smolenską dovanų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Muradas II siuntė į [[objektai/vietos/Smolenskas]]
+
+## Teiginiai
+
+<a id="claim-t-35251"></a>
+- t-001
+  teiginys: "Turkų sultonas Muradas II siuntė Vytautui į Smolenską dovanų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Smolenskas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Muradas II: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Smolenskas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Muradas II siuntė dovanas į Smolenską."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Muradas II siuntė į Smolenskas (0.90)"
+  pagrindžia:
+    - c-38105
+

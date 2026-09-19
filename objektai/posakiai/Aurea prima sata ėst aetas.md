@@ -26,28 +26,6 @@ media_all_json: |-
 
 Narbutas posakį „aurea prima sata ėst aetas“ pateikia kaip senovės filosofų devizą apie pirmąjį aukso amžių.
 
-## Teiginiai
-
-<a id="claim-t-189574"></a>
-- t-001
-  teiginys: "Narbutas posakį „aurea prima sata ėst aetas“ pateikia kaip senovės filosofų devizą apie pirmąjį aukso amžių."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Graikai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aurea prima sata ėst aetas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Graikai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aurea prima sata ėst aetas\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172461
-
 ## Citatos
 
 - id: c-172461
@@ -68,5 +46,61 @@ Narbutas posakį „aurea prima sata ėst aetas“ pateikia kaip senovės filoso
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-201369
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 81"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 81."
+  citata_originali: |
+    Tačiau tiesa visuomet išliko atmintyje. Senovės isto­
+    rija gausi faktų apie žmogaus nuopuolį: indai, kinai, chaldėjai,
+    egiptiečiai, izraelitai, persai, graikai dūsauja prisimindami ge­
+    resnę praeitį - visų padavimai primena palaimingus dar nesu­
+    gadintos prigimties laikus. Senovės filosofų devizas buvo šie
+    žodžiai: aurea prima sata ėst aetas - pirmasis gimė aukso am­
+    žius.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+    - t-002
+
+## Teiginiai
+
+<a id="claim-t-216254"></a>
+- t-001
+  teiginys: "Narbutas posakį „aurea prima sata ėst aetas“ pateikia kaip senovės filosofų devizą apie pirmąjį aukso amžių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Graikai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aurea prima sata ėst aetas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Graikai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aurea prima sata ėst aetas\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-201369
+
+<a id="claim-t-218070"></a>
+- t-002
+  teiginys: "Senovės isto rija gausi faktų apie žmogaus nuopuolį: indai, kinai, chaldėjai, egiptiečiai, izraelitai, persai, graikai dūsauja prisimindami ge resnę praeitį - visų padavimai primena palaimingus dar nesu gadintos prigimties laikus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201369
+

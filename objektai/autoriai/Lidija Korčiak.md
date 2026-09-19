@@ -35,32 +35,6 @@ Lidija Korčiak tyrinėjo suvažiavimus ir vertino jų sudėtį. L. Korčiak ske
 
 Lidija Korčiak tyrinėjo suvažiavimus ir vertino jų sudėtį. L. Korčiak skeptiškai vertino bandymus aptariamose sueigose įžvelgti atstovavimą sričių bajorijai.
 
-## Teiginiai
-
-<a id="claim-t-204406"></a>
-- t-001
-  teiginys: "Lidija Korčiak tyrinėjo suvažiavimus ir vertino jų sudėtį."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  pagrindžia:
-    - c-187010
-
-<a id="claim-t-204407"></a>
-- t-002
-  teiginys: "L. Korčiak skeptiškai vertino bandymus aptariamose sueigose įžvelgti atstovavimą sričių bajorijai."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  pagrindžia:
-    - c-187011
-
 ## Citatos
 
 - id: c-187010
@@ -82,7 +56,7 @@ Lidija Korčiak tyrinėjo suvažiavimus ir vertino jų sudėtį. L. Korčiak ske
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-187011
@@ -109,5 +83,32 @@ Lidija Korčiak tyrinėjo suvažiavimus ir vertino jų sudėtį. L. Korčiak ske
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-204406"></a>
+- t-001
+  teiginys: "Lidija Korčiak tyrinėjo suvažiavimus ir vertino jų sudėtį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  pagrindžia:
+    - c-187010
+
+<a id="claim-t-204407"></a>
+- t-002
+  teiginys: "L. Korčiak skeptiškai vertino bandymus aptariamose sueigose įžvelgti atstovavimą sričių bajorijai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  pagrindžia:
+    - c-187011
+

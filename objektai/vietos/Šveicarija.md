@@ -47,10 +47,70 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
 
 ## Teiginiai
 
+<a id="claim-t-209667"></a>
+- t-004
+  teiginys: "Šveicarijoje buvo rengiamas tautų suvažiavimas-konferencija."
+  atnaujinta: "2026-09-12 14:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192287
+
+<a id="claim-t-207812"></a>
+- t-207812
+  teiginys: "Našlaitėlis po Tiubingeno keliavo po Šveicariją."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190429
+
+<a id="claim-t-209315"></a>
+- t-209315
+  teiginys: "Šveicarijos gyventojui teko 75 litrai vyno per metus."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  pagrindžia:
+    - c-191927
+
+<a id="claim-t-209665"></a>
+- t-209665
+  teiginys: "Šveicarijos lietuviai kartu su Rusijos, Lietuvos ir Italijos lietuviais susirinko Lozanoje."
+  atnaujinta: "2026-09-12 14:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192285
+
+<a id="claim-t-209666"></a>
+- t-209666
+  teiginys: "Lenkai pasinaudoję tais pinigais, kuriuos jiems pri siuntė Šveicarijos Komitetas, panaudojo ne vietinės liaudies nuo bado gynimui, bet lenki nimui Lietuvos vaikų."
+  atnaujinta: "2026-09-12 14:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192286
+
 <a id="claim-t-169555"></a>
-- t-001
+- t-169555
   teiginys: "Neutralioje Šveicarijoje susidaręs negausus lietuvių būrys šelpė lietuvius belaisvius Vokietijoje ir skleidė žinias apie lietuvių teises."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyveno -> Šveicarija: 0.72"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -68,9 +128,9 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
     - c-154264
 
 <a id="claim-t-169557"></a>
-- t-002
+- t-169557
   teiginys: "Antrojoje Lozanos konferencijoje nutarta politinės propagandos centrą įkurti Šveicarijoje ir remtis nepriklausomybės reikalavimu."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -84,9 +144,9 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
     - c-154266
 
 <a id="claim-t-193261"></a>
-- t-003
+- t-193261
   teiginys: "Šveicarijos komitetai darbavosi ligi karo pabaigos."
-  atnaujinta: "2026-07-06 12:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -94,6 +154,21 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-175993
+
+<a id="claim-t-207632"></a>
+- t-207632
+  teiginys: "1919 m. Stasio Šalkauskio veikalas „Ant dviejų pasaulių ribos“ buvo išleistas Šveicarijoje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1919 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys aiškiai nurodo veikalą, autorių, datą ir išleidimo vietą Šveicarijoje; papildomų faktų nepridedama."
+  pagrindžia:
+    - c-190249
 
 ## Citatos
 
@@ -116,8 +191,8 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-169555
 
 - id: c-154266
   redaktorius: "A. Šapoka"
@@ -139,8 +214,8 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-169557
 
 - id: c-175993
   redaktorius: "A. Šapoka"
@@ -159,8 +234,145 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-193261
+
+- id: c-190249
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 314"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 314."
+  citata_originali: |
+    Pralaimėjo, ir perfrazuo-
+    jant Riomerio sampratas, krikščioniškoji bajoriškoji tradicija pralaimėjo valstietiškajai
+    pagoniškajai žemtraukiškai rikiuotei.
+    Antras – 1919 m. Stasio Šalkauskio dar Šveicarijoje išleistas veikalas „Ant dviejų
+    pasaulių ribos“, kur suformuluota „Rytų ir Vakarų kultūrų sintezės“ idėja.
+  citata_rodoma: "Antras – 1919 m. Stasio Šalkauskio dar Šveicarijoje išleistas veikalas „Ant dviejų \npasaulių ribos“, kur suformuluota „Rytų ir Vakarų kultūrų sintezės“ idėja."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207632
+
+- id: c-190429
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 219"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 219."
+  citata_originali: |
+    Radvila Juodasis nuolatos susirašinėjo su sūnumi, rūpinosi, kad jis įgytų jo padėčiai
+    derantį gerą išsilavinimą, stengėsi sužadinti ir palaikyti norą mokytis. Viename iš laiškų
+    tėvas rašė Mikalojui Kristupui, kad kuo greičiau jis gerai išmoks lotynų kalbą, tuo
+    greičiau galės leistis į pažintinę kelionę, nes tik įgijęs tvirtus mokslo pagrindus, keliau-
+    damas, matydamas naujas šalis ir miestus, sugebės daug ko išmokti, o sugrįžęs po kelio-
+    nių namo, bus pasiruošęs tarnybai. Likimas lėmė, kad po metų, Strasbūre prasidėjus
+    epidemijai, Našlaitėlis su B. Jezerskiu išvyko į Tiubingeną, vėliau keliavo po Šveicariją
+    bei Italiją.
+  citata_rodoma: "Likimas lėmė, kad po metų, Strasbūre prasidėjus\nepidemijai, Našlaitėlis su B. Jezerskiu išvyko į Tiubingeną, vėliau keliavo po Šveicariją\nbei Italiją."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207812
+
+- id: c-191927
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 103"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 103."
+  citata_originali: |
+    Mat jose
+    vynuogių vyno buvo geriama palyginti nedaug (Anglijoje vienam
+    gyventojui teko 4.45 litro degtinės, 1.68- vyno, 136.7 - alaus. Vokietijoje
+    atitinkamai: 8.8; 6,108.5 litro), o Italijoje absoliuti dauguma alkoholio
+    buvo suvartojama vyno pavidalu. Vienam italui teko 95 litrai vyno per
+    metus (prancūzui - 79, Šveicarijos gyventojui - 75, Austrijos-Vengrijos -
+    22.6), o degtinės arba kitų stipriųjų gėrimų Apeninuose nemėgta.
+    Vienam gyventojui teko tik 13.6 litro degtinės ir 0.86 litro alaus3. Dėl
+    tuometinių technikos naujovių galėję įvairiai eksperimentuoti ir tirti
+    mokslininkai teigė, kad šis gėrimų skirtumas nemažai prisideda prie
+    alkoholizmo rodiklių augimo Centrinėje Europoje ir Rusijos imperijoje.
+  citata_rodoma: "o geriama palyginti nedaug (Anglijoje vienam \ngyventojui teko 4.45 litro degtinės, 1.68- vyno, 136.7 - alaus. Vokietijoje \natitinkamai: 8.8; 6,108.5 litro), o Italijoje absoliuti dauguma alkoholio \nbuvo suvartojama vyno pavidalu. Vienam italui teko 95 litrai vyno per \nmetus (prancūzui - 79, Šveicarijos gyventojui - 75, Austrijos-Vengrijos - \n22.6), o degtinės arba kitų stipriųjų gėrimų Apeninuose nemėgta. \nVienam gyventojui teko tik 13.6 litro degtinės ir 0.86 litro alaus3. Dėl \ntuometinių technikos naujovių galėję įvairiai eksperimentuoti ir tirti \nmokslininkai teigė, kad šis gėrimų skirtumas nemažai prisideda prie \nalkoholizmo rodiklių augimo Centrinėje Europoje ir Rusijos imperijoje."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209315
+
+- id: c-192285
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 49"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 49."
+  citata_originali: |
+    Rusijos,
+    Lietuvos,
+    Italijos
+    ir
+    Šveicarijos lietuviai, susirinkę Šveicarijos Lau-
+    sannoj, svarstydami Amerikos lietuvių surink­
+    ti} aukų mažumą, nusprendė, išreikšti Ameri­
+    kos lietuviams papeikimą ir stebėjimąsi, kad
+    jie nesiliauja pešęsi tarpu savęs net šiuom bai­
+    siu karės metu
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209665
+
+- id: c-192286
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 69"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 69."
+  citata_originali: |
+    Lenkai
+    pasinaudoję tais pinigais,
+    kuriuos jiems pri­
+    siuntė Šveicarijos Komitetas,
+    panaudojo
+    ne
+    vietinės liaudies nuo bado gynimui, bet lenki­
+    nimui Lietuvos vaikų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209666
+
+- id: c-192287
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 74"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 74."
+  citata_originali: |
+    Laike mūsų viešėjimo Šveicarijoje buvo
+    rengiamas
+    tautų
+    suvažiavimas-konferencija.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]

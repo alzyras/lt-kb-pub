@@ -33,29 +33,6 @@ canonical_biography: "Pasakojime Sturlaugas Darbštusis Ingigerdą išleido už 
 
 Pasakojime Sturlaugas Darbštusis Ingigerdą išleido už Flamoro ir kaip kraitį davė Aldejaborgą bei jo apylinkes.
 
-## Teiginiai
-
-<a id="claim-t-191419"></a>
-- t-001
-  teiginys: "Pasakojime Sturlaugas Darbštusis Ingigerdą išleido už Flamoro ir kaip kraitį davė Aldejaborgą bei jo apylinkes."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_zmona -> Flamoras: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ingigerda: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Flamoras: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Išleidimas už Flamoro tiesiogiai nurodo santuokinį ryšį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Ingigerda buvo žmona Flamoras (0.94)"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-174301
-
 ## Citatos
 
 - id: c-174301
@@ -81,9 +58,29 @@ Pasakojime Sturlaugas Darbštusis Ingigerdą išleido už Flamoro ir kaip krait�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Ryšiai
 - Vyrai: [[objektai/asmenys/Flamoras]]
 - Sutuoktiniai: [[objektai/asmenys/Flamoras]]
+
+## Teiginiai
+
+<a id="claim-t-215444"></a>
+- t-001
+  teiginys: "Pasakojime Sturlaugas Darbštusis Ingigerdą išleido už Flamoro ir kaip kraitį davė Aldejaborgą bei jo apylinkes."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_zmona -> Flamoras: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ingigerda: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Flamoras: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Išleidimas už Flamoro tiesiogiai nurodo santuokinį ryšį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Ingigerda buvo žmona Flamoras (0.94)"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+

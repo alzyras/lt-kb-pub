@@ -24,20 +24,6 @@ media_all_json: |-
 
 Laivavedžiai ir laivų įgulų nariai išsiskyrė Kauno miestiečių bendruomenėje ir dėl darbo pobūdžio, mat nuolat buvo kelyje, ir dėl darbo santykių - jie buvo samdiniai, ir dėl dažnai jungiamų upeivių pareigų ir prekybos operacijų.
 
-## Teiginiai
-
-<a id="claim-t-201890"></a>
-- t-001
-  teiginys: "Laivavedžiai ir laivų įgulų nariai išsiskyrė Kauno miestiečių bendruomenėje ir dėl darbo pobūdžio, mat nuolat buvo kelyje, ir dėl darbo santykių - jie buvo samdiniai, ir dėl dažnai jungiamų upeivių pareigų ir prekybos operacijų."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185237
-
 ## Citatos
 
 - id: c-185237
@@ -56,5 +42,20 @@ Laivavedžiai ir laivų įgulų nariai išsiskyrė Kauno miestiečių bendruomen
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201890"></a>
+- t-001
+  teiginys: "Laivavedžiai ir laivų įgulų nariai išsiskyrė Kauno miestiečių bendruomenėje ir dėl darbo pobūdžio, mat nuolat buvo kelyje, ir dėl darbo santykių - jie buvo samdiniai, ir dėl dažnai jungiamų upeivių pareigų ir prekybos operacijų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185237
+

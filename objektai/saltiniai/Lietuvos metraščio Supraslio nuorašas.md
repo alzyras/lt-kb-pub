@@ -24,20 +24,6 @@ media_all_json: |-
 
 Lietuviškų šaltinių Daukantas tuomet žinojo ma žai.
 
-## Teiginiai
-
-<a id="claim-t-201440"></a>
-- t-001
-  teiginys: "Lietuviškų šaltinių Daukantas tuomet žinojo ma žai."
-  atnaujinta: "2026-07-16 14:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184790
-
 ## Citatos
 
 - id: c-184790
@@ -56,5 +42,20 @@ Lietuviškų šaltinių Daukantas tuomet žinojo ma žai.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201440"></a>
+- t-001
+  teiginys: "Lietuviškų šaltinių Daukantas tuomet žinojo ma žai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184790
+

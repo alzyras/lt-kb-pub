@@ -42,20 +42,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-201924"></a>
-- t-001
-  teiginys: "Turtingieji rengdavo mėgstamus tais laikais karnavalus, ir štai 1554 m. Užgavėnių naktį iš antradienio į trečiadienį (vasario 14 d.) Hanuso Kopo svainis Reinoidas Krakovas skundėsi Kauno vaitui Jurui Pečiūgai, kad naktį, kai į Hanuso Kopo namus pagal seną."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185271
-
 ## Citatos
 
 - id: c-185271
@@ -75,5 +61,20 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201924"></a>
+- t-001
+  teiginys: "Turtingieji rengdavo mėgstamus tais laikais karnavalus, ir štai 1554 m. Užgavėnių naktį iš antradienio į trečiadienį (vasario 14 d.) Hanuso Kopo svainis Reinoidas Krakovas skundėsi Kauno vaitui Jurui Pečiūgai, kad naktį, kai į Hanuso Kopo namus pagal seną."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185271
+

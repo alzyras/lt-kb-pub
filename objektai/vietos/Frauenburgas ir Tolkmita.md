@@ -36,21 +36,6 @@ historical_names: []
 
 Narbutas rašė, kad tarp Frauenburgo ir Tolkmito buvęs dievybės aukuras, ant kurio žvejai atnašaudavo pirmas sugautas žuvis.
 
-## Teiginiai
-
-<a id="claim-t-188997"></a>
-- t-001
-  teiginys: "Narbutas rašė, kad tarp Frauenburgo ir Tolkmito buvęs dievybės aukuras, ant kurio žvejai atnašaudavo pirmas sugautas žuvis."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-171886
-
 ## Citatos
 
 - id: c-171886
@@ -70,5 +55,40 @@ Narbutas rašė, kad tarp Frauenburgo ir Tolkmito buvęs dievybės aukuras, ant 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-198425
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 109"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 109."
+  citata_originali: |
+    Kasmet Didžiosios šventės iš­
+    vakarėse šio dievo stabą sudaužydavo ir dirbindavo naują. Dar
+    jis turėjo aukurą, arba akmeni, esantį tarp Frauenburgo ir Tol-
+    kmito, ant kurio žvejai atnašaudavo jam pirmas sužvejotas žu­
+    vis. Apaštalai, apkrikštydami prūsus, daugiausia vargo, kol įvei­
+    kė prietaringą tikėjimą šia dievybe*.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-218939"></a>
+- t-001
+  teiginys: "Narbutas rašė, kad tarp Frauenburgo ir Tolkmito buvęs dievybės aukuras, ant kurio žvejai atnašaudavo pirmas sugautas žuvis."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-198425
+

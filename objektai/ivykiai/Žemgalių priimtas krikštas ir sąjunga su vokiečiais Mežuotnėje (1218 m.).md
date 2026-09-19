@@ -46,34 +46,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-205304"></a>
-- t-001
-  teiginys: "Tad būt'ent 1218 metais ten nuvyko pirmieji Zemgalos asmenys, gy venę jų sostinėje Mežuotnėje (Mesojteti)1, prašydami vys kupą užtarti prieš juos puolančius lietuvius."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-187662
-
-<a id="claim-t-205548"></a>
-- t-002
-  teiginys: "Tuomet vyskupas, sutelkęs savo krašto karius ir kryžiuočius, patraukė į Žemgalą, kur, kaip ir dera drau giškai elgiantis, apsistojo įkūręs stovyklą prie Mėžuotnės."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-188166
-
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Tuomet vyskupas, sutelkęs savo krašto karius ir kryžiuočius, patraukė į Žemgalą, kur, kaip ir dera drau giškai elgiantis, apsistojo įkūręs stovyklą prie Mėžuotnės.'
@@ -114,7 +86,7 @@ Tad būt'ent 1218 metais ten nuvyko pirmieji Zemgalos asmenys, gy venę jų sost
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188166
@@ -136,5 +108,34 @@ Tad būt'ent 1218 metais ten nuvyko pirmieji Zemgalos asmenys, gy venę jų sost
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-205304"></a>
+- t-001
+  teiginys: "Tad būt'ent 1218 metais ten nuvyko pirmieji Zemgalos asmenys, gy venę jų sostinėje Mežuotnėje (Mesojteti)1, prašydami vys kupą užtarti prieš juos puolančius lietuvius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187662
+
+<a id="claim-t-205548"></a>
+- t-002
+  teiginys: "Tuomet vyskupas, sutelkęs savo krašto karius ir kryžiuočius, patraukė į Žemgalą, kur, kaip ir dera drau giškai elgiantis, apsistojo įkūręs stovyklą prie Mėžuotnės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-188166
+

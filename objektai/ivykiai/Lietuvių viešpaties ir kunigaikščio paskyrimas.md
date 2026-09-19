@@ -36,20 +36,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-201292"></a>
-- t-001
-  teiginys: "Tie kunigai susirinkę pakėlė tarp savęs vieną turintį 60 ar 70 metų senelį kunigaikščiu, kursai ūkę ir visą tautą valdė, vadindamos viešpačiu, ar ba kunigaikščiu."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184642
-
 ## Citatos
 
 - id: c-184642
@@ -71,5 +57,20 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201292"></a>
+- t-001
+  teiginys: "Tie kunigai susirinkę pakėlė tarp savęs vieną turintį 60 ar 70 metų senelį kunigaikščiu, kursai ūkę ir visą tautą valdė, vadindamos viešpačiu, ar ba kunigaikščiu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184642
+

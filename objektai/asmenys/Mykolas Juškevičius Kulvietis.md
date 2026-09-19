@@ -39,20 +39,6 @@ canonical_biography: "O jau 1541 m. Žygimantas Senasis paskyrė Kauno pavieto �
 
 O jau 1541 m. Žygimantas Senasis paskyrė Kauno pavieto žemės teisėjus Mykolą Juškevičių Kulvietį ir Vainą Pacevičių.
 
-## Teiginiai
-
-<a id="claim-t-202193"></a>
-- t-001
-  teiginys: "O jau 1541 m. Žygimantas Senasis paskyrė Kauno pavieto žemės teisėjus Mykolą Juškevičių Kulvietį ir Vainą Pacevičių."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185540
-
 ## Citatos
 
 - id: c-185540
@@ -68,5 +54,20 @@ O jau 1541 m. Žygimantas Senasis paskyrė Kauno pavieto žemės teisėjus Mykol
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202193"></a>
+- t-001
+  teiginys: "O jau 1541 m. Žygimantas Senasis paskyrė Kauno pavieto žemės teisėjus Mykolą Juškevičių Kulvietį ir Vainą Pacevičių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185540
+

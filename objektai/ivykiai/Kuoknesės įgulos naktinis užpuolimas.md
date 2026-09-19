@@ -36,20 +36,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-201327"></a>
-- t-001
-  teiginys: "Tuo pačiu laiku rados netaikos tarp Veisekės, Kuoknesės kunigaikščio, ir kamendoto Lenevaldės pilės Danieliaus, kurios įgulė antpuolė naktį pasalu Kuoknesės įgulę miegančią ir tenai, vienus netikė lius lietuvius nugalavusi, kitus išblaškiusi, nutvėrė patį."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184677
-
 ## Citatos
 
 - id: c-184677
@@ -80,5 +66,20 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201327"></a>
+- t-001
+  teiginys: "Tuo pačiu laiku rados netaikos tarp Veisekės, Kuoknesės kunigaikščio, ir kamendoto Lenevaldės pilės Danieliaus, kurios įgulė antpuolė naktį pasalu Kuoknesės įgulę miegančią ir tenai, vienus netikė lius lietuvius nugalavusi, kitus išblaškiusi, nutvėrė patį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184677
+

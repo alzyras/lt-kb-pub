@@ -43,28 +43,6 @@ canonical_biography: "1345 m. sausį į Prūsiją atvyko Čekijos karalius Jonas
 
 1345 m. sausį į Prūsiją atvyko Čekijos karalius Jonas su savo sūnumi, Moravijos markgrafu Karoliu, Vengrijos karalius Liudvikas, Olandijos, Švarcburgo, Burbonės, Niurnbergo grafai - 200 valdovų ir kilmingųjų.
 
-## Teiginiai
-
-<a id="claim-t-39558"></a>
-- t-001
-  teiginys: "1345 m. sausį Čekijos karalius Jonas su sūnumi Karoliu ir kitais valdovais bei kilmingaisiais atvyko į Prūsiją."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jonas (Čekijos karalius): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claim tiesiogiai sako, kad Jonas atvyko į Prūsiją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Jonas (Čekijos karalius) keliavo į Prūsija (0.90)"
-  temporaliniai_duomenys: "kelionės data: 1345 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jonas (Čekijos karalius) keliavo į Prūsija“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminis teiginys per daug sąrašinis; citata pagrindžia glaustesnį faktą apie atvykimą."
-  pagrindžia:
-    - c-41362
-
 ## Citatos
 
 - id: c-41362
@@ -87,8 +65,31 @@ canonical_biography: "1345 m. sausį į Prūsiją atvyko Čekijos karalius Jonas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Jonas (Čekijos karalius) keliavo į [[objektai/vietos/Prūsija]]
+
+## Teiginiai
+
+<a id="claim-t-39558"></a>
+- t-001
+  teiginys: "1345 m. sausį Čekijos karalius Jonas su sūnumi Karoliu ir kitais valdovais bei kilmingaisiais atvyko į Prūsiją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jonas (Čekijos karalius): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim tiesiogiai sako, kad Jonas atvyko į Prūsiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Jonas (Čekijos karalius) keliavo į Prūsija (0.90)"
+  temporaliniai_duomenys: "kelionės data: 1345 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jonas (Čekijos karalius) keliavo į Prūsija“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis teiginys per daug sąrašinis; citata pagrindžia glaustesnį faktą apie atvykimą."
+  pagrindžia:
+    - c-41362
+

@@ -48,21 +48,6 @@ Teodoro Narbuto aprašomame kryžiuočių žygyje prie Bisėnos sudeginta tik pa
 
 Teodoro Narbuto aprašomame kryžiuočių žygyje prie Bisėnos sudeginta tik papilė, o daugiau nieko nebuvo nuveikta.
 
-## Teiginiai
-
-<a id="claim-t-205841"></a>
-- t-001
-  teiginys: "Teodoro Narbuto aprašomame kryžiuočių žygyje prie Bisėnos sudeginta tik papilė, o daugiau nieko nebuvo nuveikta."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
-  pagrindžia:
-    - c-188456
-
 ## Citatos
 
 - id: c-188456
@@ -84,5 +69,21 @@ Teodoro Narbuto aprašomame kryžiuočių žygyje prie Bisėnos sudeginta tik pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205841"></a>
+- t-001
+  teiginys: "Teodoro Narbuto aprašomame kryžiuočių žygyje prie Bisėnos sudeginta tik papilė, o daugiau nieko nebuvo nuveikta."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188456
+

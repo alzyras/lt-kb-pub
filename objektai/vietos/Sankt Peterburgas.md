@@ -50,64 +50,46 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
 
 ## Teiginiai
 
-<a id="claim-t-192332"></a>
-- t-001
-  teiginys: "1843 m. Teodoras Narbutas Peterburgo leidėjams siūlė rusiškąjį „Lietuvių mitologijos“ variantą."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+<a id="claim-t-218578"></a>
+- t-005
+  teiginys: "1831 metais tas senovės paminklas kartu su visu drau gijos muziejumi buvo išvežtas į Sankt Peterburgą."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Peterburgas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sankt Peterburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Peterburgas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sankt Peterburgas\" parinktas kaip owner_note_path. Targetas \"Peterburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201443
+
+<a id="claim-t-214819"></a>
+- t-214819
+  teiginys: "1831 m. senovės paminklas kartu su Varšuvos Mokslo bičiulių draugijos muziejumi buvo išvežtas į Sankt Peterburgą."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1843 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Įvardytas „šis darbas“ ir patikslintas ryšys su Peterburgu. Nepridėta rankraščio datavimo, nes claimui pakanka leidėjų epizodo."
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
-    - c-175132
+    - c-195875
 
-<a id="claim-t-192333"></a>
-- t-002
-  teiginys: "Leningradas, dabar Sankt Peterburgas, buvo vienas pagrindinių iš Lietuvos išvežamų maisto produktų vartotojų."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+<a id="claim-t-215363"></a>
+- t-215363
+  teiginys: "Originalas buvo Vilniuje ir tikriau siai pateko į Sankt Peterburgą."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_place: Lietuva; mentioned_place: Leningradas; mentioned_place: Maskva; mentioned_place: SSRS"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sankt Peterburgas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=46"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sankt Peterburgas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-175131
+    - c-195174
 
-<a id="claim-t-192334"></a>
-- t-003
-  teiginys: "1772 m. Sankt Peterburge buvo pasirašytos padalijimo sutartys, kurias 1773-1775 m. patvirtino delegacinis seimas Varšuvoje."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Reikia pataisyti OCR klaidą ir suvienodinti formuluotę."
-  susije_objektai: "mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Peterburgas; mentioned_place: Varšuva"
-  temporaliniai_duomenys: "įvykio data: 1772 m.; įvykio data: 1773-1775; įvykio data: 1775 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia pataisyti OCR klaidą ir suvienodinti formuluotę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-175133
-
-<a id="claim-t-192754"></a>
-- t-004
+<a id="claim-t-212216"></a>
+- t-212216
   teiginys: "1839 m. Teodoras Narbutas gavo imperatoriaus dovaną po „Lietuvių mitologijos“ įvertinimo Peterburge."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -124,8 +106,82 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Neaiškus „sumanymas“ pakeistas citatoje aiškiai nurodytu įvykiu. Titulas sutrumpintas, nepridedant detalių apie leidybos planų raidą."
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+
+<a id="claim-t-213352"></a>
+- t-213352
+  teiginys: "1843 m. Teodoras Narbutas Peterburgo leidėjams siūlė rusiškąjį „Lietuvių mitologijos“ variantą."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Peterburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sankt Peterburgas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Peterburgas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sankt Peterburgas\" parinktas kaip owner_note_path. Targetas \"Peterburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1843 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įvardytas „šis darbas“ ir patikslintas ryšys su Peterburgu. Nepridėta rankraščio datavimo, nes claimui pakanka leidėjų epizodo."
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+
+<a id="claim-t-192333"></a>
+- t-192333
+  teiginys: "Leningradas, dabar Sankt Peterburgas, buvo vienas pagrindinių iš Lietuvos išvežamų maisto produktų vartotojų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  susije_objektai: "mentioned_place: Lietuva; mentioned_place: Leningradas; mentioned_place: Maskva; mentioned_place: SSRS"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Sankt Peterburgas: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sankt Peterburgas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
-    - c-175524
+    - c-175131
+
+<a id="claim-t-192334"></a>
+- t-192334
+  teiginys: "1772 m. Sankt Peterburge buvo pasirašytos padalijimo sutartys, kurias 1773-1775 m. patvirtino delegacinis seimas Varšuvoje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Reikia pataisyti OCR klaidą ir suvienodinti formuluotę."
+  susije_objektai: "mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Peterburgas; mentioned_place: Varšuva"
+  temporaliniai_duomenys: "įvykio data: 1772 m.; įvykio data: 1773-1775; įvykio data: 1775 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia pataisyti OCR klaidą ir suvienodinti formuluotę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-175133
+
+<a id="claim-t-208333"></a>
+- t-208333
+  teiginys: "We wrześniu 179 3 roku na polecenie Timofieja Tutolmina, gubernatora miń skiego, znalazł się w delegacji wysłanej do Katarzyny II do Sankt Petersburga."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-191008
+
+<a id="claim-t-208402"></a>
+- t-208402
+  teiginys: "Jednak w Sankt Petersburgu stawiło się ono dopiero w marcu 17 10 roku."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190867
 
 ## Citatos
 
@@ -154,8 +210,8 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-192333
 
 - id: c-175132
   autorius: "Teodoras Narbutas"
@@ -179,8 +235,6 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-175133
   sudarytojas: "Karolis Zikaras"
@@ -197,8 +251,8 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-192334
 
 - id: c-175524
   autorius: "Teodoras Narbutas"
@@ -220,5 +274,101 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+
+- id: c-190867
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 71"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 71."
+  citata_originali: |
+    Wpływ na twardą
+    postawę strony rosyjskiej również w tym przypadku miała postawa dyplomacji
+    saskiej, nie wspierającej obu misji na wyraźny rozkaz króla20.
+    W końcowej fazie W ielkiej Wojny Północnej decydujące znaczenie dla
+    ułożenia stosunków Rzeczypospolitej z Rosją m iało poselstwo, o którego
+    wysłaniu zadecydowano na sejmie w Warszawie na przełomie 1718 i 1719 roku.
+    Jednak w Sankt Petersburgu stawiło się ono dopiero w marcu 17 10 roku.
+  citata_rodoma: "Jednak w Sankt Petersburgu stawiło się ono dopiero w marcu 17 10 roku."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208402
+
+- id: c-191008
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 104"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 104."
+  citata_originali: |
+    Wówczas, stwierdzić możemy, że poszedł do następnej
+    przysięgi, na wierność dla Katarzyny II. Tu jednak zauważmy, że również kwestia
+    postrzegania wagi przysięgi w tym czasie się zmieniała10.
+    We wrześniu 179 3 roku na polecenie Timofieja Tutolmina, gubernatora miń­
+    skiego, znalazł się w delegacji wysłanej do Katarzyny II do Sankt Petersburga dla
+    „złożenia hołdu tronowi berła rosyjskiego”11.
+  citata_rodoma: "We wrześniu 179 3 roku na polecenie Timofieja Tutolmina, gubernatora miń­\nskiego, znalazł się w delegacji wysłanej do Katarzyny II do Sankt Petersburga"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208333
+
+- id: c-195174
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 490"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 490."
+  citata_originali: |
+    Originalas buvo Vilniuje ir tikriau­
+    siai pateko į Sankt Peterburgą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215363
+
+- id: c-195875
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 484-485"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 484-485."
+  citata_originali: |
+    1831
+    metais tas senovės paminklas kartu su visu draugijos muziejumi
+    475
+
+    buvo išvežtas į Sankt-Peterburgą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214819
+
+- id: c-201443
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 244."
+  citata_originali: |
+    1831 metais tas senovės paminklas kartu su visu drau­
+    gijos muziejumi buvo išvežtas į Sankt Peterburgą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-005
+

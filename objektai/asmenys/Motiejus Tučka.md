@@ -52,3 +52,42 @@ Iš septynių kasėjų pirmasis nurodytas meistras Motiejus Tučka.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-190902
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 32"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 32."
+  citata_originali: |
+    Sapiega rašė atsiskaitęs su šiais žmonėmis ir su pasitenkinimu pažymėjo,
+    kad jie dirbo išties gerai: „Atsilyginau savo nuolatiniams kasėjams iš Želvos,
+    kurie, sunkiai dirbdami ir vargdami, iškasė didžiuosius medžius, apaugusius prie
+    bravoro esančią didžiąją kūdrą, iškastą karaliaus Vladislovo IV laikais ir nuo to
+    laiko niekada nevalytą. Kasėjai buvo septyni. Pirmasis - meistras, vardu Motiejus
+    Tučka (M aciej Tuczko).
+  citata_rodoma: "Kasėjai buvo septyni. Pirmasis - meistras, vardu Motiejus \nTučka (M aciej Tuczko)."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-208283"></a>
+- t-001
+  teiginys: "Iš septynių kasėjų pirmasis nurodytas meistras Motiejus Tučka."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  vertinimo_atnaujinta: "2026-08-18T21:24:31Z"
+  pagrindžia:
+    - c-190902
+

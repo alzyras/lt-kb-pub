@@ -59,10 +59,63 @@ saugoti Dubysos upyną.
 
 ## Teiginiai
 
+<a id="claim-t-207806"></a>
+- t-207806
+  teiginys: "Prie Veliuonos 1317 m. įvyko čekų riterio Plichtos ir lietuvių didžiūno kova."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  temporaliniai_duomenys: "įvykio data: 1317 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190423
+
+<a id="claim-t-209496"></a>
+- t-209496
+  teiginys: "Šį ganytojišką laišką Skapiškio ir Kamajų para pijoms Valančius 1861 m. spalio 13 d. ir 1862 m. ko vo 20 d. peradresavo Kulių, Vainuto bei Veliuonos ' parapijoms."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
+  temporaliniai_duomenys: "įvykio data: 1861 m.; įvykio data: 1862 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  vertinimo_atnaujinta: "2026-09-02T11:31:51Z"
+  pagrindžia:
+    - c-192116
+
+<a id="claim-t-209497"></a>
+- t-209497
+  teiginys: "Tekstas Veliuonos parapijai lyginamas su panašiais laiškais Skapiškio, Kamajų, Kulių ir Vainuto parapijoms."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
+  pagrindžia:
+    - c-192117
+
+<a id="claim-t-210433"></a>
+- t-210433
+  teiginys: "Veliuonos gynimui 1364 m. vadovavo Goštautas, Veliuonos pilies viršininkas."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193401
+
 <a id="claim-t-180736"></a>
-- t-001
+- t-180736
   teiginys: "Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -76,9 +129,9 @@ saugoti Dubysos upyną.
     - c-164328
 
 <a id="claim-t-180737"></a>
-- t-002
+- t-180737
   teiginys: "Senoji Veliuonos piliavietė apėmė du kalnus prie Nemuno, sujungtus tiltu per gilią griovą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bona: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -93,9 +146,9 @@ saugoti Dubysos upyną.
     - c-164339
 
 <a id="claim-t-180738"></a>
-- t-003
+- t-180738
   teiginys: "Gediminas žuvo 1337 m. mūšyje su kryžiuočiais prie Bajerburgo pilies, per mylią nuo Veliuonos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "kariavo_pries -> Kryžiuočių ordinas: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -113,9 +166,9 @@ saugoti Dubysos upyną.
     - c-164326
 
 <a id="claim-t-180739"></a>
-- t-004
+- t-180739
   teiginys: "M. Michelbertas pateikė duomenų iš Rudaičių ir Veliuonos kapinynų."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -129,9 +182,9 @@ saugoti Dubysos upyną.
     - c-164332
 
 <a id="claim-t-180740"></a>
-- t-005
+- t-180740
   teiginys: "Vytautas pasistatė tvirtą Veliuonos pilį, kai kryžiuočiai teigė, kad dešinysis Nemuno krantas nuo seno priklausė jiems."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "pastate -> Veliuona: 0.97"
   ryšio_patikimumo_lygis: "aukstas"
@@ -146,9 +199,9 @@ saugoti Dubysos upyną.
     - c-164325
 
 <a id="claim-t-180741"></a>
-- t-006
+- t-180741
   teiginys: "Ilgai buvo klaidingai aiškinta, kad Gediminas 1338 m. žuvo per Veliuonos apgulimą, pašautas kryžiuočių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -165,9 +218,9 @@ saugoti Dubysos upyną.
     - c-164343
 
 <a id="claim-t-180743"></a>
-- t-007
+- t-180743
   teiginys: "Veliuona tikriausiai XIII a. buvo pastatyta kaip pilis Žemaitijos sienoms saugoti nuo kryžiuočių puldinėjimų."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -181,9 +234,9 @@ saugoti Dubysos upyną.
     - c-164341
 
 <a id="claim-t-180744"></a>
-- t-008
+- t-180744
   teiginys: "1418 m. Veliuonos derybose nepavyko nustatyti Žemaitijos sienų."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Hanza: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -200,9 +253,9 @@ saugoti Dubysos upyną.
     - c-164323
 
 <a id="claim-t-180746"></a>
-- t-009
+- t-180746
   teiginys: "Rugpjūtį prie Nemuno veikę kryžiuočiai, Ordinui sulaukus naujos pagalbos, sunaikino svarbią lietuvių Veliuonos pilį."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "aukstas"
@@ -218,9 +271,9 @@ saugoti Dubysos upyną.
     - c-164336
 
 <a id="claim-t-180747"></a>
-- t-010
+- t-180747
   teiginys: "Vytautas pareiškė niekada neišsižadėsiąs savo tėviškės Veliuonos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde -> Veliuona: 0.70"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -235,9 +288,9 @@ saugoti Dubysos upyną.
     - c-164345
 
 <a id="claim-t-180748"></a>
-- t-011
+- t-180748
   teiginys: "Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos yra susimetę kryžiuočiai."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Panemunė: 0.91"
   ryšio_patikimumo_lygis: "aukstas"
@@ -252,9 +305,9 @@ saugoti Dubysos upyną.
     - c-164327
 
 <a id="claim-t-180751"></a>
-- t-012
+- t-180751
   teiginys: "Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies, per mylią nuo Veliuonos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "mire -> Veliuona: 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -271,9 +324,9 @@ saugoti Dubysos upyną.
     - c-164326
 
 <a id="claim-t-180752"></a>
-- t-013
+- t-180752
   teiginys: "Grįždami kryžiuočiai sudegino Peštvę ir Veliuoną, kurios ilgai rodė tvirtą atsparumą."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Veliuona: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -288,9 +341,9 @@ saugoti Dubysos upyną.
     - c-32515
 
 <a id="claim-t-180754"></a>
-- t-014
+- t-180754
   teiginys: "Vytautas pasistatė tvirtą Veliuonos pilį, kai kryžiuočiai teigė, kad dešinysis Nemuno krantas nuo seno priklausęs jiems."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "pastate -> Veliuona: 0.97"
   ryšio_patikimumo_lygis: "aukstas"
@@ -305,9 +358,9 @@ saugoti Dubysos upyną.
     - c-164325
 
 <a id="claim-t-180755"></a>
-- t-015
+- t-180755
   teiginys: "Vytautas pareiškė niekada neišsižadėsiąs savo tėviškės Veliuonos ir galįs siekti Prūsijos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde -> Veliuona: 0.70"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -322,9 +375,9 @@ saugoti Dubysos upyną.
     - c-37790
 
 <a id="claim-t-180756"></a>
-- t-016
+- t-180756
   teiginys: "Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos susitelkė kryžiuočiai."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Panemunė: 0.91"
   ryšio_patikimumo_lygis: "aukstas"
@@ -339,9 +392,9 @@ saugoti Dubysos upyną.
     - c-164327
 
 <a id="claim-t-180757"></a>
-- t-017
+- t-180757
   teiginys: "1360 m. maršalo vadovaujama Ordino kariuomenė su talkininkais iš Vokietijos puolė Veliuonos pilį ir padarė jai daug žalos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -358,9 +411,9 @@ saugoti Dubysos upyną.
     - c-43974
 
 <a id="claim-t-180758"></a>
-- t-018
+- t-180758
   teiginys: "Ilgai buvo klaidingai aiškinta, kad Gediminas žuvo per Veliuonos apgulimą 1338 m."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -377,9 +430,9 @@ saugoti Dubysos upyną.
     - c-164324
 
 <a id="claim-t-180759"></a>
-- t-019
+- t-180759
   teiginys: "Prie Veliuonos Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno šlaitus."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Nemunas: 0.64"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -394,9 +447,9 @@ saugoti Dubysos upyną.
     - c-164340
 
 <a id="claim-t-180760"></a>
-- t-020
+- t-180760
   teiginys: "M. Michelbertas pateikė Rudaičių ir Veliuonos kapinynų duomenų archeologiniuose leidiniuose."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -410,9 +463,9 @@ saugoti Dubysos upyną.
     - c-164332
 
 <a id="claim-t-185172"></a>
-- t-021
+- t-185172
   teiginys: "Po 1418 m. susitikimo karalius kurį laiką pasiliko Veliuonoje, nes netoliese buvo medžioklei ir poilsiui tinkamų vietų."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -433,9 +486,9 @@ saugoti Dubysos upyną.
     - c-168533
 
 <a id="claim-t-194261"></a>
-- t-022
+- t-194261
   teiginys: "III APIE VELIUONĄ IR KRYŽIUOČIŲ PILIS PALEI NEMUNĄ Veliuona, seniau pilis, pastatyta tikriausiai XIII amžiuje, kad Žemaitijos sienos būtų įtvirtinimais apsaugotos nuo kry žiuočių puldinėjimų, įsimintina dėl nuolatinių Gedimino ko vų su Ordinu šioje vietovėje."
-  atnaujinta: "2026-07-06 13:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -445,22 +498,10 @@ saugoti Dubysos upyną.
   pagrindžia:
     - c-164341
 
-<a id="claim-t-194758"></a>
-- t-023
-  teiginys: "Vis dėlto 1364 metais kryžiuočiai sudegino Veliuoną ir sugriovė pilį."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-177154
-
 <a id="claim-t-201670"></a>
-- t-024
+- t-201670
   teiginys: "Štai 1561 m. Austrijos erchercogo Ferdinando tarnas Adomas Timas Kauno vaitui Motiejui Heinui apskundė dėl vagystės Andrisą Rodtą, matyt, vokietį, kuris Veliuonoje prisijungė prie jo, kad išmoktų lietuvių kalbos."
-  atnaujinta: "2026-07-19 10:18"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -470,9 +511,9 @@ saugoti Dubysos upyną.
     - c-185017
 
 <a id="claim-t-206587"></a>
-- t-025
+- t-206587
   teiginys: "Priešais Veliuoną, ant Nemuno kranto, buvo įrengta stovykla, o pavieniai daliniai pasklido po apylinkes iki Vaikių valsčiaus."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -483,9 +524,9 @@ saugoti Dubysos upyną.
     - c-189202
 
 <a id="claim-t-206588"></a>
-- t-026
+- t-206588
   teiginys: "Teodoro Narbuto pasakojime Veliuonai vadovavo Lietuvos maršalka Goštautas, o jam buvo pavaldūs Surminas ir Metevikas; įtvirtinta gyvenvietė dešimt dienų priešinosi kryžiuočių kariaunai."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -534,8 +575,8 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-013
+  pagrindžia:
+    - t-180752
 
 - id: c-37790
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -559,8 +600,8 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-015
+  pagrindžia:
+    - t-180755
 
 - id: c-43974
   sudarytojas: "Karolis Zikaras"
@@ -583,8 +624,8 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-017
+  pagrindžia:
+    - t-180757
 
 - id: c-164323
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -607,8 +648,8 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
+  pagrindžia:
+    - t-180744
 
 - id: c-164324
   autorius: "Zenonas Ivinskis"
@@ -626,8 +667,8 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-018
+  pagrindžia:
+    - t-180758
 
 - id: c-164325
   autorius: "Zenonas Ivinskis"
@@ -648,9 +689,9 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
-    - t-014
+  pagrindžia:
+    - t-180740
+    - t-180754
 
 - id: c-164326
   autorius: "Michał Baliński"
@@ -688,9 +729,9 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-    - t-012
+  pagrindžia:
+    - t-180738
+    - t-180751
 
 - id: c-164327
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -712,9 +753,9 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-011
-    - t-016
+  pagrindžia:
+    - t-180748
+    - t-180756
 
 - id: c-164328
   autorius: "Michał Baliński"
@@ -740,8 +781,8 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-180736
 
 - id: c-164332
   autorius: "Zenonas Ivinskis"
@@ -763,9 +804,9 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
-    - t-020
+  pagrindžia:
+    - t-180739
+    - t-180760
 
 - id: c-164335
   autorius: "Michał Baliński"
@@ -787,8 +828,8 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-180737
 
 - id: c-164336
   sudarytojas: "Karolis Zikaras"
@@ -814,8 +855,8 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
+  pagrindžia:
+    - t-180746
 
 - id: c-164339
   autorius: "Michał Baliński"
@@ -836,8 +877,8 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-180737
 
 - id: c-164340
   autorius: "Michał Baliński"
@@ -858,8 +899,8 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-019
+  pagrindžia:
+    - t-180759
 
 - id: c-164341
   autorius: "Michał Baliński"
@@ -890,9 +931,9 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
-    - t-022
+  pagrindžia:
+    - t-180743
+    - t-194261
 
 - id: c-164343
   autorius: "Zenonas Ivinskis"
@@ -912,8 +953,8 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-180741
 
 - id: c-164345
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -935,8 +976,8 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-010
+  pagrindžia:
+    - t-180747
 
 - id: c-168533
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -973,8 +1014,8 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-021
+  pagrindžia:
+    - t-185172
 
 - id: c-177154
   autorius: "Teodoras Narbutas"
@@ -993,8 +1034,6 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-023
 
 - id: c-185017
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -1011,8 +1050,8 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-024
+  pagrindžia:
+    - t-201670
 
 - id: c-189202
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -1029,8 +1068,8 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-025
+  pagrindžia:
+    - t-206587
 
 - id: c-189203
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -1051,8 +1090,98 @@ saugoti Dubysos upyną.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-026
+  pagrindžia:
+    - t-206588
+
+- id: c-190423
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 69"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 69."
+  citata_originali: |
+    Livonijos, Vokiečių ordinų pilyse lankėsi pirmieji kuriamos
+    Lietuvos valstybės diplomatai, ieškoję kelių į Europą; ne tik mūšio laukuose kovėsi, bet
+    ir sėmėsi politinio, diplomatinio, taip pat riteriškojo gyvenimo būdo patyrimo didysis
+    kunigaikštis Vytautas ir jo palydoje buvę Lietuvos aukštuomenės žmonės; Europos
+    riterių pilyse gyvendavo įkaitais palikti kunigaikščių ir bajorų giminių atstovai.
+    Istorinėje literatūroje nurodomi konkretūs faktai, rodantys, kad XIV-XV a. Lie-
+    tuvos didžiojo kunigaikščio dvare ir aukštuomenės sluoksniuose buvo žinomos riterių
+    tradicijos: čekų riterio Plichtos kova su lietuvių didžiūnu prie Veliuonos 1317 m.;
+    lietuvių kunigaikščio Margirio dvikova su Čekijos karaliumi Jonu Liuksemburgiečiu
+    1329 m.; faktas, kad 1403 m. šeši lietuvių bajorai iškvietė į dvikovą šešis Vokiečių
+    ordino riterius; lietuvių dalyvavimas riterių turnyre 1413 m.; tai, kad Vytautas pakėlė į
+    riterius imperatoriaus Zigmanto pasiuntinį Benediktą Makrą.
+  citata_rodoma: "čekų riterio Plichtos kova su lietuvių didžiūnu prie Veliuonos 1317 m.;"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207806
+
+- id: c-192116
+  autorius: "Merkys, Vytautas; Vanagienė, Birutė"
+  šaltinis: "Motiejus Valančius. Ganytojiški laiškai"
+  puslapiai: "PDF 85"
+  indeksas: "Merkys, Vytautas; Vanagienė, Birutė, Motiejus Valančius. Ganytojiški laiškai, PDF 85."
+  citata_originali: |
+    70,1. 201-202).
+    Šį ganytojišką laišką Skapiškio ir Kamajų para­
+    pijoms Valančius 1861 m. spalio 13 d. ir 1862 m. ko­
+    vo 20 d. peradresavo Kulių, Vainuto bei Veliuonos
+    ' parapijoms.
+  citata_rodoma: "Šį ganytojišką laišką Skapiškio ir Kamajų para­\npijoms Valančius 1861 m. spalio 13 d. ir 1862 m. ko­\nvo 20 d. peradresavo Kulių, Vainuto bei Veliuonos \n' parapijoms"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209496
+
+- id: c-192117
+  autorius: "Merkys, Vytautas; Vanagienė, Birutė"
+  šaltinis: "Motiejus Valančius. Ganytojiški laiškai"
+  puslapiai: "PDF 123"
+  indeksas: "Merkys, Vytautas; Vanagienė, Birutė, Motiejus Valančius. Ganytojiški laiškai, PDF 123."
+  citata_originali: |
+    35, lapai nenumeruoti.
+    Ne p u b l i k u o t a s .
+    Ganytojiškas laiškas Veliuonos parapijai panašus
+    į laiškus Skapiškio bei Kamajų parapijoms, taip pat
+    Rietavo dekanato Kulių ir Vainuto parapijoms.
+  citata_rodoma: "Ganytojiškas laiškas Veliuonos parapijai panašus \nį laiškus Skapiškio bei Kamajų parapijoms, taip pat \nRietavo dekanato Kulių ir Vainuto parapijoms."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209497
+
+- id: c-193401
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 210"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 210."
+  citata_originali: |
+    Veliuonos gynimui 1364 m. tikrai vadovavo Goštautas, Ve­
+    liuonos pilies viršininkas. Nebepajėgdamas atsispirti kryžiuočiams, jis
+    pasidavė drauge su ¡gula ir buvo kryžiuočių nužudytas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210433
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

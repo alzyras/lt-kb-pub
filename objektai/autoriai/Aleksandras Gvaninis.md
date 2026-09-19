@@ -48,123 +48,6 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
 - septintosios knygos I dalis
 - Lib. 5. - Cap. 3
 
-## Teiginiai
-
-<a id="claim-t-187917"></a>
-- t-001
-  teiginys: "Narbutas citavo Gvaninio 1610 m. liudijimą, kad kai kurie žmonės namuose laikė žalčius ar gyvates ir aukos vietoj duodavo jiems pieno."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "gap::authors"
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1610 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Religinis paprotys suformuluotas kaip Narbuto cituojamas Gvaninio liudijimas. Nepridėta pasakojimo apie nelaimės ženklus tąsa."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-170905
-
-<a id="claim-t-187918"></a>
-- t-002
-  teiginys: "Narbutas Gvaninį nurodė kaip pasakojimo apie senus Lietuvos naminių žalčių prietarus šaltinį."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "gap::authors"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Gvaninis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=42"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Gvaninis\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-170906
-
-<a id="claim-t-187919"></a>
-- t-003
-  teiginys: "Narbutas rašė, kad Gvaninis ir Meletijus Ukapirmą lygino su Perkūnu, nes šis laikytas dangaus ir žemės viešpačiu."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "gap::authors"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "susije_su -> Romėnai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Gvaninis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Romėnai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Gvaninis\" parinktas kaip owner_note_path. Targetas \"Romėnai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-170907
-
-<a id="claim-t-190625"></a>
-- t-004
-  teiginys: "Gvaninio pasakojime šeimininkas avilyje pamatė juodą žmogaus pavidalo būtybę, Narbuto tekste vadinamą pragariška pabaisa."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173508
-
-<a id="claim-t-190626"></a>
-- t-005
-  teiginys: "Gvaninio pasakojime krikščionis šeimininkas šventu kryžiumi nuvijo pabaisą, kuri tuoj pat nežinia kur dingo."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Kryžius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Gvaninis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kryžius: mention_match, thing, gap=51"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Gvaninis\" parinktas kaip owner_note_path. Targetas \"Kryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173509
-
-<a id="claim-t-190689"></a>
-- t-006
-  teiginys: "Aleksandras Gvaninis Kerkelio, arba Bialohrodo, totorių vardą siejo su Klerkei, arba Bialohrodo, pilimi ant uolos."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Totoriai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Gvaninis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Totoriai: mention_match, group, gap=48"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Gvaninis\" parinktas kaip owner_note_path. Targetas \"Totoriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
-  pagrindžia:
-    - c-173571
-
-<a id="claim-t-197275"></a>
-- t-007
-  teiginys: "Aleksandras Gvaninis jautė, kad visa, kas vyksta gamtoje, turi turėti savo kaltininką, todėl pripažino savo viešpatį ir visų dalykų valdovą, ėmė jį garbinti; bet garbinimas visuomet žengia kartu su baime, todėl savo jausmais linkęs garbinti reiškinį, kuris, atrodė, labiausiai jį gąsdino."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-179098
-
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Narbutas Gvaninį nurodė kaip pasakojimo apie senus Lietuvos naminių žalčių prietarus šaltinį.'
@@ -237,8 +120,6 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-170906
   autorius: "Teodoras Narbutas"
@@ -257,8 +138,6 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-170907
   autorius: "Teodoras Narbutas"
@@ -278,8 +157,6 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-173508
   autorius: "Teodoras Narbutas"
@@ -301,8 +178,6 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
 
 - id: c-173509
   autorius: "Teodoras Narbutas"
@@ -321,8 +196,6 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
 
 - id: c-173571
   autorius: "Teodoras Narbutas"
@@ -344,8 +217,6 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
 
 - id: c-179098
   autorius: "Teodoras Narbutas"
@@ -369,5 +240,164 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+
+- id: c-195184
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 109"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 109."
+  citata_originali: |
+    Ar mūsų latviai
+    kažkada išėjo iš tų užkampių, ar buvo ten nuvesti toto­
+    rių antpuolių metu, — negaliu spręsti“1. Nei viena, nei
+    antra, nes Gvaninis nedviprasmiškai teigia: „Ant uolos
+    yra moliu apdrėbta pilis, kurią vadina Klerkei, arba Bia-
+    lohrod, nuo to jie vadinasi Kerkelio, arba Belgorodo to­
+    toriais“2. Tai geriausiai ir paaiškina, ir įtikina, jog tie
+    Belgorodo totoriai buvo mūsų neseniai aprašytų polovie-
+    čių-lietuvių likučiai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+- id: c-200295
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 202"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 202."
+  citata_originali: |
+    Pabaisa atsakė: „Aš esu tas, kuris čia būsiu,
+    kol atkeršysiu už tai, kad užmušei savo namų dievą. Tu būsi
+    dar labiau persekiojamas, jeigu negrįši prie jam priklausančių
+    aukų aukojimo“. Šeimininkas šito nepaisė ir, būdamas krikš­
+    čionis, nuvijo pabaisą šventu kryžiumi-ji tuoj pat nežinia kur
+    dingo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+
+- id: c-200325
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 92"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 92."
+  citata_originali: |
+    Žmogus, vadovaudamasis įgim­
+    tu jausmu, pajutęs dievą savo širdyje, protu ieškojo jo aplin­
+    koje. Jis jautė, kad visa, kas vyksta gamtoje, turi turėti savo
+    kaltininką, todėl pripažino savo viešpatį ir visų dalykų valdo­
+    vą, ėmė jį garbinti; bet garbinimas visuomet žengia kartu su
+    baime, todėl savo jausmais linkęs garbinti reiškinį, kuris, atro­
+    dė, labiausiai jį gąsdino. Audros, kruša, žaibai, griausmas -
+    šitokie baisūs reiškiniai, sukeliami nesuprantamų dangaus jė­
+    gų, labai traukė žmogaus dėmesį: jų jėga griauna, daužo, nai­
+    kina viską, net šventyklas ir dievų stabus; taigi tos jėgos valdo­
+    vas turi būti galingiausias dievas.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-200756
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 202"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 202."
+  citata_originali: |
+    Sunkiai, labai steng­
+    damasis prikalbino, kad šis užmuštų bjaurų žaltį, kurį gyrė kaip
+    dievą. Tai padaręs, šeimininkas netrukus nuėjo į sodą pasižiū­
+    rėti savo bityno; viename tuščiame avilyje jis pamatė sėdinčią
+    kažkokią juodą, baisią, panašią į žmogų būtybę su bjauriai iki
+    ausų perplėšta burna, kreivai išverstomis akimis; ten tikrai buvo
+    kažkokia pragariška pabaisa. Iš baimės šeimininkas neteko ža­
+    do; paskui, šiek tiek atsigavęs, klausia pabaisos, kas esanti ir
+    ką čia veikianti?
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
+## Teiginiai
+
+<a id="claim-t-212117"></a>
+- t-001
+  teiginys: "Aleksandras Gvaninis Kerkelio, arba Bialohrodo, totorių vardą siejo su Klerkei, arba Bialohrodo, pilimi ant uolos."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Totoriai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras Gvaninis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Totoriai: mention_match, group, gap=48"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Gvaninis\" parinktas kaip owner_note_path. Targetas \"Totoriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T15:36:39Z"
+  pagrindžia:
+    - c-195184
+
+<a id="claim-t-216412"></a>
+- t-002
+  teiginys: "Narbutas citavo Gvaninio 1610 m. liudijimą, kad kai kurie žmonės namuose laikė žalčius ar gyvates ir aukos vietoj duodavo jiems pieno."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "gap::authors"
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1610 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Religinis paprotys suformuluotas kaip Narbuto cituojamas Gvaninio liudijimas. Nepridėta pasakojimo apie nelaimės ženklus tąsa."
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+
+<a id="claim-t-218601"></a>
+- t-003
+  teiginys: "Gvaninio pasakojime krikščionis šeimininkas šventu kryžiumi nuvijo pabaisą, kuri tuoj pat nežinia kur dingo."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kryžius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras Gvaninis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Kryžius: mention_match, thing, gap=51"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Gvaninis\" parinktas kaip owner_note_path. Targetas \"Kryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-200295
+
+<a id="claim-t-219222"></a>
+- t-004
+  teiginys: "Gvaninio pasakojime šeimininkas avilyje pamatė juodą žmogaus pavidalo būtybę, Narbuto tekste vadinamą pragariška pabaisa."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-200756
+

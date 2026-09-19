@@ -43,20 +43,6 @@ Natalija Starčenko analizavo 1576 m. kunigaikščių Četvertinskių nužudymo 
 
 Natalija Starčenko analizavo 1576 m. kunigaikščių Četvertinskių nužudymo bylos teismo procesą.
 
-## Teiginiai
-
-<a id="claim-t-203706"></a>
-- t-001
-  teiginys: "Natalija Starčenko analizavo 1576 m. kunigaikščių Četvertinskių nužudymo bylos teismo procesą."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
-  pagrindžia:
-    - c-186310
-
 ## Citatos
 
 - id: c-186310
@@ -76,5 +62,20 @@ Natalija Starčenko analizavo 1576 m. kunigaikščių Četvertinskių nužudymo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203706"></a>
+- t-001
+  teiginys: "Natalija Starčenko analizavo 1576 m. kunigaikščių Četvertinskių nužudymo bylos teismo procesą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186310
+

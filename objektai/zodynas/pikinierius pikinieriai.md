@@ -27,24 +27,6 @@ media_all_json: |-
 
 Svetimšalių autoramento „vokiškojo“ tipo pėstininkas-ietininkas (pikinierius).
 
-## Teiginiai
-
-<a id="claim-t-42496"></a>
-- t-001
-  teiginys: "Pikinierius buvo svetimšalių autoramento vokiškojo tipo pėstininkas-ietininkas."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> A. Vijūkas Kojelavičius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "pikinierius pikinieriai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "A. Vijūkas Kojelavičius: mention_match, author, gap=29"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"pikinierius pikinieriai\" parinktas kaip owner_note_path. Targetas \"A. Vijūkas Kojelavičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-45540
-
 ## Citatos
 
 - id: c-45540
@@ -67,5 +49,24 @@ Svetimšalių autoramento „vokiškojo“ tipo pėstininkas-ietininkas (pikinie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-42496"></a>
+- t-001
+  teiginys: "Pikinierius buvo svetimšalių autoramento vokiškojo tipo pėstininkas-ietininkas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> A. Vijūkas Kojelavičius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "pikinierius pikinieriai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "A. Vijūkas Kojelavičius: mention_match, author, gap=29"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"pikinierius pikinieriai\" parinktas kaip owner_note_path. Targetas \"A. Vijūkas Kojelavičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-45540
+

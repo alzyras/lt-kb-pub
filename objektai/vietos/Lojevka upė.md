@@ -36,25 +36,6 @@ historical_names: []
 
 Radvilos pajėgų sparnuose stovėjo pėstininkai ir dragūnai (jie gynė Lojevkos upės, juosiančios stovyklą, užtvanką), o centre buvo kavalerija.
 
-## Teiginiai
-
-<a id="claim-t-41884"></a>
-- t-001
-  teiginys: "Radvilos pajėgų sparnuose stovėję pėstininkai ir dragūnai gynė Lojevkos upės, juosiančios stovyklą, užtvanką."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Lojevka upė: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lojevka upė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Lietuvių pėstininkai ir dragūnai gynė Lojevkos upės užtvanką."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Lietuviai gynė Lojevka upė (0.80)"
-  pagrindžia:
-    - c-45193
-
 ## Citatos
 
 - id: c-45193
@@ -79,5 +60,25 @@ Radvilos pajėgų sparnuose stovėjo pėstininkai ir dragūnai (jie gynė Lojevk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-41884"></a>
+- t-001
+  teiginys: "Radvilos pajėgų sparnuose stovėję pėstininkai ir dragūnai gynė Lojevkos upės, juosiančios stovyklą, užtvanką."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Lojevka upė: 0.80"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lojevka upė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Lietuvių pėstininkai ir dragūnai gynė Lojevkos upės užtvanką."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuviai gynė Lojevka upė (0.80)"
+  pagrindžia:
+    - c-45193
+

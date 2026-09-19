@@ -51,3 +51,41 @@ Jonathano Dewaldo studijos skirtos XV-XVIII a. Europos bajorijos tyrimams.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207883"></a>
+- t-001
+  teiginys: "Jonathano Dewaldo studijos skirtos XV-XVIII a. Europos bajorijos tyrimams."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190500
+
+## Citatos
+
+- id: c-190500
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 6"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 6."
+  citata_originali: |
+    Europos istorikus ir jų veikalų skaitytojus tebedomina Naujųjų laikų bajorija, kaip
+    socialinis sluoksnis, jos įnašas į Europos kultūrą, kasdienis gyvenimas, šios negausios
+    grupės įtakos visuomenei „paslaptis" ir daugybė kitų klausimų.
+    Jonathanas Dewaldas studijos, skirtos XV-XVIII a. Europos bajorijos tyrimams,
+    įvade suformuluoja Naujųjų laikų bajorijos istorijos, kaip būtinos tirti problemos, esmę.
+  citata_rodoma: "Jonathanas Dewaldas studijos, skirtos XV-XVIII a. Europos bajorijos tyrimams,\nįvade suformuluoja Naujųjų laikų bajorijos istorijos, kaip būtinos tirti problemos, esmę."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+

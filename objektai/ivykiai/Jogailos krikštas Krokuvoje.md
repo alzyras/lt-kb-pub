@@ -42,21 +42,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206860"></a>
-- t-001
-  teiginys: "Pasak Teodoro Narbuto, vasario 15 d. Krokuvos Šv. Stanislovo katedroje Jogaila, Skirgaila, Švitrigaila ir Vytautas buvo pakrikštyti pagal lotynų apeigas."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-189475
-
 ## Santrauka
 
 Pasak Teodoro Narbuto, vasario 15 d. Krokuvos Šv. Stanislovo katedroje Jogaila, Skirgaila, Švitrigaila ir Vytautas buvo pakrikštyti pagal lotynų apeigas.
@@ -94,5 +79,21 @@ Pasak Teodoro Narbuto, vasario 15 d. Krokuvos Šv. Stanislovo katedroje Jogaila,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206860"></a>
+- t-001
+  teiginys: "Pasak Teodoro Narbuto, vasario 15 d. Krokuvos Šv. Stanislovo katedroje Jogaila, Skirgaila, Švitrigaila ir Vytautas buvo pakrikštyti pagal lotynų apeigas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-189475
+

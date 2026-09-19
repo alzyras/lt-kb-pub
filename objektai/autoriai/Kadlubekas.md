@@ -36,31 +36,22 @@ Kadlubekas aprašė Maslavo karą su lenkų karaliumi Kazimieru, kuriame jotving
 
 ## Teiginiai
 
-<a id="claim-t-191580"></a>
-- t-001
-  teiginys: "Kadlubekas aprašė Maslavo karą su lenkų karaliumi Kazimieru, kuriame jotvingiai kovojo šalia mozūrų ir prūsų."
-  atnaujinta: "2026-07-19 17:58"
+<a id="claim-t-213437"></a>
+- t-213437
+  teiginys: "Tų įvykių senumą ir istorinį tikroviškumą patvirtina mūsų lenkų istorikas, cituodamas Kadlubeką, kuris ap rašė, kaip Maslavas kariavo su lenkų karalium Kazimie ru; jo kariuomenėje jotvingiai kovojo šalia mozūrų ir prūsų."
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "kariavo_pries -> Lenkai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Maslavas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Maslavo karą su lenkų karaliumi, todėl objektas siejamas su lenkų politine grupe."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Maslavas kariavo prieš Lenkai (0.82); Jotvingiai buvo sąjungininkas su Prūsai (0.79)"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-174462
+    - c-197110
 
 <a id="claim-t-205256"></a>
-- t-002
+- t-205256
   teiginys: "Kadlubekas dar atsimena, kad tuo metu, kai Boleslovas Narsusis puolė Prūsiją, ne buvo ten būstų, kuriuos būtų buvę galima pripažinti esant patogius."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -93,8 +84,6 @@ Kadlubekas aprašė Maslavo karą su lenkų karaliumi Kazimieru, kuriame jotving
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-187823
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -114,5 +103,26 @@ Kadlubekas aprašė Maslavo karą su lenkų karaliumi Kazimieru, kuriame jotving
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-205256
+
+- id: c-197110
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 115"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 115."
+  citata_originali: |
+    Tų įvykių senumą ir istorinį tikroviškumą patvirtina
+    mūsų lenkų istorikas, cituodamas Kadlubeką, kuris ap­
+    rašė, kaip Maslavas kariavo su lenkų karalium Kazimie­
+    ru; jo kariuomenėje jotvingiai kovojo šalia mozūrų ir
+    prūsų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213437
+

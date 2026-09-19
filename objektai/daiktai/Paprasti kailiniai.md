@@ -42,33 +42,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-193013"></a>
-- t-001
-  teiginys: "Narbuto pasakojime smalsus Severino lankytojas apsivilko paprastus kailinius, kad neatpažintas patikrintų vienuolio žinojimą."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-175783
-
-<a id="claim-t-197565"></a>
-- t-002
-  teiginys: "Norėda mas įsitikinti, ar tikrai vienuolis žino visiką apie praeitį, dabartį ir ateitį, jis apsivilko paprastus kailinius ir neat pažintas įžengė į šventojo vyro celę."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-175783
-
 ## Citatos
 
 - id: c-175783
@@ -91,6 +64,56 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-195940
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 317"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 317."
+  citata_originali: |
+    Norėda­
+    mas įsitikinti, ar tikrai vienuolis žino visiką apie praeitį,
+    dabartį ir ateitį, jis apsivilko paprastus kailinius ir neat­
+    pažintas įžengė į šventojo vyro celę. Kadangi jis buvo
+    aukštas, žemame kambarėlyje turėjo nulenkti galvą. Bet
+    šventasis vyras iškart jį atpažino ir išpranašavo, jog
+    anas taps karaliumi, o atsisveikindamas tarė: „Eik į Ita­
+    liją šiandien vilkėdamas paprastus kailinius, o netrukus
+    kitiems dalysi brangius apdarus ir dovanas“3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-214974"></a>
+- t-001
+  teiginys: "Narbuto pasakojime smalsus Severino lankytojas apsivilko paprastus kailinius, kad neatpažintas patikrintų vienuolio žinojimą."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-195940
+
+<a id="claim-t-215754"></a>
+- t-002
+  teiginys: "Norėda mas įsitikinti, ar tikrai vienuolis žino visiką apie praeitį, dabartį ir ateitį, jis apsivilko paprastus kailinius ir neat pažintas įžengė į šventojo vyro celę."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195940
+

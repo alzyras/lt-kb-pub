@@ -35,32 +35,6 @@ Grigorijus Demčenka analizavo bausmės raidą ir jos sampratos kitimą trijuose
 
 Grigorijus Demčenka analizavo bausmės raidą ir jos sampratos kitimą trijuose Lietuvos Statutuose.
 
-## Teiginiai
-
-<a id="claim-t-203702"></a>
-- t-001
-  teiginys: "Grigorijus Demčenka analizavo bausmės raidą ir jos sampratos kitimą trijuose Lietuvos Statutuose."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
-  pagrindžia:
-    - c-186306
-
-<a id="claim-t-203952"></a>
-- t-002
-  teiginys: "Grigorijus Demčenka teigė, kad LDK baudžiamosios teisės praktikoje ieškovai net ir po teismo nuosprendžio dažnai susitaikydavo su atsakovais arba atleisdavo jiems bausmę."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
-  pagrindžia:
-    - c-186556
-
 ## Citatos
 
 - id: c-186306
@@ -81,7 +55,7 @@ Grigorijus Demčenka analizavo bausmės raidą ir jos sampratos kitimą trijuose
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186556
@@ -100,5 +74,32 @@ Grigorijus Demčenka analizavo bausmės raidą ir jos sampratos kitimą trijuose
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-203702"></a>
+- t-001
+  teiginys: "Grigorijus Demčenka analizavo bausmės raidą ir jos sampratos kitimą trijuose Lietuvos Statutuose."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186306
+
+<a id="claim-t-203952"></a>
+- t-002
+  teiginys: "Grigorijus Demčenka teigė, kad LDK baudžiamosios teisės praktikoje ieškovai net ir po teismo nuosprendžio dažnai susitaikydavo su atsakovais arba atleisdavo jiems bausmę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  pagrindžia:
+    - c-186556
+

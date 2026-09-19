@@ -44,78 +44,6 @@ media_all_json: |-
 
 Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Šliūpo rūpesčiu buvo įsteigta Lietuvių Mokslo Draugystė, kuri leido mėnesinį literatūros ir mokslo žurnalą „Apšvietą" ir išleido keletą knygų.
 
-## Teiginiai
-
-<a id="claim-t-195534"></a>
-- t-001
-  teiginys: "1915–1922 m. Lietuvių Mokslo Draugija iš Tautos Namams skirtų lėšų leido vadovėlius naujai įsikūrusioms lietuviškoms mokykloms."
-  atnaujinta: "2026-07-19 16:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Citata leidžia patikslinti lėšų kilmę ir mokyklų apibūdinimą."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]"
-  temporaliniai_duomenys: "įvykio data: 1915-1922; įvykio data: 1922 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia patikslinti lėšų kilmę ir mokyklų apibūdinimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-46355
-
-<a id="claim-t-195535"></a>
-- t-002
-  teiginys: "Lietuvių mokslo draugija daugiausia orientavosi į lietuvių kalbos, etninės kultūros tyrimus ir vadovėlių lietuvių mokykloms rengimą."
-  atnaujinta: "2026-07-12 05:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Sakinys aiškiai nusako draugijos veiklos kryptis ir yra paremtas citata."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-177953
-
-<a id="claim-t-195536"></a>
-- t-003
-  teiginys: "Lietuvių mokslo draugija plėtojo etninių lietuvių tautinį sąjūdį po nesėkmingų pastangų atkurti Vilniaus universitetą."
-  atnaujinta: "2026-07-12 05:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Pradinis teiginys nutrūkęs ir turi OCR triukšmo, bet citata pagrindžia aiškų faktą."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]"
-  temporaliniai_duomenys: "įvykio data: po 1905 m.; įvykio data: 1905 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir turi OCR triukšmo, bet citata pagrindžia aiškų faktą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-177954
-
-<a id="claim-t-195537"></a>
-- t-004
-  teiginys: "Lietuvių mokslo draugija veikė Lietuvoje greta lenkų kultūrinių organizacijų."
-  atnaujinta: "2026-07-12 05:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Pradinis teiginys per bendras šiai pastabai, bet citata leidžia suformuluoti faktą apie objektą."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Vilnius; llm_object: Lietuva"
-  semantiniai_rysiai: "[[objektai/grupes/Lietuvių Mokslo Draugija|Lietuvių Mokslo Draugija]] gyveno Lietuva"
-  temporaliniai_duomenys: "įvykio data: po 1905 m.; įvykio data: 1905 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys per bendras šiai pastabai, bet citata leidžia suformuluoti faktą apie objektą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-177954
-
-<a id="claim-t-195538"></a>
-- t-005
-  teiginys: "A. R. Niemis šiame šaltinyje minimas kaip Lietuvių mokslo draugijos narys korespondentas."
-  atnaujinta: "2026-07-12 05:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177952
-
 ## Citatos
 
 - id: c-46354
@@ -140,6 +68,7 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-46355
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -158,7 +87,7 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177952
@@ -184,7 +113,7 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-177953
@@ -208,7 +137,7 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-177954
@@ -232,6 +161,79 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-004
+
+## Teiginiai
+
+<a id="claim-t-195534"></a>
+- t-001
+  teiginys: "1915–1922 m. Lietuvių Mokslo Draugija iš Tautos Namams skirtų lėšų leido vadovėlius naujai įsikūrusioms lietuviškoms mokykloms."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Citata leidžia patikslinti lėšų kilmę ir mokyklų apibūdinimą."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]"
+  temporaliniai_duomenys: "įvykio data: 1915-1922; įvykio data: 1922 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia patikslinti lėšų kilmę ir mokyklų apibūdinimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-46355
+
+<a id="claim-t-195535"></a>
+- t-002
+  teiginys: "Lietuvių mokslo draugija daugiausia orientavosi į lietuvių kalbos, etninės kultūros tyrimus ir vadovėlių lietuvių mokykloms rengimą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Sakinys aiškiai nusako draugijos veiklos kryptis ir yra paremtas citata."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-177953
+
+<a id="claim-t-195536"></a>
+- t-003
+  teiginys: "Lietuvių mokslo draugija plėtojo etninių lietuvių tautinį sąjūdį po nesėkmingų pastangų atkurti Vilniaus universitetą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Pradinis teiginys nutrūkęs ir turi OCR triukšmo, bet citata pagrindžia aiškų faktą."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]"
+  temporaliniai_duomenys: "įvykio data: po 1905 m.; įvykio data: 1905 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir turi OCR triukšmo, bet citata pagrindžia aiškų faktą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-177954
+
+<a id="claim-t-195537"></a>
+- t-004
+  teiginys: "Lietuvių mokslo draugija veikė Lietuvoje greta lenkų kultūrinių organizacijų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Pradinis teiginys per bendras šiai pastabai, bet citata leidžia suformuluoti faktą apie objektą."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Vilnius; llm_object: Lietuva"
+  semantiniai_rysiai: "[[objektai/grupes/Lietuvių Mokslo Draugija|Lietuvių Mokslo Draugija]] gyveno Lietuva"
+  temporaliniai_duomenys: "įvykio data: po 1905 m.; įvykio data: 1905 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys per bendras šiai pastabai, bet citata leidžia suformuluoti faktą apie objektą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-177954
+
+<a id="claim-t-195538"></a>
+- t-005
+  teiginys: "A. R. Niemis šiame šaltinyje minimas kaip Lietuvių mokslo draugijos narys korespondentas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177952
+

@@ -43,24 +43,6 @@ canonical_biography: "1741 m. Vilniaus miestietė Agota Šturmilovičienė su Jo
 
 1741 m. Jonas ir Agota Šturmilovičiai skundė Vilniaus bazilijonų vienuolius, kurių žmonės apsupo jų mūrinį namą Žuvų gale, išvijo pilies įgulos sargybą ir smurtavo prieš savininkus.
 
-## Teiginiai
-
-<a id="claim-t-203922"></a>
-- t-001
-  teiginys: "1741 m. Jonas ir Agota Šturmilovičiai skundė Vilniaus bazilijonų vienuolius, kurių žmonės apsupo jų mūrinį namą Žuvų gale, išvijo pilies įgulos sargybą ir smurtavo prieš savininkus."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  temporaliniai_duomenys: "įvykio data: 1741 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Patikslinti namo vieta, užpuolikų veiksmai ir nukentėję savininkai. Įtarimą reiškianti skundo formuluotė palikta atribucinė, o neaiški sargybos pakvietimo aplinkybė nepridėta."
-  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
-  pagrindžia:
-    - c-186526
-
 ## Citatos
 
 - id: c-186526
@@ -79,5 +61,24 @@ canonical_biography: "1741 m. Vilniaus miestietė Agota Šturmilovičienė su Jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203922"></a>
+- t-001
+  teiginys: "1741 m. Jonas ir Agota Šturmilovičiai skundė Vilniaus bazilijonų vienuolius, kurių žmonės apsupo jų mūrinį namą Žuvų gale, išvijo pilies įgulos sargybą ir smurtavo prieš savininkus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1741 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslinti namo vieta, užpuolikų veiksmai ir nukentėję savininkai. Įtarimą reiškianti skundo formuluotė palikta atribucinė, o neaiški sargybos pakvietimo aplinkybė nepridėta."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186526
+

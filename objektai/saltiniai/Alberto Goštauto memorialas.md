@@ -34,33 +34,6 @@ media_all_json: |-
 
 Bychovco kronikos leidinio įvade Alberto Goštauto memorialas apibūdinamas kaip jo paties panegirika ir Goštautų istorijos tęsinys. Goštauto me moriale esama ir daugiau elementų, atitinkančių By chovco kroniką.
 
-## Teiginiai
-
-<a id="claim-t-194155"></a>
-- t-001
-  teiginys: "Bychovco kronikos leidinio įvade Alberto Goštauto memorialas apibūdinamas kaip jo paties panegirika ir Goštautų istorijos tęsinys."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-176768
-
-<a id="claim-t-196801"></a>
-- t-002
-  teiginys: "Goštauto me moriale esama ir daugiau elementų, atitinkančių By chovco kroniką."
-  atnaujinta: "2026-07-12 22:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-178919
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Bychovco kronikos leidinio įvade Alberto Goštauto memorialas apibūdinamas kaip jo paties panegirika ir Goštautų istorijos tęsinys.'
@@ -105,8 +78,6 @@ Bychovco kronikos leidinio įvade Alberto Goštauto memorialas apibūdinamas kai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-178919
   autorius: "Anoniminis metraštininkas"
@@ -134,5 +105,59 @@ Bychovco kronikos leidinio įvade Alberto Goštauto memorialas apibūdinamas kai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-194150
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 33-34"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 33-34."
+  citata_originali: |
+    Visa tai labai lakoniškas, bet
+    neabejotinas pakartojimas to, kas apie tuos Goštautus,
+    “ Acla Tomiciana, t. VII. p. 263.
+
+    ypač apie Joną Goštautą, rašoma Bychovco kroni­
+    koje.
+    Antra vertus, tai taip pat rodo, kad Bychovco kro­
+    nika turėjo būti jau parašyta iki 1525 m., nes, kaip
+    anksčiau matėme, tame pačiame dešimtmetyje, prieš
+    1529 m., būta taip pat ir kai kurių kitų originaliųjų
+    Bychovco kronikos pasakojimų ir ji pati turėjo būti
+    galutinai suredaguota ne vėliau kaip 1529 m.
+    Be protėvių nuopelnų apibūdinimo, A. Goštauto me­
+    moriale esama ir daugiau elementų, atitinkančių By­
+    chovco kroniką.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-212062"></a>
+- t-001
+  teiginys: "Goštauto me moriale esama ir daugiau elementų, atitinkančių By chovco kroniką."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194150
+
+<a id="claim-t-212076"></a>
+- t-002
+  teiginys: "Bychovco kronikos leidinio įvade Alberto Goštauto memorialas apibūdinamas kaip jo paties panegirika ir Goštautų istorijos tęsinys."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+

@@ -26,17 +26,6 @@ media_all_json: |-
 
 Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma didžiojo keliautojo Sven Hedino kelionė i Azijos širdį — Tibetą, įvairūs nuotykiai, kovos su vie­ tos tautelėmis, kurios žūt būt neįsileidžia nė vieno europiečio, nė vie­ no ne savo krašto žmogaus į savo krašto gilumą, į jų.
 
-## Teiginiai
-
-<a id="claim-t-36059"></a>
-- t-001
-  teiginys: "„Kelionėje po Tibetą“ aprašoma Sven Hedino kelionė į Tibetą, nuotykiai ir kovos su vietos tautelėmis."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-38415
-
 ## Citatos
 
 - id: c-38415
@@ -59,5 +48,17 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-36059"></a>
+- t-001
+  teiginys: "„Kelionėje po Tibetą“ aprašoma Sven Hedino kelionė į Tibetą, nuotykiai ir kovos su vietos tautelėmis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-38415
+

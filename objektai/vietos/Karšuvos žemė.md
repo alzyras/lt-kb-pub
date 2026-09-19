@@ -45,10 +45,46 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
 
 ## Teiginiai
 
-<a id="claim-t-90534"></a>
-- t-001
+<a id="claim-t-221614"></a>
+- t-221614
+  teiginys: "1307 m. į Karšuvos žemę įsiveržę kryžiuočiai daug ką sudegino, apiplėšė ir išsivarė 70 belaisvių."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204104
+
+<a id="claim-t-224945"></a>
+- t-224945
+  teiginys: "1303 m. kryžiuočių kariuomenė įsiveržė į Karšuvos žemę ir sudegino visus pastatus."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204259
+
+<a id="claim-t-220368"></a>
+- t-220368
+  teiginys: "1259 m. Karšuvos žemėje ant švento Jurgio kalno buvo pastatyta pilis, reikalinga krikščionių tikėjimui plėsti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204436
+
+<a id="claim-t-220417"></a>
+- t-220417
   teiginys: "Karšuvos žemė buvo pietvakarių Žemaitijoje ir pietuose apie Nemuno bei Mituvos santaką siekė Nemuną."
-  atnaujinta: "2026-07-24 15:56"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Karšuva: 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -60,12 +96,12 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Karšuvos žemė priklausė Karšuva (0.78)"
   pagrindžia:
-    - c-86348
+    - c-204436
 
-<a id="claim-t-90535"></a>
-- t-002
+<a id="claim-t-222126"></a>
+- t-222126
   teiginys: "Burchardas iš Hornhauzeno patvarkė, kad Karšuvos žemėje ant švento Jurgio kalno būtų pastatyta pilis."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Karšuva: 0.72"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -77,12 +113,12 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Karšuvos žemė priklausė Karšuva (0.72); Burchardas iš Hornhauzeno pastatė Karšuvos žemė (0.62)"
   pagrindžia:
-    - c-86350
+    - c-204436
 
-<a id="claim-t-90536"></a>
-- t-003
+<a id="claim-t-224247"></a>
+- t-224247
   teiginys: "1259 m. Karšuvos žemėje ant švento Jurgio kalno buvo pastatyta pilis, kurią saugojo Prūsijos ir Livonijos įgula."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Karšuva: 0.72"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -97,7 +133,7 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   pagrindžia:
-    - c-86350
+    - c-204436
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -134,8 +170,6 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-86350
   autorius: "Petras Dusburgietis"
@@ -157,6 +191,67 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-003
+
+- id: c-204104
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 201"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 201."
+  citata_originali: |
+    šis, pasiėmęs keletą brolių ir 80 karių, įsiveržė į minėtąją Karšuvos žemę, iš
+    kur, daug ką sudeginęs bei apiplėšęs, išsivarė 70 belaisvių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221614
+
+- id: c-204259
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 197"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 197."
+  citata_originali: |
+    Tų 1303 metų žiemą555 brolis Konradas, magistras, su didžiule kariuomene įsiveržė į
+    Karšuvos žemę; kadangi vedliai žygio metu išsimušė iš kelio, netikėliai suskubo pabėgti į
+    saugias vietas. Dėl to visai nedaug žmonių pavyko čia nukauti ar paimti į nelaisvę, tiesa,
+    sudegino visus pastatus, o patys pernakvojo čia pat pastatytose palapinėse.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-224945
+
+- id: c-204436
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 111"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 111."
+  citata_originali: |
+    Apie pilies pastatymą Karšuvoje ant švento Jurgio kalno
+    Tuo metu Livonijos žemės magistru buvo brolis Burchardas iš Hornhauzeno, nusiųstas
+    ten Livonijos broliams iš Prūsijos žemės kaip magistras. Turėdamas kuo tiksliausių žinių
+    apie vieną ir kitą žemę, be to, dėl lipšnaus būdo vienodai vieniems ir kitiems malonus,
+    jis patvarkė, kad, lygiomis dalimis panaudojant Livonijos ir Prūsijos brolių lėšas ir darbą,
+    Karšuvos žemėje343, ant švento Jurgio kalno344, 1259 viešpaties metais būtų pastatyta
+    pilis, kuri tada buvo itin reikalinga krikščionių tikėjimui plėsti. Pastačius šią pilį, jai
+    saugoti ten buvo palikta Prūsijos ir Livonijos brolių bei ginklanešių įgula, sudaryta iš
+    vyrų, tinkamai parinktų ir įgudusių kovoti.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220368
+    - t-220417
+    - t-222126
+    - t-224247
+

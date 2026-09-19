@@ -36,26 +36,6 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
 
 - Tiksli teisinė formuluotė gali skirtis, bet globos, paveldėjimo ir sūnaus vietos reikšmė aiški. tiksli teisinė forma iš teksto ne iki galo apibrėžta, bet paveldėjimo ir globos funkcija aiški.
 
-## Teiginiai
-
-<a id="claim-t-07705"></a>
-- t-001
-  teiginys: "Karšinčius turėjo nukaršinti priėmusius tėvus ir po jų mirties paveldėdavo visą turtą."
-  atnaujinta: "2026-07-19 16:33"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-09635
-
-<a id="claim-t-07706"></a>
-- t-002
-  teiginys: "Karšinčius galėjo būti mažasis sūnus, likęs tėvų namuose ir paveldėjęs tėviškę bei palikimą."
-  atnaujinta: "2026-06-13 17:10"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-09634
-
 ## Citatos
 
 - id: c-09634
@@ -71,8 +51,6 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-09635
   autorius: "Simonas Daukantas"
@@ -87,5 +65,20 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+## Teiginiai
+
+<a id="claim-t-210269"></a>
+- t-001
+  teiginys: "Karšinčius galėjo būti mažasis sūnus, likęs tėvų namuose ir paveldėjęs tėviškę bei palikimą."
+  atnaujinta: "2026-09-12 16:28"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+
+<a id="claim-t-210304"></a>
+- t-002
+  teiginys: "Karšinčius turėjo nukaršinti priėmusius tėvus ir po jų mirties paveldėdavo visą turtą."
+  atnaujinta: "2026-09-12 16:28"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+

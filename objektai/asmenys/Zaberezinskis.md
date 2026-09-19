@@ -35,25 +35,6 @@ canonical_biography: "Dalis maršalkos Zaberezinskio karių išsiveržė į prie
 
 Dalis maršalkos Zaberezinskio karių išsiveržė į priekį, bet totoriai juos atmušė.
 
-## Teiginiai
-
-<a id="claim-t-40543"></a>
-- t-001
-  teiginys: "Dalis maršalkos Zaberezinskio karių išsiveržė į priekį, bet totoriai juos atmušė."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Zaberezinskis: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Zaberezinskis: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Totoriai tiesiogiai atmušė į priekį išsiveržusius Zaberezinskio karius; objektas siejamas su jų vadu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Totoriai puolė Zaberezinskis (0.74)"
-  pagrindžia:
-    - c-44579
-
 ## Citatos
 
 - id: c-44579
@@ -76,5 +57,25 @@ Dalis maršalkos Zaberezinskio karių išsiveržė į priekį, bet totoriai juos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-40543"></a>
+- t-001
+  teiginys: "Dalis maršalkos Zaberezinskio karių išsiveržė į priekį, bet totoriai juos atmušė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Zaberezinskis: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Totoriai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Zaberezinskis: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Totoriai tiesiogiai atmušė į priekį išsiveržusius Zaberezinskio karius; objektas siejamas su jų vadu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Totoriai puolė Zaberezinskis (0.74)"
+  pagrindžia:
+    - c-44579
+

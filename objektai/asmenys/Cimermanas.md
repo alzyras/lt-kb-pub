@@ -42,25 +42,6 @@ canonical_biography: "Radvila tą mūrinį namą ir sklypą dovanojo savo gydyto
 
 Radvila tą mūrinį namą ir sklypą dovanojo savo gydytojui Cimermanui, o tą dovanojimą Karalius Žygiman­ tas Augustas patvirtino.
 
-## Teiginiai
-
-<a id="claim-t-87645"></a>
-- t-001
-  teiginys: "Radvila padovanojo savo gydytojui Cimermanui mūrinį namą ir sklypą, o karalius Žygimantas Augustas šį dovanojimą patvirtino."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Cimermanas: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Namas: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Cimermanas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai rodo, kad namas ir sklypas buvo perduoti Cimermanui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Namas priklausė Cimermanas (0.87)"
-  pagrindžia:
-    - c-83624
-
 ## Citatos
 
 - id: c-83624
@@ -78,5 +59,25 @@ Radvila tą mūrinį namą ir sklypą dovanojo savo gydytojui Cimermanui, o tą 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-87645"></a>
+- t-001
+  teiginys: "Radvila padovanojo savo gydytojui Cimermanui mūrinį namą ir sklypą, o karalius Žygimantas Augustas šį dovanojimą patvirtino."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Cimermanas: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Namas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Cimermanas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai rodo, kad namas ir sklypas buvo perduoti Cimermanui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Namas priklausė Cimermanas (0.87)"
+  pagrindžia:
+    - c-83624
+

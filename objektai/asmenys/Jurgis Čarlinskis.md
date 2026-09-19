@@ -39,20 +39,6 @@ canonical_biography: "Štai 1640 m. Vladislovas Vaza sprendė Lietuvos instigato
 
 Štai 1640 m. Vladislovas Vaza sprendė Lietuvos instigatoriaus ir Kauno girininko Jurgio Čarlinskio bylą su Kauno vaitu Jonu Baniškiu.
 
-## Teiginiai
-
-<a id="claim-t-202184"></a>
-- t-001
-  teiginys: "Štai 1640 m. Vladislovas Vaza sprendė Lietuvos instigatoriaus ir Kauno girininko Jurgio Čarlinskio bylą su Kauno vaitu Jonu Baniškiu."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185531
-
 ## Citatos
 
 - id: c-185531
@@ -68,5 +54,20 @@ canonical_biography: "Štai 1640 m. Vladislovas Vaza sprendė Lietuvos instigato
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202184"></a>
+- t-001
+  teiginys: "Štai 1640 m. Vladislovas Vaza sprendė Lietuvos instigatoriaus ir Kauno girininko Jurgio Čarlinskio bylą su Kauno vaitu Jonu Baniškiu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185531
+

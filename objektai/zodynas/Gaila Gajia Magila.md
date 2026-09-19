@@ -27,21 +27,6 @@ media_all_json: |-
 
 Gaila (Gajia) Anot liaudies padavimų, prie piktųjų būtybių giminės pri klausė kažkokios moteriškos šmėklos, kankinančios žmones ir gyvulius .
 
-## Teiginiai
-
-<a id="claim-t-194783"></a>
-- t-001
-  teiginys: "Gaila (Gajia) Anot liaudies padavimų, prie piktųjų būtybių giminės pri klausė kažkokios moteriškos šmėklos, kankinančios žmones ir gyvulius ."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-177179
-
 ## Citatos
 
 - id: c-177179
@@ -67,5 +52,46 @@ Gaila (Gajia) Anot liaudies padavimų, prie piktųjų būtybių giminės pri kla
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-200211
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 148"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 148."
+  citata_originali: |
+    Gaila (Gajia)
+    Anot liaudies padavimų, prie piktųjų būtybių giminės pri­
+    klausė kažkokios moteriškos šmėklos, kankinančios žmones
+    ir gyvulius .
+    F. Noelis straipsnyje „Gajlau“ sako: „Arabai šitaip vadino
+    tam tikros rūšies miškų demonus, kurie žudydavo žmones ir
+    gyvulius“.
+    Atrodo, panašios rūšies dievybei Ksaveras Bogušas davė
+    Magilos (Magilla) vardą; jis reiškiąs pykčio deivę .
+    22 Ibid.
+    23 Sirvydo žodyne (p. 77) randame: Jędza - lietuviškai Gajia, lo­
+    tyniškai Lamia.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-218688"></a>
+- t-001
+  teiginys: "Gaila (Gajia) Anot liaudies padavimų, prie piktųjų būtybių giminės pri klausė kažkokios moteriškos šmėklos, kankinančios žmones ir gyvulius ."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-200211
+

@@ -57,31 +57,20 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-187492"></a>
-- t-001
-  teiginys: "Mokslinėje literatūroje pradinė Platesniojo sąvado dalis iki 1345 m. Kęstučio ir Algirdo sąmokslo prieš Jaunutį vadinama legendine."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "gap::events"
+<a id="claim-t-211834"></a>
+- t-003
+  teiginys: "Platesniojo sąvado teksto dalis ligi Gedimino sūnų Kęstučio ir Algirdo sąmoks lo prieš brolį Jaunutį (1345 m.) taip pat vadinama le gendine."
+  atnaujinta: "2026-09-12 20:03"
+  sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kęstučio ir Algirdo perversmas prieš Jaunutį: owner_note_path, event, gap=0"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kęstučio ir Algirdo perversmas prieš Jaunutį\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  temporaliniai_duomenys: "įvykio data: 1345 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai nurodo, kad legendiškumo apibūdinimas priklauso mokslinės literatūros vartosenai. Taip palikta reikalinga atribucija ir nepridėta metraščio pasakojimo kaip fakto."
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-170453
 
-<a id="claim-t-187494"></a>
-- t-002
+<a id="claim-t-210735"></a>
+- t-210735
   teiginys: "Kęstučio ir Algirdo sąmokslas prieš brolį Jaunutį datuojamas 1345 metais."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-09-12 20:03"
   sprendimo_priezastis: "gap::events"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
@@ -96,8 +85,37 @@ Nenurodyta
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir paremtas citata."
   vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  pagrindžia:
-    - c-170453
+
+<a id="claim-t-210863"></a>
+- t-210863
+  teiginys: "Mokslinėje literatūroje pradinė Platesniojo sąvado dalis iki 1345 m. Kęstučio ir Algirdo sąmokslo prieš Jaunutį vadinama legendine."
+  atnaujinta: "2026-09-12 20:03"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kęstučio ir Algirdo perversmas prieš Jaunutį: owner_note_path, event, gap=0"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): mention_match, person, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kęstučio ir Algirdo perversmas prieš Jaunutį\" parinktas kaip owner_note_path. Targetas \"Algirdas (Lietuvos valdovas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: 1345 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai nurodo, kad legendiškumo apibūdinimas priklauso mokslinės literatūros vartosenai. Taip palikta reikalinga atribucija ir nepridėta metraščio pasakojimo kaip fakto."
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+
+<a id="claim-t-211134"></a>
+- t-211134
+  teiginys: "Kai kuriuose Platesniojo sąvado nuorašuose po 1345 m. Kęstučio ir Algirdo perversmo įdėtas Algirdo sūnų ir jų valdų išskaičiavimas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::events"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  temporaliniai_duomenys: "įvykio data: po 1345 m.; įvykio data: 1345 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai įvardija, kuriuose nuorašuose po perversmo buvo įdėtas papildymas. Nepridėta Algirdo žygio į Maskvą legenda, nes ji yra atskiras citatos kontekstas."
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -164,6 +182,4 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
+

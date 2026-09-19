@@ -58,3 +58,41 @@ Ludwikas Chmajus 1941 m. Vilniuje parengė monografiją apie P. K. Bohušą, kur
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-191016
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 114"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 114."
+  citata_originali: |
+    п 8
+    XVIII amžiaus studijos 6
+    ir Ludwikas Chmajus, kurio 1941 m. Vilniuje parengta monografija apie P. K . Bo-
+    hušą nebuvo paskelbta ir iki šiol tebėra rankraštis3.
+  citata_rodoma: "ir Ludwikas Chmajus, kurio 1941 m. Vilniuje parengta monografija apie P. K . Bo- \nhušą nebuvo paskelbta ir iki šiol tebėra rankraštis3."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-208346"></a>
+- t-001
+  teiginys: "Ludwikas Chmajus 1941 m. Vilniuje parengė monografiją apie P. K. Bohušą, kuri nebuvo paskelbta ir tebėra rankraštis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  temporaliniai_duomenys: "įvykio data: 1941 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-191016
+

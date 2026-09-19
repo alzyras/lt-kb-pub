@@ -38,20 +38,6 @@ historical_names: []
 
 Juo į saulėtekį yra antra upis, Ilfing vadinama, taip pat tekanti į Žemaičių jūrą, ant jos skardžio yra preky bos vietovė, vadinama Trusas, į kurią atkeliavęs 7 naktimis irkluodamas dieną ir naktį.
 
-## Teiginiai
-
-<a id="claim-t-201166"></a>
-- t-001
-  teiginys: "Juo į saulėtekį yra antra upis, Ilfing vadinama, taip pat tekanti į Žemaičių jūrą, ant jos skardžio yra preky bos vietovė, vadinama Trusas, į kurią atkeliavęs 7 naktimis irkluodamas dieną ir naktį."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184516
-
 ## Citatos
 
 - id: c-184516
@@ -74,5 +60,20 @@ Juo į saulėtekį yra antra upis, Ilfing vadinama, taip pat tekanti į Žemaič
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201166"></a>
+- t-001
+  teiginys: "Juo į saulėtekį yra antra upis, Ilfing vadinama, taip pat tekanti į Žemaičių jūrą, ant jos skardžio yra preky bos vietovė, vadinama Trusas, į kurią atkeliavęs 7 naktimis irkluodamas dieną ir naktį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184516
+

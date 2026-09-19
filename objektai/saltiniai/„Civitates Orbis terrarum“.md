@@ -26,21 +26,6 @@ media_all_json: |-
 
 Pasak Narbuto, „Civitates Orbis terrarum“ buvo užrašyta ant jo naudoto veikalo litografuoto viršelio.
 
-## Teiginiai
-
-<a id="claim-t-190508"></a>
-- t-001
-  teiginys: "Pasak Narbuto, „Civitates Orbis terrarum“ buvo užrašyta ant jo naudoto veikalo litografuoto viršelio."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-173391
-
 ## Citatos
 
 - id: c-173391
@@ -59,5 +44,39 @@ Pasak Narbuto, „Civitates Orbis terrarum“ buvo užrašyta ant jo naudoto vei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-199370
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 455"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 455."
+  citata_originali: |
+    Veikalą, iš kario paėmiau šį vertimą, turiu po ranka. Ant puikiai
+    litografuoto viršelio užrašytas toks pavadinimas: „ Civitates Or­
+    bis terrarum “. Pirmosios knygos pratarmės pradžioje „ Georgius
+    Braun Agrippinensis“, pabaigoje „Coloniae Agrippinae M. D. L.
+    XXIP‘. Knygos formatas toks, koks ir įprasta atlasams.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-219768"></a>
+- t-001
+  teiginys: "Pasak Narbuto, „Civitates Orbis terrarum“ buvo užrašyta ant jo naudoto veikalo litografuoto viršelio."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-199370
+

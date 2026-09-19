@@ -66,6 +66,31 @@ canonical_biography: "Įsivaizduokime „idealiąją Lietuvą“, kurioje spekta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 - Robertas Zemeckis gimė [[objektai/vietos/Čikaga]]
+
+## Teiginiai
+
+<a id="claim-t-19204"></a>
+- t-001
+  teiginys: "Robertas Zemeckis gimė Čikagoje 1952 m. lietuvio šeimoje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gime -> Čikaga: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Robertas Zemeckis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Čikaga: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Roberto Zemeckio gimimo vietą Čikagoje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Robertas Zemeckis gimė Čikaga (0.96)"
+  temporaliniai_duomenys: "įvykio data: 1952 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia trumpą biografinį faktą."
+  pagrindžia:
+    - c-21948
+

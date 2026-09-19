@@ -32,20 +32,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad zajączkowski S.
 
-## Teiginiai
-
-<a id="claim-t-61381"></a>
-- t-001
-  teiginys: "S. Zajączkowskio straipsnis „Wilhelm de Machaut i iego wiadomości do dziejów Polski i Litwy w XIV w.“ paskelbtas 1929 m. „Kwartalnik historyczny“ leidinyje."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1929 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata patvirtina straipsnio pavadinimą, leidinį ir publikavimo metus."
-  pagrindžia:
-    - c-62013
-
 ## Citatos
 
 - id: c-62013
@@ -64,5 +50,16 @@ Dusburgietis teigia, kad zajączkowski S.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+## Teiginiai
+
+<a id="claim-t-224159"></a>
+- t-001
+  teiginys: "S. Zajączkowskio straipsnis „Wilhelm de Machaut i iego wiadomości do dziejów Polski i Litwy w XIV w.“ paskelbtas 1929 m. „Kwartalnik historyczny“ leidinyje."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1929 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata patvirtina straipsnio pavadinimą, leidinį ir publikavimo metus."
+

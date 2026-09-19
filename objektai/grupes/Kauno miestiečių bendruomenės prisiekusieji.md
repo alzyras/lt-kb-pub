@@ -24,20 +24,6 @@ media_all_json: |-
 
 Bendruomenės prisiekusieji dažnai buvo kviečiami į tarybos posėdžius ir į jų nuomonę buvo atsižvelgiama.
 
-## Teiginiai
-
-<a id="claim-t-201873"></a>
-- t-001
-  teiginys: "Bendruomenės prisiekusieji dažnai buvo kviečiami į tarybos posėdžius ir į jų nuomonę buvo atsižvelgiama."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185220
-
 ## Citatos
 
 - id: c-185220
@@ -56,5 +42,20 @@ Bendruomenės prisiekusieji dažnai buvo kviečiami į tarybos posėdžius ir į
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201873"></a>
+- t-001
+  teiginys: "Bendruomenės prisiekusieji dažnai buvo kviečiami į tarybos posėdžius ir į jų nuomonę buvo atsižvelgiama."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185220
+

@@ -37,23 +37,46 @@ canonical_biography: "1496 m. Olbrachtas, Lietuvos metraštyje vadinamas karaliu
 
 ## Teiginiai
 
-<a id="claim-t-194118"></a>
-- t-001
-  teiginys: "1496 m. Olbrachtas, Lietuvos metraštyje vadinamas karaliumi, su karalaičiu Zigmantu išvyko į Liubliną, o vėliau Parčeve dalyvavo seime su Aleksandro puse."
-  atnaujinta: "2026-07-12 22:45"
+<a id="claim-t-210999"></a>
+- t-003
+  teiginys: "Olbrachtas kariavo su Moldavijos vaivada Steponu."
+  atnaujinta: "2026-09-12 19:43"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
-    - c-176731
+    - c-194347
 
-<a id="claim-t-196864"></a>
-- t-002
+<a id="claim-t-212013"></a>
+- t-004
+  teiginys: "Karalius Olbrachtas pasitraukė nuo Sučiavos mies to ir žygiuoja gilyn, iš visos širdies trokšdamas susi kauti su juo."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194131
+
+<a id="claim-t-210103"></a>
+- t-210103
+  teiginys: "Karaliui Kazimierui mirus, lenkai į Lenkijos kara lystės sostą paėmė jo sūnų karalaitį Olbrachtą."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193367
+
+<a id="claim-t-210485"></a>
+- t-210485
   teiginys: "Lietuvos metraštis pasakoja, kad Olbrachtas po sutarties su Moldavijos vaivada traukė iš Moldavijos per uolėtą Bukoviną, nes norėjo greičiau pasiekti Lenkijos sieną."
-  atnaujinta: "2026-07-12 22:45"
+  atnaujinta: "2026-09-12 19:43"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -61,7 +84,18 @@ canonical_biography: "1496 m. Olbrachtas, Lietuvos metraštyje vadinamas karaliu
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
-    - c-178948
+    - c-193555
+
+<a id="claim-t-212037"></a>
+- t-212037
+  teiginys: "1496 m. Olbrachtas, Lietuvos metraštyje vadinamas karaliumi, su karalaičiu Zigmantu išvyko į Liubliną, o vėliau Parčeve dalyvavo seime su Aleksandro puse."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -117,8 +151,6 @@ canonical_biography: "1496 m. Olbrachtas, Lietuvos metraštyje vadinamas karaliu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-178948
   autorius: "Anoniminis metraštininkas"
@@ -152,5 +184,96 @@ canonical_biography: "1496 m. Olbrachtas, Lietuvos metraštyje vadinamas karaliu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-193367
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 143"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 143."
+  citata_originali: |
+    Karaliui Kazimierui mirus, lenkai į Lenkijos kara­
+    lystės sostą paėmė jo sūnų karalaitį Olbrachtą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210103
+
+- id: c-193555
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 148"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 148."
+  citata_originali: |
+    O Moldavijos vaivada, matydamas, kad
+    negalės jam atsispirti, pasiuntė pas jį savo pasiuntinius
+    ir sudarė su juo taiką, teikėsi su savo žeme duoti jam
+    vasalo ištikimybės priesaiką, kaip buvo prisiekęs jo
+    tėvui, karaliui Kazimierui, ir surašė raštus, prisiekė
+    griežtai to prisilaikysiąs32.
+    Ir, sudaręs tokią sutartį, karalius Olbrachtas išėjo
+    iš jo žemės, bet, nenorėdamas grįžti tuo pačiu keliu,
+    kuriuo buvo atžygiavęs, o norėdamas greičiau ir tie­
+    siau išeiti iš [moldavų] žemės, traukė stačiai per Buko­
+    viną ir kalnus, per uolėtus, sunkiai pereinamus miškus,
+    nes per tas akmeningas vietas ėjo tiesus, bet labai blo­
+    gas kelias Lenkijos sienos linkui33.
+    Moldavijos vaivada Steponas, išgirdęs, kad kara­
+    lius Olbrachtas nenori grįžti iš jo žemės tuo pačiu ke­
+    liu, kuriuo buvo atėjęs, o nori eiti kitais naujais ke­
+    liais, per uolėtą Bukoviną, labai dėl to apsidžiaugė34
+    ir, nė kiek nebepaisydamas priesaikos bei amžinosios
+    taikos sutarties, darydamas gėdą savo šaliai, skubiai
+    pranešė turkų sultonui, ir Vengrijai, ir Valakijos vai­
+    vadai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210485
+
+- id: c-194131
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 148"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 148."
+  citata_originali: |
+    Karalius Olbrachtas pasitraukė nuo Sučiavos mies­
+    to ir žygiuoja gilyn, iš visos širdies trokšdamas susi­
+    kauti su juo
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
+- id: c-194347
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 149"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 149."
+  citata_originali: |
+    tuo metu Moldavijos vaivadai Steponui labai skaudėjo
+    kojos, bet, norėdamas įvykdyti savo sumanymą, jis
+    užmiršo net savo ligą, ¡sakė vežti save rogėse ir atvy­
+    ko su visais savo žmonėmis, ir su turkais, ir su veng­
+    rais, ir su valachais, ir tuose miškuose bei bukynuose
+    užpuolė karalių Olbrachtą bei jo kariuomenę
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+

@@ -44,20 +44,6 @@ canonical_biography: "Noris arkivyskupas Rygos Fechtenas mirė tą patį metą 1
 
 Noris arkivyskupas Rygos Fechtenas mirė tą patį metą 1294, vienok ir naujasis ar kivyskupas Šverinas nesusitaikino su kalavijonimis ir baisesniai ėmė su jais kariauti ir sandarus su lie tuviais ir žemaičiais patvirtino ir juos į karę samdė.
 
-## Teiginiai
-
-<a id="claim-t-201414"></a>
-- t-001
-  teiginys: "Noris arkivyskupas Rygos Fechtenas mirė tą patį metą 1294, vienok ir naujasis ar kivyskupas Šverinas nesusitaikino su kalavijonimis ir baisesniai ėmė su jais kariauti ir sandarus su lie tuviais ir žemaičiais patvirtino ir juos į karę samdė."
-  atnaujinta: "2026-07-16 14:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184764
-
 ## Citatos
 
 - id: c-184764
@@ -94,5 +80,20 @@ Noris arkivyskupas Rygos Fechtenas mirė tą patį metą 1294, vienok ir naujasi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201414"></a>
+- t-001
+  teiginys: "Noris arkivyskupas Rygos Fechtenas mirė tą patį metą 1294, vienok ir naujasis ar kivyskupas Šverinas nesusitaikino su kalavijonimis ir baisesniai ėmė su jais kariauti ir sandarus su lie tuviais ir žemaičiais patvirtino ir juos į karę samdė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184764
+

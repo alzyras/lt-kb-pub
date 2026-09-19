@@ -41,3 +41,38 @@ Oratorstwo polityczne na forum Sejmu Czteroletniego.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-190793
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 30"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 30."
+  citata_originali: |
+    Krakowski Bernard. Oratorstwo polityczne na forum Sejmu Czteroletniego. Rekonesans, Gdańsk:
+    Gdańskie Towarzystwo Naukowe, 1968.
+  citata_rodoma: "Oratorstwo polityczne na forum Sejmu Czteroletniego. Rekonesans"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-208175"></a>
+- t-001
+  teiginys: "Oratorstwo polityczne na forum Sejmu Czteroletniego."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190793
+

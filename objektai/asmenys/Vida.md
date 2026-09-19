@@ -44,18 +44,17 @@ Vida buvo švedų kilmės bartininko Vidmanto iš Kuršo duktė.
 
 ## Teiginiai
 
-<a id="claim-t-194838"></a>
-- t-001
-  teiginys: "Vida buvo švedų kilmės bartininko Vidmanto iš Kuršo duktė."
-  atnaujinta: "2026-07-19 17:58"
+<a id="claim-t-216442"></a>
+- t-216442
+  teiginys: "Vida, pasak Narbuto, buvo švedų kilmės bartininko Vidmanto iš Kuršo duktė."
+  atnaujinta: "2026-09-12 23:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-177234
+    - c-199261
 
 ## Citatos
 
@@ -77,5 +76,24 @@ Vida buvo švedų kilmės bartininko Vidmanto iš Kuršo duktė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-199261
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 214."
+  citata_originali: |
+    Vida buvo švedų kilmės
+    bartininko Vidmanto iš Kuršo duktė. Iš jos sūnūs: Manvydas
+    (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
+    rimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida
+    mirė tuoj po jo gimimo) - 1277 metais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216442
+

@@ -42,20 +42,6 @@ canonical_biography: "Remarko „VAKARŲ FRONTE NIEKO NAUJO“."
 
 Remarko „VAKARŲ FRONTE NIEKO NAUJO“.
 
-## Teiginiai
-
-<a id="claim-t-96049"></a>
-- t-001
-  teiginys: "1929 m. išleistas E. M. Remarko „Vakarų fronte nieko naujo“ vertimas iš originalo, kurį vertė J. Kalnėnas."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1929 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminis tekstas yra nepilnas pavadinimo fragmentas."
-  pagrindžia:
-    - c-36651
-
 ## Citatos
 
 - id: c-36651
@@ -72,5 +58,20 @@ Remarko „VAKARŲ FRONTE NIEKO NAUJO“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-96049"></a>
+- t-001
+  teiginys: "1929 m. išleistas E. M. Remarko „Vakarų fronte nieko naujo“ vertimas iš originalo, kurį vertė J. Kalnėnas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1929 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis tekstas yra nepilnas pavadinimo fragmentas."
+  pagrindžia:
+    - c-36651
+

@@ -39,20 +39,6 @@ canonical_biography: "1606 m. Kauno pirklys Jonas Jodis apsidrausdamas parašė 
 
 1606 m. Kauno pirklys Jonas Jodis apsidrausdamas parašė Kauno vaitui Albertui Beinartui pranešimą ir aiškino, kad Masis Mejeravičius, turįs tarnauti jam 2 metus ir išmokti lietuvių kalbos, ruošiasi pabėgti.
 
-## Teiginiai
-
-<a id="claim-t-202066"></a>
-- t-001
-  teiginys: "1606 m. Kauno pirklys Jonas Jodis apsidrausdamas parašė Kauno vaitui Albertui Beinartui pranešimą ir aiškino, kad Masis Mejeravičius, turįs tarnauti jam 2 metus ir išmokti lietuvių kalbos, ruošiasi pabėgti."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185413
-
 ## Citatos
 
 - id: c-185413
@@ -70,5 +56,20 @@ canonical_biography: "1606 m. Kauno pirklys Jonas Jodis apsidrausdamas parašė 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202066"></a>
+- t-001
+  teiginys: "1606 m. Kauno pirklys Jonas Jodis apsidrausdamas parašė Kauno vaitui Albertui Beinartui pranešimą ir aiškino, kad Masis Mejeravičius, turįs tarnauti jam 2 metus ir išmokti lietuvių kalbos, ruošiasi pabėgti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185413
+

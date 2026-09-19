@@ -36,25 +36,6 @@ historical_names: []
 
 XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau buvo įsikūrę dešiniajame Dauguvos krante, apimdami dabartinę Latgaliją ir rytinę Vidžemės dalį nuo Aiz­ krauklės prie Dauguvos iki Burtnieko ežero.
 
-## Teiginiai
-
-<a id="claim-t-32097"></a>
-- t-001
-  teiginys: "XII–XIII a. sandūroje latvių gyvenama rytinė Vidžemės dalis siekė Burtnieko ežerą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Vidžemė: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Latviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vidžemė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai apibūdina rytinę Vidžemės dalį kaip latvių gyvenamą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Latviai gyveno Vidžemė (0.94); Latviai gyveno Latgalija (0.86)"
-  pagrindžia:
-    - c-33811
-
 ## Citatos
 
 - id: c-33811
@@ -78,5 +59,25 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-32097"></a>
+- t-001
+  teiginys: "XII–XIII a. sandūroje latvių gyvenama rytinė Vidžemės dalis siekė Burtnieko ežerą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Vidžemė: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Latviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vidžemė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai apibūdina rytinę Vidžemės dalį kaip latvių gyvenamą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Latviai gyveno Vidžemė (0.94); Latviai gyveno Latgalija (0.86)"
+  pagrindžia:
+    - c-33811
+

@@ -35,21 +35,6 @@ Karalius Balduinas II su įkarščiu ėmė rū pintis jų gerove: skyrė lėšas
 
 Karalius Balduinas II su įkarščiu ėmė rū pintis jų gerove: skyrė lėšas jų reikmėms ir išlaikymui, be to, jų svarbiausiai buveinei užleido savo rūmų, stovė jusių rytinėje Saliamono bažnyčios pusėje (Templum Sa lomonis), dalį, todėl šis ordinas buvo pramintas.
 
-## Teiginiai
-
-<a id="claim-t-205437"></a>
-- t-001
-  teiginys: "Karalius Balduinas II su įkarščiu ėmė rū pintis jų gerove: skyrė lėšas jų reikmėms ir išlaikymui, be to, jų svarbiausiai buveinei užleido savo rūmų, stovė jusių rytinėje Saliamono bažnyčios pusėje (Templum Sa lomonis), dalį, todėl šis ordinas buvo pramintas."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-187938
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Karalius Balduinas II su įkarščiu ėmė rū pintis jų gerove: skyrė lėšas jų reikmėms ir išlaikymui, be to, jų svarbiausiai buveinei užleido savo rūmų, stovė jusių rytinėje Saliamono bažnyčios pusėje (Templum Sa lomonis), dalį, todėl šis ordinas buvo pramintas.'
@@ -89,5 +74,21 @@ Karalius Balduinas II su įkarščiu ėmė rū pintis jų gerove: skyrė lėšas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205437"></a>
+- t-001
+  teiginys: "Karalius Balduinas II su įkarščiu ėmė rū pintis jų gerove: skyrė lėšas jų reikmėms ir išlaikymui, be to, jų svarbiausiai buveinei užleido savo rūmų, stovė jusių rytinėje Saliamono bažnyčios pusėje (Templum Sa lomonis), dalį, todėl šis ordinas buvo pramintas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187938
+

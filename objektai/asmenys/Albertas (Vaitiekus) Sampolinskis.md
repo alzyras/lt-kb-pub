@@ -35,24 +35,6 @@ canonical_biography: "Juos papildė Lenkijos karalystės pinigais suverbuoti žm
 
 Juos papildė Lenkijos karalystės pinigais suverbuoti žmonės ir lenkų riteriai savanoriai (10 vėliavų), vadovaujami Jono Tarnovskio (būsimo Lenkijos didžiojo etmono), visų pirma - karaliaus dvarionys, kuriems vadovavo Albertas (Vaitiekus) Sampolinskis.
 
-## Teiginiai
-
-<a id="claim-t-39991"></a>
-- t-001
-  teiginys: "Albertas (Vaitiekus) Sampolinskis vadovavo karaliaus dvarionims jungtinėje lietuvių ir lenkų kariuomenėje."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Albertas (Vaitiekus) Sampolinskis: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=87"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas (Vaitiekus) Sampolinskis\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-44257
-
 ## Citatos
 
 - id: c-44257
@@ -79,5 +61,24 @@ Juos papildė Lenkijos karalystės pinigais suverbuoti žmonės ir lenkų riteri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-39991"></a>
+- t-001
+  teiginys: "Albertas (Vaitiekus) Sampolinskis vadovavo karaliaus dvarionims jungtinėje lietuvių ir lenkų kariuomenėje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Albertas (Vaitiekus) Sampolinskis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=87"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas (Vaitiekus) Sampolinskis\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-44257
+

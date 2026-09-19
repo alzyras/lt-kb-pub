@@ -34,25 +34,6 @@ canonical_biography: "Tokios didelės sėkmės padrąsinti, lietuviai vėliau, r
 
 Tokios didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasigavo net iki Wehlau [Vėluva] apylinkių, kur sudegino šešis kaimus ir įtakingą kryžiuotį Fridrichą fon Quitzą kartu su trisdešimt šešiais kariais nužudė8.
 
-## Teiginiai
-
-<a id="claim-t-87676"></a>
-- t-001
-  teiginys: "Lietuviai prie Vėluvos nužudė įtakingą kryžiuotį Fridrichą fon Quitzą ir trisdešimt šešis jo karius."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Vėluva: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vėluva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata aprašo lietuvių prasigavimą iki Vėluvos apylinkių ir kaimų sudeginimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Lietuviai puolė Vėluva (0.78); Lietuviai kariavo prieš Fridrichas fon Quitzas (0.72)"
-  pagrindžia:
-    - c-83655
-
 ## Citatos
 
 - id: c-83655
@@ -82,5 +63,25 @@ Tokios didelės sėkmės padrąsinti, lietuviai vėliau, rugpjūtį, prasigavo n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-87676"></a>
+- t-001
+  teiginys: "Lietuviai prie Vėluvos nužudė įtakingą kryžiuotį Fridrichą fon Quitzą ir trisdešimt šešis jo karius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Vėluva: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vėluva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata aprašo lietuvių prasigavimą iki Vėluvos apylinkių ir kaimų sudeginimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Lietuviai puolė Vėluva (0.78); Lietuviai kariavo prieš Fridrichas fon Quitzas (0.72)"
+  pagrindžia:
+    - c-83655
+

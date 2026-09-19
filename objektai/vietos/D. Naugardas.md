@@ -38,17 +38,6 @@ historical_names: []
 
 Naugardo miestiečių valstybė. Naugardu, 1262 m. nužygiavo į Livonijos ordino žemę net iki Cėsio (Vendeno).
 
-## Teiginiai
-
-<a id="claim-t-67769"></a>
-- t-001
-  teiginys: "Didysis Naugardas buvo galinga miestiečių valstybė ir lietuvių talkininkas žygiuose prieš kalavijuočių ordiną."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67549
-
 ## Citatos
 
 - id: c-67549
@@ -67,5 +56,17 @@ Naugardo miestiečių valstybė. Naugardu, 1262 m. nužygiavo į Livonijos ordin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-67769"></a>
+- t-001
+  teiginys: "Didysis Naugardas buvo galinga miestiečių valstybė ir lietuvių talkininkas žygiuose prieš kalavijuočių ordiną."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67549
+

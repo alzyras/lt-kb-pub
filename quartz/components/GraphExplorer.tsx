@@ -15,7 +15,7 @@ export default (() => {
     <main class="graph-explorer" data-graph-explorer data-panel="hidden">
       <header class="graph-explorer-toolbar">
         <a class="graph-explorer-brand" href="/" aria-label="Lietuvos istorijos žinių bazė">
-          <BrandLockup compact invert />
+          <BrandLockup compact invert showTagline={false} />
         </a>
 
         <div class="graph-explorer-history" role="toolbar" aria-label="Žemėlapio istorija">

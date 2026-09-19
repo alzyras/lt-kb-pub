@@ -45,18 +45,6 @@ Pempių krikštavimas ganyklose ir pievose.
 
 Garsinis vaizdinys, užfiksuotas kaip atpažįstama trumpa formulė.
 
-## Teiginiai
-
-<a id="claim-t-195412"></a>
-- t-001
-  teiginys: "Pempės krikštaudavo trumpa formule „gyvi, gyvi“."
-  atnaujinta: "2026-07-12 02:45"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177833
-
 ## Citatos
 
 - id: c-177833
@@ -72,5 +60,18 @@ Garsinis vaizdinys, užfiksuotas kaip atpažįstama trumpa formulė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-195412"></a>
+- t-001
+  teiginys: "Pempės krikštaudavo trumpa formule „gyvi, gyvi“."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177833
+

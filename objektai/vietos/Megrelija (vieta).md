@@ -42,21 +42,6 @@ Ten pat užsimenama, jog Megrelijoje tau ro ragus naudoja kaip taures puotose; j
 
 Ten pat užsimenama, jog Megrelijoje tau ro ragus naudoja kaip taures puotose; jie yra didžiuliai ir išvaizdūs.
 
-## Teiginiai
-
-<a id="claim-t-205206"></a>
-- t-001
-  teiginys: "Ten pat užsimenama, jog Megrelijoje tau ro ragus naudoja kaip taures puotose; jie yra didžiuliai ir išvaizdūs."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
-  pagrindžia:
-    - c-187882
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Ten pat užsimenama, jog Megrelijoje tau ro ragus naudoja kaip taures puotose; jie yra didžiuliai ir išvaizdūs.'
@@ -84,5 +69,21 @@ Ten pat užsimenama, jog Megrelijoje tau ro ragus naudoja kaip taures puotose; j
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205206"></a>
+- t-001
+  teiginys: "Ten pat užsimenama, jog Megrelijoje tau ro ragus naudoja kaip taures puotose; jie yra didžiuliai ir išvaizdūs."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-187882
+

@@ -44,20 +44,6 @@ canonical_biography: "Vos buvo beketąs naujasis mistras Dumpeshagenas su pagal 
 
 Vos buvo beketąs naujasis mistras Dumpeshagenas su pagal ba Tarapato vyskupo kitus vyskupus nuo reikalo arkivyskupo atskiesti, tą nujautęs arkivyskupas grobė ginklą iš visos galios ir liepė ne vien baž nyčiose melstis, idant viešpats Dievas padėtų kalavijonų.
 
-## Teiginiai
-
-<a id="claim-t-201407"></a>
-- t-001
-  teiginys: "Vos buvo beketąs naujasis mistras Dumpeshagenas su pagal ba Tarapato vyskupo kitus vyskupus nuo reikalo arkivyskupo atskiesti, tą nujautęs arkivyskupas grobė ginklą iš visos galios ir liepė ne vien baž nyčiose melstis, idant viešpats Dievas padėtų kalavijonų."
-  atnaujinta: "2026-07-16 14:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184757
-
 ## Citatos
 
 - id: c-184757
@@ -90,5 +76,20 @@ Vos buvo beketąs naujasis mistras Dumpeshagenas su pagal ba Tarapato vyskupo ki
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201407"></a>
+- t-001
+  teiginys: "Vos buvo beketąs naujasis mistras Dumpeshagenas su pagal ba Tarapato vyskupo kitus vyskupus nuo reikalo arkivyskupo atskiesti, tą nujautęs arkivyskupas grobė ginklą iš visos galios ir liepė ne vien baž nyčiose melstis, idant viešpats Dievas padėtų kalavijonų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184757
+

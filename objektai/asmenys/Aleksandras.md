@@ -52,10 +52,63 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
 
 ## Teiginiai
 
+<a id="claim-t-210648"></a>
+- t-210648
+  teiginys: "Lietuvos metraštis teigia, kad nuo pasaulio sutvėrimo septyni tūkstančiai aštun taisiais, o nuo dievo gimimo 1499 metais Maskvos di dysis kunigaikštis Ivanas Vasiljevičius sumanė pradėti kovą prieš savo žentą, Lietuvos didįjį kunigaikštį Aleksandrą."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194299
+
+<a id="claim-t-212050"></a>
+- t-212050
+  teiginys: "Karaliui Kazimierui mirus, lenkai į Lenkijos kara lystės sostą paėmė jo sūnų karalaitį Olbrachtą ', o lie tuviai Lietuvos Didžiajai Kunigaikštystei kunigaikščiu paėmė antrą karalaitį — jo tikrą brolį Aleksandrą."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193383
+
+<a id="claim-t-216018"></a>
+- t-216018
+  teiginys: "Valdant karaliui Aleksandrui, jo įsakymu pagoniškos šventyklos vietoje buvo pastatyta filija."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198997
+
+<a id="claim-t-223352"></a>
+- t-223352
+  teiginys: "1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas ir jas nuniokojo."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Patrikas (kunigaikštis, XIV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Aleksandras: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Patrikas (kunigaikštis, XIV a.): mention_match, person, gap=12"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras\" parinktas kaip owner_note_path. Targetas \"Patrikas (kunigaikštis, XIV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1365 m.; įvykio data: 1378 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Aleksandrą ir paremtas citata."
+
 <a id="claim-t-89626"></a>
-- t-001
+- t-89626
   teiginys: "Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Stanislovą Kišką ir Mykolą Glinskį."
-  atnaujinta: "2026-06-14 10:59"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "paskyre -> Stanislovas Kiška: 0.88"
   ryšio_patikimumo_lygis: "aukstas"
@@ -72,29 +125,10 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   pagrindžia:
     - c-85564
 
-<a id="claim-t-89627"></a>
-- t-002
-  teiginys: "1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas ir jas nuniokojo."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Patrikas (kunigaikštis, XIV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Patrikas (kunigaikštis, XIV a.): mention_match, person, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras\" parinktas kaip owner_note_path. Targetas \"Patrikas (kunigaikštis, XIV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1365 m.; įvykio data: 1378 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Aleksandrą ir paremtas citata."
-  pagrindžia:
-    - c-85561
-
 <a id="claim-t-89628"></a>
-- t-003
+- t-89628
   teiginys: "Po Mykolo Glinskio pergalės žinia apie mūšį spėjo pasiekti mirštantį valdovą Aleksandrą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kazanė: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -108,9 +142,9 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
     - c-85563
 
 <a id="claim-t-89629"></a>
-- t-004
+- t-89629
   teiginys: "Mirštantis valdovas Aleksandras dar spėjo gauti žinią apie totoriams fatališkai pasibaigusį mūšį."
-  atnaujinta: "2026-06-01 14:44"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Totoriai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -123,10 +157,154 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   pagrindžia:
     - c-85563
 
-<a id="claim-t-190842"></a>
-- t-005
+<a id="claim-t-196407"></a>
+- t-196407
+  teiginys: "Apvalęs Podolę nuo totorių, Algirdas atidavė ją Karijoto sūnums Aleksandrui, Konstantinui, Teodorui ir Jurgiui už pagalbą kare."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
+  pagrindžia:
+    - c-178665
+
+<a id="claim-t-200964"></a>
+- t-200964
+  teiginys: "Kunigą Aleksandrą nusiuntė į Medžiapolę, kursai visus te nai ūkėsus apkrikštijo ir bažnyčią jiems įkūrė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184314
+
+<a id="claim-t-200965"></a>
+- t-200965
+  teiginys: "Jau buvo lie tuviai į pilį įsigrūdą, bet tuo tarpu kunigaikštis Naugardo Aleksandras, vadinamas Nevskiu, atėjo ant pagalbos Polockui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184315
+
+<a id="claim-t-200966"></a>
+- t-200966
+  teiginys: "Tuo laiku Uzbekąs, chanas totorių, patvirtinęs tūlus maskolių kunigaikščius ypatingais valdymierais, liepė vaidintis savo rūmuose Tverės kunigaikš čiui Aleksandrui ir jį, Uzbeką, savo viešpačiu iš pažinti ir donį jam duoti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184316
+
+<a id="claim-t-204005"></a>
+- t-204005
+  teiginys: "1377 m. Podolės kunigaikštis Aleksandras perėjo tarnauti Vengrijos ir Lenkijos karaliui Liudvikui Anžu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1377 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai įvardija Aleksandrą, datą ir jo perėjimą tarnauti Liudvikui Anžu. Atribucija nėra būtina pagal šaltinio profilį."
+  pagrindžia:
+    - c-186609
+
+<a id="claim-t-204345"></a>
+- t-204345
+  teiginys: "Kazimiero valdymo metais brendusios valdymo sistemos permainos, susijusios su valdovo rezidavimo Lietuvoje stygiumi ir institucionalizacijos pažanga, išryškėjo Aleksandro, ypač Žygimanto Senojo, valdymo metu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186949
+
+<a id="claim-t-205650"></a>
+- t-205650
+  teiginys: "Teodoras Narbutas nurodo, kad Pskoviečiai susivaidijo su Didžiuoju Naugardu, suteikę prieglobstį Aleksandrui, kurį jis vadina Tverės kunigaikščiu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-188265
+
+<a id="claim-t-205651"></a>
+- t-205651
+  teiginys: "Teodoras Narbutas Aleksandrą vadina kunigaikščiu ir nurodo, kad chano įsakymu persekiojamas Aleksandras Lietuvoje jautėsi visiškai saugus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-188266
+
+<a id="claim-t-205652"></a>
+- t-205652
+  teiginys: "Teodoras Narbutas nurodo, kad Lietuvos Didžiojoje Kunigaikštystėje kunigaikštis Aleksandras rado savo šalies globėją, kuris po aštuoniolikos mėnesių sudarė sąlygas Aleksandrui jaustis ramiam ir toliau būti pirmuoju Pskovo respublikos kunigaikščiu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-188267
+
+<a id="claim-t-207414"></a>
+- t-207414
+  teiginys: "Alfredas Bumblauskas nurodo, kad 1492 m. Aleksandras išrinktas savarankišku Lietuvos valdovu, o iki tol valdęs Kazimieras buvo ir Lenkijos karalius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1492 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslintas istorinis įvykis ir aiškiai įvardytas Kazimiero statusas. Išlaikyta tik citatoje pagrįsta informacija."
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190093
+
+<a id="claim-t-213115"></a>
+- t-213115
+  teiginys: "Skitų susidūrime su Aleksandro galybe Sapiriono vadovaujama kariuomenė prarado 30 000 karių ir buvo priversta prašyti taikos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196692
+
+<a id="claim-t-215193"></a>
+- t-215193
   teiginys: "Narbutas rašo, kad po susidūrimo su Pilypo sūnumi Aleksandru skitų kariuomenė neteko 30 000 karių ir prašė Aleksandro taikos."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -141,123 +319,7 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
-    - c-173724
-
-<a id="claim-t-196407"></a>
-- t-006
-  teiginys: "Apvalęs Podolę nuo totorių, Algirdas atidavė ją Karijoto sūnums Aleksandrui, Konstantinui, Teodorui ir Jurgiui už pagalbą kare."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
-  pagrindžia:
-    - c-178665
-
-<a id="claim-t-200964"></a>
-- t-007
-  teiginys: "Kunigą Aleksandrą nusiuntė į Medžiapolę, kursai visus te nai ūkėsus apkrikštijo ir bažnyčią jiems įkūrė."
-  atnaujinta: "2026-07-16 14:30"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184314
-
-<a id="claim-t-200965"></a>
-- t-008
-  teiginys: "Jau buvo lie tuviai į pilį įsigrūdą, bet tuo tarpu kunigaikštis Naugardo Aleksandras, vadinamas Nevskiu, atėjo ant pagalbos Polockui."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184315
-
-<a id="claim-t-200966"></a>
-- t-009
-  teiginys: "Tuo laiku Uzbekąs, chanas totorių, patvirtinęs tūlus maskolių kunigaikščius ypatingais valdymierais, liepė vaidintis savo rūmuose Tverės kunigaikš čiui Aleksandrui ir jį, Uzbeką, savo viešpačiu iš pažinti ir donį jam duoti."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184316
-
-<a id="claim-t-204005"></a>
-- t-010
-  teiginys: "1377 m. Podolės kunigaikštis Aleksandras perėjo tarnauti Vengrijos ir Lenkijos karaliui Liudvikui Anžu."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  temporaliniai_duomenys: "įvykio data: 1377 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai įvardija Aleksandrą, datą ir jo perėjimą tarnauti Liudvikui Anžu. Atribucija nėra būtina pagal šaltinio profilį."
-  pagrindžia:
-    - c-186609
-
-<a id="claim-t-204345"></a>
-- t-011
-  teiginys: "Kazimiero valdymo metais brendusios valdymo sistemos permainos, susijusios su valdovo rezidavimo Lietuvoje stygiumi ir institucionalizacijos pažanga, išryškėjo Aleksandro, ypač Žygimanto Senojo, valdymo metu."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
-  pagrindžia:
-    - c-186949
-
-<a id="claim-t-205650"></a>
-- t-012
-  teiginys: "Teodoras Narbutas nurodo, kad Pskoviečiai susivaidijo su Didžiuoju Naugardu, suteikę prieglobstį Aleksandrui, kurį jis vadina Tverės kunigaikščiu."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
-  pagrindžia:
-    - c-188265
-
-<a id="claim-t-205651"></a>
-- t-013
-  teiginys: "Teodoras Narbutas Aleksandrą vadina kunigaikščiu ir nurodo, kad chano įsakymu persekiojamas Aleksandras Lietuvoje jautėsi visiškai saugus."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
-  pagrindžia:
-    - c-188266
-
-<a id="claim-t-205652"></a>
-- t-014
-  teiginys: "Teodoras Narbutas nurodo, kad Lietuvos Didžiojoje Kunigaikštystėje kunigaikštis Aleksandras rado savo šalies globėją, kuris po aštuoniolikos mėnesių sudarė sąlygas Aleksandrui jaustis ramiam ir toliau būti pirmuoju Pskovo respublikos kunigaikščiu."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
-  pagrindžia:
-    - c-188267
+    - c-196692
 
 ## Reikšmingi paminėjimai
 - c-014
@@ -291,8 +353,6 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-85563
   sudarytojas: "Karolis Zikaras"
@@ -322,9 +382,9 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-    - t-004
+  pagrindžia:
+    - t-89628
+    - t-89629
 
 - id: c-85564
   sudarytojas: "Karolis Zikaras"
@@ -349,8 +409,8 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-89626
 
 - id: c-173724
   autorius: "Teodoras Narbutas"
@@ -383,8 +443,6 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
 
 - id: c-178665
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -409,8 +467,8 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-196407
 
 - id: c-184314
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -429,8 +487,8 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-200964
 
 - id: c-184315
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -453,8 +511,8 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
+  pagrindžia:
+    - t-200965
 
 - id: c-184316
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -485,8 +543,8 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
+  pagrindžia:
+    - t-200966
 
 - id: c-186609
   autorius: "Rimvydas Petrauskas"
@@ -503,8 +561,8 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-010
+  pagrindžia:
+    - t-204005
 
 - id: c-186949
   šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
@@ -526,8 +584,8 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-011
+  pagrindžia:
+    - t-204345
 
 - id: c-188265
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -549,8 +607,8 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-012
+  pagrindžia:
+    - t-205650
 
 - id: c-188266
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -570,8 +628,8 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-013
+  pagrindžia:
+    - t-205651
 
 - id: c-188267
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -594,5 +652,122 @@ Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Sta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-014
+  pagrindžia:
+    - t-205652
+
+- id: c-190093
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 46"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 46."
+  citata_originali: |
+    Tačiau Edmundas Rimša Mokslų akademijos bibliotekoje surado Aleksandro laikų ant-
+    spaudą, kurio centre vaizduojamas Lietuvos herbas Vytis, virš jo dešinėje – erelis (Alek-
+    sandro tėvo Lenkijos karaliaus Kazimiero Jogailaičio herbas), o kairėje – juosta (motinos
+    Elzbietos iš Habsburgų herbas). Aplink Vytį išdėstyti dar trys herbai: Arkangelas My-
+    kolas – Kijevo žemės herbas, Voluinės žemės kryžius bei lokys su grandine – Smolensko
+    žemės herbas. Šio antspaudo atsiradimas buvo susijęs su Aleksandro išrinkimu 1492 m.
+    savarankišku Lietuvos valdovu (iki tol valdęs Kazimieras buvo kartu ir Lenkijos karalius).
+  citata_rodoma: "Šio antspaudo atsiradimas buvo susijęs su Aleksandro išrinkimu 1492 m. \nsavarankišku Lietuvos valdovu (iki tol valdęs Kazimieras buvo kartu ir Lenkijos karalius)."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207414
+
+- id: c-193383
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 143"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 143."
+  citata_originali: |
+    Karaliui Kazimierui mirus, lenkai į Lenkijos kara­
+    lystės sostą paėmė jo sūnų karalaitį Olbrachtą ', o lie­
+    tuviai Lietuvos Didžiajai Kunigaikštystei kunigaikščiu
+    paėmė antrą karalaitį — jo tikrą brolį Aleksandrą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212050
+
+- id: c-194299
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 150"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 150."
+  citata_originali: |
+    Nuo pasaulio sutvėrimo septyni tūkstančiai aštun­
+    taisiais, o nuo dievo gimimo 1499 metais Maskvos di­
+    dysis kunigaikštis Ivanas Vasiljevičius sumanė pradėti
+    kovą prieš savo žentą, Lietuvos didįjį kunigaikštį
+    Aleksandrą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210648
+
+- id: c-196692
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 58"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 58."
+  citata_originali: |
+    Vėliau, 358 metais prieš Kristaus gi­
+    mimą, ėmė didėti politinė įtaka karaliaus Pilypo valdo­
+    mos Makedonijos, kurios galia Graikijos atžvilgiu iškilo
+    iki tokio lygio, jog Skitijos tautos, turėjusios glaudžius
+    ryšius su tenykščiais graikų kolonistais, pajuto nemažą
+    įtaką. Tačiau jie pakentė tai neilgai, nes istorijoje ran­
+    dame prisiminimų apie skitų genčių susidūrimą su Pi­
+    lypo sūnumi ir įpėdiniu Aleksandru; kaunantis Sapiriono
+    vadovaujama kariuomenė prarado 30 000 karių1, bet bu­
+    vo priversta prašyti Aleksandro taikos ir santarvės, o
+    vėliau, kai pagarsėjo šaunus šio monarcho žygis į Aziją,
+    skitai taip ir liko priklausomi nuo Makedonijos galybės
+    ir buvo tolydžio puldinėjami Uždonės tautų2.
+    42
+    Taip senovės skitų genčių santvarka ir politinė įtaka
+    IV amžiuje prieš Kristaus gimimą labai sumažėjo, o šią
+    milžinišką genčių sąjungą sudariusios vienos gentys pa­
+    sitraukė į Aziją, kitos paspruko į Europos gilumą, gau­
+    damos kitus pavadinimus, kitokius papročius ir naują kal­
+    bą.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213115
+    - t-215193
+
+- id: c-198997
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 276"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 276."
+  citata_originali: |
+    Val­
+    dant karaliui Aleksandrui^ jo įsakymu, pagoniškos šventyklos vie­
+    toje buvo pastatyta filija .
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216018
+

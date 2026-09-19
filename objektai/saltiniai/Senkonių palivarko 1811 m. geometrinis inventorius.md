@@ -34,49 +34,6 @@ Senkonių palivarko inventorius yra 1811 m. žemės matavimo (mierezy) geometrin
 
 Senkonių palivarko inventorius yra 1811 m. žemės matavimo (mierezy) geometrinis inventorius. Pagal informacijos apimtį Senkonių palivarko 1811 m. geometrinis inventorius priskiriamas pilnųjų stambiųjų dvarų inventorių tipui. Senkonių palivarko inventoriuje pateikti detalūs dvaro teritorijų ir valstiečių sodybinių žemių planai trijuose laukuose; išliko 12 planų pagal kaimus.
 
-## Teiginiai
-
-<a id="claim-t-203724"></a>
-- t-001
-  teiginys: "Senkonių palivarko inventorius yra 1811 m. žemės matavimo (mierezy) geometrinis inventorius."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-3441-Senkoniu-palivarko-inventorius"
-  temporaliniai_duomenys: "įvykio data: 1811 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškus ir tiesiogiai apibūdina šaltinio objektą bei datą. Papildomų faktų ar atribucijos nereikėjo."
-  pagrindžia:
-    - c-186328
-
-<a id="claim-t-203725"></a>
-- t-002
-  teiginys: "Pagal informacijos apimtį Senkonių palivarko 1811 m. geometrinis inventorius priskiriamas pilnųjų stambiųjų dvarų inventorių tipui."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-3441-Senkoniu-palivarko-inventorius"
-  vertinimo_atnaujinta: "2026-07-30T18:39:53Z"
-  pagrindžia:
-    - c-186329
-
-<a id="claim-t-203726"></a>
-- t-003
-  teiginys: "Senkonių palivarko inventoriuje pateikti detalūs dvaro teritorijų ir valstiečių sodybinių žemių planai trijuose laukuose; išliko 12 planų pagal kaimus."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-3441-Senkoniu-palivarko-inventorius"
-  vertinimo_atnaujinta: "2026-07-30T18:39:53Z"
-  pagrindžia:
-    - c-186330
-
 ## Citatos
 
 - id: c-186328
@@ -96,7 +53,7 @@ Senkonių palivarko inventorius yra 1811 m. žemės matavimo (mierezy) geometrin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186329
@@ -114,7 +71,7 @@ Senkonių palivarko inventorius yra 1811 m. žemės matavimo (mierezy) geometrin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-186330
@@ -134,5 +91,49 @@ Senkonių palivarko inventorius yra 1811 m. žemės matavimo (mierezy) geometrin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+## Teiginiai
+
+<a id="claim-t-203724"></a>
+- t-001
+  teiginys: "Senkonių palivarko inventorius yra 1811 m. žemės matavimo (mierezy) geometrinis inventorius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-3441-Senkoniu-palivarko-inventorius"
+  temporaliniai_duomenys: "įvykio data: 1811 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškus ir tiesiogiai apibūdina šaltinio objektą bei datą. Papildomų faktų ar atribucijos nereikėjo."
+  pagrindžia:
+    - c-186328
+
+<a id="claim-t-203725"></a>
+- t-002
+  teiginys: "Pagal informacijos apimtį Senkonių palivarko 1811 m. geometrinis inventorius priskiriamas pilnųjų stambiųjų dvarų inventorių tipui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-3441-Senkoniu-palivarko-inventorius"
+  vertinimo_atnaujinta: "2026-07-30T18:39:53Z"
+  pagrindžia:
+    - c-186329
+
+<a id="claim-t-203726"></a>
+- t-003
+  teiginys: "Senkonių palivarko inventoriuje pateikti detalūs dvaro teritorijų ir valstiečių sodybinių žemių planai trijuose laukuose; išliko 12 planų pagal kaimus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-3441-Senkoniu-palivarko-inventorius"
+  vertinimo_atnaujinta: "2026-07-30T18:39:53Z"
+  pagrindžia:
+    - c-186330
+

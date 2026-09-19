@@ -42,34 +42,6 @@ Algirdo, Kęstučio, Patirgo ir Karijoto sūnaus Aleksandro vadovaujamos keturio
 
 Algirdo, Kęstučio, Patirgo ir Karijoto sūnaus Aleksandro vadovaujamos keturios kariuomenės kolonos, kurių kiekvieną sudarė mažiausiai keturi tūkstančiai ginkluotų žmonių, įsiveržė į Šalaviją ir viską pakeliui sunaikino iki Kuršių įlankos. Nemažai Šalavijos kaimiečių su šeimomis ir turtu savanoriškai persikėlė į Lietuvą.
 
-## Teiginiai
-
-<a id="claim-t-206630"></a>
-- t-001
-  teiginys: "Algirdo, Kęstučio, Patirgo ir Karijoto sūnaus Aleksandro vadovaujamos keturios kariuomenės kolonos, kurių kiekvieną sudarė mažiausiai keturi tūkstančiai ginkluotų žmonių, įsiveržė į Šalaviją ir viską pakeliui sunaikino iki Kuršių įlankos."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
-  pagrindžia:
-    - c-189245
-
-<a id="claim-t-206631"></a>
-- t-002
-  teiginys: "Nemažai Šalavijos kaimiečių su šeimomis ir turtu savanoriškai persikėlė į Lietuvą."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
-  pagrindžia:
-    - c-189246
-
 ## Citatos
 
 - id: c-189245
@@ -89,7 +61,7 @@ Algirdo, Kęstučio, Patirgo ir Karijoto sūnaus Aleksandro vadovaujamos keturio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189246
@@ -105,5 +77,34 @@ Algirdo, Kęstučio, Patirgo ir Karijoto sūnaus Aleksandro vadovaujamos keturio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-206630"></a>
+- t-001
+  teiginys: "Algirdo, Kęstučio, Patirgo ir Karijoto sūnaus Aleksandro vadovaujamos keturios kariuomenės kolonos, kurių kiekvieną sudarė mažiausiai keturi tūkstančiai ginkluotų žmonių, įsiveržė į Šalaviją ir viską pakeliui sunaikino iki Kuršių įlankos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189245
+
+<a id="claim-t-206631"></a>
+- t-002
+  teiginys: "Nemažai Šalavijos kaimiečių su šeimomis ir turtu savanoriškai persikėlė į Lietuvą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189246
+

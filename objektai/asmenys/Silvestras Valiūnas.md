@@ -44,10 +44,49 @@ canonical_biography: "Ši mintis paskatino kai kuriuos inteligentus, gyvenusius 
 
 ## Teiginiai
 
+<a id="claim-t-208498"></a>
+- t-208498
+  teiginys: "Silvestras Valiūnas, J. Šimkevičius ir D. Poška buvo kilę iš to paties Raseinių pavieto."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
+  pagrindžia:
+    - c-191118
+
+<a id="claim-t-209269"></a>
+- t-209269
+  teiginys: "J. Šimkevičiaus ir Silvestro Valiūno rašinius, autoriaus vertinimu, sieja panašūs siužetai, pasakymai ir net vietovės."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
+  pagrindžia:
+    - c-192000
+
+<a id="claim-t-209389"></a>
+- t-209389
+  teiginys: "J. Bielinskis ir Mykolas Brenšteinas manė, kad Silvestras Valiūnas priklausė šubraveams–rustikanams, t. y. korespondentams."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
+  pagrindžia:
+    - c-191883
+
 <a id="claim-t-19223"></a>
-- t-001
+- t-19223
   teiginys: "Silvestras Valiūnas buvo vienas Žemaitijoje gyvenusių inteligentų, pradėjusių rašyti poeziją žemaitiškai arba lietuviškai."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -64,9 +103,9 @@ canonical_biography: "Ši mintis paskatino kai kuriuos inteligentus, gyvenusius 
     - c-166959
 
 <a id="claim-t-183566"></a>
-- t-002
+- t-183566
   teiginys: "Silvestras Valiūnas buvo tarp Žemaitijoje gyvenusių inteligentų, kuriuos Ksavero Bogušo mintis paskatino rašyti poeziją žemaitiškai arba lietuviškai."
-  atnaujinta: "2026-06-14 10:46"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -108,6 +147,81 @@ canonical_biography: "Ši mintis paskatino kai kuriuos inteligentus, gyvenusius 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
+  pagrindžia:
+    - t-183566
+    - t-19223
+
+- id: c-191118
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 43"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 43."
+  citata_originali: |
+    Šubravcų
+    draugijos prezidento "lekiosimas ant ližės" sukosi apie gimtąją
+    Žemaitiją. Ir dar vienas faktelis, jau kelintą kartą sugrąžinantis prie
+    J. Šimkevičiaus ir D. Poškos tarpusavio ryšių problematikos, išplaukia
+    iš to, kas siejasi su S. Valiūnu. Visi trys: J.Šimkevičius, D. Poška ir S.
+    Valiūnas buvo kilę iš vieno Raseinių pavieto.
+  citata_rodoma: "Visi trys: J.Šimkevičius, D. Poška ir S. \nValiūnas buvo kilę iš vieno Raseinių pavieto."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208498
+
+- id: c-191883
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 41"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 41."
+  citata_originali: |
+    Valiūno plunksnos, taip ir nebuvo paskelbtos spaudoje. Čia turinti
+    omenyje S. Valiūno kūriniai: "PIungės-Telšių kontubernija", "Plungės
+    kontubernija",
+    "Garbingiausiam
+    Plungės-Tcfšių
+    kontubernijos
+    restauratoriui”, kurie neabejotinai parašyti tais pačiais 1817 metais. J.
+    Bielinskiui nekilo abejonių ir dėl paties S. Valiūno priklausymo
+    šubraveams - rustikanams (t.y. korespondentams), kurių žinomos tik
+    kelios pavardės, o pagrindiniai sąrašai, jei ir buvo, tai neišliko42;
+    panašiai manė ir Mykolas Brenšteinas.
+  citata_rodoma: "J. \nBielinskiui nekilo abejonių ir dėl paties S. Valiūno priklausymo \nšubraveams - rustikanams (t.y. korespondentams), kurių žinomos tik \nkelios pavardės, o pagrindiniai sąrašai, jei ir buvo, tai neišliko42; \npanašiai manė ir Mykolas Brenšteinas."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209389
+
+- id: c-192000
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 43"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 43."
+  citata_originali: |
+    Galima išvardinti ir daugiau panašių, siužetų, pasakymų ir net
+    vietovių, susiejančių J. Šimkevičiaus ir S. Valiūno rašinius. Šubravcų
+    draugijos prezidento "lekiosimas ant ližės" sukosi apie gimtąją
+    Žemaitiją. Ir dar vienas faktelis, jau kelintą kartą sugrąžinantis prie
+    J. Šimkevičiaus ir D. Poškos tarpusavio ryšių problematikos, išplaukia
+    iš to, kas siejasi su S. Valiūnu.
+  citata_rodoma: "Galima išvardinti ir daugiau panašių, siužetų, pasakymų ir net \nvietovių, susiejančių J. Šimkevičiaus ir S. Valiūno rašinius."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209269
+

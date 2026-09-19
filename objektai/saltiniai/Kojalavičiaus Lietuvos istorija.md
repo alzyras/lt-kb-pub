@@ -26,10 +26,22 @@ media_all_json: |-
 
 ## Teiginiai
 
+<a id="claim-t-213041"></a>
+- t-213041
+  teiginys: "Kojalavičius parašė lietuvių istoriją lotynų kalba."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195096
+
 <a id="claim-t-201438"></a>
-- t-001
+- t-201438
   teiginys: "126.) Reikia žinoti,- jog yra didis su j augimas vardų didžiųjų Lietuvos kunigaikščių: Kojalavičius savo Lietuvos istorijoj teminavoja vieną Vytenį nuo pat Traidžio lig pat Gedimino, nes teutonų ir gudų ra šytojai rodo savo raštuose tame tarpe buvus tris."
-  atnaujinta: "2026-07-16 14:32"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -62,5 +74,25 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-201438
+
+- id: c-195096
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 30"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 30."
+  citata_originali: |
+    Jėzuitas
+    Kojai avičius*** parašė lietuvių istoriją lotynų kalba; jis
+    apsiribojo tik sudėliojęs Strijkovskio veikalą j istorinius
+    rėmus, ne visuomet taikliai taisydamas jo spragas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213041
+

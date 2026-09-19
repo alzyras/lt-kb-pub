@@ -41,19 +41,6 @@ canonical_biography: "Bertuleit, A."
 
 Bertuleit, A.
 
-## Teiginiai
-
-<a id="claim-t-30498"></a>
-- t-001
-  teiginys: "A. Bertuleit 1924 m. paskelbė darbą „Das Religionswesen der alten Preussen mit lettisch-litauischen Parallelen“."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1924 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-32863
-
 ## Citatos
 
 - id: c-32863
@@ -71,5 +58,19 @@ Bertuleit, A.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-30498"></a>
+- t-001
+  teiginys: "A. Bertuleit 1924 m. paskelbė darbą „Das Religionswesen der alten Preussen mit lettisch-litauischen Parallelen“."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1924 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-32863
+

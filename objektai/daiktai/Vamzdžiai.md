@@ -47,18 +47,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-08345"></a>
-- t-001
-  teiginys: "Jaunuomenė pavasariais gaminosi ir naudojo vamzdžius iš karklų ar blendies, o piemenėliai turėjo molio pypynes."
-  atnaujinta: "2026-05-30 12:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-10299
-
 ## Pastabos
 
 - šiame fragmente daiktas glaudžiai siejamas su jaunuomenės ir piemenų linksmynėmis, bet materiali forma aiški.
@@ -79,5 +67,14 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+## Teiginiai
+
+<a id="claim-t-210031"></a>
+- t-001
+  teiginys: "Jaunuomenė pavasariais gaminosi ir naudojo vamzdžius iš karklų ar blendies, o piemenėliai turėjo molio pypynes."
+  atnaujinta: "2026-09-12 16:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+

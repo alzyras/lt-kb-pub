@@ -28,33 +28,6 @@ media_all_json: |-
 
 Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus į apačią nukreiptu administravimu, nepaisant žemės ūkyje dirbusiųjų nuomonės. Dėl vykdytos žemės reformos didžioji Lietuvos ūkių dalis buvo per smulkūs, kad galėtų garantuoti šeimai pajamas, prilygstančias minimaliam gyvenimo lygiui. Žemės reformos metu sunaikinta sovietmečiu veikusi žemės ūkio sistema, kolūkiai ir tarybiniai ūkiai.
 
-## Teiginiai
-
-<a id="claim-t-75594"></a>
-- t-001
-  teiginys: "Dėl žemės reformos dauguma Lietuvos ūkių buvo per smulkūs, kad šeimai garantuotų minimalų gyvenimo lygį atitinkančias pajamas."
-  atnaujinta: "2026-06-13 17:10"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Žemės reforma: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=23"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemės reforma\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-25041
-
-<a id="claim-t-75597"></a>
-- t-002
-  teiginys: "Žemės reformos strategija buvo kuriama ir diegiama iš viršaus į apačią, nepaisant žemės ūkyje dirbusiųjų nuomonės."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-73327
-
 ## Citatos
 
 - id: c-25041
@@ -74,7 +47,7 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-73327
@@ -97,5 +70,33 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-75594"></a>
+- t-001
+  teiginys: "Dėl žemės reformos dauguma Lietuvos ūkių buvo per smulkūs, kad šeimai garantuotų minimalų gyvenimo lygį atitinkančias pajamas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Žemės reforma: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=23"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Žemės reforma\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-25041
+
+<a id="claim-t-75597"></a>
+- t-002
+  teiginys: "Žemės reformos strategija buvo kuriama ir diegiama iš viršaus į apačią, nepaisant žemės ūkyje dirbusiųjų nuomonės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-73327
+

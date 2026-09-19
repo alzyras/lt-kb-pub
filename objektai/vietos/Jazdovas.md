@@ -36,34 +36,6 @@ historical_names: []
 
 Mindaugas Mazovijoje užklupo Zemovitą ir jo sūnų Konradą, kurie su palyda vasarą gyveno Jazdovo dvare. Mindaugas, remiamas rusų, miškų takais įsibrovė į Mazoviją ir Jazdovo dvare užklupo Zemovitą bei jo sūnų Konradą.
 
-## Teiginiai
-
-<a id="claim-t-185326"></a>
-- t-001
-  teiginys: "Mindaugas Mazovijoje užklupo Zemovitą ir jo sūnų Konradą, kurie su palyda vasarą gyveno Jazdovo dvare."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-168687
-
-<a id="claim-t-193456"></a>
-- t-002
-  teiginys: "Mindaugas, remiamas rusų, miškų takais įsibrovė į Mazoviją ir Jazdovo dvare užklupo Zemovitą bei jo sūnų Konradą."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-168687
-
 ## Citatos
 
 - id: c-168687
@@ -94,6 +66,35 @@ Mindaugas Mazovijoje užklupo Zemovitą ir jo sūnų Konradą, kurie su palyda v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-185326"></a>
+- t-001
+  teiginys: "Mindaugas Mazovijoje užklupo Zemovitą ir jo sūnų Konradą, kurie su palyda vasarą gyveno Jazdovo dvare."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-168687
+
+<a id="claim-t-193456"></a>
+- t-002
+  teiginys: "Mindaugas, remiamas rusų, miškų takais įsibrovė į Mazoviją ir Jazdovo dvare užklupo Zemovitą bei jo sūnų Konradą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-168687
+

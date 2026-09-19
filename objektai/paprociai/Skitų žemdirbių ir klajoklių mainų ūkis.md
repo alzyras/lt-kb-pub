@@ -48,20 +48,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-197571"></a>
-- t-001
-  teiginys: "Remiantis mūsų prielaida (ją įrodyti reikėtų pernelyg daug laiko), Herodoto minimi skitai buvo senovinės indų—kaukaziečių genties (taip ją va dino Kiuvjė ir Bliumenbachas) palikuonys."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-177271
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Skitų klajokliai maistą gaudavo augindami gyvulius, medžiodami ir žvejodami, o grūdus mainydavo iš žemdirbių.'
@@ -106,5 +92,54 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-196817
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 51"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 51."
+  citata_originali: |
+    Remiantis
+    mūsų prielaida (ją įrodyti reikėtų pernelyg daug laiko), Herodoto
+    minimi skitai buvo senovinės indų—kaukaziečių genties (taip ją va­
+    dino Kiuvjė ir Bliumenbachas) palikuonys. Tai buvo pirmykštė, gau­
+    si ir galinga tauta, iš kurios žiloje senovėje Azijoje ir Europoje iš­
+    siskyrė kelios šakos. Si tauta buvo gimininga pelazgams. Iš skitų
+    kilo budina, o ką jau kalbėti apie kitas mūsų nagrinėjamam objektui
+    tolimas tautas*.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+    - t-215471
+
+## Teiginiai
+
+<a id="claim-t-215481"></a>
+- t-001
+  teiginys: "Remiantis mūsų prielaida (ją įrodyti reikėtų pernelyg daug laiko), Herodoto minimi skitai buvo senovinės indų—kaukaziečių genties (taip ją va dino Kiuvjė ir Bliumenbachas) palikuonys."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196817
+
+<a id="claim-t-215471"></a>
+- t-215471
+  teiginys: "Skitų gentys dalijosi į įvairias kartas arba klases, bet dvi svarbiausios buvo šios: žemdirbių ir klajoklių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196817
+

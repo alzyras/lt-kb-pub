@@ -39,20 +39,6 @@ historical_names: []
 
 Yra išlikusių žinių, kad Kauno seniūnija dar kartą buvo atitekusi karalienei.
 
-## Teiginiai
-
-<a id="claim-t-201709"></a>
-- t-001
-  teiginys: "Yra išlikusių žinių, kad Kauno seniūnija dar kartą buvo atitekusi karalienei."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185056
-
 ## Citatos
 
 - id: c-185056
@@ -69,5 +55,20 @@ Yra išlikusių žinių, kad Kauno seniūnija dar kartą buvo atitekusi karalien
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201709"></a>
+- t-001
+  teiginys: "Yra išlikusių žinių, kad Kauno seniūnija dar kartą buvo atitekusi karalienei."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185056
+

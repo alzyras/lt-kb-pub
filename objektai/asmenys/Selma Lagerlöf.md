@@ -34,17 +34,6 @@ canonical_biography: "Selma Lagerlöf KRISTAUS ROŽES LEGENDA IR KITI PASAKO­ J
 
 Selma Lagerlöf KRISTAUS ROŽES LEGENDA IR KITI PASAKO­ JIMAI.
 
-## Teiginiai
-
-<a id="claim-t-34758"></a>
-- t-001
-  teiginys: "Selma Lagerlöf už savo literatūros kūrinius buvo gavusi Nobelio premiją."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-35983
-
 ## Citatos
 
 - id: c-35983
@@ -68,5 +57,17 @@ Selma Lagerlöf KRISTAUS ROŽES LEGENDA IR KITI PASAKO­ JIMAI.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-34758"></a>
+- t-001
+  teiginys: "Selma Lagerlöf už savo literatūros kūrinius buvo gavusi Nobelio premiją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-35983
+

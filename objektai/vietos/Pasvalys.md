@@ -50,10 +50,22 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
 
 ## Teiginiai
 
+<a id="claim-t-207884"></a>
+- t-207884
+  teiginys: "1557 m. rugpjūčio 26 d. valdovas atvyko ir apsistojo Pasvalyje."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190416
+
 <a id="claim-t-171948"></a>
-- t-001
+- t-171948
   teiginys: "Zigmantas Augustas su didele lietuvių ir lenkų kariuomene išsiruošė į žygį ir sustojo Pasvalyje."
-  atnaujinta: "2026-06-13 18:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Pasvalys: 0.88"
   ryšio_patikimumo_lygis: "aukstas"
@@ -69,9 +81,9 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
     - c-166461
 
 <a id="claim-t-201655"></a>
-- t-002
+- t-201655
   teiginys: "Štai nuo 1507 iki 1544 m. Kauno klebonu vadinamas Erazmas Eustachijus buvo ne tik Vilniaus vyskupijos kapitulos kanauninkas ir Pasvalio klebonas, bet ir vienas iš Kauno muitininkų, vertėsi miško verslu."
-  atnaujinta: "2026-07-19 10:18"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -100,8 +112,8 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-171948
 
 - id: c-166461
   redaktorius: "A. Šapoka"
@@ -120,8 +132,8 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-171948
 
 - id: c-185002
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -138,5 +150,27 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-201655
+
+- id: c-190416
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 170"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 170."
+  citata_originali: |
+    Lietuvos kariuomenei talkino 500 Lenkijos karių ir Prūsijos
+    hercogo Albrechto pajėgos.
+    60 Į kariuomenės susirinkimo vietą liepos 17 d. iš Vilniaus
+    išvyko ir valdovas Žygimantas Augustas. Pro Balninkus, Penionis (prie Kavarsko),
+    Anykščius, Kupiškį rugpjūčio 26 d. atvyko ir apsistojo Pasvalyje.
+  citata_rodoma: "Pro Balninkus, Penionis (prie Kavarsko),\nAnykščius, Kupiškį rugpjūčio 26 d. atvyko ir apsistojo Pasvalyje."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207884
+

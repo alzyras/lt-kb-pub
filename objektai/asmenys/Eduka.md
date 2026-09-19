@@ -44,10 +44,34 @@ Eduka kartu su Volfu vadovavo skiriams, o apie 355 m. gelbėjo savo žmonių lik
 
 ## Teiginiai
 
-<a id="claim-t-191201"></a>
-- t-001
+<a id="claim-t-213909"></a>
+- t-003
+  teiginys: "Eduka atėjo iš Noriko su herulais ir jų sąjungininkais."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195201
+
+<a id="claim-t-213588"></a>
+- t-213588
+  teiginys: "Taip pat rašoma, jog Odoakras buvo Eduikos, arba Edukono, sūnus."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195928
+
+<a id="claim-t-212540"></a>
+- t-212540
   teiginys: "Eduka kartu su Volfu vadovavo skiriams, o apie 355 m. gelbėjo savo žmonių likučius, persikėlusius į dešinįjį Dunojaus krantą."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -66,12 +90,12 @@ Eduka kartu su Volfu vadovavo skiriams, o apie 355 m. gelbėjo savo žmonių lik
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Eduką ir tiesiogiai paremtas citata. Nepridėta papildomų faktų už vadovavimo, gelbėjimo ir persikėlimo apie 355 m. ribų."
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
   pagrindžia:
-    - c-174083
+    - c-196564
 
-<a id="claim-t-191948"></a>
-- t-002
+<a id="claim-t-214547"></a>
+- t-214547
   teiginys: "Teodoras Narbutas iš dviejų vadų skirių stovykloje darė išvadą, kad Eduka galėjo vadovauti skiriams, o Volfas - sudargams arba kad abi gentys turėjo savo vadus."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-13 18:13"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -87,7 +111,7 @@ Eduka kartu su Volfu vadovavo skiriams, o apie 355 m. gelbėjo savo žmonių lik
   semantiniai_rysiai: "Skiriai gyveno Isteris (0.80); Sudargai gyveno Isteris (0.80)"
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
   pagrindžia:
-    - c-174830
+    - c-196158
 
 ## Citatos
 
@@ -112,8 +136,6 @@ Eduka kartu su Volfu vadovavo skiriams, o apie 355 m. gelbėjo savo žmonių lik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-174830
   autorius: "Teodoras Narbutas"
@@ -142,5 +164,96 @@ Eduka kartu su Volfu vadovavo skiriams, o apie 355 m. gelbėjo savo žmonių lik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-195201
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 312"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 312."
+  citata_originali: |
+    Su jais atvyko Orestas ir Eduka; pirmasis vadovavo miš­
+    riai germanų kariuomenei, antrasis atėjo iš Noriko su
+    herulais ir jų sąjungininkais, t. y. rugiais ir turcilingais.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+
+- id: c-195928
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 316"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 316."
+  citata_originali: |
+    Taip pat rašoma, jog Odoakras buvo Eduikos, arba
+    Edukono, sūnus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213588
+
+- id: c-196158
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 294"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 294."
+  citata_originali: |
+    Sudargai, kuriuos istorikai vadina
+    Satargarii ir Sadargii, buvo ištikimiausi skiriu bičiuliai:
+    visi drauge įsikūrė prie Dunojaus žemupio, kartu patyrė
+    likimo smūgius, kuriuos labiau užtraukė klastingi svebų
+    karaliukų patarimai negu jų pačių neapdairumas ar gotų
+    priespaudos priežastys. Kadangi paskutinio žygio metu
+    skiriu stovykloje buvo du vadai — Eduka ir Volfas, tai
+    pagrįstai galima daryti išvadą, kad pirmasis vadovavo
+    skiriams, o antrasis — sudargams arba kad tarp abiejų
+    vienos giminės genčių buvo sąjunga ir kiekviena iš jų
+    turėjo savo vadą.
+    289
+    Vėliau dešiniojoje Dunojaus pakrantėje gyvenę skiri ai
+    ir sudargai kiek pagerino savo reikalus, padidinę karinę
+    galią, galbūt: atvykus tiesiai iš gimtosios žemės naujiems
+    žmonėms.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214547
+
+- id: c-196564
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 294"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 294."
+  citata_originali: |
+    Šios vilties ir narsos, ku­
+    rią suteikia keršto troškimas, skatinami, skiri ai skubėjo
+    su savo vadais Eduka ir Volfu pagelbėti svebams. Ir vėl
+    laimės žvaigždė lydėjo gotus, kurie niekais pavertė vi­
+    sus pasikėsinimus j jų valdžią. Ištikus šiai nelaimei, Edu­
+    ka gelbėjo likučius savo žmonių, kurie, palikę savo gy­
+    venamąsias vietas Mezijoje, kėlėsi į dešiniąją Dunojaus
+    pakrantę ir pasidavė romėnų globai. Šis kraustymasis
+    kartu su kitomis dėl šių politinių įvykių persekiojamomis
+    gotų gentimis įvyko apie 355 metus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212540
+

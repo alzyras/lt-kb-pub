@@ -41,20 +41,6 @@ canonical_biography: "Kaune gyvenimą baigė Mikalojus Lancicijus (Lęczyckis, 1
 
 Kaune gyvenimą baigė Mikalojus Lancicijus (Lęczyckis, 1574-1653), garsus Jėzuitų ordino veikėjas ne tik Lietuvoje, bet ir Romoje, Lenkijoje, Čekijoje, asketinių ir poleminių tekstų autorius, 1607-1609 m. Vilniaus akademijos profesorius, 1627-1631 m. Lietuvos.
 
-## Teiginiai
-
-<a id="claim-t-202148"></a>
-- t-001
-  teiginys: "Kaune gyvenimą baigė Mikalojus Lancicijus (Lęczyckis, 1574-1653), garsus Jėzuitų ordino veikėjas ne tik Lietuvoje, bet ir Romoje, Lenkijoje, Čekijoje, asketinių ir poleminių tekstų autorius, 1607-1609 m. Vilniaus akademijos profesorius, 1627-1631 m. Lietuvos."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185495
-
 ## Citatos
 
 - id: c-185495
@@ -71,5 +57,20 @@ Kaune gyvenimą baigė Mikalojus Lancicijus (Lęczyckis, 1574-1653), garsus Jėz
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202148"></a>
+- t-001
+  teiginys: "Kaune gyvenimą baigė Mikalojus Lancicijus (Lęczyckis, 1574-1653), garsus Jėzuitų ordino veikėjas ne tik Lietuvoje, bet ir Romoje, Lenkijoje, Čekijoje, asketinių ir poleminių tekstų autorius, 1607-1609 m. Vilniaus akademijos profesorius, 1627-1631 m. Lietuvos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185495
+

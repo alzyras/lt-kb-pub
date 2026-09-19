@@ -35,34 +35,6 @@ Be to, VII amžiui įpusėjus, įvaras nužudė savo duk ters Auduros Diupaudos 
 
 Be to, VII amžiui įpusėjus, įvaras nužudė savo duk ters Auduros Diupaudos (Audura Diupaugda), arba Prae dives, pramintos Labai Turtinga, vyrą. Tačiau Lietuvos žemių kunigaikščių nepriklausomybė dar labiau sutvirtėjo po Redbarzdžio mir ties, viešpataujant Auduros pagimdytam jo sūnui Randverui, kuris ne tik kad tartum skydu užstojo Ostrogardiją nuo Skandinavijos antpuolių, bet, sekdamas savo senelio.
 
-## Teiginiai
-
-<a id="claim-t-205247"></a>
-- t-001
-  teiginys: "Be to, VII amžiui įpusėjus, įvaras nužudė savo duk ters Auduros Diupaudos (Audura Diupaugda), arba Prae dives, pramintos Labai Turtinga, vyrą."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-187760
-
-<a id="claim-t-205293"></a>
-- t-002
-  teiginys: "Tačiau Lietuvos žemių kunigaikščių nepriklausomybė dar labiau sutvirtėjo po Redbarzdžio mir ties, viešpataujant Auduros pagimdytam jo sūnui Randverui, kuris ne tik kad tartum skydu užstojo Ostrogardiją nuo Skandinavijos antpuolių, bet, sekdamas savo senelio."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-187863
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Be to, VII amžiui įpusėjus, įvaras nužudė savo duk ters Auduros Diupaudos (Audura Diupaugda), arba Prae dives, pramintos Labai Turtinga, vyrą.'
@@ -100,7 +72,7 @@ Be to, VII amžiui įpusėjus, įvaras nužudė savo duk ters Auduros Diupaudos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-187863
@@ -120,5 +92,34 @@ Be to, VII amžiui įpusėjus, įvaras nužudė savo duk ters Auduros Diupaudos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-205247"></a>
+- t-001
+  teiginys: "Be to, VII amžiui įpusėjus, įvaras nužudė savo duk ters Auduros Diupaudos (Audura Diupaugda), arba Prae dives, pramintos Labai Turtinga, vyrą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187760
+
+<a id="claim-t-205293"></a>
+- t-002
+  teiginys: "Tačiau Lietuvos žemių kunigaikščių nepriklausomybė dar labiau sutvirtėjo po Redbarzdžio mir ties, viešpataujant Auduros pagimdytam jo sūnui Randverui, kuris ne tik kad tartum skydu užstojo Ostrogardiją nuo Skandinavijos antpuolių, bet, sekdamas savo senelio."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187863
+

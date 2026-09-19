@@ -46,34 +46,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206720"></a>
-- t-001
-  teiginys: "1370 m. pabaigoje Algirdas, Kęstutis ir Liubartas, sujungę savo kariaunas, iš Voluinės įsiveržė į Lenkijos Rusią ir užėmė žemes iki Liublino."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189335
-
-<a id="claim-t-206721"></a>
-- t-002
-  teiginys: "Senieji metraščiai pasakoja, kad iš Lenkijos gabenant auksinį kryžių su kryžiaus medžio nuolauža vežimas sustojo prie sienos, o jį traukę žmonės krito lyg negyvi."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189336
-
 ## Santrauka
 
 1370 m. pabaigoje Algirdas, Kęstutis ir Liubartas, sujungę savo kariaunas, iš Voluinės įsiveržė į Lenkijos Rusią ir užėmė žemes iki Liublino. Senieji metraščiai pasakoja, kad iš Lenkijos gabenant auksinį kryžių su kryžiaus medžio nuolauža vežimas sustojo prie sienos, o jį traukę žmonės krito lyg negyvi.
@@ -96,7 +68,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189336
@@ -119,5 +91,34 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-206720"></a>
+- t-001
+  teiginys: "1370 m. pabaigoje Algirdas, Kęstutis ir Liubartas, sujungę savo kariaunas, iš Voluinės įsiveržė į Lenkijos Rusią ir užėmė žemes iki Liublino."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189335
+
+<a id="claim-t-206721"></a>
+- t-002
+  teiginys: "Senieji metraščiai pasakoja, kad iš Lenkijos gabenant auksinį kryžių su kryžiaus medžio nuolauža vežimas sustojo prie sienos, o jį traukę žmonės krito lyg negyvi."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189336
+

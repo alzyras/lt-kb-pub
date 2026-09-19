@@ -40,21 +40,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206822"></a>
-- t-001
-  teiginys: "Teodoro Narbuto pasakojime, Kęstučiui atvykus tarpininkauti, Lenkijos karalius Liudvikas perdavė Jurgiui Narimantaičiui Belzą ir Liubačevą, įpareigodamas jį prisiekti Lenkijos vasalu."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189437
-
 ## Santrauka
 
 Teodoro Narbuto pasakojime, Kęstučiui atvykus tarpininkauti, Lenkijos karalius Liudvikas perdavė Jurgiui Narimantaičiui Belzą ir Liubačevą, įpareigodamas jį prisiekti Lenkijos vasalu.
@@ -80,5 +65,21 @@ Teodoro Narbuto pasakojime, Kęstučiui atvykus tarpininkauti, Lenkijos karalius
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206822"></a>
+- t-001
+  teiginys: "Teodoro Narbuto pasakojime, Kęstučiui atvykus tarpininkauti, Lenkijos karalius Liudvikas perdavė Jurgiui Narimantaičiui Belzą ir Liubačevą, įpareigodamas jį prisiekti Lenkijos vasalu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189437
+

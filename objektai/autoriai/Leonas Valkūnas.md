@@ -41,25 +41,6 @@ canonical_biography: "Leonas Valkūnas šiame leidime du kartus tiesiogiai nurod
 
 Leonas Valkūnas šiame leidime du kartus tiesiogiai nurodomas kaip „Lietuvos istorijos“ vertėjas iš lotynų kalbos.
 
-## Teiginiai
-
-<a id="claim-t-184471"></a>
-- t-001
-  teiginys: "Leonas Valkūnas iš lotynų kalbos vertė šį „Lietuvos istorijos“ leidimą."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/02_extract_authors_notes.md::validation_repair"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Leonas Valkūnas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=43"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Leonas Valkūnas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-167830
-
 ## Citatos
 
 - id: c-167830
@@ -93,5 +74,4 @@ Leonas Valkūnas šiame leidime du kartus tiesiogiai nurodomas kaip „Lietuvos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

@@ -27,17 +27,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad todėl jis tarė Skomantui: „Negi tam čia mane atsivedei, kad tas žmogus mane užgauliotų įžeidžiamais žodžiais?“ Jam atsakė Skomantas: „Apgailestauju, kad esi koneveikiamas, jeigu drįsti, atsikeršyk už tau daromas nuoskaudas, o aš tau padėsiu“.
 
-## Teiginiai
-
-<a id="claim-t-59102"></a>
-- t-001
-  teiginys: "Puotoje Skomantas paragino brolį Liudviką atsikeršyti už įžeidimus ir pažadėjo jam padėti."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-59734
-
 ## Citatos
 
 - id: c-59734
@@ -57,5 +46,4 @@ Dusburgietis teigia, kad todėl jis tarė Skomantui: „Negi tam čia mane atsiv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

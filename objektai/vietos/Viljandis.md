@@ -43,48 +43,6 @@ historical_names: []
 
 Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuoknesę (Kokenhausen) ir Viljandį (Fellin). 1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.
 
-## Teiginiai
-
-<a id="claim-t-42274"></a>
-- t-001
-  teiginys: "1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Daugavgryva: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jonas Karolis Chodkevičius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Daugavgryva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Quote tiesiogiai nurodo bandymą pulti Daugavgryvą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Jonas Karolis Chodkevičius puolė Daugavgryva (0.93); Jonas Karolis Chodkevičius keliavo į Livonija (0.90); Jonas Karolis Chodkevičius užėmė Kuoknesė (0.78); Jonas Karolis Chodkevičius užėmė Viljandis (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1608 m.; įvykio data: 1609 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo laiką, veikėją, vietą ir rezultatą."
-  pagrindžia:
-    - c-45407
-
-<a id="claim-t-42275"></a>
-- t-002
-  teiginys: "Per trumpą laiką Švedijos kariuomenė užėmė Paidę, Kuoknesę ir Viljandį."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Viljandis: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Švedijos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Viljandis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Švedijos kariuomenė užėmė Viljandį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Švedijos kariuomenė užėmė Viljandis (0.95); Švedijos kariuomenė užėmė Kuoknesė (0.94); Švedijos kariuomenė užėmė Paidė (0.94)"
-  temporaliniai_duomenys: "įvykio data: 1608 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Viljandžio užėmimą."
-  pagrindžia:
-    - c-45408
-
 ## Citatos
 
 - id: c-45407
@@ -110,7 +68,7 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-45408
@@ -134,8 +92,51 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai
 - Užėmė Viljandį: [[objektai/grupes/Maskvėnai]], [[objektai/grupes/Rusai]], [[objektai/grupes/Švedijos kariuomenė]]
+
+## Teiginiai
+
+<a id="claim-t-42274"></a>
+- t-001
+  teiginys: "1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Daugavgryva: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jonas Karolis Chodkevičius: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Daugavgryva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Quote tiesiogiai nurodo bandymą pulti Daugavgryvą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Jonas Karolis Chodkevičius puolė Daugavgryva (0.93); Jonas Karolis Chodkevičius keliavo į Livonija (0.90); Jonas Karolis Chodkevičius užėmė Kuoknesė (0.78); Jonas Karolis Chodkevičius užėmė Viljandis (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1608 m.; įvykio data: 1609 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo laiką, veikėją, vietą ir rezultatą."
+  pagrindžia:
+    - c-45407
+
+<a id="claim-t-42275"></a>
+- t-002
+  teiginys: "Per trumpą laiką Švedijos kariuomenė užėmė Paidę, Kuoknesę ir Viljandį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Viljandis: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Švedijos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Viljandis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Švedijos kariuomenė užėmė Viljandį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Švedijos kariuomenė užėmė Viljandis (0.95); Švedijos kariuomenė užėmė Kuoknesė (0.94); Švedijos kariuomenė užėmė Paidė (0.94)"
+  temporaliniai_duomenys: "įvykio data: 1608 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys apie Viljandžio užėmimą."
+  pagrindžia:
+    - c-45408
+

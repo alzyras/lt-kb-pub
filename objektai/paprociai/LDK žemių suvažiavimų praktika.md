@@ -45,21 +45,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-204398"></a>
-- t-001
-  teiginys: "Atviros struktūros LDK žemių suvažiavimuose, be Ponų tarybos atstovų, galėdavo dalyvauti suinteresuoti aplinkinių, o kartais ir tolimesnių kraštų bajorai."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
-  pagrindžia:
-    - c-187002
-
 ## Santrauka
 
 Atviros struktūros LDK žemių suvažiavimuose, be Ponų tarybos atstovų, galėdavo dalyvauti suinteresuoti aplinkinių, o kartais ir tolimesnių kraštų bajorai.
@@ -85,5 +70,21 @@ Atviros struktūros LDK žemių suvažiavimuose, be Ponų tarybos atstovų, gal�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204398"></a>
+- t-001
+  teiginys: "Atviros struktūros LDK žemių suvažiavimuose, be Ponų tarybos atstovų, galėdavo dalyvauti suinteresuoti aplinkinių, o kartais ir tolimesnių kraštų bajorai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-187002
+

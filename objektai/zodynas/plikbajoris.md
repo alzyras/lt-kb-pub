@@ -28,60 +28,6 @@ media_all_json: |-
 
 Į seimelius tam pačiam tikslui buvo suvežamos iš okolicų masės plikbajorių, nes ir jie turėjo lygų su didikais balsą ir, svarbiausia, turėjo prie šono bajoriškąjį ženklą — kardą, kurį kiekvienu momentu galėdavo vartoti savo pono ar to, kuris gerai užmokėdavo. Taip pat iš anksto didiko atgabentos virtuvės pa- gamindavo jiems valgyti, nes nuskurę plikbajoriai visada būdavo alkani ir tikrai sočiai pavalgydavo tik seimelio metu. Po seimelio ponas plikbajoriams dar padalindavo po truputį pinigų.
 
-## Teiginiai
-
-<a id="claim-t-72726"></a>
-- t-001
-  teiginys: "Nuskurę plikbajoriai seimelio metu būdavo maitinami didiko atgabentų virtuvių ir tik tada sočiai pavalgydavo."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-71104
-
-<a id="claim-t-72729"></a>
-- t-002
-  teiginys: "Seimelių metu didikų virtuvės maitindavo plikbajorius, kurie, anot šaltinio, sočiai pavalgydavo tik seimelyje."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  pagrindžia:
-    - c-71104
-
-<a id="claim-t-72730"></a>
-- t-003
-  teiginys: "Didikai į seimelius veždavo plikbajorius, nes šie turėjo lygų balsą su didikais ir galėjo kardu paremti pono nuomonę."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-71102
-
-<a id="claim-t-182971"></a>
-- t-004
-  teiginys: "Didikai į seimelius suveždavo plikbajorius iš okolicų, nes šie turėjo lygų balsą su didikais ir galėjo ginklu paremti pono nuomonę."
-  atnaujinta: "2026-06-13 18:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-166369
-
-<a id="claim-t-193154"></a>
-- t-005
-  teiginys: "Po seimelio ponas plikbajoriams dar padalindavo po truputį pinigų."
-  atnaujinta: "2026-07-06 12:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-175906
-
 ## Citatos
 
 - id: c-71102
@@ -103,7 +49,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-71104
@@ -124,7 +70,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -147,7 +93,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-175906
@@ -165,5 +111,60 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+## Teiginiai
+
+<a id="claim-t-72726"></a>
+- t-001
+  teiginys: "Nuskurę plikbajoriai seimelio metu būdavo maitinami didiko atgabentų virtuvių ir tik tada sočiai pavalgydavo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-71104
+
+<a id="claim-t-72729"></a>
+- t-002
+  teiginys: "Seimelių metu didikų virtuvės maitindavo plikbajorius, kurie, anot šaltinio, sočiai pavalgydavo tik seimelyje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
+  pagrindžia:
+    - c-71104
+
+<a id="claim-t-72730"></a>
+- t-003
+  teiginys: "Didikai į seimelius veždavo plikbajorius, nes šie turėjo lygų balsą su didikais ir galėjo kardu paremti pono nuomonę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-71102
+
+<a id="claim-t-182971"></a>
+- t-004
+  teiginys: "Didikai į seimelius suveždavo plikbajorius iš okolicų, nes šie turėjo lygų balsą su didikais ir galėjo ginklu paremti pono nuomonę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-166369
+
+<a id="claim-t-193154"></a>
+- t-005
+  teiginys: "Po seimelio ponas plikbajoriams dar padalindavo po truputį pinigų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-175906
+

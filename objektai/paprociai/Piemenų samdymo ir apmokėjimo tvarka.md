@@ -60,26 +60,6 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-195364"></a>
-- t-001
-  teiginys: "Rudenį piemeniui rinkdavo piliavą javais, o prieš Kalėdas paviržius mėsa."
-  atnaujinta: "2026-07-12 02:18"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177777
-
-<a id="claim-t-195365"></a>
-- t-002
-  teiginys: "Kaimo ūkininkai buvo susitarę, kaip nuo pilno ir pusės gyvenimo turi būti ganoma pakaitomis."
-  atnaujinta: "2026-07-12 02:18"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177778
-
 <a id="claim-t-195366"></a>
 - t-003
   teiginys: "Piemeniui už ganymą būdavo mokama pinigais, bulvėmis, drabužiu ir maistu."
@@ -89,6 +69,26 @@ Nenurodyta
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177779
+
+<a id="claim-t-195364"></a>
+- t-195364
+  teiginys: "Rudenį piemeniui rinkdavo piliavą javais, o prieš Kalėdas paviržius mėsa."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177777
+
+<a id="claim-t-195365"></a>
+- t-195365
+  teiginys: "Kaimo ūkininkai buvo susitarę, kaip nuo pilno ir pusės gyvenimo turi būti ganoma pakaitomis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177778
 
 ## Reikšmingi paminėjimai
 Nenurodyta
@@ -112,8 +112,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-195364
 
 - id: c-177778
   autorius: "M. Katkus"
@@ -135,8 +135,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-195365
 
 - id: c-177779
   autorius: "M. Katkus"
@@ -153,9 +153,11 @@ Nenurodyta
     ganomomis dienomis mes duodame valgyti.
   citata_rodoma: "Už tatai sumokėjome penkis rublius pinigais ir pasodinome puspūrį bulvių. Visas drabužis jo, tik ganomomis dienomis mes duodame valgyti."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+

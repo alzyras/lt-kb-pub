@@ -24,20 +24,6 @@ media_all_json: |-
 
 Keliolika Kauno pavieto bajorų konstatavo, kad mūsų Petrašiūnų dvaro mūsų visų bendras miškas, vienu šonu esantis prie kelio, kuris eina i Kauną nuo bajorų Gedsautavičių, iš kitos pusės nuo Vieškūnų kaimo, valdovo Kauno pavieto valdinių, ribos iki pat Nemuno.
 
-## Teiginiai
-
-<a id="claim-t-202254"></a>
-- t-001
-  teiginys: "Keliolika Kauno pavieto bajorų konstatavo, kad mūsų Petrašiūnų dvaro mūsų visų bendras miškas, vienu šonu esantis prie kelio, kuris eina i Kauną nuo bajorų Gedsautavičių, iš kitos pusės nuo Vieškūnų kaimo, valdovo Kauno pavieto valdinių, ribos iki pat Nemuno."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185601
-
 ## Citatos
 
 - id: c-185601
@@ -55,5 +41,20 @@ Keliolika Kauno pavieto bajorų konstatavo, kad mūsų Petrašiūnų dvaro mūs�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202254"></a>
+- t-001
+  teiginys: "Keliolika Kauno pavieto bajorų konstatavo, kad mūsų Petrašiūnų dvaro mūsų visų bendras miškas, vienu šonu esantis prie kelio, kuris eina i Kauną nuo bajorų Gedsautavičių, iš kitos pusės nuo Vieškūnų kaimo, valdovo Kauno pavieto valdinių, ribos iki pat Nemuno."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185601
+

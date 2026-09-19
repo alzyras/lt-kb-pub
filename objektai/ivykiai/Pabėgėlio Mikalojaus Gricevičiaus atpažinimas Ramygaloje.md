@@ -42,24 +42,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-203773"></a>
-- t-001
-  teiginys: "1586 m. Ramygaloje Jurijaus Juknevičiaus pavaldinys atpažino pabėgusio Mikalojaus Gricevičiaus išvestą arklį, o Jono Baltušniko namuose rasti ir kiti M. Gricevičiaus pasiimti daiktai."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  temporaliniai_duomenys: "įvykio data: 1586 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas neaiškus žodis „kiti“, įvardyti atpažinimo dalyviai ir aiškiau susieti rasti daiktai su Mikalojumi Gricevičiumi."
-  vertinimo_atnaujinta: "2026-07-30T20:06:12Z"
-  pagrindžia:
-    - c-186377
-
 ## Santrauka
 
 1586 m. Ramygaloje Jurijaus Juknevičiaus pavaldinys atpažino pabėgusio Mikalojaus Gricevičiaus išvestą arklį, o Jono Baltušniko namuose rasti ir kiti M. Gricevičiaus pasiimti daiktai.
@@ -88,5 +70,24 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203773"></a>
+- t-001
+  teiginys: "1586 m. Ramygaloje Jurijaus Juknevičiaus pavaldinys atpažino pabėgusio Mikalojaus Gricevičiaus išvestą arklį, o Jono Baltušniko namuose rasti ir kiti M. Gricevičiaus pasiimti daiktai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1586 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas neaiškus žodis „kiti“, įvardyti atpažinimo dalyviai ir aiškiau susieti rasti daiktai su Mikalojumi Gricevičiumi."
+  vertinimo_atnaujinta: "2026-07-30T20:06:12Z"
+  pagrindžia:
+    - c-186377
+

@@ -42,25 +42,6 @@ canonical_biography: "146 - prieraš.) pasakoja, kad 1432 metais vietininkai Joa
 
 146 - prieraš.) pasakoja, kad 1432 metais vietininkai Joachimas ir Alek­ sas Jefremovičius su Pskovo bojari­ nais atvyko pas Švitrigailą ir sudarė su juo sutartį, kurioje patvirtinta se­ novinės sienos, kaip buvę Vytauto laikais.
 
-## Teiginiai
-
-<a id="claim-t-87617"></a>
-- t-001
-  teiginys: "1432 metais Aleksas Jefremovičius su Joachimu ir Pskovo bojarinais atvyko pas Švitrigailą sudaryti sutarties."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "sudare_sutarti_su -> Švitrigaila: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Joachimas (Pskovo vietininkas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata nurodo, kad Joachimas su kitais atvyko pas Švitrigailą ir sudarė sutartį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Aleksas Jefremovičius sudarė sutartį su Švitrigaila (0.90); Joachimas (Pskovo vietininkas) sudarė sutartį su Švitrigaila (0.90)"
-  pagrindžia:
-    - c-83596
-
 ## Citatos
 
 - id: c-83596
@@ -84,8 +65,28 @@ canonical_biography: "146 - prieraš.) pasakoja, kad 1432 metais vietininkai Joa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Aleksas Jefremovičius sudarė sutartį su [[objektai/asmenys/Švitrigaila]]
+
+## Teiginiai
+
+<a id="claim-t-87617"></a>
+- t-001
+  teiginys: "1432 metais Aleksas Jefremovičius su Joachimu ir Pskovo bojarinais atvyko pas Švitrigailą sudaryti sutarties."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "sudare_sutarti_su -> Švitrigaila: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Joachimas (Pskovo vietininkas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata nurodo, kad Joachimas su kitais atvyko pas Švitrigailą ir sudarė sutartį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Aleksas Jefremovičius sudarė sutartį su Švitrigaila (0.90); Joachimas (Pskovo vietininkas) sudarė sutartį su Švitrigaila (0.90)"
+  pagrindžia:
+    - c-83596
+

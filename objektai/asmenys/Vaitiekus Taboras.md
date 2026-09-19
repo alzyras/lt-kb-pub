@@ -49,10 +49,23 @@ canonical_biography: "Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena
 
 ## Teiginiai
 
+<a id="claim-t-210855"></a>
+- t-210855
+  teiginys: "Vaitiekus Taboras buvo Vilniaus vyskupu 1492— 1507.111.27."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-193388
+
 <a id="claim-t-87411"></a>
-- t-001
+- t-87411
   teiginys: "Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžezinskis ir Jonas Laskis."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jonas Laskis: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -66,9 +79,9 @@ canonical_biography: "Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena
     - c-83392
 
 <a id="claim-t-87412"></a>
-- t-002
+- t-87412
   teiginys: "Vilniaus vyskupas Vaitiekus Taboras ragino ir rėmė miestiečius, apjuosusius Vilnių mūro pylimu."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Minskas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -82,9 +95,9 @@ canonical_biography: "Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena
     - c-83393
 
 <a id="claim-t-87413"></a>
-- t-003
+- t-87413
   teiginys: "Vaitiekus Taboras, lietuvių bajoras nuo Eišiškių, 1491 m. buvo iškeltas į vyskupus ir mirė 1507 m."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -101,9 +114,9 @@ canonical_biography: "Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena
     - c-83390
 
 <a id="claim-t-87414"></a>
-- t-004
+- t-87414
   teiginys: "Vilniaus vyskupas Vaitiekus Taboras kartu su graikų tikėjimo dvasininku Foma sutuokė didįjį kunigaikštį su Elena."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Foma: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -116,29 +129,10 @@ canonical_biography: "Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena
   pagrindžia:
     - c-83391
 
-<a id="claim-t-184852"></a>
-- t-005
-  teiginys: "Po Vilniaus vyskupo Andriaus mirties jo įpėdiniu tapo šviesiausios kilmės Vaitiekus Taboras."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Aleksandras: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vaitiekus Taboras (vyskupas, XV–XVI a.): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaitiekus Taboras (vyskupas, XV–XVI a.)\" parinktas kaip owner_note_path. Targetas \"Aleksandras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168213
-
 <a id="claim-t-184853"></a>
-- t-006
+- t-184853
   teiginys: "Kojelavičius pasakoja, kad Vaitiekus Taboras meldė Dievo laiminti valstybę, ragino kunigaikštį sekti prosenelių keliu ir uždėjo jam valdžios vainiką."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   patikimumo_lygis: "vidutinis"
@@ -206,8 +200,8 @@ canonical_biography: "Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-87413
 
 - id: c-83391
   autorius: "Michał Baliński"
@@ -228,8 +222,8 @@ canonical_biography: "Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-87414
 
 - id: c-83392
   autorius: "Michał Baliński"
@@ -250,8 +244,8 @@ canonical_biography: "Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-87411
 
 - id: c-83393
   autorius: "Michał Baliński"
@@ -274,8 +268,8 @@ canonical_biography: "Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-87412
 
 - id: c-168213
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -311,8 +305,6 @@ canonical_biography: "Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
 
 - id: c-168214
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -337,5 +329,22 @@ canonical_biography: "Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-184853
+
+- id: c-193388
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 326"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 326."
+  citata_originali: |
+    Vaitiekus Taboras buvo Vilniaus vyskupu 1492— 1507.111.27.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210855
+

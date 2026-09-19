@@ -54,10 +54,47 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
 
 ## Teiginiai
 
+<a id="claim-t-210740"></a>
+- t-210740
+  teiginys: "Jurgis Svetoslavovičius viešėjo Riazanėje pas savo uošvį Olegą Ivanovičių."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193879
+
+<a id="claim-t-210936"></a>
+- t-210936
+  teiginys: "Lietuvos metraštis teigia, kad ir Moldavų bei Besarabų šalies valdovai, valachų kalba vadinami vaivadomis5, ir Bu'garų šalies val dovas, bulgarų kalba vadinamas despotu6, ir kiti di dieji kunigaikščiai — Tverės didysis kunigaikštis, ir Riazanės didysis kunigaikštis, ir Odojevo didysis ku."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194278
+
+<a id="claim-t-210647"></a>
+- t-210647
+  teiginys: "Lietuvos metraštis Olegą vadina Riazanės kunigaikščiu ir nurodo, kad 6909 metais jis su Jurijumi Svetoslavovičiumi atėjo prie Smolensko."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-194075
+
 <a id="claim-t-99062"></a>
-- t-001
+- t-99062
   teiginys: "Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėti joms didelę įtaką."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -71,9 +108,9 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     - c-37695
 
 <a id="claim-t-99064"></a>
-- t-002
+- t-99064
   teiginys: "1430 m. Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Trakai: 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -91,9 +128,9 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     - c-93193
 
 <a id="claim-t-99065"></a>
-- t-003
+- t-99065
   teiginys: "Iš Smolensko puldamas Riazanę Vytautas priartėjo prie savo žento Vosyliaus I valdų, nors oficialiai laikėsi su juo taikos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Riazanė: 0.88"
   ryšio_patikimumo_lygis: "aukstas"
@@ -108,9 +145,9 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     - c-32383
 
 <a id="claim-t-99066"></a>
-- t-004
+- t-99066
   teiginys: "Riazanės kunigaikštis Olegas atkakliai prašė paleisti Vilniaus Aukštutinėje pilyje kalintą savo žentą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -124,9 +161,9 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     - c-93189
 
 <a id="claim-t-99067"></a>
-- t-005
+- t-99067
   teiginys: "Vytautas siekė Riazanę ir kitas rytų žemes paimti savo valdžion arba turėti joms didelę įtaką."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -140,9 +177,9 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     - c-37695
 
 <a id="claim-t-99069"></a>
-- t-006
+- t-99069
   teiginys: "Jurgis pabėgo į Riazanę pas savo uošvį kunigaikštį Olegą, kuris jį priėmė."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jomantas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -156,9 +193,9 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     - c-37694
 
 <a id="claim-t-99070"></a>
-- t-007
+- t-99070
   teiginys: "Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kaributas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -172,9 +209,9 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     - c-93189
 
 <a id="claim-t-99072"></a>
-- t-008
+- t-99072
   teiginys: "1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai bei daugelis kitų Rusios atstovų."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Trakai: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -192,9 +229,9 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     - c-93193
 
 <a id="claim-t-99073"></a>
-- t-009
+- t-99073
   teiginys: "Vytautas ties Niekudavu sutriuškino Riazanės kunigaikščio eiles."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kolomna: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -208,9 +245,9 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     - c-32384
 
 <a id="claim-t-99074"></a>
-- t-010
+- t-99074
   teiginys: "Maskvos valdovas į slaptą sąjungą prieš Vytautą buvo įtraukęs Riazanę ir Tverės kunigaikštį Mykolą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Tverė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -225,9 +262,9 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     - c-93192
 
 <a id="claim-t-183088"></a>
-- t-011
+- t-183088
   teiginys: "Vytauto žygio metu buvo pasiektos Tula, Kaluga ir Riazanė."
-  atnaujinta: "2026-06-13 18:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -244,9 +281,9 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
     - c-166476
 
 <a id="claim-t-185123"></a>
-- t-012
+- t-185123
   teiginys: "Stanislovas, kijeviečiams ginantis nuo Gedimino, pabėgo į Riazanę ir ten išsižadėjo bet kokių vilčių."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -262,43 +299,10 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   pagrindžia:
     - c-168484
 
-<a id="claim-t-187646"></a>
-- t-013
-  teiginys: "Jurgis Svetoslavovičius tuo metu viešėjo Riazanėje pas savo uošvį Olegą Ivanovičių."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Bachmatai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Riazanė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Bachmatai: mention_match, thing"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Riazanė\" parinktas kaip owner_note_path. Targetas \"Bachmatai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
-  pagrindžia:
-    - c-170592
-
-<a id="claim-t-196889"></a>
-- t-014
-  teiginys: "Lietuvos metraštis Olegą vadina Riazanės kunigaikščiu ir nurodo, kad 6909 metais jis su Jurijumi Svetoslavovičiumi atėjo prie Smolensko."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-170592
-
 <a id="claim-t-206569"></a>
-- t-015
+- t-206569
   teiginys: "Teodoras Narbutas aprašo, kad Vytautas, rūpindamasis savo krašto saugumu, spalio 1 dieną užėmė Riazanę, privertė Olegą slėptis girioje, o lietuviai apiplėšė kunigaikštystę."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -330,8 +334,8 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-99065
 
 - id: c-32384
   autorius: "Zenonas Ivinskis"
@@ -349,8 +353,8 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
+  pagrindžia:
+    - t-99073
 
 - id: c-37694
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -373,8 +377,8 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-99069
 
 - id: c-37695
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -397,9 +401,9 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-005
+  pagrindžia:
+    - t-99062
+    - t-99067
 
 - id: c-93189
   autorius: "Michał Baliński"
@@ -432,9 +436,9 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
-    - t-007
+  pagrindžia:
+    - t-99066
+    - t-99070
 
 - id: c-93192
   autorius: "Zenonas Ivinskis"
@@ -452,8 +456,8 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-010
+  pagrindžia:
+    - t-99074
 
 - id: c-93193
   autorius: "Michał Baliński"
@@ -480,9 +484,9 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-008
+  pagrindžia:
+    - t-99064
+    - t-99072
 
 - id: c-166476
   redaktorius: "A. Šapoka"
@@ -500,8 +504,8 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-011
+  pagrindžia:
+    - t-183088
 
 - id: c-168484
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -525,8 +529,8 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-012
+  pagrindžia:
+    - t-185123
 
 - id: c-170592
   autorius: "Anoniminis metraštininkas"
@@ -546,9 +550,6 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-013
-    - t-014
 
 - id: c-189184
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -565,8 +566,70 @@ Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-015
+  pagrindžia:
+    - t-206569
+
+- id: c-193879
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 96-97"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 96-97."
+  citata_originali: |
+    O kunigaikštis Jurgis Svetoslavovičius tuo metu
+    viešėjo Riazanėje pas savo uošvį, kunigaikštį Olegą
+
+    Ivanovičių
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210740
+
+- id: c-194075
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 98"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 98."
+  citata_originali: |
+    Šeši tūkstančiai devyni šimtai devintaisiais metais
+    kunigaikštis Jurijus Svetoslavovičius bei Riazanės ku­
+    nigaikštis Olegas su kariuomenėmis atėjo prie Smo­
+    lensko37. Tuo metu buvo kilęs maištas ir nesantaika.
+    Vieni norėjo Vytauto, o kiti — tėvonies kunigaikščio
+    Jurijaus38. Bet kunigaikštis Jurijus susisiekė su smo-
+    lenskiečiais, tie priėmė jį ir atidarė jam miesto vartus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210647
+
+- id: c-194278
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 178"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 178."
+  citata_originali: |
+    Ir Moldavų bei Besarabų * šalies valdovai, valachų
+    kalba vadinami vaivadomis5, ir Bu'garų šalies val­
+    dovas, bulgarų kalba vadinamas despotu6, ir kiti di­
+    dieji kunigaikščiai — Tverės didysis kunigaikštis, ir
+    Riazanės didysis kunigaikštis, ir Odojevo didysis ku­
+    nigaikštis, ir Didysis Naugardas, ir Didysis Pskovas;
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210936
 
 ## Ryšiai
 - Puolė Riazanę: [[objektai/asmenys/Chudandachas]], [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]]

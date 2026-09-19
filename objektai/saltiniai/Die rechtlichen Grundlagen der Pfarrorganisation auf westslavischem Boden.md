@@ -41,20 +41,6 @@ media_all_json: |-
 
 Rechtsgeschich­ te, 50, Kanonistische Abteil., XIX, 1930, 514-552 ; XX, 1931, 451-454 p. — (”) Die rechtlichen Grundlagen der Pfarrorganisation auf westslavischem Boden, Weimar 1938, 686-724, 1091-1094, 1119-1128, 1266-1270 p. — Smolka, St.
 
-## Teiginiai
-
-<a id="claim-t-31662"></a>
-- t-001
-  teiginys: "H. F. Schmido „Die rechtlichen Grundlagen der Pfarrorganisation auf westslavischem Boden“ išleista Veimare 1938 m."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1938 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia bibliografinį fragmentą perrašyti į pilną sakinį."
-  pagrindžia:
-    - c-33554
-
 ## Citatos
 
 - id: c-33554
@@ -78,5 +64,20 @@ Rechtsgeschich­ te, 50, Kanonistische Abteil., XIX, 1930, 514-552 ; XX, 1931, 4
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-31662"></a>
+- t-001
+  teiginys: "H. F. Schmido „Die rechtlichen Grundlagen der Pfarrorganisation auf westslavischem Boden“ išleista Veimare 1938 m."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1938 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia bibliografinį fragmentą perrašyti į pilną sakinį."
+  pagrindžia:
+    - c-33554
+

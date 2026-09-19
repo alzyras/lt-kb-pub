@@ -42,21 +42,6 @@ canonical_biography: "Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimu
 
 Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšiant ir siaubiant smogta Švarnui. Kojelavičiaus pasakojime Petras kelias dienas žygiavo per priešų šalį, niokodamas kelią, bet neleido būriams palaidai plėšikauti.
 
-## Teiginiai
-
-<a id="claim-t-196578"></a>
-- t-001
-  teiginys: "Kojelavičiaus pasakojime Petras kelias dienas žygiavo per priešų šalį, niokodamas kelią, bet neleido būriams palaidai plėšikauti."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-178775
-
 ## Citatos
 
 - id: c-169516
@@ -102,6 +87,9 @@ Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšian
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
 - id: c-178775
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -128,5 +116,46 @@ Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšian
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+    - t-002
+
+## Teiginiai
+
+<a id="claim-t-186155"></a>
+- t-001
+  teiginys: "Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšiant ir siaubiant smogta Švarnui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Rusia: 0.55"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lenkai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Rusia: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata rodo lenkų karinius veiksmus po puolimo, o Švarno pusė siejama su Rusia; ryšys apibendrintas iki turimo vietos kandidato."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Lenkai puolė Rusia (0.55)"
+  temporaliniai_duomenys: "įvykio data: 1266 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko Petro paskyrimą vadu, bet pradinis teiginys yra smarkiai sugadintas OCR triukšmo."
+  pagrindžia:
+    - c-169516
+    - c-178775
+
+<a id="claim-t-196578"></a>
+- t-002
+  teiginys: "Kojelavičiaus pasakojime Petras kelias dienas žygiavo per priešų šalį, niokodamas kelią, bet neleido būriams palaidai plėšikauti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-178775
+

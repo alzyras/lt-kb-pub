@@ -154,6 +154,11 @@ function initPeriodFilters() {
     initializedPeriodFilters.add(control)
 
     const params = new URLSearchParams(location.search)
+    if (
+      control instanceof HTMLDetailsElement &&
+      ["from", "to", "unknown"].some((key) => params.has(key))
+    )
+      control.open = true
     if (params.has("from")) refs.minInput.value = params.get("from") ?? refs.minInput.value
     if (params.has("to")) refs.maxInput.value = params.get("to") ?? refs.maxInput.value
     refs.unknownInput.checked = params.get("unknown") !== "0"

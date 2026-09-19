@@ -36,27 +36,6 @@ historical_names: []
 
 Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrapės391 juos tikriausiai užtiksią. Dusburgietis teigia, kad 391 D.— Wangrapia, Jer.— an der Wangrapien; vėliau — Angerapp. Vangrapė (literatūroje — Ungurupė arba Unguriškė, dab.
 
-## Teiginiai
-
-<a id="claim-t-58648"></a>
-- t-001
-  teiginys: "Juos sulaikė išdavikas, tikindamas, kad prie Vangrapės391 juos tikriausiai užtiksią."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-13T14:43:51Z"
-  pagrindžia:
-    - c-59281
-
-<a id="claim-t-58649"></a>
-- t-002
-  teiginys: "Vangrapė, dar vadinta Ungurupe arba Unguriške, išteka iš Mamrų ežero ir šiaurėje siekia Įsruties apylinkes."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-59280
-
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Juos sulaikė išdavikas, tikindamas, kad prie Vangrapės391 juos tikriausiai užtiksią.'
@@ -89,8 +68,6 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-59281
   autorius: "Petras Dusburgietis"
@@ -107,5 +84,4 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

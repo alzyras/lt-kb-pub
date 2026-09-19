@@ -43,24 +43,6 @@ canonical_biography: "Adomas Dzentoletas teigė, kad 1738 m. Anupras Kulieša u�
 
 1738 m. Ožkinių seniūnas Anupras Kulieša, kaip teigė Adomas Dzentoleta, užpuolė jo namą, smurtavo prieš jį ir sumušė žmoną, kuri po 25 dienų ligos mirė.
 
-## Teiginiai
-
-<a id="claim-t-203916"></a>
-- t-001
-  teiginys: "1738 m. Ožkinių seniūnas Anupras Kulieša, kaip teigė Adomas Dzentoleta, užpuolė jo namą, smurtavo prieš jį ir sumušė žmoną, kuri po 25 dienų ligos mirė."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  temporaliniai_duomenys: "įvykio data: 1738 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Patikslintas Kuliešos statusas ir išskleistos smurto pasekmės. Išlaikyta ieškovo pozicijos atribucija, nes įvykis pateiktas kaip jo teiginys."
-  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
-  pagrindžia:
-    - c-186520
-
 ## Citatos
 
 - id: c-186520
@@ -77,5 +59,24 @@ canonical_biography: "Adomas Dzentoletas teigė, kad 1738 m. Anupras Kulieša u�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203916"></a>
+- t-001
+  teiginys: "1738 m. Ožkinių seniūnas Anupras Kulieša, kaip teigė Adomas Dzentoleta, užpuolė jo namą, smurtavo prieš jį ir sumušė žmoną, kuri po 25 dienų ligos mirė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1738 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslintas Kuliešos statusas ir išskleistos smurto pasekmės. Išlaikyta ieškovo pozicijos atribucija, nes įvykis pateiktas kaip jo teiginys."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186520
+

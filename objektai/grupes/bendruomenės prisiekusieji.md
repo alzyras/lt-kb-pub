@@ -24,20 +24,6 @@ media_all_json: |-
 
 JlĮ priekyje atsidūrė vadinamieji bendruomenės prisiekusieji (commlmitas iI/rata).
 
-## Teiginiai
-
-<a id="claim-t-201880"></a>
-- t-001
-  teiginys: "JlĮ priekyje atsidūrė vadinamieji bendruomenės prisiekusieji (commlmitas iI/rata)."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185227
-
 ## Citatos
 
 - id: c-185227
@@ -55,5 +41,20 @@ JlĮ priekyje atsidūrė vadinamieji bendruomenės prisiekusieji (commlmitas iI/
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201880"></a>
+- t-001
+  teiginys: "JlĮ priekyje atsidūrė vadinamieji bendruomenės prisiekusieji (commlmitas iI/rata)."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185227
+

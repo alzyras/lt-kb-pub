@@ -46,10 +46,22 @@ Tiriant XVIII a. Vilniaus pavieto teismų medžiagą, siekta nustatyti pagrindin
 
 ## Teiginiai
 
+<a id="claim-t-207809"></a>
+- t-207809
+  teiginys: "Vilniaus pavieto bajoras Petras Jurčevskis."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190426
+
 <a id="claim-t-203832"></a>
-- t-001
+- t-203832
   teiginys: "Tiriant XVIII a. Vilniaus pavieto teismų medžiagą, siekta nustatyti pagrindines namų užpuolimų tendencijas LDK sostinėje bajorų bylose."
-  atnaujinta: "2026-08-07 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -60,9 +72,9 @@ Tiriant XVIII a. Vilniaus pavieto teismų medžiagą, siekta nustatyti pagrindin
     - c-186436
 
 <a id="claim-t-203833"></a>
-- t-002
+- t-203833
   teiginys: "Vilniaus paviete tokio pobūdžio nusikaltimai itin retais atvejais vyko miestelio erdvėje, tačiau jie neįtraukti į tyrimo objektą."
-  atnaujinta: "2026-08-07 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -90,8 +102,8 @@ Tiriant XVIII a. Vilniaus pavieto teismų medžiagą, siekta nustatyti pagrindin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-203832
 
 - id: c-186437
   autorius: "Domininkas Burba"
@@ -109,5 +121,29 @@ Tiriant XVIII a. Vilniaus pavieto teismų medžiagą, siekta nustatyti pagrindin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-203833
+
+- id: c-190426
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 230"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 230."
+  citata_originali: |
+    Teisėjas taip pat paskyrė 1000 kapų grašių garantinę
+    baudos sumą, kurią atsakovas turėtų sumokėti ieškovui, jeigu grasinimai būtų įvykdyti.
+    Tokiu pačiu būdu, nustačius, kad turės būti sumokėta bauda valdovui ir teisėjams,
+    1551 m. buvo išspręsta įsisenėjusi dviejų bajorų byla. Iš jos aprašymo sužinome, kad
+    prieš penkerius metus ieškovą Lauryną Vaitiekavičių Rodiševskį Lucko vyskupo, velio-
+    nio kunigaikščio Petro Falčcvskio, akivaizdoje, įvairiais nepagarbiais žodžiais iškeikė ir
+    jam pagrasino Vilniaus pavieto bajoras Petras Jurčevskis.
+  citata_rodoma: "Vilniaus pavieto bajoras Petras Jurčevskis"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207809
+

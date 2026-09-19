@@ -42,34 +42,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-189887"></a>
-- t-001
-  teiginys: "Per žiemos švenčių žaidimus kaimiečiai, Narbuto aprašymu, vaidindavo sceninę pantomimą su vienu ar dviem veikėjais."
-  atnaujinta: "2026-07-24 15:56"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172770
-
-<a id="claim-t-189888"></a>
-- t-002
-  teiginys: "Narbuto aprašytame žiemos pantomimos žaidime pradžioje vaizduotas netikėtas susitikimas, kvietimas susiimti rankomis ir juokaujama grumtis."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172771
-
 ## Citatos
 
 - id: c-172770
@@ -92,8 +64,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-172771
   autorius: "Teodoras Narbutas"
@@ -117,5 +87,59 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-197934
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 169"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 169."
+  citata_originali: |
+    Antras veikėjas - lengvabūdiškas, simpa­
+    tiškas, su maža kepuraite ant galvos. Žaidimo pradžioje vaiz­
+    duojamas netikėtas susitikimas, kvietimas susiimti rankomis,
+    toliau visokios abiejų pastangos nutverti vienas kitą į glėbį ir
+    grumtis; visa tai vyksta juokaujamu tonu. Kai jau atrodo, kad
+    tuoj prasidės kova, veikėjai staiga sustoja vienas priešais kitą
+    taiytum įbesti, atsitraukia atgal, nusišluosto akis, įsispokso vie­
+    nas į kitą, tarytum norėtų geriau pažinti, žengia artyn, vaiz­
+    duoja norį susitaikyti, pagaliau draugiškai apsikabina, šoka ir
+    šokinėja kartodami tai su didžiausiu įkarščiu ir juokinimu; tuo
+    pasibaigia vaidinimas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+    - t-216604
+
+## Teiginiai
+
+<a id="claim-t-219595"></a>
+- t-001
+  teiginys: "Narbuto aprašytame žiemos pantomimos žaidime pradžioje vaizduotas netikėtas susitikimas, kvietimas susiimti rankomis ir juokaujama grumtis."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-197934
+
+<a id="claim-t-216604"></a>
+- t-216604
+  teiginys: "Per žiemos švenčių žaidimus kaimiečiai, Narbuto aprašymu, vaidindavo sceninę pantomimą su vienu ar dviem veikėjais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-197934
+

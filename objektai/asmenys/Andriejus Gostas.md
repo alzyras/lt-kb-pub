@@ -31,33 +31,6 @@ canonical_biography: "Tą išgirdęs, nabaštikės jaunikis Andriejus Gostas, mo
 
 Tą išgirdęs, nabaštikės jaunikis Andriejus Gostas, mozūras, prisiekė karvedžiui Lie tuvos atmonyti.
 
-## Teiginiai
-
-<a id="claim-t-201406"></a>
-- t-001
-  teiginys: "Tą išgirdęs, nabaštikės jaunikis Andriejus Gostas, mozūras, prisiekė karvedžiui Lie tuvos atmonyti."
-  atnaujinta: "2026-07-16 14:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184756
-
-<a id="claim-t-205654"></a>
-- t-002
-  teiginys: "Teodoras Narbutas pasakoja, kad bajoraitis Andrius Gostas, asmeniškai įskaudintas Dovydo, įsimaišė tarp Lietuvos kazokų ir prie upės nudūrė Dovydą ietimi, o pats paspruko."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
-  pagrindžia:
-    - c-188269
-
 ## Citatos
 
 - id: c-184756
@@ -82,7 +55,7 @@ Tą išgirdęs, nabaštikės jaunikis Andriejus Gostas, mozūras, prisiekė karv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188269
@@ -105,5 +78,33 @@ Tą išgirdęs, nabaštikės jaunikis Andriejus Gostas, mozūras, prisiekė karv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-201406"></a>
+- t-001
+  teiginys: "Tą išgirdęs, nabaštikės jaunikis Andriejus Gostas, mozūras, prisiekė karvedžiui Lie tuvos atmonyti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184756
+
+<a id="claim-t-205654"></a>
+- t-002
+  teiginys: "Teodoras Narbutas pasakoja, kad bajoraitis Andrius Gostas, asmeniškai įskaudintas Dovydo, įsimaišė tarp Lietuvos kazokų ir prie upės nudūrė Dovydą ietimi, o pats paspruko."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-188269
+

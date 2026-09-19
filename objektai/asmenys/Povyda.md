@@ -38,22 +38,31 @@ Dusburgietis teigia, kad tačiau vienas [vyras], vardu Povyda, juos netrukus iš
 
 ## Teiginiai
 
-<a id="claim-t-197150"></a>
-- t-001
-  teiginys: "Povyda ir negebėjo duoti deramo atkirčio priešo išpuoliams."
-  atnaujinta: "2026-07-19 17:58"
+<a id="claim-t-223184"></a>
+- t-223184
+  teiginys: "Tačiau vienas [vyras], vardu Povyda, juos netrukus išvadavo."
+  atnaujinta: "2026-09-13 11:42"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-61049
+    - c-203968
+
+<a id="claim-t-225093"></a>
+- t-225093
+  teiginys: "Povyda netrukus išvadavo Elbingo komtūrą, Kristburgo komtūrą Helvigą iš Goldbacho ir jų padėjėjus iš pagudėnų nelaisvės."
+  atnaujinta: "2026-09-13 16:33"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203968
 
 <a id="claim-t-201025"></a>
-- t-002
+- t-201025
   teiginys: "Išgirdę tą, kryžėjai, norėdami pačioj pra džioj nuslopinti tą liepsną, susigrūmė baisiai kru vinai su patrakėliais, kurie vienok pergalėjo meldžionis, o jų kamendotus Helmoldą ir Goldbachą gyvus sugavo, kuriuos vienok, nežinoma dėl ko, pagezonis Povyda."
-  atnaujinta: "2026-07-16 14:31"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -110,8 +119,6 @@ Dusburgietis teigia, kad tačiau vienas [vyras], vardu Povyda, juos netrukus iš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-184375
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -134,5 +141,23 @@ Dusburgietis teigia, kad tačiau vienas [vyras], vardu Povyda, juos netrukus iš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-201025
+
+- id: c-203968
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 158"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 158."
+  citata_originali: |
+    Tačiau vienas [vyras], vardu Povyda, juos netrukus išvadavo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223184
+    - t-225093
+

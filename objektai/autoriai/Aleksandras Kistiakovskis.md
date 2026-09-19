@@ -43,20 +43,6 @@ Aleksandras Kistiakovskis 1867 m. Kijeve pasirodžiusiame darbe analizavo mirtie
 
 Aleksandras Kistiakovskis 1867 m. Kijeve pasirodžiusiame darbe analizavo mirties bausmės raidą nuo seniausių laikų iki XIX a.
 
-## Teiginiai
-
-<a id="claim-t-203698"></a>
-- t-001
-  teiginys: "Aleksandras Kistiakovskis 1867 m. Kijeve pasirodžiusiame darbe analizavo mirties bausmės raidą nuo seniausių laikų iki XIX a."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
-  pagrindžia:
-    - c-186302
-
 ## Citatos
 
 - id: c-186302
@@ -73,5 +59,20 @@ Aleksandras Kistiakovskis 1867 m. Kijeve pasirodžiusiame darbe analizavo mirtie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203698"></a>
+- t-001
+  teiginys: "Aleksandras Kistiakovskis 1867 m. Kijeve pasirodžiusiame darbe analizavo mirties bausmės raidą nuo seniausių laikų iki XIX a."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186302
+

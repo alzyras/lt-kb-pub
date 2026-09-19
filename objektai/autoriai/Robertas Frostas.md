@@ -51,3 +51,41 @@ Robertas Frostas teigia, kad Rytų Europoje Vakarų teorinės ir praktinės nauj
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207887"></a>
+- t-001
+  teiginys: "Robertas Frostas teigia, kad Rytų Europoje Vakarų teorinės ir praktinės naujovės buvo žinomos ir mėginta jas diegti."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190504
+
+## Citatos
+
+- id: c-190504
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 160"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 160."
+  citata_originali: |
+    Su tokiu neigiamu karinės teorinės minties būklės Rytų Europoje vertinimu dis-
+    kutuoja Robertas Frostas, teigiantis, kad tame regione Vakarų teorinės ir praktinės
+    naujovės buvo žinomos, mėginta jas diegti. Pabrėžia, kad ir baudžiava buvo sunkinama
+    dėl to, kad visuomenė turėjo apmokėti vis didėjančias karines išlaidas. Tačiau padaryti
+    tai buvę labai sunku.
+  citata_rodoma: "Su tokiu neigiamu karinės teorinės minties būklės Rytų Europoje vertinimu dis-\nkutuoja Robertas Frostas, teigiantis, kad tame regione Vakarų teorinės ir praktinės\nnaujovės buvo žinomos, mėginta jas diegti."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+

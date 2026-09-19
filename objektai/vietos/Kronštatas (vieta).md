@@ -49,21 +49,6 @@ Atrodo, kad šis posakis būdingas net ir to limesniems Baltijos jūros pakrant�
 
 Atrodo, kad šis posakis būdingas net ir to limesniems Baltijos jūros pakrantės gyventojams ir yra vartojamas, kuo įsitikinau lankydamasis Klaipėdoje, Ry goje, Pernu, Taline, Kronštate, Fredrikshamne ir Sveaborge 1806—1810 metais.
 
-## Teiginiai
-
-<a id="claim-t-205212"></a>
-- t-001
-  teiginys: "Atrodo, kad šis posakis būdingas net ir to limesniems Baltijos jūros pakrantės gyventojams ir yra vartojamas, kuo įsitikinau lankydamasis Klaipėdoje, Ry goje, Pernu, Taline, Kronštate, Fredrikshamne ir Sveaborge 1806—1810 metais."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
-  pagrindžia:
-    - c-187767
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Atrodo, kad šis posakis būdingas net ir to limesniems Baltijos jūros pakrantės gyventojams ir yra vartojamas, kuo įsitikinau lankydamasis Klaipėdoje, Ry goje, Pernu, Taline, Kronštate, Fredrikshamne ir Sveaborge 1806—1810 metais.'
@@ -103,5 +88,21 @@ Atrodo, kad šis posakis būdingas net ir to limesniems Baltijos jūros pakrant�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205212"></a>
+- t-001
+  teiginys: "Atrodo, kad šis posakis būdingas net ir to limesniems Baltijos jūros pakrantės gyventojams ir yra vartojamas, kuo įsitikinau lankydamasis Klaipėdoje, Ry goje, Pernu, Taline, Kronštate, Fredrikshamne ir Sveaborge 1806—1810 metais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-187767
+

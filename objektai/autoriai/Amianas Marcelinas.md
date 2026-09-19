@@ -36,23 +36,34 @@ Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūn
 
 ## Teiginiai
 
-<a id="claim-t-191527"></a>
-- t-001
-  teiginys: "Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūnų kelią per Dneprą ir alanų kraštą pas Saporą."
-  atnaujinta: "2026-07-26 23:35"
+<a id="claim-t-212142"></a>
+- t-212142
+  teiginys: "Amianas Marcelinas apie 378 metus buvo baigęs rašyti Romos istoriją."
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-174410
+    - c-195032
 
-<a id="claim-t-191528"></a>
-- t-002
+<a id="claim-t-213241"></a>
+- t-213241
+  teiginys: "Amianas Marcelinas pateikia tokių iš senovės rašytojų surinktų žinių: jie gyveno ikikrikščioniškosios eros amžiais kairiojoje Dnepro pakrantėje, gelonų ir budinu kaimynystėje, vakaruose jie ribojosi su neurais arba ir su skitųgerų kraštu, taip pat netoli gyveno masagetai, melanchlenai ir antropofagai."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195332
+
+<a id="claim-t-215514"></a>
+- t-215514
   teiginys: "Teodoras Narbutas rašo, kad Amianas Marcelinas XXXI knygoje mini agatirus, kuriuos Narbutas tapatino su agazirais."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -68,31 +79,27 @@ Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūn
   semantiniai_rysiai: "Budinai gyveno Dnepras (0.72); Gelonai gyveno Dnepras (0.72)"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-174410
+    - c-195332
 
-<a id="claim-t-197578"></a>
-- t-003
-  teiginys: "Amianas Marcelinas priklausė minėtai tautai."
-  atnaujinta: "2026-07-12 22:33"
+<a id="claim-t-215743"></a>
+- t-215743
+  teiginys: "Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūnų kelią per Dneprą ir alanų kraštą pas Saporą."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "siunte_i -> Dnepras: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Julijonas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Dnepras: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Julijonas siuntė žygūnus maršrutu per Dneprą; objektas yra tiesiogiai minėta kelio vieta."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-174409
-
-<a id="claim-t-197579"></a>
-- t-004
-  teiginys: "Amianas Marcelinas pateikia tokių iš senovės rašytojų surinktų žinių: jie gyveno ikikrikščioniškosios eros amžiais kairiojoje Dnepro pakrantėje, gelonų ir budinu kaimynystėje, vakaruose jie ribojosi su neurais arba ir su skitųgerų kraštu, taip pat netoli gyveno masagetai, melanchlenai ir antropofagai."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-174410
+    - c-195332
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -140,8 +147,6 @@ Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-174410
   autorius: "Teodoras Narbutas"
@@ -168,7 +173,62 @@ Teodoras Narbutas Amianui Marcelinui priskiria pasakojimą apie Julijono žygūn
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
-    - t-004
+
+- id: c-195032
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 256-257"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 256-257."
+  citata_originali: |
+    Amianas Marcelinas, baigęs rašyti Romos istoriją apie
+    378 metus, valdant imperatoriams Gracianui ir Valenti-
+    nianui, prisimena arimfėjų tautą, gyvenusią toje pačioje
+    vietoje, kur jie buvo alanų ir masagetų kaimynai, beje,
+    1 ibid. Origines Livoniae Sacrae et civilis (Silva Documento-
+    rum. P. 267, 268).
+    2 Stender. Lettische Grammatik. Erste Ausgabe. 1761. S, 3. § 5.
+    246
+
+    vadindamas juos teisingais, vaišingais, švelnių papročių
+    žmonėmis, visiškai tiksliai apibūdindamas senovės prū­
+    sus1
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212142
+
+- id: c-195332
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 288"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 288."
+  citata_originali: |
+    Apie juos jis pateikia tokių iš senovės rašytojų su­
+    rinktų žinių: jie gyveno ikikrikščioniškosios eros amžiais
+    kairiojoje Dnepro pakrantėje, gelonų ir budinu kaimynys­
+    tėje, vakaruose jie ribojosi su neurais arba ir su skitų-
+    gerų kraštu, taip pat netoli gyveno masagetai, melanchle-
+    nai ir antropofagai. Vėliau juos pavergė alanai išvien su
+    gelonais ir budinais. Laikui bėgant, kai pastarieji paju­
+    dėjo į Vakarus, ta pati revoliucija turėjo priversti ir aga-
+    tirus išsikelti iš Uždneprės. Taip pat yra senovės geogra­
+    fo, žinomo kaip Ravenos geografas2, IX amžiaus infor­
+    macija, jog agatirai, arba kitaip agazirai ar angershirai,
+    yra ta pati Amiano minima gentis, savaime suprantama,
+    gerokai prieš autoriaus amžių įsikūrusi krašte, per kurį
+    tekėjo dvi upės: Lela-Upe ir Anger-Upe.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213241
+    - t-215514
+    - t-215743
+

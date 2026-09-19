@@ -43,21 +43,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-194820"></a>
-- t-001
-  teiginys: "Priešais ąžuolą, angos link, sienoje stovėjo aukurai, kuriuose buvo deginamos aukos ir palaikoma šventoji ugnis."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-177216
-
 ## Citatos
 
 - id: c-177216
@@ -81,5 +66,44 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-198742
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 266"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 266."
+  citata_originali: |
+    Priešais ąžuolą,
+    angos link, sienoje stovėjo aukurai, kuriuose buvo deginamos
+    aukos ir palaikoma šventoji ugnis. Šventyklą supo aikštė, ku­
+    rioje susirinkę žmonės dalyvaudavo apeigose, o pati šventykla
+    buvo Adytum. Aikštėje buvo sukrautos stirtos malkų šventajai
+    ugniai palaikyti. Aplink aikšte stovėjo žynių, vaidilučių ir kitų
+    šventyklos tarnų būstai. Įėjimas - tai priekiniai vartai, į dešinę
+    nuo vartų buvo vyriausiojo kunigo būstas, kairėje - užeiga,
+    arba svečių namas (šios šventyklos ir viso miesto piešinį žiū­
+    rėk VII lentelėje).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-218734"></a>
+- t-001
+  teiginys: "Priešais ąžuolą, angos link, sienoje stovėjo aukurai, kuriuose buvo deginamos aukos ir palaikoma šventoji ugnis."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-198742
+

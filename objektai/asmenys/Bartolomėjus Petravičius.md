@@ -40,23 +40,6 @@ canonical_biography: "1585 m. Bartolomėjus Petravičius Upytės pilies teisme s
 
 1585 m. Bartolomėjus Petravičius Upytės pilies teisme skundėsi dėl Ivano Visgirdo tarnų savivalės ir jėga išvestų valstiečių.
 
-## Teiginiai
-
-<a id="claim-t-203785"></a>
-- t-001
-  teiginys: "1585 m. Bartolomėjus Petravičius Upytės pilies teisme skundėsi dėl Ivano Visgirdo tarnų savivalės ir jėga išvestų valstiečių."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  temporaliniai_duomenys: "įvykio data: 1585 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškus ir tiesiogiai pagrįstas šaltinio ištrauka apie Bartolomėjų Petravičių."
-  pagrindžia:
-    - c-186389
-
 ## Citatos
 
 - id: c-186389
@@ -80,5 +63,23 @@ canonical_biography: "1585 m. Bartolomėjus Petravičius Upytės pilies teisme s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203785"></a>
+- t-001
+  teiginys: "1585 m. Bartolomėjus Petravičius Upytės pilies teisme skundėsi dėl Ivano Visgirdo tarnų savivalės ir jėga išvestų valstiečių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  temporaliniai_duomenys: "įvykio data: 1585 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškus ir tiesiogiai pagrįstas šaltinio ištrauka apie Bartolomėjų Petravičių."
+  pagrindžia:
+    - c-186389
+

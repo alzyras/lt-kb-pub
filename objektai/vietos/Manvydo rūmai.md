@@ -42,42 +42,6 @@ historical_names: []
 
 Šlaito nuošliaužos užslinko ant vaivados Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir turtus. Tas kalnas užslinko ant Manvydo rūmo (namo) ir daug nuostolių pridarė, jo pataurininkis ir rykūnės (ozzerfie Mergel oberste Magd) buvo užpilti; dar nuošliaužos užvertė visas jo brangenybes.
 
-## Teiginiai
-
-<a id="claim-t-86087"></a>
-- t-001
-  teiginys: "Kalno griūtis užslinko ant Manvydo rūmų, pridarė daug nuostolių, užpylė jo tarnus ir užvertė brangenybes."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Manvydas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Manvydo rūmai: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Manvydas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Formuluotė „Manvydo rūmo“ tiesiogiai susieja rūmus su Manvydu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Manvydo rūmai priklausė Manvydas (0.88)"
-  pagrindžia:
-    - c-82067
-
-<a id="claim-t-86088"></a>
-- t-002
-  teiginys: "Šlaito nuošliaužos užslinko ant vaivados Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir turtus."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Manvydas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Manvydo rūmai: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Manvydas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Kilmininko forma rodo, kad rūmai siejami su Manvydu kaip savininku ar valdovu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Manvydo rūmai priklausė Manvydas (0.90)"
-  pagrindžia:
-    - c-82066
-
 ## Citatos
 
 - id: c-82066
@@ -98,7 +62,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-82067
@@ -119,8 +83,45 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Manvydo rūmai priklausė [[objektai/asmenys/Manvydas]]
+
+## Teiginiai
+
+<a id="claim-t-86087"></a>
+- t-001
+  teiginys: "Kalno griūtis užslinko ant Manvydo rūmų, pridarė daug nuostolių, užpylė jo tarnus ir užvertė brangenybes."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Manvydas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Manvydo rūmai: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Manvydas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Formuluotė „Manvydo rūmo“ tiesiogiai susieja rūmus su Manvydu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Manvydo rūmai priklausė Manvydas (0.88)"
+  pagrindžia:
+    - c-82067
+
+<a id="claim-t-86088"></a>
+- t-002
+  teiginys: "Šlaito nuošliaužos užslinko ant vaivados Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir turtus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Manvydas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Manvydo rūmai: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Manvydas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Kilmininko forma rodo, kad rūmai siejami su Manvydu kaip savininku ar valdovu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Manvydo rūmai priklausė Manvydas (0.90)"
+  pagrindžia:
+    - c-82066
+

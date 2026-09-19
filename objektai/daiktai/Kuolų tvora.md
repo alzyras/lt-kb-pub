@@ -46,20 +46,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-194306"></a>
-- t-001
-  teiginys: "Mvkolo šventės dieną buvo sudarykardytą kuolų tvora, gausiai plūdo ir palei pilį kūrėsi nauji gyventojai - įvairių padermių ir įvairiais sumetimais."
-  atnaujinta: "2026-07-06 12:56"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-176898
-
 ## Citatos
 
 - id: c-176898
@@ -85,5 +71,20 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-194306"></a>
+- t-001
+  teiginys: "Mvkolo šventės dieną buvo sudarykardytą kuolų tvora, gausiai plūdo ir palei pilį kūrėsi nauji gyventojai - įvairių padermių ir įvairiais sumetimais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-176898
+

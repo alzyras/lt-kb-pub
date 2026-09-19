@@ -47,22 +47,6 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
 
 ## Teiginiai
 
-<a id="claim-t-64124"></a>
-- t-001
-  teiginys: "Apaštalų darbuose rašoma, kad Steponas, pilnas malonės ir galios, darė didžių stebuklingų ženklų."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prūsai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Steponas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Prūsai: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Steponas\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-64968
-
 <a id="claim-t-64125"></a>
 - t-002
   teiginys: "Šv. Steponas, pirmasis tikras krikščionis Vengrijos soste, buvo karūnuotas 1000 m."
@@ -81,6 +65,34 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
   pagrindžia:
     - c-22021
 
+<a id="claim-t-211818"></a>
+- t-211818
+  teiginys: "Moldavijos vaivada Steponas, išgirdęs, kad kara lius Olbrachtas nenori grįžti iš jo žemės tuo pačiu ke liu, kuriuo buvo atėjęs, o nori eiti kitais naujais ke liais, per uolėtą Bukoviną, labai dėl to apsidžiaugė34 ir, nė kiek nebepaisydamas priesaikos bei."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193750
+
+<a id="claim-t-221739"></a>
+- t-221739
+  teiginys: "Apaštalų darbuose rašoma, kad Steponas, pilnas malonės ir galios, darė didžių stebuklingų ženklų."
+  atnaujinta: "2026-09-13 18:12"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prūsai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; prusai_group_context; same_sentence_locality; single_candidate_actor; single_candidate_target"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Steponas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Prūsai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Steponas\" parinktas kaip owner_note_path. Targetas \"Prūsai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202346
+
 ## Citatos
 
 - id: c-22021
@@ -98,11 +110,12 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
     krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
   citata_rodoma: "Adalberto misija Prūsijoje (997), Norvegijos\nvaldovo Olafo pradėta šalies christianizacija (997), Islandijos Altingo pri-\nimtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengri-\njos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo\nkrikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009)."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-64968
@@ -122,5 +135,49 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-193750
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 148"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 148."
+  citata_originali: |
+    Moldavijos vaivada Steponas, išgirdęs, kad kara­
+    lius Olbrachtas nenori grįžti iš jo žemės tuo pačiu ke­
+    liu, kuriuo buvo atėjęs, o nori eiti kitais naujais ke­
+    liais, per uolėtą Bukoviną, labai dėl to apsidžiaugė34
+    ir, nė kiek nebepaisydamas priesaikos bei amžinosios
+    taikos sutarties, darydamas gėdą savo šaliai, skubiai
+    pranešė turkų sultonui, ir Vengrijai, ir Valakijos vai­
+    vadai
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211818
+
+- id: c-202346
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 33"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
+  citata_originali: |
+    Apie didingus ženklus
+    „Apaštalų darbuose“ (Apd 6, 8) pasakyta, kad „Steponas, pilnas malonės ir galios, darė
+    žmonėse didžių stebuklingų ženklų“. Vargu ar kas galėtų suabejoti, kad Teutonų namų
+    broliai buvo pilni malonės ir galios, nes,  į tokį negausų būrį susispietę, pajungė tokią
+    galingą, tokią žiaurią ir nesuskaitomą prūsų gentį, kurios neįstengė pavergti daugybė
+    valdovų, daug kartų šitai mėginusių padaryti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221739
+

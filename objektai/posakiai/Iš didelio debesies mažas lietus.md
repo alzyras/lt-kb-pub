@@ -28,21 +28,6 @@ Kryžiaus žygio kariai vėlų rudenį grįžo į Prūsiją, nesusirėmę su lie
 
 Kryžiaus žygio kariai vėlų rudenį grįžo į Prūsiją, nesusirėmę su lietuviais nė viename mūšyje; Teodoro Narbuto vertinimu, žygis priminė posakį „Iš didelio debesies mažas lietus.“
 
-## Teiginiai
-
-<a id="claim-t-205895"></a>
-- t-001
-  teiginys: "Kryžiaus žygio kariai vėlų rudenį grįžo į Prūsiją, nesusirėmę su lietuviais nė viename mūšyje; Teodoro Narbuto vertinimu, žygis priminė posakį „Iš didelio debesies mažas lietus.“"
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188510
-
 ## Citatos
 
 - id: c-188510
@@ -70,5 +55,21 @@ Kryžiaus žygio kariai vėlų rudenį grįžo į Prūsiją, nesusirėmę su lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205895"></a>
+- t-001
+  teiginys: "Kryžiaus žygio kariai vėlų rudenį grįžo į Prūsiją, nesusirėmę su lietuviais nė viename mūšyje; Teodoro Narbuto vertinimu, žygis priminė posakį „Iš didelio debesies mažas lietus.“"
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188510
+

@@ -58,6 +58,19 @@ Zigmantas Kiaupa pažymėjo, kad sukilimo eiga Šiauliuose buvo ramesnė nei Jon
   pagrindžia:
     - c-186265
 
+<a id="claim-t-208203"></a>
+- t-208203
+  teiginys: "Zigmantas Kiaupa antrojoje sintezės dalyje nagrinėjo XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenę, valstybę, ūkį, kultūrą ir švietimą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  vertinimo_atnaujinta: "2026-08-18T21:24:31Z"
+  pagrindžia:
+    - c-190986
+
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Zigmantas Kiaupa antrojoje sintezės dalyje nagrinėjo XVIII a. Lietuvos Didžiosios Kunigaikštystės visuomenę, valstybę, ūkį, kultūrą ir švietimą.'
@@ -95,9 +108,39 @@ Zigmantas Kiaupa pažymėjo, kad sukilimo eiga Šiauliuose buvo ramesnė nei Jon
     Sukilimas Šiauliuose prasidėjo vėliau ir administracijos
     pareigūnai spėjo pabėgti. [31, 42].
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190986
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 350"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 350."
+  citata_originali: |
+    Jeigu pirmojoje dalyje daugiau susitelkta j
+    XVIII a. riboženklius - erdvių ir laiko paieškas, tai antroji dalis skirta esminėms
+    Lietuvos Didžiosios Kunigaikštystės XVIII a. socialinio ir valstybinio gyvenimo
+    raidos tendencijoms. Taigi Lietuvos istoriografijoje sulaukta dar neregėtos apimties
+    (iš esmės savo apimtimi dvitomės) XVIII a. sintezės.
+    Antrojoje sintezės dalyje Z. Kiaupos dėmesio centre atsidūrė Lietuvos
+    Didžiosios Kunigaikštystės XVIII a. visuomenės sankloda (I skyrius „Luomai“,
+    p. 13-241), valstybės sąrangos ir valstybingumo raidos (II ir V skyriai „Valstybė“,
+    p. 243-397,
+    „Politinė valstybės istorija“, p. 609-674, „Užsklanda: 1795 m“,
+    p. 675-676), ūkio raidos veiksnių ir raidos tendencijų (III skyrius „Ūkis“, p. 399-
+    488), kultūrinio gyvenimo bei švietimo (IV skyrius „Kultūra“, p. 489-608) pro­
+    blemos.
+  citata_rodoma: "Antrojoje sintezės dalyje Z. Kiaupos dėmesio centre atsidūrė Lietuvos \nDidžiosios Kunigaikštystės XVIII a. visuomenės sankloda (I skyrius „Luomai“, \np. 13-241), valstybės sąrangos ir valstybingumo raidos (II ir V skyriai „Valstybė“, \np. 243-397, \n„Politinė valstybės istorija“, p. 609-674, „Užsklanda: 1795 m“, \np. 675-676), ūkio raidos veiksnių ir raidos tendencijų (III skyrius „Ūkis“, p. 399- \n488), kultūrinio gyvenimo bei švietimo (IV skyrius „Kultūra“, p. 489-608) pro­\nblemos"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208203
+

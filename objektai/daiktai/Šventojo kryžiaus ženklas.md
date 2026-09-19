@@ -49,10 +49,22 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-59715"></a>
-- t-001
+<a id="claim-t-223247"></a>
+- t-002
+  teiginys: "Prieš prasiverždami pro lietuvių kariuomenę broliai paženklino save šventojo kryžiaus ženklu."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-201710
+
+<a id="claim-t-222756"></a>
+- t-222756
   teiginys: "Broliai paženklino save šventojo kryžiaus ženklu ir prasiveržė pro didelę lietuvių kariuomenę."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-09-13 11:42"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -62,8 +74,6 @@ Nenurodyta
   ryšio_targeto_parinkimas: "Kryžius: mention_match, thing, gap=9"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šventojo kryžiaus ženklas\" parinktas kaip owner_note_path. Targetas \"Kryžius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-60347
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -101,5 +111,22 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-201710
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 184"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 184."
+  citata_originali: |
+    Tada, paženklinę save šventojo kryžiaus ženklu,
+    prasiskverbė pro lietuvių kariuomenę, daug jų nukovė, o kitus sunkiai sužeidė. Visiems
+    kitiems pasileidus bėgti, broliai su saviškiais sveiki ir gyvi sugrįžo namo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+

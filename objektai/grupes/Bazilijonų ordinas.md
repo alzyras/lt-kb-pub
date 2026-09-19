@@ -36,56 +36,6 @@ media_all_json: |-
 
 Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; mokymu daugiausia užsiėmė jų bazi1ijonų ordinas, kurs turėjo Lietuvoje net keletą dešimčių savo vienuolynų.
 
-## Teiginiai
-
-<a id="claim-t-188014"></a>
-- t-001
-  teiginys: "Bazilijonų ordinas daugiausia rūpinosi unitų mokymu ir Lietuvoje turėjo kelias dešimtis vienuolynų."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "gap::groups"
-  teiginio_tipas: "faktas"
-  susije_objektai: "mentioned_group: [[objektai/grupes/Unitai|Unitai]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-171057
-
-<a id="claim-t-188015"></a>
-- t-002
-  teiginys: "Mamoničių spaustuvė vėliau, matyt, atiteko bazilijonams."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "gap::groups"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys yra faktinis, glaustas ir išlaiko citatoje esantį atsargumą."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Unitai|Unitai]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-171059
-    - c-171058
-
-<a id="claim-t-188017"></a>
-- t-003
-  teiginys: "Bazilijonų ordinas Lietuvoje turėjo kelias dešimtis vienuolynų ir daugiausia rūpinosi unitų mokymu."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "gap::groups"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Pradiniame teiginyje yra neaiškių įvardžių ir OCR klaida, todėl faktą reikia suformuluoti aiškiai."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Unitai|Unitai]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-171061
-
-<a id="claim-t-188018"></a>
-- t-004
-  teiginys: "Konstantinas Ostrogiškis prie Švč. Trejybės cerkvės netoli Medininkų vartų įkurdino Šv. Bazilijaus ordino vienuolius."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "gap::groups"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-171060
-
 ## Reikšmingi paminėjimai
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -121,7 +71,7 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-171058
@@ -142,7 +92,7 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-171059
@@ -166,7 +116,7 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-171060
@@ -186,7 +136,7 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-171061
@@ -208,5 +158,56 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+## Teiginiai
+
+<a id="claim-t-188014"></a>
+- t-001
+  teiginys: "Bazilijonų ordinas daugiausia rūpinosi unitų mokymu ir Lietuvoje turėjo kelias dešimtis vienuolynų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::groups"
+  teiginio_tipas: "faktas"
+  susije_objektai: "mentioned_group: [[objektai/grupes/Unitai|Unitai]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-171057
+
+<a id="claim-t-188015"></a>
+- t-002
+  teiginys: "Mamoničių spaustuvė vėliau, matyt, atiteko bazilijonams."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::groups"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys yra faktinis, glaustas ir išlaiko citatoje esantį atsargumą."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Unitai|Unitai]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-171059
+    - c-171058
+
+<a id="claim-t-188017"></a>
+- t-003
+  teiginys: "Bazilijonų ordinas Lietuvoje turėjo kelias dešimtis vienuolynų ir daugiausia rūpinosi unitų mokymu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::groups"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  sudarymo_pagrindimas: "Pradiniame teiginyje yra neaiškių įvardžių ir OCR klaida, todėl faktą reikia suformuluoti aiškiai."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Unitai|Unitai]]; mentioned_place: Lietuva; mentioned_place: Vilnius"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-171061
+
+<a id="claim-t-188018"></a>
+- t-004
+  teiginys: "Konstantinas Ostrogiškis prie Švč. Trejybės cerkvės netoli Medininkų vartų įkurdino Šv. Bazilijaus ordino vienuolius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::groups"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-171060
+

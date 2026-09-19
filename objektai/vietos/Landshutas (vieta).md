@@ -48,24 +48,6 @@ historical_names: []
 
 1475 m. Landshuto vestuvėse Albertas Jonaitis Manvydas išsiskyrė iš kitų Lenkijos ir Lietuvos ponų, nes jį lydėjo 50 žmonių.
 
-## Teiginiai
-
-<a id="claim-t-204036"></a>
-- t-001
-  teiginys: "1475 m. Landshuto vestuvėse Albertas Jonaitis Manvydas išsiskyrė iš kitų Lenkijos ir Lietuvos ponų, nes jį lydėjo 50 žmonių."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  temporaliniai_duomenys: "įvykio data: 1475 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išryškintas šaltinyje nurodytas išskirtinumas ir palydos dydis. Kitų sąrašo aplinkybių nepridėta."
-  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
-  pagrindžia:
-    - c-186640
-
 ## Citatos
 
 - id: c-186640
@@ -84,5 +66,24 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204036"></a>
+- t-001
+  teiginys: "1475 m. Landshuto vestuvėse Albertas Jonaitis Manvydas išsiskyrė iš kitų Lenkijos ir Lietuvos ponų, nes jį lydėjo 50 žmonių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1475 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išryškintas šaltinyje nurodytas išskirtinumas ir palydos dydis. Kitų sąrašo aplinkybių nepridėta."
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186640
+

@@ -32,20 +32,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad lasickis J.
 
-## Teiginiai
-
-<a id="claim-t-61126"></a>
-- t-001
-  teiginys: "J. Lasickio veikalas „Apie žemaičių, kitų sarmatų bei netikrų krikščionių dievus“ išleistas 1969 m."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1969 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pateikia autorių, pavadinimą ir leidimo metus."
-  pagrindžia:
-    - c-61758
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Lasickio veikalas „Apie žemaičių, kitų sarmatų bei netikrų krikščionių dievus“ išleistas 1969 m.'
@@ -73,5 +59,16 @@ Dusburgietis teigia, kad lasickis J.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+## Teiginiai
+
+<a id="claim-t-221945"></a>
+- t-001
+  teiginys: "J. Lasickio veikalas „Apie žemaičių, kitų sarmatų bei netikrų krikščionių dievus“ išleistas 1969 m."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1969 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pateikia autorių, pavadinimą ir leidimo metus."
+

@@ -43,45 +43,6 @@ canonical_biography: "Prancūzams ir kitiems kariams vadovavo narsusis riteris B
 
 Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24. Juo sunkiau buvo įveikiami lenkai, juo kautynės darėsi žiauresnės; įkiršinti prancūzų atkaklumo, kurie su savo va­ du Boucicaut'u nemažai buvo pridarę žalos apgultiesiems, pastarieji aniems su kartėliu iškalbėjo, kam, menko grobio ir tuščios garbės.
 
-## Teiginiai
-
-<a id="claim-t-87489"></a>
-- t-001
-  teiginys: "Prancūzų vadas Boucicaut'as per kautynes buvo pridaręs nemažai žalos apgultiesiems."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Vilniaus prastuomenė: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Boucicaut: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilniaus prastuomenė: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Boucicaut vadovaujami prancūzai žalos pridarė apgultiesiems, kurie citatoje siejami su Vilniaus prastuomene."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Boucicaut puolė Vilniaus prastuomenė (0.70)"
-  pagrindžia:
-    - c-83468
-
-<a id="claim-t-87490"></a>
-- t-002
-  teiginys: "Riteris Boucicaut vadovavo prancūzams ir kitiems kariams žygyje, kurio dalyviai susijungė prie Kauno."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Kaunas: 0.67"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Boucicaut: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Žygio dalyviai su Boucicaut vadovaujamais kariais susijungė prie Kauno, nors pats jo atvykimas išreikštas netiesiogiai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Boucicaut keliavo į Kaunas (0.67)"
-  temporaliniai_duomenys: "įvykio data: 1391 m.; įvykio data: 1393 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas išnašos numeris ir pridėtas citatoje paremtas kontekstas."
-  pagrindžia:
-    - c-83469
-
 ## Citatos
 
 - id: c-83468
@@ -110,7 +71,7 @@ Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24. Juo sunkia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-83469
@@ -152,5 +113,45 @@ Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24. Juo sunkia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-87489"></a>
+- t-001
+  teiginys: "Prancūzų vadas Boucicaut'as per kautynes buvo pridaręs nemažai žalos apgultiesiems."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Vilniaus prastuomenė: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Boucicaut: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilniaus prastuomenė: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Boucicaut vadovaujami prancūzai žalos pridarė apgultiesiems, kurie citatoje siejami su Vilniaus prastuomene."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Boucicaut puolė Vilniaus prastuomenė (0.70)"
+  pagrindžia:
+    - c-83468
+
+<a id="claim-t-87490"></a>
+- t-002
+  teiginys: "Riteris Boucicaut vadovavo prancūzams ir kitiems kariams žygyje, kurio dalyviai susijungė prie Kauno."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Kaunas: 0.67"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Boucicaut: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Žygio dalyviai su Boucicaut vadovaujamais kariais susijungė prie Kauno, nors pats jo atvykimas išreikštas netiesiogiai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Boucicaut keliavo į Kaunas (0.67)"
+  temporaliniai_duomenys: "įvykio data: 1391 m.; įvykio data: 1393 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas išnašos numeris ir pridėtas citatoje paremtas kontekstas."
+  pagrindžia:
+    - c-83469
+

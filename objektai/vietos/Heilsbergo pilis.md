@@ -33,20 +33,6 @@ historical_names: []
 
 Paskui sukos kryžėjai su visa savo kariau na Heilsbergo pilėn, kurioje dar pagezonys didžiai kantriai turėjos, bet įsilaužę ir tenai įgulę jau iš kirto, jau apvergė ir taip visą Parusnį nudrevėjo.
 
-## Teiginiai
-
-<a id="claim-t-201165"></a>
-- t-001
-  teiginys: "Paskui sukos kryžėjai su visa savo kariau na Heilsbergo pilėn, kurioje dar pagezonys didžiai kantriai turėjos, bet įsilaužę ir tenai įgulę jau iš kirto, jau apvergė ir taip visą Parusnį nudrevėjo."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184515
-
 ## Citatos
 
 - id: c-184515
@@ -74,5 +60,20 @@ Paskui sukos kryžėjai su visa savo kariau na Heilsbergo pilėn, kurioje dar pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201165"></a>
+- t-001
+  teiginys: "Paskui sukos kryžėjai su visa savo kariau na Heilsbergo pilėn, kurioje dar pagezonys didžiai kantriai turėjos, bet įsilaužę ir tenai įgulę jau iš kirto, jau apvergė ir taip visą Parusnį nudrevėjo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184515
+

@@ -53,3 +53,40 @@ Kauno žemės teisėjas Adomas Kozakovskis 1795 m. vasario 1 d. iš Kulvos para�
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-191023
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 339"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 339."
+  citata_originali: |
+    1795 m. vasario 1 d. Kauno žemės teisėjo A. Kozakovskio laiškas nežinomam adresatui, Kulva,
+    LVIA, f. 1387, ap. i, b. 36,1. 15-15V.
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-208258"></a>
+- t-001
+  teiginys: "Kauno žemės teisėjas Adomas Kozakovskis 1795 m. vasario 1 d. iš Kulvos parašė laišką nežinomam adresatui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  temporaliniai_duomenys: "įvykio data: 1795 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Laiško nuoroda perrašyta į vientisą sakinį, išskleidžiant asmens pareigas, datą, vietą ir adresato neapibrėžtumą. Nepridėta faktų, kurių nėra citatoje."
+  vertinimo_atnaujinta: "2026-08-18T21:24:30Z"
+  pagrindžia:
+    - c-191023
+

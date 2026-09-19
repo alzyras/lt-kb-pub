@@ -38,23 +38,18 @@ Vytautas pasikvietė Jogailą žiemai į Bieloviežo girią pramogai medžioti s
 
 ## Teiginiai
 
-<a id="claim-t-187169"></a>
-- t-001
-  teiginys: "Vytautas pasikvietė Jogailą žiemai į Bieloviežo girią pramogai medžioti stumbrų."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+<a id="claim-t-211944"></a>
+- t-211944
+  teiginys: "Paskui didysis kunigaikštis Vytautas pasikvietė ka ralių Jogailą 1 žiemai pas save į Bieloviežo girią me džioti pramogai stumbrų."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bieloviežo giria: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=17"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bieloviežo giria\" parinktas kaip owner_note_path. Targetas \"Jogaila (kunigaikštis, XIV–XV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
   pagrindžia:
-    - c-170263
+    - c-193404
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -99,5 +94,22 @@ Vytautas pasikvietė Jogailą žiemai į Bieloviežo girią pramogai medžioti s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-193404
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 108"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 108."
+  citata_originali: |
+    Paskui didysis kunigaikštis Vytautas pasikvietė ka­
+    ralių Jogailą 1 žiemai pas save į Bieloviežo girią me­
+    džioti pramogai stumbrų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211944
+

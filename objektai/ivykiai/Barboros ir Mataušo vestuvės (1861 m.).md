@@ -70,38 +70,6 @@ Griežtąjį pirmadienį prasidėjo vestuvės, o vakare susiėjo kaimo jaunimas.
 
 Jungtuvės buvo užmegstos, o vestuvės pradėtos griežtąjį pirmadienį.
 
-## Teiginiai
-
-<a id="claim-t-195295"></a>
-- t-001
-  teiginys: "Vestuvių pradžia atėjo griežtąjį pirmadienį, o vakare susiėjo kaimo jaunimas."
-  atnaujinta: "2026-07-12 01:22"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177659
-
-<a id="claim-t-195296"></a>
-- t-002
-  teiginys: "1861 m. pasakotojo namuose buvo keliamos vestuvės."
-  atnaujinta: "2026-07-12 01:22"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177660
-
-<a id="claim-t-195297"></a>
-- t-003
-  teiginys: "Nuo pirmo užsako dienos iki vestuvių praėjo trys savaitės."
-  atnaujinta: "2026-07-12 01:22"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177661
-
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -137,7 +105,7 @@ Vieta: pasakotojo namai.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177660
@@ -158,7 +126,7 @@ Vieta: pasakotojo namai.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-177661
@@ -175,5 +143,38 @@ Vieta: pasakotojo namai.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+## Teiginiai
+
+<a id="claim-t-195295"></a>
+- t-001
+  teiginys: "Vestuvių pradžia atėjo griežtąjį pirmadienį, o vakare susiėjo kaimo jaunimas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177659
+
+<a id="claim-t-195296"></a>
+- t-002
+  teiginys: "1861 m. pasakotojo namuose buvo keliamos vestuvės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177660
+
+<a id="claim-t-195297"></a>
+- t-003
+  teiginys: "Nuo pirmo užsako dienos iki vestuvių praėjo trys savaitės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177661
+

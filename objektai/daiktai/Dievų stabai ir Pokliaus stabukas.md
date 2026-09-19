@@ -41,46 +41,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-189708"></a>
-- t-001
-  teiginys: "Narbutas spėjo, kad minėtame panteone galėjo būti dievų stabų rinkinys, nors smulkmenų apie jį neturėta."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-172591
-
-<a id="claim-t-189709"></a>
-- t-002
-  teiginys: "Narbutas teigė, kad tikėjimo vadovai veikė visuomenę nešiodamiesi baisios išvaizdos Pokliaus stabuką ir pranašaudami dievų bausmes bei dovanas."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-172592
-
-<a id="claim-t-197239"></a>
-- t-003
-  teiginys: "Tačiau vėlesniais stabmeldiškosios Lietuvos laikais tas au toritetas smarkiai sukasdieniškėjo ir, kaip liudija kai kurie is torijos paminklai, vyriausiasis žynys ėmė dažniau rodytis."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-179080
-
 ## Citatos
 
 - id: c-172591
@@ -102,8 +62,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-172592
   autorius: "Teodoras Narbutas"
@@ -127,8 +85,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-179080
   autorius: "Teodoras Narbutas"
@@ -150,5 +106,42 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+
+- id: c-198497
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 289"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 289."
+  citata_originali: |
+    Pasak neseniai rastų istorijos šaltinių, vyriausiojo žynio au­
+    toritetas prūsams buvo toks didis, kad žynys labai retai leisda­
+    vo sau viešai pasirodyti; nebent žymiausiems asmenims leis­
+    davo pasikalbėti su juo akis į akį. Retas buvo bajoras, kuriam
+    būtų tekusi laimė bent kartą gyvenime išvysti jį patį. O savo
+    sprendimus jis pranešdavo per pasiuntinius.
+    Tačiau vėlesniais stabmeldiškosios Lietuvos laikais tas au­
+    toritetas smarkiai sukasdieniškėjo ir, kaip liudija kai kurie is­
+    torijos paminklai, vyriausiasis žynys ėmė dažniau rodytis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-219608"></a>
+- t-001
+  teiginys: "Tačiau vėlesniais stabmeldiškosios Lietuvos laikais tas au toritetas smarkiai sukasdieniškėjo ir, kaip liudija kai kurie is torijos paminklai, vyriausiasis žynys ėmė dažniau rodytis."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198497
+

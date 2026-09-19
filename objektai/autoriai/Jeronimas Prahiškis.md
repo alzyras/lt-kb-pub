@@ -42,56 +42,6 @@ canonical_biography: "Narbutas rašo, kad Jeronimas Prahiškis apie 1405 m. grį
 
 Narbutas rašo, kad Jeronimas Prahiškis apie 1405 m. grįždamas į tėvynę parsinešė Viklifo raštus. Jeronimas Prahiškis jiems atsakęs, kad krikštyti antrą kartą nedera, kad pakanka juos išmokyti tikrojo tikėjimo, išpažįstamo Romos bažnyčioje. Čia Jeronimas ilgai mokė žmones, aiškino jiems šventąsias tikėjimo paslaptis, o mišką liepė iškirsti.
 
-## Teiginiai
-
-<a id="claim-t-190322"></a>
-- t-001
-  teiginys: "Narbutas rašo, kad Jeronimas Prahiškis apie 1405 m. grįždamas į tėvynę parsinešė Viklifo raštus."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jeronimas Prahiškis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jeronimas Prahiškis\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1405 m.; įvykio data: apie 1405 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Vertinamoji ir poleminė aplinka sutraukta, paliekant veiksmą ir datą. Viklifo raštų vertinimas neperimtas kaip neutralus faktas."
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173205
-
-<a id="claim-t-194661"></a>
-- t-002
-  teiginys: "Jeronimas Prahiškis jiems atsakęs, kad krikštyti antrą kartą nedera, kad pakanka juos išmokyti tikrojo tikėjimo, išpažįstamo Romos bažnyčioje."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-177058
-
-<a id="claim-t-197302"></a>
-- t-003
-  teiginys: "Čia Jeronimas ilgai mokė žmones, aiškino jiems šventąsias tikėjimo paslaptis, o mišką liepė iškirsti."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-179114
-
 ## Citatos
 
 - id: c-173205
@@ -117,8 +67,6 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 m. grįždamas į tėvynę pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-177058
   autorius: "Teodoras Narbutas"
@@ -153,8 +101,6 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 m. grįždamas į tėvynę pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-179114
   autorius: "Teodoras Narbutas"
@@ -173,5 +119,39 @@ Narbutas rašo, kad Jeronimas Prahiškis apie 1405 m. grįždamas į tėvynę pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+
+- id: c-200380
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 454"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 454."
+  citata_originali: |
+    Paskui aptiko šventąjį mišką; kuris jo medis buvo didesnis, tas
+    buvo laikomas labiau garbintinas. Čia Jeronimas ilgai mokė
+    žmones, aiškino jiems šventąsias tikėjimo paslaptis, o mišką
+    liepė iškirsti. Žmonėms atėjus su kirviais, neatsirado nė vie­
+    no, kuris būtų išdrįsęs prisiliesti geležimi prie šventojo me­
+    džio.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-218967"></a>
+- t-001
+  teiginys: "Čia Jeronimas ilgai mokė žmones, aiškino jiems šventąsias tikėjimo paslaptis, o mišką liepė iškirsti."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200380
+

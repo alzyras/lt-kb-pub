@@ -94,7 +94,7 @@
   color: var(--bm-purple);
   font: 600 0.85rem var(--bodyFont);
 }
-body:has(.editorial-catalog) .page-header {
+body:has(.editorial-catalog) .page-header > .popover-hint {
   display: none;
 }
 @media (max-width: 650px) {

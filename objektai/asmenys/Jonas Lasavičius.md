@@ -43,28 +43,6 @@ canonical_biography: "Jonas Lasavičius, lietuvis, kilęs iš Vilniaus, pirma Lu
 
 Jonas Lasavičius, lietuvis, kilęs iš Vilniaus, pirma Lucko, paskui Vilniaus vyskupas nuo 1462 m. iki 1481 m., katedroje įrengęs Vyskupų koplyčią.
 
-## Teiginiai
-
-<a id="claim-t-87724"></a>
-- t-001
-  teiginys: "Jonas Lasavičius buvo iš Vilniaus kilęs lietuvis, 1462-1481 m. Vilniaus vyskupas, katedroje įrengęs Vyskupų koplyčią."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gime -> Vilnius: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jonas Lasavičius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Frazė „kilęs iš Vilniaus“ rodo asmens kilmę iš Vilniaus, nors nėra pažodinė gimimo vietos formuluotė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Jonas Lasavičius gimė Vilnius (0.70)"
-  temporaliniai_duomenys: "įvykio data: iki 1481 m.; įvykio data: po 1462 m.; įvykio data: 1462 m.; įvykio data: 1462-1481; įvykio data: 1481 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pagrįstas, bet perrašytas sklandesne enciklopedine forma."
-  pagrindžia:
-    - c-83703
-
 ## Citatos
 
 - id: c-83703
@@ -88,5 +66,28 @@ Jonas Lasavičius, lietuvis, kilęs iš Vilniaus, pirma Lucko, paskui Vilniaus v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-87724"></a>
+- t-001
+  teiginys: "Jonas Lasavičius buvo iš Vilniaus kilęs lietuvis, 1462-1481 m. Vilniaus vyskupas, katedroje įrengęs Vyskupų koplyčią."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gime -> Vilnius: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jonas Lasavičius: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Frazė „kilęs iš Vilniaus“ rodo asmens kilmę iš Vilniaus, nors nėra pažodinė gimimo vietos formuluotė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Jonas Lasavičius gimė Vilnius (0.70)"
+  temporaliniai_duomenys: "įvykio data: iki 1481 m.; įvykio data: po 1462 m.; įvykio data: 1462 m.; įvykio data: 1462-1481; įvykio data: 1481 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pagrįstas, bet perrašytas sklandesne enciklopedine forma."
+  pagrindžia:
+    - c-83703
+

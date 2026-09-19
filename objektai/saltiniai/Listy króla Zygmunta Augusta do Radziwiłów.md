@@ -35,35 +35,6 @@ Irenos Kaniewskos sudarytame rinkinyje publikuojami Žygimanto Augusto laiškai 
 
 Irenos Kaniewskos sudarytame rinkinyje publikuojami Žygimanto Augusto laiškai Radviloms, tarp jų – Mikalojui Radvilai Rudajam. 1548 m. kovo 16 d. laiške iš Krokuvos Žygimantas Augustas Mikalojui Radvilai Rudajam aptarė medžioklės organizavimą: nurodė perduoti raštus šauliams ir žmonai bei įspėti Rūdninkų dvaro laikytoją apie galimą atvykimą.
 
-## Teiginiai
-
-<a id="claim-t-204158"></a>
-- t-001
-  teiginys: "Irenos Kaniewskos sudarytame rinkinyje publikuojami Žygimanto Augusto laiškai Radviloms, tarp jų – Mikalojui Radvilai Rudajam."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  pagrindžia:
-    - c-186762
-
-<a id="claim-t-204159"></a>
-- t-002
-  teiginys: "1548 m. kovo 16 d. laiške iš Krokuvos Žygimantas Augustas Mikalojui Radvilai Rudajam aptarė medžioklės organizavimą: nurodė perduoti raštus šauliams ir žmonai bei įspėti Rūdninkų dvaro laikytoją apie galimą atvykimą."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  temporaliniai_duomenys: "įvykio data: 1548 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo laiško datą, vietą, autorių, adresatą ir aptartus medžioklės organizavimo veiksmus. Formuluotė atitinka citatoje pateiktą informaciją."
-  pagrindžia:
-    - c-186763
-
 ## Citatos
 
 - id: c-186762
@@ -85,7 +56,7 @@ Irenos Kaniewskos sudarytame rinkinyje publikuojami Žygimanto Augusto laiškai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186763
@@ -109,5 +80,35 @@ Irenos Kaniewskos sudarytame rinkinyje publikuojami Žygimanto Augusto laiškai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-204158"></a>
+- t-001
+  teiginys: "Irenos Kaniewskos sudarytame rinkinyje publikuojami Žygimanto Augusto laiškai Radviloms, tarp jų – Mikalojui Radvilai Rudajam."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186762
+
+<a id="claim-t-204159"></a>
+- t-002
+  teiginys: "1548 m. kovo 16 d. laiške iš Krokuvos Žygimantas Augustas Mikalojui Radvilai Rudajam aptarė medžioklės organizavimą: nurodė perduoti raštus šauliams ir žmonai bei įspėti Rūdninkų dvaro laikytoją apie galimą atvykimą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1548 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai nurodo laiško datą, vietą, autorių, adresatą ir aptartus medžioklės organizavimo veiksmus. Formuluotė atitinka citatoje pateiktą informaciją."
+  pagrindžia:
+    - c-186763
+

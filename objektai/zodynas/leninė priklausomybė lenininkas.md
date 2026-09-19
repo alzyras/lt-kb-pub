@@ -34,21 +34,6 @@ media_all_json: |-
 
 Kadangi jis buvo Lenkijos karaliaus lenininkas, tai negalėjo labai varžyti Lietuvos prekybos. Po karų prekyba Nemunu dar labiau pasunkėjo, nes Prūsų kunigaikštis, atsipalaidavęs nuo leninės priklausomybės (1660 m.), muitų tvarkyme jau nebepriklausė karaliaus.
 
-## Teiginiai
-
-<a id="claim-t-193288"></a>
-- t-001
-  teiginys: "Kadangi jis buvo Lenkijos karaliaus lenininkas, tai negalėjo labai varžyti Lietuvos prekybos."
-  atnaujinta: "2026-07-06 12:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  pagrindžia:
-    - c-176016
-
 ## Citatos
 
 - id: c-176016
@@ -71,5 +56,21 @@ Kadangi jis buvo Lenkijos karaliaus lenininkas, tai negalėjo labai varžyti Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-193288"></a>
+- t-001
+  teiginys: "Kadangi jis buvo Lenkijos karaliaus lenininkas, tai negalėjo labai varžyti Lietuvos prekybos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
+  pagrindžia:
+    - c-176016
+

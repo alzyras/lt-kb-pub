@@ -35,32 +35,6 @@ media_all_json: |-
 
 Nuo to kėlės namkarė, kuri mažne į praga rą Lenkų ūkę įstūmė. Tuojau kėlės namuose baisus ermyderis ir prasidėjo rūsta namkarė: kaipogi Vasilkas vienus niekuo ne kaltus nužudė, kitus slapta nusmaugino, kitiems aki vaizdoj makaules nurentė, karojo lygia giltine kal tą ir nekaltą, jei tiktai rados skaugis, juos kaltinąs.
 
-## Teiginiai
-
-<a id="claim-t-201211"></a>
-- t-001
-  teiginys: "Nuo to kėlės namkarė, kuri mažne į praga rą Lenkų ūkę įstūmė."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184561
-
-<a id="claim-t-201212"></a>
-- t-002
-  teiginys: "Tuojau kėlės namuose baisus ermyderis ir prasidėjo rūsta namkarė: kaipogi Vasilkas vienus niekuo ne kaltus nužudė, kitus slapta nusmaugino, kitiems aki vaizdoj makaules nurentė, karojo lygia giltine kal tą ir nekaltą, jei tiktai rados skaugis, juos kaltinąs."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184562
-
 ## Citatos
 
 - id: c-184561
@@ -80,7 +54,7 @@ Nuo to kėlės namkarė, kuri mažne į praga rą Lenkų ūkę įstūmė. Tuojau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184562
@@ -118,5 +92,32 @@ Nuo to kėlės namkarė, kuri mažne į praga rą Lenkų ūkę įstūmė. Tuojau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-201211"></a>
+- t-001
+  teiginys: "Nuo to kėlės namkarė, kuri mažne į praga rą Lenkų ūkę įstūmė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184561
+
+<a id="claim-t-201212"></a>
+- t-002
+  teiginys: "Tuojau kėlės namuose baisus ermyderis ir prasidėjo rūsta namkarė: kaipogi Vasilkas vienus niekuo ne kaltus nužudė, kitus slapta nusmaugino, kitiems aki vaizdoj makaules nurentė, karojo lygia giltine kal tą ir nekaltą, jei tiktai rados skaugis, juos kaltinąs."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184562
+

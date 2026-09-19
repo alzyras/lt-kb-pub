@@ -45,42 +45,6 @@ Frazė vartojama kreipiantis į miestus ir pirklius, kuriems, pasak laiško, Ged
 
 Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
 
-## Teiginiai
-
-<a id="claim-t-55183"></a>
-- t-001
-  teiginys: "Gedimino laiške priekaištauta, kad į ankstesnius pasiuntinius, laiškus ir atvertą kraštą net nė šuo su padėka neatsiliepė."
-  atnaujinta: "2026-06-13 17:10"
-  sprendimo_priezastis: "gap::sayings"
-  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Net nė šuo iš jūsų pusės su padėka neatsiliepė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=89"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Net nė šuo iš jūsų pusės su padėka neatsiliepė\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55777
-
-<a id="claim-t-55184"></a>
-- t-002
-  teiginys: "Priekaištas sustiprintas formule, kad net nė šuo iš adresatų pusės su padėka neatsiliepė."
-  atnaujinta: "2026-05-31 12:00"
-  sprendimo_priezastis: "gap::sayings"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55777
-
-<a id="claim-t-82142"></a>
-- t-003
-  teiginys: "Posakis „net nė šuo iš jūsų pusės su padėka neatsiliepė“ pavartotas priekaištaujant, kad adresatai neatsakė į pasiūlymus."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "gap::sayings"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-78632
-
 ## Citatos
 
 - id: c-55777
@@ -101,7 +65,7 @@ Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -132,5 +96,42 @@ Tai aštri diplomatinė priekaišto hiperbolė dėl neatsakytų pasiūlymų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+## Teiginiai
+
+<a id="claim-t-55183"></a>
+- t-001
+  teiginys: "Gedimino laiške priekaištauta, kad į ankstesnius pasiuntinius, laiškus ir atvertą kraštą net nė šuo su padėka neatsiliepė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::sayings"
+  ryšio_patikimumas: "susije_su -> Gediminas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Net nė šuo iš jūsų pusės su padėka neatsiliepė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Gediminas: mention_match, person, gap=89"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Net nė šuo iš jūsų pusės su padėka neatsiliepė\" parinktas kaip owner_note_path. Targetas \"Gediminas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55777
+
+<a id="claim-t-55184"></a>
+- t-002
+  teiginys: "Priekaištas sustiprintas formule, kad net nė šuo iš adresatų pusės su padėka neatsiliepė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::sayings"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55777
+
+<a id="claim-t-82142"></a>
+- t-003
+  teiginys: "Posakis „net nė šuo iš jūsų pusės su padėka neatsiliepė“ pavartotas priekaištaujant, kad adresatai neatsakė į pasiūlymus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::sayings"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-78632
+

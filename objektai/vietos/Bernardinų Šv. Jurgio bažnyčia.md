@@ -39,32 +39,6 @@ historical_names: []
 
 Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv. Raižinio kairėje dalyje virš masyvaus pastato su bokšteliu per vidurį užrašyta Monast minorum de observantia, tai reiškia bernardinų vienuolyną.
 
-## Teiginiai
-
-<a id="claim-t-201704"></a>
-- t-001
-  teiginys: "Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185051
-
-<a id="claim-t-201705"></a>
-- t-002
-  teiginys: "Raižinio kairėje dalyje virš masyvaus pastato su bokšteliu per vidurį užrašyta Monast minorum de observantia, tai reiškia bernardinų vienuolyną."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185052
-
 ## Citatos
 
 - id: c-185051
@@ -79,7 +53,7 @@ Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv. Raižinio k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185052
@@ -96,5 +70,32 @@ Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv. Raižinio k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-201704"></a>
+- t-001
+  teiginys: "Jų Angelo Sargo brolija 1617 m. ėmė rinktis prie bernardinų Šv."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185051
+
+<a id="claim-t-201705"></a>
+- t-002
+  teiginys: "Raižinio kairėje dalyje virš masyvaus pastato su bokšteliu per vidurį užrašyta Monast minorum de observantia, tai reiškia bernardinų vienuolyną."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185052
+

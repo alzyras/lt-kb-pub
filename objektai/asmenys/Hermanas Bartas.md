@@ -43,54 +43,6 @@ canonical_biography: "Dusburgietis teigia, kad apie brolį Hermaną, trečią ma
 
 Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magistras brolis Hermanas, vadinamas Bartu, vadovavo daug metų, o mirė gegužės 20 dieną ir palaidotas Akone157.
 
-## Teiginiai
-
-<a id="claim-t-60325"></a>
-- t-001
-  teiginys: "Hermanas Bartas buvo trečiasis magistras, mirė gegužės 20 dieną ir buvo palaidotas Akone."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_palaidotas -> Akonas: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Hermanas Bartas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Akonas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Hermano Barto palaidojimo vietą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Hermanas Bartas buvo palaidotas Akonas (0.95)"
-  pagrindžia:
-    - c-60957
-
-<a id="claim-t-205229"></a>
-- t-002
-  teiginys: "Narbutas nurodo, kad Hermanas Bartas mirė 1210 m. kovo 20 d., tikriausiai nuo žaizdų, gautų mūšyje su Ikonos sultonu."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-187877
-
-<a id="claim-t-205309"></a>
-- t-003
-  teiginys: "Po Otono mirties lemta buvo tapti išrinktam Hermanui Bartui."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1206 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pakeista gramatiškai ydinga konstrukcija ir įtraukti šaltinyje nurodyti metai. Aiškiai įvardytas Hermano Barto vaidmuo."
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-188072
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Hermanas Bartas buvo trečiasis magistras, mirė gegužės 20 dieną ir buvo palaidotas Akone.'
@@ -139,8 +91,6 @@ Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-187877
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -162,8 +112,8 @@ Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-001
 
 - id: c-188072
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -179,8 +129,55 @@ Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-002
+
+- id: c-204741
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 40"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 40."
+  citata_originali: |
+    Trečias magistras brolis Hermanas, vadinamas Bartu, vadovavo daug metų, o mirė
+    gegužės 20 dieną ir palaidotas
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Hermanas Bartas buvo palaidotas [[objektai/vietos/Akonas]]
+
+## Teiginiai
+
+<a id="claim-t-205229"></a>
+- t-001
+  teiginys: "Narbutas nurodo, kad Hermanas Bartas mirė 1210 m. kovo 20 d., tikriausiai nuo žaizdų, gautų mūšyje su Ikonos sultonu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187877
+
+<a id="claim-t-205309"></a>
+- t-002
+  teiginys: "Po Otono mirties lemta buvo tapti išrinktam Hermanui Bartui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1206 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pakeista gramatiškai ydinga konstrukcija ir įtraukti šaltinyje nurodyti metai. Aiškiai įvardytas Hermano Barto vaidmuo."
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188072
+

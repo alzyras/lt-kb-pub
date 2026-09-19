@@ -61,79 +61,6 @@ Naudoti pardavimui, gydymui ir nemokamam sergančiųjų aprūpinimui.
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-55055"></a>
-- t-001
-  teiginys: "Vaistinėje buvo žaliavų, užjūrio ir vietinių preparatų, medikamentų bei medžiagų atsargų, kurios buvo surašytos, persvertos ir įvertintos."
-  atnaujinta: "2026-05-31 14:13"
-  sprendimo_priezastis: "gap::items"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55721
-
-<a id="claim-t-55056"></a>
-- t-002
-  teiginys: "Kol vaistinėje buvo leidžiama laikyti ir pardavinėti degtinę, metinės pajamos galėjo siekti 30 000 auksinų, o po draudimo jos sumažėjo."
-  atnaujinta: "2026-06-01 14:44"
-  sprendimo_priezastis: "gap::items"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-157226
-
-<a id="claim-t-55057"></a>
-- t-003
-  teiginys: "Dalis medikamentų buvo skiriama kolegijoje sergantiems asmenims, kuriems vaistininkai turėjo be užmokesčio duoti vaistų."
-  atnaujinta: "2026-05-31 14:13"
-  sprendimo_priezastis: "gap::items"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55723
-
-<a id="claim-t-172859"></a>
-- t-004
-  teiginys: "Didžioji iš Krokuvos atgabentos karališkosios vaistinės dalis liko Vilniuje ir tapo nuolatinės miesto vaistinės pradžia."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "gap::items"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vaistinės prekės, vaistai ir gydomieji gėrimai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaistinės prekės, vaistai ir gydomieji gėrimai\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-157228
-
-<a id="claim-t-172862"></a>
-- t-005
-  teiginys: "1780 m. vaistinė kelių vaistininkų dėka buvo išsiplėtusi ir pasiekusi klestintį būvį."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "gap::items"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1780 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Įvardyta numanoma vaistinė ir pašalintas kontekstinis, neaiškus įvardis."
-  pagrindžia:
-    - c-157226
-
-<a id="claim-t-172863"></a>
-- t-006
-  teiginys: "Aleksandro laikais Vilniuje pirmą kartą minimi gydytojas ir vaistinė."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "gap::items"
-  ryšio_patikimumas: "susije_su -> Julijona: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Vaistinės prekės, vaistai ir gydomieji gėrimai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Julijona: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaistinės prekės, vaistai ir gydomieji gėrimai\" parinktas kaip owner_note_path. Targetas \"Julijona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-157227
-
 ## Citatos
 
 - id: c-55721
@@ -160,7 +87,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-55723
@@ -179,7 +106,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-157226
@@ -211,7 +138,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-005
 
@@ -249,7 +176,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-157228
@@ -276,5 +203,79 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+## Teiginiai
+
+<a id="claim-t-55055"></a>
+- t-001
+  teiginys: "Vaistinėje buvo žaliavų, užjūrio ir vietinių preparatų, medikamentų bei medžiagų atsargų, kurios buvo surašytos, persvertos ir įvertintos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::items"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55721
+
+<a id="claim-t-55056"></a>
+- t-002
+  teiginys: "Kol vaistinėje buvo leidžiama laikyti ir pardavinėti degtinę, metinės pajamos galėjo siekti 30 000 auksinų, o po draudimo jos sumažėjo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::items"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-157226
+
+<a id="claim-t-55057"></a>
+- t-003
+  teiginys: "Dalis medikamentų buvo skiriama kolegijoje sergantiems asmenims, kuriems vaistininkai turėjo be užmokesčio duoti vaistų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::items"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55723
+
+<a id="claim-t-172859"></a>
+- t-004
+  teiginys: "Didžioji iš Krokuvos atgabentos karališkosios vaistinės dalis liko Vilniuje ir tapo nuolatinės miesto vaistinės pradžia."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::items"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vaistinės prekės, vaistai ir gydomieji gėrimai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaistinės prekės, vaistai ir gydomieji gėrimai\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-157228
+
+<a id="claim-t-172862"></a>
+- t-005
+  teiginys: "1780 m. vaistinė kelių vaistininkų dėka buvo išsiplėtusi ir pasiekusi klestintį būvį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::items"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1780 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įvardyta numanoma vaistinė ir pašalintas kontekstinis, neaiškus įvardis."
+  pagrindžia:
+    - c-157226
+
+<a id="claim-t-172863"></a>
+- t-006
+  teiginys: "Aleksandro laikais Vilniuje pirmą kartą minimi gydytojas ir vaistinė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::items"
+  ryšio_patikimumas: "susije_su -> Julijona: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Vaistinės prekės, vaistai ir gydomieji gėrimai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Julijona: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vaistinės prekės, vaistai ir gydomieji gėrimai\" parinktas kaip owner_note_path. Targetas \"Julijona\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-157227
+

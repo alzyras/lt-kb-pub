@@ -44,28 +44,6 @@ canonical_biography: "Paveiksle pavaizduoti Radviliškį atakuojantys 1-ojo pės
 
 Paveiksle pavaizduoti Radviliškį atakuojantys 1-ojo pėstininkų pulko kariai, ginkluoti Mosin-Nagant šautuvais ## Puslapis 195 Kazys Ladyga (1893-1941) 1914 m. baigė Vilniaus karo mokyklą, dalyvavo Pirmajame pasauliniame kare, buvo du kartus sužeistas. Ladyga neturėjo vieningos nuomonės dėl priemonių, kurių reikėtų imtis.
 
-## Teiginiai
-
-<a id="claim-t-40281"></a>
-- t-001
-  teiginys: "Kazys Ladyga 1914 m. baigė Vilniaus karo mokyklą, dalyvavo Pirmajame pasauliniame kare ir buvo du kartus sužeistas."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kazys Ladyga: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Frazė tiesiogiai nurodo judėjimą į Lietuvą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kazys Ladyga keliavo į Lietuva (0.78); Kazys Ladyga gyveno Lietuva (0.63)"
-  temporaliniai_duomenys: "įvykio data: 1914 m.; įvykio data: 1919 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Kazį Ladygą."
-  pagrindžia:
-    - c-42078
-
 ## Citatos
 
 - id: c-42078
@@ -95,8 +73,31 @@ Paveiksle pavaizduoti Radviliškį atakuojantys 1-ojo pėstininkų pulko kariai,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Kazys Ladyga keliavo į [[objektai/vietos/Lietuva]]
+
+## Teiginiai
+
+<a id="claim-t-40281"></a>
+- t-001
+  teiginys: "Kazys Ladyga 1914 m. baigė Vilniaus karo mokyklą, dalyvavo Pirmajame pasauliniame kare ir buvo du kartus sužeistas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kazys Ladyga: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Frazė tiesiogiai nurodo judėjimą į Lietuvą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kazys Ladyga keliavo į Lietuva (0.78); Kazys Ladyga gyveno Lietuva (0.63)"
+  temporaliniai_duomenys: "įvykio data: 1914 m.; įvykio data: 1919 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie Kazį Ladygą."
+  pagrindžia:
+    - c-42078
+

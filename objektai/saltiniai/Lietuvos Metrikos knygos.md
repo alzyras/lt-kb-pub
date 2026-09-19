@@ -34,49 +34,6 @@ media_all_json: |-
 
 1561 m. Lietuvos Metrikos dokumentas nurodo, kad į didžiojo kunigaikščio medžioklę Valkininkuose iš Kaniavos, Dubičių, Alytaus ir Daugų dvarų turėjo būti pasiųsti 375 valstiečiai varovai.
 
-## Teiginiai
-
-<a id="claim-t-204172"></a>
-- t-001
-  teiginys: "1561 m. Lietuvos Metrikos dokumentas nurodo, kad į didžiojo kunigaikščio medžioklę Valkininkuose iš Kaniavos, Dubičių, Alytaus ir Daugų dvarų turėjo būti pasiųsti 375 valstiečiai varovai."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  temporaliniai_duomenys: "įvykio data: 1561 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas dokumento kontekstas, nurodyti metai, vieta, dvarai ir bendras varovų skaičius. Papildomų faktų nepridėta."
-  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
-  pagrindžia:
-    - c-186768
-
-<a id="claim-t-206244"></a>
-- t-002
-  teiginys: "Ignotas Onacevičius teigia, kad seniausios Lietuvos Metrikos knygos dingo prie Varnos, o vėlesniosiomis iki tol niekas nesinaudojo."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-188859
-
-<a id="claim-t-206245"></a>
-- t-003
-  teiginys: "Teodoras Narbutas prie reikšmingų Lietuvos istorijos šaltinių priskyrė Peterburge esančias Lietuvos Metrikos knygas, Karaliaučiaus kryžiuočių archyvus ir Maskvos užsienio archyvą."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-188860
-
 ## Citatos
 
 - id: c-186768
@@ -98,7 +55,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188859
@@ -115,7 +72,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188860
@@ -137,5 +94,49 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+## Teiginiai
+
+<a id="claim-t-204172"></a>
+- t-001
+  teiginys: "1561 m. Lietuvos Metrikos dokumentas nurodo, kad į didžiojo kunigaikščio medžioklę Valkininkuose iš Kaniavos, Dubičių, Alytaus ir Daugų dvarų turėjo būti pasiųsti 375 valstiečiai varovai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1561 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas dokumento kontekstas, nurodyti metai, vieta, dvarai ir bendras varovų skaičius. Papildomų faktų nepridėta."
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186768
+
+<a id="claim-t-206244"></a>
+- t-002
+  teiginys: "Ignotas Onacevičius teigia, kad seniausios Lietuvos Metrikos knygos dingo prie Varnos, o vėlesniosiomis iki tol niekas nesinaudojo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188859
+
+<a id="claim-t-206245"></a>
+- t-003
+  teiginys: "Teodoras Narbutas prie reikšmingų Lietuvos istorijos šaltinių priskyrė Peterburge esančias Lietuvos Metrikos knygas, Karaliaučiaus kryžiuočių archyvus ir Maskvos užsienio archyvą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-188860
+

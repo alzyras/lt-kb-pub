@@ -43,9 +43,9 @@
 
 .options-panel-toggle-label {
   color: inherit;
-  font-family: var(--codeFont);
-  font-size: 0.68rem;
-  font-weight: 850;
+  font-family: var(--bodyFont);
+  font-size: 0.75rem;
+  font-weight: 600;
   letter-spacing: 0.08em;
   line-height: 1;
   text-transform: uppercase;
@@ -60,9 +60,9 @@
   border-radius: 50%;
   background: var(--secondary);
   color: var(--light);
-  font-family: var(--codeFont);
-  font-size: 0.62rem;
-  font-weight: 850;
+  font-family: var(--bodyFont);
+  font-size: 0.75rem;
+  font-weight: 600;
 }
 
 .options-panel-badge[hidden] {

@@ -36,29 +36,6 @@ historical_names: []
 
 92 Vengrija 6, 83, 102, 103, 249, 259, 260, 267, 269, 275, 282-284, 287, 293, 312, 336 Venta 115, 127, 180, 187 Veredava 207 Verona 167 Versalio taika 30, 41 Veršvai 76, 106, 147 Vestfalija 202 Viazma 313, 320, 321 Vidas ar Vilkas, Traidenio tėvas 200.
 
-## Teiginiai
-
-<a id="claim-t-192910"></a>
-- t-001
-  teiginys: "Teodoras Narbutas rašė, kad netoli Veronos, slėnyje tarp Veronos ir Trento, dar turėtų gyventi senovės kimbrų ainiai."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "gyveno -> Verona: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kimbrai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Verona: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas nurodo, kad kimbrų ainiai gyveno slėnyje prie Veronos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Kimbrai gyveno Verona (0.78)"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  pagrindžia:
-    - c-175680
-
 ## Citatos
 
 - id: c-175680
@@ -83,5 +60,53 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-197509
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 49"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 49."
+  citata_originali: |
+    Mes turime neabejotiną tos
+    genties paminklą, rodantį, kad kirnbrų, arba kimerų, gen­
+    tys nebuvo ir nėra vien pasaka, nepaisant jų karų su ro­
+    mėnais, kurių aprašinėtojams galėjo būti priekaištauja­
+    ma, kad šį pavadinimą suteikė laukinių germanų iš Pa­
+    baltijo ordoms. Italijoje, netoli Veronos, slėnyje tarp
+    Veronos ir Trento, lig šiol turėtų gyventi ainiai tų pačių
+    senovės kirnbrų, kurie, pasitraukę nuo Baltijos jūros, pa­
+    garsėjo pergale prieš konsulą Scipioną 169 metais prieš
+    Kristaus gimimą. Švedų autorius Biorntelis (Bornthel)
+    mano dabar esant iki 60 000 jų gyventojų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-212636"></a>
+- t-001
+  teiginys: "Teodoras Narbutas rašė, kad netoli Veronos, slėnyje tarp Veronos ir Trento, dar turėtų gyventi senovės kimbrų ainiai."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Verona: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kimbrai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Verona: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas nurodo, kad kimbrų ainiai gyveno slėnyje prie Veronos."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Kimbrai gyveno Verona (0.78)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+  pagrindžia:
+    - c-197509
+

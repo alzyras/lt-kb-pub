@@ -36,10 +36,22 @@ media_all_json: |-
 
 ## Teiginiai
 
+<a id="claim-t-217272"></a>
+- t-217272
+  teiginys: "Tokių paplotėlių lie kaną turi Lietuvos totoriai; jų pavidalas visiškai toks pat, tik be Pemvclos ženklo; jie vadinami džamomis (Džamy) , var tojami apeigoms, vykstančioms kokio nors asmens mirčiai paminėti."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200394
+
 <a id="claim-t-78379"></a>
-- t-001
+- t-78379
   teiginys: "Lietuvos totoriai naudodavo rytietiškas strėlines ir buvo ginkluoti lanku, kardu bei skydu."
-  atnaujinta: "2026-05-31 11:59"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kardas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -53,9 +65,9 @@ media_all_json: |-
     - c-75664
 
 <a id="claim-t-78380"></a>
-- t-002
+- t-78380
   teiginys: "Lietuvos totorių vėliavų įvedimas į mūšį dar labiau padidino švedų kavalerijoje kilusią paniką."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "kariavo_pries -> Švedai: 0.67"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -70,9 +82,9 @@ media_all_json: |-
     - c-75665
 
 <a id="claim-t-78381"></a>
-- t-003
+- t-78381
   teiginys: "Lietuvos totoriai naudodavo rytietiškas strėlines, kaip ir kita Lietuvos lengvoji kariuomenė."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -89,9 +101,9 @@ media_all_json: |-
     - c-75662
 
 <a id="claim-t-78382"></a>
-- t-004
+- t-78382
   teiginys: "Lietuvos totoriai šiame sparne buvo vertinami dėl manevringumo persekiojant bėgantį priešą."
-  atnaujinta: "2026-05-31 11:59"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -105,9 +117,9 @@ media_all_json: |-
     - c-75663
 
 <a id="claim-t-206184"></a>
-- t-005
+- t-206184
   teiginys: "Didysis kunigaikštis dalį totorių belaisvių nusiuntė dovanų Lenkijos karaliui, o kitus įkurdino įvairiose Lietuvos vietovėse, Voluinėje ir Užgirio krašte; nusiųstieji priėmė krikščionybę ir nutautėjo."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -118,9 +130,9 @@ media_all_json: |-
     - c-188799
 
 <a id="claim-t-206185"></a>
-- t-006
+- t-206185
   teiginys: "Teodoras Narbutas nesutinka, kad Lietuvos totoriai savo įsikūrimo Lietuvoje pradžia laikytų Vytauto laikus, ir nurodo, kad jie čia pradėjo kurtis jau Gedimino laikais."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -131,9 +143,9 @@ media_all_json: |-
     - c-188800
 
 <a id="claim-t-206186"></a>
-- t-007
+- t-206186
   teiginys: "Teodoras Narbutas, remdamasis 1420 m. Edigėjaus ir Vytauto susirašinėjimu, nurodo, kad į Lietuvą kėlėsi ir aukštos kilmės totoriai mirzos."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -196,8 +208,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-78381
 
 - id: c-75663
   sudarytojas: "Karolis Zikaras"
@@ -220,8 +232,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-78382
 
 - id: c-75664
   sudarytojas: "Karolis Zikaras"
@@ -242,8 +254,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-78379
 
 - id: c-75665
   sudarytojas: "Karolis Zikaras"
@@ -265,8 +277,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-78380
 
 - id: c-188799
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -295,8 +307,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-206184
 
 - id: c-188800
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -312,8 +324,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-206185
 
 - id: c-188801
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -330,5 +342,26 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-206186
+
+- id: c-200394
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 336"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 336."
+  citata_originali: |
+    Tokių paplotėlių lie­
+    kaną turi Lietuvos totoriai; jų pavidalas visiškai toks pat, tik
+    be Pemvclos ženklo; jie vadinami džamomis (Džamy) , var­
+    tojami apeigoms, vykstančioms kokio nors asmens mirčiai
+    paminėti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217272
+

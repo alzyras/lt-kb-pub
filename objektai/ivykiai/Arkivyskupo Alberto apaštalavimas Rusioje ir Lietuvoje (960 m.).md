@@ -40,34 +40,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-205085"></a>
-- t-001
-  teiginys: "Narbutas pasakoja, kad Albertas grįždamas aplankė kai kuriuos Lietuvos žemės kraštus ir mokė žmones krikščioniškojo tikėjimo tiesų."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-188070
-
-<a id="claim-t-205123"></a>
-- t-002
-  teiginys: "Kijevo kunigaikštienė Olga, kuri priėmė krikštą 955 me tais Konstantinopolyje, stengdamasi įvesti krikščionybę ką tik susikūrusios Rusios valstybės kraštuose, 959 metais išsiuntė pasiuntinius pas imperatorių Otoną II, prašyda ma krikščionybės mokslo skleidėjų."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-187753
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kijevo kunigaikštienė Olga, kuri priėmė krikštą 955 me tais Konstantinopolyje, stengdamasi įvesti krikščionybę ką tik susikūrusios Rusios valstybės kraštuose, 959 metais išsiuntė pasiuntinius pas imperatorių Otoną II, prašyda ma krikščionybės mokslo skleidėjų.'
@@ -114,7 +86,7 @@ Kijevo kunigaikštienė Olga, kuri priėmė krikštą 955 me tais Konstantinopol
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188070
@@ -135,5 +107,34 @@ Kijevo kunigaikštienė Olga, kuri priėmė krikštą 955 me tais Konstantinopol
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205085"></a>
+- t-001
+  teiginys: "Narbutas pasakoja, kad Albertas grįždamas aplankė kai kuriuos Lietuvos žemės kraštus ir mokė žmones krikščioniškojo tikėjimo tiesų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-188070
+
+<a id="claim-t-205123"></a>
+- t-002
+  teiginys: "Kijevo kunigaikštienė Olga, kuri priėmė krikštą 955 me tais Konstantinopolyje, stengdamasi įvesti krikščionybę ką tik susikūrusios Rusios valstybės kraštuose, 959 metais išsiuntė pasiuntinius pas imperatorių Otoną II, prašyda ma krikščionybės mokslo skleidėjų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187753
+

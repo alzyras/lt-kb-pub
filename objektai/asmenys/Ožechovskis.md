@@ -35,21 +35,6 @@ canonical_biography: "Radvilos Juodojo, suorganizavo mokslintus lietuvius, kurie
 
 Radvilos Juodojo, suorganizavo mokslintus lietuvius, kurie paskelbė atsakymą Ožechovskiui (1564 m.) knygutėje, pavadintoje „Lenko pasikalbėjimu su lietuviu". Vienas iš žymiausiųjų tokių lenkų publicistų buvo Ožechovskis.
 
-## Teiginiai
-
-<a id="claim-t-194836"></a>
-- t-001
-  teiginys: "Vis dėlto, įsiskaičius į Ožechovskio veikalą, galima įžiūrė ti iš už uždangų kyšant jo atvirą plunksną, arba kad Romos katalikų bažnyčios dvasininkija Lenkijoje ir Lietuvoje turėjo kažkokią slaptą priežastį po tamsia uždanga slėpti pakartotinį krikštijimą ir."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-177232
-
 ## Citatos
 
 - id: c-177232
@@ -76,5 +61,47 @@ Radvilos Juodojo, suorganizavo mokslintus lietuvius, kurie paskelbė atsakymą O
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-200409
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 399"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 399."
+  citata_originali: |
+    Pati bulė kalba apskritai apie rusinus,
+    tarytum tas pavadinimas nereikštų graikų ir rusų bažnyčios, o
+    kažkokį atskirą, nuo jos atskilusį tikėjimą, globojamą Lenki­
+    jos. Vis dėlto, įsiskaičius į Ožechovskio veikalą, galima įžiūrė­
+    ti iš už uždangų kyšant jo atvirą plunksną, arba kad Romos
+    katalikų bažnyčios dvasininkija Lenkijoje ir Lietuvoje turėjo
+    kažkokią slaptą priežastį po tamsia uždanga slėpti pakartotinį
+    krikštijimą ir buvimą Lietuvoje kažkokios rusiškos sektos, ku­
+    ri laikytina grynai stabmeldiška.
+    Antra vertus, reikia atkreipti dėmesį, kad katalikų bažny­
+    čioje yra ne vienos religinės apeigos, kurioms įprasta suteikti
+    naują vardą: krikštijimas vandeniu, patepimas šventais alie­
+    jais, sutvirtinimas, įstojimas į vienuolius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-215987"></a>
+- t-001
+  teiginys: "Vis dėlto, įsiskaičius į Ožechovskio veikalą, galima įžiūrė ti iš už uždangų kyšant jo atvirą plunksną, arba kad Romos katalikų bažnyčios dvasininkija Lenkijoje ir Lietuvoje turėjo kažkokią slaptą priežastį po tamsia uždanga slėpti pakartotinį krikštijimą ir."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-200409
+

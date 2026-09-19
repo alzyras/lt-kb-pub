@@ -42,36 +42,6 @@ canonical_biography: "Kerim Berdis, būdamas galingesnis už brolius, jėga už�
 
 Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo pasiekti taikiai. Kerim Berdis sutelkė stiprią kariuomenę, mūšyje išsklaidė Tochtamyšo dalinius ir nužudė brolį. Kerim Berdis, padrąsintas ankstesnės pergalės, ryžtingai su kariuomene užpuolė brolį netoli Volgos.
 
-## Teiginiai
-
-<a id="claim-t-186052"></a>
-- t-001
-  teiginys: "Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo pasiekti taikiai."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  temporaliniai_duomenys: "įvykio data: 1419 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys paremtas citata, bet reikėjo pataisyti vardą ir pašalinti boilerplate."
-  pagrindžia:
-    - c-169413
-
-<a id="claim-t-196522"></a>
-- t-002
-  teiginys: "Kojelavičiaus pasakojime Kerim Berdis, būdamas galingesnis už brolius, jėga paėmė tai, ko negalėjo pasiekti geruoju."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-169414
-
 ## Citatos
 
 - id: c-169413
@@ -99,7 +69,7 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-169414
@@ -128,8 +98,9 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+    - t-004
 
 - id: c-169415
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -151,7 +122,71 @@ Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
 
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Tochtamyšas]]
 - Kerim Berdis puolė [[objektai/asmenys/Jerim Berdis]], [[objektai/asmenys/Tochtamyšas]]
+
+## Teiginiai
+
+<a id="claim-t-186052"></a>
+- t-001
+  teiginys: "Kerim Berdis, būdamas galingesnis už brolius, jėga užėmė tai, ko negalėjo pasiekti taikiai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  temporaliniai_duomenys: "įvykio data: 1419 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys paremtas citata, bet reikėjo pataisyti vardą ir pašalinti boilerplate."
+  pagrindžia:
+    - c-169413
+
+<a id="claim-t-186053"></a>
+- t-002
+  teiginys: "Kerim Berdis sutelkė stiprią kariuomenę, mūšyje išsklaidė Tochtamyšo dalinius ir nužudė brolį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169414
+
+<a id="claim-t-186054"></a>
+- t-003
+  teiginys: "Kerim Berdis, padrąsintas ankstesnės pergalės, ryžtingai su kariuomene užpuolė brolį netoli Volgos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Volga: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kerim Berdis: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Volga: mention_match, place, gap=92"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kerim Berdis\" parinktas kaip owner_note_path. Targetas \"Volga\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169415
+
+<a id="claim-t-196522"></a>
+- t-004
+  teiginys: "Kojelavičiaus pasakojime Kerim Berdis, būdamas galingesnis už brolius, jėga paėmė tai, ko negalėjo pasiekti geruoju."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-169414
+

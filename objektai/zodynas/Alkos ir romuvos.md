@@ -82,9 +82,9 @@ Nenurodyta
     - c-00269
 
 <a id="claim-t-06173"></a>
-- t-003
+- t-06173
   teiginys: "Šventovės vienur buvo vadinamos romuvomis, kitur alkomis, galbūt dėl pobūdžio ar tarmių skirtumų."
-  atnaujinta: "2026-06-13 18:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Aisčiai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -112,11 +112,12 @@ Nenurodyta
     kakapių, Alkų kaimų — pilna Lietuvoje.
   citata_rodoma: "Archeologai atkasa dabar tų šventovių, kurias apylinkės žmonės\ndažniausiai vadina savotiškais alkų vardais. Alkos kalnų, Al-\nkakapių, Alkų kaimų — pilna Lietuvoje."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-00269
@@ -137,10 +138,12 @@ Nenurodyta
     pobūdžio arba dėl tarminių skirtumų.
   citata_rodoma: "Taigi pasakojimas, kad buvęs kažkoks vienas vyriausiasis kunigas\nir viena vyriausioji šventovė — Romuva, — yra prasimanymas viduramžio rašytojų, kurie, ne-\ndaug težinodami apie tikrąją aisčių religiją, prasimanė šitą dalyką,\nnusižiūrėję į katalikų Bažnyčią. Šventovės vienur buvo vadi-\nnamos romuvomis, kitur alkomis, — gal būt, dėl skirtingo savo\npobūdžio arba dėl tarminių skirtumų."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
-    - t-003
+    - t-06173
+

@@ -31,20 +31,6 @@ media_all_json: |-
 
 Visų upeivių teisės, pareigos, tarpusavio santykiai paliko pėdsa kų įvairiuose dokumentuose, o surinkti į vieną vietą ir sunorminti šie reikalai buvo jau minėtuose 1639 m. Kauno pirklių susivienijimo nuostatuose ir 1647 m. Kauno laivavedžių ir vytininkų cecho.
 
-## Teiginiai
-
-<a id="claim-t-202238"></a>
-- t-001
-  teiginys: "Visų upeivių teisės, pareigos, tarpusavio santykiai paliko pėdsa kų įvairiuose dokumentuose, o surinkti į vieną vietą ir sunorminti šie reikalai buvo jau minėtuose 1639 m. Kauno pirklių susivienijimo nuostatuose ir 1647 m. Kauno laivavedžių ir vytininkų cecho."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185585
-
 ## Citatos
 
 - id: c-185585
@@ -61,5 +47,20 @@ Visų upeivių teisės, pareigos, tarpusavio santykiai paliko pėdsa kų įvairi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202238"></a>
+- t-001
+  teiginys: "Visų upeivių teisės, pareigos, tarpusavio santykiai paliko pėdsa kų įvairiuose dokumentuose, o surinkti į vieną vietą ir sunorminti šie reikalai buvo jau minėtuose 1639 m. Kauno pirklių susivienijimo nuostatuose ir 1647 m. Kauno laivavedžių ir vytininkų cecho."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185585
+

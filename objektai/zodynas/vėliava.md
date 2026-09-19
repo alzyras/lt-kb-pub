@@ -36,81 +36,6 @@ media_all_json: |-
 
 Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trauktis arba kautis prie kitos vėliavos. Viduramžių kariuomenėje 25-80 lancų sudarydavo būrį, vadinamą vėliava. Dragūnų vėliavą sudarė 100-150 žmonių.
 
-## Teiginiai
-
-<a id="claim-t-78912"></a>
-- t-001
-  teiginys: "Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trauktis arba kautis prie kitos vėliavos."
-  atnaujinta: "2026-05-31 11:59"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Vėliavos: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "vėliava: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vėliavos: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"vėliava\" parinktas kaip owner_note_path. Targetas \"Vėliavos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-76016
-
-<a id="claim-t-78913"></a>
-- t-002
-  teiginys: "Viduramžių kariuomenėje 25-80 lancų sudarydavo būrį, vadinamą vėliava."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-14727
-
-<a id="claim-t-78914"></a>
-- t-003
-  teiginys: "Dragūnų vėliavą sudarė 100-150 žmonių."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-44240
-
-<a id="claim-t-78916"></a>
-- t-004
-  teiginys: "Kiekvienas riteris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs bėgti."
-  atnaujinta: "2026-06-13 17:01"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-37969
-
-<a id="claim-t-78917"></a>
-- t-005
-  teiginys: "Vėliava buvo 25-80 lancų būrys, kuriame būdavo apie 300-400 raitųjų."
-  atnaujinta: "2026-06-01 14:44"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-14727
-
-<a id="claim-t-78918"></a>
-- t-006
-  teiginys: "Riteris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs bėgti."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-37969
-
-<a id="claim-t-193755"></a>
-- t-007
-  teiginys: "Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių."
-  atnaujinta: "2026-07-06 12:55"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-44239
-
 ## Citatos
 
 - id: c-14727
@@ -130,9 +55,9 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
-    - t-005
+    - t-006
 
 - id: c-37969
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -153,9 +78,9 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
-    - t-006
+  pagrindžia:
+    - t-005
+    - t-007
 
 - id: c-44239
   sudarytojas: "Karolis Zikaras"
@@ -171,8 +96,8 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-008
 
 - id: c-44240
   sudarytojas: "Karolis Zikaras"
@@ -191,8 +116,9 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+    - t-004
 
 - id: c-76016
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -212,5 +138,90 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-78912"></a>
+- t-001
+  teiginys: "Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trauktis arba kautis prie kitos vėliavos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Vėliavos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "vėliava: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Vėliavos: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"vėliava\" parinktas kaip owner_note_path. Targetas \"Vėliavos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-76016
+
+<a id="claim-t-78913"></a>
+- t-002
+  teiginys: "Viduramžių kariuomenėje 25-80 lancų sudarydavo būrį, vadinamą vėliava."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-14727
+
+<a id="claim-t-78914"></a>
+- t-003
+  teiginys: "Dragūnų vėliavą sudarė 100-150 žmonių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-44240
+
+<a id="claim-t-78915"></a>
+- t-004
+  teiginys: "Vėliavai vadovaudavo kapitonas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-44240
+
+<a id="claim-t-78916"></a>
+- t-005
+  teiginys: "Kiekvienas riteris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs bėgti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-37969
+
+<a id="claim-t-78917"></a>
+- t-006
+  teiginys: "Vėliava buvo 25-80 lancų būrys, kuriame būdavo apie 300-400 raitųjų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-14727
+
+<a id="claim-t-78918"></a>
+- t-007
+  teiginys: "Riteris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs bėgti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-37969
+
+<a id="claim-t-193755"></a>
+- t-008
+  teiginys: "Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-44239
+

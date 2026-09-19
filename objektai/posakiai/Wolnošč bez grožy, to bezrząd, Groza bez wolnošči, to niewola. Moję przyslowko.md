@@ -27,19 +27,6 @@ media_all_json: |-
 
 Narbutas šį tekstą taip pat pateikia kaip epigrafą prie antrojo leidimo pataisų.
 
-## Teiginiai
-
-<a id="claim-t-192126"></a>
-- t-001
-  teiginys: "Posakis „Wolnošč bez grožy, to bezrząd, Groza bez wolnošči, to niewola. Moję przyslowko“ pateiktas kaip epigrafas, kuriuo Narbutas papildė tekstą rengdamas antrąjį leidimą."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-175012
-
 ## Citatos
 
 - id: c-175012
@@ -61,5 +48,15 @@ Narbutas šį tekstą taip pat pateikia kaip epigrafą prie antrojo leidimo pata
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+## Teiginiai
+
+<a id="claim-t-214537"></a>
+- t-001
+  teiginys: "Posakis „Wolnošč bez grožy, to bezrząd, Groza bez wolnošči, to niewola. Moję przyslowko“ pateiktas kaip epigrafas, kuriuo Narbutas papildė tekstą rengdamas antrąjį leidimą."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+

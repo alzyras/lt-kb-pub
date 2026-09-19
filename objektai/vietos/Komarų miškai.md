@@ -47,18 +47,6 @@ Komarų miškai šiame šaltinyje minimi pasakojime apie ežio persekiojimą.
 
 Komarų miškai šiame šaltinyje yra miškai.
 
-## Teiginiai
-
-<a id="claim-t-195660"></a>
-- t-001
-  teiginys: "Pasakojime sakoma, kad Belazaro skalikai ežį nusivijo per laukus į Komarų miškus."
-  atnaujinta: "2026-07-12 09:30"
-  sprendimo_priezastis: "gap::places"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178061
-
 ## Citatos
 
 - id: c-178061
@@ -85,5 +73,18 @@ Komarų miškai šiame šaltinyje yra miškai.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-195660"></a>
+- t-001
+  teiginys: "Pasakojime sakoma, kad Belazaro skalikai ežį nusivijo per laukus į Komarų miškus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::places"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-178061
+

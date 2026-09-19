@@ -46,10 +46,22 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 
 ## Teiginiai
 
+<a id="claim-t-214695"></a>
+- t-214695
+  teiginys: "Dėl sąjungos su graikų imperatoriumi rusai pri siekė savo dievu Perūnu; vadinasi, jis buvo tas pats kaip ir prūsų Perkūnas."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196875
+
 <a id="claim-t-117247"></a>
-- t-001
+- t-117247
   teiginys: "„Rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai, kurių daugumą iš pradžių sudarė stačiatikių seminarijų auklėtiniai."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Rusija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -64,9 +76,9 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - c-107975
 
 <a id="claim-t-117248"></a>
-- t-002
+- t-117248
   teiginys: "Prieš Strėvos mūšį į Lietuvos kariuomenę buvo pašaukti rusai iš Vladimiro, Brastos, Vitebsko, Smolensko ir Polocko."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Polockas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -83,9 +95,9 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - c-42907
 
 <a id="claim-t-117249"></a>
-- t-003
+- t-117249
   teiginys: "Didžiojoje Kunigaikštystėje gyvenę rusai atsisakydavo dvasininkams mokėti dešimtinę, pelno mokestį ir kitas duokles."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Maskvėnai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -99,9 +111,9 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - c-107971
 
 <a id="claim-t-117250"></a>
-- t-004
+- t-117250
   teiginys: "Didžiojoje Kunigaikštystėje gyvenę rusai atsisakydavo mokėti dešimtinę, pelno mokestį ir kitas duokles dvasininkams."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Maskvėnai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -115,9 +127,9 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - c-107971
 
 <a id="claim-t-117251"></a>
-- t-005
+- t-117251
   teiginys: "Strėvos mūšio pradžioje Lietuvos kariai rusai šaudė į priešą iš lankų."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lankai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -133,9 +145,9 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - c-42906
 
 <a id="claim-t-117252"></a>
-- t-006
+- t-117252
   teiginys: "Vytauto kariuomenėje buvo lietuvių, žemaičių, vokiečių, lenkų, totorių, rusų ir valakų, todėl ji buvo internacionalinė."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -149,9 +161,9 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - c-107970
 
 <a id="claim-t-117253"></a>
-- t-007
+- t-117253
   teiginys: "XVII–XVIII a. rusai kelis kartus išvertė Stryjkovskio Kroniką arba jos dalis į rusų kalbą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -165,9 +177,9 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - c-31253
 
 <a id="claim-t-117254"></a>
-- t-008
+- t-117254
   teiginys: "Rusai XVII-XVIII a. kelis kartus vertė Stryjkovskio kroniką ar jos dalis į rusų kalbą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -181,9 +193,9 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - c-107974
 
 <a id="claim-t-117255"></a>
-- t-009
+- t-117255
   teiginys: "Strėvos mūšio pradžioje Lietuvos kariai rusai priešą atakavo šaudydami iš lankų."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lankai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -200,9 +212,9 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - c-42906
 
 <a id="claim-t-184580"></a>
-- t-010
+- t-184580
   teiginys: "Polocko rusai valdžią valstybėje perdavė trisdešimčiai senelių, o svarbiausius reikalus svarstė aikštės sueigose."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -220,9 +232,9 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - c-167941
 
 <a id="claim-t-193127"></a>
-- t-011
+- t-193127
   teiginys: "Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų."
-  atnaujinta: "2026-07-06 12:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -231,22 +243,10 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   pagrindžia:
     - c-175886
 
-<a id="claim-t-193337"></a>
-- t-012
-  teiginys: "Atleidęs pasiuntinius, įsakė juos klystitin reikšminga, nes rusai vėliau ėmė rodyti lietuvių valdovui ne tik didesnę pagarbą bei palankumą, bet ir pastovesnę ištikimybę."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-176065
-
 <a id="claim-t-196120"></a>
-- t-013
+- t-196120
   teiginys: "Ivanas kaltino Aleksandrą, kad rusai verčiami atsisakyti prosenelių tikėjimo ir dėl to kai kurie ieškosi prieglobsčio Maskvoje."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -331,8 +331,8 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-117253
 
 - id: c-42906
   sudarytojas: "Karolis Zikaras"
@@ -356,9 +356,9 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
-    - t-009
+  pagrindžia:
+    - t-117251
+    - t-117255
 
 - id: c-42907
   sudarytojas: "Karolis Zikaras"
@@ -383,8 +383,8 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-117248
 
 - id: c-107970
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -405,8 +405,8 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-117252
 
 - id: c-107971
   autorius: "Michał Baliński"
@@ -444,9 +444,9 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-    - t-004
+  pagrindžia:
+    - t-117249
+    - t-117250
 
 - id: c-107974
   autorius: "Zenonas Ivinskis"
@@ -465,8 +465,8 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
+  pagrindžia:
+    - t-117254
 
 - id: c-107975
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -489,8 +489,8 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-117247
 
 - id: c-167941
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -512,8 +512,8 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-010
+  pagrindžia:
+    - t-184580
 
 - id: c-175886
   redaktorius: "A. Šapoka"
@@ -540,8 +540,8 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-011
+  pagrindžia:
+    - t-193127
 
 - id: c-176065
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -571,8 +571,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-012
 
 - id: c-178540
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -604,8 +602,26 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-013
+  pagrindžia:
+    - t-196120
+
+- id: c-196875
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 341"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
+  citata_originali: |
+    Dėl sąjungos su graikų imperatoriumi rusai pri­
+    siekė savo dievu Perūnu; vadinasi, jis buvo tas pats kaip
+    ir prūsų Perkūnas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214695
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Kazokai]]

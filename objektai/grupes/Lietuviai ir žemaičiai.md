@@ -31,44 +31,6 @@ media_all_json: |-
 
 7-oji dalis Lietuvos iros . I Žinios grekonų apie lietuvių bei žemaičių tautą Gilioj senovėj visi tie kraštai, kuriuose šiandien gyvena lietuviai žemaičiai, vadinami prūsais, žem galiais, letvėžais, yra amžina nakčia nežinios apgob ti. Visa ūkė Lietuvos buvo paskaidyta į kraštus, o kraštai į urėdes, o tos į pavietas, ką tuojau regė sim. . VIII Tikyba lietuvių ir žemaičių Lietuviai ir žemaičiai pos[ėj]o šilimą arba tą ga lybę, kuri visa gaivino, vadino Perkūnu, arba Perūnu, kaipo perėto j a. Tą teisybę aiškiai gal re gėti šiandien Lietuvos ir Žemaičių tautoj, kaipogi noris jos ūkė j seniai jau svetimos tautos įsikūrė, noris iras jos rūmų bei pilių seniai jau žemė užgu lėjo, o jos raštus ir minavones skaugingi laikai pa gavo, vienok jos kalba.
 
-## Teiginiai
-
-<a id="claim-t-201231"></a>
-- t-001
-  teiginys: "7-oji dalis Lietuvos iros . I Žinios grekonų apie lietuvių bei žemaičių tautą Gilioj senovėj visi tie kraštai, kuriuose šiandien gyvena lietuviai žemaičiai, vadinami prūsais, žem galiais, letvėžais, yra amžina nakčia nežinios apgob ti."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184581
-
-<a id="claim-t-201232"></a>
-- t-002
-  teiginys: "Visa ūkė Lietuvos buvo paskaidyta į kraštus, o kraštai į urėdes, o tos į pavietas, ką tuojau regė sim. . VIII Tikyba lietuvių ir žemaičių Lietuviai ir žemaičiai pos[ėj]o šilimą arba tą ga lybę, kuri visa gaivino, vadino Perkūnu, arba Perūnu, kaipo perėto j a."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184582
-
-<a id="claim-t-201233"></a>
-- t-003
-  teiginys: "Tą teisybę aiškiai gal re gėti šiandien Lietuvos ir Žemaičių tautoj, kaipogi noris jos ūkė j seniai jau svetimos tautos įsikūrė, noris iras jos rūmų bei pilių seniai jau žemė užgu lėjo, o jos raštus ir minavones skaugingi laikai pa gavo, vienok jos kalba."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184583
-
 ## Citatos
 
 - id: c-184581
@@ -93,7 +55,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184582
@@ -123,7 +85,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-184583
@@ -151,5 +113,44 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+## Teiginiai
+
+<a id="claim-t-201231"></a>
+- t-001
+  teiginys: "7-oji dalis Lietuvos iros . I Žinios grekonų apie lietuvių bei žemaičių tautą Gilioj senovėj visi tie kraštai, kuriuose šiandien gyvena lietuviai žemaičiai, vadinami prūsais, žem galiais, letvėžais, yra amžina nakčia nežinios apgob ti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184581
+
+<a id="claim-t-201232"></a>
+- t-002
+  teiginys: "Visa ūkė Lietuvos buvo paskaidyta į kraštus, o kraštai į urėdes, o tos į pavietas, ką tuojau regė sim. . VIII Tikyba lietuvių ir žemaičių Lietuviai ir žemaičiai pos[ėj]o šilimą arba tą ga lybę, kuri visa gaivino, vadino Perkūnu, arba Perūnu, kaipo perėto j a."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184582
+
+<a id="claim-t-201233"></a>
+- t-003
+  teiginys: "Tą teisybę aiškiai gal re gėti šiandien Lietuvos ir Žemaičių tautoj, kaipogi noris jos ūkė j seniai jau svetimos tautos įsikūrė, noris iras jos rūmų bei pilių seniai jau žemė užgu lėjo, o jos raštus ir minavones skaugingi laikai pa gavo, vienok jos kalba."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184583
+

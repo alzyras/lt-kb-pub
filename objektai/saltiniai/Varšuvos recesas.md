@@ -26,26 +26,6 @@ media_all_json: |-
 
 Varšuvos recesas: tuo metu buvo surašytas specialus aktas, į kurį buvo įtraukti visi iš- spręstieji klausimai, o neišspręstieji turėjo būtį sprendžiami specia- liam seime. Šitas nebaigto spręsti klausimo nukėlimas į kitą seimą, anų laikų įpročiu, buvo vadinamas recesu (nuo. Varšuvos recesas: po ilgų derybų tebuvo susitarta tik kai kuriais klausimais ir buvo surašytas spe- cialus to susitarimo aktas (neišspręsti klausimai buvo atidėti vėlesniam laikui). Tačiau lietuvių delegacijos pirmininkas Mi- kalojus Radvila Juodasis tada pareiškė, kad jis.
 
-## Teiginiai
-
-<a id="claim-t-67557"></a>
-- t-001
-  teiginys: "Po ilgų derybų Varšuvos recesu buvo sutarta tik dėl kai kurių klausimų, o neišspręsti klausimai atidėti vėlesniam laikui."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67420
-
-<a id="claim-t-67558"></a>
-- t-002
-  teiginys: "Varšuvos recesas buvo Varšuvoje sudarytas aktas, kuriame išspręsti klausimai atskirti nuo vėlesniam seimui paliktų klausimų."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67421
-
 ## Citatos
 
 - id: c-67420
@@ -67,7 +47,7 @@ Varšuvos recesas: tuo metu buvo surašytas specialus aktas, į kurį buvo įtra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-67421
@@ -88,5 +68,26 @@ Varšuvos recesas: tuo metu buvo surašytas specialus aktas, į kurį buvo įtra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-67557"></a>
+- t-001
+  teiginys: "Po ilgų derybų Varšuvos recesu buvo sutarta tik dėl kai kurių klausimų, o neišspręsti klausimai atidėti vėlesniam laikui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67420
+
+<a id="claim-t-67558"></a>
+- t-002
+  teiginys: "Varšuvos recesas buvo Varšuvoje sudarytas aktas, kuriame išspręsti klausimai atskirti nuo vėlesniam seimui paliktų klausimų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67421
+

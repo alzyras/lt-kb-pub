@@ -43,30 +43,6 @@ Cituojama „Dzūkų grupės įsakymas Nr. 1 žaliukų vadams (1945 m. gegužės
 
 - Cituojama „Dzūkų grupės įsakymas Nr. 1 žaliukų vadams (1945 m. gegužės 7 d.)“ ištrauka.
 
-## Teiginiai
-
-<a id="claim-t-171528"></a>
-- t-001
-  teiginys: "Dzūkų grupės įsakyme nurodyta, kad atskiri žaliukų daliniai vadinti jų vadų slapyvardžių būriais, pavyzdžiui, Perkūno ar Šarūno būriu."
-  atnaujinta: "2026-06-13 17:10"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-11216
-
-<a id="claim-t-171529"></a>
-- t-002
-  teiginys: "1945 m. gegužės 7 d. Dzūkų grupės įsakymas Nr. 1 buvo skirtas tik žaliukų dalinių vadams vykdyti ir žinoti."
-  atnaujinta: "2026-06-14 10:59"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1945 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti sklandesnį sakinį su data ir aiškiu adresatu."
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  pagrindžia:
-    - c-11215
-
 ## Citatos
 
 - id: c-11215
@@ -84,7 +60,7 @@ Cituojama „Dzūkų grupės įsakymas Nr. 1 žaliukų vadams (1945 m. gegužės
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-11216
@@ -102,5 +78,30 @@ Cituojama „Dzūkų grupės įsakymas Nr. 1 žaliukų vadams (1945 m. gegužės
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-171528"></a>
+- t-001
+  teiginys: "Dzūkų grupės įsakyme nurodyta, kad atskiri žaliukų daliniai vadinti jų vadų slapyvardžių būriais, pavyzdžiui, Perkūno ar Šarūno būriu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-11216
+
+<a id="claim-t-171529"></a>
+- t-002
+  teiginys: "1945 m. gegužės 7 d. Dzūkų grupės įsakymas Nr. 1 buvo skirtas tik žaliukų dalinių vadams vykdyti ir žinoti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1945 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti sklandesnį sakinį su data ir aiškiu adresatu."
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  pagrindžia:
+    - c-11215
+

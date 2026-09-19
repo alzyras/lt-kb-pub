@@ -24,20 +24,6 @@ media_all_json: |-
 
 Reikalas buvo suprantamas kaip apimantis visą Kauno respubliką ( wszystkq.
 
-## Teiginiai
-
-<a id="claim-t-201889"></a>
-- t-001
-  teiginys: "Reikalas buvo suprantamas kaip apimantis visą Kauno respubliką ( wszystkq."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185236
-
 ## Citatos
 
 - id: c-185236
@@ -52,5 +38,20 @@ Reikalas buvo suprantamas kaip apimantis visą Kauno respubliką ( wszystkq.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201889"></a>
+- t-001
+  teiginys: "Reikalas buvo suprantamas kaip apimantis visą Kauno respubliką ( wszystkq."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185236
+

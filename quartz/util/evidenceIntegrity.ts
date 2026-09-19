@@ -357,7 +357,13 @@ export function collectEvidenceIntegrityIssues(markdown: string): EvidenceIntegr
         })
       }
 
-      if (!isIndexOnlyCitation(citation) && overlapScore(claim, citation, contextText) === 0) {
+      const matchMode = (citation.fields.get("pagrindimo_rezimas") ?? "").trim().toLowerCase()
+      const contextSupported = matchMode === "ai_supported_context"
+      if (
+        !isIndexOnlyCitation(citation) &&
+        !contextSupported &&
+        overlapScore(claim, citation, contextText) === 0
+      ) {
         issues.push({
           code: "citation_text_mismatch",
           severity: "warning",

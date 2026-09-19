@@ -42,27 +42,6 @@ historical_names: []
 
 Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­ nyje į Viliją įteka Vingrių šaltinis, pavadinimas.
 
-## Teiginiai
-
-<a id="claim-t-86245"></a>
-- t-001
-  teiginys: "Michałas Balińskis Totorių vartų pavadinimą siejo su totoriais, kurie, jo manymu, pirmiausia buvo įsikūrę Lukiškėse."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Totoriai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Totorių vartai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Totoriai: mention_match, group, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totorių vartai\" parinktas kaip owner_note_path. Targetas \"Totoriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: 1398 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Kadangi teiginys aiškina pavadinimo kilmę ir remiasi autoriaus interpretacija, reikia nurodyti priskyrimą."
-  pagrindžia:
-    - c-82224
-
 ## Citatos
 
 - id: c-82224
@@ -86,5 +65,61 @@ Nuo jų taip pat kilo gatvės ir Totorių vartų, kur slė­ nyje į Viliją įt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-191030
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 320"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 320."
+  citata_originali: |
+    Visa tai rodo, kad V. Ivaškevičiaus sukurtas Vilniaus vaizdas yra sąlyginis, gautas
+    sujungus vienoje plokštumoje įvairius objektus, pieštus iš skirtingų žiūrėjimo taškų.
+    Vis dėlto tie atskiri objektai yra pavaizduoti gana realistiškai, todėl, nepaisant tam
+    tikro piešinio primityvumo, vaizdo ikonografinė vertė didelė. Ypač tai pasakytina
+    apie 1802 m. nugriautus Totorių vartus.
+  citata_rodoma: "Ypač tai pasakytina \napie 1802 m. nugriautus Totorių vartus."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Teiginiai
+
+<a id="claim-t-86245"></a>
+- t-001
+  teiginys: "Michałas Balińskis Totorių vartų pavadinimą siejo su totoriais, kurie, jo manymu, pirmiausia buvo įsikūrę Lukiškėse."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Totoriai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Totorių vartai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Totoriai: mention_match, group, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Totorių vartai\" parinktas kaip owner_note_path. Targetas \"Totoriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: 1398 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Kadangi teiginys aiškina pavadinimo kilmę ir remiasi autoriaus interpretacija, reikia nurodyti priskyrimą."
+  pagrindžia:
+    - c-82224
+
+<a id="claim-t-208234"></a>
+- t-002
+  teiginys: "Ypač tai pasakytina apie 1802 m. nugriautus Totorių vartus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  temporaliniai_duomenys: "įvykio data: 1802 m.; įvykio data: apie 1802 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  pagrindžia:
+    - c-191030
+

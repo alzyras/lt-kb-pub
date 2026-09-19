@@ -43,20 +43,6 @@ canonical_biography: "1925 m. Vladas Stankevičius išleido Kauno Vytauto Didži
 
 1925 m. Vladas Stankevičius išleido Kauno Vytauto Didžiojo universitete skaitytų baudžiamosios teisės paskaitų ciklą, kurio priede pateikta trumpa Lietuvos teisės istorija.
 
-## Teiginiai
-
-<a id="claim-t-203710"></a>
-- t-001
-  teiginys: "1925 m. Vladas Stankevičius išleido Kauno Vytauto Didžiojo universitete skaitytų baudžiamosios teisės paskaitų ciklą, kurio priede pateikta trumpa Lietuvos teisės istorija."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
-  pagrindžia:
-    - c-186314
-
 ## Citatos
 
 - id: c-186314
@@ -75,5 +61,20 @@ canonical_biography: "1925 m. Vladas Stankevičius išleido Kauno Vytauto Didži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203710"></a>
+- t-001
+  teiginys: "1925 m. Vladas Stankevičius išleido Kauno Vytauto Didžiojo universitete skaitytų baudžiamosios teisės paskaitų ciklą, kurio priede pateikta trumpa Lietuvos teisės istorija."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186314
+

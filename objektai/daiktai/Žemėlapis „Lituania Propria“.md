@@ -54,28 +54,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-26416"></a>
-- t-001
-  teiginys: "„Lituania Propria“ žemėlapis pateiktas Jono Žiliaus knygoje „The Boundaries of Lithuania“, išleistoje Paryžiuje 1920 m."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Paryžius: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žemėlapis „Lituania Propria“: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Paryžius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys nurodo, kad knyga, kurioje pateiktas žemėlapis, išleista Paryžiuje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Žemėlapis „Lituania Propria“ priklausė Paryžius (0.62)"
-  temporaliniai_duomenys: "įvykio data: 1914 m.; įvykio data: 1920 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas puslapio triukšmas ir palikta citatos pagrįsta objekto informacija."
-  pagrindžia:
-    - c-26641
-
 ## Citatos
 
 - id: c-26641
@@ -115,5 +93,28 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-26416"></a>
+- t-001
+  teiginys: "„Lituania Propria“ žemėlapis pateiktas Jono Žiliaus knygoje „The Boundaries of Lithuania“, išleistoje Paryžiuje 1920 m."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Paryžius: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žemėlapis „Lituania Propria“: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Paryžius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys nurodo, kad knyga, kurioje pateiktas žemėlapis, išleista Paryžiuje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Žemėlapis „Lituania Propria“ priklausė Paryžius (0.62)"
+  temporaliniai_duomenys: "įvykio data: 1914 m.; įvykio data: 1920 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas puslapio triukšmas ir palikta citatos pagrįsta objekto informacija."
+  pagrindžia:
+    - c-26641
+

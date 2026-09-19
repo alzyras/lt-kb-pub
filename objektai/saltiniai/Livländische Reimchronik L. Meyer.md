@@ -34,20 +34,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad livländische Reimchronik / L.
 
-## Teiginiai
-
-<a id="claim-t-61149"></a>
-- t-001
-  teiginys: "L. Meyerio „Livländische Reimchronik“ išleista Paderborne 1876 m."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1876 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata patvirtina autoriaus pavardę, pavadinimą, leidimo vietą ir metus."
-  pagrindžia:
-    - c-61781
-
 ## Citatos
 
 - id: c-61781
@@ -62,5 +48,34 @@ Dusburgietis teigia, kad livländische Reimchronik / L.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-205099
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 267"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
+  citata_originali: |
+    Livländische Reimchronik / L. Meyer.—Paderborn, 1876.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-220739"></a>
+- t-001
+  teiginys: "L. Meyerio „Livländische Reimchronik“ išleista Paderborne 1876 m."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1876 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata patvirtina autoriaus pavardę, pavadinimą, leidimo vietą ir metus."
+  pagrindžia:
+    - c-205099
+

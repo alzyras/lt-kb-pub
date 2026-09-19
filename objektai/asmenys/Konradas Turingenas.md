@@ -31,20 +31,6 @@ canonical_biography: "Matydamas tą, rėdytojas kryžėjų Vida pasakė didžiaj
 
 Matydamas tą, rėdytojas kryžėjų Vida pasakė didžiajam mistrui Konradui Turingenui, kas nutiko tarp zokano ir Sviatopelko; tame daikte kryžėjai rados didžiame pavojuj, kaipogi pats popiežius buvo ant jų įbingęs, jog jie daugiaus ciesoriaus nei jo klausė.
 
-## Teiginiai
-
-<a id="claim-t-201420"></a>
-- t-001
-  teiginys: "Matydamas tą, rėdytojas kryžėjų Vida pasakė didžiajam mistrui Konradui Turingenui, kas nutiko tarp zokano ir Sviatopelko; tame daikte kryžėjai rados didžiame pavojuj, kaipogi pats popiežius buvo ant jų įbingęs, jog jie daugiaus ciesoriaus nei jo klausė."
-  atnaujinta: "2026-07-16 14:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184770
-
 ## Citatos
 
 - id: c-184770
@@ -79,5 +65,20 @@ Matydamas tą, rėdytojas kryžėjų Vida pasakė didžiajam mistrui Konradui Tu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201420"></a>
+- t-001
+  teiginys: "Matydamas tą, rėdytojas kryžėjų Vida pasakė didžiajam mistrui Konradui Turingenui, kas nutiko tarp zokano ir Sviatopelko; tame daikte kryžėjai rados didžiame pavojuj, kaipogi pats popiežius buvo ant jų įbingęs, jog jie daugiaus ciesoriaus nei jo klausė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184770
+

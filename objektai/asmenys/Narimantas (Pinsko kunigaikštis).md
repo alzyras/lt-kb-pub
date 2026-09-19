@@ -47,152 +47,6 @@ canonical_biography: "Vytautas belaisvį Narimantą pakorė už kojų ant guobos
 
 Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribaigė jį lanko šūviu. Narbutas pasakoja, kad Narimantas apie 1268 m. įsiveržė į jotvingių Polesę ir privertė gyventojus priimti jo paskirtą valdovą Traidenį. Narimantas nenorėjo taip spręsti valstybės reikalų, kad broliai galėtų jam prikaišioti, jog sprendžia perdaug griežtai: dėl savo sprendimo jis nenorėjo vienas pats susilaukti visuo tinės neapykantos.
 
-## Teiginiai
-
-<a id="claim-t-186074"></a>
-- t-001
-  teiginys: "Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribaigė jį lanko šūviu."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_priesas -> Narimantas (Pinsko kunigaikštis): 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Vytauto smurtinis veiksmas prieš belaisvį Narimantą tiesiogiai rodo priešišką santykį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) buvo priešas Narimantas (Pinsko kunigaikštis) (0.76)"
-  pagrindžia:
-    - c-169435
-
-<a id="claim-t-190930"></a>
-- t-002
-  teiginys: "Narbutas pasakoja, kad Narimantas apie 1268 m. įsiveržė į jotvingių Polesę ir privertė gyventojus priimti jo paskirtą valdovą Traidenį."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "surenge_zygi_i -> Polesė: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Polesė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai aprašo Narimanto karinį įsiveržimą į Polesę."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Narimantas (Pinsko kunigaikštis) surengė žygį į Polesė (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1268 m.; įvykio data: apie 1268 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Narimantas (Pinsko kunigaikštis) surengė žygį į Polesė“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys pilnai išskleidžia Narimanto veiksmą, laiką, vietą ir rezultatą. Valdovo titulas bei kronikinis pasakojimas išlaikyti su Narbuto atribucija."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-173812
-
-<a id="claim-t-193400"></a>
-- t-003
-  teiginys: "Narimantas nenorėjo taip spręsti valstybės reikalų, kad broliai galėtų jam prikaišioti, jog sprendžia perdaug griežtai: dėl savo sprendimo jis nenorėjo vienas pats susilaukti visuo tinės neapykantos."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-176122
-
-<a id="claim-t-193966"></a>
-- t-004
-  teiginys: "Lietuvos metraštyje Narimantas vadinamas didžiuoju kunigaikščiu ir pasakojama, kad jis vedė livoniečio Fledro dukterį."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-176591
-
-<a id="claim-t-193967"></a>
-- t-005
-  teiginys: "Didysis kunigaikštis Narimantas pasiėmė sau žmoną minėto livoniečio Fledro dukterį, jo brolis Daumantas vedė antrąją to paties Fledro 2 1 dukterį."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-176592
-
-<a id="claim-t-193968"></a>
-- t-006
-  teiginys: "Ir dėl šito tarp brolių — didžiojo kuni gaikščio Narimanto ir kunigaikščio Daumanto — kilo baisus pyktis ir nesantaika."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-176593
-
-<a id="claim-t-196861"></a>
-- t-007
-  teiginys: "Lietuvos metraštyje Narimantas vadinamas didžiuoju kunigaikščiu ir pasakojama, kad jis vedė livoniečio Fledro dukterį, o jo brolis Daumantas - kitą Fledro dukterį."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-176591
-
-<a id="claim-t-196862"></a>
-- t-008
-  teiginys: "Gyvendamas pas kunigaikštį Levą, Rimantas išmo ko rusiškai kalbėti, ir jam patiko krikščionių tikėji mas."
-  atnaujinta: "2026-07-12 22:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-176592
-
-<a id="claim-t-205707"></a>
-- t-009
-  teiginys: "Narbutas nurodo, kad Narimanto broliai buvo Halšys arba Alšys ir Giedrius."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-188322
-
-<a id="claim-t-206365"></a>
-- t-010
-  teiginys: "Narimantas, sugrįžęs iš totorių nelaisvės ir susitaikęs su Algirdu, žuvo, o jo kūną pagal kunigaikščio insignijas atpažino kryžiuočiai."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-188980
-
 ## Reikšmingi paminėjimai
 - c-004
   santrauka: 'Narimantas nenorėjo taip spręsti valstybės reikalų, kad broliai galėtų jam prikaišioti, jog sprendžia perdaug griežtai: dėl savo sprendimo jis nenorėjo vienas pats susilaukti visuo tinės neapykantos.'
@@ -260,6 +114,7 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-169435
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
@@ -287,8 +142,8 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-186074
 
 - id: c-173812
   autorius: "Teodoras Narbutas"
@@ -310,8 +165,6 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-176122
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -334,8 +187,8 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-193400
 
 - id: c-176591
   autorius: "Anoniminis metraštininkas"
@@ -360,9 +213,6 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
-    - t-007
 
 - id: c-176592
   autorius: "Anoniminis metraštininkas"
@@ -384,9 +234,6 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
-    - t-008
 
 - id: c-176593
   autorius: "Anoniminis metraštininkas"
@@ -411,8 +258,6 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
 
 - id: c-188322
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -442,8 +287,8 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
+  pagrindžia:
+    - t-205707
 
 - id: c-188980
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -460,8 +305,56 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-010
+  pagrindžia:
+    - t-206365
+
+- id: c-193216
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 59"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 59."
+  citata_originali: |
+    Ir kai jo sūnus Ri­
+    mantas išaugo į savo metus, jo tėvas Traidenis atidavė
+    jį Levui Mstislavičiui, įkūrusiam miestą, pagal jo var­
+    dą pavadintą Lvovu 3, kad išmokytų rusų kalbos.
+    Gyvendamas pas kunigaikštį Levą, Rimantas išmo­
+    ko rusiškai kalbėti, ir jam patiko krikščionių tikėji­
+    mas. Priėmęs krikštą, jis suprato, kad šis gyvenimas
+    nieko nevertas, ir, atsisakęs gyvenimo, tapo vienuoliu;
+    ir jam buvo duotas Lauro vardas4.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+- id: c-196917
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 133"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 133."
+  citata_originali: |
+    Tokia kaimy­
+    nystė, ko gero, buvo ne iš maloniųjų. Siekdamas padaryti
+    tam galą, Lietuvos didysis kunigaikštis Narimantas apie
+    1268 metus įsiveržė su kariuomene į jotvingių Polesę ir
+    privertė gyventojus priimti jo paskirtą valdovą. Juo tapo
+    tikras Narimanto brolis Traidenis, kuris buvo Jotvingijos
+    ir Dainavos kunigaikštis su priklausomybės nuo Lietuvos
+    didžiojo kunigaikščio ir tam tikros duoklės mokėjimo pa­
+    reiga.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]], [[objektai/asmenys/Patrikas, arba Patricijus]]
@@ -471,3 +364,122 @@ Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribai
 - Narimantas (Pinsko kunigaikštis) valdė [[objektai/vietos/Pinskas]], [[objektai/vietos/Turovas]]
 - Narimantas (Pinsko kunigaikštis) puolė [[objektai/vietos/Polesė]]
 - Narimantas (Pinsko kunigaikštis) apgulė [[objektai/vietos/Utena]]
+
+## Teiginiai
+
+<a id="claim-t-210860"></a>
+- t-001
+  teiginys: "Lietuvos metraštyje Narimantas vadinamas didžiuoju kunigaikščiu ir pasakojama, kad jis vedė livoniečio Fledro dukterį."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+
+<a id="claim-t-211331"></a>
+- t-002
+  teiginys: "Gyvendamas pas kunigaikštį Levą, Rimantas išmo ko rusiškai kalbėti, ir jam patiko krikščionių tikėji mas."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193216
+
+<a id="claim-t-211938"></a>
+- t-003
+  teiginys: "Lietuvos metraštyje Narimantas vadinamas didžiuoju kunigaikščiu ir pasakojama, kad jis vedė livoniečio Fledro dukterį, o jo brolis Daumantas - kitą Fledro dukterį."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+
+<a id="claim-t-214347"></a>
+- t-004
+  teiginys: "Narbutas pasakoja, kad Narimantas apie 1268 m. įsiveržė į jotvingių Polesę ir privertė gyventojus priimti jo paskirtą valdovą Traidenį."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "surenge_zygi_i -> Polesė: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Polesė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai aprašo Narimanto karinį įsiveržimą į Polesę."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Narimantas (Pinsko kunigaikštis) surengė žygį į Polesė (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1268 m.; įvykio data: apie 1268 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Narimantas (Pinsko kunigaikštis) surengė žygį į Polesė“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys pilnai išskleidžia Narimanto veiksmą, laiką, vietą ir rezultatą. Valdovo titulas bei kronikinis pasakojimas išlaikyti su Narbuto atribucija."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-196917
+
+<a id="claim-t-186074"></a>
+- t-186074
+  teiginys: "Vytautas belaisvį Narimantą pakorė už kojų ant guobos šakos ir pats pribaigė jį lanko šūviu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_priesas -> Narimantas (Pinsko kunigaikštis): 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Narimantas (Pinsko kunigaikštis): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Vytauto smurtinis veiksmas prieš belaisvį Narimantą tiesiogiai rodo priešišką santykį."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) buvo priešas Narimantas (Pinsko kunigaikštis) (0.76)"
+  pagrindžia:
+    - c-169435
+
+<a id="claim-t-193400"></a>
+- t-193400
+  teiginys: "Narimantas nenorėjo taip spręsti valstybės reikalų, kad broliai galėtų jam prikaišioti, jog sprendžia perdaug griežtai: dėl savo sprendimo jis nenorėjo vienas pats susilaukti visuo tinės neapykantos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-176122
+
+<a id="claim-t-205707"></a>
+- t-205707
+  teiginys: "Narbutas nurodo, kad Narimanto broliai buvo Halšys arba Alšys ir Giedrius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-188322
+
+<a id="claim-t-206365"></a>
+- t-206365
+  teiginys: "Narimantas, sugrįžęs iš totorių nelaisvės ir susitaikęs su Algirdu, žuvo, o jo kūną pagal kunigaikščio insignijas atpažino kryžiuočiai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188980
+

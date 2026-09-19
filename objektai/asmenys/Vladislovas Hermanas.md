@@ -31,33 +31,6 @@ canonical_biography: "Įgavus ūkės valdžią Vladislovui Hermanui, bro liui Bo
 
 Įgavus ūkės valdžią Vladislovui Hermanui, bro liui Boleslovo Drąsiojo, ne vien pamezonys, nes gu dai ir pamariai lenkų nebklausė ir duoklės nebdavė.
 
-## Teiginiai
-
-<a id="claim-t-201426"></a>
-- t-001
-  teiginys: "Įgavus ūkės valdžią Vladislovui Hermanui, bro liui Boleslovo Drąsiojo, ne vien pamezonys, nes gu dai ir pamariai lenkų nebklausė ir duoklės nebdavė."
-  atnaujinta: "2026-07-16 14:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184776
-
-<a id="claim-t-205103"></a>
-- t-002
-  teiginys: "Galop 1093 metų pradžioje Vladislovas Hermanas, surinkęs gau sias karines pajėgas, kokių lig tol dar niekada nebuvo išvestų į kovos su pamarėnais laukus, įsiveržė į jų kraštą."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-187801
-
 ## Citatos
 
 - id: c-184776
@@ -81,7 +54,7 @@ canonical_biography: "Įgavus ūkės valdžią Vladislovui Hermanui, bro liui Bo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-187801
@@ -104,5 +77,33 @@ canonical_biography: "Įgavus ūkės valdžią Vladislovui Hermanui, bro liui Bo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-201426"></a>
+- t-001
+  teiginys: "Įgavus ūkės valdžią Vladislovui Hermanui, bro liui Boleslovo Drąsiojo, ne vien pamezonys, nes gu dai ir pamariai lenkų nebklausė ir duoklės nebdavė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184776
+
+<a id="claim-t-205103"></a>
+- t-002
+  teiginys: "Galop 1093 metų pradžioje Vladislovas Hermanas, surinkęs gau sias karines pajėgas, kokių lig tol dar niekada nebuvo išvestų į kovos su pamarėnais laukus, įsiveržė į jų kraštą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187801
+

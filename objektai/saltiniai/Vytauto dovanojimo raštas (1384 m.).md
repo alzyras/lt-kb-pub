@@ -32,47 +32,6 @@ Vytauto dovanojimo raštas (1384 m.) pateikiamas kaip IV priedas. 1384 m. dovano
 
 Vytauto dovanojimo raštas (1384 m.) pateikiamas kaip IV priedas. 1384 m. dovanojimo rašte Vytautas teigia, kad jo pusbroliai jį išvijo iš Trakų ir jo žemių, nužudė jo tėvą, todėl jis nuvyko į Mazoviją prašyti Konrado Ciolnerio Rotenšteino pagalbos. Vytauto dovanojimo rašte teigiama, kad visa Žemaitija turi priklausyti Ordinui, kaip esą buvo nuo seno.
 
-## Teiginiai
-
-<a id="claim-t-207028"></a>
-- t-001
-  teiginys: "Vytauto dovanojimo raštas (1384 m.) pateikiamas kaip IV priedas."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189643
-
-<a id="claim-t-207029"></a>
-- t-002
-  teiginys: "1384 m. dovanojimo rašte Vytautas teigia, kad jo pusbroliai jį išvijo iš Trakų ir jo žemių, nužudė jo tėvą, todėl jis nuvyko į Mazoviją prašyti Konrado Ciolnerio Rotenšteino pagalbos."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189644
-
-<a id="claim-t-207030"></a>
-- t-003
-  teiginys: "Vytauto dovanojimo rašte teigiama, kad visa Žemaitija turi priklausyti Ordinui, kaip esą buvo nuo seno."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189645
-
 ## Citatos
 
 - id: c-189643
@@ -87,7 +46,7 @@ Vytauto dovanojimo raštas (1384 m.) pateikiamas kaip IV priedas. 1384 m. dovano
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189644
@@ -117,7 +76,7 @@ Vytauto dovanojimo raštas (1384 m.) pateikiamas kaip IV priedas. 1384 m. dovano
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-189645
@@ -135,5 +94,47 @@ Vytauto dovanojimo raštas (1384 m.) pateikiamas kaip IV priedas. 1384 m. dovano
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+## Teiginiai
+
+<a id="claim-t-207028"></a>
+- t-001
+  teiginys: "Vytauto dovanojimo raštas (1384 m.) pateikiamas kaip IV priedas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189643
+
+<a id="claim-t-207029"></a>
+- t-002
+  teiginys: "1384 m. dovanojimo rašte Vytautas teigia, kad jo pusbroliai jį išvijo iš Trakų ir jo žemių, nužudė jo tėvą, todėl jis nuvyko į Mazoviją prašyti Konrado Ciolnerio Rotenšteino pagalbos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189644
+
+<a id="claim-t-207030"></a>
+- t-003
+  teiginys: "Vytauto dovanojimo rašte teigiama, kad visa Žemaitija turi priklausyti Ordinui, kaip esą buvo nuo seno."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189645
+

@@ -46,32 +46,6 @@ historical_names: []
 
 1463 m. Kazimieras Jogailaitis, tvirtindamas ir praplėsdamas pirmtakų privilegijas Kauno miestui, užrašė, kad Laukus, taip pat mūsų ir pievas, Skavais vadinamas, į ilgį nuo miesto iki upelio ar upokšnio Girstupio, o į plotį nuo Nemuno upės net iki kalvos. Jos buvo Skavuose, netoli Šv.
 
-## Teiginiai
-
-<a id="claim-t-201700"></a>
-- t-001
-  teiginys: "1463 m. Kazimieras Jogailaitis, tvirtindamas ir praplėsdamas pirmtakų privilegijas Kauno miestui, užrašė, kad Laukus, taip pat mūsų ir pievas, Skavais vadinamas, į ilgį nuo miesto iki upelio ar upokšnio Girstupio, o į plotį nuo Nemuno upės net iki kalvos."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185047
-
-<a id="claim-t-201701"></a>
-- t-002
-  teiginys: "Jos buvo Skavuose, netoli Šv."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185048
-
 ## Citatos
 
 - id: c-185047
@@ -92,7 +66,7 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185048
@@ -107,5 +81,32 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-201700"></a>
+- t-001
+  teiginys: "1463 m. Kazimieras Jogailaitis, tvirtindamas ir praplėsdamas pirmtakų privilegijas Kauno miestui, užrašė, kad Laukus, taip pat mūsų ir pievas, Skavais vadinamas, į ilgį nuo miesto iki upelio ar upokšnio Girstupio, o į plotį nuo Nemuno upės net iki kalvos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185047
+
+<a id="claim-t-201701"></a>
+- t-002
+  teiginys: "Jos buvo Skavuose, netoli Šv."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185048
+

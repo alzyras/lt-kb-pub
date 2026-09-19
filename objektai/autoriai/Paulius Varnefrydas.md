@@ -34,21 +34,6 @@ canonical_biography: "Paulius Varnefrydas, diako nas, rašantis apie langobardų
 
 Paulius Varnefrydas, diako nas, rašantis apie langobardų praeitį, sako, kad pas herulus matęs žaliuojančius linų laukus .
 
-## Teiginiai
-
-<a id="claim-t-194845"></a>
-- t-001
-  teiginys: "Paulius Varnefrydas, diako nas, rašantis apie langobardų praeitį, sako, kad pas herulus matęs žaliuojančius linų laukus ."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-177241
-
 ## Citatos
 
 - id: c-177241
@@ -70,5 +55,55 @@ Paulius Varnefrydas, diako nas, rašantis apie langobardų praeitį, sako, kad p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-199278
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 170"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 170."
+  citata_originali: |
+    Kur tik buvo tos giminės žmonių, ten ma­
+    tyta juos plačiai auginant linus. Paulius Varnefrydas, diako­
+    nas, rašantis apie langobardų praeitį, sako, kad pas herulus
+    matęs žaliuojančius linų laukus . Dar reikia turėti galvoje, kad
+    tuo metu, kai pietų europiečiai visiškai nenaudojo lininių au­
+    dinių drabužiams, lietuvės nuo kojų iki galvos puošėsi gražiais
+    drobiniais baltais ir dažytais rūbais, o vasarmečiu - ir vyrai,
+    kaip liudija Petras Dusburgietis.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+    - t-002
+
+## Teiginiai
+
+<a id="claim-t-218287"></a>
+- t-001
+  teiginys: "Paulius Varnefrydas, rašydamas apie langobardų praeitį, teigė matęs pas herulus žaliuojančius linų laukus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199278
+
+<a id="claim-t-218507"></a>
+- t-002
+  teiginys: "Paulius Varnefrydas, diako nas, rašantis apie langobardų praeitį, sako, kad pas herulus matęs žaliuojančius linų laukus ."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-199278
+

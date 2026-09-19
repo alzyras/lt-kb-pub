@@ -34,92 +34,6 @@ media_all_json: |-
 
 Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Kauno miestiečių bendruomenės nariams. Kauno ginčuose su Dancigu ir kitais Prūsų miestais nuolat buvo minimi dancigiečių įsigyti namai. Tačiau didelės apimties mūro statybai pasipriešino Kauno miesto taryba, jai pritarė Kazimieras Jogailaitis.
 
-## Teiginiai
-
-<a id="claim-t-201820"></a>
-- t-001
-  teiginys: "Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Kauno miestiečių bendruomenės nariams."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185167
-
-<a id="claim-t-201821"></a>
-- t-002
-  teiginys: "Kauno ginčuose su Dancigu ir kitais Prūsų miestais nuolat buvo minimi dancigiečių įsigyti namai."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185168
-
-<a id="claim-t-201822"></a>
-- t-003
-  teiginys: "Tačiau didelės apimties mūro statybai pasipriešino Kauno miesto taryba, jai pritarė Kazimieras Jogailaitis."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185169
-
-<a id="claim-t-201823"></a>
-- t-004
-  teiginys: "1647 m. Kauno miesto taryba, konstatavusi, kad brolija neturi savo nuostatų ir dėl to nėra tvarkos, patvirtino ne brolijos, o laivavedžių cecho nuostatus."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185170
-
-<a id="claim-t-201824"></a>
-- t-005
-  teiginys: "1567 m. Kauno taryba kreipėsi teisinio patarimo į Gdansko tarybą, kaip spręsti kauniečiams neįprastą ir sudėtingą bylą."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185171
-
-<a id="claim-t-201825"></a>
-- t-006
-  teiginys: "Matyti, kad Kauno miesto taryba kviesdavo miestiečių bendruomenės atstovus kartu spręsti reikalų, susijusių su miesto pajamomis ir mokesčiais."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185172
-
-<a id="claim-t-201826"></a>
-- t-007
-  teiginys: "Tai buvo miesto vykdomąją valdžią aptarnaujančios įstaigos."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185173
-
 ## Citatos
 
 - id: c-185167
@@ -136,7 +50,7 @@ Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185168
@@ -152,7 +66,7 @@ Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-185169
@@ -170,7 +84,7 @@ Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-185170
@@ -186,7 +100,7 @@ Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-185171
@@ -203,7 +117,7 @@ Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-185172
@@ -221,7 +135,7 @@ Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-185173
@@ -239,5 +153,92 @@ Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
+
+## Teiginiai
+
+<a id="claim-t-201820"></a>
+- t-001
+  teiginys: "Kauno tarybos paskelbti vilkierai veikė tik mieste ir buvo privalomi visiems Kauno miestiečių bendruomenės nariams."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185167
+
+<a id="claim-t-201821"></a>
+- t-002
+  teiginys: "Kauno ginčuose su Dancigu ir kitais Prūsų miestais nuolat buvo minimi dancigiečių įsigyti namai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185168
+
+<a id="claim-t-201822"></a>
+- t-003
+  teiginys: "Tačiau didelės apimties mūro statybai pasipriešino Kauno miesto taryba, jai pritarė Kazimieras Jogailaitis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185169
+
+<a id="claim-t-201823"></a>
+- t-004
+  teiginys: "1647 m. Kauno miesto taryba, konstatavusi, kad brolija neturi savo nuostatų ir dėl to nėra tvarkos, patvirtino ne brolijos, o laivavedžių cecho nuostatus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185170
+
+<a id="claim-t-201824"></a>
+- t-005
+  teiginys: "1567 m. Kauno taryba kreipėsi teisinio patarimo į Gdansko tarybą, kaip spręsti kauniečiams neįprastą ir sudėtingą bylą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185171
+
+<a id="claim-t-201825"></a>
+- t-006
+  teiginys: "Matyti, kad Kauno miesto taryba kviesdavo miestiečių bendruomenės atstovus kartu spręsti reikalų, susijusių su miesto pajamomis ir mokesčiais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185172
+
+<a id="claim-t-201826"></a>
+- t-007
+  teiginys: "Tai buvo miesto vykdomąją valdžią aptarnaujančios įstaigos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185173
+

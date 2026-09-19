@@ -84,9 +84,9 @@ Nenurodyta
     - c-55735
 
 <a id="claim-t-54746"></a>
-- t-002
+- t-54746
   teiginys: "Viešiesiems reikalams Vilniaus magistratas galėjo naudoti tik senąjį miesto antspaudą su šv. Kristoforo atvaizdu ant raudono lako."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "gap::customs"
   ryšio_patikimumas: "priklause -> Vilnius: 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -131,8 +131,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-54746
 
 - id: c-55735
   autorius: "Michał Baliński"
@@ -154,9 +154,11 @@ Nenurodyta
     įmanoma suprasti.
   citata_rodoma: "Bet to negalime dovanoti die­\nvobaimingiems Vilniaus miestie­\nčiams, kad jie 1548 metais, kaip \nteigia straipsnio apie Vilniaus ant­\nspaudą autorius, turėdami herbe šv. \nKristoforą, apie kurį karalius Žygi­\nmantas Augustas dabar pacituoto­\nje privilegijoje taip aiškiai kalba, iš­\ndrįso panaudoti kažkokį pagonių \nmilžiną Alkį patvirtinančiam ant­\nspaudui. Dėl kokios priežasties? Ne­\nįmanoma suprasti."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

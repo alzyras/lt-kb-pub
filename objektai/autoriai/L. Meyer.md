@@ -42,17 +42,6 @@ canonical_biography: "Dusburgietis teigia, kad meyer.—Paderborn, 1876."
 
 Dusburgietis teigia, kad meyer.—Paderborn, 1876.
 
-## Teiginiai
-
-<a id="claim-t-60740"></a>
-- t-001
-  teiginys: "L. Meyerio parengta „Livländische Reimchronik“ išleista Paderborne 1876 metais."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-61372
-
 ## Citatos
 
 - id: c-61372
@@ -67,5 +56,31 @@ Dusburgietis teigia, kad meyer.—Paderborn, 1876.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-206163
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 267"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
+  citata_originali: |
+    Livländische Reimchronik / L. Meyer.—Paderborn, 1876.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-223031"></a>
+- t-001
+  teiginys: "L. Meyerio parengta „Livländische Reimchronik“ išleista Paderborne 1876 metais."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-206163
+

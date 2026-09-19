@@ -58,28 +58,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-195378"></a>
-- t-001
-  teiginys: "Atvažiavę giminės būdavo atskirai pavalgydinami seklyčioje ir paskui sodinami prie besėdos."
-  atnaujinta: "2026-07-12 02:18"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177796
-
-<a id="claim-t-195380"></a>
-- t-002
-  teiginys: "Giminės būdavo kviečiamos antradieniui."
-  atnaujinta: "2026-07-12 02:18"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177795
-
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -99,6 +77,9 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
 - id: c-177795
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -116,8 +97,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-003
 
 - id: c-177796
   autorius: "M. Katkus"
@@ -132,5 +113,38 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-195378"></a>
+- t-001
+  teiginys: "Atvažiavę giminės būdavo atskirai pavalgydinami seklyčioje ir paskui sodinami prie besėdos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177796
+
+<a id="claim-t-195379"></a>
+- t-002
+  teiginys: "Atvykę giminės atsiveždavo mėsų ir ragaišių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177794
+
+<a id="claim-t-195380"></a>
+- t-003
+  teiginys: "Giminės būdavo kviečiamos antradieniui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177795
+

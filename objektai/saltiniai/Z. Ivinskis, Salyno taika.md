@@ -36,34 +36,6 @@ media_all_json: |-
 
 Ivinskis : Salyno taika, LE, t. — Ivinskis, Z.
 
-## Teiginiai
-
-<a id="claim-t-32013"></a>
-- t-001
-  teiginys: "Z. Ivinskio „Salyno taika“ nurodyta „Lietuvių enciklopedijos“ 26 tome, 351-353 puslapiuose."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Nemunas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Salynas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Nemunas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai aiškina Salyną kaip vieną iš Nemuno salų, todėl vieta priskiriama Nemunui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Salynas priklausė Nemunas (0.82)"
-  pagrindžia:
-    - c-33770
-
-<a id="claim-t-32014"></a>
-- t-002
-  teiginys: "„Salyno taika“ nurodyta „Lietuvių enciklopedijos“ 26 tome, 351 puslapyje."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-33769
-
 ## Citatos
 
 - id: c-33769
@@ -84,7 +56,7 @@ Ivinskis : Salyno taika, LE, t. — Ivinskis, Z.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-33770
@@ -105,5 +77,34 @@ Ivinskis : Salyno taika, LE, t. — Ivinskis, Z.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-32013"></a>
+- t-001
+  teiginys: "Z. Ivinskio „Salyno taika“ nurodyta „Lietuvių enciklopedijos“ 26 tome, 351-353 puslapiuose."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Nemunas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Salynas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Nemunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai aiškina Salyną kaip vieną iš Nemuno salų, todėl vieta priskiriama Nemunui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Salynas priklausė Nemunas (0.82)"
+  pagrindžia:
+    - c-33770
+
+<a id="claim-t-32014"></a>
+- t-002
+  teiginys: "„Salyno taika“ nurodyta „Lietuvių enciklopedijos“ 26 tome, 351 puslapyje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-33769
+

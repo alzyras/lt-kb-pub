@@ -39,20 +39,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206920"></a>
-- t-001
-  teiginys: "Teodoras Narbutas nurodo, kad Didžiąją ordino vėliavą puošė Švenčiausiosios Mergelės Marijos paveikslas, o atsarginiai pulkai nešė didžiojo magistro vėliavą su kryžiumi ir juoduoju aru."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189535
-
 ## Santrauka
 
 Teodoras Narbutas nurodo, kad Didžiąją ordino vėliavą puošė Švenčiausiosios Mergelės Marijos paveikslas, o atsarginiai pulkai nešė didžiojo magistro vėliavą su kryžiumi ir juoduoju aru.
@@ -73,5 +59,20 @@ Teodoras Narbutas nurodo, kad Didžiąją ordino vėliavą puošė Švenčiausio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206920"></a>
+- t-001
+  teiginys: "Teodoras Narbutas nurodo, kad Didžiąją ordino vėliavą puošė Švenčiausiosios Mergelės Marijos paveikslas, o atsarginiai pulkai nešė didžiojo magistro vėliavą su kryžiumi ir juoduoju aru."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189535
+

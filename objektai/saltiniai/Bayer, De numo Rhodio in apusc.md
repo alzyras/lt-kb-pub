@@ -30,20 +30,6 @@ media_all_json: |-
 
 2 B a y e r, De numo Rhodio in apusc., p. 496; V a t e r.
 
-## Teiginiai
-
-<a id="claim-t-201447"></a>
-- t-001
-  teiginys: "2 B a y e r, De numo Rhodio in apusc., p. 496; V a t e r."
-  atnaujinta: "2026-07-16 14:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184797
-
 ## Citatos
 
 - id: c-184797
@@ -58,5 +44,20 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201447"></a>
+- t-001
+  teiginys: "2 B a y e r, De numo Rhodio in apusc., p. 496; V a t e r."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184797
+

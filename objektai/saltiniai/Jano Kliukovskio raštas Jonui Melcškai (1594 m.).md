@@ -39,20 +39,6 @@ media_all_json: |-
 
 1594 m. Gardino seniūno J. Kliukovskio raštas buvo pakvitavimas Jonui Melcškai.
 
-## Teiginiai
-
-<a id="claim-t-204109"></a>
-- t-001
-  teiginys: "1594 m. Gardino seniūno J. Kliukovskio raštas buvo pakvitavimas Jonui Melcškai."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
-  pagrindžia:
-    - c-186713
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: '1594 m. Gardino seniūno J. Kliukovskio raštas buvo pakvitavimas Jonui Melcškai.'
@@ -87,5 +73,20 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204109"></a>
+- t-001
+  teiginys: "1594 m. Gardino seniūno J. Kliukovskio raštas buvo pakvitavimas Jonui Melcškai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
+  pagrindžia:
+    - c-186713
+

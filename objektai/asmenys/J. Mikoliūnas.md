@@ -34,41 +34,6 @@ canonical_biography: "Mikoliūnas ir K. Mikoliūno vora aplenkdama Žemųjų Kap
 
 Mikoliūnas ir K. Mikoliūno vora aplenkdama Žemųjų Kaplių kaimą iš šiaurės rytų turėjo per Nabutiškius pulti šiaurinį Petraičių kaimo pakraštį ir veržtis toliau į Šėtą.
 
-## Teiginiai
-
-<a id="claim-t-40159"></a>
-- t-001
-  teiginys: "J. Mikoliūnas ir K. Dragunevičius, surinkę apie 80 savanorių, šautuvų ugnimi sustabdė priešo puolimą prie Kėdainių-Šėtos vieškelio."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "dalyvavo_musyje -> Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.): 0.82"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "J. Mikoliūnas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.): llm_allowed_candidate, event"
-  ryšio_paaiskinimas: "J. Mikoliūnas minimas Kėdainių gynybos kontekste, kuris atitinka kandidatuose pateiktą Kėdainių-Šėtos kautynių įvykį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "J. Mikoliūnas dalyvavo mūšyje Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.) (0.82)"
-  pagrindžia:
-    - c-44360
-
-<a id="claim-t-40160"></a>
-- t-002
-  teiginys: "J. Mikoliūno kairioji vora turėjo per Nabutiškius pulti šiaurinį Petraičių kaimo pakraštį ir veržtis toliau į Šėtą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "J. Mikoliūnas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=75"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Mikoliūnas\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-44361
-
 ## Citatos
 
 - id: c-44360
@@ -96,7 +61,7 @@ Mikoliūnas ir K. Mikoliūno vora aplenkdama Žemųjų Kaplių kaimą iš šiaur
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-44361
@@ -119,8 +84,44 @@ Mikoliūnas ir K. Mikoliūno vora aplenkdama Žemųjų Kaplių kaimą iš šiaur
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai
 - J. Mikoliūnas gynė [[objektai/vietos/Kėdainiai]]
+
+## Teiginiai
+
+<a id="claim-t-40159"></a>
+- t-001
+  teiginys: "J. Mikoliūnas ir K. Dragunevičius, surinkę apie 80 savanorių, šautuvų ugnimi sustabdė priešo puolimą prie Kėdainių-Šėtos vieškelio."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "dalyvavo_musyje -> Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.): 0.82"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "J. Mikoliūnas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.): llm_allowed_candidate, event"
+  ryšio_paaiskinimas: "J. Mikoliūnas minimas Kėdainių gynybos kontekste, kuris atitinka kandidatuose pateiktą Kėdainių-Šėtos kautynių įvykį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "J. Mikoliūnas dalyvavo mūšyje Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.) (0.82)"
+  pagrindžia:
+    - c-44360
+
+<a id="claim-t-40160"></a>
+- t-002
+  teiginys: "J. Mikoliūno kairioji vora turėjo per Nabutiškius pulti šiaurinį Petraičių kaimo pakraštį ir veržtis toliau į Šėtą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kaimas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "J. Mikoliūnas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Kaimas: mention_match, place, gap=75"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"J. Mikoliūnas\" parinktas kaip owner_note_path. Targetas \"Kaimas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-44361
+

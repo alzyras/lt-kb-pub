@@ -60,7 +60,7 @@
   background: color-mix(in srgb, var(--secondary) 12%, transparent);
   color: var(--secondary);
   font-size: 0.72em;
-  font-weight: 800;
+  font-weight: 600;
   line-height: 1;
   letter-spacing: 0.035em;
   white-space: nowrap;
@@ -228,7 +228,7 @@ article table.advanced-claims-table {
     margin: 0 0 0.5rem;
     color: var(--gray);
     font-size: 0.78rem;
-    font-weight: 800;
+    font-weight: 600;
     letter-spacing: 0.08em;
     text-transform: uppercase;
   }
@@ -278,7 +278,7 @@ article table.advanced-claims-table {
 
 .claim-evidence-summary-label {
   color: var(--gray);
-  font-weight: 800;
+  font-weight: 600;
 }
 
 .claim-evidence-reliability-badge {
@@ -292,7 +292,7 @@ article table.advanced-claims-table {
   background: color-mix(in srgb, var(--gray) 9%, transparent);
   color: var(--darkgray);
   font-size: 0.78rem;
-  font-weight: 800;
+  font-weight: 600;
   line-height: 1;
 }
 
@@ -334,7 +334,7 @@ article table.advanced-claims-table {
   margin: 0.75rem 0 0.2rem;
   color: var(--gray);
   font-size: 0.7rem;
-  font-weight: 800;
+  font-weight: 600;
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
@@ -343,7 +343,7 @@ article table.advanced-claims-table {
   margin: 0.75rem 0 0.2rem;
   color: var(--gray);
   font-size: 0.7rem;
-  font-weight: 800;
+  font-weight: 600;
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
@@ -407,8 +407,8 @@ article blockquote {
     width: min(13rem, 34%);
     background: color-mix(in srgb, var(--light) 72%, var(--gray) 5%);
     color: var(--darkgray);
-    font-size: 0.72rem;
-    font-weight: 800;
+    font-size: 0.75rem;
+    font-weight: 600;
     letter-spacing: 0.055em;
     text-align: left;
     text-transform: uppercase;
@@ -433,8 +433,8 @@ article blockquote {
     border: 1px solid color-mix(in srgb, var(--gray) 48%, transparent);
     border-radius: 50%;
     color: var(--gray);
-    font-size: 0.66rem;
-    font-weight: 900;
+    font-size: 0.75rem;
+    font-weight: 600;
     line-height: 1;
     text-transform: none;
   }

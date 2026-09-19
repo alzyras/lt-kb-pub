@@ -33,28 +33,6 @@ canonical_biography: "Narbutas mini Hlebovičiaus „Vytauto gyvenimą“ kaip O
 
 Narbutas mini Hlebovičiaus „Vytauto gyvenimą“ kaip Onacevičiaus pastabose nurodytą šaltinį svarstant senųjų Lietuvos kronikų patikimumą.
 
-## Teiginiai
-
-<a id="claim-t-192519"></a>
-- t-001
-  teiginys: "Narbutas mini Hlebovičiaus „Vytauto gyvenimą“ kaip Onacevičiaus pastabose nurodytą šaltinį svarstant senųjų Lietuvos kronikų patikimumą."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Ignacas Onacevičius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Antanas Hlebovičius: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Ignacas Onacevičius: mention_match, author, gap=37"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Hlebovičius\" parinktas kaip owner_note_path. Targetas \"Ignacas Onacevičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-175307
-
 ## Citatos
 
 - id: c-175307
@@ -84,5 +62,57 @@ Narbutas mini Hlebovičiaus „Vytauto gyvenimą“ kaip Onacevičiaus pastabose
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-195140
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 31"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 31."
+  citata_originali: |
+    Todėl vieni tiesiog
+    priimdavo kronikininkų geriau išdėstytas išvadas apie
+    tautos ištakas, kiti, priblokšti tų išvadų netailklumo, siūlė
+    vargais negalais suregztas savąsias, o dar kiti su tikrai
+    pyrgonišku nepatiklumu, visas kronikų sakmes pasako­
+    mis pavadinę, sielvartavo dėl galimybių pastūmėti Lie­
+    tuvos istoriją toliau XIII amžiaus1. Juk senesnės kroni­
+    kininkų žinios apie lietuvių gentis nepagrįstai laikytos
+    išmone: jie sėmėsi žinių iš dabar pražuvusių kronikų, ku­
+    rių padavimai ir senovės šaltinių liekanos buvo ne tokie
+    seni. O tai, kad jose būta ne vien pasakų, kas dieną įti­
+    kina vis nauji atradimai; pats puikus lietuvių kalbos ži­
+    novas ir savo surinktų giesmių leidėjas ponas Rėza***,
+    kurio šviesa tiek daug pasinaudojome ankstesniame to-
+    1 Hlebovičiaus „Vytauto gyvenimas“. P. 116 (Onacevičiaus pas­
+    tabos)***.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-214708"></a>
+- t-001
+  teiginys: "Narbutas mini Hlebovičiaus „Vytauto gyvenimą“ kaip Onacevičiaus pastabose nurodytą šaltinį svarstant senųjų Lietuvos kronikų patikimumą."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Ignacas Onacevičius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Antanas Hlebovičius: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Ignacas Onacevičius: mention_match, author, gap=37"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Antanas Hlebovičius\" parinktas kaip owner_note_path. Targetas \"Ignacas Onacevičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-195140
+

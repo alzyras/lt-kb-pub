@@ -52,10 +52,20 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-62951"></a>
-- t-001
+<a id="claim-t-220378"></a>
+- t-220378
+  teiginys: "Mat Bartenšteino pilyje buvo vienas vyras, vardu Miligedas, toks drąsus, kad prūsams rodėsi, jog, jį nukovus, pusė pilies įgulos būtų buvusi sunaikinta."
+  atnaujinta: "2026-09-13 18:01"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-222713"></a>
+- t-222713
   teiginys: "1263 m. Vizenburgo pilies gynėjai, pristigę maisto, su ginklanešiais paliko pilį ir slapta pasitraukė Mazovijos link."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Mazovija: 0.85"
@@ -69,13 +79,11 @@ Nenurodyta
   temporaliniai_duomenys: "įvykio data: 1263 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Perrašyta į aiškesnį sakinį be neapibrėžto žodžio „broliai“."
-  pagrindžia:
-    - c-63835
 
-<a id="claim-t-62952"></a>
-- t-002
+<a id="claim-t-222836"></a>
+- t-222836
   teiginys: "Prūsai beveik trejus metus laikė apsupę Vizenburgo pilį ir trimis apgulos mašinomis kasdien ją puolė."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Vizenburgas: 0.85"
@@ -86,9 +94,6 @@ Nenurodyta
   ryšio_targeto_parinkimas: "Vizenburgas: mention_match, place, gap=0"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Vizenburgo pilies kautynės ir apleidimas (1263 m.)\" parinktas kaip owner_note_path. Targetas \"Vizenburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-63834
-    - c-63835
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -148,8 +153,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-63835
   autorius: "Petras Dusburgietis"
@@ -173,9 +176,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
 
 - id: c-63836
   autorius: "Petras Dusburgietis"
@@ -198,6 +198,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-63837
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
@@ -216,3 +217,4 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

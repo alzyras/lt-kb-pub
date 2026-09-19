@@ -33,36 +33,6 @@ media_all_json: |-
 
 Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų savininkams metus klajoklišką gyvenimo būdą, miestai iš tiesų įgavo daugiau jėgų ir darėsi veiklesni, tačiau baronai, liovęsi kariauti ir plėšikauti, ėmė užpuldinėti pirklius ir nuo pat X. Municipaliniai nuostatai Kas­ tilijoje, žinomi jau nuo 1020 metų, beveik vienu amžiumi ap­ lenkė Prancūzijos miestų teisėtvarką.
 
-## Teiginiai
-
-<a id="claim-t-86563"></a>
-- t-001
-  teiginys: "Kastilijoje municipaliniai nuostatai buvo žinomi jau nuo 1020 m. ir beveik vienu amžiumi aplenkė Prancūzijos miestų teisėtvarką."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Prancūzija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Municipalinė teisėtvarka municipaliniai nuostatai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Prancūzija: mention_match, place, gap=85"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Municipalinė teisėtvarka municipaliniai nuostatai\" parinktas kaip owner_note_path. Targetas \"Prancūzija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  temporaliniai_duomenys: "įvykio data: po 1020 m.; įvykio data: 1020 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai atitinka citatą apie Kastilijos municipalinius nuostatus."
-  pagrindžia:
-    - c-82543
-
-<a id="claim-t-86564"></a>
-- t-002
-  teiginys: "Municipaliniai liudijimai dažniausiai buvo taikos sutartys, kuriose miestai diktuodavo sąlygas nugalėtiems baronams."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-82542
-
 ## Citatos
 
 - id: c-82542
@@ -87,7 +57,7 @@ Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-82543
@@ -113,5 +83,36 @@ Vėliau, įsitvirtinus feodalizmo nuostatoms bei tvarkai ir že­ mės valdų sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-86563"></a>
+- t-001
+  teiginys: "Kastilijoje municipaliniai nuostatai buvo žinomi jau nuo 1020 m. ir beveik vienu amžiumi aplenkė Prancūzijos miestų teisėtvarką."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Prancūzija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Municipalinė teisėtvarka municipaliniai nuostatai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Prancūzija: mention_match, place, gap=85"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Municipalinė teisėtvarka municipaliniai nuostatai\" parinktas kaip owner_note_path. Targetas \"Prancūzija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  temporaliniai_duomenys: "įvykio data: po 1020 m.; įvykio data: 1020 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai atitinka citatą apie Kastilijos municipalinius nuostatus."
+  pagrindžia:
+    - c-82543
+
+<a id="claim-t-86564"></a>
+- t-002
+  teiginys: "Municipaliniai liudijimai dažniausiai buvo taikos sutartys, kuriose miestai diktuodavo sąlygas nugalėtiems baronams."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-82542
+

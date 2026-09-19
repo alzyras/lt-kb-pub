@@ -35,34 +35,6 @@ Glebavičiaus su Lietuvos Užnerio krašto kunigaikš čiu, kurio metu sėkmė s
 
 Glebavičiaus su Lietuvos Užnerio krašto kunigaikš čiu, kurio metu sėkmė sviro tai j vieną, tai į kitą pusę. Siame žygyje juos lydėjo Minsko kunigaikštis Volodaras.
 
-## Teiginiai
-
-<a id="claim-t-205234"></a>
-- t-001
-  teiginys: "Siame žygyje juos lydėjo Minsko kunigaikštis Volodaras."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-188108
-
-<a id="claim-t-205443"></a>
-- t-002
-  teiginys: "Glebavičiaus su Lietuvos Užnerio krašto kunigaikš čiu, kurio metu sėkmė sviro tai j vieną, tai į kitą pusę."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-187827
-
 ## Citatos
 
 - id: c-187827
@@ -86,7 +58,7 @@ Glebavičiaus su Lietuvos Užnerio krašto kunigaikš čiu, kurio metu sėkmė s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188108
@@ -104,5 +76,34 @@ Glebavičiaus su Lietuvos Užnerio krašto kunigaikš čiu, kurio metu sėkmė s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205234"></a>
+- t-001
+  teiginys: "Siame žygyje juos lydėjo Minsko kunigaikštis Volodaras."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-188108
+
+<a id="claim-t-205443"></a>
+- t-002
+  teiginys: "Glebavičiaus su Lietuvos Užnerio krašto kunigaikš čiu, kurio metu sėkmė sviro tai j vieną, tai į kitą pusę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187827
+

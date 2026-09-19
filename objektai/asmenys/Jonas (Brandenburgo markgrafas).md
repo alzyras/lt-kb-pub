@@ -43,28 +43,6 @@ canonical_biography: "Dusburgietis teigia, kad apie Brandenburgo markgrafo atvyk
 
 Dusburgietis teigia, kad apie Brandenburgo markgrafo atvykimą Tais metais, tai yra 1255 viešpaties metais339, valdovas Jonas, Brandenburgo markgrafas, didžiai įgudęs ir prityręs karvedys, žiemą atžygiavo į Prūsijos žemę su stipria kariuomene, gerai viskuo aprūpinta; kadangi žiema.
 
-## Teiginiai
-
-<a id="claim-t-60341"></a>
-- t-001
-  teiginys: "1255 m. žiemą Jonas, Brandenburgo markgrafas, su stipria kariuomene atžygiavo į Prūsiją, bet dėl šiltos žiemos nepasiekė tikėjimo priešų."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jonas (Brandenburgo markgrafas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claim tiesiogiai sako, kad Jonas atžygiavo į Prūsiją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Jonas (Brandenburgo markgrafas) keliavo į Prūsija (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1255 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir su antraštės triukšmu; citata leidžia suformuluoti pilną faktinį sakinį."
-  pagrindžia:
-    - c-60973
-
 ## Citatos
 
 - id: c-60973
@@ -86,8 +64,27 @@ Dusburgietis teigia, kad apie Brandenburgo markgrafo atvykimą Tais metais, tai 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Ryšiai
 - Jonas (Brandenburgo markgrafas) keliavo į [[objektai/vietos/Prūsija]]
+
+## Teiginiai
+
+<a id="claim-t-223156"></a>
+- t-001
+  teiginys: "1255 m. žiemą Jonas, Brandenburgo markgrafas, su stipria kariuomene atžygiavo į Prūsiją, bet dėl šiltos žiemos nepasiekė tikėjimo priešų."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jonas (Brandenburgo markgrafas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim tiesiogiai sako, kad Jonas atžygiavo į Prūsiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Jonas (Brandenburgo markgrafas) keliavo į Prūsija (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1255 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir su antraštės triukšmu; citata leidžia suformuluoti pilną faktinį sakinį."
+

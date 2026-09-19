@@ -56,48 +56,6 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
 
 - ūkininkas
 
-## Teiginiai
-
-<a id="claim-t-195549"></a>
-- t-001
-  teiginys: "Petras tą rudenį išliko nuo rekrutų ir prieš Užgavėnes vedė Oną."
-  atnaujinta: "2026-07-12 06:38"
-  sprendimo_priezastis: "gap::people"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177969
-
-<a id="claim-t-195550"></a>
-- t-002
-  teiginys: "Uršulės ir pasakotojo aplinkoje Petras buvo atpažįstamas kaip Onai artimas vaikinas."
-  atnaujinta: "2026-07-12 06:38"
-  sprendimo_priezastis: "gap::people"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177968
-
-<a id="claim-t-195551"></a>
-- t-003
-  teiginys: "1864 m. Petras žemės negavo, nes jo brolis turėjo 24 hektarus."
-  atnaujinta: "2026-07-12 06:38"
-  sprendimo_priezastis: "gap::people"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177966
-
-<a id="claim-t-195552"></a>
-- t-004
-  teiginys: "Po 1867 m. bado Petras nusipirko dvylika hektarų žemės, pasistatė trobas ir gyveno kaip ūkininkas."
-  atnaujinta: "2026-07-12 06:38"
-  sprendimo_priezastis: "gap::people"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177967
-
 ## Citatos
 
 - id: c-177966
@@ -113,8 +71,8 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-002
 
 - id: c-177967
   autorius: "M. Katkus"
@@ -129,8 +87,8 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-003
 
 - id: c-177968
   autorius: "M. Katkus"
@@ -145,8 +103,6 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-177969
   autorius: "M. Katkus"
@@ -161,5 +117,38 @@ Petras pasakojime pirmiausia rodomas kaip Onai artimas vaikinas, vėliau kaip nu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-195549"></a>
+- t-001
+  teiginys: "Petras tą rudenį išliko nuo rekrutų ir prieš Užgavėnes vedė Oną."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177969
+
+<a id="claim-t-195551"></a>
+- t-002
+  teiginys: "1864 m. Petras žemės negavo, nes jo brolis turėjo 24 hektarus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177966
+
+<a id="claim-t-195552"></a>
+- t-003
+  teiginys: "Po 1867 m. bado Petras nusipirko dvylika hektarų žemės, pasistatė trobas ir gyveno kaip ūkininkas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177967
+

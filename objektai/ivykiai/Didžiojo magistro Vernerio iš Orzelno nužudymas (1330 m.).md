@@ -46,34 +46,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-205965"></a>
-- t-001
-  teiginys: "1330 m. lapkričio 19 d., pasak Teodoro Narbuto, kryžiuotis Jonas iš Endorfo koridoriuje mirtinai peiliu dūrė Verneriui iš Orzelno."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188580
-
-<a id="claim-t-205966"></a>
-- t-002
-  teiginys: "Po nužudymo, pasak Teodoro Narbuto, Jonas iš Endorfo prisipažino, o Verneris spėjo ištarti: „Tegul tau Jėzus Kristus atleidžia!“; žudikui buvo pripažintas pasimaišęs protas ir jis įkalintas iki gyvos galvos."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188581
-
 ## Santrauka
 
 1330 m. lapkričio 19 d., pasak Teodoro Narbuto, kryžiuotis Jonas iš Endorfo koridoriuje mirtinai peiliu dūrė Verneriui iš Orzelno. Po nužudymo, pasak Teodoro Narbuto, Jonas iš Endorfo prisipažino, o Verneris spėjo ištarti: „Tegul tau Jėzus Kristus atleidžia!“; žudikui buvo pripažintas pasimaišęs protas ir jis įkalintas iki gyvos galvos.
@@ -102,7 +74,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188581
@@ -125,5 +97,34 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-205965"></a>
+- t-001
+  teiginys: "1330 m. lapkričio 19 d., pasak Teodoro Narbuto, kryžiuotis Jonas iš Endorfo koridoriuje mirtinai peiliu dūrė Verneriui iš Orzelno."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188580
+
+<a id="claim-t-205966"></a>
+- t-002
+  teiginys: "Po nužudymo, pasak Teodoro Narbuto, Jonas iš Endorfo prisipažino, o Verneris spėjo ištarti: „Tegul tau Jėzus Kristus atleidžia!“; žudikui buvo pripažintas pasimaišęs protas ir jis įkalintas iki gyvos galvos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188581
+

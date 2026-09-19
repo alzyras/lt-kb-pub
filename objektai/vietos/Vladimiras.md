@@ -65,10 +65,22 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
 
 ## Teiginiai
 
+<a id="claim-t-211601"></a>
+- t-211601
+  teiginys: "Vladimiras buvo Volynės srities miestas ir Volynės kunigaikštystės sostinė, esanti apie 120 km į pietus nuo Bresto."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194324
+
 <a id="claim-t-181161"></a>
-- t-001
+- t-181161
   teiginys: "Volinijoje Vytautas užvaldė dvi svarbiausias pilis: Lucką ir Vladimirą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "gap::places"
   ryšio_patikimumas: "uzeme -> Vladimiras: 0.91"
   ryšio_patikimumo_lygis: "aukstas"
@@ -86,9 +98,9 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
     - c-32556
 
 <a id="claim-t-185204"></a>
-- t-002
+- t-185204
   teiginys: "Gediminas pirmąjį smūgį nukreipė į Volynės pasienį ir apsupo Vladimirą, kunigaikščio Vladimiro sostinę."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -106,9 +118,9 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
     - c-168565
 
 <a id="claim-t-194989"></a>
-- t-003
+- t-194989
   teiginys: "Polocke sėdėjo Andrius, Brianske (prie Desnos) — Dimi tras († 1399), Černihove — Konstantinas, Kijeve — Vladimiras († 1398), Ratne (Pripetės aukštupyje)—Teodoras († 1394)."
-  atnaujinta: "2026-07-06 12:57"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -118,9 +130,9 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
     - c-32555
 
 <a id="claim-t-201116"></a>
-- t-004
+- t-201116
   teiginys: "Visų pirma, įėjęs į Volynijos kraš tą, pilį Vladimiro apgulė, kurios įgulė, lygiai su gyventojais susinėrusi, didžiai kantriai gynės, vil damos veikios pagalbos nuo lauko ateinančios, kas ir nutiko: pats kunigaikštis Volynijos, patelkęs rim tus pulkus."
-  atnaujinta: "2026-07-16 14:31"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -130,9 +142,9 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
     - c-184466
 
 <a id="claim-t-205835"></a>
-- t-005
+- t-205835
   teiginys: "1316 m. rugpjūčio 10 d. Lodomerijoje, Vladimire, buvo išduotas ir aktuotas dokumentas."
-  atnaujinta: "2026-08-12 08:57"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -143,9 +155,9 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
     - c-188450
 
 <a id="claim-t-205836"></a>
-- t-006
+- t-205836
   teiginys: "1335 m. lapkričio 1 d. Vladimire buvo išduotas ir aktuotas dokumentas, datuotas Vienuolikos tūkstančių šventųjų mergelių diena."
-  atnaujinta: "2026-08-12 08:57"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -173,8 +185,8 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-194989
 
 - id: c-32556
   autorius: "Zenonas Ivinskis"
@@ -192,8 +204,8 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-181161
 
 - id: c-168565
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -225,8 +237,8 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-185204
 
 - id: c-184466
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -253,8 +265,8 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-201116
 
 - id: c-188450
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -269,8 +281,8 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-205835
 
 - id: c-188451
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -312,8 +324,35 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-205836
+
+- id: c-194324
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 200"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 200."
+  citata_originali: |
+    Vladimiras — UTSR Volynės sr. miestas. Volynės kunigaikš­
+    tystės sostinė (apie 120 km i pietus nuo Bresto). Nuo XIV a. vidu­
+    rio iki 1569 m. buvo LDK sudėtyje- Tautvilos ir Edlvydo pabėgimas
+    | Volynę datuojamas 1248— 1249 m. Plačiau žr. Lietuvių karas su
+    kryžiuočiais, V„ 1964, p. 137— 142.
+    9 Kalbama apie Tautvilos seserį.
+    10 Volkovyskas — BTSR miestas (prie aukštutinio Nemuno in­
+    tako
+    Volkovljos. apie 170 km Į pietus nuo Vilniaus, buvusioje
+    jotvingių žemėje).
+    XII a. buvo rusų Naugarduko kunigaikštystės
+    sudėtyje
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211601
 
 ## Ryšiai
 - Apgulė Vladimirą: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

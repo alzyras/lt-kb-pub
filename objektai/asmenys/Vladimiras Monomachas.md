@@ -44,34 +44,6 @@ canonical_biography: "Tik 1101 metais Vladimiras Monomachas laimėjo didelę per
 
 Tik 1101 metais Vladimiras Monomachas laimėjo didelę pergalę prieš poloviečius prie Sutenio.
 
-## Teiginiai
-
-<a id="claim-t-194922"></a>
-- t-001
-  teiginys: "Tik 1101 metais Vladimiras Monomachas laimėjo didelę pergalę prieš poloviečius prie Sutenio."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-177318
-
-<a id="claim-t-205313"></a>
-- t-002
-  teiginys: "Žygis įvyko 1120 metais, jam vadovavo toks Andrius, pasiųstas Monomacho."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-188005
-
 ## Citatos
 
 - id: c-177318
@@ -93,8 +65,6 @@ Tik 1101 metais Vladimiras Monomachas laimėjo didelę pergalę prieš polovieč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-188005
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -113,5 +83,21 @@ Tik 1101 metais Vladimiras Monomachas laimėjo didelę pergalę prieš polovieč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-205313"></a>
+- t-001
+  teiginys: "Žygis įvyko 1120 metais, jam vadovavo toks Andrius, pasiųstas Monomacho."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-188005
+

@@ -35,28 +35,6 @@ media_all_json: |-
 
 ) visiems Lietuvos žydams suteikė tam tikrų laisvių, pavyzdžiu imdamas Didžio­ sios Lenkijos kunigaikščio Boleslovo Pamaldžiojo atmintiną privilegiją tos tautos gyventojams, paskelbtą XIII amžiuje, ku­ rią vėliau patvirtino Kazimieras Didysis68.
 
-## Teiginiai
-
-<a id="claim-t-88484"></a>
-- t-001
-  teiginys: "Trakų žydai dar 1388 m. atskirai gavo privilegiją, kurioje išsamiai apibūdinta jų elgsena krikščionių atžvilgiu."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Lietuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žydai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai mini žydus Lietuvoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Žydai gyveno Lietuva (0.90); Žydai gyveno Luckas (0.68)"
-  temporaliniai_duomenys: "įvykio data: 1388 m.; įvykio data: 1408 m.; įvykio data: 1408-1414; įvykio data: 1414 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata tiesiogiai pagrindžia datą, gavėjus ir privilegijos turinį."
-  pagrindžia:
-    - c-84463
-
 ## Citatos
 
 - id: c-84463
@@ -85,5 +63,28 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-88484"></a>
+- t-001
+  teiginys: "Trakų žydai dar 1388 m. atskirai gavo privilegiją, kurioje išsamiai apibūdinta jų elgsena krikščionių atžvilgiu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Lietuva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žydai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini žydus Lietuvoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Žydai gyveno Lietuva (0.90); Žydai gyveno Luckas (0.68)"
+  temporaliniai_duomenys: "įvykio data: 1388 m.; įvykio data: 1408 m.; įvykio data: 1408-1414; įvykio data: 1414 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata tiesiogiai pagrindžia datą, gavėjus ir privilegijos turinį."
+  pagrindžia:
+    - c-84463
+

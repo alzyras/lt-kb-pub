@@ -34,17 +34,6 @@ canonical_biography: "Tuojau pat į kautynes įsitraukė ir Žaliosios rinktinė
 
 Tuojau pat į kautynes įsitraukė ir Žaliosios rinktinės Aušros (vadas Ignas GasčiūnasArtojas) būrys.
 
-## Teiginiai
-
-<a id="claim-t-39537"></a>
-- t-001
-  teiginys: "Ignas Gasčiūnas-Artojas vadovavo Žaliosios rinktinės Aušros būriui, kuris tuojau pat įsitraukė į kautynes."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-41341
-
 ## Citatos
 
 - id: c-41341
@@ -65,5 +54,17 @@ Tuojau pat į kautynes įsitraukė ir Žaliosios rinktinės Aušros (vadas Ignas
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-39537"></a>
+- t-001
+  teiginys: "Ignas Gasčiūnas-Artojas vadovavo Žaliosios rinktinės Aušros būriui, kuris tuojau pat įsitraukė į kautynes."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-41341
+

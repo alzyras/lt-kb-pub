@@ -46,20 +46,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206804"></a>
-- t-001
-  teiginys: "Pasak Teodoro Narbuto, 1376 m. vasario 10 d. didysis magistras su rinktiniais kariais sustojo prie Kauno mūrų."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189419
-
 ## Santrauka
 
 Pasak Teodoro Narbuto, 1376 m. vasario 10 d. didysis magistras su rinktiniais kariais sustojo prie Kauno mūrų.
@@ -84,5 +70,20 @@ Pasak Teodoro Narbuto, 1376 m. vasario 10 d. didysis magistras su rinktiniais ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206804"></a>
+- t-001
+  teiginys: "Pasak Teodoro Narbuto, 1376 m. vasario 10 d. didysis magistras su rinktiniais kariais sustojo prie Kauno mūrų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189419
+

@@ -48,23 +48,6 @@ historical_names: []
 
 1534 m. Žygimantas Senasis, būdamas Rūdninkų medžioklės dvare, įsakė Jurgiui Mikalojaičiui Radvilai atleisti nuo karinės tarnybos Lieponių ir Valkininkų dvarų laikytoją.
 
-## Teiginiai
-
-<a id="claim-t-204161"></a>
-- t-001
-  teiginys: "1534 m. Žygimantas Senasis, būdamas Rūdninkų medžioklės dvare, įsakė Jurgiui Mikalojaičiui Radvilai atleisti nuo karinės tarnybos Lieponių ir Valkininkų dvarų laikytoją."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  temporaliniai_duomenys: "įvykio data: 1534 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir faktiškai atitinka citatoje nurodytą 1534 m. įsakymą. Išlaikytos tik šaltinio pagrįstos aplinkybės."
-  pagrindžia:
-    - c-186738
-
 ## Citatos
 
 - id: c-186738
@@ -84,5 +67,23 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204161"></a>
+- t-001
+  teiginys: "1534 m. Žygimantas Senasis, būdamas Rūdninkų medžioklės dvare, įsakė Jurgiui Mikalojaičiui Radvilai atleisti nuo karinės tarnybos Lieponių ir Valkininkų dvarų laikytoją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1534 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir faktiškai atitinka citatoje nurodytą 1534 m. įsakymą. Išlaikytos tik šaltinio pagrįstos aplinkybės."
+  pagrindžia:
+    - c-186738
+

@@ -36,10 +36,58 @@ Torfėjas Frotono III valdymą siejo su III krikščioniškosios eros amžiumi. 
 
 ## Teiginiai
 
-<a id="claim-t-191140"></a>
-- t-001
+<a id="claim-t-214360"></a>
+- t-004
+  teiginys: "Pasak šaltinio, Frotonas užėmė daug Rusios plotų ir Olimarui, Daganui bei Onevui paskyrė skirtingas žemes."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195826
+
+<a id="claim-t-215890"></a>
+- t-006
+  teiginys: "Pasak šaltinio, Frotonas III kariavo su slavais, kurių karvedys Strunikas buvo nukautas."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197403
+
+<a id="claim-t-212739"></a>
+- t-212739
+  teiginys: "Frotonas III surinko laivyną, atplaukė prie Baltijos jūros rytinių pakrančių ir užpuolė rusus."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197557
+
+<a id="claim-t-212841"></a>
+- t-212841
+  teiginys: "Frotonas III kariavo su slavais, kurių karvedys Strunikas1 buvo nukautas."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196804
+
+<a id="claim-t-213803"></a>
+- t-213803
   teiginys: "Torfėjas Frotono III valdymą siejo su III krikščioniškosios eros amžiumi."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-09-13 21:45"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -53,13 +101,11 @@ Torfėjas Frotono III valdymą siejo su III krikščioniškosios eros amžiumi. 
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Frotonas III\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T15:36:38Z"
-  pagrindžia:
-    - c-174022
 
-<a id="claim-t-191141"></a>
-- t-002
+<a id="claim-t-215682"></a>
+- t-215682
   teiginys: "Teodoro Narbuto pasakojime Frotono III sūnus Fridleifas Rusioje augo pas Chunigardijos gimines ir susigrąžino Danijos sostą."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -73,20 +119,6 @@ Torfėjas Frotono III valdymą siejo su III krikščioniškosios eros amžiumi. 
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Frotonas III\" parinktas kaip owner_note_path. Targetas \"Chunigardija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:43Z"
-  pagrindžia:
-    - c-174023
-
-<a id="claim-t-197731"></a>
-- t-003
-  teiginys: "Frotonas III kariavo su slavais, kurių karvedys Strunikas1 buvo nukautas."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-179312
 
 ## Citatos
 
@@ -113,8 +145,6 @@ Torfėjas Frotono III valdymą siejo su III krikščioniškosios eros amžiumi. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-174023
   autorius: "Teodoras Narbutas"
@@ -139,8 +169,6 @@ Torfėjas Frotono III valdymą siejo su III krikščioniškosios eros amžiumi. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-179312
   autorius: "Teodoras Narbutas"
@@ -162,8 +190,100 @@ Torfėjas Frotono III valdymą siejo su III krikščioniškosios eros amžiumi. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+
+- id: c-195826
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 241-242"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 241-242."
+  citata_originali: |
+    Karalius Frotonas užėmė
+    1
+    Sis vardas yra neabejotinai slaviškas ir reiškia dirbantį muzikos
+    instrumentų stygas.
+    231
+
+    daug Rusios plotų, o anksčiau pavergtas įvairias žemes
+    šiaurėje ir rytuose išdalijo valdyti ar suteikė kažkokių ki­
+    tų teisių tvarkyti: Olimarui paskyrė Holmogardiją, galbūt
+    dalį už Dauguvos buvusios Livonijos, priklausiusios Hol-
+    mo tvirtovei, kur šiandien yra Kirchholmas; Daganui ati­
+    teko žemės, vadinamos Hestija, Semba ir gretimos prūsų
+    provincijos; Onevui atidavė Konogardijos žemę, gal pri­
+    klausiusią Kaunui, kuris buvo vadinamas Konnogord, Ku-
+    tiigard, t. y. Kurio miestas
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
+- id: c-196804
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 241"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 241."
+  citata_originali: |
+    Pirmiausia jis kariavo su slavais, kurių
+    karvedys Strunikas1 buvo nukautas. Pasak istorinių skai­
+    čiavimų, šios kautynės jvykusios danams išsilaipinus kaž­
+    kur Suomių įlankoje, galbūt prie Narvos upės žiočių, anot
+    kitų — prie Nevos žiočių, nes ten jau galėjo būti Siaurės
+    slavų pakrančių gyvenviečių, atkariautų iš suomių ir pra-
+    lobusių iš žuvininkystės. Tas pats karalius, vėliau įsiver­
+    žęs giliau į Rytų kraštų, vedė kažkokio hunų ar chunų
+    karaliaus dukrą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212841
+
+- id: c-197403
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 241"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 241."
+  citata_originali: |
+    Danijos karalius Frotonas III su galingu laivynu ir
+    sausumos kariuomene rengė žygius į Baltijos jūros ryti­
+    nes pakrantes. Pirmiausia jis kariavo su slavais, kurių
+    karvedys Strunikas1 buvo nukautas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-006
+
+- id: c-197557
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 241"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 241."
+  citata_originali: |
+    Po to šio kariūno pyktis pakrypo prieš rusus; jis surinko
+    laivyną, atplaukė prie Baltijos jūros rytinių pakrančių ir
+    užpuolė rusus. Šie, susirinkę labai daug savo valčių, stojo
+    į mūšį prie įėjimo į Rusnės įlanką. Danai, atplaukę su
+    nedaugeliu didelių, gerai ginkluotų laivų, sunaikino visas
+    rusų jūros pajėgas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212739
 
 ## Ryšiai
 - Frotonas III buvo valdovas [[objektai/vietos/Danija]]

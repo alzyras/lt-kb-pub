@@ -34,20 +34,6 @@ media_all_json: |-
 
 Abiejų valstybių pirkliams buvo laiduota prekybos laisvė, jie galėjo netrukdomi keliauti, privalėjo mokėti tik senus muitus ir rinkliavas, buvo sutarta naujų neįvesti.
 
-## Teiginiai
-
-<a id="claim-t-202294"></a>
-- t-001
-  teiginys: "Abiejų valstybių pirkliams buvo laiduota prekybos laisvė, jie galėjo netrukdomi keliauti, privalėjo mokėti tik senus muitus ir rinkliavas, buvo sutarta naujų neįvesti."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185641
-
 ## Citatos
 
 - id: c-185641
@@ -63,5 +49,20 @@ Abiejų valstybių pirkliams buvo laiduota prekybos laisvė, jie galėjo netrukd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202294"></a>
+- t-001
+  teiginys: "Abiejų valstybių pirkliams buvo laiduota prekybos laisvė, jie galėjo netrukdomi keliauti, privalėjo mokėti tik senus muitus ir rinkliavas, buvo sutarta naujų neįvesti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185641
+

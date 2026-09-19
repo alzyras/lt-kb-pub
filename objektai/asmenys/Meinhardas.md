@@ -36,122 +36,6 @@ canonical_biography: "Pirmasis pagonių krikštu susirūpino misijonierius Meinh
 
 Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo paskirtas ir pirmuoju Livonijos vyskupu (apie 1180 m.).
 
-## Teiginiai
-
-<a id="claim-t-186067"></a>
-- t-001
-  teiginys: "Kojelavičiaus Prūsijos magistru vadinamas Meinhardas apie balandžio vidurį apgulė Kolainius, Lietuvos pilį prie Nemuno."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-169428
-
-<a id="claim-t-186068"></a>
-- t-002
-  teiginys: "Magistras Meinhardas su didesne kariauna įsiveržė į Lietuvą ir nusiaubė Paštuvos bei Gaižuvos valsčius."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169429
-
-<a id="claim-t-186069"></a>
-- t-003
-  teiginys: "Įspėtas apie išdavystę, Meinhardas prieš kovos pradžią išvengė pavojaus ir nepatenkintas atitraukė kariuomenę į Prūsiją."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-169430
-
-<a id="claim-t-193507"></a>
-- t-004
-  teiginys: "Meinhardas su didesne kariauna įsiveržė į Lietuvą ir nusiaubė Paštuvos bei Gaižuvos valsčius."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-169429
-
-<a id="claim-t-193508"></a>
-- t-005
-  teiginys: "Įspėtas apie išdavys tę, Meinhardas vargais negalais išvengė pavojaus anks čiau, nei prasidėjo kova, ir nepatenkintas atitraukė ka riuomenę į Prūsiją."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169430
-
-<a id="claim-t-201013"></a>
-- t-006
-  teiginys: "Tie atėjūnai turėjo su savim kunigą, vardu Meinhardą, augustijonį, noris apsenį vyrą, bet didį gei dulį Evangelijos platinimo, neskundžiantį nei darbo, nei žygio, nei sveikatos dėl padauginimo skaitliaus krikščionų, kursai, pramokęs tenai kalbos, pradėjo."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184363
-
-<a id="claim-t-205161"></a>
-- t-007
-  teiginys: "Vėliau atsirado žmogus, vertas būti apaštalu, vardu — Meinhardas, Au gustinų ordino vienuolis iš Zigebergo vienuolyno, kuris, gavęs Bremeno arkivyskupo ir vyresniųjų dvasininkų lei dimą, apie 1186 metus leidosi su pirkliais į Livonijos kraštą."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-188059
-
-<a id="claim-t-205184"></a>
-- t-008
-  teiginys: "Meinhardas savo gyvenimo dienas Ibaigė 1196 metais."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-188028
-
-<a id="claim-t-205549"></a>
-- t-009
-  teiginys: "Argi pirmaisiais žingsniais, Meinhardui gy vam esant, ne kitų tikslų buvo siekiama?"
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-188132
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Prūsijos magistras Meinhardas apie balandžio vidurį apgulė Kolainius, Nemuno pakrantėje buvusią Lietuvos pilį.'
@@ -207,7 +91,7 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-169429
@@ -242,7 +126,7 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-004
 
@@ -290,7 +174,7 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
     - t-005
 
@@ -318,7 +202,7 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-188028
@@ -336,7 +220,7 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-008
 
 - id: c-188059
@@ -359,7 +243,7 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-188132
@@ -378,5 +262,122 @@ Pirmasis pagonių krikštu susirūpino misijonierius Meinhardas, kuris buvo pask
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-009
+
+## Teiginiai
+
+<a id="claim-t-186067"></a>
+- t-001
+  teiginys: "Kojelavičiaus Prūsijos magistru vadinamas Meinhardas apie balandžio vidurį apgulė Kolainius, Lietuvos pilį prie Nemuno."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-169428
+
+<a id="claim-t-186068"></a>
+- t-002
+  teiginys: "Magistras Meinhardas su didesne kariauna įsiveržė į Lietuvą ir nusiaubė Paštuvos bei Gaižuvos valsčius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169429
+
+<a id="claim-t-186069"></a>
+- t-003
+  teiginys: "Įspėtas apie išdavystę, Meinhardas prieš kovos pradžią išvengė pavojaus ir nepatenkintas atitraukė kariuomenę į Prūsiją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-169430
+
+<a id="claim-t-193507"></a>
+- t-004
+  teiginys: "Meinhardas su didesne kariauna įsiveržė į Lietuvą ir nusiaubė Paštuvos bei Gaižuvos valsčius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-169429
+
+<a id="claim-t-193508"></a>
+- t-005
+  teiginys: "Įspėtas apie išdavys tę, Meinhardas vargais negalais išvengė pavojaus anks čiau, nei prasidėjo kova, ir nepatenkintas atitraukė ka riuomenę į Prūsiją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169430
+
+<a id="claim-t-201013"></a>
+- t-006
+  teiginys: "Tie atėjūnai turėjo su savim kunigą, vardu Meinhardą, augustijonį, noris apsenį vyrą, bet didį gei dulį Evangelijos platinimo, neskundžiantį nei darbo, nei žygio, nei sveikatos dėl padauginimo skaitliaus krikščionų, kursai, pramokęs tenai kalbos, pradėjo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184363
+
+<a id="claim-t-205161"></a>
+- t-007
+  teiginys: "Vėliau atsirado žmogus, vertas būti apaštalu, vardu — Meinhardas, Au gustinų ordino vienuolis iš Zigebergo vienuolyno, kuris, gavęs Bremeno arkivyskupo ir vyresniųjų dvasininkų lei dimą, apie 1186 metus leidosi su pirkliais į Livonijos kraštą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188059
+
+<a id="claim-t-205184"></a>
+- t-008
+  teiginys: "Meinhardas savo gyvenimo dienas Ibaigė 1196 metais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188028
+
+<a id="claim-t-205549"></a>
+- t-009
+  teiginys: "Argi pirmaisiais žingsniais, Meinhardui gy vam esant, ne kitų tikslų buvo siekiama?"
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188132
+

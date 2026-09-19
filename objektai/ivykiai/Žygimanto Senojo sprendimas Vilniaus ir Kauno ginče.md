@@ -42,20 +42,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-201974"></a>
-- t-001
-  teiginys: "1535 m. Žygimantas Senasis, spręsdamas Vilniaus ir Kauno ginčą, išgirdo, kad Kaunas pareiškęs, jog Kazimiero Jogailaičio ir jo paties privilegijos Vilniui dėl laisvos ir neapmokestinamos prekybos Lietuvos miestuose negaliojančios Kaune, kad vilniečiai."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185321
-
 ## Citatos
 
 - id: c-185321
@@ -75,5 +61,20 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201974"></a>
+- t-001
+  teiginys: "1535 m. Žygimantas Senasis, spręsdamas Vilniaus ir Kauno ginčą, išgirdo, kad Kaunas pareiškęs, jog Kazimiero Jogailaičio ir jo paties privilegijos Vilniui dėl laisvos ir neapmokestinamos prekybos Lietuvos miestuose negaliojančios Kaune, kad vilniečiai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185321
+

@@ -33,28 +33,6 @@ canonical_biography: "Narbutas rašo, kad Mnelea ir Rolandas Katarus aiškino ka
 
 Narbutas rašo, kad Mnelea ir Rolandas Katarus aiškino kaip tris pragaro arba mirusiųjų dievus.
 
-## Teiginiai
-
-<a id="claim-t-190186"></a>
-- t-001
-  teiginys: "Narbutas rašo, kad Mnelea ir Rolandas Katarus aiškino kaip tris pragaro arba mirusiųjų dievus."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Pragaras: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mnelea ir Rolandas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Pragaras: mention_match, place, gap=45"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mnelea ir Rolandas\" parinktas kaip owner_note_path. Targetas \"Pragaras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173069
-
 ## Citatos
 
 - id: c-173069
@@ -83,5 +61,56 @@ Narbutas rašo, kad Mnelea ir Rolandas Katarus aiškino kaip tris pragaro arba m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-199967
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 112"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 112."
+  citata_originali: |
+    Dabar sunku tinkamai atskleisti to mito prasmę: pirma,
+    apeigos buvo slaptos, antra, painiava net senovės mitologų vei­
+    kaluose, nes vieni Kabirus prilygina Dioskūrams, tai yra Kas­
+    torui ir Polideukui, kiti laiko juos kažkokių dievų vaikais, tre­
+    ti - kerėtojais arba kažkokiais šventikais, panašiais į daktilus,
+    koribantus, kuretus. Tačiau lygindami tuos padavimus vieną
+    su kitu ir aiškindamiesi tų dievybių prigimtį, Mnelea, o vėliau
+    Rolandas, labiausiai priartėdami prie tiesos, sutaria, kad Ka­
+    tarai - trys pragaro, arba mirusiųjų, dievai, kadangi Prozerpi­
+    na simbolizuoja žemę, priimančią į savo įsčias visa, kas mirė,
+    ir atiduodančią, arba gimdančią, iš tų pačių įsčių, dėl to ji yra
+    pati gyvybė; Merkurijus išreiškia galybę ir lemtį - vieno ir kito
+    gyvenimo ribą, mirtį, perėjimą iš vienos būsenos į kitą; Pluto­
+    nas - požemį, arba egzistavimą po mirties. Tai iš tikrųjų ir yra
+    graikų mitologijos Trejybė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-219376"></a>
+- t-001
+  teiginys: "Narbutas rašo, kad Mnelea ir Rolandas Katarus aiškino kaip tris pragaro arba mirusiųjų dievus."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Pragaras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mnelea ir Rolandas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Pragaras: mention_match, place, gap=45"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mnelea ir Rolandas\" parinktas kaip owner_note_path. Targetas \"Pragaras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-199967
+

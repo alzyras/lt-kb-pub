@@ -48,22 +48,6 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
 
 ## Teiginiai
 
-<a id="claim-t-55271"></a>
-- t-001
-  teiginys: "IX a. Rusioje pirmieji normanai iš Skandinavijos buvo žinomi variagų vardu."
-  atnaujinta: "2026-06-13 17:01"
-  sprendimo_priezastis: "gap::vocabulary"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Variagai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Variagai\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-78600
-
 <a id="claim-t-55272"></a>
 - t-002
   teiginys: "Riurikas ir jo variagai, Balinskio aiškinimu, į Rusią galėjo būti atblokšti Petro Olai aprašyto įvykio."
@@ -80,10 +64,26 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
   pagrindžia:
     - c-55820
 
+<a id="claim-t-55271"></a>
+- t-55271
+  teiginys: "IX a. Rusioje pirmieji normanai iš Skandinavijos buvo žinomi variagų vardu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::vocabulary"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Variagai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Variagai\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-78600
+
 <a id="claim-t-82105"></a>
-- t-003
+- t-82105
   teiginys: "Petro Olai „Danų kronikoje“ aprašytas įvykis siejamas su Riuriko ir jo variagų pasitraukimu į Rusiją."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "gap::vocabulary"
   ryšio_patikimumas: "keliavo_i -> Rusija: 0.87"
   ryšio_patikimumo_lygis: "aukstas"
@@ -98,9 +98,9 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
     - c-78599
 
 <a id="claim-t-82106"></a>
-- t-004
+- t-82106
   teiginys: "IX a. Rusioje variagais vadinti skandinavų normanai Baltijos pakrantėse vertėsi plėšikavimu ir prekyba."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "gap::vocabulary"
   ryšio_patikimumas: "susije_su -> Baltija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -114,9 +114,9 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
     - c-78600
 
 <a id="claim-t-205109"></a>
-- t-005
+- t-205109
   teiginys: "Juk variagų vardu, mūsų supratimu, galėjo bū ti vadinama kiekviena skandinavų gyvenvietė, buvusi už Skanijos ribų, o tokių Ostrogardija IX amžiuje nestokojo."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -127,9 +127,9 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
     - c-187931
 
 <a id="claim-t-205409"></a>
-- t-006
+- t-205409
   teiginys: "Betgi patį garsiausią vardą ir didžiausią reikšmę tu rėjo skandinavai, o IX amžiuje tarp jų suklestėjo Rusios variagai, tai yra skandinavų nausėdininkai Rusioje, mū sų supratimu, Lietuvos žemių užkariautojai, įsikūrę Ru sioje, Nemuno žemupyje."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -162,11 +162,12 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
     tus, galbūt tariamąjį Palemoną su
     draugais - į Lietuvą.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-78599
@@ -199,8 +200,8 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-82105
 
 - id: c-78600
   autorius: "Michał Baliński"
@@ -244,9 +245,9 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-004
+  pagrindžia:
+    - t-55271
+    - t-82106
 
 - id: c-187812
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -272,8 +273,8 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-205409
 
 - id: c-187931
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -294,5 +295,6 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-205109
+

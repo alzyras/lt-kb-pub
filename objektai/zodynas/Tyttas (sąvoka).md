@@ -33,21 +33,6 @@ Teodoras Narbutas patikslino, kad Tiltagalių kaimo vardas siejamas ne su lietuv
 
 Teodoras Narbutas patikslino, kad Tiltagalių kaimo vardas siejamas ne su lietuviška šaknimi „Tyttas“, o su į kaimą nutiestu tiltu, kurio galas davė kaimui pavadinimą.
 
-## Teiginiai
-
-<a id="claim-t-206664"></a>
-- t-001
-  teiginys: "Teodoras Narbutas patikslino, kad Tiltagalių kaimo vardas siejamas ne su lietuviška šaknimi „Tyttas“, o su į kaimą nutiestu tiltu, kurio galas davė kaimui pavadinimą."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
-  pagrindžia:
-    - c-189279
-
 ## Citatos
 
 - id: c-189279
@@ -68,5 +53,21 @@ Teodoras Narbutas patikslino, kad Tiltagalių kaimo vardas siejamas ne su lietuv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206664"></a>
+- t-001
+  teiginys: "Teodoras Narbutas patikslino, kad Tiltagalių kaimo vardas siejamas ne su lietuviška šaknimi „Tyttas“, o su į kaimą nutiestu tiltu, kurio galas davė kaimui pavadinimą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189279
+

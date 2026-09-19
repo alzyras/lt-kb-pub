@@ -50,10 +50,22 @@ historical_names: []
 
 ## Teiginiai
 
+<a id="claim-t-210597"></a>
+- t-210597
+  teiginys: "Dorohobužas — RTFSR Smolensko sr."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193701
+
 <a id="claim-t-204034"></a>
-- t-001
+- t-204034
   teiginys: "1494 m. birželio 2 d. Aleksandras Jogailaitis Onai Martynienei Goštautienei patvirtino Dorohobužą su vietos bajorais, kurį anksčiau valdė Jonas Goštautas ir jo sūnus Martynas."
-  atnaujinta: "2026-08-07 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -79,5 +91,26 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-204034
+
+- id: c-193701
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 315-316"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 315-316."
+  citata_originali: |
+    Dorohobužas — RTFSR Smolensko sr. miestas (prie Dnepro
+    aukštupio, apie 80 km į rytus nuo Smolenskol.
+    323
+
+    23 Jelnia — Smolensko
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210597
+

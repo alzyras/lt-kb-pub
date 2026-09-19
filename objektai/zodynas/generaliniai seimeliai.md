@@ -27,17 +27,6 @@ media_all_json: |-
 
 Tie generaliniai seimeliai neišnyko nė įvedus bend- rą su lietuviais seimą. Tos „sesijos" atlikdavo tą patį darbą, kurį anksčiau atlikdavo generaliniai seimeliai. generaliniai seimeliai: be to, tų atskirų suvažiavimų nebenorėdavo nė bajorija, nes, į juos vykdami, atstovai savo misijoje turėdavo ilgiau užtrukti, todėl jiems daugiau reikėdavo išmokėti ir pinigų (mat, atstovus turėjo išlaikyti pati vaivadija iš specialaus mokesčio, vadinamo.
 
-## Teiginiai
-
-<a id="claim-t-70143"></a>
-- t-001
-  teiginys: "Generaliniai seimeliai neišnyko įvedus bendrą Lietuvos ir Lenkijos seimą; Lietuvoje tokie suvažiavimai vykdavo Volkoviske, vėliau Slanime."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-69228
-
 ## Citatos
 
 - id: c-69228
@@ -56,5 +45,17 @@ Tie generaliniai seimeliai neišnyko nė įvedus bend- rą su lietuviais seimą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-70143"></a>
+- t-001
+  teiginys: "Generaliniai seimeliai neišnyko įvedus bendrą Lietuvos ir Lenkijos seimą; Lietuvoje tokie suvažiavimai vykdavo Volkoviske, vėliau Slanime."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-69228
+

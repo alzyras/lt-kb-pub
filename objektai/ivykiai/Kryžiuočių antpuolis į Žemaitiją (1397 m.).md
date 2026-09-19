@@ -46,21 +46,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206741"></a>
-- t-001
-  teiginys: "Narbutas pasakoja, kad 1397 m. rugsėjį Ragainės komtūras su maždaug keturiais šimtais savųjų prisijungė prie į Prūsiją atvykusių riterių, tačiau žemaičiai jų būrį miške sutriuškino, paėmė 200 belaisvių ir 500 žirgų."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189356
-
 ## Santrauka
 
 Narbutas pasakoja, kad 1397 m. rugsėjį Ragainės komtūras su maždaug keturiais šimtais savųjų prisijungė prie į Prūsiją atvykusių riterių, tačiau žemaičiai jų būrį miške sutriuškino, paėmė 200 belaisvių ir 500 žirgų.
@@ -89,5 +74,21 @@ Narbutas pasakoja, kad 1397 m. rugsėjį Ragainės komtūras su maždaug keturia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206741"></a>
+- t-001
+  teiginys: "Narbutas pasakoja, kad 1397 m. rugsėjį Ragainės komtūras su maždaug keturiais šimtais savųjų prisijungė prie į Prūsiją atvykusių riterių, tačiau žemaičiai jų būrį miške sutriuškino, paėmė 200 belaisvių ir 500 žirgų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189356
+

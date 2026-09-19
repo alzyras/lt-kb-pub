@@ -40,42 +40,6 @@ Kontekste `vidivarii` nėra vienos tautos giminės vardas, o įvairių tautų sa
 
 Vartojama ankstyvųjų tautų kilmės ir etnonimų aiškinimo kontekste.
 
-## Teiginiai
-
-<a id="claim-t-54797"></a>
-- t-001
-  teiginys: "Vidivarijų vardas siejamas su nauja pasienio tauta, atsiradusia maišantis venedams, estams ir gotams."
-  atnaujinta: "2026-05-27 07:20"
-  sprendimo_priezastis: "gap::vocabulary"
-  ryšio_patikimumas: "uzeme -> Baltija: 0.80"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Baltija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje tiesiogiai sakoma, kad lietuvių tauta užėmė Baltijos pakrantę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Lietuviai užėmė Baltija (0.80)"
-  pagrindžia:
-    - c-55794
-
-<a id="claim-t-54798"></a>
-- t-002
-  teiginys: "Vidivarijų vardas aiškinamas kaip įvairių tautų sambūrio bendruomenės vardas, o ne vienos tautos giminės vardas."
-  atnaujinta: "2026-06-13 17:10"
-  sprendimo_priezastis: "gap::vocabulary"
-  ryšio_patikimumas: "gyveno -> Vysla: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vidivarii: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vysla: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata Vidivarii sieja su tauta, įsikūrusia prie Vyslos žiočių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Vidivarii gyveno Vysla (0.82)"
-  pagrindžia:
-    - c-55795
-
 ## Citatos
 
 - id: c-55794
@@ -103,7 +67,7 @@ Vartojama ankstyvųjų tautų kilmės ir etnonimų aiškinimo kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-55795
@@ -142,5 +106,42 @@ Vartojama ankstyvųjų tautų kilmės ir etnonimų aiškinimo kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-54797"></a>
+- t-001
+  teiginys: "Vidivarijų vardas siejamas su nauja pasienio tauta, atsiradusia maišantis venedams, estams ir gotams."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::vocabulary"
+  ryšio_patikimumas: "uzeme -> Baltija: 0.80"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Baltija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje tiesiogiai sakoma, kad lietuvių tauta užėmė Baltijos pakrantę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Lietuviai užėmė Baltija (0.80)"
+  pagrindžia:
+    - c-55794
+
+<a id="claim-t-54798"></a>
+- t-002
+  teiginys: "Vidivarijų vardas aiškinamas kaip įvairių tautų sambūrio bendruomenės vardas, o ne vienos tautos giminės vardas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::vocabulary"
+  ryšio_patikimumas: "gyveno -> Vysla: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vidivarii: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vysla: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata Vidivarii sieja su tauta, įsikūrusia prie Vyslos žiočių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Vidivarii gyveno Vysla (0.82)"
+  pagrindžia:
+    - c-55795
+

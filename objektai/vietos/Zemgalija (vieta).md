@@ -38,20 +38,6 @@ historical_names: []
 
 Paskui tą pergalę žemaičiai tuo pačiu žygiu Zemgaliją nuteriojo ir, ką tenai sutikdami, kirto ir naikino, pagrieję gausiai grobio, grįžo namo, žem galiams girioj bekiūtantiems, kurie tenkinos tūlus žemaičius grįžtančius pasalu nukavę.
 
-## Teiginiai
-
-<a id="claim-t-201179"></a>
-- t-001
-  teiginys: "Paskui tą pergalę žemaičiai tuo pačiu žygiu Zemgaliją nuteriojo ir, ką tenai sutikdami, kirto ir naikino, pagrieję gausiai grobio, grįžo namo, žem galiams girioj bekiūtantiems, kurie tenkinos tūlus žemaičius grįžtančius pasalu nukavę."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184529
-
 ## Citatos
 
 - id: c-184529
@@ -81,5 +67,20 @@ Paskui tą pergalę žemaičiai tuo pačiu žygiu Zemgaliją nuteriojo ir, ką t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201179"></a>
+- t-001
+  teiginys: "Paskui tą pergalę žemaičiai tuo pačiu žygiu Zemgaliją nuteriojo ir, ką tenai sutikdami, kirto ir naikino, pagrieję gausiai grobio, grįžo namo, žem galiams girioj bekiūtantiems, kurie tenkinos tūlus žemaičius grįžtančius pasalu nukavę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184529
+

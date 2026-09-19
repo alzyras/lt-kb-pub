@@ -26,25 +26,6 @@ media_all_json: |-
 
 Lietuvos Metrikos archyvo sąrašo ištraukoje užfiksuotas Jano Filipovičiaus sklypo Vilniaus pilyje pardavimas karalienei Elenai.
 
-## Teiginiai
-
-<a id="claim-t-88437"></a>
-- t-001
-  teiginys: "Lietuvos Metrikos archyvo sąraše užfiksuota, kad Janas Filipovičius pardavė karalienei Elenai sklypą Vilniaus pilyje už 90 kapų."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_teritorija -> Vilnius: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Janas Filipovičius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata rodo, kad Janui Filipovičiui priklausė paveldėtas sklypas Vilniaus pilyje; leidžiamas artimiausias objektas yra Vilnius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Janas Filipovičius valdė teritoriją Vilnius (0.72); Elena (vyskupas, XV–XVI a.) valdė miestą Vilnius (0.64)"
-  pagrindžia:
-    - c-84416
-
 ## Citatos
 
 - id: c-84416
@@ -77,5 +58,25 @@ Lietuvos Metrikos archyvo sąrašo ištraukoje užfiksuotas Jano Filipovičiaus 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-88437"></a>
+- t-001
+  teiginys: "Lietuvos Metrikos archyvo sąraše užfiksuota, kad Janas Filipovičius pardavė karalienei Elenai sklypą Vilniaus pilyje už 90 kapų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_teritorija -> Vilnius: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Janas Filipovičius: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata rodo, kad Janui Filipovičiui priklausė paveldėtas sklypas Vilniaus pilyje; leidžiamas artimiausias objektas yra Vilnius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Janas Filipovičius valdė teritoriją Vilnius (0.72); Elena (vyskupas, XV–XVI a.) valdė miestą Vilnius (0.64)"
+  pagrindžia:
+    - c-84416
+

@@ -43,20 +43,6 @@ canonical_biography: "Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stan
 
 Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pirmaisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Katekizmą“.
 
-## Teiginiai
-
-<a id="claim-t-193725"></a>
-- t-001
-  teiginys: "Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pirmaisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Katekizmą“."
-  atnaujinta: "2026-07-06 12:55"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-176394
-
 ## Citatos
 
 - id: c-176394
@@ -86,5 +72,56 @@ Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+- id: c-190168
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 154"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 154."
+  citata_originali: |
+    Tai kodėl jis kartais pavadinamas genialiu? Kulvie-
+    tis, pasinaudodamas reformacija, iškėlusia gimtosios kalbos svarbą bendraujant su Dievu,
+    suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo padaryti visos švietimo
+    sistemos pagrindu, pakelti šią kalbą į valstybės interesų lygį ir taip išugdyti lietuvių in-
+    teligentiją. Šią programą Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu
+    Rapolioniu tapo pirmaisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais,
+    o jų programos dalimi ir reikia laikyti 1547 m. išleista Martyno Mažvydo „Katekizmą“.
+  citata_rodoma: "Šią programą Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu \nRapolioniu tapo pirmaisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, \no jų programos dalimi ir reikia laikyti 1547 m. išleista Martyno Mažvydo „Katekizmą“."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Teiginiai
+
+<a id="claim-t-193725"></a>
+- t-001
+  teiginys: "Kulvietis bandė įvykdyti emigracijoje, kur kartu su Stanislovu Rapolioniu tapo pirmaisiais ką tik (1544) įkurto Karaliaučiaus universiteto profesoriais, o jų programos dalimi ir reikia laikyti 1547 m. išleistą Martyno Mažvydo „Katekizmą“."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-176394
+
+<a id="claim-t-207551"></a>
+- t-002
+  teiginys: "Stanislovas Rapolionis kartu su Kulviečiu tapo pirmaisiais 1544 m. įkurto Karaliaučiaus universiteto profesoriais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190168
+

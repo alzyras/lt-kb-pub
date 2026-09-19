@@ -26,34 +26,6 @@ media_all_json: |-
 
 Narbutas nurodo, kad Šrioko „Kirchen Geschichte“ pateikti dalykai pažodžiui paimti iš Enėjaus Silvijaus. Narbutas rašo, kad Šrioko „Kirchen Geschichte“ tas pats pranešimas kartojamas žodis į žodį kaip ištrauka iš Enėjaus Silvijaus.
 
-## Teiginiai
-
-<a id="claim-t-190506"></a>
-- t-001
-  teiginys: "Narbutas nurodo, kad Šrioko „Kirchen Geschichte“ pateikti dalykai pažodžiui paimti iš Enėjaus Silvijaus."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-173389
-
-<a id="claim-t-190507"></a>
-- t-002
-  teiginys: "Narbutas rašo, kad Šrioko „Kirchen Geschichte“ tas pats pranešimas kartojamas žodis į žodį kaip ištrauka iš Enėjaus Silvijaus."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-173390
-
 ## Citatos
 
 - id: c-173389
@@ -69,8 +41,6 @@ Narbutas nurodo, kad Šrioko „Kirchen Geschichte“ pateikti dalykai pažodži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-173390
   autorius: "Teodoras Narbutas"
@@ -89,5 +59,70 @@ Narbutas nurodo, kad Šrioko „Kirchen Geschichte“ pateikti dalykai pažodži
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-198230
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 455"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 455."
+  citata_originali: |
+    Šie dalykai yra tik Šrioko veikale (Kirchen Geschichte. -
+    B. XXX. - S. 497). Visi jie pažodžiui paimti iš Enėjaus Silvijaus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+- id: c-200509
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 515"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 515."
+  citata_originali: |
+    Minimo veikalo pavadinimas visai nežinomas, nes
+    trūksta pradžios (Mokslininkai mato tokį praneši­
+    mą, pasikartojantį žodis į žodį, Šrioko veikale
+    (Schrock. Kirchen Geschichte. - B. XXX. - S. 497),
+    kaip ištrauką iš Enėjaus Silvijaus. Mūsų kompilia­
+    torius įtraukė tą patį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-216754"></a>
+- t-001
+  teiginys: "Narbutas nurodo, kad Šrioko „Kirchen Geschichte“ pateikti dalykai pažodžiui paimti iš Enėjaus Silvijaus."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-198230
+
+<a id="claim-t-217262"></a>
+- t-002
+  teiginys: "Narbutas rašo, kad Šrioko „Kirchen Geschichte“ tas pats pranešimas kartojamas žodis į žodį kaip ištrauka iš Enėjaus Silvijaus."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-200509
+

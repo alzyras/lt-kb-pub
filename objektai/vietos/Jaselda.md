@@ -38,40 +38,6 @@ historical_names: []
 
 Bet didžiausias darbas, atliktas šioje srityje, buvo iškastas 71 / 2 mylių ilgumo kanalas, kuris jungia Ščarą su Jaselda.
 
-## Teiginiai
-
-<a id="claim-t-184963"></a>
-- t-001
-  teiginys: "Prie Jaseldos upės Skirmanto pajėgos sumušė Mstislavą, kuris praradęs kariuomenę paspruko į Lucką."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "kariavo_pries -> Rusai: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skirmantas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata rodo, kad Skirmantas veikė prieš rusus ir iš jų atėmė miestus."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Skirmantas kariavo prieš Rusai (0.84)"
-  pagrindžia:
-    - c-168324
-
-<a id="claim-t-201062"></a>
-- t-002
-  teiginys: "Susirėmė abi pusi paupy Jaseldos ir grūmės iš visos galios, ragotinės traškėjo, o kardos tviskėjo abiem pusėm; ilgai didžiai varžės pergale, vienok lietuviai perlaužė gudus ir šalin skriejančius vienus kely išklojo, kitus Jaseldoj išskandino."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184412
-
 ## Citatos
 
 - id: c-168324
@@ -112,7 +78,7 @@ Bet didžiausias darbas, atliktas šioje srityje, buvo iškastas 71 / 2 mylių i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184412
@@ -139,5 +105,40 @@ Bet didžiausias darbas, atliktas šioje srityje, buvo iškastas 71 / 2 mylių i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-184963"></a>
+- t-001
+  teiginys: "Prie Jaseldos upės Skirmanto pajėgos sumušė Mstislavą, kuris praradęs kariuomenę paspruko į Lucką."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "kariavo_pries -> Rusai: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skirmantas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Rusai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata rodo, kad Skirmantas veikė prieš rusus ir iš jų atėmė miestus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Skirmantas kariavo prieš Rusai (0.84)"
+  pagrindžia:
+    - c-168324
+
+<a id="claim-t-201062"></a>
+- t-002
+  teiginys: "Susirėmė abi pusi paupy Jaseldos ir grūmės iš visos galios, ragotinės traškėjo, o kardos tviskėjo abiem pusėm; ilgai didžiai varžės pergale, vienok lietuviai perlaužė gudus ir šalin skriejančius vienus kely išklojo, kitus Jaseldoj išskandino."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184412
+

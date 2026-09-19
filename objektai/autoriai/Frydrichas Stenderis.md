@@ -36,50 +36,48 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
 
 ## Teiginiai
 
-<a id="claim-t-190265"></a>
-- t-001
-  teiginys: "Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klaidingas ir pernelyg grindžiamas vietinių žodžių paieška."
-  atnaujinta: "2026-07-12 22:33"
+<a id="claim-t-219823"></a>
+- t-219823
+  teiginys: "Stenderį - Mėšlų boba, Žemės motina ir 1.1."
+  atnaujinta: "2026-09-12 23:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Latviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Frydrichas Stenderis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Latviai: mention_match, group, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Frydrichas Stenderis\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173148
+    - c-201127
 
-<a id="claim-t-190267"></a>
-- t-002
-  teiginys: "Stenderio nuomone, latvių mitologijoje kiekvienas mitas siejosi su dievybės vyriškąja ir moteriškąja lytimis."
-  atnaujinta: "2026-07-26 17:49"
+<a id="claim-t-215958"></a>
+- t-215958
+  teiginys: "Kankino moteris, gaudė vyrus, užsispyrusius ir nepatinkamus žmones įmesdavo į šulinius, skandindavo upėse, kardavo ant medžių, 14 Stender."
+  atnaujinta: "2026-09-12 23:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Latviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Frydrichas Stenderis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Latviai: mention_match, group, gap=19"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Frydrichas Stenderis\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173150
+    - c-200108
 
-<a id="claim-t-190268"></a>
-- t-003
+<a id="claim-t-216547"></a>
+- t-216547
+  teiginys: "Stenderis dar sako, kad latviams Lauma reiškia tą patį, ką ir ragana."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-200811
+
+<a id="claim-t-217334"></a>
+- t-217334
   teiginys: "Stenderis rašė, kad latviams Lajma reiškia vaikų laimingą likimą arba laimę, o kai kuriose dainose vadinama Laema mahmina."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-09-12 23:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -94,72 +92,12 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173151
+    - c-201033
 
-<a id="claim-t-190270"></a>
-- t-004
-  teiginys: "Narbutas teigė, kad Stenderis savo latvių mitologijos straipsniuose pateikė klaidingas išvadas ir nutolo nuo esmės bei tiesos."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Latviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Frydrichas Stenderis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Latviai: mention_match, group, gap=15"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Frydrichas Stenderis\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173153
-
-<a id="claim-t-190271"></a>
-- t-005
-  teiginys: "Stenderis pastebėjo, kad latviai turėjo deivę Dyža arba Dysza, kurią Narbutas pagal ypatybes siejo su Pergrube."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Latviai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Frydrichas Stenderis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Latviai: mention_match, group, gap=25"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Frydrichas Stenderis\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173154
-
-<a id="claim-t-190277"></a>
-- t-006
-  teiginys: "Stenderis barstukų vardą kildino iš latviškų žodžių Berhns, lietuviškai bernas, ir Stuhke, reiškiančio lėlę."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Barstukai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Frydrichas Stenderis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Barstukai: mention_match, group, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Frydrichas Stenderis\" parinktas kaip owner_note_path. Targetas \"Barstukai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173160
-
-<a id="claim-t-190279"></a>
-- t-007
+<a id="claim-t-217450"></a>
+- t-217450
   teiginys: "Pasak Stenderio, latvių mitinė būtybė Brehkina buvo namų senė, sergėjanti naminius žalčius ir rupūžes."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-09-12 23:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -174,12 +112,32 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173162
+    - c-198484
 
-<a id="claim-t-190280"></a>
-- t-008
+<a id="claim-t-217598"></a>
+- t-217598
+  teiginys: "Narbutas teigė, kad Stenderis savo latvių mitologijos straipsniuose pateikė klaidingas išvadas ir nutolo nuo esmės bei tiesos."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Latviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Frydrichas Stenderis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Latviai: mention_match, group, gap=15"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Frydrichas Stenderis\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-198951
+
+<a id="claim-t-218461"></a>
+- t-218461
   teiginys: "Stenderis rašė, kad Latvijoje dar girdėti apie žynius, kurie pritraukia lengvatikius iš artimesnių ir tolimesnių apylinkių."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-09-12 23:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -194,12 +152,32 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173163
+    - c-199579
 
-<a id="claim-t-190281"></a>
-- t-009
+<a id="claim-t-218564"></a>
+- t-218564
+  teiginys: "Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klaidingas ir pernelyg grindžiamas vietinių žodžių paieška."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Latviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Frydrichas Stenderis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Latviai: mention_match, group, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Frydrichas Stenderis\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-199582
+
+<a id="claim-t-218722"></a>
+- t-218722
   teiginys: "Stenderis nurodė, kad latvių senieji mėnesiai buvo skaičiuojami nuo jauno iki jauno mėnulio ir jų buvo trylika."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-09-12 23:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -213,109 +191,65 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Frydrichas Stenderis\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-173164
+    - c-201453
 
-<a id="claim-t-194653"></a>
-- t-010
-  teiginys: "Narbutas teigia, kad šio dievo garbei buvo švenčiama šventė apie gruodžio 25 1 Stender."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-177050
-
-<a id="claim-t-194654"></a>
-- t-011
-  teiginys: "Stenderis dar sako, kad latviams Lauma reiškia tą patį, ką ir ragana."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-177051
-
-<a id="claim-t-194655"></a>
-- t-012
-  teiginys: "Tai rodo, kad vietos gyventojai kadaise Nemuną tik rai vadino Kruoniu (Kronus)', o gal kaip deivė upė buvo garbi- 17 Stender."
-  atnaujinta: "2026-07-26 17:49"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-177052
-
-<a id="claim-t-194656"></a>
-- t-013
-  teiginys: "Frydrichas Stenderis gali patekti į pastatą net pro rakto skylutę."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-177053
-
-<a id="claim-t-194657"></a>
-- t-014
-  teiginys: "Kankino moteris, gaudė vyrus, užsispyrusius ir nepatinkamus žmones įmesdavo į šulinius, skandindavo upėse, kardavo ant medžių, 14 Stender."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-177054
-
-<a id="claim-t-194658"></a>
-- t-015
-  teiginys: "Jis gyvendavo žemėje, 16 16 Stender, Lettische Grammatik."
-  atnaujinta: "2026-07-26 17:49"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-177055
-
-<a id="claim-t-197294"></a>
-- t-016
-  teiginys: "Frydrichas Stenderis išliejo, virto gryno aukso lašais."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-179108
-
-<a id="claim-t-197295"></a>
-- t-017
+<a id="claim-t-219347"></a>
+- t-219347
   teiginys: "Frydrichas Stenderis verčia Angularis, taigi turėjo būti Usparinie (Užsparinė) arba Susparinie (Sąsparinė)19."
-  atnaujinta: "2026-07-12 22:32"
+  atnaujinta: "2026-09-12 23:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   pagrindžia:
-    - c-179109
+    - c-200562
+
+<a id="claim-t-217180"></a>
+- t-217180
+  teiginys: "Stenderio nuomone, latvių mitologijoje kiekvienas mitas siejosi su dievybės vyriškąja ir moteriškąja lytimis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Latviai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Frydrichas Stenderis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Latviai: mention_match, group, gap=19"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Frydrichas Stenderis\" parinktas kaip owner_note_path. Targetas \"Latviai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-198951
+
+<a id="claim-t-218174"></a>
+- t-218174
+  teiginys: "Jis gyvendavo žemėje, 16 16 Stender, Lettische Grammatik."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-200108
+
+<a id="claim-t-218546"></a>
+- t-218546
+  teiginys: "Tai rodo, kad vietos gyventojai kadaise Nemuną tik rai vadino Kruoniu (Kronus)', o gal kaip deivė upė buvo garbi- 17 Stender."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-200562
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -407,8 +341,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-173150
   autorius: "Teodoras Narbutas"
@@ -429,8 +361,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-173151
   autorius: "Teodoras Narbutas"
@@ -451,8 +381,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-173153
   autorius: "Teodoras Narbutas"
@@ -473,8 +401,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
 
 - id: c-173154
   autorius: "Teodoras Narbutas"
@@ -496,8 +422,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
 
 - id: c-173160
   autorius: "Teodoras Narbutas"
@@ -518,8 +442,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
 
 - id: c-173162
   autorius: "Teodoras Narbutas"
@@ -538,8 +460,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
 
 - id: c-173163
   autorius: "Teodoras Narbutas"
@@ -559,8 +479,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
 
 - id: c-173164
   autorius: "Teodoras Narbutas"
@@ -578,8 +496,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
 
 - id: c-177050
   autorius: "Teodoras Narbutas"
@@ -598,8 +514,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-010
 
 - id: c-177051
   autorius: "Teodoras Narbutas"
@@ -618,8 +532,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-011
 
 - id: c-177052
   autorius: "Teodoras Narbutas"
@@ -638,8 +550,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-012
 
 - id: c-177053
   autorius: "Teodoras Narbutas"
@@ -658,8 +568,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-013
 
 - id: c-177054
   autorius: "Teodoras Narbutas"
@@ -679,8 +587,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-014
 
 - id: c-177055
   autorius: "Teodoras Narbutas"
@@ -703,8 +609,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-015
 
 - id: c-179108
   autorius: "Teodoras Narbutas"
@@ -724,8 +628,6 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-016
 
 - id: c-179109
   autorius: "Teodoras Narbutas"
@@ -748,5 +650,252 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-017
+
+- id: c-198484
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 205"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 205."
+  citata_originali: |
+    Latviai tas rupūžes vadino Pieno motinomis
+    (Peenu mahtes), pieno deivėmis. Jų mitologijoje buvo kažko­
+    kia mitinė būtybė, vadintaBrehkina, tai yra rėksne. Pasak Sten-
+    derio, atseit tai buvusi namų senė, sergėjanti naminius žalčius
+    ir rupūžes; ji aprėkdavusi kiekvieną įeinantį, kad nesumindy-
+    tų pieno karalienės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217450
+
+- id: c-198951
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 126"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 126."
+  citata_originali: |
+    Beje, labai gali būti,
+    kad vėlesniais laikais ir stabmeldystei išnykus liaudis klydo api­
+    būdindama dievybių lytį, bet ne čia esmė; tai lengvai ištaiso­
+    ma, jeigu tik atsirastų kokių nors žinių apie šį dalyką.
+    Latviai žinojo šią dievybę kaip Pilviką (Pelwihkse), kitaip
+    Szkahde. Stenderis, tuose savo latvių mitologijos straipsniuo­
+    se saviškai pateikdamas klaidingas išvadas, nutolsta nuo es­
+    mės ir tiesos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217180
+    - t-217598
+
+- id: c-199579
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 299"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 299."
+  citata_originali: |
+    Tokie žyniai, mo­
+    kantys pagarsėti, pritraukia lengvatikius iš tolimesnių ir arti­
+    mesnių apylinkių ir patys, be abejo, savęs nenuskriaudžia. Lat­
+    vijoje ir dabar girdėti apie tokius žmones, sako Stenderis32.
+    Vilkolakis (Wilkats)
+    Latviai šitaip vadina kerėtoją, mokantį pasiversti vilku; mū­
+    sų rusinai tokį vadina Wolkotak, o lietuviai - Witkatas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218461
+
+- id: c-199582
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 95"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 95."
+  citata_originali: |
+    Stenderis (latvių kalbos gramatikos autorius) straipsnyje
+    apie tos tautos mitologiją aiškina mitologinių terminų kilmę
+    su keistu nusistatymu: jokiu būdu nenori pripažinti jų kilmės
+    iš graikų ar lotynų kalbų; nuobodžiausiai stengiasi surasti vie­
+    tinių žodžių, kad tik nereiktų vartoti lotyniškų. Taigi straips­
+    nyje Deews, Dievas, kildina jį iš žodžio dewejs - davėjas, nors
+    Deews yra perimtas iš Dewas, iš originaliosios lietuvių kalbos,
+    kurios šaka yra latvių kalba.
+    Todėl to autoriaus aiškinimai labai dažnai neatitinka tie­
+    sos, nors jis žinojo daug liaudies padavimų ir burtininkų, arba
+    lietuvių bardų, dainų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218564
+
+- id: c-200108
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 177"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 177."
+  citata_originali: |
+    Šitaip ap­
+    leidus dalyką, pradėjo atsirasti dievaičių, vadintų aitvarais (Suc-
+    cubis etlncubis*), kurie, vis dažniau svečiuodamiesi, įniko nak­
+    timis viešai ir dažnai rodytis gyvų žmonių pavidalu. Kankino
+    moteris, gaudė vyrus, užsispyrusius ir nepatinkamus žmones
+    įmesdavo į šulinius, skandindavo upėse, kardavo ant medžių,
+    14 Stender. Lettische Grammatik.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215958
+    - t-218174
+
+- id: c-200562
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 140"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 140."
+  citata_originali: |
+    Atikoje Krono šventė buvo švenčiama Krono garbei he-
+    katombajono (Hekatombeon) mėnesį, kurį anksčiau vadino
+    Krono mėnesiu (Kronius).
+    Užsparinė (Usparinia)
+    Tai buvo žemės ribų deivė, globojanti kampinius kaupus
+    arba sergėjanti sienų neliečiamumą; jų nepažeidžiamumas lie­
+    tuviams buvo šventenybė.
+    Lasickio, aišku, su klaida užrašyta Aspelenie (Užpelenė),
+    nes tą vardą į lotynų kalbą jis verčia Angularis, taigi turėjo
+    būti Usparinie (Užsparinė) arba Susparinie (Sąsparinė)19.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218546
+    - t-219347
+
+- id: c-200811
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 121"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 121."
+  citata_originali: |
+    Tą vakarą nė
+    viena neverpia bijodama, kad lauke neužderės linai arba kad
+    avims susivels vilna. Mano užkampyje nuo Kalėdų iki Naujų­
+    jų metų moterys vakarais neverpia dėl tos pačios priežasties, -
+    tai Laimos šventės liekanos. Stenderis dar sako, kad latviams
+    Lauma reiškia tą patį, ką ir ragana.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216547
+
+- id: c-200877
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 127"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 127."
+  citata_originali: |
+    Minėtasis vyras, išvykdamas į kelio­
+    nes po įvairias šalis, pametė ją visiems laikams. Labai sukrės­
+    ta šio nutikimo, deivė klaidžiojo visur, ieškodama neištikimo
+    vyro; gailios ašaros, kurias ji išliejo, virto gryno aukso lašais.
+    Skandinavai taip pat manė, kad dėl tos kelionės deivė Frėja
+    tapo žinoma įvairiuose kraštuose ir buvo garbinama įvairių
+    tautų.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-201033
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 117"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 117."
+  citata_originali: |
+    Šaukiama tuo pačiu vardu, ji buvo moterų
+    globėja visuose jų gyvenimo nutikimuose, kaip romėnų Dia­
+    na, vadinta Eileitijos, Lucinos ir Genitalės vardais5. Ypač ji
+    globojo skausmingai gimdančias moteris, rūpinosi naujagimio
+    sveikata ir likimu, paduodavo jam žinduką, suvystydavo, ser­
+    gėdavo maudomą. Stenderis sako: dar dabar latviams Lajma
+    reiškia vaikų laimingą likimą arba laimę, kai kuriose dainose
+    ji vadinama Laema mahmina, Laima - motulė arba deivė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217334
+
+- id: c-201127
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 26"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 26."
+  citata_originali: |
+    Daugmaž pagal J. Lasickį apibūdinama
+    Austėja, Datonas, Trotytojas kibirkščių, Bentis, Strutis ir Mie-
+    chutėlė, Priparšis, Gardunytis, Vaižgantas ir daugelis kitų, pa­
+    gal M. Strijkovskį - Gulbis dievas, Šeimynos dievas, Kelio die­
+    vas, Lada deivė ir kt., pagal M. Strijkovskį ir K. Hatknochą -
+    Gardunytis, Pušaitis, Markopoliai ir kt., pagal F. Stenderį -
+    Mėšlų boba, Žemės motina ir 1.1
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219823
+
+- id: c-201453
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 324"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 324."
+  citata_originali: |
+    Latviai ištikimiau išsaugojo senųjų mėnesių atminimą pa­
+    gal skaičiavimą nuo jauno iki jauno mėnulio. Todėl jų mėne­
+    siai neatitinka mūsiškių arba nesutampa su mūsų kalendorių
+    skaičiavimu, nes jų yra trylika. Taip nurodė Stenderis5.
+    Išvardykim mitologinių metų mėnesius eilės tvarka.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218722
+

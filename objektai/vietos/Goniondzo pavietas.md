@@ -43,24 +43,6 @@ historical_names: []
 
 1529 m. Žygimanto Senojo įsaku Goniondzo paviete gyvenę Radvilų bajorai buvo „amžiniems laikams“ atleisti nuo teisinio pavaldumo savo senjorams.
 
-## Teiginiai
-
-<a id="claim-t-204035"></a>
-- t-001
-  teiginys: "1529 m. Žygimanto Senojo įsaku Goniondzo paviete gyvenę Radvilų bajorai buvo „amžiniems laikams“ atleisti nuo teisinio pavaldumo savo senjorams."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  temporaliniai_duomenys: "įvykio data: 1529 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Aiškiai įvardytas įsaką paskelbęs valdovas ir susieta vieta su konkrečia teisine pasekme. Šaltinio vertinamoji formuluotė palikta su kabutėmis."
-  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
-  pagrindžia:
-    - c-186639
-
 ## Citatos
 
 - id: c-186639
@@ -78,5 +60,24 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204035"></a>
+- t-001
+  teiginys: "1529 m. Žygimanto Senojo įsaku Goniondzo paviete gyvenę Radvilų bajorai buvo „amžiniems laikams“ atleisti nuo teisinio pavaldumo savo senjorams."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1529 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Aiškiai įvardytas įsaką paskelbęs valdovas ir susieta vieta su konkrečia teisine pasekme. Šaltinio vertinamoji formuluotė palikta su kabutėmis."
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186639
+

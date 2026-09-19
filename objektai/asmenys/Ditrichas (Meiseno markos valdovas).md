@@ -43,28 +43,6 @@ canonical_biography: "Dusburgietis teigia, kad apie tai, kaip Notangos žemę nu
 
 Dusburgietis teigia, kad apie tai, kaip Notangos žemę nusiaubė Meiseno markos valdovas Ditrichas Kai 1272 viešpaties metais dievas aiškiai pamatė, kaip kamuojama jo tauta Prūsijos žemėje, ir panoro, atėjus tinkamam laikui, pasigailėti savo žmonių, atvyko į Prūsiją su daugybe karių.
 
-## Teiginiai
-
-<a id="claim-t-60263"></a>
-- t-001
-  teiginys: "1272 m. Meiseno markos valdovas Ditrichas atvyko į Prūsiją su daugybe karių ir ketino pulti Notangos žemę."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ditrichas (Meiseno markos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Ditricho atvykimą į Prūsiją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Ditrichas (Meiseno markos valdovas) keliavo į Prūsija (0.95); Ditrichas (Meiseno markos valdovas) surengė žygį į Notanga (0.70)"
-  temporaliniai_duomenys: "kelionės data: 1272 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Ditrichas (Meiseno markos valdovas) keliavo į Prūsija“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, glaustas ir tiesiogiai paremtas citatos duomenimis."
-  pagrindžia:
-    - c-60895
-
 ## Citatos
 
 - id: c-60895
@@ -88,8 +66,27 @@ Dusburgietis teigia, kad apie tai, kaip Notangos žemę nusiaubė Meiseno markos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 ## Ryšiai
 - Ditrichas (Meiseno markos valdovas) keliavo į [[objektai/vietos/Prūsija]]
+
+## Teiginiai
+
+<a id="claim-t-223376"></a>
+- t-001
+  teiginys: "1272 m. Meiseno markos valdovas Ditrichas atvyko į Prūsiją su daugybe karių ir ketino pulti Notangos žemę."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Prūsija: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ditrichas (Meiseno markos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Ditricho atvykimą į Prūsiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Ditrichas (Meiseno markos valdovas) keliavo į Prūsija (0.95); Ditrichas (Meiseno markos valdovas) surengė žygį į Notanga (0.70)"
+  temporaliniai_duomenys: "kelionės data: 1272 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Ditrichas (Meiseno markos valdovas) keliavo į Prūsija“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, glaustas ir tiesiogiai paremtas citatos duomenimis."
+

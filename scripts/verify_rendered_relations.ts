@@ -56,16 +56,31 @@ function htmlPathForSlug(slug: FullSlug): string | null {
 }
 
 function relationsSectionHtml(html: string): string {
-  const start = html.search(/<h2[^>]+id=["']ryšiai["'][^>]*>/i)
-  if (start < 0) return ""
-  const endCandidates = [html.indexOf("<h2 ", start + 5), html.indexOf("</article>", start)].filter((value) => value >= 0)
+  // Object pages render the relations panel as a section with the stable
+  // `id="rysiai"`/`data-object-panel="rysiai"` markers.  Older pages used
+  // an id on the heading itself, so keep that form as a backwards-compatible
+  // fallback while preferring the current object-page structure.
+  const sectionMatch = html.match(/<section[^>]+(?:id=["']rysiai["'][^>]*|data-object-panel=["']rysiai["'][^>]*)>/i)
+  if (sectionMatch?.index !== undefined) {
+    const end = html.indexOf("</section>", sectionMatch.index + sectionMatch[0].length)
+    return html.slice(sectionMatch.index, end >= 0 ? end : html.length)
+  }
+
+  const headingMatch = html.match(/<h2[^>]+id=["']ryšiai["'][^>]*>/i)
+  if (headingMatch?.index === undefined) return ""
+  const endCandidates = [html.indexOf("<h2 ", headingMatch.index + 5), html.indexOf("</article>", headingMatch.index)].filter(
+    (value) => value >= 0,
+  )
   const end = endCandidates.length ? Math.min(...endCandidates) : html.length
-  return html.slice(start, end)
+  return html.slice(headingMatch.index, end)
 }
 
-function hrefTargetSlug(href: string, sourceSlug: FullSlug): string {
+function hrefTargetSlug(href: string, htmlPath: string): string {
   if (!href || href.startsWith("#")) return ""
-  const pagePath = `/${String(simplifySlug(sourceSlug)).replace(/^\/+|\/+$/g, "")}/index.html`
+  // Resolve links against the actual emitted page.  Object emitters write
+  // both a flat `.html` page and a pretty `/index.html` page; their relative
+  // hrefs intentionally differ by one `..` segment.
+  const pagePath = `/${path.relative(publicRoot, htmlPath).split(path.sep).join("/")}`
   let pathname = ""
   try {
     pathname = decodeURI(new URL(href, `https://relations-audit.invalid${pagePath}`).pathname)
@@ -127,7 +142,7 @@ for (const document of documents) {
     // affected by whether the static page is served as /page or /page/.
     const target = dataSlug
       ? String(simplifySlug(decodeURI(dataSlug) as FullSlug))
-      : hrefTargetSlug(href, document.slug)
+      : hrefTargetSlug(href, htmlPath)
     if (target) renderedTargets.add(target)
   }
 

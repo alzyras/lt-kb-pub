@@ -52,18 +52,6 @@ Dotnava minima kaip vieta, su kuria siejami „Dotnavos gudai“ ir Dotnavos gyv
 
 Dotnava šiame šaltinyje yra gyvenvietė ar vietovė.
 
-## Teiginiai
-
-<a id="claim-t-195487"></a>
-- t-001
-  teiginys: "Dotnavoje gyvenantys „Dotnavos gudai“ apibūdinami kaip su vietiniais jau antrą šimtmetį gyvenanti ir kalba bei būdu besiskirianti grupė."
-  atnaujinta: "2026-07-12 04:09"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177907
-
 ## Citatos
 
 - id: c-177907
@@ -79,8 +67,8 @@ Dotnava šiame šaltinyje yra gyvenvietė ar vietovė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-002
 
 - id: c-177908
   autorius: "M. Katkus"
@@ -96,3 +84,28 @@ Dotnava šiame šaltinyje yra gyvenvietė ar vietovė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-195486"></a>
+- t-001
+  teiginys: "Forma „Dotnavietis“ vartojama kaip Dotnavos gyventojo pavadinimas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177908
+
+<a id="claim-t-195487"></a>
+- t-002
+  teiginys: "Dotnavoje gyvenantys „Dotnavos gudai“ apibūdinami kaip su vietiniais jau antrą šimtmetį gyvenanti ir kalba bei būdu besiskirianti grupė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177907
+

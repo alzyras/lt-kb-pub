@@ -39,32 +39,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-204294"></a>
-- t-001
-  teiginys: "Žvėriena, skirtingai nei valstiečių mityboje, buvo neatsiejama bajorų virtuvės dalis."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
-  pagrindžia:
-    - c-186891
-
-<a id="claim-t-204305"></a>
-- t-002
-  teiginys: "XVI a. bajorų medžioklė teikė mėsos žaliavą jų virtuvei."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
-  pagrindžia:
-    - c-186927
-
 ## Santrauka
 
 XVI a. bajorų medžioklė teikė mėsos žaliavą jų virtuvei. Žvėriena, skirtingai nei valstiečių mityboje, buvo neatsiejama bajorų virtuvės dalis.
@@ -93,7 +67,7 @@ XVI a. bajorų medžioklė teikė mėsos žaliavą jų virtuvei. Žvėriena, ski
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186927
@@ -118,5 +92,32 @@ XVI a. bajorų medžioklė teikė mėsos žaliavą jų virtuvei. Žvėriena, ski
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-204294"></a>
+- t-001
+  teiginys: "Žvėriena, skirtingai nei valstiečių mityboje, buvo neatsiejama bajorų virtuvės dalis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  pagrindžia:
+    - c-186891
+
+<a id="claim-t-204305"></a>
+- t-002
+  teiginys: "XVI a. bajorų medžioklė teikė mėsos žaliavą jų virtuvei."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  pagrindžia:
+    - c-186927
+

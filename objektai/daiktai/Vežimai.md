@@ -60,10 +60,34 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-212667"></a>
+- t-212667
+  teiginys: "Narbutas nurodo, kad amaksolių klajokliškos palapinės buvo ištiestos ant vežimų."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197411
+
+<a id="claim-t-215210"></a>
+- t-215210
+  teiginys: "Karališkieji skitai žiemą per ledą vykdavo su vežimais pas sindus."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195642
+
 <a id="claim-t-93001"></a>
-- t-001
+- t-93001
   teiginys: "Jogaila įsakė Lenkijos riteriams pasiimti po vieną tarną ir po vieną vežimą maisto šešioms savaitėms."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -77,9 +101,9 @@ Nenurodyta
     - c-14342
 
 <a id="claim-t-93002"></a>
-- t-002
+- t-93002
   teiginys: "Jogaila įsakė Lenkijos riteriams pasiimti po vieną vežimą maisto šešioms savaitėms."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -93,9 +117,9 @@ Nenurodyta
     - c-14342
 
 <a id="claim-t-93003"></a>
-- t-003
+- t-93003
   teiginys: "Vytautui pakeliui į Trakus nukritus nuo arklio, jis buvo nuvežtas žmonos vežime."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Trakai: 0.91"
   ryšio_patikimumo_lygis: "aukstas"
@@ -136,8 +160,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-93003
 
 - id: c-14342
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -156,6 +180,46 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
+  pagrindžia:
+    - t-93001
+    - t-93002
+
+- id: c-195642
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 393"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 393."
+  citata_originali: |
+    Šalto­
+    mis žiemomis čia užšąla jūra ir tas Kimerų Bosporas;
+    tuomet per ledą būriais traukia skitai, gyvenantys kita­
+    pus kanalo, t. y. karališkieji; su savo vežimais jie darda
+    pas sindus
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215210
+
+- id: c-197411
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 101"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 101."
+  citata_originali: |
+    Tarp šių dviejų tautų bas­
+    tėsi klajoklių amaksolių, arba sarmatų, ordos, neturėju­
+    sios kitokių būstų, o tik klajokliškas palapines, ištiestas
+    ant vežimų. Tai buvo miškinė gyvulių augintojų gentis
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212667
+

@@ -37,17 +37,6 @@ historical_names: []
 
 Dusburgietis teigia, kad 337 D.— Angetete, Jer.— Angetêtin.
 
-## Teiginiai
-
-<a id="claim-t-58680"></a>
-- t-001
-  teiginys: "Angetetos pilis buvo tapatinama su Engelšteinu, dabartiniu Vengelštinu į šiaurės vakarus nuo Mamrų ežero."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-59312
-
 ## Citatos
 
 - id: c-59312
@@ -68,5 +57,4 @@ Dusburgietis teigia, kad 337 D.— Angetete, Jer.— Angetêtin.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

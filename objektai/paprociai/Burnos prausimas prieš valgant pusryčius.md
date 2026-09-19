@@ -71,9 +71,9 @@ Nenurodyta
     - c-177808
 
 <a id="claim-t-195391"></a>
-- t-002
+- t-195391
   teiginys: "Dotnavos gudai, palyginimui, burną nusiprausdavo vos atsikėlę prieš eidami į darbą."
-  atnaujinta: "2026-07-12 02:18"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
@@ -98,8 +98,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-195391
 
 - id: c-177808
   autorius: "M. Katkus"
@@ -115,9 +115,11 @@ Nenurodyta
     pusryčių.
   citata_rodoma: "Pažymėsime vieną mūsų tautišką paprotį: lietuvis prausia burną ne dieną pradėdamas, bet visada eidamas valgyti pusryčių."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -56,10 +56,40 @@ historical_names: []
 
 ## Teiginiai
 
+<a id="claim-t-219861"></a>
+- t-219861
+  teiginys: "T. Volianskis apibūdinamas kaip to meto Poznanės kolekcionierius."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198989
+
+<a id="claim-t-114851"></a>
+- t-114851
+  teiginys: "1925 m. Poznanė siejama su IV visuotiniu Lenkijos istorikų suvažiavimu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Poznanė: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lenkija: mention_match, place, gap=33"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Poznanė\" parinktas kaip owner_note_path. Targetas \"Lenkija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1925 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-105861
+
 <a id="claim-t-114852"></a>
-- t-001
+- t-114852
   teiginys: "Poznanė 1253 m. ėmė tvarkytis pagal vokiečių miestų teises."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vokiečiai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -76,9 +106,9 @@ historical_names: []
     - c-105862
 
 <a id="claim-t-114853"></a>
-- t-002
+- t-114853
   teiginys: "Martinas Galias pasakoja, kad Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gnieznas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -92,9 +122,9 @@ historical_names: []
     - c-105860
 
 <a id="claim-t-114855"></a>
-- t-003
+- t-114855
   teiginys: "Laurynas Goslickis buvo karaliaus Stepono sekretorius, vėliau tapo Poznanės vyskupu."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Anglai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -108,9 +138,9 @@ historical_names: []
     - c-105863
 
 <a id="claim-t-114856"></a>
-- t-004
+- t-114856
   teiginys: "Jonas II 1536 m. buvo perkeltas į Poznanės vyskupiją ir mirė 1538 m., sulaukęs 40 metų."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jonas II: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -127,9 +157,9 @@ historical_names: []
     - c-105865
 
 <a id="claim-t-114857"></a>
-- t-005
+- t-114857
   teiginys: "Jonas II 1519 m. paskelbtas Vilniaus vyskupu, 1536 m. perkeltas į Poznanės vyskupiją, o 1538 m. mirė sulaukęs 40 metų."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jonas II: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -146,9 +176,9 @@ historical_names: []
     - c-105865
 
 <a id="claim-t-114858"></a>
-- t-006
+- t-114858
   teiginys: "Kroniką „Lechitów i Polaków“ parašė Poznanės kustodas Godzislovas Baško."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> kustodas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -164,9 +194,9 @@ historical_names: []
     - c-105859
 
 <a id="claim-t-114860"></a>
-- t-007
+- t-114860
   teiginys: "Laurynas Goslickis, buvęs karaliaus Stepono sekretorius, galiausiai tapo Poznanės vyskupu."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Anglai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -180,9 +210,9 @@ historical_names: []
     - c-105863
 
 <a id="claim-t-114861"></a>
-- t-008
+- t-114861
   teiginys: "Didžioji Lenkija su Poznane buvo viena iš dviejų Lenkijos provincijų."
-  atnaujinta: "2026-05-31 12:52"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lenkija: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -197,9 +227,9 @@ historical_names: []
     - c-24404
 
 <a id="claim-t-114862"></a>
-- t-009
+- t-114862
   teiginys: "Boleslovo laikais Krušvica, Poznanė ir kiti Didžiosios Lenkijos miestai garsėjo turtais ir gyventojų gausa."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -213,9 +243,9 @@ historical_names: []
     - c-105868
 
 <a id="claim-t-114863"></a>
-- t-010
+- t-114863
   teiginys: "Martino Galiaus pasakojimu, Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gnieznas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -229,9 +259,9 @@ historical_names: []
     - c-105860
 
 <a id="claim-t-114864"></a>
-- t-011
+- t-114864
   teiginys: "„Kronika Lechitów i Polaków“ buvo parašyta Poznanės kustodo Godzislavo Baško."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Gniezno: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -248,9 +278,9 @@ historical_names: []
     - c-105859
 
 <a id="claim-t-194988"></a>
-- t-012
+- t-194988
   teiginys: "RDzSG = Roczniki Dziejów Społecznych i Gospodarczych, Poznanė."
-  atnaujinta: "2026-07-06 12:57"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -278,8 +308,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
+  pagrindžia:
+    - t-114861
 
 - id: c-105859
   autorius: "Michał Baliński"
@@ -307,9 +337,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
-    - t-011
+  pagrindžia:
+    - t-114858
+    - t-114864
 
 - id: c-105860
   autorius: "Michał Baliński"
@@ -331,9 +361,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-010
+  pagrindžia:
+    - t-114853
+    - t-114863
 
 - id: c-105861
   autorius: "Zenonas Ivinskis"
@@ -352,6 +382,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-114851
+
 - id: c-105862
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -374,8 +407,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-114852
 
 - id: c-105863
   autorius: "Michał Baliński"
@@ -405,9 +438,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-    - t-007
+  pagrindžia:
+    - t-114855
+    - t-114860
 
 - id: c-105865
   autorius: "Michał Baliński"
@@ -429,9 +462,9 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
-    - t-005
+  pagrindžia:
+    - t-114856
+    - t-114857
 
 - id: c-105868
   autorius: "Michał Baliński"
@@ -460,8 +493,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
+  pagrindžia:
+    - t-114862
 
 - id: c-177372
   autorius: "Zenonas Ivinskis"
@@ -479,5 +512,25 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-012
+  pagrindžia:
+    - t-194988
+
+- id: c-198989
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 65"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 65."
+  citata_originali: |
+    Tadas Volianskis - garsus to meto Poznanės kolekcionie­
+    rius (vėliau didžioji jo rinkinių dalis atsidūrė Peterburge), nu­
+    mizmatikos specialistas -1845 metais spaudoje paskelbė savo
+    atvirus laiškus T. Narbutui43.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219861
+

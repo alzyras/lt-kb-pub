@@ -34,29 +34,6 @@ media_all_json: |-
 
 Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas batalionas ir trys kompanijos (kuopos), Pskovo muškietininkų pulko du batalionai, Dono kazokų pulkas, keturios lauko artilerijos kompanijos (kuopos) ir keletas kitų smulkesnių dalinių.
 
-## Teiginiai
-
-<a id="claim-t-78166"></a>
-- t-001
-  teiginys: "1794 m. balandžio 23 d. lietuviams puolant Vilnių, Dono kazokų pulkas buvo rusų įgulos dalis."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Rusai: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Dono kazokų pulkas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Rusai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Dono kazokų pulkas buvo rusų įgulos dalis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Dono kazokų pulkas priklausė Rusai (0.90); Lietuviai puolė Rusai (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1794 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia Dono kazokų pulko buvimą Vilniaus rusų įguloje."
-  pagrindžia:
-    - c-75471
-    - c-75472
-
 ## Citatos
 
 - id: c-75471
@@ -83,7 +60,7 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-75472
@@ -116,8 +93,32 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Dono kazokų pulkas priklausė [[objektai/grupes/Rusai]]
+
+## Teiginiai
+
+<a id="claim-t-78166"></a>
+- t-001
+  teiginys: "1794 m. balandžio 23 d. lietuviams puolant Vilnių, Dono kazokų pulkas buvo rusų įgulos dalis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Rusai: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Dono kazokų pulkas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Rusai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Dono kazokų pulkas buvo rusų įgulos dalis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Dono kazokų pulkas priklausė Rusai (0.90); Lietuviai puolė Rusai (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1794 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia Dono kazokų pulko buvimą Vilniaus rusų įguloje."
+  pagrindžia:
+    - c-75471
+    - c-75472
+

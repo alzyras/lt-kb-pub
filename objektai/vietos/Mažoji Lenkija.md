@@ -47,10 +47,22 @@ Mažoji Lenkija šiame šaltinyje minima ir kaip pietinės Lenkijos ponų erdvė
 
 ## Teiginiai
 
+<a id="claim-t-207793"></a>
+- t-207793
+  teiginys: "Anoniminio rankraščio autorius apibūdinamas kaip kilęs iš Mažosios Lenkijos."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190410
+
 <a id="claim-t-73261"></a>
-- t-001
+- t-73261
   teiginys: "Vytautas atkeldino benediktinus į Senuosius Trakus iš Mažosios Lenkijos."
-  atnaujinta: "2026-05-31 11:59"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -81,5 +93,26 @@ Mažoji Lenkija šiame šaltinyje minima ir kaip pietinės Lenkijos ponų erdvė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-73261
+
+- id: c-190410
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 99"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 99."
+  citata_originali: |
+    Tai patvirtina ir užrašas ant šio rankraščio
+    viršelio: „1562 m. Piotrkavo seimas ir tai, kas vyko pusantrų metų iki seimo".
+    Oskaras Haleckis rašo, kad šio rankraščio autorius buvęs Karūnos bajoras, kilęs iš
+    Mažosios Lenkijos.
+  citata_rodoma: "Oskaras Haleckis rašo, kad šio rankraščio autorius buvęs Karūnos bajoras, kilęs iš\nMažosios Lenkijos."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207793
+

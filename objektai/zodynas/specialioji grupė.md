@@ -27,18 +27,6 @@ media_all_json: |-
 
 Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose specialiosiose grupėse, kurioms paprastai vadovaudavo koks nors operatyvininkas.
 
-## Teiginiai
-
-<a id="claim-t-42509"></a>
-- t-001
-  teiginys: "Saugumo majoro Aleksejaus Sokolovo suformuotoms specialiosioms grupėms paprastai vadovaudavo operatyvininkas."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
-  pagrindžia:
-    - c-45547
-
 ## Citatos
 
 - id: c-45547
@@ -59,5 +47,18 @@ Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose vadinamosiose 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-42509"></a>
+- t-001
+  teiginys: "Saugumo majoro Aleksejaus Sokolovo suformuotoms specialiosioms grupėms paprastai vadovaudavo operatyvininkas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-14T07:59:13Z"
+  pagrindžia:
+    - c-45547
+

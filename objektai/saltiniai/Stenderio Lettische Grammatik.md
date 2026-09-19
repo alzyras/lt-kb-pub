@@ -26,28 +26,6 @@ media_all_json: |-
 
 Remdamasis Stenderio „Lettische Grammatik“, Narbutas Eduhkos vardą siejo su latvių kalba ir herulų žodžiu „duhkt“.
 
-## Teiginiai
-
-<a id="claim-t-191814"></a>
-- t-001
-  teiginys: "Remdamasis Stenderio „Lettische Grammatik“, Narbutas Eduhkos vardą siejo su latvių kalba ir herulų žodžiu „duhkt“."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Herulai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Stenderio Lettische Grammatik: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Herulai: mention_match, group, gap=81"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stenderio Lettische Grammatik\" parinktas kaip owner_note_path. Targetas \"Herulai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-174696
-
 ## Citatos
 
 - id: c-174696
@@ -68,5 +46,48 @@ Remdamasis Stenderio „Lettische Grammatik“, Narbutas Eduhkos vardą siejo su
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-197431
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 317"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 317."
+  citata_originali: |
+    Odoakras,
+    tapęs karaliumi, prisiminė šią pranašystę ir pažadėjo
+    1 Šio vado vardas gali, būti kildinamas iš latvių kalbos; jis dia­
+    lekto atžvilgiu yra artimiausias herulų žodžiui duhkt, virti, griaudėti,
+    kelti triukšmą (Stender. Lettische Gramm. S. 37). „E“ yra prieš-
+    vardinis garsas, paverčiantis siekinį daiktavardžiu; taip Eduhka reiš­
+    kia ūmų, aistringai bet kokio žygio besiimantį žmogų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-215700"></a>
+- t-001
+  teiginys: "Remdamasis Stenderio „Lettische Grammatik“, Narbutas Eduhkos vardą siejo su latvių kalba ir herulų žodžiu „duhkt“."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Herulai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Stenderio Lettische Grammatik: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Herulai: mention_match, group, gap=81"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Stenderio Lettische Grammatik\" parinktas kaip owner_note_path. Targetas \"Herulai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-197431
+

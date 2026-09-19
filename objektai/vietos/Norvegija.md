@@ -52,31 +52,6 @@ Norvegija šiame šaltinyje minima kaip viena Augusto Roberto Niemio darbo viet�
 
 Norvegija šiame šaltinyje yra valstybė.
 
-## Teiginiai
-
-<a id="claim-t-195655"></a>
-- t-001
-  teiginys: "1899 m. Augustas Robertas Niemi dirbo Norvegijos knygynuose."
-  atnaujinta: "2026-07-12 09:30"
-  sprendimo_priezastis: "gap::places"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178056
-
-<a id="claim-t-201092"></a>
-- t-002
-  teiginys: "Nukeliavęs į vietovę, Kantium (Kanterbury) va dinamą, aplankė vieną dalį Anglijos, nuo ten irkla vo į pašalius žemės, vadinamos Thula (Norvegija), arba Skandija, paskui, irkluodamas juo į pietus linkant Baltijos, arba Žemaičių, jūros, atkeliavo į že maičių."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
-  pagrindžia:
-    - c-184442
-
 ## Citatos
 
 - id: c-178056
@@ -112,7 +87,7 @@ Norvegija šiame šaltinyje yra valstybė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184442
@@ -148,5 +123,31 @@ Norvegija šiame šaltinyje yra valstybė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-195655"></a>
+- t-001
+  teiginys: "1899 m. Augustas Robertas Niemi dirbo Norvegijos knygynuose."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::places"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-178056
+
+<a id="claim-t-201092"></a>
+- t-002
+  teiginys: "Nukeliavęs į vietovę, Kantium (Kanterbury) va dinamą, aplankė vieną dalį Anglijos, nuo ten irkla vo į pašalius žemės, vadinamos Thula (Norvegija), arba Skandija, paskui, irkluodamas juo į pietus linkant Baltijos, arba Žemaičių, jūros, atkeliavo į že maičių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  vertinimo_atnaujinta: "2026-06-14T07:46:03Z"
+  pagrindžia:
+    - c-184442
+

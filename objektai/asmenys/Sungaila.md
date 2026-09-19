@@ -34,25 +34,6 @@ canonical_biography: "Kiti vadai buvo maršalas Čupurna, per Žemaičių sukili
 
 Kiti vadai buvo maršalas Čupurna, per Žemaičių sukilimą pagarsėjęs Rumbaudas, Kauno seniūnas Sungaila, Ukmergės — Kinsgaila ir kt.
 
-## Teiginiai
-
-<a id="claim-t-30386"></a>
-- t-001
-  teiginys: "Sungaila buvo Kauno seniūnas ir vienas iš Žalgirio kautynių vadų."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_miesta -> Kaunas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sungaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kauno seniūno pareigos tiesiogiai sieja Sungailą su Kauno valdymu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Sungaila valdė miestą Kaunas (0.82)"
-  pagrindžia:
-    - c-32802
-
 ## Citatos
 
 - id: c-32802
@@ -76,5 +57,25 @@ Kiti vadai buvo maršalas Čupurna, per Žemaičių sukilimą pagarsėjęs Rumba
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-30386"></a>
+- t-001
+  teiginys: "Sungaila buvo Kauno seniūnas ir vienas iš Žalgirio kautynių vadų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_miesta -> Kaunas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sungaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kaunas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kauno seniūno pareigos tiesiogiai sieja Sungailą su Kauno valdymu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Sungaila valdė miestą Kaunas (0.82)"
+  pagrindžia:
+    - c-32802
+

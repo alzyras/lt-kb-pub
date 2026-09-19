@@ -36,41 +36,6 @@ historical_names: []
 
 Nemažas būrys, vadovaujamas paties Vinricho, su­ deginęs visus valsčius nuo Labūnavos iki pat Kernavės ir Maišiagalos, priartėjo prie Vilniaus pilių. Netrukus po to Ordino maršalas, vedinas 40 000 kryžiuočių kariauna, įsibrovė į Lie­ tuvą ir, susijungęs su Vytauto pulkais, užėmė Kernavę ir Maišiagalą, o prie pat sostinės su karių likučiais nusiaubė aplinkines žemes.
 
-## Teiginiai
-
-<a id="claim-t-183861"></a>
-- t-001
-  teiginys: "Ordino maršalas, susijungęs su Vytauto pulkais, užėmė Kernavę ir Maišiagalą."
-  atnaujinta: "2026-06-13 17:01"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "uzeme -> Kernavė: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kernavė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Ordino maršalo vadovaujama kryžiuočių kariauna tiesiogiai įvardyta kaip užėmusi Kernavę."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Kryžiuočių ordinas užėmė Kernavė (0.82); Kryžiuočių ordinas užėmė Maišiagala (0.82)"
-  pagrindžia:
-    - c-167246
-
-<a id="claim-t-205792"></a>
-- t-002
-  teiginys: "Teodoras Narbutas, aptardamas Dlugošo pranešimą, svarstė, kad prie Veliuonos žuvusio Gedimino kūnas galėjo būti sudegintas prie Maišiagalos, o pelenai užkasti pilkapyje prie Vilniaus."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
-  pagrindžia:
-    - c-188407
-
 ## Citatos
 
 - id: c-167246
@@ -98,8 +63,8 @@ Nemažas būrys, vadovaujamas paties Vinricho, su­ deginęs visus valsčius nuo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-183861
 
 - id: c-188407
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -120,8 +85,83 @@ Nemažas būrys, vadovaujamas paties Vinricho, su­ deginęs visus valsčius nuo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-205792
+
+- id: c-190211
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 116"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 116."
+  citata_originali: |
+    Kęstutis po
+    žūties Krėvos pilyje – 1382 m. Vilniuje, o Algirdas – šiek tiek anksčiau, 1377 m. Kukuvei-
+    čio miške šalia Maišiagalos.
+    2002 m. archeologas Vykintas Vaitkevičius, žinomas pagoniškų šventviečių ieškoto-
+    jas ir tyrėjas, lokalizavo Kukaveičio lauką (tokį žino XVIII a. dokumentai) ir suformulavo
+    hipotezę, kad būtent čia reikia ieškoti Algirdo sudeginimo vietos.
+  citata_rodoma: "is po \nžūties Krėvos pilyje – 1382 m. Vilniuje, o Algirdas – šiek tiek anksčiau, 1377 m. Kukuvei-\nčio miške šalia Maišiagalos.\n2002"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
 
 ## Ryšiai
 - Užėmė Maišiagalą: [[objektai/asmenys/Engelhardas Rabė]], [[objektai/grupes/Kryžiuočių ordinas]]
+
+## Teiginiai
+
+<a id="claim-t-207594"></a>
+- t-001
+  teiginys: "Alfredas Bumblauskas Algirdo žūtį sieja su 1377 m. Kukuveičio mišku šalia Maišiagalos."
+  atnaujinta: "2026-09-13 23:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1377 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įtraukta autoriaus atribucija ir išlaikytas šaltinio atsargus žūties vietos siejimas, neperžengiant pateiktos ištraukos."
+  vertinimo_atnaujinta: "2026-08-19T00:09:52Z"
+  pagrindžia:
+    - c-190211
+
+<a id="claim-t-183861"></a>
+- t-183861
+  teiginys: "Ordino maršalas, susijungęs su Vytauto pulkais, užėmė Kernavę ir Maišiagalą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "uzeme -> Kernavė: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kernavė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Ordino maršalo vadovaujama kryžiuočių kariauna tiesiogiai įvardyta kaip užėmusi Kernavę."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Kryžiuočių ordinas užėmė Kernavė (0.82); Kryžiuočių ordinas užėmė Maišiagala (0.82)"
+  pagrindžia:
+    - c-167246
+
+<a id="claim-t-205792"></a>
+- t-205792
+  teiginys: "Teodoras Narbutas, aptardamas Dlugošo pranešimą, svarstė, kad prie Veliuonos žuvusio Gedimino kūnas galėjo būti sudegintas prie Maišiagalos, o pelenai užkasti pilkapyje prie Vilniaus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188407
+

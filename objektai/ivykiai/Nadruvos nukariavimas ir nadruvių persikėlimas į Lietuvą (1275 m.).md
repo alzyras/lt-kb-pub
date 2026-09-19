@@ -46,21 +46,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-205997"></a>
-- t-001
-  teiginys: "Teodoro Narbuto aprašyme 1275 m. kryžiuočiai, vadovaujami Konrado Tirbergo, visiškai nuniokojo Nadruvą, o Kamsvikės tvirtovės pasidavimas panaikino paskutinę gyventojų galimybę gintis."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188612
-
 ## Santrauka
 
 Teodoro Narbuto aprašyme 1275 m. kryžiuočiai, vadovaujami Konrado Tirbergo, visiškai nuniokojo Nadruvą, o Kamsvikės tvirtovės pasidavimas panaikino paskutinę gyventojų galimybę gintis.
@@ -93,5 +78,21 @@ Teodoro Narbuto aprašyme 1275 m. kryžiuočiai, vadovaujami Konrado Tirbergo, v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205997"></a>
+- t-001
+  teiginys: "Teodoro Narbuto aprašyme 1275 m. kryžiuočiai, vadovaujami Konrado Tirbergo, visiškai nuniokojo Nadruvą, o Kamsvikės tvirtovės pasidavimas panaikino paskutinę gyventojų galimybę gintis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188612
+

@@ -45,21 +45,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206076"></a>
-- t-001
-  teiginys: "1316 m. sausį, po Vytenio mirties, Gediminas buvo iškeltas į tėvo sostą, dalyvaujant Gvaželučiui ir Vainiui; Teodoras Narbutas šią apeigą aiškina kaip jo pripažinimą aukščiausiuoju valdytoju."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188691
-
 ## Santrauka
 
 1316 m. sausį, po Vytenio mirties, Gediminas buvo iškeltas į tėvo sostą, dalyvaujant Gvaželučiui ir Vainiui; Teodoras Narbutas šią apeigą aiškina kaip jo pripažinimą aukščiausiuoju valdytoju.
@@ -85,5 +70,21 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206076"></a>
+- t-001
+  teiginys: "1316 m. sausį, po Vytenio mirties, Gediminas buvo iškeltas į tėvo sostą, dalyvaujant Gvaželučiui ir Vainiui; Teodoras Narbutas šią apeigą aiškina kaip jo pripažinimą aukščiausiuoju valdytoju."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188691
+

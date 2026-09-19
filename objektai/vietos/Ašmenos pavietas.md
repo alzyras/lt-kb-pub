@@ -42,28 +42,6 @@ historical_names: []
 
 Katilas, mobilizacijos vieta jai buvo paskirta Vileikos miestelio apylinkės Ašmenos paviete.
 
-## Teiginiai
-
-<a id="claim-t-80615"></a>
-- t-001
-  teiginys: "M. K. Katilo telktai Baltosios Rusios bajorijai mobilizacijos vieta buvo paskirta Vileikos miestelio apylinkėse Ašmenos paviete."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Ašmenos pavietas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vileika: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Ašmenos pavietas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vileikos apylinkės tiesiogiai lokalizuotos Ašmenos paviete."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vileika priklausė Ašmenos pavietas (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1700 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminis teiginys buvo fragmentiškas; citata leidžia suformuluoti pilną sakinį."
-  pagrindžia:
-    - c-77316
-
 ## Citatos
 
 - id: c-77316
@@ -92,5 +70,28 @@ Katilas, mobilizacijos vieta jai buvo paskirta Vileikos miestelio apylinkės Aš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-80615"></a>
+- t-001
+  teiginys: "M. K. Katilo telktai Baltosios Rusios bajorijai mobilizacijos vieta buvo paskirta Vileikos miestelio apylinkėse Ašmenos paviete."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Ašmenos pavietas: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vileika: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Ašmenos pavietas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vileikos apylinkės tiesiogiai lokalizuotos Ašmenos paviete."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vileika priklausė Ašmenos pavietas (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1700 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis teiginys buvo fragmentiškas; citata leidžia suformuluoti pilną sakinį."
+  pagrindžia:
+    - c-77316
+

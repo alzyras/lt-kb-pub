@@ -46,22 +46,6 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 
 ## Teiginiai
 
-<a id="claim-t-181255"></a>
-- t-001
-  teiginys: "Švedų antplūdžio metu sunykus protestantų mokykloms, Biržuose liko silpna mokyklėlė."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Kėdainiai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Biržai: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Kėdainiai: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Biržai\" parinktas kaip owner_note_path. Targetas \"Kėdainiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-164818
-
 <a id="claim-t-183001"></a>
 - t-002
   teiginys: "Viena Radvilų šeimos šaka turėjo centrus Biržuose ir Kėdainiuose."
@@ -81,6 +65,46 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   pagrindžia:
     - c-166396
 
+<a id="claim-t-215142"></a>
+- t-215142
+  teiginys: "Biržų parapijoje pamaldos vyko vokiečių ir latvių kalbomis."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194825
+
+<a id="claim-t-181255"></a>
+- t-181255
+  teiginys: "Švedų antplūdžio metu sunykus protestantų mokykloms, Biržuose liko silpna mokyklėlė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Kėdainiai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Biržai: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Kėdainiai: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Biržai\" parinktas kaip owner_note_path. Targetas \"Kėdainiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-164818
+
+<a id="claim-t-208303"></a>
+- t-208303
+  teiginys: "Ratomskio Vilniaus žemės teisme atliktą apklausą, iš kurios aiškėjo, jog šis vogė įvairius daiktus (laikrodžius, pini gus, brangenybes, drabužius, indus) Vilniuje, Biržuose ir kitose."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190852
+
 ## Citatos
 
 - id: c-164818
@@ -99,8 +123,8 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-181255
 
 - id: c-166396
   redaktorius: "A. Šapoka"
@@ -117,9 +141,52 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     Radvilų šeimos buvo dvi šakos. Vienos centras buvo Biržai
     ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-190852
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 215"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 215."
+  citata_originali: |
+    Kauno pilies teismas kalėjimo bausmę taikė keturiuose sprendimuose šešių
+    asmenų atžvilgiu. Dar tais pačiais 1782 m. ir pasirėmus minėtuoju Nuolatinės
+    tarybos nurodymu kalėjimo iki gyvos galvos bausmė buvo skirta vagiui - ne­
+    žinomo luomo asmeniui Juozapui Ratomskiui U ózef Ratomski), pagautam, kai
+    bandė patekti į Darsūniškio seniūno Ignoto Oginskio (Ignacy Oginski) rūmus
+    Strėvininkuose. Kaltintojas pasitelkė minėtojo J. Ratomskio Vilniaus žemės teisme
+    atliktą apklausą, iš kurios aiškėjo, jog šis vogė įvairius daiktus (laikrodžius, pini­
+    gus, brangenybes, drabužius, indus) Vilniuje, Biržuose ir kitose vietose.
+  citata_rodoma: "Kaltintojas pasitelkė minėtojo J. Ratomskio Vilniaus žemės teisme \natliktą apklausą, iš kurios aiškėjo, jog šis vogė įvairius daiktus (laikrodžius, pini­\ngus, brangenybes, drabužius, indus) Vilniuje, Biržuose ir kitose"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208303
+
+- id: c-194825
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 291"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 291."
+  citata_originali: |
+    ypač dviejose liuteroniškose
+    Žeimelio ir Biržų parapijose, kur pamaldos vyksta ne
+    tik vokiečių, bet ir latvių kalbomis
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215142
+

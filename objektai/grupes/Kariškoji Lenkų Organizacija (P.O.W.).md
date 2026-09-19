@@ -28,34 +28,6 @@ media_all_json: |-
 
 Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta į 13 apskričių, kurių kiekvienoje dar buvo po 3—4 tos organizacijos komendantūras. Sąmokslininkai tikėjosi nors keletai valandų paimti valdžią į savo rankas, o toliau turėjo ateiti jau Lenkų kariuomenė. centre (Kau- ne), kur buvo rastas organizacijos archyvas su narių sąrašais, šnipinėjimo, organizacijos ir kitais dokumentais.
 
-## Teiginiai
-
-<a id="claim-t-72110"></a>
-- t-001
-  teiginys: "P.O.W. sąmokslininkai tikėjosi kelioms valandoms paimti valdžią, kol ateis Lenkijos kariuomenė."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-70527
-
-<a id="claim-t-72112"></a>
-- t-002
-  teiginys: "Kariškoji Lenkų Organizacija, instruktuojama ir finansuojama iš okupuoto Vilniaus, šnipinėjo Lietuvos kariuomenę ir verbavo narius."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kariškoji Lenkų Organizacija (P.O.W.): owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=10"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kariškoji Lenkų Organizacija (P.O.W.)\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-70525
-
 ## Citatos
 
 - id: c-70525
@@ -82,7 +54,7 @@ Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-70527
@@ -108,5 +80,34 @@ Organizacijos centras buvo Kaune; visa nepriklausomoji Lietuva buvo suskirstyta 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-72110"></a>
+- t-001
+  teiginys: "P.O.W. sąmokslininkai tikėjosi kelioms valandoms paimti valdžią, kol ateis Lenkijos kariuomenė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-70527
+
+<a id="claim-t-72112"></a>
+- t-002
+  teiginys: "Kariškoji Lenkų Organizacija, instruktuojama ir finansuojama iš okupuoto Vilniaus, šnipinėjo Lietuvos kariuomenę ir verbavo narius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Kariškoji Lenkų Organizacija (P.O.W.): owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Lenkai: mention_match, group, gap=10"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kariškoji Lenkų Organizacija (P.O.W.)\" parinktas kaip owner_note_path. Targetas \"Lenkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-70525
+

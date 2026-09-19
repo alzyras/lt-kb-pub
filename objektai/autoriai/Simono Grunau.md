@@ -34,49 +34,6 @@ canonical_biography: "Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė laba
 
 Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amžiaus kompiliatorius Simonas Grunau. Daugelį vėliau suklaidino XVI amž. fantasto kronikininko Simono Grunau paskelbti pagonių rašmens, kuriuos kiti iki XX amž. pradžios nekritiškai kartojo^2. 97 Grunau S., kronikininkas 58, 145, 205, 243, 294 Grünhagen C.
 
-## Teiginiai
-
-<a id="claim-t-30981"></a>
-- t-001
-  teiginys: "Simonas Grunau rodyklėje nurodytas kaip kronikininkas."
-  atnaujinta: "2026-07-26 23:35"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-33141
-
-<a id="claim-t-30982"></a>
-- t-002
-  teiginys: "Simonas Grunau paskelbė pagonių rašmenis, kuriuos kiti iki XX a. pradžios nekritiškai kartojo."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Simonas Grunau: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Simono Grunau: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Simonas Grunau: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Simono Grunau\" parinktas kaip owner_note_path. Targetas \"Simonas Grunau\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-33141
-
-<a id="claim-t-30983"></a>
-- t-003
-  teiginys: "Simonas Grunau pirmasis įvedė pavadinimą „Criwe-Kirwaito“."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Simonas Grunau: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Simono Grunau: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Simonas Grunau: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Simono Grunau\" parinktas kaip owner_note_path. Targetas \"Simonas Grunau\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-33140
-
 ## Citatos
 
 - id: c-33140
@@ -98,7 +55,7 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-33141
@@ -115,11 +72,12 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
     rašmens, kuriuos kiti iki XX amž. pradžios nekritiškai kartojo^2.
   citata_rodoma: "Daugelį vėliau suklaidino\nXVI amž. fantasto kronikininko Simono Grunau paskelbti pagonių\nrašmens, kuriuos kiti iki XX amž. pradžios nekritiškai kartojo^2."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -173,3 +131,57 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-30981"></a>
+- t-001
+  teiginys: "Simonas Grunau rodyklėje nurodytas kaip kronikininkas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Simonas Grunau: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Simono Grunau: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Simonas Grunau: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Simono Grunau\" parinktas kaip owner_note_path. Targetas \"Simonas Grunau\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-33141
+    - c-33142
+
+<a id="claim-t-30982"></a>
+- t-002
+  teiginys: "Simonas Grunau paskelbė pagonių rašmenis, kuriuos kiti iki XX a. pradžios nekritiškai kartojo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Simonas Grunau: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Simono Grunau: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Simonas Grunau: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Simono Grunau\" parinktas kaip owner_note_path. Targetas \"Simonas Grunau\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-33141
+
+<a id="claim-t-30983"></a>
+- t-003
+  teiginys: "Simonas Grunau pirmasis įvedė pavadinimą „Criwe-Kirwaito“."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Simonas Grunau: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Simono Grunau: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Simonas Grunau: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Simono Grunau\" parinktas kaip owner_note_path. Targetas \"Simonas Grunau\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-33140
+

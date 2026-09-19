@@ -44,50 +44,70 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
 
 ## Teiginiai
 
-<a id="claim-t-191536"></a>
-- t-001
-  teiginys: "Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum pavadinimo ryšį su Baltijos pakrančių gyventojais."
-  atnaujinta: "2026-07-12 22:34"
+<a id="claim-t-215419"></a>
+- t-007
+  teiginys: "Sabinas manė jį buvus vė javaikį jauną valdovą, kurį nubaudęs Dievas, o Bajeris įžvelgė jame prie Juodosios jūros buvusių kolonijų pirk lį, kurio laivas, plaukdamas į gintaro kraštą, sudužo, ir jis nuskendo jūroje."
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bajeris: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=93"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bajeris\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-174418
+    - c-195950
 
-<a id="claim-t-191537"></a>
-- t-002
-  teiginys: "Bajeris manė, kad Kulmo provincijos pavadinimas, svetimšalių taikytas ir kryžiuočių Prūsijai, vartotas gana seniai."
-  atnaujinta: "2026-07-12 22:34"
+<a id="claim-t-213065"></a>
+- t-213065
+  teiginys: "Bajeris, savaip aiškinęs šį už rašą3, bando dirbtinai įtikinti, kad turėjo būti Grikija, t."
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Bajeris: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=73"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bajeris\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-174419
+    - c-194593
 
-<a id="claim-t-191538"></a>
-- t-003
+<a id="claim-t-213857"></a>
+- t-213857
+  teiginys: "Narbutas nurodo, kad senovės tyrinėtojai Bajeris ir Naruševičius aptiko gelonų-budinų buvimo pėdsakų Sniatyno apylinkėse."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195709
+
+<a id="claim-t-215224"></a>
+- t-215224
+  teiginys: "Narbutas nurodo, kad Bajerio aiškinimu gelonų ir budinų kraštas galėjo būti Polesėje, senovės Kulmo žemėje ir Lietuvos Brastos vaivadijoje."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196321
+
+<a id="claim-t-213908"></a>
+- t-213908
+  teiginys: "Wigancli Episcopi Pomesatiiensis de Succino, alce et herbis iri Prussia nascentibus libri\", išleistą 1590 metais Jenoje; Bajeris ją norėjo įdėti į savo „Monumentą Prussica“."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194827
+
+<a id="claim-t-214674"></a>
+- t-214674
   teiginys: "Teodoro Narbuto pasakojime Bajeris norėjo 1590 m. Jenoje išleistą knygelę apie gintarą, briedį ir Prūsijos žoles įtraukti į „Monumentą Prussica“."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -104,25 +124,49 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra konkretus sakinys apie Bajerio ketinimą įtraukti 1590 m. Jenoje išleistą knygelę. Nepridėta nieko, ko nėra citatoje."
   vertinimo_atnaujinta: "2026-07-04T16:15:14Z"
-  pagrindžia:
-    - c-174420
 
-<a id="claim-t-197583"></a>
-- t-004
-  teiginys: "Wigancli Episcopi Pomesatiiensis de Succino, alce et herbis iri Prussia nascentibus libri\", išleistą 1590 metais Jenoje; Bajeris ją norėjo įdėti į savo „Monumentą Prussica“."
-  atnaujinta: "2026-07-12 22:33"
+<a id="claim-t-215302"></a>
+- t-215302
+  teiginys: "Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum pavadinimo ryšį su Baltijos pakrančių gyventojais."
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Baltija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bajeris: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Baltija: mention_match, place, gap=93"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bajeris\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-179252
+    - c-195805
+
+<a id="claim-t-215860"></a>
+- t-215860
+  teiginys: "Bajeris manė, kad Kulmo provincijos pavadinimas, svetimšalių taikytas ir kryžiuočių Prūsijai, vartotas gana seniai."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Bajeris: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group, gap=73"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Bajeris\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
 
 <a id="claim-t-205155"></a>
-- t-005
+- t-205155
   teiginys: "Galpp Bajeris mano, kad tai pavaizduotos iš iberų nusižiūrėtos raidės."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -133,9 +177,9 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
     - c-187791
 
 <a id="claim-t-205222"></a>
-- t-006
+- t-205222
   teiginys: "Vėliau Bajeris irgi į tuos pačius dalykus atkreipė dėmesį1 2."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -180,8 +224,6 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-174419
   autorius: "Teodoras Narbutas"
@@ -201,8 +243,6 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-174420
   autorius: "Teodoras Narbutas"
@@ -224,8 +264,6 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-179252
   autorius: "Teodoras Narbutas"
@@ -245,8 +283,6 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
 
 - id: c-187791
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -264,8 +300,8 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-205155
 
 - id: c-188012
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -283,5 +319,138 @@ Bajeris, Narbuto teigimu, patvirtino Adomo Bremeniečio požiūrį į Balticum p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-205222
+
+- id: c-194593
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 257-258"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 257-258."
+  citata_originali: |
+    Bajeris, savaip aiškinęs šį už­
+    rašą3, bando dirbtinai įtikinti, kad turėjo būti Grikija,
+    t. y. Graikija, nes rusus, išpažįstančius graikų apeigų
+    krikščionybę, galima vadinti graikais; jie turėję kažkaip
+    1 Ergo in ipso hujus compagis exordio, ubi Riphaei deficiunt
+    montes, habitant Arimphaei, justi homines placiditateque cogniti, quos
+    amnes Chronius et Bisula preterfluunt. Amm. Marcei. Lib. XXII.
+    C. 8.
+    2 Herodotus. Lib. IV. Pavyzdžiui: Arimaspi skitiškai reiškia vie­
+    naki, Coclites.
+    3 Baieri. Geograph, Russiae et Script. Septentrión, in Comment.
+    Acad. Petrop. T. X.
+    247
+
+    užklysti j Prūsiją, ir duoti dingstį šiam užrašui
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213065
+
+- id: c-194827
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 338"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 338."
+  citata_originali: |
+    Smalsuoliams
+    rekomenduojama paskaityti knygelę „Ja. Wigancli Epis-
+    copi Pomesatiiensis de Succino, alce et herbis iri Prussia
+    nascentibus libri", išleistą 1590 metais Jenoje; Bajeris
+    ją norėjo įdėti į savo „Monumentą Prussica“.
+    Tai, kad gintaras yra senojo pasaulio kūrinys, teigia
+    gamtos tyrinėtojai Klaprotas ir Hagenas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213908
+
+- id: c-195709
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 210"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 210."
+  citata_originali: |
+    Atvedėme keliavusią gelonų-budinų tautą į Sniatyno
+    apylinkes, prie Maročės ir Lunio s upių ne tik todėl, kad
+    jų buvimo pėdsakų ten aptiko senovės tyrinėtojai Bajeris
+    ir Naruševičius1.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213857
+
+- id: c-195805
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 177"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 177."
+  citata_originali: |
+    Ado­
+    mas Bremenietis Balticum pavadinimą tapatina ¡su šių
+    kraštų pakrančių gyventojais (baltų), priklausančiais lie­
+    tuvių genties tautoms5. Regis tą patį patvirtina ir Bajeris,
+    šį dalyką tyrinėjęs išsamiau ir kruopščiau6. Mes negalime
+    1 Istoryczeskij Magazyn.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215302
+
+- id: c-195950
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 332"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 332."
+  citata_originali: |
+    Sabinas manė jį buvus vė­
+    javaikį jauną valdovą, kurį nubaudęs Dievas, o Bajeris
+    įžvelgė jame prie Juodosios jūros buvusių kolonijų pirk­
+    lį, kurio laivas, plaukdamas į gintaro kraštą, sudužo, ir
+    jis nuskendo jūroje. Vėliau jis pakeitė savo nuomonę ir
+    pasakos šaltiniu nurodė žemę ištikusią katastrofą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-007
+
+- id: c-196321
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 204"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 204."
+  citata_originali: |
+    Iš to, remiantis
+    Bajeriu1, atsirado įsitikinimai, jog gelonų-budinų kraštas
+    turėjęs būti Polesėje, senovės Kulmo žemėje ir Lietuvos
+    Brastos vaivadijoje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215224
+

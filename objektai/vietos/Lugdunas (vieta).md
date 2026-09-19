@@ -38,20 +38,6 @@ historical_names: []
 
 Popiežius, norėdamas teisybę padaryti, paskyrė teisdariu vyskupą Parto, bet, no rėdamas geresniai tą reikalą permanyti, liepė abe jiems į Lugduną (Lioną) ateiti, kame pats gyveno.
 
-## Teiginiai
-
-<a id="claim-t-201156"></a>
-- t-001
-  teiginys: "Popiežius, norėdamas teisybę padaryti, paskyrė teisdariu vyskupą Parto, bet, no rėdamas geresniai tą reikalą permanyti, liepė abe jiems į Lugduną (Lioną) ateiti, kame pats gyveno."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184506
-
 ## Citatos
 
 - id: c-184506
@@ -76,5 +62,20 @@ Popiežius, norėdamas teisybę padaryti, paskyrė teisdariu vyskupą Parto, bet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201156"></a>
+- t-001
+  teiginys: "Popiežius, norėdamas teisybę padaryti, paskyrė teisdariu vyskupą Parto, bet, no rėdamas geresniai tą reikalą permanyti, liepė abe jiems į Lugduną (Lioną) ateiti, kame pats gyveno."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184506
+

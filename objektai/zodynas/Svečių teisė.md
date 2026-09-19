@@ -24,32 +24,6 @@ media_all_json: |-
 
 Aleksandro Jogailaičio suteikta sankrovos teisė svariai papildė Kauno svečių teisės nuostatų kompleksą ir kėlė daug rūpesčių pagrindiniams Kauno prekybos partneriams hanziečiams. Vienas iš svarbiausių šios srities pasiekimų buvo Kauno svečių teisės, įskaitant sankrovos teisę, susiformavimas.
 
-## Teiginiai
-
-<a id="claim-t-201784"></a>
-- t-001
-  teiginys: "Aleksandro Jogailaičio suteikta sankrovos teisė svariai papildė Kauno svečių teisės nuostatų kompleksą ir kėlė daug rūpesčių pagrindiniams Kauno prekybos partneriams hanziečiams."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185131
-
-<a id="claim-t-201785"></a>
-- t-002
-  teiginys: "Vienas iš svarbiausių šios srities pasiekimų buvo Kauno svečių teisės, įskaitant sankrovos teisę, susiformavimas."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185132
-
 ## Citatos
 
 - id: c-185131
@@ -67,7 +41,7 @@ Aleksandro Jogailaičio suteikta sankrovos teisė svariai papildė Kauno sveči�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185132
@@ -85,5 +59,32 @@ Aleksandro Jogailaičio suteikta sankrovos teisė svariai papildė Kauno sveči�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-201784"></a>
+- t-001
+  teiginys: "Aleksandro Jogailaičio suteikta sankrovos teisė svariai papildė Kauno svečių teisės nuostatų kompleksą ir kėlė daug rūpesčių pagrindiniams Kauno prekybos partneriams hanziečiams."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185131
+
+<a id="claim-t-201785"></a>
+- t-002
+  teiginys: "Vienas iš svarbiausių šios srities pasiekimų buvo Kauno svečių teisės, įskaitant sankrovos teisę, susiformavimas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185132
+

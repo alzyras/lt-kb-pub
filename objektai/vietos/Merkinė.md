@@ -59,10 +59,22 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 
 ## Teiginiai
 
+<a id="claim-t-211773"></a>
+- t-211773
+  teiginys: "Voložino kunigaikščiai buvo pasiųsti į Merkinę nužudyti Kazimiero."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193475
+
 <a id="claim-t-180304"></a>
-- t-001
+- t-180304
   teiginys: "1920 m. spalio 7 d. Suvalkų sutartis visą Gardino apskritį iki Merkinės, Varėnos ir Bastūnų paliko Lenkijos pusėje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bastūnai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -78,9 +90,9 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     - c-163930
 
 <a id="claim-t-180305"></a>
-- t-002
+- t-180305
   teiginys: "Karaliaus Aleksandro testamento liudytojų sąraše Jonas iš Zabrežjės įvardytas Merkinės laikytoju."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde -> Merkinė: 0.80"
   ryšio_patikimumo_lygis: "aukstas"
@@ -95,9 +107,9 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     - c-163935
 
 <a id="claim-t-180306"></a>
-- t-003
+- t-180306
   teiginys: "Prieš Vilniaus vyskupijos įkūrimą Jogaila aplankė Merkinę, kur vietiniai ir apylinkių žmonės buvo mokomi tikėjimo ir krikštijami."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Merkinė: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -112,9 +124,9 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     - c-163941
 
 <a id="claim-t-180307"></a>
-- t-004
+- t-180307
   teiginys: "Po 1945 m. gruodžio 15 d. Merkinės puolimo jame dalyvavę partizanų būriai pamažu atsitraukė iš Merkinės."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "siunte_i -> Merkinė: 0.62"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -133,9 +145,9 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     - c-163931
 
 <a id="claim-t-180308"></a>
-- t-005
+- t-180308
   teiginys: "Jogaila aplankė Merkinę, kur vietiniai ir apylinkių žmonės buvo mokomi tikėjimo tiesų ir krikštijami."
-  atnaujinta: "2026-06-13 17:24"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Merkinė: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -150,9 +162,9 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     - c-163933
 
 <a id="claim-t-180309"></a>
-- t-006
+- t-180309
   teiginys: "1503 m. Vilniuje duotame dokumente Jonas iš Zabrežjės minimas kaip Merkinės laikytojas."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde -> Merkinė: 0.80"
   ryšio_patikimumo_lygis: "aukstas"
@@ -170,9 +182,9 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     - c-163935
 
 <a id="claim-t-180311"></a>
-- t-007
+- t-180311
   teiginys: "1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną su kunigija ir diduomene."
-  atnaujinta: "2026-06-13 17:24"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Kaunas: 0.93"
   ryšio_patikimumo_lygis: "aukstas"
@@ -190,9 +202,9 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     - c-163939
 
 <a id="claim-t-180312"></a>
-- t-008
+- t-180312
   teiginys: "1945 m. Merkinės puolimas buvo pasiūlytas kaip keršto priešui veiksmas."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Merkinės puolimas (1945 m. gruodžio 15 d.): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -208,9 +220,9 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     - c-163932
 
 <a id="claim-t-180313"></a>
-- t-009
+- t-180313
   teiginys: "Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė sutelkti apylinkių partizanų dalinius ir pulti Merkinę."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Merkinė: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -226,9 +238,9 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     - c-163937
 
 <a id="claim-t-180314"></a>
-- t-010
+- t-180314
   teiginys: "Po 1945 m. gruodžio 15 d. Merkinės puolimo partizanų būriai pamažu atsitraukė iš miestelio."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "siunte_i -> Merkinė: 0.62"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -246,9 +258,9 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     - c-163931
 
 <a id="claim-t-180315"></a>
-- t-011
+- t-180315
   teiginys: "1920 m. spalio 7 d. Suvalkų sutartis Gardino apskritį iki Merkinės, Varėnos ir Bastūnų paliko Lenkijos pusėje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bastūnai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -265,9 +277,9 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     - c-163930
 
 <a id="claim-t-180316"></a>
-- t-012
+- t-180316
   teiginys: "Jogaila aplankė Merkinę, kur sukvietus vietinius ir apylinkių žmones jie buvo mokomi tikėjimo tiesų ir krikštijami."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Merkinė: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -282,9 +294,9 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     - c-163933
 
 <a id="claim-t-180317"></a>
-- t-013
+- t-180317
   teiginys: "Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau pasiekė Aukokalnį prie Betygalos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Kaunas: 0.93"
   ryšio_patikimumo_lygis: "aukstas"
@@ -299,9 +311,9 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     - c-163936
 
 <a id="claim-t-180318"></a>
-- t-014
+- t-180318
   teiginys: "Nuo Gardino link Merkinės besitęsęs Nemuno aukštupio dešiniojo kranto miškų masyvas buvo ištisai lietuvių gyvenamas."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "gyveno -> Nemunas: 0.72"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -315,29 +327,10 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   pagrindžia:
     - c-32239
 
-<a id="claim-t-188772"></a>
-- t-015
-  teiginys: "Narbutas rašė matęs prie Merkinės valstiečio rastą aukso žiedą su raudonu akmeniu, gaidžiu skyde ir raidžių ženklais."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Gaidys: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Merkinė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Gaidys: mention_match, person, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Merkinė\" parinktas kaip owner_note_path. Targetas \"Gaidys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-171661
-
 <a id="claim-t-201632"></a>
-- t-016
+- t-201632
   teiginys: "Lietuviškųjų žemių miestai turėjo mokėti taip: Trakai 100 kapų grašių, Merkinė, Šeduva, Virbalis - po 40 kapų grašių, Jurbarkas, Panevėžys, Šiauliai - po 30 kapų grašių, dar keliolika miestų ir miestelių - po 8-20 kapų grašių."
-  atnaujinta: "2026-07-19 10:18"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -346,6 +339,18 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
   pagrindžia:
     - c-184979
+
+<a id="claim-t-208228"></a>
+- t-208228
+  teiginys: "Merkinėje darbo turėjo kasėjai ir buvo organizuojamas jų atvykimas kasti užtvankų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190845
 
 ## Reikšmingi paminėjimai
 - c-011
@@ -388,8 +393,8 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-014
+  pagrindžia:
+    - t-180318
 
 - id: c-163930
   redaktorius: "A. Šapoka"
@@ -414,9 +419,9 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-011
+  pagrindžia:
+    - t-180304
+    - t-180315
 
 - id: c-163931
   sudarytojas: "Karolis Zikaras"
@@ -452,9 +457,9 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
-    - t-010
+  pagrindžia:
+    - t-180307
+    - t-180314
 
 - id: c-163932
   sudarytojas: "Karolis Zikaras"
@@ -476,8 +481,8 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
+  pagrindžia:
+    - t-180312
 
 - id: c-163933
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -499,9 +504,9 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
-    - t-012
+  pagrindžia:
+    - t-180308
+    - t-180316
 
 - id: c-163935
   autorius: "Michał Baliński"
@@ -534,9 +539,9 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-006
+  pagrindžia:
+    - t-180305
+    - t-180309
 
 - id: c-163936
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -558,8 +563,8 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-013
+  pagrindžia:
+    - t-180317
 
 - id: c-163937
   sudarytojas: "Karolis Zikaras"
@@ -593,8 +598,8 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
+  pagrindžia:
+    - t-180313
 
 - id: c-163939
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -616,8 +621,8 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-180311
 
 - id: c-163941
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -640,8 +645,8 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-180306
 
 - id: c-171661
   autorius: "Teodoras Narbutas"
@@ -662,8 +667,6 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-015
 
 - id: c-184979
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -681,5 +684,45 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-016
+  pagrindžia:
+    - t-201632
+
+- id: c-190845
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 32"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 32."
+  citata_originali: |
+    Merkinėje dirbusiems kasėjams administratorius turėjo suteikti visus patogumus
+    ir skirti alaus, „nes darbas sunkus“123. Kasėjai Merkinėje darbo turėjo nuolat, nes
+    17 14 m. rudenį seniūnas vėl organizavo keturių kasėjų atvykimą į Merkinę kasti
+    užtvankų, o jiems padėti dar turėjo žmonės iš Ilgų124. Kiek vėliau Dienoraštyje
+    A .
+  citata_rodoma: "Kasėjai Merkinėje darbo turėjo nuolat, nes \n17 14 m. rudenį seniūnas vėl organizavo keturių kasėjų atvykimą į Merkinę kasti \nužtvankų, o jiems padėti dar turėjo žmonės iš Ilgų124."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208228
+
+- id: c-193475
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 130"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 130."
+  citata_originali: |
+    Ir siunčia kunigaikštis Mykoliukas Voložino kuni­
+    gaikščius į Merkinę su penkiais šimtais ginkluotų rai­
+    telių prieš didįjį kunigaikštį Kazimierą, kėsindamasis
+    didįjį kunigaikštį Kazimierą nužudyti ir užimti sostą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211773
+

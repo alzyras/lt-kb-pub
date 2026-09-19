@@ -31,20 +31,6 @@ canonical_biography: "Pajutęs tą, popiežius Inocentas III nurašė graudžią
 
 Pajutęs tą, popiežius Inocentas III nurašė graudžią gromatą opatui cistersų Olivos, drausda mas jį, idant liautųsi nuo tokių netaikų, skelbiant ne- 1 V o i g t, Preus.
 
-## Teiginiai
-
-<a id="claim-t-201428"></a>
-- t-001
-  teiginys: "Pajutęs tą, popiežius Inocentas III nurašė graudžią gromatą opatui cistersų Olivos, drausda mas jį, idant liautųsi nuo tokių netaikų, skelbiant ne- 1 V o i g t, Preus."
-  atnaujinta: "2026-07-16 14:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184778
-
 ## Citatos
 
 - id: c-184778
@@ -61,5 +47,20 @@ Pajutęs tą, popiežius Inocentas III nurašė graudžią gromatą opatui ciste
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201428"></a>
+- t-001
+  teiginys: "Pajutęs tą, popiežius Inocentas III nurašė graudžią gromatą opatui cistersų Olivos, drausda mas jį, idant liautųsi nuo tokių netaikų, skelbiant ne- 1 V o i g t, Preus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184778
+

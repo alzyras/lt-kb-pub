@@ -40,44 +40,6 @@ canonical_biography: "Pasikrikštijęs žydas Abraomas Jezofavičius buvo vienas
 
 Pasikrikštijęs žydas Abraomas Jezofavičius buvo vienas iš aktyviausių verslovininkų, muitinių ir kitokių pajamų šaltinių nuomininkas, taip pat nuo 1507 m. Kauno muitininkas. 1514 m. Žygimantas Senasis, karo su Rusų valstybe sąlygomis nuolat stokojantis lėšų, atidavė Abraomui Jezofavičiui kaip užstatą už 10 000 auksinų paskolą Kauno pilį su Rumšiškių dvaru (valsčiumi). Kaip matyti iš 1516 m. ataskaitos, Abraomas Jezofavičius visas pajamas išdalijo pagal valdovo nurodymus, o sau nieko nepasiliko.
 
-## Teiginiai
-
-<a id="claim-t-202068"></a>
-- t-001
-  teiginys: "Pasikrikštijęs žydas Abraomas Jezofavičius buvo vienas iš aktyviausių verslovininkų, muitinių ir kitokių pajamų šaltinių nuomininkas, taip pat nuo 1507 m. Kauno muitininkas."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185415
-
-<a id="claim-t-202069"></a>
-- t-002
-  teiginys: "1514 m. Žygimantas Senasis, karo su Rusų valstybe sąlygomis nuolat stokojantis lėšų, atidavė Abraomui Jezofavičiui kaip užstatą už 10 000 auksinų paskolą Kauno pilį su Rumšiškių dvaru (valsčiumi)."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185416
-
-<a id="claim-t-202070"></a>
-- t-003
-  teiginys: "Kaip matyti iš 1516 m. ataskaitos, Abraomas Jezofavičius visas pajamas išdalijo pagal valdovo nurodymus, o sau nieko nepasiliko."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185417
-
 ## Citatos
 
 - id: c-185415
@@ -94,7 +56,7 @@ Pasikrikštijęs žydas Abraomas Jezofavičius buvo vienas iš aktyviausių vers
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185416
@@ -111,7 +73,7 @@ Pasikrikštijęs žydas Abraomas Jezofavičius buvo vienas iš aktyviausių vers
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-185417
@@ -127,5 +89,44 @@ Pasikrikštijęs žydas Abraomas Jezofavičius buvo vienas iš aktyviausių vers
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+## Teiginiai
+
+<a id="claim-t-202068"></a>
+- t-001
+  teiginys: "Pasikrikštijęs žydas Abraomas Jezofavičius buvo vienas iš aktyviausių verslovininkų, muitinių ir kitokių pajamų šaltinių nuomininkas, taip pat nuo 1507 m. Kauno muitininkas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185415
+
+<a id="claim-t-202069"></a>
+- t-002
+  teiginys: "1514 m. Žygimantas Senasis, karo su Rusų valstybe sąlygomis nuolat stokojantis lėšų, atidavė Abraomui Jezofavičiui kaip užstatą už 10 000 auksinų paskolą Kauno pilį su Rumšiškių dvaru (valsčiumi)."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185416
+
+<a id="claim-t-202070"></a>
+- t-003
+  teiginys: "Kaip matyti iš 1516 m. ataskaitos, Abraomas Jezofavičius visas pajamas išdalijo pagal valdovo nurodymus, o sau nieko nepasiliko."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185417
+

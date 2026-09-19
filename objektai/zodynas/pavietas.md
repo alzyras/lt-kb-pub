@@ -34,10 +34,23 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
 
 ## Teiginiai
 
+<a id="claim-t-209608"></a>
+- t-209608
+  teiginys: "Pavietas su pavietu ilgų laiką negalėjo susisiekti, kaimas su mies tų, miestas su kaimu; viena pusė Nemuno su kita puse, vienas miestas su kitu."
+  atnaujinta: "2026-09-12 14:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  vertinimo_atnaujinta: "2026-07-26T18:22:38Z"
+  pagrindžia:
+    - c-192228
+
 <a id="claim-t-113660"></a>
-- t-001
+- t-113660
   teiginys: "Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, kuris vietoje spręsdavo žemės ribų bylas."
-  atnaujinta: "2026-06-13 18:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> didysis kunigaikštis: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -51,9 +64,9 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
     - c-104855
 
 <a id="claim-t-113661"></a>
-- t-002
+- t-113661
   teiginys: "Veliuona kurį laiką buvo Žemaitijos pavieto centras."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Veliuona: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -67,9 +80,9 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
     - c-104852
 
 <a id="claim-t-113662"></a>
-- t-003
+- t-113662
   teiginys: "Tauragnų pilis buvo padovanota Vilniaus vyskupui kartu su visu pavietu."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Brasta: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -83,9 +96,9 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
     - c-104854
 
 <a id="claim-t-182966"></a>
-- t-004
+- t-182966
   teiginys: "Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo po vieną pakamorę žemės ribų byloms spręsti."
-  atnaujinta: "2026-06-13 18:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -102,9 +115,9 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
     - c-166365
 
 <a id="claim-t-193153"></a>
-- t-005
+- t-193153
   teiginys: "Žemės teismams rinkti buvo įvesti viso pavieto arba vaivadijos bajorų suvažiavimai, vadinami seimeliais."
-  atnaujinta: "2026-07-06 12:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -114,9 +127,9 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
     - c-175905
 
 <a id="claim-t-201505"></a>
-- t-006
+- t-201505
   teiginys: "Lietuvos miestai, buvo tarsi trinaris, jį sudarė pats savavaldus miestas ir jo miestiečių bendruomenė bei nemiestiškos Kauno dalys, pilis kaip Lietuvos valstybės teritorinio administracinio vieneto, Kauno seniūni jos/pavieto centras ir bažnyčios struktūros."
-  atnaujinta: "2026-07-19 10:18"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -149,8 +162,8 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-113661
 
 - id: c-104854
   autorius: "Michał Baliński"
@@ -191,8 +204,8 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-113662
 
 - id: c-104855
   redaktorius: "A. Šapoka"
@@ -211,8 +224,8 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-113660
 
 - id: c-166365
   redaktorius: "A. Šapoka"
@@ -231,8 +244,8 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-182966
 
 - id: c-175905
   redaktorius: "A. Šapoka"
@@ -249,8 +262,8 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-193153
 
 - id: c-184852
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -268,5 +281,24 @@ Kiekviename naujai sudarytame paviete didysis kunigaikštis skirdavo pakamorę, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-201505
+
+- id: c-192228
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 62"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 62."
+  citata_originali: |
+    Pavietas su pavietu
+    ilgų laiką negalėjo susisiekti, kaimas su mies­
+    tų, miestas su kaimu; viena pusė Nemuno
+    su kita puse, vienas miestas su kitu.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209608
+

@@ -38,10 +38,19 @@ Kartą buvo kilęs ginčas tarp Vloc­ lavo Vyskupo Jono Kropidlos ir Jogailos, 
 
 ## Teiginiai
 
-<a id="claim-t-35148"></a>
-- t-001
-  teiginys: "Kujavų vyskupas Jonas Kropidla Breslave pareiškė imperatoriui Zigmantui, kad karaliaus vardo vertas tik Vytautas."
+<a id="claim-t-35149"></a>
+- t-002
+  teiginys: "Vloclavo vyskupas Jonas Kropidla buvo įsitraukęs į ginčą su Jogaila, kurį išsprendė Vytautas."
   atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-38057
+
+<a id="claim-t-35148"></a>
+- t-35148
+  teiginys: "Kujavų vyskupas Jonas Kropidla Breslave pareiškė imperatoriui Zigmantui, kad karaliaus vardo vertas tik Vytautas."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Breslavas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -53,15 +62,6 @@ Kartą buvo kilęs ginčas tarp Vloc­ lavo Vyskupo Jono Kropidlos ir Jogailos, 
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-38056
-
-<a id="claim-t-35149"></a>
-- t-002
-  teiginys: "Vloclavo vyskupas Jonas Kropidla buvo įsitraukęs į ginčą su Jogaila, kurį išsprendė Vytautas."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-38057
 
 ## Citatos
 
@@ -87,8 +87,8 @@ Kartą buvo kilęs ginčas tarp Vloc­ lavo Vyskupo Jono Kropidlos ir Jogailos, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-35148
 
 - id: c-38057
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -104,9 +104,11 @@ Kartą buvo kilęs ginčas tarp Vloc­ lavo Vyskupo Jono Kropidlos ir Jogailos, 
     spręstas ne keno kito, kaip Vytauto^2 ).
   citata_rodoma: "Kartą buvo kilęs ginčas tarp Vloc­\nlavo Vyskupo Jono Kropidlos ir Jogailos, taip pat tarp kara­\nliaus bei Mozūrų Ziemovito. Ir šitas nesusipratimas buvo iš­\nspręstas ne keno kito, kaip Vytauto^2 )."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+

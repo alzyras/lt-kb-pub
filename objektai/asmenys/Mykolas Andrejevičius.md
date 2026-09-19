@@ -43,20 +43,6 @@ Mykolui Andrejevičiui nepavyko atsiimti pavaldinio, nes dvaro savininkai buvo i
 
 Mykolui Andrejevičiui nepavyko atsiimti pavaldinio, nes dvaro savininkai buvo išvykę, o jų duktė be tėvų sutikimo atsisakė veikti.
 
-## Teiginiai
-
-<a id="claim-t-203788"></a>
-- t-001
-  teiginys: "Mykolui Andrejevičiui nepavyko atsiimti pavaldinio, nes dvaro savininkai buvo išvykę, o jų duktė be tėvų sutikimo atsisakė veikti."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  pagrindžia:
-    - c-186392
-
 ## Citatos
 
 - id: c-186392
@@ -77,5 +63,20 @@ Mykolui Andrejevičiui nepavyko atsiimti pavaldinio, nes dvaro savininkai buvo i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203788"></a>
+- t-001
+  teiginys: "Mykolui Andrejevičiui nepavyko atsiimti pavaldinio, nes dvaro savininkai buvo išvykę, o jų duktė be tėvų sutikimo atsisakė veikti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  pagrindžia:
+    - c-186392
+

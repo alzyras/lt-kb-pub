@@ -34,17 +34,6 @@ canonical_biography: "J. Jac. Grasserum savo kūrinėlio gale: Epithomefragminis
 
 J. Jac. Grasserum savo kūrinėlio gale: Epithomefragminis secundi, p. 14.
 
-## Teiginiai
-
-<a id="claim-t-88065"></a>
-- t-001
-  teiginys: "J. Jac. Grasserum savo kūrinėlio gale: Epithomefragminis secundi, p. 14."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-84044
-
 ## Citatos
 
 - id: c-84044
@@ -67,5 +56,17 @@ J. Jac. Grasserum savo kūrinėlio gale: Epithomefragminis secundi, p. 14.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-88065"></a>
+- t-001
+  teiginys: "J. Jac. Grasserum savo kūrinėlio gale: Epithomefragminis secundi, p. 14."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-84044
+

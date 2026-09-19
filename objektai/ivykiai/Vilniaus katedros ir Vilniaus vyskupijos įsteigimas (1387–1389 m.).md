@@ -47,34 +47,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206767"></a>
-- t-001
-  teiginys: "Andrius Vasila (Wasilon) paskirtas pirmuoju Vilniaus vyskupu; anksčiau jis buvo pranciškonų dvasininkas ir Smėlynės Švenčiausiosios Mergelės Marijos vienuolyno Vilniuje vyresnysis, vėliau – Seretos vyskupas."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189382
-
-<a id="claim-t-206768"></a>
-- t-002
-  teiginys: "Popiežiaus bulė, patvirtinusi Vilniaus vyskupystės fundaciją ir Andriaus paskyrimą Vilniaus vyskupu, paskelbta 1388 m. pabaigoje, o bažnyčia pašventinta 1389 m. gegužės 5 d."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189383
-
 ## Santrauka
 
 Andrius Vasila (Wasilon) paskirtas pirmuoju Vilniaus vyskupu; anksčiau jis buvo pranciškonų dvasininkas ir Smėlynės Švenčiausiosios Mergelės Marijos vienuolyno Vilniuje vyresnysis, vėliau – Seretos vyskupas. Popiežiaus bulė, patvirtinusi Vilniaus vyskupystės fundaciją ir Andriaus paskyrimą Vilniaus vyskupu, paskelbta 1388 m. pabaigoje, o bažnyčia pašventinta 1389 m. gegužės 5 d.
@@ -97,7 +69,7 @@ Andrius Vasila (Wasilon) paskirtas pirmuoju Vilniaus vyskupu; anksčiau jis buvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189383
@@ -115,5 +87,34 @@ Andrius Vasila (Wasilon) paskirtas pirmuoju Vilniaus vyskupu; anksčiau jis buvo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-206767"></a>
+- t-001
+  teiginys: "Andrius Vasila (Wasilon) paskirtas pirmuoju Vilniaus vyskupu; anksčiau jis buvo pranciškonų dvasininkas ir Smėlynės Švenčiausiosios Mergelės Marijos vienuolyno Vilniuje vyresnysis, vėliau – Seretos vyskupas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189382
+
+<a id="claim-t-206768"></a>
+- t-002
+  teiginys: "Popiežiaus bulė, patvirtinusi Vilniaus vyskupystės fundaciją ir Andriaus paskyrimą Vilniaus vyskupu, paskelbta 1388 m. pabaigoje, o bažnyčia pašventinta 1389 m. gegužės 5 d."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189383
+

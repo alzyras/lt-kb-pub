@@ -39,20 +39,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206945"></a>
-- t-001
-  teiginys: "Teodoras Narbutas rašo, kad Kęstučio palaikai Vilniuje, Šventaragio ugniavietėje, buvo sudeginti pagal visas pagoniškas apeigas."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189560
-
 ## Santrauka
 
 Teodoras Narbutas rašo, kad Kęstučio palaikai Vilniuje, Šventaragio ugniavietėje, buvo sudeginti pagal visas pagoniškas apeigas.
@@ -86,5 +72,20 @@ Teodoras Narbutas rašo, kad Kęstučio palaikai Vilniuje, Šventaragio ugniavie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206945"></a>
+- t-001
+  teiginys: "Teodoras Narbutas rašo, kad Kęstučio palaikai Vilniuje, Šventaragio ugniavietėje, buvo sudeginti pagal visas pagoniškas apeigas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189560
+

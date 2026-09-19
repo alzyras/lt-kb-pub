@@ -29,32 +29,6 @@ media_all_json: |-
 
 Pagaliau prekės Nemunu buvo plukdomos sieliais. Sieliai (plyta, krobka) buvo rišami iš skirtų parduoti medžių kamienų.
 
-## Teiginiai
-
-<a id="claim-t-201795"></a>
-- t-001
-  teiginys: "Pagaliau prekės Nemunu buvo plukdomos sieliais."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185142
-
-<a id="claim-t-201796"></a>
-- t-002
-  teiginys: "Sieliai (plyta, krobka) buvo rišami iš skirtų parduoti medžių kamienų."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185143
-
 ## Citatos
 
 - id: c-185142
@@ -71,7 +45,7 @@ Pagaliau prekės Nemunu buvo plukdomos sieliais. Sieliai (plyta, krobka) buvo ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185143
@@ -88,5 +62,32 @@ Pagaliau prekės Nemunu buvo plukdomos sieliais. Sieliai (plyta, krobka) buvo ri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-201795"></a>
+- t-001
+  teiginys: "Pagaliau prekės Nemunu buvo plukdomos sieliais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185142
+
+<a id="claim-t-201796"></a>
+- t-002
+  teiginys: "Sieliai (plyta, krobka) buvo rišami iš skirtų parduoti medžių kamienų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185143
+

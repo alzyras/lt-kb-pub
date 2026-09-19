@@ -46,24 +46,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-204393"></a>
-- t-001
-  teiginys: "1432 m. vasarį Polubicuose susitikę dalyviai vedė preliminarias taikos derybas, kurias sėkmės atveju turėjo patvirtinti Jogaila ir Švitrigaila."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  temporaliniai_duomenys: "įvykio data: 1432 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Neaiškus „susitikimas“ pakeistas aiškesne konstrukcija, įtraukiant citatoje nurodytą datą, vietą ir numatytą rezultatą."
-  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
-  pagrindžia:
-    - c-186997
-
 ## Santrauka
 
 1432 m. vasarį Polubicuose susitikę dalyviai vedė preliminarias taikos derybas, kurias sėkmės atveju turėjo patvirtinti Jogaila ir Švitrigaila.
@@ -92,5 +74,24 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204393"></a>
+- t-001
+  teiginys: "1432 m. vasarį Polubicuose susitikę dalyviai vedė preliminarias taikos derybas, kurias sėkmės atveju turėjo patvirtinti Jogaila ir Švitrigaila."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1432 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Neaiškus „susitikimas“ pakeistas aiškesne konstrukcija, įtraukiant citatoje nurodytą datą, vietą ir numatytą rezultatą."
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186997
+

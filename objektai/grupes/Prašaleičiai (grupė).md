@@ -29,20 +29,6 @@ media_all_json: |-
 
 Oi Titi, Titi!" Prašaleičiai, nežinodami Lietuvos kalbos, iki šiai dienai stigavoja lietuvius ir žemaičius senovėje per kūniją už Dievą garbinusius, bet žinovas tos kalbos žino gerai, jog kas kitas yra toj kalboj Perkūnas, o kas kitas perkūnija.
 
-## Teiginiai
-
-<a id="claim-t-201253"></a>
-- t-001
-  teiginys: "Oi Titi, Titi!\" Prašaleičiai, nežinodami Lietuvos kalbos, iki šiai dienai stigavoja lietuvius ir žemaičius senovėje per kūniją už Dievą garbinusius, bet žinovas tos kalbos žino gerai, jog kas kitas yra toj kalboj Perkūnas, o kas kitas perkūnija."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184603
-
 ## Citatos
 
 - id: c-184603
@@ -67,5 +53,20 @@ Oi Titi, Titi!" Prašaleičiai, nežinodami Lietuvos kalbos, iki šiai dienai st
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201253"></a>
+- t-001
+  teiginys: "Oi Titi, Titi!\" Prašaleičiai, nežinodami Lietuvos kalbos, iki šiai dienai stigavoja lietuvius ir žemaičius senovėje per kūniją už Dievą garbinusius, bet žinovas tos kalbos žino gerai, jog kas kitas yra toj kalboj Perkūnas, o kas kitas perkūnija."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184603
+

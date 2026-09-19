@@ -48,10 +48,22 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-185737"></a>
+- t-002
+  teiginys: "Po pralaimėjimo rusai nebeatnaujino mūšio, o išblaškytus jų karius žudė pergalingi lenkai."
+  atnaujinta: "2026-07-26 23:35"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169097
+
 <a id="claim-t-185736"></a>
-- t-001
+- t-185736
   teiginys: "Kare dėl Liublino rusai sutelkė didelę kariuomenę ir į pagalbą pasikvietė skitus bei lietuvius."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -67,22 +79,10 @@ Nenurodyta
   pagrindžia:
     - c-169097
 
-<a id="claim-t-185737"></a>
-- t-002
-  teiginys: "Po pralaimėjimo rusai nebeatnaujino mūšio, o išblaškytus jų karius žudė pergalingi lenkai."
-  atnaujinta: "2026-07-26 23:35"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169097
-
 <a id="claim-t-196200"></a>
-- t-003
+- t-196200
   teiginys: "Kare dėl Liublino abi pusės sutelkė didžiules kariuomenes, o rusai pagalbon pasikvietė skitus ir lietuvius."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -93,9 +93,9 @@ Nenurodyta
     - c-169097
 
 <a id="claim-t-196201"></a>
-- t-004
+- t-196201
   teiginys: "Kojelavičiaus pasakojime Liublino pralaimėjimas smarkiai sutrikdė lietuvius, todėl jie metus gyveno ramiai ir atkūrinėjo jėgas."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -123,14 +123,15 @@ Nenurodyta
     nant kumštį, be galo lengvai sunkiaisiais raiteliais pra­
     laužė rikiuotės vidurį ir atvėrė kelią į pergalę.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
     - t-002
-    - t-003
+    - t-185736
+    - t-196200
 
 - id: c-169098
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -157,5 +158,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-196201
+

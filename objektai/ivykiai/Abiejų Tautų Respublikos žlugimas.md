@@ -44,20 +44,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-201926"></a>
-- t-001
-  teiginys: "Šio laikotarpio chronologinės ribos yra 1408-1795 m. Po to, kai 1795 m. Abiejų Tautų Respubliką ar kitaip vadinamą jungtinę Lenkijos ir Lietuvos valstybę sugriovė trys kaimynės - Rusija, Prūsija ir Austrija, Kaunas su didžiąja Lietuvos dalimi pateko į Rusijos."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185273
-
 ## Citatos
 
 - id: c-185273
@@ -75,5 +61,20 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201926"></a>
+- t-001
+  teiginys: "Šio laikotarpio chronologinės ribos yra 1408-1795 m. Po to, kai 1795 m. Abiejų Tautų Respubliką ar kitaip vadinamą jungtinę Lenkijos ir Lietuvos valstybę sugriovė trys kaimynės - Rusija, Prūsija ir Austrija, Kaunas su didžiąja Lietuvos dalimi pateko į Rusijos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185273
+

@@ -41,12 +41,31 @@ canonical_biography: "Elenos skulptūros ant katedros frontono."
 
 Elenos skulptūros ant katedros frontono.
 
+## Citatos
+
+- id: c-166971
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  puslapiai: "PDF 90"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 90."
+  citata_originali: |
+    O 1792 m. buvo baigtos Lietuvos globėjo šv. Kazimiero, Lenkijos
+    globėjo šv. Stanislovo ir šv. Elenos skulptūros ant katedros frontono.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+    - t-002
+
 ## Teiginiai
 
 <a id="claim-t-19354"></a>
 - t-001
   teiginys: "Šv. Elenos skulptūra buvo ant katedros frontono."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Elena (vyskupas, XV–XVI a.): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -65,7 +84,7 @@ Elenos skulptūros ant katedros frontono.
 <a id="claim-t-183578"></a>
 - t-002
   teiginys: "1792 m. buvo baigta šv. Elenos skulptūra ant katedros frontono."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -84,21 +103,3 @@ Elenos skulptūros ant katedros frontono.
   pagrindžia:
     - c-166971
 
-## Citatos
-
-- id: c-166971
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 90"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 90."
-  citata_originali: |
-    O 1792 m. buvo baigtos Lietuvos globėjo šv. Kazimiero, Lenkijos
-    globėjo šv. Stanislovo ir šv. Elenos skulptūros ant katedros frontono.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002

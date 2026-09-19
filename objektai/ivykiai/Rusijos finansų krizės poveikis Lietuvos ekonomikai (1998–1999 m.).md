@@ -50,12 +50,95 @@ Nenurodyta
 
 Nenurodyta
 
+## Citatos
+
+- id: c-23190
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  puslapiai: "PDF 251"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 251."
+  citata_originali: |
+    Ekonomistų teigimu, lito susiejimas su JAV doleriu buvo vienas išmintin-
+    giausių ekonominės politikos sprendimų per visą atsikūrusios Lietuvos
+    laikotarpį.
+    Nauji išbandymai šalies ekonomikos laukė 1998–1999 m., kilus Rusi-
+    jos finansų krizei. Kadangi iki krizės dauguma lietuviškų prekių keliavo
+    į Nepriklausomų Valstybių Sandraugą (NVS), pirmiausia Rusiją, krizės
+    metais Lietuva susidūrė su biudžeto sunkumais: 1998 m.
+  citata_rodoma: "jos finansų krizei. Kadangi iki krizės dauguma lietuviškų prekių keliavo"
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+- id: c-23191
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  puslapiai: "PDF 251"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 251."
+  citata_originali: |
+    Lietuvos eksporto, o rusiškų prekių importas su-
+    darė 20 proc. Tačiau krizė privertė Lietuvos eksportą persiorientuoti iš
+    nestabilių Rytų rinkų į reiklesnes Vakarų rinkas. Lietuvos pagrindinėmis
+    užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija
+    (antroje vietoje).
+  citata_rodoma: "užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija"
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+- id: c-166659
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  puslapiai: "PDF 251"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 251."
+  citata_originali: |
+    Nauji išbandymai šalies ekonomikos laukė 1998–1999 m., kilus Rusi-
+    jos finansų krizei. Kadangi iki krizės dauguma lietuviškų prekių keliavo
+    į Nepriklausomų Valstybių Sandraugą (NVS), pirmiausia Rusiją, krizės
+    metais Lietuva susidūrė su biudžeto sunkumais: 1998 m. Lietuvos eks-
+    portas į NVS valstybes, sudaręs 36 proc. viso prekių eksporto, kitais
+    metais sumažėjo net 59 proc. ir tesudarė 18 proc. viso prekių eksporto.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+
+- id: c-166660
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  puslapiai: "PDF 251"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 251."
+  citata_originali: |
+    Tačiau krizė privertė Lietuvos eksportą persiorientuoti iš
+    nestabilių Rytų rinkų į reiklesnes Vakarų rinkas. Lietuvos pagrindinėmis
+    užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija
+    (antroje vietoje). Greitai persiorientavusi į Vakarus Lietuvos ekonomika
+    išvengė nuosmukio.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
 ## Teiginiai
 
 <a id="claim-t-20466"></a>
 - t-001
   teiginys: "1998–1999 m. Rusijos finansų krizė Lietuvai sukėlė biudžeto sunkumų, nes iki krizės daug lietuviškų prekių buvo eksportuojama į NVS, pirmiausia Rusiją."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "prekiavo_su -> Rusija: 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -75,7 +158,7 @@ Nenurodyta
 <a id="claim-t-20467"></a>
 - t-002
   teiginys: "Po Rusijos finansų krizės pagrindinėmis Lietuvos užsienio prekybos partnerėmis tapo Vokietija ir Lenkija."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "prekiavo_su -> Vokietija: 0.92"
   ryšio_patikimumo_lygis: "aukstas"
@@ -92,7 +175,7 @@ Nenurodyta
 <a id="claim-t-183270"></a>
 - t-003
   teiginys: "1998–1999 m. Rusijos finansų krizė sukėlė Lietuvai biudžeto sunkumų, nes eksportas į NVS 1999 m. sumažėjo 59 proc."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -115,7 +198,7 @@ Nenurodyta
 <a id="claim-t-183271"></a>
 - t-004
   teiginys: "Rusijos finansų krizė privertė Lietuvos eksportą persiorientuoti iš nestabilių Rytų rinkų į reiklesnes Vakarų rinkas."
-  atnaujinta: "2026-06-14 10:46"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -132,85 +215,3 @@ Nenurodyta
   pagrindžia:
     - c-166660
 
-## Citatos
-
-- id: c-23190
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 251"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 251."
-  citata_originali: |
-    Ekonomistų teigimu, lito susiejimas su JAV doleriu buvo vienas išmintin-
-    giausių ekonominės politikos sprendimų per visą atsikūrusios Lietuvos
-    laikotarpį.
-    Nauji išbandymai šalies ekonomikos laukė 1998–1999 m., kilus Rusi-
-    jos finansų krizei. Kadangi iki krizės dauguma lietuviškų prekių keliavo
-    į Nepriklausomų Valstybių Sandraugą (NVS), pirmiausia Rusiją, krizės
-    metais Lietuva susidūrė su biudžeto sunkumais: 1998 m.
-  citata_rodoma: "jos finansų krizei. Kadangi iki krizės dauguma lietuviškų prekių keliavo"
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-
-- id: c-23191
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 251"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 251."
-  citata_originali: |
-    Lietuvos eksporto, o rusiškų prekių importas su-
-    darė 20 proc. Tačiau krizė privertė Lietuvos eksportą persiorientuoti iš
-    nestabilių Rytų rinkų į reiklesnes Vakarų rinkas. Lietuvos pagrindinėmis
-    užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija
-    (antroje vietoje).
-  citata_rodoma: "užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija"
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
-- id: c-166659
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 251"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 251."
-  citata_originali: |
-    Nauji išbandymai šalies ekonomikos laukė 1998–1999 m., kilus Rusi-
-    jos finansų krizei. Kadangi iki krizės dauguma lietuviškų prekių keliavo
-    į Nepriklausomų Valstybių Sandraugą (NVS), pirmiausia Rusiją, krizės
-    metais Lietuva susidūrė su biudžeto sunkumais: 1998 m. Lietuvos eks-
-    portas į NVS valstybes, sudaręs 36 proc. viso prekių eksporto, kitais
-    metais sumažėjo net 59 proc. ir tesudarė 18 proc. viso prekių eksporto.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-
-- id: c-166660
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 251"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 251."
-  citata_originali: |
-    Tačiau krizė privertė Lietuvos eksportą persiorientuoti iš
-    nestabilių Rytų rinkų į reiklesnes Vakarų rinkas. Lietuvos pagrindinėmis
-    užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija
-    (antroje vietoje). Greitai persiorientavusi į Vakarus Lietuvos ekonomika
-    išvengė nuosmukio.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004

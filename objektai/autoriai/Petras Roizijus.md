@@ -42,20 +42,6 @@ canonical_biography: "Tačiau šio karaliaus val dymo saulėlydyje, 1571 metais,
 
 Tačiau šio karaliaus val dymo saulėlydyje, 1571 metais, baisus badas nuo pusiau žiemio apėmęs visą kraštą, rudenį sostinėje sukėlė tokio masPetrus Maureus Royzius, gimęs Alcagnizo [ Alkaniso] mieste Aragonoje, kilęs iš ispanų Ruiz de Moros gi minės.
 
-## Teiginiai
-
-<a id="claim-t-194318"></a>
-- t-001
-  teiginys: "Tačiau šio karaliaus val dymo saulėlydyje, 1571 metais, baisus badas nuo pusiau žiemio apėmęs visą kraštą, rudenį sostinėje sukėlė tokio masPetrus Maureus Royzius, gimęs Alcagnizo [ Alkaniso] mieste Aragonoje, kilęs iš ispanų Ruiz de Moros gi minės."
-  atnaujinta: "2026-07-06 12:56"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-176910
-
 ## Citatos
 
 - id: c-176910
@@ -89,5 +75,20 @@ Tačiau šio karaliaus val dymo saulėlydyje, 1571 metais, baisus badas nuo pusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-194318"></a>
+- t-001
+  teiginys: "Tačiau šio karaliaus val dymo saulėlydyje, 1571 metais, baisus badas nuo pusiau žiemio apėmęs visą kraštą, rudenį sostinėje sukėlė tokio masPetrus Maureus Royzius, gimęs Alcagnizo [ Alkaniso] mieste Aragonoje, kilęs iš ispanų Ruiz de Moros gi minės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-176910
+

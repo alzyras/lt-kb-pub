@@ -1,0 +1,316 @@
+{
+  "created_at": "2026-09-13T22:55:18.793957+03:00",
+  "db_revision": "0f924ccf9424cf3a03e29ae2930e20198bcf92557d4641909c364e765d340245",
+  "public_tree_hash": "e41881c26fcd9c6968dcca0b338ef68f236e5b23cad42063eeffe172f294d480",
+  "release_id": "cad4fa2cef0b81cce7e1acada514978e871d83ea74ebfb0c2891d6e977bf495c",
+  "schema": "ltkb-site-release/v1",
+  "sources": [
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "499000b23b1452ecf37766fc386a3d8b9e09f5494e8d0ab710c0803aa919b457",
+      "source_hash": "6023dbd072f6cdae4bcd499c648dd0842c1f9cf707ea2110b9116e4fcb2804a4",
+      "source_rel": "darbas/sources/01-bumblauskas-ldk-ir-jos-tradicija.md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "3eb0a4ffc1c39d8e52ea0e7028052f16375d56b2ea93735d1ca92a9ab04af815",
+      "source_hash": "e5d49ffa3fdf964e771f9471fafbf38e60ec45af71438ca1cf4b9881bced8c38",
+      "source_rel": "darbas/sources/02-kiaupiene-mes-lietuva-ldk-bajorija.md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "cd41388b1f356d1eba2aa654c2f2e5ccf2d1660497684350699dd27a2f233d01",
+      "source_hash": "ced915424db8cb233023884e1e295f68a21ea8b37d6d65a8f94727d8c1dbfcf4",
+      "source_rel": "darbas/sources/03-ldk-tarp-tradiciju-ir-naujoviu.md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "4f58eb60be4685eafd1f579ea2a41223431cfcb9424afcc52ecb67b48774d7c1",
+      "source_hash": "66a408c57096594d30c1b4dc663331bef14310a4362bcbfce197ae3d7871233f",
+      "source_rel": "darbas/sources/04-ldk-personalijos-idejos-refleksijos.md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "de6794e2bb2a2d51f8f0a05cec0a9b23fc5a83928c37f7316328fd78ca70005c",
+      "source_hash": "9a315a7aebbb7e38c983434086fe0c52474a7e2affe216f515baa05aeebf07b7",
+      "source_rel": "darbas/sources/A. Šapoka (red.), Lietuvos istorija (1936 m.).md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "62c03e616bbe28a78033243eaf622c605105dcf38e01847bed1b61fc9829fa59",
+      "source_hash": "20d6fa7720fa04cae1b86a1440360be2fee28585c96ef2562515cd3e5683a09d",
+      "source_rel": "darbas/sources/Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.).md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "235fff66fb0dc25dc23e1904119b68a2f5e3cc9681017e1605da65c5392fe3fc",
+      "source_hash": "f7dba18b36f238deb96675c557a2d262d24ae3669f004281dfaa20ccfebcd502",
+      "source_rel": "darbas/sources/Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.).md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "",
+      "source_hash": "8a347b2d8a45d38004efa88516828bcea3a70102f0731f0db8c8c77e5d034123",
+      "source_rel": "darbas/sources/Bartuska Kelione Lietuvon 1916 kares metais.md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "21539927c675dfabd5e2636765c6bb0751793095166ec74a2656b5cdda2a647f",
+      "source_hash": "c62c530a8dd9dff5a18eee56668ffe1d3f7b7eaaad32900820fd2dc5d3489ecf",
+      "source_rel": "darbas/sources/Daukantas, Istorija žemaitiška, t.1, 1995.md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "b1bf0e524ae4194dc9f382e5002d92dca09ee603d4234484de1b3e8fb994435d",
+      "source_hash": "d0e3f8413a4b4358d7b0f5fa7e71c5208e6f5ed26d3b6e304a833d20c849f5c0",
+      "source_rel": "darbas/sources/Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.).md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "641fe3b8343b6734f57f596645c8fb6098d735a9c590521686329133743094c4",
+      "source_hash": "96d7c991f4509784b3c4005c114017db3006bd620ae6a28dea9630475acfda2e",
+      "source_rel": "darbas/sources/Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje.md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "490a81925b41e20e096604016b5d822ea6bf9e9ec5c40d18450f7de2a959476e",
+      "source_hash": "bdefdc12bdf7abe41d6af505dd6697a4334e7dc07a482cb463b044729ad28c96",
+      "source_rel": "darbas/sources/Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.).md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "67c1e444591972d69a6474b7a310bd9d912fb13957234a7ab1e102059faabdc8",
+      "source_hash": "f9ecdfab14e5d7dc6f6e1cdd398e0471cd4b74c5862b1a571921d44da0878719",
+      "source_rel": "darbas/sources/Kultūrų sankirtos- skiriama dr. Ingės Lukšaitės 60-mečiui (straipsnių rinkinys, 2000 m.).md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "85ee05036fc815b20e808c12b0cf3e76373022b6b7e096678abdf36f22f105f8",
+      "source_hash": "025858bc331d2956899a7130c5845f3e37d808b54aafd4c5ce9862fc0eacadbe",
+      "source_rel": "darbas/sources/Lenkai Lietuvoje Dr. J. Basanavičius.md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "",
+      "source_hash": "396aeeca3795aecfb64cb147d2227e849c7d281b1ceaf6b96aee9e6ebcc9b247",
+      "source_rel": "darbas/sources/Lietuvos metraštis, Bychovco kronika (1971 m.).md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "9c052d1628e7f6c6fb69dd54a6449fc644fa5e80e4da021bc98565c902ff6115",
+      "source_hash": "eac9f9df0013c04158c33df10ae65caae75325e66e0306bc3ed560ca67e14e98",
+      "source_rel": "darbas/sources/Lituanistika-1890-Skasevskio-klientele.md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "d715477aa64b3a50e1fc1afb3e82b416ad54d07aaf889000ba8ea4a995c4ec72",
+      "source_hash": "0914bdecbf75e309ea5cb1dcb2973401fa16e1f2647481e208d21e4604cb6c87",
+      "source_rel": "darbas/sources/Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas.md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "0ff5879ca74b02dbd5a05e60405bde538aedf8b20b8edd271a41342ce4d2514e",
+      "source_hash": "93f8e0b709584798032e7ab8d7d820f02d2882b90f0df04a096ed543401b0730",
+      "source_rel": "darbas/sources/Lituanistika-3-Kazimiero-Jogailaicio-dvaras.md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "a641b717517f433dbc4c7cd62dd3e399d94449d3d19a365540047e9f072fee75",
+      "source_hash": "e902f6c02daf6a1119d245c948ac0b979bd7bf0a0adc3f904f00a51d9418c629",
+      "source_rel": "darbas/sources/Lituanistika-32634-ATR-palivarko-ukis.md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "ac7dba1f50032e1aad0e846b12053353baf9ab1d754306900e5c10086b44ea83",
+      "source_hash": "fd7fc0846325eae66421504670deb7fabed9955eb833b4afaf3c2ad6221d89e7",
+      "source_rel": "darbas/sources/Lituanistika-3441-Senkoniu-palivarko-inventorius.md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "91c22a34d4151e3faa75557b2b272e45f0464441bf40ef72b57cc2261767c8b2",
+      "source_hash": "45d07a6edf0899b6f8ebd58c6eb0fb67c05df5ad83f2222c9720d8eac916749b",
+      "source_rel": "darbas/sources/Lituanistika-38937-Siauliu-ekonomijos-1769-maistas-ar-sukilimas.md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "b0f9fb8cde8824468983d98ddd4e881ae2a175db43c0a16419fc23cd5645f444",
+      "source_hash": "ac9231a6940786dc199302a87715ec25be19955282b1481a0b254fa7f5d89561",
+      "source_rel": "darbas/sources/Lituanistika-4860-Romerio-dvaras.md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "aaada49c6de2d2aec56f1b6a0fe51a968676b4dcd2ae35784459395c1dcdcb24",
+      "source_hash": "1a8a5ba73a430edbdf42b88ac3456ba81f77bbc1216132cbe15d0aa622e37011",
+      "source_rel": "darbas/sources/Lituanistika-50918-Zemes-teismo-knygos.md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "eccd27cc95d01de4d831c7c0f212d712ca8438ceeab6de9c1161f502a0afc0c5",
+      "source_hash": "810c06280c94be40d1f9c49c7d4350e9c02fc2a91452a7e3bb59b751b58e43f0",
+      "source_rel": "darbas/sources/Lituanistika-53374-Bajoru-virtuve.md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "68d6e6bba748055255defa470e26ba83e61082ab4bf0143a4eb7d9f4f657f23b",
+      "source_hash": "7b8c9db63ead9d382272b90e7814cfac52dffc0f4318c377e879f3161c2b90a1",
+      "source_rel": "darbas/sources/Lituanistika-5702-Bajoru-suvažiavimai.md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "d6b3eedf5bded630f63c14978e534168a4a5a6f124a87c9b98e057c9f09c0d60",
+      "source_hash": "5052851caab235e5d5c9ea421ccaa218fe8e07dbaa39b78ebd151ff762081b17",
+      "source_rel": "darbas/sources/Lituanistika-61725-Bajoro-sodybos-tarnai-ir-seimynykciai.md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "169e150dc6200847590b4f42997418b848300136dc4f27e223083483c1096181",
+      "source_hash": "6446b54be99a58def91450b995c675b63d13fa998be2cd49b66c4df5a673025c",
+      "source_rel": "darbas/sources/Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose.md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "ba9172ddb3d5e225fda1a972811980212f6ec6e50b3a578798e02fcc64b4d0a7",
+      "source_hash": "8524c70621a2910677f7686398226cd5a4aa93f534c5c46e3438ad125d98da19",
+      "source_rel": "darbas/sources/Lituanistika-64400-Feodalines-teises-apraiskos-LDK.md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "5e560daccc9ed93f868df1daa7af50057d716b294ccadc2cb5e8df1ede566f4f",
+      "source_hash": "9210fc4bee6f7b724a28886dedd8e335357ae99a1877dd31dcc4904b74cf0a9f",
+      "source_rel": "darbas/sources/Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje.md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "12c079137a1006046000cc69a8e8561909b9bfa801951e9e5498e3ea73ad86b4",
+      "source_hash": "d8c6d0cdadce53a7648196b1be81e1110385503a2d1e975d506caa1131c6dee6",
+      "source_rel": "darbas/sources/Lituanistika-66360-Didieji-medziokliai-Radvilos.md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "fc63d42c011db939ae2b2ad76ee200bf40ad0320f3d5105d47b51dd5657aabfb",
+      "source_hash": "dedf8805820f48242ad6d210f88b4c83b2eb07700be80d11440e6dd0e70d49f0",
+      "source_rel": "darbas/sources/Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams.md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "d63bf27bbb7302fec2ba4125caf2daaf3670977c07facabce374ead975ad296d",
+      "source_hash": "ad13c5b48ef20fd79ddb9c5859e247dcf8f635daff4bee2e66d0bddbbb592cc7",
+      "source_rel": "darbas/sources/Lituanistika-7542-Puotos-Lietuvos-valdovo-dvare-gotikos-laikais.md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "aa2f771f10d394fea8c8b168e71926d4f51b582ed6369e00bc74e2dd3b9d669c",
+      "source_hash": "028991f97c77cc68e9e9d75c01b08bbc49f0b18660c3ee8b0bf3c37af30881a7",
+      "source_rel": "darbas/sources/Marija Matušakaitė, Iš LDK gyventojų aprangos istorijos- XVI–XVIII a. (straipsnis, 2011 m.).md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "8227ee9d6f0d3aa0bcbf9f57805641a282d5152caa270b75f0464def7b5e0fc3",
+      "source_hash": "4981d7031473b51de6ed36b205d588760027a53f163667e8c305135a9a29ef25",
+      "source_rel": "darbas/sources/Michał Baliński, Vilniaus miesto istorija (2007 m.).md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "19d99139f4dd431d4fb60aaca938fd6ca5520fa435b83f4fa919ac2a3d83df7d",
+      "source_hash": "f1b0ac9c4619383b1f70f590a17aa76ba8820ae6e729da1d85eb1643e25fbb96",
+      "source_rel": "darbas/sources/Mikalojus Vorobjovas, Vilniaus menas (knyga, 1940 m.).md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "ad4d5bb7607b56f0439348f539228582ab6af0ba2abbdbfad7e07b929f66d1c2",
+      "source_hash": "1e23524c44a13d5aadcf927a7979ade2718f70de234b97ef77a734c24882792e",
+      "source_rel": "darbas/sources/Motiejus Valancius - Ganytojiski laiskai.md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "9f730887fb16bff7e94ef311c2d1ba47d153241e87257cd9325debd808ddf30b",
+      "source_hash": "fc42359caba556e0f54d31be8353f57f29cd7c76d8fc21c1ffdf7ecd302e98c4",
+      "source_rel": "darbas/sources/Mūsų tautosaka, t.4 (1931).md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "",
+      "source_hash": "c931f00908a42443ddb71d0772b21fe84ec2021b39e5061d487100a8825bf334",
+      "source_rel": "darbas/sources/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.).md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "9564c42c4bcd0aa86b5c8219b655cb4a6672af18c1932a8884d255c76bdf82d7",
+      "source_hash": "094ee59cc0e4e32b6d9e655ea359690248f5f5023cf41a78842d674b92a3a0a0",
+      "source_rel": "darbas/sources/Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla.md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "ed1ed92b1391c08e4c9ad898aa46dfd0fe047aec710c15cbf3d9cea4dbae7e15",
+      "source_hash": "aa3123f4182b5012fdf390e5a7d1c8177b888cacecfb388a3fd8aee2c306512d",
+      "source_rel": "darbas/sources/Rimvydas Laužikas, Gėrimų vartojimas kaip bendrystės reprezentacija XVII–XVIII a. bajoriškojoje kultūroje (straipsnis, 2016 m.).md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "",
+      "source_hash": "e2fdb11df3cc764452b1d0a89ffb6e440671368a7767d17951c47238a96ec897",
+      "source_rel": "darbas/sources/Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean.md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "",
+      "source_hash": "f2f8363eb25035133fa2471fc91475a99feb8fa8d92ebf1d8af4403fde7b7ddb",
+      "source_rel": "darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "",
+      "source_hash": "07c0550a6f61e21ee809e3b1490567f9c315479c2f197f65d4726e539f63a464",
+      "source_rel": "darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.).md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "b0ccf25f2e7300e5a7a899b4c8c1a033c634f72485e9b321dc0d74e1e3ef18ac",
+      "source_hash": "604eebfd16c92297f75a584254b92e39f29880c4edc79f7e0decbdfc8524448a",
+      "source_rel": "darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 3 (1994 m.).md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "af30c2c264baaa142d9bfdc2564ad56cb784ec0fb236e4f127912d37f071d4ce",
+      "source_hash": "5c11f113ee3b709eee5b5fc5c88f6daa0b77fb94bfed175a91ba55f5a4e591dc",
+      "source_rel": "darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.).md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "c323410e77afc1aa64e8b3a575a4206e4456c3a9a1078675002d230bc4e34810",
+      "source_hash": "bb31d14a6231a115149854554468149eb38a07d4514cd937795eda8fc218eab2",
+      "source_rel": "darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.).md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "598055e7ba4d3acfcd6b95c21612ab53d82cb3cc384709881e5b53635c61fac5",
+      "source_hash": "fb44eb01ce5acad99becf54dd7c8bad947b71f5310113f9ecf3d8f889d31047b",
+      "source_rel": "darbas/sources/Vytautas Didysis 1350-1430 (1930 m.).md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "754ecd5d128af4014f7280a7e8d01726efaa975163804036997782d375b681ba",
+      "source_hash": "5eb2200e603394235962b022ff91c52852cf16159fea28eb10e64415906b9ed7",
+      "source_rel": "darbas/sources/Vytautas Merkys - Motiejus Valancius - Tarp katalikiskojo universalizmo ir tautiskumo.md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "ea2b6c7b2ef08ef4a8387d1ab7d241eb25f1227663984aed91c6cbf31961d4b8",
+      "source_hash": "05b03fcdc51693deafd0bc712f10ff862e3acdd244b034554dd285bb50f2a08a",
+      "source_rel": "darbas/sources/Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.).md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "50e842f88237ea32fee356baf3295cf6e63a93585461d093ada2f472029d1369",
+      "source_hash": "8f11af5dab99b6405f2da6c7284f5fea4d798b5c098d1926c0141869a760dcb8",
+      "source_rel": "darbas/sources/Zigmantas Kiaupa, Alberto Kojalavičiaus ir jo brolių kilmė bei šeima (straipsnis, 1994 m.).md"
+    },
+    {
+      "publication_mode": "verified_citations_and_ai_supported_claims",
+      "release_id": "125b368248682eda73415ab42a35b9d726f921c4e7f7c32e87bdae7fd68482e9",
+      "source_hash": "63ab3826a5e91211eaaf9686f624c750c6578a7dadcc2d0222ab67d10eeaaa5a",
+      "source_rel": "darbas/sources/Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.).md"
+    }
+  ],
+  "status": "ready"
+}

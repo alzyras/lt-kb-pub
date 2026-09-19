@@ -37,21 +37,6 @@ Seniūnas Jokūbas iš Selicos atskubėjo iš Holdovo, nuvijo plėšikautojus, o
 
 Seniūnas Jokūbas iš Selicos atskubėjo iš Holdovo, nuvijo plėšikautojus, o šie pradingo Šalčininkų giriose.
 
-## Teiginiai
-
-<a id="claim-t-206651"></a>
-- t-001
-  teiginys: "Seniūnas Jokūbas iš Selicos atskubėjo iš Holdovo, nuvijo plėšikautojus, o šie pradingo Šalčininkų giriose."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
-  pagrindžia:
-    - c-189266
-
 ## Citatos
 
 - id: c-189266
@@ -72,5 +57,21 @@ Seniūnas Jokūbas iš Selicos atskubėjo iš Holdovo, nuvijo plėšikautojus, o
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206651"></a>
+- t-001
+  teiginys: "Seniūnas Jokūbas iš Selicos atskubėjo iš Holdovo, nuvijo plėšikautojus, o šie pradingo Šalčininkų giriose."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189266
+

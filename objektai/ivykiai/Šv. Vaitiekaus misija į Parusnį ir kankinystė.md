@@ -36,32 +36,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-201264"></a>
-- t-001
-  teiginys: "Paskesniai būk Otas, teutonų ciesorius, išsiuntęs tyčioms jau arkivyskupą Magdeburgo, vardu Vai tiekų (Adalbertą), į Parusnį netikėliams teisybę evangelijos skelbti, kursai, nemokėdamas kalbos lie tuvių, nieko gero nenuveikęs, namon sugrįžo1."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184614
-
-<a id="claim-t-201265"></a>
-- t-002
-  teiginys: "Netikėliai tarės tuomi savo apjuoktas šventeny bes nuo krikščionų nugerbę ir užrūstintus savo die vus atlyžinę, vienok tarnus švento Vaitiekaus mūčelnyko paleidę sveikus, kurie pargrįžę namon Bo leslovui karaliui nelaimą Vaitiekaus apipasakojo."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184615
-
 ## Citatos
 
 - id: c-184614
@@ -91,7 +65,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184615
@@ -114,5 +88,32 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-201264"></a>
+- t-001
+  teiginys: "Paskesniai būk Otas, teutonų ciesorius, išsiuntęs tyčioms jau arkivyskupą Magdeburgo, vardu Vai tiekų (Adalbertą), į Parusnį netikėliams teisybę evangelijos skelbti, kursai, nemokėdamas kalbos lie tuvių, nieko gero nenuveikęs, namon sugrįžo1."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184614
+
+<a id="claim-t-201265"></a>
+- t-002
+  teiginys: "Netikėliai tarės tuomi savo apjuoktas šventeny bes nuo krikščionų nugerbę ir užrūstintus savo die vus atlyžinę, vienok tarnus švento Vaitiekaus mūčelnyko paleidę sveikus, kurie pargrįžę namon Bo leslovui karaliui nelaimą Vaitiekaus apipasakojo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184615
+

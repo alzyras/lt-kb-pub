@@ -43,20 +43,6 @@ Eugenijus Saviščevas publikavo 1553 m. Žemaitijos pilies teismo bylą dėl Ad
 
 Eugenijus Saviščevas publikavo 1553 m. Žemaitijos pilies teismo bylą dėl Adomo Adamkavičiaus nužudymo.
 
-## Teiginiai
-
-<a id="claim-t-203701"></a>
-- t-001
-  teiginys: "Eugenijus Saviščevas publikavo 1553 m. Žemaitijos pilies teismo bylą dėl Adomo Adamkavičiaus nužudymo."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
-  pagrindžia:
-    - c-186305
-
 ## Citatos
 
 - id: c-186305
@@ -76,5 +62,20 @@ Eugenijus Saviščevas publikavo 1553 m. Žemaitijos pilies teismo bylą dėl Ad
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203701"></a>
+- t-001
+  teiginys: "Eugenijus Saviščevas publikavo 1553 m. Žemaitijos pilies teismo bylą dėl Adomo Adamkavičiaus nužudymo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186305
+

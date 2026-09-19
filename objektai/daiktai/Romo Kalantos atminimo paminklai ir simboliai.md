@@ -48,41 +48,6 @@ Statyti bendruomenių susibūrimo vietose R. Kalantos atminimui.
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-45538"></a>
-- t-001
-  teiginys: "Užsienyje gyvenantys lietuviai statė Romo Kalantos paminklus ir kitus atminimo simbolius bendruomenių susibūrimo vietose."
-  atnaujinta: "2026-05-23 13:41"
-  sprendimo_priezastis: "gap::items"
-  ryšio_patikimumas: "pastate -> Romo Kalantos atminimo paminklai ir simboliai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Romo Kalantos atminimo paminklai ir simboliai: llm_allowed_candidate, thing"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad užsienyje gyvenantys lietuviai statė paminklus ir atminimo simbolius."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Lietuviai pastatė Romo Kalantos atminimo paminklai ir simboliai (0.88)"
-  pagrindžia:
-    - c-16938
-
-<a id="claim-t-45539"></a>
-- t-002
-  teiginys: "Romo Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės klausimą, o kauniečiai kasmet minėdavo gegužės 14-ąją."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "gap::items"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Romo Kalantos atminimo paminklai ir simboliai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=52"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romo Kalantos atminimo paminklai ir simboliai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-48312
-
 ## Citatos
 
 - id: c-16938
@@ -105,7 +70,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-48312
@@ -124,5 +89,41 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-45538"></a>
+- t-001
+  teiginys: "Užsienyje gyvenantys lietuviai statė Romo Kalantos paminklus ir kitus atminimo simbolius bendruomenių susibūrimo vietose."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::items"
+  ryšio_patikimumas: "pastate -> Romo Kalantos atminimo paminklai ir simboliai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Romo Kalantos atminimo paminklai ir simboliai: llm_allowed_candidate, thing"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad užsienyje gyvenantys lietuviai statė paminklus ir atminimo simbolius."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Lietuviai pastatė Romo Kalantos atminimo paminklai ir simboliai (0.88)"
+  pagrindžia:
+    - c-16938
+
+<a id="claim-t-45539"></a>
+- t-002
+  teiginys: "Romo Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės klausimą, o kauniečiai kasmet minėdavo gegužės 14-ąją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::items"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Romo Kalantos atminimo paminklai ir simboliai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=52"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Romo Kalantos atminimo paminklai ir simboliai\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-48312
+

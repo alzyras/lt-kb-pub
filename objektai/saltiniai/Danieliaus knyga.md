@@ -26,17 +26,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženklų ir stebuklų. Taigi man patiko paskelbti jo ženklus, nes jie dideli, ir jo stebuklus, nes galingi“ (Dan 3. 99—100), (Danielius III).
 
-## Teiginiai
-
-<a id="claim-t-61064"></a>
-- t-001
-  teiginys: "Dusburgiečio kronikos pratarmėje cituojama Danieliaus knygos vieta apie Dievo ženklų ir stebuklų paskelbimą."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-61696
-
 ## Citatos
 
 - id: c-61696
@@ -55,5 +44,13 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+## Teiginiai
+
+<a id="claim-t-224986"></a>
+- t-001
+  teiginys: "Dusburgiečio kronikos pratarmėje cituojama Danieliaus knygos vieta apie Dievo ženklų ir stebuklų paskelbimą."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+

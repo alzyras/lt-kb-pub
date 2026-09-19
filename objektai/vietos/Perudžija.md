@@ -42,20 +42,6 @@ historical_names: []
 
 Pasiuntiniai rado popiežių Perudžijoje (Š.
 
-## Teiginiai
-
-<a id="claim-t-34215"></a>
-- t-001
-  teiginys: "1388 m. balandžio 8 d. pasiuntiniai Perudžijoje rado popiežių ir gavo jo brevę."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1388 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Perudžiją ir atitinka citatą."
-  pagrindžia:
-    - c-35440
-
 ## Citatos
 
 - id: c-35440
@@ -73,5 +59,20 @@ Pasiuntiniai rado popiežių Perudžijoje (Š.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-34215"></a>
+- t-001
+  teiginys: "1388 m. balandžio 8 d. pasiuntiniai Perudžijoje rado popiežių ir gavo jo brevę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1388 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie Perudžiją ir atitinka citatą."
+  pagrindžia:
+    - c-35440
+

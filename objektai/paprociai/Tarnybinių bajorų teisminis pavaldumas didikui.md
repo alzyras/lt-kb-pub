@@ -39,21 +39,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-204059"></a>
-- t-001
-  teiginys: "Didiko ir bajoro ryšys galėjo būti laikomas feodaliniu, kai asmeninį ryšį papildė bajorui už tarnybą paskirta žemės valda ir jo teisminis pavaldumas didikui."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
-  pagrindžia:
-    - c-186663
-
 ## Santrauka
 
 Didiko ir bajoro ryšys galėjo būti laikomas feodaliniu, kai asmeninį ryšį papildė bajorui už tarnybą paskirta žemės valda ir jo teisminis pavaldumas didikui.
@@ -79,5 +64,21 @@ Didiko ir bajoro ryšys galėjo būti laikomas feodaliniu, kai asmeninį ryšį 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204059"></a>
+- t-001
+  teiginys: "Didiko ir bajoro ryšys galėjo būti laikomas feodaliniu, kai asmeninį ryšį papildė bajorui už tarnybą paskirta žemės valda ir jo teisminis pavaldumas didikui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186663
+

@@ -42,25 +42,6 @@ canonical_biography: "1452 metų vasarį Švitrigaila, kurio audringas ir nelaim
 
 1452 metų vasarį Švitrigaila, kurio audringas ir nelaimingas gy­ venimas buvo sudrumstęs pusę Europos, vienus papiktin­ damas, kitiems keldamas gailestį, užbaigė savo klajokliškas dienas Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vil­ niaus katedroje.
 
-## Teiginiai
-
-<a id="claim-t-87798"></a>
-- t-001
-  teiginys: "Kunigaikštis Mykolas, Švitrigailos sūnus ir bendrininkas, mirė nunuodytas tremtyje Maskvoje ir buvo palaidotas Vilniaus katedroje."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "mire -> Maskva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mykolas (Švitrigailos sūnus): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste tiesiogiai nurodyta, kad Mykolas mirė tremtyje Maskvoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Mykolas (Švitrigailos sūnus) mirė Maskva (0.90); Mykolas (Švitrigailos sūnus) buvo palaidotas Vilnius (0.85)"
-  pagrindžia:
-    - c-83777
-
 ## Citatos
 
 - id: c-83777
@@ -83,8 +64,28 @@ canonical_biography: "1452 metų vasarį Švitrigaila, kurio audringas ir nelaim
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Mykolas (Švitrigailos sūnus) mirė [[objektai/vietos/Maskva]]
+
+## Teiginiai
+
+<a id="claim-t-87798"></a>
+- t-001
+  teiginys: "Kunigaikštis Mykolas, Švitrigailos sūnus ir bendrininkas, mirė nunuodytas tremtyje Maskvoje ir buvo palaidotas Vilniaus katedroje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "mire -> Maskva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mykolas (Švitrigailos sūnus): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekste tiesiogiai nurodyta, kad Mykolas mirė tremtyje Maskvoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Mykolas (Švitrigailos sūnus) mirė Maskva (0.90); Mykolas (Švitrigailos sūnus) buvo palaidotas Vilnius (0.85)"
+  pagrindžia:
+    - c-83777
+

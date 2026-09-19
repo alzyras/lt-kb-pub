@@ -42,21 +42,6 @@ canonical_biography: "HrlU, IV, 127 p. — J. Caro : Geschichte Polens, III, 186
 
 HrlU, IV, 127 p. — J. Caro : Geschichte Polens, III, 1869, 211 p.
 
-## Teiginiai
-
-<a id="claim-t-100111"></a>
-- t-001
-  teiginys: "J. Caro 1869 m. išleido veikalo „Geschichte Polens“ trečią tomą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1869 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis tekstas yra bibliografinis fragmentas; citata leidžia suformuluoti glaustą faktinį sakinį."
-  vertinimo_atnaujinta: "2026-06-13T14:26:26Z"
-  pagrindžia:
-    - c-94017
-
 ## Citatos
 
 - id: c-94017
@@ -72,5 +57,21 @@ HrlU, IV, 127 p. — J. Caro : Geschichte Polens, III, 1869, 211 p.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-100111"></a>
+- t-001
+  teiginys: "J. Caro 1869 m. išleido veikalo „Geschichte Polens“ trečią tomą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1869 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis tekstas yra bibliografinis fragmentas; citata leidžia suformuluoti glaustą faktinį sakinį."
+  vertinimo_atnaujinta: "2026-06-13T14:26:26Z"
+  pagrindžia:
+    - c-94017
+

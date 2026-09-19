@@ -27,20 +27,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad šis, gerai susipažinęs su brolių gyvenimu, sugrįžo pas sembus ir pasakė: „Žinokite, kad broliai tokie pat žmonės kaip ir mes: jie turi didelius ir minkštus pilvus, o tokius ir mes turime, panašūs jų ginklai, panašus maistas ir šiaip daug kuo jie į mus labai. Dusburgietis teigia, kad “ Kadangi matė brolius valgant kopūstus, kurių prūsai nevartoja, ir manė, jog tai žolė, jis pridūrė: „Be to, ir valgo jie žolę nelyginant arkliai ar mulai, tai kas gi įstengsiąs jiems atsispirti, jeigu jie ir dykrose be vargo gali susirasti maisto?“ 71 (70).
 
-## Teiginiai
-
-<a id="claim-t-194559"></a>
-- t-001
-  teiginys: "Todėl jie mus kovoje, be abejonės, nugalės!“ Kadangi matė brolius valgant kopūstus, kurių prūsai nevartoja, ir manė, jog tai žolė, jis pridūrė: „Be to, ir valgo jie žolę nelyginant arkliai ar mulai, tai kas gi įstengsiąs jiems atsispirti, jeigu jie ir dykrose."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-176959
-
 ## Citatos
 
 - id: c-176959
@@ -60,5 +46,39 @@ Dusburgietis teigia, kad šis, gerai susipažinęs su brolių gyvenimu, sugrįž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-202841
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 104"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 104."
+  citata_originali: |
+    Todėl jie mus
+    kovoje, be abejonės, nugalės!“ Kadangi matė brolius valgant kopūstus, kurių prūsai
+    nevartoja, ir manė, jog tai žolė, jis pridūrė: „Be to, ir valgo jie žolę nelyginant arkliai
+    ar mulai, tai kas gi įstengsiąs jiems atsispirti, jeigu jie ir dykrose be vargo gali susirasti
+    maisto?“
+    71 (70).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-224297"></a>
+- t-001
+  teiginys: "Todėl jie mus kovoje, be abejonės, nugalės!“ Kadangi matė brolius valgant kopūstus, kurių prūsai nevartoja, ir manė, jog tai žolė, jis pridūrė: „Be to, ir valgo jie žolę nelyginant arkliai ar mulai, tai kas gi įstengsiąs jiems atsispirti, jeigu jie ir dykrose."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202841
+

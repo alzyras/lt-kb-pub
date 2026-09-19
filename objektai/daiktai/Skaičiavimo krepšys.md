@@ -1,0 +1,81 @@
+---
+tipas: daiktas
+pavadinimas: 'Skaičiavimo krepšys'
+saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Skaičiavimo krepšys
+
+## Santrauka
+
+Raštas jiems nežinomas dalykas, be to, jie nesu prato, kaip parašytomis raidėmis galima persiųsti savo mintis net į tolimiausius kraštus, o dienas ir mėnulio ap sisukimus skaičiavo ¿pindami į krepšį pagaliukus arba už megzdami mazgus ant virvelės.
+
+## Pavadinimai šaltiniuose
+Nenurodyta
+
+## Laikotarpis ir datos
+Nenurodyta
+
+## Kas tai
+Nenurodyta
+
+## Naudojimas
+Nenurodyta
+
+## Kontekstas
+Nenurodyta
+
+## Teiginiai
+
+<a id="claim-t-214103"></a>
+- t-001
+  teiginys: "Raštas jiems nežinomas dalykas, be to, jie nesu prato, kaip parašytomis raidėmis galima persiųsti savo mintis net į tolimiausius kraštus, o dienas ir mėnulio ap sisukimus skaičiavo ¿pindami į krepšį pagaliukus arba už megzdami mazgus ant virvelės."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195754
+
+## Santrauka
+
+Raštas jiems nežinomas dalykas, be to, jie nesu prato, kaip parašytomis raidėmis galima persiųsti savo mintis net į tolimiausius kraštus, o dienas ir mėnulio ap sisukimus skaičiavo ¿pindami į krepšį pagaliukus arba už megzdami mazgus ant virvelės.
+
+## Citatos
+
+- id: c-195754
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 168"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 168."
+  citata_originali: |
+    Raštas jiems nežinomas dalykas, be to, jie nesu­
+    prato, kaip parašytomis raidėmis galima persiųsti savo
+    mintis net į tolimiausius kraštus, o dienas ir mėnulio ap­
+    sisukimus skaičiavo ¿pindami į krepšį pagaliukus arba už­
+    megzdami mazgus ant virvelės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+

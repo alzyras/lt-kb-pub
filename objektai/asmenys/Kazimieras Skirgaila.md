@@ -56,9 +56,9 @@ Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo. Kazimi
     - c-169310
 
 <a id="claim-t-185950"></a>
-- t-002
+- t-185950
   teiginys: "Kazimieras Skirgaila turėjo pasitenkinti gautomis kunigaikštystėmis ir nesiekti Lietuvos didžiojo kunigaikščio vardo."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -74,29 +74,10 @@ Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo. Kazimi
   pagrindžia:
     - c-169311
 
-<a id="claim-t-185951"></a>
-- t-003
-  teiginys: "Vienuolyno viršininkas slapta įpylė nuodų Skirgailai, kai šis po medžioklės užsuko į rusų vienuolyną."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Rusai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Kazimieras Skirgaila (Lenkijos karalius): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Rusai: mention_match, group, gap=43"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Kazimieras Skirgaila (Lenkijos karalius)\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169312
-
 <a id="claim-t-196519"></a>
-- t-004
+- t-196519
   teiginys: "Kojelavičiaus pasakojime Skirgailos puikybė ir žiaurumas kartu su nuolatiniais priešų antpuoliais palaužė aptariamo vyro kantrybę."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -107,9 +88,9 @@ Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo. Kazimi
     - c-178746
 
 <a id="claim-t-196520"></a>
-- t-005
+- t-196520
   teiginys: "Po Olesnickio sėkmės apsuptieji atgavo drąsą, o Vytautas ir kryžiuočiai nusivylė sužinoję, kad pilyje tvarkosi Olesnickis ir atvėso neapykanta Skirgailai."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -214,13 +195,14 @@ Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo. Kazimi
     stumti su nuostoliais.
   citata_rodoma: "Po šio įvykio apsuptieji atgavo drąsą, \nmanydami, jog sėkmingai prasidėjęs karas sėkmingai \nir baigsis, tuo tarpu Vytautas bei kryžiuočiai nusivylė, \nypač tada, kai patyrė, jog pilyje tvarkosi vienas Oles­\nnickis, o lietuvių neapykanta išvykusiam Skirgailai \nsmarkiai atvėso. Vis dėlto, nepraradę visų vilčių, nuta­\nrė stoti į kovą. Porą kartų pa- \nPuola, \np a tird a m a s \nbandė visomis jėgomis pulti \nnuostolių \npilis ir abu kartus buvo at­\nstumti su nuostoliais."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-13 01:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
-    - t-005
+    - t-196520
 
 - id: c-169311
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -257,8 +239,8 @@ Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo. Kazimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-185950
 
 - id: c-169312
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -285,8 +267,6 @@ Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo. Kazimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-178746
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -306,5 +286,6 @@ Skirgaila skubėjo iš Rusios pralaužti Vytauto vykdyto apsupimo žiedo. Kazimi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-196519
+

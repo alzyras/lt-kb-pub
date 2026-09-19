@@ -31,20 +31,6 @@ canonical_biography: "Viešpats Vokietijos Rudol fas Habsburgas, kariaudamas su 
 
 Viešpats Vokietijos Rudol fas Habsburgas, kariaudamas su Otokaru, viešpa čiu Čekų, nespėjo kryžėjams taikinėti.
 
-## Teiginiai
-
-<a id="claim-t-201423"></a>
-- t-001
-  teiginys: "Viešpats Vokietijos Rudol fas Habsburgas, kariaudamas su Otokaru, viešpa čiu Čekų, nespėjo kryžėjams taikinėti."
-  atnaujinta: "2026-07-16 14:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184773
-
 ## Citatos
 
 - id: c-184773
@@ -63,5 +49,20 @@ Viešpats Vokietijos Rudol fas Habsburgas, kariaudamas su Otokaru, viešpa čiu 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201423"></a>
+- t-001
+  teiginys: "Viešpats Vokietijos Rudol fas Habsburgas, kariaudamas su Otokaru, viešpa čiu Čekų, nespėjo kryžėjams taikinėti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184773
+

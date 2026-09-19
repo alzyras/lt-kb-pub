@@ -27,25 +27,6 @@ media_all_json: |-
 
 Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa, nors yra pasmerkusi Sovietų Sąjungos įvykdytą agresiją prieš tris Baltijos valstybes, ir laikosi pozicijos, kad Lietuva, Estija ir Latvija neva savo noru įstojo į SSRS ir kad SSRS dėl savo ano meto.
 
-## Teiginiai
-
-<a id="claim-t-26350"></a>
-- t-001
-  teiginys: "Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa ir teigia, kad Baltijos valstybės neva savo noru įstojo į SSRS."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> SSRS: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Latvija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "SSRS: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata vardija Latviją tarp valstybių, kurios pagal aptariamą poziciją įstojo į SSRS, bet tai pateikta kaip ginčijama pozicija."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Lietuva priklausė SSRS (0.68); Estija priklausė SSRS (0.68); Latvija priklausė SSRS (0.68)"
-  pagrindžia:
-    - c-26575
-
 ## Citatos
 
 - id: c-26575
@@ -67,5 +48,25 @@ Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa, nors yra pasmerkus
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-26350"></a>
+- t-001
+  teiginys: "Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa ir teigia, kad Baltijos valstybės neva savo noru įstojo į SSRS."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> SSRS: 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Latvija: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "SSRS: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata vardija Latviją tarp valstybių, kurios pagal aptariamą poziciją įstojo į SSRS, bet tai pateikta kaip ginčijama pozicija."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Lietuva priklausė SSRS (0.68); Estija priklausė SSRS (0.68); Latvija priklausė SSRS (0.68)"
+  pagrindžia:
+    - c-26575
+

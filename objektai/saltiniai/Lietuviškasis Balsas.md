@@ -26,27 +26,6 @@ media_all_json: |-
 
 Lietuviškasis Balsas: „Lietuviškojo Balso" pirmojo numerio antraštė. (Laikraštis ėjo 1885—1889 m.). Lietuviškasis Balsas: 1885 m. jau ėmė leisti savo laikraštį „Lietuviškąjį Bal- są", kurį jam tekdavo beveik vienam ir prirašyti, ir išspausdinti ir išplatinti. Lietuviškasis Balsas: per 4 metus, padedamas Lietuvoje ir Rusijoje gy- venančių lietuvių inteligentų, savo laikraštyje jis kėlė lietuvių susipratimą, ragino pačius lietuvius tvarkyti savo gyvenimą, o nesiglausti prie lenkų.
 
-## Teiginiai
-
-<a id="claim-t-67434"></a>
-- t-001
-  teiginys: "„Lietuviškasis Balsas“ ketverius metus kėlė lietuvių susipratimą ir ragino lietuvius patiems tvarkyti savo gyvenimą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67334
-
-<a id="claim-t-67435"></a>
-- t-002
-  teiginys: "Laikraštis „Lietuviškasis Balsas“ buvo leidžiamas 1885–1889 m."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-67333
-
 ## Citatos
 
 - id: c-67333
@@ -66,8 +45,9 @@ Lietuviškasis Balsas: „Lietuviškojo Balso" pirmojo numerio antraštė. (Laik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+    - t-003
 
 - id: c-67334
   redaktorius: "A. Šapoka"
@@ -89,5 +69,38 @@ Lietuviškasis Balsas: „Lietuviškojo Balso" pirmojo numerio antraštė. (Laik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+    - t-003
+
+## Teiginiai
+
+<a id="claim-t-67434"></a>
+- t-001
+  teiginys: "„Lietuviškasis Balsas“ ketverius metus kėlė lietuvių susipratimą ir ragino lietuvius patiems tvarkyti savo gyvenimą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67334
+
+<a id="claim-t-67435"></a>
+- t-002
+  teiginys: "Laikraštis „Lietuviškasis Balsas“ buvo leidžiamas 1885–1889 m."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-67333
+
+<a id="claim-t-67436"></a>
+- t-003
+  teiginys: "1885 m. pradėtas leisti laikraštis „Lietuviškasis Balsas“, kurį leidėjui teko beveik vienam rašyti, spausdinti ir platinti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67333
+    - c-67334
+

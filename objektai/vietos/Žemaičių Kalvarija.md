@@ -43,19 +43,6 @@ historical_names: []
 
 1958 m. „atšilimas“ baigėsi, pradėta kovoti su religija mokymo ir mokslo įstaigose, įmonėse steigti ateistų būreliai, drausta skambinti varpais, varžomi krikštijimai, katekizavimas, ribotas atlaidų lankymas Žemaičių Kalvarijoje ir Šiluvoje (miestelis netoli.
 
-## Teiginiai
-
-<a id="claim-t-195663"></a>
-- t-001
-  teiginys: "Po 1958 m. valdžia ribojo atlaidų lankymą Žemaičių Kalvarijoje ir Šiluvoje."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-178065
-
 ## Citatos
 
 - id: c-178065
@@ -81,5 +68,19 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-195663"></a>
+- t-001
+  teiginys: "Po 1958 m. valdžia ribojo atlaidų lankymą Žemaičių Kalvarijoje ir Šiluvoje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-178065
+

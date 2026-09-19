@@ -48,10 +48,37 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
 
 ## Teiginiai
 
+<a id="claim-t-224974"></a>
+- t-224974
+  teiginys: "Ketvirta — Varmė194, kurioje [gyveno] varmiai."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204800
+
+<a id="claim-t-220236"></a>
+- t-220236
+  teiginys: "Petro Dusburgiečio kronikoje Varmė įtraukta tarp vienuolikos Prūsijos žemės dalių."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Prūsija: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Varmė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje Varmė įtraukta į Prūsijos žemės dalių sąrašą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Varmė priklausė Prūsija (0.86)"
+
 <a id="claim-t-91423"></a>
-- t-001
+- t-91423
   teiginys: "Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dėl taikos sutarties."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Elbingas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -64,27 +91,10 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
   pagrindžia:
     - c-87139
 
-<a id="claim-t-91424"></a>
-- t-002
-  teiginys: "Petro Dusburgiečio kronikoje Varmė įtraukta tarp vienuolikos Prūsijos žemės dalių."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Prūsija: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Varmė: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Prūsija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje Varmė įtraukta į Prūsijos žemės dalių sąrašą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Varmė priklausė Prūsija (0.86)"
-  pagrindžia:
-    - c-87137
-
 <a id="claim-t-91426"></a>
-- t-003
+- t-91426
   teiginys: "Varmės bažnyčios kapitula prašė pripažinti Fabijono paskyrimą dabartiniu Varmės vyskupu."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Fabijonas (Varmės vyskupas): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -98,9 +108,9 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
     - c-87133
 
 <a id="claim-t-91427"></a>
-- t-004
+- t-91427
   teiginys: "Varmės vyskupas Eberhardas Elblionge surengė pasitarimą dėl gautos žinios apie taikos sutartį."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Elbliongas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -114,9 +124,9 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
     - c-87139
 
 <a id="claim-t-91428"></a>
-- t-005
+- t-91428
   teiginys: "XIV a. buvo įkurti beveik visi Varmės miestai."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -130,9 +140,9 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
     - c-87135
 
 <a id="claim-t-91429"></a>
-- t-006
+- t-91429
   teiginys: "Varmės bažnyčios kapitula prašė pripažinti galiojančiu Fabijono paskyrimą Varmės vyskupu."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Fabijonas (Varmės vyskupas): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -146,9 +156,9 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
     - c-87133
 
 <a id="claim-t-91430"></a>
-- t-007
+- t-91430
   teiginys: "XIV amžiuje buvo įkurti beveik visi Varmės miestai."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Baltija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -162,9 +172,9 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
     - c-87135
 
 <a id="claim-t-196750"></a>
-- t-008
+- t-196750
   teiginys: "Kojelavičiaus pasakojime Vytenis balandžio mėnesį su keturiais tūkstančiais rinktinių karių užpuolė Varmės žemę ir ją siaubingai nuniokojo."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -208,9 +218,9 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-    - t-006
+  pagrindžia:
+    - t-91426
+    - t-91429
 
 - id: c-87135
   autorius: "Michał Baliński"
@@ -233,9 +243,9 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
-    - t-007
+  pagrindžia:
+    - t-91428
+    - t-91430
 
 - id: c-87137
   autorius: "Petras Dusburgietis"
@@ -257,8 +267,6 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-87139
   autorius: "Michał Baliński"
@@ -292,9 +300,9 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-004
+  pagrindžia:
+    - t-91423
+    - t-91427
 
 - id: c-178889
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -321,8 +329,24 @@ Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
+  pagrindžia:
+    - t-196750
+
+- id: c-204800
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 58"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 58."
+  citata_originali: |
+    Ketvirta — Varmė194, kurioje [gyveno] varmiai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-224974
 
 ## Ryšiai
 - Puolė Varmę: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]

@@ -34,62 +34,6 @@ Bajorų suvažiavimai išaugo iš plačiosios dvaro tarybos. Didikų ir bajorų 
 
 Bajorų suvažiavimai išaugo iš plačiosios dvaro tarybos. Didikų ir bajorų suvažiavimus šaltiniai vis dažniau vadino visos LDK žemės suvažiavimais. 1453 m. Kazimieras į Parčevą pakvietė lenkų ir lietuvių kilminguosius, iš anksto numatydamas po du bajorus iš kiekvienos herbinės giminės.
 
-## Teiginiai
-
-<a id="claim-t-204371"></a>
-- t-001
-  teiginys: "Bajorų suvažiavimai išaugo iš plačiosios dvaro tarybos."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  pagrindžia:
-    - c-186975
-
-<a id="claim-t-204372"></a>
-- t-002
-  teiginys: "Didikų ir bajorų suvažiavimus šaltiniai vis dažniau vadino visos LDK žemės suvažiavimais."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
-  pagrindžia:
-    - c-186976
-
-<a id="claim-t-204373"></a>
-- t-003
-  teiginys: "1453 m. Kazimieras į Parčevą pakvietė lenkų ir lietuvių kilminguosius, iš anksto numatydamas po du bajorus iš kiekvienos herbinės giminės."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  temporaliniai_duomenys: "įvykio data: 1453 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Atsisakyta šaltinyje nepaminėtos pavardės ir išlaikytas tik citatoje pagrįstas konservatyvus asmens įvardijimas."
-  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
-  pagrindžia:
-    - c-186977
-
-<a id="claim-t-204374"></a>
-- t-004
-  teiginys: "Parčevo suvažiavimas, Ordino žiniomis, baigėsi nesėkme, nes į jį atvyko labai mažai lietuvių."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
-  pagrindžia:
-    - c-186978
-
 ## Citatos
 
 - id: c-186975
@@ -111,7 +55,7 @@ Bajorų suvažiavimai išaugo iš plačiosios dvaro tarybos. Didikų ir bajorų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186976
@@ -127,7 +71,7 @@ Bajorų suvažiavimai išaugo iš plačiosios dvaro tarybos. Didikų ir bajorų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-186977
@@ -149,7 +93,7 @@ Bajorų suvažiavimai išaugo iš plačiosios dvaro tarybos. Didikų ir bajorų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-186978
@@ -173,5 +117,62 @@ Bajorų suvažiavimai išaugo iš plačiosios dvaro tarybos. Didikų ir bajorų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+## Teiginiai
+
+<a id="claim-t-204371"></a>
+- t-001
+  teiginys: "Bajorų suvažiavimai išaugo iš plačiosios dvaro tarybos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  pagrindžia:
+    - c-186975
+
+<a id="claim-t-204372"></a>
+- t-002
+  teiginys: "Didikų ir bajorų suvažiavimus šaltiniai vis dažniau vadino visos LDK žemės suvažiavimais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186976
+
+<a id="claim-t-204373"></a>
+- t-003
+  teiginys: "1453 m. Kazimieras į Parčevą pakvietė lenkų ir lietuvių kilminguosius, iš anksto numatydamas po du bajorus iš kiekvienos herbinės giminės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1453 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Atsisakyta šaltinyje nepaminėtos pavardės ir išlaikytas tik citatoje pagrįstas konservatyvus asmens įvardijimas."
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186977
+
+<a id="claim-t-204374"></a>
+- t-004
+  teiginys: "Parčevo suvažiavimas, Ordino žiniomis, baigėsi nesėkme, nes į jį atvyko labai mažai lietuvių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186978
+

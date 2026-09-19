@@ -36,15 +36,6 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
 
 ## Teiginiai
 
-<a id="claim-t-34251"></a>
-- t-001
-  teiginys: "Satyros objektus autorius nebijojo vadinti tikrais vardais, nors jo satyriški knybtelėjimai laikyti labai švelniais."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-35478
-
 <a id="claim-t-34252"></a>
 - t-002
   teiginys: "„Rakštys“ buvo satyrų ir juokų knyga su aštriomis to meto satyromis."
@@ -54,10 +45,19 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
   pagrindžia:
     - c-35477
 
+<a id="claim-t-34251"></a>
+- t-34251
+  teiginys: "Satyros objektus autorius nebijojo vadinti tikrais vardais, nors jo satyriški knybtelėjimai laikyti labai švelniais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-35478
+
 <a id="claim-t-34253"></a>
-- t-003
+- t-34253
   teiginys: "Knygelėje pateikta satyriška 1926–1930 m. Lietuvos gyvenimo apžvalga."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -91,8 +91,8 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-34253
 
 - id: c-35477
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -104,11 +104,12 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
     Rakšties, RAKŠTYS. Satyros ir juokai. 96 pusl. Kaina Lt. 2, —
     Čia yra labai aštrios mūsų dienų satyros.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-35478
@@ -130,5 +131,6 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-34251
+

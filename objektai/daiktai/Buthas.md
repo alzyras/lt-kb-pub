@@ -43,45 +43,17 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-189676"></a>
-- t-001
-  teiginys: "Narbutas Buthą apibūdina kaip ąžuolinę dvasininko lazdą, liaudies kalba vadintą valdžios ženklu ir turėjusią šakotą viršūnę su kutais."
-  atnaujinta: "2026-07-12 22:33"
+<a id="claim-t-218871"></a>
+- t-218871
+  teiginys: "Vulgari sermo ne Buthas nuncupatus talem habuit formam: Ba culus longuisculus, de ligno simplici quaerci, sup ra quem est una virga, curvata in modum nodi, paululo inclinata rursum, de qua junctione una bursa pendent."
+  atnaujinta: "2026-09-12 23:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Krivis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Buthas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Krivis: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Buthas\" parinktas kaip owner_note_path. Targetas \"Krivis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-172559
-
-<a id="claim-t-189677"></a>
-- t-002
-  teiginys: "Narbutas Buthą aprašo kaip paprasto dvasininko ar vaidilos teisėjo galią žymėjusią ąžuolinę lazdą su kreiva šaka ir vienu kutu."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Vaidilos: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Buthas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Vaidilos: mention_match, group, gap=41"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Buthas\" parinktas kaip owner_note_path. Targetas \"Vaidilos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-172560
+    - c-199087
 
 ## Citatos
 
@@ -111,8 +83,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-172560
   autorius: "Teodoras Narbutas"
@@ -145,5 +115,34 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-199087
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 428"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 428."
+  citata_originali: |
+    Symbolium jurisdictionis communi sacerdo­
+    tis, jus judicandi habentis, Wajdalotae vel alii id
+    generis, sive baculus sacerdotalis. Vulgari sermo­
+    ne Buthas nuncupatus talem habuit formam: Ba­
+    culus longuisculus, de ligno simplici quaerci, sup­
+    ra quem est una virga, curvata in modum nodi,
+    paululo inclinata rursum, de qua junctione una
+    bursa pendent.
+    (Paprasto dvasininko, vaidilos, turinčio tei­
+    sėjo galią, arba kito panašaus [dvasininko] žen­
+    klas, liaudies kalba buthas, atrodė taip: ilgoka
+    paprasto ąžuolo lazda, kuri baigiasi kreiva ša­
+    ka, tarytum perrišta mazgu, šiek tiek išlenkta į
+    vieną ir kitą pusę; nuo tos [šakos] jungties krin­
+    ta vienas kutas).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218871
+

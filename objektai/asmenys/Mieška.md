@@ -46,28 +46,6 @@ canonical_biography: "Paminėkime tokią grandinę: Lenkijos valdovo Mieško kri
 
 Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo Rusios valdovo Vladimiro krikštas (988), kankinyste pasibaigusi šv.
 
-## Teiginiai
-
-<a id="claim-t-78066"></a>
-- t-001
-  teiginys: "Lenkijos valdovas Mieška krikštijosi 966 m."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Lenkija: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mieška: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai vadina Miešką Lenkijos valdovu."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Mieška buvo valdovas Lenkija (0.88)"
-  temporaliniai_duomenys: "valdymo laikotarpis: 966 m"
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Mieška buvo valdovas Lenkija“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, gramatiškas ir paremtas citata."
-  pagrindžia:
-    - c-75371
-
 ## Citatos
 
 - id: c-75371
@@ -88,5 +66,28 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-78066"></a>
+- t-001
+  teiginys: "Lenkijos valdovas Mieška krikštijosi 966 m."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_valdovas -> Lenkija: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mieška: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai vadina Miešką Lenkijos valdovu."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Mieška buvo valdovas Lenkija (0.88)"
+  temporaliniai_duomenys: "valdymo laikotarpis: 966 m"
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Mieška buvo valdovas Lenkija“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, gramatiškas ir paremtas citata."
+  pagrindžia:
+    - c-75371
+

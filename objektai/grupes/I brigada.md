@@ -33,25 +33,6 @@ media_all_json: |-
 
 Lietuvių pajėgos Veikiančioji Lietuvos kariuomenė buvo pertvarkyta į dvi brigadas. Puolimą pradėjo I brigada, jos svarbiausias uždavinys buvo pralaužti bolševikų gynybą gerai įtvirtintoje Galminių-BružųNaujasodės linijoje.
 
-## Teiginiai
-
-<a id="claim-t-40889"></a>
-- t-001
-  teiginys: "I brigada pradėjo puolimą ir turėjo pralaužti bolševikų gynybą Galminių-Bružų-Naujasodės linijoje."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Naujasodė: 0.77"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "I brigada: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Naujasodė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "I brigados puolimo uždavinys tiesiogiai siejamas su gynybos pralaužimu Naujasodės linijoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "I brigada puolė Naujasodė (0.77)"
-  pagrindžia:
-    - c-44743
-
 ## Citatos
 
 - id: c-44743
@@ -75,5 +56,25 @@ Lietuvių pajėgos Veikiančioji Lietuvos kariuomenė buvo pertvarkyta į dvi br
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-40889"></a>
+- t-001
+  teiginys: "I brigada pradėjo puolimą ir turėjo pralaužti bolševikų gynybą Galminių-Bružų-Naujasodės linijoje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Naujasodė: 0.77"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "I brigada: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Naujasodė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "I brigados puolimo uždavinys tiesiogiai siejamas su gynybos pralaužimu Naujasodės linijoje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "I brigada puolė Naujasodė (0.77)"
+  pagrindžia:
+    - c-44743
+

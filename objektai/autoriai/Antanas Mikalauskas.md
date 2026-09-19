@@ -43,20 +43,6 @@ Antano Mikalausko 1937 m. Kaune vokiečių kalba išleistame darbe nagrinėta ba
 
 Antano Mikalausko 1937 m. Kaune vokiečių kalba išleistame darbe nagrinėta baudžiamoji teisė trijuose Lietuvos Statutuose.
 
-## Teiginiai
-
-<a id="claim-t-203700"></a>
-- t-001
-  teiginys: "Antano Mikalausko 1937 m. Kaune vokiečių kalba išleistame darbe nagrinėta baudžiamoji teisė trijuose Lietuvos Statutuose."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
-  pagrindžia:
-    - c-186304
-
 ## Citatos
 
 - id: c-186304
@@ -75,5 +61,20 @@ Antano Mikalausko 1937 m. Kaune vokiečių kalba išleistame darbe nagrinėta ba
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203700"></a>
+- t-001
+  teiginys: "Antano Mikalausko 1937 m. Kaune vokiečių kalba išleistame darbe nagrinėta baudžiamoji teisė trijuose Lietuvos Statutuose."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186304
+

@@ -27,27 +27,6 @@ media_all_json: |-
 
 pramanė „sukilimo pasaką: lenkija, nebegalėdama niekuo pateisinti tokio savo elgesio, pramanė „sukilimo" pa- saką. Esą, atsiradęs jų kariuomenėje generolas maištininkas Že- ligovskis ir savavališkai užėmęs Vilnių. Jo kariuomenė (dvi pėstininkų ir viena raitelių divizija, kurios buvo. pramanė „sukilimo pasaką: iš tikro Želigovskio kariuomenė buvo taip sudaryta, kad joje būtų daug vilniškių ir artimų sričių žmonių: tuo būdu buvo lengviau teisintis, kad, esą, tos divizijos negalėjusios palikti neišvaduotos savo tėviškės, ir nužygiavusios, nepaisydamos santarvės rei-.
 
-## Teiginiai
-
-<a id="claim-t-67306"></a>
-- t-001
-  teiginys: "Lenkija pramanė „sukilimo“ pasaką, kad pateisintų Želigovskio kariuomenės Vilniaus užėmimą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67263
-
-<a id="claim-t-67307"></a>
-- t-002
-  teiginys: "Želigovskio kariuomenė buvo sudaryta su daug vilniškių, kad Vilniaus užėmimą būtų lengviau teisinti kaip vietinių sukilimą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T14:12:56Z"
-  pagrindžia:
-    - c-67264
-
 ## Citatos
 
 - id: c-67263
@@ -67,7 +46,7 @@ pramanė „sukilimo pasaką: lenkija, nebegalėdama niekuo pateisinti tokio sav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-67264
@@ -91,5 +70,27 @@ pramanė „sukilimo pasaką: lenkija, nebegalėdama niekuo pateisinti tokio sav
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-67306"></a>
+- t-001
+  teiginys: "Lenkija pramanė „sukilimo“ pasaką, kad pateisintų Želigovskio kariuomenės Vilniaus užėmimą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67263
+
+<a id="claim-t-67307"></a>
+- t-002
+  teiginys: "Želigovskio kariuomenė buvo sudaryta su daug vilniškių, kad Vilniaus užėmimą būtų lengviau teisinti kaip vietinių sukilimą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T14:12:56Z"
+  pagrindžia:
+    - c-67264
+

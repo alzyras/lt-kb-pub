@@ -33,28 +33,6 @@ canonical_biography: "Narbutas poną Rumbovičių įvardija kaip Vilniaus gimnaz
 
 Narbutas poną Rumbovičių įvardija kaip Vilniaus gimnazijos matematikos mokytoją, pasakojusį apie Podčašinskio apžiūrėtus Vilniaus katedros varpinės ženklus.
 
-## Teiginiai
-
-<a id="claim-t-190202"></a>
-- t-001
-  teiginys: "Narbutas poną Rumbovičių įvardija kaip Vilniaus gimnazijos matematikos mokytoją, pasakojusį apie Podčašinskio apžiūrėtus Vilniaus katedros varpinės ženklus."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Ponas Rumbovičius: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=30"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ponas Rumbovičius\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173085
-
 ## Citatos
 
 - id: c-173085
@@ -78,5 +56,51 @@ Narbutas poną Rumbovičių įvardija kaip Vilniaus gimnazijos matematikos mokyt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-198607
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 272"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 272."
+  citata_originali: |
+    Šis pastatas kilo tiesiog iš senovi­
+    nio pastato griuvėsių16 17. Toji šventykla turėjo būti su kariniais
+    įtvirtinimais, nes senoviniuose XVI amžiaus dokumentuose mi­
+    nima senovinė piliavietė ir būtent šioje vietoje kadaise stovėję
+    16 Ponas Rumbovičius, Vilniaus gimnazijos matematikos mokyto­
+    jas, pasakojo, kad ponas Podčašinskis, buvusio Universiteto architek­
+    tūros profesorius, apžiūrinėdamas Vilniaus katedros varpinę, pastebėjo
+    ant plytų ten, kur baigiasi jos netaisyklingoji dalis, kažkokius antspau­
+    dus ir ženklus, kuriuos parodė Leleveliui. Tik neaišku, koks buvo rezul­
+    tatas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-220158"></a>
+- t-001
+  teiginys: "Narbutas poną Rumbovičių įvardija kaip Vilniaus gimnazijos matematikos mokytoją, pasakojusį apie Podčašinskio apžiūrėtus Vilniaus katedros varpinės ženklus."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ponas Rumbovičius: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=30"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ponas Rumbovičius\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-198607
+

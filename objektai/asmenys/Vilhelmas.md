@@ -42,10 +42,34 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
 
 ## Teiginiai
 
+<a id="claim-t-220482"></a>
+- t-220482
+  teiginys: "1249 m. Vilhelmas, Olandijos grafas, buvo išrinktas Romos karaliumi."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204769
+
+<a id="claim-t-224454"></a>
+- t-224454
+  teiginys: "Šioje kariuomenėje buvo vienas grafas magistras Vilhelmas, vengrų karvedys,."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-206283
+
 <a id="claim-t-51186"></a>
-- t-001
+- t-51186
   teiginys: "Vienuolikmetė Jadvyga buvo sužieduota su Austrijos hercogu Vilhelmu."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Austrija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -62,9 +86,9 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
     - c-36533
 
 <a id="claim-t-51187"></a>
-- t-002
+- t-51187
   teiginys: "Austrijos hercogas Vilhelmas buvo sužieduotas su vienuolikmete Jadvyga dar jos tėvui mirštant."
-  atnaujinta: "2026-06-01 14:44"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jadvyga: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -80,9 +104,9 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
     - c-36533
 
 <a id="claim-t-201044"></a>
-- t-003
+- t-201044
   teiginys: "Jau galan metų 1224, Honorijus III popiežius, garsus lietuvių veika luose, atleido savo siuntinį Vilhelmą, vyskupą Mutinų, vyrą didžiai išmintingą ir gudrų, sumanantį kaip bažnyčios, taip ūkės reikaluose, į Padaugavį taikinti kalavijonų su v."
-  atnaujinta: "2026-07-16 14:31"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -92,9 +116,9 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
     - c-184394
 
 <a id="claim-t-201045"></a>
-- t-004
+- t-201045
   teiginys: "Vilhelmas pradėjo gorinti Sviatopelką iškeikimu, liepdamas jam liautis nuo naikinimo ti kybos krikščionų ir kraštų kryžėjų.."
-  atnaujinta: "2026-07-16 14:31"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -104,9 +128,9 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
     - c-184395
 
 <a id="claim-t-201046"></a>
-- t-005
+- t-201046
   teiginys: "Toksai įbingimas perkrikštų Parusny didyn vien gandino kryžėjus, kurių vyresnybė nemintanti guodės popiežiui, rodydama savo pavojų ir artimą pra garą bei pagalbos lūgodama ir teiraudamos jo, ką bedaryti tokioj noty, sakydama, jog Vilhelmas, jo siuntinys, v."
-  atnaujinta: "2026-07-16 14:31"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -140,9 +164,9 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
+  pagrindžia:
+    - t-51186
+    - t-51187
 
 - id: c-184394
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -166,8 +190,8 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-201044
 
 - id: c-184395
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -182,8 +206,8 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-201045
 
 - id: c-184396
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -216,5 +240,41 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-201046
+
+- id: c-204769
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 231-232"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231-232."
+  citata_originali: |
+    1249 viešpaties metais, mirus landgrafui, Vilhelmas, Olandijos grafas, buvo išrinktas
+    Romos karaliumi, tačiau neilgai trukus frizai jį nužudė, ir šitaip nei vienas, nei kitas
+
+    negavo imperatoriaus vainiko (Ptol. 22,9).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220482
+
+- id: c-206283
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 257"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 257."
+  citata_originali: |
+    Šioje kariuomenėje buvo vienas grafas magistras Vilhelmas, vengrų karvedys,
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-224454
+

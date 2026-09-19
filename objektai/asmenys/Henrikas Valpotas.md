@@ -47,10 +47,22 @@ Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marij
 
 ## Teiginiai
 
-<a id="claim-t-60141"></a>
-- t-001
+<a id="claim-t-223800"></a>
+- t-223800
+  teiginys: "Henrikas Valpotas buvo pirmasis Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistras."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204949
+
+<a id="claim-t-220866"></a>
+- t-220866
   teiginys: "Henrikas Valpotas buvo pirmasis Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistras, daug metų vadovavo ir buvo palaidotas Akone."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-09-13 11:42"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_palaidotas -> Akonas: 0.96"
   ryšio_patikimumo_lygis: "aukstas"
@@ -61,13 +73,24 @@ Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marij
   ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Henrikas Valpotas palaidotas Akone."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Henrikas Valpotas buvo palaidotas Akonas (0.96)"
-  pagrindžia:
-    - c-60774
 
-<a id="claim-t-60142"></a>
-- t-002
+<a id="claim-t-205386"></a>
+- t-205386
+  teiginys: "Henrikas Valpotas pagelbėjo užimant Akrą ir narsiai ją gynė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187898
+
+<a id="claim-t-224700"></a>
+- t-224700
   teiginys: "Paėmus Akoną Henrikas Valpotas prie miesto sienų nupirko sklypą, kuriame pastatydino bažnyčią, ligoninę ir kitus namus."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Akonas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -81,20 +104,19 @@ Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marij
   temporalinis_paaiskinimas: "Ši data interpretuojama kaip pastatymo data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip pastatymo data su riba „after“, o ne kaip tiksli pilna data."
   temporalinis_llm_pakomentavimas: "Teiginys aiškiai įvardija asmenį, veiksmą ir citatoje nurodytą vietą."
   pagrindžia:
-    - c-60773
+    - c-202865
 
-<a id="claim-t-205386"></a>
-- t-003
-  teiginys: "Henrikas Valpotas pagelbėjo užimant Akrą ir narsiai ją gynė."
-  atnaujinta: "2026-08-11 18:54"
+<a id="claim-t-224748"></a>
+- t-224748
+  teiginys: "Po Akono paėmimo Henrikas Valpotas nupirko žemės sklypą prie miesto sienų ir pastatydino bažnyčią, ligoninę bei kitus namus."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
-    - c-187898
+    - c-202865
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -152,8 +174,6 @@ Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-60774
   autorius: "Petras Dusburgietis"
@@ -178,8 +198,6 @@ Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-187898
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -202,8 +220,64 @@ Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-205386
+
+- id: c-202865
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 39-40"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 39-40."
+  citata_originali: |
+    Paėmus Akoną, tas pats brolis
+    Henrikas nupirko žemės sklypą prie miesto sienų priešais švento Mikalojaus vartus,
+    kur pastatydino bažnyčią, ligoninę bei kitokius namus ir kur drauge su savo broliais
+
+      154 Šiame skyrelyje Dusburgietis aprašo jauniausio iš trijų didžiųjų riterių ordinų
+    — Vokiečių (Kryžiuočių) ordino pradžią (itališkasis Joanitų ordinas įkurtas XI a. 2-oje
+    pusėje, o prancūziškasis Tamplierių ordinas — XII a. 2-ame dešimtmetyje). Sekant
+    statutų prologu, Ordino įkūrimas datuojamas 1190 m. Skyrelyje minimi ir vėlesni (1198
+    m.) įvykiai, be to, 1198 m. jau miręs, bet turėjęs Ordino įkūrimui nuopelnų Švabijos
+    kunigaikštis Fridrichas (Vokietijos karaliaus, o nuo 1191 m. imperatoriaus Henriko VI
+    brolis). Nutylima, kad iš pradžių kryžiuočiai buvę pavaldūs Joanitams. Akono apgulos
+    metu (1190 m.) buvo čia įkurta tik nedidelė vokiečių ligoninė; tik 1198 m. išvykstantys
+    iš Palestinos vokiečių kunigaikščiai ir vyskupai pradėjo rūpintis ją paversti riterių ordinu,
+    kurį patvirtino popiežius.
+      Kaip  ir vokiškoji Ordino tradicija, taip  ir Dusburgietis nutyli, kad vokiečių ligoninė
+    Jeruzalėje atsirado XII a. 1-oje pusėje, kad ji egzistavo ten iki 1187 m., kai Saladinas
+    užėmė Jeruzalę. Nutylima, nes norima apeiti faktą, kad XII a. vokiečių ligoninė buvo
+    pavaldi Joanitams (PKD, p. 17—24; HP, t. 1, d. 1, p. 433—434; Górski K. Zakon..., p.
+    7—9). Dusburgietis, ką ne ką iškraipydamas, atskleidžia tik antrąjį vokiečių ligoninės
+    egzistavimo Rytuose etapą, kai ji jau buvo pavirtusi riterių ordinu.
+
+    tarnavo dievui ir ligoniams155.
+  statusas: verified
+  atnaujinta: "2026-09-13 11:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-224700
+    - t-224748
+
+- id: c-204949
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 39"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 39."
+  citata_originali: |
+    Pirmas šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistras brolis
+    Henrikas, vadinamas Valpotu, vadovavo daug metų, o mirė lapkričio penktą (pirmą)
+    dieną ir palaidotas Akone.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223800
 
 ## Ryšiai
 - Henrikas Valpotas buvo palaidotas [[objektai/vietos/Akonas]]

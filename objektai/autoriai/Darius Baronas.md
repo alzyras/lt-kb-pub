@@ -47,10 +47,22 @@ Darius Baronas (gimęs 1973 m.), baigė Vilniaus universitetą, humanitarinių m
 
 ## Teiginiai
 
+<a id="claim-t-208387"></a>
+- t-208387
+  teiginys: "Darius Baronas yra straipsnio apie Vilniaus pranciškonų memorialą autorius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190839
+
 <a id="claim-t-39850"></a>
-- t-001
+- t-39850
   teiginys: "Darius Baronas gimė 1973 m., baigė Vilniaus universitetą ir yra humanitarinių mokslų daktaras."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -67,9 +79,9 @@ Darius Baronas (gimęs 1973 m.), baigė Vilniaus universitetą, humanitarinių m
     - c-41654
 
 <a id="claim-t-201493"></a>
-- t-002
+- t-201493
   teiginys: "Sud. Darius Baronas, Vilnius, 2006, p. 117-138; Prikockienė Asta."
-  atnaujinta: "2026-07-19 10:18"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -77,6 +89,22 @@ Darius Baronas (gimęs 1973 m.), baigė Vilniaus universitetą, humanitarinių m
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
   pagrindžia:
     - c-184840
+
+<a id="claim-t-207533"></a>
+- t-207533
+  teiginys: "Dariaus Barono tyrimai rodo, kad 1347 m. Algirdo įsakymu nužudyti trys stačiatikiai dvariškiai buvo nubausti už neklusnumą valdovui, o ne dėl tikėjimo skirtumų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1347 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Aiškiai įvardyti Algirdas, trys dvariškiai, data ir tyrimo išvada. Religinio konflikto bei motyvo interpretacija palikta su privaloma atribucija."
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190150
 
 ## Citatos
 
@@ -97,8 +125,8 @@ Darius Baronas (gimęs 1973 m.), baigė Vilniaus universitetą, humanitarinių m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-39850
 
 - id: c-184840
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -112,5 +140,54 @@ Darius Baronas (gimęs 1973 m.), baigė Vilniaus universitetą, humanitarinių m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-201493
+
+- id: c-190150
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 112"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 112."
+  citata_originali: |
+    Tiesa, jų padėtis anaiptol nepriminė idilės: 1347 m. didžiojo Lietuvos kunigaikščio Al-
+    girdo įsakymu buvo nužudyti trys dvariškiai stačiatikiai – Jonas, Antanas ir Eustatijas.
+    Naujausi Dariaus Barono tyrimai rodo, kad tai nulėmė ne tikybos skirtumai, o neklus-
+    numas valdovui. Vadinasi, Algirdas toleravo stačiatikybę, jei tai neprieštaravo jo, kaip
+    valdovo, interesams.
+  citata_rodoma: "jų padėtis anaiptol nepriminė idilės: 1347 m. didžiojo Lietuvos kunigaikščio Al-\ngirdo įsakymu buvo nužudyti trys dvariškiai stačiatikiai – Jonas, Antanas ir Eustatijas. \nNaujausi Dariaus Barono tyrimai rodo, kad tai nulėmė ne tikybos skirtumai, o neklus-\nnumas valdovui. Vadin"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207533
+
+- id: c-190839
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 8"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 8."
+  citata_originali: |
+    Trečioji knygos dalis, pavadinta „Refleksijos“, skirta įvairiuose šaltiniuose
+    užfiksuotiems individualiems ar kolektyviniams gyvenamojo laiko įvykių bei
+    reiškinių vertinimams aptarti. Aleksandros Skrzypietz straipsnyje parodoma, kaip
+    X V III a. pradžioje pasikeitus politinėms aplinkybėms Sapiegų grupuotė siekė su­
+    sigrąžinti Abiejų Tautų Respublikos valdovo malonę, parengdama dokumentą, iš
+    savo giminės pozicijų nušviečiantį įvykius Lietuvoje, ir taip mėgindama pateisinti
+    savo nelojalų elgesį valdovo atžvilgiu bei ryšius su Švedijos karaliumi Karoliu X II.
+    Dariaus Barono straipsnyje nagrinėjamas Vilniaus pranciškonų memorialas
+    (mirusiųjų knyga) siekiant išsiaiškinti, kokie didžiosios politikos įvykiai atsispin­
+    dėjo šiame kūrinyje ir kurie jų paliko giliausią pėdsaką Lietuvos pranciškonų
+    konventualų bendruomenės savimonėje, kultūrinėje ir komunikacinėje atmintyje.
+  citata_rodoma: "Dariaus Barono straipsnyje nagrinėjamas Vilniaus pranciškonų memorialas \n(mirusiųjų knyga) siekiant išsiaiškinti, kokie didžiosios politikos įvykiai atsispin­\ndėjo šiame kūrinyje ir kurie jų paliko giliausią pėdsaką Lietuvos pranciškonų \nkonventualų bendruomenės savimonėje, kultūrinėje ir komunikacinėje atmintyje."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208387
+

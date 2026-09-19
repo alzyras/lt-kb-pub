@@ -28,21 +28,6 @@ Anscharijaus gyvenimo aprašyme, kur apie kuršius kalbama maždaug įpusėjus I
 
 Anscharijaus gyvenimo aprašyme, kur apie kuršius kalbama maždaug įpusėjus IX amžiui, tais laikais, kai jie atrėmė švedų ir danų puolimus, pastarie siems įsibrovus į kuršių miestą su įtvirtinimais — Apuolę (Uppeteela).
 
-## Teiginiai
-
-<a id="claim-t-205227"></a>
-- t-001
-  teiginys: "Anscharijaus gyvenimo aprašyme, kur apie kuršius kalbama maždaug įpusėjus IX amžiui, tais laikais, kai jie atrėmė švedų ir danų puolimus, pastarie siems įsibrovus į kuršių miestą su įtvirtinimais — Apuolę (Uppeteela)."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
-  pagrindžia:
-    - c-187764
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Anscharijaus gyvenimo aprašyme, kur apie kuršius kalbama maždaug įpusėjus IX amžiui, tais laikais, kai jie atrėmė švedų ir danų puolimus, pastarie siems įsibrovus į kuršių miestą su įtvirtinimais — Apuolę (Uppeteela).'
@@ -82,5 +67,21 @@ Anscharijaus gyvenimo aprašyme, kur apie kuršius kalbama maždaug įpusėjus I
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205227"></a>
+- t-001
+  teiginys: "Anscharijaus gyvenimo aprašyme, kur apie kuršius kalbama maždaug įpusėjus IX amžiui, tais laikais, kai jie atrėmė švedų ir danų puolimus, pastarie siems įsibrovus į kuršių miestą su įtvirtinimais — Apuolę (Uppeteela)."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-187764
+

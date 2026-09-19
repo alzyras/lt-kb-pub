@@ -51,42 +51,54 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
 
 ## Teiginiai
 
-<a id="claim-t-90458"></a>
-- t-001
-  teiginys: "1266 m. iš Afrikos atvykę saracėnai užgrobė Ispaniją, bet vėliau krikščionys juos nugalėjo."
-  atnaujinta: "2026-07-19 17:58"
+<a id="claim-t-213074"></a>
+- t-213074
+  teiginys: "Dalis alanų pateko į Ispaniją ir ten gyveno susimaišę su gotais."
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzkariavo -> Ispanija: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Saracėnai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Ispanija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Užgrobimas tiesiogiai nusako saracėnų Ispanijos užkariavimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Saracėnai užkariavo Ispanija (0.92); Krikščionys kariavo prieš Saracėnai (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1266 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinta antraštė ir nutrūkusi šaltinio nuoroda."
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-86293
+    - c-195676
+
+<a id="claim-t-214218"></a>
+- t-214218
+  teiginys: "Origines de premières sociétés des peuples etc.) pirmuosius žmones po Tvano aptiko Pirė nuose, įžvelgęs šio pavadinimo pradžią žodyje jt v q , ug nis, o žemės rojų, arba Paradis, — Ispanijoje, prie Tago, visai šalia Sevilijos, nes ten yra vietovė Paradas."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196126
 
 <a id="claim-t-90459"></a>
-- t-002
+- t-90459
   teiginys: "Viena priežasčių, dėl kurių Ispanija ir Portugalija neteko lyderių pozicijų, – per geras gyvenimas: iš Lotynų Amerikos plukdomas auksas neskatino plėtoti savų miestų ir jų ekonomikos."
-  atnaujinta: "2026-07-26 23:35"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lotynai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ispanija: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Lotynai: mention_match, group, gap=75"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ispanija\" parinktas kaip owner_note_path. Targetas \"Lotynai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   temporaliniai_duomenys: "įvykio data: 1588 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatinis ir pagrįstas citatos vertinimu apie Ispaniją ir Portugaliją."
   pagrindžia:
     - c-24141
+    - c-24142
 
 <a id="claim-t-90460"></a>
-- t-003
+- t-90460
   teiginys: "XVI a. geopolitiniu požiūriu Europoje Ispanijai neprilygo nė viena valstybė."
-  atnaujinta: "2026-06-14 10:46"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Viena: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -100,9 +112,9 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
     - c-24141
 
 <a id="claim-t-90461"></a>
-- t-004
+- t-90461
   teiginys: "Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse."
-  atnaujinta: "2026-05-31 12:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Europa: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -115,30 +127,10 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   pagrindžia:
     - c-24143
 
-<a id="claim-t-90463"></a>
-- t-005
-  teiginys: "1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, anksčiau valdytas saracėnų."
-  atnaujinta: "2026-07-19 18:48"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Maljorka: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Saracėnai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Maljorka: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad šios salos anksčiau buvo užimtos saracėnų."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Saracėnai užėmė Maljorka (0.86); Saracėnai užėmė Menorka (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1230 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie įvykį Ispanijoje ir remiasi citata."
-  pagrindžia:
-    - c-86294
-
 <a id="claim-t-90464"></a>
-- t-006
+- t-90464
   teiginys: "1588 m. Nenugalimosios armados nesėkmė ženklino Ispanijos galybės saulėlydį, o Ispanija žygio į Angliją nebekartojo."
-  atnaujinta: "2026-05-31 12:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Anglija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -153,30 +145,10 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   pagrindžia:
     - c-24142
 
-<a id="claim-t-90465"></a>
-- t-007
-  teiginys: "1232 m. Ispanijos Tolede vienas žydas rado akmenyje iškaltą knygą, užrašytą hebrajiškai, graikiškai ir lotyniškai."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Ispanija: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Toledas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Ispanija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Toledas tiesiogiai lokalizuotas Ispanijoje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Toledas priklausė Ispanija (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1232 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia aiškiai susieti teiginį su Ispanija kaip pastabos objektu."
-  pagrindžia:
-    - c-86295
-
 <a id="claim-t-204300"></a>
-- t-008
+- t-204300
   teiginys: "LDK bajorai gerdavo iš Ispanijos importuotą vyną."
-  atnaujinta: "2026-08-07 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -218,9 +190,9 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-003
+  pagrindžia:
+    - t-90459
+    - t-90460
 
 - id: c-24142
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -240,8 +212,9 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-90459
+    - t-90464
 
 - id: c-24143
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -263,8 +236,8 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-90461
 
 - id: c-86293
   autorius: "Petras Dusburgietis"
@@ -282,8 +255,6 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-86294
   autorius: "Petras Dusburgietis"
@@ -301,8 +272,6 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
 
 - id: c-86295
   autorius: "Petras Dusburgietis"
@@ -322,8 +291,6 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
 
 - id: c-186921
   šaltinis: "Lietuvos Didžiosios Kunigaikštystės bajorų virtuvė XVI amžiuje"
@@ -346,8 +313,47 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
+  pagrindžia:
+    - t-204300
+
+- id: c-195676
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 63"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 63."
+  citata_originali: |
+    kiti pateko į Ispaniją, kur
+    gyveno susimaišę su gotais;
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213074
+
+- id: c-196126
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 334"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 334."
+  citata_originali: |
+    Puantine de Sivrej
+    (Poinsinet de Sivry. Origines de premières sociétés des
+    peuples etc.) pirmuosius žmones po Tvano aptiko Pirė­
+    nuose, įžvelgęs šio pavadinimo pradžią žodyje
+    jt v q , ug­
+    nis, o žemės rojų, arba Paradis, — Ispanijoje, prie Tago,
+    visai šalia Sevilijos, nes ten yra vietovė Paradas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214218
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Almimolinas]]

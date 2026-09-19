@@ -48,10 +48,22 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
 
 ## Teiginiai
 
+<a id="claim-t-211450"></a>
+- t-211450
+  teiginys: "Toropecas — dabar RTFSR Kalinino sr."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194101
+
 <a id="claim-t-42189"></a>
-- t-001
+- t-42189
   teiginys: "Rugsėjo 9 d. lietuviai susirėmė su Toropeco įgula ir nukovė 200 rusų šaulių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Rusai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -68,9 +80,9 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
     - c-45359
 
 <a id="claim-t-42190"></a>
-- t-002
+- t-42190
   teiginys: "Rugpjūčio 29 d. lietuviai sumušė apie 1000 karių Toropeco įgulą, skubėjusią į pagalbą savo valdovui."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -85,9 +97,9 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
     - c-45361
 
 <a id="claim-t-42191"></a>
-- t-003
+- t-42191
   teiginys: "K. Radvilos pajėgos turėjo nuo Veližo pulti Toropeco ir Bialos pilių apylinkes."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "surenge_zygi_i -> Veližas: 0.80"
   ryšio_patikimumo_lygis: "aukstas"
@@ -102,9 +114,9 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
     - c-45360
 
 <a id="claim-t-205823"></a>
-- t-004
+- t-205823
   teiginys: "Teodoro Narbuto aprašyme lietuviai, siekdami atlyginti už prarastas lėšas ir prie Vendeno patirtas skriaudas, žiemą paslapčia užėmė Toropeco apylinkes."
-  atnaujinta: "2026-08-12 08:57"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -115,9 +127,9 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
     - c-188438
 
 <a id="claim-t-205824"></a>
-- t-005
+- t-205824
   teiginys: "Teodoro Narbuto aprašyme Toropecietis Dovydas Mstislavovičius su Jaroslavu Naugardiečiu ir Vladimiru Pskoviečiu sutelkė družinas bei dalį miestų samdytinės kariuomenės ir vijosi Dauguvos link besitraukiančią Lietuvos kariauną."
-  atnaujinta: "2026-08-12 08:57"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -156,8 +168,8 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-42189
 
 - id: c-45360
   sudarytojas: "Karolis Zikaras"
@@ -184,8 +196,8 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-42191
 
 - id: c-45361
   sudarytojas: "Karolis Zikaras"
@@ -205,8 +217,8 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-42190
 
 - id: c-188438
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -224,8 +236,8 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-205823
 
 - id: c-188439
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 4 (1997 m.) — Lietuvių tautos istorija, t. 4"
@@ -248,5 +260,23 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-205824
+
+- id: c-194101
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 317"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 317."
+  citata_originali: |
+    Toropecas — dabar RTFSR Kalinino sr. miestas (apie 200 km
+    į šiaurę nuo Smolensko).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211450
+

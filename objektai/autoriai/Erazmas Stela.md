@@ -37,43 +37,46 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
 
 ## Teiginiai
 
-<a id="claim-t-190348"></a>
-- t-001
-  teiginys: "Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos paimtą faktą apie elnio laikymą dievuku fetišu."
-  atnaujinta: "2026-07-19 17:58"
+<a id="claim-t-212135"></a>
+- t-212135
+  teiginys: "Erazmas Stela savo paragrafuose rėmėsi prūsų vyskupo Kristijono kronika ir kitais senovės šaltiniais."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195696
+
+<a id="claim-t-214305"></a>
+- t-214305
+  teiginys: "Atvirkščiai, galima sutikti, kad jie at klydo iki Baltijos jūros pakrančių tais laikais, kai Eraz mas Stela nori kildinti lietuvių susiformavimą iš atariu ordos, t."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194430
+
+<a id="claim-t-216137"></a>
+- t-216137
+  teiginys: "Erazmas Ste la aiškiai, visiškai remdamasis Lietuvos padavimais, tvirtina, kad laidojimo apeigų tvarka buvo labai senas, šventas daly kas, siekiantis Vaidevučio laikus; jos šventai laikėsi visos lietu vių genties tautos."
+  atnaujinta: "2026-09-12 23:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173231
+    - c-200957
 
-<a id="claim-t-190349"></a>
-- t-002
-  teiginys: "Narbutas nurodo, kad Erazmas Stela, remdamasis Lietuvos padavimais, laidojimo apeigų tvarką siejo su Vaidevučio laikais."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Erazmas Stela: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=26"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Erazmas Stela\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173232
-
-<a id="claim-t-190696"></a>
-- t-003
+<a id="claim-t-213825"></a>
+- t-213825
   teiginys: "Narbuto aiškinimu, Erazmas Stela lietuvių kilmę iš alanų siejo su į šias šalis atėjusių hunų antplūdžiu."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -87,13 +90,11 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Erazmas Stela\" parinktas kaip owner_note_path. Targetas \"Hunai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T16:15:14Z"
-  pagrindžia:
-    - c-173578
 
-<a id="claim-t-190697"></a>
-- t-004
+<a id="claim-t-215352"></a>
+- t-215352
   teiginys: "Narbutas Erazmui Stelai priskiria išvadą, kad Ptolemėjo boruskų arba borusų ieškota prie Ritėjų kalnų."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -108,12 +109,12 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-173579
+    - c-194634
 
 <a id="claim-t-205534"></a>
-- t-005
+- t-205534
   teiginys: "Narbutas Stelos nuomonei priskiria teiginį, kad litalanų likučiai, grįždami į šiaurę, užklydo į Prūsiją ir įvedė pažangesnę tvarką."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -141,8 +142,6 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-173232
   autorius: "Teodoras Narbutas"
@@ -164,8 +163,6 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-173578
   autorius: "Teodoras Narbutas"
@@ -191,8 +188,6 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-173579
   autorius: "Teodoras Narbutas"
@@ -212,8 +207,6 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
 
 - id: c-188014
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -233,5 +226,102 @@ Narbutas rašo, kad Hartknochas savo pastebėjimais pagrindė iš Erazmo Stelos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-205534
+
+- id: c-194430
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 188"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 188."
+  citata_originali: |
+    Atvirkščiai, galima sutikti, kad jie at­
+    klydo iki Baltijos jūros pakrančių tais laikais, kai Eraz­
+    mas Stela nori kildinti lietuvių susiformavimą iš atariu
+    ordos, t. y. IV krikščioniškosios eros amžiuje1.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214305
+
+- id: c-194634
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 259"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 259."
+  citata_originali: |
+    Veltui net ir ieškotume tų Ptolemėjo
+    boruskų ar borusų kažkur prie Ritėjų kalnų, nes tokiu
+    atveju įsiveltume į prieštaravimų sūkurį taip pat kaip tie,
+    kuriems šovė į galvą padaryti tokias išvadas. Pirmiausia
+    taip manė Erazmas Stela1**. Jo išvadą pripažino daugelis,
+    ypač Leo2***, kuris net nurodo, kad borusai 523 ar 530
+    metais persikėlė iš šiaurės į dabartinę Prūsiją.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215352
+
+- id: c-195696
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 271-272"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 271-272."
+  citata_originali: |
+    jei įsigilinsime į pirmus
+    Erazmo Stelos paragrafus, aiškiai liudijančius, jog jis
+    rėmėsi prūsų vyskupo Kristijono kronika ir kitais seno­
+    vės šaltiniais, kuriuose buvo prūsų tautinių senienų, pa­
+    tekusių į krikščioniškąsias žinias XIII amžiaus pradžioje
+    ar dar anksčiau, jei atsisakysime netaiklių prielaidų apie
+    tautos kilmę iš alanų, paimtų iš to autoriaus asmeninių
+    spėjimų, paremtų tuo, kad istoriniai senovės šaltiniai mi­
+    1
+    Senovinis lotyniškas žodis litus, lėtus, latus (servus, colonus),
+    taip pat senovinis frankų Iii, saksų tat, senovės vokiečių laz turi
+    panašumo į archetipų Lietuva, Litwa. Bet tai tėra tik svetimose kal­
+    bose įžvelgiama spėlionė, nesusijusi su tuo, kas yra mūsų (Szafar-
+    zyk. Moskwa, 1837. T. 1. Cz. 1. S. 92)*.
+    261
+
+    ni litalanus, arba veikiau lietuvius-alanus, gyvenusius
+    IV krikščioniškosios eros amžiuje, visuomet rasime ar­
+    gumentų, kad maždaug tais laikais tauta jau turėjo Lie­
+    tuvos pavadinimą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212135
+
+- id: c-200957
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 368"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 368."
+  citata_originali: |
+    Erazmas Ste­
+    la aiškiai, visiškai remdamasis Lietuvos padavimais, tvirtina,
+    kad laidojimo apeigų tvarka buvo labai senas, šventas daly­
+    kas, siekiantis Vaidevučio laikus; jos šventai laikėsi visos lietu­
+    vių genties tautos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216137
+

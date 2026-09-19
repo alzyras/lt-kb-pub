@@ -7,6 +7,7 @@ import {
   mediaDetailUrl,
   mediaImageUrl,
   mergeMediaEntries,
+  objectMediaSet,
   withMediaDetailUrl,
 } from "./objectMedia"
 
@@ -66,5 +67,20 @@ describe("media catalog", () => {
       mediaImageUrl({ sourceUrl: "https://archive.example/record.pdf", thumbUrl: thumbnail }),
       thumbnail,
     )
+  })
+
+  it("honors an explicitly selected object-page primary image", () => {
+    const result = objectMediaSet({
+      object_page_primary_media_id: "m-new",
+      media_primary_json: JSON.stringify({ mediaId: "m-old", caption: "Senas" }),
+      media_all_json: JSON.stringify([
+        { mediaId: "m-old", caption: "Senas" },
+        { mediaId: "m-new", caption: "Naujas portretas" },
+      ]),
+    } as any)
+
+    assert.equal(result.primary?.mediaId, "m-new")
+    assert.equal(result.fallbackPrimary?.caption, "Naujas portretas")
+    assert.equal(result.primary?.isPrimary, 1)
   })
 })

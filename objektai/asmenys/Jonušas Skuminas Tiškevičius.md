@@ -39,20 +39,6 @@ canonical_biography: "Apie jo kelionės rezultatus nežinoma, bet jis prisiminta
 
 Apie jo kelionės rezultatus nežinoma, bet jis prisimintas, kai 1611 m. seimas siuntė kitą komisarą Jonušą Skuminą TiškevičiLĮ.
 
-## Teiginiai
-
-<a id="claim-t-202179"></a>
-- t-001
-  teiginys: "Apie jo kelionės rezultatus nežinoma, bet jis prisimintas, kai 1611 m. seimas siuntė kitą komisarą Jonušą Skuminą TiškevičiLĮ."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185526
-
 ## Citatos
 
 - id: c-185526
@@ -69,5 +55,20 @@ Apie jo kelionės rezultatus nežinoma, bet jis prisimintas, kai 1611 m. seimas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202179"></a>
+- t-001
+  teiginys: "Apie jo kelionės rezultatus nežinoma, bet jis prisimintas, kai 1611 m. seimas siuntė kitą komisarą Jonušą Skuminą TiškevičiLĮ."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185526
+

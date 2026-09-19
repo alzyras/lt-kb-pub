@@ -27,41 +27,6 @@ media_all_json: |-
 
 Sūduvos prūsai su jiems padėjusiais žemaičiais nusiaubė Kulmo kraštą ir sustojo prie Liubavos. Nusiaubę Kulmo kraštą, Sūduvos prūsai su žemaičiais prie Liubavos pasitraukė į miškus, o vėliau iš pasalų užpuolė grobio ieškančius kryžiuočius.
 
-## Teiginiai
-
-<a id="claim-t-185461"></a>
-- t-001
-  teiginys: "Sūduvos prūsai su jiems padėjusiais žemaičiais nusiaubė Kulmo kraštą ir sustojo prie Liubavos."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "keliavo_i -> Liubava: 0.75"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Sūduvos prūsai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Liubava: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas nurodo, kad Sūduvos prūsai su žemaičiais sustojo prie Liubavos."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Sūduvos prūsai keliavo į Liubava (0.75)"
-  pagrindžia:
-    - c-168822
-
-<a id="claim-t-196126"></a>
-- t-002
-  teiginys: "Nusiaubę Kulmo kraštą, Sūduvos prūsai su žemaičiais prie Liubavos pasitraukė į miškus, o vėliau iš pasalų užpuolė grobio ieškančius kryžiuočius."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-168822
-
 ## Citatos
 
 - id: c-168822
@@ -99,6 +64,42 @@ Sūduvos prūsai su jiems padėjusiais žemaičiais nusiaubė Kulmo kraštą ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-185461"></a>
+- t-001
+  teiginys: "Sūduvos prūsai su jiems padėjusiais žemaičiais nusiaubė Kulmo kraštą ir sustojo prie Liubavos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Liubava: 0.75"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Sūduvos prūsai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Liubava: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas nurodo, kad Sūduvos prūsai su žemaičiais sustojo prie Liubavos."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Sūduvos prūsai keliavo į Liubava (0.75)"
+  pagrindžia:
+    - c-168822
+
+<a id="claim-t-196126"></a>
+- t-002
+  teiginys: "Nusiaubę Kulmo kraštą, Sūduvos prūsai su žemaičiais prie Liubavos pasitraukė į miškus, o vėliau iš pasalų užpuolė grobio ieškančius kryžiuočius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-168822
+

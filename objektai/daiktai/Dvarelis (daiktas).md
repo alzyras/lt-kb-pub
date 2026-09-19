@@ -53,37 +53,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-203894"></a>
-- t-001
-  teiginys: "Dvareliai dažniausiai buvo nuo miesto centro nutolę mediniai arba mūriniai namai su ūkiniais pastatais."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
-  pagrindžia:
-    - c-186498
-
-<a id="claim-t-203895"></a>
-- t-002
-  teiginys: "1776 m. Lukiškėse prie Neries buvusį Vilniaus karmelitėms priklausiusį dvarelį, kuriame gyveno Stanislovo ir Elžbietos Eismantų šeima, užpuolė Mykolas Aleksandravičius su talkininkais."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  temporaliniai_duomenys: "gyvenimo laikotarpis: 1776 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Įvardytas užpuolimo vadovas ir aiškiai susieti dvarelis bei jo gyventojai. Pašalinti citatos OCR ir išnašų fragmentai."
-  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
-  pagrindžia:
-    - c-186499
-
 ## Santrauka
 
 Dvareliai dažniausiai buvo nuo miesto centro nutolę mediniai arba mūriniai namai su ūkiniais pastatais. 1776 m. Lukiškėse prie Neries buvusį Vilniaus karmelitėms priklausiusį dvarelį, kuriame gyveno Stanislovo ir Elžbietos Eismantų šeima, užpuolė Mykolas Aleksandravičius su talkininkais.
@@ -107,7 +76,7 @@ Dvareliai dažniausiai buvo nuo miesto centro nutolę mediniai arba mūriniai na
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186499
@@ -145,5 +114,37 @@ Dvareliai dažniausiai buvo nuo miesto centro nutolę mediniai arba mūriniai na
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-203894"></a>
+- t-001
+  teiginys: "Dvareliai dažniausiai buvo nuo miesto centro nutolę mediniai arba mūriniai namai su ūkiniais pastatais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186498
+
+<a id="claim-t-203895"></a>
+- t-002
+  teiginys: "1776 m. Lukiškėse prie Neries buvusį Vilniaus karmelitėms priklausiusį dvarelį, kuriame gyveno Stanislovo ir Elžbietos Eismantų šeima, užpuolė Mykolas Aleksandravičius su talkininkais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "gyvenimo laikotarpis: 1776 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įvardytas užpuolimo vadovas ir aiškiai susieti dvarelis bei jo gyventojai. Pašalinti citatos OCR ir išnašų fragmentai."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186499
+

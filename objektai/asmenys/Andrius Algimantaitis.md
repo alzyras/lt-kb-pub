@@ -43,21 +43,6 @@ canonical_biography: "Andrius Algimantaitis buvo Alšėnų kunigaikščio Jono A
 
 Andrius Algimantaitis buvo Alšėnų kunigaikščio Jono Algimantaičio sūnus ir po Skirgailos mirties ėjo Vytauto vietininko pareigas Kijeve.
 
-## Teiginiai
-
-<a id="claim-t-194097"></a>
-- t-001
-  teiginys: "Andrius Algimantaitis buvo Alšėnų kunigaikščio Jono Algimantaičio sūnus ir po Skirgailos mirties ėjo Vytauto vietininko pareigas Kijeve."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
-  pagrindžia:
-    - c-176710
-
 ## Citatos
 
 - id: c-176710
@@ -76,5 +61,4 @@ Andrius Algimantaitis buvo Alšėnų kunigaikščio Jono Algimantaičio sūnus i
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

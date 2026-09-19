@@ -33,32 +33,6 @@ Medžiokliai buvo hierarchiškai priklausomi nuo didžiųjų medžioklių. Medž
 
 Medžiokliai buvo hierarchiškai priklausomi nuo didžiųjų medžioklių. Medžiokliai vadovavo medžioklės eigai būdami šalia valdovo ir koordinavo pasirengimo veiksmus bei socialinius klausimus.
 
-## Teiginiai
-
-<a id="claim-t-204124"></a>
-- t-001
-  teiginys: "Medžiokliai buvo hierarchiškai priklausomi nuo didžiųjų medžioklių."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  pagrindžia:
-    - c-186731
-
-<a id="claim-t-204126"></a>
-- t-002
-  teiginys: "Medžiokliai vadovavo medžioklės eigai būdami šalia valdovo ir koordinavo pasirengimo veiksmus bei socialinius klausimus."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  pagrindžia:
-    - c-186783
-
 ## Citatos
 
 - id: c-186731
@@ -80,7 +54,7 @@ Medžiokliai buvo hierarchiškai priklausomi nuo didžiųjų medžioklių. Medž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186783
@@ -105,5 +79,32 @@ Medžiokliai buvo hierarchiškai priklausomi nuo didžiųjų medžioklių. Medž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-204124"></a>
+- t-001
+  teiginys: "Medžiokliai buvo hierarchiškai priklausomi nuo didžiųjų medžioklių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186731
+
+<a id="claim-t-204126"></a>
+- t-002
+  teiginys: "Medžiokliai vadovavo medžioklės eigai būdami šalia valdovo ir koordinavo pasirengimo veiksmus bei socialinius klausimus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  pagrindžia:
+    - c-186783
+

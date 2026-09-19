@@ -33,20 +33,6 @@ canonical_biography: "Augustas Liudvigas Šleceris tikėjo Litalanu ir Palemonu,
 
 Augustas Liudvigas Šleceris tikėjo Litalanu ir Palemonu, buvusi duoklė savajai epochai.
 
-## Teiginiai
-
-<a id="claim-t-193502"></a>
-- t-001
-  teiginys: "Augustas Liudvigas Šleceris tikėjo Litalanu ir Palemonu, buvusi duoklė savajai epochai."
-  atnaujinta: "2026-07-13 01:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-178677
-
 ## Citatos
 
 - id: c-178677
@@ -70,5 +56,20 @@ Augustas Liudvigas Šleceris tikėjo Litalanu ir Palemonu, buvusi duoklė savaja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-193502"></a>
+- t-001
+  teiginys: "Augustas Liudvigas Šleceris tikėjo Litalanu ir Palemonu, buvusi duoklė savajai epochai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-178677
+

@@ -36,25 +36,6 @@ historical_names: []
 
 Padaręs sąjungą su Aleksandru Nevskiu (Didž. Naugarde)^183 , drauge su Treniota, Mindaugas išžygiavo Livonijon ir nesėkmingai puolė Cesio (Wendeno) pilį. Prie žygio nepasisekimo prisidėjo tai, kad iš Naugardo neatėjo laiku prieš kryžiuočius žadė­ toji.
 
-## Teiginiai
-
-<a id="claim-t-32101"></a>
-- t-001
-  teiginys: "Mindaugas su Treniota nesėkmingai puolė Cesio, arba Wendeno, pilį Livonijoje."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Cesys: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Cesys: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Mindaugas tiesiogiai įvardytas kaip puolęs Cesio pilį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Mindaugas (valdovas, XIII a.) puolė Cesys (0.95); Mindaugas (valdovas, XIII a.) surengė žygį į Livonija (0.90)"
-  pagrindžia:
-    - c-31987
-
 ## Citatos
 
 - id: c-31987
@@ -73,8 +54,28 @@ Padaręs sąjungą su Aleksandru Nevskiu (Didž. Naugarde)^183 , drauge su Treni
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Puolė Cesį: [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
+
+## Teiginiai
+
+<a id="claim-t-32101"></a>
+- t-001
+  teiginys: "Mindaugas su Treniota nesėkmingai puolė Cesio, arba Wendeno, pilį Livonijoje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Cesys: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mindaugas (valdovas, XIII a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Cesys: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Mindaugas tiesiogiai įvardytas kaip puolęs Cesio pilį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Mindaugas (valdovas, XIII a.) puolė Cesys (0.95); Mindaugas (valdovas, XIII a.) surengė žygį į Livonija (0.90)"
+  pagrindžia:
+    - c-31987
+

@@ -38,10 +38,36 @@ Novosilė šiame komentare vadinama kadaise Černigovo kunigaikštystės miestu.
 
 ## Teiginiai
 
-<a id="claim-t-187271"></a>
-- t-001
+<a id="claim-t-210682"></a>
+- t-210682
+  teiginys: "Novosilė buvo Černigovo kunigaikštystės miestas ir dalinė kunigaikštystė."
+  atnaujinta: "2026-09-12 20:03"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+
+<a id="claim-t-211052"></a>
+- t-211052
+  teiginys: "Novosilė lokalizuojama Okos ir Dono aukštupių zonoje, labiausiai į rytus išsikišusiame LDK pakraštyje."
+  atnaujinta: "2026-09-12 20:03"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Novosilė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata lokalizuoja Novosilę LDK pakraštyje; leidžiamas kandidatas LDK vietai yra Lietuva."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  semantiniai_rysiai: "Novosilė priklausė Lietuva (0.74)"
+
+<a id="claim-t-211791"></a>
+- t-211791
   teiginys: "Novosilė komentare apibūdinama kaip buvęs Černigovo kunigaikštystės miestas ir dalinė kunigaikštystė."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-09-12 20:03"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "priklause -> Černigovas: 0.88"
@@ -54,26 +80,6 @@ Novosilė šiame komentare vadinama kadaise Černigovo kunigaikštystės miestu.
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   semantiniai_rysiai: "Novosilė priklausė Černigovas (0.88); Novosilė priklausė Lietuva (0.74)"
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  pagrindžia:
-    - c-170323
-
-<a id="claim-t-187272"></a>
-- t-002
-  teiginys: "Novosilė lokalizuojama Okos ir Dono aukštupių zonoje, labiausiai į rytus išsikišusiame LDK pakraštyje."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Novosilė: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata lokalizuoja Novosilę LDK pakraštyje; leidžiamas kandidatas LDK vietai yra Lietuva."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  semantiniai_rysiai: "Novosilė priklausė Lietuva (0.74)"
-  pagrindžia:
-    - c-170323
 
 ## Citatos
 
@@ -96,6 +102,4 @@ Novosilė šiame komentare vadinama kadaise Černigovo kunigaikštystės miestu.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
+

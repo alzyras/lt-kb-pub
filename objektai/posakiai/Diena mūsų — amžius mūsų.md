@@ -24,20 +24,6 @@ media_all_json: |-
 
 Rodės, jog toj rūstoj dienoj nebliks nė veis lės lietuvių ir žemaičių, kaipogi kur pirma linksmi ūkėsai gyveno, ten paskui kaimose pro langus tuš čių namų žlūgiai ir rūgčiai kyšojo, o irose žinyčių, pilių, alkų, miestų, kurias kruvinos karės išvertė, rūsti.
 
-## Teiginiai
-
-<a id="claim-t-201258"></a>
-- t-001
-  teiginys: "Rodės, jog toj rūstoj dienoj nebliks nė veis lės lietuvių ir žemaičių, kaipogi kur pirma linksmi ūkėsai gyveno, ten paskui kaimose pro langus tuš čių namų žlūgiai ir rūgčiai kyšojo, o irose žinyčių, pilių, alkų, miestų, kurias kruvinos karės išvertė, rūsti."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184608
-
 ## Citatos
 
 - id: c-184608
@@ -68,5 +54,20 @@ Rodės, jog toj rūstoj dienoj nebliks nė veis lės lietuvių ir žemaičių, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201258"></a>
+- t-001
+  teiginys: "Rodės, jog toj rūstoj dienoj nebliks nė veis lės lietuvių ir žemaičių, kaipogi kur pirma linksmi ūkėsai gyveno, ten paskui kaimose pro langus tuš čių namų žlūgiai ir rūgčiai kyšojo, o irose žinyčių, pilių, alkų, miestų, kurias kruvinos karės išvertė, rūsti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184608
+

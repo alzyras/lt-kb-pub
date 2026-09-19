@@ -34,34 +34,6 @@ canonical_biography: "Nenurodyta"
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-205054"></a>
-- t-001
-  teiginys: "Vladimiro Monomacho sūnus Mstislavas 1125 metais, paėmęs visos Rusios didžiojo kunigaikščio val džią, netruko patirti stiprų poloviečių antpuolį, kuriam rei kėjo priešintis visomis jėgomis."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-187944
-
-<a id="claim-t-205568"></a>
-- t-002
-  teiginys: "Tik Jieseldos upės pakrantė je, kairiojoje jos pusėje, užklupo kunigaikštį Mstislavą, bestovyklaujantį su kariauna."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-187906
-
 ## Citatos
 
 - id: c-187906
@@ -81,7 +53,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-187944
@@ -100,5 +72,34 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205054"></a>
+- t-001
+  teiginys: "Vladimiro Monomacho sūnus Mstislavas 1125 metais, paėmęs visos Rusios didžiojo kunigaikščio val džią, netruko patirti stiprų poloviečių antpuolį, kuriam rei kėjo priešintis visomis jėgomis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187944
+
+<a id="claim-t-205568"></a>
+- t-002
+  teiginys: "Tik Jieseldos upės pakrantė je, kairiojoje jos pusėje, užklupo kunigaikštį Mstislavą, bestovyklaujantį su kariauna."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187906
+

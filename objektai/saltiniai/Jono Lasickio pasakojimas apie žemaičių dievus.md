@@ -28,21 +28,6 @@ Jono Lasickio pasakojime gryną vandenį gėrė tik alaus nedarantys žmonės, n
 
 Jono Lasickio pasakojime gryną vandenį gėrė tik alaus nedarantys žmonės, nes to meto vanduo buvo nešvarus ir galėjo sukelti sveikatos sutrikimų.
 
-## Teiginiai
-
-<a id="claim-t-204320"></a>
-- t-001
-  teiginys: "Jono Lasickio pasakojime gryną vandenį gėrė tik alaus nedarantys žmonės, nes to meto vanduo buvo nešvarus ir galėjo sukelti sveikatos sutrikimų."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
-  vertinimo_atnaujinta: "2026-08-06T23:41:06Z"
-  pagrindžia:
-    - c-186926
-
 ## Citatos
 
 - id: c-186926
@@ -64,5 +49,21 @@ Jono Lasickio pasakojime gryną vandenį gėrė tik alaus nedarantys žmonės, n
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204320"></a>
+- t-001
+  teiginys: "Jono Lasickio pasakojime gryną vandenį gėrė tik alaus nedarantys žmonės, nes to meto vanduo buvo nešvarus ir galėjo sukelti sveikatos sutrikimų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  vertinimo_atnaujinta: "2026-08-06T23:41:06Z"
+  pagrindžia:
+    - c-186926
+

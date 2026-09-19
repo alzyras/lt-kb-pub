@@ -46,24 +46,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206874"></a>
-- t-001
-  teiginys: "Pasak Teodoro Narbuto, 1374 m. rugsėjo 22 d. Kęstutis, atsilygindamas, sukvietė kariauninkus, perėjo Mazoviją ir įsiveržė į Prūsiją."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1374 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas veiksmo subjektas, data ir maršrutas, o Narbuto nurodytas motyvas paliktas su atribucija."
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189489
-
 ## Santrauka
 
 Pasak Teodoro Narbuto, 1374 m. rugsėjo 22 d. Kęstutis, atsilygindamas, sukvietė kariauninkus, perėjo Mazoviją ir įsiveržė į Prūsiją.
@@ -88,5 +70,24 @@ Pasak Teodoro Narbuto, 1374 m. rugsėjo 22 d. Kęstutis, atsilygindamas, sukviet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206874"></a>
+- t-001
+  teiginys: "Pasak Teodoro Narbuto, 1374 m. rugsėjo 22 d. Kęstutis, atsilygindamas, sukvietė kariauninkus, perėjo Mazoviją ir įsiveržė į Prūsiją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1374 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas veiksmo subjektas, data ir maršrutas, o Narbuto nurodytas motyvas paliktas su atribucija."
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189489
+

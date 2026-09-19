@@ -51,10 +51,22 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
 
 ## Teiginiai
 
+<a id="claim-t-222320"></a>
+- t-222320
+  teiginys: "Dusburgietis vaizduoja, kad besimeldžiant Albertui ore pasirodė Viešpaties kūnas paplotėlio pavidalu, kurį jis priėmė."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205744
+
 <a id="claim-t-78932"></a>
-- t-001
+- t-78932
   teiginys: "Rygos vyskupas Albertas nugalėjo Jersikos karalių Visvaldį."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Albertas (Rygos vyskupas): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -72,48 +84,27 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - c-76034
 
 <a id="claim-t-78933"></a>
-- t-002
+- t-78933
   teiginys: "Iki mirties 1229 m. vyskupas Albertas buvo naujos vokiečių valstybės Livonijoje valdovas."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-76033
 
 <a id="claim-t-78934"></a>
-- t-003
+- t-78934
   teiginys: "Vyskupas Albertas 1202 m. savo vyskupijoje įkūrė ordiną, kurį 1204 m. patvirtino popiežius."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-76031
 
-<a id="claim-t-190837"></a>
-- t-004
-  teiginys: "Narbutas Albertą vadina Prūsijos ir Livonijos arkivyskupu, kurio kivirčą su kryžiuočiais sprendė popiežiaus bulė."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_priesas -> Kryžiuočių ordinas: 0.73"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Albertas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Kivirčas su kryžiuočiais tiesiogiai rodo konfliktinį santykį."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Albertas buvo priešas Kryžiuočių ordinas (0.73)"
-  vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  pagrindžia:
-    - c-173719
-
 <a id="claim-t-200960"></a>
-- t-005
+- t-200960
   teiginys: "To dėl gi Albertas, dangstydamas savo tikyba, veizėjo kito pragumo, kuriuo galėtų netikėliams žemę už imti ir pačius nuvergti; atmindamas, jog karės brostviai Žemėj Šventoj daug gero darė krikščionims, užsikėto jis tokį pat karės zokaną Padaugavy įkur ti."
-  atnaujinta: "2026-07-16 14:30"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -123,9 +114,9 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - c-184310
 
 <a id="claim-t-200961"></a>
-- t-006
+- t-200961
   teiginys: "Taip randantis kas kartą pavojesniai dėl voky čių, Hermanas, urėdas lybiešų, suvadinęs perkrikš tus ir vokyčius, teiravos, ar kariauti ilgiaus su ne tikėliais, ar laukti Alberto iš Teutonijos pagrįžtančio, kur buvo neseniai iškeliavęs; nes, jausdami save."
-  atnaujinta: "2026-07-16 14:30"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -135,9 +126,9 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - c-184311
 
 <a id="claim-t-200962"></a>
-- t-007
+- t-200962
   teiginys: "Albertas sukėlė kalavijonis, perkrikštus ir meldžionis ant žemgalių ir, paėmęs karės padarynes pilės griaunamąsias, ėjo daugiaus nei su 10 000 kareivių į Mežotės pilį, baužęs visą naktį, ryto metą kariauną skurdino pamūšy, paskui sukos į papilį, kurį."
-  atnaujinta: "2026-07-16 14:30"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -147,9 +138,9 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - c-184312
 
 <a id="claim-t-200963"></a>
-- t-008
+- t-200963
   teiginys: "Atkeliavęs vyskupas Rygos Albertas su kita dva siška diduomene į Lotaviją, Mintauto pilį, jį patį, jo žmoną ir 60 tėvūnų, arba senatorių, apkrikštijo metuose 1252, 7 dienoj rugpjūčio mėnesio."
-  atnaujinta: "2026-07-16 14:30"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -159,9 +150,9 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - c-184313
 
 <a id="claim-t-204004"></a>
-- t-009
+- t-204004
   teiginys: "1268 m. Rygos arkivyskupas Albertas sudarė sutartį su Nalšios kilminguoju Šiukšta."
-  atnaujinta: "2026-08-07 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -174,9 +165,9 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - c-186608
 
 <a id="claim-t-205231"></a>
-- t-010
+- t-205231
   teiginys: "Imperatorius Otonas II išsiuntė Albertą, turėjusį arkivyskupo titulą ir vėliau valdžiusį Magdeburgo arkikatedrą."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -187,9 +178,9 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     - c-187825
 
 <a id="claim-t-205535"></a>
-- t-011
+- t-205535
   teiginys: "Albertas grįždamas aplankė kai kuriuos Lie tuvos žemės kraštus, kur mokė žmones švento tikėjimo tiesų."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -242,8 +233,8 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-78934
 
 - id: c-76033
   redaktorius: "A. Šapoka"
@@ -263,8 +254,8 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-78933
 
 - id: c-76034
   sudarytojas: "Karolis Zikaras"
@@ -299,8 +290,8 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-78932
 
 - id: c-173719
   autorius: "Teodoras Narbutas"
@@ -325,8 +316,6 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
 
 - id: c-184310
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -357,8 +346,8 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-200960
 
 - id: c-184311
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -394,8 +383,8 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-200961
 
 - id: c-184312
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -418,8 +407,8 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-200962
 
 - id: c-184313
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -441,8 +430,8 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
+  pagrindžia:
+    - t-200963
 
 - id: c-186608
   autorius: "Rimvydas Petrauskas"
@@ -462,8 +451,8 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
+  pagrindžia:
+    - t-204004
 
 - id: c-187825
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -486,8 +475,8 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-010
+  pagrindžia:
+    - t-205231
 
 - id: c-187842
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -506,5 +495,41 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-011
+  pagrindžia:
+    - t-205535
+
+- id: c-188113
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 273"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 273."
+  citata_originali: |
+    1203 m. Latvių ir lietuvių žygis j Rygą. 1203 metų
+    pradžioje vyskupas Albertas nuvyko į Vokietiją, norėda­
+    mas garantuoti kryžiuočių paramą, mat jautė savo miestui
+    artėjančią svetimšalių priešų grėsmę.
+  citata_rodoma: "1203 metų \npradžioje vyskupas Albertas nuvyko į Vokietiją, norėda­\nmas garantuoti kryžiuočių paramą, mat jautė savo miestui \nartėjančią svetimšalių priešų grėsmę."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-205744
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
+  citata_originali: |
+    Žygio prieš Lietuvą metu Karaliaučiaus komtūrui broliui
+    Albertui besimeldžiant, ore prie jo burnos pasirodė viešpaties kūnas paplotėlio pavidalu
+    ir kryžiuotis jį priėmė su neapsakomu džiaugsmu (III, 232).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222320
+

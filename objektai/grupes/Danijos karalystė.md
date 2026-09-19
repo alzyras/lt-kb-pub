@@ -28,33 +28,6 @@ Pasak Narbuto, XIII a. pradžioje Danijos karalystė kai kuriuos lietuvių gyven
 
 Pasak Narbuto, XIII a. pradžioje Danijos karalystė kai kuriuos lietuvių gyvenamus kraštus laikė savo valdomis. Šit tokios Lietuvos žemės Danijos geografijoje buvo lai komos lietuviškomis, saviems karaliams pripažįstant tei ses į daugelį iš jų.
 
-## Teiginiai
-
-<a id="claim-t-205187"></a>
-- t-001
-  teiginys: "Pasak Narbuto, XIII a. pradžioje Danijos karalystė kai kuriuos lietuvių gyvenamus kraštus laikė savo valdomis."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-187864
-
-<a id="claim-t-205261"></a>
-- t-002
-  teiginys: "Šit tokios Lietuvos žemės Danijos geografijoje buvo lai komos lietuviškomis, saviems karaliams pripažįstant tei ses į daugelį iš jų."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-187939
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pasak Narbuto, XIII a. pradžioje Danijos karalystė kai kuriuos lietuvių gyvenamus kraštus laikė savo valdomis.'
@@ -94,7 +67,7 @@ Pasak Narbuto, XIII a. pradžioje Danijos karalystė kai kuriuos lietuvių gyven
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-187939
@@ -110,5 +83,33 @@ Pasak Narbuto, XIII a. pradžioje Danijos karalystė kai kuriuos lietuvių gyven
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-205187"></a>
+- t-001
+  teiginys: "Pasak Narbuto, XIII a. pradžioje Danijos karalystė kai kuriuos lietuvių gyvenamus kraštus laikė savo valdomis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187864
+
+<a id="claim-t-205261"></a>
+- t-002
+  teiginys: "Šit tokios Lietuvos žemės Danijos geografijoje buvo lai komos lietuviškomis, saviems karaliams pripažįstant tei ses į daugelį iš jų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187939
+

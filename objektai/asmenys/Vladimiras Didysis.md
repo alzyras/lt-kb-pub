@@ -37,10 +37,58 @@ Vladimiras Didysis pats išpažino ir netgi padidino garbinamų dievų skaičių
 
 ## Teiginiai
 
+<a id="claim-t-213424"></a>
+- t-002
+  teiginys: "983 metais Vladimiras Didysis, traukdamas Lenkijos link, užpuolė ir užgrobė jotvingių žemes prie Bugo."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195060
+
+<a id="claim-t-213963"></a>
+- t-003
+  teiginys: "Narbutas nurodo, kad Vladimiro Didžiojo įpėdinių laikais prie Nemuno ir Neries buvo mažesni įtvirtinimai."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194387
+
+<a id="claim-t-219231"></a>
+- t-004
+  teiginys: "Narbutas teigia, kad rusios istorija liudija, kad 980 metais tą garbinimą įve dė Kijeve Vladimiras Didysis, liepęs pastatyti ant kalno to dievo stabą."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198654
+
+<a id="claim-t-210443"></a>
+- t-210443
+  teiginys: "Apie 988 metus Vladimiras Didysis, sudaręs taiką su danais, dalį čiudų gyventojų perkėlė į Pietų Rusią."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195597
+
 <a id="claim-t-205284"></a>
-- t-001
+- t-205284
   teiginys: "Vladimiras Didysis pats išpažino ir netgi padidino garbinamų dievų skaičių, pridėdamas skolintą iš lietuvių Perkūną, kitaip vadintą Joviu Piorūnaičiu."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -68,5 +116,82 @@ Vladimiras Didysis pats išpažino ir netgi padidino garbinamų dievų skaičių
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-205284
+
+- id: c-194387
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 280"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 280."
+  citata_originali: |
+    Vladimiro Didžiojo įpėdinių laikais tokie sustiprini­
+    mai, bet gerokai mažesni, buvo ir prie Nemuno, ir prie Neries*.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+
+- id: c-195060
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 119-120"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 119-120."
+  citata_originali: |
+    Vladimiras Didysis, su savo bū­
+    riais traukdamas Lenkijos link, 983 metais užpuolė ir
+    > Kist. Nar. Pol. T. IV (przyp. 115).
+    122
+
+    užgrobė jotvingių žemes, ypač esančias arčiau Rusios,
+    i. y. plytinčias prie Bugo
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+- id: c-195597
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 93"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 93."
+  citata_originali: |
+    Anot
+    Nestoro, apie 988 pietus Vladimiras Didysis, sudaręs tai­
+    ką su danais, dalį Ciudo gyventojų perkėlė į Pietų Rusią,
+    o paliktą žmonių kraštą užėmė latviai
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210443
+
+- id: c-198654
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 94"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 94."
+  citata_originali: |
+    Rusios istorija liudija, kad 980 metais tą garbinimą įve­
+    dė Kijeve Vladimiras Didysis, liepęs pastatyti ant kalno to dievo
+    stabą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+

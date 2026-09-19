@@ -82,8 +82,8 @@ test("keeps every Vytautas claim, canonical citation, and significant mention re
   const source = path.join(process.cwd(), "content/objektai/asmenys/Vytautas.md")
   if (!fs.existsSync(source)) return
   const evidence = objectDetailEvidence(fs.readFileSync(source, "utf8"))
-  assert.equal(evidence.claims.length, 376)
-  assert.equal(evidence.citations.size, 290)
+  assert.equal(evidence.claims.length, 369)
+  assert.equal(evidence.citations.size, 312)
   assert.equal(evidence.citationRecords.filter((record) => record.significantMention).length, 30)
-  assert.equal(evidence.citationRecords.filter((record) => record.standalone).length, 23)
+  assert.equal(evidence.citationRecords.filter((record) => record.standalone).length, 84)
 })

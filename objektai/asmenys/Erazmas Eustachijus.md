@@ -40,44 +40,6 @@ canonical_biography: "Tarp kitų seniūno pareiginių išlaidų minėtinos įpra
 
 Tarp kitų seniūno pareiginių išlaidų minėtinos įprastos 4 kapos grašių Kauno klebonui, jau velioniui Erazmui Eustachijui, ir l3 kapų grašių pragyvenimui pilyje laikomiems 3 rusams, matyt, Livonijos karo belaisviams. Remdamasis šia aplinkybe Kauno klebonas Erazmas Eustachijus ir vienas iš valdovinių Kauno muitininkų, pasitelkę kitą muitininką Ivaną Kuncevičių, skundė Kauno vaitą Jokūbą Šuką ir suolininkus, kad jie nepranešę valdovo komisarams surašė išmaros teise valdovui. Tai liudija 1537 m. Kauno klebono Erazmo Eustachijaus Kauno pilininkui Andriui Lactorui išduotas kvitas apie pinigų gavimą.
 
-## Teiginiai
-
-<a id="claim-t-202072"></a>
-- t-001
-  teiginys: "Tarp kitų seniūno pareiginių išlaidų minėtinos įprastos 4 kapos grašių Kauno klebonui, jau velioniui Erazmui Eustachijui, ir l3 kapų grašių pragyvenimui pilyje laikomiems 3 rusams, matyt, Livonijos karo belaisviams."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185419
-
-<a id="claim-t-202073"></a>
-- t-002
-  teiginys: "Remdamasis šia aplinkybe Kauno klebonas Erazmas Eustachijus ir vienas iš valdovinių Kauno muitininkų, pasitelkę kitą muitininką Ivaną Kuncevičių, skundė Kauno vaitą Jokūbą Šuką ir suolininkus, kad jie nepranešę valdovo komisarams surašė išmaros teise valdovui."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185420
-
-<a id="claim-t-202074"></a>
-- t-003
-  teiginys: "Tai liudija 1537 m. Kauno klebono Erazmo Eustachijaus Kauno pilininkui Andriui Lactorui išduotas kvitas apie pinigų gavimą."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185421
-
 ## Citatos
 
 - id: c-185419
@@ -96,7 +58,7 @@ Tarp kitų seniūno pareiginių išlaidų minėtinos įprastos 4 kapos grašių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185420
@@ -115,7 +77,7 @@ Tarp kitų seniūno pareiginių išlaidų minėtinos įprastos 4 kapos grašių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-185421
@@ -131,5 +93,44 @@ Tarp kitų seniūno pareiginių išlaidų minėtinos įprastos 4 kapos grašių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+## Teiginiai
+
+<a id="claim-t-202072"></a>
+- t-001
+  teiginys: "Tarp kitų seniūno pareiginių išlaidų minėtinos įprastos 4 kapos grašių Kauno klebonui, jau velioniui Erazmui Eustachijui, ir l3 kapų grašių pragyvenimui pilyje laikomiems 3 rusams, matyt, Livonijos karo belaisviams."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185419
+
+<a id="claim-t-202073"></a>
+- t-002
+  teiginys: "Remdamasis šia aplinkybe Kauno klebonas Erazmas Eustachijus ir vienas iš valdovinių Kauno muitininkų, pasitelkę kitą muitininką Ivaną Kuncevičių, skundė Kauno vaitą Jokūbą Šuką ir suolininkus, kad jie nepranešę valdovo komisarams surašė išmaros teise valdovui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185420
+
+<a id="claim-t-202074"></a>
+- t-003
+  teiginys: "Tai liudija 1537 m. Kauno klebono Erazmo Eustachijaus Kauno pilininkui Andriui Lactorui išduotas kvitas apie pinigų gavimą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185421
+

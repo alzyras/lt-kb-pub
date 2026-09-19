@@ -46,21 +46,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-205989"></a>
-- t-001
-  teiginys: "Konrado į kovas atvesti lietuvių ir rusų pulkai užėmė miestą, išžudė įgulą, paėmė belaisvių ir, viską išplėšę, paliko miestą Konradui."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188604
-
 ## Santrauka
 
 Konrado į kovas atvesti lietuvių ir rusų pulkai užėmė miestą, išžudė įgulą, paėmė belaisvių ir, viską išplėšę, paliko miestą Konradui.
@@ -82,5 +67,21 @@ Konrado į kovas atvesti lietuvių ir rusų pulkai užėmė miestą, išžudė �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205989"></a>
+- t-001
+  teiginys: "Konrado į kovas atvesti lietuvių ir rusų pulkai užėmė miestą, išžudė įgulą, paėmė belaisvių ir, viską išplėšę, paliko miestą Konradui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188604
+

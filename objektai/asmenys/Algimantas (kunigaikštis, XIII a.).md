@@ -48,34 +48,6 @@ Danielius, sudaręs sąjungą su Algimantu, kartu vedė lietuvių pulkus. Teodor
 
 Danielius, sudaręs sąjungą su Algimantu, kartu vedė lietuvių pulkus. Teodoras Narbutas, palyginęs Algimanto mirties datą su genealogine lentele, mano, kad Algimantas galėjo patekti į per Jaroslavo žygį paimtų belaisvių gretas ir 1226 m. mirti Naugarde.
 
-## Teiginiai
-
-<a id="claim-t-206090"></a>
-- t-001
-  teiginys: "Danielius, sudaręs sąjungą su Algimantu, kartu vedė lietuvių pulkus."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
-  pagrindžia:
-    - c-188705
-
-<a id="claim-t-206091"></a>
-- t-002
-  teiginys: "Teodoras Narbutas, palyginęs Algimanto mirties datą su genealogine lentele, mano, kad Algimantas galėjo patekti į per Jaroslavo žygį paimtų belaisvių gretas ir 1226 m. mirti Naugarde."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
-  pagrindžia:
-    - c-188706
-
 ## Citatos
 
 - id: c-188705
@@ -97,7 +69,7 @@ Danielius, sudaręs sąjungą su Algimantu, kartu vedė lietuvių pulkus. Teodor
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188706
@@ -124,5 +96,34 @@ Danielius, sudaręs sąjungą su Algimantu, kartu vedė lietuvių pulkus. Teodor
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-206090"></a>
+- t-001
+  teiginys: "Danielius, sudaręs sąjungą su Algimantu, kartu vedė lietuvių pulkus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-188705
+
+<a id="claim-t-206091"></a>
+- t-002
+  teiginys: "Teodoras Narbutas, palyginęs Algimanto mirties datą su genealogine lentele, mano, kad Algimantas galėjo patekti į per Jaroslavo žygį paimtų belaisvių gretas ir 1226 m. mirti Naugarde."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-188706
+

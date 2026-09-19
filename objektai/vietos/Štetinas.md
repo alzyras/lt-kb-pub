@@ -36,25 +36,6 @@ historical_names: []
 
 O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir dominin­ konams ir Hanzos miestams (Liubekui, Rostokui, Stralsundui, Greifswaldni, Stettinui ir Gotlando salai). Du, o gal ir trys laiškai buvo parašyti popiežiui.
 
-## Teiginiai
-
-<a id="claim-t-174590"></a>
-- t-001
-  teiginys: "Trys laiškai buvo pasiųsti Hanzos miestams, tarp jų ir Štetinui."
-  atnaujinta: "2026-05-31 14:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Štetinas: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Hanza: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Štetinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Trys laiškai buvo pasiųsti Hanzos miestams, tarp jų Štetinui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Hanza siuntė į Štetinas (0.76)"
-  pagrindžia:
-    - c-158753
-
 ## Citatos
 
 - id: c-158753
@@ -75,5 +56,25 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-174590"></a>
+- t-001
+  teiginys: "Trys laiškai buvo pasiųsti Hanzos miestams, tarp jų ir Štetinui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Štetinas: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Hanza: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Štetinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Trys laiškai buvo pasiųsti Hanzos miestams, tarp jų Štetinui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Hanza siuntė į Štetinas (0.76)"
+  pagrindžia:
+    - c-158753
+

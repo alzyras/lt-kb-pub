@@ -39,20 +39,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-202029"></a>
-- t-001
-  teiginys: "Tačiau jei prie Krokuvos universiteto studentų iš Kauno pridėsime ne tik tuos kelis iš šaltinių žinomus kauniečius, studijavusius Vilniaus universitete, bet ir numanomus dar neišaiškintus, tai ir katalikų tvarkomuose universitetuose kalbamu laikotarpiu."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185376
-
 ## Citatos
 
 - id: c-185376
@@ -72,5 +58,20 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202029"></a>
+- t-001
+  teiginys: "Tačiau jei prie Krokuvos universiteto studentų iš Kauno pridėsime ne tik tuos kelis iš šaltinių žinomus kauniečius, studijavusius Vilniaus universitete, bet ir numanomus dar neišaiškintus, tai ir katalikų tvarkomuose universitetuose kalbamu laikotarpiu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185376
+

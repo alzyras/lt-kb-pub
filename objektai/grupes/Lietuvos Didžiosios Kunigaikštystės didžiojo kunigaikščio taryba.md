@@ -39,37 +39,6 @@ media_all_json: |-
 
 1439 m. rugsėjį Trakuose Žygimantas Kęstutaitis teigė negalįs priimti Ordino ir Romos karaliaus pasiuntinių, nes dar neturėjo tarybos ir rengėsi ją sušaukti. Valdovo, kaip valstybę koordinuojančio asmens, nebuvimas skatino Didžiojo kunigaikščio tarybos funkcijų plėtrą ir tolesnę jos institucionalizaciją Ponų tarybos forma.
 
-## Teiginiai
-
-<a id="claim-t-204375"></a>
-- t-001
-  teiginys: "1439 m. rugsėjį Trakuose Žygimantas Kęstutaitis teigė negalįs priimti Ordino ir Romos karaliaus pasiuntinių, nes dar neturėjo tarybos ir rengėsi ją sušaukti."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  temporaliniai_duomenys: "įvykio data: 1439 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas veiksmo ir priežasties ryšys, o šaltinio fragmentiška formuluotė pakeista į vientisą sakinį."
-  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
-  pagrindžia:
-    - c-186979
-
-<a id="claim-t-204376"></a>
-- t-002
-  teiginys: "Valdovo, kaip valstybę koordinuojančio asmens, nebuvimas skatino Didžiojo kunigaikščio tarybos funkcijų plėtrą ir tolesnę jos institucionalizaciją Ponų tarybos forma."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
-  pagrindžia:
-    - c-186980
-
 ## Citatos
 
 - id: c-186979
@@ -95,7 +64,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186980
@@ -119,5 +88,37 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-204375"></a>
+- t-001
+  teiginys: "1439 m. rugsėjį Trakuose Žygimantas Kęstutaitis teigė negalįs priimti Ordino ir Romos karaliaus pasiuntinių, nes dar neturėjo tarybos ir rengėsi ją sušaukti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1439 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas veiksmo ir priežasties ryšys, o šaltinio fragmentiška formuluotė pakeista į vientisą sakinį."
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186979
+
+<a id="claim-t-204376"></a>
+- t-002
+  teiginys: "Valdovo, kaip valstybę koordinuojančio asmens, nebuvimas skatino Didžiojo kunigaikščio tarybos funkcijų plėtrą ir tolesnę jos institucionalizaciją Ponų tarybos forma."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186980
+

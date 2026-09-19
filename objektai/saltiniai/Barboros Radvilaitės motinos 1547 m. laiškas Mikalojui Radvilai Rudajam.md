@@ -34,24 +34,6 @@ media_all_json: |-
 
 1547 m. laiške Mikalojui Radvilai Rudajam Barboros Radvilaitės motina mini sūnui siunčiamas savo sumedžiotas antis ir save vadina „boba troboje“.
 
-## Teiginiai
-
-<a id="claim-t-204171"></a>
-- t-001
-  teiginys: "1547 m. laiške Mikalojui Radvilai Rudajam Barboros Radvilaitės motina mini sūnui siunčiamas savo sumedžiotas antis ir save vadina „boba troboje“."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  temporaliniai_duomenys: "įvykio data: 1547 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pataisyta sakinio gramatika ir aiškiai įvardyti laiško adresatas bei veiksmai. Šaltinyje pateiktas savęs įvardijimas išlaikytas tikslia citata, papildomų interpretacijų nepridėta."
-  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
-  pagrindžia:
-    - c-186765
-
 ## Citatos
 
 - id: c-186765
@@ -75,5 +57,24 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204171"></a>
+- t-001
+  teiginys: "1547 m. laiške Mikalojui Radvilai Rudajam Barboros Radvilaitės motina mini sūnui siunčiamas savo sumedžiotas antis ir save vadina „boba troboje“."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1547 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pataisyta sakinio gramatika ir aiškiai įvardyti laiško adresatas bei veiksmai. Šaltinyje pateiktas savęs įvardijimas išlaikytas tikslia citata, papildomų interpretacijų nepridėta."
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186765
+

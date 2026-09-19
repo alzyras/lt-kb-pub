@@ -35,33 +35,6 @@ canonical_biography: "Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoj
 
 Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto Augusto nurodymu, jis pradėjęs rašyti lotynų kalba „Lietu­ vos istoriją", bet po karaliaus mir­ ties tą darbą užmetęs, janociana, Vol. Daugiausia žinių apie šį nepaprastą žmogų ga­ lima surasti O s s o 1 i ń s k i II t., 1.155 sq.; jis pataisė Janockio ir kitų Roizijaus biografų klaidas.
 
-## Teiginiai
-
-<a id="claim-t-88067"></a>
-- t-001
-  teiginys: "Janockis buvo vienas iš Roizijaus biografų, kurių klaidas pataisė Ossolinskis."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-84046
-
-<a id="claim-t-88068"></a>
-- t-002
-  teiginys: "Janockis Augustą Rotundą vadino Mieleskiu ir pasakojo, kad šis Žygimanto Augusto nurodymu pradėjo lotyniškai rašyti „Lietuvos istoriją“."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lotynai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Janockis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Lotynai: mention_match, group, gap=98"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Janockis\" parinktas kaip owner_note_path. Targetas \"Lotynai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-84047
-
 ## Citatos
 
 - id: c-84046
@@ -86,7 +59,7 @@ Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-84047
@@ -113,5 +86,33 @@ Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-88067"></a>
+- t-001
+  teiginys: "Janockis buvo vienas iš Roizijaus biografų, kurių klaidas pataisė Ossolinskis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-84046
+
+<a id="claim-t-88068"></a>
+- t-002
+  teiginys: "Janockis Augustą Rotundą vadino Mieleskiu ir pasakojo, kad šis Žygimanto Augusto nurodymu pradėjo lotyniškai rašyti „Lietuvos istoriją“."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Lotynai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Janockis: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Lotynai: mention_match, group, gap=98"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Janockis\" parinktas kaip owner_note_path. Targetas \"Lotynai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-84047
+

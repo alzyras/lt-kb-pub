@@ -43,20 +43,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-204096"></a>
-- t-001
-  teiginys: "Po II Pasaulinio karo pabaigos 1951 m. žemės teismo knygos buvo pervežtos į Baltarusiją."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
-  pagrindžia:
-    - c-186700
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Po II Pasaulinio karo pabaigos 1951 m. žemės teismo knygos buvo pervežtos į Baltarusiją.'
@@ -99,5 +85,20 @@ Po II Pasaulinio karo pabaigos 1951 m. žemės teismo knygos buvo pervežtos į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204096"></a>
+- t-001
+  teiginys: "Po II Pasaulinio karo pabaigos 1951 m. žemės teismo knygos buvo pervežtos į Baltarusiją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
+  pagrindžia:
+    - c-186700
+

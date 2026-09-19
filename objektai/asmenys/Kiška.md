@@ -36,24 +36,6 @@ canonical_biography: "Kilo didelis pavojus karaliaus saugumui, tad Aleksandras, 
 
 Kilo didelis pavojus karaliaus saugumui, tad Aleksandras, ponų patarimu, kariuomenei vadovauti pavedęs etmonui Kiškai ir kunigaikščiui Glins­ kiui, pats galutinai paliegęs lektikoje buvo nugabentas į Vil­ nių.
 
-## Teiginiai
-
-<a id="claim-t-87755"></a>
-- t-001
-  teiginys: "Krymo totoriams priartėjus prie Lydos, Aleksandras pavedė kariuomenei vadovauti etmonui Kiškai ir kunigaikščiui Glinskiui."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Kiška: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Aleksandras: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kiška: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Aleksandras tiesiogiai pavedė Kiškai vadovauti kariuomenei."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-83734
-
 ## Citatos
 
 - id: c-83734
@@ -77,5 +59,24 @@ Kilo didelis pavojus karaliaus saugumui, tad Aleksandras, ponų patarimu, kariuo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-87755"></a>
+- t-001
+  teiginys: "Krymo totoriams priartėjus prie Lydos, Aleksandras pavedė kariuomenei vadovauti etmonui Kiškai ir kunigaikščiui Glinskiui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "paskyre -> Kiška: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Aleksandras: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kiška: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Aleksandras tiesiogiai pavedė Kiškai vadovauti kariuomenei."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-83734
+

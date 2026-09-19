@@ -5,6 +5,7 @@ import {
   type SourceCatalogEntry,
 } from "../../util/sourceSettings"
 import type { ContentMetaDetails } from "../../plugins/emitters/contentIndex"
+import { objectCardTags, objectCountLabel } from "../../util/objectTypes"
 
 type ObjectListControlsWindow = Window &
   typeof globalThis & {
@@ -115,7 +116,7 @@ function addTagPill(control: HTMLElement, tag: string, apply = true) {
   button.dataset.objectListTagPill = "true"
   button.dataset.tag = tag
   button.textContent = `#${tag} ×`
-  button.setAttribute("aria-label", `Pašalinti tagą ${tag}`)
+  button.setAttribute("aria-label", `Pašalinti žymą ${tag}`)
   button.addEventListener("click", () => {
     button.remove()
     applyFilters(control, true)
@@ -150,7 +151,7 @@ function createEntry(slug: string, entry: ContentMetaDetails, index: number): HT
   item.dataset.quoteCount = String(entry.quoteCount ?? 0)
   item.dataset.claimCount = String(entry.claimCount ?? 0)
   item.dataset.citationSources = (entry.citationSourceIds ?? []).join("|")
-  const tags = (entry.tags ?? [])
+  const tags = objectCardTags(entry.tags ?? [], entry.itemType ?? "")
     .map(
       (tag) =>
         `<li><a class="internal tag-link" href="/tags/${encodeURIComponent(tag)}">${escapeHtml(tag)}</a></li>`,
@@ -163,7 +164,7 @@ function createEntry(slug: string, entry: ContentMetaDetails, index: number): HT
     <div class="listing-card-meta-row"><span class="type-chip">${escapeHtml(typeLabels[entry.itemType ?? ""] ?? entry.itemType ?? "Objektas")}</span><div class="meta-box">${period}</div></div>
     <h3 class="title-row"><a href="${hrefFor(slug)}" class="internal">${escapeHtml(entry.title)}</a></h3>
     ${tags ? `<ul class="tags inline-tags">${tags}</ul>` : ""}
-    <p class="listing-evidence-meta">${Number(entry.claimCount ?? 0).toLocaleString("lt-LT")} teig. / ${Number(entry.quoteCount ?? 0).toLocaleString("lt-LT")} cit.</p>
+    <p class="listing-evidence-meta"><span><strong>${Number(entry.claimCount ?? 0).toLocaleString("lt-LT")}</strong> ${objectCountLabel(entry.claimCount ?? 0, "claims")}</span><span><strong>${Number(entry.quoteCount ?? 0).toLocaleString("lt-LT")}</strong> ${objectCountLabel(entry.quoteCount ?? 0, "quotes")}</span></p>
   </div></div>`
   return item
 }
@@ -284,7 +285,9 @@ function renderVirtualPage(control: HTMLElement, virtual: Array<[string, Content
   const first = filtered.length ? start + 1 : 0
   const last = Math.min(start + PAGE_SIZE, filtered.length)
   if (summary)
-    summary.textContent = `Rodoma ${first}–${last} iš ${filtered.length} (iš viso ${virtual.length})`
+    summary.textContent = `${first}–${last} iš ${filtered.length.toLocaleString("lt-LT")} įrašų`
+  const empty = rootFor(control).querySelector<HTMLElement>("[data-object-list-empty]")
+  if (empty) empty.hidden = filtered.length > 0
   const periodSummary = rootFor(control).querySelector<HTMLElement>("[data-period-summary]")
   if (periodSummary) periodSummary.textContent = `Atitinka ${filtered.length} iš ${virtual.length}`
   const previous = control.querySelector<HTMLAnchorElement>("[data-object-list-previous]")
@@ -322,7 +325,9 @@ function paginate(control: HTMLElement) {
   const first = matches.length ? start + 1 : 0
   const last = Math.min(start + PAGE_SIZE, matches.length)
   if (summary)
-    summary.textContent = `Rodoma ${first}–${last} iš ${matches.length} (iš viso ${all.length})`
+    summary.textContent = `${first}–${last} iš ${matches.length.toLocaleString("lt-LT")} įrašų`
+  const empty = rootFor(control).querySelector<HTMLElement>("[data-object-list-empty]")
+  if (empty) empty.hidden = matches.length > 0
   const previous = control.querySelector<HTMLAnchorElement>("[data-object-list-previous]")
   const next = control.querySelector<HTMLAnchorElement>("[data-object-list-next]")
   const label = control.querySelector<HTMLElement>("[data-object-list-page-label]")
@@ -436,10 +441,26 @@ function init() {
     .forEach((control) => {
       if (initialized.has(control)) return
       initialized.add(control)
+      const categoryNav = control
+        .closest(".object-type-catalog")
+        ?.querySelector<HTMLElement>(".object-catalog-types")
+      const activeCategory = categoryNav?.querySelector<HTMLElement>('[aria-current="page"]')
+      if (categoryNav && activeCategory) {
+        categoryNav.scrollLeft +=
+          activeCategory.getBoundingClientRect().left -
+          categoryNav.getBoundingClientRect().left -
+          (categoryNav.clientWidth - activeCategory.offsetWidth) / 2
+      }
       const url = urlParams()
       const query = control.querySelector<HTMLInputElement>("[data-object-list-query]")
       const sort = control.querySelector<HTMLSelectElement>("[data-object-list-sort]")
       const tagSelect = control.querySelector<HTMLSelectElement>("[data-object-list-tag-select]")
+      rootFor(control)
+        .querySelector<HTMLButtonElement>("[data-object-list-empty-reset]")
+        ?.addEventListener("click", () => {
+          control.querySelector<HTMLButtonElement>("[data-object-list-reset]")?.click()
+          query?.focus()
+        })
       if (query) query.value = url.get("q") ?? ""
       if (sort) sort.value = url.get("sort") ?? "claims-desc"
       ;(url.get("tags") ?? "")
@@ -461,6 +482,16 @@ function init() {
           updateUrl((value) => {
             ;["from", "to", "unknown", "page"].forEach((key) => value.delete(key))
           })
+          const period = rootFor(control).querySelector<HTMLElement>(
+            "[data-period-filter-controls]",
+          )
+          const start = period?.querySelector<HTMLInputElement>('[data-period-input="start"]')
+          const end = period?.querySelector<HTMLInputElement>('[data-period-input="end"]')
+          const unknown = period?.querySelector<HTMLInputElement>('[data-period-input="unknown"]')
+          if (start) start.value = start.min
+          if (end) end.value = end.max
+          if (unknown) unknown.checked = true
+          end?.dispatchEvent(new Event("input", { bubbles: true }))
           document.querySelector<HTMLButtonElement>("[data-options-reset]")?.click()
           applyFilters(control, true)
         })

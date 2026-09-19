@@ -45,41 +45,6 @@ canonical_biography: "Kojelavičiaus pasakojime Germantas veržėsi kautis su Le
 
 Kojelavičiaus pasakojime Germantas veržėsi kautis su Leonu, nes Leonui priskyrė ankstesnį Lietuvos didžiojo kunigaikščio nužudymą per vaišes. Teodoras Narbutas nurodo, kad 1316 m. rugpjūčio 10 d. Leonas ir Andrius, Jurgio sūnūs bei Haličo karaliaus Danieliaus vaikaičiai, įsipareigojo palaikyti gerus santykius su didžiuoju magistru Karoliu. Leonas, Alfredo Bumblausko pateikiamas kaip Haličo kunigaikštis ir Švarno brolis, negavęs Lietuvos sosto iš Vaišelgos, pasikvietė Vaišelgą į svečius ir nužudė Vaišelgą.
 
-## Teiginiai
-
-<a id="claim-t-186009"></a>
-- t-001
-  teiginys: "Kojelavičiaus pasakojime Germantas veržėsi kautis su Leonu, nes Leonui priskyrė ankstesnį Lietuvos didžiojo kunigaikščio nužudymą per vaišes."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Leonas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=57"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Leonas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-169370
-
-<a id="claim-t-205699"></a>
-- t-002
-  teiginys: "Teodoras Narbutas nurodo, kad 1316 m. rugpjūčio 10 d. Leonas ir Andrius, Jurgio sūnūs bei Haličo karaliaus Danieliaus vaikaičiai, įsipareigojo palaikyti gerus santykius su didžiuoju magistru Karoliu."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
-  pagrindžia:
-    - c-188314
-
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Leonas, Alfredo Bumblausko pateikiamas kaip Haličo kunigaikštis ir Švarno brolis, negavęs Lietuvos sosto iš Vaišelgos, pasikvietė Vaišelgą į svečius ir nužudė Vaišelgą.'
@@ -115,7 +80,7 @@ Kojelavičiaus pasakojime Germantas veržėsi kautis su Leonu, nes Leonui prisky
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188314
@@ -140,5 +105,75 @@ Kojelavičiaus pasakojime Germantas veržėsi kautis su Leonu, nes Leonui prisky
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+- id: c-190059
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 88"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 88."
+  citata_originali: |
+    Politiniu požiūriu Lietuvai tai buvo labai nenaudingas žingsnis.
+    Tačiau Vaišelga minėtinas ir kaip pirmas žmogus Lietuvoje, kuris, kaip teigė amžininkai,
+    iš žiauraus pagonio virto karštai tikinčiu krikščionimi. 1267 m. – Vaišelga Lietuvos sostą
+    perleido savo svainiui Haličo kunigaikščiui Švarnui, Haličo kunigaikštis Leonas (Švarno
+    brolis), negavęs Lietuvos sosto iš Vaišelgos, pasikvietė jį į svečius ir nužudė.
+  citata_rodoma: "1267 m. – Vaišelga Lietuvos sostą \nperleido savo svainiui Haličo kunigaikščiui Švarnui, Haličo kunigaikštis Leonas (Švarno \nbrolis), negavęs Lietuvos sosto iš Vaišelgos, pasikvietė jį į svečius ir nužudė."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+
+## Teiginiai
+
+<a id="claim-t-186009"></a>
+- t-001
+  teiginys: "Kojelavičiaus pasakojime Germantas veržėsi kautis su Leonu, nes Leonui priskyrė ankstesnį Lietuvos didžiojo kunigaikščio nužudymą per vaišes."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Leonas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=57"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Leonas\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-169370
+
+<a id="claim-t-205699"></a>
+- t-002
+  teiginys: "Teodoras Narbutas nurodo, kad 1316 m. rugpjūčio 10 d. Leonas ir Andrius, Jurgio sūnūs bei Haličo karaliaus Danieliaus vaikaičiai, įsipareigojo palaikyti gerus santykius su didžiuoju magistru Karoliu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188314
+
+<a id="claim-t-207482"></a>
+- t-003
+  teiginys: "Leonas, Alfredo Bumblausko pateikiamas kaip Haličo kunigaikštis ir Švarno brolis, negavęs Lietuvos sosto iš Vaišelgos, pasikvietė Vaišelgą į svečius ir nužudė Vaišelgą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190059
+

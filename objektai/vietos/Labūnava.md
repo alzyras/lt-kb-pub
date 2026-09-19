@@ -42,46 +42,6 @@ historical_names: []
 
 Prūsų magistrui nusiaubus Lietuvą, Ariogalos, Pernaravos ir Labūnavos žemės Žemaitijoje buvo visai sunaikintos. Prūsų magistras, remiamas Bavarijos grafo Volfgango ir Livonijos kryžiuočių, nusiaubė Lietuvą, o Labūnavos žemė Žemaitijoje buvo sunaikinta.
 
-## Teiginiai
-
-<a id="claim-t-185289"></a>
-- t-001
-  teiginys: "Prūsų magistrui nusiaubus Lietuvą, Ariogalos, Pernaravos ir Labūnavos žemės Žemaitijoje buvo visai sunaikintos."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168650
-
-<a id="claim-t-193450"></a>
-- t-002
-  teiginys: "Prūsų magistras, remiamas Bavarijos grafo Volfgango ir Livonijos kryžiuočių, nusiaubė Lietuvą, o Labūnavos žemė Žemaitijoje buvo sunaikinta."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-168650
-
-<a id="claim-t-206513"></a>
-- t-003
-  teiginys: "Kryžiuočiai, persikėlę per Nevėžį, užpuolė ir sudegino Labūnavos pilį, o vėliau taip pat pasielgė prie Žeimių."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189128
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Prūsų magistrui nusiaubus Lietuvą, Ariogalos, Pernaravos ir Labūnavos žemės Žemaitijoje buvo visai sunaikintos.'
@@ -162,7 +122,7 @@ Prūsų magistrui nusiaubus Lietuvą, Ariogalos, Pernaravos ir Labūnavos žemė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -179,5 +139,46 @@ Prūsų magistrui nusiaubus Lietuvą, Ariogalos, Pernaravos ir Labūnavos žemė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+## Teiginiai
+
+<a id="claim-t-185289"></a>
+- t-001
+  teiginys: "Prūsų magistrui nusiaubus Lietuvą, Ariogalos, Pernaravos ir Labūnavos žemės Žemaitijoje buvo visai sunaikintos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168650
+
+<a id="claim-t-193450"></a>
+- t-002
+  teiginys: "Prūsų magistras, remiamas Bavarijos grafo Volfgango ir Livonijos kryžiuočių, nusiaubė Lietuvą, o Labūnavos žemė Žemaitijoje buvo sunaikinta."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-168650
+
+<a id="claim-t-206513"></a>
+- t-003
+  teiginys: "Kryžiuočiai, persikėlę per Nevėžį, užpuolė ir sudegino Labūnavos pilį, o vėliau taip pat pasielgė prie Žeimių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189128
+

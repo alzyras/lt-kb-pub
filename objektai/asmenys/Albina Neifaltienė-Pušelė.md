@@ -35,19 +35,6 @@ canonical_biography: "Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė s
 
 Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušelė“. Mūšyje narsiai kovėsi ir junginio vado žmona Albina Neifaltienė-Pušelė, kuri taiklia rankinio kulkosvaidžio ugnimi padarė priešui daug nuostolių, tačiau ir pati buvo priešo kulkos pakirsta.
 
-## Teiginiai
-
-<a id="claim-t-39994"></a>
-- t-001
-  teiginys: "Mūšyje Albina Neifaltienė-Pušelė rankinio kulkosvaidžio ugnimi padarė priešui daug nuostolių ir buvo pakirsta priešo kulkos."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  pagrindžia:
-    - c-44260
-    - c-167112
-
 ## Citatos
 
 - id: c-44260
@@ -70,7 +57,7 @@ Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušel
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167112
@@ -96,5 +83,19 @@ Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušel
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-39994"></a>
+- t-001
+  teiginys: "Mūšyje Albina Neifaltienė-Pušelė rankinio kulkosvaidžio ugnimi padarė priešui daug nuostolių ir buvo pakirsta priešo kulkos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
+  pagrindžia:
+    - c-44260
+    - c-167112
+

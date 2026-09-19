@@ -36,32 +36,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-201274"></a>
-- t-001
-  teiginys: "Lie tuviai, atėję ties Mėlynaisiais Vandenimis, pamatė totorius taboriuose stovinčius, kurių trys karvedžiai: Katlubachas, Girėjus ir Dimeiteris stipriai pasirėdę vedė tuojau nesuskaitomas gaujas į mūšą."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184624
-
-<a id="claim-t-201275"></a>
-- t-002
-  teiginys: "Pirmajame susirėmime totoriai ga lėjo manyti lietuvius pergalėtojais tapsiant, kaipogi totoriai sulenkta eila pagal savo būdą nebgalėjo be kariauti, radęsi staiga nuo lietuvių apsiaustais; kai pogi totoriai, išmetę savo vylyčias į tuščias vietas, susirėmė su."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184625
-
 ## Citatos
 
 - id: c-184624
@@ -85,7 +59,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184625
@@ -116,5 +90,32 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-201274"></a>
+- t-001
+  teiginys: "Lie tuviai, atėję ties Mėlynaisiais Vandenimis, pamatė totorius taboriuose stovinčius, kurių trys karvedžiai: Katlubachas, Girėjus ir Dimeiteris stipriai pasirėdę vedė tuojau nesuskaitomas gaujas į mūšą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184624
+
+<a id="claim-t-201275"></a>
+- t-002
+  teiginys: "Pirmajame susirėmime totoriai ga lėjo manyti lietuvius pergalėtojais tapsiant, kaipogi totoriai sulenkta eila pagal savo būdą nebgalėjo be kariauti, radęsi staiga nuo lietuvių apsiaustais; kai pogi totoriai, išmetę savo vylyčias į tuščias vietas, susirėmė su."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184625
+

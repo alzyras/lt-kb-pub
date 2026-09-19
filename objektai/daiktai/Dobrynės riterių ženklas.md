@@ -39,20 +39,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-205094"></a>
-- t-001
-  teiginys: "Pasak Teodoro Narbuto, po Dobrynės riterių žvaigžde buvo dangiškos spalvos kardas, perkryžiuotas su aukso spalvos saga."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-187910
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pasak Teodoro Narbuto, po Dobrynės riterių žvaigžde buvo dangiškos spalvos kardas, perkryžiuotas su aukso spalvos saga.'
@@ -93,5 +79,20 @@ Pasak Teodoro Narbuto, po Dobrynės riterių žvaigžde buvo dangiškos spalvos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205094"></a>
+- t-001
+  teiginys: "Pasak Teodoro Narbuto, po Dobrynės riterių žvaigžde buvo dangiškos spalvos kardas, perkryžiuotas su aukso spalvos saga."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187910
+

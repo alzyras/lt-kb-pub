@@ -36,10 +36,34 @@ Pūtvės pilies seniūnas Spūdas pasidavė kryžiuočiams su tėvu, vaikais ir 
 
 ## Teiginiai
 
+<a id="claim-t-222384"></a>
+- t-002
+  teiginys: "Po pilies užėmimo Spūdui, jo tėvui, broliams ir šeimynai buvo suteiktas krikštas."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205811
+
+<a id="claim-t-222307"></a>
+- t-222307
+  teiginys: "Spūdas buvo galingas Pūtvės pilies lietuvis."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-202844
+
 <a id="claim-t-186252"></a>
-- t-001
+- t-186252
   teiginys: "Pūtvės pilies seniūnas Spūdas pasidavė kryžiuočiams su tėvu, vaikais ir visa šeimyna."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -100,5 +124,43 @@ Pūtvės pilies seniūnas Spūdas pasidavė kryžiuočiams su tėvu, vaikais ir 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-186252
+
+- id: c-202844
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 202"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 202."
+  citata_originali: |
+    Po kelerių metų vienas lietuvis, vardu Spūdas, galingasis Pūtvės pilyje, tačiau karštai
+    gerbęs tikėjimą bei tikinčiuosius, pasiūlė broliui Folčui, anksčiau minėtajam komtūrui,
+    atžygiuoti su savo kariuomene, nes esą norįs jam išduoti šią pilį.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222307
+
+- id: c-205811
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 202"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 202."
+  citata_originali: |
+    Gavęs šią žinią, komtūras
+    atvyko su visais saviškiais; kai Spūdas slapta atidarė pilies vartus, broliai su savo kariais
+    įsiveržė į vidų ir, visus išžudę ar paėmę į nelaisvę, padegė, iš pamatų sunaikino pilį bei
+    papilį, o Spūdui, jo tėvui, jo broliams bei visai šeimynai suteikė krikšto malonę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+

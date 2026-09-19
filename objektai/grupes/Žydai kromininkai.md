@@ -54,38 +54,6 @@ media_all_json: |-
 
 Socialinė ir prekybinė grupė.
 
-## Teiginiai
-
-<a id="claim-t-195514"></a>
-- t-001
-  teiginys: "Vaikams kromininkas ir Leiba buvo lygios sąvokos."
-  atnaujinta: "2026-07-12 04:52"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177937
-
-<a id="claim-t-195515"></a>
-- t-002
-  teiginys: "Žydas kromininkas po Kalėdų eidavo į vargšų grįčiukes, nes ten būdavo pinigų ir reikėdavo prekių."
-  atnaujinta: "2026-07-12 04:52"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177934
-
-<a id="claim-t-195516"></a>
-- t-003
-  teiginys: "Vėlesniu metu kromininkai po kaimus nebebuvo pėsti vaikščiotojai ir daugiau supirkdavo negu parduodavo."
-  atnaujinta: "2026-07-12 04:52"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177935
-
 ## Citatos
 
 - id: c-177934
@@ -101,8 +69,8 @@ Socialinė ir prekybinė grupė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-003
 
 - id: c-177935
   autorius: "M. Katkus"
@@ -123,8 +91,8 @@ Socialinė ir prekybinė grupė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-004
 
 - id: c-177936
   autorius: "M. Katkus"
@@ -144,6 +112,9 @@ Socialinė ir prekybinė grupė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
 - id: c-177937
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -164,5 +135,48 @@ Socialinė ir prekybinė grupė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-002
+
+## Teiginiai
+
+<a id="claim-t-195513"></a>
+- t-001
+  teiginys: "Kaimo žydai kromininkai šiame šaltinyje išskiriami kaip atskira kaimo prekybininkų grupė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177936
+
+<a id="claim-t-195514"></a>
+- t-002
+  teiginys: "Vaikams kromininkas ir Leiba buvo lygios sąvokos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177937
+
+<a id="claim-t-195515"></a>
+- t-003
+  teiginys: "Žydas kromininkas po Kalėdų eidavo į vargšų grįčiukes, nes ten būdavo pinigų ir reikėdavo prekių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177934
+
+<a id="claim-t-195516"></a>
+- t-004
+  teiginys: "Vėlesniu metu kromininkai po kaimus nebebuvo pėsti vaikščiotojai ir daugiau supirkdavo negu parduodavo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177935
+

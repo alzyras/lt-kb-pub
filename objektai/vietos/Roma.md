@@ -44,33 +44,6 @@ historical_names: []
 
 Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis buvo priverstas pasišalinti į Ro- mą. Roma: ją sustiprinti, čekai sukilo, ir jis buvo priverstas pasišalinti į Ro- mą. Roma: pociejus su Terleckiu, 1595 m. nuvykę į Romą ir gavę popie- žiaus Klemenso VIII visišką pritarimą, visų Lietuvos ir Lenkijos pravoslavų vardu padarė bažnytinę uniją.
 
-## Teiginiai
-
-<a id="claim-t-180499"></a>
-- t-001
-  teiginys: "Romos kurija manė, kad Vytautas ir Jogaila galės išspręsti husitų klausimą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Husitai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Roma: owner_note_path, place"
-  ryšio_targeto_parinkimas: "Husitai: mention_match, group, gap=60"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Roma\" parinktas kaip owner_note_path. Targetas \"Husitai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-164108
-
-<a id="claim-t-180501"></a>
-- t-002
-  teiginys: "1595 m. Hipatas Pociejus ir Kirilas Terleckis Romoje gavo popiežiaus Klemenso VIII pritarimą bažnytinei unijai."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-164107
-
 ## Citatos
 
 - id: c-164107
@@ -92,7 +65,7 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-164108
@@ -115,5 +88,33 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-180499"></a>
+- t-001
+  teiginys: "Romos kurija manė, kad Vytautas ir Jogaila galės išspręsti husitų klausimą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Husitai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Roma: owner_note_path, place"
+  ryšio_targeto_parinkimas: "Husitai: mention_match, group, gap=60"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Roma\" parinktas kaip owner_note_path. Targetas \"Husitai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-164108
+
+<a id="claim-t-180501"></a>
+- t-002
+  teiginys: "1595 m. Hipatas Pociejus ir Kirilas Terleckis Romoje gavo popiežiaus Klemenso VIII pritarimą bažnytinei unijai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-164107
+

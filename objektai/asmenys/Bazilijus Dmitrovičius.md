@@ -44,73 +44,6 @@ Teodoro Narbuto pasakojimu, jaunasis kunigaikštis Bazilijus Dmitrovičius, pasp
 
 Teodoro Narbuto pasakojimu, jaunasis kunigaikštis Bazilijus Dmitrovičius, pasprukęs iš Aukso ordos chano Tochtamyšo nelaisvės, rado prieglobstį pas Multano vaivadą Petrą. Teodoro Narbuto pasakojimu, Bazilijus Dmitrovičius Lucke susižadėjo su Vytauto dukra Anastazija ir 1388 m. sausio 19 d. su lenkų svita atvyko į Maskvą. Teodoro Narbuto pasakojimu, didysis kunigaikštis Bazilijus Dmitrovičius 1391 m. sausį per bajorus prašė Vytauto išleisti už jo sužadėtinę Anastaziją, kuri sausio 21 d. ištekėjo už Bazilijaus Maskvoje.
 
-## Teiginiai
-
-<a id="claim-t-206956"></a>
-- t-001
-  teiginys: "Teodoro Narbuto pasakojimu, jaunasis kunigaikštis Bazilijus Dmitrovičius, pasprukęs iš Aukso ordos chano Tochtamyšo nelaisvės, rado prieglobstį pas Multano vaivadą Petrą."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-189571
-
-<a id="claim-t-206957"></a>
-- t-002
-  teiginys: "Teodoro Narbuto pasakojimu, Bazilijus Dmitrovičius Lucke susižadėjo su Vytauto dukra Anastazija ir 1388 m. sausio 19 d. su lenkų svita atvyko į Maskvą."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-189572
-
-<a id="claim-t-206958"></a>
-- t-003
-  teiginys: "Teodoro Narbuto pasakojimu, didysis kunigaikštis Bazilijus Dmitrovičius 1391 m. sausį per bajorus prašė Vytauto išleisti už jo sužadėtinę Anastaziją, kuri sausio 21 d. ištekėjo už Bazilijaus Maskvoje."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-189573
-
-<a id="claim-t-206959"></a>
-- t-004
-  teiginys: "Teodoro Narbuto aprašomas Lietuvos didysis kunigaikštis Vytautas Smolenske priėmė žentą Bazilijų Dmitrovičių ir dukrą Anastaziją, nepaisydamas politinių nesutarimų juos sutikdamas maloniai, o susitarimais sustiprino valstybių sienų saugumą."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-189574
-
-<a id="claim-t-206960"></a>
-- t-005
-  teiginys: "Teodoro Narbuto pasakojimu, didysis kunigaikštis Bazilijus Dmitrovičius per pasiuntinį įspėjo Olegą, kad šis, negrįžęs į savo kunigaikštystę, turės reikalų su Bazilijumi ir Lietuvos didžiuoju kunigaikščiu, todėl Olegas atsitraukė nuo Liubucko."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-189575
-
 ## Citatos
 
 - id: c-189571
@@ -128,7 +61,7 @@ Teodoro Narbuto pasakojimu, jaunasis kunigaikštis Bazilijus Dmitrovičius, pasp
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189572
@@ -146,7 +79,7 @@ Teodoro Narbuto pasakojimu, jaunasis kunigaikštis Bazilijus Dmitrovičius, pasp
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-189573
@@ -169,7 +102,7 @@ Teodoro Narbuto pasakojimu, jaunasis kunigaikštis Bazilijus Dmitrovičius, pasp
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-189574
@@ -191,7 +124,7 @@ Teodoro Narbuto pasakojimu, jaunasis kunigaikštis Bazilijus Dmitrovičius, pasp
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-189575
@@ -209,5 +142,73 @@ Teodoro Narbuto pasakojimu, jaunasis kunigaikštis Bazilijus Dmitrovičius, pasp
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+## Teiginiai
+
+<a id="claim-t-206956"></a>
+- t-001
+  teiginys: "Teodoro Narbuto pasakojimu, jaunasis kunigaikštis Bazilijus Dmitrovičius, pasprukęs iš Aukso ordos chano Tochtamyšo nelaisvės, rado prieglobstį pas Multano vaivadą Petrą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-189571
+
+<a id="claim-t-206957"></a>
+- t-002
+  teiginys: "Teodoro Narbuto pasakojimu, Bazilijus Dmitrovičius Lucke susižadėjo su Vytauto dukra Anastazija ir 1388 m. sausio 19 d. su lenkų svita atvyko į Maskvą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-189572
+
+<a id="claim-t-206958"></a>
+- t-003
+  teiginys: "Teodoro Narbuto pasakojimu, didysis kunigaikštis Bazilijus Dmitrovičius 1391 m. sausį per bajorus prašė Vytauto išleisti už jo sužadėtinę Anastaziją, kuri sausio 21 d. ištekėjo už Bazilijaus Maskvoje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-189573
+
+<a id="claim-t-206959"></a>
+- t-004
+  teiginys: "Teodoro Narbuto aprašomas Lietuvos didysis kunigaikštis Vytautas Smolenske priėmė žentą Bazilijų Dmitrovičių ir dukrą Anastaziją, nepaisydamas politinių nesutarimų juos sutikdamas maloniai, o susitarimais sustiprino valstybių sienų saugumą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-189574
+
+<a id="claim-t-206960"></a>
+- t-005
+  teiginys: "Teodoro Narbuto pasakojimu, didysis kunigaikštis Bazilijus Dmitrovičius per pasiuntinį įspėjo Olegą, kad šis, negrįžęs į savo kunigaikštystę, turės reikalų su Bazilijumi ir Lietuvos didžiuoju kunigaikščiu, todėl Olegas atsitraukė nuo Liubucko."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-189575
+

@@ -33,27 +33,6 @@ media_all_json: |-
 
 Lenkijos ir Lietuvos konstitucijos konstruojama santvarka turėjo lygiuotis į Anglijoje prieš 100 metų įvestą santvarką, tiesa, taip ir nesulaukusią rašytinės konstitucijos.
 
-## Teiginiai
-
-<a id="claim-t-78128"></a>
-- t-001
-  teiginys: "1783 m. JAV konstitucija citatoje įvardijama kaip pirmoji pasaulyje rašytinė konstitucija."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> konstitucijos: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "JAV konstitucija (1783 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "konstitucijos: mention_match, thing, gap=4"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"JAV konstitucija (1783 m.)\" parinktas kaip owner_note_path. Targetas \"konstitucijos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1783 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminis teiginys labiau apie Lenkijos ir Lietuvos konstituciją, todėl perrašyta apie note objektą."
-  pagrindžia:
-    - c-75436
-
 ## Citatos
 
 - id: c-75436
@@ -73,5 +52,27 @@ Lenkijos ir Lietuvos konstitucijos konstruojama santvarka turėjo lygiuotis į A
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-78128"></a>
+- t-001
+  teiginys: "1783 m. JAV konstitucija citatoje įvardijama kaip pirmoji pasaulyje rašytinė konstitucija."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> konstitucijos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "JAV konstitucija (1783 m.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "konstitucijos: mention_match, thing, gap=4"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"JAV konstitucija (1783 m.)\" parinktas kaip owner_note_path. Targetas \"konstitucijos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1783 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis teiginys labiau apie Lenkijos ir Lietuvos konstituciją, todėl perrašyta apie note objektą."
+  pagrindžia:
+    - c-75436
+

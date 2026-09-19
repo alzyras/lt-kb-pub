@@ -40,24 +40,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-205341"></a>
-- t-001
-  teiginys: "O kai ¡sostą užėmė Kazimiero vyresnysis sūnus Boleslovas II, pramintas Drąsiuoju, prūsai ne tik kad spyrėsi nemokėsią duoklės, kuri, Lenkijos karalių nuomo ne, turėjo būti jiems, kaip aukščiausią visos tautos val džią turintiems, mokama, bet netgi, kai."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1058 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Nutrūkęs sakinys paverstas išsamiu teiginiu apie žygius, jų dalyvius ir aplinkybes. Šaltinyje nurodytas grobio motyvas neįtrauktas, nes jis reikalautų atribucijos."
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-188158
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'O kai ¡sostą užėmė Kazimiero vyresnysis sūnus Boleslovas II, pramintas Drąsiuoju, prūsai ne tik kad spyrėsi nemokėsią duoklės, kuri, Lenkijos karalių nuomo ne, turėjo būti jiems, kaip aukščiausią visos tautos val džią turintiems, mokama, bet netgi, kai.'
@@ -108,5 +90,24 @@ O kai ¡sostą užėmė Kazimiero vyresnysis sūnus Boleslovas II, pramintas Dr�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205341"></a>
+- t-001
+  teiginys: "O kai ¡sostą užėmė Kazimiero vyresnysis sūnus Boleslovas II, pramintas Drąsiuoju, prūsai ne tik kad spyrėsi nemokėsią duoklės, kuri, Lenkijos karalių nuomo ne, turėjo būti jiems, kaip aukščiausią visos tautos val džią turintiems, mokama, bet netgi, kai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1058 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Nutrūkęs sakinys paverstas išsamiu teiginiu apie žygius, jų dalyvius ir aplinkybes. Šaltinyje nurodytas grobio motyvas neįtrauktas, nes jis reikalautų atribucijos."
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-188158
+

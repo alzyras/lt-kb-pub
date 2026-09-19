@@ -27,21 +27,6 @@ media_all_json: |-
 
 Lietuvos metraštis pasakoja, kad Vaišvilkas, pradėjęs kunigaikščiauti Lietuvos žemėje, žudė priešininkus, o kiti išbėgiojo „kur akys mato“.
 
-## Teiginiai
-
-<a id="claim-t-194058"></a>
-- t-001
-  teiginys: "Lietuvos metraštis pasakoja, kad Vaišvilkas, pradėjęs kunigaikščiauti Lietuvos žemėje, žudė priešininkus, o kiti išbėgiojo „kur akys mato“."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-176671
-
 ## Citatos
 
 - id: c-176671
@@ -61,5 +46,40 @@ Lietuvos metraštis pasakoja, kad Vaišvilkas, pradėjęs kunigaikščiauti Liet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-193884
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 53"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 53."
+  citata_originali: |
+    Visa Lietuva sutiko
+    savo valdovo sūnų didžiai džiaugdamasi.
+    Vaišvilkas 1 ėmė kunigaikščiauti visoje Lietuvos že­
+    mėje ir žudyti savo priešininkus, išžudė jų be saiko,
+    o kiti išbėgiojo, kur akys mato. Nužudė ir aną pasiutusį
+    prakeiktą2 Eustachą3, nuožmųjį Mindaugo vaivadą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-210461"></a>
+- t-001
+  teiginys: "Lietuvos metraštis pasakoja, kad Vaišvilkas, pradėjęs kunigaikščiauti Lietuvos žemėje, žudė priešininkus, o kiti išbėgiojo „kur akys mato“."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-193884
+

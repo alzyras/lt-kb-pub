@@ -42,21 +42,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206871"></a>
-- t-001
-  teiginys: "1365 m. pradžioje Kęstutis, pergudravęs pasienio sargybinius, netikėtai užėmė Angerburgo tvirtovę, paėmė jos įgulą į nelaisvę ir užkariavo apylinkes."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189486
-
 ## Santrauka
 
 1365 m. pradžioje Kęstutis, pergudravęs pasienio sargybinius, netikėtai užėmė Angerburgo tvirtovę, paėmė jos įgulą į nelaisvę ir užkariavo apylinkes.
@@ -78,5 +63,21 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206871"></a>
+- t-001
+  teiginys: "1365 m. pradžioje Kęstutis, pergudravęs pasienio sargybinius, netikėtai užėmė Angerburgo tvirtovę, paėmė jos įgulą į nelaisvę ir užkariavo apylinkes."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189486
+

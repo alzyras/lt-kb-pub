@@ -45,29 +45,19 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-186625"></a>
-- t-001
-  teiginys: "Lietuvos metraštis teigia, kad Jurgis Nosuta pervedė Drohičiną ir Melniką Mykoliuko Žygimantaičio tarnybon ir ragino lenkų miestus atsiskirti nuo LDK."
-  atnaujinta: "2026-07-12 22:30"
+<a id="claim-t-211102"></a>
+- t-211102
+  teiginys: "Lietuvos metraštis pasakoja, kad Jonas Goštautas didžiojo kunigaikščio įsakymu ginklo jėga sugrąžino miestus Didžiajai Kunigaikštystei."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "valde_miesta -> Drohičinas: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jurgis Nosuta: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Drohičinas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Jurgį Nosutą kaip Drohičino seniūną."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  semantiniai_rysiai: "Jurgis Nosuta valdė miestą Drohičinas (0.78); Jurgis Nosuta valdė miestą Melnikas (0.78); Drohičinas priklausė Mazovija (0.72); Melnikas priklausė Mazovija (0.72)"
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  pagrindžia:
-    - c-169902
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
 
-<a id="claim-t-186628"></a>
-- t-002
+<a id="claim-t-210755"></a>
+- t-210755
   teiginys: "Lietuvos metraštis pasakoja, kad Jurgis Nosuta su Drohičinu ir Melniku perėjo į Mykoliuko Žygimantaičio tarnybą."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-09-12 19:43"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "valde_miesta -> Drohičinas: 0.78"
@@ -80,8 +70,41 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   semantiniai_rysiai: "Jurgis Nosuta valdė miestą Drohičinas (0.78); Jurgis Nosuta valdė miestą Melnikas (0.78); Drohičinas priklausė Mazovija (0.72); Melnikas priklausė Mazovija (0.72)"
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  pagrindžia:
-    - c-169902
+
+<a id="claim-t-210922"></a>
+- t-210922
+  teiginys: "Lietuvos metraštis teigia, kad Jurgis Nosuta pervedė Drohičiną ir Melniką Mykoliuko Žygimantaičio tarnybon ir ragino lenkų miestus atsiskirti nuo LDK."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "valde_miesta -> Drohičinas: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jurgis Nosuta: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Drohičinas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Jurgį Nosutą kaip Drohičino seniūną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  semantiniai_rysiai: "Jurgis Nosuta valdė miestą Drohičinas (0.78); Jurgis Nosuta valdė miestą Melnikas (0.78); Drohičinas priklausė Mazovija (0.72); Melnikas priklausė Mazovija (0.72)"
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+
+<a id="claim-t-211591"></a>
+- t-211591
+  teiginys: "Lietuvos metraštis pasakoja, kad Kazimieras ir Didžiosios Kunigaikštystės Ponų Taryba skubiai pasiuntė Joną Goštautą su kariuomene."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
+
+<a id="claim-t-211790"></a>
+- t-211790
+  teiginys: "Lietuvos metraštis teigia, kad Jonui Goštautui ginklu sugrąžinus miestus Didžiajai Kunigaikštystei, Jurgis Nosuta pabėgo į Mazoviją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -160,6 +183,4 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
+

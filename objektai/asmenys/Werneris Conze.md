@@ -45,3 +45,39 @@ Werneris Conze įrodė, kad Bonos į LDK perkelta ūkio sistema buvo ne lenkišk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-190052
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 120"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 120."
+  citata_originali: |
+    Tačiau jau Werneris Conze įrodė,
+    kad, pavyzdžiui, ūkio sistema, Bonos perkelta į LDK, buvo ne lenkiška, o vokiška ar net
+    europietiška.
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-207417"></a>
+- t-001
+  teiginys: "Werneris Conze įrodė, kad Bonos į LDK perkelta ūkio sistema buvo ne lenkiška, o vokiška ar net europietiška."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190052
+

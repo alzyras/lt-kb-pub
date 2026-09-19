@@ -30,44 +30,6 @@ media_all_json: |-
 
 Gal tokia laiškų nuorašų knyga ar knygos Kaune ir nebuvo tvarkomos. Kontoros nariai, Kaune laikinai apsistojantys hanziečiai, rinkdavo du kontoros vyresniuosius ir tarėjus. Tiesa, didžiausias kauniečių oponentas šioje vietoje, Hanzos kontora Kaune, prarado savo reikšmę ir sunyko.
 
-## Teiginiai
-
-<a id="claim-t-201844"></a>
-- t-001
-  teiginys: "Gal tokia laiškų nuorašų knyga ar knygos Kaune ir nebuvo tvarkomos."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185191
-
-<a id="claim-t-201845"></a>
-- t-002
-  teiginys: "Kontoros nariai, Kaune laikinai apsistojantys hanziečiai, rinkdavo du kontoros vyresniuosius ir tarėjus."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185192
-
-<a id="claim-t-201846"></a>
-- t-003
-  teiginys: "Tiesa, didžiausias kauniečių oponentas šioje vietoje, Hanzos kontora Kaune, prarado savo reikšmę ir sunyko."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185193
-
 ## Citatos
 
 - id: c-185191
@@ -85,7 +47,7 @@ Gal tokia laiškų nuorašų knyga ar knygos Kaune ir nebuvo tvarkomos. Kontoros
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185192
@@ -103,7 +65,7 @@ Gal tokia laiškų nuorašų knyga ar knygos Kaune ir nebuvo tvarkomos. Kontoros
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-185193
@@ -121,5 +83,44 @@ Gal tokia laiškų nuorašų knyga ar knygos Kaune ir nebuvo tvarkomos. Kontoros
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+## Teiginiai
+
+<a id="claim-t-201844"></a>
+- t-001
+  teiginys: "Gal tokia laiškų nuorašų knyga ar knygos Kaune ir nebuvo tvarkomos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185191
+
+<a id="claim-t-201845"></a>
+- t-002
+  teiginys: "Kontoros nariai, Kaune laikinai apsistojantys hanziečiai, rinkdavo du kontoros vyresniuosius ir tarėjus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185192
+
+<a id="claim-t-201846"></a>
+- t-003
+  teiginys: "Tiesa, didžiausias kauniečių oponentas šioje vietoje, Hanzos kontora Kaune, prarado savo reikšmę ir sunyko."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185193
+

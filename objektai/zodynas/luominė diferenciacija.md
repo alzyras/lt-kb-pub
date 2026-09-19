@@ -37,17 +37,6 @@ media_all_json: |-
 
 Socialiniu atžvilgiu ši epocha yra charakterizuojama išryškė­ jusią luomine diferenciacija.
 
-## Teiginiai
-
-<a id="claim-t-28594"></a>
-- t-001
-  teiginys: "Socialiniu atžvilgiu ši epocha pasižymėjo išryškėjusia luomine diferenciacija."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-28498
-
 ## Citatos
 
 - id: c-28498
@@ -69,5 +58,17 @@ Socialiniu atžvilgiu ši epocha yra charakterizuojama išryškė­ jusią luomi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-28594"></a>
+- t-001
+  teiginys: "Socialiniu atžvilgiu ši epocha pasižymėjo išryškėjusia luomine diferenciacija."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-28498
+

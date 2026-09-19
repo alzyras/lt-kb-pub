@@ -33,25 +33,6 @@ canonical_biography: "Kairys, Stanislovas Narutavičius, Jonas Vileišis ir M."
 
 Kairys, Stanislovas Narutavičius, Jonas Vileišis ir M.
 
-## Teiginiai
-
-<a id="claim-t-75999"></a>
-- t-001
-  teiginys: "Stanislovas Narutavičius buvo vienas Lietuvos nepriklausomybės kūrėjų ir Lietuvos Tarybos narys."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_brolis -> Gabrielis Narutovičius: 0.91"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Stanislovas Narutavičius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Gabrielis Narutovičius: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citatoje Stanislovas aiškiai įvardijamas kaip Gabrielio Narutovičiaus brolis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Stanislovas Narutavičius buvo brolis Gabrielis Narutovičius (0.91)"
-  pagrindžia:
-    - c-73657
-
 ## Citatos
 
 - id: c-73657
@@ -77,8 +58,28 @@ Kairys, Stanislovas Narutavičius, Jonas Vileišis ir M.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Gabrielis Narutovičius]]
+
+## Teiginiai
+
+<a id="claim-t-75999"></a>
+- t-001
+  teiginys: "Stanislovas Narutavičius buvo vienas Lietuvos nepriklausomybės kūrėjų ir Lietuvos Tarybos narys."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_brolis -> Gabrielis Narutovičius: 0.91"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Stanislovas Narutavičius: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Gabrielis Narutovičius: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citatoje Stanislovas aiškiai įvardijamas kaip Gabrielio Narutovičiaus brolis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Stanislovas Narutavičius buvo brolis Gabrielis Narutovičius (0.91)"
+  pagrindžia:
+    - c-73657
+

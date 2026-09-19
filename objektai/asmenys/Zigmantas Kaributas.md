@@ -43,80 +43,6 @@ canonical_biography: "Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytaut�
 
 Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris pasiuntė jiems savo vietininku sūnėną Zigmantą Kaributą su keliolika tūkstančių kareivių. Kaributas savo valia buvo dar kartą išvykęs į Čekiją ir, susidėjęs su čekų vadu Prokopu, ka­ riavo su Zigmantu, bet husitų eilėms retėjant, pradėjo derybas su popiežium ir už tą buvo išvytas iš Čekijos. Vytauto bajorai irgi dalyvavo kovose, kaip antai, kun. Zigmantas Kaributas vadovavo kai kurioms lenkų kariuomenės dalims.
 
-## Teiginiai
-
-<a id="claim-t-176865"></a>
-- t-001
-  teiginys: "Vytautas, nepaisydamas lenkų pasipriešinimo, pasiuntė Zigmantą Kaributą į Prahą savo vietininku."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Praha: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Zigmantas Kaributas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Praha: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo Kaributo pasiuntimą į Pragą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Zigmantas Kaributas keliavo į Praha (0.90); Vytautas (Lietuvos valdovas, XIV–XV a.) paskyrė Zigmantas Kaributas (0.86)"
-  temporaliniai_duomenys: "įvykio data: 1423 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra užbaigtas sakinys ir tiksliai remiasi citata."
-  pagrindžia:
-    - c-160818
-    - c-167669
-
-<a id="claim-t-176866"></a>
-- t-002
-  teiginys: "Zigmantas Kaributas vadovavo kai kurioms lenkų kariuomenės dalims per karą, kuriame buvo nuniokoti Prūsai."
-  atnaujinta: "2026-06-13 17:10"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Lenkai: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Zigmantas Kaributas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lenkai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Vadovavimas lenkų kariuomenės dalims rodo tiesioginį karinį veikimą kartu su lenkais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Zigmantas Kaributas buvo sąjungininkas su Lenkai (0.74)"
-  pagrindžia:
-    - c-36619
-
-<a id="claim-t-176867"></a>
-- t-003
-  teiginys: "Vytautas pasiuntė savo sūnėną Zigmantą Kaributą į Čekiją vietininku su keliolika tūkstančių kareivių."
-  atnaujinta: "2026-06-13 17:01"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Čekija: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Zigmantas Kaributas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Čekija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Claim tiesiogiai nurodo, kad Zigmantas Kaributas buvo pasiųstas į Čekiją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Zigmantas Kaributas keliavo į Čekija (0.86); Vytautas (Lietuvos valdovas, XIV–XV a.) paskyrė Zigmantas Kaributas (0.82)"
-  pagrindžia:
-    - c-160817
-
-<a id="claim-t-176869"></a>
-- t-004
-  teiginys: "Zigmantas Kaributas savo valia vėl išvyko į Čekiją, kariavo su Zigmantu ir pradėjęs derybas su popiežiumi buvo išvytas."
-  atnaujinta: "2026-05-31 14:16"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Čekija: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Zigmantas Kaributas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Čekija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Kaributas išvyko į Čekiją."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Zigmantas Kaributas keliavo į Čekija (0.94)"
-  pagrindžia:
-    - c-160819
-
 ## Citatos
 
 - id: c-36619
@@ -137,7 +63,7 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-160817
@@ -159,7 +85,7 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-160818
@@ -184,7 +110,7 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-160819
@@ -206,7 +132,7 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-167669
@@ -228,8 +154,83 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Zigmantas Kaributas keliavo į [[objektai/vietos/Čekija]], [[objektai/vietos/Praha]]
+
+## Teiginiai
+
+<a id="claim-t-176865"></a>
+- t-001
+  teiginys: "Vytautas, nepaisydamas lenkų pasipriešinimo, pasiuntė Zigmantą Kaributą į Prahą savo vietininku."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Praha: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Zigmantas Kaributas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Praha: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo Kaributo pasiuntimą į Pragą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Zigmantas Kaributas keliavo į Praha (0.90); Vytautas (Lietuvos valdovas, XIV–XV a.) paskyrė Zigmantas Kaributas (0.86)"
+  temporaliniai_duomenys: "įvykio data: 1423 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra užbaigtas sakinys ir tiksliai remiasi citata."
+  pagrindžia:
+    - c-160818
+    - c-167669
+
+<a id="claim-t-176866"></a>
+- t-002
+  teiginys: "Zigmantas Kaributas vadovavo kai kurioms lenkų kariuomenės dalims per karą, kuriame buvo nuniokoti Prūsai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Lenkai: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Zigmantas Kaributas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lenkai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Vadovavimas lenkų kariuomenės dalims rodo tiesioginį karinį veikimą kartu su lenkais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Zigmantas Kaributas buvo sąjungininkas su Lenkai (0.74)"
+  pagrindžia:
+    - c-36619
+
+<a id="claim-t-176867"></a>
+- t-003
+  teiginys: "Vytautas pasiuntė savo sūnėną Zigmantą Kaributą į Čekiją vietininku su keliolika tūkstančių kareivių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Čekija: 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Zigmantas Kaributas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Čekija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Claim tiesiogiai nurodo, kad Zigmantas Kaributas buvo pasiųstas į Čekiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Zigmantas Kaributas keliavo į Čekija (0.86); Vytautas (Lietuvos valdovas, XIV–XV a.) paskyrė Zigmantas Kaributas (0.82)"
+  pagrindžia:
+    - c-160817
+
+<a id="claim-t-176869"></a>
+- t-004
+  teiginys: "Zigmantas Kaributas savo valia vėl išvyko į Čekiją, kariavo su Zigmantu ir pradėjęs derybas su popiežiumi buvo išvytas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Čekija: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Zigmantas Kaributas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Čekija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Kaributas išvyko į Čekiją."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Zigmantas Kaributas keliavo į Čekija (0.94)"
+  pagrindžia:
+    - c-160819
+

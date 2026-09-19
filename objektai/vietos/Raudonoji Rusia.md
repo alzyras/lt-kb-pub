@@ -36,25 +36,6 @@ historical_names: []
 
 Kaip lenkų daliniai buvo padėję prieš Smolensko kunigaikštį ir Andrių, taip Lietuvos kariuomenė gelbėjo atgauti Raudonąją Rusią, kurion iš Lietuvos vėliau nuvyko ir pats Jogaila.
 
-## Teiginiai
-
-<a id="claim-t-32502"></a>
-- t-001
-  teiginys: "Lietuvos kariuomenė padėjo atgauti Raudonąją Rusią, į kurią vėliau iš Lietuvos nuvyko Jogaila."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Raudonoji Rusia: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Raudonoji Rusia: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Tekste tiesiogiai sakoma, kad Lietuvos kariuomenė padėjo atgauti Raudonąją Rusią; tai artimiausia užėmimo / atgavimo semantikai."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Lietuvos kariuomenė užėmė Raudonoji Rusia (0.72)"
-  pagrindžia:
-    - c-34021
-
 ## Citatos
 
 - id: c-34021
@@ -77,5 +58,25 @@ Kaip lenkų daliniai buvo padėję prieš Smolensko kunigaikštį ir Andrių, ta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-32502"></a>
+- t-001
+  teiginys: "Lietuvos kariuomenė padėjo atgauti Raudonąją Rusią, į kurią vėliau iš Lietuvos nuvyko Jogaila."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Raudonoji Rusia: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Raudonoji Rusia: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Tekste tiesiogiai sakoma, kad Lietuvos kariuomenė padėjo atgauti Raudonąją Rusią; tai artimiausia užėmimo / atgavimo semantikai."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuvos kariuomenė užėmė Raudonoji Rusia (0.72)"
+  pagrindžia:
+    - c-34021
+

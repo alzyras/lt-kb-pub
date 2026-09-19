@@ -43,41 +43,6 @@ canonical_biography: "„[...] Švenčiausios trejybės švenčių išvakarėse 
 
 „[...] Švenčiausios trejybės švenčių išvakarėse [1376 m. birželio 7 d.], matė karalių Algirdą ir karalių Kęstutį, o su jais Svirdeiką su savo pajėgomis įeinančius į Narkyčius.
 
-## Teiginiai
-
-<a id="claim-t-80723"></a>
-- t-001
-  teiginys: "Svirdeika 1376 m. birželio 7 d. su savo pajėgomis įėjo į Narkyčius kartu su Algirdu ir Kęstučiu."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Įsrutis: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Svirdeika: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Įsrutis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Svirdeika eina į Įsrutį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Svirdeika keliavo į Įsrutis (0.96); Svirdeika buvo sąjungininkas su Algirdas (Lietuvos valdovas) (0.76); Svirdeika buvo sąjungininkas su Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.76)"
-  temporaliniai_duomenys: "įvykio data: 1376 m.; įvykio data: 1384 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko konkretų Svirdeikos veiksmą ir datą, bet pradinė formuluotė yra citatos fragmentas."
-  pagrindžia:
-    - c-42249
-
-<a id="claim-t-206395"></a>
-- t-002
-  teiginys: "Prūsijos kronikininkų Svirdeika vadinamas kunigaikštis birželio 8 d. su kariuomenės daliniu įsiveržė į Nadruvą, apsupo ir sudegino Insterburgą."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
-  pagrindžia:
-    - c-189010
-
 ## Citatos
 
 - id: c-42249
@@ -98,7 +63,7 @@ canonical_biography: "„[...] Švenčiausios trejybės švenčių išvakarėse 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189010
@@ -120,8 +85,44 @@ canonical_biography: "„[...] Švenčiausios trejybės švenčių išvakarėse 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai
 - Svirdeika keliavo į [[objektai/vietos/Įsrutis]]
+
+## Teiginiai
+
+<a id="claim-t-80723"></a>
+- t-001
+  teiginys: "Svirdeika 1376 m. birželio 7 d. su savo pajėgomis įėjo į Narkyčius kartu su Algirdu ir Kęstučiu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Įsrutis: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Svirdeika: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Įsrutis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Svirdeika eina į Įsrutį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Svirdeika keliavo į Įsrutis (0.96); Svirdeika buvo sąjungininkas su Algirdas (Lietuvos valdovas) (0.76); Svirdeika buvo sąjungininkas su Kęstutis (vakarų pasienio valdovas, XIV–XV a.) (0.76)"
+  temporaliniai_duomenys: "įvykio data: 1376 m.; įvykio data: 1384 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko konkretų Svirdeikos veiksmą ir datą, bet pradinė formuluotė yra citatos fragmentas."
+  pagrindžia:
+    - c-42249
+
+<a id="claim-t-206395"></a>
+- t-002
+  teiginys: "Prūsijos kronikininkų Svirdeika vadinamas kunigaikštis birželio 8 d. su kariuomenės daliniu įsiveržė į Nadruvą, apsupo ir sudegino Insterburgą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189010
+

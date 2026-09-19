@@ -39,24 +39,6 @@ Nauja jam vyskupui grįžus į kraštą, prūsų pagonys, apimti kaž kokios nea
 
 Nauja jam vyskupui grįžus į kraštą, prūsų pagonys, apimti kaž kokios neapykantos, tikriausiai siundomi sigenotų, arba žynių, kuriuos, matyt, buvo pasiuntęs koks krivis, 1215 metais surengė didžiulį krikščionybę priėmusių valdų puo limą, naikino visa, kas tik.
 
-## Teiginiai
-
-<a id="claim-t-205245"></a>
-- t-001
-  teiginys: "Nauja jam vyskupui grįžus į kraštą, prūsų pagonys, apimti kaž kokios neapykantos, tikriausiai siundomi sigenotų, arba žynių, kuriuos, matyt, buvo pasiuntęs koks krivis, 1215 metais surengė didžiulį krikščionybę priėmusių valdų puo limą, naikino visa, kas tik."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1215 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinti OCR ir nutrūkę fragmentai, aiškiai įvardyti veiksmas, data ir veikėjai. Išlaikyta atribucija bei šaltinio spėjamoji motyvo formuluotė."
-  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
-  pagrindžia:
-    - c-188068
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Nauja jam vyskupui grįžus į kraštą, prūsų pagonys, apimti kaž kokios neapykantos, tikriausiai siundomi sigenotų, arba žynių, kuriuos, matyt, buvo pasiuntęs koks krivis, 1215 metais surengė didžiulį krikščionybę priėmusių valdų puo limą, naikino visa, kas tik.'
@@ -94,5 +76,24 @@ Nauja jam vyskupui grįžus į kraštą, prūsų pagonys, apimti kaž kokios nea
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205245"></a>
+- t-001
+  teiginys: "Nauja jam vyskupui grįžus į kraštą, prūsų pagonys, apimti kaž kokios neapykantos, tikriausiai siundomi sigenotų, arba žynių, kuriuos, matyt, buvo pasiuntęs koks krivis, 1215 metais surengė didžiulį krikščionybę priėmusių valdų puo limą, naikino visa, kas tik."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1215 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinti OCR ir nutrūkę fragmentai, aiškiai įvardyti veiksmas, data ir veikėjai. Išlaikyta atribucija bei šaltinio spėjamoji motyvo formuluotė."
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-188068
+

@@ -51,9 +51,9 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     - c-177593
 
 <a id="claim-t-195226"></a>
-- t-002
+- t-195226
   teiginys: "1913 m. minima knyga „Lietuvių liaudies dainų tyrinėjimai“."
-  atnaujinta: "2026-07-11 22:44"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
@@ -61,9 +61,9 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     - c-177592
 
 <a id="claim-t-195227"></a>
-- t-003
+- t-195227
   teiginys: "Veikalas spausdinamas Tautosakos komisijos kun. A. Sabaliausko vertime."
-  atnaujinta: "2026-07-11 22:44"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
@@ -89,8 +89,8 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-195227
 
 - id: c-177592
   autorius: "A. Sabaliauskas"
@@ -107,8 +107,8 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-195226
 
 - id: c-177593
   autorius: "A. Sabaliauskas"
@@ -131,9 +131,11 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
     nėjimai“ .
   citata_rodoma: "Be to, velionis, 1910— 12 metais viešėdamas Lietuvoje ir, nau­\ndodamasis Lietuvių mokslo dr-jos archyve esama tautosaka, vadovau­\njamas a. a. d-ro Basanavičiaus, sukatalogavo ten esamas dainas, kaip \nmatyti iš jo, dabar leidžiamo, veikalo „Lietuvių liaudies dainų tyri­\nnėjimai“ ."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-11 22:44"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

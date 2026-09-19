@@ -42,34 +42,6 @@ Po pergalės kryžiuočiai persikėlė per Nevėžį, sudegino Labūnavos pilį,
 
 Po pergalės kryžiuočiai persikėlė per Nevėžį, sudegino Labūnavos pilį, nuvyko prie Žeimių ir ten taip pat ją sunaikino. Žeimių liepsna iš tolo rodė, kur buvo galima ieškoti didžiojo magistro kariaunos.
 
-## Teiginiai
-
-<a id="claim-t-206632"></a>
-- t-001
-  teiginys: "Po pergalės kryžiuočiai persikėlė per Nevėžį, sudegino Labūnavos pilį, nuvyko prie Žeimių ir ten taip pat ją sunaikino."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
-  pagrindžia:
-    - c-189247
-
-<a id="claim-t-206633"></a>
-- t-002
-  teiginys: "Žeimių liepsna iš tolo rodė, kur buvo galima ieškoti didžiojo magistro kariaunos."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
-  pagrindžia:
-    - c-189248
-
 ## Citatos
 
 - id: c-189247
@@ -85,7 +57,7 @@ Po pergalės kryžiuočiai persikėlė per Nevėžį, sudegino Labūnavos pilį,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189248
@@ -101,5 +73,34 @@ Po pergalės kryžiuočiai persikėlė per Nevėžį, sudegino Labūnavos pilį,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-206632"></a>
+- t-001
+  teiginys: "Po pergalės kryžiuočiai persikėlė per Nevėžį, sudegino Labūnavos pilį, nuvyko prie Žeimių ir ten taip pat ją sunaikino."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189247
+
+<a id="claim-t-206633"></a>
+- t-002
+  teiginys: "Žeimių liepsna iš tolo rodė, kur buvo galima ieškoti didžiojo magistro kariaunos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189248
+

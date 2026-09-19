@@ -27,25 +27,6 @@ media_all_json: |-
 
 Butkievičiaus kavalerijos brigada ir iki dienos pabaigos ji pasiekia Videniškio rajoną.
 
-## Teiginiai
-
-<a id="claim-t-41078"></a>
-- t-001
-  teiginys: "Plk. M. Butkievičiaus kavalerijos brigada prasiveržė į lietuvių užnugarį ir iki dienos pabaigos pasiekė Videniškio rajoną."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Videniškis: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "M. Butkievičiaus kavalerijos brigada: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Videniškis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Brigada judėjo ir pasiekė Videniškio rajoną."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "M. Butkievičiaus kavalerijos brigada keliavo į Videniškis (0.76)"
-  pagrindžia:
-    - c-44810
-
 ## Citatos
 
 - id: c-44810
@@ -64,5 +45,25 @@ Butkievičiaus kavalerijos brigada ir iki dienos pabaigos ji pasiekia Videniški
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-41078"></a>
+- t-001
+  teiginys: "Plk. M. Butkievičiaus kavalerijos brigada prasiveržė į lietuvių užnugarį ir iki dienos pabaigos pasiekė Videniškio rajoną."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Videniškis: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "M. Butkievičiaus kavalerijos brigada: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Videniškis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Brigada judėjo ir pasiekė Videniškio rajoną."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "M. Butkievičiaus kavalerijos brigada keliavo į Videniškis (0.76)"
+  pagrindžia:
+    - c-44810
+

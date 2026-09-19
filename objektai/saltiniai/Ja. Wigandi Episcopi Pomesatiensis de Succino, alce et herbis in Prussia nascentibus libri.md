@@ -32,36 +32,6 @@ media_all_json: |-
 
 Veikalas „Ja. Wigandi Episcopi Pomesatiensis de Succino, alce et herbis in Prussia nascentibus libri“ buvo išleistas 1590 m. Jenoje. Wigancli Episcopi Pomesatiiensis de Succino, alce et herbis iri Prussia nascentibus libri", išleistą 1590 metais Jenoje; Bajeris ją norėjo įdėti į savo „Monumentą Prussica“.
 
-## Teiginiai
-
-<a id="claim-t-191843"></a>
-- t-001
-  teiginys: "Veikalas „Ja. Wigandi Episcopi Pomesatiensis de Succino, alce et herbis in Prussia nascentibus libri“ buvo išleistas 1590 m. Jenoje."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1590 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas bibliografinis sakinys apie veikalo išleidimo vietą ir metus. Neįtraukta papildoma pastaba apie Bajerio ketinimą."
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-174725
-
-<a id="claim-t-197675"></a>
-- t-002
-  teiginys: "Wigancli Episcopi Pomesatiiensis de Succino, alce et herbis iri Prussia nascentibus libri\", išleistą 1590 metais Jenoje; Bajeris ją norėjo įdėti į savo „Monumentą Prussica“."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-179291
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Veikalas „Ja. Wigandi Episcopi Pomesatiensis de Succino, alce et herbis in Prussia nascentibus libri“ buvo išleistas 1590 m. Jenoje.'
@@ -100,8 +70,6 @@ Veikalas „Ja. Wigandi Episcopi Pomesatiensis de Succino, alce et herbis in Pru
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-179291
   autorius: "Teodoras Narbutas"
@@ -121,5 +89,54 @@ Veikalas „Ja. Wigandi Episcopi Pomesatiensis de Succino, alce et herbis in Pru
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-195074
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 338"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 338."
+  citata_originali: |
+    Smalsuoliams
+    rekomenduojama paskaityti knygelę „Ja. Wigancli Epis-
+    copi Pomesatiiensis de Succino, alce et herbis iri Prussia
+    nascentibus libri", išleistą 1590 metais Jenoje; Bajeris
+    ją norėjo įdėti į savo „Monumentą Prussica“.
+    Tai, kad gintaras yra senojo pasaulio kūrinys, teigia
+    gamtos tyrinėtojai Klaprotas ir Hagenas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-212531"></a>
+- t-001
+  teiginys: "Wigancli Episcopi Pomesatiiensis de Succino, alce et herbis iri Prussia nascentibus libri\", išleistą 1590 metais Jenoje; Bajeris ją norėjo įdėti į savo „Monumentą Prussica“."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195074
+
+<a id="claim-t-213494"></a>
+- t-002
+  teiginys: "Veikalas „Ja. Wigandi Episcopi Pomesatiensis de Succino, alce et herbis in Prussia nascentibus libri“ buvo išleistas 1590 m. Jenoje."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1590 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas bibliografinis sakinys apie veikalo išleidimo vietą ir metus. Neįtraukta papildoma pastaba apie Bajerio ketinimą."
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+

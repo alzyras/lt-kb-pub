@@ -39,10 +39,22 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
 
 ## Teiginiai
 
-<a id="claim-t-63210"></a>
-- t-001
+<a id="claim-t-220818"></a>
+- t-220818
+  teiginys: "1281 m. Rytų totoriai nužudė daugiau kaip 50 tūkstančių saracėnų, o sultonas vėliau nukovė 30 tūkstančių totorių."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-205375
+
+<a id="claim-t-220305"></a>
+- t-220305
   teiginys: "Saracėnų valdovas Almimolinas su gausia kariuomene atvyko į Ispaniją ir paskelbė karą krikščionims."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-09-13 18:12"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "buvo_valdovas -> Saracėnai: 0.95"
@@ -54,26 +66,11 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   ryšio_paaiskinimas: "Tekste Almimolinas tiesiogiai vadinamas saracėnų valdovu."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Almimolinas buvo valdovas Saracėnai (0.95); Almimolinas keliavo į Ispanija (0.93)"
-  pagrindžia:
-    - c-64213
-
-<a id="claim-t-63211"></a>
-- t-002
-  teiginys: "Ferdinando nugalėtas Granados saracėnų karalius ilgai mokėjo Kastilijos karaliui po 1000 aukso marobortinų per dieną."
-  atnaujinta: "2026-07-26 17:49"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1241 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia patikslinti duoklės trukmę ir dydį."
-  pagrindžia:
-    - c-64214
 
 <a id="claim-t-184583"></a>
-- t-003
+- t-184583
   teiginys: "1429 m. valdovų posėdyje imperatorius ragino po husitų numalšinimo kariuomenę nukreipti prieš turkus ir saracėnus."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -91,6 +88,17 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   temporalinis_llm_pakomentavimas: "Teiginys yra aiškus faktinis sakinys apie saracėnus ir pagrįstas citata."
   pagrindžia:
     - c-167944
+
+<a id="claim-t-224989"></a>
+- t-224989
+  teiginys: "Ferdinando nugalėtas Granados saracėnų karalius ilgai mokėjo Kastilijos karaliui po 1000 aukso marobortinų per dieną."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1241 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia patikslinti duoklės trukmę ir dydį."
 
 ## Citatos
 
@@ -112,8 +120,6 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-64214
   autorius: "Petras Dusburgietis"
@@ -134,8 +140,6 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-167944
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -169,8 +173,26 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-184583
+
+- id: c-205375
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 238"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 238."
+  citata_originali: |
+    Tuo pat metu Rytų totoriai nužudė daugiau nei penkiasdešimt tūkstančių saracėnų,
+    tačiau sultonas, atgavęs jėgas ir narsą, užpuolė totorius, išvaikė juos, o 30 tūkstančių
+    nukovė (Mart. p. 426).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220818
 
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Almimolinas]]

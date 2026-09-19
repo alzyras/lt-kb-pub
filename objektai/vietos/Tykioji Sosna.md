@@ -37,10 +37,22 @@ Prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius. Tyk
 
 ## Teiginiai
 
-<a id="claim-t-199949"></a>
-- t-001
+<a id="claim-t-210727"></a>
+- t-210727
+  teiginys: "Tykioji Sosna yra upė Belgorodo srities rytinėje dalyje ir Dono aukštupio intakas."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193630
+
+<a id="claim-t-211908"></a>
+- t-211908
   teiginys: "Lietuvos metraštis pasakoja, kad prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-12 20:03"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Atribucija palikta dėl priešiško maskvėnų vaizdavimo kronikos pasakojime. Nepridėta nebaigtos citatos fragmentų apie pagrobtus daiktus."
@@ -48,8 +60,6 @@ Prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius. Tyk
   semantiniai_rysiai: "[[objektai/grupes/Maskvėnai|Maskvėnai]] puolė Tykioji Sosna"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-182936
 
 ## Citatos
 
@@ -73,5 +83,22 @@ Prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius. Tyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-193630
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 252"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 252."
+  citata_originali: |
+    Tykioji Sosna — dabar RFTSR Belgorodo sr. rytinės dalies
+    upė, Dono aukštupio intakas. Atstumas nuo Putivlio Ilgi Tykiosios
+    Sosnos — apie 300 km.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210727
+

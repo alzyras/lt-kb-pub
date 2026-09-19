@@ -34,18 +34,6 @@ canonical_biography: "Haacko 1730 m. žodynas. Įkurtos Halės seminarijos reika
 
 Haacko 1730 m. žodynas. Įkurtos Halės seminarijos reikalams docentas Haackas 1730 m. išleido lietuvišką žodyną ir gramatiką, o tėvas ir sūnus Rugiai (Pilypas ir Povilas) išleido moksliškų raštų, keliančių lietuvių kalbos gražumą, ir paskelbė keletą vokiškai išverstų lietuvių.
 
-## Teiginiai
-
-<a id="claim-t-64601"></a>
-- t-001
-  teiginys: "Fr. Haacko žodynas datuojamas 1730 m."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-14T07:15:31Z"
-  pagrindžia:
-    - c-65288
-
 ## Citatos
 
 - id: c-65288
@@ -61,5 +49,18 @@ Haacko 1730 m. žodynas. Įkurtos Halės seminarijos reikalams docentas Haackas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-64601"></a>
+- t-001
+  teiginys: "Fr. Haacko žodynas datuojamas 1730 m."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-14T07:15:31Z"
+  pagrindžia:
+    - c-65288
+

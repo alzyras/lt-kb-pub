@@ -1,4 +1,6 @@
 import { ComponentChildren } from "preact"
+import type { Root } from "hast"
+import { toString } from "hast-util-to-string"
 import { htmlToJsx } from "../../util/jsx"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
 
@@ -7,7 +9,18 @@ const Content: QuartzComponent = ({ fileData, tree }: QuartzComponentProps) => {
     return null
   }
 
-  const content = htmlToJsx(fileData.filePath!, tree) as ComponentChildren
+  // The shared page header already renders the title. Avoid a second H1 when
+  // the Markdown repeats it, while preserving all other document headings.
+  const root = tree as Root
+  const firstHeading = root.children.findIndex(
+    (node) => node.type === "element" && node.tagName === "h1",
+  )
+  const title = String(fileData.frontmatter?.title ?? "").trim()
+  const contentTree =
+    firstHeading >= 0 && toString(root.children[firstHeading]).trim() === title
+      ? { ...root, children: root.children.filter((_, index) => index !== firstHeading) }
+      : root
+  const content = htmlToJsx(fileData.filePath!, contentTree) as ComponentChildren
   const classes: string[] = fileData.frontmatter?.cssclasses ?? []
   // Topic pages are content pages (rather than folder pages), but deserve the
   // same calm, full-width collection treatment as the topic index. Keeping a

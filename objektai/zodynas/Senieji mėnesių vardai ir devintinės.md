@@ -36,35 +36,6 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
 
 - Atskirų mėnesių vardų etimologija tekste neaiškinama, bet jų vartosena ir vieta kalendorinėje sistemoje aiški.
 
-## Teiginiai
-
-<a id="claim-t-07718"></a>
-- t-001
-  teiginys: "Tarp senųjų mėnesių vardų minimi siekis, karvelis, kirmėšų, šilo mėnuo ir spalių mėnuo."
-  atnaujinta: "2026-06-13 17:10"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-09644
-
-<a id="claim-t-07719"></a>
-- t-002
-  teiginys: "Senieji metai buvo dalijami į trylika mėnesių."
-  atnaujinta: "2026-06-13 17:10"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-09644
-
-<a id="claim-t-07720"></a>
-- t-003
-  teiginys: "Senųjų mėnesių sistemoje kiekvienas mėnuo turėjo po 27 dienas ir dalijosi į tris devintinėmis vadintas dalis."
-  atnaujinta: "2026-06-13 17:01"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-09644
-
 ## Citatos
 
 - id: c-09644
@@ -80,7 +51,27 @@ Vartojamos formos: `siekis`, `sausis`, `kovas`, `karvelis`, `balandis`, `geguž�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
-    - t-003
+
+## Teiginiai
+
+<a id="claim-t-210062"></a>
+- t-001
+  teiginys: "Senųjų mėnesių sistemoje kiekvienas mėnuo turėjo po 27 dienas ir dalijosi į tris devintinėmis vadintas dalis."
+  atnaujinta: "2026-09-12 16:28"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+
+<a id="claim-t-210174"></a>
+- t-002
+  teiginys: "Tarp senųjų mėnesių vardų minimi siekis, karvelis, kirmėšų, šilo mėnuo ir spalių mėnuo."
+  atnaujinta: "2026-09-12 16:28"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+
+<a id="claim-t-210186"></a>
+- t-003
+  teiginys: "Senieji metai buvo dalijami į trylika mėnesių."
+  atnaujinta: "2026-09-12 16:28"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+

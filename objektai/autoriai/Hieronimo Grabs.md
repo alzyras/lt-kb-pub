@@ -52,3 +52,42 @@ Hieronimo Grabs tyrimo duomenimis, į įvairius Europos dvarus buvo gabenamos ke
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207896"></a>
+- t-001
+  teiginys: "Hieronimo Grabs tyrimo duomenimis, į įvairius Europos dvarus buvo gabenamos kelios belaisvių partijos, o vieną iš jų sulaikė imperatoriaus žmonės ties Insbruku."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190513
+
+## Citatos
+
+- id: c-190513
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 195"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 195."
+  citata_originali: |
+    Viena vertus, rašoma, kad juos gabeno dovanų
+    popiežiui, bet pakeliui jie buvę pagrobti imperatoriaus Maksimiljano I nurodymu, o vėliau
+    gal išsiųsti į tėvynę, gal iškeisti su Maskva. Kita vertus, teigiama, kad pats Žygimantas
+    Senasis vežęsis belaisvius dovanų imperatoriui. Naujausiais Hieronimo Grabs tyrimo
+    duomenimis, į įvairius Europos dvarus buvo gabenamos kelios belaisvių partijos, tik vie-
+    ną iš jų, vežusią 14 Maskvos belaisvių, sulaikė imperatoriaus žmonės ties Insbruku.
+  citata_rodoma: "Naujausiais Hieronimo Grabs tyrimo\nduomenimis, į įvairius Europos dvarus buvo gabenamos kelios belaisvių partijos, tik vie-\nną iš jų, vežusią 14 Maskvos belaisvių, sulaikė imperatoriaus žmonės ties Insbruku."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+

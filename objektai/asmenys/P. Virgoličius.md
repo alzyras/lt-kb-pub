@@ -34,25 +34,6 @@ canonical_biography: "Virgoličiaus pajėgos turėjo užimti Lietuvą."
 
 Virgoličiaus pajėgos turėjo užimti Lietuvą.
 
-## Teiginiai
-
-<a id="claim-t-80741"></a>
-- t-001
-  teiginys: "Pulkininko P. Virgoličiaus pajėgos turėjo užimti Lietuvą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Lietuva: 0.82"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "P. Virgoličius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata patvirtina, kad Virgoličius kontroliavo didelę Lietuvos teritorijos dalį; tai artima užėmimo ryšiui."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "P. Virgoličius užėmė Lietuva (0.82)"
-  pagrindžia:
-    - c-42180
-
 ## Citatos
 
 - id: c-42180
@@ -75,5 +56,25 @@ Virgoličiaus pajėgos turėjo užimti Lietuvą.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-80741"></a>
+- t-001
+  teiginys: "Pulkininko P. Virgoličiaus pajėgos turėjo užimti Lietuvą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Lietuva: 0.82"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "P. Virgoličius: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata patvirtina, kad Virgoličius kontroliavo didelę Lietuvos teritorijos dalį; tai artima užėmimo ryšiui."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "P. Virgoličius užėmė Lietuva (0.82)"
+  pagrindžia:
+    - c-42180
+

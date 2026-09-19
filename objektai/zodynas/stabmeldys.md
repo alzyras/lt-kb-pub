@@ -36,10 +36,22 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
 
 ## Teiginiai
 
+<a id="claim-t-222826"></a>
+- t-222826
+  teiginys: "Dusburgietis pasakoja, kad Konradas, Vokietijos kunigas, persikėlė į Lietuvą atversti stabmeldžių."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-206347
+
 <a id="claim-t-42510"></a>
-- t-001
+- t-42510
   teiginys: "Stabmeldžiai svaidė ietis į krikščionis, o rusai strėlėmis sužeidė daug vyrų ir žirgų."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Ietis: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -56,9 +68,9 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
     - c-45548
 
 <a id="claim-t-42511"></a>
-- t-002
+- t-42511
   teiginys: "Viena stabmeldė pranešė magistrui, kad lietuvių karalius telkia kariuomenę Sembos žemei nusiaubti."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -74,9 +86,9 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
     - c-45549
 
 <a id="claim-t-42512"></a>
-- t-003
+- t-42512
   teiginys: "Sausio 24-osios išvakarėse į stabmeldžių žemę įžengę kariai žudė gyventojus ir degino kraštą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> stabmeldžiai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -111,8 +123,8 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-42510
 
 - id: c-45549
   sudarytojas: "Karolis Zikaras"
@@ -133,8 +145,8 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-42511
 
 - id: c-45550
   sudarytojas: "Karolis Zikaras"
@@ -155,5 +167,23 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-42512
+
+- id: c-206347
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 239"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 239."
+  citata_originali: |
+    1285 viešpaties metais Konradas, Vokietijos kunigas, persikėlė į Lietuvos kraštą
+    atversti stabmeldžių. Kai jis čia nugyveno dvejus metus, lietuviai jį nužudė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-222826
+

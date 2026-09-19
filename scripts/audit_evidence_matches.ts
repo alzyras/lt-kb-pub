@@ -34,6 +34,7 @@ const counts = new Map<number, number>()
 let unsupportedReferences = 0
 let indexOnlyReferences = 0
 let textMismatchReferences = 0
+let aiSupportedContextReferences = 0
 const examples: Array<Record<string, string | number | undefined>> = []
 let references = 0
 
@@ -60,6 +61,15 @@ for (const file of listMarkdownFiles(objectRoot)) {
         Boolean(citation.fields.get("indeksas")?.trim())
       if (isIndexOnly) {
         indexOnlyReferences++
+        continue
+      }
+      // A short object label can be supported by the surrounding source
+      // context even when the exact wording does not share a lexical token
+      // with the excerpt.  The projection records that reviewed decision
+      // explicitly; keep it out of the raw text-mismatch count while still
+      // auditing every ordinary citation link below.
+      if (citation.fields.get("pagrindimo_rezimas")?.trim() === "ai_supported_context") {
+        aiSupportedContextReferences++
         continue
       }
       const score = evidenceTextOverlapScore(claimText, citationText(citation.fields), context)
@@ -93,6 +103,7 @@ console.log(
       references,
       unsupportedReferences,
       indexOnlyReferences,
+      aiSupportedContextReferences,
       textMismatchReferences,
       scoreCounts: Object.fromEntries([...counts].sort(([a], [b]) => a - b)),
       weakExamples: examples,

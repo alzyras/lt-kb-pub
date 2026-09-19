@@ -24,20 +24,6 @@ media_all_json: |-
 
 Liuosybę ir dorybę neišpasakytai mylėjo ir už visų didžiausią savo tautos lietą turėjo, o atkaliai alvienas nedorybės ir vergybos baisiai neapvežėjo, kaipogi kiekvienas veli jos liuosas labiaus tyruose po lapine ar tarp žvėrių giriose gyventi, nekaip aukso.
 
-## Teiginiai
-
-<a id="claim-t-201259"></a>
-- t-001
-  teiginys: "Liuosybę ir dorybę neišpasakytai mylėjo ir už visų didžiausią savo tautos lietą turėjo, o atkaliai alvienas nedorybės ir vergybos baisiai neapvežėjo, kaipogi kiekvienas veli jos liuosas labiaus tyruose po lapine ar tarp žvėrių giriose gyventi, nekaip aukso."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184609
-
 ## Citatos
 
 - id: c-184609
@@ -67,5 +53,20 @@ Liuosybę ir dorybę neišpasakytai mylėjo ir už visų didžiausią savo tauto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201259"></a>
+- t-001
+  teiginys: "Liuosybę ir dorybę neišpasakytai mylėjo ir už visų didžiausią savo tautos lietą turėjo, o atkaliai alvienas nedorybės ir vergybos baisiai neapvežėjo, kaipogi kiekvienas veli jos liuosas labiaus tyruose po lapine ar tarp žvėrių giriose gyventi, nekaip aukso."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184609
+

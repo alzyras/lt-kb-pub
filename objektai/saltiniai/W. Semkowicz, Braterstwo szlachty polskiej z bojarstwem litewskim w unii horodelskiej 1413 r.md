@@ -34,17 +34,6 @@ media_all_json: |-
 
 Semkowicz, W.
 
-## Teiginiai
-
-<a id="claim-t-31982"></a>
-- t-001
-  teiginys: "W. Semkowicziaus darbas „Braterstwo szlachty polskiej z bojarstwem litewskim w unii horodelskiej 1413 r.“ buvo įtrauktas į rinkinį „PiL“."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-33752
-
 ## Citatos
 
 - id: c-33752
@@ -63,5 +52,17 @@ Semkowicz, W.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-31982"></a>
+- t-001
+  teiginys: "W. Semkowicziaus darbas „Braterstwo szlachty polskiej z bojarstwem litewskim w unii horodelskiej 1413 r.“ buvo įtrauktas į rinkinį „PiL“."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-33752
+

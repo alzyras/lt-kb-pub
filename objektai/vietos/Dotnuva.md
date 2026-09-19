@@ -44,10 +44,39 @@ Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio akademija Do
 
 ## Teiginiai
 
+<a id="claim-t-208531"></a>
+- t-208531
+  teiginys: "Po 1863 m. sukilimo civilinė valdžia iš vienuolynų atėmė Dotnuvos parapiją, į ją paskyrė pasaulietį kunigą ir uždarė ten buvusį vienuolyną."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  temporaliniai_duomenys: "įvykio data: po 1863 m.; įvykio data: 1863 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Atkurta išsami gramatinė seka pagal citatą: veiksnys, veiksmai ir pasekmės Dotnuvoje. Pašalintas nukirstas sakinio fragmentas."
+  vertinimo_atnaujinta: "2026-09-02T11:31:47Z"
+  pagrindžia:
+    - c-191151
+
+<a id="claim-t-208532"></a>
+- t-208532
+  teiginys: "Dotnuviškis bajoras Klyklys, buvęs Napoleono I kariuomenės kapitonas, tik po didelių klebono pastangų sutiko atlikti išpažintį."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:47Z"
+  pagrindžia:
+    - c-191152
+
 <a id="claim-t-76241"></a>
-- t-001
+- t-76241
   teiginys: "Dotnuvoje veikusi Žemės ūkio akademija rengė specialistus žemės ūkiui."
-  atnaujinta: "2026-05-31 11:59"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kaunas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -63,9 +92,9 @@ Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio akademija Do
     - c-24110
 
 <a id="claim-t-76242"></a>
-- t-002
+- t-76242
   teiginys: "Žemės ūkio akademija Dotnuvoje papildė Kauno Vytauto Didžiojo universiteto veiklą ir rengė specialistus žemės ūkiui."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kaunas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -105,6 +134,54 @@ Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio akademija Do
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
+  pagrindžia:
+    - t-76241
+    - t-76242
+
+- id: c-191151
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 14"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 14."
+  citata_originali: |
+    Tačiau pačiuose vienuolynuose drausmė buvo
+    pašlijusi, nes caro valdžia trukdė paskirti tinkamus vie­
+    nuolynų viršininkus5.
+    Po 1863 m. sukilimo civilinė vyriausybė atėmė iš vie­
+    nuolynų Dotnuvos, Kauno šv. Apaštalų Petro ir Povilo,
+    Klovainių, Palėvenės, Tytuvėnų ir Troškūnų parapijas,
+    įsakė į jas paskirti pasauliečius kunigus, o ten buvusius
+    vienuolynus uždarė6.
+  citata_rodoma: "Po 1863 m. sukilimo civilinė vyriausybė atėmė iš vie­\nnuolynų Dotnuvos, Kauno šv. Apaštalų Petro ir Povilo, \nKlovainių, Palėvenės, Tytuvėnų ir Troškūnų parapijas, \nįsakė į jas paskirti pasauliečius kunigus, o ten buvusius \nvienuolynus uždarė6."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208531
+
+- id: c-191152
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 118"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 118."
+  citata_originali: |
+    „Žalnierius Napoleono I“. Šiame kūrinėlyje skaityto­
+    jai supažindinami su vienu nuo tikėjimo atitrūkimo at­
+    veju. Dotnuviškis bajoras, buvęs Napoleono I kariuome­
+    nės kapitonas Klyklys tik didelių klebono pastangų dėka
+    sutiko atlikti išpažintį.
+  citata_rodoma: "Dotnuviškis bajoras, buvęs Napoleono I kariuome­\nnės kapitonas Klyklys tik didelių klebono pastangų dėka \nsutiko atlikti išpažintį."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208532
+

@@ -26,40 +26,6 @@ media_all_json: |-
 
 Karolio Ritterio ištraukoje aprašomos vešlios Padonės pievos prie Dono žiočių į Azovo jūrą. Prie pačių keisčiausių išvadų, nepaisant slaviško skambėjimo panašumo, labai artimo esmei, derėtų pri 1 Tai įrodo Riteris (Vorhalle ettr.
 
-## Teiginiai
-
-<a id="claim-t-191925"></a>
-- t-001
-  teiginys: "Karolio Ritterio ištraukoje aprašomos vešlios Padonės pievos prie Dono žiočių į Azovo jūrą."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Azovas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Karolis Ritteris, Die Vorhalle Europäischer Völkergeschichten: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Azovas: mention_match, place, gap=80"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karolis Ritteris, Die Vorhalle Europäischer Völkergeschichten\" parinktas kaip owner_note_path. Targetas \"Azovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-174807
-
-<a id="claim-t-197677"></a>
-- t-002
-  teiginys: "Prie pačių keisčiausių išvadų, nepaisant slaviško skambėjimo panašumo, labai artimo esmei, derėtų pri 1 Tai įrodo Riteris (Vorhalle ettr."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-179292
-
 ## Citatos
 
 - id: c-174807
@@ -83,8 +49,6 @@ Karolio Ritterio ištraukoje aprašomos vešlios Padonės pievos prie Dono žio�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-179292
   autorius: "Teodoras Narbutas"
@@ -106,5 +70,60 @@ Karolio Ritterio ištraukoje aprašomos vešlios Padonės pievos prie Dono žio�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-196451
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 396"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 396."
+  citata_originali: |
+    Tad sauromatų vardą reikėtų versti į klaidžio­
+    jantys, klajokliai matai.
+    Šios tautos giminystę arba veikiau iš indų kolonistų
+    atsiradusį mokslingumą ponas Riteris įrodė mūsų ne
+    kartą cituotame ir kuo didžiausios pagarbos vertame vei­
+    kale, nagrinėdamas žiliausią Europos senovę.
+    Prie pačių keisčiausių išvadų, nepaisant slaviško
+    skambėjimo panašumo, labai artimo esmei, derėtų pri­
+    1 Tai įrodo Riteris (Vorhalle ettr.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-214867"></a>
+- t-001
+  teiginys: "Karolio Ritterio ištraukoje aprašomos vešlios Padonės pievos prie Dono žiočių į Azovo jūrą."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Azovas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Karolis Ritteris, Die Vorhalle Europäischer Völkergeschichten: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Azovas: mention_match, place, gap=80"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Karolis Ritteris, Die Vorhalle Europäischer Völkergeschichten\" parinktas kaip owner_note_path. Targetas \"Azovas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+
+<a id="claim-t-215370"></a>
+- t-002
+  teiginys: "Prie pačių keisčiausių išvadų, nepaisant slaviško skambėjimo panašumo, labai artimo esmei, derėtų pri 1 Tai įrodo Riteris (Vorhalle ettr."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196451
+

@@ -39,20 +39,6 @@ historical_names: []
 
 Kai 1626 m. Karklėnų valsčiaus vaitas Povilas Juozapavičius sugrąžino sulaikytus Kauno miestiečio Andriaus Steponavičiaus būdos įnagius, tarp jų buvo 40 kirvių, 2 drožtuvai, 1 pjūklas, kelios būdos geležys, 1 kubilas, taip pat 1laštas pelenų.
 
-## Teiginiai
-
-<a id="claim-t-201731"></a>
-- t-001
-  teiginys: "Kai 1626 m. Karklėnų valsčiaus vaitas Povilas Juozapavičius sugrąžino sulaikytus Kauno miestiečio Andriaus Steponavičiaus būdos įnagius, tarp jų buvo 40 kirvių, 2 drožtuvai, 1 pjūklas, kelios būdos geležys, 1 kubilas, taip pat 1laštas pelenų."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185078
-
 ## Citatos
 
 - id: c-185078
@@ -71,5 +57,20 @@ Kai 1626 m. Karklėnų valsčiaus vaitas Povilas Juozapavičius sugrąžino sula
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201731"></a>
+- t-001
+  teiginys: "Kai 1626 m. Karklėnų valsčiaus vaitas Povilas Juozapavičius sugrąžino sulaikytus Kauno miestiečio Andriaus Steponavičiaus būdos įnagius, tarp jų buvo 40 kirvių, 2 drožtuvai, 1 pjūklas, kelios būdos geležys, 1 kubilas, taip pat 1laštas pelenų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185078
+

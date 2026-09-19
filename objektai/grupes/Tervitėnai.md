@@ -28,29 +28,6 @@ media_all_json: |-
 
 Narbutas spėja, kad pietinėje Mituvos apskrities dalyje gyveno tervitėnai, jo vadinti Tenvitenny, viena iš žemgalių genčių.
 
-## Teiginiai
-
-<a id="claim-t-192991"></a>
-- t-001
-  teiginys: "Narbutas spėja, kad pietinėje Mituvos apskrities dalyje gyveno tervitėnai, jo vadinti Tenvitenny, viena iš žemgalių genčių."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "gyveno -> Mituva: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Tervitėnai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Mituva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo tervitėnų gyvenimą pietinėje Mituvos apskrities dalyje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Tervitėnai gyveno Mituva (0.88); Tervitėnai priklausė Žemgaliai (0.86)"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-175761
-
 ## Citatos
 
 - id: c-175761
@@ -72,5 +49,50 @@ Narbutas spėja, kad pietinėje Mituvos apskrities dalyje gyveno tervitėnai, jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-196970
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 287"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 287."
+  citata_originali: |
+    Žiloje seno­
+    vėje šis uostas galėjo būti šalies sostinė, iš kurios ir buvo
+    kilęs tautos pavadinimas.
+    Iš akivaizdžių Mituvos apskrities skirtumų nuo kitų ša­
+    lies dalių reikėtų manyti, jog šiaurinėje dalyje gyveno
+    doblėnai, Dobleny, rytinėje — mechotėnai, Mechoteny, vi­
+    durinėje — kuršiai, Kurszovoy, o pietinėje — tervitėnai,
+    Tenvitenny. Iš tikrųjų lai buvo žemgalių gentys.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-212778"></a>
+- t-001
+  teiginys: "Narbutas spėja, kad pietinėje Mituvos apskrities dalyje gyveno tervitėnai, jo vadinti Tenvitenny, viena iš žemgalių genčių."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Mituva: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Tervitėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Mituva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo tervitėnų gyvenimą pietinėje Mituvos apskrities dalyje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Tervitėnai gyveno Mituva (0.88); Tervitėnai priklausė Žemgaliai (0.86)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-196970
+

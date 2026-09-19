@@ -43,20 +43,6 @@ canonical_biography: "Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltair
 
 Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltaire († 1778 m.), D'Alembert († 1783 m.), Diderot († 1784 m.) ir eilė kitų autorių pasidarė epochos dievaičiais. Diderot suorganizuota enciklopedija, apie kurią buvo suburtos visos žymiausios to meto pajėgos, kūrė naują pasaulėžiūrą.
 
-## Teiginiai
-
-<a id="claim-t-01027"></a>
-- t-001
-  teiginys: "Diderot, miręs 1784 m., kartu su kitais autoriais buvo laikomas epochos dievaičiu."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  temporaliniai_duomenys: "įvykio data: 1755 m.; įvykio data: 1778 m.; įvykio data: 1783 m.; įvykio data: 1784 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskirtas faktas apie Diderot iš vardų sąrašo."
-  pagrindžia:
-    - c-01266
-
 ## Citatos
 
 - id: c-01266
@@ -77,5 +63,20 @@ Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltaire († 1778 m.), D'Ale
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-01027"></a>
+- t-001
+  teiginys: "Diderot, miręs 1784 m., kartu su kitais autoriais buvo laikomas epochos dievaičiu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1755 m.; įvykio data: 1778 m.; įvykio data: 1783 m.; įvykio data: 1784 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskirtas faktas apie Diderot iš vardų sąrašo."
+  pagrindžia:
+    - c-01266
+

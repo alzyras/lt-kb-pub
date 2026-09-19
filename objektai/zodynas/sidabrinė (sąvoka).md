@@ -40,10 +40,22 @@ Vienas iš tokių mokesčių sidabrinė, renkama karo reikalams, bet jau virstan
 
 ## Teiginiai
 
+<a id="claim-t-207768"></a>
+- t-207768
+  teiginys: "Sidabrinė yra nereguliari karo rinkliava, nustatoma seimo nutarimu valstybės gyventojams."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190554
+
 <a id="claim-t-201765"></a>
-- t-001
+- t-201765
   teiginys: "Vienas iš tokių mokesčių sidabrinė, renkama karo reikalams, bet jau virstanti beveik nuolatiniu mokesčiu."
-  atnaujinta: "2026-07-19 10:18"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -53,9 +65,9 @@ Vienas iš tokių mokesčių sidabrinė, renkama karo reikalams, bet jau virstan
     - c-185112
 
 <a id="claim-t-201766"></a>
-- t-002
+- t-201766
   teiginys: "Panašus sidabrinės sąrašas, tik išsamesnis, su daugiau miestų, buvo sudarytas 1551 m. Pagal jį Vilniui buvo skirta 500 kapų grašių norma."
-  atnaujinta: "2026-07-19 10:18"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -82,8 +94,8 @@ Vienas iš tokių mokesčių sidabrinė, renkama karo reikalams, bet jau virstan
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-201765
 
 - id: c-185113
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -100,5 +112,26 @@ Vienas iš tokių mokesčių sidabrinė, renkama karo reikalams, bet jau virstan
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-201766
+
+- id: c-190554
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 162"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 162."
+  citata_originali: |
+    Šaltiniai leidžia praverti duris į tą pasaulį, teikia Skaitytojui galimybę pačiam pa-
+    justi sidabrinės mokesčio (sidabrine vadinama nereguliari rinkliava karo reikalams, užde-
+    dama seimo nutarimu valstybės gyventojams. - / . K) savanoriškos naštos svorį, pasi-
+    vaikščioti po šurmuliuojančią karo lauko stovyklą, dalyvauti priešo pilies apgultyje ir
+    kartu su valdovu apraudoti savosios netektį, atsidurti karo prievolę turėjusios atlikti
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207768
+

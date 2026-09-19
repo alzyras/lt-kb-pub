@@ -4,10 +4,17 @@ import { ObjectPageTabs, type ObjectPageTab } from "./ObjectPageTabs"
 import { objectDetailEvidenceFromFile } from "../util/objectDetail"
 import { objectPageViewModel } from "../util/objectPageView"
 import { objectBibliography } from "../util/objectBibliography"
-import { cleanText, displayCaption, objectMediaSet } from "../util/objectMedia"
+import {
+  cleanText,
+  displayCaption,
+  mediaImageUrl,
+  objectGallerySlug,
+  objectMediaSet,
+} from "../util/objectMedia"
 import { graphSlugForPageData } from "../util/graphIdentity"
 import { FullSlug, simplifySlug, slugifyFilePath } from "../util/path"
 import { objectRelationInputs } from "../util/objectRelations"
+import { objectCountLabel, objectTypes } from "../util/objectTypes"
 
 const filesBySlug = new WeakMap<
   QuartzComponentProps["allFiles"],
@@ -50,6 +57,7 @@ export function ObjectPageShell({
   const fullTitle = cleanText(fm.canonical_name || fm.pavadinimas || fm.title)
   const parts = fullTitle.match(/^(.+?)\s*\(([^()]+)\)$/u)
   const title = parts?.[1] || fullTitle
+  const objectType = objectTypes.find((type) => type.type === cleanText(fm.tipas))
   const evidence = objectDetailEvidenceFromFile(
     String(file.filePath || fm.object_source_path || ""),
   )
@@ -91,6 +99,9 @@ export function ObjectPageShell({
     })
   }
   view.counts.relations = mapIndex[graphSlug].links.length
+  const portrait =
+    view.counts.relations === 0 ? objectPortrait(fm, view.portraitMediaId) : undefined
+  const portraitUrl = portrait ? mediaImageUrl(portrait) : ""
   mapIndex[graphSlug].totalRelationCount = view.counts.relations
   const mapHref = `/zemelapis/?focus=${encodeURIComponent(graphSlug)}&depth=1&panel=details&minConfidence=0`
   return (
@@ -100,50 +111,88 @@ export function ObjectPageShell({
         <span>/</span>
         <a href="/objektai">Objektai</a>
         <span>/</span>
-        <span>{title}</span>
+        {objectType && (
+          <>
+            <a href={`/objektai/${objectType.folder}`}>{objectType.title}</a>
+            <span>/</span>
+          </>
+        )}
+        <span class="object-detail-current-crumb">{title}</span>
       </nav>
-      <header class="object-detail-intro" data-object-shell={slug}>
+      <header
+        class={`object-detail-intro${title.length > 48 ? " object-detail-intro--long" : ""}`}
+        data-object-shell={slug}
+        data-object-type={cleanText(fm.tipas)}
+      >
         <div class="object-detail-identity">
           <div class="object-detail-identity-copy">
-            <p class="object-detail-eyebrow">{cleanText(fm.tipas).replaceAll("_", " ")}</p>
+            <p class="object-detail-eyebrow">
+              {objectType?.singular ?? cleanText(fm.tipas).replaceAll("_", " ")}
+            </p>
             <h1 title={fullTitle}>{title}</h1>
             {parts?.[2] && <p class="object-detail-qualifier">{parts[2]}</p>}
             <p class="object-detail-counts">
-              <span>{view.counts.claims} teiginiai</span>
-              <span>{view.counts.citations + view.counts.mentions} įrašai</span>
-              <span>{view.counts.relations} ryšiai</span>
+              <span>
+                <strong>{view.counts.claims}</strong>{" "}
+                {objectCountLabel(view.counts.claims, "claims")}
+              </span>
+              <span>
+                <strong>{view.counts.citations + view.counts.mentions}</strong>{" "}
+                {objectCountLabel(view.counts.citations + view.counts.mentions, "entries")}
+              </span>
+              <span>
+                <strong>{view.counts.relations}</strong>{" "}
+                {objectCountLabel(view.counts.relations, "relations")}
+              </span>
             </p>
           </div>
         </div>
-        <aside
-          class="object-detail-map object-map-cta"
-          data-object-map-cta="true"
-          data-object-slug={graphSlug}
-          data-public-object-slug={slug}
-          data-object-title={title}
-          data-object-map-href={mapHref}
-          data-object-semantic-count={view.counts.relations}
-        >
-          <script
-            type="application/json"
-            data-object-map-projection
-            dangerouslySetInnerHTML={{
-              __html: JSON.stringify({ version: 1, index: mapIndex }).replaceAll("<", "\\u003c"),
-            }}
-          />
-          <div class="object-detail-map-heading">
-            <span>Ryšių žemėlapis</span>
-            <strong data-object-map-count="">Kraunami ryšiai…</strong>
-          </div>
-          <a
-            class="object-map-preview-link"
-            href={mapHref}
-            aria-label={`${title}: ryšių žemėlapis`}
+        {portraitUrl && portrait ? (
+          <figure class="object-detail-hero-portrait">
+            <a href={`/${objectGallerySlug(slug)}`}>
+              <img
+                src={portraitUrl}
+                alt={displayCaption(portrait)}
+                width={portrait.width || undefined}
+                height={portrait.height || undefined}
+                decoding="async"
+              />
+            </a>
+            <figcaption>
+              {displayCaption(portrait)} <span aria-hidden="true">↗</span>
+            </figcaption>
+          </figure>
+        ) : (
+          <aside
+            class="object-detail-map object-map-cta"
+            data-object-map-cta="true"
+            data-object-slug={graphSlug}
+            data-public-object-slug={slug}
+            data-object-title={title}
+            data-object-map-href={mapHref}
+            data-object-semantic-count={view.counts.relations}
           >
-            <canvas class="object-map-preview-canvas" data-object-map-canvas="" />
-            <span class="object-map-preview-status" data-object-map-status="" />
-          </a>
-        </aside>
+            <script
+              type="application/json"
+              data-object-map-projection
+              dangerouslySetInnerHTML={{
+                __html: JSON.stringify({ version: 1, index: mapIndex }).replaceAll("<", "\\u003c"),
+              }}
+            />
+            <div class="object-detail-map-heading">
+              <span>Ryšių žemėlapis</span>
+              <strong data-object-map-count="">Kraunami ryšiai…</strong>
+            </div>
+            <a
+              class="object-map-preview-link"
+              href={mapHref}
+              aria-label={`${title}: ryšių žemėlapis`}
+            >
+              <canvas class="object-map-preview-canvas" data-object-map-canvas="" />
+              <span class="object-map-preview-status" data-object-map-status="" />
+            </a>
+          </aside>
+        )}
       </header>
       <ObjectPageTabs objectSlug={slug} counts={view.counts} active={active} />
       {children}

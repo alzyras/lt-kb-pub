@@ -36,10 +36,22 @@ Dusburgietis teigia, kad todėl brolis Liudvikas iš Libencelės ir brolis Markv
 
 ## Teiginiai
 
-<a id="claim-t-60383"></a>
-- t-001
+<a id="claim-t-221706"></a>
+- t-221706
+  teiginys: "Markvardas iš Revelingės buvo Fridricho Holės tikras brolis."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-206031
+
+<a id="claim-t-224440"></a>
+- t-224440
   teiginys: "Markvardas iš Revelingės su Liudviku iš Libencelės, dviem broliais ir 26 ginklanešiais užpuolė plėšikautojus ir 25 jų nukovė."
-  atnaujinta: "2026-07-12 22:31"
+  atnaujinta: "2026-09-13 11:42"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_sajungininkas_su -> Liudvikas iš Libencelės: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -50,8 +62,6 @@ Dusburgietis teigia, kad todėl brolis Liudvikas iš Libencelės ir brolis Markv
   ryšio_paaiskinimas: "Abu asmenys kartu vykdė tą patį puolimą, todėl sąjunginis veiksmas tiesiogiai pagrįstas."
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   semantiniai_rysiai: "Markvardas iš Revelingės buvo sąjungininkas su Liudvikas iš Libencelės (0.82)"
-  pagrindžia:
-    - c-61015
 
 ## Citatos
 
@@ -74,8 +84,33 @@ Dusburgietis teigia, kad todėl brolis Liudvikas iš Libencelės ir brolis Markv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-206031
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 170-171"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 170-171."
+  citata_originali: |
+    Tais pačiais metais brolis Fridrichas, vadinamas Hole, brolio Markvardo iš Revelingės
+    511 D.— Nova domus, castrum novum (III, 303), Jer.— Nûwe huis. Ši Ordino pilis
+    buvusi pastatyta Kuršių nerijos pradžioje prie Baltijos jūros, į rytus nuo vėlesnio
+    Kranco, lie. Krantas, dab. Zelionogradskas (Тоерреп М., HCGP, p. 215; Ewald A. L., Die
+    Eroberung..., 4, p. 261; HGAPW). Vėliau jos funkcijas perėmė Rasytės pilis, statyta apie
+    XIV a. vidurį, o rašytiniuose šaltiniuose minima nuo 1372 m. (Rositen — SRP, 2, p. 102,
+    665, 667, 674; Łowmiański H., Studja..., 2, p. 32; plg. Boetticher A., Die Bau..., 1, p.
+    116—117; GAO, p. 144), vėliau — Rossitten, dab. Rybačis.
+    512  Apie sūduvius Semboje žr. GAO, p. 175—176; MPKP, 1, p. 21.
+    513  Žr. paaiškinimus D. III, 194, 488.
+
+    tikras brolis, su 100 raitelių iš Brandenburgo pilies patraukė į Sūduvą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221706
 
 ## Ryšiai
 - Markvardas iš Revelingės puolė [[objektai/grupes/Lietuviai]]

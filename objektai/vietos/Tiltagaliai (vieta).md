@@ -42,34 +42,6 @@ Tarp Tiltagalių kaimo ir Lėvens upės plyti pilkapiais nusėtas laukas, kurį 
 
 Tarp Tiltagalių kaimo ir Lėvens upės plyti pilkapiais nusėtas laukas, kurį Teodoras Narbutas sieja su dideliu ten įvykusiu mūšiu. Tiltagalių pavadinimą Teodoras Narbutas sieja su vietinių žodžiu, reiškiančiu tiltą, grindą ar siją, o ne su anksčiau nurodyta lietuviška šaknimi „Tyttas“.
 
-## Teiginiai
-
-<a id="claim-t-206624"></a>
-- t-001
-  teiginys: "Tarp Tiltagalių kaimo ir Lėvens upės plyti pilkapiais nusėtas laukas, kurį Teodoras Narbutas sieja su dideliu ten įvykusiu mūšiu."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
-  pagrindžia:
-    - c-189239
-
-<a id="claim-t-206625"></a>
-- t-002
-  teiginys: "Tiltagalių pavadinimą Teodoras Narbutas sieja su vietinių žodžiu, reiškiančiu tiltą, grindą ar siją, o ne su anksčiau nurodyta lietuviška šaknimi „Tyttas“."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
-  pagrindžia:
-    - c-189240
-
 ## Citatos
 
 - id: c-189239
@@ -86,7 +58,7 @@ Tarp Tiltagalių kaimo ir Lėvens upės plyti pilkapiais nusėtas laukas, kurį 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189240
@@ -107,5 +79,34 @@ Tarp Tiltagalių kaimo ir Lėvens upės plyti pilkapiais nusėtas laukas, kurį 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-206624"></a>
+- t-001
+  teiginys: "Tarp Tiltagalių kaimo ir Lėvens upės plyti pilkapiais nusėtas laukas, kurį Teodoras Narbutas sieja su dideliu ten įvykusiu mūšiu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189239
+
+<a id="claim-t-206625"></a>
+- t-002
+  teiginys: "Tiltagalių pavadinimą Teodoras Narbutas sieja su vietinių žodžiu, reiškiančiu tiltą, grindą ar siją, o ne su anksčiau nurodyta lietuviška šaknimi „Tyttas“."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189240
+

@@ -53,6 +53,7 @@ Vartojamos formos: `vėdliais`, `vėdlių`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-09590
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -67,3 +68,13 @@ Vartojamos formos: `vėdliais`, `vėdlių`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+## Teiginiai
+
+<a id="claim-t-209971"></a>
+- t-001
+  teiginys: "`Vėdliai` šiame tekste reiškia jaunojo vestuvių palydą."
+  atnaujinta: "2026-09-13 18:01"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+

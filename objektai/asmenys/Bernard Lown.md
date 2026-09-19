@@ -39,28 +39,6 @@ canonical_biography: "1926, būdamas dvejų metų su tėvais emigravęs į PAR, 
 
 1926, būdamas dvejų metų su tėvais emigravęs į PAR, vėliau – į Didžiąją Britaniją), o Nobelio taikos premijos laureatu už kovą dėl branduolinio ginklo neplatinimo 1985 m. tapo kardiologas Bernard Lown (Bernardas Lounas), gimęs Utenoje (kaip Boruchas Lacas.
 
-## Teiginiai
-
-<a id="claim-t-18851"></a>
-- t-001
-  teiginys: "Utenoje gimęs kardiologas Bernard Lown 1985 m. tapo Nobelio taikos premijos laureatu už kovą dėl branduolinio ginklo neplatinimo."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gime -> Utena: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bernard Lown: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Utena: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Bernard Lown gimė Utenoje."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Bernard Lown gimė Utena (0.97)"
-  temporaliniai_duomenys: "įvykio data: 1865 m.; įvykio data: 1910 m.; įvykio data: 1921 m.; įvykio data: 1927 m.; įvykio data: 1935 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys išsamus, gramatiškas ir tiesiogiai paremtas citata."
-  pagrindžia:
-    - c-21622
-
 ## Citatos
 
 - id: c-21622
@@ -91,8 +69,31 @@ canonical_biography: "1926, būdamas dvejų metų su tėvais emigravęs į PAR, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Bernard Lown gimė [[objektai/vietos/Utena]]
+
+## Teiginiai
+
+<a id="claim-t-18851"></a>
+- t-001
+  teiginys: "Utenoje gimęs kardiologas Bernard Lown 1985 m. tapo Nobelio taikos premijos laureatu už kovą dėl branduolinio ginklo neplatinimo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gime -> Utena: 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bernard Lown: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Utena: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Bernard Lown gimė Utenoje."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Bernard Lown gimė Utena (0.97)"
+  temporaliniai_duomenys: "įvykio data: 1865 m.; įvykio data: 1910 m.; įvykio data: 1921 m.; įvykio data: 1927 m.; įvykio data: 1935 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys išsamus, gramatiškas ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-21622
+

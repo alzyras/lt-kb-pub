@@ -60,16 +60,6 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-195372"></a>
-- t-001
-  teiginys: "Po pamokslo dalis atėjusiųjų į bažnyčią eidavo į gertuvę ir užkandžiaudavo ar gerdavo."
-  atnaujinta: "2026-07-12 02:18"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177788
-
 <a id="claim-t-195373"></a>
 - t-002
   teiginys: "Autorius rašo, kad 1858 m. Blaivybės Brolijos įvedimas nutraukė ankstesnę girtavimo tvarką."
@@ -80,10 +70,20 @@ Nenurodyta
   pagrindžia:
     - c-177790
 
+<a id="claim-t-195372"></a>
+- t-195372
+  teiginys: "Po pamokslo dalis atėjusiųjų į bažnyčią eidavo į gertuvę ir užkandžiaudavo ar gerdavo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177788
+
 <a id="claim-t-195374"></a>
-- t-003
+- t-195374
   teiginys: "Valančius liepė mišparus laikyti tuoj po pamaldų, kad žmonės važiuotų namo pietauti."
-  atnaujinta: "2026-07-12 02:18"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/06_extract_customs_notes.md"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
@@ -115,8 +115,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-195372
 
 - id: c-177789
   autorius: "M. Katkus"
@@ -138,8 +138,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-195374
 
 - id: c-177790
   autorius: "M. Katkus"
@@ -151,9 +151,11 @@ Nenurodyta
     siam girtuokliavimui, įvesdamas „Blaivybės Broliją“.
   citata_rodoma: "Vyskupas Valančius 1858 metais vienu kirčiu padarė galą įtūžu­\nsiam girtuokliavimui, įvesdamas „Blaivybės Broliją“."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 02:18"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+

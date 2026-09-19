@@ -34,32 +34,6 @@ canonical_biography: "Apie tai galima spręsti iš arogantiškų Čeliadnino žo
 
 Apie tai galima spręsti iš arogantiškų Čeliadnino žodžių, kuriuos perteikia vėliau mūšį aprašęs diplomatas Zigmantas Herberšteinas, pasakytų, kai rusų vadas įsakė leisti persikelti visai Lietuvos kariuomenei. Dalį kaltės dėl maskvėnų pralaimėjimo galima priskirti vyriausiajam vadui Čeliadninui, Zigmanto Herberšteino liudijimu, jis arogantiškai leido persikelti Lietuvos kariuomenei per Dnieprą ir nederino veiksmų su kitu Maskvos karvedžiu Bulgakovu-Golica.
 
-## Teiginiai
-
-<a id="claim-t-193824"></a>
-- t-001
-  teiginys: "Apie tai galima spręsti iš arogantiškų Čeliadnino žodžių, kuriuos perteikia vėliau mūšį aprašęs diplomatas Zigmantas Herberšteinas, pasakytų, kai rusų vadas įsakė leisti persikelti visai Lietuvos kariuomenei."
-  atnaujinta: "2026-07-06 12:55"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-176468
-
-<a id="claim-t-193825"></a>
-- t-002
-  teiginys: "Dalį kaltės dėl maskvėnų pralaimėjimo galima priskirti vyriausiajam vadui Čeliadninui, Zigmanto Herberšteino liudijimu, jis arogantiškai leido persikelti Lietuvos kariuomenei per Dnieprą ir nederino veiksmų su kitu Maskvos karvedžiu Bulgakovu-Golica."
-  atnaujinta: "2026-07-06 12:55"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-176469
-
 ## Citatos
 
 - id: c-176468
@@ -87,7 +61,7 @@ Apie tai galima spręsti iš arogantiškų Čeliadnino žodžių, kuriuos pertei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176469
@@ -121,5 +95,32 @@ Apie tai galima spręsti iš arogantiškų Čeliadnino žodžių, kuriuos pertei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-193824"></a>
+- t-001
+  teiginys: "Apie tai galima spręsti iš arogantiškų Čeliadnino žodžių, kuriuos perteikia vėliau mūšį aprašęs diplomatas Zigmantas Herberšteinas, pasakytų, kai rusų vadas įsakė leisti persikelti visai Lietuvos kariuomenei."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-176468
+
+<a id="claim-t-193825"></a>
+- t-002
+  teiginys: "Dalį kaltės dėl maskvėnų pralaimėjimo galima priskirti vyriausiajam vadui Čeliadninui, Zigmanto Herberšteino liudijimu, jis arogantiškai leido persikelti Lietuvos kariuomenei per Dnieprą ir nederino veiksmų su kitu Maskvos karvedžiu Bulgakovu-Golica."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-176469
+

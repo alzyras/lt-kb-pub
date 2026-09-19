@@ -27,21 +27,6 @@ media_all_json: |-
 
 Narbutas Valginą (Walgina) apibūdino kaip deivę, globojusią naminių gyvulių tuklumą, maistinį tinkamumą ir mėsos apsaugą nuo sugedimo.
 
-## Teiginiai
-
-<a id="claim-t-189342"></a>
-- t-001
-  teiginys: "Narbutas Valginą (Walgina) apibūdino kaip deivę, globojusią naminių gyvulių tuklumą, maistinį tinkamumą ir mėsos apsaugą nuo sugedimo."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172229
-
 ## Citatos
 
 - id: c-172229
@@ -62,5 +47,41 @@ Narbutas Valginą (Walgina) apibūdino kaip deivę, globojusią naminių gyvuli�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-200064
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 145"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 145."
+  citata_originali: |
+    Valgina (Walgina)
+    Deivė, globojanti naminius gyvulius jų tuklumo bei tinka­
+    mumo žmonių maistui požiūriu. Ji nulemdavo gyvulių pašaro
+    skalsumą ir saugodavo laikomą mėsą nuo sugedimo. Trumpą
+    žinią apie ją mums išsaugojo tik Lasickis.
+    Jos vardas reiškia Maitintoją, sutampa su Romos Deive
+    Vika (Viccci).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-219834"></a>
+- t-001
+  teiginys: "Narbutas Valginą (Walgina) apibūdino kaip deivę, globojusią naminių gyvulių tuklumą, maistinį tinkamumą ir mėsos apsaugą nuo sugedimo."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-200064
+

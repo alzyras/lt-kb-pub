@@ -68,10 +68,24 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
   pagrindžia:
     - c-26849
 
+<a id="claim-t-207747"></a>
+- t-207747
+  teiginys: "A. Bumblauskas 1991 m. svarstė Lietuvos istorijos periodizavimo problemą pasitelkdamas Georgo Duby feodalizmo sampratą."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  temporaliniai_duomenys: "įvykio data: 1991 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190350
+
 <a id="claim-t-169884"></a>
-- t-002
+- t-169884
   teiginys: "Alfredas Bumblauskas buvo vienas iš 2013 m. leidinio „Lietuvos istorija“ autorių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -88,9 +102,9 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
     - c-26849
 
 <a id="claim-t-169885"></a>
-- t-003
+- t-169885
   teiginys: "A. Bumblausko veikalai „Lietuvos Didžioji Kunigaikštija ir jos tradicija“ ir „Senosios Lietuvos istorija: 1009–1795“ nurodyti iliustracijų šaltiniuose."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -104,9 +118,9 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
     - c-154568
 
 <a id="claim-t-203621"></a>
-- t-004
+- t-203621
   teiginys: "A. Bumblausko teigimu, XVI–XVIII a. Lietuvos ūkis pasiekė VIII–IX a. Vakarų Europos ūkio raidos lygį."
-  atnaujinta: "2026-08-07 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -154,13 +168,14 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
     PAGONIŲ VALSTYBĖ.
   citata_rodoma: "Inga Vinogradnaitė\nIšleista Lietuvos Respublikos \nužsienio reikalų ministerijos užsakymu\nAntras leidimas\n© Alfonsas Eidintas, 2013\n© Alfredas Bumblauskas, 2013\n© Antanas Kulakauskas, 2013\n© Mindaugas Tamošaitis, 2013\n© Lietuvos Respublikos užsienio reikalų ministerija, 2013\n\nTURINYS\nSantrumpos  8\nRedaktoriaus žodis  9\nĮ v a d a s\nLIETUVA – VIDURIO EUROPOS DALIS  12 \nGeografinis Europos centras?"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
-    - t-002
+    - t-169884
 
 - id: c-154568
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -177,8 +192,8 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-169885
 
 - id: c-186225
   autorius: "Darius Žiemelis"
@@ -195,5 +210,31 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-203621
+
+- id: c-190350
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 39"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 39."
+  citata_originali: |
+    Būta mėginimų įprasminti šios sąvokos vartojimą teoriškai. 1991 m. pokalbyje
+    apie Lietuvos istorijos periodizavimo problemą A. Bumblauskas, remdamasis šiuolaiki-
+    nio Prancūzijos viduramžių istorijos tyrėjo Georgo Duby feodalizmo samprata
+    21, kalbėjo,
+    kad „rimtos istoriografinės mokyklos atstovams sąvoka „feodalizmas" nėra vien ekono-
+    miniai-socialiniai dalykai. Taigi mes būtume konjunktūriškai nusiteikę žmonės, jeigu
+    bandytume išmesti tai, kas į istorijos mokslą įėję kaip rimtą mokslinį turinį turinčios
+    sąvokos", svarstė, kokiu būdu turėtume feodalizmo visuomenės sąvokas pritaikyti Lie-
+    tuvos istorijai, su kokiais sunkumais susidurtume šiame kelyje.
+  citata_rodoma: "1991 m. pokalbyje\napie Lietuvos istorijos periodizavimo problemą A. Bumblauskas, remdamasis šiuolaiki-\nnio Prancūzijos viduramžių istorijos tyrėjo Georgo Duby feodalizmo samprata\n21, kalbėjo,\nkad „rimtos istoriografinės mokyklos atstovams sąvoka „feodalizmas\" nėra vien ekono-\nminiai-socialiniai dalykai."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207747
+

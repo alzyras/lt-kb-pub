@@ -35,34 +35,6 @@ Anot Narbuto, Įvaras prijungė Daniją prie Švedijos, užgrobė dalį Žemutin
 
 Anot Narbuto, Įvaras prijungė Daniją prie Švedijos, užgrobė dalį Žemutinės Saksonijos ir Nordumberlando kunigaikštystę Anglijoje. Betgi sužino jęs apie tai, įvaras surinko galingą kariauną ir, nelauk damas palankesnio laiko, išplaukė norėdamas nugalėti naująjį žentą ir atimti iš jo dukrą ¡bei nekenčiamą anūką Haroldą, tačiau buvo netikėtai jūroje užkluptas baisios audros ir žuvo jūros.
 
-## Teiginiai
-
-<a id="claim-t-205463"></a>
-- t-001
-  teiginys: "Betgi sužino jęs apie tai, įvaras surinko galingą kariauną ir, nelauk damas palankesnio laiko, išplaukė norėdamas nugalėti naująjį žentą ir atimti iš jo dukrą ¡bei nekenčiamą anūką Haroldą, tačiau buvo netikėtai jūroje užkluptas baisios audros ir žuvo jūros."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-187819
-
-<a id="claim-t-205472"></a>
-- t-002
-  teiginys: "Anot Narbuto, Įvaras prijungė Daniją prie Švedijos, užgrobė dalį Žemutinės Saksonijos ir Nordumberlando kunigaikštystę Anglijoje."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-187855
-
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Betgi sužino jęs apie tai, įvaras surinko galingą kariauną ir, nelauk damas palankesnio laiko, išplaukė norėdamas nugalėti naująjį žentą ir atimti iš jo dukrą ¡bei nekenčiamą anūką Haroldą, tačiau buvo netikėtai jūroje užkluptas baisios audros ir žuvo jūros.'
@@ -102,7 +74,7 @@ Anot Narbuto, Įvaras prijungė Daniją prie Švedijos, užgrobė dalį Žemutin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-187855
@@ -125,5 +97,34 @@ Anot Narbuto, Įvaras prijungė Daniją prie Švedijos, užgrobė dalį Žemutin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-205463"></a>
+- t-001
+  teiginys: "Betgi sužino jęs apie tai, įvaras surinko galingą kariauną ir, nelauk damas palankesnio laiko, išplaukė norėdamas nugalėti naująjį žentą ir atimti iš jo dukrą ¡bei nekenčiamą anūką Haroldą, tačiau buvo netikėtai jūroje užkluptas baisios audros ir žuvo jūros."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187819
+
+<a id="claim-t-205472"></a>
+- t-002
+  teiginys: "Anot Narbuto, Įvaras prijungė Daniją prie Švedijos, užgrobė dalį Žemutinės Saksonijos ir Nordumberlando kunigaikštystę Anglijoje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187855
+

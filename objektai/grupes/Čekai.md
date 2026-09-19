@@ -40,10 +40,22 @@ media_all_json: |-
 
 ## Teiginiai
 
+<a id="claim-t-217378"></a>
+- t-217378
+  teiginys: "Pranašauja, kad Lenkijos ir Lietuvos tau tos niekad nenukryps panašiai kaip čekai, kadangi didis val dovo tikėjimas bei valdinių prisirišimas prie sosto yra didelis šito laidas."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-199707
+
 <a id="claim-t-50766"></a>
-- t-001
+- t-50766
   teiginys: "Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje."
-  atnaujinta: "2026-06-13 17:24"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Konstancija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -58,9 +70,9 @@ media_all_json: |-
     - c-167612
 
 <a id="claim-t-50767"></a>
-- t-002
+- t-50767
   teiginys: "Čekų kunigai kartu su lenkais dalyvavo Aukštaičių ir Žemaičių krikšte."
-  atnaujinta: "2026-06-13 17:24"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -77,9 +89,9 @@ media_all_json: |-
     - c-36970
 
 <a id="claim-t-50768"></a>
-- t-003
+- t-50768
   teiginys: "1421 m. čekų pasiuntinys Hinka iš Valdšteino pasiūlė karūną Jogailai, o vėliau čekai kreipėsi į Vytautą."
-  atnaujinta: "2026-05-23 13:41"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Hinka iš Valdšteino: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -95,9 +107,9 @@ media_all_json: |-
     - c-36973
 
 <a id="claim-t-50769"></a>
-- t-004
+- t-50769
   teiginys: "Vytautas atsisakė su čekais susijusio sumanymo, supratęs, kad husitų siūlyta karūna galėtų per brangiai kainuoti."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Husitai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -111,9 +123,9 @@ media_all_json: |-
     - c-36974
 
 <a id="claim-t-184590"></a>
-- t-005
+- t-184590
   teiginys: "Čekai neišsižadėjo sumanymo ir antrą kartą siuntė pasiuntinius bandyti palenkti Jogailą bei Vytautą."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -123,9 +135,9 @@ media_all_json: |-
     - c-167951
 
 <a id="claim-t-196128"></a>
-- t-006
+- t-196128
   teiginys: "Kojelavičiaus pasakojime, kilus tikybiniams nesutarimams, čekai atsisakė klausyti Romos bažnyčios, maištavo prieš karalių ir ieškojo kaimynų paramos prieš imperatorių."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -136,9 +148,9 @@ media_all_json: |-
     - c-178547
 
 <a id="claim-t-196129"></a>
-- t-007
+- t-196129
   teiginys: "Kojelavičiaus pasakojime čekai, po Jogailos ir Vytauto atsisakymo, toliau siekė juos palenkti, manydami, kad karaliaus vainiko troškimas įveiks atkaklumą."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -201,8 +213,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-50767
 
 - id: c-36971
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -222,8 +234,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-50766
 
 - id: c-36973
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -246,8 +258,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-50768
 
 - id: c-36974
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -268,8 +280,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-50769
 
 - id: c-167612
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -290,8 +302,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-50766
 
 - id: c-167951
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -311,8 +323,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-184590
 
 - id: c-178547
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -346,8 +358,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-196128
 
 - id: c-178548
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -376,5 +388,25 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-196129
+
+- id: c-199707
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 394"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 394."
+  citata_originali: |
+    Pranašauja, kad Lenkijos ir Lietuvos tau­
+    tos niekad nenukryps panašiai kaip čekai, kadangi didis val­
+    dovo tikėjimas bei valdinių prisirišimas prie sosto yra didelis
+    šito laidas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217378
+

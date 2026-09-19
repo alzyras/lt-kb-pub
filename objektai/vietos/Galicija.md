@@ -38,10 +38,34 @@ Galicijoje.
 
 ## Teiginiai
 
+<a id="claim-t-209256"></a>
+- t-209256
+  teiginys: "Blaivybės brolijų įstatai buvo remtasi iš lenkiškų Galicijos brolijų įstatų."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  pagrindžia:
+    - c-191970
+
+<a id="claim-t-209373"></a>
+- t-209373
+  teiginys: "Per Galiciją blaivybės brolijų idėjos pasiekė Lenkijos Karalystę."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  pagrindžia:
+    - c-191878
+
 <a id="claim-t-02443"></a>
-- t-001
+- t-02443
   teiginys: "Po Lenkijos padalinimo Galicijoje išliko unitai, nes ši sritis buvo patekusi Austrijai."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Austrija: 0.84"
   ryšio_patikimumo_lygis: "aukstas"
@@ -73,8 +97,50 @@ Galicijoje.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-02443
+
+- id: c-191878
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 61"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 61."
+  citata_originali: |
+    liepos 28 d. buvo patvirtinti popiežiaus Pijaus IX7. Tai dar labiau
+    paspartino blaivybės judėjimą įvairiose Europos Šalyse. Per Poznanės
+    kunigaikštystę, Galiciją, brolijų idėjos pasiekė Lenkijos Karalystę.
+  citata_rodoma: "Per Poznanės \nkunigaikštystę, Galiciją, brolijų idėjos pasiekė Lenkijos Karalystę."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209373
+
+- id: c-191970
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 67"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 67."
+  citata_originali: |
+    Vyskupui labiau negu bet kam tuo metu buvo aišku, kad
+    blaivybės judėjimo pradžios euforija neilgai truks ir reikia konkrečių
+    priemonių, kurios palaikytų šį judėjimą. Kaip pats M. Valančius
+    prisimena, jau 1858 m. vasaros pabaigoje jis ėmęsis rašyti blaivybės
+    brolijų įstatus. Remtasi lenkiškais Galicijos brolijų įstatais.
+  citata_rodoma: "Remtasi lenkiškais Galicijos brolijų įstatais."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209256
 
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Vladislovas iš Opolės]]

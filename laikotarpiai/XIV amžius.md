@@ -3,7 +3,7 @@ tipas: laikotarpis
 pavadinimas: "XIV amžius"
 periodo_pradzia: 1301
 periodo_pabaiga: 1400
-periodo_objektu_skaicius: 1480
+periodo_objektu_skaicius: 1489
 tags: []
 ---
 
@@ -11,7 +11,7 @@ tags: []
 
 Šis laikotarpio puslapis generuojamas iš patvirtintų objektų laiko intervalų.
 
-Objektų skaičius: 1480.
+Objektų skaičius: 1489.
 
 ## Susiję objektai
 
@@ -1258,9 +1258,11 @@ Objektų skaičius: 1480.
 - [[objektai/saltiniai/1404 m. Racionžo taikos sutartis]]
 - [[objektai/saltiniai/1427 m. vyskupų induitas dėl Šv. Jono bažnyčios pašventinimo]]
 - [[objektai/saltiniai/1781 m. vokiškas Dusburgiečio kronikos vertimas]]
+- [[objektai/saltiniai/1808. X. 29 Platelių dvaro inventorius]]
 - [[Prätorius M.] Praetorio M. Deliciae Prussicae oder Preussische Schawbühne. [Rankraštis, 1—7 knygos]](/objektai/saltiniai/%5BPr%C3%A4torius%20M.%5D%20Praetorio%20M.%20Deliciae%20Prussicae%20oder%20Preussische%20Schawb%C3%BChne.%20%5BRankra%C5%A1tis%2C%201%E2%80%947%20knygos%5D)
 - [[Prätorius M.] Proetorius M. Deliciae Prussiae oder Preussische Schaubühne [Rankraštis]](/objektai/saltiniai/%5BPr%C3%A4torius%20M.%5D%20Proetorius%20M.%20Deliciae%20Prussiae%20oder%20Preussische%20Schaub%C3%BChne%20%5BRankra%C5%A1tis%5D)
 - [[Prätorius M.] Proetorius M. Deliciae Prussiae oder Preussische Schaubühne. [Mašinraštis. E. Kraštinaičio šifruotas tekstas]](/objektai/saltiniai/%5BPr%C3%A4torius%20M.%5D%20Proetorius%20M.%20Deliciae%20Prussiae%20oder%20Preussische%20Schaub%C3%BChne.%20%5BMa%C5%A1inra%C5%A1tis.%20E.%20Kra%C5%A1tinai%C4%8Dio%20%C5%A1ifruotas%20tekstas%5D)
+- [[objektai/saltiniai/A. Filipeckio pamokslų rinkinys]]
 - [[objektai/saltiniai/A. Prioult Un poete voyageur Guillaume de Machaut et la « Reise » de Jean VAveugle, roi de Boheme, en 1326-1329]]
 - [[objektai/saltiniai/A. Prochaska, Dzieje Witolda]]
 - [[objektai/saltiniai/A. Prochaska, Nieznany akt homogialny Witolda]]
@@ -1316,6 +1318,8 @@ Objektų skaičius: 1480.
 - [[objektai/saltiniai/Jono XXII bulė dėl Gedimino ir 1323 m. sutarties]]
 - [[objektai/saltiniai/K. Heinl, Fürst Witold von Litauen 1382-1401]]
 - [[objektai/saltiniai/Kauno miestiečiai ir Lietuvos bernardinų provincijos ikūrimas XVI a. pradžioje]]
+- [[objektai/saltiniai/Kauno vicegubernatoriaus 1874 m. vasario 12 d. raštas Vilniaus generalgubernatoriui]]
+- [[objektai/saltiniai/Kazimiero Bagdzevičiaus 1828-12-14 laiškas Motiejui Valančiui]]
 - [[objektai/saltiniai/Klaipėdos miesto istorija 1252-1466]]
 - [[objektai/saltiniai/Konrado 1230 m. dovanojimo raštas]]
 - [[objektai/saltiniai/Kronika Lechitów i Polaków]]
@@ -1333,6 +1337,7 @@ Objektų skaičius: 1480.
 - [[objektai/saltiniai/Liublino unijos aktas (1569 m.)]]
 - [[objektai/saltiniai/Livonijos atstovų prieštaravimas dėl 1323 m. taikos]]
 - [[objektai/saltiniai/Lvovo privilegija (1392 m. bal. 16 d.)]]
+- [[objektai/saltiniai/M. Bialobžeskio pamokslų rinkinys]]
 - [[objektai/saltiniai/M. Strijkovskio kronika]]
 - [[objektai/saltiniai/Martyno iš Opavos popiežių ir imperatorių istorija]]
 - [[objektai/saltiniai/Mažesniųjų brolių laiškas dėl Teutonų ordino garbės (1323 m.)]]
@@ -1349,6 +1354,7 @@ Objektų skaičius: 1480.
 - [[objektai/saltiniai/Ostrogo kunigaikščio Feodoro privilegija (1396 m.)]]
 - [[objektai/saltiniai/Ostrovo sutartis (1392 m.)]]
 - [[objektai/saltiniai/P. Šležas, Vytauto D. kovos dėl Žemaičių ir Klaipėdos]]
+- [[objektai/saltiniai/Patarlės žemaičių]]
 - [[objektai/saltiniai/Pašuta V. Lietuvos valstybės susidarymas]]
 - [[objektai/saltiniai/Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)]]
 - [[objektai/saltiniai/Pirmoji Lietuvos Bažnyčiai privilegija (1387 m.)]]
@@ -1386,6 +1392,9 @@ Objektų skaičius: 1480.
 - [[objektai/saltiniai/Urbono VI bulė dėl Vilniaus katedros ir vyskupijos]]
 - [[objektai/saltiniai/Varakauskas R. Kautynės ties Ašerade (1279 m.) Iš lietuvių kovų prieš Livonijos ordiną XIII a]]
 - [[objektai/saltiniai/Varakauskas R. Lietuvių kova su vokiškaisiais agresoriais Mindaugo valdymo laikotarpiu (1236—1263)]]
+- [[objektai/saltiniai/Vidaus reikalų ministro 1867. VII. 2 raštas Vilniaus generalgubernatoriui]]
+- [[objektai/saltiniai/Vidaus reikalų viceministro 1869 m. lapkričio 27 d. raštas A. Potapovui]]
+- [[objektai/saltiniai/Vilniaus cenzūros komiteto 1865. II. 16 posėdžio protokolas]]
 - [[objektai/saltiniai/Vilniaus miesto planas Jogailos laikais]]
 - [[objektai/saltiniai/Vokiškieji kryžiuočių kelių aprašymai]]
 - [[objektai/saltiniai/Vytauto 1398 m. laiškas Prūsijos ordinui dėl pagalbos statant pilis]]

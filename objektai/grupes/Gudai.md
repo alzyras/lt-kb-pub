@@ -28,33 +28,6 @@ media_all_json: |-
 
 Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.
 
-## Teiginiai
-
-<a id="claim-t-193303"></a>
-- t-001
-  teiginys: "Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais."
-  atnaujinta: "2026-07-06 12:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-176031
-
-<a id="claim-t-200921"></a>
-- t-002
-  teiginys: "Gudai patys, skaugėdami vokyčiams prekybos, buvo sukilę ant jų ir su jais kariavo."
-  atnaujinta: "2026-07-16 14:30"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184271
-
 ## Citatos
 
 - id: c-176031
@@ -74,7 +47,7 @@ Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184271
@@ -101,5 +74,33 @@ Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-193303"></a>
+- t-001
+  teiginys: "Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-176031
+
+<a id="claim-t-200921"></a>
+- t-002
+  teiginys: "Gudai patys, skaugėdami vokyčiams prekybos, buvo sukilę ant jų ir su jais kariavo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184271
+

@@ -79,9 +79,9 @@ canonical_biography: "“ Partizanų pajėgos kovinis vienetas, vadovaujamas Lie
     - c-76150
 
 <a id="claim-t-79052"></a>
-- t-003
+- t-79052
   teiginys: "Jonas Neifalta-Lakūnas iki okupacijos tarnavo Alytaus ulonų pulke ir turėjo puskarininkio laipsnį."
-  atnaujinta: "2026-05-31 11:59"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Alytus: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -126,8 +126,8 @@ canonical_biography: "“ Partizanų pajėgos kovinis vienetas, vadovaujamas Lie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-79052
 
 - id: c-76150
   sudarytojas: "Karolis Zikaras"
@@ -148,10 +148,12 @@ canonical_biography: "“ Partizanų pajėgos kovinis vienetas, vadovaujamas Lie
     Aleksandro Podemansko - Šarūno.
   citata_rodoma: "Naujai paskirti pareigūnai bet ką pradėdami, nuolat turėjo prieš\nakis galimas partizanų negailestingas sankcijas.“\n\nPartizanų pajėgos kovinis vienetas, vadovaujamas Lietuvos\nkariuomenės ulonų puskarininkio Jono\nNeifalto- Lakūno ir jam talkinančio\n\nAleksandro Podemansko - Šarūno."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+

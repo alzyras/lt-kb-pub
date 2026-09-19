@@ -43,20 +43,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-201938"></a>
-- t-001
-  teiginys: "Mūrinės bažnyčios ir vienuolyno pastatų pats statybos įkarštis buvo 1501-1504 m., kai bernardinų vyresniesiems aktyviai talkino pasaulietinis vienuolyno reikalų tvarkytojas (sindikas) Kauno miestietis Stankus Motiejaitis."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185285
-
 ## Citatos
 
 - id: c-185285
@@ -76,5 +62,20 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201938"></a>
+- t-001
+  teiginys: "Mūrinės bažnyčios ir vienuolyno pastatų pats statybos įkarštis buvo 1501-1504 m., kai bernardinų vyresniesiems aktyviai talkino pasaulietinis vienuolyno reikalų tvarkytojas (sindikas) Kauno miestietis Stankus Motiejaitis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185285
+

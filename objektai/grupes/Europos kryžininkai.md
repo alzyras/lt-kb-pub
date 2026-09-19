@@ -33,28 +33,6 @@ media_all_json: |-
 
 Vilniui bemat jos prirei­ kė, nes kitais, 1392, metais Europos riteriai taisėsi užplūsti Lietuvą, rengdami dar didesnį žygį į šalį, kuri dar negalėjo naudotis išpažįstamo tikėjimo geradarystėmis, bet jau krikš­ čioniška būdama, iš naujų savo tikėjimo brolių.
 
-## Teiginiai
-
-<a id="claim-t-86725"></a>
-- t-001
-  teiginys: "1392 m. Europos kryžininkai rengė didesnį žygį į Lietuvą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Lietuva: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Europos kryžininkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Europos kryžininkai rengė žygį į Lietuvą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Europos kryžininkai surengė žygį į Lietuva (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1392 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinti fragmentai ir paliktas citatos remiamas faktas."
-  pagrindžia:
-    - c-82704
-
 ## Citatos
 
 - id: c-82704
@@ -94,8 +72,31 @@ Vilniui bemat jos prirei­ kė, nes kitais, 1392, metais Europos riteriai taisė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Europos kryžininkai surengė žygį į [[objektai/vietos/Lietuva]]
+
+## Teiginiai
+
+<a id="claim-t-86725"></a>
+- t-001
+  teiginys: "1392 m. Europos kryžininkai rengė didesnį žygį į Lietuvą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Lietuva: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Europos kryžininkai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Europos kryžininkai rengė žygį į Lietuvą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Europos kryžininkai surengė žygį į Lietuva (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1392 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinti fragmentai ir paliktas citatos remiamas faktas."
+  pagrindžia:
+    - c-82704
+

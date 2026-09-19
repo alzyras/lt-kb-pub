@@ -36,10 +36,22 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
 
 ## Teiginiai
 
+<a id="claim-t-211085"></a>
+- t-211085
+  teiginys: "Kunigaikštis Levas, išgirdęs, kad lietuviai nukovė ku nigaikštį Vladimirą ir užėmė Vladimiro miestą, nebeiš drįso priešintis ir pabėgo į Brianską."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193660
+
 <a id="claim-t-40306"></a>
-- t-001
+- t-40306
   teiginys: "Haličo kunigaikštis Levas su totoriais paėmė Naugarduko papilį, bet pati Naugarduko pilis nebuvo paimta."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Naugardukas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -53,9 +65,9 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
     - c-44435
 
 <a id="claim-t-206352"></a>
-- t-002
+- t-206352
   teiginys: "Drucko kunigaikštis Levas dalyvavo kaip Vytauto liudininkas."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -66,9 +78,9 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
     - c-188967
 
 <a id="claim-t-206353"></a>
-- t-003
+- t-206353
   teiginys: "Drucko kunigaikštis Levas dokumente įvardijamas kaip „mūsų svainis“."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -101,8 +113,8 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-40306
 
 - id: c-188967
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -118,8 +130,8 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-206352
 
 - id: c-188968
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -141,8 +153,27 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-206353
+
+- id: c-193660
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 63"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 63."
+  citata_originali: |
+    Paskui nužygiavo prieš Lucko kunigaikštį Levą *.
+    Kunigaikštis Levas, išgirdęs, kad lietuviai nukovė ku­
+    nigaikštį Vladimirą ir užėmė Vladimiro miestą, nebeiš­
+    drįso priešintis ir pabėgo į Brianską
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211085
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Totoriai]]

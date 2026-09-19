@@ -52,45 +52,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-87018"></a>
-- t-001
-  teiginys: "Barboros Radvilaitės rūmų griuvėsiai stovėjo tarp Katedros ir Šv. Jurgio bažnyčios prie Vilijos, kol 1828 m. buvo parduoti plytoms."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Barbora Radvilaitė: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Barbora Radvilaitė: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Griuvėsiai įvardyti kaip Barboros Radvilaitės rūmų griuvėsiai, tad ryšys su Barbora remiasi tiesioginiu pavadinimu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos priklausė Barbora Radvilaitė (0.70)"
-  temporaliniai_duomenys: "įvykio data: 1828 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Fragmentas išplėstas į pilną teiginį pagal citatą."
-  pagrindžia:
-    - c-82997
-
-<a id="claim-t-87019"></a>
-- t-002
-  teiginys: "Barboros Radvilaitės rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Barbora Radvilaitė: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Barbora Radvilaitė: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Rūmai įvardyti kaip Barboros Radvilaitės rūmai, todėl nuosavybės ar priklausymo ryšys yra tiesiogiai numanomas iš teksto."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos priklausė Barbora Radvilaitė (0.74)"
-  pagrindžia:
-    - c-82998
-
 ## Citatos
 
 - id: c-82997
@@ -131,7 +92,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-82998
@@ -157,5 +118,45 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-87018"></a>
+- t-001
+  teiginys: "Barboros Radvilaitės rūmų griuvėsiai stovėjo tarp Katedros ir Šv. Jurgio bažnyčios prie Vilijos, kol 1828 m. buvo parduoti plytoms."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Barbora Radvilaitė: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Barbora Radvilaitė: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Griuvėsiai įvardyti kaip Barboros Radvilaitės rūmų griuvėsiai, tad ryšys su Barbora remiasi tiesioginiu pavadinimu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos priklausė Barbora Radvilaitė (0.70)"
+  temporaliniai_duomenys: "įvykio data: 1828 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Fragmentas išplėstas į pilną teiginį pagal citatą."
+  pagrindžia:
+    - c-82997
+
+<a id="claim-t-87019"></a>
+- t-002
+  teiginys: "Barboros Radvilaitės rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Barbora Radvilaitė: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Barbora Radvilaitė: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Rūmai įvardyti kaip Barboros Radvilaitės rūmai, todėl nuosavybės ar priklausymo ryšys yra tiesiogiai numanomas iš teksto."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos priklausė Barbora Radvilaitė (0.74)"
+  pagrindžia:
+    - c-82998
+

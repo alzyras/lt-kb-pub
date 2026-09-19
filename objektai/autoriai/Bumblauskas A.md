@@ -44,12 +44,48 @@ canonical_biography: "Bumblauskas A."
 
 Bumblauskas A.
 
+## Citatos
+
+- id: c-22124
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  puslapiai: "PDF 267"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
+  citata_originali: |
+    Vilnius, 1998.
+    Bumblauskas A. Lietuvos Didžioji Kunigaikštija ir jos tradicija. Vilnius,
+    2010.
+  citata_rodoma: "Bumblauskas A. Lietuvos Didžioji Kunigaikštija ir jos tradicija. Vilnius,\n2010."
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+- id: c-42402
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  puslapiai: "PDF 268"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 268."
+  citata_originali: |
+    P. 62, „ANONIMO LAIŠKAS“, Bumblauskas A. Senosios Lietuvos istorija 1009-1795,
+    Vilnius, 2005, p. 151 (Jučas M. Žalgirio mūšis, Vilnius, 1999, p. 230).
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-64571"></a>
 - t-001
   teiginys: "A. Bumblausko veikalas „Senosios Lietuvos istorija 1009-1795“ išleistas Vilniuje 2005 m."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -68,7 +104,7 @@ Bumblauskas A.
 <a id="claim-t-64572"></a>
 - t-002
   teiginys: "A. Bumblauskas parašė veikalą „Lietuvos Didžioji Kunigaikštija ir jos tradicija“, išleistą Vilniuje 2010 m."
-  atnaujinta: "2026-05-31 10:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Alfredas Bumblauskas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -83,38 +119,3 @@ Bumblauskas A.
   pagrindžia:
     - c-22124
 
-## Citatos
-
-- id: c-22124
-  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
-  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  puslapiai: "PDF 267"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.), PDF 267."
-  citata_originali: |
-    Vilnius, 1998.
-    Bumblauskas A. Lietuvos Didžioji Kunigaikštija ir jos tradicija. Vilnius,
-    2010.
-  citata_rodoma: "Bumblauskas A. Lietuvos Didžioji Kunigaikštija ir jos tradicija. Vilnius,\n2010."
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-
-- id: c-42402
-  sudarytojas: "Karolis Zikaras"
-  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
-  puslapiai: "PDF 268"
-  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.), PDF 268."
-  citata_originali: |
-    P. 62, „ANONIMO LAIŠKAS“, Bumblauskas A. Senosios Lietuvos istorija 1009-1795,
-    Vilnius, 2005, p. 151 (Jučas M. Žalgirio mūšis, Vilnius, 1999, p. 230).
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

@@ -46,24 +46,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-203884"></a>
-- t-001
-  teiginys: "1741 m. Lorečiai skundė, esą Martynas ir Grigalius Nonevičiai su „įvairios kondicijos žmonėmis“ užpuolė namą už Rūdninkų vartų ir smurtavo prieš jame gyvenusius bajorus."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  temporaliniai_duomenys: "įvykio data: 1741 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išlaikyta šaltinyje esanti skundo ir tariamo veiksmo atribucija, o nepatvirtintas įvykis neperteiktas kaip neutrali nustatyta aplinkybė. Išskleisti veikėjai ir užpuolimo vieta."
-  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
-  pagrindžia:
-    - c-186488
-
 ## Santrauka
 
 1741 m. Lorečiai skundė, esą Martynas ir Grigalius Nonevičiai su „įvairios kondicijos žmonėmis“ užpuolė namą už Rūdninkų vartų ir smurtavo prieš jame gyvenusius bajorus.
@@ -87,5 +69,24 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203884"></a>
+- t-001
+  teiginys: "1741 m. Lorečiai skundė, esą Martynas ir Grigalius Nonevičiai su „įvairios kondicijos žmonėmis“ užpuolė namą už Rūdninkų vartų ir smurtavo prieš jame gyvenusius bajorus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1741 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išlaikyta šaltinyje esanti skundo ir tariamo veiksmo atribucija, o nepatvirtintas įvykis neperteiktas kaip neutrali nustatyta aplinkybė. Išskleisti veikėjai ir užpuolimo vieta."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186488
+

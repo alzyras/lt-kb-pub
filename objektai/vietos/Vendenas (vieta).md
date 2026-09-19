@@ -50,10 +50,23 @@ Kai kurie iš jų persikėlė j Latgaliją, kur apsigyveno tarp vie tinių, Vend
 
 ## Teiginiai
 
+<a id="claim-t-213688"></a>
+- t-213688
+  teiginys: "Senovės tyrinėtojai teigia, kad Vendenas Livoni joje yra jų kolonija, kurią senovės lyviai vadino Kisia."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
+  pagrindžia:
+    - c-197220
+
 <a id="claim-t-205107"></a>
-- t-001
+- t-205107
   teiginys: "Kai kurie iš jų persikėlė j Latgaliją, kur apsigyveno tarp vie tinių, Vendeno apylinkėse."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -64,9 +77,9 @@ Kai kurie iš jų persikėlė j Latgaliją, kur apsigyveno tarp vie tinių, Vend
     - c-187787
 
 <a id="claim-t-205543"></a>
-- t-002
+- t-205543
   teiginys: "Ordino sostinę parinkęs Vendeną, kitaip vadinamą Cėsi mis, uoliai rūpinosi jos nauda ir žiūrėjo tvarkos."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -77,9 +90,9 @@ Kai kurie iš jų persikėlė j Latgaliją, kur apsigyveno tarp vie tinių, Vend
     - c-188086
 
 <a id="claim-t-205570"></a>
-- t-003
+- t-205570
   teiginys: "Vienas iš riterių, vardu Vigbertas, pasinėręs į pa saulietinius gyvenimo džiaugsmus ir praradęs saiką, ne paisantis jokių suvaržymų įstatymais, pritriukšmavęs Vendene, 1208 metais paspruko pas vyskupystės kunigus, buvusius Idumėjoje, kuriems pranešė, esą."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -148,8 +161,8 @@ Kai kurie iš jų persikėlė j Latgaliją, kur apsigyveno tarp vie tinių, Vend
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-205107
 
 - id: c-188083
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -172,8 +185,8 @@ Kai kurie iš jų persikėlė j Latgaliją, kur apsigyveno tarp vie tinių, Vend
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-205570
 
 - id: c-188086
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -192,5 +205,23 @@ Kai kurie iš jų persikėlė j Latgaliją, kur apsigyveno tarp vie tinių, Vend
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-205543
+
+- id: c-197220
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 290"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 290."
+  citata_originali: |
+    Senovės tyrinėtojai teigia, kad Vendenas Livoni­
+    joje yra jų kolonija, kurią senovės lyviai vadino Kisia.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213688
+

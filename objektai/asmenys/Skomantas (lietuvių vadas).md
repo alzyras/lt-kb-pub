@@ -34,25 +34,6 @@ canonical_biography: "Kitais metais sūduvių ir lietuvių vadas Skomantas (Did�
 
 Kitais metais sūduvių ir lietuvių vadas Skomantas (Didžiojo magistro kronikoje Skomantas vadinamas tiesiog „lietuvių vadu“) su didele sūduvių ir kitų Lietuvai pavaldžių žemių kariuomene siaubė Kulmo teritoriją, puolė patį Kulmą, sunaikino Eimsučio (Heimsoto).
 
-## Teiginiai
-
-<a id="claim-t-40424"></a>
-- t-001
-  teiginys: "Sūduvių ir lietuvių vadas Skomantas su didele kariuomene siaubė Kulmo teritoriją, puolė Kulmą ir sunaikino Eimsučio bei Cipelio pilis."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Kulmas: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skomantas (lietuvių vadas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Skomantas puolė Kulmą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Skomantas (lietuvių vadas) puolė Kulmas (0.96)"
-  pagrindžia:
-    - c-44511
-
 ## Citatos
 
 - id: c-44511
@@ -82,8 +63,28 @@ Kitais metais sūduvių ir lietuvių vadas Skomantas (Didžiojo magistro kroniko
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Skomantas (lietuvių vadas) puolė [[objektai/vietos/Kulmas]]
+
+## Teiginiai
+
+<a id="claim-t-40424"></a>
+- t-001
+  teiginys: "Sūduvių ir lietuvių vadas Skomantas su didele kariuomene siaubė Kulmo teritoriją, puolė Kulmą ir sunaikino Eimsučio bei Cipelio pilis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Kulmas: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skomantas (lietuvių vadas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kulmas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo, kad Skomantas puolė Kulmą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Skomantas (lietuvių vadas) puolė Kulmas (0.96)"
+  pagrindžia:
+    - c-44511
+

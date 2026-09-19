@@ -62,9 +62,9 @@ Ji įvardija antspaudo tikrumą ginčijantį žmogų kaip tiesos, tikėjimo ir g
     - c-55762
 
 <a id="claim-t-54763"></a>
-- t-002
+- t-54763
   teiginys: "Trijuose Gedimino laiškuose antspaudo tikrumu netikintieji pasmerkti kaip tikėjimo ardytojai, eretikai, melagiai ir garbės neturintys žmonės."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "gap::sayings"
   ryšio_patikimumas: "susije_su -> Antspaudas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -101,11 +101,12 @@ Ji įvardija antspaudo tikrumą ginčijantį žmogų kaip tiesos, tikėjimo ir g
     nurodyti pranešimai bei įsipareigojimai.
   citata_rodoma: "Kryžiuočiai tą antspaudą mums panieką reikš­\ndami į ugnį įmetė, kad sutrukdytų pradėto su Dievo pa­\ngalba sumanymo įgyvendinimą ir žmonėms akis užtem­\ndytų; jei kas tuo antspaudu nepatikėtų ir jo tikrumą \npiktžodžiaudami ginčytų, tą mūsų šiais laiškais skelbiame \ntiesos nedraugu, velnio garbintoju, tikėjimo priešu, bedie­\nviu, melagiu ir žmogum be garbės\"*. Tie laiškai rašyti Vil­\nniuje, datuoti 1323 metų gegužės 26 su pavedimu, kad juos \nperskaičius būtų siunčiami toliau ir visur skelbiama juose \nnurodyti pranešimai bei įsipareigojimai."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-55763
@@ -127,5 +128,6 @@ Ji įvardija antspaudo tikrumą ginčijantį žmogų kaip tiesos, tikėjimo ir g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-54763
+

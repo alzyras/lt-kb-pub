@@ -34,17 +34,6 @@ canonical_biography: "Pulko vadas pasigedo 1 bataliono karininkų: ltn. Baniulio
 
 Pulko vadas pasigedo 1 bataliono karininkų: ltn. Baniulio, ltn. Raibikio, ltn. Čižausko, ltn. Mickaičio ir kitų.
 
-## Teiginiai
-
-<a id="claim-t-40343"></a>
-- t-001
-  teiginys: "Pulko vadas pasigedo 1 bataliono karininko leitenanto Mickaičio."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-42140
-
 ## Citatos
 
 - id: c-42140
@@ -60,5 +49,17 @@ Pulko vadas pasigedo 1 bataliono karininkų: ltn. Baniulio, ltn. Raibikio, ltn. 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-40343"></a>
+- t-001
+  teiginys: "Pulko vadas pasigedo 1 bataliono karininko leitenanto Mickaičio."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-42140
+

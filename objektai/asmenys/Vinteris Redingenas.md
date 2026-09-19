@@ -35,21 +35,6 @@ Kryžiuotis Vinteris Redingenas žuvo būdamas puolėjų vadas, kai didysis magi
 
 Kryžiuotis Vinteris Redingenas žuvo būdamas puolėjų vadas, kai didysis magistras angą apsupo ginkluotais žmonėmis.
 
-## Teiginiai
-
-<a id="claim-t-207020"></a>
-- t-001
-  teiginys: "Kryžiuotis Vinteris Redingenas žuvo būdamas puolėjų vadas, kai didysis magistras angą apsupo ginkluotais žmonėmis."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
-  pagrindžia:
-    - c-189635
-
 ## Citatos
 
 - id: c-189635
@@ -66,5 +51,21 @@ Kryžiuotis Vinteris Redingenas žuvo būdamas puolėjų vadas, kai didysis magi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-207020"></a>
+- t-001
+  teiginys: "Kryžiuotis Vinteris Redingenas žuvo būdamas puolėjų vadas, kai didysis magistras angą apsupo ginkluotais žmonėmis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189635
+

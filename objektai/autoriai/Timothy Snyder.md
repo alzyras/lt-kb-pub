@@ -51,3 +51,42 @@ Timothy Snyderio manymu, ankstyvaisiais naujaisiais amžiais Abiejų Tautų Resp
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-190313
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 320"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 320."
+  citata_originali: |
+    Киïв, 2008.
+    Kaip žinoma, būtent amerikiečių istoriko Timothyʼo Snyderio manymu, ankstyvai-
+    siais naujaisiais amžiais Abiejų Tautų Respublikoje susiformavo ikimoderni tauta (isto-
+    rikas ją vadina lenkų tauta), kurios negalima tiesmukiškai įvesti į atskirų tautų istorijas.
+    • T. Snyder.
+  citata_rodoma: "a, būtent amerikiečių istoriko Timothyʼo Snyderio manymu, ankstyvai-\nsiais naujaisiais amžiais Abiejų Tautų Respublikoje susiformavo ikimoderni tauta (isto-\nrikas ją vadina lenkų tauta), kurios negalima tiesmukiškai įvesti į atskirų tautų istorijas. \n• T. Snyd"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-207696"></a>
+- t-001
+  teiginys: "Timothy Snyderio manymu, ankstyvaisiais naujaisiais amžiais Abiejų Tautų Respublikoje susiformavo ikimoderni tauta, jo vadinama lenkų tauta."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190313
+

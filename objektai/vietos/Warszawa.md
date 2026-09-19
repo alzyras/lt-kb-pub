@@ -42,20 +42,6 @@ historical_names: []
 
 Stowko о bogach Litewskich // Biblioteka Warszawska.
 
-## Teiginiai
-
-<a id="claim-t-188930"></a>
-- t-001
-  teiginys: "Stowko о bogach Litewskich // Biblioteka Warszawska."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-171819
-
 ## Citatos
 
 - id: c-171819
@@ -72,5 +58,4 @@ Stowko о bogach Litewskich // Biblioteka Warszawska.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

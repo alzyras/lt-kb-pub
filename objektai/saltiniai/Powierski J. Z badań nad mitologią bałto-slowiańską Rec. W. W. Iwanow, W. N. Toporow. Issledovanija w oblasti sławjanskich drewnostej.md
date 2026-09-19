@@ -32,20 +32,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad powierski J.
 
-## Teiginiai
-
-<a id="claim-t-61248"></a>
-- t-001
-  teiginys: "J. Powierskio recenzija apie W. W. Iwanowo ir W. N. Toporowo veikalą paskelbta 1977 m. žurnale „Slavia antiqua“."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1977 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia bibliografinį faktą, o pradinis teiginys neturi predikato."
-  pagrindžia:
-    - c-61880
-
 ## Citatos
 
 - id: c-61880
@@ -62,5 +48,36 @@ Dusburgietis teigia, kad powierski J.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-204747
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 270"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
+  citata_originali: |
+    Powierski J. Z badań nad mitologią bałto-slowiańską: Rec.: W. W. Iwanow, W. N.
+    Toporow. Issledovanija w oblasti sławjanskich drewnostej.— Slavia antiqua, Warszawa—
+    Poznań, 1977, t. 24, s. 305—316.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-224694"></a>
+- t-001
+  teiginys: "J. Powierskio recenzija apie W. W. Iwanowo ir W. N. Toporowo veikalą paskelbta 1977 m. žurnale „Slavia antiqua“."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1977 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata remia bibliografinį faktą, o pradinis teiginys neturi predikato."
+  pagrindžia:
+    - c-204747
+

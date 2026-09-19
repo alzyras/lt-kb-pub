@@ -42,32 +42,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-201295"></a>
-- t-001
-  teiginys: "Darin lietuviai ir žemaičiai, nuo visur sutraukę savo karė- 1182 jus, ėjo gudų tremti, kurie jau ugnia ir karda teriojo padaugavius."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184645
-
-<a id="claim-t-201296"></a>
-- t-002
-  teiginys: "Nustoję gudai taip kantraus savo karvedžio tuojau kurs kaip beįmanė tas muko šalin, bet lietuvių vyresnieji taip bukliai buvo savo kareivius sustatę, jog skriejan čius gudus visus į verpetus Daugavos sugrūdo, kuri būk burgėjusi per kamšą kūnų it per purvyną."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184646
-
 ## Citatos
 
 - id: c-184645
@@ -89,7 +63,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184646
@@ -121,5 +95,32 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-201295"></a>
+- t-001
+  teiginys: "Darin lietuviai ir žemaičiai, nuo visur sutraukę savo karė- 1182 jus, ėjo gudų tremti, kurie jau ugnia ir karda teriojo padaugavius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184645
+
+<a id="claim-t-201296"></a>
+- t-002
+  teiginys: "Nustoję gudai taip kantraus savo karvedžio tuojau kurs kaip beįmanė tas muko šalin, bet lietuvių vyresnieji taip bukliai buvo savo kareivius sustatę, jog skriejan čius gudus visus į verpetus Daugavos sugrūdo, kuri būk burgėjusi per kamšą kūnų it per purvyną."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184646
+

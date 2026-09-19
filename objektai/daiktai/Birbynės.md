@@ -46,20 +46,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-203100"></a>
-- t-001
-  teiginys: "Bychovco kronikoje pasakojama, kad kunigaikščio Mykolo kariuomenei žengiant per upę buvo sutrimitavę trimitai ir užgrotos birbynės."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Išplėstas neaiškus subjektas pagal citatą."
-  susije_objektai: "mentioned_object: [[objektai/daiktai/Trimitai|Trimitai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-180538
-
 ## Reikšmingi paminėjimai
 Nenurodyta
 
@@ -83,5 +69,16 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+## Teiginiai
+
+<a id="claim-t-212004"></a>
+- t-001
+  teiginys: "Bychovco kronikoje pasakojama, kad kunigaikščio Mykolo kariuomenei žengiant per upę buvo sutrimitavę trimitai ir užgrotos birbynės."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/05_extract_items_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Išplėstas neaiškus subjektas pagal citatą."
+  susije_objektai: "mentioned_object: [[objektai/daiktai/Trimitai|Trimitai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+

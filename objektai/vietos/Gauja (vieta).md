@@ -38,33 +38,6 @@ historical_names: []
 
 Gudai paliki ni abažą vokyčių persikėlė per upį Gaują, deginda mi vietoves, bažnyčias ir naikindami suvoktus ja vus, o gyventojus vienus kirsdami, kitus vergdami, nuteriojo visą Turaidos kraštą.
 
-## Teiginiai
-
-<a id="claim-t-201135"></a>
-- t-001
-  teiginys: "Gudai paliki ni abažą vokyčių persikėlė per upį Gaują, deginda mi vietoves, bažnyčias ir naikindami suvoktus ja vus, o gyventojus vienus kirsdami, kitus vergdami, nuteriojo visą Turaidos kraštą."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184485
-
-<a id="claim-t-205518"></a>
-- t-002
-  teiginys: "1205 metais prie Gaujos upės rygiečiai ir žemgaliai padalijo kariauną į dvi dalis."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
-  pagrindžia:
-    - c-188178
-
 ## Citatos
 
 - id: c-184485
@@ -87,7 +60,7 @@ Gudai paliki ni abažą vokyčių persikėlė per upį Gaują, deginda mi vietov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188178
@@ -110,5 +83,33 @@ Gudai paliki ni abažą vokyčių persikėlė per upį Gaują, deginda mi vietov
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-201135"></a>
+- t-001
+  teiginys: "Gudai paliki ni abažą vokyčių persikėlė per upį Gaują, deginda mi vietoves, bažnyčias ir naikindami suvoktus ja vus, o gyventojus vienus kirsdami, kitus vergdami, nuteriojo visą Turaidos kraštą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184485
+
+<a id="claim-t-205518"></a>
+- t-002
+  teiginys: "1205 metais prie Gaujos upės rygiečiai ir žemgaliai padalijo kariauną į dvi dalis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:40Z"
+  pagrindžia:
+    - c-188178
+

@@ -46,18 +46,6 @@ Valatkaičių dvaras minimas kaip vieta, garsėjusi piktais šunimis.
 
 Valatkaičių dvaras šiame šaltinyje yra dvaras.
 
-## Teiginiai
-
-<a id="claim-t-195498"></a>
-- t-001
-  teiginys: "Valatkaičių dvare buvo žinomi pikti šunys."
-  atnaujinta: "2026-07-12 04:09"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177921
-
 ## Citatos
 
 - id: c-177921
@@ -73,5 +61,18 @@ Valatkaičių dvaras šiame šaltinyje yra dvaras.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-195498"></a>
+- t-001
+  teiginys: "Valatkaičių dvare buvo žinomi pikti šunys."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177921
+

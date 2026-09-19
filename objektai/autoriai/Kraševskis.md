@@ -36,10 +36,22 @@ canonical_biography: "Čia ypač pasižymėjo universiteto auklėtiniai Mickevi�
 
 ## Teiginiai
 
+<a id="claim-t-219216"></a>
+- t-219216
+  teiginys: "Anot pono Kraševskio, tie, kurie mirusįjį paliesdavo, tapdavo „nešva rūs“."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200208
+
 <a id="claim-t-01084"></a>
-- t-001
+- t-01084
   teiginys: "Kraševskis buvo universiteto auklėtinis, pasižymėjęs lenkų romantinėje literatūroje, kuri temas ėmė iš Lietuvos istorijos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -74,5 +86,24 @@ canonical_biography: "Čia ypač pasižymėjo universiteto auklėtiniai Mickevi�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-01084
+
+- id: c-200208
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 361"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 361."
+  citata_originali: |
+    Anot
+    pono Kraševskio, tie, kurie mirusįjį paliesdavo, tapdavo „nešva­
+    rūs“.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-219216
+

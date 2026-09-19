@@ -43,20 +43,6 @@ canonical_biography: "Žemaičių tautiškojo ir kultūriškojo judėjimo centra
 
 Žemaičių tautiškojo ir kultūriškojo judėjimo centras buvo vyskupo Juozo Arnulfo Giedraičio rezidencija — Alsėdžiai; pats vykupas buvo karštas žemaičių patriotas ir uolus švietimo rėmėjas.
 
-## Teiginiai
-
-<a id="claim-t-01070"></a>
-- t-001
-  teiginys: "Juozas Arnulfas Giedraitis buvo laikomas karštu žemaičių patriotu ir uoliu švietimo rėmėju."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  temporaliniai_duomenys: "įvykio data: 1816 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia sutrumpinti ir sutelkti teiginį į asmenį."
-  pagrindžia:
-    - c-01308
-
 ## Citatos
 
 - id: c-01308
@@ -76,5 +62,20 @@ canonical_biography: "Žemaičių tautiškojo ir kultūriškojo judėjimo centra
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-01070"></a>
+- t-001
+  teiginys: "Juozas Arnulfas Giedraitis buvo laikomas karštu žemaičių patriotu ir uoliu švietimo rėmėju."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1816 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia sutrumpinti ir sutelkti teiginį į asmenį."
+  pagrindžia:
+    - c-01308
+

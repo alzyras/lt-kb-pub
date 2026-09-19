@@ -33,22 +33,6 @@ media_all_json: |-
 
 I. Onacevičius laiške T. Narbutui moralizuoja apie lietuvių abejingumą krašto reikalams ir šitaip apibūdina jų „dorybes“.
 
-## Teiginiai
-
-<a id="claim-t-192128"></a>
-- t-001
-  teiginys: "I. Onacevičius 1836 m. laiške T. Narbutui lietuvių „dorybėmis“ vadino kortas, romanus ir garderobus."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "saltinio_teiginys"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1836 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Subjektas, data ir adresatas paimti iš citatos, o moralinis vertinimas paliktas Onacevičiaus laiško atribucijoje. Nepridėta platesnių išvadų apie visus lietuvius."
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-175015
-
 ## Citatos
 
 - id: c-175015
@@ -69,5 +53,18 @@ I. Onacevičius laiške T. Narbutui moralizuoja apie lietuvių abejingumą kraš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+## Teiginiai
+
+<a id="claim-t-215223"></a>
+- t-001
+  teiginys: "I. Onacevičius 1836 m. laiške T. Narbutui lietuvių „dorybėmis“ vadino kortas, romanus ir garderobus."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1836 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Subjektas, data ir adresatas paimti iš citatos, o moralinis vertinimas paliktas Onacevičiaus laiško atribucijoje. Nepridėta platesnių išvadų apie visus lietuvius."
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+

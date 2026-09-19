@@ -39,28 +39,6 @@ Frazė užfiksuota T. Narbuto pirmojo tomo leidimo įvadinėje, recepcinėje arb
 
 Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartojama kaip neutrali istorinė išvada.
 
-## Teiginiai
-
-<a id="claim-t-189599"></a>
-- t-001
-  teiginys: "Posakis „Sukūrimas tautinės mitologijos“ cituojamas kaip bendro patriotinio reikalo grandis, kai mitologija laikyta tautinės kultūros dalimi."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Varšuva: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Sukūrimas tautinės mitologijos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Varšuva: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Sukūrimas tautinės mitologijos\" parinktas kaip owner_note_path. Targetas \"Varšuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-171029
-
 ## Citatos
 
 - id: c-171029
@@ -81,5 +59,4 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

@@ -28,21 +28,6 @@ Herodotas kontrvalacinių ir cirkumvalacinių linijų išradimą priskyrė Harpa
 
 Herodotas kontrvalacinių ir cirkumvalacinių linijų išradimą priskyrė Harpagui, tačiau, kaip nurodo Teodoras Narbutas, mokslininkai teigė, kad egiptiečiai, žydai ir asiriečiai jau gerai išmanė apgulties meną.
 
-## Teiginiai
-
-<a id="claim-t-206658"></a>
-- t-001
-  teiginys: "Herodotas kontrvalacinių ir cirkumvalacinių linijų išradimą priskyrė Harpagui, tačiau, kaip nurodo Teodoras Narbutas, mokslininkai teigė, kad egiptiečiai, žydai ir asiriečiai jau gerai išmanė apgulties meną."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
-  pagrindžia:
-    - c-189273
-
 ## Citatos
 
 - id: c-189273
@@ -63,5 +48,21 @@ Herodotas kontrvalacinių ir cirkumvalacinių linijų išradimą priskyrė Harpa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206658"></a>
+- t-001
+  teiginys: "Herodotas kontrvalacinių ir cirkumvalacinių linijų išradimą priskyrė Harpagui, tačiau, kaip nurodo Teodoras Narbutas, mokslininkai teigė, kad egiptiečiai, žydai ir asiriečiai jau gerai išmanė apgulties meną."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:11Z"
+  pagrindžia:
+    - c-189273
+

@@ -27,24 +27,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad apie viešąją krikščionių atgailą To popiežiaus Inocento laikais beveik visi krikščionys turėjo viešai daryti atgailą, o kadangi jie plakėsi rykštėmis, vokiškai juos vadino Geyseler [saviplakiais].
 
-## Teiginiai
-
-<a id="claim-t-58901"></a>
-- t-001
-  teiginys: "Geyseler buvo vokiškas rykštėmis besiplakusių krikščionių saviplakių pavadinimas."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krikščionys: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Geyseler: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Krikščionys: mention_match, group, gap=46"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Geyseler\" parinktas kaip owner_note_path. Targetas \"Krikščionys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-59533
-
 ## Citatos
 
 - id: c-59533
@@ -67,5 +49,20 @@ Dusburgietis teigia, kad apie viešąją krikščionių atgailą To popiežiaus 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+## Teiginiai
+
+<a id="claim-t-221042"></a>
+- t-001
+  teiginys: "Geyseler buvo vokiškas rykštėmis besiplakusių krikščionių saviplakių pavadinimas."
+  atnaujinta: "2026-09-13 18:12"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krikščionys: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Geyseler: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Krikščionys: mention_match, group, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Geyseler\" parinktas kaip owner_note_path. Targetas \"Krikščionys\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+

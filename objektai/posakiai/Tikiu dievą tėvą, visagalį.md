@@ -27,24 +27,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad brolis Henrikas atsakė: „Tikiu dievą tėvą, visagalį...“ bei visa kita, kas „Apaštalų tikėjimo išpažinime“ pasakyta, ir tučtuojau abu išnyko.
 
-## Teiginiai
-
-<a id="claim-t-59161"></a>
-- t-001
-  teiginys: "Brolis Henrikas ištarė „Tikiu dievą tėvą, visagalį“ ir kitus Apaštalų tikėjimo išpažinimo žodžius, kai buvo raginamas išpažinti žydų tikėjimą."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Žydai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tikiu dievą tėvą, visagalį: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Žydai: mention_match, group, gap=104"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tikiu dievą tėvą, visagalį\" parinktas kaip owner_note_path. Targetas \"Žydai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-59793
-
 ## Citatos
 
 - id: c-59793
@@ -65,5 +47,4 @@ Dusburgietis teigia, kad brolis Henrikas atsakė: „Tikiu dievą tėvą, visaga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

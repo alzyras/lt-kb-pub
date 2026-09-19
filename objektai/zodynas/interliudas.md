@@ -33,28 +33,6 @@ media_all_json: |-
 
 Š iuo laikotarpiu Lietuva (darant išlygą dėl Užnemunės) priklausė autokratinei Rusijos imperijai (išskyrus pusmečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „interliudą“).
 
-## Teiginiai
-
-<a id="claim-t-22167"></a>
-- t-001
-  teiginys: "1812 m. antrojoje pusėje Lietuvos priklausymą Rusijos imperijai pusmečiui pertraukė Napoleono Bonaparto interliudas."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Rusija: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Rusija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai kalba apie Lietuvos priklausymą Rusijos imperijai; kandidatas pateiktas kaip Rusija."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Lietuva priklausė Rusija (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1812 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR ir antraštės triukšmas, suformuluotas aiškus sakinys apie interliudą."
-  pagrindžia:
-    - c-24853
-
 ## Citatos
 
 - id: c-24853
@@ -87,5 +65,28 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-22167"></a>
+- t-001
+  teiginys: "1812 m. antrojoje pusėje Lietuvos priklausymą Rusijos imperijai pusmečiui pertraukė Napoleono Bonaparto interliudas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Rusija: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Rusija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai kalba apie Lietuvos priklausymą Rusijos imperijai; kandidatas pateiktas kaip Rusija."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Lietuva priklausė Rusija (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1812 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR ir antraštės triukšmas, suformuluotas aiškus sakinys apie interliudą."
+  pagrindžia:
+    - c-24853
+

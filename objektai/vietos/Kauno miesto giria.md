@@ -39,32 +39,6 @@ historical_names: []
 
 Miesto girią valdė taryba, ji sprendė jos tvarkymo ir naudojimo reikalus. Joje Kauno miestiečiai galėjo pasigaminti statybinio miško ir kuro.
 
-## Teiginiai
-
-<a id="claim-t-201706"></a>
-- t-001
-  teiginys: "Miesto girią valdė taryba, ji sprendė jos tvarkymo ir naudojimo reikalus."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185053
-
-<a id="claim-t-201707"></a>
-- t-002
-  teiginys: "Joje Kauno miestiečiai galėjo pasigaminti statybinio miško ir kuro."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185054
-
 ## Citatos
 
 - id: c-185053
@@ -81,7 +55,7 @@ Miesto girią valdė taryba, ji sprendė jos tvarkymo ir naudojimo reikalus. Joj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185054
@@ -97,5 +71,32 @@ Miesto girią valdė taryba, ji sprendė jos tvarkymo ir naudojimo reikalus. Joj
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-201706"></a>
+- t-001
+  teiginys: "Miesto girią valdė taryba, ji sprendė jos tvarkymo ir naudojimo reikalus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185053
+
+<a id="claim-t-201707"></a>
+- t-002
+  teiginys: "Joje Kauno miestiečiai galėjo pasigaminti statybinio miško ir kuro."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185054
+

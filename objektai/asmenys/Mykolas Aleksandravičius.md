@@ -40,37 +40,6 @@ canonical_biography: "1776 m. Mykolas Aleksandravičius buvo Šv. Jono bažnyči
 
 1776 m. Šv. Jono bažnyčios Dievo Kūno koplyčios klebonas Mykolas Aleksandravičius vadovavo Lukiškėse esančio karmelitėms priklausiusio dvarelio puolimui. 1791 m. Lydos pavieto iždininkas Mykolas Aleksandravičius ir jo pagalbininkai buvo nuteisti infamijos bausme už Jono Radzevičiaus mūrinio namo užpuolimą.
 
-## Teiginiai
-
-<a id="claim-t-203905"></a>
-- t-001
-  teiginys: "1776 m. Šv. Jono bažnyčios Dievo Kūno koplyčios klebonas Mykolas Aleksandravičius vadovavo Lukiškėse esančio karmelitėms priklausiusio dvarelio puolimui."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  temporaliniai_duomenys: "įvykio data: 1776 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pakeistas šaltinio nepagrįstas teiginys apie klebono gyvenamąją vietą į jo šaltinyje nurodytą vaidmenį puolime. Įtrauktas vietos ir objekto kontekstas."
-  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
-  pagrindžia:
-    - c-186509
-
-<a id="claim-t-203906"></a>
-- t-002
-  teiginys: "1791 m. Lydos pavieto iždininkas Mykolas Aleksandravičius ir jo pagalbininkai buvo nuteisti infamijos bausme už Jono Radzevičiaus mūrinio namo užpuolimą."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
-  pagrindžia:
-    - c-186510
-
 ## Citatos
 
 - id: c-186509
@@ -108,7 +77,7 @@ canonical_biography: "1776 m. Mykolas Aleksandravičius buvo Šv. Jono bažnyči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186510
@@ -127,5 +96,37 @@ canonical_biography: "1776 m. Mykolas Aleksandravičius buvo Šv. Jono bažnyči
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-203905"></a>
+- t-001
+  teiginys: "1776 m. Šv. Jono bažnyčios Dievo Kūno koplyčios klebonas Mykolas Aleksandravičius vadovavo Lukiškėse esančio karmelitėms priklausiusio dvarelio puolimui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1776 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pakeistas šaltinio nepagrįstas teiginys apie klebono gyvenamąją vietą į jo šaltinyje nurodytą vaidmenį puolime. Įtrauktas vietos ir objekto kontekstas."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186509
+
+<a id="claim-t-203906"></a>
+- t-002
+  teiginys: "1791 m. Lydos pavieto iždininkas Mykolas Aleksandravičius ir jo pagalbininkai buvo nuteisti infamijos bausme už Jono Radzevičiaus mūrinio namo užpuolimą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186510
+

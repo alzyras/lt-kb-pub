@@ -44,20 +44,6 @@ canonical_biography: "Jau lietuviai ir žemaičiai tankyn vien pradėjo Padaugav
 
 Jau lietuviai ir žemaičiai tankyn vien pradėjo Padaugavį lankyti, kaipogi tą pačią žiemą traukiant 2000 jų joties pro Rygą grobio grieti į Igumių žemę, jų karvedys Svelgotė, kunigaikštis Žagarės ir Jel gavos, apsidrąsinęs iki pat Rygos angos atjojo, ku rio.
 
-## Teiginiai
-
-<a id="claim-t-201403"></a>
-- t-001
-  teiginys: "Jau lietuviai ir žemaičiai tankyn vien pradėjo Padaugavį lankyti, kaipogi tą pačią žiemą traukiant 2000 jų joties pro Rygą grobio grieti į Igumių žemę, jų karvedys Svelgotė, kunigaikštis Žagarės ir Jel gavos, apsidrąsinęs iki pat Rygos angos atjojo, ku rio."
-  atnaujinta: "2026-07-16 14:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184753
-
 ## Citatos
 
 - id: c-184753
@@ -91,5 +77,20 @@ Jau lietuviai ir žemaičiai tankyn vien pradėjo Padaugavį lankyti, kaipogi t�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201403"></a>
+- t-001
+  teiginys: "Jau lietuviai ir žemaičiai tankyn vien pradėjo Padaugavį lankyti, kaipogi tą pačią žiemą traukiant 2000 jų joties pro Rygą grobio grieti į Igumių žemę, jų karvedys Svelgotė, kunigaikštis Žagarės ir Jel gavos, apsidrąsinęs iki pat Rygos angos atjojo, ku rio."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184753
+

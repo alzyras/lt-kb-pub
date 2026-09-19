@@ -55,9 +55,9 @@ ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), ned
     - c-169747
 
 <a id="claim-t-186398"></a>
-- t-002
+- t-186398
   teiginys: "Traidenis apibūdintas kaip pašėlęs, nedorovingas, prakeiktas ir negailestingas Lietuvos valdovas."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
@@ -74,9 +74,9 @@ ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), ned
     - c-169747
 
 <a id="claim-t-186399"></a>
-- t-003
+- t-186399
   teiginys: "Ipatijaus kronika prie 1270 m. pradžios rašė, kad Lietuvoje pradėjo valdyti pašėlęs, nedorovingas, prakeiktas ir negailestingas Traidenis."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
@@ -93,9 +93,9 @@ ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), ned
     - c-169747
 
 <a id="claim-t-186400"></a>
-- t-004
+- t-186400
   teiginys: "Ipatijaus metraštis prie 1270 m. pradžios pažymi, kad Lietuvoje pradėjo valdyti Traidenis."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
@@ -128,12 +128,14 @@ ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), ned
     ruoliais : « Sirijos Antiochu, Jeruzalės Erodu, Romos Neronu »^227.
   citata_rodoma: "Pagal\nIpatijų, keturi Traidenio broliai (Borza, Sirputis, Lesis, Svilkenis)\nesą buvę krikščionys, kilnus ir geri vyrai^225 Bet toji kronika nepa­\ngailėjo piktų žodžių pačiam Traideniui. Prie 1270 m. ji pradžioje\npažymi : « Lietuvoje pradėjo valdyti pašėlęs _(okajauyj),_ nedorovingas,\nprakeiktas ir negailestingas Traidenis ». Jis ten lyginamas su žiau­\nruoliais : « Sirijos Antiochu, Jeruzalės Erodu, Romos Neronu »^227."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
-    - t-002
-    - t-003
-    - t-004
+    - t-186398
+    - t-186399
+    - t-186400
+

@@ -44,23 +44,6 @@ M. Liubavskio nuomone, 1445–1446 m. suvažiavimas žymėjo naują Lietuvos Sei
 
 M. Liubavskio nuomone, 1445–1446 m. suvažiavimas žymėjo naują Lietuvos Seimo istorijos etapą – visuotinio Seimo pradžią.
 
-## Teiginiai
-
-<a id="claim-t-204411"></a>
-- t-001
-  teiginys: "M. Liubavskio nuomone, 1445–1446 m. suvažiavimas žymėjo naują Lietuvos Seimo istorijos etapą – visuotinio Seimo pradžią."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  temporaliniai_duomenys: "įvykio data: 1446 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys yra taisyklingas ir aiškiai atriboja interpretaciją nuo neutralaus fakto. Išlaikyta M. Liubavskio nuomonės atribucija."
-  pagrindžia:
-    - c-187015
-
 ## Citatos
 
 - id: c-187015
@@ -85,5 +68,23 @@ M. Liubavskio nuomone, 1445–1446 m. suvažiavimas žymėjo naują Lietuvos Sei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204411"></a>
+- t-001
+  teiginys: "M. Liubavskio nuomone, 1445–1446 m. suvažiavimas žymėjo naują Lietuvos Seimo istorijos etapą – visuotinio Seimo pradžią."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1446 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys yra taisyklingas ir aiškiai atriboja interpretaciją nuo neutralaus fakto. Išlaikyta M. Liubavskio nuomonės atribucija."
+  pagrindžia:
+    - c-187015
+

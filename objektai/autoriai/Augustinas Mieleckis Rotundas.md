@@ -46,10 +46,26 @@ canonical_biography: "„Visa, ką maniau būsiant reikalinga tėvynei ir ką ma
 
 ## Teiginiai
 
-<a id="claim-t-87998"></a>
-- t-001
-  teiginys: "1560 m. vasario 12 d. Vilniaus vaitas Augustinas Mieleckis Rotundas Mikalojui Radvilai įteikė savo Lietuvos istoriją, kurios rankraštis yra dingęs."
+<a id="claim-t-88000"></a>
+- t-003
+  teiginys: "Augustinas Rotundas Mieleckis dokumente įvardytas abiejų teisių daktaru, karaliaus sekretoriumi, Stakliškių seniūnu ir Vilniaus vaitu."
   atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Augustinas Rotundas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Augustinas Mieleckis Rotundas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Augustinas Rotundas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustinas Mieleckis Rotundas\" parinktas kaip owner_note_path. Targetas \"Augustinas Rotundas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-83979
+
+<a id="claim-t-87998"></a>
+- t-87998
+  teiginys: "1560 m. vasario 12 d. Vilniaus vaitas Augustinas Mieleckis Rotundas Mikalojui Radvilai įteikė savo Lietuvos istoriją, kurios rankraštis yra dingęs."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -67,9 +83,9 @@ canonical_biography: "„Visa, ką maniau būsiant reikalinga tėvynei ir ką ma
     - c-83980
 
 <a id="claim-t-87999"></a>
-- t-002
+- t-87999
   teiginys: "Augustinas Mieleckis Rotundas buvo bajorų kilmės, nes miesto aktuose prie jo pavardės buvo pridedama „Nobilis“."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bajorai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -81,22 +97,6 @@ canonical_biography: "„Visa, ką maniau būsiant reikalinga tėvynei ir ką ma
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
   pagrindžia:
     - c-83977
-
-<a id="claim-t-88000"></a>
-- t-003
-  teiginys: "Augustinas Rotundas Mieleckis dokumente įvardytas abiejų teisių daktaru, karaliaus sekretoriumi, Stakliškių seniūnu ir Vilniaus vaitu."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Augustinas Rotundas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Augustinas Mieleckis Rotundas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Augustinas Rotundas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Augustinas Mieleckis Rotundas\" parinktas kaip owner_note_path. Targetas \"Augustinas Rotundas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-83979
 
 ## Citatos
 
@@ -123,8 +123,8 @@ canonical_biography: "„Visa, ką maniau būsiant reikalinga tėvynei ir ką ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-87999
 
 - id: c-83978
   autorius: "Michał Baliński"
@@ -156,8 +156,8 @@ canonical_biography: "„Visa, ką maniau būsiant reikalinga tėvynei ir ką ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-87998
 
 - id: c-83979
   autorius: "Michał Baliński"
@@ -187,11 +187,12 @@ canonical_biography: "„Visa, ką maniau būsiant reikalinga tėvynei ir ką ma
     nostro sua sigilla apponerent. Georgius Radziwił Episcopus
     Vilnen. Dux Olicae manu propria.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-83980
@@ -228,5 +229,6 @@ canonical_biography: "„Visa, ką maniau būsiant reikalinga tėvynei ir ką ma
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-87998
+

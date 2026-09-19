@@ -46,21 +46,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-205899"></a>
-- t-001
-  teiginys: "1292 m., praėjus beveik penkioms dienoms po Šventosios Dvasios Atsiuntimo dienos, lietuviai įsibrovė į Lenčicą, kai žmonės buvo susirinkę bažnyčioje ir vyko iškilminga procesija."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188514
-
 ## Santrauka
 
 1292 m., praėjus beveik penkioms dienoms po Šventosios Dvasios Atsiuntimo dienos, lietuviai įsibrovė į Lenčicą, kai žmonės buvo susirinkę bažnyčioje ir vyko iškilminga procesija.
@@ -87,5 +72,21 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205899"></a>
+- t-001
+  teiginys: "1292 m., praėjus beveik penkioms dienoms po Šventosios Dvasios Atsiuntimo dienos, lietuviai įsibrovė į Lenčicą, kai žmonės buvo susirinkę bažnyčioje ir vyko iškilminga procesija."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188514
+

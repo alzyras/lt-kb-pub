@@ -60,27 +60,10 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
   pagrindžia:
     - c-05786
 
-<a id="claim-t-05239"></a>
-- t-002
-  teiginys: "Vytautas žadėjo Tochtamišą pasodinti Aukso ordoje ir tikėjosi už tai įtakos Maskvoje."
-  atnaujinta: "2026-05-31 12:01"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Tochtamišas: 0.78"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Tochtamišas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Claimas tiesiogiai nurodo Vytauto pažadą pasodinti Tochtamišą valdžioje, tai reiškia paramą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) rėmė Tochtamišas (0.78)"
-  pagrindžia:
-    - c-05787
-
 <a id="claim-t-05240"></a>
-- t-003
+- t-05240
   teiginys: "Lemiamasis Vytauto žygis, siekęs pasodinti Tochtamišą Aukso ordoje, baigėsi nesėkme."
-  atnaujinta: "2026-05-31 12:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -93,10 +76,26 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
   pagrindžia:
     - c-05788
 
+<a id="claim-t-12353"></a>
+- t-12353
+  teiginys: "Aukso Orda šiame šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi totorių valstybė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Totoriai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Auksinė Orda: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Totoriai: mention_match, group, gap=68"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Auksinė Orda\" parinktas kaip owner_note_path. Targetas \"Totoriai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-14960
+
 <a id="claim-t-12354"></a>
-- t-004
+- t-12354
   teiginys: "Tamerlano smūgis išvijo Tochtamyšą, o Auksinėje Ordoje buvo pasodintas naujas valdovas."
-  atnaujinta: "2026-06-01 14:44"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Auksinė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -109,10 +108,26 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
   pagrindžia:
     - c-14961
 
+<a id="claim-t-12355"></a>
+- t-12355
+  teiginys: "Vytauto įtaka šiame pasakojime siejama ir su Aukso Orda."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aukso orda: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Auksinė Orda: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Aukso orda: mention_match, group, gap=6"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Auksinė Orda\" parinktas kaip owner_note_path. Targetas \"Aukso orda\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-14962
+
 <a id="claim-t-92025"></a>
-- t-005
+- t-92025
   teiginys: "Jonas III sudarė sąjungą su Perekopo chanu ir sunaikino Auksinę Ordą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Auksinė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -130,9 +145,9 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
     - c-87638
 
 <a id="claim-t-92026"></a>
-- t-006
+- t-92026
   teiginys: "Po Tamerlano žygių Auksinėje Ordoje buvo pasodintas Koiridžakas-Aglenas, o po jo - Kotlogas-Timuras."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Auksinė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -146,9 +161,9 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
     - c-87634
 
 <a id="claim-t-92027"></a>
-- t-007
+- t-92027
   teiginys: "Tamerlanas išvijo Auksinės Ordos valdytoją Tochtamyšą, kuris buvo įsigalėjęs Rytų Europoje ir valdė nemažus rusų žemių plotus."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Auksinė: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -160,29 +175,6 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-87636
-
-<a id="claim-t-187705"></a>
-- t-008
-  teiginys: "Komentare Achmatas apibūdinamas kaip Aukso ordos chanas 1459–1481 m., Kazimiero Jogailaičio sąjungininkas ir 1480 m. žygio prie Ugros dalyvis."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> chanas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Auksinė Orda: owner_note_path, group"
-  ryšio_targeto_parinkimas: "chanas: mention_match, thing, gap=50"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Auksinė Orda\" parinktas kaip owner_note_path. Targetas \"chanas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  temporaliniai_duomenys: "įvykio data: 1459-1481; įvykio data: 1480 m.; įvykio data: 1481 m.; įvykio data: 1503 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Valdovo titulas ir politinis apibūdinimas palikti su komentaro atribucija. Sąmoningai neperimtas motyvinis teiginys apie siekį pajungti Maskvą kaip neutralus faktas."
-  vertinimo_atnaujinta: "2026-06-17T07:18:43Z"
-  pagrindžia:
-    - c-170644
 
 ## Citatos
 
@@ -200,11 +192,12 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
     didesnių nuostolių.
   citata_rodoma: "Kai nuo XIV amž. galo totorių valstybė (Aukso\nOrda) ėmė silpti, atrodė, kad Vytauto Didžiojo laikais sutelktoji\njėga sudrebins pagaliau ir pačios Maskvos valstybę iš pamatų."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-05787
@@ -224,8 +217,6 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-05788
   autorius: "Zenonas Ivinskis"
@@ -247,8 +238,8 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-05240
 
 - id: c-14960
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -269,6 +260,9 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-12353
+
 - id: c-14961
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -289,8 +283,8 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-12354
 
 - id: c-14962
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -313,6 +307,9 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-12355
+
 - id: c-87634
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -332,8 +329,8 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-92026
 
 - id: c-87636
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -354,8 +351,8 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-92027
 
 - id: c-87638
   redaktorius: "A. Šapoka"
@@ -375,8 +372,8 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-92025
 
 - id: c-170644
   autorius: "Anoniminis metraštininkas"
@@ -397,8 +394,6 @@ Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Volynė]]

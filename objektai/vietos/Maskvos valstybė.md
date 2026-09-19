@@ -43,23 +43,6 @@ Eustachijus Daškovičius, kaltintas valdovo išdavyste, prieš 1504 m. Brastos 
 
 Eustachijus Daškovičius, kaltintas valdovo išdavyste, prieš 1504 m. Brastos seimo išteisinimą buvo pabėgęs į Maskvos valstybę.
 
-## Teiginiai
-
-<a id="claim-t-203971"></a>
-- t-001
-  teiginys: "Eustachijus Daškovičius, kaltintas valdovo išdavyste, prieš 1504 m. Brastos seimo išteisinimą buvo pabėgęs į Maskvos valstybę."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
-  temporaliniai_duomenys: "įvykio data: 1504 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus ir aiškiai nurodo Eustachijaus Daškovičiaus kaltinimą, pabėgimą bei vėlesnį išteisinimą. Papildomų faktų nepridėta."
-  pagrindžia:
-    - c-186575
-
 ## Citatos
 
 - id: c-186575
@@ -76,5 +59,23 @@ Eustachijus Daškovičius, kaltintas valdovo išdavyste, prieš 1504 m. Brastos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203971"></a>
+- t-001
+  teiginys: "Eustachijus Daškovičius, kaltintas valdovo išdavyste, prieš 1504 m. Brastos seimo išteisinimą buvo pabėgęs į Maskvos valstybę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  temporaliniai_duomenys: "įvykio data: 1504 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra išsamus ir aiškiai nurodo Eustachijaus Daškovičiaus kaltinimą, pabėgimą bei vėlesnį išteisinimą. Papildomų faktų nepridėta."
+  pagrindžia:
+    - c-186575
+

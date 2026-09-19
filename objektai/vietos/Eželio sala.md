@@ -43,21 +43,6 @@ Galop 1234 me tų gruodžio 20-ąją padalijo kryžiuočiams ir Rygos mies tui E
 
 Galop 1234 me tų gruodžio 20-ąją padalijo kryžiuočiams ir Rygos mies tui Eželio salą.
 
-## Teiginiai
-
-<a id="claim-t-205337"></a>
-- t-001
-  teiginys: "Galop 1234 me tų gruodžio 20-ąją padalijo kryžiuočiams ir Rygos mies tui Eželio salą."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
-  pagrindžia:
-    - c-187798
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Galop 1234 me tų gruodžio 20-ąją padalijo kryžiuočiams ir Rygos mies tui Eželio salą.'
@@ -95,5 +80,21 @@ Galop 1234 me tų gruodžio 20-ąją padalijo kryžiuočiams ir Rygos mies tui E
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205337"></a>
+- t-001
+  teiginys: "Galop 1234 me tų gruodžio 20-ąją padalijo kryžiuočiams ir Rygos mies tui Eželio salą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:39Z"
+  pagrindžia:
+    - c-187798
+

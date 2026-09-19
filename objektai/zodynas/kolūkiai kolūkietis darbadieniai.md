@@ -35,44 +35,6 @@ media_all_json: |-
 
 Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 proc., o metų pabaigoje – jau 62 proc. Varu varomi į kolūkius valstiečiai nesistengė sąžiningai dirbti, mažai uždirbdami, nepaisydami didelių bausmių, pradėjo vogti iš kolūkių (manyta, kad tai nėra nusikaltimas), neliko pagarbos darbui.
 
-## Teiginiai
-
-<a id="claim-t-22193"></a>
-- t-001
-  teiginys: "Kolūkietis be kolūkio vadovybės leidimo negalėjo išsikelti, o menką atlygį už darbadienius papildydavo pajamomis iš 0,6 ha sodybinio sklypo."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1949 m.; įvykio data: 1952 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata neremia pateiktų 1949 m. procentų, bet remia faktus apie kolūkiečio padėtį."
-  pagrindžia:
-    - c-166830
-
-<a id="claim-t-22194"></a>
-- t-002
-  teiginys: "Varu į kolūkius varomi valstiečiai mažai uždirbo, nesistengė sąžiningai dirbti ir, nepaisydami bausmių, pradėjo vogti iš kolūkių."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-24882
-
-<a id="claim-t-183435"></a>
-- t-003
-  teiginys: "1949 m. pradžioje į kolūkius buvo įstoję 4 proc. visų valstiečių, o metų pabaigoje - jau 62 proc."
-  atnaujinta: "2026-06-14 10:46"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1949 m.; įvykio data: 1952 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškiai pateikia 1949 m. valstiečių įstojimo į kolūkius kaitą."
-  pagrindžia:
-    - c-166830
-
 ## Citatos
 
 - id: c-24882
@@ -93,7 +55,7 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-166830
@@ -114,6 +76,45 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-003
+
+## Teiginiai
+
+<a id="claim-t-22193"></a>
+- t-001
+  teiginys: "Kolūkietis be kolūkio vadovybės leidimo negalėjo išsikelti, o menką atlygį už darbadienius papildydavo pajamomis iš 0,6 ha sodybinio sklypo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1949 m.; įvykio data: 1952 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata neremia pateiktų 1949 m. procentų, bet remia faktus apie kolūkiečio padėtį."
+  pagrindžia:
+    - c-166830
+
+<a id="claim-t-22194"></a>
+- t-002
+  teiginys: "Varu į kolūkius varomi valstiečiai mažai uždirbo, nesistengė sąžiningai dirbti ir, nepaisydami bausmių, pradėjo vogti iš kolūkių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-24882
+
+<a id="claim-t-183435"></a>
+- t-003
+  teiginys: "1949 m. pradžioje į kolūkius buvo įstoję 4 proc. visų valstiečių, o metų pabaigoje - jau 62 proc."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1949 m.; įvykio data: 1952 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškiai pateikia 1949 m. valstiečių įstojimo į kolūkius kaitą."
+  pagrindžia:
+    - c-166830
+

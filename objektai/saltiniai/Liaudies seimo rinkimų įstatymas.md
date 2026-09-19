@@ -26,20 +26,6 @@ media_all_json: |-
 
 Pagal rinkimų įstatymą išrinktais atstovais laikomi tie kandidatai, kurie gavo balsų daugumą.
 
-## Teiginiai
-
-<a id="claim-t-183363"></a>
-- t-001
-  teiginys: "Liaudies seimo rinkimų įstatymas numatė, kad išrinktais atstovais laikomi balsų daugumą gavę kandidatai."
-  atnaujinta: "2026-06-13 17:10"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-166756
-
 ## Citatos
 
 - id: c-166756
@@ -57,5 +43,20 @@ Pagal rinkimų įstatymą išrinktais atstovais laikomi tie kandidatai, kurie ga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-183363"></a>
+- t-001
+  teiginys: "Liaudies seimo rinkimų įstatymas numatė, kad išrinktais atstovais laikomi balsų daugumą gavę kandidatai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-166756
+

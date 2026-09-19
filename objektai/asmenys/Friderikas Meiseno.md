@@ -35,34 +35,6 @@ Teodoro Narbuto pasakojimu, apie šv. Joną iš Vokietijos atvyko markgrafas Fri
 
 Teodoro Narbuto pasakojimu, apie šv. Joną iš Vokietijos atvyko markgrafas Friderikas iš Meiseno, lydimas daugelio grafų, baronų ir penkių šimtų riterių. Teodoro Narbuto pasakojimu, dvi pilaitės prie Kauno buvo pastatytos markgrafo Frideriko ir Meiseno pulko garbei bei papuoštos markgrafo vėliava.
 
-## Teiginiai
-
-<a id="claim-t-206994"></a>
-- t-001
-  teiginys: "Teodoro Narbuto pasakojimu, apie šv. Joną iš Vokietijos atvyko markgrafas Friderikas iš Meiseno, lydimas daugelio grafų, baronų ir penkių šimtų riterių."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-189609
-
-<a id="claim-t-206995"></a>
-- t-002
-  teiginys: "Teodoro Narbuto pasakojimu, dvi pilaitės prie Kauno buvo pastatytos markgrafo Frideriko ir Meiseno pulko garbei bei papuoštos markgrafo vėliava."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-189610
-
 ## Citatos
 
 - id: c-189609
@@ -80,7 +52,7 @@ Teodoro Narbuto pasakojimu, apie šv. Joną iš Vokietijos atvyko markgrafas Fri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189610
@@ -97,5 +69,34 @@ Teodoro Narbuto pasakojimu, apie šv. Joną iš Vokietijos atvyko markgrafas Fri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-206994"></a>
+- t-001
+  teiginys: "Teodoro Narbuto pasakojimu, apie šv. Joną iš Vokietijos atvyko markgrafas Friderikas iš Meiseno, lydimas daugelio grafų, baronų ir penkių šimtų riterių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-189609
+
+<a id="claim-t-206995"></a>
+- t-002
+  teiginys: "Teodoro Narbuto pasakojimu, dvi pilaitės prie Kauno buvo pastatytos markgrafo Frideriko ir Meiseno pulko garbei bei papuoštos markgrafo vėliava."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-189610
+

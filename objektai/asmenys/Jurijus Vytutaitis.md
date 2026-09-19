@@ -42,29 +42,6 @@ canonical_biography: "Narbutas mini Jurijų Vytutaitį kaip lietuvių valdovą, 
 
 Narbutas mini Jurijų Vytutaitį kaip lietuvių valdovą, kuris apie 1342 metus valdė Pskovo žemę.
 
-## Teiginiai
-
-<a id="claim-t-190168"></a>
-- t-001
-  teiginys: "Narbutas mini Jurijų Vytutaitį kaip lietuvių valdovą, kuris apie 1342 metus valdė Pskovo žemę."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "valde -> Pskovas: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jurijus Vytutaitis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pskovas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Jurijus Vytutaitis valdė Pskovo žemę."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Jurijus Vytutaitis valdė Pskovas (0.93)"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173051
-
 ## Citatos
 
 - id: c-173051
@@ -85,8 +62,52 @@ Narbutas mini Jurijų Vytutaitį kaip lietuvių valdovą, kuris apie 1342 metus 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-200902
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 248"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 248."
+  citata_originali: |
+    Iškiliojoje pusėje
+    ženklas, panašus į vadinamojo biarmiškojo raidyno raidę A
+    arbatų, prie kurios yra dobilo lapelis. Tas žodis gali turėti ryšį
+    su Hirijos (Hirrya), arba Jurijos (Juhrya), šalimi, kuri buvo prie
+    Jūros upės, jai priklausė ir Jurbarkas. Buvo ir lietuvių valdo­
+    vų, turėjusių Jurijaus vardą, kaip antai Jurijus (Jurgis) Vytau-
+    taitis, kuris valdė Pskovo žemę apie 1342 metus27 28.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Jurijus Vytutaitis valdė [[objektai/vietos/Pskovas]]
+
+## Teiginiai
+
+<a id="claim-t-219767"></a>
+- t-001
+  teiginys: "Narbutas mini Jurijų Vytutaitį kaip lietuvių valdovą, kuris apie 1342 metus valdė Pskovo žemę."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "valde -> Pskovas: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jurijus Vytutaitis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pskovas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad Jurijus Vytutaitis valdė Pskovo žemę."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Jurijus Vytutaitis valdė Pskovas (0.93)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-200902
+

@@ -42,51 +42,6 @@ canonical_biography: "Dusburgietis teigia, kad įsidėmėk, kad apie 600 metus, 
 
 Dusburgietis teigia, kad įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė Mahometas, imperatorius Heraklijus patraukė į karą prieš Chosrovą, persų karalių, jį nugalėjo, o viešpaties kryžiaus dalį, kurią buvo paėmęs iš viešpaties šventovės, parsigabeno, atstatė dievo bažnyčias ir.
 
-## Teiginiai
-
-<a id="claim-t-60320"></a>
-- t-001
-  teiginys: "Apie 600 m. imperatorius Heraklijus nugalėjo persų karalių Chosrovą ir parsigabeno Viešpaties kryžiaus dalį."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "kariavo_pries -> Chosrovas: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Heraklijus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Chosrovas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Heraklijaus karą prieš Chosrovą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Heraklijus kariavo prieš Chosrovas (0.95)"
-  temporaliniai_duomenys: "įvykio data: 600 m; įvykio data: apie 600 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
-  pagrindžia:
-    - c-60952
-
-<a id="claim-t-184086"></a>
-- t-002
-  teiginys: "Apie 600 m. imperatorius Heraklijus atstatė Dievo bažnyčias ir sutvarkė Chosrovo nuniokotą Šventąją žemę."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "kariavo_pries -> Chosrovas: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Heraklijus: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Chosrovas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Heraklijaus karą prieš Chosrovą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Heraklijus kariavo prieš Chosrovas (0.95)"
-  temporaliniai_duomenys: "įvykio data: 600 m; įvykio data: apie 600 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citatos informacija."
-  pagrindžia:
-    - c-60952
-
 ## Citatos
 
 - id: c-60952
@@ -109,9 +64,48 @@ Dusburgietis teigia, kad įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė M
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
 
 ## Ryšiai
 - Heraklijus kariavo prieš [[objektai/asmenys/Chosrovas]]
+
+## Teiginiai
+
+<a id="claim-t-224660"></a>
+- t-001
+  teiginys: "Apie 600 m. imperatorius Heraklijus nugalėjo persų karalių Chosrovą ir parsigabeno Viešpaties kryžiaus dalį."
+  atnaujinta: "2026-09-13 18:13"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Chosrovas: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Heraklijus: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Chosrovas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Heraklijaus karą prieš Chosrovą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Heraklijus kariavo prieš Chosrovas (0.95)"
+  temporaliniai_duomenys: "įvykio data: 600 m; įvykio data: apie 600 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
+
+<a id="claim-t-225675"></a>
+- t-002
+  teiginys: "Apie 600 m. imperatorius Heraklijus atstatė Dievo bažnyčias ir sutvarkė Chosrovo nuniokotą Šventąją žemę."
+  atnaujinta: "2026-09-13 18:13"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "saltinio_teiginys"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "kariavo_pries -> Chosrovas: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Heraklijus: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Chosrovas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo Heraklijaus karą prieš Chosrovą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Heraklijus kariavo prieš Chosrovas (0.95)"
+  temporaliniai_duomenys: "įvykio data: 600 m; įvykio data: apie 600 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir paremtas citatos informacija."
+

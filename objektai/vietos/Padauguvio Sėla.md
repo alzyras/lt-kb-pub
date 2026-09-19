@@ -36,25 +36,6 @@ historical_names: []
 
 Užėmę Padauguvio Sėlą (tarp Dauguvos intakų Dysnos ir Egluonos), lietuviai nesustojo kairiajame Dauguvos kran­ te, bet, įkandin sekdami sėlius, persikėlė ir į dešinįjį Dauguvos šoną — Latgalon, ir gyveno Daugpilio apylinkėje (K.
 
-## Teiginiai
-
-<a id="claim-t-32431"></a>
-- t-001
-  teiginys: "Užėmę Padauguvio Sėlą tarp Dysnos ir Egluonos, lietuviai persikėlė į dešinįjį Dauguvos krantą ir gyveno Daugpilio apylinkėje."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "uzeme -> Padauguvio Sėla: 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Padauguvio Sėla: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginyje tiesiogiai pasakyta, kad lietuviai užėmė Padauguvio Sėlą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Lietuviai užėmė Padauguvio Sėla (0.96); Lietuviai gyveno Daugpilis (0.95); Lietuviai keliavo į Dauguva (0.78)"
-  pagrindžia:
-    - c-33987
-
 ## Citatos
 
 - id: c-33987
@@ -76,8 +57,28 @@ Užėmę Padauguvio Sėlą (tarp Dauguvos intakų Dysnos ir Egluonos), lietuviai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Užėmė Padauguvio Sėlą: [[objektai/grupes/Lietuviai]]
+
+## Teiginiai
+
+<a id="claim-t-32431"></a>
+- t-001
+  teiginys: "Užėmę Padauguvio Sėlą tarp Dysnos ir Egluonos, lietuviai persikėlė į dešinįjį Dauguvos krantą ir gyveno Daugpilio apylinkėje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "uzeme -> Padauguvio Sėla: 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Padauguvio Sėla: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginyje tiesiogiai pasakyta, kad lietuviai užėmė Padauguvio Sėlą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuviai užėmė Padauguvio Sėla (0.96); Lietuviai gyveno Daugpilis (0.95); Lietuviai keliavo į Dauguva (0.78)"
+  pagrindžia:
+    - c-33987
+

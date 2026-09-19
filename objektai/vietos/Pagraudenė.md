@@ -42,28 +42,6 @@ historical_names: []
 
 Pirmą kartą jį Dusburgas mini prie 1304 metų (356 lape), pasakodamas, kaip brolis Eberhardas de Virnemburgas nusiaubė Lietuvos valsčių, vadintą Pagraudenef: im­ provise intravit territorium Lettoviae, dictum Pograuden [neti­ kėtai įsiveržė į Lietuvos.
 
-## Teiginiai
-
-<a id="claim-t-86098"></a>
-- t-001
-  teiginys: "Dusburgas Pagraudenę pirmą kartą mini prie 1304 m., aprašydamas Eberhardo de Virnemburgo žygį į Lietuvos valsčių."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Pagraudenė: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Pagraudenė tiesiogiai apibūdinta kaip Lietuvos valsčius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Pagraudenė priklausė Lietuva (0.85); Eberhardas (Varmės vyskupas) puolė Lietuva (0.80); Eberhardas (Varmės vyskupas) puolė Pagraudenė (0.78)"
-  temporaliniai_duomenys: "įvykio data: 1304 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinta lotyniška ištrauka ir OCR triukšmas, paliktas aiškus faktas."
-  pagrindžia:
-    - c-82077
-
 ## Citatos
 
 - id: c-82077
@@ -89,5 +67,28 @@ Pirmą kartą jį Dusburgas mini prie 1304 metų (356 lape), pasakodamas, kaip b
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-86098"></a>
+- t-001
+  teiginys: "Dusburgas Pagraudenę pirmą kartą mini prie 1304 m., aprašydamas Eberhardo de Virnemburgo žygį į Lietuvos valsčių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.85"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Pagraudenė: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Pagraudenė tiesiogiai apibūdinta kaip Lietuvos valsčius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Pagraudenė priklausė Lietuva (0.85); Eberhardas (Varmės vyskupas) puolė Lietuva (0.80); Eberhardas (Varmės vyskupas) puolė Pagraudenė (0.78)"
+  temporaliniai_duomenys: "įvykio data: 1304 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinta lotyniška ištrauka ir OCR triukšmas, paliktas aiškus faktas."
+  pagrindžia:
+    - c-82077
+

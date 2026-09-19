@@ -42,21 +42,6 @@ Buvo imtasi statydinti naujiems gy nėjams būstą su įtvirtinimais jų pasirin
 
 Buvo imtasi statydinti naujiems gy nėjams būstą su įtvirtinimais jų pasirinktoje vietovėje, būtent kairiajame Vyslos krante, priešais dabartinę Torūnę, kurią pavadino Vogelsang, taį paėjo nuo „paukš čių .giedojimas“.
 
-## Teiginiai
-
-<a id="claim-t-205473"></a>
-- t-001
-  teiginys: "Buvo imtasi statydinti naujiems gy nėjams būstą su įtvirtinimais jų pasirinktoje vietovėje, būtent kairiajame Vyslos krante, priešais dabartinę Torūnę, kurią pavadino Vogelsang, taį paėjo nuo „paukš čių .giedojimas“."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
-  pagrindžia:
-    - c-187997
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Buvo imtasi statydinti naujiems gy nėjams būstą su įtvirtinimais jų pasirinktoje vietovėje, būtent kairiajame Vyslos krante, priešais dabartinę Torūnę, kurią pavadino Vogelsang, taį paėjo nuo „paukš čių .giedojimas“.'
@@ -94,5 +79,21 @@ Buvo imtasi statydinti naujiems gy nėjams būstą su įtvirtinimais jų pasirin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205473"></a>
+- t-001
+  teiginys: "Buvo imtasi statydinti naujiems gy nėjams būstą su įtvirtinimais jų pasirinktoje vietovėje, būtent kairiajame Vyslos krante, priešais dabartinę Torūnę, kurią pavadino Vogelsang, taį paėjo nuo „paukš čių .giedojimas“."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-187997
+

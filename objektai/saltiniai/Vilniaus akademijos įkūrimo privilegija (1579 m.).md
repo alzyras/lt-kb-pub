@@ -26,27 +26,6 @@ media_all_json: |-
 
 Privilegiją jėzuitams karalius davė būdamas Lenkijoje. Todėl kai 1578 m. Vilniaus jėzuitai per vysk.
 
-## Teiginiai
-
-<a id="claim-t-67569"></a>
-- t-001
-  teiginys: "Vilniaus akademijos privilegiją karalius iš pradžių davė jėzuitams būdamas Lenkijoje."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67424
-
-<a id="claim-t-67570"></a>
-- t-002
-  teiginys: "1578 m. Steponas Batoras leido Vilniaus jėzuitams įkurti akademiją ir davė privilegijos raštą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-67425
-
 ## Citatos
 
 - id: c-67424
@@ -65,7 +44,7 @@ Privilegiją jėzuitams karalius davė būdamas Lenkijoje. Todėl kai 1578 m. Vi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-67425
@@ -84,5 +63,27 @@ Privilegiją jėzuitams karalius davė būdamas Lenkijoje. Todėl kai 1578 m. Vi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-67569"></a>
+- t-001
+  teiginys: "Vilniaus akademijos privilegiją karalius iš pradžių davė jėzuitams būdamas Lenkijoje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67424
+
+<a id="claim-t-67570"></a>
+- t-002
+  teiginys: "1578 m. Steponas Batoras leido Vilniaus jėzuitams įkurti akademiją ir davė privilegijos raštą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-67425
+

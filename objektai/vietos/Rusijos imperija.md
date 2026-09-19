@@ -49,10 +49,49 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
 
 ## Teiginiai
 
+<a id="claim-t-208600"></a>
+- t-208600
+  teiginys: "Vyskupo Motiejaus Valančiaus laikais Žemaičių vyskupijos teritorija priklausė Rusijos imperijai ir Kauno gubernijai, išskyrus Kuršo ir Žiemgalių dekanatus, priklausiusius Kuršo gubernijai."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:50Z"
+  pagrindžia:
+    - c-191220
+
+<a id="claim-t-208601"></a>
+- t-208601
+  teiginys: "Petras Puzaras unitų likimą Rusijos imperijoje išsamiai aprašo kaip liūdną."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:50Z"
+  pagrindžia:
+    - c-191221
+
+<a id="claim-t-209299"></a>
+- t-209299
+  teiginys: "Egidijus Aleksandravičius Rusijos imperijos valdžios politiką sieja su ekonominiais ir politiniais sumetimais, kurie ne visada sutapo."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T11:31:50Z"
+  pagrindžia:
+    - c-192015
+
 <a id="claim-t-47170"></a>
-- t-001
+- t-47170
   teiginys: "1905 m. pradžioje Rusijos sostinėje prasidėjusi socialinė demokratinė revoliucija netrukus pasiekė Lietuvos miestus."
-  atnaujinta: "2026-05-23 13:41"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -68,9 +107,9 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
     - c-24448
 
 <a id="claim-t-47171"></a>
-- t-002
+- t-47171
   teiginys: "1897 m. Rusijos imperijos gyventojų surašymas parodė, kad skaityti mokėjo beveik pusė etninių lietuvių, o rusiškai skaitė tik kas penktas."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -87,9 +126,9 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
     - c-49692
 
 <a id="claim-t-47172"></a>
-- t-003
+- t-47172
   teiginys: "Rusijos imperijos valdžia 40 metų vykdė rusinimo politiką Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse."
-  atnaujinta: "2026-06-14 10:46"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -104,9 +143,9 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
     - c-24447
 
 <a id="claim-t-201663"></a>
-- t-004
+- t-201663
   teiginys: "Abiejų Tautų Respubliką ar kitaip vadinamą jungtinę Lenkijos ir Lietuvos valstybę sugriovė trys kaimynės - Rusija, Prūsija ir Austrija, Kaunas su didžiąja Lietuvos dalimi pateko į Rusijos imperiją."
-  atnaujinta: "2026-07-19 10:18"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -138,8 +177,8 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-47172
 
 - id: c-24448
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -159,8 +198,8 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-47170
 
 - id: c-49692
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -184,8 +223,8 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-47171
 
 - id: c-185010
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -203,5 +242,81 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-201663
+
+- id: c-191220
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 16"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 16."
+  citata_originali: |
+    Katalikų bažnyčios veiklos sąlygos
+    Žemaičių vyskupijoje 1850—1875 m.
+    Vysk. M. Valančiaus laikais Žemaičių vyskupijos te­
+    ritorija priklausė Rusijos imperijai, Kauno gubernijai (iš­
+    skyrus Kuršo ir Žiemgalių dekanatus, kurie priklausė
+    Kuršo gubernijai). Kauno gubernatorius buvo pavaldus
+    Vilniaus generalgubernatoriui, o Kuršo gubernatorius —
+    Rygos generalgubernatoriui.
+  citata_rodoma: "Vysk. M. Valančiaus laikais Žemaičių vyskupijos te­\nritorija priklausė Rusijos imperijai, Kauno gubernijai (iš­\nskyrus Kuršo ir Žiemgalių dekanatus, kurie priklausė \nKuršo gubernijai). Kauno gubernatorius buvo pavaldus \nVilniaus generalgubernatoriui, o Kuršo gubernatorius — \nRygos generalgubernatoriui."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208600
+
+- id: c-191221
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 102"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 102."
+  citata_originali: |
+    Dar dvi laidos pasirodė 1889 ir
+    1892 m. 1 2
+    Vysk. M. Valančius, pasivadinęs rašytoju, brošiūroje
+    vaizduoja Lietuvos ir Žemaičių katalikų padėtį, prade­
+    dant nuo 1794 m. Autorius apibūdina visus to laikotarpio
+    carus, nurodydamas, kuris jų ir kaip varžė Katalikų Baž­
+    nyčios veiklą Lietuvoje ir Žemaičiuose. Taip pat išsamiai
+    papasakoja liūdną unitų likimą Rusijos imperijoje.
+  citata_rodoma: "Taip pat išsamiai \npapasakoja liūdną unitų likimą Rusijos imperijoje."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208601
+
+- id: c-192015
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 92"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 92."
+  citata_originali: |
+    Tad K. Giečio
+    žodžiuose apie katalikiškos visuomenės atgimimą blaivybės akcijos
+    pavidalu yra tiesos.
+    5.
+    Rusijos vyriausybės pozicija masinio blaivybės
+    judėjimo atžvilgiu
+    Rusijos imperijos valdžios politiką lėmė ekonominiai ir
+    politiniai sumetimai, o jie ne visada sutapo.
+  citata_rodoma: "Rusijos imperijos valdžios politiką lėmė ekonominiai ir \npolitiniai sumetimai, o jie ne visada sutapo."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209299
+

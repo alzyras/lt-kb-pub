@@ -39,20 +39,6 @@ canonical_biography: "Vis dėlto šis, jau vieną kartą nustumtas Abraomo Jezof
 
 Vis dėlto šis, jau vieną kartą nustumtas Abraomo Jezofavičiaus, turėjo vėl trauktis, nes Kauno pilis ir seniūno pareigos buvo pavestos minėtam Jurijui Iliničiui.
 
-## Teiginiai
-
-<a id="claim-t-202125"></a>
-- t-001
-  teiginys: "Vis dėlto šis, jau vieną kartą nustumtas Abraomo Jezofavičiaus, turėjo vėl trauktis, nes Kauno pilis ir seniūno pareigos buvo pavestos minėtam Jurijui Iliničiui."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185472
-
 ## Citatos
 
 - id: c-185472
@@ -69,5 +55,20 @@ Vis dėlto šis, jau vieną kartą nustumtas Abraomo Jezofavičiaus, turėjo vė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202125"></a>
+- t-001
+  teiginys: "Vis dėlto šis, jau vieną kartą nustumtas Abraomo Jezofavičiaus, turėjo vėl trauktis, nes Kauno pilis ir seniūno pareigos buvo pavestos minėtam Jurijui Iliničiui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185472
+

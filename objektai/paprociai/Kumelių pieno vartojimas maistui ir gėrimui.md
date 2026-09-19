@@ -48,21 +48,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-194941"></a>
-- t-001
-  teiginys: "Maistui ir gėrimui, gal sekdami budinais, vartojo kumelių pieną."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-177337
-
 ## Citatos
 
 - id: c-177337
@@ -83,5 +68,41 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-194483
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 79"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 79."
+  citata_originali: |
+    Maistui ir gėrimui, gal sekdami budi-
+    nais, vartojo kumelių pieną. Tą sveiką gyvulinės kilmės
+    produktą nuo masagetų ir tisagetų gyvavimo laikų vi­
+    suomet labai vertino ir dabar tebevertina šiaurės rytų
+    gyventojai. Tokiame piene, sumaišius jį su dar šiltu ir
+    šviežiu arklio krauju, vyksta spiritinė fermentacija, todėl
+    destiliuojant galima pagaminti svaiginantį gėrimą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-214868"></a>
+- t-001
+  teiginys: "Maistui ir gėrimui, gal sekdami budinais, vartojo kumelių pieną."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-194483
+

@@ -28,34 +28,6 @@ Anot Teodoro Narbuto minimų krašto padavimų, Dausprungo giminės kunigaikšč
 
 Anot Teodoro Narbuto minimų krašto padavimų, Dausprungo giminės kunigaikščių valdoma Lietuvos Užnerio kunigaikštystė visą savo galią parodė valdant Uteniui, vadintam Dangeručiu ir laikytam Utenos tėvoniniu valdovu. Teodoro Narbuto vertinimu, Dausprungo palikuonių sukurta Lietuvos Užnerio kunigaikštystė buvo svarbiausias Lietuvos ir Žemaitijos skydas nuo krikščionybės skelbėjų, šį tikėjimą lietuvių tautai skleidusių su kardu rankose.
 
-## Teiginiai
-
-<a id="claim-t-205882"></a>
-- t-001
-  teiginys: "Anot Teodoro Narbuto minimų krašto padavimų, Dausprungo giminės kunigaikščių valdoma Lietuvos Užnerio kunigaikštystė visą savo galią parodė valdant Uteniui, vadintam Dangeručiu ir laikytam Utenos tėvoniniu valdovu."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
-  pagrindžia:
-    - c-188497
-
-<a id="claim-t-205883"></a>
-- t-002
-  teiginys: "Teodoro Narbuto vertinimu, Dausprungo palikuonių sukurta Lietuvos Užnerio kunigaikštystė buvo svarbiausias Lietuvos ir Žemaitijos skydas nuo krikščionybės skelbėjų, šį tikėjimą lietuvių tautai skleidusių su kardu rankose."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
-  pagrindžia:
-    - c-188498
-
 ## Citatos
 
 - id: c-188497
@@ -77,7 +49,7 @@ Anot Teodoro Narbuto minimų krašto padavimų, Dausprungo giminės kunigaikšč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188498
@@ -102,5 +74,34 @@ Anot Teodoro Narbuto minimų krašto padavimų, Dausprungo giminės kunigaikšč
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-205882"></a>
+- t-001
+  teiginys: "Anot Teodoro Narbuto minimų krašto padavimų, Dausprungo giminės kunigaikščių valdoma Lietuvos Užnerio kunigaikštystė visą savo galią parodė valdant Uteniui, vadintam Dangeručiu ir laikytam Utenos tėvoniniu valdovu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188497
+
+<a id="claim-t-205883"></a>
+- t-002
+  teiginys: "Teodoro Narbuto vertinimu, Dausprungo palikuonių sukurta Lietuvos Užnerio kunigaikštystė buvo svarbiausias Lietuvos ir Žemaitijos skydas nuo krikščionybės skelbėjų, šį tikėjimą lietuvių tautai skleidusių su kardu rankose."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188498
+

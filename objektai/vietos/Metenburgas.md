@@ -36,25 +36,6 @@ historical_names: []
 
 Dar vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi pilis: Naująjį Gardiną ir Metenburgą (Meteną), kame buvo pa­ talpintos kryžiuočių įgulos.
 
-## Teiginiai
-
-<a id="claim-t-36406"></a>
-- t-001
-  teiginys: "Ordino magistras liepė netoli Gardino pastatyti Metenburgą, kuriame buvo įkurdinta kryžiuočių įgula."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Metenburgas: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Metenburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatoje Ordino magistras įsakė pastatyti Metenburgą; magistras laikomas Ordino veikėju."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kryžiuočių ordinas pastatė Metenburgas (0.84)"
-  pagrindžia:
-    - c-38567
-
 ## Citatos
 
 - id: c-38567
@@ -78,8 +59,28 @@ Dar vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi pilis: N
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/grupes/Kryžiuočių ordinas]]
+
+## Teiginiai
+
+<a id="claim-t-36406"></a>
+- t-001
+  teiginys: "Ordino magistras liepė netoli Gardino pastatyti Metenburgą, kuriame buvo įkurdinta kryžiuočių įgula."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Metenburgas: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Metenburgas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatoje Ordino magistras įsakė pastatyti Metenburgą; magistras laikomas Ordino veikėju."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kryžiuočių ordinas pastatė Metenburgas (0.84)"
+  pagrindžia:
+    - c-38567
+

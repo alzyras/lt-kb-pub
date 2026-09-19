@@ -55,18 +55,6 @@ Linartai šiame šaltinyje vaizduojami kaip du broliai, mėgę išgerti, stokoj�
 
 Šeima ar brolių grupė.
 
-## Teiginiai
-
-<a id="claim-t-195510"></a>
-- t-001
-  teiginys: "Vienas Linartas, atgynęs nuo kivirčo, pritapo prie geriančios draugijos."
-  atnaujinta: "2026-07-12 04:52"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177932
-
 ## Citatos
 
 - id: c-177930
@@ -88,6 +76,9 @@ Linartai šiame šaltinyje vaizduojami kaip du broliai, mėgę išgerti, stokoj�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
 - id: c-177931
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -107,6 +98,9 @@ Linartai šiame šaltinyje vaizduojami kaip du broliai, mėgę išgerti, stokoj�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
 - id: c-177932
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -120,5 +114,40 @@ Linartai šiame šaltinyje vaizduojami kaip du broliai, mėgę išgerti, stokoj�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-002
+    - t-003
+
+## Teiginiai
+
+<a id="claim-t-195508"></a>
+- t-001
+  teiginys: "Linartų pasakojimas šaltinyje siejamas su Ažytėnų muštynių ir girtavimo ratu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177931
+
+<a id="claim-t-195509"></a>
+- t-002
+  teiginys: "Linartai buvo du broliai, mėgę išgerti ir stokoję pinigų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177930
+    - c-177932
+
+<a id="claim-t-195510"></a>
+- t-003
+  teiginys: "Vienas Linartas, atgynęs nuo kivirčo, pritapo prie geriančios draugijos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177932
+

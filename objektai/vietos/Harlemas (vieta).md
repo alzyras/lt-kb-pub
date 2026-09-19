@@ -58,3 +58,42 @@ Harlemo laikraščiuose buvo publikuojami A. Midletono parengti straipsniai.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-191006
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 280"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 280."
+  citata_originali: |
+    Sekretoriaus pareigos ir pasiuntinybės reikalų tvarkymas buvo tik viena
+    jo veiklos pusė. Kitą darbo dalį sudarė aktyvus bendradarbiavimas su užsienio
+    spauda siekiant suformuoti teigiamą Stanislovo Augusto dvaro grupuotės politikos
+    ir įgyvendinamų reformų įvaizdį užsienyje: puikiai mokėdamas prancūzų kalbą,
+    A . Midletonas vertė Seimo nutarimus, pasiuntinių kalbas, rengė pranešimus
+    spaudai ir rašė straipsnius, kuriuos publikuodavo įvairiuose Amsterdamo, Harlemo
+    bei Hagos laikraščiuose.
+  citata_rodoma: "A . Midletonas vertė Seimo nutarimus, pasiuntinių kalbas, rengė pranešimus \nspaudai ir rašė straipsnius, kuriuos publikuodavo įvairiuose Amsterdamo, Harlemo \nbei Hagos laikraščiuose."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-208263"></a>
+- t-001
+  teiginys: "Harlemo laikraščiuose buvo publikuojami A. Midletono parengti straipsniai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-191006
+

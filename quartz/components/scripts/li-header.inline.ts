@@ -28,6 +28,20 @@ function setupLIHeader() {
       trigger.setAttribute("aria-expanded", open ? "true" : "false")
     }
 
+    menu.addEventListener("pointerenter", () => {
+      if (window.matchMedia("(hover: hover)").matches) setOpen(true)
+    })
+    menu.addEventListener("pointerleave", () => {
+      if (!menu.contains(document.activeElement)) setOpen(false)
+    })
+    menu.addEventListener("keydown", (event) => {
+      if (event.key === "Escape") {
+        event.preventDefault()
+        setOpen(false)
+        trigger.focus()
+      }
+    })
+
     trigger.addEventListener("click", (event) => {
       if (
         window.matchMedia("(hover: none), (pointer: coarse)").matches &&

@@ -39,20 +39,6 @@ Rostislavas Michailovičius buvo tėvo pasodintas į Haličo kunigaikštystės s
 
 Rostislavas Michailovičius buvo tėvo pasodintas į Haličo kunigaikštystės sostą.
 
-## Teiginiai
-
-<a id="claim-t-206108"></a>
-- t-001
-  teiginys: "Rostislavas Michailovičius buvo tėvo pasodintas į Haličo kunigaikštystės sostą."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-188723
-
 ## Citatos
 
 - id: c-188723
@@ -72,5 +58,20 @@ Rostislavas Michailovičius buvo tėvo pasodintas į Haličo kunigaikštystės s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206108"></a>
+- t-001
+  teiginys: "Rostislavas Michailovičius buvo tėvo pasodintas į Haličo kunigaikštystės sostą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188723
+

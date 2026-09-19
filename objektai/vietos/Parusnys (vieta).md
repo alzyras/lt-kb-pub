@@ -44,20 +44,6 @@ historical_names: []
 
 Užkariavę kryžėjai Parusnį ir Padaugavį ne vien tikybos nemokė, bet dar užgynė tokius darbus kne binėti, nuo kurių žmogus gal kokį tokį akylumą įgyti.
 
-## Teiginiai
-
-<a id="claim-t-201129"></a>
-- t-001
-  teiginys: "Užkariavę kryžėjai Parusnį ir Padaugavį ne vien tikybos nemokė, bet dar užgynė tokius darbus kne binėti, nuo kurių žmogus gal kokį tokį akylumą įgyti."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184479
-
 ## Citatos
 
 - id: c-184479
@@ -84,5 +70,20 @@ Užkariavę kryžėjai Parusnį ir Padaugavį ne vien tikybos nemokė, bet dar u
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201129"></a>
+- t-001
+  teiginys: "Užkariavę kryžėjai Parusnį ir Padaugavį ne vien tikybos nemokė, bet dar užgynė tokius darbus kne binėti, nuo kurių žmogus gal kokį tokį akylumą įgyti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184479
+

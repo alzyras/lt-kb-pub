@@ -43,34 +43,6 @@ Atėjus laikui skirti naują vyskupą, Bremeno arkivyskupas pa skelbė juo savo 
 
 Atėjus laikui skirti naują vyskupą, Bremeno arkivyskupas pa skelbė juo savo seserėną, Bremeno kanauninką Albertą iš Apelderno. Albertas iš Apelderno buvo nuvykęs į Daniją pas karalių Knutą IV, kunigaikštį Voldemarą ir Lundo arkivyskupą Absoloną, kur pelnė ¡stiprią paramą ir brangių dovanų.
 
-## Teiginiai
-
-<a id="claim-t-205371"></a>
-- t-001
-  teiginys: "Albertas iš Apelderno buvo nuvykęs į Daniją pas karalių Knutą IV, kunigaikštį Voldemarą ir Lundo arkivyskupą Absoloną, kur pelnė ¡stiprią paramą ir brangių dovanų."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-187803
-
-<a id="claim-t-205469"></a>
-- t-002
-  teiginys: "Atėjus laikui skirti naują vyskupą, Bremeno arkivyskupas pa skelbė juo savo seserėną, Bremeno kanauninką Albertą iš Apelderno."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-188142
-
 ## Citatos
 
 - id: c-187803
@@ -94,7 +66,7 @@ Atėjus laikui skirti naują vyskupą, Bremeno arkivyskupas pa skelbė juo savo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188142
@@ -114,5 +86,34 @@ Atėjus laikui skirti naują vyskupą, Bremeno arkivyskupas pa skelbė juo savo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-205371"></a>
+- t-001
+  teiginys: "Albertas iš Apelderno buvo nuvykęs į Daniją pas karalių Knutą IV, kunigaikštį Voldemarą ir Lundo arkivyskupą Absoloną, kur pelnė ¡stiprią paramą ir brangių dovanų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-187803
+
+<a id="claim-t-205469"></a>
+- t-002
+  teiginys: "Atėjus laikui skirti naują vyskupą, Bremeno arkivyskupas pa skelbė juo savo seserėną, Bremeno kanauninką Albertą iš Apelderno."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188142
+

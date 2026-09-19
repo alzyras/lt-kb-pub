@@ -42,28 +42,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-185928"></a>
-- t-001
-  teiginys: "Per šv. Mykolo dieną Straisberge žuvo daug į bažnyčias susirinkusių žmonių, kai lietuviai apiplėšė miestą."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Straisbergas: 0.83"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Straisbergas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys sieja lietuvius su Straisberge vykusiu miesto apiplėšimu, kuris čia atitinka puolimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Lietuviai puolė Straisbergas (0.83)"
-  pagrindžia:
-    - c-169289
-
 ## Citatos
 
 - id: c-169289
@@ -87,5 +65,28 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-185928"></a>
+- t-001
+  teiginys: "Per šv. Mykolo dieną Straisberge žuvo daug į bažnyčias susirinkusių žmonių, kai lietuviai apiplėšė miestą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Straisbergas: 0.83"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Straisbergas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys sieja lietuvius su Straisberge vykusiu miesto apiplėšimu, kuris čia atitinka puolimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Lietuviai puolė Straisbergas (0.83)"
+  pagrindžia:
+    - c-169289
+

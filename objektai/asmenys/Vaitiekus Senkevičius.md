@@ -43,24 +43,6 @@ canonical_biography: "1792 m. Vaitiekus Senkevičius su Pranciška Senkevičiene
 
 1792 m. Vaitiekus ir Pranciška Senkevičiai gyveno Rydzevskio name už Rūdninkų vartų, kurį užpuolė Ignoto Želazovskio žmonės.
 
-## Teiginiai
-
-<a id="claim-t-203920"></a>
-- t-001
-  teiginys: "1792 m. Vaitiekus ir Pranciška Senkevičiai gyveno Rydzevskio name už Rūdninkų vartų, kurį užpuolė Ignoto Želazovskio žmonės."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  temporaliniai_duomenys: "gyvenimo laikotarpis: 1792 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Patikslintas namo užpuolimo kontekstas ir įvardyti užpuolikai. Išlaikyti tik citatoje nurodyti faktai."
-  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
-  pagrindžia:
-    - c-186524
-
 ## Citatos
 
 - id: c-186524
@@ -78,5 +60,24 @@ canonical_biography: "1792 m. Vaitiekus Senkevičius su Pranciška Senkevičiene
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203920"></a>
+- t-001
+  teiginys: "1792 m. Vaitiekus ir Pranciška Senkevičiai gyveno Rydzevskio name už Rūdninkų vartų, kurį užpuolė Ignoto Želazovskio žmonės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "gyvenimo laikotarpis: 1792 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslintas namo užpuolimo kontekstas ir įvardyti užpuolikai. Išlaikyti tik citatoje nurodyti faktai."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186524
+

@@ -24,7 +24,7 @@
   gap: 0.4rem;
   margin: 0 0 0.35rem;
   color: var(--secondary);
-  font: 800 0.72rem/1.2 var(--bodyFont);
+  font: 600 0.72rem/1.2 var(--bodyFont);
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
@@ -63,7 +63,7 @@
   flex: none;
   padding-bottom: 0.15rem;
   color: var(--dark);
-  font: 800 0.9rem/1 var(--bodyFont);
+  font: 600 0.9rem/1 var(--bodyFont);
 }
 
 .media-gallery-workspace {
@@ -162,7 +162,7 @@
   color: var(--dark);
   cursor: pointer;
   font-size: 0.8rem;
-  font-weight: 800;
+  font-weight: 600;
   list-style: none;
 }
 
@@ -186,7 +186,7 @@
   padding: 0.15rem 0.35rem;
   background: var(--secondary);
   color: #fff;
-  font-size: 0.66rem;
+  font-size: 0.75rem;
   text-align: center;
 }
 
@@ -306,7 +306,7 @@
   background: transparent;
   color: var(--secondary);
   cursor: pointer;
-  font-size: 0.72rem;
+  font-size: 0.75rem;
   font-weight: 750;
   text-decoration: underline;
   text-underline-offset: 0.18em;
@@ -546,7 +546,7 @@
   display: -webkit-box;
   overflow: hidden;
   font-size: 0.82rem;
-  font-weight: 800;
+  font-weight: 600;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 2;
 }
@@ -561,7 +561,7 @@
   padding: 0.55rem 0.65rem 1.5rem;
   background: linear-gradient(to bottom, rgb(0 0 0 / 78%), transparent);
   color: #fff;
-  font-size: 0.67rem;
+  font-size: 0.75rem;
   opacity: 0;
   transition: opacity 150ms ease;
 }
@@ -674,7 +674,7 @@ body.media-viewer-exhibition-slideshow .pswp__button--slideshow-fullscreen {
   display: block;
   color: #fff;
   font-size: 1.08rem;
-  font-weight: 800;
+  font-weight: 600;
   line-height: 3rem;
   text-align: center;
 }
@@ -772,7 +772,7 @@ body.media-viewer-exhibition-slideshow .media-viewer-exhibition-description {
 .media-viewer-kicker {
   margin: 0 0 0.65rem;
   color: #ff765c;
-  font: 800 0.66rem/1 var(--bodyFont);
+  font: 600 0.66rem/1 var(--bodyFont);
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
@@ -821,7 +821,7 @@ body.media-viewer-exhibition-slideshow .media-viewer-exhibition-description {
   cursor: pointer;
   color: #f4efe9;
   font-size: 0.78rem;
-  font-weight: 800;
+  font-weight: 600;
 }
 .media-viewer-facts,
 .media-viewer-provenance dl,
@@ -857,7 +857,7 @@ body.media-viewer-exhibition-slideshow .media-viewer-exhibition-description {
 .media-viewer-section h3 {
   margin: 0 0 0.7rem;
   color: #d2ccc4;
-  font: 800 0.68rem/1 var(--bodyFont);
+  font: 600 0.68rem/1 var(--bodyFont);
   letter-spacing: 0.06em;
   text-transform: uppercase;
 }
@@ -884,7 +884,7 @@ body.media-viewer-exhibition-slideshow .media-viewer-exhibition-description {
   border-radius: 2px;
   background: rgb(255 118 92 / 8%);
   color: #ff9a85;
-  font-size: 0.72rem;
+  font-size: 0.75rem;
   font-weight: 750;
   text-decoration: none;
 }
@@ -933,7 +933,7 @@ body.media-viewer-exhibition-slideshow .media-viewer-exhibition-description {
   padding-top: 1rem;
   border-top: 1px solid rgb(255 255 255 / 10%);
   color: #aaa49d;
-  font-size: 0.74rem;
+  font-size: 0.75rem;
 }
 .media-viewer-advanced summary {
   cursor: pointer;
@@ -1068,7 +1068,7 @@ body.media-viewer-exhibition-slideshow .media-viewer-exhibition-description {
 .media-detail-context h2 {
   margin: 0 0 0.7rem;
   color: var(--dark);
-  font: 800 0.72rem/1.2 var(--bodyFont);
+  font: 600 0.72rem/1.2 var(--bodyFont);
   letter-spacing: 0.06em;
   text-transform: uppercase;
 }
@@ -1092,7 +1092,7 @@ body.media-viewer-exhibition-slideshow .media-viewer-exhibition-description {
 }
 .media-detail-facts dt {
   color: var(--gray);
-  font-size: 0.68rem;
+  font-size: 0.75rem;
   font-weight: 750;
   text-transform: uppercase;
 }
@@ -1118,7 +1118,7 @@ body.media-viewer-exhibition-slideshow .media-viewer-exhibition-description {
   border: 1px solid var(--lightgray);
   border-radius: 999px;
   color: var(--darkgray);
-  font-size: 0.72rem;
+  font-size: 0.75rem;
   line-height: 1.2;
 }
 .media-detail-links a,
@@ -1130,7 +1130,7 @@ body.media-viewer-exhibition-slideshow .media-viewer-exhibition-description {
   padding: 0.4rem 0.6rem;
   border: 1px solid color-mix(in srgb, var(--secondary) 40%, var(--lightgray));
   color: var(--secondary);
-  font-size: 0.73rem;
+  font-size: 0.75rem;
   font-weight: 750;
   text-decoration: none;
 }
@@ -1176,7 +1176,7 @@ body.media-viewer-exhibition-slideshow .media-viewer-exhibition-description {
 }
 .media-detail-footer code {
   color: var(--gray);
-  font-size: 0.68rem;
+  font-size: 0.75rem;
 }
 
 @media (max-width: 1050px) {
@@ -1327,7 +1327,7 @@ body.media-viewer-exhibition-slideshow .media-viewer-exhibition-description {
     padding: 0 0.2rem;
     background: var(--secondary);
     color: #fff;
-    font-size: 0.62rem;
+    font-size: 0.75rem;
   }
   .media-gallery-sort {
     min-width: 0;

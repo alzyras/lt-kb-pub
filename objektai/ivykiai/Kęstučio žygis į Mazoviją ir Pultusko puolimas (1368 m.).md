@@ -40,20 +40,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206872"></a>
-- t-001
-  teiginys: "Narbutas nurodo, kad prie Pultusko buvo nuniokoti vyskupo palivarkai ir kaimai, o kunigaikščio bei bajorų valdos nepaliestos."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189487
-
 ## Santrauka
 
 Narbutas nurodo, kad prie Pultusko buvo nuniokoti vyskupo palivarkai ir kaimai, o kunigaikščio bei bajorų valdos nepaliestos.
@@ -78,5 +64,20 @@ Narbutas nurodo, kad prie Pultusko buvo nuniokoti vyskupo palivarkai ir kaimai, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206872"></a>
+- t-001
+  teiginys: "Narbutas nurodo, kad prie Pultusko buvo nuniokoti vyskupo palivarkai ir kaimai, o kunigaikščio bei bajorų valdos nepaliestos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189487
+

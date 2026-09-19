@@ -48,21 +48,6 @@ canonical_biography: "Narbutas teigia, kad 1253 m. Gnezno arkivyskupas Fulkonas 
 
 1253 metais Gnezno arkivyskupas Fulkonas Kozlove pašventino dominikonų vienuolį Vitą Liubčios vyskupu.
 
-## Teiginiai
-
-<a id="claim-t-206105"></a>
-- t-001
-  teiginys: "1253 metais Gnezno arkivyskupas Fulkonas Kozlove pašventino dominikonų vienuolį Vitą Liubčios vyskupu."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
-  pagrindžia:
-    - c-188720
-
 ## Citatos
 
 - id: c-188720
@@ -85,5 +70,21 @@ canonical_biography: "Narbutas teigia, kad 1253 m. Gnezno arkivyskupas Fulkonas 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206105"></a>
+- t-001
+  teiginys: "1253 metais Gnezno arkivyskupas Fulkonas Kozlove pašventino dominikonų vienuolį Vitą Liubčios vyskupu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:26Z"
+  pagrindžia:
+    - c-188720
+

@@ -45,10 +45,21 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-187497"></a>
-- t-001
+<a id="claim-t-210465"></a>
+- t-210465
+  teiginys: "Lietuvos metraščio pasakojime Mindaugas priekaištavo sūnui dėl pasirinkto vienuoliško gyvenimo, o sūnus esą labai nemylėjo tėvo."
+  atnaujinta: "2026-09-13 18:01"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+
+<a id="claim-t-210866"></a>
+- t-210866
   teiginys: "Mindaugas, pasak metraščio, nesiryžo kautis atvirame lauke ir užsidarė Vorutos pilyje."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-09-12 19:43"
   sprendimo_priezastis: "gap::events"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Voruta: 0.85"
@@ -59,13 +70,11 @@ Nenurodyta
   ryšio_targeto_parinkimas: "Voruta: mention_match, place, gap=71"
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis\" parinktas kaip owner_note_path. Targetas \"Voruta\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-170457
 
-<a id="claim-t-187499"></a>
-- t-002
+<a id="claim-t-210876"></a>
+- t-210876
   teiginys: "Lietuvos metraščio pasakojimu, Tautvilas su jotvingiais, žemaičiais ir Danieliaus duota pagalba išžygiavo prieš Mindaugą."
-  atnaujinta: "2026-07-12 22:30"
+  atnaujinta: "2026-09-12 19:43"
   sprendimo_priezastis: "gap::events"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Tautvilas: 0.85"
@@ -77,13 +86,22 @@ Nenurodyta
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis\" parinktas kaip owner_note_path. Targetas \"Tautvilas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  pagrindžia:
-    - c-170457
 
-<a id="claim-t-187500"></a>
-- t-003
+<a id="claim-t-211763"></a>
+- t-211763
+  teiginys: "Lietuvos metraščio pasakojime Tautvilas parbėgo į Žemaitiją pas Vykintą, sutelkė jotvingius, žemaičius ir Danieliaus pagalbą bei išžygiavo prieš Mindaugą."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+
+<a id="claim-t-211322"></a>
+- t-211322
   teiginys: "Lietuvos metraštis pasakoja, kad prie Vorutos Mindaugo kariai su arbaletais išjojo prieš vokiečius, o rusai, polovcai ir jotvingiai vaikėsi po lauką."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "gap::events"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "kariavo_pries -> Vokiečiai: 0.78"
@@ -96,21 +114,6 @@ Nenurodyta
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   semantiniai_rysiai: "Mindaugas (valdovas, XIII a.) kariavo prieš Vokiečiai (0.78)"
   vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  pagrindžia:
-    - c-170456
-
-<a id="claim-t-193859"></a>
-- t-004
-  teiginys: "Lietuvos metraščio pasakojime Tautvilas parbėgo į Žemaitiją pas Vykintą, sutelkė jotvingius, žemaičius ir Danieliaus pagalbą bei išžygiavo prieš Mindaugą."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-170457
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -171,8 +174,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-170457
   autorius: "Anoniminis metraštininkas"
@@ -194,7 +195,4 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
-    - t-004
+

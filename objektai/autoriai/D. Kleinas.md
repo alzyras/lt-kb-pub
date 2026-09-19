@@ -42,21 +42,6 @@ canonical_biography: "Kleinas išleido net pirmąją lietuvių kalbos gramatiką
 
 Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi giesmių knygas, kurios ėjo pagrindu vėlesnėms lietuvių liuterionių giesmynų laidoms. Kleino giesmynas.
 
-## Teiginiai
-
-<a id="claim-t-01021"></a>
-- t-001
-  teiginys: "D. Kleino giesmynas datuojamas 1666 m."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  temporaliniai_duomenys: "įvykio data: 1666 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie D. Kleino giesmyną ir remiasi citata."
-  vertinimo_atnaujinta: "2026-06-13T15:43:24Z"
-  pagrindžia:
-    - c-01259
-
 ## Citatos
 
 - id: c-01259
@@ -71,5 +56,21 @@ Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi gi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-01021"></a>
+- t-001
+  teiginys: "D. Kleino giesmynas datuojamas 1666 m."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1666 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas faktinis sakinys apie D. Kleino giesmyną ir remiasi citata."
+  vertinimo_atnaujinta: "2026-06-13T15:43:24Z"
+  pagrindžia:
+    - c-01259
+

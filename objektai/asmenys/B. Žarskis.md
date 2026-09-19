@@ -53,9 +53,9 @@ canonical_biography: "Žarskis, J. Žarskiui."
     - c-44305
 
 <a id="claim-t-40061"></a>
-- t-002
+- t-40061
   teiginys: "B. Žarskis buvo paskirtas vienu iš batalionų vadų."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> M. Stanišauskas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -89,11 +89,12 @@ canonical_biography: "Žarskis, J. Žarskiui."
     Antonievičiui, B. Žarskiui.
   citata_rodoma: "Atkakliai priešindamiesi\nsukilėliai išsilaikė dvi valan-\ndas, tačiau jų veiksmai pakriko\nsužeidus vadą Z. Sierakauską,\nmjr. P. Vivulskį ir žuvus ba-\ntalionų vadams majorams\nAntonievičiui, B. Žarskiui."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-44306
@@ -117,5 +118,6 @@ canonical_biography: "Žarskis, J. Žarskiui."
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-40061
+

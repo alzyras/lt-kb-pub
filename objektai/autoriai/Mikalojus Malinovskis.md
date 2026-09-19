@@ -34,32 +34,6 @@ canonical_biography: "Moks lininkui ir gerbiamam bičiuliui Mikalojui Malinovski
 
 Moks lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galimybę lengviau prieiti prie neišpasakytai vertingų istorijos turtų, sudėtų Radvilų archyve Kardinalijoje, o išsamiomis ir vi sapusiškomis mokslo žiniomis pagarsėjęs Pranciškus. Nėra geresnio pavyzdžio, kaip būtų galima sutvarkyti ir ap saugoti miesto archyvą nuo sunyki mo, už tą, kaip Radvilų archyvą Kar dinamoje pagal puikiai parengtą schemą sutvarkė mokslininkas ir di džiai prityręs Lietuvos istorijos ži novas Mikalojus.
 
-## Teiginiai
-
-<a id="claim-t-194314"></a>
-- t-001
-  teiginys: "Moks lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galimybę lengviau prieiti prie neišpasakytai vertingų istorijos turtų, sudėtų Radvilų archyve Kardinalijoje, o išsamiomis ir vi sapusiškomis mokslo žiniomis pagarsėjęs Pranciškus."
-  atnaujinta: "2026-07-06 12:56"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-176906
-
-<a id="claim-t-194315"></a>
-- t-002
-  teiginys: "Nėra geresnio pavyzdžio, kaip būtų galima sutvarkyti ir ap saugoti miesto archyvą nuo sunyki mo, už tą, kaip Radvilų archyvą Kar dinamoje pagal puikiai parengtą schemą sutvarkė mokslininkas ir di džiai prityręs Lietuvos istorijos ži novas Mikalojus."
-  atnaujinta: "2026-07-06 12:56"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-176907
-
 ## Citatos
 
 - id: c-176906
@@ -87,7 +61,7 @@ Moks lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galim
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-176907
@@ -122,5 +96,32 @@ Moks lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galim
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-194314"></a>
+- t-001
+  teiginys: "Moks lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už galimybę lengviau prieiti prie neišpasakytai vertingų istorijos turtų, sudėtų Radvilų archyve Kardinalijoje, o išsamiomis ir vi sapusiškomis mokslo žiniomis pagarsėjęs Pranciškus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-176906
+
+<a id="claim-t-194315"></a>
+- t-002
+  teiginys: "Nėra geresnio pavyzdžio, kaip būtų galima sutvarkyti ir ap saugoti miesto archyvą nuo sunyki mo, už tą, kaip Radvilų archyvą Kar dinamoje pagal puikiai parengtą schemą sutvarkė mokslininkas ir di džiai prityręs Lietuvos istorijos ži novas Mikalojus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-176907
+

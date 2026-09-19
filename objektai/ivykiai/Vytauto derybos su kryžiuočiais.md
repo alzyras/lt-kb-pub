@@ -50,12 +50,31 @@ Nenurodyta
 
 Nenurodyta
 
+## Citatos
+
+- id: c-90749
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  puslapiai: "PDF 23"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 23."
+  citata_originali: |
+    Antras Vytauto bėgimas į Prusus (1390—
+    1392). Vytauto derybos su kryžiuočiais. Jo kovos su Jogaila.
+  statusas: verified
+  atnaujinta: "2026-07-10 10:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
 ## Teiginiai
 
 <a id="claim-t-95974"></a>
 - t-001
   teiginys: "1390–1392 m. antrą kartą į Prūsus pabėgęs Vytautas derėjosi su kryžiuočiais ir kovojo su Jogaila."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_sajungininkas_su -> Kryžiuočių ordinas: 0.54"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -73,21 +92,3 @@ Nenurodyta
   pagrindžia:
     - c-90749
 
-## Citatos
-
-- id: c-90749
-  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
-  redaktorius: "P. Šležas"
-  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
-  puslapiai: "PDF 23"
-  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.), PDF 23."
-  citata_originali: |
-    Antras Vytauto bėgimas į Prusus (1390—
-    1392). Vytauto derybos su kryžiuočiais. Jo kovos su Jogaila.
-  statusas: verified
-  atnaujinta: "2026-07-10 10:39"
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001

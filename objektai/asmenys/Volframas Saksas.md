@@ -33,33 +33,6 @@ canonical_biography: "Dusburgietis teigia, kad apie kito brolio gyvenimą toje p
 
 Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat metu minėtoje pilyje gyveno brolis Volframas Saksas, kuris, davęs įžadus Teutonų ordinui, troško žengti nuo dorybės prie dorybės, tačiau velnias, pavydėdamas jam šios laimės, ėmė regzti visokiausių. Dusburgietis teigia, kad praėjus vieniems metams, velnias, nieko šiomis vilionėmis nepešęs, nuo jo susigėdęs atstojo ir nebedrįso daugiau rodytis. 234 (227).
 
-## Teiginiai
-
-<a id="claim-t-60222"></a>
-- t-001
-  teiginys: "Dusburgietis pasakoja, kad Teutonų ordino brolį Volframą Saksą pilyje metus kasnakt gundė velnias."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Teutonai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Volframas Saksas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Teutonai: mention_match, group, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Volframas Saksas\" parinktas kaip owner_note_path. Targetas \"Teutonai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-60854
-
-<a id="claim-t-60223"></a>
-- t-002
-  teiginys: "Brolis Volframas Saksas metus priešinosi velnio pagundoms, kol šis nuo jo atstojo."
-  atnaujinta: "2026-07-26 23:35"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-60854
-
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Brolis Volframas Saksas metus priešinosi velnio pagundoms, kol šis nuo jo atstojo.'
@@ -100,9 +73,6 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
 
 - id: c-60855
   autorius: "Petras Dusburgietis"
@@ -121,3 +91,27 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+## Teiginiai
+
+<a id="claim-t-220784"></a>
+- t-001
+  teiginys: "Dusburgietis pasakoja, kad Teutonų ordino brolį Volframą Saksą pilyje metus kasnakt gundė velnias."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Teutonai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Volframas Saksas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Teutonai: mention_match, group, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Volframas Saksas\" parinktas kaip owner_note_path. Targetas \"Teutonai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-221987"></a>
+- t-002
+  teiginys: "Brolis Volframas Saksas metus priešinosi velnio pagundoms, kol šis nuo jo atstojo."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+

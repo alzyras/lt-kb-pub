@@ -24,20 +24,6 @@ media_all_json: |-
 
 Lažo, arba baudžiavos, ir vergybos nežinojo, at nešė tas nelaimas vokyčiai, ateidami iš Teutonuos į tuos kraštus, kaip tuojau regėsim, kurios šiandien visą tautą Lietuvos ir Žemaičių žudo ant gėdos krikščionų tikybos, kuritaip mylėti artimą savo kaipo pats.
 
-## Teiginiai
-
-<a id="claim-t-201224"></a>
-- t-001
-  teiginys: "Lažo, arba baudžiavos, ir vergybos nežinojo, at nešė tas nelaimas vokyčiai, ateidami iš Teutonuos į tuos kraštus, kaip tuojau regėsim, kurios šiandien visą tautą Lietuvos ir Žemaičių žudo ant gėdos krikščionų tikybos, kuritaip mylėti artimą savo kaipo pats."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184574
-
 ## Citatos
 
 - id: c-184574
@@ -64,5 +50,20 @@ Lažo, arba baudžiavos, ir vergybos nežinojo, at nešė tas nelaimas vokyčiai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201224"></a>
+- t-001
+  teiginys: "Lažo, arba baudžiavos, ir vergybos nežinojo, at nešė tas nelaimas vokyčiai, ateidami iš Teutonuos į tuos kraštus, kaip tuojau regėsim, kurios šiandien visą tautą Lietuvos ir Žemaičių žudo ant gėdos krikščionų tikybos, kuritaip mylėti artimą savo kaipo pats."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184574
+

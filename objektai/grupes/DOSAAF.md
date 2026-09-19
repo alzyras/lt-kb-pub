@@ -27,17 +27,6 @@ media_all_json: |-
 
 Nešiojamosios radijo stotelės perimtos iš buvusios DOSAAF (jomis buvo sukurtas ryšio tinklas tarp lauko postų), R-105 ir R-107 karinės radijo stotys gautos iš kol kas nežinomų šaltinių ir panaudotos radijo žvalgybai (sovietų ryšio pasiklausymui).
 
-## Teiginiai
-
-<a id="claim-t-40870"></a>
-- t-001
-  teiginys: "Iš buvusios DOSAAF perimtomis nešiojamosiomis radijo stotelėmis buvo sukurtas ryšio tinklas tarp lauko postų."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-44728
-
 ## Citatos
 
 - id: c-44728
@@ -60,5 +49,17 @@ Nešiojamosios radijo stotelės perimtos iš buvusios DOSAAF (jomis buvo sukurta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-40870"></a>
+- t-001
+  teiginys: "Iš buvusios DOSAAF perimtomis nešiojamosiomis radijo stotelėmis buvo sukurtas ryšio tinklas tarp lauko postų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-44728
+

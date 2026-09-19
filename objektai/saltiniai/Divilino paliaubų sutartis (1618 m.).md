@@ -36,29 +36,6 @@ media_all_json: |-
 
 1618 m. Divilino kaime (prie Maskvos) buvo padarytos 16 metų paliaubos. Paliaubų sutartis Lietuvai ir Lenkijai buvo naudinga: ja Lietuvai buvo patvirtinta 1611 m. atgauta Smolensko sritis, kuri Maskvos valdžioje buvo nuo 1514 m. (žiūr.
 
-## Teiginiai
-
-<a id="claim-t-02157"></a>
-- t-001
-  teiginys: "Divilino paliaubų sutartimi Lietuvai buvo patvirtinta 1611 m. atgauta Smolensko sritis, o Lenkijai priskirti Černigovas ir Naugardas Sieverskas."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lenkija: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Naugardas Sieverskas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Naugardas Sieverskas priskirtas Lenkijai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  semantiniai_rysiai: "Černigovas priklausė Lenkija (0.93); Naugardas Sieverskas priklausė Lenkija (0.93); Smolenskas priklausė Lietuva (0.88); Smolenskas priklausė Maskva (0.86)"
-  temporaliniai_duomenys: "įvykio data: po 1514 m.; įvykio data: 1514 m.; įvykio data: 1611 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir turi puslapio nuorodos triukšmo, bet citata pagrindžia aiškų faktą."
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-02395
-
 ## Citatos
 
 - id: c-02395
@@ -77,5 +54,29 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-02157"></a>
+- t-001
+  teiginys: "Divilino paliaubų sutartimi Lietuvai buvo patvirtinta 1611 m. atgauta Smolensko sritis, o Lenkijai priskirti Černigovas ir Naugardas Sieverskas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lenkija: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Naugardas Sieverskas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Lenkija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Naugardas Sieverskas priskirtas Lenkijai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Černigovas priklausė Lenkija (0.93); Naugardas Sieverskas priklausė Lenkija (0.93); Smolenskas priklausė Lietuva (0.88); Smolenskas priklausė Maskva (0.86)"
+  temporaliniai_duomenys: "įvykio data: po 1514 m.; įvykio data: 1514 m.; įvykio data: 1611 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nutrūkęs ir turi puslapio nuorodos triukšmo, bet citata pagrindžia aiškų faktą."
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-02395
+

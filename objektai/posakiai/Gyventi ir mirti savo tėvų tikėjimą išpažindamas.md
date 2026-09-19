@@ -32,24 +32,6 @@ media_all_json: |-
 
 Ketvirta, jeigu įsigilinsime į laiško pabaigą, rasime jame aiškiai išreikštą norą priimti krikščionių tikėjimą ir viršesnę popiežiaus valdžią su sąlyga, kad tik niekada neturėtų įsi­ pareigojimų Ordinui.
 
-## Teiginiai
-
-<a id="claim-t-86856"></a>
-- t-001
-  teiginys: "Gediminui priskirtas pareiškimas teigė, kad jis nori gyventi ir mirti išpažindamas savo tėvų tikėjimą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Albertas Krantzas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Gyventi ir mirti savo tėvų tikėjimą išpažindamas: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Albertas Krantzas: mention_match, author"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gyventi ir mirti savo tėvų tikėjimą išpažindamas\" parinktas kaip owner_note_path. Targetas \"Albertas Krantzas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-82835
-
 ## Citatos
 
 - id: c-82835
@@ -88,5 +70,24 @@ Ketvirta, jeigu įsigilinsime į laiško pabaigą, rasime jame aiškiai išreik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-86856"></a>
+- t-001
+  teiginys: "Gediminui priskirtas pareiškimas teigė, kad jis nori gyventi ir mirti išpažindamas savo tėvų tikėjimą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Albertas Krantzas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Gyventi ir mirti savo tėvų tikėjimą išpažindamas: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Albertas Krantzas: mention_match, author"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Gyventi ir mirti savo tėvų tikėjimą išpažindamas\" parinktas kaip owner_note_path. Targetas \"Albertas Krantzas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-82835
+

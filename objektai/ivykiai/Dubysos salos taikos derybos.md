@@ -42,21 +42,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206717"></a>
-- t-001
-  teiginys: "Narbutas pasakoja, kad 1396 m. Dubysos saloje buvo sutartos abipusės paliaubos ir įgaliotinių suvažiavimas, tačiau kryžiuočių įgaliotiniai, remdamiesi esą nepakankamais įgaliojimais, derybas sužlugdė."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-189332
-
 ## Santrauka
 
 Narbutas pasakoja, kad 1396 m. Dubysos saloje buvo sutartos abipusės paliaubos ir įgaliotinių suvažiavimas, tačiau kryžiuočių įgaliotiniai, remdamiesi esą nepakankamais įgaliojimais, derybas sužlugdė.
@@ -84,5 +69,21 @@ Narbutas pasakoja, kad 1396 m. Dubysos saloje buvo sutartos abipusės paliaubos 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206717"></a>
+- t-001
+  teiginys: "Narbutas pasakoja, kad 1396 m. Dubysos saloje buvo sutartos abipusės paliaubos ir įgaliotinių suvažiavimas, tačiau kryžiuočių įgaliotiniai, remdamiesi esą nepakankamais įgaliojimais, derybas sužlugdė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-189332
+

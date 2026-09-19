@@ -50,18 +50,6 @@ Docentas šiame šaltinyje reiškia akademinę dėstytojo pareigybę universitet
 
 Terminas vartojamas A. R. Niemi biografijoje, kalbant apie jo pakvietimą į Helsinkų universitetą 1899 m.
 
-## Teiginiai
-
-<a id="claim-t-195458"></a>
-- t-001
-  teiginys: "1899 m. A. R. Niemi buvo pakviestas Helsinkų universiteto suomių liaudies poezijos docentu."
-  atnaujinta: "2026-07-12 03:27"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177879
-
 ## Citatos
 
 - id: c-177879
@@ -83,5 +71,18 @@ Terminas vartojamas A. R. Niemi biografijoje, kalbant apie jo pakvietimą į Hel
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-195458"></a>
+- t-001
+  teiginys: "1899 m. A. R. Niemi buvo pakviestas Helsinkų universiteto suomių liaudies poezijos docentu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177879
+

@@ -46,10 +46,22 @@ canonical_biography: "Šios valstybės, būtent didesnio sios Lenkijos dalies, p
 
 ## Teiginiai
 
+<a id="claim-t-223330"></a>
+- t-223330
+  teiginys: "Konradas buvo Mazovijos, Kujavijos ir Lenkijos kunigaikštis."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-206090
+
 <a id="claim-t-205432"></a>
-- t-001
+- t-205432
   teiginys: "1207 metais Lešekas Baltasis su Konradu pasidalijo tėvo palikimą, o Konradui atiteko Kujavija, Mozūrija, Kulmo ir Dobrynės žemės."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -60,9 +72,9 @@ canonical_biography: "Šios valstybės, būtent didesnio sios Lenkijos dalies, p
     - c-187818
 
 <a id="claim-t-205442"></a>
-- t-002
+- t-205442
   teiginys: "1228 m. balandžio 23 d. Konrado Mazoviečio privilegija kryžiuočių ordinui buvo patvirtinta Kulmo žemės nuosavybė."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -76,9 +88,9 @@ canonical_biography: "Šios valstybės, būtent didesnio sios Lenkijos dalies, p
     - c-187869
 
 <a id="claim-t-205490"></a>
-- t-003
+- t-205490
   teiginys: "Šios valstybės, būtent didesnio sios Lenkijos dalies, paveldėtojais tapo dvejetas jo ma žamečių sūnų — tai Lešekas Baltasis: ir Konradas."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -89,9 +101,9 @@ canonical_biography: "Šios valstybės, būtent didesnio sios Lenkijos dalies, p
     - c-188094
 
 <a id="claim-t-205557"></a>
-- t-004
+- t-205557
   teiginys: "Narbutas rašo, kad Konradas Mazovietis pasisavino Kulmo ir Liubavo žemes bei skelbėsi visos Prūsijos valdovu."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -121,8 +133,8 @@ canonical_biography: "Šios valstybės, būtent didesnio sios Lenkijos dalies, p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-205432
 
 - id: c-187869
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -141,8 +153,8 @@ canonical_biography: "Šios valstybės, būtent didesnio sios Lenkijos dalies, p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-205442
 
 - id: c-187956
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -162,8 +174,8 @@ canonical_biography: "Šios valstybės, būtent didesnio sios Lenkijos dalies, p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-205557
 
 - id: c-188094
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -184,5 +196,23 @@ canonical_biography: "Šios valstybės, būtent didesnio sios Lenkijos dalies, p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-205490
+
+- id: c-206090
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 42"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 42."
+  citata_originali: |
+    valdovas ir kunigaikštis Konradas, didžiai
+    krikščioniškos sielos žmogus, valdė Mazoviją, Kujaviją ir Lenkiją
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-223330
+

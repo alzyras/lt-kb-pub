@@ -45,10 +45,58 @@ Tik to meto Vilniaus universiteto garsenybė, istorikas profesorius Lelevelis, �
 
 ## Teiginiai
 
+<a id="claim-t-215061"></a>
+- t-003
+  teiginys: "Tunmanas3, Jo nas Potockis4, Lelevelis5 tai žinojo, bet į šį klausimą ne atsakė."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197681
+
+<a id="claim-t-215396"></a>
+- t-004
+  teiginys: "Lelevelis2 linkęs gelonus ir budinus pastatyti į išgalvotų tautų gretą, griežtai prie kaištaudamas, kad senovės geografų kompiliatoriai net ligi XIX amžiaus nepastebėjo šio tariamo atradimo."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195475
+
+<a id="claim-t-214161"></a>
+- t-214161
+  teiginys: "Lelevelis kimbrus arba kimerus laikė klaidinga graikų išmone."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195739
+
+<a id="claim-t-214914"></a>
+- t-214914
+  teiginys: "Herodotas teigia, kad iki šio krašto nuo Dnepro žiočių reikia plauk ti 40 dienų, o tai, anot Lelevelio apskaičiavimų2, turėtų prilygti maždaug 4000 stadijų."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196882
+
 <a id="claim-t-01095"></a>
-- t-001
+- t-01095
   teiginys: "Istorijos profesoriaus Lelevelio paskaitų klausytis rinkdavosi ne vien studentai, bet ir daugybė vilniečių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Rusai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -66,9 +114,9 @@ Tik to meto Vilniaus universiteto garsenybė, istorikas profesorius Lelevelis, �
     - c-01333
 
 <a id="claim-t-205387"></a>
-- t-002
+- t-205387
   teiginys: "Narbutas nurodo, kad Lelevelis Lindės vokiškajame leidime aiškino Palenkės gyventojų, lietuvių ir prūsų kildinimą iš sarmatų, Dakijoje įsikūrusius jazigus siedamas su Palenkės jotvingiais."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -97,8 +145,8 @@ Tik to meto Vilniaus universiteto garsenybė, istorikas profesorius Lelevelis, �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-01095
 
 - id: c-188043
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -125,5 +173,96 @@ Tik to meto Vilniaus universiteto garsenybė, istorikas profesorius Lelevelis, �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-205387
+
+- id: c-195475
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 203."
+  citata_originali: |
+    Lelevelis2 linkęs gelonus
+    ir budinus pastatyti į išgalvotų tautų gretą, griežtai prie­
+    kaištaudamas, kad senovės geografų kompiliatoriai net
+    ligi XIX amžiaus nepastebėjo šio tariamo atradimo. Sis
+    drąsus nuosprendis, paskelbtas daugelio veikalų išgarsin­
+    to istoriko, nusipelno atsakymo, nors šiaip jau jo nereikė­
+    tų dėl to, kad aptarta tiek daug šios temos dalykų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
+- id: c-195739
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 48-49"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 48-49."
+  citata_originali: |
+    Kaip jau minėjome, Leleveliui pa­
+    tiko paskelbti kimbrus, arba kimerus, klaidinga graikų
+    išmone4, nors ir skaitė, tai Herodoto darbuose ir pats ne
+    1 Kotzebue. Preussens ältere Geschichte. S. 30, 31.
+    2 Hartknoch. S. 296.
+    3 Švedų istorikai Selsijus ir Dalinas teigia, kad Baltijos lygis
+    pažemėjo 13 sieksnių*.
+    4 Wiadomosc o narodach w Europio będących. S. 2**.
+    51
+
+    sykį sakė, jog šio istoriko tikroviškumas yra tikrai isto­
+    rinis. Mes, sekdami Herodoto žodžiais ir remdamiesi se­
+    novės tyrinėtojų išvadomis, laikome kimbrus kitados Prū­
+    sijoje viešėjusia gentimi, net galėjusia palikti savo kal­
+    bos ir susigiminiavimo su pirmykščiais mūsų Baltijos jū­
+    ros pakrančių gyventojais paminklų
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214161
+
+- id: c-196882
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 53"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 53."
+  citata_originali: |
+    Herodotas
+    teigia, kad iki šio krašto nuo Dnepro žiočių reikia plauk­
+    ti 40 dienų, o tai, anot Lelevelio apskaičiavimų2, turėtų
+    prilygti maždaug 4000 stadijų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214914
+
+- id: c-197681
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 327"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 327."
+  citata_originali: |
+    Tunmanas3, Jo­
+    nas Potockis4, Lelevelis5 tai žinojo, bet į šį klausimą ne­
+    atsakė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+

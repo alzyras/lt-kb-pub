@@ -52,18 +52,6 @@ Lemu parapija šiame šaltinyje minima kaip Augusto Roberto Niemio gimimo vietos
 
 Lemu parapija šiame šaltinyje yra parapija.
 
-## Teiginiai
-
-<a id="claim-t-195649"></a>
-- t-001
-  teiginys: "Augustas Robertas Niemi gimė Lemu parapijoje."
-  atnaujinta: "2026-07-12 09:30"
-  sprendimo_priezastis: "gap::places"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178050
-
 ## Citatos
 
 - id: c-178050
@@ -86,5 +74,18 @@ Lemu parapija šiame šaltinyje yra parapija.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-195649"></a>
+- t-001
+  teiginys: "Augustas Robertas Niemi gimė Lemu parapijoje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::places"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-178050
+

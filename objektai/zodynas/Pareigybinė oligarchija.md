@@ -46,3 +46,43 @@ Edvardas Gudavičius pereinamojo laikotarpio LDK santvarką apibūdina kaip pare
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-190259
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 58"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 58."
+  citata_originali: |
+    Antra vertus, pasak Edvardo Gudavičiaus, kaip
+    tik tuo metu ir iškyla bajorijos elitas, pareiškęs, kad valstybė – ne tik kunigaikščiai, ir
+    šitaip tapęs Vytauto politiniu tramplinu. Vytauto epocha buvo įvardyta kaip ankstyvo-
+    sios monarchijos pabaiga ir perėjimo prie luominės monarchijos pradžia. Šio pereinamojo
+    laikotarpio santvarką Edvardas Gudavičius apibūdina pareigybinės oligarchijos sąvoka
+    ir tipologiškai kunigaikščių sluoksnio degradaciją gretina su pareigybinėmis oligarchi-
+    jomis IX–XI a.
+  citata_rodoma: "Šio pereinamojo \nlaikotarpio santvarką Edvardas Gudavičius apibūdina pareigybinės oligarchijos sąvoka"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-207642"></a>
+- t-001
+  teiginys: "Edvardas Gudavičius pereinamojo laikotarpio LDK santvarką apibūdina kaip pareigybinę oligarchiją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  pagrindžia:
+    - c-190259
+

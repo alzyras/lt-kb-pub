@@ -42,27 +42,6 @@ canonical_biography: "Tuo pačiu metu dar įvyko vienas svar­ bus faktas, kuris
 
 Tuo pačiu metu dar įvyko vienas svar­ bus faktas, kuris dar aukščiau iškėlė Vytauto autoritetą ir ga­ lybę, — tai būtent tas, kad 1425 m., mirdamas Maskvos kun. Vosylius, paliko savo nepilnametį sūnų Vosylių jo seneliui Vy­ tautui globoti.
 
-## Teiginiai
-
-<a id="claim-t-35328"></a>
-- t-001
-  teiginys: "1425 m. mirdamas Maskvos kunigaikštis Vosylius savo nepilnametį sūnų Vosylių paliko senelio Vytauto globai."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Vosylius (Maskvos kunigaikštis): 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vosylius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vosylius (Maskvos kunigaikštis): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad jaunesnysis Vosylius buvo Maskvos kunigaikščio Vosyliaus sūnus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1425 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vosylius (Maskvos kunigaikštis) buvo valdovas Maskva“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia aiškiau įvardyti globos ryšį ir pašalinti dviprasmybę."
-  pagrindžia:
-    - c-38145
-
 ## Citatos
 
 - id: c-38145
@@ -91,5 +70,27 @@ Tuo pačiu metu dar įvyko vienas svar­ bus faktas, kuris dar aukščiau iškė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-35328"></a>
+- t-001
+  teiginys: "1425 m. mirdamas Maskvos kunigaikštis Vosylius savo nepilnametį sūnų Vosylių paliko senelio Vytauto globai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Vosylius (Maskvos kunigaikštis): 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vosylius: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vosylius (Maskvos kunigaikštis): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai sako, kad jaunesnysis Vosylius buvo Maskvos kunigaikščio Vosyliaus sūnus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1425 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Vosylius (Maskvos kunigaikštis) buvo valdovas Maskva“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia aiškiau įvardyti globos ryšį ir pašalinti dviprasmybę."
+  pagrindžia:
+    - c-38145
+

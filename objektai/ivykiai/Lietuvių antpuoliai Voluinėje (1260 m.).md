@@ -40,34 +40,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-205986"></a>
-- t-001
-  teiginys: "Eustacho Konstantinovičiaus vadovaujamas lietuvių dalinys įsibrovė į Lietuvos Kjameneco apylinkes, jas apiplėšė, bet, sužinojęs apie pasirengimą priešintis, su grobiu skubiai pasitraukė."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188601
-
-<a id="claim-t-205987"></a>
-- t-002
-  teiginys: "Vasilka su sūnumi Vladimiru stojo prieš Kondižato Tiudijaminovičiaus vadovaujamą lietuvių dalinį, kuris prie Nevelio ežero buvo įsirengęs pylimu apjuostą stovyklą."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188602
-
 ## Santrauka
 
 Eustacho Konstantinovičiaus vadovaujamas lietuvių dalinys įsibrovė į Lietuvos Kjameneco apylinkes, jas apiplėšė, bet, sužinojęs apie pasirengimą priešintis, su grobiu skubiai pasitraukė. Vasilka su sūnumi Vladimiru stojo prieš Kondižato Tiudijaminovičiaus vadovaujamą lietuvių dalinį, kuris prie Nevelio ežero buvo įsirengęs pylimu apjuostą stovyklą.
@@ -97,7 +69,7 @@ Eustacho Konstantinovičiaus vadovaujamas lietuvių dalinys įsibrovė į Lietuv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188602
@@ -120,5 +92,34 @@ Eustacho Konstantinovičiaus vadovaujamas lietuvių dalinys įsibrovė į Lietuv
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-205986"></a>
+- t-001
+  teiginys: "Eustacho Konstantinovičiaus vadovaujamas lietuvių dalinys įsibrovė į Lietuvos Kjameneco apylinkes, jas apiplėšė, bet, sužinojęs apie pasirengimą priešintis, su grobiu skubiai pasitraukė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188601
+
+<a id="claim-t-205987"></a>
+- t-002
+  teiginys: "Vasilka su sūnumi Vladimiru stojo prieš Kondižato Tiudijaminovičiaus vadovaujamą lietuvių dalinį, kuris prie Nevelio ežero buvo įsirengęs pylimu apjuostą stovyklą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188602
+

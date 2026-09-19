@@ -43,23 +43,6 @@ historical_names: []
 
 1998 m. Kijevo Pečorų lauros vienuolyno Uspenjės sobore archeologinių tyrimų metu aptikti keli sarkofagai.
 
-## Teiginiai
-
-<a id="claim-t-203968"></a>
-- t-001
-  teiginys: "1998 m. Kijevo Pečorų lauros vienuolyno Uspenjės sobore archeologinių tyrimų metu aptikti keli sarkofagai."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
-  temporaliniai_duomenys: "įvykio data: 1998 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir faktiškai nurodo 1998 m. archeologinių tyrimų metu aptiktus sarkofagus konkrečioje vietoje."
-  pagrindžia:
-    - c-186572
-
 ## Citatos
 
 - id: c-186572
@@ -76,5 +59,23 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203968"></a>
+- t-001
+  teiginys: "1998 m. Kijevo Pečorų lauros vienuolyno Uspenjės sobore archeologinių tyrimų metu aptikti keli sarkofagai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  temporaliniai_duomenys: "įvykio data: 1998 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir faktiškai nurodo 1998 m. archeologinių tyrimų metu aptiktus sarkofagus konkrečioje vietoje."
+  pagrindžia:
+    - c-186572
+

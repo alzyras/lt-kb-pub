@@ -39,21 +39,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-204291"></a>
-- t-001
-  teiginys: "XVI a. LDK bajorų racione kopūstai sudarė bene didžiausią daržovių dalį, buvo rauginami ar sūdomi žiemai, o iš jų su mėsa gamintas bigosas."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
-  vertinimo_atnaujinta: "2026-08-06T23:41:06Z"
-  pagrindžia:
-    - c-186909
-
 ## Santrauka
 
 XVI a. LDK bajorų racione kopūstai sudarė bene didžiausią daržovių dalį, buvo rauginami ar sūdomi žiemai, o iš jų su mėsa gamintas bigosas.
@@ -78,5 +63,21 @@ XVI a. LDK bajorų racione kopūstai sudarė bene didžiausią daržovių dalį,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204291"></a>
+- t-001
+  teiginys: "XVI a. LDK bajorų racione kopūstai sudarė bene didžiausią daržovių dalį, buvo rauginami ar sūdomi žiemai, o iš jų su mėsa gamintas bigosas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  vertinimo_atnaujinta: "2026-08-06T23:41:06Z"
+  pagrindžia:
+    - c-186909
+

@@ -31,10 +31,34 @@ Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir si
 
 ## Teiginiai
 
-<a id="claim-t-07840"></a>
-- t-001
+<a id="claim-t-210457"></a>
+- t-210457
+  teiginys: "Tai pirma jo žiau rybė, padaryta krikščionims."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193754
+
+<a id="claim-t-217485"></a>
+- t-217485
+  teiginys: "Todėl niekas iš krikščionių nei iš kitatikių negalėjo dalyvauti tame aukojime."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201413
+
+<a id="claim-t-210262"></a>
+- t-210262
   teiginys: "Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir siekė juos pavergti."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-12 16:28"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
   ryšio_patikimumas: "puole -> Kalnėnai: 0.58"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -45,13 +69,11 @@ Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir si
   ryšio_paaiskinimas: "Tekstas sako, kad krikščionys kardu vertė krikštytis lietuvį, kalnėną ar žemaitį; iš leistinų objektų yra Kalnėnai."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
   semantiniai_rysiai: "Krikščionys puolė Kalnėnai (0.58); Krikščionys kariavo prieš Kalnėnai (0.52)"
-  pagrindžia:
-    - c-10073
 
 <a id="claim-t-184482"></a>
-- t-002
+- t-184482
   teiginys: "Kojelavičiaus vertinimu, prislėgti krikščionys lengviau atsikvėpė tik dėl vidaus nesantarvės, palaužusios kylančią stabmeldžių galią."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -68,9 +90,9 @@ Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir si
     - c-167843
 
 <a id="claim-t-184483"></a>
-- t-003
+- t-184483
   teiginys: "Popiežiaus ediktas kvietė krikščionis į šventąjį karą prieš stabmeldžius, žadėdamas nuodėmių atleidimą."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -87,9 +109,9 @@ Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir si
     - c-167844
 
 <a id="claim-t-184484"></a>
-- t-004
+- t-184484
   teiginys: "Gediminas nenorėjo priimti krikščionybės ar sudaryti sutarties su krikščionimis, todėl nutraukė pradėtas derybas."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -105,30 +127,10 @@ Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir si
   pagrindžia:
     - c-167845
 
-<a id="claim-t-188205"></a>
-- t-005
-  teiginys: "Narbutas aiškina, kad gotai jau buvo krikščionys tuo metu, kai lietuvių tikėjimas, jo manymu, ėmė kilti į romėnų lygį."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_priesas -> Herulai: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gotai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Herulai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo gotus kaip herulų priešus."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Gotai buvo priešas Herulai (0.92); Gotai priklausė Krikščionys (0.80)"
-  pagrindžia:
-    - c-171099
-
 <a id="claim-t-196076"></a>
-- t-006
+- t-196076
   teiginys: "Popiežiaus ediktu krikščionys buvo šaukiami į šventąjį karą prieš stabmeldžius, žadant nuodėmių atleidimą."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -206,8 +208,6 @@ Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-167843
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -230,8 +230,8 @@ Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-184482
 
 - id: c-167844
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -271,9 +271,9 @@ Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-    - t-006
+  pagrindžia:
+    - t-184483
+    - t-196076
 
 - id: c-167845
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -295,8 +295,8 @@ Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-184484
 
 - id: c-171099
   autorius: "Teodoras Narbutas"
@@ -325,8 +325,41 @@ Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir si
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+
+- id: c-193754
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 38"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 38."
+  citata_originali: |
+    Ir jos
+    vardan Kristaus tapo kankinėmis. Tai pirma jo žiau­
+    rybė, padaryta krikščionims.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210457
+
+- id: c-201413
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 313"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 313."
+  citata_originali: |
+    Todėl niekas iš krikščionių nei
+    iš kitatikių negalėjo dalyvauti tame aukojime.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217485
 
 ## Ryšiai
 - Krikščionys puolė [[objektai/grupes/Galindai]]

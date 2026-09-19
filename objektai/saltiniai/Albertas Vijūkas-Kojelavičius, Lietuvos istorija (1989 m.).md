@@ -53,65 +53,6 @@ Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesula
 - Įvade nurodoma, kad pirmasis tomas išėjo 1650 m. Gdanske, antrasis 1669 m. Antverpene, o pats veikalas pakartotinių leidimų nesusilaukė.
 - Veikalo atsiradimas siejamas su Vilniaus aukštąja mokykla, kurios studentams autorius skyrė savo darbą.
 
-## Teiginiai
-
-<a id="claim-t-184453"></a>
-- t-001
-  teiginys: "Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesulaukė pakartotinių leidimų."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Albertas Vijūkas-Kojelavičius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Albertas Vijūkas-Kojelavičius: mention_match, author, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)\" parinktas kaip owner_note_path. Targetas \"Albertas Vijūkas-Kojelavičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  temporaliniai_duomenys: "įvykio data: 1766 m.; įvykio data: 1846 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia išplėsti autoriaus vardą ir patikslinti faktą pagal citatos kontekstą."
-  pagrindžia:
-    - c-167807
-
-<a id="claim-t-184454"></a>
-- t-002
-  teiginys: "Juozas Jurginis įvade rašė, kad Kojelavičiaus „Lietuvos istorija“ nėra originalus veikalas ir remiasi M. Strijkovskio kronika."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  teiginio_tipas: "interpretacija"
-  ryšio_patikimumas: "susije_su -> Motiejus Strijkovskis (kronikininkas): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Motiejus Strijkovskis (kronikininkas): mention_match, author, gap=58"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)\" parinktas kaip owner_note_path. Targetas \"Motiejus Strijkovskis (kronikininkas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-167804
-
-<a id="claim-t-184455"></a>
-- t-003
-  teiginys: "1989 m. „Lietuvos istorijos“ leidimas spausdintas pagal 1988 m. „Vagos“ leidimą, o įvadą ir paaiškinimus parašė Juozas Jurginis."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Juozas Jurginis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Juozas Jurginis: mention_match, author, gap=103"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)\" parinktas kaip owner_note_path. Targetas \"Juozas Jurginis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  temporaliniai_duomenys: "įvykio data: 1988 m.; įvykio data: 1989 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata yra leidybiniai duomenys, ne Kojelavičiaus teiginys; sakinį reikia pataisyti."
-  pagrindžia:
-    - c-167806
-
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: '1989 m. „Lietuvos istorijos“ leidimas spausdintas pagal 1988 m. „Vagos“ leidimą, o įvadą ir paaiškinimus parašė Juozas Jurginis.'
@@ -157,7 +98,7 @@ Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesula
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167806
@@ -191,8 +132,6 @@ Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesula
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-167807
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -212,5 +151,45 @@ Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesula
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-184453"></a>
+- t-001
+  teiginys: "Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesulaukė pakartotinių leidimų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Albertas Vijūkas-Kojelavičius: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Albertas Vijūkas-Kojelavičius: mention_match, author, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)\" parinktas kaip owner_note_path. Targetas \"Albertas Vijūkas-Kojelavičius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  temporaliniai_duomenys: "įvykio data: 1766 m.; įvykio data: 1846 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia išplėsti autoriaus vardą ir patikslinti faktą pagal citatos kontekstą."
+  pagrindžia:
+    - c-167807
+
+<a id="claim-t-184454"></a>
+- t-002
+  teiginys: "Juozas Jurginis įvade rašė, kad Kojelavičiaus „Lietuvos istorija“ nėra originalus veikalas ir remiasi M. Strijkovskio kronika."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "interpretacija"
+  ryšio_patikimumas: "susije_su -> Motiejus Strijkovskis (kronikininkas): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Motiejus Strijkovskis (kronikininkas): mention_match, author, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)\" parinktas kaip owner_note_path. Targetas \"Motiejus Strijkovskis (kronikininkas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-167804
+

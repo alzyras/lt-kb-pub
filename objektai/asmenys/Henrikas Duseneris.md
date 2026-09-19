@@ -34,25 +34,6 @@ canonical_biography: "22 dienas tęsėsi apsuptis, o dviejų poilsio dienų metu
 
 22 dienas tęsėsi apsuptis, o dviejų poilsio dienų metu į pagalbą apsuptie­ siems atvyko Ordino maršalas Henrikas Duseneris ir Reino palatinas su stipriom pajėgom.
 
-## Teiginiai
-
-<a id="claim-t-87686"></a>
-- t-001
-  teiginys: "Ordino maršalas Henrikas Duseneris su Reino palatinu atvyko į pagalbą Bajerburgo pilies gynėjams per Gedimino apsiaustį."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "apgule -> Bajerburgas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Bajerburgas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatos kontekste Gediminas puola Bajerburgo tvirtovę, po ko minima jos apsuptis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Gediminas apgulė Bajerburgas (0.88)"
-  pagrindžia:
-    - c-83665
-
 ## Citatos
 
 - id: c-83665
@@ -74,5 +55,25 @@ canonical_biography: "22 dienas tęsėsi apsuptis, o dviejų poilsio dienų metu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-87686"></a>
+- t-001
+  teiginys: "Ordino maršalas Henrikas Duseneris su Reino palatinu atvyko į pagalbą Bajerburgo pilies gynėjams per Gedimino apsiaustį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "apgule -> Bajerburgas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Bajerburgas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citatos kontekste Gediminas puola Bajerburgo tvirtovę, po ko minima jos apsuptis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Gediminas apgulė Bajerburgas (0.88)"
+  pagrindžia:
+    - c-83665
+

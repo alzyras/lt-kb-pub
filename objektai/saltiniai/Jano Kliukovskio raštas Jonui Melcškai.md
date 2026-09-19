@@ -35,20 +35,6 @@ J. Kliukovskio raštas yra pakvitavimas, duotas Gardino stalininkui Jonui Melcš
 
 J. Kliukovskio raštas yra pakvitavimas, duotas Gardino stalininkui Jonui Melcškai.
 
-## Teiginiai
-
-<a id="claim-t-204108"></a>
-- t-001
-  teiginys: "J. Kliukovskio raštas yra pakvitavimas, duotas Gardino stalininkui Jonui Melcškai."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
-  pagrindžia:
-    - c-186712
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'J. Kliukovskio raštas yra pakvitavimas, duotas Gardino stalininkui Jonui Melcškai.'
@@ -83,5 +69,20 @@ J. Kliukovskio raštas yra pakvitavimas, duotas Gardino stalininkui Jonui Melcš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204108"></a>
+- t-001
+  teiginys: "J. Kliukovskio raštas yra pakvitavimas, duotas Gardino stalininkui Jonui Melcškai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-50918-Zemes-teismo-knygos"
+  pagrindžia:
+    - c-186712
+

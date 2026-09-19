@@ -44,10 +44,34 @@ Jų pėdsakų yra išlikę pas herulus, gyvenusius anapus Oderio, juk Jonas Poto
 
 ## Teiginiai
 
+<a id="claim-t-219307"></a>
+- t-002
+  teiginys: "Beje, jį vadino Jeu arba Jeou, o prie Oderio -Jesse."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-197969
+
+<a id="claim-t-213960"></a>
+- t-213960
+  teiginys: "Šių slavų tuomet jau gyventa Elbės žemupio ir Oderio tarpupyje net iki Vyslos."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194541
+
 <a id="claim-t-205567"></a>
-- t-001
+- t-205567
   teiginys: "Jų pėdsakų yra išlikę pas herulus, gyvenusius anapus Oderio, juk Jonas Potockis skai tė ant akmens iškaltą maldą į Perkūną, apie tai jau ra šėme šio veikalo I tome."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -93,5 +117,40 @@ Jų pėdsakų yra išlikę pas herulus, gyvenusius anapus Oderio, juk Jonas Poto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-205567
+
+- id: c-194541
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 326"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 326."
+  citata_originali: |
+    Šių slavų tuomet jau gyventa
+    Elbės žemupio ir Oderio tarpupyje net iki Vyslos
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213960
+
+- id: c-197969
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 93"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 93."
+  citata_originali: |
+    Beje, jį vadino Jeu arba
+    Jeou, o prie Oderio -Jesse
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+

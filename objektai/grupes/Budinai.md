@@ -32,155 +32,114 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
 
 ## Teiginiai
 
-<a id="claim-t-192357"></a>
-- t-001
-  teiginys: "T. Narbutas, remdamasis Herodotu, rašo, kad budinai turėjo medines tvirtoves, tarp jų Gelonos, ir buvo apibūdinami kaip rusvaplaukių, šviesiaakių žmonių giminė."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "susije_su -> Viena: 0.83"
+<a id="claim-t-212879"></a>
+- t-212879
+  teiginys: "Pasak to paties istoriko, budinu giminei bū dingi šie bruožai: „Budinai labai gražūs, rusvaplaukiai žmonės, turi šviesiai mėlynas akis“1."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197311
+
+<a id="claim-t-213167"></a>
+- t-213167
+  teiginys: "Trečios knygos penktame skyriuje jau iškėlėme į istorijos areną dviejų — budinu ir gelonų — tautų tarpusavio ryšius, pa rodėme jų kilmės ištakas, ankstesniame šios knygos sky riuje kalbėjome apie lietuvių kilmę iš pelazgų, kurių pa likuonimis pavadinome."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196410
+
+<a id="claim-t-213670"></a>
+- t-213670
+  teiginys: "Budinai, spaudžiami sarmatų, persikėlė į Dono ir Doneco tarpupį."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197345
+
+<a id="claim-t-214715"></a>
+- t-214715
+  teiginys: "Tad ir tas skitiškas lietuvių tautos pavadinimas galėjęs būti kildinamas iš to, kad ji buvo dviejų tautų, gelonų ir budinu, junginys, atsiradęs dar Slkitijos klestė jimo laikais, o pavadinimas galbūt atsineštas iš Rytų ir romėnams žinomas iš alanų bei."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196069
+
+<a id="claim-t-216642"></a>
+- t-216642
+  teiginys: "Narbutas teigia, kad budinų susiliejimas su europiečių tauta, graikų tikėjimo ir daugybės svetimų dievų priėmimas bei vietinės sąlygos užtemdė budizmą."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200925
+
+<a id="claim-t-216905"></a>
+- t-216905
+  teiginys: "Narbutas teigia, kad Lemtis budinus nuo Ross arba Oskolo upės atvedė prie Nemuno vidurupio."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198868
+
+<a id="claim-t-212296"></a>
+- t-212296
+  teiginys: "Hugas Grocijus, tyręs budinu ko lonijas Prūsijoje, cituoja vieną autorių, kurio nuodugnūs tyrimai paaiškina istorinę tiesą; tas autorius buvo Geropijus Bekanas3."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195247
+
+<a id="claim-t-213216"></a>
+- t-213216
+  teiginys: "Narbuto pasakojime lietuvių protėviams atėjus į Prūsijos kraštus, Sambijoje įsikūrė daugiausia senovės budinų gyventojai."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Budinai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Budinai\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Budinai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-175152
-
-<a id="claim-t-192358"></a>
-- t-002
-  teiginys: "Narbutas rašė, kad budinai gyveno prie senovės Armėnijos Arakso, o vėliau persikėlė prie Volgos žemupio Arakso."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Budinų migracijos aiškinimas pateiktas kaip Narbuto istoriografinė teorija. Sakinys apsiriboja citatoje nurodytais Arakso ir Volgos etapais."
-  susije_objektai: "llm_object: Araksas; mentioned_place: Araksas; mentioned_place: Armėnija; mentioned_place: Volga; mentioned_place: Donas; mentioned_place: Europa; mentioned_place: Oskolas; llm_object: Europa"
-  semantiniai_rysiai: "[[objektai/grupes/Budinai|Budinai]] gyveno Araksas; [[objektai/grupes/Budinai|Budinai]] keliavo į Europa"
-  ryšio_patikimumas: "gyveno -> Araksas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Budinai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Araksas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad budinai gyveno prie Arakso."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-175156
-
-<a id="claim-t-192359"></a>
-- t-003
-  teiginys: "Narbutas pasakojo, kad gelonai ir budinai apsigyveno prie Nemuno vidurupio ir Volkovysko apskrityje upę pavadino Rose."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Migracijos ir vietovardžio aiškinimas paliktas su Narbuto atribucija. Pašalinta personifikuota „lemties“ formuluotė ir nepridėta papildomų išvadų."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Gelonai|Gelonai]]; mentioned_place: Donas; mentioned_place: Europa; mentioned_place: Šventoji; llm_object: Europa"
-  semantiniai_rysiai: "[[objektai/grupes/Budinai|Budinai]] keliavo į Europa"
-  ryšio_patikimumas: "keliavo_i -> Europa: 0.78"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Budinai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Europa: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citatos pradžia tiesiogiai nurodo persikėlimą į Europą; kontekste tai taikoma budinams ir gelonams."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-175154
-
-<a id="claim-t-192360"></a>
-- t-004
-  teiginys: "T. Narbutas budinus laiko viena iš dviejų tautų, sudariusių lietuvių tautos pradžią, ir priskiria jiems indų-skitų kilmę."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "susije_su -> Viena: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Budinai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=14"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Budinai\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-175153
-
-<a id="claim-t-192361"></a>
-- t-005
-  teiginys: "Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios paprotys buvo garbinti upių šventumą."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  sudarymo_pagrindimas: "Kilmės ir religinė interpretacija palikta su Narbuto atribucija. Nepridėta nieko už citatoje esančio upių garbinimo ir budinų apibūdinimo."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Indai|Indai]]; llm_object: [[objektai/grupes/Indai|Indai]]"
-  semantiniai_rysiai: "[[objektai/grupes/Budinai|Budinai]] priklausė [[objektai/grupes/Indai|Indai]]"
-  ryšio_patikimumas: "priklause -> Indai: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Budinai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Indai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Budinai vadinami indų-skitų tauta, bet kandidatuose yra tik Indai, todėl ryšys apibendrintas."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-175155
-
-<a id="claim-t-192368"></a>
-- t-006
-  teiginys: "P. J. Safaržykas Herodoto budinus laikė venedų tauta ir seniausia Herodoto minima slavų šaka."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "priklause -> Venedai: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Budinai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Venedai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad budinai buvo venedų tauta."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Budinai priklausė Venedai (0.87)"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-175163
+    - c-195247
 
-<a id="claim-t-192369"></a>
-- t-007
-  teiginys: "Narbuto pasakojime kolchai dar Azijoje davė pradžią budinų genčiai, kuri vėliau įsikūrė prie Dono."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "gyveno -> Donas: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Budinai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Donas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad budinų gentis įsikūrė prie Dono."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Budinai gyveno Donas (0.88)"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-175164
-
-<a id="claim-t-192370"></a>
-- t-008
+<a id="claim-t-213585"></a>
+- t-213585
   teiginys: "Pasak Narbuto minimo Baturlino, budinai gyveno greta gelonų, Voluikos ir Bogončavo miestų apylinkėse."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -196,52 +155,12 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   semantiniai_rysiai: "Budinai užėmė Voluika (0.82); Budinai užėmė Bogončavas (0.82)"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-175165
+    - c-194667
 
-<a id="claim-t-192371"></a>
-- t-009
-  teiginys: "Pasak Narbuto cituojamo Herodoto, budinai savo žemėje turėjo medinių tvirtovių, tarp jų Gelonos tvirtovę."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Viena: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Budinai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Budinai\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-175152
-
-<a id="claim-t-192372"></a>
-- t-010
-  teiginys: "T. Narbutas lietuvių tautos pradžią siejo su dviejų senovės tautų, gelonų ir budinų, lydiniu."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Europa: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Budinai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Europa: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Budinai\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-175166
-
-<a id="claim-t-192373"></a>
-- t-011
+<a id="claim-t-214328"></a>
+- t-214328
   teiginys: "Narbuto teigimu, budinai įsiterpė tarp venedų ir slavų gyvenamųjų vietovių ir įsikūrė prie Nemuno."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -256,51 +175,163 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-175167
+    - c-194755
 
-<a id="claim-t-192374"></a>
-- t-012
-  teiginys: "Narbuto pasakojime lietuvių protėviams atėjus į Prūsijos kraštus, Sambijoje įsikūrė daugiausia senovės budinų gyventojai."
-  atnaujinta: "2026-07-12 22:34"
+<a id="claim-t-214803"></a>
+- t-214803
+  teiginys: "Senovės tyrinėtojai ne abejoja, jog budinai įsiterpė tarp venedų ir slavų gyvena mųjų vietovių ir įsikūrė iš dalies taikiai, iš dalies gal iš stumdami kitas gentis prie Nemuno, o vėliau ir Vyslos, Dauguvos, — tai nedvejodamas pasakoja Osolinskisk Prie jūros."
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194755
+
+<a id="claim-t-214876"></a>
+- t-214876
+  teiginys: "T. Narbutas budinus laiko viena iš dviejų tautų, sudariusių lietuvių tautos pradžią, ir priskiria jiems indų-skitų kilmę."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Viena: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Budinai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place, gap=14"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Budinai\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
+<a id="claim-t-215741"></a>
+- t-215741
+  teiginys: "T. Narbutas lietuvių tautos pradžią siejo su dviejų senovės tautų, gelonų ir budinų, lydiniu."
+  atnaujinta: "2026-09-13 18:13"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Europa: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Budinai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Budinai\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Europa: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Budinai\" parinktas kaip owner_note_path. Targetas \"Europa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-175168
+    - c-197305
 
-<a id="claim-t-197493"></a>
-- t-013
-  teiginys: "Senovės tyrinėtojai ne abejoja, jog budinai įsiterpė tarp venedų ir slavų gyvena mųjų vietovių ir įsikūrė iš dalies taikiai, iš dalies gal iš stumdami kitas gentis prie Nemuno, o vėliau ir Vyslos, Dauguvos, — tai nedvejodamas pasakoja Osolinskisk Prie jūros."
-  atnaujinta: "2026-07-12 22:33"
+<a id="claim-t-212329"></a>
+- t-212329
+  teiginys: "P. J. Safaržykas Herodoto budinus laikė venedų tauta ir seniausia Herodoto minima slavų šaka."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Venedai: 0.87"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Budinai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Venedai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai teigia, kad budinai buvo venedų tauta."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Budinai priklausė Venedai (0.87)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-194736
+
+<a id="claim-t-212376"></a>
+- t-212376
+  teiginys: "Dievus garbino senovės Indijos bu dizmo pavyzdžiu; dar būdami Azijoje, davė pradžią su siformavusiai budinu genčiai, kuri įsikūrė prie Dono."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-175167
+    - c-194428
 
-<a id="claim-t-197494"></a>
-- t-014
-  teiginys: "Hugas Grocijus, tyręs budinu ko lonijas Prūsijoje, cituoja vieną autorių, kurio nuodugnūs tyrimai paaiškina istorinę tiesą; tas autorius buvo Geropijus Bekanas3."
-  atnaujinta: "2026-07-12 22:33"
+<a id="claim-t-212473"></a>
+- t-212473
+  teiginys: "T. Narbutas, remdamasis Herodotu, rašo, kad budinai turėjo medines tvirtoves, tarp jų Gelonos, ir buvo apibūdinami kaip rusvaplaukių, šviesiaakių žmonių giminė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  teiginio_tipas: "saltinio_teiginys"
+  ryšio_patikimumas: "susije_su -> Viena: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Budinai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Budinai\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
+<a id="claim-t-213055"></a>
+- t-213055
+  teiginys: "Narbuto pasakojime kolchai dar Azijoje davė pradžią budinų genčiai, kuri vėliau įsikūrė prie Dono."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyveno -> Donas: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Budinai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Donas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad budinų gentis įsikūrė prie Dono."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Budinai gyveno Donas (0.88)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-194428
+
+<a id="claim-t-213643"></a>
+- t-213643
+  teiginys: "Pasak Narbuto cituojamo Herodoto, budinai savo žemėje turėjo medinių tvirtovių, tarp jų Gelonos tvirtovę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Viena: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Budinai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Budinai\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+
+<a id="claim-t-213797"></a>
+- t-213797
+  teiginys: "Iš Herodoto žinome, kad budinai savo žemėje turėjo pastatę medines tvirtoves."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
+<a id="claim-t-215146"></a>
+- t-215146
+  teiginys: "Herodoto budinai buvo venedų tauta, ir mums didelė pa guoda, jog jau tokiais ankstyvais amžiais toks patikimas rašytojas duoda mums akivaizdų atminimą senovinės tautos, kurią, protingai apsvarsčius visas galimybes, kiek vienas protaujantis slavas drąsiai, be."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-175168
+    - c-194736
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -390,9 +421,6 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-009
 
 - id: c-175153
   autorius: "Teodoras Narbutas"
@@ -411,8 +439,6 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
 
 - id: c-175154
   autorius: "Teodoras Narbutas"
@@ -435,8 +461,6 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-175155
   autorius: "Teodoras Narbutas"
@@ -454,8 +478,6 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
 
 - id: c-175156
   autorius: "Teodoras Narbutas"
@@ -480,8 +502,6 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-175163
   autorius: "Teodoras Narbutas"
@@ -505,8 +525,6 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
 
 - id: c-175164
   autorius: "Teodoras Narbutas"
@@ -529,8 +547,6 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
 
 - id: c-175165
   autorius: "Teodoras Narbutas"
@@ -557,8 +573,6 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
 
 - id: c-175166
   autorius: "Teodoras Narbutas"
@@ -585,8 +599,6 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-010
 
 - id: c-175167
   autorius: "Teodoras Narbutas"
@@ -611,9 +623,6 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-011
-    - t-013
 
 - id: c-175168
   autorius: "Teodoras Narbutas"
@@ -636,9 +645,311 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-012
-    - t-014
+
+- id: c-194428
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 41"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 41."
+  citata_originali: |
+    Jame sakoma, kad
+    kolchai giminiavosi su indais, arba kitados iš Indostano
+    kilusiomis gentimis. Dievus garbino senovės Indijos bu­
+    dizmo pavyzdžiu; dar būdami Azijoje, davė pradžią su­
+    siformavusiai budinu genčiai, kuri įsikūrė prie Dono.
+    Kadangi tie kolchai turėjo santykių su egiptiečiais ar
+    priiminėjo juos, jų kolonijų ar tik pastatyto miesto ar
+    tvirtovės būta šiaurinėje Azovo jūros pakrantėje, tai da­
+    1
+    Ritter Carl.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212376
+    - t-213055
+
+- id: c-194667
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 73"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 73."
+  citata_originali: |
+    Naujausių ir tiksliau­
+    sių šios graikų istoriko geografijos paaiškinimų pateikė
+    generolas Baturlinas, aprašydamas Darijaus žygį prieš
+    Skitiją2. Pasak jo, gelonų gyventa dabartinėje Staro-
+    belsko apskrityje, o budinai gyveno visai greta, rytų link
+    buvo užėmę šiandienių Voluikos ir Bogončavo miestų
+    apylinkes, vadinasi, šių abiejų genčių gyvenamas kraš­
+    tas plytėjo Dono ir Doneco tarpupyje, jo plotas iš pietų
+    į šiaurę galėjo būti nuo 48 iki 51 laipsnio platumos, o
+    tisagetai buvo įsikūrę šiandienėse Oriolo, Tūlos, Riaza-
+    nės, Tambovo ir Penzos gubernijose. Šios gentys buvo
+    laikomos getų karta, kuri anksčiau turėjusi gyventi prie
+    Tisos, arba Tibiskos, upės, įtekančios į Dunojų ir dėl to
+    taip vadinamos3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213585
+
+- id: c-194736
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 14"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 14."
+  citata_originali: |
+    Štai kaip P. J. Safar­
+    žykas apibūdino T. Narbuto pamėgtuosius budinus: ,,<...>
+    Herodoto budinai buvo venedų tauta, ir mums didelė pa­
+    guoda, jog jau tokiais ankstyvais amžiais toks patikimas
+    rašytojas duoda mums akivaizdų atminimą senovinės
+    tautos, kurią, protingai apsvarsčius visas galimybes, kiek­
+    vienas protaujantis slavas drąsiai, be jokios apgaulės
+    gali laikyti savo padermės šaka“3. O antrame „Slavų se­
+    nienų“ tome konstatavo: „Budininai, budinai — pati se­
+    niausia Herodoto minima slavų šaka, kažkur Voluinėje
+    ir Baltarusijoje“4.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212329
+    - t-215146
+
+- id: c-194755
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 214."
+  citata_originali: |
+    Senovės tyrinėtojai ne­
+    abejoja, jog budinai įsiterpė tarp venedų ir slavų gyvena­
+    mųjų vietovių ir įsikūrė iš dalies taikiai, iš dalies gal iš­
+    stumdami kitas gentis prie Nemuno, o vėliau ir Vyslos,
+    Dauguvos, — tai nedvejodamas pasakoja Osolinskisk Prie
+    jūros skubančio Nemuno vaga atvedė iki žygio j vakarus
+    pabaigos. Tad Nemuno žemupio pakrantes visų pirma de­
+    ra laikyti ¡pirmąja lietuvių tautos buveine šiame krašte,
+    iš kur besiplėsdami lietuviai užėmė tolesnes šalis. Tun-
+    manas savo tyrimais rodo, jog, kai lietuvių tautos tėvai
+    atsikėlė prie Baltijos jūros ir ėmė prie jos plėstis, tuojau
+    užėmė Sembą ir gintaro kasyklas2.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214328
+    - t-214803
+
+- id: c-195247
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 268"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 268."
+  citata_originali: |
+    Hugas Grocijus, tyręs budinu ko­
+    lonijas Prūsijoje, cituoja vieną autorių, kurio nuodugnūs
+    tyrimai paaiškina istorinę tiesą; tas autorius buvo Gero-
+    pijus Bekanas3. Sambijoje buvo gynybinių miestų, puikių
+    dievams garbinti skirtų šventųjų vietų, pastatytų turtin­
+    gų dvarų ir dėl nepaliaujamų susidūrimų su pakrančių
+    plėšikais gana daug laukinių, nepasitikinčių, tarpusavyje
+    besivaidijančių gyventojų. Rytuose ši provincija ribojosi
+    su Nadruva, pietuose — su Natangija, vakaruose ir šiau­
+    rėje jos žemes skalavo Baltijos jūra.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212296
+    - t-213216
+
+- id: c-196069
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 257"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 257."
+  citata_originali: |
+    Tad ir tas skitiškas lietuvių tautos pavadinimas
+    galėjęs būti kildinamas iš to, kad ji buvo dviejų tautų,
+    gelonų ir budinu, junginys, atsiradęs dar Slkitijos klestė­
+    jimo laikais, o pavadinimas galbūt atsineštas iš Rytų ir
+    romėnams žinomas iš alanų bei masagetų pasakojimų;
+    jie šią lygą žinojo dar rytuose
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214715
+
+- id: c-196410
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 201"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 201."
+  citata_originali: |
+    Trečios
+    knygos penktame skyriuje jau iškėlėme į istorijos areną
+    dviejų — budinu ir gelonų — tautų tarpusavio ryšius, pa­
+    rodėme jų kilmės ištakas, ankstesniame šios knygos sky­
+    riuje kalbėjome apie lietuvių kilmę iš pelazgų, kurių pa­
+    likuonimis pavadinome gelonus, susigiminiavusius ir su­
+    sijungusius į vieną tautą su budinais
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213167
+
+- id: c-197305
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 192"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 192."
+  citata_originali: |
+    Nors gal nėra Europoje nė
+    vienos tautos, kuri; nebūtų 'dviejų arba trijų skirtingų tau­
+    tų lydinys5 , Toks susiliejimas niekada nebuvo trumpo lai­
+    ko ar politinės santvarkos vaisius, bet istorinis faktas,
+    kurį nulemdavo atsitiktinumas ir netikėtos aplinkybės, su­
+    formavusios naujas tautas ir skatinusios žmonių plitimą
+    tuo metu, kai pirmykštės žmonių giminės dar buvo ne­
+    gausios, išskaidytos po tolimas vietoves ir kolonijas, kur
+    jas nubloškė apvaizda.
+    196
+    Būtent šitaip ir su panašiomis aplinkybėmis susijusi,
+    atrodo, lietuvių tautos, kaip lydinio dviejų senovės tautų,
+    gelonų ir budinu, pradžia. Pirmieji buvo pelazgų-helenų,
+    antrieji — indų-skitų kiimės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215741
+
+- id: c-197311
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 75"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 75."
+  citata_originali: |
+    Pasak to paties istoriko, budinu giminei bū­
+    dingi šie bruožai: „Budinai labai gražūs, rusvaplaukiai
+    žmonės, turi šviesiai mėlynas akis“1. Būtent šie bruožai
+    yra skitiški, aprašyti to paties autoriaus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212879
+
+- id: c-197345
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 72"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 72."
+  citata_originali: |
+    Maždaug įpusėjus VI amžiui prieš
+    Kristaus gimimą, kai sarmatai pradėjo keliauti per Kau­
+    kazą ir priartėjo prie Volgos žiočių, o skitų nomadai, jau
+    seniai įsikūrę abiejose Dnepro upės pakrantėse, tų pačių
+    genčių Pavolgio gyventojai, buvo priversti palikti savo
+    gyvenamąsias vietas dėl neabejotinai nemielos sarmatų
+    kaimynystės, tuomet budinams teko persikelti į kairiąją
+    Dono pusę ir įsikurti Dono bei Doneco tarpupyje
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-213670
+
+- id: c-198868
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 226"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 226."
+  citata_originali: |
+    tre­
+    čią šventąją upę, pavadintą Ross, kuri buvo dabartinė upė, be­
+    sivadinanti Oskolas. Lemtis, nuginusi gelonus ir budinus nuo
+    tos upės, atvedė juos prie Nemuno vidurupio; apsigyvenę jo
+    kairiajame krante, dabartinėje Volkovysko apskrityje, upę, te­
+    kančią per jų sodybų vidurį, jie pavadino Rose (Ross).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216905
+
+- id: c-200925
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 279-280"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 279-280."
+  citata_originali: |
+    Be­
+    je, budinu susiliejimas su europiečių tauta ir vėliau graikų ti­
+    3 Šio pavadinimo rašyba nesutampa: vieni rašoKriwe, kiti —Kre-
+    we. Mes laikomės pastarosios, kadangi Lietuvos istorijos paminkluose
+    turime Krewo, Krewiczy — pavadinimus, kilusius iš vieno šaltinio, iki
+    šiol girdimus iš žmonių lūpų ir randamus seniausiuose raštuose. Tie­
+    sa, mes nemokame deramai išaiškinti, ką reiškia tas pavadinimas,
+    kadangi jo kilmės mįslė dingsta žilos senovės toliuose. Ponas Foig-
+    tas, norėdamas suteikti vokiškumo atspalvį, rašo Griwe.
+    4 Dusburg. - Pars III. - Cap. 5.
+    5 Skaityk pono Majevskio studiją apie Indijos budinu hierarchiją
+    (Zbior rozpraw. - T. I. - Cz. I. - Warszawa, 1827)*.
+    280
+
+    kėjimo bei daugybės svetimų dievų priėmimas, o dar vietinės
+    sąlygos ir nepaprastai didelis atitolimas nuo Azijos - visa tai
+    smulkiuose religijos dalykuose užtemdė budizmą, tad iki mūsų
+    laikų išliko tiktai kai kurie svarbiausi principai
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216642
 
 ## Ryšiai
 - Budinai gyveno [[objektai/vietos/Bogončavas]], [[objektai/vietos/Volgos žemupys]], [[objektai/vietos/Volkovysko apskritis]], [[objektai/vietos/Voluika]]

@@ -33,20 +33,6 @@ Teisinėje praktikoje perviliojimas buvo įvardytas kaip viena iš nusikalstamo 
 
 Teisinėje praktikoje perviliojimas buvo įvardytas kaip viena iš nusikalstamo pasitraukimo nuo dvaro rūšių.
 
-## Teiginiai
-
-<a id="claim-t-203762"></a>
-- t-001
-  teiginys: "Teisinėje praktikoje perviliojimas buvo įvardytas kaip viena iš nusikalstamo pasitraukimo nuo dvaro rūšių."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  pagrindžia:
-    - c-186366
-
 ## Citatos
 
 - id: c-186366
@@ -68,5 +54,20 @@ Teisinėje praktikoje perviliojimas buvo įvardytas kaip viena iš nusikalstamo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203762"></a>
+- t-001
+  teiginys: "Teisinėje praktikoje perviliojimas buvo įvardytas kaip viena iš nusikalstamo pasitraukimo nuo dvaro rūšių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  pagrindžia:
+    - c-186366
+

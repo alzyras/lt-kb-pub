@@ -39,21 +39,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-204328"></a>
-- t-001
-  teiginys: "XVI a. LDK bajorams žvejai tiekdavo dvaro ežeruose, upėse ir tvenkiniuose sužvejotas lydekas, ungurius, eršketus, lašišas ir kitas žuvis."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
-  vertinimo_atnaujinta: "2026-08-06T23:41:06Z"
-  pagrindžia:
-    - c-186928
-
 ## Santrauka
 
 XVI a. LDK bajorams žvejai tiekdavo dvaro ežeruose, upėse ir tvenkiniuose sužvejotas lydekas, ungurius, eršketus, lašišas ir kitas žuvis.
@@ -88,5 +73,21 @@ XVI a. LDK bajorams žvejai tiekdavo dvaro ežeruose, upėse ir tvenkiniuose su�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204328"></a>
+- t-001
+  teiginys: "XVI a. LDK bajorams žvejai tiekdavo dvaro ežeruose, upėse ir tvenkiniuose sužvejotas lydekas, ungurius, eršketus, lašišas ir kitas žuvis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-53374-Bajoru-virtuve"
+  vertinimo_atnaujinta: "2026-08-06T23:41:06Z"
+  pagrindžia:
+    - c-186928
+

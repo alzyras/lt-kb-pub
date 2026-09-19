@@ -46,25 +46,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-40724"></a>
-- t-001
-  teiginys: "Karacenos šarvų komplektas priskiriamas Abiejų Tautų Respublikai ir datuojamas XVIII a."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Abiejų Tautų Respublika: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karacenos šarvų komplektas: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Šarvų komplektas priskiriamas Abiejų Tautų Respublikai, nors tai labiau atribucija nei nuosavybės teiginys."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Karacenos šarvų komplektas priklausė Abiejų Tautų Respublika (0.74)"
-  pagrindžia:
-    - c-44660
-
 ## Citatos
 
 - id: c-44660
@@ -82,5 +63,25 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-40724"></a>
+- t-001
+  teiginys: "Karacenos šarvų komplektas priskiriamas Abiejų Tautų Respublikai ir datuojamas XVIII a."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Abiejų Tautų Respublika: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Karacenos šarvų komplektas: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Abiejų Tautų Respublika: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Šarvų komplektas priskiriamas Abiejų Tautų Respublikai, nors tai labiau atribucija nei nuosavybės teiginys."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Karacenos šarvų komplektas priklausė Abiejų Tautų Respublika (0.74)"
+  pagrindžia:
+    - c-44660
+

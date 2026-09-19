@@ -46,24 +46,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-205207"></a>
-- t-001
-  teiginys: "Kai jau apsirūpino visais reikmenimis, Dortmundo grafo Konrado, narsaus riterio iš Iborgo Herberto, taip pat grupės žymių kry žiuočių lydimas, išsiruošė dvidešimt trimis laivais, 1199 metais išplaukė ir greitai ir sėkmingai atvyko į Livoniją."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1199 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir aiškiai įvardyti kelionės dalyviai, laivų skaičius bei tikslas. Asmenų titulai palikti su šaltinio atribucija."
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-187750
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kai jau apsirūpino visais reikmenimis, Dortmundo grafo Konrado, narsaus riterio iš Iborgo Herberto, taip pat grupės žymių kry žiuočių lydimas, išsiruošė dvidešimt trimis laivais, 1199 metais išplaukė ir greitai ir sėkmingai atvyko į Livoniją.'
@@ -101,5 +83,24 @@ Kai jau apsirūpino visais reikmenimis, Dortmundo grafo Konrado, narsaus riterio
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205207"></a>
+- t-001
+  teiginys: "Kai jau apsirūpino visais reikmenimis, Dortmundo grafo Konrado, narsaus riterio iš Iborgo Herberto, taip pat grupės žymių kry žiuočių lydimas, išsiruošė dvidešimt trimis laivais, 1199 metais išplaukė ir greitai ir sėkmingai atvyko į Livoniją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1199 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas OCR triukšmas ir aiškiai įvardyti kelionės dalyviai, laivų skaičius bei tikslas. Asmenų titulai palikti su šaltinio atribucija."
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187750
+

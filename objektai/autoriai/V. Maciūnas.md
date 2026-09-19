@@ -42,21 +42,6 @@ canonical_biography: "Maciūnas : Orzechowski, LE, t."
 
 Maciūnas : Orzechowski, LE, t.
 
-## Teiginiai
-
-<a id="claim-t-194840"></a>
-- t-001
-  teiginys: "Susidomėjimas lietuvių mitologija plito tarp Vilniaus universiteto studentų ir profesorių, nors jo rektorius Jonas Sniadeckis ir piktinosi jau nųjų lenkų romantikų susižavėjimu senaisiais tikėjimais, sak 1 Maciūnas L Lituanistinis sąjūdis XIX a."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-177236
-
 ## Citatos
 
 - id: c-177236
@@ -77,5 +62,4 @@ Maciūnas : Orzechowski, LE, t.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

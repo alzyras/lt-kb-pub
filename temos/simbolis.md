@@ -6,7 +6,7 @@ tema_kategorija: "daiktai"
 tema_kategorijos_pavadinimas: "Daiktai"
 tema_aprasymas: ""
 tema_graph_role: "core"
-tema_objektu_skaicius: 102
+tema_objektu_skaicius: 101
 graph_hub: false
 sukurta: '2026-04-26'
 tags: []
@@ -16,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 102.
+Objektų skaičius: 101.
 
 ## Kaip naudoti
 
@@ -103,7 +103,6 @@ Objektų skaičius: 102.
 - [Senovės prūsų vėliava su Perkūno, Patelo ir Atrimpo atvaizdais](../objektai/daiktai/Senov%C4%97s%20pr%C5%ABs%C5%B3%20v%C4%97liava%20su%20Perk%C5%ABno%2C%20Patelo%20ir%20Atrimpo%20atvaizdais)
 - [Sibilės plytos su hieroglifais](../objektai/daiktai/Sibil%C4%97s%20plytos%20su%20hieroglifais)
 - [Slenksčio religinis ženklas ir kryžius](../objektai/daiktai/Slenks%C4%8Dio%20religinis%20%C5%BEenklas%20ir%20kry%C5%BEius)
-- [Stulpai](../objektai/daiktai/Stulpai)
 - [Sutikimo vartai](../objektai/daiktai/Sutikimo%20vartai)
 - [Sąjūdžio ženklas su Gedimino stulpais](../objektai/daiktai/S%C4%85j%C5%ABd%C5%BEio%20%C5%BEenklas%20su%20Gedimino%20stulpais)
 - [Tautinės vėliavos](../objektai/daiktai/Tautin%C4%97s%20v%C4%97liavos)

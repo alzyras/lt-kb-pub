@@ -36,21 +36,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206826"></a>
-- t-001
-  teiginys: "Keturiomis kolonomis, kurių kiekvienoje buvo mažiausiai po 4 000 ginkluotų žmonių, Algirdo, Kęstučio, Patirgo ir Aleksandro vadovaujami lietuviai įsiveržė į Šalaviją, sudegino pilis bei priemiesčius ir paėmė 800 žmonių į nelaisvę."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189441
-
 ## Santrauka
 
 Keturiomis kolonomis, kurių kiekvienoje buvo mažiausiai po 4 000 ginkluotų žmonių, Algirdo, Kęstučio, Patirgo ir Aleksandro vadovaujami lietuviai įsiveržė į Šalaviją, sudegino pilis bei priemiesčius ir paėmė 800 žmonių į nelaisvę.
@@ -74,5 +59,21 @@ Keturiomis kolonomis, kurių kiekvienoje buvo mažiausiai po 4 000 ginkluotų ž
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206826"></a>
+- t-001
+  teiginys: "Keturiomis kolonomis, kurių kiekvienoje buvo mažiausiai po 4 000 ginkluotų žmonių, Algirdo, Kęstučio, Patirgo ir Aleksandro vadovaujami lietuviai įsiveržė į Šalaviją, sudegino pilis bei priemiesčius ir paėmė 800 žmonių į nelaisvę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189441
+

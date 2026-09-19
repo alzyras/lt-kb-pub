@@ -43,27 +43,6 @@ canonical_biography: "Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jo
 
 Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydama taip pat Marijos vardu.
 
-## Teiginiai
-
-<a id="claim-t-35250"></a>
-- t-001
-  teiginys: "Mozūrijos kunigaikštis Jonušas 1380 m. vedė Danutą, kuri krikšte gavo ir Marijos vardą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "vede -> Danuta: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Mozūrijos kunigaikštis Jonušas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Danuta: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Teiginyje tiesiogiai pasakyta, kad Jonušas vedė Danutą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Mozūrijos kunigaikštis Jonušas vedė Danuta (0.95); Mozūrijos kunigaikštis Jonušas buvo valdovas Mozūrija (0.85)"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1380 m.; valdymo laikotarpis: 1392 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Mozūrijos kunigaikštis Jonušas buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-38104
-
 ## Citatos
 
 - id: c-38104
@@ -83,8 +62,30 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Danuta]]
+
+## Teiginiai
+
+<a id="claim-t-35250"></a>
+- t-001
+  teiginys: "Mozūrijos kunigaikštis Jonušas 1380 m. vedė Danutą, kuri krikšte gavo ir Marijos vardą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "vede -> Danuta: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Mozūrijos kunigaikštis Jonušas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Danuta: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Teiginyje tiesiogiai pasakyta, kad Jonušas vedė Danutą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Mozūrijos kunigaikštis Jonušas vedė Danuta (0.95); Mozūrijos kunigaikštis Jonušas buvo valdovas Mozūrija (0.85)"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1380 m.; valdymo laikotarpis: 1392 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Mozūrijos kunigaikštis Jonušas buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-38104
+

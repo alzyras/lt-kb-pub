@@ -43,28 +43,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-189732"></a>
-- t-001
-  teiginys: "Narbutas pasakojo, kad darbininkas mūre aptiko cinkinę deivės Veneros statulėlę ir nunešė ją kunigui vikarui Mingailai."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> kunigas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mildos cinkinė statulėlė: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "kunigas: mention_match, thing, gap=46"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mildos cinkinė statulėlė\" parinktas kaip owner_note_path. Targetas \"kunigas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-172615
-
 ## Reikšmingi paminėjimai
 - c-002
   santrauka: 'Franckevičiaus dienoraščio pasakojime Kauno klebonijoje darbininkas sienoje aptiko įmūrytą cinkinę Veneros statulėlę ir nunešė ją vikarui Mingailai.'
@@ -119,5 +97,51 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-199348
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 134"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 134."
+  citata_originali: |
+    Ten dirbęs žmogus, išmušęs keletą
+    sluoksnių plytų, aptiko kadaise įmūrytą cinkinę deivės Veneros
+    statulėlę, kurią nunešė kunigui vikanu Mingailai. Kunigas vika­
+    ras, skrupulas, nelaukdamas mano sugrįžimo, įsakė tą antiką
+    sudaužyti ir nucinkuoti prikaistuvus bei puodus. Ir įvyko taip,
+    jog to paminklo, kurį senovės lietuvis (vadinasi, tam Dievui mel­
+    dęsis) bandė išgelbėti nuo pražūties, mūsiškis bedievis Mingaila
+    nenorėjo net pėdsako palikti“. Tai apčiuopiamas įrodymas, jog
+    kadaise buvo deivės Mildos stabai, kuriuos lietuviai itin garbi­
+    no*.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-217513"></a>
+- t-001
+  teiginys: "Narbutas pasakojo, kad darbininkas mūre aptiko cinkinę deivės Veneros statulėlę ir nunešė ją kunigui vikarui Mingailai."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> kunigas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mildos cinkinė statulėlė: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "kunigas: mention_match, thing, gap=46"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mildos cinkinė statulėlė\" parinktas kaip owner_note_path. Targetas \"kunigas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-199348
+

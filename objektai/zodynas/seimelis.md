@@ -38,47 +38,6 @@ Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie 
 
 ## Teiginiai
 
-<a id="claim-t-200630"></a>
-- t-001
-  teiginys: "Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie tribunole dirbdavo vienus metus."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "gap::vocabulary"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-184025
-
-<a id="claim-t-200631"></a>
-- t-002
-  teiginys: "Seimeliuose bajorija rinkdavo atstovus į seimą ir surašydavo jiems instrukcijas."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "gap::vocabulary"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Pašalintas kontekstinis junginys ir sukonkretintas veiksnys."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-184029
-
-<a id="claim-t-200632"></a>
-- t-003
-  teiginys: "Vėliau seimeliai buvo šaukiami atskiriems reikalams: priešseiminiuose rinkti atstovai į seimą, reliaciniuose pranešta apie seimo darbus."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "gap::vocabulary"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Karolis Eidžiatovičius (Smolensko pavieto žemės teisėjas, 1749 m.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "seimelis: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Karolis Eidžiatovičius (Smolensko pavieto žemės teisėjas, 1749 m.): mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"seimelis\" parinktas kaip owner_note_path. Targetas \"Karolis Eidžiatovičius (Smolensko pavieto žemės teisėjas, 1749 m.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-184029
-
 <a id="claim-t-200667"></a>
 - t-004
   teiginys: "1749 m. Smolensko pavieto seimelyje buvo renkami tokie pareigūnai kaip vėliavininkas, žemės teisėjas, iždininkas ir žemės raštininkas."
@@ -122,6 +81,42 @@ Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie 
   pagrindžia:
     - c-184043
 
+<a id="claim-t-200630"></a>
+- t-200630
+  teiginys: "Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie tribunole dirbdavo vienus metus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+  pagrindžia:
+    - c-184025
+    - c-184029
+
+<a id="claim-t-200631"></a>
+- t-200631
+  teiginys: "Seimeliuose bajorija rinkdavo atstovus į seimą ir surašydavo jiems instrukcijas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Pašalintas kontekstinis junginys ir sukonkretintas veiksnys."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-184029
+    - c-184026
+
+<a id="claim-t-200665"></a>
+- t-200665
+  teiginys: "Vėliau seimeliai buvo šaukiami atskiriems reikalams: priešseiminiuose rinkti atstovai į seimą, reliaciniuose pranešta apie seimo darbus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/05_quality_control/01_normalize_tags.md::validation_repair"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
+  pagrindžia:
+    - c-184029
+
 ## Citatos
 
 - id: c-184013
@@ -131,8 +126,9 @@ Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie 
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.), PDF 5."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 17:37"
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-184025
@@ -152,8 +148,8 @@ Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-200630
 
 - id: c-184026
   redaktorius: "A. Šapoka"
@@ -172,6 +168,9 @@ Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-200631
+
 - id: c-184027
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
@@ -194,6 +193,7 @@ Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-184029
   redaktorius: "A. Šapoka"
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -216,9 +216,10 @@ Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-003
+  pagrindžia:
+    - t-200630
+    - t-200631
+    - t-200665
 
 - id: c-184043
   autorius: "Domininkas Burba"
@@ -227,6 +228,8 @@ Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie 
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.), PDF 5."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 17:49"
-  pagrindzia:
+  pagrindžia:
     - t-005
+

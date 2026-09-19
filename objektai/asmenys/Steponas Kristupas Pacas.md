@@ -89,11 +89,12 @@ Lietuvos vicekancleris Steponas Kristupas Pacas antrame XVII a. ketvirtyje karme
     buvo panaudotas tašytas akmuo — medžiaga visai neįprasta Vilniui, medžio
     ir smėlio miestui, kur net plyta buvo prabangos dalykas.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184208
@@ -115,9 +116,11 @@ Lietuvos vicekancleris Steponas Kristupas Pacas antrame XVII a. ketvirtyje karme
     Antverpene. Grįžęs į Lietuvą, Pacas tampa sąmoningu didžiojo meno ugdy­
     toju savo tėvynėje.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+

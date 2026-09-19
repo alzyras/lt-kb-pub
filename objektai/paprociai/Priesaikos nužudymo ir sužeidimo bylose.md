@@ -39,32 +39,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-203686"></a>
-- t-001
-  teiginys: "Kad bausmė būtų skirta, nužudymo ir sužeidimo bylose reikėjo priesaikų."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
-  pagrindžia:
-    - c-186290
-
-<a id="claim-t-203687"></a>
-- t-002
-  teiginys: "Nužudymo atveju prisiekti turėjo nužudytojo šeimos nariai su kaimynais arba šeimyna."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
-  pagrindžia:
-    - c-186291
-
 ## Santrauka
 
 Kad bausmė būtų skirta, nužudymo ir sužeidimo bylose reikėjo priesaikų. Nužudymo atveju prisiekti turėjo nužudytojo šeimos nariai su kaimynais arba šeimyna.
@@ -88,7 +62,7 @@ Kad bausmė būtų skirta, nužudymo ir sužeidimo bylose reikėjo priesaikų. N
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186291
@@ -107,5 +81,32 @@ Kad bausmė būtų skirta, nužudymo ir sužeidimo bylose reikėjo priesaikų. N
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-203686"></a>
+- t-001
+  teiginys: "Kad bausmė būtų skirta, nužudymo ir sužeidimo bylose reikėjo priesaikų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186290
+
+<a id="claim-t-203687"></a>
+- t-002
+  teiginys: "Nužudymo atveju prisiekti turėjo nužudytojo šeimos nariai su kaimynais arba šeimyna."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-63755-Mirties-bausme-LDK-bajoriskos-teises-aktuose"
+  pagrindžia:
+    - c-186291
+

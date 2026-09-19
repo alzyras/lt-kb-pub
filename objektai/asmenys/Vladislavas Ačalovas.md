@@ -35,25 +35,6 @@ canonical_biography: "Karinėms operacijoms ėmėsi vadovauti į Vilnių atvykę
 
 Karinėms operacijoms ėmėsi vadovauti į Vilnių atvykęs sssR gynybos viceministras, buvęs sssR oro desanto kariuomenės vadas generolas pulkininkas Vladislavas Ačalovas ir sssR sausumos kariuomenės TANKAI PRIEŠ BEGINKLIUS ŽMONES Sausio 13 d.
 
-## Teiginiai
-
-<a id="claim-t-40514"></a>
-- t-001
-  teiginys: "Sausio 13-osios naktį karinėms operacijoms Vilniuje ėmė vadovauti SSRS gynybos viceministras Vladislavas Ačalovas."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vladislavas Ačalovas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Ačalovas tiesiogiai apibūdintas kaip atvykęs į Vilnių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vladislavas Ačalovas keliavo į Vilnius (0.90)"
-  pagrindžia:
-    - c-44562
-
 ## Citatos
 
 - id: c-44562
@@ -86,8 +67,28 @@ Karinėms operacijoms ėmėsi vadovauti į Vilnių atvykęs sssR gynybos vicemin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Vladislavas Ačalovas keliavo į [[objektai/vietos/Vilnius]]
+
+## Teiginiai
+
+<a id="claim-t-40514"></a>
+- t-001
+  teiginys: "Sausio 13-osios naktį karinėms operacijoms Vilniuje ėmė vadovauti SSRS gynybos viceministras Vladislavas Ačalovas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Vilnius: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vladislavas Ačalovas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Ačalovas tiesiogiai apibūdintas kaip atvykęs į Vilnių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vladislavas Ačalovas keliavo į Vilnius (0.90)"
+  pagrindžia:
+    - c-44562
+

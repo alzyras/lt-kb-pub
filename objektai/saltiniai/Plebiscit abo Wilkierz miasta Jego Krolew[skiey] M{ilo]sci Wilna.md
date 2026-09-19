@@ -24,20 +24,6 @@ media_all_json: |-
 
 Tais pačiais metais jis buvo Vilniuje išspausdintas atskira knyga Plebiscit abo Wilkierz 11Iiastu Jego Krolew[skiey] M{ilo]sci Wilna ...
 
-## Teiginiai
-
-<a id="claim-t-202293"></a>
-- t-001
-  teiginys: "Tais pačiais metais jis buvo Vilniuje išspausdintas atskira knyga Plebiscit abo Wilkierz 11Iiastu Jego Krolew[skiey] M{ilo]sci Wilna ..."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185640
-
 ## Citatos
 
 - id: c-185640
@@ -53,5 +39,20 @@ Tais pačiais metais jis buvo Vilniuje išspausdintas atskira knyga Plebiscit ab
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202293"></a>
+- t-001
+  teiginys: "Tais pačiais metais jis buvo Vilniuje išspausdintas atskira knyga Plebiscit abo Wilkierz 11Iiastu Jego Krolew[skiey] M{ilo]sci Wilna ..."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185640
+

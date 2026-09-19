@@ -41,10 +41,59 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
 
 ## Teiginiai
 
+<a id="claim-t-207743"></a>
+- t-207743
+  teiginys: "Lietuvos Didžiosios Kunigaikštystės ir Lenkijos Karalystės unija apibūdinama kaip vienas iš lūžinių valstybės politinio gyvenimo momentų."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190533
+
+<a id="claim-t-211691"></a>
+- t-211691
+  teiginys: "Sumanė jie tame Parčevo seime lietuvių didikus išpiauti, o Lietuvos kuni gaikštystę grobtinai prijungti prie Lenkijos."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194174
+
+<a id="claim-t-211184"></a>
+- t-211184
+  teiginys: "Miechovitos Lenkijos istorijomis — yra iš jų nurašytos, perdirbtos ar origina lios."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-192968
+
+<a id="claim-t-211341"></a>
+- t-211341
+  teiginys: "Bychovco kronikos autorius vietoj pasakojimo apie Podolės patekimą Lenkijos valdžion pateikė savą konflikto dėl Podolės versiją."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-193436
+
 <a id="claim-t-193666"></a>
-- t-001
+- t-193666
   teiginys: "Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, kad sutartį sudarė Lenkijos Karalystė ir Lietuvos didysis kunigaikštis."
-  atnaujinta: "2026-07-06 12:55"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -54,9 +103,9 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
     - c-176335
 
 <a id="claim-t-193667"></a>
-- t-002
+- t-193667
   teiginys: "Iš pirmo žvilgsnio lyg ir egzistavo atsivėrusių naujos veiklos erdvių paritetas: Gediminaičiams buvo dalijamos kunigaikštijos Lenkijoje, o lenkų pareigūnai, gavę valdovo įgaliojimus, siunčiami Lietuvon, lietuvių kariuomenė talkino lenkams, o lenkų –."
-  atnaujinta: "2026-07-06 12:55"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -66,9 +115,9 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
     - c-176336
 
 <a id="claim-t-193668"></a>
-- t-003
+- t-193668
   teiginys: "Kai 1815 m. Vienos kongreso nutarimu iš didesnės dalies Varšuvos kunigaikštystės žemių, įskaitant Lietuvos Užnemunę, buvo sudaryta Lenkijos karalystė, vadinamoji Kongresinė Lenkija, jos sostas paveldėjimo teise perduotas Rusijos valdančiajai dinastijai."
-  atnaujinta: "2026-07-06 12:55"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -76,55 +125,6 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-176337
-
-<a id="claim-t-193833"></a>
-- t-004
-  teiginys: "Ir kai kunigaikštis Jogaila atsisėdo Krokuvoje ir Krokuvos karalystė 5 jį paėmė, tada aš vėl pareiškiau savo tikėjimą."
-  atnaujinta: "2026-07-19 18:01"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-176477
-
-<a id="claim-t-193835"></a>
-- t-005
-  teiginys: "Lenkijos karalius Kazimieras Didysis mirė 1370.XI.5, nepali kęs vyriškos lyties įpėdinių."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-176479
-
-<a id="claim-t-196780"></a>
-- t-006
-  teiginys: "Miechovitos Lenkijos istorijomis — yra iš jų nurašytos, perdirbtos ar origina lios."
-  atnaujinta: "2026-07-12 22:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-176478
-
-<a id="claim-t-196781"></a>
-- t-007
-  teiginys: "Bychovco kronikos autorius vietoj pasakojimo apie Podolės patekimą Lenkijos valdžion pateikė savą konflikto dėl Podolės versiją."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-178903
 
 ## Reikšmingi paminėjimai
 - c-004
@@ -185,8 +185,8 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-193666
 
 - id: c-176336
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -211,8 +211,8 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-193667
 
 - id: c-176337
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -231,8 +231,8 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-193668
 
 - id: c-176477
   autorius: "Anoniminis metraštininkas"
@@ -254,8 +254,6 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
 
 - id: c-176478
   autorius: "Anoniminis metraštininkas"
@@ -281,8 +279,6 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
 
 - id: c-176479
   autorius: "Anoniminis metraštininkas"
@@ -301,8 +297,6 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
 
 - id: c-178903
   autorius: "Anoniminis metraštininkas"
@@ -329,5 +323,125 @@ Tai epochos bruožas, o ne arogantiška Jogailos laikysena: juk galima teigti, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+
+- id: c-190533
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 24"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 24."
+  citata_originali: |
+    T
+    e
+    o
+    r
+    i
+    n
+    i
+    a
+    i
+    p
+    r
+    o
+    b
+    l
+    e
+    m
+    o
+    s
+    m
+    e
+    t
+    m
+    e
+    n
+    y
+    s
+    ieškoti atsakymo. Ir tai nenuostabu. Juk Lietuvos Didžiosios Kunigaikštystės ir Lenki-
+    jos Karalystės unija bei kiti lūžiniai valstybės politinio gyvenimo momentai nebuvo
+    pirmos svarbos dalykai, lėmę XVI a. visuomenėje vykusius kultūros procesus, pvz.,
+    darę įtaką literatūros žanrams.
+  citata_rodoma: "Lietuvos Didžiosios Kunigaikštystės ir Lenki-\njos Karalystės unija bei kiti lūžiniai valstybės politinio gyvenimo momentai nebuvo\npirmos svarbos dalykai, lėmę XVI a. visuomenėje vykusius kultūros procesus, pvz.,\ndarę įtaką literatūros žanrams."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207743
+
+- id: c-192968
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 183"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 183."
+  citata_originali: |
+    Svarbiausiais atvejais, kiek leido vieta, teksto paaiškinimuose
+    nurodoma, kaip Bychovco kronikos žinios santykiauja su kitais
+    Lietuvos metraščių sąvadais bei su J. Dlugošo ir M. Miechovitos
+    Lenkijos istorijomis — yra iš jų nurašytos, perdirbtos ar origina­
+    lios. Plačiau paaiškinami taip pat tie istoriniai įvykiai, apie ku­
+    riuos Bychovco kronikoje pasakojama klaidingai arba iškreiptai.
+    Kadangi paaiškinimuose,
+    taupant vielą,
+    ne
+    visur
+    nurodomi
+    panaudoti šaltiniai, pabaigoje pridedamas atskiras literatūros są­
+    rašas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211184
+
+- id: c-193436
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 265"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 265."
+  citata_originali: |
+    LDK metraščių TS ir PS nuorašuose yra atskiras pasako|imas
+    apie Podolės patekimą Lenkijos valdžion, Vytautui mirus, bet BK
+    autorius jo j savo tekstą nebojtrauke, jo vieton
+    patelkdamas savo
+    originalią literatūrine konflikto dėl Podolės versiją. (Pagal Lenki­
+    jos feodalų pozicijas š) konfliktą plačiau ap-ašė J. Dlugošas). Čia
+    dėstomas Jogailos Ir Švitrigailos dialogas Podolės klausimu turėjo
+    būti Vytauto mirties ir laidojimo metu. ne vėliau kaip 1430X1.7,
+    o ne praėjus dvejiems metams |io Vytauto mirties.
+    s Kad Jogaila tikrai buvo sulaikytas Lietuvoje, netiesiogiai liu­
+    dija paliaubų sutartis tarp Jogailos ir Švitrigailos, sudaryta Tra­
+    kuose 1430.XI.7, kuria Jogaila pasižadėjo įsakyti savo pareigū­
+    nams sugrąžinti užimtąsias Podolės pilis Lietuvos Didžiajai Kuni­
+    gaikštystei.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211341
+
+- id: c-194174
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 134"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 134."
+  citata_originali: |
+    Sumanė jie tame Par-
+    čevo seime lietuvių didikus išpiauti, o Lietuvos kuni­
+    gaikštystę grobtinai prijungti prie Lenkijos
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211691
+

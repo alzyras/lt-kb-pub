@@ -37,25 +37,6 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
 
 ## Teiginiai
 
-<a id="claim-t-20892"></a>
-- t-001
-  teiginys: "Vasario 16 Aktas skelbė Lietuvą nepriklausoma valstybe su „etnologinėmis sienomis“."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Aleksandras Stulginskis: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "„etnologinėmis sienomis“: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Aleksandras Stulginskis: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„etnologinėmis sienomis“\" parinktas kaip owner_note_path. Targetas \"Aleksandras Stulginskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "įvykio data: 1918 m.; įvykio data: 1922-1926; įvykio data: 1926 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Reikia pašalinti perteklinį kablelį ir suformuluoti sklandesnį sakinį."
-  pagrindžia:
-    - c-166885
-
 <a id="claim-t-183491"></a>
 - t-002
   teiginys: "Steigiamasis Seimas vienbalsiai priėmė dokumentą, skelbusį Lietuvą nepriklausoma valstybe su „etnologinėmis sienomis“."
@@ -78,6 +59,25 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
   pagrindžia:
     - c-166885
 
+<a id="claim-t-20892"></a>
+- t-20892
+  teiginys: "Vasario 16 Aktas skelbė Lietuvą nepriklausoma valstybe su „etnologinėmis sienomis“."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Aleksandras Stulginskis: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "„etnologinėmis sienomis“: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Aleksandras Stulginskis: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"„etnologinėmis sienomis“\" parinktas kaip owner_note_path. Targetas \"Aleksandras Stulginskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "įvykio data: 1918 m.; įvykio data: 1922-1926; įvykio data: 1926 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Reikia pašalinti perteklinį kablelį ir suformuluoti sklandesnį sakinį."
+  pagrindžia:
+    - c-166885
+
 ## Citatos
 
 - id: c-166885
@@ -96,10 +96,12 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
     išrinktas Lietuvos prezidentu), o birželio 19-ąją sudaryta liaudininko
     Kazio Griniaus vadovaujama vyriausybė.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
     - t-002
+    - t-20892
+

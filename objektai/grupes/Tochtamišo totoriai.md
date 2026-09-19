@@ -47,9 +47,9 @@ media_all_json: |-
     - c-167060
 
 <a id="claim-t-171391"></a>
-- t-002
+- t-171391
   teiginys: "Vytauto kariuomenėje prie Vorsklos buvo keli tūkstančiai Tochtamišo totorių."
-  atnaujinta: "2026-05-31 14:12"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Tochtamišas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -63,9 +63,9 @@ media_all_json: |-
     - c-42942
 
 <a id="claim-t-171392"></a>
-- t-003
+- t-171392
   teiginys: "Dalis Tochtamišo karių prieš Vorsklos mūšį galėjo pereiti į chano Timūr-Kutluko šalininkų pusę."
-  atnaujinta: "2026-06-14 10:59"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Timūr-Kutlukas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -79,9 +79,9 @@ media_all_json: |-
     - c-42945
 
 <a id="claim-t-183668"></a>
-- t-004
+- t-183668
   teiginys: "Tochtamišo totoriai buvo Lietuvos jungtinių pajėgų dalis susidūrime su Timūr-Kutluko kariuomene prie Vorsklos."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -129,8 +129,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-171391
 
 - id: c-42945
   sudarytojas: "Karolis Zikaras"
@@ -156,8 +156,8 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-171392
 
 - id: c-167060
   sudarytojas: "Karolis Zikaras"
@@ -190,10 +190,12 @@ media_all_json: |-
     Aukso ordos chano Timūr-Kutluko,
     Krymo emyro Edygos kariai.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
-    - t-004
+    - t-183668
+

@@ -36,34 +36,6 @@ historical_names: []
 
 Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varmės žemėje gyveno labai galingi vyrai, vardu Gubučiai249, labai pavojingi broliams; jie, sutelkę daug karių, pastatė pilį, vardu Partigala, to pat vardo lauke, o kitą kuorą [propugnaculum[ Skrando kalne250. Dusburgietis teigia, kad d.—in monte Scrandonis, Jer.— ûf Schrandinberge — vėliau Srangenbergo piliakalnis (HE, p. 146; GAO, p. 163) į pietvakarius nuo Parteinių.
 
-## Teiginiai
-
-<a id="claim-t-58640"></a>
-- t-001
-  teiginys: "Gubučiai Skrando kalne pastatė įtvirtintą kuorą ir sustiprino jį kariais."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Partigala: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gubučiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Partigala: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Gubučiai pastatė Partigalos pilį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Gubučiai pastatė Partigala (0.95); Gubučiai gyveno Varmė (0.94)"
-  pagrindžia:
-    - c-59273
-
-<a id="claim-t-58641"></a>
-- t-002
-  teiginys: "Skrando kalnas vėliau sietas su Srangenbergo piliakalniu į pietvakarius nuo Parteinių."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-59272
-
 ## Citatos
 
 - id: c-59272
@@ -79,8 +51,6 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-59273
   autorius: "Petras Dusburgietis"
@@ -100,5 +70,48 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-204780
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 80"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 80."
+  citata_originali: |
+    D.—in monte Scrandonis, Jer.— ûf Schrandinberge — vėliau Srangenbergo piliakalnis
+    (HE, p. 146; GAO, p. 163) į pietvakarius nuo Parteinių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Teiginiai
+
+<a id="claim-t-222043"></a>
+- t-001
+  teiginys: "Gubučiai Skrando kalne pastatė įtvirtintą kuorą ir sustiprino jį kariais."
+  atnaujinta: "2026-09-13 18:12"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Partigala: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gubučiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Partigala: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Gubučiai pastatė Partigalos pilį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Gubučiai pastatė Partigala (0.95); Gubučiai gyveno Varmė (0.94)"
+
+<a id="claim-t-224302"></a>
+- t-002
+  teiginys: "Skrando kalnas vėliau sietas su Srangenbergo piliakalniu į pietvakarius nuo Parteinių."
+  atnaujinta: "2026-09-13 18:13"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204780
+

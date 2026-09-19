@@ -33,17 +33,6 @@ canonical_biography: "Apie 400 „raudonraiščių“, vadovaujamų „Nacionali
 
 Apie 400 „raudonraiščių“, vadovaujamų „Nacionalinio gelbėjimo komiteto“ lyderių komunistų Juozo Jermalavičiaus, Mykolo Burokevičiaus ir Valerijaus Ivanovo organizacijos „Jedinstvo“.
 
-## Teiginiai
-
-<a id="claim-t-40236"></a>
-- t-001
-  teiginys: "Juozas Jermalavičius buvo vienas iš komunistų lyderių, vadovavusių apie 400 „raudonraiščių“."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-44391
-
 ## Citatos
 
 - id: c-44391
@@ -66,5 +55,17 @@ Apie 400 „raudonraiščių“, vadovaujamų „Nacionalinio gelbėjimo komitet
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-40236"></a>
+- t-001
+  teiginys: "Juozas Jermalavičius buvo vienas iš komunistų lyderių, vadovavusių apie 400 „raudonraiščių“."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-44391
+

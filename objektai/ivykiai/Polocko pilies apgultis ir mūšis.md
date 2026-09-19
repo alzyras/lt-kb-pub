@@ -36,32 +36,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-201300"></a>
-- t-001
-  teiginys: "Tą matydamas, Mintautas norėjo juos iki nesusinėrus nukariauti, todėl, kuo veikesniai sukėlęs di džią kariauną lietuvių ir žemaičių, visų pirma ap gulė Polocko pilį, kurią kalavijonys su gudais su sinėrę gyniojo."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184650
-
-<a id="claim-t-201301"></a>
-- t-002
-  teiginys: "Kaipogi susirėmusios šalys laukuose Polocko per 7 dienas pjovęs, ne mušės, iki paskuojo, vienok aštuntąją perlaužę gudai su didžiu vargu rindą lietuvių nebnusimanė patys kaip žaimotis iš paimtųjų lietuvių ir žemaičių: kaipogi įraišioję gy vus į arklių uodegas."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184651
-
 ## Citatos
 
 - id: c-184650
@@ -86,7 +60,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184651
@@ -111,5 +85,32 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-201300"></a>
+- t-001
+  teiginys: "Tą matydamas, Mintautas norėjo juos iki nesusinėrus nukariauti, todėl, kuo veikesniai sukėlęs di džią kariauną lietuvių ir žemaičių, visų pirma ap gulė Polocko pilį, kurią kalavijonys su gudais su sinėrę gyniojo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184650
+
+<a id="claim-t-201301"></a>
+- t-002
+  teiginys: "Kaipogi susirėmusios šalys laukuose Polocko per 7 dienas pjovęs, ne mušės, iki paskuojo, vienok aštuntąją perlaužę gudai su didžiu vargu rindą lietuvių nebnusimanė patys kaip žaimotis iš paimtųjų lietuvių ir žemaičių: kaipogi įraišioję gy vus į arklių uodegas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184651
+

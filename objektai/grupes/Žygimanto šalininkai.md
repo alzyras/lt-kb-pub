@@ -27,25 +27,6 @@ media_all_json: |-
 
 Vilnius, drau­ ge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­ jų lygiai tokių pat galingų, kaip ir viena kitos nekenčiančių Žygimanto ir Švitrigailos grupuočių taikiniu.
 
-## Teiginiai
-
-<a id="claim-t-86780"></a>
-- t-001
-  teiginys: "Žygimanto grupuotė kartu su Švitrigailos šalininkais vėl pavertė Vilnių politinės kovos taikiniu."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_priesas -> Švitrigaila: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žygimanto šalininkai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata aiškiai nurodo Žygimanto ir Švitrigailos grupuočių tarpusavio priešiškumą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Žygimanto šalininkai buvo priešas Švitrigaila (0.74)"
-  pagrindžia:
-    - c-82759
-
 ## Citatos
 
 - id: c-82759
@@ -77,5 +58,25 @@ Vilnius, drau­ ge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-86780"></a>
+- t-001
+  teiginys: "Žygimanto grupuotė kartu su Švitrigailos šalininkais vėl pavertė Vilnių politinės kovos taikiniu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_priesas -> Švitrigaila: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žygimanto šalininkai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Švitrigaila: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata aiškiai nurodo Žygimanto ir Švitrigailos grupuočių tarpusavio priešiškumą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Žygimanto šalininkai buvo priešas Švitrigaila (0.74)"
+  pagrindžia:
+    - c-82759
+

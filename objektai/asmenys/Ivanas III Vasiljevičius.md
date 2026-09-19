@@ -45,18 +45,17 @@ Ivano III puolimas prasidėjo 1485 m. rugpjūtį žygiu į Tverę; Tverė buvo a
 
 ## Teiginiai
 
-<a id="claim-t-194109"></a>
-- t-001
-  teiginys: "Ivano III puolimas prasidėjo 1485 m. rugpjūtį žygiu į Tverę; Tverė buvo apsupta rugsėjo 8 d., o Michailas Borisovičius pabėgo rugsėjo 11–12 d. naktį."
-  atnaujinta: "2026-08-11 18:54"
+<a id="claim-t-211910"></a>
+- t-211910
+  teiginys: "Maskvos didysis kunlgoikštis Ivanas III Vaslljevičius mirė 1505.Х."
+  atnaujinta: "2026-09-12 19:43"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
   pagrindžia:
-    - c-176722
+    - c-193957
 
 ## Citatos
 
@@ -76,5 +75,22 @@ Ivano III puolimas prasidėjo 1485 m. rugpjūtį žygiu į Tverę; Tverė buvo a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-193957
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 325"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 325."
+  citata_originali: |
+    Maskvos
+    didysis kunlgoikštis Ivanas III Vaslljevičius mirė
+    1505.Х. 27.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211910
+

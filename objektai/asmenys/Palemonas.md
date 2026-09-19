@@ -42,10 +42,23 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
 
 ## Teiginiai
 
+<a id="claim-t-207795"></a>
+- t-207795
+  teiginys: "M. Stryjkovskis LDK karių didvyrių, vadinamų riteriais, portretų galeriją pradeda nuo legendinių Palemono ir jo bendražygių palikuonių."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  vertinimo_atnaujinta: "2026-08-18T20:02:07Z"
+  pagrindžia:
+    - c-190347
+
 <a id="claim-t-187453"></a>
-- t-001
+- t-187453
   teiginys: "Lietuvos metraščiuose sukurta Palemono legenda tapo lietuvių ir rusėnų bajorijos kilmės tradicijos pagrindu."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "gap::people"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Rusėnai: 0.85"
@@ -59,29 +72,10 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
   pagrindžia:
     - c-170433
 
-<a id="claim-t-187454"></a>
-- t-002
-  teiginys: "Platesnysis Lietuvos metraščių sąvadas Palemoną vaizduoja kaip Nerono giminaitį ir į šiaurę pabėgusių romėnų „bajorų“ vadovą."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "gap::people"
-  teiginio_tipas: "saltinio_teiginys"
-  ryšio_patikimumas: "buvo_valdovas -> Pajūris: 0.87"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Palemonas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pajūris: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Palemonas tiesiogiai vadinamas Lietuvos pajūrio šalies valdovu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  semantiniai_rysiai: "Palemonas buvo valdovas Pajūris (0.87)"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  pagrindžia:
-    - c-170432
-
 <a id="claim-t-187455"></a>
-- t-003
+- t-187455
   teiginys: "Pasak Kojelavičiaus, Palemonas Lietuvoje nepanaikino daugelio dievų garbinimo ir senąsias apeigas papildė naujais prietarais."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "gap::people"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
@@ -95,51 +89,10 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
   pagrindžia:
     - c-170431
 
-<a id="claim-t-188601"></a>
-- t-004
-  teiginys: "Kronikose Palemonas vaizduotas kaip Lietuvos pajūrio šalies valdovas, su savo žmonėmis atkilęs iš svetimos žemės."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_valdovas -> Pajūris: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Palemonas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pajūris: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai apibūdina Palemoną kaip pajūrio šalies valdovą."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Palemonas buvo valdovas Pajūris (0.90)"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  pagrindžia:
-    - c-171490
-
-<a id="claim-t-188602"></a>
-- t-005
-  teiginys: "Prie Seredžiaus, žemiau Dubysos žiočių, esantis apvalus kalnas su senos piliavietės liekana vadintas Palemono kalnu."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Dubysa: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Palemonas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Dubysa: mention_match, place, gap=77"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Palemonas\" parinktas kaip owner_note_path. Targetas \"Dubysa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-171491
-
 <a id="claim-t-205295"></a>
-- t-006
+- t-205295
   teiginys: "Dažną kartą ir kiekvieno ¡kronikininko kartojamas pasakojimas apie keleto šimtų aukštos kilmės riterių, vadovaujamų žymaus vado, pra minto Palemonu, atvykimą iš šiaurės rytų pusės j Lietu vos kraštus."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -150,9 +103,9 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
     - c-187668
 
 <a id="claim-t-205402"></a>
-- t-007
+- t-205402
   teiginys: "Visiškai galime patikėti spėji mu, tarę, kad šis Palemonas kartu su savo draugais, ¡ku rių buvo penki šimtai, — tai ne kas kita, o herulai, dar išlikę kitoje Oderio pusėje ar kur nors arčiau ir vėliau priversti vykti pas savo giminaičius lietuvius."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -163,9 +116,9 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
     - c-188071
 
 <a id="claim-t-205425"></a>
-- t-008
+- t-205425
   teiginys: "Kronikos Palemoną mini kaip pradininką garsios ku nigaikščių giminės, kuri tos šalies papročiu turėjo pavel dimas didžiules žemių valdas."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -255,8 +208,8 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-187455
 
 - id: c-170432
   autorius: "Anoniminis metraštininkas"
@@ -275,8 +228,6 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-170433
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -298,8 +249,8 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-187453
 
 - id: c-171490
   autorius: "Teodoras Narbutas"
@@ -321,8 +272,6 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
 
 - id: c-171491
   autorius: "Teodoras Narbutas"
@@ -345,8 +294,6 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
 
 - id: c-187668
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -368,8 +315,8 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-205295
 
 - id: c-188034
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -395,8 +342,8 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
+  pagrindžia:
+    - t-205425
 
 - id: c-188071
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -420,8 +367,51 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-205402
+
+- id: c-190347
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 76"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 76."
+  citata_originali: |
+    Lietuvos Didžiosios Kunigaikštystės karių didvyrių, vadinamų riteriais, portretų
+    galeriją M. Stryjkovskis pradeda nuo legendinių Palemono ir jo bendražygių palikuo-
+    nių, „Dorybės pasiuntinyje" vadindamas riteriais tuos legendinius lietuvių kunigaikščius,
+    kurie įrodė savo narsumą. Vienas tokių buvo Germantas. Po Šventaragio mirties ka-
+    ruose su Rusia ir Kryžiuočiais jis narsa įrodė esąs riteris (šalt.
+  citata_rodoma: "Lietuvos Didžiosios Kunigaikštystės karių didvyrių, vadinamų riteriais, portretų\ngaleriją M. Stryjkovskis pradeda nuo legendinių Palemono ir jo bendražygių palikuo-\nnių"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207795
+
+- id: c-198058
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 217"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 217."
+  citata_originali: |
+    Apie tai dar reikia skaityti straipsnyje apie Lietuvos
+    herbus.
+    Palemonas (Palemon)
+    Didvyris, vardas, Lietuvos pajūrio šalies valdovas, atkilęs
+    su savo žmonėmis iš svetimos žemės.
+    Kronikos vienur rašė, kad romėnai arba kurie nors pana­
+    šūs į juos piliečiai atvykę į Lietuvą apie 48 metus prieš Kristų,
+    kitur - 57 metais po Kristaus, trečiur - tos pačios eros 401
+    metais.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Spera Palemonaitis]]

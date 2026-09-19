@@ -65,10 +65,41 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 
 ## Teiginiai
 
+<a id="claim-t-211819"></a>
+- t-211819
+  teiginys: "Tuo metu, bestatant Budą ir apjuosiant mies tą mūro siena, jis nužudė trečiąjį savo brolį, Bledoną."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193357
+
+<a id="claim-t-220552"></a>
+- t-220552
+  teiginys: "1330 m. Eberhardas iš Manheimo neįžengė į Rygą, kol miesto sienoje nebuvo išlaužta 30 uolekčių ilgio spraga."
+  atnaujinta: "2026-09-13 18:12"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Eberhardas (Varmės vyskupas): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Mūro sienos ir miesto sienos: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Eberhardas (Varmės vyskupas): mention_match, person, gap=44"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mūro sienos ir miesto sienos\" parinktas kaip owner_note_path. Targetas \"Eberhardas (Varmės vyskupas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1330 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys nebaigtas ir painus; citata pagrindžia konkretų faktą apie miesto sieną."
+  pagrindžia:
+    - c-202060
+
 <a id="claim-t-55045"></a>
-- t-001
+- t-55045
   teiginys: "Otono Didžiojo laikais Italijos miestai, saugodamiesi vengrų ir saracėnų antpuolių, apsitvėrė mūro sienomis."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Italija: 0.84"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -83,9 +114,9 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     - c-55711
 
 <a id="claim-t-55046"></a>
-- t-002
+- t-55046
   teiginys: "Krokuva Lešekui Juodajam buvo skolinga už svarbias privilegijas, svetimtaučių antplūdį ir gerai sutvirtintas mūro sienas."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -99,9 +130,9 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     - c-85392
 
 <a id="claim-t-55047"></a>
-- t-003
+- t-55047
   teiginys: "1505 m. Vilniaus gyventojams nurodyta apjuosti miestą mūro siena, o negalintiems jos statyti - tverti statinių tvorą."
-  atnaujinta: "2026-05-31 12:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Išganytojo (Spaso) bažnyčia Vilniuje: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -116,29 +147,10 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   pagrindžia:
     - c-55713
 
-<a id="claim-t-89428"></a>
-- t-004
-  teiginys: "1330 m. Eberhardas iš Manheimo neįžengė į Rygą, kol miesto sienoje nebuvo išlaužta 30 uolekčių ilgio spraga."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Eberhardas (Varmės vyskupas): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Mūro sienos ir miesto sienos: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Eberhardas (Varmės vyskupas): mention_match, person, gap=44"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Mūro sienos ir miesto sienos\" parinktas kaip owner_note_path. Targetas \"Eberhardas (Varmės vyskupas)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1330 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys nebaigtas ir painus; citata pagrindžia konkretų faktą apie miesto sieną."
-  pagrindžia:
-    - c-85389
-
 <a id="claim-t-89429"></a>
-- t-005
+- t-89429
   teiginys: "Krokuva už geriausiai sutvirtintas mūro sienas ir svarbias privilegijas buvo skolinga Lešekui Juodajam."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Krokuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -152,9 +164,9 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     - c-85392
 
 <a id="claim-t-89430"></a>
-- t-006
+- t-89430
   teiginys: "Gedimino laikų Vilnius dar nebuvo bokštų ir mūro sienų saugomas miestas."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Bokštai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -168,9 +180,9 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     - c-85390
 
 <a id="claim-t-89431"></a>
-- t-007
+- t-89431
   teiginys: "1506 m. totorių grėsmės išsigandę vilniečiai apjuosė Vilnių mūro pylimu ir pašalino medinius statinius."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Minskas: 0.70"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -211,8 +223,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-55045
 
 - id: c-55713
   autorius: "Michał Baliński"
@@ -236,8 +248,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-55047
 
 - id: c-85389
   autorius: "Petras Dusburgietis"
@@ -262,8 +274,6 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
 
 - id: c-85390
   autorius: "Michał Baliński"
@@ -286,8 +296,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-89430
 
 - id: c-85391
   autorius: "Michał Baliński"
@@ -315,8 +325,8 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-89431
 
 - id: c-85392
   autorius: "Michał Baliński"
@@ -343,6 +353,52 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-005
+  pagrindžia:
+    - t-55046
+    - t-89429
+
+- id: c-193357
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 38"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 38."
+  citata_originali: |
+    Tuo metu, bestatant Budą ir apjuosiant mies­
+    tą mūro siena, jis nužudė trečiąjį savo brolį, Bledoną
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211819
+
+- id: c-202060
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 256"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 256."
+  citata_originali: |
+    Apie Rygos miesto sugriovimą
+
+      Mūsų jau minėtais metais, būtent 1330, apie Velykas (balandžio 1—8), kai Rygos
+    miestas bemaž ištisus metus jau buvo apsuptas, nemari (kitados visi šitaip manė)
+    Rygos miestiečių ir Livonijos teutonų ordino brolių nesantarvė laikinai aprimo; didėjant
+    nepritekliui ir stiprėjant nesantaikai, kurios su baime laukta kilsiant tarp miesto valdytojų
+    ir paprastų žmonių, miestiečiai turėjo ir save, ir savo šeimas, ir miestą, ir savo laisves
+    bei visas teises ir privilegijas patikėti broliui Eberhardui iš Manheimo, Livonijos žemės
+    magistrui, bei broliams tam, kad jie viską tvarkytų ir rikiuotų, kaip jiems rodysis tinkama.
+    Magistras tol nekėlė kojos  į miestą, kol jo sienoje nebuvo išlaužta 30 uolekčių ilgio
+    spraga. Tarė tada viena moteris: „Matyt, tas magistras labai storas, jeigu jam reikia
+    tokios skylės ir negali įeiti pro kitus vartus kaip kiti krikščionys”.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-220552
+

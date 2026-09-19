@@ -49,3 +49,41 @@ Krzysztof Kluk buvo Krusvicos kanauninkas ir veikalo apie naminių bei laukinių
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-190633
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 285"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 285."
+  citata_originali: |
+    Zwierząd domowych i dzikich osobliwie kraiowych historyi naturalney początki i w gospodarstwie po­
+    trzebnych [...], przez Krzysztofa Kluka, kanonika Kruswickiego, w Warszawie: w Drukarni J. K. Mci
+    i Rzeczypospolitey u xx Cholarum 1'iarum, 1779-1780.
+  citata_rodoma: "Zwierząd domowych i dzikich osobliwie kraiowych historyi naturalney początki i w gospodarstwie po­\ntrzebnych [...], przez Krzysztofa Kluka, kanonika Kruswickiego"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-208034"></a>
+- t-001
+  teiginys: "Krzysztof Kluk buvo Krusvicos kanauninkas ir veikalo apie naminių bei laukinių, ypač vietinių, gyvūnų gamtos istoriją autorius."
+  atnaujinta: "2026-09-13 18:03"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  vertinimo_atnaujinta: "2026-08-18T20:43:07Z"
+  pagrindžia:
+    - c-190633
+

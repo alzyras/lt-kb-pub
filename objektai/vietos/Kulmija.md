@@ -48,100 +48,6 @@ historical_names: []
 
 Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Kulmiją.
 
-## Teiginiai
-
-<a id="claim-t-99929"></a>
-- t-001
-  teiginys: "1230 m. Mozūrijos kunigaikštis Konradas kryžiuočiams užrašė Kulmiją."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kulmija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Kulmija tiesiogiai nurodyta kaip Konrado užrašyta kryžiuočiams."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kulmija priklausė Kryžiuočių ordinas (0.90)"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1226 m.; valdymo laikotarpis: 1230 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Konradas (Mozūrijos kunigaikštis) buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalinta kontekstinė pradžia ir patikslintas veikėjas pagal citatą."
-  pagrindžia:
-    - c-93880
-
-<a id="claim-t-201071"></a>
-- t-002
-  teiginys: "Taip išnaikinę pamezonys, sūdaujai, parusnėnai visą Boleslovo kariauną nuteriojo dar baisiai, įkan din jį vydami, Kulmiją ir Mozūriją."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184421
-
-<a id="claim-t-201072"></a>
-- t-003
-  teiginys: "Tasai zokanykas, persikėlęs per Yslą, arba Vyslą, atkeliavo į Kulmiją, apygar das Lubavos, į parubežių Pamezonijos, kur buvo ne tikėliai jau apjunkę krikščionys; visų pirma nuėjo tenai pas Sudreikį kunigaikštį."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184422
-
-<a id="claim-t-201073"></a>
-- t-004
-  teiginys: "Kristijonas išliuosavimu nuo jų pačios Kulmijos ir Lubavos apy gardų terūpinos, kaipogi tose apygardose buvo jau krikščionys."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184423
-
-<a id="claim-t-201074"></a>
-- t-005
-  teiginys: "Tuo jau lietuviai ir žemaičiai įsigrūdę su didžia kariau na į Pamezoniją ir Kulmiją, kurgi ir Sviatopelkas persikėlęs su savo kariauna taikinėjo lietuviams terioti ir deginti."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184424
-
-<a id="claim-t-201075"></a>
-- t-006
-  teiginys: "Už visus kraštus tame patrakime lietuvių per krikštų daugesniai prityrė Kulmija, kuri karts po karto buvo nuteriota, užvis jog tenai visi buvo prašaleičiai ir krikščionys, kurių netikėliai lietuviai neapvežėdami kuo didesniai giežė apmaudą."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184425
-
-<a id="claim-t-201076"></a>
-- t-007
-  teiginys: "Seniai bebuvo lietuviai taip nuterioję kraštus Kulmijos ir Pamezonijos kaip šiuo žy giu, kaipogi, siaubiant tai audrai, kryžėjai nusimi nę tenkinos pilėse belindą, todėl pavyko lietuviams laimingai su visu pelnu namo pagrįžti."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184426
-
 ## Citatos
 
 - id: c-93880
@@ -164,7 +70,7 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184421
@@ -188,7 +94,7 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-184422
@@ -215,7 +121,7 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-184423
@@ -239,7 +145,7 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-184424
@@ -263,7 +169,7 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-184425
@@ -287,7 +193,7 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-184426
@@ -313,8 +219,103 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 ## Ryšiai
 - Kulmija priklausė [[objektai/grupes/Kryžiuočių ordinas]]
+
+## Teiginiai
+
+<a id="claim-t-99929"></a>
+- t-001
+  teiginys: "1230 m. Mozūrijos kunigaikštis Konradas kryžiuočiams užrašė Kulmiją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kulmija: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Kulmija tiesiogiai nurodyta kaip Konrado užrašyta kryžiuočiams."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kulmija priklausė Kryžiuočių ordinas (0.90)"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1226 m.; valdymo laikotarpis: 1230 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Konradas (Mozūrijos kunigaikštis) buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalinta kontekstinė pradžia ir patikslintas veikėjas pagal citatą."
+  pagrindžia:
+    - c-93880
+
+<a id="claim-t-201071"></a>
+- t-002
+  teiginys: "Taip išnaikinę pamezonys, sūdaujai, parusnėnai visą Boleslovo kariauną nuteriojo dar baisiai, įkan din jį vydami, Kulmiją ir Mozūriją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184421
+
+<a id="claim-t-201072"></a>
+- t-003
+  teiginys: "Tasai zokanykas, persikėlęs per Yslą, arba Vyslą, atkeliavo į Kulmiją, apygar das Lubavos, į parubežių Pamezonijos, kur buvo ne tikėliai jau apjunkę krikščionys; visų pirma nuėjo tenai pas Sudreikį kunigaikštį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184422
+
+<a id="claim-t-201073"></a>
+- t-004
+  teiginys: "Kristijonas išliuosavimu nuo jų pačios Kulmijos ir Lubavos apy gardų terūpinos, kaipogi tose apygardose buvo jau krikščionys."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184423
+
+<a id="claim-t-201074"></a>
+- t-005
+  teiginys: "Tuo jau lietuviai ir žemaičiai įsigrūdę su didžia kariau na į Pamezoniją ir Kulmiją, kurgi ir Sviatopelkas persikėlęs su savo kariauna taikinėjo lietuviams terioti ir deginti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184424
+
+<a id="claim-t-201075"></a>
+- t-006
+  teiginys: "Už visus kraštus tame patrakime lietuvių per krikštų daugesniai prityrė Kulmija, kuri karts po karto buvo nuteriota, užvis jog tenai visi buvo prašaleičiai ir krikščionys, kurių netikėliai lietuviai neapvežėdami kuo didesniai giežė apmaudą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184425
+
+<a id="claim-t-201076"></a>
+- t-007
+  teiginys: "Seniai bebuvo lietuviai taip nuterioję kraštus Kulmijos ir Pamezonijos kaip šiuo žy giu, kaipogi, siaubiant tai audrai, kryžėjai nusimi nę tenkinos pilėse belindą, todėl pavyko lietuviams laimingai su visu pelnu namo pagrįžti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184426
+

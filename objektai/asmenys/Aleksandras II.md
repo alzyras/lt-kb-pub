@@ -46,10 +46,68 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
 
 ## Teiginiai
 
+<a id="claim-t-208463"></a>
+- t-208463
+  teiginys: "1860 m. rudenį Aleksandras II atvyko į Vilnių ir dalyvavo iškilmėse katedroje."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  temporaliniai_duomenys: "kelionės data: 1860 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškai taisyklingas ir tiesiogiai apibūdina Aleksandro II atvykimą į Vilnių bei dalyvavimą katedros iškilmėse. Datos ir veiksmai pagrįsti citata."
+  vertinimo_atnaujinta: "2026-09-02T11:31:42Z"
+  pagrindžia:
+    - c-191083
+
+<a id="claim-t-208464"></a>
+- t-208464
+  teiginys: "Aleksandrui II įteiktame memoriale blaivybės priešininkai, degtinės supirkėjai, smuklininkai ir pramonininkai kaltinti siekiu dėl pelno nuskurdinti valstiečius."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
+  pagrindžia:
+    - c-191084
+
+<a id="claim-t-208468"></a>
+- t-208468
+  teiginys: "Caras Aleksandras II 1861 m. liepos 4 d. įsakymu įvedė naują monetą, įsigaliojusią nuo 1863 m. sausio 1 d."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:42Z"
+  pagrindžia:
+    - c-191088
+
+<a id="claim-t-209377"></a>
+- t-209377
+  teiginys: "1822 m. Aleksandras II pasirašė dokumentą, kuriame masoniškos organizacijos priskirtos „organizacijų, besiremiančių priesaika“ kategorijai."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  temporaliniai_duomenys: "įvykio data: 1822 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Nepatogi formuluotė pakeista aiškiu sakiniu, nurodant datą, dokumento objektą ir citatoje esančią kategoriją. Pažodinis šaltinio terminas išlaikytas nepakeistas."
+  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
+  pagrindžia:
+    - c-191903
+
 <a id="claim-t-82167"></a>
-- t-001
+- t-82167
   teiginys: "Caras Aleksandras II su aplinka rengė baudžiavos panaikinimo projektus Rusijos imperijoje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Rusija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -66,9 +124,9 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
     - c-78655
 
 <a id="claim-t-82169"></a>
-- t-002
+- t-82169
   teiginys: "Aleksandro II atėjimas į sostą žymėjo liberalių reformų pradžią ir atgaivino visuomenės politinius siekius."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -109,8 +167,8 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-82167
 
 - id: c-78656
   autorius: "Michał Baliński"
@@ -133,5 +191,98 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-82169
+
+- id: c-191083
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 72"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 72."
+  citata_originali: |
+    Tačiau, kaip vėliau matysime, vyriausybės stovykla nebuvo
+    vienalytė, ir M. Valančius, sužinojęs, kad 1860 m. rudenį į Vilnių
+    atvyks Aleksandras II, pasistengė dalyvauti jo iškilmingame priėmime.
+    Šis priėmimas, šykščiai atspindėtas vyskupo dienoraščio pastabose,
+    buvo panašus į kauniškį, įvykusį prieš dvejus metus. -Spalio 1 d.
+    imperatorius buvo iškilmėse katedroje, dalyvaujant metropolitui V.
+    Žilinskiui, Vilniaus vyskupui A.S. Krasinskiui ir M. Valančiui. Po
+    pamaldų visi trys aukščiausieji bažnyčios dignitoriai buvo priimti
+    Aleksandro II.
+  citata_rodoma: "M. Valančius, sužinojęs, kad 1860 m. rudenį į Vilnių \natvyks Aleksandras II, pasistengė dalyvauti jo iškilmingame priėmime. \nŠis priėmimas, šykščiai atspindėtas vyskupo dienoraščio pastabose, \nbuvo panašus į kauniškį, įvykusį prieš dvejus metus. -Spalio 1 d. \nimperatorius buvo iškilmėse katedroje, dalyvaujant metropolitui V. \nŽilinskiui, Vilniaus vyskupui A.S. Krasinskiui ir M. Valančiui. Po \npamaldų visi trys aukščiausieji bažnyčios dignitoriai buvo priimti \nAleksandro II."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208463
+
+- id: c-191084
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 72"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 72."
+  citata_originali: |
+    Po
+    pamaldų visi trys aukščiausieji bažnyčios dignitoriai buvo priimti
+    Aleksandro II. Tada caras ir ištarė žodžius, kuriais M. Valančius
+    n
+    keletą metų dengėsi, gindamasis nuo blaivybės ir katalikų bažnyčios
+    priešų puolimo: "Dėkui tau, vyskupe, už pastangas įvesti blaivystę"35.
+    Kaip vyskupo atsakas netrukus Aleksandrui II buvo įteiktas
+    memorialas, kuriame negailestingai puolami blaivybės priešininkai,
+    degtinės "atpirkėjai", smuklininkai ir pramonininkai, siekiantys dėl
+    pelno galutinai nustekenti valstiečius.
+  citata_rodoma: "Kaip vyskupo atsakas netrukus Aleksandrui II buvo įteiktas \nmemorialas, kuriame negailestingai puolami blaivybės priešininkai, \ndegtinės \"atpirkėjai\", smuklininkai ir pramonininkai, siekiantys dėl \npelno galutinai nustekenti valstiečius."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208464
+
+- id: c-191088
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 138"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 138."
+  citata_originali: |
+    Ca­
+    ras Aleksandras II 1861.VII.4 įsakymu įvedė naują mo­
+    dem ą, kuri įsigaliojo nuo 1863.1.1 3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208468
+
+- id: c-191903
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 99"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 99."
+  citata_originali: |
+    Paskutinįjį motyvą
+    pabrėžėme todėl, kad 1822 m. uždraudžiant visas masoniškas
+    organizacijas Aleksandras II pasirašė dokumentą, kuriame buvo
+    "organizacijų, besiremiančių priesaika" kategorija.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209377
+

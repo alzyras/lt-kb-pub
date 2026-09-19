@@ -58,58 +58,6 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
 
 - kerdžius
 
-## Teiginiai
-
-<a id="claim-t-195260"></a>
-- t-001
-  teiginys: "Iešmantas ganė iki 1864 m., vėliau vedė žmoną, pasistatė trobą ir, kaimiečių gerbiamas, pabaigė savo amželį."
-  atnaujinta: "2026-07-12 01:05"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177626
-
-<a id="claim-t-195261"></a>
-- t-002
-  teiginys: "Tadaušas Iešmantas buvo vienrankis, gimęs ir augęs tame pačiame kaime, ir iš ganymo valgė duoną."
-  atnaujinta: "2026-07-12 01:05"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177629
-
-<a id="claim-t-195262"></a>
-- t-003
-  teiginys: "Iešmantas buvo linksmo būdo ir dainavo savo komponuotas dainas."
-  atnaujinta: "2026-07-12 01:05"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177627
-
-<a id="claim-t-195263"></a>
-- t-004
-  teiginys: "Kerdžius Iešmantas gerai valdė trimitą ir juo žadindavo mergaites karvių melžti."
-  atnaujinta: "2026-07-12 01:05"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177625
-
-<a id="claim-t-195264"></a>
-- t-005
-  teiginys: "Iešmantas nuo mažystės tarnavo piemeniu, vėliau iš piemenų pastojo į kerdžius."
-  atnaujinta: "2026-07-12 01:05"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177628
-
 ## Citatos
 
 - id: c-177625
@@ -125,7 +73,7 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-177626
@@ -148,7 +96,7 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177627
@@ -164,7 +112,7 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-177628
@@ -180,7 +128,7 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-177629
@@ -200,5 +148,58 @@ Tadaušas Iešmantas aprašomas kaip vienrankis to paties kaimo kerdžius, iš p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-195260"></a>
+- t-001
+  teiginys: "Iešmantas ganė iki 1864 m., vėliau vedė žmoną, pasistatė trobą ir, kaimiečių gerbiamas, pabaigė savo amželį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177626
+
+<a id="claim-t-195261"></a>
+- t-002
+  teiginys: "Tadaušas Iešmantas buvo vienrankis, gimęs ir augęs tame pačiame kaime, ir iš ganymo valgė duoną."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177629
+
+<a id="claim-t-195262"></a>
+- t-003
+  teiginys: "Iešmantas buvo linksmo būdo ir dainavo savo komponuotas dainas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177627
+
+<a id="claim-t-195263"></a>
+- t-004
+  teiginys: "Kerdžius Iešmantas gerai valdė trimitą ir juo žadindavo mergaites karvių melžti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177625
+
+<a id="claim-t-195264"></a>
+- t-005
+  teiginys: "Iešmantas nuo mažystės tarnavo piemeniu, vėliau iš piemenų pastojo į kerdžius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177628
+

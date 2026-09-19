@@ -40,21 +40,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206718"></a>
-- t-001
-  teiginys: "1367 m. rudenį didžiojo magistro vadovaujama kryžiuočių kariuomenė žygiavo dešiniuoju Nemuno krantu, sudegino Veliuonos pilį ir penkias dienas niokojo apylinkes iki Nevėžio žiočių."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189333
-
 ## Santrauka
 
 1367 m. rudenį didžiojo magistro vadovaujama kryžiuočių kariuomenė žygiavo dešiniuoju Nemuno krantu, sudegino Veliuonos pilį ir penkias dienas niokojo apylinkes iki Nevėžio žiočių.
@@ -81,5 +66,21 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206718"></a>
+- t-001
+  teiginys: "1367 m. rudenį didžiojo magistro vadovaujama kryžiuočių kariuomenė žygiavo dešiniuoju Nemuno krantu, sudegino Veliuonos pilį ir penkias dienas niokojo apylinkes iki Nevėžio žiočių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189333
+

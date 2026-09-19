@@ -45,18 +45,6 @@ Antroji „Pone Karaliau“ prašymo formulė.
 
 Apeiginis derliaus prašymas.
 
-## Teiginiai
-
-<a id="claim-t-195416"></a>
-- t-001
-  teiginys: "Giedant „Pone Karaliau“ buvo sakoma „dovanok laukams derlių“."
-  atnaujinta: "2026-07-12 02:45"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177837
-
 ## Citatos
 
 - id: c-177837
@@ -78,5 +66,18 @@ Apeiginis derliaus prašymas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-195416"></a>
+- t-001
+  teiginys: "Giedant „Pone Karaliau“ buvo sakoma „dovanok laukams derlių“."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177837
+

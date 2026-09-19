@@ -68,3 +68,41 @@ Nenurodyta
 ## Santrauka
 
 Lietuvių kariuomenė jau naudojo artileriją – bombardas, o Baltijos regione Vokiečių ordinas tokį ginklą buvo panaudojęs 20 metų anksčiau.
+
+## Citatos
+
+- id: c-190281
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 100"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 100."
+  citata_originali: |
+    1382 m. lie-
+    tuvių kariuomenė jau naudojo artileriją – bombardas. Tai įvyko tik 20 metų vėliau, kai tokį
+    ginklą pirmą kartą Baltijos regione panaudojo Vokiečių ordinas. Pirmojoje XIV a. pusėje
+    lietuvių apsiginklavimas aiškiai skiriamas, o XV a. pradžioje nebeatskiriamas.
+  citata_rodoma: ". lie-\ntuvių kariuomenė jau naudojo artileriją – bombardas. Tai įvyko tik 20 metų vėliau, kai tokį \nginklą pirmą kartą Baltijos regione panaudojo Vokiečių ordinas. Pirmo"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-207664"></a>
+- t-001
+  teiginys: "Lietuvių kariuomenė jau naudojo artileriją – bombardas, o Baltijos regione Vokiečių ordinas tokį ginklą buvo panaudojęs 20 metų anksčiau."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190281
+

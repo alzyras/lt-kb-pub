@@ -47,10 +47,60 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 
 ## Teiginiai
 
+<a id="claim-t-210416"></a>
+- t-003
+  teiginys: "Iš sekan čio— beveik 40 metų — laikotarpio (iki 1492 m.) By chovco kronikoje beveik nėra nė vieno platesnio pa sakojimo iš pačios Lietuvos valstybės vidaus gyveni mo, o kalbama apie tolimus Lenkijos pasienius — Prū siją, Sileziją, Moldaviją, Juodosios jūros."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194088
+
+<a id="claim-t-210565"></a>
+- t-004
+  teiginys: "Į Moldaviją buvo pasiųsti pasiuntiniai ieškoti Švitrigailos."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193045
+
+<a id="claim-t-207890"></a>
+- t-207890
+  teiginys: "1500 m. Bohušas vyko į Moldaviją."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  temporaliniai_duomenys: "įvykio data: 1500 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190434
+
+<a id="claim-t-210395"></a>
+- t-210395
+  teiginys: "Ir užbaigė susitardami, kad jie patys užims Vilniaus ir Trakų pilis ir laikys jas kunigaikščiui Švitri gailai, kuris po Pabaisko pralaimėjimo mūšyje su Mykoliuku Zygimantaičiu buvo pabėgęs į Moldaviją."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193715
+
 <a id="claim-t-171837"></a>
-- t-001
+- t-171837
   teiginys: "Magistras dar balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Lenkija: 0.72"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -65,9 +115,9 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     - c-156307
 
 <a id="claim-t-203626"></a>
-- t-002
+- t-203626
   teiginys: "Moldavija priskiriama avių ir galvijų auginimo regionams pagal vyraujantį palivarko produkcijos pobūdį."
-  atnaujinta: "2026-08-07 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -125,8 +175,8 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-171837
 
 - id: c-186230
   autorius: "Darius Žiemelis"
@@ -152,5 +202,89 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-203626
+
+- id: c-190434
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 199"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 199."
+  citata_originali: |
+    „Mes, Lietuva"
+    Lietuvos Didžiosios Kunigaikštystės bajorija XVI a.
+    1515 m. ir 1518 m. dirbdamas Imperijoje, šis pasiuntinys jau turėjo keliolikos
+    metų diplomatinio darbo Rytuose patirtį. Karjerą B. Bohovitinovičius, spėjama, pradėjo
+    dar 1500 m., kada, kaip rašoma šaltinyje, djakas Bohušas vyko į Moldaviją. 1509 m.
+    pradžioje Bohovitinovičius, tuo metu jau būdamas raštininku ir Žiežmarių bei Daugų
+    vietininku, dalyvavo pasiuntinybėje į Maskvą.
+  citata_rodoma: "Karjerą B. Bohovitinovičius, spėjama, pradėjo\ndar 1500 m., kada, kaip rašoma šaltinyje, djakas Bohušas vyko į Moldaviją."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207890
+
+- id: c-193045
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 120"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 120."
+  citata_originali: |
+    Išsiuntę Skabeiką, pasiuntė į Moldaviją16 ieškoti
+    kunigaikščio Švitrigailos
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
+- id: c-193715
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 120"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 120."
+  citata_originali: |
+    Ir tie trys ponai sumanė
+    ir nutarė nužudyti kunigaikštį Žygimantą. O kitų ku­
+    nigaikščių ir didikų prie Žygimanto tuo metu nė vieno
+    nebuvo. Ir užbaigė susitardami, kad jie patys užims
+    Vilniaus ir Trakų pilis ir laikys jas kunigaikščiui Švitri­
+    gailai, kuris po Pabaisko pralaimėjimo mūšyje su My-
+    koliuku Zygimantaičiu buvo pabėgęs į Moldaviją
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210395
+
+- id: c-194088
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 16"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 16."
+  citata_originali: |
+    Iš sekan­
+    čio— beveik 40 metų — laikotarpio (iki 1492 m.) By­
+    chovco kronikoje beveik nėra nė vieno platesnio pa­
+    sakojimo iš pačios Lietuvos valstybės vidaus gyveni­
+    mo, o kalbama apie tolimus Lenkijos pasienius — Prū­
+    siją, Sileziją, Moldaviją, Juodosios jūros pakraščius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+

@@ -33,20 +33,6 @@ Narbutas nurodo, kad senovės lietuvių kalboje „Warregus“ reiškia kankinto
 
 Narbutas nurodo, kad senovės lietuvių kalboje „Warregus“ reiškia kankintoją, o „Wargint“ ir „Warregt“ – kamuoti ar engti.
 
-## Teiginiai
-
-<a id="claim-t-205274"></a>
-- t-001
-  teiginys: "Narbutas nurodo, kad senovės lietuvių kalboje „Warregus“ reiškia kankintoją, o „Wargint“ ir „Warregt“ – kamuoti ar engti."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-187886
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas nurodo, kad senovės lietuvių kalboje „Warregus“ reiškia kankintoją, o „Wargint“ ir „Warregt“ – kamuoti ar engti.'
@@ -79,5 +65,20 @@ Narbutas nurodo, kad senovės lietuvių kalboje „Warregus“ reiškia kankinto
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205274"></a>
+- t-001
+  teiginys: "Narbutas nurodo, kad senovės lietuvių kalboje „Warregus“ reiškia kankintoją, o „Wargint“ ir „Warregt“ – kamuoti ar engti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187886
+

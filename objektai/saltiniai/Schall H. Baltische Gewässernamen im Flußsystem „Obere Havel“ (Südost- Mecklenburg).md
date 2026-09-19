@@ -32,20 +32,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad schall H.
 
-## Teiginiai
-
-<a id="claim-t-61284"></a>
-- t-001
-  teiginys: "H. Schallo straipsnis apie baltiškus vandenvardžius Obere Havel upių sistemoje paskelbtas „Baltistica“ 1966 m. numeryje 2(1)."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1966 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, temą, leidinį, metus ir numerį."
-  pagrindžia:
-    - c-61916
-
 ## Citatos
 
 - id: c-61916
@@ -61,5 +47,36 @@ Dusburgietis teigia, kad schall H.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-205043
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 271"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
+  citata_originali: |
+    Schall  H.  Baltische  Gewässernamen  im  Flußsystem  „Obere  Havel“  (Südost-
+    Mecklenburg).—Baltistica, 1966, 2(1), p. 7—42.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-225805"></a>
+- t-001
+  teiginys: "H. Schallo straipsnis apie baltiškus vandenvardžius Obere Havel upių sistemoje paskelbtas „Baltistica“ 1966 m. numeryje 2(1)."
+  atnaujinta: "2026-09-13 18:13"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1966 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata pagrindžia autorių, temą, leidinį, metus ir numerį."
+  pagrindžia:
+    - c-205043
+

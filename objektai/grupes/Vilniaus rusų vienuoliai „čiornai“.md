@@ -27,25 +27,6 @@ media_all_json: |-
 
 — • — 137 ## Puslapis 154 VILNIAUS MIESTO ISTORIJA / TOMAS tarp miesto gyventojų, mat nemažą dalį miestiečių sudarė rusinai ir rusų vienuoliai, žmonių vadinami „čiornais", tie, kurie nuo Gedimino laikų, kaip matėme, turėjo savo vie­ nuolyną.
 
-## Teiginiai
-
-<a id="claim-t-86776"></a>
-- t-001
-  teiginys: "Vilniaus rusų vienuoliai, žmonių vadinti „čiornais“, nuo Gedimino laikų turėjo savo vienuolyną."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Vilnius: 0.74"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vilniaus rusų vienuoliai „čiornai“: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Formuluotė tiesiogiai sieja rusų vienuolius su Vilniumi."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Vilniaus rusų vienuoliai „čiornai“ gyveno Vilnius (0.74)"
-  pagrindžia:
-    - c-82755
-
 ## Citatos
 
 - id: c-82755
@@ -78,5 +59,25 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-86776"></a>
+- t-001
+  teiginys: "Vilniaus rusų vienuoliai, žmonių vadinti „čiornais“, nuo Gedimino laikų turėjo savo vienuolyną."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Vilnius: 0.74"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vilniaus rusų vienuoliai „čiornai“: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Formuluotė tiesiogiai sieja rusų vienuolius su Vilniumi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Vilniaus rusų vienuoliai „čiornai“ gyveno Vilnius (0.74)"
+  pagrindžia:
+    - c-82755
+

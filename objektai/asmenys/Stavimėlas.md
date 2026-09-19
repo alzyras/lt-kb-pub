@@ -34,25 +34,6 @@ canonical_biography: "Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu P
 
 Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas savo viešpaties [a domino suo], vieno kunigaikščio, kuris savo karalystėje buvęs nelyginant antras asmuo po Lietuvos karaliaus524, atvyko pas Sembos žemės brolius; jo paprašytas Karaliaučiaus komtūras paskyrė.
 
-## Teiginiai
-
-<a id="claim-t-60439"></a>
-- t-001
-  teiginys: "Karaliaučiaus komtūras paskyrė Stavimėlą į Pelužio būrį, išvykusį ginklu atkeršyti už Pelužio patirtas skriaudas."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sajungininkas_su -> Pelužis: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Stavimėlas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Pelužis: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Stavimėlas priskirtas prie Pelužio bendrų ir kartu su juo išvyko keršyti ginklu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Stavimėlas buvo sąjungininkas su Pelužis (0.72)"
-  pagrindžia:
-    - c-61071
-
 ## Citatos
 
 - id: c-61071
@@ -78,5 +59,21 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+## Teiginiai
+
+<a id="claim-t-221484"></a>
+- t-001
+  teiginys: "Karaliaučiaus komtūras paskyrė Stavimėlą į Pelužio būrį, išvykusį ginklu atkeršyti už Pelužio patirtas skriaudas."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sajungininkas_su -> Pelužis: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Stavimėlas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Pelužis: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Stavimėlas priskirtas prie Pelužio bendrų ir kartu su juo išvyko keršyti ginklu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Stavimėlas buvo sąjungininkas su Pelužis (0.72)"
+

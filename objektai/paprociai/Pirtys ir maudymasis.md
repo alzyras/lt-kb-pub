@@ -39,34 +39,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-205151"></a>
-- t-001
-  teiginys: "Narbutas teigia, kad turtingųjų buveinėse būdavo atskiros pirtelės su voniomis, praustuvais ir rankšluosčiais, o prastuomenė pirtis įsirengdavo požeminiuose rūsiuose."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T21:22:05Z"
-  pagrindžia:
-    - c-187780
-
-<a id="claim-t-205327"></a>
-- t-002
-  teiginys: "Narbutas rašo, kad visi buvo įpratę praustis pirtyse, o vasarą maudytis srauniuose vandenyse, palaikydami švarą, sveikatą ir vykdydami religinį valyvumo priesaką."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-188031
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas rašo, kad visi buvo įpratę praustis pirtyse, o vasarą maudytis srauniuose vandenyse, palaikydami švarą, sveikatą ir vykdydami religinį valyvumo priesaką.'
@@ -107,7 +79,7 @@ Narbutas rašo, kad visi buvo įpratę praustis pirtyse, o vasarą maudytis srau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188031
@@ -128,5 +100,34 @@ Narbutas rašo, kad visi buvo įpratę praustis pirtyse, o vasarą maudytis srau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-205151"></a>
+- t-001
+  teiginys: "Narbutas teigia, kad turtingųjų buveinėse būdavo atskiros pirtelės su voniomis, praustuvais ir rankšluosčiais, o prastuomenė pirtis įsirengdavo požeminiuose rūsiuose."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T21:22:05Z"
+  pagrindžia:
+    - c-187780
+
+<a id="claim-t-205327"></a>
+- t-002
+  teiginys: "Narbutas rašo, kad visi buvo įpratę praustis pirtyse, o vasarą maudytis srauniuose vandenyse, palaikydami švarą, sveikatą ir vykdydami religinį valyvumo priesaką."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-188031
+

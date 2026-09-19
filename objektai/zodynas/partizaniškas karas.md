@@ -28,26 +28,6 @@ media_all_json: |-
 
 partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą. partizaniškas karas: kryžiuočiai ėmė trauktis; Vy- tautas tuo tarpu buvo sunaiki- nęs jų atgaliniam kely paruoštą maisto atsargą, ir jų kariuome- nėje kilo badas. Kęstučio ir Vytauto būriai puolė kryžiuo- čius kur galėdami, ir iš didelio žygio savo kraštą pasiekė vos maži.
 
-## Teiginiai
-
-<a id="claim-t-70270"></a>
-- t-001
-  teiginys: "Kęstutis su sūnumi Vytautu pradėjo partizanišką karą prieš kryžiuočius, kai šie nesitraukė ir naikino miestus bei apylinkes."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-69324
-
-<a id="claim-t-70271"></a>
-- t-002
-  teiginys: "Partizaniško karo metu Vytautas sunaikino kryžiuočių maisto atsargas, o Kęstučio ir Vytauto būriai puolė besitraukiančius kryžiuočius."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-69325
-
 ## Citatos
 
 - id: c-69324
@@ -72,7 +52,7 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-69325
@@ -99,5 +79,26 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-70270"></a>
+- t-001
+  teiginys: "Kęstutis su sūnumi Vytautu pradėjo partizanišką karą prieš kryžiuočius, kai šie nesitraukė ir naikino miestus bei apylinkes."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-69324
+
+<a id="claim-t-70271"></a>
+- t-002
+  teiginys: "Partizaniško karo metu Vytautas sunaikino kryžiuočių maisto atsargas, o Kęstučio ir Vytauto būriai puolė besitraukiančius kryžiuočius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-69325
+

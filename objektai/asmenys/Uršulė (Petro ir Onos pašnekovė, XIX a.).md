@@ -47,18 +47,6 @@ canonical_biography: "Uršulė ganiavos epizode kalbina Petrą apie vestuves su 
 
 Uršulė ganiavos epizode kalbina Petrą apie vestuves su Ona ir pati užtraukia dainą apie būsimą vyrų išvarymą į maskolių rankas.
 
-## Teiginiai
-
-<a id="claim-t-195556"></a>
-- t-001
-  teiginys: "Uršulė Petro paklausė, kada bus jo ir Onos vestuvės."
-  atnaujinta: "2026-07-12 06:38"
-  sprendimo_priezastis: "gap::people"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177973
-
 ## Citatos
 
 - id: c-177973
@@ -74,5 +62,18 @@ Uršulė ganiavos epizode kalbina Petrą apie vestuves su Ona ir pati užtraukia
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-195556"></a>
+- t-001
+  teiginys: "Uršulė Petro paklausė, kada bus jo ir Onos vestuvės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::people"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177973
+

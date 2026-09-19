@@ -42,28 +42,6 @@ canonical_biography: "Giovanni Villani buvo tai tam tikra rūšis pabūklų arba
 
 Giovanni Villani buvo tai tam tikra rūšis pabūklų arba patrankų, įtaisytų ant vežimų, kurios, svaidydamosios ugnies išmetamomis ma­ žomis geležies kulkomis, baisaus trenksmo lydimomis, daugiau buvo tinkamos žirgams gąsdinti.
 
-## Teiginiai
-
-<a id="claim-t-88057"></a>
-- t-001
-  teiginys: "Giovanni Villani nurodytas kaip šaltinis apie anglų bombardų panaudojimą 1346 m. rugpjūčio 26 d. mūšyje prie Kreši."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Prancūzai: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Anglai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad anglai bombardomis apšaudė prancūzų karius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Anglai puolė Prancūzai (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1346 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata remia nuorodą į Villani kaip šaltinį, bet ne teiginį, kad jis pats buvo pabūklų rūšis."
-  pagrindžia:
-    - c-84036
-
 ## Citatos
 
 - id: c-84036
@@ -92,5 +70,28 @@ Giovanni Villani buvo tai tam tikra rūšis pabūklų arba patrankų, įtaisytų
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-88057"></a>
+- t-001
+  teiginys: "Giovanni Villani nurodytas kaip šaltinis apie anglų bombardų panaudojimą 1346 m. rugpjūčio 26 d. mūšyje prie Kreši."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Prancūzai: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Anglai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Prancūzai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad anglai bombardomis apšaudė prancūzų karius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Anglai puolė Prancūzai (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1346 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata remia nuorodą į Villani kaip šaltinį, bet ne teiginį, kad jis pats buvo pabūklų rūšis."
+  pagrindžia:
+    - c-84036
+

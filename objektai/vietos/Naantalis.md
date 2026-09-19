@@ -83,9 +83,11 @@ Naantalis šiame šaltinyje yra miestas.
     metų gyvenęs Luononmaa saloje šalia to paties Naantalio.
   citata_rodoma: "Augustas Robertas Niemi, \nsuomis, yra gi­\nmęs vakarų Suomijoj, arti Turku miesto, netoli Naantalio, Lemu pa­\nrapijoj, iš pasiturinčių ūkininkų tėvų, 1869 m. liepos m. 25 d., o nuo 5 \nmetų gyvenęs Luononmaa saloje šalia to paties Naantalio."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 09:30"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

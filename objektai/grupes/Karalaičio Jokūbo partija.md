@@ -27,37 +27,6 @@ media_all_json: |-
 
 Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pusę.
 
-## Teiginiai
-
-<a id="claim-t-01344"></a>
-- t-001
-  teiginys: "Dauguma Karalaičio Jokūbo partijos šalininkų perėjo į Augusto pusę."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Augustas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karalaičio Jokūbo partija: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Augustas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Partijos šalininkai perėjo į Augusto pusę, todėl tai tiesiogiai rodo Augusto rėmimą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-01582
-
-<a id="claim-t-193096"></a>
-- t-002
-  teiginys: "Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pusę."
-  atnaujinta: "2026-07-06 12:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-175859
-
 ## Citatos
 
 - id: c-01582
@@ -83,7 +52,7 @@ Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pus�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-175859
@@ -107,5 +76,37 @@ Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pus�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-01344"></a>
+- t-001
+  teiginys: "Dauguma Karalaičio Jokūbo partijos šalininkų perėjo į Augusto pusę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Augustas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Karalaičio Jokūbo partija: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Augustas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Partijos šalininkai perėjo į Augusto pusę, todėl tai tiesiogiai rodo Augusto rėmimą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-01582
+
+<a id="claim-t-193096"></a>
+- t-002
+  teiginys: "Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pusę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-175859
+

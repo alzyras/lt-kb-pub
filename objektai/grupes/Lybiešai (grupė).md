@@ -29,20 +29,6 @@ media_all_json: |-
 
 Nes jog tenai buvo išsidanginę nuo neatmenamų laikų į patį pajūrį tarp tų upių lybiešai, vadinami kuresajar, todėl ta kertelė vadinos kuriesais, arba kuržemiais, vienok visuomet buvo valdžioj žemaičių.
 
-## Teiginiai
-
-<a id="claim-t-201250"></a>
-- t-001
-  teiginys: "Nes jog tenai buvo išsidanginę nuo neatmenamų laikų į patį pajūrį tarp tų upių lybiešai, vadinami kuresajar, todėl ta kertelė vadinos kuriesais, arba kuržemiais, vienok visuomet buvo valdžioj žemaičių."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184600
-
 ## Citatos
 
 - id: c-184600
@@ -72,5 +58,20 @@ Nes jog tenai buvo išsidanginę nuo neatmenamų laikų į patį pajūrį tarp t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201250"></a>
+- t-001
+  teiginys: "Nes jog tenai buvo išsidanginę nuo neatmenamų laikų į patį pajūrį tarp tų upių lybiešai, vadinami kuresajar, todėl ta kertelė vadinos kuriesais, arba kuržemiais, vienok visuomet buvo valdžioj žemaičių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184600
+

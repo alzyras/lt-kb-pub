@@ -36,44 +36,6 @@ historical_names: []
 
 Nuo Torno Drevencos krantu iki Loebau (VII.
 
-## Teiginiai
-
-<a id="claim-t-28395"></a>
-- t-001
-  teiginys: "Magistras prie Loebau atvedė savo pulkus ir iš pabėgėlių sužinojo, kad sąjungininkai žygiavo Tannenbergo kryptimi."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Drevenca: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Loebau: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Drevenca: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Loebau\" parinktas kaip owner_note_path. Targetas \"Drevenca\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-28299
-
-<a id="claim-t-184392"></a>
-- t-002
-  teiginys: "Liepos 13 d. ordino didysis magistras Ulrichas von Jungingenas atvedė savo pulkus nuo Torno iki Loebau."
-  atnaujinta: "2026-06-13 17:10"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "keliavo_i -> Loebau: 0.76"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ulrichas von Jungingenas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Loebau: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Ulrichas von Jungingenas atvedė pulkus iki Loebau."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Ulrichas von Jungingenas keliavo į Loebau (0.76); Ulrichas von Jungingenas keliavo į Torno (0.70)"
-  pagrindžia:
-    - c-167760
-
 ## Citatos
 
 - id: c-28299
@@ -91,7 +53,7 @@ Nuo Torno Drevencos krantu iki Loebau (VII.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167760
@@ -110,5 +72,44 @@ Nuo Torno Drevencos krantu iki Loebau (VII.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-28395"></a>
+- t-001
+  teiginys: "Magistras prie Loebau atvedė savo pulkus ir iš pabėgėlių sužinojo, kad sąjungininkai žygiavo Tannenbergo kryptimi."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Drevenca: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Loebau: owner_note_path, place, gap=0"
+  ryšio_targeto_parinkimas: "Drevenca: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Loebau\" parinktas kaip owner_note_path. Targetas \"Drevenca\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-28299
+
+<a id="claim-t-184392"></a>
+- t-002
+  teiginys: "Liepos 13 d. ordino didysis magistras Ulrichas von Jungingenas atvedė savo pulkus nuo Torno iki Loebau."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "keliavo_i -> Loebau: 0.76"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ulrichas von Jungingenas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Loebau: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Ulrichas von Jungingenas atvedė pulkus iki Loebau."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Ulrichas von Jungingenas keliavo į Loebau (0.76); Ulrichas von Jungingenas keliavo į Torno (0.70)"
+  pagrindžia:
+    - c-167760
+

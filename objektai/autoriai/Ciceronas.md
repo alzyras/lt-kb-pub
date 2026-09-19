@@ -34,21 +34,6 @@ canonical_biography: "Narbutas nurodo, kad Ciceronas žodį „Soter“ aiškino
 
 Narbutas nurodo, kad Ciceronas žodį „Soter“ aiškino kaip išganytoją.
 
-## Teiginiai
-
-<a id="claim-t-190383"></a>
-- t-001
-  teiginys: "Narbutas nurodo, kad Ciceronas žodį „Soter“ aiškino kaip išganytoją."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173266
-
 ## Citatos
 
 - id: c-173266
@@ -67,5 +52,39 @@ Narbutas nurodo, kad Ciceronas žodį „Soter“ aiškino kaip išganytoją.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-200023
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 99"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 99."
+  citata_originali: |
+    Santvaras (Sotvaras, Sotwaros)
+    Dienos šviesos, poetų, gydytojų dievas. Atrodo, tas pava­
+    dinimas bus kilęs iš graikiško Soter, kuriuo vadintas dievas,
+    aukščiausiojo gėrio kūrėjas. Tą žodį Ciceronas aiškina taip: Is
+    est nimimm Soter, qui salutem dedi?1, tai yra išganytojas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-217113"></a>
+- t-001
+  teiginys: "Narbutas nurodo, kad Ciceronas žodį „Soter“ aiškino kaip išganytoją."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-200023
+

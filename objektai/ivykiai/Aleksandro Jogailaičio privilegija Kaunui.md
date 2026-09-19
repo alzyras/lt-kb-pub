@@ -42,32 +42,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-201895"></a>
-- t-001
-  teiginys: "1492 m. liepos 1 d. jis rašė Dancigui, primindamas Kazimiero Jogailaičio nurodymą dėl abipusės laisvos prekybos, ir Vokiečių ordino didžiajam magistrui Johanui von Tieffenui, prašydamas, kad Kauno pirkliams nebūtų trukdoma prekiauti Prūsų miestuose."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185242
-
-<a id="claim-t-201896"></a>
-- t-002
-  teiginys: "Tai buvo draudimas svečiams pirkliams prekiauti Lietuvos kaimuose ir miestietiškos vokiečių, arba Magdeburgo, teisės neturinčiuose miesteliuose, o leidžiama prekiauti tik Kauno mieste ir su Kauno miestiečiais."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185243
-
 ## Citatos
 
 - id: c-185242
@@ -88,7 +62,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185243
@@ -113,5 +87,32 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-201895"></a>
+- t-001
+  teiginys: "1492 m. liepos 1 d. jis rašė Dancigui, primindamas Kazimiero Jogailaičio nurodymą dėl abipusės laisvos prekybos, ir Vokiečių ordino didžiajam magistrui Johanui von Tieffenui, prašydamas, kad Kauno pirkliams nebūtų trukdoma prekiauti Prūsų miestuose."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185242
+
+<a id="claim-t-201896"></a>
+- t-002
+  teiginys: "Tai buvo draudimas svečiams pirkliams prekiauti Lietuvos kaimuose ir miestietiškos vokiečių, arba Magdeburgo, teisės neturinčiuose miesteliuose, o leidžiama prekiauti tik Kauno mieste ir su Kauno miestiečiais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185243
+

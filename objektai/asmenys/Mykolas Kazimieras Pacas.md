@@ -78,9 +78,11 @@ Mykolas Kazimieras Pacas, Lietuvos Didžiosios Kunigaikštystės etmonas ir Viln
     iki pat 1655 —1661 metų karo nuolat buvo statomos ir nuolatos žūdavo
     ugnyje medinės bažnytėlės.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-14 21:29"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

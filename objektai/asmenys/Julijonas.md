@@ -36,17 +36,36 @@ Ammiano Marcelino pasakojimu, imperatorius Julijonas siuntė žygūnus pas pers�
 
 ## Teiginiai
 
-<a id="claim-t-197764"></a>
-- t-001
-  teiginys: "Julijonas priklausė minėtai tautai."
-  atnaujinta: "2026-07-12 22:34"
+<a id="claim-t-208471"></a>
+- t-208471
+  teiginys: "Šv. Julijono kankinio gyvenimą aprašęs autorius, atsižvelgdamas į katalikų tikėjimo suvaržymus, ragino skaitytojus ištikimai laikytis tikėjimo."
+  atnaujinta: "2026-09-13 15:29"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:42Z"
   pagrindžia:
-    - c-174305
+    - c-191091
+
+<a id="claim-t-215131"></a>
+- t-215131
+  teiginys: "Ammiano Marcelino pasakojimu, imperatorius Julijonas siuntė žygūnus pas persų karalių Saporą per Dneprą ir alanų kraštą."
+  atnaujinta: "2026-09-13 18:04"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Dnepras: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Julijonas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Dnepras: mention_match, place, gap=54"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Julijonas\" parinktas kaip owner_note_path. Targetas \"Dnepras\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -98,5 +117,26 @@ Ammiano Marcelino pasakojimu, imperatorius Julijonas siuntė žygūnus pas pers�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-191091
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 98"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 98."
+  citata_originali: |
+    Po kai kurių šventųjų biografijų autorius prideda pa­
+    mokymų skaitytojams.
+    Aprašęs šv. Julijono kankinio gyvenimą, autorius, at­
+    sižvelgdamas į tuo metu buvusius katalikų tikėjimo su­
+    varžymus, ragina skaitytojus ištikimai laikytis tikėjim o6.
+  citata_rodoma: "Aprašęs šv. Julijono kankinio gyvenimą, autorius, at­\nsižvelgdamas į tuo metu buvusius katalikų tikėjimo su­\nvaržymus, ragina skaitytojus ištikimai laikytis tikėjim o6."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208471
+

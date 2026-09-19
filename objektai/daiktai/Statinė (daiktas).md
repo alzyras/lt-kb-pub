@@ -50,20 +50,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-201994"></a>
-- t-001
-  teiginys: "Iš Lietuvos į Dancigą gabenta 197,5 gabalo ir 13 akmenų vaško, 778,5 šimtinės įvairių medžio pusfabrikačių (Wagenschoss - vančo sas, Klappholz - klepkos, Knarrholz, Koggenbort, Eibenholz, Fassholz - statinių šuleliai, Stabholz), 20 medžių kamienų stiebams."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185341
-
 ## Citatos
 
 - id: c-185341
@@ -86,5 +72,20 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201994"></a>
+- t-001
+  teiginys: "Iš Lietuvos į Dancigą gabenta 197,5 gabalo ir 13 akmenų vaško, 778,5 šimtinės įvairių medžio pusfabrikačių (Wagenschoss - vančo sas, Klappholz - klepkos, Knarrholz, Koggenbort, Eibenholz, Fassholz - statinių šuleliai, Stabholz), 20 medžių kamienų stiebams."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185341
+

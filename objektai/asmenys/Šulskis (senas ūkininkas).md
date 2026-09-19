@@ -55,16 +55,6 @@ canonical_biography: "Šulskis šiame pasakojime minimas kaip senas ūkininkas, 
 
 ## Teiginiai
 
-<a id="claim-t-195281"></a>
-- t-001
-  teiginys: "Šulskis pats pasakoja, kaip iš berno gavo gyvenimą ir pastojo ūkininku."
-  atnaujinta: "2026-07-12 01:06"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177647
-
 <a id="claim-t-195282"></a>
 - t-002
   teiginys: "Šulskiukas minimas kaip turintis pinigų ir javų bei galintis užmokėti pono nuomą."
@@ -74,6 +64,16 @@ canonical_biography: "Šulskis šiame pasakojime minimas kaip senas ūkininkas, 
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
   pagrindžia:
     - c-177646
+
+<a id="claim-t-195281"></a>
+- t-195281
+  teiginys: "Šulskis pats pasakoja, kaip iš berno gavo gyvenimą ir pastojo ūkininku."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177647
 
 ## Citatos
 
@@ -89,11 +89,12 @@ canonical_biography: "Šulskis šiame pasakojime minimas kaip senas ūkininkas, 
     tegul pusę dubos valdo.“ Taip ir padarė.
   citata_rodoma: "Buvo kas patarė: „Eikite pas Šulskiuką! Jis turi pinigų ir javų. Tegul užmoka ponui nuomą už jūsų dubą ir tegul pusę dubos valdo.“"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 01:06"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-177647
@@ -120,5 +121,6 @@ canonical_biography: "Šulskis šiame pasakojime minimas kaip senas ūkininkas, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-195281
+

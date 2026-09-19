@@ -38,99 +38,6 @@ historical_names: []
 
 To dėjęsis, Alobramdas kunigas nuėjo į Turaidą latvių mokyti ir krikštyti, kurį kraštą paskaidė į parakvijas ir Kaupo pilėj bažnyčią įkūrė.
 
-## Teiginiai
-
-<a id="claim-t-201140"></a>
-- t-001
-  teiginys: "To dėjęsis, Alobramdas kunigas nuėjo į Turaidą latvių mokyti ir krikštyti, kurį kraštą paskaidė į parakvijas ir Kaupo pilėj bažnyčią įkūrė."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184490
-
-<a id="claim-t-205165"></a>
-- t-002
-  teiginys: "1209 m. turaidiečiai atėjo kuršiams į pagalbą Rygos apgulties metu."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-187998
-
-<a id="claim-t-205253"></a>
-- t-003
-  teiginys: "1200 metų pradžioje vyskupas Albertas išsiuntė Turaidos kleboną Teodoriką į Romą."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-187923
-
-<a id="claim-t-205334"></a>
-- t-004
-  teiginys: "Savo noru priėmus krikštą visose provincijose, sudariu siose tuometinę Livoniją, — Turaidoje, Kubeselėje, Metsepolėje, Holme, Lielvardėje, Remine, Ašeradėje, Vendene, Idūmėjoje ir Ropoję, šalyje jau buvo įsigalėjusi ramybė."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "įvykio data: 1208 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sąrašinis fragmentas paverstas sakiniu, susiejančiu Turaidą su krikšto priėmimu ir ramybės įsigalėjimu. Neįtrauktos kitos šaltinio pastraipos detalės."
-  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
-  pagrindžia:
-    - c-188120
-
-<a id="claim-t-205349"></a>
-- t-005
-  teiginys: "Kunigaikštis įsakė visai kariau nai grįžti, kas juolab buvo paspartinta gavus žinią iš Turaidoje stovėjusių pajūrio sargyboje pulkų, esą paste bėti laivai, pasukę Dauguvos žiočių link."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
-  pagrindžia:
-    - c-187859
-
-<a id="claim-t-205468"></a>
-- t-006
-  teiginys: "Galop, atvykę į Turaidos pilį, įsikūrė nakvynei."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
-  pagrindžia:
-    - c-188163
-
-<a id="claim-t-205505"></a>
-- t-007
-  teiginys: "1206 m. lietuviai per Kalėdas atvyko į Turaidos apylinkes ir persikėlė per Gaują."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
-  pagrindžia:
-    - c-187876
-
 ## Citatos
 
 - id: c-184490
@@ -150,7 +57,7 @@ To dėjęsis, Alobramdas kunigas nuėjo į Turaidą latvių mokyti ir krikštyti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-187859
@@ -169,7 +76,7 @@ To dėjęsis, Alobramdas kunigas nuėjo į Turaidą latvių mokyti ir krikštyti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-187876
@@ -192,7 +99,7 @@ To dėjęsis, Alobramdas kunigas nuėjo į Turaidą latvių mokyti ir krikštyti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 - id: c-187923
@@ -212,7 +119,7 @@ To dėjęsis, Alobramdas kunigas nuėjo į Turaidą latvių mokyti ir krikštyti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-187998
@@ -234,7 +141,7 @@ To dėjęsis, Alobramdas kunigas nuėjo į Turaidą latvių mokyti ir krikštyti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188120
@@ -253,7 +160,7 @@ To dėjęsis, Alobramdas kunigas nuėjo į Turaidą latvių mokyti ir krikštyti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-188163
@@ -273,5 +180,99 @@ To dėjęsis, Alobramdas kunigas nuėjo į Turaidą latvių mokyti ir krikštyti
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
+
+## Teiginiai
+
+<a id="claim-t-201140"></a>
+- t-001
+  teiginys: "To dėjęsis, Alobramdas kunigas nuėjo į Turaidą latvių mokyti ir krikštyti, kurį kraštą paskaidė į parakvijas ir Kaupo pilėj bažnyčią įkūrė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184490
+
+<a id="claim-t-205165"></a>
+- t-002
+  teiginys: "1209 m. turaidiečiai atėjo kuršiams į pagalbą Rygos apgulties metu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187998
+
+<a id="claim-t-205253"></a>
+- t-003
+  teiginys: "1200 metų pradžioje vyskupas Albertas išsiuntė Turaidos kleboną Teodoriką į Romą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-187923
+
+<a id="claim-t-205334"></a>
+- t-004
+  teiginys: "Savo noru priėmus krikštą visose provincijose, sudariu siose tuometinę Livoniją, — Turaidoje, Kubeselėje, Metsepolėje, Holme, Lielvardėje, Remine, Ašeradėje, Vendene, Idūmėjoje ir Ropoję, šalyje jau buvo įsigalėjusi ramybė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "įvykio data: 1208 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sąrašinis fragmentas paverstas sakiniu, susiejančiu Turaidą su krikšto priėmimu ir ramybės įsigalėjimu. Neįtrauktos kitos šaltinio pastraipos detalės."
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-188120
+
+<a id="claim-t-205349"></a>
+- t-005
+  teiginys: "Kunigaikštis įsakė visai kariau nai grįžti, kas juolab buvo paspartinta gavus žinią iš Turaidoje stovėjusių pajūrio sargyboje pulkų, esą paste bėti laivai, pasukę Dauguvos žiočių link."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-187859
+
+<a id="claim-t-205468"></a>
+- t-006
+  teiginys: "Galop, atvykę į Turaidos pilį, įsikūrė nakvynei."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-188163
+
+<a id="claim-t-205505"></a>
+- t-007
+  teiginys: "1206 m. lietuviai per Kalėdas atvyko į Turaidos apylinkes ir persikėlė per Gaują."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-187876
+

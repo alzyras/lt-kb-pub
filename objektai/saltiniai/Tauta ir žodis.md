@@ -36,20 +36,6 @@ media_all_json: |-
 
 158, 169, 170, 208, 210 Tauragė 91 ; Tauragės pučas 40 VARDYNAS^407 Taurakalnis, Pilies kalnas 244 Tauta ir žodis 127, 128, 148, 180, 347 Tautavičius A.
 
-## Teiginiai
-
-<a id="claim-t-202297"></a>
-- t-001
-  teiginys: "Artėjant Vytauto mirties metinėms Jonas Remeika (1891-1972) 1928 m. Kaune prie leidinyje Tauta ir žodis paskelbtos savo studijos Der Handel auf der Memel von Anfang der 14."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185644
-
 ## Citatos
 
 - id: c-185644
@@ -67,5 +53,20 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202297"></a>
+- t-001
+  teiginys: "Artėjant Vytauto mirties metinėms Jonas Remeika (1891-1972) 1928 m. Kaune prie leidinyje Tauta ir žodis paskelbtos savo studijos Der Handel auf der Memel von Anfang der 14."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185644
+

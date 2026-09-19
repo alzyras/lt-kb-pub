@@ -53,3 +53,48 @@ Józefas Mackiewiczius 1940 m., Alfredo Bumblausko perteikimu, apgailestavo, kad
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-190057
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 20"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 20."
+  citata_originali: |
+    Ukrainiečiai, atvirkščiai, – jie tebetei-
+    gia „ukrainietišką“ savo istorijos pobūdį jau nuo Kijevo Rusios laikų, o lietuvių epochą
+    (litovska doba) atsimena tik kaip „geriausių okupantų“ epochą, taigi nieko nepalikusią
+    Ukrainoje.
+    Tiesa, per visą pirmąją XX a. pusę LDK prisiminė vadinamieji „krajovcai“, tęsę len-
+    kakalbę „senalietuvių“, arba „starolitvinų“, tradiciją. Vienas jų – Józefas Mackiewiczius
+    dar 1940 m. apgailestavo, kad visi – turima galvoje visų pirma lenkai ir lietuviai – nori
+    pagriebti kuo didesnį gabalą LDK paveldo, tačiau niekam nerūpi visuma.
+  citata_rodoma: "Vienas jų – Józefas Mackiewiczius \ndar 1940 m. apgailestavo, kad visi – turima galvoje visų pirma lenkai ir lietuviai – nori \npagriebti kuo didesnį gabalą LDK paveldo, tačiau niekam nerūpi visuma."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-207440"></a>
+- t-001
+  teiginys: "Józefas Mackiewiczius 1940 m., Alfredo Bumblausko perteikimu, apgailestavo, kad lenkai ir lietuviai nori pasiimti kuo didesnį LDK paveldo gabalą, nors visuma jiems nerūpi."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1940 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra pilnas sakinys, išlaiko 1940 m. datą, veikėjus, Mackiewicziaus vertinamą situaciją ir atribuciją."
+  vertinimo_atnaujinta: "2026-08-18T19:34:23Z"
+  pagrindžia:
+    - c-190057
+

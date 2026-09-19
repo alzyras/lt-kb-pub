@@ -38,10 +38,23 @@ Jį valdė Vilniaus generalgubernatorius.
 
 ## Teiginiai
 
+<a id="claim-t-208462"></a>
+- t-208462
+  teiginys: "Generalgubernatorius ne visada sutikdavo su vyskupo Motiejaus Valančiaus nuomone, tačiau kai kuriais atvejais vyskupas laimėdavo, o valdžios globojamus kunigus prižiūrėdavo griežčiau."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:52Z"
+  pagrindžia:
+    - c-191082
+
 <a id="claim-t-45820"></a>
-- t-001
+- t-45820
   teiginys: "Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Anglija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -59,18 +72,18 @@ Jį valdė Vilniaus generalgubernatorius.
     - c-166819
 
 <a id="claim-t-45822"></a>
-- t-002
+- t-45822
   teiginys: "Imperijos sostinių ir pakraščių regionuose tarp centro valdžios ir gubernijų dar veikė tarpinė grandis – generalgubernatoriaus institucija."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-48497
 
 <a id="claim-t-182947"></a>
-- t-003
+- t-182947
   teiginys: "Rusijos šiaurės vakarų kraštą valdė Vilniaus generalgubernatorius."
-  atnaujinta: "2026-06-13 18:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -104,8 +117,8 @@ Jį valdė Vilniaus generalgubernatorius.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-182947
 
 - id: c-48497
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -123,8 +136,8 @@ Jį valdė Vilniaus generalgubernatorius.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-45822
 
 - id: c-48499
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -147,8 +160,8 @@ Jį valdė Vilniaus generalgubernatorius.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-45820
 
 - id: c-166819
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -168,5 +181,26 @@ Jį valdė Vilniaus generalgubernatorius.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-45820
+
+- id: c-191082
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 82"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 82."
+  citata_originali: |
+    Žinoma, ne visada generalgubernatorius sutik­
+    davo su jo nuomone, bet kartais ir vyskupas laimėdavo,
+    be to, valdžios globojamus kunigus vysk. M. Valančius
+    griežčiau prižiūrėdavo3.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208462
+

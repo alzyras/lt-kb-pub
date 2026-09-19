@@ -46,10 +46,26 @@ Jiems buvo suteikta teisė kartu su Kauno muitinę nuomojančiu Lietuvos iždini
 
 ## Teiginiai
 
+<a id="claim-t-207827"></a>
+- t-207827
+  teiginys: "1578 m. Lietuvos Didžiosios Kunigaikštystės iždininkas Laurynas Vaina teigė, kad bloga valstybės iždo padėtis žinoma ne tik toje valstybėje gimusiems žmonėms, bet ir pašaliniams."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  temporaliniai_duomenys: "įvykio data: 1578 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išlaikyta Lauryno Vainos atribucija, nes citata pateikia jo žodžiais išsakytą vertinimą. Neutralūs paaiškinimai ar papildomi faktai neįtraukti."
+  vertinimo_atnaujinta: "2026-08-18T20:02:07Z"
+  pagrindžia:
+    - c-190372
+
 <a id="claim-t-202094"></a>
-- t-001
+- t-202094
   teiginys: "Jiems buvo suteikta teisė kartu su Kauno muitinę nuomojančiu Lietuvos iždininku Laurynu Vaina rinkti muitus toje muitinėje, kol surinks paskolintus pinigus."
-  atnaujinta: "2026-07-19 10:19"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -59,9 +75,9 @@ Jiems buvo suteikta teisė kartu su Kauno muitinę nuomojančiu Lietuvos iždini
     - c-185441
 
 <a id="claim-t-202095"></a>
-- t-002
+- t-202095
   teiginys: "Ji jau buvo išnuomota žemės iždininkui Laurynui Vainai, šis sutiko leisti Kaunui šią sumą išsirinkti."
-  atnaujinta: "2026-07-19 10:19"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -103,8 +119,8 @@ Jiems buvo suteikta teisė kartu su Kauno muitinę nuomojančiu Lietuvos iždini
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-202094
 
 - id: c-185442
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -121,5 +137,28 @@ Jiems buvo suteikta teisė kartu su Kauno muitinę nuomojančiu Lietuvos iždini
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-202095
+
+- id: c-190372
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 183"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 183."
+  citata_originali: |
+    Padėtį ir toliau komplikavo Lietuvos Didžiosios Kunigaikštystės finansinės nega-
+    lios. Iždininko Lauryno Vainos žodžiais, 1578 m. bloga valstybės iždo padėtis žinoma ne
+    tik tiems, kurie toje valstybėje gimė, bet ir pašaliniams. Jo supratimu, nieko nepakeis ir
+    tai, kad Varšuvoje net tris iždininkus paskyrė mokesčius tvarkyti, nes niekas nieko nesu-
+    neša į iždą, o jei kokias pajamas koks mokesčių rinkėjas atneša, tai viskas tuoj pat atiduo-
+    dama algininkams sumokėti.
+  citata_rodoma: "Padėtį ir toliau komplikavo Lietuvos Didžiosios Kunigaikštystės finansinės nega-\nlios. Iždininko Lauryno Vainos žodžiais, 1578 m. bloga valstybės iždo padėtis žinoma ne\ntik tiems, kurie toje valstybėje gimė, bet ir pašaliniams."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207827
+

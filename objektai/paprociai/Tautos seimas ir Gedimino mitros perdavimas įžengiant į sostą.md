@@ -45,21 +45,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206952"></a>
-- t-001
-  teiginys: "Po Algirdo mirties, kaip aprašo Teodoras Narbutas, 1377 m. Vilniuje surengtame tautos seime Jogaila paskelbtas didžiuoju kunigaikščiu ir jam, kaip vyriausiam Algirdo sūnui, perduota Gedimino mitra."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189567
-
 ## Santrauka
 
 Po Algirdo mirties, kaip aprašo Teodoras Narbutas, 1377 m. Vilniuje surengtame tautos seime Jogaila paskelbtas didžiuoju kunigaikščiu ir jam, kaip vyriausiam Algirdo sūnui, perduota Gedimino mitra.
@@ -83,5 +68,21 @@ Po Algirdo mirties, kaip aprašo Teodoras Narbutas, 1377 m. Vilniuje surengtame 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206952"></a>
+- t-001
+  teiginys: "Po Algirdo mirties, kaip aprašo Teodoras Narbutas, 1377 m. Vilniuje surengtame tautos seime Jogaila paskelbtas didžiuoju kunigaikščiu ir jam, kaip vyriausiam Algirdo sūnui, perduota Gedimino mitra."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189567
+

@@ -43,26 +43,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-66794"></a>
-- t-001
-  teiginys: "Didikai bandė sutrukdyti Mykolo Kaributo Višniaveckio elekciją, tačiau bajorija gynė savo išrinktąjį karalių."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-66922
-
-<a id="claim-t-66795"></a>
-- t-002
-  teiginys: "Lenkijos vicekancleriui Olšovskiui iškėlus šūkį, karaliumi netikėtai buvo paskelbtas Mykolas Kaributas Višniaveckis."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-66921
-
 ## Citatos
 
 - id: c-66921
@@ -82,7 +62,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-66922
@@ -103,5 +83,26 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-66794"></a>
+- t-001
+  teiginys: "Didikai bandė sutrukdyti Mykolo Kaributo Višniaveckio elekciją, tačiau bajorija gynė savo išrinktąjį karalių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-66922
+
+<a id="claim-t-66795"></a>
+- t-002
+  teiginys: "Lenkijos vicekancleriui Olšovskiui iškėlus šūkį, karaliumi netikėtai buvo paskelbtas Mykolas Kaributas Višniaveckis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-66921
+

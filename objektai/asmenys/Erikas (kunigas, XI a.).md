@@ -42,32 +42,6 @@ canonical_biography: "Būk kariavęs ant galų galo su Eriku, norvegų, tai yra 
 
 Būk kariavęs ant galų galo su Eriku, norvegų, tai yra saulėlydinių žuvėdų, viešpačiu. Nemintąs Erikas, viešpats danų, re gėdamas tokias neteisybes, vokyčių daromas per krikštams, užgynęs buvo savo kunigams ir jomylistoms metuose 1314 Igumijoj, idant, rinkdami de šimtines ar kitas rinkliavas nuo perkrikštų, saikų nefalšavotų, nes senų laikų.
 
-## Teiginiai
-
-<a id="claim-t-201401"></a>
-- t-001
-  teiginys: "Būk kariavęs ant galų galo su Eriku, norvegų, tai yra saulėlydinių žuvėdų, viešpačiu."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184751
-
-<a id="claim-t-201402"></a>
-- t-002
-  teiginys: "Nemintąs Erikas, viešpats danų, re gėdamas tokias neteisybes, vokyčių daromas per krikštams, užgynęs buvo savo kunigams ir jomylistoms metuose 1314 Igumijoj, idant, rinkdami de šimtines ar kitas rinkliavas nuo perkrikštų, saikų nefalšavotų, nes senų laikų."
-  atnaujinta: "2026-07-16 14:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184752
-
 ## Citatos
 
 - id: c-184751
@@ -87,7 +61,7 @@ Būk kariavęs ant galų galo su Eriku, norvegų, tai yra saulėlydinių žuvėd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184752
@@ -112,5 +86,32 @@ Būk kariavęs ant galų galo su Eriku, norvegų, tai yra saulėlydinių žuvėd
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-201401"></a>
+- t-001
+  teiginys: "Būk kariavęs ant galų galo su Eriku, norvegų, tai yra saulėlydinių žuvėdų, viešpačiu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184751
+
+<a id="claim-t-201402"></a>
+- t-002
+  teiginys: "Nemintąs Erikas, viešpats danų, re gėdamas tokias neteisybes, vokyčių daromas per krikštams, užgynęs buvo savo kunigams ir jomylistoms metuose 1314 Igumijoj, idant, rinkdami de šimtines ar kitas rinkliavas nuo perkrikštų, saikų nefalšavotų, nes senų laikų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184752
+

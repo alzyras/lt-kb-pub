@@ -67,9 +67,11 @@ Lietuvos diplomatijos istorija (1925–1940).
     Žalys V. Lietuvos diplomatijos istorija (1925–1940). I tomas. Vilnius, 2007.
   citata_rodoma: "Žalys V. Lietuvos diplomatijos istorija (1925–1940). I tomas. Vilnius, 2007."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

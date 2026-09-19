@@ -36,20 +36,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-201353"></a>
-- t-001
-  teiginys: "137.) Kitoj šaly žemaičiai, tuo pačiu laiku gavėnioj įsilaužę į Klaipėdos pilį, ne vien gyventojus iškir to, bet ir miestą patį su laivais sudegino, vos ne vos mūrinėj pilė j kryžėjai užsirakinę beišsiturėjo."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184703
-
 ## Citatos
 
 - id: c-184703
@@ -71,5 +57,20 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201353"></a>
+- t-001
+  teiginys: "137.) Kitoj šaly žemaičiai, tuo pačiu laiku gavėnioj įsilaužę į Klaipėdos pilį, ne vien gyventojus iškir to, bet ir miestą patį su laivais sudegino, vos ne vos mūrinėj pilė j kryžėjai užsirakinę beišsiturėjo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184703
+

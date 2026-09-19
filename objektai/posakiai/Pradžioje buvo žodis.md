@@ -27,24 +27,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad apie evangeliją: pradžioje buvo žodis Tais pačiais metais brolis Verneris, didysis magistras, generalinėje kapituloje nutarė, kad mūsų viešpaties Jėzaus Kristaus įsikūnijimo garbei bei šlovei kunigai po sumos kiekvieną dieną turį skaityti evangeliją.
 
-## Teiginiai
-
-<a id="claim-t-59152"></a>
-- t-001
-  teiginys: "Didysis magistras Verneris generalinėje kapituloje nutarė, kad kunigai kasdien po sumos skaitytų evangeliją „Pradžioje buvo žodis“."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Pradžioje buvo žodis: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): mention_match, person, gap=91"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pradžioje buvo žodis\" parinktas kaip owner_note_path. Targetas \"Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-59784
-
 ## Citatos
 
 - id: c-59784
@@ -72,5 +54,20 @@ Dusburgietis teigia, kad apie evangeliją: pradžioje buvo žodis Tais pačiais 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+## Teiginiai
+
+<a id="claim-t-222549"></a>
+- t-001
+  teiginys: "Didysis magistras Verneris generalinėje kapituloje nutarė, kad kunigai kasdien po sumos skaitytų evangeliją „Pradžioje buvo žodis“."
+  atnaujinta: "2026-09-13 18:12"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pradžioje buvo žodis: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): mention_match, person, gap=91"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pradžioje buvo žodis\" parinktas kaip owner_note_path. Targetas \"Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+

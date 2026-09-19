@@ -79,10 +79,35 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-210888"></a>
+- t-210888
+  teiginys: "Ištraukė Į Lietuvos žemę21, nakvojo Rudaminoje, pusantros mylios nuo Vilniaus, ir, nepri ėję Trakų, pasuko į Senuosius Trakus."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-193955
+
+<a id="claim-t-211674"></a>
+- t-211674
+  teiginys: "Ne vėliau kaip 1405.07.27 Vytautas Senųjų Trakų pilies pastatus atidavė Krokuvos Tynieco benediktinų vienuoliams."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194043
+
 <a id="claim-t-193065"></a>
-- t-001
+- t-193065
   teiginys: "Vytautas įkurdino benediktinus Senuosiuose Trakuose."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_place: Trakai; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
@@ -96,19 +121,10 @@ Nenurodyta
   pagrindžia:
     - c-05670
 
-<a id="claim-t-193066"></a>
-- t-002
-  teiginys: "Narbutas Senųjų Trakų miesto skydą aprašo kaip kryžių, einantį beveik per visą trečiąjį skydą dešinėje nuo kunigaikščio."
-  atnaujinta: "2026-07-19 17:45"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-175832
-
 <a id="claim-t-193067"></a>
-- t-003
+- t-193067
   teiginys: "Vytautas įkurdino benediktinus Senuosiuose Trakuose, atkeldamas juos iš Mažosios Lenkijos Tynieco."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra pilnas, aiškus ir paremtas citata."
   susije_objektai: "mentioned_place: Lenkija; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva"
@@ -139,9 +155,9 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-003
+  pagrindžia:
+    - t-193065
+    - t-193067
 
 - id: c-175832
   autorius: "Teodoras Narbutas"
@@ -164,5 +180,42 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-193955
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 116"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 116."
+  citata_originali: |
+    Ištraukė Į Lietuvos žemę21, nakvojo
+    Rudaminoje, pusantros mylios nuo Vilniaus, ir, nepri­
+    ėję Trakų, pasuko į Senuosius Trakus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210888
+
+- id: c-194043
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 215"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 215."
+  citata_originali: |
+    Vytautas iš tikrųjų ne vėliau kaip 1405.V1I.27 atidavė sudegu­
+    sios 1391 m. Senųjų Trakų pilies pastatus Krokuvos Tynieco bene­
+    diktinų vienuolyno vienuoliams. Salia pilies buvo pastatyta Marijos
+    apreiškimo ir šv. Benedikto bažnyčia. Senųjų Trakų vienuolynas ir
+    toliau buvo priklausomas nuo Tynieco.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211674
+

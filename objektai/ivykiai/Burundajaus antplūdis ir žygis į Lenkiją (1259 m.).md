@@ -46,21 +46,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-205961"></a>
-- t-001
-  teiginys: "Anot Narbuto, Lietuvos karalius 1259 m. nusprendė pasiskelbti chano draugu ir suteikti jam pagalbą puolant Lenkiją, kai Burundajaus vedami totoriai persikėlė per Būgą."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
-  pagrindžia:
-    - c-188576
-
 ## Santrauka
 
 Anot Narbuto, Lietuvos karalius 1259 m. nusprendė pasiskelbti chano draugu ir suteikti jam pagalbą puolant Lenkiją, kai Burundajaus vedami totoriai persikėlė per Būgą.
@@ -86,5 +71,21 @@ Anot Narbuto, Lietuvos karalius 1259 m. nusprendė pasiskelbti chano draugu ir s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205961"></a>
+- t-001
+  teiginys: "Anot Narbuto, Lietuvos karalius 1259 m. nusprendė pasiskelbti chano draugu ir suteikti jam pagalbą puolant Lenkiją, kai Burundajaus vedami totoriai persikėlė per Būgą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
+  pagrindžia:
+    - c-188576
+

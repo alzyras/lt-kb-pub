@@ -48,10 +48,45 @@ canonical_biography: "1409 m. Vytautas artimose totorių žemėse įkurdino jam 
 
 ## Teiginiai
 
+<a id="claim-t-210455"></a>
+- t-210455
+  teiginys: "Vytautas paskyrė Saladiną Ordos chanu."
+  atnaujinta: "2026-09-12 20:03"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193924
+
+<a id="claim-t-211288"></a>
+- t-211288
+  teiginys: "Ir jis paskyrė jiems chaną, vardu Saladiną7 ."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+
+<a id="claim-t-211707"></a>
+- t-211707
+  teiginys: "Lietuvos metraštyje Saladinas, Vytauto nurodymu atvykęs į Ordą, atsisėdo į chanų sostą ir tarnavo šlovinguoju valdovu vadinamam Vytautui."
+  atnaujinta: "2026-09-12 20:03"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-193924
+
 <a id="claim-t-82653"></a>
-- t-001
+- t-82653
   teiginys: "1409 m. Vytautas artimose totorių žemėse įkurdino jam paklusnų chaną Saladiną, vyriausią Tochtamyšo sūnų."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -69,9 +104,9 @@ canonical_biography: "1409 m. Vytautas artimose totorių žemėse įkurdino jam 
     - c-79116
 
 <a id="claim-t-82654"></a>
-- t-002
+- t-82654
   teiginys: "Saladinas citatoje vadinamas Tochtamišo sūnumi ir ištikimu Lietuvos sąjungininku, po kurio mirties įpėdinis Kerimberdėjus nepakluso Vytautui."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_sunus -> Tochtamišas: 0.96"
   ryšio_patikimumo_lygis: "aukstas"
@@ -88,9 +123,9 @@ canonical_biography: "1409 m. Vytautas artimose totorių žemėse įkurdino jam 
     - c-79117
 
 <a id="claim-t-82655"></a>
-- t-003
+- t-82655
   teiginys: "Saladinas, Tochtamyšo sūnus, buvo sultonas ir ištikimas Lietuvos sąjungininkas."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_sunus -> Tochtamišas: 0.96"
   ryšio_patikimumo_lygis: "aukstas"
@@ -106,31 +141,6 @@ canonical_biography: "1409 m. Vytautas artimose totorių žemėse įkurdino jam 
   temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti aiškų faktą apie Saladino tapatybę ir ryšį su Lietuva."
   pagrindžia:
     - c-79117
-
-<a id="claim-t-193975"></a>
-- t-004
-  teiginys: "Ir jis paskyrė jiems chaną, vardu Saladiną7 ."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-176600
-
-<a id="claim-t-193976"></a>
-- t-005
-  teiginys: "Lietuvos metraštyje Saladinas, Vytauto nurodymu atvykęs į Ordą, atsisėdo į chanų sostą ir tarnavo šlovinguoju valdovu vadinamam Vytautui."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-176601
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -168,8 +178,8 @@ canonical_biography: "1409 m. Vytautas artimose totorių žemėse įkurdino jam 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-82653
 
 - id: c-79117
   autorius: "Michał Baliński"
@@ -203,9 +213,9 @@ canonical_biography: "1409 m. Vytautas artimose totorių žemėse įkurdino jam 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-003
+  pagrindžia:
+    - t-82654
+    - t-82655
 
 - id: c-176600
   autorius: "Anoniminis metraštininkas"
@@ -225,8 +235,6 @@ canonical_biography: "1409 m. Vytautas artimose totorių žemėse įkurdino jam 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
 
 - id: c-176601
   autorius: "Anoniminis metraštininkas"
@@ -246,8 +254,29 @@ canonical_biography: "1409 m. Vytautas artimose totorių žemėse įkurdino jam 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+
+- id: c-193924
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 179"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 179."
+  citata_originali: |
+    O tas chanas,
+    kur valdė Ordą, išgirdo, jog šlovingasis valdovas pa­
+    skyrė chanu savo tarną, neišdrįso priešintis šlovinga­
+    jam valdovui, paliko chanystę ir pabėgo. O pats
+    Saladinas, atvykęs į Ordą, sėdo į chanų sostą, kaip bu­
+    vo didžiojo valdovo, vadinamo Vytautu, liepta. Ir tar­
+    navo šlovingajam valdovui, persiėmęs didžia baime.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 20:03"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210455
+    - t-211707
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Tochtamišas]], [[objektai/asmenys/Tochtamyšas]], [[objektai/asmenys/Tochtamyšas (Krymo ordos chanas)]]

@@ -39,20 +39,6 @@ canonical_biography: "Sud. Darius Baronas, Vilnius, 2006, p. 117-138; Prikockien
 
 Sud. Darius Baronas, Vilnius, 2006, p. 117-138; Prikockienė Asta.
 
-## Teiginiai
-
-<a id="claim-t-202223"></a>
-- t-001
-  teiginys: "Sud. Darius Baronas, Vilnius, 2006, p. 117-138; Prikockienė Asta."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185570
-
 ## Citatos
 
 - id: c-185570
@@ -67,5 +53,20 @@ Sud. Darius Baronas, Vilnius, 2006, p. 117-138; Prikockienė Asta.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202223"></a>
+- t-001
+  teiginys: "Sud. Darius Baronas, Vilnius, 2006, p. 117-138; Prikockienė Asta."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185570
+

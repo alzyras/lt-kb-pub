@@ -38,10 +38,73 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
 
 ## Teiginiai
 
+<a id="claim-t-210555"></a>
+- t-210555
+  teiginys: "Vaišvilkas apsisprendęs panūdo priimti šventąjį krikštą."
+  atnaujinta: "2026-09-12 20:03"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193191
+
+<a id="claim-t-211761"></a>
+- t-211761
+  teiginys: "Turėjo jis sūnų Vaišvilką ir dukterį."
+  atnaujinta: "2026-09-12 20:03"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194208
+
+<a id="claim-t-210837"></a>
+- t-210837
+  teiginys: "Po krikšto Vaišvilkas iškeliavo į Haličą pas Danielių ir kunigaikštį Vasilką, ketindamas tapti vienuoliu."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-193147
+
+<a id="claim-t-211430"></a>
+- t-211430
+  teiginys: "Lietuvos metraščio pasakojime Vaišvilką apėmė Dievo baimė, jis panūdo priimti krikštą ir pasikrikštijo Naugarduke."
+  atnaujinta: "2026-09-12 20:03"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-193191
+
+<a id="claim-t-212080"></a>
+- t-212080
+  teiginys: "Lietuvos metraščio pasakojime Mindaugas turėjo sūnų Vaišvilką ir dukterį, kurią išleido už Danieliaus sūnaus Švarno į Cholmą."
+  atnaujinta: "2026-09-12 20:03"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-194208
+
 <a id="claim-t-185952"></a>
-- t-001
+- t-185952
   teiginys: "Vaišvilkas Kojelavičiaus pasakojime pabėgo pas rusus, nes pasipiktino Mindaugo atsimetimu nuo krikščionybės."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -52,9 +115,9 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
     - c-169313
 
 <a id="claim-t-185954"></a>
-- t-002
+- t-185954
   teiginys: "Vaišvilkas ant purpurinio apsiausto vilkėdavo juodą drapaną kaip vienuolio įžadų ženklą."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -62,35 +125,12 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169315
-
-<a id="claim-t-185955"></a>
-- t-003
-  teiginys: "A. Kojelavičiaus teksto vertime paliktas tradicinis vardas Vaišvilkas, nors naujausioje literatūroje plito forma Vaišelga."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169316
-
-<a id="claim-t-193483"></a>
-- t-004
-  teiginys: "Kodėl nekrei piąs dėmesio į privilegijas Vaišvilko, teisėto lietuvių valdovo, kuris visas valdžios teises pagrįstai sau prisiskirįąs?"
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169313
+    - c-176183
 
 <a id="claim-t-193484"></a>
-- t-005
+- t-193484
   teiginys: "Vaišvilkas, žygūnų pakviestas perimti tėvo valdžios, atvyko iš Pinsko į Naugarduką ir Kernavėje buvo paskelbtas Lietuvos didžiuoju kunigaikščiu."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -101,9 +141,9 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
     - c-176183
 
 <a id="claim-t-193485"></a>
-- t-006
+- t-193485
   teiginys: "Vaišvilkas vilkėdavo juodą drapaną, kaip vienuolio įžadų ženklą."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -111,62 +151,12 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-169315
-
-<a id="claim-t-193486"></a>
-- t-007
-  teiginys: "Kojelavičiaus te ksto vertime paliekamas tradicinis Vaišvilkas."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169316
-
-<a id="claim-t-194001"></a>
-- t-008
-  teiginys: "Lietuvos metraščio pasakojime Mindaugas turėjo sūnų Vaišvilką ir dukterį, kurią išleido už Danieliaus sūnaus Švarno į Cholmą."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-176626
-
-<a id="claim-t-194002"></a>
-- t-009
-  teiginys: "Lietuvos metraščio pasakojime Vaišvilką apėmė Dievo baimė, jis panūdo priimti krikštą ir pasikrikštijo Naugarduke."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-176627
-
-<a id="claim-t-194003"></a>
-- t-010
-  teiginys: "Po krikšto Vaišvilkas iškeliavo į Haličą pas Danielių ir kunigaikštį Vasilką, ketindamas tapti vienuoliu."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-176628
+    - c-176183
 
 <a id="claim-t-196617"></a>
-- t-011
+- t-196617
   teiginys: "Kojelavičius vaizdavo Vaišvilką kaip keršto troškimo neraminamą asmenį, kuris pats nerado būdo keršyti ir ėmė skatinti Tautvilą."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -175,6 +165,20 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178802
+
+<a id="claim-t-196618"></a>
+- t-196618
+  teiginys: "Kojelavičiaus pasakojime Vaišvilkas nusileido žygūnų maldavimams, kai šie ragino pasigailėti dėl nesantarvės žūstančios tėvynės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-169316
+    - c-176183
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -310,9 +314,8 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-004
+  pagrindžia:
+    - t-185952
 
 - id: c-169315
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -336,9 +339,9 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-006
+  pagrindžia:
+    - t-185954
+    - t-193485
 
 - id: c-169316
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -356,9 +359,8 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-    - t-007
+  pagrindžia:
+    - t-196618
 
 - id: c-176183
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -388,8 +390,11 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-185954
+    - t-193484
+    - t-193485
+    - t-196618
 
 - id: c-176626
   autorius: "Anoniminis metraštininkas"
@@ -409,8 +414,6 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
 
 - id: c-176627
   autorius: "Anoniminis metraštininkas"
@@ -430,8 +433,6 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
 
 - id: c-176628
   autorius: "Anoniminis metraštininkas"
@@ -449,8 +450,6 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-010
 
 - id: c-178802
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -473,5 +472,72 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-011
+  pagrindžia:
+    - t-196617
+
+- id: c-193147
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 51"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 51."
+  citata_originali: |
+    Pasikrikštijo
+    Naugarduke ir tapo krikščionimi.
+    Paskui Vaišvilkas iškeliavo į Haličąs pas Danielių,
+    pas kunigaikštį Vasilką, ketindamas tapti vienuoliu.
+    Tuokart Vaišvilkas ir pakrikštijo Levo sūnų Jurijų.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210837
+
+- id: c-193191
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 51"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 51."
+  citata_originali: |
+    Kartais per
+    dieną nugalabydavo po tris ir po keturis, o jeigu kurią
+    dieną likdavo ko norint nenužudęs, tai būdavo paniu­
+    ręs, o jeigu pasitaikydavo nugalabyti, tai linksmas.
+    Bet paskui jo širdį suspaudė dievo baimė, ir jis ap­
+    sisprendęs panūdo priimti šventąjį krikštą. Pasikrikštijo
+    Naugarduke ir tapo krikščionimi.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 20:03"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210555
+    - t-211430
+
+- id: c-194208
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 51"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 51."
+  citata_originali: |
+    Turėjo jis sūnų Vaišvilką ir dukterį. Dukterį išleido
+    už Danieliaus sūnaus Švarno3 į Cholmą \ O Vaišvil­
+    kas, [dar) būdamas pagonimi, ėmė kunigaikščiauti Nau­
+    garduke ir iš pradžių daug kraujo praliejo. Kartais per
+    dieną nugalabydavo po tris ir po keturis, o jeigu kurią
+    dieną likdavo ko norint nenužudęs, tai būdavo paniu­
+    ręs, o jeigu pasitaikydavo nugalabyti, tai linksmas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 20:03"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211761
+    - t-212080
+

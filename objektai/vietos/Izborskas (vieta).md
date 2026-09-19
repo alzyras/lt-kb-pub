@@ -42,34 +42,6 @@ Rugpjūčio 2-ąją prie Mekužicos upės susidūręs būrys buvo sumuštas, net
 
 Rugpjūčio 2-ąją prie Mekužicos upės susidūręs būrys buvo sumuštas, neteko šešiasdešimties žmonių ir pasitraukė į Izborską. Izborską dešimt dienų puolęs priešas, pasak Teodoro Narbuto, sužinojęs apie Algirdo pagalbos artėjimą, sudegino apgulties techniką ir pasitraukė į Livoniją.
 
-## Teiginiai
-
-<a id="claim-t-206617"></a>
-- t-001
-  teiginys: "Rugpjūčio 2-ąją prie Mekužicos upės susidūręs būrys buvo sumuštas, neteko šešiasdešimties žmonių ir pasitraukė į Izborską."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189232
-
-<a id="claim-t-206618"></a>
-- t-002
-  teiginys: "Izborską dešimt dienų puolęs priešas, pasak Teodoro Narbuto, sužinojęs apie Algirdo pagalbos artėjimą, sudegino apgulties techniką ir pasitraukė į Livoniją."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189233
-
 ## Citatos
 
 - id: c-189232
@@ -85,7 +57,7 @@ Rugpjūčio 2-ąją prie Mekužicos upės susidūręs būrys buvo sumuštas, net
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189233
@@ -107,5 +79,34 @@ Rugpjūčio 2-ąją prie Mekužicos upės susidūręs būrys buvo sumuštas, net
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-206617"></a>
+- t-001
+  teiginys: "Rugpjūčio 2-ąją prie Mekužicos upės susidūręs būrys buvo sumuštas, neteko šešiasdešimties žmonių ir pasitraukė į Izborską."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189232
+
+<a id="claim-t-206618"></a>
+- t-002
+  teiginys: "Izborską dešimt dienų puolęs priešas, pasak Teodoro Narbuto, sužinojęs apie Algirdo pagalbos artėjimą, sudegino apgulties techniką ir pasitraukė į Livoniją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189233
+

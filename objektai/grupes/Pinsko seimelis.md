@@ -43,3 +43,40 @@ Mykolo Višneveckio pozicija lėmė sėkmingą Pinsko seimelių baigtį.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-190739
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 52"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 52."
+  citata_originali: |
+    Augusto III valdymo laikais nebūdingas buvo 1736-1738 m. it 1741-1744 m.
+    Pinsko seimelis, kurio buvo praktiškai neįmanoma sužlugdyti, nes pavieto elitas
+    gerai sutarė su didiku - Lietuvos didžiuoju etmonu ir Vilniaus vaivada Mykolu
+    Višneveckiu. Būtent jo pozicija lėmė sėkmingą Pinsko seimelių baigtį.
+  citata_rodoma: "Būtent jo pozicija lėmė sėkmingą Pinsko seimelių baigtį."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-208121"></a>
+- t-001
+  teiginys: "Mykolo Višneveckio pozicija lėmė sėkmingą Pinsko seimelių baigtį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190739
+

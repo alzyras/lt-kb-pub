@@ -36,20 +36,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-201288"></a>
-- t-001
-  teiginys: "Vilhelmas į Parusnį pagrįžęs iš Ry mo, tuojau popiežius išleido raštą, skelbdamas kry žiaus karę ant lietuvių į Padaugavį ir Parusnį eiti kariauti, jog tie visi, kurie iš Čekų, Teutonuos, Skandijos, arba Žuvėdų, Danų, Norvegų, Lenkų ir Pamario žygiuos kryžium."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184638
-
 ## Citatos
 
 - id: c-184638
@@ -83,5 +69,20 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201288"></a>
+- t-001
+  teiginys: "Vilhelmas į Parusnį pagrįžęs iš Ry mo, tuojau popiežius išleido raštą, skelbdamas kry žiaus karę ant lietuvių į Padaugavį ir Parusnį eiti kariauti, jog tie visi, kurie iš Čekų, Teutonuos, Skandijos, arba Žuvėdų, Danų, Norvegų, Lenkų ir Pamario žygiuos kryžium."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184638
+

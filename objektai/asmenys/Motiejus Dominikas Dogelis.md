@@ -43,21 +43,6 @@ canonical_biography: "Motiejus Dominikas Dogelis buvo archeografas, kurio šalti
 
 Motiejus Dominikas Dogelis buvo archeografas, kurio šaltinių publikacija „Codex diplomaticus Regni Poloniae et Magni Ducatus Lituaniae“ cituojama Narbuto tekste.
 
-## Teiginiai
-
-<a id="claim-t-191506"></a>
-- t-001
-  teiginys: "Motiejus Dominikas Dogelis buvo archeografas, kurio šaltinių publikacija „Codex diplomaticus Regni Poloniae et Magni Ducatus Lituaniae“ cituojama Narbuto tekste."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-174388
-
 ## Citatos
 
 - id: c-174388
@@ -76,5 +61,39 @@ Motiejus Dominikas Dogelis buvo archeografas, kurio šaltinių publikacija „Co
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-196132
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 421"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 421."
+  citata_originali: |
+    Čia cituojama įžymaus archeografo Motiejaus
+    Dominiko Dogelio (1715—1760) šaltinių pub­
+    likacija (Codex diplomaticus Regni Poloniae
+    et Magni Ducatus Lituaniae... Vilna, 1758,
+    1759, 1764).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-212587"></a>
+- t-001
+  teiginys: "Motiejus Dominikas Dogelis buvo archeografas, kurio šaltinių publikacija „Codex diplomaticus Regni Poloniae et Magni Ducatus Lituaniae“ cituojama Narbuto tekste."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-196132
+

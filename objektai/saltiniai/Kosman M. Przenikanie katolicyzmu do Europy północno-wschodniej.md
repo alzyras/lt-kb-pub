@@ -32,20 +32,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad kosman M.
 
-## Teiginiai
-
-<a id="claim-t-61103"></a>
-- t-001
-  teiginys: "M. Kosmano darbas „Przenikanie katolicyzmu do Europy północno-wschodniej“ paskelbtas leidinyje „Katolicyzm średniowieczny“ 1977 m."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1977 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti bibliografinį faktą."
-  pagrindžia:
-    - c-61735
-
 ## Citatos
 
 - id: c-61735
@@ -61,5 +47,35 @@ Dusburgietis teigia, kad kosman M.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-205679
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 265"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 265."
+  citata_originali: |
+    Kosman M. Przenikanie katolicyzmu do Europy północno-wschodniej.—Katolicyzm
+    średniowieczny, Warszawa, 1977, s. 107—132.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-224399"></a>
+- t-001
+  teiginys: "M. Kosmano darbas „Przenikanie katolicyzmu do Europy północno-wschodniej“ paskelbtas leidinyje „Katolicyzm średniowieczny“ 1977 m."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1977 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata leidžia suformuluoti bibliografinį faktą."
+  pagrindžia:
+    - c-205679
+

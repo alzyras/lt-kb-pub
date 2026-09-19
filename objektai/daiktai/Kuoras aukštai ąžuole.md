@@ -47,25 +47,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-59692"></a>
-- t-001
-  teiginys: "Septyni Teutonų ordino broliai su keliais ginklanešiais Kulmo žemėje įsirengė kuorą aukštai ąžuole."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "pastate -> Kuoras aukštai ąžuole: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Teutonai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Kuoras aukštai ąžuole: llm_allowed_candidate, thing"
-  ryšio_paaiskinimas: "Teutonų ordino broliai tiesiogiai nurodomi įsirengę kuorą aukštai ąžuole."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Teutonai pastatė Kuoras aukštai ąžuole (0.88)"
-  pagrindžia:
-    - c-60324
-
 ## Citatos
 
 - id: c-60324
@@ -88,5 +69,21 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+## Teiginiai
+
+<a id="claim-t-225472"></a>
+- t-001
+  teiginys: "Septyni Teutonų ordino broliai su keliais ginklanešiais Kulmo žemėje įsirengė kuorą aukštai ąžuole."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "pastate -> Kuoras aukštai ąžuole: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Teutonai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Kuoras aukštai ąžuole: llm_allowed_candidate, thing"
+  ryšio_paaiskinimas: "Teutonų ordino broliai tiesiogiai nurodomi įsirengę kuorą aukštai ąžuole."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Teutonai pastatė Kuoras aukštai ąžuole (0.88)"
+

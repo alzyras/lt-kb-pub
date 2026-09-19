@@ -48,10 +48,34 @@ Bet tai tebuvo tik diplomatiškas atsikalbėjimas; juo buvo norima nesugriauti L
 
 ## Teiginiai
 
+<a id="claim-t-209650"></a>
+- t-002
+  teiginys: "Delegatai galėjo atsilankyti Vilkaviškyje."
+  atnaujinta: "2026-09-12 14:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192270
+
+<a id="claim-t-209649"></a>
+- t-209649
+  teiginys: "Vilkaviškio parapija nuo ugnies ir bombų nukentėjo menkai."
+  atnaujinta: "2026-09-12 14:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192269
+
 <a id="claim-t-69569"></a>
-- t-001
+- t-69569
   teiginys: "Napoleonas su kariuomene stovėjo Vilkaviškyje, kai jau buvo paskelbęs karą Rusijai."
-  atnaujinta: "2026-06-13 18:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Rusija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -89,5 +113,47 @@ Bet tai tebuvo tik diplomatiškas atsikalbėjimas; juo buvo norima nesugriauti L
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-69569
+
+- id: c-192269
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 39"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 39."
+  citata_originali: |
+    Vilkaviškio
+    parapijos menkai nukentėta nuo ugnelės
+    ir
+    bombų.
+    Jos bažnyčia stovi nelytėta.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209649
+
+- id: c-192270
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 51"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 51."
+  citata_originali: |
+    Lietuvių
+    delegatai
+    galės
+    atsilankyti
+    Vilniuje, Vilkaviškyje ir Naumiestyje.
+    Vo-
+    kiečii} valdžia duos dovanai naudojimąsi gele­
+    žinkeliu pristatymui Lietuvai pagelbos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+

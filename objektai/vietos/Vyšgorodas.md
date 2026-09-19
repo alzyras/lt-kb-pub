@@ -43,27 +43,6 @@ historical_names: []
 
 Gedimino valdžią tuo metu pripažino ir Kijevo priemiesčiai Vyšgorodas įvykių į vakarus nuo Lietuvos analizė rodo, kad Lietuvai palankiausia situacija buvo 1325-1326 m.
 
-## Teiginiai
-
-<a id="claim-t-42340"></a>
-- t-001
-  teiginys: "Gedimino valdžią tuo metu pripažino ir Kijevo priemiestis Vyšgorodas."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde_miesta -> Vyšgorodas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Vyšgorodas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vyšgorodo pripažinta Gedimino valdžia tiesiogiai rodo Gedimino valdžios santykį su Vyšgorodu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Gediminas valdė miestą Vyšgorodas (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1325 m.; įvykio data: 1325-1326; įvykio data: 1326 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-45444
-
 ## Citatos
 
 - id: c-45444
@@ -87,5 +66,27 @@ Gedimino valdžią tuo metu pripažino ir Kijevo priemiesčiai Vyšgorodas įvyk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-42340"></a>
+- t-001
+  teiginys: "Gedimino valdžią tuo metu pripažino ir Kijevo priemiestis Vyšgorodas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde_miesta -> Vyšgorodas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Gediminas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Vyšgorodas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vyšgorodo pripažinta Gedimino valdžia tiesiogiai rodo Gedimino valdžios santykį su Vyšgorodu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Gediminas valdė miestą Vyšgorodas (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1325 m.; įvykio data: 1325-1326; įvykio data: 1326 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-45444
+

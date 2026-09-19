@@ -36,44 +36,6 @@ media_all_json: |-
 
 Ivinskis, Kovos bruožai dėl Žemaičių ir jų sienų , Athenaeum V, 1935, 54-117 ; M. — Ivinskis, Z. : Kovos bruožai dėl Žemaičių ir jų sienų, Athenaeum, VI, 1935, 54-117 p. — (”) Vytauto Didžiojo perijodo (^37) DlugO, XIII, 119 p.
 
-## Teiginiai
-
-<a id="claim-t-32002"></a>
-- t-001
-  teiginys: "Z. Ivinskio tekstas „Kovos bruožai dėl Žemaičių ir jų sienų“ nurodytas 1935 m. „Athenaeum“ 6 tome, 54–117 puslapiuose."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Zenonas Ivinskis: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Z. Ivinskis, Kovos bruožai dėl Žemaičių ir jų sienų: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Zenonas Ivinskis: mention_match, author, gap=3"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Z. Ivinskis, Kovos bruožai dėl Žemaičių ir jų sienų\" parinktas kaip owner_note_path. Targetas \"Zenonas Ivinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1935 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-33764
-
-<a id="claim-t-32003"></a>
-- t-002
-  teiginys: "„Kovos bruožai dėl Žemaičių ir jų sienų“ nurodytas kaip 1935 m. „Athenaeum“ VI tomo tekstas, apimantis 54–117 puslapius."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Z. Ivinskis, Kovos bruožai dėl Žemaičių ir jų sienų: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person, gap=78"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Z. Ivinskis, Kovos bruožai dėl Žemaičių ir jų sienų\" parinktas kaip owner_note_path. Targetas \"Tomas (Hertvigo iš Pokarvių sūnus)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1935 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-33763
-
 ## Citatos
 
 - id: c-33763
@@ -95,7 +57,7 @@ Ivinskis, Kovos bruožai dėl Žemaičių ir jų sienų , Athenaeum V, 1935, 54-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-33764
@@ -116,5 +78,44 @@ Ivinskis, Kovos bruožai dėl Žemaičių ir jų sienų , Athenaeum V, 1935, 54-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-32002"></a>
+- t-001
+  teiginys: "Z. Ivinskio tekstas „Kovos bruožai dėl Žemaičių ir jų sienų“ nurodytas 1935 m. „Athenaeum“ 6 tome, 54–117 puslapiuose."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Zenonas Ivinskis: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Z. Ivinskis, Kovos bruožai dėl Žemaičių ir jų sienų: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Zenonas Ivinskis: mention_match, author, gap=3"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Z. Ivinskis, Kovos bruožai dėl Žemaičių ir jų sienų\" parinktas kaip owner_note_path. Targetas \"Zenonas Ivinskis\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1935 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-33764
+
+<a id="claim-t-32003"></a>
+- t-002
+  teiginys: "„Kovos bruožai dėl Žemaičių ir jų sienų“ nurodytas kaip 1935 m. „Athenaeum“ VI tomo tekstas, apimantis 54–117 puslapius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Z. Ivinskis, Kovos bruožai dėl Žemaičių ir jų sienų: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person, gap=78"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Z. Ivinskis, Kovos bruožai dėl Žemaičių ir jų sienų\" parinktas kaip owner_note_path. Targetas \"Tomas (Hertvigo iš Pokarvių sūnus)\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1935 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-33763
+

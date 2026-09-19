@@ -27,21 +27,6 @@ media_all_json: |-
 
 Narbutas aiškina, kad tikėjimo ženklu pažymėti atvaizdai ir simboliai susiliejo su religija, o garbinimo įrankiai virto Dievo atvaizdais.
 
-## Teiginiai
-
-<a id="claim-t-189588"></a>
-- t-001
-  teiginys: "Narbutas aiškina, kad tikėjimo ženklu pažymėti atvaizdai ir simboliai susiliejo su religija, o garbinimo įrankiai virto Dievo atvaizdais."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172474
-
 ## Citatos
 
 - id: c-172474
@@ -65,5 +50,4 @@ Narbutas aiškina, kad tikėjimo ženklu pažymėti atvaizdai ir simboliai susil
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

@@ -41,20 +41,6 @@ historical_names: []
 
 O kad knygos Kauno vienuolynams būdavo perduodamos praėjus daug laiko nuo jų išspausdinimo, rodo tai, kad 1563 m. Ernesto Vogelino spaustuvėje Leipcige išleista Biblija Kauno jėzuitų kolegijai buvo dovanota tik 1752 m.
 
-## Teiginiai
-
-<a id="claim-t-201732"></a>
-- t-001
-  teiginys: "O kad knygos Kauno vienuolynams būdavo perduodamos praėjus daug laiko nuo jų išspausdinimo, rodo tai, kad 1563 m. Ernesto Vogelino spaustuvėje Leipcige išleista Biblija Kauno jėzuitų kolegijai buvo dovanota tik 1752 m."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185079
-
 ## Citatos
 
 - id: c-185079
@@ -71,5 +57,20 @@ O kad knygos Kauno vienuolynams būdavo perduodamos praėjus daug laiko nuo jų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201732"></a>
+- t-001
+  teiginys: "O kad knygos Kauno vienuolynams būdavo perduodamos praėjus daug laiko nuo jų išspausdinimo, rodo tai, kad 1563 m. Ernesto Vogelino spaustuvėje Leipcige išleista Biblija Kauno jėzuitų kolegijai buvo dovanota tik 1752 m."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185079
+

@@ -36,26 +36,6 @@ Vartojamos formos: `vyrgalve`, `vyrgulda`, `vyrišką galvą`.
 
 - Etimologija tekste pateikiama autoriaus, bet pati reikšmė iš konteksto aiški.
 
-## Teiginiai
-
-<a id="claim-t-07711"></a>
-- t-001
-  teiginys: "Vyrgalvė buvo mokesnis už vyrišką galvą, nes senovėje vyro galva laikyta vertesne už moters."
-  atnaujinta: "2026-06-13 17:10"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-09640
-
-<a id="claim-t-07712"></a>
-- t-002
-  teiginys: "`Vyrgalvė / vyrgulda` šiame tekste reiškia išpirką už užmušto vyro galvą."
-  atnaujinta: "2026-05-20 21:56"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-09640
-
 ## Citatos
 
 - id: c-09640
@@ -71,6 +51,20 @@ Vartojamos formos: `vyrgalve`, `vyrgulda`, `vyrišką galvą`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
+
+## Teiginiai
+
+<a id="claim-t-209985"></a>
+- t-001
+  teiginys: "Vyrgalvė buvo mokesnis už vyrišką galvą, nes senovėje vyro galva laikyta vertesne už moters."
+  atnaujinta: "2026-09-12 16:28"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+
+<a id="claim-t-210313"></a>
+- t-002
+  teiginys: "`Vyrgalvė / vyrgulda` šiame tekste reiškia išpirką už užmušto vyro galvą."
+  atnaujinta: "2026-09-12 16:28"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+

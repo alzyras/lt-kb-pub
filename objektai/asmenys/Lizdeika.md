@@ -46,10 +46,47 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
 
 ## Teiginiai
 
+<a id="claim-t-211869"></a>
+- t-211869
+  teiginys: "Lizdeika buvo Gedimino žynys ir vyriausiasis pagonių kunigas."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193322
+
+<a id="claim-t-216728"></a>
+- t-216728
+  teiginys: "Vyriausiasis žynys Lizdeika , paskutinis iš lietuvių stab meldystės vadų, paskelbė didžiajam kunigaikščiui Gedimi nui garsiąją pranašystę apie Vilnių."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T03:35:06Z"
+  pagrindžia:
+    - c-200313
+
+<a id="claim-t-217282"></a>
+- t-217282
+  teiginys: "Narbutas skaičiuoja, kad nuo Alepo krikšto iki Lizdeikos vyriausiojo žynio pareigų galėjo būti trys arba keturi vyriausieji žyniai."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200016
+
 <a id="claim-t-187902"></a>
-- t-001
+- t-187902
   teiginys: "Lizdeika padavimuose vaizduojamas kaip nuo katedros varpinės Vilniaus pagonims skelbęs geras ar blogas pranašystes."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "gap::people"
   teiginio_tipas: "faktas"
   sudarymo_pagrindimas: "Teiginys perrašytas kaip pilnas sakinys, išlaikant padavimų pobūdį."
@@ -59,9 +96,9 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
     - c-170882
 
 <a id="claim-t-187903"></a>
-- t-002
+- t-187903
   teiginys: "Lizdeika tuo metu buvo vyriausiasis žynys, tėvų kalba vadintas Krive Krivaičiu."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "gap::people"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -71,10 +108,22 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
   pagrindžia:
     - c-170881
 
-<a id="claim-t-188580"></a>
-- t-003
+<a id="claim-t-218642"></a>
+- t-218642
+  teiginys: "Jokiuose istorijos šaltiniuose neiš liko vardų šių garsių žmonių, kurių būta Lietuvoje, išskyrus vienintelį Lizdeiką, gyvenusį Gedimino laikais, apie 1318 me tus patarusį įkurti Vilnių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198016
+
+<a id="claim-t-219356"></a>
+- t-219356
   teiginys: "Narbutas rašo, kad Lizdeika, gyvenęs Gedimino laikais, apie 1318 m. patarė įkurti Vilnių."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -92,12 +141,12 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
   temporalinis_llm_pakomentavimas: "Legendinis Vilniaus įkūrimo teiginys paliktas su Narbuto atribucija. Nepridėta pasakojimo apie šventyklos griovimą ar Lizdeikos amžių."
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-171469
+    - c-198016
 
-<a id="claim-t-194715"></a>
-- t-004
+<a id="claim-t-219744"></a>
+- t-219744
   teiginys: "Strijkovskis, dėstydamas istoriją iki stabmeldystės žlugimo Lietuvoje, nuo lat mini vyriausiojo žynio pareigas ir paskutinį jų eilėje taria buvus Lizdeiką."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -105,7 +154,7 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-177111
+    - c-198016
 
 ## Reikšmingi paminėjimai
 - c-004
@@ -154,8 +203,8 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-187903
 
 - id: c-170882
   autorius: "Michał Baliński"
@@ -188,8 +237,8 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-187902
 
 - id: c-171469
   autorius: "Teodoras Narbutas"
@@ -211,8 +260,6 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-177111
   autorius: "Teodoras Narbutas"
@@ -232,5 +279,87 @@ Dusburgietis teigia, kad 4680), be to, Lietuvos metraščių istorinės tradicij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+
+- id: c-193322
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 66"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 66."
+  citata_originali: |
+    Pabudo iš miego ir tarė savo žy­
+    niui, vardu Lizdeikai J, kuris buvo rastas erelio lizde,—
+    tasai Lizdeika buvo Gedimino žynys ir vyriausiasis pa­
+    gonių kunigas
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211869
+
+- id: c-198016
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 287"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 287."
+  citata_originali: |
+    Straips­
+    nyje apie šventyklas skaitėme, kaip keitėsi vyriausiųjų žynių
+    buveinių vietos Lietuvoje. Jokiuose istorijos šaltiniuose neiš­
+    liko vardų šių garsių žmonių, kurių būta Lietuvoje, išskyrus
+    vienintelį Lizdeiką, gyvenusį Gedimino laikais, apie 1318 me­
+    tus patarusį įkurti Vilnių. Sako, kad jis paskutinis vyriausiasis
+    žynys, kuris dar gyveno, kai buvo griaunama Vilniaus Perkū­
+    no šventykla; tai įvyko praėjus 69 metams po minėtosios da­
+    tos, todėl turėjo būti jau labai senas.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218642
+    - t-219356
+    - t-219744
+
+- id: c-200016
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 287"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 287."
+  citata_originali: |
+    Kadangi tiek pat metų
+    ėjo vyriausiojo žynio pareigas, lieka 93 metai apibrėžti laikui
+    nuo Alepo krikšto iki Lizdeikai perimant vyriausiojo žynio pa­
+    reigas. Todėl anksčiau buvusia tvarka iki Lizdeikos galėjo būti
+    trys arba keturi vyriausieji žyniai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217282
+
+- id: c-200313
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 303"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 303."
+  citata_originali: |
+    Vyriausiasis žynys Lizdeika , paskutinis iš lietuvių stab­
+    meldystės vadų, paskelbė didžiajam kunigaikščiui Gedimi­
+    nui garsiąją pranašystę apie Vilnių
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216728
+

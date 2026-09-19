@@ -43,28 +43,6 @@ canonical_biography: "1279 m. pradžioje įvykęs puolimas geičiausiai buvo ins
 
 1279 m. pradžioje įvykęs puolimas geičiausiai buvo inspiruotas totorių, kai Aukso ordos valdytojas Nogajus pasiuntė savo kariuomenę, vadovaujamą Mamšėjaus, įsakęs rusų kunigaikščiams eiti su juo prieš Traidenio Lietuvą, siekdamas sustabdyti jos didėjančią.
 
-## Teiginiai
-
-<a id="claim-t-40377"></a>
-- t-001
-  teiginys: "Aukso ordos valdytojas Nogajus pasiuntė Mamšėjaus vadovaujamą kariuomenę prieš Traidenio Lietuvą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Lietuva: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Nogajus (Aukso ordos valdytojas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Nogajus pasiuntė kariuomenę prieš Traidenio Lietuvą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Nogajus (Aukso ordos valdytojas) siuntė į Lietuva (0.95)"
-  temporaliniai_duomenys: "įvykio data: 1278-1279; įvykio data: 1279 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, enciklopedinis ir paremtas citata."
-  pagrindžia:
-    - c-44480
-
 ## Citatos
 
 - id: c-44480
@@ -88,8 +66,31 @@ canonical_biography: "1279 m. pradžioje įvykęs puolimas geičiausiai buvo ins
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Nogajus (Aukso ordos valdytojas) siuntė į [[objektai/vietos/Lietuva]]
+
+## Teiginiai
+
+<a id="claim-t-40377"></a>
+- t-001
+  teiginys: "Aukso ordos valdytojas Nogajus pasiuntė Mamšėjaus vadovaujamą kariuomenę prieš Traidenio Lietuvą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Lietuva: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Nogajus (Aukso ordos valdytojas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Nogajus pasiuntė kariuomenę prieš Traidenio Lietuvą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Nogajus (Aukso ordos valdytojas) siuntė į Lietuva (0.95)"
+  temporaliniai_duomenys: "įvykio data: 1278-1279; įvykio data: 1279 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, enciklopedinis ir paremtas citata."
+  pagrindžia:
+    - c-44480
+

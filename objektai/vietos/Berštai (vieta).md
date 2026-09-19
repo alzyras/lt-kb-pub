@@ -48,24 +48,6 @@ historical_names: []
 
 1496 m. Aleksandras valdovo raštais į Seimą Berštuose, Alberto Kučuko prašymu, pakvietė Slucko kunigaikštį Simoną ir Raklienę Petkevičienę, tačiau abu neatvyko.
 
-## Teiginiai
-
-<a id="claim-t-204364"></a>
-- t-001
-  teiginys: "1496 m. Aleksandras valdovo raštais į Seimą Berštuose, Alberto Kučuko prašymu, pakvietė Slucko kunigaikštį Simoną ir Raklienę Petkevičienę, tačiau abu neatvyko."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  temporaliniai_duomenys: "įvykio data: 1496 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Įtrauktos citatoje nurodytos kvietimo aplinkybės ir rezultatas, išlaikant aiškius asmenų vardus bei vietą. Titulai ir papildomi bylos motyvai sąmoningai neperteikti."
-  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
-  pagrindžia:
-    - c-186968
-
 ## Citatos
 
 - id: c-186968
@@ -86,5 +68,24 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204364"></a>
+- t-001
+  teiginys: "1496 m. Aleksandras valdovo raštais į Seimą Berštuose, Alberto Kučuko prašymu, pakvietė Slucko kunigaikštį Simoną ir Raklienę Petkevičienę, tačiau abu neatvyko."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1496 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įtrauktos citatoje nurodytos kvietimo aplinkybės ir rezultatas, išlaikant aiškius asmenų vardus bei vietą. Titulai ir papildomi bylos motyvai sąmoningai neperteikti."
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186968
+

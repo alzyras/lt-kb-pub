@@ -28,47 +28,6 @@ Bychovco Lietuvos kronikoje apie tai irgi nieko nėkalbama. Lietuvos kronika bū
 
 Bychovco Lietuvos kronikoje apie tai irgi nieko nėkalbama. Lietuvos kronika būtent šiuo atveju ir ryšium su Ker niaus valstybės įkūrimu pirmą kartą pavartoja vardą Lie tuvos Kunigaikštystės, kurios kilmę nusako taip pat kaip ir tautos padavimai. Bychovco kronika.
 
-## Teiginiai
-
-<a id="claim-t-205069"></a>
-- t-001
-  teiginys: "Bychovco kronika."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-188063
-
-<a id="claim-t-205132"></a>
-- t-002
-  teiginys: "Bychovco Lietuvos kronikoje apie tai irgi nieko nėkalbama."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-187991
-
-<a id="claim-t-205367"></a>
-- t-003
-  teiginys: "Lietuvos kronika būtent šiuo atveju ir ryšium su Ker niaus valstybės įkūrimu pirmą kartą pavartoja vardą Lie tuvos Kunigaikštystės, kurios kilmę nusako taip pat kaip ir tautos padavimai."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-187761
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Bychovco Lietuvos kronikoje apie tai irgi nieko nėkalbama.'
@@ -121,7 +80,7 @@ Bychovco Lietuvos kronikoje apie tai irgi nieko nėkalbama. Lietuvos kronika bū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-187991
@@ -140,7 +99,7 @@ Bychovco Lietuvos kronikoje apie tai irgi nieko nėkalbama. Lietuvos kronika bū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-188063
@@ -156,5 +115,47 @@ Bychovco Lietuvos kronikoje apie tai irgi nieko nėkalbama. Lietuvos kronika bū
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205069"></a>
+- t-001
+  teiginys: "Bychovco kronika."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-188063
+
+<a id="claim-t-205132"></a>
+- t-002
+  teiginys: "Bychovco Lietuvos kronikoje apie tai irgi nieko nėkalbama."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187991
+
+<a id="claim-t-205367"></a>
+- t-003
+  teiginys: "Lietuvos kronika būtent šiuo atveju ir ryšium su Ker niaus valstybės įkūrimu pirmą kartą pavartoja vardą Lie tuvos Kunigaikštystės, kurios kilmę nusako taip pat kaip ir tautos padavimai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187761
+

@@ -36,33 +36,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206789"></a>
-- t-001
-  teiginys: "Algirdas, aprimęs dėl kryžiuočių, pasiuntė pas chaną Džanibeką iškilmingą pasiuntinybę, kuriai vadovavo jo brolis Karijotas, o kartu vyko Svisločiaus kunigaikštis Simonas ir kiti pasiuntiniai."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-189404
-
-<a id="claim-t-206790"></a>
-- t-002
-  teiginys: "Chanas suėmė lietuvių pasiuntinius ir atidavė juos Maskvos bajorams."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189405
-
 ## Santrauka
 
 Algirdas, aprimęs dėl kryžiuočių, pasiuntė pas chaną Džanibeką iškilmingą pasiuntinybę, kuriai vadovavo jo brolis Karijotas, o kartu vyko Svisločiaus kunigaikštis Simonas ir kiti pasiuntiniai. Chanas suėmė lietuvių pasiuntinius ir atidavė juos Maskvos bajorams.
@@ -87,7 +60,7 @@ Algirdas, aprimęs dėl kryžiuočių, pasiuntė pas chaną Džanibeką iškilmi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189405
@@ -107,5 +80,33 @@ Algirdas, aprimęs dėl kryžiuočių, pasiuntė pas chaną Džanibeką iškilmi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-206789"></a>
+- t-001
+  teiginys: "Algirdas, aprimęs dėl kryžiuočių, pasiuntė pas chaną Džanibeką iškilmingą pasiuntinybę, kuriai vadovavo jo brolis Karijotas, o kartu vyko Svisločiaus kunigaikštis Simonas ir kiti pasiuntiniai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-189404
+
+<a id="claim-t-206790"></a>
+- t-002
+  teiginys: "Chanas suėmė lietuvių pasiuntinius ir atidavė juos Maskvos bajorams."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189405
+

@@ -47,18 +47,6 @@ Luononmaa sala šiame šaltinyje minima kaip vieta, kurioje Augustas Robertas Ni
 
 Luononmaa sala šiame šaltinyje yra sala.
 
-## Teiginiai
-
-<a id="claim-t-195650"></a>
-- t-001
-  teiginys: "Nuo penkerių metų Augustas Robertas Niemi gyveno Luononmaa saloje."
-  atnaujinta: "2026-07-12 09:30"
-  sprendimo_priezastis: "gap::places"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178051
-
 ## Citatos
 
 - id: c-178051
@@ -81,5 +69,18 @@ Luononmaa sala šiame šaltinyje yra sala.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-195650"></a>
+- t-001
+  teiginys: "Nuo penkerių metų Augustas Robertas Niemi gyveno Luononmaa saloje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::places"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-178051
+

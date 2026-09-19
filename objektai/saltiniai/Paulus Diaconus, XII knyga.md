@@ -26,21 +26,6 @@ media_all_json: |-
 
 Gotų pakurstyti he rulai, surinkę savo jaunimą ir narsaus Malabato2 vado 1 Paulus Diaconus.
 
-## Teiginiai
-
-<a id="claim-t-194898"></a>
-- t-001
-  teiginys: "Gotų pakurstyti he rulai, surinkę savo jaunimą ir narsaus Malabato2 vado 1 Paulus Diaconus."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-177294
-
 ## Citatos
 
 - id: c-177294
@@ -63,5 +48,17 @@ Gotų pakurstyti he rulai, surinkę savo jaunimą ir narsaus Malabato2 vado 1 Pa
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+## Teiginiai
+
+<a id="claim-t-212300"></a>
+- t-001
+  teiginys: "Gotų pakurstyti he rulai, surinkę savo jaunimą ir narsaus Malabato2 vado 1 Paulus Diaconus."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+

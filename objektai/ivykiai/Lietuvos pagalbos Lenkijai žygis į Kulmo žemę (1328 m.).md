@@ -40,21 +40,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-205932"></a>
-- t-001
-  teiginys: "Į Lenkijos pagalbos žygį Didysis Lietuvos kunigaikštis 1328 m. išžygiavo priešakyje rinktinės kariuomenės, lydimas savo sūnų, o ši kariuomenė nuniokojo Kulmo žemę iki Osos upės."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188547
-
 ## Santrauka
 
 Į Lenkijos pagalbos žygį Didysis Lietuvos kunigaikštis 1328 m. išžygiavo priešakyje rinktinės kariuomenės, lydimas savo sūnų, o ši kariuomenė nuniokojo Kulmo žemę iki Osos upės.
@@ -78,5 +63,21 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205932"></a>
+- t-001
+  teiginys: "Į Lenkijos pagalbos žygį Didysis Lietuvos kunigaikštis 1328 m. išžygiavo priešakyje rinktinės kariuomenės, lydimas savo sūnų, o ši kariuomenė nuniokojo Kulmo žemę iki Osos upės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188547
+

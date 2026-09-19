@@ -43,20 +43,6 @@ canonical_biography: "Heningas Henningas darė prielaidą, kad visi sūduviai bu
 
 Heningas Henningas darė prielaidą, kad visi sūduviai buvo jotvingiai, tačiau Teodoras Narbutas su tokia išvada nesutiko. Heningas Henning sako, kad dar jo laikais apie Drohiciną buvo kalbama jotvingių kalba ir lietuviai negalėdavo nė žodžio suprasti.
 
-## Teiginiai
-
-<a id="claim-t-197592"></a>
-- t-001
-  teiginys: "Heningas Henning sako, kad dar jo laikais apie Drohiciną buvo kalbama jotvingių kalba ir lietuviai negalėdavo nė žodžio suprasti."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-174478
-
 ## Citatos
 
 - id: c-174478
@@ -76,5 +62,60 @@ Heningas Henningas darė prielaidą, kad visi sūduviai buvo jotvingiai, tačiau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-197437
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 135"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 135."
+  citata_originali: |
+    Me-
+    chovita maišo jotvingių ir lietuvių kilmę. Vis dėlto jis
+    sako, kad dar jo laikais apie Drohiciną buvo kalbama jot­
+    vingių kalba ir lietuviai negalėdavo nė žodžio suprasti.
+    Kromeriui2 buvo žinomi jotvingių likučiai (reliquiae),
+    savo kalba visiškai besiskiriantys nuo slavų ir lietuvių.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+    - t-213451
+
+## Teiginiai
+
+<a id="claim-t-215477"></a>
+- t-001
+  teiginys: "Heningas Henning sako, kad dar jo laikais apie Drohiciną buvo kalbama jotvingių kalba ir lietuviai negalėdavo nė žodžio suprasti."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-197437
+
+<a id="claim-t-213451"></a>
+- t-213451
+  teiginys: "Heningas Henningas darė prielaidą, kad visi sūduviai buvo jotvingiai, tačiau Teodoras Narbutas su tokia išvada nesutiko."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Jotvingiai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Heningas Henning: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Jotvingiai: mention_match, group, gap=58"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Heningas Henning\" parinktas kaip owner_note_path. Targetas \"Jotvingiai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+  pagrindžia:
+    - c-197437
+

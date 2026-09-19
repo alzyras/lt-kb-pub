@@ -29,20 +29,6 @@ media_all_json: |-
 
 Rašytiniuose šaltiniuose krantinė (burwalk) dažnai minima, bet nerašoma, kaip ji atrodė ir ar buvo įrengta.
 
-## Teiginiai
-
-<a id="claim-t-201798"></a>
-- t-001
-  teiginys: "Rašytiniuose šaltiniuose krantinė (burwalk) dažnai minima, bet nerašoma, kaip ji atrodė ir ar buvo įrengta."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185145
-
 ## Citatos
 
 - id: c-185145
@@ -58,5 +44,20 @@ Rašytiniuose šaltiniuose krantinė (burwalk) dažnai minima, bet nerašoma, ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201798"></a>
+- t-001
+  teiginys: "Rašytiniuose šaltiniuose krantinė (burwalk) dažnai minima, bet nerašoma, kaip ji atrodė ir ar buvo įrengta."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185145
+

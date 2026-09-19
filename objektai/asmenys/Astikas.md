@@ -34,28 +34,6 @@ canonical_biography: "Astikas su Manvydu ir Goštautu susitarė valdovu paskelbt
 
 Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą, laikydamiesi senojo susitarimo su lenkais.
 
-## Teiginiai
-
-<a id="claim-t-186182"></a>
-- t-001
-  teiginys: "Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą, laikydamiesi senojo susitarimo su lenkais."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "sudare_sutarti_su -> Manvydas: 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Astikas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Manvydas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai mini Manvydo susitarimą su Astiku; kryptis parinkta pagal leidžiamą Astiko kandidato porą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Astikas sudarė sutartį su Manvydas (0.78)"
-  pagrindžia:
-    - c-169543
-
 ## Citatos
 
 - id: c-169543
@@ -79,5 +57,28 @@ Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-186182"></a>
+- t-001
+  teiginys: "Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą, laikydamiesi senojo susitarimo su lenkais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "sudare_sutarti_su -> Manvydas: 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Astikas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Manvydas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai mini Manvydo susitarimą su Astiku; kryptis parinkta pagal leidžiamą Astiko kandidato porą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Astikas sudarė sutartį su Manvydas (0.78)"
+  pagrindžia:
+    - c-169543
+

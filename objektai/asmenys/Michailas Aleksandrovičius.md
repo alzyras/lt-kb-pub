@@ -44,50 +44,6 @@ canonical_biography: "Jos kunigaikštis Michailas Aleksandrovičius pabėgo į L
 
 Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos valdovo Algirdo (jo žmona Julijona Tverietė) prašė „pagalbos ir apginti“, kvietė žygiuoti į Maskvą. žygis Tęsdamas kovą su Maskva, Tverės kunigaikštis Michailas siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą, padėtų KR 6£ S k o © sa A = == e 8 = © + > == Zi IETIES ATRĖMIMAS Algirdo žodžiai ir simbolinis poelgis 1368 m.
 
-## Teiginiai
-
-<a id="claim-t-79107"></a>
-- t-001
-  teiginys: "1370 m. Tverės kunigaikštis Michailas Aleksandrovičius siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_valdovas -> Tverė: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Michailas Aleksandrovičius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Tverė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Michailas tiesiogiai įvardytas kaip Tverės kunigaikštis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Michailas Aleksandrovičius buvo valdovas Tverė (0.90)"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1368 m.; valdymo laikotarpis: 1370 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Michailas Aleksandrovičius buvo valdovas Tverė“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Claimui trūksta pilno asmens vardo; citata palaiko aiškesnį enciklopedinį sakinį."
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  pagrindžia:
-    - c-76196
-
-<a id="claim-t-79108"></a>
-- t-002
-  teiginys: "Tverės kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą, prašė Algirdo pagalbos ir kvietė žygiuoti į Maskvą."
-  atnaujinta: "2026-06-13 17:10"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.94"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Michailas Aleksandrovičius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Michailo pabėgimą į Lietuvą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Michailas Aleksandrovičius keliavo į Lietuva (0.94); Michailas Aleksandrovičius buvo valdovas Tverė (0.92); Algirdas (Lietuvos valdovas) surengė žygį į Maskva (0.82)"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1368 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Michailas Aleksandrovičius buvo valdovas Tverė“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas neaiškus įvardis ir palikta citatos paremta esmė."
-  pagrindžia:
-    - c-76198
-    - c-167141
-
 ## Citatos
 
 - id: c-76196
@@ -130,7 +86,7 @@ Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos va
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-76198
@@ -157,7 +113,7 @@ Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos va
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-167141
@@ -187,9 +143,54 @@ Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos va
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai
 - Michailas Aleksandrovičius buvo valdovas [[objektai/vietos/Tverė]]
 - Michailas Aleksandrovičius keliavo į [[objektai/vietos/Lietuva]]
+
+## Teiginiai
+
+<a id="claim-t-79107"></a>
+- t-001
+  teiginys: "1370 m. Tverės kunigaikštis Michailas Aleksandrovičius siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_valdovas -> Tverė: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Michailas Aleksandrovičius: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Tverė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Michailas tiesiogiai įvardytas kaip Tverės kunigaikštis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Michailas Aleksandrovičius buvo valdovas Tverė (0.90)"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1368 m.; valdymo laikotarpis: 1370 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Michailas Aleksandrovičius buvo valdovas Tverė“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Claimui trūksta pilno asmens vardo; citata palaiko aiškesnį enciklopedinį sakinį."
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
+  pagrindžia:
+    - c-76196
+
+<a id="claim-t-79108"></a>
+- t-002
+  teiginys: "Tverės kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą, prašė Algirdo pagalbos ir kvietė žygiuoti į Maskvą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Lietuva: 0.94"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Michailas Aleksandrovičius: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai nurodo Michailo pabėgimą į Lietuvą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Michailas Aleksandrovičius keliavo į Lietuva (0.94); Michailas Aleksandrovičius buvo valdovas Tverė (0.92); Algirdas (Lietuvos valdovas) surengė žygį į Maskva (0.82)"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1368 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Michailas Aleksandrovičius buvo valdovas Tverė“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas neaiškus įvardis ir palikta citatos paremta esmė."
+  pagrindžia:
+    - c-76198
+    - c-167141
+

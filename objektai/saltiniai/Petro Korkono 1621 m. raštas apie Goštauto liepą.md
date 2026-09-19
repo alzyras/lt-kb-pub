@@ -33,28 +33,6 @@ media_all_json: |-
 
 Pranciškaus vienuolius, kunigus, į Vilnių tas pats Petras Goštautas atkvietė, dar prieš 80 metų iki Jogailos viešpatavimo; o vienas medis, liepa, priešais seno­ sios bažnyčios duris, kurią pats Goš­ tautas savo rankomis buvo pasodinęs, kaip 1621 metais rašė.
 
-## Teiginiai
-
-<a id="claim-t-88462"></a>
-- t-001
-  teiginys: "Petras Korkonas 1621 m. rašė, kad Petras Goštautas prie senosios bažnyčios durų savo rankomis pasodino liepą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Brasta: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Brasta: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata apibūdina Algirdo valdžią teritorijoje nuo Brastos, todėl Brasta patenka į jo valdas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) valdė Možaiskas (0.62); Algirdas (Lietuvos valdovas) valdė Brasta (0.62)"
-  temporaliniai_duomenys: "įvykio data: 1621 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Korkono liudijimą ir Goštauto liepą."
-  pagrindžia:
-    - c-84441
-
 ## Citatos
 
 - id: c-84441
@@ -88,5 +66,28 @@ Pranciškaus vienuolius, kunigus, į Vilnių tas pats Petras Goštautas atkviet�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-88462"></a>
+- t-001
+  teiginys: "Petras Korkonas 1621 m. rašė, kad Petras Goštautas prie senosios bažnyčios durų savo rankomis pasodino liepą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Brasta: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Brasta: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata apibūdina Algirdo valdžią teritorijoje nuo Brastos, todėl Brasta patenka į jo valdas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Algirdas (Lietuvos valdovas) valdė Možaiskas (0.62); Algirdas (Lietuvos valdovas) valdė Brasta (0.62)"
+  temporaliniai_duomenys: "įvykio data: 1621 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko faktą apie Korkono liudijimą ir Goštauto liepą."
+  pagrindžia:
+    - c-84441
+

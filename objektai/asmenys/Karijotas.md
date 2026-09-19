@@ -38,110 +38,6 @@ canonical_biography: "Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Pod
 
 Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie Lietuvos ir Lenkijos suartėjimo. Karijotas buvo Lietuvos valdovo Algirdo brolis ir valdė Lietuvos Naugarduką. Algirdas, apvalęs Podolę nuo totorių, atidavė kraštą brolio Karijoto sūnums Aleksandrui, Konstantinui, Teodorui ir Jurgiui už pagalbą kare.
 
-## Teiginiai
-
-<a id="claim-t-179639"></a>
-- t-001
-  teiginys: "Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie Lietuvos ir Lenkijos suartėjimo."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyveno -> Podolė: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Borisas (Tverės kunigaikštis): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Borisas minimas tarp Karijoto sūnų, kurie buvo įsikūrę Podolėje."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Borisas (Tverės kunigaikštis) gyveno Podolė (0.82); Borisas (Tverės kunigaikštis) keliavo į Krokuva (0.76)"
-  pagrindžia:
-    - c-30227
-
-<a id="claim-t-183748"></a>
-- t-002
-  teiginys: "Karijotas buvo Lietuvos valdovo Algirdo brolis ir valdė Lietuvos Naugarduką."
-  atnaujinta: "2026-06-13 17:10"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "buvo_brolis -> Algirdas (Lietuvos valdovas): 0.96"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Karijotas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Karijotas buvo Algirdo brolis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Karijotas buvo brolis Algirdas (Lietuvos valdovas) (0.96); Karijotas valdė miestą Naugardukas (0.93)"
-  pagrindžia:
-    - c-167136
-
-<a id="claim-t-196512"></a>
-- t-003
-  teiginys: "Algirdas, apvalęs Podolę nuo totorių, atidavė kraštą brolio Karijoto sūnums Aleksandrui, Konstantinui, Teodorui ir Jurgiui už pagalbą kare."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-178740
-
-<a id="claim-t-205692"></a>
-- t-004
-  teiginys: "Karijotas, antrasis sūnus, gimė 1301 m. ir gavo Naugarduką."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
-  pagrindžia:
-    - c-188307
-
-<a id="claim-t-205693"></a>
-- t-005
-  teiginys: "Teodoras Narbutas daro išvadą, kad tais metais Karijotas gavo kunigaikštystę."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
-  pagrindžia:
-    - c-188308
-
-<a id="claim-t-206319"></a>
-- t-006
-  teiginys: "Teodoras Narbutas Karijotą įvardija kaip didžiojo kunigaikščio brolį ir pasiuntinybės pas chaną Džanibeką vadovą."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-188934
-
-<a id="claim-t-206320"></a>
-- t-007
-  teiginys: "Teodoras Narbutas rašo, kad didysis kunigaikštis Gediminas Karijoto sūnums Jurgiui, Aleksandrui, Konstantinui ir Teodorui nurodė siekti valdų Podolėje."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-188935
-
 ## Citatos
 
 - id: c-30227
@@ -161,7 +57,7 @@ Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-167136
@@ -198,7 +94,7 @@ Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-178740
@@ -224,7 +120,7 @@ Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-188307
@@ -248,7 +144,7 @@ Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-188308
@@ -266,7 +162,7 @@ Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-188934
@@ -288,7 +184,7 @@ Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-188935
@@ -334,10 +230,115 @@ Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Teodoras (Karijoto sūnus)]]
 - Broliai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Karijotas valdė [[objektai/vietos/Naugardukas]]
+
+## Teiginiai
+
+<a id="claim-t-179639"></a>
+- t-001
+  teiginys: "Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie Lietuvos ir Lenkijos suartėjimo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyveno -> Podolė: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Borisas (Tverės kunigaikštis): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Podolė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Borisas minimas tarp Karijoto sūnų, kurie buvo įsikūrę Podolėje."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Borisas (Tverės kunigaikštis) gyveno Podolė (0.82); Borisas (Tverės kunigaikštis) keliavo į Krokuva (0.76)"
+  pagrindžia:
+    - c-30227
+
+<a id="claim-t-183748"></a>
+- t-002
+  teiginys: "Karijotas buvo Lietuvos valdovo Algirdo brolis ir valdė Lietuvos Naugarduką."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "buvo_brolis -> Algirdas (Lietuvos valdovas): 0.96"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Karijotas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Algirdas (Lietuvos valdovas): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Karijotas buvo Algirdo brolis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Karijotas buvo brolis Algirdas (Lietuvos valdovas) (0.96); Karijotas valdė miestą Naugardukas (0.93)"
+  pagrindžia:
+    - c-167136
+
+<a id="claim-t-196512"></a>
+- t-003
+  teiginys: "Algirdas, apvalęs Podolę nuo totorių, atidavė kraštą brolio Karijoto sūnums Aleksandrui, Konstantinui, Teodorui ir Jurgiui už pagalbą kare."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-178740
+
+<a id="claim-t-205692"></a>
+- t-004
+  teiginys: "Karijotas, antrasis sūnus, gimė 1301 m. ir gavo Naugarduką."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188307
+
+<a id="claim-t-205693"></a>
+- t-005
+  teiginys: "Teodoras Narbutas daro išvadą, kad tais metais Karijotas gavo kunigaikštystę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188308
+
+<a id="claim-t-206319"></a>
+- t-006
+  teiginys: "Teodoras Narbutas Karijotą įvardija kaip didžiojo kunigaikščio brolį ir pasiuntinybės pas chaną Džanibeką vadovą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188934
+
+<a id="claim-t-206320"></a>
+- t-007
+  teiginys: "Teodoras Narbutas rašo, kad didysis kunigaikštis Gediminas Karijoto sūnums Jurgiui, Aleksandrui, Konstantinui ir Teodorui nurodė siekti valdų Podolėje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-188935
+

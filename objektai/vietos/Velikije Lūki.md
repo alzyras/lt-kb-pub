@@ -43,42 +43,6 @@ historical_names: []
 
 1406 m. pskoviečiai puolė Velikije Lūkus. Velikije Lūki šiame gabale įvardijami kaip Lietuvos miestai.
 
-## Teiginiai
-
-<a id="claim-t-199952"></a>
-- t-001
-  teiginys: "1406 m. pskoviečiai puolė Lietuvos miestais įvardytus Velikije Lūkus, Rževą ir Polocką."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Įtrauktas citatoje esantis miestų apibūdinimas ir pataisyta linksniuotė."
-  susije_objektai: "llm_object: Velikije Lūki; llm_object: Polockas; llm_object: Rževas; mentioned_place: Polockas; mentioned_place: Rževas; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Koloža; mentioned_place: Lietuva; mentioned_place: Pskovas"
-  semantiniai_rysiai: "[[objektai/grupes/Pskoviečiai|Pskoviečiai]] puolė Velikije Lūki"
-  temporaliniai_duomenys: "įvykio data: 1406 m.; įvykio data: 1426 m.; įvykio data: 1428 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Įtrauktas citatoje esantis miestų apibūdinimas ir pataisyta linksniuotė."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-182941
-
-<a id="claim-t-199953"></a>
-- t-002
-  teiginys: "Velikije Lūki citatos pastaboje įvardijami kaip vienas iš Lietuvos miestų, kuriuos 1406 m. puolė pskoviečiai."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Perrašyta į išsamų, šaltinio formuluotę atribuuojantį sakinį."
-  susije_objektai: "llm_object: Velikije Lūki; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Koloža; mentioned_place: Polockas"
-  semantiniai_rysiai: "[[objektai/grupes/Pskoviečiai|Pskoviečiai]] puolė Velikije Lūki"
-  temporaliniai_duomenys: "įvykio data: 1406 m.; įvykio data: 1426 m.; įvykio data: 1428 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta į išsamų, šaltinio formuluotę atribuuojantį sakinį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-182941
-
 ## Citatos
 
 - id: c-182941
@@ -100,6 +64,36 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
+
+## Teiginiai
+
+<a id="claim-t-210612"></a>
+- t-001
+  teiginys: "1406 m. pskoviečiai puolė Lietuvos miestais įvardytus Velikije Lūkus, Rževą ir Polocką."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Įtrauktas citatoje esantis miestų apibūdinimas ir pataisyta linksniuotė."
+  susije_objektai: "llm_object: Velikije Lūki; llm_object: Polockas; llm_object: Rževas; mentioned_place: Polockas; mentioned_place: Rževas; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Koloža; mentioned_place: Lietuva; mentioned_place: Pskovas"
+  semantiniai_rysiai: "[[objektai/grupes/Pskoviečiai|Pskoviečiai]] puolė Velikije Lūki"
+  temporaliniai_duomenys: "įvykio data: 1406 m.; įvykio data: 1426 m.; įvykio data: 1428 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įtrauktas citatoje esantis miestų apibūdinimas ir pataisyta linksniuotė."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+
+<a id="claim-t-211531"></a>
+- t-002
+  teiginys: "Velikije Lūki citatos pastaboje įvardijami kaip vienas iš Lietuvos miestų, kuriuos 1406 m. puolė pskoviečiai."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Perrašyta į išsamų, šaltinio formuluotę atribuuojantį sakinį."
+  susije_objektai: "llm_object: Velikije Lūki; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Koloža; mentioned_place: Polockas"
+  semantiniai_rysiai: "[[objektai/grupes/Pskoviečiai|Pskoviečiai]] puolė Velikije Lūki"
+  temporaliniai_duomenys: "įvykio data: 1406 m.; įvykio data: 1426 m.; įvykio data: 1428 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta į išsamų, šaltinio formuluotę atribuuojantį sakinį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+

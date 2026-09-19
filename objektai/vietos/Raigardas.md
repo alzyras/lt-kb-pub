@@ -40,10 +40,46 @@ md]] - vietasaltinyje: offset: 187195-187211; match: exact - santrauka: Notys - 
 
 ## Teiginiai
 
+<a id="claim-t-214981"></a>
+- t-003
+  teiginys: "Strijkovskis jotvingių palikuonių pastebėdavo prie Raigardo ir Insterburgo Prūsijoje."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195217
+
+<a id="claim-t-211157"></a>
+- t-211157
+  teiginys: "Raigardas buvo 1253 m. sunaikinta jotvingių pilis."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193659
+
+<a id="claim-t-212154"></a>
+- t-212154
+  teiginys: "Sis kunigaikštis pastatė Raigardo pilį, vedė Mazo vijos kunigaikštytę, kuri pagimdė jam garsų lietuvių isto rijoje Romuntą."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196320
+
 <a id="claim-t-185299"></a>
-- t-001
+- t-185299
   teiginys: "Traidenis Bebro pakrantėje įkūrė naują Raigardo sodybvietę, kad pilis gintų gyventojus nuo mozūrų ir prūsų."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -51,26 +87,6 @@ md]] - vietasaltinyje: offset: 187195-187211; match: exact - santrauka: Notys - 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168660
-
-<a id="claim-t-192851"></a>
-- t-002
-  teiginys: "Narbutas spėja, kad Strijkovskio prie Raigardo ir Insterburgo Prūsijoje pastebėti žmonės galėjo būti išvestų jotvingių palikuonys."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Insterburgas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Raigardas: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Insterburgas: mention_match, place, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Raigardas\" parinktas kaip owner_note_path. Targetas \"Insterburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  pagrindžia:
-    - c-175621
 
 ## Citatos
 
@@ -103,8 +119,8 @@ md]] - vietasaltinyje: offset: 187195-187211; match: exact - santrauka: Notys - 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-185299
 
 - id: c-175621
   autorius: "Teodoras Narbutas"
@@ -128,8 +144,70 @@ md]] - vietasaltinyje: offset: 187195-187211; match: exact - santrauka: Notys - 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-193659
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 207"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 207."
+  citata_originali: |
+    Raigardas — 1253 m. sunaikinta jotvingių pilis, stovėjusi ne
+    prie Bebro upės, o Raigardo ei. (jezioro Rajgrodzkie) pusiasalyje,
+    dabar Lenkijos Balstogės vaivadijos Grajevo aps. (24 km i pietva­
+    karius nuo Augustavo). LDK metraščių PS ir BK versija, kad Rai­
+    gardą
+    ¡kūrė
+    Traidenis, remiasi, veikiausiai, 1M pasakojimu apie
+    1256— 1257
+    m.
+    Haličo-Volynės kunig.
+    Danieliaus Romanovičiaus
+    žygį prieš jotvingius, kurio metu jis, jodamas per ežerą, pamatęs
+    pakrantėje gražų kalną ir ant jo pilį Raigardą (PSRL. II. p 828
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211157
+
+- id: c-195217
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 135"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 135."
+  citata_originali: |
+    Galbūt jie ir buvo likučiai išvestų jot­
+    vingių, kurių palikuonis Strijkovskis pastebėdavo prie
+    Raigardo ir Insterburgo Prūsijoje.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+
+- id: c-196320
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 133"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 133."
+  citata_originali: |
+    Sis kunigaikštis pastatė Raigardo pilį, vedė Mazo­
+    vijos kunigaikštytę, kuri pagimdė jam garsų lietuvių isto­
+    rijoje Romuntą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212154
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]

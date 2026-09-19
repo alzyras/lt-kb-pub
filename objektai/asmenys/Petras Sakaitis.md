@@ -39,20 +39,6 @@ canonical_biography: "1447 m. Biliaras kaip Kazimiero Jogailaičio pasiuntinys v
 
 1447 m. Biliaras kaip Kazimiero Jogailaičio pasiuntinys vyko kartu su Kauno seniūnu Petru Sakaičiu pas Vokiečių ordino didįjį magistrą Ludwigą von Erlichshauseną aiškintis dėl lietuvių patiriamo smurto Livonijoje.
 
-## Teiginiai
-
-<a id="claim-t-202115"></a>
-- t-001
-  teiginys: "1447 m. Biliaras kaip Kazimiero Jogailaičio pasiuntinys vyko kartu su Kauno seniūnu Petru Sakaičiu pas Vokiečių ordino didįjį magistrą Ludwigą von Erlichshauseną aiškintis dėl lietuvių patiriamo smurto Livonijoje."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185462
-
 ## Citatos
 
 - id: c-185462
@@ -70,5 +56,20 @@ canonical_biography: "1447 m. Biliaras kaip Kazimiero Jogailaičio pasiuntinys v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202115"></a>
+- t-001
+  teiginys: "1447 m. Biliaras kaip Kazimiero Jogailaičio pasiuntinys vyko kartu su Kauno seniūnu Petru Sakaičiu pas Vokiečių ordino didįjį magistrą Ludwigą von Erlichshauseną aiškintis dėl lietuvių patiriamo smurto Livonijoje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185462
+

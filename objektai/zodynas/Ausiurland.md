@@ -42,10 +42,28 @@ Vartojamas aiškinant, kaip skandinavai įvardijo šias Baltijos rytų žemes.
 
 ## Teiginiai
 
-<a id="claim-t-192199"></a>
-- t-001
+<a id="claim-t-215111"></a>
+- t-215111
+  teiginys: "Narbuto teigimu, Ausiurland buvo vienas iš skandinavų vartotų bendrinių lietuvių žemių pavadinimų."
+  atnaujinta: "2026-09-13 18:04"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Skandinavai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Ausiurland: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Skandinavai: mention_match, group, gap=26"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ausiurland\" parinktas kaip owner_note_path. Targetas \"Skandinavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
+
+<a id="claim-t-213098"></a>
+- t-213098
   teiginys: "Narbuto teigimu, skandinavai lietuvių žemes vadino bendriniais pavadinimais Ausiurland, Austarreich ir Austurmeg."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Skandinavai: 0.83"
@@ -57,13 +75,11 @@ Vartojamas aiškinant, kaip skandinavai įvardijo šias Baltijos rytų žemes.
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ausiurland\" parinktas kaip owner_note_path. Targetas \"Skandinavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  pagrindžia:
-    - c-175063
 
-<a id="claim-t-192200"></a>
-- t-002
+<a id="claim-t-214529"></a>
+- t-214529
   teiginys: "Narbutas aiškina, kad Ausiurland, Austarreich ir Austurmeg reiškia Rytų žemę, Rytų valstybę ir Rytų kelią."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md"
   teiginio_tipas: "saltinio_teiginys"
   ryšio_patikimumas: "susije_su -> Skandinavai: 0.83"
@@ -75,8 +91,6 @@ Vartojamas aiškinant, kaip skandinavai įvardijo šias Baltijos rytų žemes.
   ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Ausiurland\" parinktas kaip owner_note_path. Targetas \"Skandinavai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  pagrindžia:
-    - c-175063
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -120,6 +134,4 @@ Vartojamas aiškinant, kaip skandinavai įvardijo šias Baltijos rytų žemes.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
+

@@ -38,38 +38,6 @@ historical_names: []
 
 Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio apylinkėse, jas siaubingai nuniokojo0, o per Didžiosios savaitės pasnin­ ką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą, nužudė apie 70 žmonių, sudegino visą miestą ir. Gregorii iidem Lytvini civitatem Memelam ar­ m ata manu intraverunt hostiliter et eam cum suburbiis suis preter solum cast­ rum muro circumdatum, in quo fratres ejusdem ordinis morantur, ceperunt, cremaverunt et penitus destruxerunt, multos ibidem occidentes.
 
-## Teiginiai
-
-<a id="claim-t-86152"></a>
-- t-001
-  teiginys: "Per Didžiosios savaitės pasninką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą ir jį sudegino."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Memelis: 0.92"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žemaičiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Memelis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Žemaičiai tiesiogiai nurodyti įsiveržę į Memelio apylinkes."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Žemaičiai puolė Memelis (0.92); Žemaičiai užėmė Memelis (0.86)"
-  pagrindžia:
-    - c-82132
-
-<a id="claim-t-206526"></a>
-- t-002
-  teiginys: "Vytautas tuo pačiu metu degino Jurbarką, Marienburgą, Ritersverderį, Ragainę ir Memelį."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189141
-
 ## Citatos
 
 - id: c-82132
@@ -99,7 +67,7 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189141
@@ -114,8 +82,41 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai
 - Puolė Memelį: [[objektai/grupes/Žemaičiai]]
+
+## Teiginiai
+
+<a id="claim-t-86152"></a>
+- t-001
+  teiginys: "Per Didžiosios savaitės pasninką ginkluoti žemaičiai įsiveržė į Memelio apylinkes, užėmė miestą ir jį sudegino."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Memelis: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žemaičiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Memelis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Žemaičiai tiesiogiai nurodyti įsiveržę į Memelio apylinkes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Žemaičiai puolė Memelis (0.92); Žemaičiai užėmė Memelis (0.86)"
+  pagrindžia:
+    - c-82132
+
+<a id="claim-t-206526"></a>
+- t-002
+  teiginys: "Vytautas tuo pačiu metu degino Jurbarką, Marienburgą, Ritersverderį, Ragainę ir Memelį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189141
+

@@ -28,20 +28,6 @@ Pasirinkus pabėgimą į kitą dvarą, nelegalų statusą buvo lengviau įteisin
 
 Pasirinkus pabėgimą į kitą dvarą, nelegalų statusą buvo lengviau įteisinti sulaukus senaties termino.
 
-## Teiginiai
-
-<a id="claim-t-203755"></a>
-- t-001
-  teiginys: "Pasirinkus pabėgimą į kitą dvarą, nelegalų statusą buvo lengviau įteisinti sulaukus senaties termino."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  pagrindžia:
-    - c-186359
-
 ## Citatos
 
 - id: c-186359
@@ -60,5 +46,20 @@ Pasirinkus pabėgimą į kitą dvarą, nelegalų statusą buvo lengviau įteisin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203755"></a>
+- t-001
+  teiginys: "Pasirinkus pabėgimą į kitą dvarą, nelegalų statusą buvo lengviau įteisinti sulaukus senaties termino."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  pagrindžia:
+    - c-186359
+

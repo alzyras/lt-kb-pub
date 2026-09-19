@@ -45,10 +45,22 @@ Dytmaras buvo vokiečių istorikas ir penkių Saksonijos karalių valdymo kronik
 
 ## Teiginiai
 
-<a id="claim-t-191639"></a>
-- t-001
+<a id="claim-t-213475"></a>
+- t-002
+  teiginys: "Dytmaras, Merzeburgo vyskupas, 1009 metais, pasakodamas apie Boleslovo Narsiojo karus, paminėjo lietuvius."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196053
+
+<a id="claim-t-212763"></a>
+- t-212763
   teiginys: "Dytmaras buvo vokiečių istorikas ir penkių Saksonijos karalių valdymo kronikos autorius."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -63,7 +75,7 @@ Dytmaras buvo vokiečių istorikas ir penkių Saksonijos karalių valdymo kronik
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-174521
+    - c-195205
 
 ## Citatos
 
@@ -84,5 +96,43 @@ Dytmaras buvo vokiečių istorikas ir penkių Saksonijos karalių valdymo kronik
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-195205
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 429"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 429."
+  citata_originali: |
+    Sakinys, kuriuo T. Narbutas papildė paragra­
+    fą, rengdamas antrąjį leidimą (PEĮ. P. 378—
+    379). Turimas omenyje vokiečių istorikas Dyt-
+    maras (Tietmar, Tietmarus; 976—apie 1018—
+    1024), ¡penkių Saksonijos karalių valdymo kro­
+    nikos autorius.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212763
+
+- id: c-196053
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 272"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 272."
+  citata_originali: |
+    Dytmaras,
+    Merzeburgo vyskupas, pasakodamas apie Boleslovo Nar­
+    siojo karus, 1009 metais mini ir lietuvius**.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+

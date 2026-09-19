@@ -46,24 +46,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-204129"></a>
-- t-001
-  teiginys: "1548 m. Žygimantas Augustas leido didžiajam LDK medžiokliui Mikalojui Radvilai Rudajam medžioti valdovo giriose, kad Mikalojus galėtų nusiųsti sumedžiotos žvėrienos Barborai Radvilaitei į Vilnių."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  temporaliniai_duomenys: "įvykio data: 1548 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Įvardytas veikėjas vietoje neaiškaus įvardžio „jis“, išlaikant leidimo tikslą ir neperžengiant šaltinio informacijos. Atribucija nereikalinga, nes teiginys nusako konkretų dokumentuose minimą veiksmą."
-  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
-  pagrindžia:
-    - c-186733
-
 ## Santrauka
 
 1548 m. Žygimantas Augustas leido didžiajam LDK medžiokliui Mikalojui Radvilai Rudajam medžioti valdovo giriose, kad Mikalojus galėtų nusiųsti sumedžiotos žvėrienos Barborai Radvilaitei į Vilnių.
@@ -88,5 +70,24 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204129"></a>
+- t-001
+  teiginys: "1548 m. Žygimantas Augustas leido didžiajam LDK medžiokliui Mikalojui Radvilai Rudajam medžioti valdovo giriose, kad Mikalojus galėtų nusiųsti sumedžiotos žvėrienos Barborai Radvilaitei į Vilnių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1548 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Įvardytas veikėjas vietoje neaiškaus įvardžio „jis“, išlaikant leidimo tikslą ir neperžengiant šaltinio informacijos. Atribucija nereikalinga, nes teiginys nusako konkretų dokumentuose minimą veiksmą."
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186733
+

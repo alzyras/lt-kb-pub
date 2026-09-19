@@ -68,10 +68,20 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
 
 ## Teiginiai
 
-<a id="claim-t-05452"></a>
-- t-001
-  teiginys: "Algirdas ir Maskvos kunigaikštis stengėsi savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams."
+<a id="claim-t-203084"></a>
+- t-007
+  teiginys: "Zenono Ivinskio teigimu, Kijevo metropolitas Teognostas priešinosi Lietuvos metropolijos išlaikymui."
   atnaujinta: "2026-08-06 20:25"
+  sprendimo_priezastis: "auto"
+  susije_objektai: "mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Teofilis (arkivyskupas)|Teofilis (arkivyskupas)]]; mentioned_place: Kijevas; mentioned_place: Maskva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-183710
+
+<a id="claim-t-05452"></a>
+- t-05452
+  teiginys: "Algirdas ir Maskvos kunigaikštis stengėsi savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Reikia patikslinti daugiskaitinį subjektą ir padaryti sakinį sklandesnį."
   susije_objektai: "mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Maskva; mentioned_place: Smolenskas"
@@ -79,11 +89,13 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
   pagrindžia:
     - c-183709
+    - c-183711
+    - c-183714
 
 <a id="claim-t-05453"></a>
-- t-002
+- t-05453
   teiginys: "1354 m. Konstantinopolio patriarchas paskyrė Lietuvos žemių metropolitą Romaną."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata."
   susije_objektai: "mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Konstantinopolis; mentioned_place: Lietuva"
@@ -96,9 +108,9 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     - c-183707
 
 <a id="claim-t-05455"></a>
-- t-003
+- t-05455
   teiginys: "1375 m. Lietuvos stačiatikių metropolitu buvo paskirtas Kiprijonas."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kijevas; mentioned_place: Lietuva"
   temporaliniai_duomenys: "įvykio data: 1375 m."
@@ -109,9 +121,9 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     - c-183708
 
 <a id="claim-t-184630"></a>
-- t-004
+- t-184630
   teiginys: "Sudarius taikos sąlygas, Dimitrijus, metropolitu vadintas vyriausiasis šventikas, viečė ir žymiausieji bajorai prisiekė."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -128,54 +140,21 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   pagrindžia:
     - c-167991
 
-<a id="claim-t-187523"></a>
-- t-005
-  teiginys: "Lietuvos metraščio pastaboje Gerasimas 1432 m. Švitrigailos pasiūlymu Konstantinopolyje įšventintas LDK, Maskvos ir kitų rusų žemių metropolitu."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "gime -> Maskva: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Gerasimas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maskva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Formuluotė „iš Maskvos kilęs“ tiesiogiai nurodo Gerasimo kilmės vietą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  semantiniai_rysiai: "Gerasimas gimė Maskva (0.86); Gerasimas gyveno Smolenskas (0.70)"
-  temporaliniai_duomenys: "įvykio data: 1432 m.; įvykio data: 1435 m.; įvykio data: apie 1435 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
-  temporalinis_llm_pakomentavimas: "Metropolito titulas ir politinis kontekstas palikti su šaltinio pastabos atribucija. Nepridėta biografinių detalių apie ankstesnes Gerasimo pareigas."
-  vertinimo_atnaujinta: "2026-07-28T11:17:02Z"
-  pagrindžia:
-    - c-183712
-
 <a id="claim-t-203055"></a>
-- t-006
+- t-203055
   teiginys: "Lietuvos stačiatikių metropolija vėl buvo pajungta maskviniam „visos Rusijos metropolitui“."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   susije_objektai: "mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/metropolija|metropolija]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Konstantinopolis; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusija"
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-183711
-
-<a id="claim-t-203084"></a>
-- t-007
-  teiginys: "Zenono Ivinskio teigimu, Kijevo metropolitas Teognostas priešinosi Lietuvos metropolijos išlaikymui."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "auto"
-  susije_objektai: "mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Teofilis (arkivyskupas)|Teofilis (arkivyskupas)]]; mentioned_place: Kijevas; mentioned_place: Maskva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-183710
+    - c-183714
 
 <a id="claim-t-203105"></a>
-- t-008
+- t-203105
   teiginys: "Zenono Ivinskio teigimu, Gediminui nepavyko išlaikyti Lietuvos metropolijos dėl Maskvos žemėse gyvenusio Kijevo metropolito Teognosto priešiško nusistatymo."
-  atnaujinta: "2026-08-06 20:25"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   sudarymo_pagrindimas: "Pašalintas OCR triukšmas ir suformuluotas pilnas faktinis sakinys."
   susije_objektai: "mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Teofilis (arkivyskupas)|Teofilis (arkivyskupas)]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Maskva"
@@ -276,8 +255,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-184630
 
 - id: c-183707
   autorius: "Zenonas Ivinskis"
@@ -294,8 +273,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-05453
 
 - id: c-183708
   autorius: "Zenonas Ivinskis"
@@ -313,8 +292,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-05455
 
 - id: c-183709
   autorius: "Zenonas Ivinskis"
@@ -334,8 +313,8 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-05452
 
 - id: c-183710
   autorius: "Zenonas Ivinskis"
@@ -349,13 +328,14 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     metropolito Teognosto. Šio intrygų ir sudarytų kliūčių siūlai vedė
     į Maskvą.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-28 14:17"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-007
-    - t-008
+    - t-203105
 
 - id: c-183711
   autorius: "Zenonas Ivinskis"
@@ -373,8 +353,9 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-05452
+    - t-203055
 
 - id: c-183712
   autorius: "Anoniminis metraštininkas"
@@ -393,8 +374,6 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
 
 - id: c-183714
   autorius: "Zenonas Ivinskis"
@@ -413,3 +392,7 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-05452
+    - t-203055
+

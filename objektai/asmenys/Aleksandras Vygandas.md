@@ -35,33 +35,6 @@ canonical_biography: "Iš karto tokiuo vietininku buvo numatytas Jogailos brolis
 
 Iš karto tokiuo vietininku buvo numatytas Jogailos brolis Aleksandras Vygandas, bet jis staiga mirė, todėl galutinai buvo apsistota ties Vytautu.
 
-## Teiginiai
-
-<a id="claim-t-186028"></a>
-- t-001
-  teiginys: "Kernavės kunigaikštis Aleksandras Vygandas mėgino išvaryti priešą iš Ritersverderio."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169389
-
-<a id="claim-t-193504"></a>
-- t-002
-  teiginys: "Kernavės kunigaikštis Aleksandras Vygandas mėgino išvaryti kryžiuočių įgulas iš Nemuno salose pastatytų pilių."
-  atnaujinta: "2026-07-19 16:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
-  pagrindžia:
-    - c-169389
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kernavės kunigaikštis Aleksandras Vygandas mėgino išvaryti priešą iš Ritersverderio.'
@@ -120,7 +93,7 @@ Iš karto tokiuo vietininku buvo numatytas Jogailos brolis Aleksandras Vygandas,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -150,3 +123,31 @@ Iš karto tokiuo vietininku buvo numatytas Jogailos brolis Aleksandras Vygandas,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+## Teiginiai
+
+<a id="claim-t-186028"></a>
+- t-001
+  teiginys: "Kernavės kunigaikštis Aleksandras Vygandas mėgino išvaryti priešą iš Ritersverderio."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169389
+
+<a id="claim-t-193504"></a>
+- t-002
+  teiginys: "Kernavės kunigaikštis Aleksandras Vygandas mėgino išvaryti kryžiuočių įgulas iš Nemuno salose pastatytų pilių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:00:59Z"
+  pagrindžia:
+    - c-169389
+

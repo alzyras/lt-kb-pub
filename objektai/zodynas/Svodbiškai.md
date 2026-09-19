@@ -51,30 +51,6 @@ Svodbiškai šiame šaltinyje reiškia vestuviškai, vestuvių apeigoms būdingu
 
 Terminas vartojamas aprašant kraičvežių aprangą ir vestuvių dalyvių laikyseną.
 
-## Teiginiai
-
-<a id="claim-t-195624"></a>
-- t-001
-  teiginys: "Kraičvežiai šiame šaltinyje apibūdinami kaip pasirėdę svodbiškai."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "gap::vocabulary"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-178027
-
-<a id="claim-t-195625"></a>
-- t-002
-  teiginys: "Šioje apybraižoje piršlys vienoje pusėje veikia kaip eilinis svodbininkas."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "gap::vocabulary"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
-  pagrindžia:
-    - c-185988
-
 ## Citatos
 
 - id: c-178026
@@ -98,6 +74,9 @@ Terminas vartojamas aprašant kraičvežių aprangą ir vestuvių dalyvių laiky
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
 - id: c-178027
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -111,7 +90,7 @@ Terminas vartojamas aprašant kraičvežių aprangą ir vestuvių dalyvių laiky
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185988
@@ -130,5 +109,28 @@ Terminas vartojamas aprašant kraičvežių aprangą ir vestuvių dalyvių laiky
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+## Teiginiai
+
+<a id="claim-t-195624"></a>
+- t-001
+  teiginys: "Kraičvežiai šiame šaltinyje apibūdinami kaip pasirėdę svodbiškai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-178027
+
+<a id="claim-t-195625"></a>
+- t-002
+  teiginys: "Šioje apybraižoje piršlys vienoje pusėje veikia kaip eilinis svodbininkas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  vertinimo_atnaujinta: "2026-07-28T11:17:00Z"
+  pagrindžia:
+    - c-178026
+

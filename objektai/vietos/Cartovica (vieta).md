@@ -38,32 +38,6 @@ historical_names: []
 
 Tame širdgile marčelga, zokano, nujautęs pilė j Cartovicos silpną įgulę tesant, sutarė ją antpulti, vil damos, jog Sviatopelkas, norėdamas gnti pilį, atsiskies nuo lietuvių ir ištrauks iš Kulmijos. Sviatopelkas, gailėdamos savo pilės, bet užvis didesniai savo šventenybės, per daug užsirūstino ir ketėjo pilę Cartovicą kaip įmanąs vėl atimti.
 
-## Teiginiai
-
-<a id="claim-t-201132"></a>
-- t-001
-  teiginys: "Tame širdgile marčelga, zokano, nujautęs pilė j Cartovicos silpną įgulę tesant, sutarė ją antpulti, vil damos, jog Sviatopelkas, norėdamas gnti pilį, atsiskies nuo lietuvių ir ištrauks iš Kulmijos."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184482
-
-<a id="claim-t-201133"></a>
-- t-002
-  teiginys: "Sviatopelkas, gailėdamos savo pilės, bet užvis didesniai savo šventenybės, per daug užsirūstino ir ketėjo pilę Cartovicą kaip įmanąs vėl atimti."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184483
-
 ## Citatos
 
 - id: c-184482
@@ -86,7 +60,7 @@ Tame širdgile marčelga, zokano, nujautęs pilė j Cartovicos silpną įgulę t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184483
@@ -108,5 +82,32 @@ Tame širdgile marčelga, zokano, nujautęs pilė j Cartovicos silpną įgulę t
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-201132"></a>
+- t-001
+  teiginys: "Tame širdgile marčelga, zokano, nujautęs pilė j Cartovicos silpną įgulę tesant, sutarė ją antpulti, vil damos, jog Sviatopelkas, norėdamas gnti pilį, atsiskies nuo lietuvių ir ištrauks iš Kulmijos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184482
+
+<a id="claim-t-201133"></a>
+- t-002
+  teiginys: "Sviatopelkas, gailėdamos savo pilės, bet užvis didesniai savo šventenybės, per daug užsirūstino ir ketėjo pilę Cartovicą kaip įmanąs vėl atimti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184483
+

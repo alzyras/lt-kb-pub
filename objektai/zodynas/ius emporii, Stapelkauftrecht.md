@@ -30,20 +30,6 @@ media_all_json: |-
 
 Dideli ginčai jau buvo subrendę, ypač po to, kai 1442 m. Dancige buvo uždrausta svečių tarpusavio prekyba ir įvestas privalomas vietos pirklių tarpininkavimas tarp svečių (ius emporii, Stapelkauftrecht).
 
-## Teiginiai
-
-<a id="claim-t-201802"></a>
-- t-001
-  teiginys: "Dideli ginčai jau buvo subrendę, ypač po to, kai 1442 m. Dancige buvo uždrausta svečių tarpusavio prekyba ir įvestas privalomas vietos pirklių tarpininkavimas tarp svečių (ius emporii, Stapelkauftrecht)."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185149
-
 ## Citatos
 
 - id: c-185149
@@ -65,5 +51,20 @@ Dideli ginčai jau buvo subrendę, ypač po to, kai 1442 m. Dancige buvo uždrau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201802"></a>
+- t-001
+  teiginys: "Dideli ginčai jau buvo subrendę, ypač po to, kai 1442 m. Dancige buvo uždrausta svečių tarpusavio prekyba ir įvestas privalomas vietos pirklių tarpininkavimas tarp svečių (ius emporii, Stapelkauftrecht)."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185149
+

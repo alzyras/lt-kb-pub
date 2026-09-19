@@ -35,28 +35,6 @@ media_all_json: |-
 
 Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos brigados, mjr.
 
-## Teiginiai
-
-<a id="claim-t-40902"></a>
-- t-001
-  teiginys: "Gen. mjr. Jono Mejeno divizija gynė Vilnių nuo rusų puolimo."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Vilnius: 0.93"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jono Mejeno divizija: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Jono Mejeno divizija gynė Vilnių."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Jono Mejeno divizija gynė Vilnius (0.93); Rusai puolė Vilnius (0.90)"
-  temporaliniai_duomenys: "įvykio data: 1794 m.; įvykio data: 2004 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, gramatiškas ir tiesiogiai pagrįstas citata."
-  pagrindžia:
-    - c-44753
-
 ## Citatos
 
 - id: c-44753
@@ -82,8 +60,31 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Jono Mejeno divizija gynė [[objektai/vietos/Vilnius]]
+
+## Teiginiai
+
+<a id="claim-t-40902"></a>
+- t-001
+  teiginys: "Gen. mjr. Jono Mejeno divizija gynė Vilnių nuo rusų puolimo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Vilnius: 0.93"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jono Mejeno divizija: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Teiginys tiesiogiai sako, kad Jono Mejeno divizija gynė Vilnių."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Jono Mejeno divizija gynė Vilnius (0.93); Rusai puolė Vilnius (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1794 m.; įvykio data: 2004 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra trumpas, gramatiškas ir tiesiogiai pagrįstas citata."
+  pagrindžia:
+    - c-44753
+

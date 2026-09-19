@@ -56,10 +56,26 @@ Nenurodyta
 
 ## Teiginiai
 
+<a id="claim-t-86996"></a>
+- t-86996
+  teiginys: "Długoszo tekste minima pieva, kurioje buvo sustatytos prūsų bombardos."
+  atnaujinta: "2026-09-13 18:01"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bombardos: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Pabūklai, bombardos, patrankos ir artilerijos įranga: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Bombardos: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Pabūklai, bombardos, patrankos ir artilerijos įranga\" parinktas kaip owner_note_path. Targetas \"Bombardos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-82977
+
 <a id="claim-t-86997"></a>
-- t-001
+- t-86997
   teiginys: "Patrankų padariniai kartu su anglų lankininkų veiksmais lėmė didelius Lietuvos patirtus smūgius."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Anglai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -73,9 +89,9 @@ Nenurodyta
     - c-82978
 
 <a id="claim-t-86998"></a>
-- t-002
+- t-86998
   teiginys: "Puolant Vilniaus Aukštutinę pilį, artilerijos karo mašinos ir ugniasvaidės bombardos be paliovos šaudė į mūrus."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Vilnius: 0.63"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -90,9 +106,9 @@ Nenurodyta
     - c-82975
 
 <a id="claim-t-86999"></a>
-- t-003
+- t-86999
   teiginys: "1383 m. puolant Trakų pilį, jos mūrai buvo sugriauti bombardomis, o įgula priversta pasiduoti."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "apgule -> Trakai: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -128,8 +144,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-86998
 
 - id: c-82976
   autorius: "Michał Baliński"
@@ -150,8 +166,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-86999
 
 - id: c-82977
   autorius: "Michał Baliński"
@@ -169,11 +185,15 @@ Nenurodyta
     cum jactis, crudelius quam utriusque
     conueniebat conditioni cruciavit.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-86996
+
 - id: c-82978
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
@@ -204,5 +224,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-86997
+

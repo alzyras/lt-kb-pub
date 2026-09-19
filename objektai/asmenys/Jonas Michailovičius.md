@@ -35,21 +35,6 @@ Tverės kunigaikštis Jonas Michailovičius vedė Kęstučio dukterį Mariją, k
 
 Tverės kunigaikštis Jonas Michailovičius vedė Kęstučio dukterį Mariją, kurią vyskupas Eufemijus pakrikštijo ir sutuokė su Jonu Michailovičiumi.
 
-## Teiginiai
-
-<a id="claim-t-207015"></a>
-- t-001
-  teiginys: "Tverės kunigaikštis Jonas Michailovičius vedė Kęstučio dukterį Mariją, kurią vyskupas Eufemijus pakrikštijo ir sutuokė su Jonu Michailovičiumi."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-189630
-
 ## Citatos
 
 - id: c-189630
@@ -67,5 +52,21 @@ Tverės kunigaikštis Jonas Michailovičius vedė Kęstučio dukterį Mariją, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-207015"></a>
+- t-001
+  teiginys: "Tverės kunigaikštis Jonas Michailovičius vedė Kęstučio dukterį Mariją, kurią vyskupas Eufemijus pakrikštijo ir sutuokė su Jonu Michailovičiumi."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-189630
+

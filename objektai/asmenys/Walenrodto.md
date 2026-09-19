@@ -34,41 +34,6 @@ canonical_biography: "Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgi
 
 Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kariuomenę sudarė 3500 raitarų ir dragūnų, 800 už švedus kariavusio Boguslavo Radvilos raitelių, 1000 pėstininkų ir 2000 Walenrodto vedamų pėstininkų. Taip pat jis įsakė generolo Walenrodto brandenburgiečiams keltis atgal, tačiau staiga pasirodžiusios pagrindinės V.
 
-## Teiginiai
-
-<a id="claim-t-40541"></a>
-- t-001
-  teiginys: "Walenrodtas vadovavo 2000 pėstininkų jungtinėje G. F. Valdeko vadovaujamoje kariuomenėje."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Krymas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Walenrodto: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Krymas: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Walenrodto\" parinktas kaip owner_note_path. Targetas \"Krymas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-44578
-
-<a id="claim-t-40542"></a>
-- t-002
-  teiginys: "Generolo Walenrodto brandenburgiečius, G. Valdeko įsakytus keltis atgal, užpuolė ir sumušė V. Gosievskio pajėgos."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "puole -> Walenrodto: 0.62"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Walenrodto: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "V. Gosievskio pajėgos toliau įvardijamos kaip lietuvių pajėgos, kurios smogė priešo likučiams; objektas susietas su Walenrodto vadovautais brandenburgiečiais."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Lietuviai puolė Walenrodto (0.62)"
-  pagrindžia:
-    - c-42339
-
 ## Citatos
 
 - id: c-42339
@@ -98,7 +63,7 @@ Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kari
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-44578
@@ -122,5 +87,41 @@ Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kari
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-40541"></a>
+- t-001
+  teiginys: "Walenrodtas vadovavo 2000 pėstininkų jungtinėje G. F. Valdeko vadovaujamoje kariuomenėje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Krymas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Walenrodto: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Krymas: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Walenrodto\" parinktas kaip owner_note_path. Targetas \"Krymas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-44578
+
+<a id="claim-t-40542"></a>
+- t-002
+  teiginys: "Generolo Walenrodto brandenburgiečius, G. Valdeko įsakytus keltis atgal, užpuolė ir sumušė V. Gosievskio pajėgos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "puole -> Walenrodto: 0.62"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuviai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Walenrodto: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "V. Gosievskio pajėgos toliau įvardijamos kaip lietuvių pajėgos, kurios smogė priešo likučiams; objektas susietas su Walenrodto vadovautais brandenburgiečiais."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Lietuviai puolė Walenrodto (0.62)"
+  pagrindžia:
+    - c-42339
+

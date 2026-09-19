@@ -44,20 +44,6 @@ canonical_biography: "Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikš
 
 Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kairėje), turinti 3 tūkst.
 
-## Teiginiai
-
-<a id="claim-t-201526"></a>
-- t-001
-  teiginys: "1608 m. Kauno miesto tarybos posėdyje, dalyvaujant Lietuvos etmono Jono Karolio Chodkevičiaus tarnybininkui Kristupui Bazilikui, buvo aiškinamasi dėl rotmistro Jonušo Kiškos suburtos samdinių kuopos, dislokuotos Prienų seniūnijoje, padarytų nuostolių."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184873
-
 ## Citatos
 
 - id: c-21738
@@ -79,6 +65,9 @@ Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
 - id: c-184873
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
   puslapiai: "PDF 152"
@@ -94,11 +83,46 @@ Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-002
 
 ## Ryšiai
 - Jonas Karolis Chodkevičius keliavo į [[objektai/vietos/Livonija]]
 - Jonas Karolis Chodkevičius puolė [[objektai/vietos/Daugavgryva]], [[objektai/vietos/Piarnu]]
 - Jonas Karolis Chodkevičius gynė [[objektai/vietos/Smolenskas]]
 - Jonas Karolis Chodkevičius kariavo prieš [[objektai/grupes/Švedai]]
+
+## Teiginiai
+
+<a id="claim-t-18977"></a>
+- t-001
+  teiginys: "1605 m. Jonas Karolis Chodkevičius prie Kirchholmo vadovavo LDK kariuomenei, kuri nugalėjo 12 tūkst. švedų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "kariavo_pries -> Švedai: 0.92"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Lietuvos kariuomenė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Švedai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Lietuvos Didžiosios Kunigaikštijos kariuomenė nugalėjo švedus."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Lietuvos kariuomenė kariavo prieš Švedai (0.92); Jonas Karolis Chodkevičius kariavo prieš Švedai (0.90)"
+  temporaliniai_duomenys: "įvykio data: 1605 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys yra fragmentas; citata pagrindžia pilną sakinį apie mūšio rezultatą."
+  pagrindžia:
+    - c-21738
+
+<a id="claim-t-201526"></a>
+- t-002
+  teiginys: "1608 m. Kauno miesto tarybos posėdyje, dalyvaujant Lietuvos etmono Jono Karolio Chodkevičiaus tarnybininkui Kristupui Bazilikui, buvo aiškinamasi dėl rotmistro Jonušo Kiškos suburtos samdinių kuopos, dislokuotos Prienų seniūnijoje, padarytų nuostolių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184873
+

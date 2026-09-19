@@ -52,10 +52,23 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
 
 ## Teiginiai
 
+<a id="claim-t-208016"></a>
+- t-208016
+  teiginys: "Stanislovas Augustas Poniatovskis šaltinyje apibūdinamas kaip populiariausias valdovas vidutinės bajorijos namuose, o jo atvaizdų dvarų muziejuose sukaupta daugiausia."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  vertinimo_atnaujinta: "2026-08-18T20:43:07Z"
+  pagrindžia:
+    - c-190809
+
 <a id="claim-t-170087"></a>
-- t-001
+- t-170087
   teiginys: "1792 m. liepos 23 d. Varšuvoje Stanislovas Augustas Poniatovskis siūlė nebesipriešinti prie Varšuvos stovėjusiai Rusijos armijai."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Rusija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -73,9 +86,9 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     - c-154768
 
 <a id="claim-t-170088"></a>
-- t-002
+- t-170088
   teiginys: "Stanislovas Augustas Poniatovskis buvo išrinktas LLV valdovu, o jo valdymo laikas 1764–1795 m. tapo permainų, reformų bandymų ir valstybės agonijos epocha."
-  atnaujinta: "2026-06-14 10:46"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Stanislovas Augustas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -92,9 +105,9 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     - c-154771
 
 <a id="claim-t-170089"></a>
-- t-003
+- t-170089
   teiginys: "Stanislovo Augusto Poniatovskio abdikacijos aktas buvo pridėtas prie 1797 m. sausio 26 d. Peterburgo konvencijos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Peterburgas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -111,9 +124,9 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     - c-154773
 
 <a id="claim-t-170092"></a>
-- t-004
+- t-170092
   teiginys: "Prie Varšuvos Stanislovas Augustas nepasirodė fronte, neišnaudojo visuotinės mobilizacijos ir nesuformavo miestiečių milicijos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Augustas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -130,9 +143,9 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     - c-154776
 
 <a id="claim-t-170093"></a>
-- t-005
+- t-170093
   teiginys: "Stanislovo Augusto veiksmai su Rusijos ambasada Varšuvoje prisidėjo prie jo politinio fiasko 1795 metais."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Augustas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -146,9 +159,9 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     - c-154772
 
 <a id="claim-t-170094"></a>
-- t-006
+- t-170094
   teiginys: "Rusija privertė Stanislovą Augustą 1793 m. birželio 17 d. Gardine sušaukti Seimą, turėjusį patvirtinti antrąjį LLV padalijimą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Augustas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -165,9 +178,9 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     - c-154770
 
 <a id="claim-t-170095"></a>
-- t-007
+- t-170095
   teiginys: "Istorikų vertinimu, Stanislovo Augusto susitaikėliška pozicija buvo nepagrįsta, nes LLV dar turėjo galimybių priešintis Rusijai."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Augustas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -182,6 +195,53 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   temporalinis_llm_pakomentavimas: "Tai vertinamasis teiginys, todėl pridėta tinkama interpretacijos atribucija."
   pagrindžia:
     - c-154774
+
+<a id="claim-t-207412"></a>
+- t-207412
+  teiginys: "Stanislovas Augustas Poniatovskis 1791 m. rašė Prancūzijos steigiamajam susirinkimui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  temporaliniai_duomenys: "įvykio data: 1791 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra konkretus, gramatiškas ir tiesiogiai pagrįstas citatoje nurodytu 1791 m. veiksmu. Į citatoje esančią papildomą citatą sąmoningai nesiplėsta."
+  pagrindžia:
+    - c-190036
+
+<a id="claim-t-208393"></a>
+- t-208393
+  teiginys: "C. C. Klopschas pavaizdavo Senosios Varšuvos rotušės iliuminacijas, surengtas 1789 m. lapkričio 15 d. Stanislovo Augusto karūnacijos sukakčiai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  temporaliniai_duomenys: "įvykio data: 1789 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Vaizdo antraštė perrašyta į faktinį sakinį, nurodantį autorių, objektą, datą ir progą. Šaltinyje vartojamas iškilmingas valdovo titulas neutralizuotas, nes jis nėra būtinas teiginiui."
+  vertinimo_atnaujinta: "2026-08-18T21:24:31Z"
+  pagrindžia:
+    - c-190929
+
+<a id="claim-t-208396"></a>
+- t-208396
+  teiginys: "Stanislovo Augusto karūnacijos medalį 1764 m. sukūrė dailininkas Thomas Pingo; medalis pagamintas iš sidabro."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  temporaliniai_duomenys: "įvykio data: 1764 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Katalogo fragmentas paverstas sakiniu su aiškiu objektu, kūrėju, data ir medžiaga. Išskersmens duomuo sąmoningai neįtrauktas, nes nėra būtinas teiginiui."
+  vertinimo_atnaujinta: "2026-08-18T21:24:31Z"
+  pagrindžia:
+    - c-191002
 
 ## Reikšmingi paminėjimai
 - c-008
@@ -266,8 +326,8 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-170087
 
 - id: c-154770
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -291,8 +351,8 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-170094
 
 - id: c-154771
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -311,8 +371,8 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-170088
 
 - id: c-154772
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -333,8 +393,8 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-170093
 
 - id: c-154773
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -356,8 +416,8 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-170089
 
 - id: c-154774
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -380,8 +440,8 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-170095
 
 - id: c-154776
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -400,8 +460,94 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-170092
+
+- id: c-190036
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 76"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 76."
+  citata_originali: |
+    Taigi Lenkijos ir
+    Lietuvos reformatoriai akivaizdžiai orientavosi į Didžiąją Prancūzijos revoliuciją. Ne veltui
+    1791 m. Lenkijos ir Lietuvos valdovas Stanislovas Augustas Poniatovskis rašė Prancūzijos
+    steigiamajam susirinkimui, kad be Prancūzijos „… yra dar viena tauta Europoje“.
+  citata_rodoma: "Ne veltui \n1791 m. Lenkijos ir Lietuvos valdovas Stanislovas Augustas Poniatovskis rašė Prancūzijos \nsteigiamajam susirinkimui, kad be Prancūzijos „… yra dar viena tauta Europoje“."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207412
+
+- id: c-190809
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 289"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 289."
+  citata_originali: |
+    Remiantis išlikusiais kūriniais, galima daryti
+    prielaidą, kad ši tradicija vidutinės bajorijos aplinkoje pradėjo formuotis XVII a.
+    pradžioje ir vėliau tapo beveik privalomu interjero elementu, demonstruojančiu
+    ištikimybės valstybei ir karališkai valdžiai auklėjimo įtaką, kartu liudijančiu ir
+    pilietišką laikyseną. Tai dažniausiai garsių dailininkų sukurtų vieno ar kito valdovo
+    portretų kopijos, atliktos vietinių pasimokiusių meistrų*'. Vidutinės bajorijos
+    namuose populiariausias buvo paskutinysis Lenkijos ir Lietuvos valstybės valdo­
+    vas Stanislovas Augustas Poniatovskis - jo atvaizdų iš įvairių dvarų muziejuose
+    sukaupta daugiausia*'.
+  citata_rodoma: "Vidutinės bajorijos \nnamuose populiariausias buvo paskutinysis Lenkijos ir Lietuvos valstybės valdo­\nvas Stanislovas Augustas Poniatovskis - jo atvaizdų iš įvairių dvarų muziejuose \nsukaupta daugiausia"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208016
+
+- id: c-190929
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 356"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 356."
+  citata_originali: |
+    Biblioteka Uniwersytecka
+    w Warszawie, Gabinet Rycin.
+    p. 183
+    Dail. C . C . Klopschas, Senosios Varšuvos miesto rotušės iliuminacijos, surengtos
+    1789 m. lapkričio 15 d. Šviesiausiojo Lenkijos karaliaus ir Lietuvos didžiojo ku­
+    nigaikščio Stanislovo Augusto karūnacijos sukakčiai paminėti, vaizdas.
+  citata_rodoma: "Dail. C . C . Klopschas, Senosios Varšuvos miesto rotušės iliuminacijos, surengtos \n1789 m. lapkričio 15 d. Šviesiausiojo Lenkijos karaliaus ir Lietuvos didžiojo ku­\nnigaikščio Stanislovo Augusto karūnacijos sukakčiai paminėti, vaizdas"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208393
+
+- id: c-191002
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 356"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 356."
+  citata_originali: |
+    Vilniaus universiteto biblioteka.
+    p. 171
+    Dail. Thomas Pingo, Stanislovo Augusto karūnacijos medalis. 1764 m. Sidabras,
+    skersmuo 33 mm.
+  citata_rodoma: "Dail. Thomas Pingo, Stanislovo Augusto karūnacijos medalis. 1764 m. Sidabras, \nskersmuo 33 mm."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208396
 
 ## Ryšiai
 - Stanislovas Augustas Poniatovskis (valdovas) buvo valdovas [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]

@@ -47,10 +47,52 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 
 ## Teiginiai
 
+<a id="claim-t-208582"></a>
+- t-208582
+  teiginys: "Vyriausioji Vilniaus kunigų seminarija 1842 m. buvo perkelta į Petrapilį."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  temporaliniai_duomenys: "įvykio data: 1842 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys gramatiškai taisyklingas, turi aiškų subjektą ir tarinį bei tiesiogiai apibūdina Petrapilyje įvykusį seminarijos perkėlimą."
+  vertinimo_atnaujinta: "2026-09-02T01:53:28Z"
+  pagrindžia:
+    - c-191202
+
+<a id="claim-t-208583"></a>
+- t-208583
+  teiginys: "Po konsekracijos vyskupas Motiejus Valančius, vykdamas iš Petrapilio į Varnius, pakelės bažnyčiose teikė Sutvirtinimo sakramentą."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:49Z"
+  pagrindžia:
+    - c-191203
+
+<a id="claim-t-209411"></a>
+- t-209411
+  teiginys: "1837 m. Petrapilyje išleista brošiūrėlė buvo kunigo J. Mielcškos išversta latviška K. Debnerio knygutė."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:28Z"
+  pagrindžia:
+    - c-191920
+
 <a id="claim-t-68917"></a>
-- t-001
+- t-68917
   teiginys: "Čartoriskiai pasiuntė Stanislovą Augustą Poniatauską į Petrapilį."
-  atnaujinta: "2026-06-13 18:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "siunte_i -> Petrapilis: 0.91"
   ryšio_patikimumo_lygis: "aukstas"
@@ -65,9 +107,9 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     - c-68373
 
 <a id="claim-t-68918"></a>
-- t-002
+- t-68918
   teiginys: "1903 m. Petrapilyje buvo išleistas „Litovskaja Metrika“ teismo bylų knygų tomas."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "siunte_i -> Petrapilis: 0.91"
   ryšio_patikimumo_lygis: "aukstas"
@@ -84,9 +126,9 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
     - c-32322
 
 <a id="claim-t-183072"></a>
-- t-003
+- t-183072
   teiginys: "Augusto III karaliavimo pabaigoje Čartoriskiai partijų kovose rėmėsi artimais ryšiais su Petrapilio rūmais."
-  atnaujinta: "2026-06-13 18:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -117,8 +159,8 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-68918
 
 - id: c-68373
   redaktorius: "A. Šapoka"
@@ -139,8 +181,8 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-68917
 
 - id: c-166463
   redaktorius: "A. Šapoka"
@@ -158,8 +200,79 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-183072
+
+- id: c-191202
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 8"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 8."
+  citata_originali: |
+    Rašto archeologijos 8. 1842 m.
+    kun. M. Valančiui suteiktas teologijos daktaro laipsnis9.
+    Tais pačiais metais Vyriausioji Vilniaus kunigų semina­
+    rija buvo perkelta į Petrapilį.
+  citata_rodoma: "Tais pačiais metais Vyriausioji Vilniaus kunigų semina­\nrija buvo perkelta į Petrapilį."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208582
+
+- id: c-191203
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 58"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 58."
+  citata_originali: |
+    dieną sakyti du pamokslus apie šį sakramentą k Be to,
+    vyskupas 1851 m. įsakė, kad sutvirtinamiesiems kunigai
+    išduotų atitinkamas korteles ir juos įregistruotų į kny­
+    gas 1 2.
+    Sutvirtinimo sakramentą vysk. M. Valančius teikė ypač
+    stropiai. Po konsekracijos vysk. M. Valančius, vykdamas
+    iš Petrapilio į Varnius, pakelės bažnyčiose jau teikė šį
+    sakramentą.
+  citata_rodoma: "Po konsekracijos vysk. M. Valančius, vykdamas \niš Petrapilio į Varnius, pakelės bažnyčiose jau teikė šį \nsakramentą."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208583
+
+- id: c-191920
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 75"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 75."
+  citata_originali: |
+    Tas skirstymas, be abejonės» yra
+    sąlyginis: vienuose kūriniuose pasaulietinis turinys, argumentuotė ir
+    įrodinėjimai daugiausia siejosi su žemiškais materialiais dalykais,
+    kituose buvo vaizduojamos pomirtinio pasaulio perspektyvos.
+    Pirma tokia knygelė Lietuvoje pasirodė 1846 m., kai Šiaulėnų
+    ir Šiaulių parapijose bandyta plėsti blaivybės judėjimą. Petrapilyje
+    išleista (1837) brošiūrėlė buvo kunigo J. Mielcškos išversta latviška K.
+    Debnerio knygutė.
+  citata_rodoma: "Petrapilyje \nišleista (1837) brošiūrėlė buvo kunigo J. Mielcškos išversta latviška K. \nDebnerio knygutė."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209411
 
 ## Ryšiai
 - Buvo siuntimo vieta: [[objektai/grupes/Čartoriskiai]]

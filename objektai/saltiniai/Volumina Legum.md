@@ -36,55 +36,6 @@ media_all_json: |-
 
 Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos specialiuose rinkiniuose, vadinamuose Volumina Legum. Jų tada buvo iš viso išspausdinta 8 tomai.
 
-## Teiginiai
-
-<a id="claim-t-67580"></a>
-- t-001
-  teiginys: "XVIII a. visos konstitucijos buvo surinktos ir išspausdintos aštuonių tomų rinkinyje „Volumina Legum“."
-  atnaujinta: "2026-06-13 18:29"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> konstitucijos: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Volumina Legum: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "konstitucijos: mention_match, thing, gap=71"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Volumina Legum\" parinktas kaip owner_note_path. Targetas \"konstitucijos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67430
-
-<a id="claim-t-67581"></a>
-- t-002
-  teiginys: "„Volumina legum“ šeši tomai buvo išleisti Peterburge 1859 m."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Peterburgas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Volumina Legum: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Peterburgas: mention_match, place, gap=41"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Volumina Legum\" parinktas kaip owner_note_path. Targetas \"Peterburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1859 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminis teiginys buvo bibliografinis fragmentas, o citata leidžia pateikti pilną faktinį sakinį."
-  pagrindžia:
-    - c-37269
-
-<a id="claim-t-201503"></a>
-- t-003
-  teiginys: "Sankt Peterburge skelbtų Respublikos seimų priimtų konstitucijų daugiatomiu rinkiniu Volumina Legum. Seime, tarp kita ko, buvo priimami valstybės mokesčių įstatymai, kuriems turėjo paklusti ir Kauno miestiečiai."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184850
-
 ## Citatos
 
 - id: c-37269
@@ -100,7 +51,7 @@ Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos sp
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-67430
@@ -120,7 +71,7 @@ Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos sp
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184850
@@ -137,5 +88,118 @@ Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos sp
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-190644
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 211"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 211."
+  citata_originali: |
+    Источники и литература
+    Dziennik Handlowy zawierający w sobie wszystkie okoliczności czyli ogniwa całego łańcucha handlu
+    polskiego. Zaczęty u> Warszawie roku 17S6,1.1, Warszawa: Drukarnia XX Missionarzów, 1786.
+    Volumina Legum, t. VI-VIII, Petersburg: Nakładem i Drukiem Jozefata Ohryski, i860.
+  citata_rodoma: "Volumina Legum, t. VI-VIII, Petersburg: Nakładem i Drukiem Jozefata Ohryski, i860."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
+- id: c-190851
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 218"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 218."
+  citata_originali: |
+    Przemysław P. Romaniuk, An­
+    drzej Haratym, Warszawa: Wydawnictwo DiG, 1009.
+    Volumina Legum, t. VI, VII, Petersburg: nakładem i drukiem Jozefata Ohryzki, i860.
+    Volumina Legum, t. IX, Kraków: Nakładem Akademii Umiejętności, 1889.
+  citata_rodoma: "Volumina Legum, t. IX, Kraków: Nakładem Akademii Umiejętności, 1889."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-005
+
+## Teiginiai
+
+<a id="claim-t-67580"></a>
+- t-001
+  teiginys: "XVIII a. visos konstitucijos buvo surinktos ir išspausdintos aštuonių tomų rinkinyje „Volumina Legum“."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> konstitucijos: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Volumina Legum: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "konstitucijos: mention_match, thing, gap=71"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Volumina Legum\" parinktas kaip owner_note_path. Targetas \"konstitucijos\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67430
+
+<a id="claim-t-67581"></a>
+- t-002
+  teiginys: "„Volumina legum“ šeši tomai buvo išleisti Peterburge 1859 m."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Peterburgas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Volumina Legum: owner_note_path, source, gap=0"
+  ryšio_targeto_parinkimas: "Peterburgas: mention_match, place, gap=41"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Volumina Legum\" parinktas kaip owner_note_path. Targetas \"Peterburgas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1859 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis teiginys buvo bibliografinis fragmentas, o citata leidžia pateikti pilną faktinį sakinį."
+  pagrindžia:
+    - c-37269
+
+<a id="claim-t-201503"></a>
+- t-003
+  teiginys: "Sankt Peterburge skelbtų Respublikos seimų priimtų konstitucijų daugiatomiu rinkiniu Volumina Legum. Seime, tarp kita ko, buvo priimami valstybės mokesčių įstatymai, kuriems turėjo paklusti ir Kauno miestiečiai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184850
+
+<a id="claim-t-208074"></a>
+- t-004
+  teiginys: "Volumina Legum, t."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190644
+
+<a id="claim-t-208209"></a>
+- t-005
+  teiginys: "Volumina Legum, t."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-190851
+

@@ -38,42 +38,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-86737"></a>
-- t-001
-  teiginys: "Žygimantas sutiko su Varmės kapitulos prašymu pripažinti Fabijono paskyrimą Varmės vyskupu."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Fabianas (Varmės vyskupas): 0.78"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Varmės kapitula: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Fabianas (Varmės vyskupas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Lotyniška citata rodo, kad kapitula atliko Fabiano išrinkimą ar paskyrimą, kurio pripažinimo prašyta."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Varmės kapitula paskyrė Fabianas (Varmės vyskupas) (0.78)"
-  pagrindžia:
-    - c-82716
-
-<a id="claim-t-86738"></a>
-- t-002
-  teiginys: "Žygimantas sutiko su Varmės kapitulos prašymu pripažinti be jo pritarimo įvykusį Fabijono paskyrimą Varmės vyskupu."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "paskyre -> Fabijonas (Varmės vyskupas): 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Varmės kapitula: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Fabijonas (Varmės vyskupas): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai mini Varmės kapitulos prašymą pripažinti Fabijono paskyrimą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Varmės kapitula paskyrė Fabijonas (Varmės vyskupas) (0.90)"
-  pagrindžia:
-    - c-82717
-
 ## Citatos
 
 - id: c-82716
@@ -114,7 +78,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-82717
@@ -149,8 +113,45 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 ## Ryšiai
 - Varmės kapitula paskyrė [[objektai/asmenys/Fabijonas (Varmės vyskupas)]]
+
+## Teiginiai
+
+<a id="claim-t-86737"></a>
+- t-001
+  teiginys: "Žygimantas sutiko su Varmės kapitulos prašymu pripažinti Fabijono paskyrimą Varmės vyskupu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "paskyre -> Fabianas (Varmės vyskupas): 0.78"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Varmės kapitula: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Fabianas (Varmės vyskupas): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Lotyniška citata rodo, kad kapitula atliko Fabiano išrinkimą ar paskyrimą, kurio pripažinimo prašyta."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Varmės kapitula paskyrė Fabianas (Varmės vyskupas) (0.78)"
+  pagrindžia:
+    - c-82716
+
+<a id="claim-t-86738"></a>
+- t-002
+  teiginys: "Žygimantas sutiko su Varmės kapitulos prašymu pripažinti be jo pritarimo įvykusį Fabijono paskyrimą Varmės vyskupu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "paskyre -> Fabijonas (Varmės vyskupas): 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Varmės kapitula: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Fabijonas (Varmės vyskupas): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai mini Varmės kapitulos prašymą pripažinti Fabijono paskyrimą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Varmės kapitula paskyrė Fabijonas (Varmės vyskupas) (0.90)"
+  pagrindžia:
+    - c-82717
+

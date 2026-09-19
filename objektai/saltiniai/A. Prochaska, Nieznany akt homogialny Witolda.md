@@ -32,19 +32,6 @@ media_all_json: |-
 
 Prochaska, Nieznany akt homogialny Witolda, Kwartalnik histor.
 
-## Teiginiai
-
-<a id="claim-t-36032"></a>
-- t-001
-  teiginys: "A. Prochaskos darbas „Nieznany akt homogialny Witolda“ nurodytas „Kwartalnik historyczny“ IX tome, 234 puslapyje."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1386 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-38401
-
 ## Citatos
 
 - id: c-38401
@@ -64,5 +51,19 @@ Prochaska, Nieznany akt homogialny Witolda, Kwartalnik histor.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-36032"></a>
+- t-001
+  teiginys: "A. Prochaskos darbas „Nieznany akt homogialny Witolda“ nurodytas „Kwartalnik historyczny“ IX tome, 234 puslapyje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1386 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-38401
+

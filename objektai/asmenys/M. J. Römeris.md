@@ -75,9 +75,11 @@ canonical_biography: "1818–1829 m. M. J. Römerio dvarai tiekė medžiagas Kri
     pastatyta nauja bažnyčia, kuriai medžiagas tiekė M. J. Römerio dvarai
     3 9.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-24 13:30"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

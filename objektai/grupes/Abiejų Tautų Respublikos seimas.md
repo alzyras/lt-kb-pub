@@ -34,56 +34,6 @@ media_all_json: |-
 
 1601 m. Abiejų Tautų Respublikos seime priimtoje konstitucijoje buvo teigiama: Pasiuntinių prašymu ir bendru leidimu amžiniems laikams suteikiame Kauno pavieto gyventojams mūrinĮ briaunuotą bokštą Kauno pilyje, kurĮ suremontuoti savo sąskaita privalo ir turės. 1631 m. Lietuvos Didžiosios Kunigaikštystės bajorų atstovai Respublikos seime pritarė, kad Lietuvai būtų taikoma konstitucija, kuri Lenkijoje veikusi jau seniai - konstitucija, pavadinta Apie laivybingas upes. Komisarai buvo įgalioti ištirti tokios padėties priežastis ir pranešti apie jas seimui, o Prūsijos hercogas paragintas sutvarkyti laivybą.
 
-## Teiginiai
-
-<a id="claim-t-201836"></a>
-- t-001
-  teiginys: "1601 m. Abiejų Tautų Respublikos seime priimtoje konstitucijoje buvo teigiama: Pasiuntinių prašymu ir bendru leidimu amžiniems laikams suteikiame Kauno pavieto gyventojams mūrinĮ briaunuotą bokštą Kauno pilyje, kurĮ suremontuoti savo sąskaita privalo ir turės."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185183
-
-<a id="claim-t-201837"></a>
-- t-002
-  teiginys: "1631 m. Lietuvos Didžiosios Kunigaikštystės bajorų atstovai Respublikos seime pritarė, kad Lietuvai būtų taikoma konstitucija, kuri Lenkijoje veikusi jau seniai - konstitucija, pavadinta Apie laivybingas upes."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185184
-
-<a id="claim-t-201838"></a>
-- t-003
-  teiginys: "Komisarai buvo įgalioti ištirti tokios padėties priežastis ir pranešti apie jas seimui, o Prūsijos hercogas paragintas sutvarkyti laivybą."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185185
-
-<a id="claim-t-201839"></a>
-- t-004
-  teiginys: "1581 m. Kauno pavieto pasiuntinių pastangomis šie reikalai net buvo patekę į Abiejų Tautų Respublikos seimo darbotvarkę."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185186
-
 ## Citatos
 
 - id: c-185183
@@ -103,7 +53,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185184
@@ -120,7 +70,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-185185
@@ -137,7 +87,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-185186
@@ -154,5 +104,91 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+- id: c-191005
+  šaltinis: "04-ldk-personalijos-idejos-refleksijos"
+  puslapiai: "PDF 269"
+  indeksas: "04-ldk-personalijos-idejos-refleksijos, PDF 269."
+  citata_originali: |
+    Ekonominiai interesai buvo glaudžiai susiję su politiniais, todėl pasiuntinybei
+    Hagoje Abiejų Tautų Respublikos Seimas kėlė tiek politinius, tiek ir ekonominius
+    tikslus: stiprinti draugystės ryšius su Nyderlandų Respublika; užsitikrinti sąjungoje
+    su Prūsija buvusių Nyderlandų politinę paramą; gauti finansinę paskolą Respu­
+    blikai ir karaliui bei siekti „krašto prekybos plėtros, reikalingos tiek bendrajam
+    gėriui, tiek naudingos kiekvienam piliečiui“45.
+    Pasiuntiniu ypatingiesiems pavedimams ir įgaliotuoju ministru Hagoje buvo
+    paskirtas didysis Lietuvos kardininkas M . K .
+  citata_rodoma: "pasiuntinybei \nHagoje Abiejų Tautų Respublikos Seimas kėlė tiek politinius, tiek ir ekonominius \ntikslus: stiprinti draugystės ryšius su Nyderlandų Respublika; užsitikrinti sąjungoje \nsu Prūsija buvusių Nyderlandų politinę paramą; gauti finansinę paskolą Respu­\nblikai ir karaliui bei siekti „krašto prekybos plėtros, reikalingos tiek bendrajam \ngėriui, tiek naudingos kiekvienam piliečiui“45."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-005
+
+## Teiginiai
+
+<a id="claim-t-201836"></a>
+- t-001
+  teiginys: "1601 m. Abiejų Tautų Respublikos seime priimtoje konstitucijoje buvo teigiama: Pasiuntinių prašymu ir bendru leidimu amžiniems laikams suteikiame Kauno pavieto gyventojams mūrinĮ briaunuotą bokštą Kauno pilyje, kurĮ suremontuoti savo sąskaita privalo ir turės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185183
+
+<a id="claim-t-201837"></a>
+- t-002
+  teiginys: "1631 m. Lietuvos Didžiosios Kunigaikštystės bajorų atstovai Respublikos seime pritarė, kad Lietuvai būtų taikoma konstitucija, kuri Lenkijoje veikusi jau seniai - konstitucija, pavadinta Apie laivybingas upes."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185184
+
+<a id="claim-t-201838"></a>
+- t-003
+  teiginys: "Komisarai buvo įgalioti ištirti tokios padėties priežastis ir pranešti apie jas seimui, o Prūsijos hercogas paragintas sutvarkyti laivybą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185185
+
+<a id="claim-t-201839"></a>
+- t-004
+  teiginys: "1581 m. Kauno pavieto pasiuntinių pastangomis šie reikalai net buvo patekę į Abiejų Tautų Respublikos seimo darbotvarkę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185186
+
+<a id="claim-t-208332"></a>
+- t-005
+  teiginys: "Abiejų Tautų Respublikos Seimas Hagos pasiuntinybei kėlė politinius ir ekonominius tikslus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 04-ldk-personalijos-idejos-refleksijos"
+  pagrindžia:
+    - c-191005
+

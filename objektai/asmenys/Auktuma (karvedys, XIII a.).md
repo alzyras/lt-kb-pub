@@ -44,32 +44,6 @@ canonical_biography: "Penkiose srityse atsirado tokie vyrai: Olan das Samijoj, M
 
 Penkiose srityse atsirado tokie vyrai: Olan das Samijoj, Montė Natangijoj, Glapas Varmijoj, Divonis Partijoj o Auktuma Pagezonijoj. Pagezonys vieni bedžiaugės liuosybe, kurią Auktuma, jų karvedys, mokėjo dar gy nioti ir antturėti, ketėdamos lig paskuojo dvėkterėjimo jos nepaleisti.
 
-## Teiginiai
-
-<a id="claim-t-201397"></a>
-- t-001
-  teiginys: "Penkiose srityse atsirado tokie vyrai: Olan das Samijoj, Montė Natangijoj, Glapas Varmijoj, Divonis Partijoj o Auktuma Pagezonijoj."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184747
-
-<a id="claim-t-201398"></a>
-- t-002
-  teiginys: "Pagezonys vieni bedžiaugės liuosybe, kurią Auktuma, jų karvedys, mokėjo dar gy nioti ir antturėti, ketėdamos lig paskuojo dvėkterėjimo jos nepaleisti."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184748
-
 ## Citatos
 
 - id: c-184747
@@ -96,7 +70,7 @@ Penkiose srityse atsirado tokie vyrai: Olan das Samijoj, Montė Natangijoj, Glap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184748
@@ -119,5 +93,32 @@ Penkiose srityse atsirado tokie vyrai: Olan das Samijoj, Montė Natangijoj, Glap
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-201397"></a>
+- t-001
+  teiginys: "Penkiose srityse atsirado tokie vyrai: Olan das Samijoj, Montė Natangijoj, Glapas Varmijoj, Divonis Partijoj o Auktuma Pagezonijoj."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184747
+
+<a id="claim-t-201398"></a>
+- t-002
+  teiginys: "Pagezonys vieni bedžiaugės liuosybe, kurią Auktuma, jų karvedys, mokėjo dar gy nioti ir antturėti, ketėdamos lig paskuojo dvėkterėjimo jos nepaleisti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184748
+

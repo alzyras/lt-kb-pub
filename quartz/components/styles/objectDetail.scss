@@ -105,8 +105,8 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
 .object-detail-map-heading span {
   margin: 0 0 0.45rem;
   color: var(--secondary);
-  font-size: 0.72rem;
-  font-weight: 800;
+  font-size: 0.75rem;
+  font-weight: 600;
   letter-spacing: 0.12em;
   line-height: 1.2;
   text-transform: uppercase;
@@ -161,8 +161,8 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
 }
 .object-detail-map .object-detail-map-heading strong {
   color: var(--gray);
-  font-family: var(--codeFont);
-  font-size: 0.67rem;
+  font-family: var(--bodyFont);
+  font-size: 0.75rem;
   letter-spacing: 0.05em;
   text-transform: uppercase;
 }
@@ -220,9 +220,9 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
   flex: 0 0 auto;
   padding: 0.42rem 0.62rem;
   color: var(--darkgray);
-  font-family: var(--codeFont);
-  font-size: 0.73rem;
-  font-weight: 800;
+  font-family: var(--bodyFont);
+  font-size: 0.75rem;
+  font-weight: 600;
   letter-spacing: 0.045em;
   text-decoration: none;
   text-transform: uppercase;
@@ -375,7 +375,7 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
 .object-detail-wiki-infobox-label {
   margin: 0;
   color: var(--gray);
-  font: 800 0.72rem var(--codeFont);
+  font: 600 0.72rem var(--codeFont);
   letter-spacing: 0.04em;
   line-height: 1.45;
 }
@@ -400,7 +400,7 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
   background: color-mix(in srgb, var(--secondary) 8%, var(--light));
   color: var(--secondary);
   font-size: 0.8rem;
-  font-weight: 800;
+  font-weight: 600;
   text-decoration: none;
 }
 .object-detail-wiki-links a:hover,
@@ -424,7 +424,7 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
 .object-detail-wiki-footer-heading {
   margin: 0 0 0.55rem;
   color: var(--secondary);
-  font: 800 0.72rem var(--codeFont);
+  font: 600 0.72rem var(--codeFont);
   letter-spacing: 0.12em;
   line-height: 1.2;
   text-transform: uppercase;
@@ -458,8 +458,8 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
 .object-detail-wiki-portrait span {
   display: block;
   padding: 0.58rem 0.72rem;
-  font-size: 0.74rem;
-  font-weight: 800;
+  font-size: 0.75rem;
+  font-weight: 600;
   line-height: 1.35;
 }
 .object-detail-wiki-infobox {
@@ -497,7 +497,7 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
 .object-detail-wiki-table th {
   width: 25%;
   color: var(--dark);
-  font-weight: 800;
+  font-weight: 600;
 }
 .object-detail-traits {
   margin-top: clamp(2.1rem, 4vw, 3.2rem);
@@ -524,7 +524,7 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
 }
 .object-detail-traits-table thead th {
   color: var(--gray);
-  font: 800 0.7rem var(--codeFont);
+  font: 600 0.7rem var(--codeFont);
   letter-spacing: 0.05em;
   text-transform: uppercase;
 }
@@ -540,7 +540,7 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
   display: block;
   margin-top: 0.32rem;
   color: var(--secondary);
-  font-size: 0.68rem;
+  font-size: 0.75rem;
   font-weight: 500;
 }
 .object-detail-traits-table ul {
@@ -589,7 +589,7 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
   overflow: hidden;
   background: var(--object-wash);
   color: var(--gray);
-  font-size: 0.72rem;
+  font-size: 0.75rem;
   line-height: 1.25;
   text-decoration: none;
 }
@@ -638,7 +638,7 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
 .object-detail-reading > span {
   color: var(--gray);
   font-size: 0.8rem;
-  font-weight: 800;
+  font-weight: 600;
 }
 .object-detail-reading a {
   display: inline-flex;
@@ -676,9 +676,9 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
 .object-claim-id,
 .object-claim-reliability {
   color: var(--secondary);
-  font-family: var(--codeFont);
-  font-size: 0.72rem;
-  font-weight: 800;
+  font-family: var(--bodyFont);
+  font-size: 0.75rem;
+  font-weight: 600;
   letter-spacing: 0.05em;
 }
 .object-claim-reliability {
@@ -695,7 +695,7 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
   cursor: pointer;
   color: var(--secondary);
   font-size: 0.86rem;
-  font-weight: 800;
+  font-weight: 600;
 }
 .object-claim-citation {
   margin-top: 0.75rem;
@@ -720,7 +720,7 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
   gap: 0.35rem;
   margin-top: 1rem;
   color: var(--secondary);
-  font-weight: 800;
+  font-weight: 600;
 }
 
 .object-detail-panel-note {
@@ -749,7 +749,7 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
 }
 .object-detail-relation-subject {
   color: var(--dark);
-  font-weight: 800;
+  font-weight: 600;
 }
 .object-detail-relation-predicate {
   color: var(--gray);
@@ -776,7 +776,7 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
 }
 .object-detail-relation-line small {
   color: var(--gray);
-  font-size: 0.72rem;
+  font-size: 0.75rem;
 }
 
 .object-detail-sources {
@@ -812,7 +812,7 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
 }
 .object-detail-source-table th {
   color: var(--gray);
-  font: 800 0.7rem var(--codeFont);
+  font: 600 0.7rem var(--codeFont);
   letter-spacing: 0.06em;
   text-transform: uppercase;
 }
@@ -857,7 +857,7 @@ body[data-slug^="objektai/"]:has(.object-detail-page, .object-evidence-page)
   background: var(--object-wash);
 }
 .object-detail-gallery-card span {
-  font-weight: 800;
+  font-weight: 600;
   line-height: 1.25;
 }
 .object-detail-reading,

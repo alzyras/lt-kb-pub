@@ -36,25 +36,6 @@ historical_names: []
 
 Kričevskio vadovaujami kariai priversti atsitraukti į mišką, iš ten nusileido prie Dniepro ir įsitvirtino stovykloje netoli Bragino.
 
-## Teiginiai
-
-<a id="claim-t-38449"></a>
-- t-001
-  teiginys: "Kričevskio vadovaujami kazokai atsitraukė prie Dniepro ir įsitvirtino stovykloje netoli Bragino."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Dniepras: 0.81"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kazokai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Dniepras: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kazokų atsitraukimas prie Dniepro rodo jų judėjimą į šią vietą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kazokai keliavo į Dniepras (0.81)"
-  pagrindžia:
-    - c-40253
-
 ## Citatos
 
 - id: c-40253
@@ -79,5 +60,25 @@ Kričevskio vadovaujami kariai priversti atsitraukti į mišką, iš ten nusilei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-38449"></a>
+- t-001
+  teiginys: "Kričevskio vadovaujami kazokai atsitraukė prie Dniepro ir įsitvirtino stovykloje netoli Bragino."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Dniepras: 0.81"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kazokai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Dniepras: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kazokų atsitraukimas prie Dniepro rodo jų judėjimą į šią vietą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kazokai keliavo į Dniepras (0.81)"
+  pagrindžia:
+    - c-40253
+

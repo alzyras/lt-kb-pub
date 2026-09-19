@@ -51,28 +51,6 @@ Dotnavos gudai šiame šaltinyje apibūdinami kaip su vietiniais jau antrą šim
 
 Vietinė etninė bendruomenė.
 
-## Teiginiai
-
-<a id="claim-t-195511"></a>
-- t-001
-  teiginys: "Dotnavos gudai su vietiniais gyveno jau antrą šimtmetį."
-  atnaujinta: "2026-07-12 04:52"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177933
-
-<a id="claim-t-195512"></a>
-- t-002
-  teiginys: "Dotnavos gudai nuo vietinių skyrėsi kalba ir būdu."
-  atnaujinta: "2026-07-12 04:52"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177933
-
 ## Citatos
 
 - id: c-177933
@@ -88,6 +66,29 @@ Vietinė etninė bendruomenė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-195511"></a>
+- t-001
+  teiginys: "Dotnavos gudai su vietiniais gyveno jau antrą šimtmetį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177933
+
+<a id="claim-t-195512"></a>
+- t-002
+  teiginys: "Dotnavos gudai nuo vietinių skyrėsi kalba ir būdu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/10_extract_groups_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177933
+

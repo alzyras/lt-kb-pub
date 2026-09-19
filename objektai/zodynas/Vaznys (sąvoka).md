@@ -39,32 +39,6 @@ Pabėgimo faktą turėdavo patvirtinti teismo pareigūnas – vaznys. Vazniai r�
 
 Pabėgimo faktą turėdavo patvirtinti teismo pareigūnas – vaznys. Vazniai rūpinosi pabėgusių valstiečių paieška ir grąžinimu, pranešdavo teismui apie surastus asmenis ir galėjo panaudoti jėgą išvesdami kaltinamuosius.
 
-## Teiginiai
-
-<a id="claim-t-203758"></a>
-- t-001
-  teiginys: "Pabėgimo faktą turėdavo patvirtinti teismo pareigūnas – vaznys."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  pagrindžia:
-    - c-186362
-
-<a id="claim-t-203759"></a>
-- t-002
-  teiginys: "Vazniai rūpinosi pabėgusių valstiečių paieška ir grąžinimu, pranešdavo teismui apie surastus asmenis ir galėjo panaudoti jėgą išvesdami kaltinamuosius."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  pagrindžia:
-    - c-186363
-
 ## Citatos
 
 - id: c-186362
@@ -83,7 +57,7 @@ Pabėgimo faktą turėdavo patvirtinti teismo pareigūnas – vaznys. Vazniai r�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186363
@@ -103,5 +77,32 @@ Pabėgimo faktą turėdavo patvirtinti teismo pareigūnas – vaznys. Vazniai r�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-203758"></a>
+- t-001
+  teiginys: "Pabėgimo faktą turėdavo patvirtinti teismo pareigūnas – vaznys."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  pagrindžia:
+    - c-186362
+
+<a id="claim-t-203759"></a>
+- t-002
+  teiginys: "Vazniai rūpinosi pabėgusių valstiečių paieška ir grąžinimu, pranešdavo teismui apie surastus asmenis ir galėjo panaudoti jėgą išvesdami kaltinamuosius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  pagrindžia:
+    - c-186363
+

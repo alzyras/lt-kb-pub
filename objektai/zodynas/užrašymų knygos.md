@@ -24,20 +24,6 @@ media_all_json: |-
 
 Užrašymų knygomis vadinamos Metrikos knygos susideda daugiausia iš centrinių Lietuvos raštinių išleidžiamų Lietuvos valdovų skelbtų privilegijų ir kitokio pobūdžio raštų valdiniams tekstų įrašų.
 
-## Teiginiai
-
-<a id="claim-t-201817"></a>
-- t-001
-  teiginys: "Užrašymų knygomis vadinamos Metrikos knygos susideda daugiausia iš centrinių Lietuvos raštinių išleidžiamų Lietuvos valdovų skelbtų privilegijų ir kitokio pobūdžio raštų valdiniams tekstų įrašų."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185164
-
 ## Citatos
 
 - id: c-185164
@@ -54,5 +40,20 @@ Užrašymų knygomis vadinamos Metrikos knygos susideda daugiausia iš centrini�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201817"></a>
+- t-001
+  teiginys: "Užrašymų knygomis vadinamos Metrikos knygos susideda daugiausia iš centrinių Lietuvos raštinių išleidžiamų Lietuvos valdovų skelbtų privilegijų ir kitokio pobūdžio raštų valdiniams tekstų įrašų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185164
+

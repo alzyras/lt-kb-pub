@@ -33,21 +33,6 @@ canonical_biography: "Kazimiero Jogailaičio laikais Stankui Stankaičiui Jurša
 
 Kazimiero Jogailaičio laikais Stankui Stankaičiui Juršai priklausė apvalus antspaudėlis su raidžių skaičiumi ir trikampe spyna.
 
-## Teiginiai
-
-<a id="claim-t-190244"></a>
-- t-001
-  teiginys: "Kazimiero Jogailaičio laikais Stankui Stankaičiui Juršai priklausė apvalus antspaudėlis su raidžių skaičiumi ir trikampe spyna."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173127
-
 ## Citatos
 
 - id: c-173127
@@ -65,5 +50,51 @@ Kazimiero Jogailaičio laikais Stankui Stankaičiui Juršai priklausė apvalus a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-197798
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 406"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 406."
+  citata_originali: |
+    IV lentelė, 33-iasis piešinys. Apvalus antspaudėlis iš Kazi­
+    miero JogailaiČio laikų, priklausęs Stankui Stankaičiui Juršai
+    (Stank Stankiewicz Jursza). Vaizduoja skaičių iš raidžių, kaip
+    atrodo, biarmiškų; virš jo trikampė spyna.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+    - t-002
+
+## Teiginiai
+
+<a id="claim-t-216620"></a>
+- t-001
+  teiginys: "Stankui Stankaičiui Juršai priklausė apvalus antspaudėlis iš Kazimiero Jogailaičio laikų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-197798
+
+<a id="claim-t-216798"></a>
+- t-002
+  teiginys: "Kazimiero Jogailaičio laikais Stankui Stankaičiui Juršai priklausė apvalus antspaudėlis su raidžių skaičiumi ir trikampe spyna."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-197798
+

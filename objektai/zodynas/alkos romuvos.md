@@ -27,26 +27,6 @@ media_all_json: |-
 
 alkos romuvos: archeologai atkasa dabar tų šventovių, kurias apylinkės žmonės dažniausiai vadina savotiškais alkų vardais. Alkos kalnų, Al- kakapių, Alkų kaimų — pilna Lietuvoje. alkos romuvos: taigi pasakojimas, kad buvęs kažkoks vienas vyriausiasis kunigas ir viena vyriausioji šventovė — Romuva, — yra prasimanymas viduramžio rašytojų, kurie, ne- daug težinodami apie tikrąją aisčių religiją, prasimanė šitą dalyką, nusižiūrėję į katalikų Bažnyčią..
 
-## Teiginiai
-
-<a id="claim-t-70078"></a>
-- t-001
-  teiginys: "Archeologų atkastas senąsias šventoves apylinkių žmonės dažnai vadino alkų vardais."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-69190
-
-<a id="claim-t-70079"></a>
-- t-002
-  teiginys: "Šapokos veikale pasakojimas apie vieną vyriausiąją šventovę Romuvą laikomas viduramžių rašytojų prasimanymu."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-69189
-
 ## Citatos
 
 - id: c-69189
@@ -71,7 +51,7 @@ alkos romuvos: archeologai atkasa dabar tų šventovių, kurias apylinkės žmon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-69190
@@ -91,5 +71,26 @@ alkos romuvos: archeologai atkasa dabar tų šventovių, kurias apylinkės žmon
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-70078"></a>
+- t-001
+  teiginys: "Archeologų atkastas senąsias šventoves apylinkių žmonės dažnai vadino alkų vardais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-69190
+
+<a id="claim-t-70079"></a>
+- t-002
+  teiginys: "Šapokos veikale pasakojimas apie vieną vyriausiąją šventovę Romuvą laikomas viduramžių rašytojų prasimanymu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-69189
+

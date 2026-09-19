@@ -23,9 +23,9 @@ li.section-li {
     & .meta-box {
       min-height: 1.4rem;
       color: var(--gray);
-      font-family: var(--codeFont);
+      font-family: var(--bodyFont);
       font-size: 0.78rem;
-      font-weight: 800;
+      font-weight: 600;
       line-height: 1.2;
       white-space: normal;
       overflow: hidden;
@@ -42,9 +42,9 @@ li.section-li {
 .listing-evidence-meta {
   margin: 0.42rem 0 0;
   color: var(--bm-muted, var(--gray));
-  font-family: var(--codeFont);
-  font-size: 0.74rem;
-  font-weight: 800;
+  font-family: var(--bodyFont);
+  font-size: 0.75rem;
+  font-weight: 600;
   letter-spacing: 0.06em;
   line-height: 1.25;
   text-transform: uppercase;

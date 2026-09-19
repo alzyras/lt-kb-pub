@@ -44,34 +44,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206064"></a>
-- t-001
-  teiginys: "Junigedos apgulties metu atakos buvo atremtos, pabūklai šaudė netaikliai, o gerai organizuota įgula sumaniai ir drąsiai gynėsi."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
-  pagrindžia:
-    - c-188679
-
-<a id="claim-t-206065"></a>
-- t-002
-  teiginys: "Vokiečiai keletą kartų šovė iš pabūklų, o žemaičiai iš užnugario puolė ir apsupo tą pačią koloną."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
-  pagrindžia:
-    - c-188680
-
 ## Santrauka
 
 Junigedos apgulties metu atakos buvo atremtos, pabūklai šaudė netaikliai, o gerai organizuota įgula sumaniai ir drąsiai gynėsi. Vokiečiai keletą kartų šovė iš pabūklų, o žemaičiai iš užnugario puolė ir apsupo tą pačią koloną.
@@ -97,7 +69,7 @@ Junigedos apgulties metu atakos buvo atremtos, pabūklai šaudė netaikliai, o g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188680
@@ -123,5 +95,34 @@ Junigedos apgulties metu atakos buvo atremtos, pabūklai šaudė netaikliai, o g
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-206064"></a>
+- t-001
+  teiginys: "Junigedos apgulties metu atakos buvo atremtos, pabūklai šaudė netaikliai, o gerai organizuota įgula sumaniai ir drąsiai gynėsi."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188679
+
+<a id="claim-t-206065"></a>
+- t-002
+  teiginys: "Vokiečiai keletą kartų šovė iš pabūklų, o žemaičiai iš užnugario puolė ir apsupo tą pačią koloną."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:28Z"
+  pagrindžia:
+    - c-188680
+

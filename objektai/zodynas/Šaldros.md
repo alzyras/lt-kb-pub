@@ -36,26 +36,6 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
 
 - `šaldrų` ir `prašaleičių` čia veikia kaip artimi tos pačios svetimybės vardai. `šaldros` tekste atrodo kaip sinonimas ar keista vartosena, bet priešstata su vietininku aiški.
 
-## Teiginiai
-
-<a id="claim-t-70422"></a>
-- t-001
-  teiginys: "Šaldros buvo į kraštą atklydę prašalaičiai, mėginę įbrukti savo nuomonę apie dievą ir įkurti naują tikybą."
-  atnaujinta: "2026-07-19 16:33"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-09774
-
-<a id="claim-t-70423"></a>
-- t-002
-  teiginys: "`Šaldrų / prašaleičių` šiame tekste reiškia svetimus atvykėlius ar prašalaičius."
-  atnaujinta: "2026-05-31 12:44"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-09774
-
 ## Citatos
 
 - id: c-09774
@@ -70,9 +50,6 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
 
 - id: c-09775
   autorius: "Simonas Daukantas"
@@ -92,3 +69,41 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
+- id: c-192569
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 153"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 153."
+  citata_originali: |
+    Užvis jog šaldrų^709 ir prašaleičių, atklydusių į savo kraštą, kurie norėjo savo nuomonę apie dievą jiems įbrukti ir tikybą naują įkurti, tuos, kaipo norinčius sau valdžią įgyti ir svietą nuvergti, be meilės galavo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 16:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+    - t-002
+
+## Teiginiai
+
+<a id="claim-t-210203"></a>
+- t-001
+  teiginys: "Šaldros buvo į kraštą atklydę prašalaičiai, mėginę įbrukti savo nuomonę apie dievą ir įkurti naują tikybą."
+  atnaujinta: "2026-09-12 16:28"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-192569
+
+<a id="claim-t-210210"></a>
+- t-002
+  teiginys: "`Šaldrų / prašaleičių` šiame tekste reiškia svetimus atvykėlius ar prašalaičius."
+  atnaujinta: "2026-09-12 16:28"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+  pagrindžia:
+    - c-192569
+

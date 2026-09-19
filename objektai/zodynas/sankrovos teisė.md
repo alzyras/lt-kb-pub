@@ -32,68 +32,6 @@ media_all_json: |-
 
 Elbingui vis trūkdavo žinių apie prekybos su Kaunu būklę, Tomas sukrusdavo, kai reikalai imdavo suktis apie jo sankrovos teisę. Iš naujų svečių teisės nuostatų bene svarbiausia buvo sankrovos teisė (ius stapulae, Stapelrecht). Aleksandro Jogailaičio suteikta sankrovos teisė svariai papildė Kauno svečių teisės nuostatų kompleksą ir kėlė daug rūpesčių pagrindiniams Kauno prekybos partneriams hanziečiams.
 
-## Teiginiai
-
-<a id="claim-t-201754"></a>
-- t-001
-  teiginys: "Elbingui vis trūkdavo žinių apie prekybos su Kaunu būklę, Tomas sukrusdavo, kai reikalai imdavo suktis apie jo sankrovos teisę."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185101
-
-<a id="claim-t-201755"></a>
-- t-002
-  teiginys: "Iš naujų svečių teisės nuostatų bene svarbiausia buvo sankrovos teisė (ius stapulae, Stapelrecht)."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185102
-
-<a id="claim-t-201756"></a>
-- t-003
-  teiginys: "Aleksandro Jogailaičio suteikta sankrovos teisė svariai papildė Kauno svečių teisės nuostatų kompleksą ir kėlė daug rūpesčių pagrindiniams Kauno prekybos partneriams hanziečiams."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185103
-
-<a id="claim-t-201757"></a>
-- t-004
-  teiginys: "Kauno prekybos teisinis reglamentavimas."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185104
-
-<a id="claim-t-201758"></a>
-- t-005
-  teiginys: "Vis dėlto Kauno svečių teisė ir ypač jos sudedamoji dalis - sankrovos teisė nuolat buvo pažeidžiama, Prūsų ir kitų Lietuvos miestų pirkliai stengėsi apeiti Kauną."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185105
-
 ## Citatos
 
 - id: c-185101
@@ -110,7 +48,7 @@ Elbingui vis trūkdavo žinių apie prekybos su Kaunu būklę, Tomas sukrusdavo,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185102
@@ -127,7 +65,7 @@ Elbingui vis trūkdavo žinių apie prekybos su Kaunu būklę, Tomas sukrusdavo,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-185103
@@ -145,7 +83,7 @@ Elbingui vis trūkdavo žinių apie prekybos su Kaunu būklę, Tomas sukrusdavo,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-185104
@@ -162,7 +100,7 @@ Elbingui vis trūkdavo žinių apie prekybos su Kaunu būklę, Tomas sukrusdavo,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-185105
@@ -179,5 +117,68 @@ Elbingui vis trūkdavo žinių apie prekybos su Kaunu būklę, Tomas sukrusdavo,
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
+
+## Teiginiai
+
+<a id="claim-t-201754"></a>
+- t-001
+  teiginys: "Elbingui vis trūkdavo žinių apie prekybos su Kaunu būklę, Tomas sukrusdavo, kai reikalai imdavo suktis apie jo sankrovos teisę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185101
+
+<a id="claim-t-201755"></a>
+- t-002
+  teiginys: "Iš naujų svečių teisės nuostatų bene svarbiausia buvo sankrovos teisė (ius stapulae, Stapelrecht)."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185102
+
+<a id="claim-t-201756"></a>
+- t-003
+  teiginys: "Aleksandro Jogailaičio suteikta sankrovos teisė svariai papildė Kauno svečių teisės nuostatų kompleksą ir kėlė daug rūpesčių pagrindiniams Kauno prekybos partneriams hanziečiams."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185103
+
+<a id="claim-t-201757"></a>
+- t-004
+  teiginys: "Kauno prekybos teisinis reglamentavimas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185104
+
+<a id="claim-t-201758"></a>
+- t-005
+  teiginys: "Vis dėlto Kauno svečių teisė ir ypač jos sudedamoji dalis - sankrovos teisė nuolat buvo pažeidžiama, Prūsų ir kitų Lietuvos miestų pirkliai stengėsi apeiti Kauną."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185105
+

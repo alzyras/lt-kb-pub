@@ -27,25 +27,6 @@ media_all_json: |-
 
 Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais paskyrė generalinius tarėjus, o ministerijas 5 skyrius • L I E T U VA : S O V I E T Ų I R N A C I Ų O K U PA C I J O S 203 pervadino vadybomis.
 
-## Teiginiai
-
-<a id="claim-t-26341"></a>
-- t-001
-  teiginys: "Nacių okupacijos metais vokiečių valdžia Lietuvos ministerijas pervadino vadybomis."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Lietuva: 0.68"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Nacių okupacijos metais vokiečių valdžia veikė Lietuvoje ir skyrė administracijos vadovus, todėl rodomas valdymo santykis."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Vokiečiai valdė Lietuva (0.68); Vokiečiai paskyrė Petras Kubiliūnas (0.61)"
-  pagrindžia:
-    - c-26566
-
 ## Citatos
 
 - id: c-26566
@@ -71,5 +52,25 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-26341"></a>
+- t-001
+  teiginys: "Nacių okupacijos metais vokiečių valdžia Lietuvos ministerijas pervadino vadybomis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Lietuva: 0.68"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vokiečiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Nacių okupacijos metais vokiečių valdžia veikė Lietuvoje ir skyrė administracijos vadovus, todėl rodomas valdymo santykis."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Vokiečiai valdė Lietuva (0.68); Vokiečiai paskyrė Petras Kubiliūnas (0.61)"
+  pagrindžia:
+    - c-26566
+

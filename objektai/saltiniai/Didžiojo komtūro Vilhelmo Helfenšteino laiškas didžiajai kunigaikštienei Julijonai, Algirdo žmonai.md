@@ -34,34 +34,6 @@ Vilhelmo Helfenšteino laiškas saugomas Slaptajame Karaliaučiaus archyve Perga
 
 Vilhelmo Helfenšteino laiškas saugomas Slaptajame Karaliaučiaus archyve Pergamentų registre, o Pergamentų registras išspausdintas Luko Davido veikalo VII tome. Teodoras Narbutas neabejodamas nurodė, kad laišką didžiajai kunigaikštienei Julijonai parašė didysis komtūras Vilhelmas Helfenšteinas.
 
-## Teiginiai
-
-<a id="claim-t-207052"></a>
-- t-001
-  teiginys: "Vilhelmo Helfenšteino laiškas saugomas Slaptajame Karaliaučiaus archyve Pergamentų registre, o Pergamentų registras išspausdintas Luko Davido veikalo VII tome."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189667
-
-<a id="claim-t-207053"></a>
-- t-002
-  teiginys: "Teodoras Narbutas neabejodamas nurodė, kad laišką didžiajai kunigaikštienei Julijonai parašė didysis komtūras Vilhelmas Helfenšteinas."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189668
-
 ## Citatos
 
 - id: c-189667
@@ -78,7 +50,7 @@ Vilhelmo Helfenšteino laiškas saugomas Slaptajame Karaliaučiaus archyve Perga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189668
@@ -94,5 +66,19 @@ Vilhelmo Helfenšteino laiškas saugomas Slaptajame Karaliaučiaus archyve Perga
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+## Teiginiai
+
+<a id="claim-t-207052"></a>
+- t-001
+  teiginys: "Vilhelmo Helfenšteino laiškas saugomas Slaptajame Karaliaučiaus archyve Pergamentų registre, o Pergamentų registras išspausdintas Luko Davido veikalo VII tome."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189667
+

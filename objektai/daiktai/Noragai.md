@@ -48,18 +48,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-08310"></a>
-- t-001
-  teiginys: "Laukai buvo ariami medžio noragais, ne geležiniais, o kai kurie storastos bandė įsakyti arti gelžiniais noragais."
-  atnaujinta: "2026-05-30 12:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
-  pagrindžia:
-    - c-10265
-
 ## Pastabos
 
 - čia daiktas aprašytas kartu su žemdirbystės įpročiu, bet pats norago tipas aiškiai materiališkas.
@@ -79,5 +67,14 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+## Teiginiai
+
+<a id="claim-t-210080"></a>
+- t-001
+  teiginys: "Laukai buvo ariami medžio noragais, ne geležiniais, o kai kurie storastos bandė įsakyti arti gelžiniais noragais."
+  atnaujinta: "2026-09-12 16:28"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: neutrali_arba_neaiski; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Simonas Daukantas"
+

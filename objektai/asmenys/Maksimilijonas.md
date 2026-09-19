@@ -37,93 +37,6 @@ canonical_biography: "Imperatorius Maksimilijonas netoli Halės jėga atėmė i�
 
 Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų keturiolika maskvėnų belaisvių ir grąžino juos į Maskvą. Maksimilijonas, bijodamas Žygimanto ir Stepono kariuomenių, pradėjo ieškoti kelių taikiam susitarimui. Maskvos didikai rėmėsi Maksimilijono ir Suleimano laiškais, teigdami, kad Maskvos didysis kunigaikštis tituluojamas caru.
 
-## Teiginiai
-
-<a id="claim-t-185972"></a>
-- t-001
-  teiginys: "Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų keturiolika maskvėnų belaisvių ir grąžino juos į Maskvą."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169333
-
-<a id="claim-t-185973"></a>
-- t-002
-  teiginys: "Maksimilijonas, bijodamas Žygimanto ir Stepono kariuomenių, pradėjo ieškoti kelių taikiam susitarimui."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169334
-
-<a id="claim-t-185974"></a>
-- t-003
-  teiginys: "Maskvos didikai rėmėsi Maksimilijono ir Suleimano laiškais, teigdami, kad Maskvos didysis kunigaikštis tituluojamas caru."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169335
-
-<a id="claim-t-193488"></a>
-- t-004
-  teiginys: "Jam už teko įžūlumo, nė nebandžius sėkmės kovos lauke, laiš ku paklausti imperatorių Maksimilijoną, ką turėtų daryti su nelaisvėn paimtuoju karaliumi Žygimantu, ku rį, be abejonės, jam netrukus sukaustytą atvešią."
-  atnaujinta: "2026-07-26 17:49"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169332
-
-<a id="claim-t-193489"></a>
-- t-005
-  teiginys: "Tačiau imperatorius Maksimilijonas netoli Halės jėga juos at ėmė iš karaliaus žygūnų ir pagarbiai sugrąžino atgal į Maskvą."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169333
-
-<a id="claim-t-193490"></a>
-- t-006
-  teiginys: "Maksimilijonas Im p e ra to riu s M a k sipadarė dėl savo senos draum ili jo n a s išsiža d a gystės su Vasilijumi."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169334
-
-<a id="claim-t-193491"></a>
-- t-007
-  teiginys: "Maskvos didikų atsakyme remtasi Maksimilijono ir Suleimano laiškais kaip įrodymu, kad Maskvos didysis kunigaikštis tituluotas caru."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-169335
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Prieš mūšį Čeliadninas laišku klausė imperatoriaus Maksimilijono, ką daryti su būsimu belaisviu karaliumi Žygimantu.'
@@ -200,8 +113,8 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-003
 
 - id: c-169333
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -228,9 +141,6 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-005
 
 - id: c-169334
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -266,9 +176,10 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-006
+  pagrindžia:
+    - t-001
+    - t-003
+    - t-004
 
 - id: c-169335
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -290,6 +201,71 @@ Imperatorius Maksimilijonas netoli Halės jėga atėmė iš karaliaus žygūnų 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-    - t-007
+  pagrindžia:
+    - t-002
+    - t-005
+
+## Teiginiai
+
+<a id="claim-t-185973"></a>
+- t-001
+  teiginys: "Maksimilijonas, bijodamas Žygimanto ir Stepono kariuomenių, pradėjo ieškoti kelių taikiam susitarimui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169334
+
+<a id="claim-t-185974"></a>
+- t-002
+  teiginys: "Maskvos didikai rėmėsi Maksimilijono ir Suleimano laiškais, teigdami, kad Maskvos didysis kunigaikštis tituluojamas caru."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169335
+
+<a id="claim-t-193488"></a>
+- t-003
+  teiginys: "Jam už teko įžūlumo, nė nebandžius sėkmės kovos lauke, laiš ku paklausti imperatorių Maksimilijoną, ką turėtų daryti su nelaisvėn paimtuoju karaliumi Žygimantu, ku rį, be abejonės, jam netrukus sukaustytą atvešią."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169332
+    - c-169334
+
+<a id="claim-t-193490"></a>
+- t-004
+  teiginys: "Maksimilijonas Im p e ra to riu s M a k sipadarė dėl savo senos draum ili jo n a s išsiža d a gystės su Vasilijumi."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169334
+
+<a id="claim-t-193491"></a>
+- t-005
+  teiginys: "Maskvos didikų atsakyme remtasi Maksimilijono ir Suleimano laiškais kaip įrodymu, kad Maskvos didysis kunigaikštis tituluotas caru."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-169335
+

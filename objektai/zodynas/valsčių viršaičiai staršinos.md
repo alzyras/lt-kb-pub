@@ -33,36 +33,6 @@ media_all_json: |-
 
 Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstatymu. Nauji viršaičių rinkimai buvo apsaugoti nuo dvarininkų įtakos.
 
-## Teiginiai
-
-<a id="claim-t-03210"></a>
-- t-001
-  teiginys: "1861 m. įkurtų valsčių viršaičiai ir raštininkai buvo atstatyti po Muravjovo pertvarkymo."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  temporaliniai_duomenys: "įvykio data: 1861 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Perrašyta taip, kad teiginys būtų apie viršaičius ir remtųsi citata."
-  pagrindžia:
-    - c-166384
-
-<a id="claim-t-182987"></a>
-- t-002
-  teiginys: "1861 m. įkurtų valsčių viršaičiai buvo vadinami staršinomis."
-  atnaujinta: "2026-06-13 18:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  temporaliniai_duomenys: "įvykio data: 1861 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pirminis teiginys daugiau kalba apie savivaldybes, o citata leidžia suformuluoti faktą apie viršaičius."
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  pagrindžia:
-    - c-166384
-
 ## Citatos
 
 - id: c-166384
@@ -83,6 +53,37 @@ Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstat
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-03210"></a>
+- t-001
+  teiginys: "1861 m. įkurtų valsčių viršaičiai ir raštininkai buvo atstatyti po Muravjovo pertvarkymo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1861 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Perrašyta taip, kad teiginys būtų apie viršaičius ir remtųsi citata."
+  pagrindžia:
+    - c-166384
+
+<a id="claim-t-182987"></a>
+- t-002
+  teiginys: "1861 m. įkurtų valsčių viršaičiai buvo vadinami staršinomis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  temporaliniai_duomenys: "įvykio data: 1861 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pirminis teiginys daugiau kalba apie savivaldybes, o citata leidžia suformuluoti faktą apie viršaičius."
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
+  pagrindžia:
+    - c-166384
+

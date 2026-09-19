@@ -34,21 +34,6 @@ media_all_json: |-
 
 Kojelavičius vaizduoja imperatorių Zigmantą kaip mėginusį supriešinti lenkus ir lietuvius, siūlant Jogailai teises į Galičą ir dalį Podolės.
 
-## Teiginiai
-
-<a id="claim-t-193529"></a>
-- t-001
-  teiginys: "Kojelavičius vaizduoja imperatorių Zigmantą kaip mėginusį supriešinti lenkus ir lietuvius, siūlant Jogailai teises į Galičą ir dalį Podolės."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
-  pagrindžia:
-    - c-176209
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Kojelavičius vaizduoja imperatorių Zigmantą kaip mėginusį supriešinti lenkus ir lietuvius, siūlant Jogailai teises į Galičą ir dalį Podolės.'
@@ -119,5 +104,21 @@ Kojelavičius vaizduoja imperatorių Zigmantą kaip mėginusį supriešinti lenk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-193529"></a>
+- t-001
+  teiginys: "Kojelavičius vaizduoja imperatorių Zigmantą kaip mėginusį supriešinti lenkus ir lietuvius, siūlant Jogailai teises į Galičą ir dalį Podolės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:01Z"
+  pagrindžia:
+    - c-176209
+

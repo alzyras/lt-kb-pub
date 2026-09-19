@@ -66,3 +66,31 @@ Nenurodyta
 ## Santrauka
 
 Nenurodyta
+
+## Citatos
+
+- id: c-187836
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 465"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 465."
+  citata_originali: |
+    Apie tai žemiau
+    pateikiame stebėjimus.
+    Vytis, daiktavardis, kilęs nuo žodžio wie, wiję, savo
+    tiesiogine reikšme žymi žalio medžio rykštę — miklią,
+    lanksčią, tinkamą kam nors apvyti, apsukti, taip pat reiš­
+    kia kartį — ilgą, nestorą. Kada tautos valdovas — ku­
+    nigaikštis arba karalius — išsiųsdavo vyčius kviesti liau­
+    dies kariuomenės arba kada norėdavo per vyčius perspėti
+    tautą apie būtinumą gintis nuo netikėto priešų antpuolio
+    ar įsiveržimo, nieko kito nedarydavo tais senais laikais,
+    tik įsakydavo išstatyti tikrus telegrafus ant vyčių iškilio­
+    se ir atvirose vietovėse.
+  citata_rodoma: "Kada tautos valdovas — ku­\nnigaikštis arba karalius — išsiųsdavo vyčius kviesti liau­\ndies kariuomenės arba kada norėdavo per vyčius perspėti \ntautą apie būtinumą gintis nuo netikėto priešų antpuolio \nar įsiveržimo, nieko kito nedarydavo tais senais laikais, \ntik įsakydavo išstatyti tikrus telegrafus ant vyčių iškilio­\nse ir atvirose vietovėse."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+

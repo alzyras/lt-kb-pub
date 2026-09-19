@@ -43,23 +43,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-204132"></a>
-- t-001
-  teiginys: "Po 1549 m. užsitęsusių Užgavėnių linksmybių Žygimantas Augustas su Barbora Radvilaite ir dvariškiais jau kitą dieną išvyko medžioti."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  temporaliniai_duomenys: "įvykio data: po 1549 m.; įvykio data: 1549 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir atitinka citatoje nurodytą Žygimanto Augusto, Barboros Radvilaitės bei dvariškių išvykimą medžioti kitą dieną. Papildomų aplinkybių nepridėta."
-  pagrindžia:
-    - c-186759
-
 ## Santrauka
 
 Po 1549 m. užsitęsusių Užgavėnių linksmybių Žygimantas Augustas su Barbora Radvilaite ir dvariškiais jau kitą dieną išvyko medžioti.
@@ -89,5 +72,23 @@ Po 1549 m. užsitęsusių Užgavėnių linksmybių Žygimantas Augustas su Barbo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204132"></a>
+- t-001
+  teiginys: "Po 1549 m. užsitęsusių Užgavėnių linksmybių Žygimantas Augustas su Barbora Radvilaite ir dvariškiais jau kitą dieną išvyko medžioti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: po 1549 m.; įvykio data: 1549 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir atitinka citatoje nurodytą Žygimanto Augusto, Barboros Radvilaitės bei dvariškių išvykimą medžioti kitą dieną. Papildomų aplinkybių nepridėta."
+  pagrindžia:
+    - c-186759
+

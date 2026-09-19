@@ -32,21 +32,6 @@ media_all_json: |-
 
 Polski słownik biograficzny cituojamas dėl Jono Goštauto pirmojo figūravimo Vilniaus vaivada 1443 m. lapkričio 23 d.
 
-## Teiginiai
-
-<a id="claim-t-194161"></a>
-- t-001
-  teiginys: "Polski słownik biograficzny cituojamas dėl Jono Goštauto pirmojo figūravimo Vilniaus vaivada 1443 m. lapkričio 23 d."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-176774
-
 ## Citatos
 
 - id: c-176774
@@ -62,5 +47,36 @@ Polski słownik biograficzny cituojamas dėl Jono Goštauto pirmojo figūravimo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-193111
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 287"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 287."
+  citata_originali: |
+    '° Jonas Goštautas pirmą kartą kaip Vilniaus vaivada figūruo­
+    ja 1443.11!.23 (Polski slownik blograficzny. t. VU/4, sąs. 34. p. 297).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-210599"></a>
+- t-001
+  teiginys: "Polski słownik biograficzny cituojamas dėl Jono Goštauto pirmojo figūravimo Vilniaus vaivada 1443 m. lapkričio 23 d."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-193111
+

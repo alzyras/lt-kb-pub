@@ -39,20 +39,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-201389"></a>
-- t-001
-  teiginys: "Vyriškieji vienais žirgais terūpinos, kuriuos jau namuose, jau medėse augindami karėn skudri no; visas turtas senųjų žemaičių buvo žirgas ir gink las, kuriuo jie džiaugės ir didžiavos, ką šiandien dar Lietuvos ir Žemaičių dainės tebstigavoja, ku riose žirgas."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184739
-
 ## Citatos
 
 - id: c-184739
@@ -84,5 +70,20 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201389"></a>
+- t-001
+  teiginys: "Vyriškieji vienais žirgais terūpinos, kuriuos jau namuose, jau medėse augindami karėn skudri no; visas turtas senųjų žemaičių buvo žirgas ir gink las, kuriuo jie džiaugės ir didžiavos, ką šiandien dar Lietuvos ir Žemaičių dainės tebstigavoja, ku riose žirgas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184739
+

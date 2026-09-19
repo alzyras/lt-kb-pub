@@ -39,20 +39,6 @@ canonical_biography: "Abraomas Kulvietis dar išleido keletą kitų reikalingų 
 
 Abraomas Kulvietis dar išleido keletą kitų reikalingų tikybinių knygučių. Jas rašė Rapagelionis, Kulvietis, Mažvydas, Bretkūnas ir daug kitų lietuvių; daugelis jų buvo kilę iš Didžiosios Lietuvos, kur irgi buvo skleidę protestantizmą.
 
-## Teiginiai
-
-<a id="claim-t-193709"></a>
-- t-001
-  teiginys: "Kulvietis įkūrė mokyklą kilmingai jaunuomenei, kurioje mokėsi 60 mokinių, sakė pamokslus, kritikuojančius Katalikų bažnyčią, ir patraukė į savo pusę daug žmonių, o 1542 m. turėjo emigruoti į protestantiškąją (nuo 1525 m.) Prūsiją, kur jį priglobė kunigaikštis."
-  atnaujinta: "2026-07-06 12:55"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-176378
-
 ## Citatos
 
 - id: c-176378
@@ -82,5 +68,20 @@ Abraomas Kulvietis dar išleido keletą kitų reikalingų tikybinių knygučių.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-193709"></a>
+- t-001
+  teiginys: "Kulvietis įkūrė mokyklą kilmingai jaunuomenei, kurioje mokėsi 60 mokinių, sakė pamokslus, kritikuojančius Katalikų bažnyčią, ir patraukė į savo pusę daug žmonių, o 1542 m. turėjo emigruoti į protestantiškąją (nuo 1525 m.) Prūsiją, kur jį priglobė kunigaikštis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-176378
+

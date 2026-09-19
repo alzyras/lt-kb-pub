@@ -32,21 +32,6 @@ media_all_json: |-
 
 1392 m. gegužės 8 d. Lenkijos Karalystės senatas laiške kaltino didįjį magistrą prieštaraujant jo paties pareiškimams ir pastangoms siekti Lenkijos Karūnos draugystės.
 
-## Teiginiai
-
-<a id="claim-t-207066"></a>
-- t-001
-  teiginys: "1392 m. gegužės 8 d. Lenkijos Karalystės senatas laiške kaltino didįjį magistrą prieštaraujant jo paties pareiškimams ir pastangoms siekti Lenkijos Karūnos draugystės."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189681
-
 ## Citatos
 
 - id: c-189681
@@ -71,5 +56,21 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-207066"></a>
+- t-001
+  teiginys: "1392 m. gegužės 8 d. Lenkijos Karalystės senatas laiške kaltino didįjį magistrą prieštaraujant jo paties pareiškimams ir pastangoms siekti Lenkijos Karūnos draugystės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189681
+

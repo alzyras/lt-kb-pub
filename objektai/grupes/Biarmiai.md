@@ -27,83 +27,6 @@ media_all_json: |-
 
 Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos šaka, besiskiriančia tarme, papročiais ir fizionomija. Narbutas rašė, kad iki vikingų atsikraustymo į Didįjį Naugardą Biarmija, palaikydama ryšius su Naugardo slavais, sudarė atskirą valstybę. Narbutas iš skandinavų legendų ir fragmentiškų paminėjimų sprendė, kad Biarmija buvo turtinga ir turėjo daug brangiųjų metalų.
 
-## Teiginiai
-
-<a id="claim-t-189430"></a>
-- t-001
-  teiginys: "Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos šaka, besiskiriančia tarme, papročiais ir fizionomija."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "priklause -> Slavai: 0.84"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Biarmiai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Slavai: llm_allowed_candidate, group"
-  ryšio_paaiskinimas: "Biarmiai apibūdinti kaip atskira šiaurės slavų šeimos šaka."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Biarmiai priklausė Slavai (0.84)"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-172317
-
-<a id="claim-t-189431"></a>
-- t-002
-  teiginys: "Narbutas rašė, kad iki vikingų atsikraustymo į Didįjį Naugardą Biarmija, palaikydama ryšius su Naugardo slavais, sudarė atskirą valstybę."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "keliavo_i -> Naugardas: 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vikingai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Naugardas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Formuluotė tiesiogiai nurodo vikingų atsikraustymą į Naugardą."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  semantiniai_rysiai: "Vikingai keliavo į Naugardas (0.86)"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-172318
-
-<a id="claim-t-189434"></a>
-- t-003
-  teiginys: "Narbutas šventąjį Steponą, Permės vyskupą, vadino tikruoju Biarmijos apaštalu ir siejo su Biarmijos krikščionėjimu."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Biarmija: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Biarmiai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Biarmija: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Biarmiai\" parinktas kaip owner_note_path. Targetas \"Biarmija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-172321
-
-<a id="claim-t-189435"></a>
-- t-004
-  teiginys: "Narbutas teigė, kad biarmiai nuo senų laikų turėjo savo raidyną, gerokai ankstesnį už XI amžių."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-172322
-
 ## Reikšmingi paminėjimai
 - c-003
   santrauka: 'Narbutas iš skandinavų legendų ir fragmentiškų paminėjimų sprendė, kad Biarmija buvo turtinga ir turėjo daug brangiųjų metalų.'
@@ -179,8 +102,6 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-172318
   autorius: "Teodoras Narbutas"
@@ -208,8 +129,6 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-172321
   autorius: "Teodoras Narbutas"
@@ -232,8 +151,6 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-172322
   autorius: "Teodoras Narbutas"
@@ -253,5 +170,70 @@ Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+
+- id: c-201201
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 435"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 435."
+  citata_originali: |
+    Pagaliau atsirado tikrasis Biarmijos apaštalas -
+    šventasis Steponas, Permės vyskupas, išmintingas, pamaldus,
+    kupinas žmoniškumo ir žmogaus širdies supratimo. Davęs
+    žmonėms pažinti savo dorybes ir užsitarnavęs jų meile, nie­
+    kuo neįžeisdamas čiabuvių tautos, nors pats buvo rusas, jis
+    taip sėkmingai pakreipė dalykų eigą, kad visa senovinė Biar­
+    mija priėmė Kristaus tikėjimo šviesą be pasipriešinimo ir no­
+    riai. Tai jis pirmasis rašė maldaknyges ir šventąją evangeliją
+    biarmiškomis raidėmis; tai buvo vienas veiksmingiausių būdų
+    sušvelninti rūsčią tautą, aistringai mylinčią savo tėvynę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-216671"></a>
+- t-001
+  teiginys: "Narbutas šventąjį Steponą, Permės vyskupą, vadino tikruoju Biarmijos apaštalu ir siejo su Biarmijos krikščionėjimu."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Biarmija: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Biarmiai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Biarmija: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Biarmiai\" parinktas kaip owner_note_path. Targetas \"Biarmija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-201201
+
+<a id="claim-t-220095"></a>
+- t-002
+  teiginys: "Narbutas biarmius, arba permius, laikė savita didelės šiaurės slavų šeimos šaka, besiskiriančia tarme, papročiais ir fizionomija."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "priklause -> Slavai: 0.84"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Biarmiai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Slavai: llm_allowed_candidate, group"
+  ryšio_paaiskinimas: "Biarmiai apibūdinti kaip atskira šiaurės slavų šeimos šaka."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  semantiniai_rysiai: "Biarmiai priklausė Slavai (0.84)"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+

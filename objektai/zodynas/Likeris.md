@@ -51,18 +51,6 @@ Likeris šiame šaltinyje reiškia saldžią degtinę, kuri aprašoma kaip iki t
 
 Terminas vartojamas blaivybės ir gėrimo grįžimo kontekste.
 
-## Teiginiai
-
-<a id="claim-t-203057"></a>
-- t-001
-  teiginys: "„Mūsų tautosakoje“ rašoma, kad žydai ėmė sakyti, jog likeris yra ne degtinė, bet vynas."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "gap::vocabulary"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-178024
-
 ## Citatos
 
 - id: c-178024
@@ -85,5 +73,18 @@ Terminas vartojamas blaivybės ir gėrimo grįžimo kontekste.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203057"></a>
+- t-001
+  teiginys: "„Mūsų tautosakoje“ rašoma, kad žydai ėmė sakyti, jog likeris yra ne degtinė, bet vynas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::vocabulary"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-178024
+

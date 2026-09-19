@@ -28,34 +28,6 @@ Pasak Teodoro Narbuto, Kęstutis, gelbėdamas tėvynę nuo kryžiuočių, neįve
 
 Pasak Teodoro Narbuto, Kęstutis, gelbėdamas tėvynę nuo kryžiuočių, neįvertino Vaidilos šalininkų ir įsakė Vaidilą pakarti, taip suteikdamas jiems argumentą veikti prieš kunigaikštį. Pasak Teodoro Narbuto, Jogaila, pasidavęs Vaidilienės grupuotės įtakai, siekė vienvaldystės, o smurtas prieš kunigaikščio šalininkus Lietuvos didikams sukėlė teroro baimę.
 
-## Teiginiai
-
-<a id="claim-t-206677"></a>
-- t-001
-  teiginys: "Pasak Teodoro Narbuto, Kęstutis, gelbėdamas tėvynę nuo kryžiuočių, neįvertino Vaidilos šalininkų ir įsakė Vaidilą pakarti, taip suteikdamas jiems argumentą veikti prieš kunigaikštį."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-189292
-
-<a id="claim-t-206678"></a>
-- t-002
-  teiginys: "Pasak Teodoro Narbuto, Jogaila, pasidavęs Vaidilienės grupuotės įtakai, siekė vienvaldystės, o smurtas prieš kunigaikščio šalininkus Lietuvos didikams sukėlė teroro baimę."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-189293
-
 ## Citatos
 
 - id: c-189292
@@ -76,7 +48,7 @@ Pasak Teodoro Narbuto, Kęstutis, gelbėdamas tėvynę nuo kryžiuočių, neįve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189293
@@ -98,5 +70,34 @@ Pasak Teodoro Narbuto, Kęstutis, gelbėdamas tėvynę nuo kryžiuočių, neįve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-206677"></a>
+- t-001
+  teiginys: "Pasak Teodoro Narbuto, Kęstutis, gelbėdamas tėvynę nuo kryžiuočių, neįvertino Vaidilos šalininkų ir įsakė Vaidilą pakarti, taip suteikdamas jiems argumentą veikti prieš kunigaikštį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-189292
+
+<a id="claim-t-206678"></a>
+- t-002
+  teiginys: "Pasak Teodoro Narbuto, Jogaila, pasidavęs Vaidilienės grupuotės įtakai, siekė vienvaldystės, o smurtas prieš kunigaikščio šalininkus Lietuvos didikams sukėlė teroro baimę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-189293
+

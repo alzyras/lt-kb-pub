@@ -35,155 +35,6 @@ canonical_biography: "Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš 
 
 Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės šventyklą ir Krivių Krivaitį laikė gotų ar Skandinavijos švedų papročio sekimu. Žinią apie vyriausiuosius žy nius jis, be abejo, paėmė iš vyskupo Kristijono kronikos, nes nėra pagrindo tvirtinti, kad anoje kronikoje to nebuvo, ka dangi numylėtinis Lukas Davidas būtų iš jos paėmęs tą patį. Luko Davido kronikos leidimo prierašai.
 
-## Teiginiai
-
-<a id="claim-t-190318"></a>
-- t-001
-  teiginys: "Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės šventyklą ir Krivių Krivaitį laikė gotų ar Skandinavijos švedų papročio sekimu."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Gotai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Lukas Davidas: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Gotai: mention_match, group, gap=34"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lukas Davidas\" parinktas kaip owner_note_path. Targetas \"Gotai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
-  pagrindžia:
-    - c-173201
-
-<a id="claim-t-194666"></a>
-- t-002
-  teiginys: "Žinią apie vyriausiuosius žy nius jis, be abejo, paėmė iš vyskupo Kristijono kronikos, nes nėra pagrindo tvirtinti, kad anoje kronikoje to nebuvo, ka dangi numylėtinis Lukas Davidas būtų iš jos paėmęs tą patį."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-177063
-
-<a id="claim-t-194884"></a>
-- t-003
-  teiginys: "Luko Davido kronikos leidimo prierašai."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-177280
-
-<a id="claim-t-205163"></a>
-- t-004
-  teiginys: "Kunigaikštis Andislavas (Andislaus) — kaip jį vadina Lukas Davidas, o kitas kronikininkas nu rodo jį buvus vardu Anthones, Antonos, Antonius — iš siuntė pasiuntinius, reikalaudamas duoklės, kurią buvo lilkę skolingi."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-187870
-
-<a id="claim-t-205350"></a>
-- t-005
-  teiginys: "Luko Davido kronika Narbuto pateikiama kaip žinių apie senovinius įstatymus ir papročius šaltinis."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-187813
-
-<a id="claim-t-205380"></a>
-- t-006
-  teiginys: "Lukas Davidas šiek tiek pataisė Grunau piešinį."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-188077
-
-<a id="claim-t-205504"></a>
-- t-007
-  teiginys: "Sį 'krašto padalijimą plačiai aprašė Grunau ir Lukas Davidas, ku rie, pasak p. Foigto3, neklydo suradę kažką panašaus vyskupo Kristijono kronikoje."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-188143
-
-<a id="claim-t-205532"></a>
-- t-008
-  teiginys: "Luko Davido kronikoje aptariamas įrašas pateiktas žodis į žodį iš Grunau kronikos."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-187929
-
-<a id="claim-t-205572"></a>
-- t-009
-  teiginys: "Lukas Davidas, tą liudydamas, ¡pasakoja apie Sambijos kunigaikštį Dorgą, kuris negalėjo laikyti baltų žirgų, o kai vienas žymus pareigūnas, vokietis, Sam bijos vyskupo advokatas, norėjo tuo įsitikinti, pikti dievai uždusino ¡kunigaikščio Dorgo pilyje ano."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
-  pagrindžia:
-    - c-188006
-
-<a id="claim-t-206230"></a>
-- t-010
-  teiginys: "Lukas Davidas 1573–1582 metais parašė dešimties tomų „Prūsijos kroniką“."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-188845
-
-<a id="claim-t-206231"></a>
-- t-011
-  teiginys: "Teodoras Narbutas Luką Davidą vadina teisingiausiu ir nešališkiausiu iš kronikininkų, tinkamai įvertinusiu Kęstutį."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
-  pagrindžia:
-    - c-188846
-
 ## Citatos
 
 - id: c-173201
@@ -203,8 +54,6 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-177063
   autorius: "Teodoras Narbutas"
@@ -233,8 +82,6 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-177280
   autorius: "Teodoras Narbutas"
@@ -251,8 +98,6 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-187813
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -271,8 +116,8 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-205350
 
 - id: c-187870
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -300,8 +145,8 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-205163
 
 - id: c-187929
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -322,8 +167,8 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
+  pagrindžia:
+    - t-205532
 
 - id: c-188006
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -344,8 +189,8 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
+  pagrindžia:
+    - t-205572
 
 - id: c-188077
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -368,8 +213,8 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-205380
 
 - id: c-188143
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -388,8 +233,8 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-205504
 
 - id: c-188845
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -402,8 +247,8 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-010
+  pagrindžia:
+    - t-206230
 
 - id: c-188846
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -419,5 +264,195 @@ Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės švent
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-011
+  pagrindžia:
+    - t-206231
+
+- id: c-199405
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 415"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 415."
+  citata_originali: |
+    Prie šių svetimų įrodymų galima būtų pridurti dar kitus,
+    išplaukiančius iš paties dalyko. Lukas Davidas, kuris prūsus
+    kildina iš gotų, mano, kad Romonės šventyklos įkūrimas su
+    vyriausiuoju žyniu Krivių Krivaičiu yra tiesioginis sekimas go­
+    tų arba Skandinavijos švedų papročiu. Iš tikrųjų Skandinavi­
+    joje randame atitikmens pėdsaką.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+- id: c-199770
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 432"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 432."
+  citata_originali: |
+    Žinią apie vyriausiuosius žy­
+    nius jis, be abejo, paėmė iš vyskupo Kristijono kronikos, nes
+    nėra pagrindo tvirtinti, kad anoje kronikoje to nebuvo, ka­
+    dangi numylėtinis Lukas Davidas būtų iš jos paėmęs tą patį.
+    Bet kur įrodymas, kad Lukas Davidas turėjo rankose visą vys­
+    kupo kroniką, jeigu pats ponas Foigtas mums aiškina16, kad
+    Karaliaučiaus bibliotekoje, kuri buvo prieinama tam kroniki­
+    ninkui, buvo tik ištraukų iš tos kronikos; tarp likusių po Luko
+    Davido mirties rankraščių net rasti išrašų iš jos likučiai. Betgi
+    Pretorijus ir Johanas Leo, Gutštato kanauninkas, ir Flenen-
+    bergeris pirmasis, kaip jis pats prisipažįsta, o kiti pagal mato­
+    mus požymius, kaip savo tyrimo šaltinį turėjo ne tik vyskupo
+    Kristijono kroniką, bet ir kitus šaltinius, vienalaikius su ja ar­
+    ba kiek vėlesnius, tačiau ankstesnius už Dusburgietį; abu kal­
+    ba apie tuos pačius vyriausiuosius žynius net plačiau ir su ge­
+    rokai išsamesniais paaiškinimais negu Simonas Grunau17.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Teiginiai
+
+<a id="claim-t-219345"></a>
+- t-001
+  teiginys: "Narbutas nurodo, kad Lukas Davidas, prūsus kildinęs iš gotų, Romonės šventyklą ir Krivių Krivaitį laikė gotų ar Skandinavijos švedų papročio sekimu."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Gotai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Lukas Davidas: owner_note_path, author, gap=0"
+  ryšio_targeto_parinkimas: "Gotai: mention_match, group, gap=34"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Lukas Davidas\" parinktas kaip owner_note_path. Targetas \"Gotai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
+  pagrindžia:
+    - c-199405
+
+<a id="claim-t-219831"></a>
+- t-002
+  teiginys: "Žinią apie vyriausiuosius žy nius jis, be abejo, paėmė iš vyskupo Kristijono kronikos, nes nėra pagrindo tvirtinti, kad anoje kronikoje to nebuvo, ka dangi numylėtinis Lukas Davidas būtų iš jos paėmęs tą patį."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-199770
+
+<a id="claim-t-205163"></a>
+- t-205163
+  teiginys: "Kunigaikštis Andislavas (Andislaus) — kaip jį vadina Lukas Davidas, o kitas kronikininkas nu rodo jį buvus vardu Anthones, Antonos, Antonius — iš siuntė pasiuntinius, reikalaudamas duoklės, kurią buvo lilkę skolingi."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187870
+
+<a id="claim-t-205350"></a>
+- t-205350
+  teiginys: "Luko Davido kronika Narbuto pateikiama kaip žinių apie senovinius įstatymus ir papročius šaltinis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187813
+
+<a id="claim-t-205380"></a>
+- t-205380
+  teiginys: "Lukas Davidas šiek tiek pataisė Grunau piešinį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188077
+
+<a id="claim-t-205504"></a>
+- t-205504
+  teiginys: "Sį 'krašto padalijimą plačiai aprašė Grunau ir Lukas Davidas, ku rie, pasak p. Foigto3, neklydo suradę kažką panašaus vyskupo Kristijono kronikoje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-188143
+
+<a id="claim-t-205532"></a>
+- t-205532
+  teiginys: "Luko Davido kronikoje aptariamas įrašas pateiktas žodis į žodį iš Grunau kronikos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-187929
+
+<a id="claim-t-205572"></a>
+- t-205572
+  teiginys: "Lukas Davidas, tą liudydamas, ¡pasakoja apie Sambijos kunigaikštį Dorgą, kuris negalėjo laikyti baltų žirgų, o kai vienas žymus pareigūnas, vokietis, Sam bijos vyskupo advokatas, norėjo tuo įsitikinti, pikti dievai uždusino ¡kunigaikščio Dorgo pilyje ano."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:37Z"
+  pagrindžia:
+    - c-188006
+
+<a id="claim-t-206230"></a>
+- t-206230
+  teiginys: "Lukas Davidas 1573–1582 metais parašė dešimties tomų „Prūsijos kroniką“."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188845
+
+<a id="claim-t-206231"></a>
+- t-206231
+  teiginys: "Teodoras Narbutas Luką Davidą vadina teisingiausiu ir nešališkiausiu iš kronikininkų, tinkamai įvertinusiu Kęstutį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-188846
+

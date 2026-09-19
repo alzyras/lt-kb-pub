@@ -24,20 +24,6 @@ media_all_json: |-
 
 Visos šios pareigos, išskyrus pastarąją (jos reikšmė išryškės šiek tiek vėliau), buvo vadinamosios tituliarinės, prestižinės.
 
-## Teiginiai
-
-<a id="claim-t-201816"></a>
-- t-001
-  teiginys: "Visos šios pareigos, išskyrus pastarąją (jos reikšmė išryškės šiek tiek vėliau), buvo vadinamosios tituliarinės, prestižinės."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185163
-
 ## Citatos
 
 - id: c-185163
@@ -55,5 +41,20 @@ Visos šios pareigos, išskyrus pastarąją (jos reikšmė išryškės šiek tie
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201816"></a>
+- t-001
+  teiginys: "Visos šios pareigos, išskyrus pastarąją (jos reikšmė išryškės šiek tiek vėliau), buvo vadinamosios tituliarinės, prestižinės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185163
+

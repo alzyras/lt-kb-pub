@@ -34,28 +34,6 @@ media_all_json: |-
 
 Vilniaus miesto reikšmė jau anais laikais buvo tokia didelė, kad lygia greta svarbiausių karalystės miestų, jam buvo leista laiduoti sutarties, sudarytos su kryžiuočiais (1422 metais) prie Osos upės, patikimumą77. Foe- [Amžinosios vienybės ir santarvės dus perpetuae pacis unionis et concortaikos sutartis tarp Lenkijos karaliaus dine inter Vladislaum Regem Poloniae Vladislovo ir Lietuvos kunigaikščio 151 ## Puslapis 168 VILNIAUS MIESTO ISTORIJA / TOMAS Lietuvos.
 
-## Teiginiai
-
-<a id="claim-t-88263"></a>
-- t-001
-  teiginys: "1422 m. Vilniui leista drauge su svarbiausiais karalystės miestais laiduoti prie Osos upės sudarytos sutarties su kryžiuočiais patikimumą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.55"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Čekai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Čekų pasiuntiniai kvietė Vytautą užimti sostą, todėl tai interpretuotina kaip politinis palaikymas."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Čekai rėmė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.55)"
-  temporaliniai_duomenys: "įvykio data: 1420 m.; įvykio data: 1422 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pašalintas vertinamasis perteklius ir paliktas citatos palaikomas faktas."
-  pagrindžia:
-    - c-84242
-
 ## Citatos
 
 - id: c-84242
@@ -83,5 +61,28 @@ Vilniaus miesto reikšmė jau anais laikais buvo tokia didelė, kad lygia greta 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-88263"></a>
+- t-001
+  teiginys: "1422 m. Vilniui leista drauge su svarbiausiais karalystės miestais laiduoti prie Osos upės sudarytos sutarties su kryžiuočiais patikimumą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "reme -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.55"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Čekai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Čekų pasiuntiniai kvietė Vytautą užimti sostą, todėl tai interpretuotina kaip politinis palaikymas."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Čekai rėmė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.55)"
+  temporaliniai_duomenys: "įvykio data: 1420 m.; įvykio data: 1422 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pašalintas vertinamasis perteklius ir paliktas citatos palaikomas faktas."
+  pagrindžia:
+    - c-84242
+

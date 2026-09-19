@@ -39,20 +39,6 @@ canonical_biography: "1627 m. Kauno suolininkas Martynas Slaveckis skundėsi Kau
 
 1627 m. Kauno suolininkas Martynas Slaveckis skundėsi Kauno vaitui, kad upėje palikta į Aleksotą neiškelta Henriko Bantkės vytinė, potvynio metu upės nešama, nevaldoma sugriovė dalį Nemuno krantinės.
 
-## Teiginiai
-
-<a id="claim-t-202146"></a>
-- t-001
-  teiginys: "1627 m. Kauno suolininkas Martynas Slaveckis skundėsi Kauno vaitui, kad upėje palikta į Aleksotą neiškelta Henriko Bantkės vytinė, potvynio metu upės nešama, nevaldoma sugriovė dalį Nemuno krantinės."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185493
-
 ## Citatos
 
 - id: c-185493
@@ -72,5 +58,20 @@ canonical_biography: "1627 m. Kauno suolininkas Martynas Slaveckis skundėsi Kau
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202146"></a>
+- t-001
+  teiginys: "1627 m. Kauno suolininkas Martynas Slaveckis skundėsi Kauno vaitui, kad upėje palikta į Aleksotą neiškelta Henriko Bantkės vytinė, potvynio metu upės nešama, nevaldoma sugriovė dalį Nemuno krantinės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185493
+

@@ -26,26 +26,6 @@ media_all_json: |-
 
 Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi giesmių knygas, kurios ėjo pagrindu vėlesnėms lietuvių liuterionių giesmynų laidoms. Kleino giesmynas.
 
-## Teiginiai
-
-<a id="claim-t-67364"></a>
-- t-001
-  teiginys: "D. Kleino giesmynas datuojamas 1666 metais."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67303
-
-<a id="claim-t-67365"></a>
-- t-002
-  teiginys: "1666 m. D. Kleinas išleido dvi giesmių knygas, tapusias pagrindu vėlesnėms lietuvių liuterionių giesmynų laidoms."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67302
-
 ## Citatos
 
 - id: c-67302
@@ -68,7 +48,7 @@ Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi gi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-67303
@@ -83,5 +63,26 @@ Kleinas išleido net pirmąją lietuvių kalbos gramatiką, o 1666 m. — dvi gi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-67364"></a>
+- t-001
+  teiginys: "D. Kleino giesmynas datuojamas 1666 metais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67303
+
+<a id="claim-t-67365"></a>
+- t-002
+  teiginys: "1666 m. D. Kleinas išleido dvi giesmių knygas, tapusias pagrindu vėlesnėms lietuvių liuterionių giesmynų laidoms."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67302
+

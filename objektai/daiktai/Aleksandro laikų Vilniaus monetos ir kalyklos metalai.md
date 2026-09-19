@@ -72,9 +72,9 @@ Nenurodyta
     - c-83050
 
 <a id="claim-t-87071"></a>
-- t-002
+- t-87071
   teiginys: "Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla veikė vis energingiau ir teikė nemaža pajamų karaliaus iždui."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilniaus monetų kalykla: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -110,8 +110,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-87071
 
 - id: c-83050
   autorius: "Michał Baliński"
@@ -140,9 +140,11 @@ Nenurodyta
     toją ir vaistinę, nors nuolat veikianti vaistinė, kaip pamatysi­
     me vėliau, buvo įsteigta tik Žygimanto Senojo laikais.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

@@ -27,25 +27,6 @@ media_all_json: |-
 
 Dobrynės ir Žemaičių kraštų sienos buvo paliktos nustatyti abiejų pusių pasirinktiems arbitrams, o didesniuose nesusipratimuose nutar­ ta kreiptis į popiežių, kaip į superarbitrų^2 ).
 
-## Teiginiai
-
-<a id="claim-t-36837"></a>
-- t-001
-  teiginys: "Didesniuose ginčuose buvo nutarta kreiptis į popiežių kaip į superarbitrą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.86"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Žemaitija: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Žemaitija buvo atiduota Vytautui, todėl galima fiksuoti priklausymo ryšį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Žemaitija priklausė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.86)"
-  pagrindžia:
-    - c-38762
-
 ## Citatos
 
 - id: c-38762
@@ -71,5 +52,25 @@ Dobrynės ir Žemaičių kraštų sienos buvo paliktos nustatyti abiejų pusių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-36837"></a>
+- t-001
+  teiginys: "Didesniuose ginčuose buvo nutarta kreiptis į popiežių kaip į superarbitrą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.86"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Žemaitija: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad Žemaitija buvo atiduota Vytautui, todėl galima fiksuoti priklausymo ryšį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Žemaitija priklausė Vytautas (Lietuvos valdovas, XIV–XV a.) (0.86)"
+  pagrindžia:
+    - c-38762
+

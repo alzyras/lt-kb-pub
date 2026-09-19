@@ -37,45 +37,6 @@ historical_names: []
 
 Rusijoje, Jaroslavlio gubernijoje, Nera, arba Ve ra ežeras, kurio perimetras 10 mylių, nulieja vandenis į Volgą.
 
-## Teiginiai
-
-<a id="claim-t-197487"></a>
-- t-001
-  teiginys: "Rusijoje, Jaroslavlio gubernijoje, Nera, arba Ve ra ežeras, kurio perimetras 10 mylių, nulieja vandenis į Volgą."
-  atnaujinta: "2026-07-12 22:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  pagrindžia:
-    - c-179217
-
-<a id="claim-t-205150"></a>
-- t-002
-  teiginys: "Pasak teksto, prie Žaslių ežero virš Kerniaus pelenų buvo supiltas kauburys ir augo šventa giria."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
-  pagrindžia:
-    - c-188103
-
-<a id="claim-t-205181"></a>
-- t-003
-  teiginys: "Žaslių ežeras lokalizuojamas Trakų apskrityje, prie Žaslių vietovės, netoli Kernavės."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-188019
-
 ## Citatos
 
 - id: c-179217
@@ -93,8 +54,6 @@ Rusijoje, Jaroslavlio gubernijoje, Nera, arba Ve ra ežeras, kurio perimetras 10
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-188019
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -112,8 +71,8 @@ Rusijoje, Jaroslavlio gubernijoje, Nera, arba Ve ra ežeras, kurio perimetras 10
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-205181
 
 - id: c-188103
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -132,5 +91,64 @@ Rusijoje, Jaroslavlio gubernijoje, Nera, arba Ve ra ežeras, kurio perimetras 10
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-205150
+
+- id: c-200771
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 231"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 231."
+  citata_originali: |
+    Lenkijoje Neras (Nėr) įteka į Vartą prie Chelmo. Italijoje,
+    Bažnyčios valstybėje, Nera įteka į Tiberį. Vengrijoje Nera įte­
+    ka į Temezą. Rusijoje, Jaroslavlio gubernijoje, Nera, arba Ve­
+    ra ežeras, kurio perimetras 10 mylių, nulieja vandenis į Volgą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-216017"></a>
+- t-001
+  teiginys: "Rusijoje, Jaroslavlio gubernijoje, Nera, arba Ve ra ežeras, kurio perimetras 10 mylių, nulieja vandenis į Volgą."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-200771
+
+<a id="claim-t-205150"></a>
+- t-205150
+  teiginys: "Pasak teksto, prie Žaslių ežero virš Kerniaus pelenų buvo supiltas kauburys ir augo šventa giria."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:41Z"
+  pagrindžia:
+    - c-188103
+
+<a id="claim-t-205181"></a>
+- t-205181
+  teiginys: "Žaslių ežeras lokalizuojamas Trakų apskrityje, prie Žaslių vietovės, netoli Kernavės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-188019
+

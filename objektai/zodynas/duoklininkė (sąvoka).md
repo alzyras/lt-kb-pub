@@ -39,21 +39,6 @@ Per šiuos ir panašius užka riavimus Latgala XII amžiuje buvo tapusi Rusios k
 
 Per šiuos ir panašius užka riavimus Latgala XII amžiuje buvo tapusi Rusios kuni gaikščio, viešpatavusio Polocke, duoklininke, tad tokią ją rado 1158 metais į tą kraštą atsidanginę vokiečiai.
 
-## Teiginiai
-
-<a id="claim-t-205324"></a>
-- t-001
-  teiginys: "Per šiuos ir panašius užka riavimus Latgala XII amžiuje buvo tapusi Rusios kuni gaikščio, viešpatavusio Polocke, duoklininke, tad tokią ją rado 1158 metais į tą kraštą atsidanginę vokiečiai."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:42Z"
-  pagrindžia:
-    - c-188051
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Per šiuos ir panašius užka riavimus Latgala XII amžiuje buvo tapusi Rusios kuni gaikščio, viešpatavusio Polocke, duoklininke, tad tokią ją rado 1158 metais į tą kraštą atsidanginę vokiečiai.'
@@ -91,5 +76,21 @@ Per šiuos ir panašius užka riavimus Latgala XII amžiuje buvo tapusi Rusios k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205324"></a>
+- t-001
+  teiginys: "Per šiuos ir panašius užka riavimus Latgala XII amžiuje buvo tapusi Rusios kuni gaikščio, viešpatavusio Polocke, duoklininke, tad tokią ją rado 1158 metais į tą kraštą atsidanginę vokiečiai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:42Z"
+  pagrindžia:
+    - c-188051
+

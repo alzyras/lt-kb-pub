@@ -44,32 +44,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-201904"></a>
-- t-001
-  teiginys: "Šio konflikto turinys nėra žinomas, bet jau kitais 1520 m. Vilniuje apsilankęs popiežiaus legatas Zacharias Ferreri gavo Vilniaus miestiečio Jono Tichio (Czuchi) skundą, kuriame buvo kaltinami Kauno bernardinai, apgaule išgabenę į Lenkiją daug brangenybių."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185251
-
-<a id="claim-t-201905"></a>
-- t-002
-  teiginys: "Popiežiaus legatas bylą išsprendė bernardinų naudai, bet pateikus apeliaciją ji atsidūrė Žygimanto Senojo teisme."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185252
-
 ## Citatos
 
 - id: c-185251
@@ -89,7 +63,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185252
@@ -107,5 +81,32 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-201904"></a>
+- t-001
+  teiginys: "Šio konflikto turinys nėra žinomas, bet jau kitais 1520 m. Vilniuje apsilankęs popiežiaus legatas Zacharias Ferreri gavo Vilniaus miestiečio Jono Tichio (Czuchi) skundą, kuriame buvo kaltinami Kauno bernardinai, apgaule išgabenę į Lenkiją daug brangenybių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185251
+
+<a id="claim-t-201905"></a>
+- t-002
+  teiginys: "Popiežiaus legatas bylą išsprendė bernardinų naudai, bet pateikus apeliaciją ji atsidūrė Žygimanto Senojo teisme."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185252
+

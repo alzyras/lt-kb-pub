@@ -45,28 +45,6 @@ historical_names: []
 
 Tokiu nuolatinių kovų laiku augo Vytautas savo tėvo dva­ re Trakuose, todėl ir jo auklėjime turėjo vyrauti kariški dalykai, ir užtat nenuostabu, kad jis labai anksti (1368 m.) pradeda dalyvauti įvairiuose karo žygiuose: 1368 ir 1372 metais į Mask­ vos žemes.
 
-## Teiginiai
-
-<a id="claim-t-36398"></a>
-- t-001
-  teiginys: "Vytautas anksti pradėjo dalyvauti karo žygiuose: 1368 ir 1372 m. žygiavo į Maskvos žemes, o 1376 m. dalyvavo žygyje prieš lenkus."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "surenge_zygi_i -> Maskvos žemės: 0.90"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Maskvos žemės: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vytautas tiesiogiai nurodytas kaip dalyvavęs karo žygiuose į Maskvos žemes."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į Maskvos žemės (0.90); Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Lenkai (0.88)"
-  temporaliniai_duomenys: "įvykio data: 1362 m.; įvykio data: 1368 m.; įvykio data: 1372 m.; įvykio data: 1376 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai remiasi citatos duomenimis."
-  pagrindžia:
-    - c-38561
-
 ## Citatos
 
 - id: c-38561
@@ -94,8 +72,31 @@ Tokiu nuolatinių kovų laiku augo Vytautas savo tėvo dva­ re Trakuose, todėl
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 ## Ryšiai
 - Buvo žygio kryptis: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+
+## Teiginiai
+
+<a id="claim-t-36398"></a>
+- t-001
+  teiginys: "Vytautas anksti pradėjo dalyvauti karo žygiuose: 1368 ir 1372 m. žygiavo į Maskvos žemes, o 1376 m. dalyvavo žygyje prieš lenkus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "surenge_zygi_i -> Maskvos žemės: 0.90"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vytautas (Lietuvos valdovas, XIV–XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Maskvos žemės: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vytautas tiesiogiai nurodytas kaip dalyvavęs karo žygiuose į Maskvos žemes."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vytautas (Lietuvos valdovas, XIV–XV a.) surengė žygį į Maskvos žemės (0.90); Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Lenkai (0.88)"
+  temporaliniai_duomenys: "įvykio data: 1362 m.; įvykio data: 1368 m.; įvykio data: 1372 m.; įvykio data: 1376 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiksliai remiasi citatos duomenimis."
+  pagrindžia:
+    - c-38561
+

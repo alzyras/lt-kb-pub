@@ -34,20 +34,6 @@ Kęstutis ir Mazovijos kunigaikštis Ziemovitas 1358 m. rugpjūčio 13 d. Gardin
 
 Kęstutis ir Mazovijos kunigaikštis Ziemovitas 1358 m. rugpjūčio 13 d. Gardine sudarė transakcinę sutartį.
 
-## Teiginiai
-
-<a id="claim-t-207059"></a>
-- t-001
-  teiginys: "Kęstutis ir Mazovijos kunigaikštis Ziemovitas 1358 m. rugpjūčio 13 d. Gardine sudarė transakcinę sutartį."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189674
-
 ## Citatos
 
 - id: c-189674
@@ -66,5 +52,20 @@ Kęstutis ir Mazovijos kunigaikštis Ziemovitas 1358 m. rugpjūčio 13 d. Gardin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-207059"></a>
+- t-001
+  teiginys: "Kęstutis ir Mazovijos kunigaikštis Ziemovitas 1358 m. rugpjūčio 13 d. Gardine sudarė transakcinę sutartį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189674
+

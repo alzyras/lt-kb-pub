@@ -83,6 +83,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-177704
   autorius: "M. Katkus"
   šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
@@ -92,9 +93,11 @@ Nenurodyta
     Kiek kerdžius nusidėdavo ūkininkėms vasaros metu, reikalaudamas piemenų, tiek atitaisydavo santykius su jomis gani-mui pasibaigus — kiekvienai padirbdavo po kokį daikčiuką: kam dailų krepšelį, kam sėtuvę iš eglės šaknų, narvelį sūriams džiovinti, šaukštą, samtį, kaušą, lanktį...
   citata_rodoma: "Kiek kerdžius nusidėdavo ūkininkėms vasaros metu, reikalaudamas piemenų, tiek atitaisydavo santykius su jomis gani-mui pasibaigus — kiekvienai padirbdavo po kokį daikčiuką: kam dailų krepšelį, kam sėtuvę iš eglės šaknų, narvelį sūriams džiovinti, šaukštą, samtį, kaušą, lanktį..."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 01:46"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

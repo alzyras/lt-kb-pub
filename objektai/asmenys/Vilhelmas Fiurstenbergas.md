@@ -34,21 +34,6 @@ canonical_biography: "Karalius sutiko neprieštarauti taikai, jei magistras Vilh
 
 Karalius sutiko neprieštarauti taikai, jei magistras Vilhelmas Fiurstenbergas pats jos paprašys ir grąžins arkivyskupą į sostą.
 
-## Teiginiai
-
-<a id="claim-t-196627"></a>
-- t-001
-  teiginys: "Karalius sutiko neprieštarauti taikai, jei magistras Vilhelmas Fiurstenbergas pats jos paprašys ir grąžins arkivyskupą į sostą."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-169448
-
 ## Citatos
 
 - id: c-169448
@@ -75,5 +60,21 @@ Karalius sutiko neprieštarauti taikai, jei magistras Vilhelmas Fiurstenbergas p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-196627"></a>
+- t-001
+  teiginys: "Karalius sutiko neprieštarauti taikai, jei magistras Vilhelmas Fiurstenbergas pats jos paprašys ir grąžins arkivyskupą į sostą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-169448
+

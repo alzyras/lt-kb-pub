@@ -38,10 +38,58 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
 
 ## Teiginiai
 
+<a id="claim-t-210725"></a>
+- t-210725
+  teiginys: "Didysis kunigaikštis Skirmantas, surinkęs visas sa vo kariaunas, pasitiko juos Kaidanove l0, prie savo sie nos."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194008
+
+<a id="claim-t-211673"></a>
+- t-211673
+  teiginys: "Ir Šventaragiui gimė sūnus Skirmantas."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193608
+
+<a id="claim-t-211136"></a>
+- t-211136
+  teiginys: "Lietuvos metraštis nurodo, kad Skirmantas turėjo tris sūnus: Treniotą, Liubartą ir Pisimantą, o paskui mirė."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+
+<a id="claim-t-211205"></a>
+- t-211205
+  teiginys: "Lietuvos metraštis pasakoja, kad Skirmantas atsisakė Balaklajaus reikalautos duoklės ir liepė sužaloti chano pasiuntinius."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-193022
+
 <a id="claim-t-186014"></a>
-- t-001
+- t-186014
   teiginys: "Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -59,9 +107,9 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     - c-169375
 
 <a id="claim-t-186015"></a>
-- t-002
+- t-186015
   teiginys: "Artėjant Skirmantui, Mstislavas buvo priverstas sutraukti savo pulkus iš Bresto apylinkių kaimų į stovyklą."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -78,36 +126,10 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   pagrindžia:
     - c-169376
 
-<a id="claim-t-193983"></a>
-- t-003
-  teiginys: "Lietuvos metraštis pasakoja, kad Skirmantas atsisakė Balaklajaus reikalautos duoklės ir liepė sužaloti chano pasiuntinius."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-176608
-
-<a id="claim-t-193985"></a>
-- t-004
-  teiginys: "Lietuvos metraštis nurodo, kad Skirmantas turėjo tris sūnus: Treniotą, Liubartą ir Pisimantą, o paskui mirė."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-176610
-
 <a id="claim-t-201027"></a>
-- t-005
+- t-201027
   teiginys: "Ne trukus Mingaila kunigaikštis nustipo, palikdamas du sūnų karšinčiais — Ginvilą rėdytoju Polocko, o Skirmantą Naujapilio."
-  atnaujinta: "2026-07-16 14:31"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -118,9 +140,9 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     - c-184377
 
 <a id="claim-t-205384"></a>
-- t-006
+- t-205384
   teiginys: "Tai turėjo būti Algiman tas, Skirmanto anūkas."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -131,9 +153,9 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
     - c-187667
 
 <a id="claim-t-205507"></a>
-- t-007
+- t-205507
   teiginys: "Netrukus, 1175 metais1 2, sa vo gyvenimą baigė ir Skirmantas."
-  atnaujinta: "2026-08-11 18:54"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -142,6 +164,17 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
   pagrindžia:
     - c-188056
+
+<a id="claim-t-211744"></a>
+- t-211744
+  teiginys: "Lietuvos metraštis Skirmantui priskiria pergalę prieš chaną prie Kaidanovo ir Mozyriaus, Černigovo, Starodubo bei Karačevo paėmimą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -228,8 +261,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-186014
 
 - id: c-169376
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -269,8 +302,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-186015
 
 - id: c-176608
   autorius: "Anoniminis metraštininkas"
@@ -296,8 +329,6 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-176610
   autorius: "Anoniminis metraštininkas"
@@ -319,8 +350,6 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
 
 - id: c-184377
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -340,8 +369,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-201027
 
 - id: c-187667
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -356,8 +385,8 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-205384
 
 - id: c-188056
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -373,8 +402,76 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-205507
+
+- id: c-193022
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 47"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 47."
+  citata_originali: |
+    Parvykęs
+    pas savo tėvą, nebeilgai prie jo tegyveno, ir tėvas,
+    Lietuvos ir 2emaičių didysis kunigaikštis 2ivinbudas,
+    pasimirė, o jo sūnus Kukovaitis sėdo Lietuvos ir Že­
+    maičių Didžiosios Kunigaikštystės sostan.
+    Tuo metu Užvolgio chanu buvo chanas, vardu Ba-
+    laklajus °, ir jis atsiuntė savo pasiuntinius pas didįjį
+    kunigaikštį Skirmantą, kad duotų jam duoklę ir laiky­
+    tų jo baskakus tuose miestuose, kaip kad iš tų miestų
+    buvo duodama duoklė, valdant jo pirmtakams, rusų
+    kunigaikščiams. Didysis kunigaikštis Skirmantas nepa­
+    noro nusileisti ir tiems jo pasiuntiniams liepė nupjaus­
+    tyti nosis, lūpas, ausis ir paleisti pas chaną atgalios.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211205
+
+- id: c-193608
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 55"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 55."
+  citata_originali: |
+    Ir Šventaragiui gimė sūnus
+    Skirmantas*.
+    Ir pasirinko didysis kunigaikštis Šventaragis labai
+    gražią vietą girioje prie Neries, kur Vilnia įteka į Nerį,
+    ir prašė savo sūnų Skirmantą, kad toje vietoje būtų
+    įtaisyta ugniavietė
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211673
+
+- id: c-194008
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 48"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 48."
+  citata_originali: |
+    Didysis kunigaikštis Skirmantas, surinkęs visas sa­
+    vo kariaunas, pasitiko juos Kaidanove l0, prie savo sie­
+    nos. Nugalėjo tą chaną, ir sumušė visą jo totoriškąją
+    galybę, ir nukovė patį chaną
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210725
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Pisimantas]]

@@ -27,26 +27,6 @@ media_all_json: |-
 
 Šliūpas visą gyvenimą kovojo dėl dviejų dalykų: dėl tautos teisių bei susipratimo ir dėl laisvamanybės. Todėl apie jį susibūrė griežtesnieji tautininkai ir laisvamaniai.
 
-## Teiginiai
-
-<a id="claim-t-44093"></a>
-- t-001
-  teiginys: "Dr. Jonas Šliūpas visą gyvenimą kovojo dėl tautos teisių, tautinio susipratimo ir laisvamanybės."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-47236
-
-<a id="claim-t-44094"></a>
-- t-002
-  teiginys: "Apie Šliūpą susibūrė griežtesnieji tautininkai ir laisvamaniai."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-47237
-
 ## Citatos
 
 - id: c-47236
@@ -66,7 +46,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-47237
@@ -86,5 +66,26 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-44093"></a>
+- t-001
+  teiginys: "Dr. Jonas Šliūpas visą gyvenimą kovojo dėl tautos teisių, tautinio susipratimo ir laisvamanybės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-47236
+
+<a id="claim-t-44094"></a>
+- t-002
+  teiginys: "Apie Šliūpą susibūrė griežtesnieji tautininkai ir laisvamaniai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-47237
+

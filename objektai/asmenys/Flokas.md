@@ -36,10 +36,22 @@ Narbuto pasakojime Starkateras privertė rusnėnų karaliuką Floką bėgti iš 
 
 ## Teiginiai
 
-<a id="claim-t-191397"></a>
-- t-001
+<a id="claim-t-214222"></a>
+- t-002
+  teiginys: "Starkateras privertė Floką sprukti iš rūmų ir pasisavino jo lobius."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196152
+
+<a id="claim-t-213579"></a>
+- t-213579
   teiginys: "Narbuto pasakojime Starkateras privertė rusnėnų karaliuką Floką bėgti iš rūmų ir pasisavino jo aukso bei sidabro lobius."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -54,8 +66,6 @@ Narbuto pasakojime Starkateras privertė rusnėnų karaliuką Floką bėgti iš 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   semantiniai_rysiai: "Starkateras puolė Flokas (0.76)"
   vertinimo_atnaujinta: "2026-07-04T14:37:43Z"
-  pagrindžia:
-    - c-174279
 
 ## Citatos
 
@@ -79,5 +89,22 @@ Narbuto pasakojime Starkateras privertė rusnėnų karaliuką Floką bėgti iš 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-196152
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 244."
+  citata_originali: |
+    Tas pats Starkateras, privertęs rusnėnų karaliuką
+    Floką sprukti iš savo rūmų, pasisavino jo nesuskaičiuoja­
+    mus lobius, daugybę aukso ir sidabro4.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+

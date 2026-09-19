@@ -27,29 +27,6 @@ media_all_json: |-
 
 Tai buvo vergai.
 
-## Teiginiai
-
-<a id="claim-t-03214"></a>
-- t-001
-  teiginys: "Vergais paprastai būdavo karo belaisviai ir jų šeimos, neturėję laisvės ir privalėję dirbti bajorui."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-166386
-
-<a id="claim-t-182989"></a>
-- t-002
-  teiginys: "Vergais paprastai būdavo karo belaisviai ir jų šeimos, neturėję laisvės ir dirbę bajoro ar kunigaikščio ūkyje."
-  atnaujinta: "2026-06-13 18:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-166386
-
 ## Citatos
 
 - id: c-166386
@@ -68,6 +45,30 @@ Tai buvo vergai.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-03214"></a>
+- t-001
+  teiginys: "Vergais paprastai būdavo karo belaisviai ir jų šeimos, neturėję laisvės ir privalėję dirbti bajorui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-166386
+
+<a id="claim-t-182989"></a>
+- t-002
+  teiginys: "Vergais paprastai būdavo karo belaisviai ir jų šeimos, neturėję laisvės ir dirbę bajoro ar kunigaikščio ūkyje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-166386
+

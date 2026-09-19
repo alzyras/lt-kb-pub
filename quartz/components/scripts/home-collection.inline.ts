@@ -65,9 +65,7 @@ const collectionObjectTypes: CollectionObjectType[] = [
   { value: "saltiniai", label: "Šaltiniai", prefix: "objektai/saltiniai/" },
 ]
 
-const collectionObjectTypeByValue = new Map(
-  collectionObjectTypes.map((type) => [type.value, type]),
-)
+const collectionObjectTypeByValue = new Map(collectionObjectTypes.map((type) => [type.value, type]))
 
 let collectionObjectItemsPromise: Promise<CollectionObjectItem[]> | undefined
 let collectionSpotlightObjectsPromise: Promise<CollectionSpotlightObject[]> | undefined
@@ -211,22 +209,24 @@ function collectionShuffle<T>(items: T[]): T[] {
   return copy
 }
 
-function collectionClaimHref(object: CollectionSpotlightObject, claim: CollectionSpotlightClaim): string {
+function collectionClaimHref(
+  object: CollectionSpotlightObject,
+  claim: CollectionSpotlightClaim,
+): string {
   return `${collectionObjectHref(object.slug)}#claim-${claim.id}`
 }
 
 function validCollectionSpotlightData(value: unknown): CollectionSpotlightObject[] {
   if (!Array.isArray(value)) return []
-  return value.filter(
-    (object): object is CollectionSpotlightObject =>
-      Boolean(
-        object &&
-          typeof object === "object" &&
-          typeof (object as CollectionSpotlightObject).title === "string" &&
-          typeof (object as CollectionSpotlightObject).slug === "string" &&
-          Array.isArray((object as CollectionSpotlightObject).claims) &&
-          (object as CollectionSpotlightObject).claims.length >= 10,
-      ),
+  return value.filter((object): object is CollectionSpotlightObject =>
+    Boolean(
+      object &&
+      typeof object === "object" &&
+      typeof (object as CollectionSpotlightObject).title === "string" &&
+      typeof (object as CollectionSpotlightObject).slug === "string" &&
+      Array.isArray((object as CollectionSpotlightObject).claims) &&
+      (object as CollectionSpotlightObject).claims.length >= 10,
+    ),
   )
 }
 
@@ -247,7 +247,8 @@ function loadCollectionSpotlightData(host: HTMLElement): Promise<CollectionSpotl
   const inline = parseCollectionSpotlightData(host)
   if (inline.length) return Promise.resolve(inline)
   if (collectionSpotlightObjectsPromise) return collectionSpotlightObjectsPromise
-  const url = host.querySelector<HTMLElement>("[data-collection-spotlight-url]")?.dataset.collectionSpotlightUrl
+  const url = host.querySelector<HTMLElement>("[data-collection-spotlight-url]")?.dataset
+    .collectionSpotlightUrl
   if (!url) return Promise.resolve([])
   collectionSpotlightObjectsPromise = fetch(url, { cache: "force-cache" })
     .then((response) => (response.ok ? response.json() : []))
@@ -272,7 +273,9 @@ function collectionSpotlightSourceText(claim: CollectionSpotlightClaim): string 
   return ""
 }
 
-async function pickCollectionSpotlight(host: HTMLElement): Promise<CollectionSpotlightSelection | undefined> {
+async function pickCollectionSpotlight(
+  host: HTMLElement,
+): Promise<CollectionSpotlightSelection | undefined> {
   if (collectionSpotlightSelection) {
     return collectionSpotlightSelection
   }
@@ -320,18 +323,12 @@ async function setupCollectionClaimSpotlight() {
     const activeType = type
     const activeCount = count
     const reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)")
-    const typingDelay = 18
-    const cycleDelay = 7600
+    const cycleDelay = 12000
     let activeIndex = 0
-    let typingTimer: number | undefined
     let cycleTimer: number | undefined
     let paused = false
 
     const clearTimers = () => {
-      if (typingTimer !== undefined) {
-        window.clearTimeout(typingTimer)
-        typingTimer = undefined
-      }
       if (cycleTimer !== undefined) {
         window.clearTimeout(cycleTimer)
         cycleTimer = undefined
@@ -339,7 +336,7 @@ async function setupCollectionClaimSpotlight() {
     }
 
     const scheduleNext = () => {
-      if (paused || document.hidden) {
+      if (paused || document.hidden || reducedMotion.matches) {
         return
       }
       if (cycleTimer !== undefined) {
@@ -348,32 +345,6 @@ async function setupCollectionClaimSpotlight() {
       cycleTimer = window.setTimeout(() => {
         showClaim((activeIndex + 1) % selection.claims.length)
       }, cycleDelay)
-    }
-
-    const typeText = (text: string) => {
-      activeClaimLink.textContent = ""
-      activeClaimLink.classList.add("is-typing")
-
-      if (reducedMotion.matches) {
-        activeClaimLink.textContent = text
-        activeClaimLink.classList.remove("is-typing")
-        scheduleNext()
-        return
-      }
-
-      const chars = Array.from(text)
-      let index = 0
-      const tick = () => {
-        index += chars[index]?.match(/\s/) ? 3 : 2
-        activeClaimLink.textContent = chars.slice(0, index).join("")
-        if (index < chars.length) {
-          typingTimer = window.setTimeout(tick, typingDelay)
-          return
-        }
-        activeClaimLink.classList.remove("is-typing")
-        scheduleNext()
-      }
-      tick()
     }
 
     function showClaim(nextIndex: number) {
@@ -396,7 +367,8 @@ async function setupCollectionClaimSpotlight() {
         dot.setAttribute("aria-current", active ? "true" : "false")
       })
 
-      typeText(claim.text)
+      activeClaimLink.textContent = claim.text
+      scheduleNext()
     }
 
     activeDots.replaceChildren()
@@ -447,7 +419,9 @@ async function setupCollectionClaimSpotlight() {
 }
 
 function setupCollectionObjectSearch() {
-  for (const form of document.querySelectorAll<HTMLFormElement>("[data-collection-object-search]")) {
+  for (const form of document.querySelectorAll<HTMLFormElement>(
+    "[data-collection-object-search]",
+  )) {
     if (form.dataset.collectionObjectSearchBound === "true") {
       continue
     }
@@ -493,7 +467,8 @@ function setupCollectionObjectSearch() {
       const typeValue = typeSelect.value
       const items = await loadCollectionObjectItems()
       const matches = filterCollectionObjectItems(items, query, typeValue)
-      const selectedType = collectionObjectTypeByValue.get(typeValue) ?? collectionObjectTypeByValue.get("all")!
+      const selectedType =
+        collectionObjectTypeByValue.get(typeValue) ?? collectionObjectTypeByValue.get("all")!
       const scopedTotal =
         selectedType.value === "all"
           ? items.length
@@ -536,7 +511,10 @@ function setupCollectionObjectSearch() {
         meta.textContent = bits.join(" / ")
 
         const tags = document.createElement("small")
-        tags.textContent = item.tags.slice(0, 3).map((tag) => `#${tag}`).join(" ")
+        tags.textContent = item.tags
+          .slice(0, 3)
+          .map((tag) => `#${tag}`)
+          .join(" ")
 
         link.append(title, meta)
         if (tags.textContent) {
@@ -589,7 +567,8 @@ function setupCollectionObjectSearch() {
     const onSubmit = async (event: SubmitEvent) => {
       event.preventDefault()
       const query = normalizeCollectionSearchText(input.value)
-      const selectedType = collectionObjectTypeByValue.get(typeSelect.value) ?? collectionObjectTypeByValue.get("all")!
+      const selectedType =
+        collectionObjectTypeByValue.get(typeSelect.value) ?? collectionObjectTypeByValue.get("all")!
 
       if (query) {
         const items = await loadCollectionObjectItems()

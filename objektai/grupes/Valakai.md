@@ -31,10 +31,22 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
 
 ## Teiginiai
 
+<a id="claim-t-209434"></a>
+- t-209434
+  teiginys: "Visiems šiandieną yra žinoma, kad valakai (italai) išsižadėjo savo tikėjimo."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
+  pagrindžia:
+    - c-192054
+
 <a id="claim-t-92846"></a>
-- t-001
+- t-92846
   teiginys: "Vytauto kariuomenėje buvo lietuvių, žemaičių, vokiečių, lenkų, totorių, rusų ir valakų."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -46,6 +58,15 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
   šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
   pagrindžia:
     - c-88325
+
+<a id="claim-t-92847"></a>
+- t-92847
+  teiginys: "Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-88326
 
 ## Citatos
 
@@ -64,6 +85,7 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-10130
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
@@ -78,6 +100,7 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-88325
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -96,8 +119,8 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-92846
 
 - id: c-88326
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -119,3 +142,60 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindžia:
+    - t-92847
+
+- id: c-192054
+  autorius: "Merkys, Vytautas; Vanagienė, Birutė"
+  šaltinis: "Motiejus Valančius. Ganytojiški laiškai"
+  puslapiai: "PDF 207"
+  indeksas: "Merkys, Vytautas; Vanagienė, Birutė, Motiejus Valančius. Ganytojiški laiškai, PDF 207."
+  citata_originali: |
+    Iš to aiškiai
+    matome, kad pirmieji krikščionys visados buvo pasitaisę už tikėjimą galvą paguldyti ir akivaizdoje
+    valdžios iš savo tikėjimo nedarė nė jokių juokų. Veliju ir prašau savo katalikus, idant tame dalyke
+    visados sektų paveikslą pirmųjų krikščionų, tuo labiau, kad šiandieną už nelankymą cerkvės galvos nė
+    vienam nekerta žemyn.
+    Visiems šiandieną yra žinoma, kad valakai (italai) išsižadėjo savo tikėjimo.
+  citata_rodoma: "Visiems šiandieną yra žinoma, kad valakai (italai) išsižadėjo savo tikėjimo."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209434
+
+- id: c-192620
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 322"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 322."
+  citata_originali: |
+    Noris pradžioj 15 amžiaus namų ermyderiai ir svetimos karės trukino lietuvius ir žemaičius nuo
+        prekybos, vienok Zigmantui Kęstutaičiui paėmus ūkę valdyti ir patvirtinus sandaras su mozūrais,
+        valakais, totoriais ir vokiečiais, po nedidžios perglytos prekė kas kartą didinos.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-192795
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  puslapiai: "PDF 330"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių, PDF 330."
+  citata_originali: |
+    laiku kėlės karės su žuvėdais, maskoliais, turkais ir valakais, namuose taip pat tarp pačių netaikos
+        sukilo; ant galo jezavitai^1493 sušyžino^1494 visus atskalūnus, norėdami juos į katalikus atversti.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+

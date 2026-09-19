@@ -39,20 +39,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-203776"></a>
-- t-001
-  teiginys: "Visų trijų Lietuvos Statutų straipsniuose baustinas buvo ne pats valstiečio pabėgimas, o bėglio priglaudimas ir slapstymas."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
-  pagrindžia:
-    - c-186380
-
 ## Santrauka
 
 Visų trijų Lietuvos Statutų straipsniuose baustinas buvo ne pats valstiečio pabėgimas, o bėglio priglaudimas ir slapstymas.
@@ -77,5 +63,20 @@ Visų trijų Lietuvos Statutų straipsniuose baustinas buvo ne pats valstiečio 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203776"></a>
+- t-001
+  teiginys: "Visų trijų Lietuvos Statutų straipsniuose baustinas buvo ne pats valstiečio pabėgimas, o bėglio priglaudimas ir slapstymas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-28359-Pabegusiu-is-dvaru-valstieciu-uzribiskumas"
+  pagrindžia:
+    - c-186380
+

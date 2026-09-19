@@ -45,10 +45,34 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
 
 ## Teiginiai
 
+<a id="claim-t-209645"></a>
+- t-002
+  teiginys: "Tie Seinų kunigai, kurie priešinosi vo kietinimo politikai, tapo pabausti išvežinimu jų Vokietijon, arba permainymu vietos."
+  atnaujinta: "2026-09-12 14:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192265
+
+<a id="claim-t-209644"></a>
+- t-209644
+  teiginys: "Seinų ad ministratorius nepriėmė pasiųlytos valdžios al gos, nenorėdamas kokiu nors būdu surišti sau — 67 — rankų."
+  atnaujinta: "2026-09-12 14:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Bartuska Kelione Lietuvon 1916 kares metais"
+  pagrindžia:
+    - c-192264
+
 <a id="claim-t-181449"></a>
-- t-001
+- t-181449
   teiginys: "Ratifikavus sutartį Lietuva neteko teisės reikšti teritorinių pretenzijų į Seinus ir Punską."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Punskas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -82,5 +106,45 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-181449
+
+- id: c-192264
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 66-67"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 66-67."
+  citata_originali: |
+    Seinų ad­
+    ministratorius nepriėmė pasiųlytos valdžios al­
+    gos, nenorėdamas kokiu nors būdu surišti sau
+
+    — 67 —
+    rankų
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209644
+
+- id: c-192265
+  šaltinis: "Kelionė Lietuvon 1916 karės metais"
+  puslapiai: "PDF 68"
+  indeksas: "Kelionė Lietuvon 1916 karės metais, PDF 68."
+  citata_originali: |
+    Tie Seinų kunigai,
+    kurie priešinosi vo­
+    kietinimo politikai, tapo pabausti išvežinimu
+    jų Vokietijon,
+    arba permainymu vietos.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 14:40"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+

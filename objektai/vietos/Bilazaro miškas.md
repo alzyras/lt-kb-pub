@@ -46,18 +46,6 @@ Bilazaro miškas minimas kaip Ažytėnų ganyklos prieiga.
 
 Bilazaro miškas šiame šaltinyje yra miškas.
 
-## Teiginiai
-
-<a id="claim-t-195483"></a>
-- t-001
-  teiginys: "Bilazaro miškas minimas kaip vieta, prie kurios prieina Ažytėnų ganykla."
-  atnaujinta: "2026-07-12 04:09"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/09_extract_places_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177904
-
 ## Citatos
 
 - id: c-177904
@@ -73,5 +61,4 @@ Bilazaro miškas šiame šaltinyje yra miškas.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

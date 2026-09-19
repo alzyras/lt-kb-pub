@@ -30,20 +30,6 @@ media_all_json: |-
 
 Štai 1560 m. Kauno siuvėjai pasirūpino gauti iš Vilniaus siuvėjų cecho laišką su išdėstytais pastarųjų cecho nuostatais.
 
-## Teiginiai
-
-<a id="claim-t-201876"></a>
-- t-001
-  teiginys: "Štai 1560 m. Kauno siuvėjai pasirūpino gauti iš Vilniaus siuvėjų cecho laišką su išdėstytais pastarųjų cecho nuostatais."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185223
-
 ## Citatos
 
 - id: c-185223
@@ -59,5 +45,20 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201876"></a>
+- t-001
+  teiginys: "Štai 1560 m. Kauno siuvėjai pasirūpino gauti iš Vilniaus siuvėjų cecho laišką su išdėstytais pastarųjų cecho nuostatais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185223
+

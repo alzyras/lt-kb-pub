@@ -58,10 +58,46 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
 
 ## Teiginiai
 
+<a id="claim-t-210537"></a>
+- t-210537
+  teiginys: "Kunigaikštis Švitrigaila suėmė karalių Jogailą ir pastatė sargybą."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194202
+
+<a id="claim-t-211630"></a>
+- t-211630
+  teiginys: "Švitrigaila konfliktavo su Lenkija dėl Podolės."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-194249
+
+<a id="claim-t-211889"></a>
+- t-211889
+  teiginys: "Švitrigailos kariuome nė apgulė Trakus."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193362
+
 <a id="claim-t-179687"></a>
-- t-001
+- t-179687
   teiginys: "Švitrigaila kartu su Jogaila, Vytautu, Karigaila, Vygandu ir lietuvių didikais priėmė katalikų tikėjimą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -75,9 +111,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163355
 
 <a id="claim-t-179688"></a>
-- t-002
+- t-179688
   teiginys: "Po Vorsklos pralaimėjimo Švitrigaila pareiškė pretenzijas į Lietuvą, o ramybės dėlei jam buvo atiduota Podolija ir kiti Rusios plotai."
-  atnaujinta: "2026-05-31 14:17"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde_teritorija -> Podolija: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -92,9 +128,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-14091
 
 <a id="claim-t-179690"></a>
-- t-003
+- t-179690
   teiginys: "Švitrigaila vėl pabėgo iš Lietuvos į Maskvą, vėliau pas totorius ir galiausiai pas Ordiną."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -108,9 +144,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163387
 
 <a id="claim-t-179692"></a>
-- t-004
+- t-179692
   teiginys: "Švitrigaila, nieko nelaimėjęs prie Vilniaus, prikalbino Livonijos ordino riterius drauge pulti Vitebską."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Vitebskas: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -125,9 +161,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163394
 
 <a id="claim-t-179693"></a>
-- t-005
+- t-179693
   teiginys: "Pajutęs Vytauto susilpnėjimą, Švitrigaila pareiškė pretenzijas į Lietuvą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -141,9 +177,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163357
 
 <a id="claim-t-179694"></a>
-- t-006
+- t-179694
   teiginys: "Švitrigaila, nieko nepešęs prie Vilniaus, prikalbino Livonijos ordino riterius kartu pulti Vitebską."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Vitebskas: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -158,9 +194,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163394
 
 <a id="claim-t-179695"></a>
-- t-007
+- t-179695
   teiginys: "1402 m. pradžioje Ordinas Marienburge priglaudė iš Podolės pabėgusį Vytauto priešą Švitrigailą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Marienburgas: 0.74"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -178,9 +214,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-30378
 
 <a id="claim-t-179696"></a>
-- t-008
+- t-179696
   teiginys: "Didysis magistras apstatė Švitrigailą savo parankiniais, siekdamas silpninti Lietuvos ir Lenkijos vienybę."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -194,9 +230,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163375
 
 <a id="claim-t-179697"></a>
-- t-009
+- t-179697
   teiginys: "Švitrigaila su didžiuoju magistru turėjo nutraukti Vilniaus apgultį, kai vienuolis išdavė jų sumanymą pilies įgulai."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Viena: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -210,9 +246,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163356
 
 <a id="claim-t-179698"></a>
-- t-010
+- t-179698
   teiginys: "Petras pranešė, kad Švitrigaila išvaduotas iš nelaisvės ir yra laisvėje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -226,9 +262,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163369
 
 <a id="claim-t-179699"></a>
-- t-011
+- t-179699
   teiginys: "Švitrigaila sukilo, užmušė Feodorą Vesną ir pats ėmė valdyti Vitebską."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "valde_miesta -> Vitebskas: 0.96"
   ryšio_patikimumo_lygis: "aukstas"
@@ -246,9 +282,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163383
 
 <a id="claim-t-179700"></a>
-- t-012
+- t-179700
   teiginys: "1382 m. Dubysos sutarčių aktams pritarė Jogailos motina Julijona ir broliai, tarp jų Švitrigaila."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_sunus -> Julijona: 0.80"
   ryšio_patikimumo_lygis: "aukstas"
@@ -265,9 +301,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163365
 
 <a id="claim-t-179701"></a>
-- t-013
+- t-179701
   teiginys: "Švitrigailos sąjungos didino pasitikėjimą ir išplėtė prekybą iki atokiausių Vokietijos žemių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vokietija: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -285,9 +321,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163354
 
 <a id="claim-t-179702"></a>
-- t-014
+- t-179702
   teiginys: "Švitrigaila su sūnėnu Maskvos kunigaikščiu Jurgiu išvengė sutriuškinimo po nesėkmės ties Ukmerge."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Maskva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -301,9 +337,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163379
 
 <a id="claim-t-179703"></a>
-- t-015
+- t-179703
   teiginys: "Švitrigaila kartu su Jogaila, Vytautu, Jogailos broliais ir daugeliu lietuvių didikų priėmė katalikų tikėjimą Krokuvoje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Krokuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -317,9 +353,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163355
 
 <a id="claim-t-179704"></a>
-- t-016
+- t-179704
   teiginys: "1452 m. vasarį Švitrigaila mirė Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vilniaus katedroje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kūnas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -336,9 +372,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163377
 
 <a id="claim-t-179705"></a>
-- t-017
+- t-179705
   teiginys: "Vytautas po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską ir paėmė Švitrigailą į nelaisvę."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzeme -> Vitebskas: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -354,9 +390,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163382
 
 <a id="claim-t-179706"></a>
-- t-018
+- t-179706
   teiginys: "Dinaburgo komtūras pranešė Livonijos magistrui, kad iš nelaisvės paleistas Švitrigaila vėl traukia į mūšio lauką."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Dinaburgas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -370,9 +406,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163359
 
 <a id="claim-t-179707"></a>
-- t-019
+- t-179707
   teiginys: "Po sėkmingo žygio Švitrigaila sudarė ilgalaikes paliaubas su karaliumi."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Chariničius: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -386,9 +422,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163374
 
 <a id="claim-t-179708"></a>
-- t-020
+- t-179708
   teiginys: "Švitrigailai buvo pavesta valdyti Podoliją, o šaltinyje jis vadinamas pavojingiausiu Vytauto priešininku."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -402,9 +438,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163386
 
 <a id="claim-t-179709"></a>
-- t-021
+- t-179709
   teiginys: "Švitrigaila ir Žygimantas buvo Vytauto politikos tęsėjai."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Žygimantas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -418,9 +454,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163391
 
 <a id="claim-t-179710"></a>
-- t-022
+- t-179710
   teiginys: "Švitrigaila buvo tarp Jogailos brolių, pritarusių jo sutarčių su Ordinais įsipareigojimams."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -434,9 +470,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163365
 
 <a id="claim-t-179712"></a>
-- t-023
+- t-179712
   teiginys: "Švitrigaila buvo dvare prie Ašmenos su nedidele sargyba, kai Žygimantas slapta žygiavo į Ašmeną."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzeme -> Trakai: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -451,9 +487,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163371
 
 <a id="claim-t-179713"></a>
-- t-024
+- t-179713
   teiginys: "Po dvylikos metų paliaubų tarp karaliaus ir didžiojo magistro Švitrigailos jėgos Lietuvoje apsilpo."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -467,9 +503,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163390
 
 <a id="claim-t-179715"></a>
-- t-025
+- t-179715
   teiginys: "1395 m. Švitrigaila su kryžiuočių pulku ir magistru Konradu Jungingenu įsibrovė į Lietuvą ir nusiaubė vietoves prie Gardino."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "surenge_zygi_i -> Lietuva: 0.90"
   ryšio_patikimumo_lygis: "aukstas"
@@ -486,9 +522,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163361
 
 <a id="claim-t-179716"></a>
-- t-026
+- t-179716
   teiginys: "Švitrigaila buvo priverstas nusilenkti Vytautui, po to pasiųstas Jogailai į Krokuvą, bet netrukus pabėgo į Vengriją."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Vengrija: 0.92"
   ryšio_patikimumo_lygis: "aukstas"
@@ -503,9 +539,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-16101
 
 <a id="claim-t-179717"></a>
-- t-027
+- t-179717
   teiginys: "Švitrigaila apsimestinai sutiko su sutartimi, o 1402 m. persirengęs pirkliu išvyko pas magistrą į Marienburgą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Marienburgas: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -523,9 +559,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163388
 
 <a id="claim-t-179718"></a>
-- t-028
+- t-179718
   teiginys: "Švitrigaila su iš Didžiojo Naugardo atsiųstais bojarinais sudarė sutartį dėl abipusio saugumo ir prekybos laisvės."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "sudare_sutarti_su -> Didžiojo Naugardo respublika: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -540,9 +576,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163364
 
 <a id="claim-t-179719"></a>
-- t-029
+- t-179719
   teiginys: "Švitrigailos bandymas užimti Vilnių žlugo, kai vienuolis išdavė jo sumanymą pilies įgulos vadui."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Viena: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -556,9 +592,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163356
 
 <a id="claim-t-179720"></a>
-- t-030
+- t-179720
   teiginys: "Lenkijos valdantieji sluoksniai Švitrigailai siūlė Lenkijos vainiką arba Lietuvos valdymą susiejus ją su Lenkija."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -573,9 +609,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163381
 
 <a id="claim-t-179721"></a>
-- t-031
+- t-179721
   teiginys: "Švitrigaila manė, kad po kunigaikštienės mirties Jogaila jį paskirs Vitebsko valdytoju."
-  atnaujinta: "2026-05-31 14:17"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -589,9 +625,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163360
 
 <a id="claim-t-179722"></a>
-- t-032
+- t-179722
   teiginys: "Švitrigaila apsimestinai sutiko su sutartimi, o 1402 m. persirengęs pirkliu nuvyko pas magistrą į Marienburgą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Marienburgas: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -608,9 +644,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163388
 
 <a id="claim-t-179723"></a>
-- t-033
+- t-179723
   teiginys: "Švitrigaila buvo vienas iš penkių Julijonos sūnų, liudijusių trijose Jogailos ir Skirgailos vardu sudarytose sutartyse."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_sunus -> Julijona: 0.88"
   ryšio_patikimumo_lygis: "aukstas"
@@ -624,9 +660,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163380
 
 <a id="claim-t-179724"></a>
-- t-034
+- t-179724
   teiginys: "1430 m. lapkričio 7 d. buvo sudarytos paliaubos tarp Lenkijos karaliaus Jogailos ir jo brolio, Lietuvos didžiojo kunigaikščio Švitrigailos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkija: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -643,9 +679,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163362
 
 <a id="claim-t-179725"></a>
-- t-035
+- t-179725
   teiginys: "Švitrigaila, tikrasis Algirdo sūnus, turėjo pirmenybę į Lietuvos didžiojo kunigaikščio sostą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Algirdas (Lietuvos valdovas): 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -659,9 +695,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163386
 
 <a id="claim-t-179726"></a>
-- t-036
+- t-179726
   teiginys: "Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus per septynetą mylių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "uzeme -> Ašmena: 0.94"
   ryšio_patikimumo_lygis: "aukstas"
@@ -676,9 +712,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163367
 
 <a id="claim-t-179727"></a>
-- t-037
+- t-179727
   teiginys: "Dar neįsitvirtinus Vytautui, Švitrigaila išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -692,9 +728,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163353
 
 <a id="claim-t-179729"></a>
-- t-038
+- t-179729
   teiginys: "Švitrigailos valdymo metais Vilniaus monetų kalykla kaldino lietuviškus grašius ir pusgrašius."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -708,9 +744,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163373
 
 <a id="claim-t-179731"></a>
-- t-039
+- t-179731
   teiginys: "Įniršęs Švitrigaila priekaištavo Jogailai dėl Podolės ir įkalino jį su palyda pilyje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_priesas -> Jogaila (kunigaikštis, XIV–XV a.): 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -725,9 +761,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163384
 
 <a id="claim-t-179732"></a>
-- t-040
+- t-179732
   teiginys: "Švitrigaila, įsižeidęs dėl Vytauto iškėlimo, išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -741,9 +777,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163353
 
 <a id="claim-t-179733"></a>
-- t-041
+- t-179733
   teiginys: "Švitrigaila, nusigavęs į Polocką, ten įkūrė atramos vietą, iš kurios beveik šešerius metus plito vaidai, puldinėjimai ir pilietinis karas."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Eugenijus IV: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -757,9 +793,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163363
 
 <a id="claim-t-179734"></a>
-- t-042
+- t-179734
   teiginys: "1432 m. gruodžio 8 d. Ašmenos mūšyje Švitrigailos jėgos buvo išsklaidytos, o Švitrigaila pabėgo į Polocką."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Polockas: 0.94"
   ryšio_patikimumo_lygis: "aukstas"
@@ -777,9 +813,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-163395
 
 <a id="claim-t-184896"></a>
-- t-043
+- t-184896
   teiginys: "Boleslovą Švitrigailą kamavo neišsipildžiusios viltys, nes po Skirgailos jis turėjo teisę pirmas paveldėti valdžią."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -796,21 +832,29 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
     - c-168257
 
 <a id="claim-t-184897"></a>
-- t-044
+- t-184897
   teiginys: "Konradui du mėnesius nesėkmingai puolus Vilnių, Švitrigaila nutarė miesto puolime griebtis apgaulės."
-  atnaujinta: "2026-07-26 23:35"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Konradas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Konradas: mention_match, person, gap=48"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Konradas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168257
+    - c-168258
 
 <a id="claim-t-184898"></a>
-- t-045
+- t-184898
   teiginys: "Švitrigaila nuolat kurstė Prūsijos ir Livonijos kryžiuočių magistrus prieš Vytautą."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -825,30 +869,241 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168259
+    - c-178825
 
-<a id="claim-t-184899"></a>
-- t-046
-  teiginys: "Švitrigaila matė, kad karai ir plėšikiški antpuoliai naudingi tik kryžiuočiams, o jis pats lieka nuskurdęs tremtinys."
-  atnaujinta: "2026-07-12 22:28"
+<a id="claim-t-184900"></a>
+- t-184900
+  teiginys: "Ištrūkęs į laisvę Švitrigaila pabėgo pas imperatorių Zigmantą, o vėliau susitaikė su Vytautu."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Kryžiuočių ordinas: 0.83"
+  ryšio_patikimumas: "susije_su -> Rusai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
   ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
   ryšio_sprendimo_taisykle: "rule_plain_mention"
   ryšio_subjekto_parinkimas: "Švitrigaila: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Kryžiuočių ordinas: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Kryžiuočių ordinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  ryšio_targeto_parinkimas: "Rusai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Švitrigaila\" parinktas kaip owner_note_path. Targetas \"Rusai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168261
+
+<a id="claim-t-196660"></a>
+- t-196660
+  teiginys: "Unijos sąlygų įgyvendinimas privedė prie Lietuvos Didžiosios Kunigaikštystės skilimo ir karo tarp Švitrigailos ir Žygimanto Kęstutaičio."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-178824
+
+<a id="claim-t-196661"></a>
+- t-196661
+  teiginys: "Švitrigaila buvo aprigaila k la stin gai užsupęs Vilnių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168258
+
+<a id="claim-t-196662"></a>
+- t-196662
+  teiginys: "Švitrigaila sužinojo, kad Švitrigaila perėjęs iš Prūsijos į Livoniją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168260
 
-<a id="claim-t-191006"></a>
-- t-047
+<a id="claim-t-196663"></a>
+- t-196663
+  teiginys: "Drucko kunigaikščiai neramumų pradžioje mažai klausė Vytauto ir atvirai rėmė Švitrigailą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-178825
+
+<a id="claim-t-196664"></a>
+- t-196664
+  teiginys: "Taikos su Vasilijumi sąlygose buvo numatytas pažadas neremti Švitrigailos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-178826
+
+<a id="claim-t-196665"></a>
+- t-196665
+  teiginys: "Švitrigaila pareiškė, jog santuoka būsianti teisėta, ir surišo sutuoktinius, kaip to reikalauja Ro- 3 9 6 mos bažnyčia."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168261
+
+<a id="claim-t-201564"></a>
+- t-201564
+  teiginys: "Vytauto pavyzdžiu sekė Švitrigaila ir Žygimantas Kęstutaitis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+  pagrindžia:
+    - c-184911
+
+<a id="claim-t-204119"></a>
+- t-204119
+  teiginys: "1437 m., Lietuvos didžiojo kunigaikščio Švitrigailos valdymo metais, Petras Volkovijus buvo didysis medžioklis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  temporaliniai_duomenys: "įvykio data: 1437 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys suredaguotas į sklandesnę enciklopedinę formą. Išlaikyti tik šaltinyje nurodyti asmuo, pareigybė, data ir valdymo laikotarpis."
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186727
+
+<a id="claim-t-204352"></a>
+- t-204352
+  teiginys: "1432 m. sausio 26 d. Ordino pasiuntiniai pranešė Didžiajam magistrui, kad į suvažiavimą Brastoje Švitrigaila vyks tik su savo tarėjais ir dvariškiais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  temporaliniai_duomenys: "įvykio data: 1432 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sutvarkyta žodžių tvarka ir aiškiau nurodytas pranešimo adresatas bei Švitrigailos palyda. Išlaikytas šaltinyje pateiktas pranešimo pobūdis."
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186956
+
+<a id="claim-t-204353"></a>
+- t-204353
+  teiginys: "Po Vytauto mirties Švitrigaila, išrinktas didžiuoju kunigaikščiu, tuoj po išrinkimo pasiūlė Jogailai susitikti santykiams su Lenkija sureguliuoti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
+  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
+  pagrindžia:
+    - c-186957
+
+<a id="claim-t-206444"></a>
+- t-206444
+  teiginys: "Teodoras Narbutas Švitrigailos veiksmus vaizduoja kaip išdavystę: įsižeidęs dėl Vitebsko atėmimo, Švitrigaila užpuolė miestą, nužudė Viosną ir paskyrė vietininką."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189059
+
+<a id="claim-t-206445"></a>
+- t-206445
+  teiginys: "Teodoras Narbutas pasakoja, kad per Vitebsko apgultį Švitrigaila užsidarė pilyje ir nusprendė gintis iki galo, tačiau miestui pasidavus buvo priverstas išeiti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189060
+
+<a id="claim-t-206446"></a>
+- t-206446
+  teiginys: "Teodoras Narbutas spėja, kad Švitrigaila galėjo vadovauti žygiui, siekdamas prisiplėšti Kaributo turtų ir nuvesti kryžiuočius į Krėvą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189061
+
+<a id="claim-t-206447"></a>
+- t-206447
+  teiginys: "Teodoras Narbutas Švitrigailą vaizduoja kaip gėdingą vedlį: paėmęs kryžiuočių dalinį ir susimokęs su Vitebsko bajorais, Švitrigaila užpuolė Vitebską bei sukėlė riaušes kunigaikštystėje."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189062
+
+<a id="claim-t-206448"></a>
+- t-206448
+  teiginys: "Po Vitebsko apgulties Švitrigaila buvo sukaustytas grandinėmis ir nusiųstas Lenkijos karaliui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189063
+
+<a id="claim-t-207466"></a>
+- t-207466
+  teiginys: "Bumblauskas Švitrigailą apibūdina kaip savitą Vytauto antipodą, nes, Bumblausko vertinimu, Švitrigaila pralaimėdavo ten, kur Vytautas laimėdavo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  vertinimo_atnaujinta: "2026-08-19T00:09:51Z"
+  pagrindžia:
+    - c-190108
+
+<a id="claim-t-214057"></a>
+- t-214057
   teiginys: "Švitrigailos 1451 m. vasario 18 d. Lucke datuota privilegija, Narbuto teigimu, pakartojo Vytauto privilegiją ir atnaujino Algirdo privilegiją."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -866,204 +1121,19 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir aiškiai sieja Švitrigailą su 1451 m. privilegija. Narbuto autorystės atribucija išlaikyta."
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-173888
+    - c-197235
 
-<a id="claim-t-196660"></a>
-- t-048
-  teiginys: "Unijos sąlygų įgyvendinimas privedė prie Lietuvos Didžiosios Kunigaikštystės skilimo ir karo tarp Švitrigailos ir Žygimanto Kęstutaičio."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-178824
-
-<a id="claim-t-196661"></a>
-- t-049
-  teiginys: "Švitrigaila buvo aprigaila k la stin gai užsupęs Vilnių."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168258
-
-<a id="claim-t-196662"></a>
-- t-050
-  teiginys: "Švitrigaila sužinojo, kad Švitrigaila perėjęs iš Prūsijos į Livoniją."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168260
-
-<a id="claim-t-196663"></a>
-- t-051
-  teiginys: "Drucko kunigaikščiai neramumų pradžioje mažai klausė Vytauto ir atvirai rėmė Švitrigailą."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-178825
-
-<a id="claim-t-196664"></a>
-- t-052
-  teiginys: "Taikos su Vasilijumi sąlygose buvo numatytas pažadas neremti Švitrigailos."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-178826
-
-<a id="claim-t-196665"></a>
-- t-053
-  teiginys: "Švitrigaila pareiškė, jog santuoka būsianti teisėta, ir surišo sutuoktinius, kaip to reikalauja Ro- 3 9 6 mos bažnyčia."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168261
-
-<a id="claim-t-201564"></a>
-- t-054
-  teiginys: "Vytauto pavyzdžiu sekė Švitrigaila ir Žygimantas Kęstutaitis."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-184911
-
-<a id="claim-t-204119"></a>
-- t-055
-  teiginys: "1437 m., Lietuvos didžiojo kunigaikščio Švitrigailos valdymo metais, Petras Volkovijus buvo didysis medžioklis."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  temporaliniai_duomenys: "įvykio data: 1437 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sakinys suredaguotas į sklandesnę enciklopedinę formą. Išlaikyti tik šaltinyje nurodyti asmuo, pareigybė, data ir valdymo laikotarpis."
-  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
-  pagrindžia:
-    - c-186727
-
-<a id="claim-t-204352"></a>
-- t-056
-  teiginys: "1432 m. sausio 26 d. Ordino pasiuntiniai pranešė Didžiajam magistrui, kad į suvažiavimą Brastoje Švitrigaila vyks tik su savo tarėjais ir dvariškiais."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  temporaliniai_duomenys: "įvykio data: 1432 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Sutvarkyta žodžių tvarka ir aiškiau nurodytas pranešimo adresatas bei Švitrigailos palyda. Išlaikytas šaltinyje pateiktas pranešimo pobūdis."
-  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
-  pagrindžia:
-    - c-186956
-
-<a id="claim-t-204353"></a>
-- t-057
-  teiginys: "Po Vytauto mirties Švitrigaila, išrinktas didžiuoju kunigaikščiu, tuoj po išrinkimo pasiūlė Jogailai susitikti santykiams su Lenkija sureguliuoti."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-5702-Bajoru-suvažiavimai"
-  vertinimo_atnaujinta: "2026-08-07T01:47:08Z"
-  pagrindžia:
-    - c-186957
-
-<a id="claim-t-206444"></a>
-- t-058
-  teiginys: "Teodoras Narbutas Švitrigailos veiksmus vaizduoja kaip išdavystę: įsižeidęs dėl Vitebsko atėmimo, Švitrigaila užpuolė miestą, nužudė Viosną ir paskyrė vietininką."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
-  pagrindžia:
-    - c-189059
-
-<a id="claim-t-206445"></a>
-- t-059
-  teiginys: "Teodoras Narbutas pasakoja, kad per Vitebsko apgultį Švitrigaila užsidarė pilyje ir nusprendė gintis iki galo, tačiau miestui pasidavus buvo priverstas išeiti."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
-  pagrindžia:
-    - c-189060
-
-<a id="claim-t-206446"></a>
-- t-060
-  teiginys: "Teodoras Narbutas spėja, kad Švitrigaila galėjo vadovauti žygiui, siekdamas prisiplėšti Kaributo turtų ir nuvesti kryžiuočius į Krėvą."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
-  pagrindžia:
-    - c-189061
-
-<a id="claim-t-206447"></a>
-- t-061
-  teiginys: "Teodoras Narbutas Švitrigailą vaizduoja kaip gėdingą vedlį: paėmęs kryžiuočių dalinį ir susimokęs su Vitebsko bajorais, Švitrigaila užpuolė Vitebską bei sukėlė riaušes kunigaikštystėje."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
-  pagrindžia:
-    - c-189062
-
-<a id="claim-t-206448"></a>
-- t-062
-  teiginys: "Po Vitebsko apgulties Švitrigaila buvo sukaustytas grandinėmis ir nusiųstas Lenkijos karaliui."
-  atnaujinta: "2026-08-16 22:50"
+<a id="claim-t-215454"></a>
+- t-215454
+  teiginys: "Švitrigailos privilegija, datuota Lucke 1451 metų vasario 18 dieną, pakartojo 1439 metų Vytauto privilegiją ir atnaujino Algirdo privilegiją."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   pagrindžia:
-    - c-189063
+    - c-197235
 
 ## Reikšmingi paminėjimai
 - c-040
@@ -1158,8 +1228,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-179688
 
 - id: c-16101
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1178,8 +1248,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-026
+  pagrindžia:
+    - t-179716
 
 - id: c-30378
   autorius: "Zenonas Ivinskis"
@@ -1198,8 +1268,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-179695
 
 - id: c-163353
   autorius: "Michał Baliński"
@@ -1238,9 +1308,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-037
-    - t-040
+  pagrindžia:
+    - t-179727
+    - t-179732
 
 - id: c-163354
   autorius: "Michał Baliński"
@@ -1259,8 +1329,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-013
+  pagrindžia:
+    - t-179701
 
 - id: c-163355
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1283,9 +1353,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-015
+  pagrindžia:
+    - t-179687
+    - t-179703
 
 - id: c-163356
   autorius: "Michał Baliński"
@@ -1311,9 +1381,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
-    - t-029
+  pagrindžia:
+    - t-179697
+    - t-179719
 
 - id: c-163357
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1333,8 +1403,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-179693
 
 - id: c-163359
   autorius: "Michał Baliński"
@@ -1356,8 +1426,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-018
+  pagrindžia:
+    - t-179706
 
 - id: c-163360
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1376,8 +1446,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-031
+  pagrindžia:
+    - t-179721
 
 - id: c-163361
   autorius: "Michał Baliński"
@@ -1404,8 +1474,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-025
+  pagrindžia:
+    - t-179715
 
 - id: c-163362
   sudarytojas: "Karolis Zikaras"
@@ -1427,8 +1497,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-034
+  pagrindžia:
+    - t-179724
 
 - id: c-163363
   autorius: "Michał Baliński"
@@ -1464,8 +1534,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-041
+  pagrindžia:
+    - t-179733
 
 - id: c-163364
   autorius: "Michał Baliński"
@@ -1488,8 +1558,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-028
+  pagrindžia:
+    - t-179718
 
 - id: c-163365
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1513,9 +1583,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-012
-    - t-022
+  pagrindžia:
+    - t-179700
+    - t-179710
 
 - id: c-163367
   autorius: "Michał Baliński"
@@ -1548,8 +1618,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-036
+  pagrindžia:
+    - t-179726
 
 - id: c-163369
   autorius: "Michał Baliński"
@@ -1570,8 +1640,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-010
+  pagrindžia:
+    - t-179698
 
 - id: c-163371
   autorius: "Michał Baliński"
@@ -1631,8 +1701,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-023
+  pagrindžia:
+    - t-179712
 
 - id: c-163373
   autorius: "Michał Baliński"
@@ -1656,8 +1726,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-038
+  pagrindžia:
+    - t-179729
 
 - id: c-163374
   autorius: "Michał Baliński"
@@ -1683,8 +1753,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-019
+  pagrindžia:
+    - t-179707
 
 - id: c-163375
   autorius: "Michał Baliński"
@@ -1707,8 +1777,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
+  pagrindžia:
+    - t-179696
 
 - id: c-163376
   autorius: "Michał Baliński"
@@ -1730,8 +1800,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-013
+  pagrindžia:
+    - t-179701
 
 - id: c-163377
   autorius: "Michał Baliński"
@@ -1757,8 +1827,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-016
+  pagrindžia:
+    - t-179704
 
 - id: c-163379
   autorius: "Michał Baliński"
@@ -1780,8 +1850,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-014
+  pagrindžia:
+    - t-179702
 
 - id: c-163380
   autorius: "Zenonas Ivinskis"
@@ -1806,8 +1876,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-033
+  pagrindžia:
+    - t-179723
 
 - id: c-163381
   sudarytojas: "Karolis Zikaras"
@@ -1828,8 +1898,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-030
+  pagrindžia:
+    - t-179720
 
 - id: c-163382
   autorius: "Michał Baliński"
@@ -1861,8 +1931,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-017
+  pagrindžia:
+    - t-179705
 
 - id: c-163383
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1883,8 +1953,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-011
+  pagrindžia:
+    - t-179699
 
 - id: c-163384
   autorius: "Michał Baliński"
@@ -1908,8 +1978,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-039
+  pagrindžia:
+    - t-179731
 
 - id: c-163385
   autorius: "Michał Baliński"
@@ -1941,8 +2011,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-017
+  pagrindžia:
+    - t-179705
 
 - id: c-163386
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1966,9 +2036,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-020
-    - t-035
+  pagrindžia:
+    - t-179708
+    - t-179725
 
 - id: c-163387
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -1987,8 +2057,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-179690
 
 - id: c-163388
   autorius: "Michał Baliński"
@@ -2025,9 +2095,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-027
-    - t-032
+  pagrindžia:
+    - t-179717
+    - t-179722
 
 - id: c-163390
   autorius: "Michał Baliński"
@@ -2054,8 +2124,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-024
+  pagrindžia:
+    - t-179713
 
 - id: c-163391
   autorius: "Zenonas Ivinskis"
@@ -2074,8 +2144,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-021
+  pagrindžia:
+    - t-179709
 
 - id: c-163394
   autorius: "Michał Baliński"
@@ -2098,9 +2168,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
-    - t-006
+  pagrindžia:
+    - t-179692
+    - t-179694
 
 - id: c-163395
   sudarytojas: "Karolis Zikaras"
@@ -2122,8 +2192,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-042
+  pagrindžia:
+    - t-179734
 
 - id: c-168257
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2148,9 +2218,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-043
-    - t-044
+  pagrindžia:
+    - t-184896
+    - t-184897
 
 - id: c-168258
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2190,8 +2260,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-049
+  pagrindžia:
+    - t-184897
+    - t-196661
 
 - id: c-168259
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2217,8 +2288,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-045
+  pagrindžia:
+    - t-184898
 
 - id: c-168260
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2250,9 +2321,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-046
-    - t-050
+  pagrindžia:
+    - t-196662
 
 - id: c-168261
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2280,8 +2350,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-053
+  pagrindžia:
+    - t-184900
+    - t-196665
 
 - id: c-173888
   autorius: "Teodoras Narbutas"
@@ -2304,8 +2375,6 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-047
 
 - id: c-178824
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2328,8 +2397,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-048
+  pagrindžia:
+    - t-196660
 
 - id: c-178825
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2360,8 +2429,9 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-051
+  pagrindžia:
+    - t-184898
+    - t-196663
 
 - id: c-178826
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -2391,8 +2461,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-052
+  pagrindžia:
+    - t-196664
 
 - id: c-184911
   šaltinis: "Zigmantas Kiaupa, Kauno istorija. I tomas: Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.) — Zigmantas Kiaupa, Kauno istorija. I tomas- Kauno istorija nuo seniausių laikų iki 1655 metų (2010 m.)"
@@ -2411,8 +2481,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-054
+  pagrindžia:
+    - t-201564
 
 - id: c-186727
   autorius: "Toma Zarankaitė"
@@ -2435,8 +2505,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-055
+  pagrindžia:
+    - t-204119
 
 - id: c-186956
   šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
@@ -2461,8 +2531,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-056
+  pagrindžia:
+    - t-204352
 
 - id: c-186957
   šaltinis: "Lietuvos Didžiosios Kunigaikštystės Seimo ištakos: didžiojo kunigaikščio taryba ir bajorų suvažiavimai XIV–XV a."
@@ -2489,8 +2559,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-057
+  pagrindžia:
+    - t-204353
 
 - id: c-189059
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -2506,8 +2576,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-058
+  pagrindžia:
+    - t-206444
 
 - id: c-189060
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -2534,8 +2604,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-059
+  pagrindžia:
+    - t-206445
 
 - id: c-189061
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -2553,8 +2623,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-060
+  pagrindžia:
+    - t-206446
 
 - id: c-189062
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -2574,8 +2644,8 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-061
+  pagrindžia:
+    - t-206447
 
 - id: c-189063
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -2591,8 +2661,123 @@ canonical_biography: "Švitrigaila šiame šaltinyje vaizduojamas kaip jauniausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-062
+  pagrindžia:
+    - t-206448
+
+- id: c-190101
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 54"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 54."
+  citata_originali: |
+    Prieš atsakant į šį klausimą, Edvardas Gudavičius
+    siūlo atidžiau pažvelgti į vieną žmogų, labai susijusį su Vytautu. Tai Švitrigaila (valdęs
+    po Vytauto, 1430–1432 m.). Labai prieštaringa ši sąsaja: visą gyvenimą Švitrigaila siekė
+    atimti sostą iš Vytauto, o tapęs jo įpėdiniu, kartu tapo ir jo siekimų paveldėtoju bei tęsėju.
+  citata_rodoma: "Tai Švitrigaila (valdęs \npo Vytauto, 1430–1432 m.). Labai prieštaringa ši sąsaja: visą gyvenimą Švitrigaila siekė \natimti sostą iš Vytauto, o tapęs jo įpėdiniu, kartu tapo ir jo siekimų paveldėtoju bei tęsėju."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+
+- id: c-190108
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 54"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 54."
+  citata_originali: |
+    Labai prieštaringa ši sąsaja: visą gyvenimą Švitrigaila siekė
+    atimti sostą iš Vytauto, o tapęs jo įpėdiniu, kartu tapo ir jo siekimų paveldėtoju bei tęsėju.
+    Kaip žinome, jis beviltiškai viską sužlugdė. Švitrigaila – savitas Vytauto antipodas, ypač
+    todėl, kad jis visur pralaimėjo ten, kur Vytautas laimėdavo.
+  citata_rodoma: "Švitrigaila – savitas Vytauto antipodas, ypač \ntodėl, kad jis visur pralaimėjo ten, kur Vytautas laimėdavo."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207466
+
+- id: c-193362
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 270"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 270."
+  citata_originali: |
+    Švitrigailos kariuome­
+    nė apgulė Trakus
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211889
+
+- id: c-194202
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 113"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 113."
+  citata_originali: |
+    Kunigaikštis Švitrigaila suėmė karalių Jogailą ir
+    pastatė sargybą
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210537
+
+- id: c-194249
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 265"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 265."
+  citata_originali: |
+    Šie Švitrigailos žodžiai atspindi aštrų konfliktą tarp LDK ir
+    Lenkijos dėl Podolės vakarinės dalies
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211630
+
+- id: c-197235
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 510"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 510."
+  citata_originali: |
+    Neseckiui šis herbas, pavadintas Kru-
+    nevičiaus vardu, yra žinomas. Rankoje turiu nuorašą Švitrigailos
+    privilegijos, datuotos Lucke 1451 metų vasario 18 dieną, kuria jis
+    pakartoja 1439 metų kovo 3 dienos Vytauto privilegiją, taip pat
+    atnaujina Algirdo privilegiją (nuorašas), kuria patvirtinama rite­
+    riška kilmė ir herbas raudoname lauke: ryšulys strėlių, tris kartus
+    kryžmai perjuostų auksine juosta, o iš abiejų pusių du pusmėnu­
+    liai, žiūrintys vienas j kitą, ant šalmo— riterio kepurė, o abipus du
+    erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
+    Podbužo dvaru Voluinėje už nuopelnus kare su totoriais.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214057
+    - t-215454
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Livonijos ordinas]]

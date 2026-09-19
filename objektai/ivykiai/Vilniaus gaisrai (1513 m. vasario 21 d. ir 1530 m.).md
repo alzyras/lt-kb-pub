@@ -58,10 +58,22 @@ Pirmasis gaisras sunaikino Aukštutinę pilį, o antrasis - Žemutinę karalių 
 
 ## Teiginiai
 
+<a id="claim-t-218741"></a>
+- t-218741
+  teiginys: "Narbutas aprašo 1748 ir 1749 metais Vilniuje įvykusių gaisrų istoriją."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198752
+
 <a id="claim-t-54452"></a>
-- t-001
+- t-54452
   teiginys: "Per 1530 m. Vilniaus gaisrą liepsnose pražuvo Žemutinė karalių pilis ir didžioji miesto dalis."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -78,9 +90,9 @@ Pirmasis gaisras sunaikino Aukštutinę pilį, o antrasis - Žemutinę karalių 
     - c-55332
 
 <a id="claim-t-54453"></a>
-- t-002
+- t-54453
   teiginys: "Per 1513 m. vasario 21 d. Vilniaus gaisrą buvo sunaikinta Aukštutinė pilis."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   ryšio_patikimumas: "susije_su -> Aukštutinė pilis: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -97,9 +109,9 @@ Pirmasis gaisras sunaikino Aukštutinę pilį, o antrasis - Žemutinę karalių 
     - c-55332
 
 <a id="claim-t-54454"></a>
-- t-003
+- t-54454
   teiginys: "1513 m. vasario 21 d. ir 1530 m. Vilniuje kilę gaisrai miestui padarė labai didelių nuostolių."
-  atnaujinta: "2026-06-13 17:21"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -116,9 +128,9 @@ Pirmasis gaisras sunaikino Aukštutinę pilį, o antrasis - Žemutinę karalių 
     - c-55332
 
 <a id="claim-t-54455"></a>
-- t-004
+- t-54455
   teiginys: "1513 m. vasario 21 d. ir 1530 m. Vilniaus gaisrai buvo viena iš priežasčių, paskatinusių karaliaus pastangas aprūpinti miestą vandeniu."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "final::darbas/prompts/03_extraction/04_extract_events_notes.md"
   ryšio_patikimumas: "susije_su -> Viena: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -161,8 +173,31 @@ Pirmasis gaisras sunaikino Aukštutinę pilį, o antrasis - Žemutinę karalių 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
-    - t-003
-    - t-004
+  pagrindžia:
+    - t-54452
+    - t-54453
+    - t-54454
+    - t-54455
+
+- id: c-198752
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 149"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 149."
+  citata_originali: |
+    Rankoje turiu knygelę25, kurios autorius nurodytas antraš­
+    tėje „Į skaitytoją“, dėsto eilėmis 1748 ir 1749 metais Vilniuje
+    įvykusių gaisrų nelaimingą istoriją. Toliau jis pateikia ilgą su­
+    degusių namų sąrašą. Paskui vėl graudžios eilės. Po šito, tary­
+    tum antrojoje veikalo dalyje, vėl kreipimasis į skaitytoją, ei­
+    liuota istorija antro gaisro, prasidėjusio Gregoravičiaus (Hre-
+    horovvicz) dvarelyje. Naujas sudegusių namų sąrašas.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-218741
+

@@ -44,21 +44,6 @@ Raimondos Ragauskienės darbe apie Mikalojaus Radvilos Rudojo ir Žygimanto Augu
 
 Raimondos Ragauskienės darbe apie Mikalojaus Radvilos Rudojo ir Žygimanto Augusto komunikaciją analizuojamas jų susirašinėjimo intensyvumas, komunikacijos technika ir laiškų forma.
 
-## Teiginiai
-
-<a id="claim-t-204156"></a>
-- t-001
-  teiginys: "Raimondos Ragauskienės darbe apie Mikalojaus Radvilos Rudojo ir Žygimanto Augusto komunikaciją analizuojamas jų susirašinėjimo intensyvumas, komunikacijos technika ir laiškų forma."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
-  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
-  pagrindžia:
-    - c-186760
-
 ## Citatos
 
 - id: c-186760
@@ -82,5 +67,21 @@ Raimondos Ragauskienės darbe apie Mikalojaus Radvilos Rudojo ir Žygimanto Augu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204156"></a>
+- t-001
+  teiginys: "Raimondos Ragauskienės darbe apie Mikalojaus Radvilos Rudojo ir Žygimanto Augusto komunikaciją analizuojamas jų susirašinėjimo intensyvumas, komunikacijos technika ir laiškų forma."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-66360-Didieji-medziokliai-Radvilos"
+  vertinimo_atnaujinta: "2026-08-06T21:34:02Z"
+  pagrindžia:
+    - c-186760
+

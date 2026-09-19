@@ -35,45 +35,6 @@ Vygandas buvo vedęs Vladislovo iš Opolės, vėliau Gnievo kunigaikščio, dukr
 
 Vygandas buvo vedęs Vladislovo iš Opolės, vėliau Gnievo kunigaikščio, dukrą Jadvygą ir paliko vieną dukrą. Pasak T. Narbuto, Vygandas buvo nuožmus Vytauto priešas, siekęs su šalininkais užimti Vilnių ir visą Lietuvą bei tikėjęsis žento Bazilijaus paramos. Narbutas nurodo, kad Vygandas Aleksandras buvo paliktas vyriausiuoju valdytoju ir staiga mirė.
 
-## Teiginiai
-
-<a id="claim-t-206982"></a>
-- t-001
-  teiginys: "Vygandas buvo vedęs Vladislovo iš Opolės, vėliau Gnievo kunigaikščio, dukrą Jadvygą ir paliko vieną dukrą."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189597
-
-<a id="claim-t-206983"></a>
-- t-002
-  teiginys: "Pasak T. Narbuto, Vygandas buvo nuožmus Vytauto priešas, siekęs su šalininkais užimti Vilnių ir visą Lietuvą bei tikėjęsis žento Bazilijaus paramos."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
-  pagrindžia:
-    - c-189598
-
-<a id="claim-t-206984"></a>
-- t-003
-  teiginys: "Narbutas nurodo, kad Vygandas Aleksandras buvo paliktas vyriausiuoju valdytoju ir staiga mirė."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189599
-
 ## Citatos
 
 - id: c-189597
@@ -94,7 +55,7 @@ Vygandas buvo vedęs Vladislovo iš Opolės, vėliau Gnievo kunigaikščio, dukr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189598
@@ -115,7 +76,7 @@ Vygandas buvo vedęs Vladislovo iš Opolės, vėliau Gnievo kunigaikščio, dukr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-189599
@@ -134,5 +95,45 @@ Vygandas buvo vedęs Vladislovo iš Opolės, vėliau Gnievo kunigaikščio, dukr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+## Teiginiai
+
+<a id="claim-t-206982"></a>
+- t-001
+  teiginys: "Vygandas buvo vedęs Vladislovo iš Opolės, vėliau Gnievo kunigaikščio, dukrą Jadvygą ir paliko vieną dukrą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189597
+
+<a id="claim-t-206983"></a>
+- t-002
+  teiginys: "Pasak T. Narbuto, Vygandas buvo nuožmus Vytauto priešas, siekęs su šalininkais užimti Vilnių ir visą Lietuvą bei tikėjęsis žento Bazilijaus paramos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189598
+
+<a id="claim-t-206984"></a>
+- t-003
+  teiginys: "Narbutas nurodo, kad Vygandas Aleksandras buvo paliktas vyriausiuoju valdytoju ir staiga mirė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189599
+

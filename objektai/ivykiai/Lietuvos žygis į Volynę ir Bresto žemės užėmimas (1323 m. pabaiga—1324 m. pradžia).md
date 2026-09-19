@@ -53,10 +53,20 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-62866"></a>
-- t-001
+<a id="claim-t-220688"></a>
+- t-220688
+  teiginys: "Lietuvos valstybė, kariaujanti su Kryžiuočių ordinu ir atskirta nuo Baltijos jūros, dabar išėjo prie pietinių tarptautinės prekybos kelių."
+  atnaujinta: "2026-09-13 18:01"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+
+<a id="claim-t-221088"></a>
+- t-221088
   teiginys: "Gedimino Lietuva 1323 m. pabaigoje arba 1324 m. pradžioje, matyt, susitarusi su Vladislovu Lokietka, užėmė Bresto žemę."
-  atnaujinta: "2026-07-19 17:58"
+  atnaujinta: "2026-09-13 11:42"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
@@ -70,8 +80,6 @@ Nenurodyta
   temporaliniai_duomenys: "įvykio data: 1323 m.; įvykio data: 1324 m.; įvykio data: 1325 m.; įvykio data: apie 1325 m."
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data."
   temporalinis_llm_pakomentavimas: "Teiginys yra pilnas, gramatiškas ir atitinka citatos turinį."
-  pagrindžia:
-    - c-63705
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -110,5 +118,4 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

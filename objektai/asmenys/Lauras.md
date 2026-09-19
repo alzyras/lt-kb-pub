@@ -35,84 +35,6 @@ canonical_biography: "Lauras, žmonių vadintas Rimantu, po žinios apie tėvo n
 
 Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienuolyną ir pradėjo vadovauti karui prieš Daumantą. Lauras po sutelktų pajėgų patraukė prieš Daumantą, mūšyje įgijo persvarą ir nukovė Daumantą. Lauras, Traidenio sūnus, prieš Daumanto siekį užimti valdžią jau buvo atsisakęs valdžios ir apsigyvenęs vienuolyne.
 
-## Teiginiai
-
-<a id="claim-t-186007"></a>
-- t-001
-  teiginys: "Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienuolyną ir pradėjo vadovauti karui prieš Daumantą."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169368
-
-<a id="claim-t-186008"></a>
-- t-002
-  teiginys: "Lauras po sutelktų pajėgų patraukė prieš Daumantą, mūšyje įgijo persvarą ir nukovė Daumantą."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169369
-
-<a id="claim-t-196539"></a>
-- t-003
-  teiginys: "Lauras, Traidenio sūnus, prieš Daumanto siekį užimti valdžią jau buvo atsisakęs valdžios ir apsigyvenęs vienuolyne."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-178753
-
-<a id="claim-t-196540"></a>
-- t-004
-  teiginys: "Kojelavičiaus pasakojime Lauras, vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienuolyną ir ėmė vadovauti karui prieš Daumantą."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-169368
-
-<a id="claim-t-196541"></a>
-- t-005
-  teiginys: "Kojelavičius rašo, kad Lauras, paleidęs kariuomenę, nuskubėjo į Kernavę, kur buvo paskirtas susirinkimas karaliui rinkti."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-169369
-
-<a id="claim-t-196542"></a>
-- t-006
-  teiginys: "Lauras atsisakė priimti jam siūlytą valdžią, bet sakė neatsisakąs rūpintis tėvyne."
-  atnaujinta: "2026-07-13 01:00"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
-  pagrindžia:
-    - c-178754
-
 ## Citatos
 
 - id: c-169368
@@ -149,7 +71,7 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-004
 
@@ -185,7 +107,7 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
     - t-005
 
@@ -216,7 +138,7 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-178754
@@ -238,5 +160,84 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
+
+## Teiginiai
+
+<a id="claim-t-186007"></a>
+- t-001
+  teiginys: "Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienuolyną ir pradėjo vadovauti karui prieš Daumantą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169368
+
+<a id="claim-t-186008"></a>
+- t-002
+  teiginys: "Lauras po sutelktų pajėgų patraukė prieš Daumantą, mūšyje įgijo persvarą ir nukovė Daumantą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169369
+
+<a id="claim-t-196539"></a>
+- t-003
+  teiginys: "Lauras, Traidenio sūnus, prieš Daumanto siekį užimti valdžią jau buvo atsisakęs valdžios ir apsigyvenęs vienuolyne."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-178753
+
+<a id="claim-t-196540"></a>
+- t-004
+  teiginys: "Kojelavičiaus pasakojime Lauras, vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienuolyną ir ėmė vadovauti karui prieš Daumantą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-169368
+
+<a id="claim-t-196541"></a>
+- t-005
+  teiginys: "Kojelavičius rašo, kad Lauras, paleidęs kariuomenę, nuskubėjo į Kernavę, kur buvo paskirtas susirinkimas karaliui rinkti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-169369
+
+<a id="claim-t-196542"></a>
+- t-006
+  teiginys: "Lauras atsisakė priimti jam siūlytą valdžią, bet sakė neatsisakąs rūpintis tėvyne."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-178754
+

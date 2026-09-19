@@ -42,21 +42,6 @@ Eželio vyskupas, kaip pasakoja Teodoras Narbutas, dėl palankumo Romos katalik�
 
 Eželio vyskupas, kaip pasakoja Teodoras Narbutas, dėl palankumo Romos katalikų tikėjimui ir siekio jį plėsti nenorėjo atsisakyti taikos.
 
-## Teiginiai
-
-<a id="claim-t-205849"></a>
-- t-001
-  teiginys: "Eželio vyskupas, kaip pasakoja Teodoras Narbutas, dėl palankumo Romos katalikų tikėjimui ir siekio jį plėsti nenorėjo atsisakyti taikos."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
-  pagrindžia:
-    - c-188464
-
 ## Citatos
 
 - id: c-188464
@@ -83,5 +68,21 @@ Eželio vyskupas, kaip pasakoja Teodoras Narbutas, dėl palankumo Romos katalik�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205849"></a>
+- t-001
+  teiginys: "Eželio vyskupas, kaip pasakoja Teodoras Narbutas, dėl palankumo Romos katalikų tikėjimui ir siekio jį plėsti nenorėjo atsisakyti taikos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188464
+

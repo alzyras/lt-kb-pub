@@ -35,21 +35,6 @@ Teodoro Narbuto pasakojimu, didysis magistras Dusmeris Arfbergas susisiekė su L
 
 Teodoro Narbuto pasakojimu, didysis magistras Dusmeris Arfbergas susisiekė su Livonijos magistru Gosvinu Herike, kad abiejose šalyse vienu metu būtų rengiami puolimo veiksmai.
 
-## Teiginiai
-
-<a id="claim-t-206985"></a>
-- t-001
-  teiginys: "Teodoro Narbuto pasakojimu, didysis magistras Dusmeris Arfbergas susisiekė su Livonijos magistru Gosvinu Herike, kad abiejose šalyse vienu metu būtų rengiami puolimo veiksmai."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
-  pagrindžia:
-    - c-189600
-
 ## Citatos
 
 - id: c-189600
@@ -67,5 +52,21 @@ Teodoro Narbuto pasakojimu, didysis magistras Dusmeris Arfbergas susisiekė su L
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206985"></a>
+- t-001
+  teiginys: "Teodoro Narbuto pasakojimu, didysis magistras Dusmeris Arfbergas susisiekė su Livonijos magistru Gosvinu Herike, kad abiejose šalyse vienu metu būtų rengiami puolimo veiksmai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:06Z"
+  pagrindžia:
+    - c-189600
+

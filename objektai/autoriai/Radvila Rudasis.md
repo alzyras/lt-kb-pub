@@ -61,3 +61,45 @@ canonical_biography: "1569 m. kovo 13 d. Radvila Rudasis rašė Romanui Sangušk
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Teiginiai
+
+<a id="claim-t-207911"></a>
+- t-001
+  teiginys: "1569 m. kovo 13 d. Radvila Rudasis rašė Romanui Sanguškai."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  temporaliniai_duomenys: "įvykio data: 1569 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190528
+
+## Citatos
+
+- id: c-190528
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 123"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 123."
+  citata_originali: |
+    Radvila Rudasis 1569 m. kovo 13 d. laiške Romanui Sanguškai apie Lietuvos
+    valstybę, santykį su ja rašė: „Kol mes, visa Lietuvos Kunigaikštystė, [...] su Lietuvos
+    didžiojo kunigaikščio sostu bei su mūsų pareigybėmis į Lenkijos Karūną neįsiliejome ir
+    mūsų Ponui neleidome dovanoti mus Karūnai, tokiomis sąlygomis, kokias ponai Len-
+    kai dėsto, kurias, panašu, ir pats Ponas tame reikale jiems padeda ir remia, kad galėtų
+    mus jiems dovanoti"
+    37.
+  citata_rodoma: "Radvila Rudasis 1569 m. kovo 13 d. laiške Romanui Sanguškai apie Lietuvos\nvalstybę, santykį su ja rašė: „Kol mes, visa Lietuvos Kunigaikštystė, [...] su Lietuvos\ndidžiojo kunigaikščio sostu bei su mūsų pareigybėmis į Lenkijos Karūną neįsiliejome ir\nmūsų Ponui neleidome dovanoti mus Karūnai, tokiomis sąlygomis, kokias ponai Len-\nkai dėsto, kurias, panašu, ir pats Ponas tame reikale jiems padeda ir remia, kad galėtų\nmus jiems dovanoti\""
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+

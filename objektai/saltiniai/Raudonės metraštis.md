@@ -34,34 +34,6 @@ Teodoras Narbutas, remdamasis Raudonės metraščiu, nurodo, kad Gediminas Žema
 
 Teodoras Narbutas, remdamasis Raudonės metraščiu, nurodo, kad Gediminas Žemaitijoje vadovavo savo tėvo pulkams. Teodoras Narbutas, remdamasis Raudonės rankraščiu, nurodo, kad jauniausias Gedimino sūnus Karijotas gimė 1306 metais ir Vytenio mirties metais buvo devynerių.
 
-## Teiginiai
-
-<a id="claim-t-206114"></a>
-- t-001
-  teiginys: "Teodoras Narbutas, remdamasis Raudonės metraščiu, nurodo, kad Gediminas Žemaitijoje vadovavo savo tėvo pulkams."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
-  pagrindžia:
-    - c-188729
-
-<a id="claim-t-206115"></a>
-- t-002
-  teiginys: "Teodoras Narbutas, remdamasis Raudonės rankraščiu, nurodo, kad jauniausias Gedimino sūnus Karijotas gimė 1306 metais ir Vytenio mirties metais buvo devynerių."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
-  pagrindžia:
-    - c-188730
-
 ## Citatos
 
 - id: c-188729
@@ -82,7 +54,7 @@ Teodoras Narbutas, remdamasis Raudonės metraščiu, nurodo, kad Gediminas Žema
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188730
@@ -108,5 +80,34 @@ Teodoras Narbutas, remdamasis Raudonės metraščiu, nurodo, kad Gediminas Žema
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-206114"></a>
+- t-001
+  teiginys: "Teodoras Narbutas, remdamasis Raudonės metraščiu, nurodo, kad Gediminas Žemaitijoje vadovavo savo tėvo pulkams."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188729
+
+<a id="claim-t-206115"></a>
+- t-002
+  teiginys: "Teodoras Narbutas, remdamasis Raudonės rankraščiu, nurodo, kad jauniausias Gedimino sūnus Karijotas gimė 1306 metais ir Vytenio mirties metais buvo devynerių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188730
+

@@ -73,9 +73,11 @@ Raklienė Petkevičienė minima dėl kvietimo, susijusio su Olžovo dvaru.
     Ten pat paminėtas ir Raklienės
     Petkevičienės kvietimas dėl Olžovo dvaro.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-07 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

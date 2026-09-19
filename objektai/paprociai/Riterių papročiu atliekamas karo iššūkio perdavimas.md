@@ -39,21 +39,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206951"></a>
-- t-001
-  teiginys: "Maskvos pasiuntiniai, perduodami Dmitrijaus Ivanovičiaus iššūkį Algirdui, padėjo prie jo kojų ugnį ir kardą, o Algirdas, atsakydamas riterių papročiu, įskėlė ugnį ir grąžino uždegtą kempę."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189566
-
 ## Santrauka
 
 Maskvos pasiuntiniai, perduodami Dmitrijaus Ivanovičiaus iššūkį Algirdui, padėjo prie jo kojų ugnį ir kardą, o Algirdas, atsakydamas riterių papročiu, įskėlė ugnį ir grąžino uždegtą kempę.
@@ -83,5 +68,21 @@ Maskvos pasiuntiniai, perduodami Dmitrijaus Ivanovičiaus iššūkį Algirdui, p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206951"></a>
+- t-001
+  teiginys: "Maskvos pasiuntiniai, perduodami Dmitrijaus Ivanovičiaus iššūkį Algirdui, padėjo prie jo kojų ugnį ir kardą, o Algirdas, atsakydamas riterių papročiu, įskėlė ugnį ir grąžino uždegtą kempę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189566
+

@@ -36,20 +36,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-201319"></a>
-- t-001
-  teiginys: "Tuo pačiu laiku Gediminas antrą gromatą pas pravorus ir gvardijonus Saksonijos ir Silezijos, ly gia dalia prekybos miestus Liubeką, Rostoką, Zun dą, Greifsvaldą, Sietiną ir Gotlandą buvo nuleidęs, sakydamas, jog jis lūgojęs nuo popiežiaus kunigų ir siuntinius."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184669
-
 ## Citatos
 
 - id: c-184669
@@ -79,5 +65,20 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201319"></a>
+- t-001
+  teiginys: "Tuo pačiu laiku Gediminas antrą gromatą pas pravorus ir gvardijonus Saksonijos ir Silezijos, ly gia dalia prekybos miestus Liubeką, Rostoką, Zun dą, Greifsvaldą, Sietiną ir Gotlandą buvo nuleidęs, sakydamas, jog jis lūgojęs nuo popiežiaus kunigų ir siuntinius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184669
+

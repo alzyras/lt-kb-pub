@@ -34,28 +34,6 @@ media_all_json: |-
 
 Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo simboliu ir pramintas lietuviška Golgota.
 
-## Teiginiai
-
-<a id="claim-t-20835"></a>
-- t-001
-  teiginys: "Kryžių kalnas, 1993 m. aplankytas popiežiaus Jono Pauliaus II, tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Šiauliai: 0.58"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kryžių kalnas: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Šiauliai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo Kryžių kalno geografinį ryšį su Šiauliais, bet tai nėra griežta priklausomybė."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  semantiniai_rysiai: "Kryžių kalnas priklausė Šiauliai (0.58)"
-  temporaliniai_duomenys: "įvykio data: 1961 m.; įvykio data: 1993 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pradinis teiginys prasideda kontekstiniu žodžiu „Taip“, todėl reikėjo savarankiško sakinio."
-  pagrindžia:
-    - c-166884
-
 ## Citatos
 
 - id: c-166884
@@ -78,5 +56,28 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-20835"></a>
+- t-001
+  teiginys: "Kryžių kalnas, 1993 m. aplankytas popiežiaus Jono Pauliaus II, tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Šiauliai: 0.58"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kryžių kalnas: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Šiauliai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo Kryžių kalno geografinį ryšį su Šiauliais, bet tai nėra griežta priklausomybė."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  semantiniai_rysiai: "Kryžių kalnas priklausė Šiauliai (0.58)"
+  temporaliniai_duomenys: "įvykio data: 1961 m.; įvykio data: 1993 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pradinis teiginys prasideda kontekstiniu žodžiu „Taip“, todėl reikėjo savarankiško sakinio."
+  pagrindžia:
+    - c-166884
+

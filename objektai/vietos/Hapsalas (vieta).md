@@ -38,20 +38,6 @@ historical_names: []
 
 Taip pat patrakę vikionys vyskupą Hermaną su diduomene pilėj Hapsaloj apgulė.
 
-## Teiginiai
-
-<a id="claim-t-201163"></a>
-- t-001
-  teiginys: "Taip pat patrakę vikionys vyskupą Hermaną su diduomene pilėj Hapsaloj apgulė."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184513
-
 ## Citatos
 
 - id: c-184513
@@ -70,5 +56,20 @@ Taip pat patrakę vikionys vyskupą Hermaną su diduomene pilėj Hapsaloj apgul�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201163"></a>
+- t-001
+  teiginys: "Taip pat patrakę vikionys vyskupą Hermaną su diduomene pilėj Hapsaloj apgulė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184513
+

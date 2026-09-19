@@ -49,10 +49,51 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
 
 ## Teiginiai
 
+<a id="claim-t-207901"></a>
+- t-207901
+  teiginys: "Florencijos kunigaikščiui buvo pažadėta atsiųsti liliputą ir liliputę."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  pagrindžia:
+    - c-190393
+
+<a id="claim-t-214456"></a>
+- t-214456
+  teiginys: "Vėliau ši nesuskaičiuojama kariuo menė pasidalijo į dvi dalis: viena, kurioje buvo 200 000 karių, atėjo prie Florencijos mūrų, bet beveik visiškai pralaimėjo Stilichono vadovaujamiems romėnams."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+
+<a id="claim-t-214841"></a>
+- t-214841
+  teiginys: "Prie Florencijos mūrų atėjusi 200 000 karių kariuomenės dalis beveik visiškai pralaimėjo Stilichono vadovaujamiems romėnams."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "gyne -> Florencija: 0.71"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Romėnai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Florencija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kariuomenė atėjo prie Florencijos mūrų ir pralaimėjo romėnams, todėl romėnų veiksmas susietas su Florencijos gynyba."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  semantiniai_rysiai: "Romėnai gynė Florencija (0.71)"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+
 <a id="claim-t-83346"></a>
-- t-001
+- t-83346
   teiginys: "1434 m. spalio 20 d. popiežius Eugenijus IV iš Florencijos parašė Žygimantui Kęstutaičiui laišką dėl Sofijos."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Eugenijus IV: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -69,9 +110,9 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
     - c-79693
 
 <a id="claim-t-83347"></a>
-- t-002
+- t-83347
   teiginys: "Popiežius Eugenijus IV 1434 m. spalio 20 d. iš Florencijos rašytame laiške užtarė Sofiją Žygimantui Kęstutaičiui."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Eugenijus IV: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -88,9 +129,9 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
     - c-79693
 
 <a id="claim-t-83348"></a>
-- t-003
+- t-83348
   teiginys: "Florencijoje galutinai susitarta dėl Bažnyčių unijos, kuri 1452 m. buvo paskelbta Konstantinopolyje."
-  atnaujinta: "2026-06-13 18:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Konstantinopolis: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -104,39 +145,6 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
   temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
   pagrindžia:
     - c-79695
-
-<a id="claim-t-192660"></a>
-- t-004
-  teiginys: "Prie Florencijos mūrų atėjusi 200 000 karių kariuomenės dalis beveik visiškai pralaimėjo Stilichono vadovaujamiems romėnams."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "gyne -> Florencija: 0.71"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Romėnai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Florencija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kariuomenė atėjo prie Florencijos mūrų ir pralaimėjo romėnams, todėl romėnų veiksmas susietas su Florencijos gynyba."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  semantiniai_rysiai: "Romėnai gynė Florencija (0.71)"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-175430
-
-<a id="claim-t-197877"></a>
-- t-005
-  teiginys: "Vėliau ši nesuskaičiuojama kariuo menė pasidalijo į dvi dalis: viena, kurioje buvo 200 000 karių, atėjo prie Florencijos mūrų, bet beveik visiškai pralaimėjo Stilichono vadovaujamiems romėnams."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-175430
 
 ## Reikšmingi paminėjimai
 - c-003
@@ -198,9 +206,9 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-002
+  pagrindžia:
+    - t-83346
+    - t-83347
 
 - id: c-79695
   redaktorius: "A. Šapoka"
@@ -220,8 +228,8 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-83348
 
 - id: c-175430
   autorius: "Teodoras Narbutas"
@@ -250,6 +258,27 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
-    - t-005
+
+- id: c-190393
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 221"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 221."
+  citata_originali: |
+    Užsimena kunigaikštienei, kad kažką pa-
+    našaus jau yra tekę išgirsti Milane, aiškina, kad jaunuoliai patys dar nemoka gyventi, ir
+    draugus, ir tarnus tinkamus pasirinkti, lengvai pažadus dalija. Praneša ir apie vieną
+    nerimą jam sukėlusi pažadą Florencijos kunigaikščiui, prašo pagalvoti, kaip jį būtų
+    galima tesėti, nes, tokiems dideliems ponams pažadėjus, negalima pažado pamiršti. O
+    globotinis jaunasis Slucko kunigaikštis pažadėjo Florencijos kunigaikščiui atsiųsti iš
+    Lenkijos liliputą ir liliputę.
+  citata_rodoma: "O\nglobotinis jaunasis Slucko kunigaikštis pažadėjo Florencijos kunigaikščiui atsiųsti iš\nLenkijos liliputą ir liliputę."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207901
+

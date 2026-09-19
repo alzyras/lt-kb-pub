@@ -48,21 +48,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-194081"></a>
-- t-001
-  teiginys: "Smolenske Maskvos didysis kunigaikštis Vasilijus Dimitrijevičius pagerbė Vytautą brangiomis dovanomis, o Vytautas apdovanojo jį ir pagarbiai išlydėjo į Maskvą."
-  atnaujinta: "2026-07-12 22:45"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
-  pagrindžia:
-    - c-176694
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Smolenske Maskvos didysis kunigaikštis Vasilijus Dimitrijevičius pagerbė Vytautą brangiomis dovanomis, o Vytautas apdovanojo jį ir pagarbiai išlydėjo į Maskvą.'
@@ -121,5 +106,17 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+## Teiginiai
+
+<a id="claim-t-211367"></a>
+- t-001
+  teiginys: "Smolenske Maskvos didysis kunigaikštis Vasilijus Dimitrijevičius pagerbė Vytautą brangiomis dovanomis, o Vytautas apdovanojo jį ir pagarbiai išlydėjo į Maskvą."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T19:45:41Z"
+

@@ -27,25 +27,6 @@ media_all_json: |-
 
 Tačiau jis leido Lietuvos bajorijai sudaryti laikinę savo valdžią.
 
-## Teiginiai
-
-<a id="claim-t-01362"></a>
-- t-001
-  teiginys: "Lietuvos bajorijai buvo leista sudaryti laikinę Lietuvos vyriausybę, kurios priešakyje stojo grafas Soltanas."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Lietuva: 0.70"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Laikinė Lietuvos vyriausybė: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vyriausybė tiesiogiai įvardyta kaip Lietuvos vyriausybė."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  semantiniai_rysiai: "Laikinė Lietuvos vyriausybė priklausė Lietuva (0.70)"
-  pagrindžia:
-    - c-01600
-
 ## Citatos
 
 - id: c-01600
@@ -66,5 +47,25 @@ Tačiau jis leido Lietuvos bajorijai sudaryti laikinę savo valdžią.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-01362"></a>
+- t-001
+  teiginys: "Lietuvos bajorijai buvo leista sudaryti laikinę Lietuvos vyriausybę, kurios priešakyje stojo grafas Soltanas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Lietuva: 0.70"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Laikinė Lietuvos vyriausybė: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Lietuva: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vyriausybė tiesiogiai įvardyta kaip Lietuvos vyriausybė."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Laikinė Lietuvos vyriausybė priklausė Lietuva (0.70)"
+  pagrindžia:
+    - c-01600
+

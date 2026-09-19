@@ -28,21 +28,6 @@ Gedimino giminė, pasak Teodoro Narbuto, iškilmingais priesaika patvirtintais a
 
 Gedimino giminė, pasak Teodoro Narbuto, iškilmingais priesaika patvirtintais aktais įsipareigojo tarnauti ir paklusti karalienei bei Lenkijos karalystei, gyvendama vienybėje su valdovų giminės kunigaikščiais.
 
-## Teiginiai
-
-<a id="claim-t-206673"></a>
-- t-001
-  teiginys: "Gedimino giminė, pasak Teodoro Narbuto, iškilmingais priesaika patvirtintais aktais įsipareigojo tarnauti ir paklusti karalienei bei Lenkijos karalystei, gyvendama vienybėje su valdovų giminės kunigaikščiais."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
-  pagrindžia:
-    - c-189288
-
 ## Citatos
 
 - id: c-189288
@@ -65,5 +50,21 @@ Gedimino giminė, pasak Teodoro Narbuto, iškilmingais priesaika patvirtintais a
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206673"></a>
+- t-001
+  teiginys: "Gedimino giminė, pasak Teodoro Narbuto, iškilmingais priesaika patvirtintais aktais įsipareigojo tarnauti ir paklusti karalienei bei Lenkijos karalystei, gyvendama vienybėje su valdovų giminės kunigaikščiais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:08Z"
+  pagrindžia:
+    - c-189288
+

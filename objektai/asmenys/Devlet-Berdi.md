@@ -59,3 +59,22 @@ Lietuvos metraštis pasakoja, kad Vytautas Ordai paskyrė kitą chaną, vardu De
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-193380
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 335"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 335."
+  citata_originali: |
+    Devlet-Berdi buvo pirmojo Krymo (Perekopo) chano Ač (Cha-
+    dži)-Girėjaus (žr. skyr. 47, past. 30) dėdė. Jo tapatinimas su pačiu
+    Ač-Girėjumi yra klaidingas
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+

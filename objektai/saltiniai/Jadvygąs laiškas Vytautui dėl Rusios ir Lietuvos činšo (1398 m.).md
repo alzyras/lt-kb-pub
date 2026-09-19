@@ -32,20 +32,6 @@ Teodoro Narbuto pasakojimu, Jadvyga rašė Vytautui, kad ištekėdama gavo Rusi�
 
 Teodoro Narbuto pasakojimu, Jadvyga rašė Vytautui, kad ištekėdama gavo Rusią ir Lietuvą kaip kraitį bei teisę rinkti tam tikrą metinę duoklę, vadintą činšu.
 
-## Teiginiai
-
-<a id="claim-t-207056"></a>
-- t-001
-  teiginys: "Teodoro Narbuto pasakojimu, Jadvyga rašė Vytautui, kad ištekėdama gavo Rusią ir Lietuvą kaip kraitį bei teisę rinkti tam tikrą metinę duoklę, vadintą činšu."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189671
-
 ## Citatos
 
 - id: c-189671
@@ -66,5 +52,20 @@ Teodoro Narbuto pasakojimu, Jadvyga rašė Vytautui, kad ištekėdama gavo Rusi�
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-207056"></a>
+- t-001
+  teiginys: "Teodoro Narbuto pasakojimu, Jadvyga rašė Vytautui, kad ištekėdama gavo Rusią ir Lietuvą kaip kraitį bei teisę rinkti tam tikrą metinę duoklę, vadintą činšu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189671
+

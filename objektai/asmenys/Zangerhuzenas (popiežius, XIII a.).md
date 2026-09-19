@@ -44,20 +44,6 @@ canonical_biography: "Didis mistras Zangerhuzenas steigė visa aitra suspaustus 
 
 Didis mistras Zangerhuzenas steigė visa aitra suspaustus savo brostvius kaip įmanąs gelbėti; jau tą patį ru denį 1261, sutelkęs šen ten Teutonijoj stiprius bū rius meldžionų, tenai išsiuntė.
 
-## Teiginiai
-
-<a id="claim-t-201411"></a>
-- t-001
-  teiginys: "Didis mistras Zangerhuzenas steigė visa aitra suspaustus savo brostvius kaip įmanąs gelbėti; jau tą patį ru denį 1261, sutelkęs šen ten Teutonijoj stiprius bū rius meldžionų, tenai išsiuntė."
-  atnaujinta: "2026-07-16 14:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184761
-
 ## Citatos
 
 - id: c-184761
@@ -79,5 +65,20 @@ Didis mistras Zangerhuzenas steigė visa aitra suspaustus savo brostvius kaip į
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201411"></a>
+- t-001
+  teiginys: "Didis mistras Zangerhuzenas steigė visa aitra suspaustus savo brostvius kaip įmanąs gelbėti; jau tą patį ru denį 1261, sutelkęs šen ten Teutonijoj stiprius bū rius meldžionų, tenai išsiuntė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184761
+

@@ -37,37 +37,6 @@ historical_names: []
 
 Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, kurie nepastebėti užėjo besirengiantiems apėjimui bolševikams į užnugarį ir netikėtai juos apmėtę granatomis bei apšaudę privertė iš Eigulių kaimo skubiai trauktis į Juodikio mišką.
 
-## Teiginiai
-
-<a id="claim-t-41710"></a>
-- t-001
-  teiginys: "Lietuvių kariai granatomis ir šūviais privertė bolševikus iš Eigulių kaimo skubiai trauktis į Juodikio mišką."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "siunte_i -> Paobeliai: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "J. Šarauskas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Paobeliai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad J. Šarauskas pasiuntė karius į Paobelius."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "J. Šarauskas siuntė į Paobeliai (0.88)"
-  pagrindžia:
-    - c-45091
-
-<a id="claim-t-201594"></a>
-- t-002
-  teiginys: "Šis kelias ėjo per seniūno žinioje esantį pilies jurzdiką, kirto irgi valdovui priklausantį Eigulių kaimą, taigi su miestu susiję žmonės čia kurtis negalėjo."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184941
-
 ## Citatos
 
 - id: c-45091
@@ -96,7 +65,7 @@ Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-184941
@@ -116,5 +85,37 @@ Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-41710"></a>
+- t-001
+  teiginys: "Lietuvių kariai granatomis ir šūviais privertė bolševikus iš Eigulių kaimo skubiai trauktis į Juodikio mišką."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "siunte_i -> Paobeliai: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "J. Šarauskas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Paobeliai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai nurodo, kad J. Šarauskas pasiuntė karius į Paobelius."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "J. Šarauskas siuntė į Paobeliai (0.88)"
+  pagrindžia:
+    - c-45091
+
+<a id="claim-t-201594"></a>
+- t-002
+  teiginys: "Šis kelias ėjo per seniūno žinioje esantį pilies jurzdiką, kirto irgi valdovui priklausantį Eigulių kaimą, taigi su miestu susiję žmonės čia kurtis negalėjo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184941
+

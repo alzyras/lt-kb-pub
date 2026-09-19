@@ -37,27 +37,6 @@ media_all_json: |-
 
 ## Teiginiai
 
-<a id="claim-t-200651"></a>
-- t-001
-  teiginys: "1749 m. įvyko Smolensko pavieto seimelis."
-  atnaujinta: "2026-07-26 17:50"
-  sprendimo_priezastis: "gap::groups"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Smolenskas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Smolensko pavieto seimelis: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Smolenskas: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Smolensko pavieto seimelis\" parinktas kaip owner_note_path. Targetas \"Smolenskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
-  temporaliniai_duomenys: "įvykio data: 1749 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Tai trumpas, bet gramatiškas ir šaltinio tiesiogiai pagrįstas faktinis sakinys apie 1749 m. seimelio įvykimą."
-  vertinimo_atnaujinta: "2026-07-26T14:36:54Z"
-  pagrindžia:
-    - c-183983
-
 <a id="claim-t-200652"></a>
 - t-002
   teiginys: "1749 m. Smolensko pavieto seimelyje vėliavininku išrinktas Povilas Vladislovas Košycas, žemės teisėju – Karolis Eidžiatovičius, iždininku galėjo būti Liudvikas Dylevskis arba Juozapas Anupras Kulieša, o raštininku – Karolis Piotrovskis."
@@ -98,6 +77,51 @@ media_all_json: |-
   vertinimo_atnaujinta: "2026-07-26T14:36:54Z"
   pagrindžia:
     - c-184019
+
+<a id="claim-t-200651"></a>
+- t-200651
+  teiginys: "1749 m. įvyko Smolensko pavieto seimelis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::groups"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "susije_su -> Smolenskas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Smolensko pavieto seimelis: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Smolenskas: mention_match, place, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Smolensko pavieto seimelis\" parinktas kaip owner_note_path. Targetas \"Smolenskas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Domininkas Burba"
+  temporaliniai_duomenys: "įvykio data: 1749 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Tai trumpas, bet gramatiškas ir šaltinio tiesiogiai pagrįstas faktinis sakinys apie 1749 m. seimelio įvykimą."
+  vertinimo_atnaujinta: "2026-07-26T14:36:54Z"
+  pagrindžia:
+    - c-183983
+
+<a id="claim-t-208053"></a>
+- t-208053
+  teiginys: "Iš 28 Smolensko deputatų seimelių sėkmingai baigėsi 19."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190665
+
+<a id="claim-t-208142"></a>
+- t-208142
+  teiginys: "Augusto III valdymo laikų geriausias pavyzdys - Smolensko seimelis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190632
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -140,10 +164,11 @@ media_all_json: |-
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 5."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 17:37"
-  pagrindzia:
-    - t-001
+  pagrindžia:
     - t-002
+    - t-200651
 
 - id: c-184019
   autorius: "Domininkas Burba"
@@ -152,6 +177,50 @@ media_all_json: |-
   indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 5."
   citatos_rezimas: "indeksas"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-26 17:37"
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+- id: c-190632
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 52"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 52."
+  citata_originali: |
+    Po M. Višneveckio mirties
+    padėtis Pinsko seimeliuose tapo panaši į kitų Lietuvos Didžiosios Kunigaikštystės
+    seimelių padėtį.
+    Didikų įtaka seimeliuose neretai turėjo teigiamų pasekmių. Augusto III
+    valdymo laikų geriausias pavyzdys - Smolensko seimelis.
+  citata_rodoma: "Augusto III \nvaldymo laikų geriausias pavyzdys - Smolensko seimelis."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208142
+
+- id: c-190665
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 52"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 52."
+  citata_originali: |
+    Iš 28 deputatų seimelių
+    sėkmingai baigėsi 19, o Smolensko deputatas naujos kadencijos Lietuvos
+    Didžiosios Kunigaikštystės Vyriausiajame Tribunole penkis kartus buvo išrinktas
+    rusų kadencijos raštininku. Tai buvo geriausias rezultatas visoje Lietuvos
+    Didžiojoje Kunigaikštystėje. Iš 14 Smolensko pasiuntinių seimelių sėkmingai
+    baigėsi 12. lš viso sėkmingai baigėsi 31 Smolensko pasiuntinių ir deputatų seimelis.
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-208053
+

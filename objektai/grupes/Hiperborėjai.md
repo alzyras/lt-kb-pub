@@ -27,28 +27,6 @@ media_all_json: |-
 
 Narbutas, remdamasis senųjų amžių padavimais, hiperborėjais vadina graikams žinomus Tolimosios Šiaurės gyventojus.
 
-## Teiginiai
-
-<a id="claim-t-192972"></a>
-- t-001
-  teiginys: "Narbutas, remdamasis senųjų amžių padavimais, hiperborėjais vadina graikams žinomus Tolimosios Šiaurės gyventojus."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Graikai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Hiperborėjai: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=21"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hiperborėjai\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
-  pagrindžia:
-    - c-175742
-
 ## Citatos
 
 - id: c-175742
@@ -71,5 +49,63 @@ Narbutas, remdamasis senųjų amžių padavimais, hiperborėjais vadina graikams
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-196725
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 37"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 37."
+  citata_originali: |
+    Apie šį sausumos iškilimą
+    dar kalbėsime ir pateiksime kai kurių įrodymų; čia tik
+    paminėsime seniausius šios ašigalių zonos gyventojus.
+    Senovės graikai, anot senųjų amžių padavimų, turėjo
+    žinių apie Tolimojoje Šiaurėje gyvenusius žmones, ku­
+    riuos jie vadino hiperborėjais nuo jų gyvenamosios vie­
+    tos reikšmės pavadinimo. Žiloje senovėje Borėjas buvęs
+    šiaurės krašto valdovas2, o už jo valstybės būta dar šiau­
+    resnių gyventojų.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+    - t-002
+
+## Teiginiai
+
+<a id="claim-t-213584"></a>
+- t-001
+  teiginys: "Senovės graikai, anot senųjų amžių padavimų, turėjo žinių apie Tolimojoje Šiaurėje gyvenusius žmones, ku riuos jie vadino hiperborėjais nuo jų gyvenamosios vie tos reikšmės pavadinimo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196725
+
+<a id="claim-t-214745"></a>
+- t-002
+  teiginys: "Narbutas, remdamasis senųjų amžių padavimais, hiperborėjais vadina graikams žinomus Tolimosios Šiaurės gyventojus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Graikai: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Hiperborėjai: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "Graikai: mention_match, group, gap=21"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Hiperborėjai\" parinktas kaip owner_note_path. Targetas \"Graikai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
+  pagrindžia:
+    - c-196725
+

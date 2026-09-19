@@ -28,21 +28,6 @@ Teodoro Narbuto genealoginiame pasakojime kunigaikščių Koreckių giminė kild
 
 Teodoro Narbuto genealoginiame pasakojime kunigaikščių Koreckių giminė kildinama iš Patriko sūnaus Aleksandro ir nurodoma kaip persikėlusi į Lenkiją.
 
-## Teiginiai
-
-<a id="claim-t-205891"></a>
-- t-001
-  teiginys: "Teodoro Narbuto genealoginiame pasakojime kunigaikščių Koreckių giminė kildinama iš Patriko sūnaus Aleksandro ir nurodoma kaip persikėlusi į Lenkiją."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
-  pagrindžia:
-    - c-188506
-
 ## Citatos
 
 - id: c-188506
@@ -63,5 +48,21 @@ Teodoro Narbuto genealoginiame pasakojime kunigaikščių Koreckių giminė kild
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205891"></a>
+- t-001
+  teiginys: "Teodoro Narbuto genealoginiame pasakojime kunigaikščių Koreckių giminė kildinama iš Patriko sūnaus Aleksandro ir nurodoma kaip persikėlusi į Lenkiją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
+  pagrindžia:
+    - c-188506
+

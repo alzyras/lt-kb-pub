@@ -40,21 +40,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206026"></a>
-- t-001
-  teiginys: "Teodoro Narbuto pasakojimu, 1311 m. balandžio 3 d. didysis Lietuvos kunigaikštis, surinkęs gausią kariuomenę, įsiveržė į Varmiją su 4 tūkst. rinktinių raitelių ir pasiekė Braunsbergą."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
-  pagrindžia:
-    - c-188641
-
 ## Santrauka
 
 Teodoro Narbuto pasakojimu, 1311 m. balandžio 3 d. didysis Lietuvos kunigaikštis, surinkęs gausią kariuomenę, įsiveržė į Varmiją su 4 tūkst. rinktinių raitelių ir pasiekė Braunsbergą.
@@ -77,5 +62,21 @@ Teodoro Narbuto pasakojimu, 1311 m. balandžio 3 d. didysis Lietuvos kunigaikšt
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206026"></a>
+- t-001
+  teiginys: "Teodoro Narbuto pasakojimu, 1311 m. balandžio 3 d. didysis Lietuvos kunigaikštis, surinkęs gausią kariuomenę, įsiveržė į Varmiją su 4 tūkst. rinktinių raitelių ir pasiekė Braunsbergą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:29Z"
+  pagrindžia:
+    - c-188641
+

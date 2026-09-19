@@ -32,27 +32,6 @@ media_all_json: |-
 
 Dusburgietis teigia, kad apie tai, kaip Tolede buvo surasta akmenyje [iškalta] knyga 1232 viešpaties metais Ispanijoje, Tolede, vienas žydas surado knygą, ištisai iškaltą akmenyje ir turėjusią nelyginant medinius lapus, užrašytus hebrajiškai, graikiškai ir lotyniškai.
 
-## Teiginiai
-
-<a id="claim-t-61318"></a>
-- t-001
-  teiginys: "Pasak Dusburgiečio kronikos, 1232 m. Tolede žydas rado akmenyje iškaltą knygą hebrajų, graikų ir lotynų kalbomis."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Lotynai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tolede surasta akmeninė knyga: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lotynai: mention_match, group, gap=60"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tolede surasta akmeninė knyga\" parinktas kaip owner_note_path. Targetas \"Lotynai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1232 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys per ilgas ir negramatiškas, bet citata remia aiškų faktą apie legendinį radinį."
-  pagrindžia:
-    - c-61950
-
 ## Citatos
 
 - id: c-61950
@@ -76,5 +55,4 @@ Dusburgietis teigia, kad apie tai, kaip Tolede buvo surasta akmenyje [iškalta] 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+

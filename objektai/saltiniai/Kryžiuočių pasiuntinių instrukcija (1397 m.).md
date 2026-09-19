@@ -32,21 +32,6 @@ Kryžiuočių pasiuntinių 1397 m. instrukcija įpareigojo pasiuntinius teigti, 
 
 Kryžiuočių pasiuntinių 1397 m. instrukcija įpareigojo pasiuntinius teigti, kad Lenkijos karalius įkalbėjo imperatorių Vaclovą pakviesti didįjį magistrą į Vroclavą ordinui ir krikščioniškajam pasauliui skriaudą darančiam nutarimui.
 
-## Teiginiai
-
-<a id="claim-t-207058"></a>
-- t-001
-  teiginys: "Kryžiuočių pasiuntinių 1397 m. instrukcija įpareigojo pasiuntinius teigti, kad Lenkijos karalius įkalbėjo imperatorių Vaclovą pakviesti didįjį magistrą į Vroclavą ordinui ir krikščioniškajam pasauliui skriaudą darančiam nutarimui."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189673
-
 ## Citatos
 
 - id: c-189673
@@ -65,5 +50,21 @@ Kryžiuočių pasiuntinių 1397 m. instrukcija įpareigojo pasiuntinius teigti, 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-207058"></a>
+- t-001
+  teiginys: "Kryžiuočių pasiuntinių 1397 m. instrukcija įpareigojo pasiuntinius teigti, kad Lenkijos karalius įkalbėjo imperatorių Vaclovą pakviesti didįjį magistrą į Vroclavą ordinui ir krikščioniškajam pasauliui skriaudą darančiam nutarimui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189673
+

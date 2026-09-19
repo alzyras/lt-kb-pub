@@ -24,32 +24,6 @@ media_all_json: |-
 
 Kauno tarybos teisme iškilo ginčas dėl miestiečio Petro Seredžiaus palikimo, kurio dalis buvusi užrašyta parapinei bažnyčiai. Kitas būdas, kuriuo Kauno miestiečių nekilnojamasis turtas atitekdavo valdovui, buvo vadinamoji išmaros teisė (ius caducum).
 
-## Teiginiai
-
-<a id="claim-t-201761"></a>
-- t-001
-  teiginys: "Kauno tarybos teisme iškilo ginčas dėl miestiečio Petro Seredžiaus palikimo, kurio dalis buvusi užrašyta parapinei bažnyčiai."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185108
-
-<a id="claim-t-201762"></a>
-- t-002
-  teiginys: "Kitas būdas, kuriuo Kauno miestiečių nekilnojamasis turtas atitekdavo valdovui, buvo vadinamoji išmaros teisė (ius caducum)."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185109
-
 ## Citatos
 
 - id: c-185108
@@ -70,7 +44,7 @@ Kauno tarybos teisme iškilo ginčas dėl miestiečio Petro Seredžiaus palikimo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-185109
@@ -88,5 +62,32 @@ Kauno tarybos teisme iškilo ginčas dėl miestiečio Petro Seredžiaus palikimo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-201761"></a>
+- t-001
+  teiginys: "Kauno tarybos teisme iškilo ginčas dėl miestiečio Petro Seredžiaus palikimo, kurio dalis buvusi užrašyta parapinei bažnyčiai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185108
+
+<a id="claim-t-201762"></a>
+- t-002
+  teiginys: "Kitas būdas, kuriuo Kauno miestiečių nekilnojamasis turtas atitekdavo valdovui, buvo vadinamoji išmaros teisė (ius caducum)."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185109
+

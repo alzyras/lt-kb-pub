@@ -38,21 +38,6 @@ Teodoro Narbuto nurodytos dvi 1251 m. Inocento IV bulės žymėjo karaliaus Mind
 
 Teodoro Narbuto nurodytos dvi 1251 m. Inocento IV bulės žymėjo karaliaus Mindaugo ir Lietuvos Karalystės priėmimą į Apaštališkosios Sostinės globą, o antroji paskyrė Kulmo vyskupą Henriką dalyvauti karūnuojant naująjį karalių.
 
-## Teiginiai
-
-<a id="claim-t-206126"></a>
-- t-001
-  teiginys: "Teodoro Narbuto nurodytos dvi 1251 m. Inocento IV bulės žymėjo karaliaus Mindaugo ir Lietuvos Karalystės priėmimą į Apaštališkosios Sostinės globą, o antroji paskyrė Kulmo vyskupą Henriką dalyvauti karūnuojant naująjį karalių."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
-  pagrindžia:
-    - c-188741
-
 ## Citatos
 
 - id: c-188741
@@ -74,5 +59,21 @@ Teodoro Narbuto nurodytos dvi 1251 m. Inocento IV bulės žymėjo karaliaus Mind
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206126"></a>
+- t-001
+  teiginys: "Teodoro Narbuto nurodytos dvi 1251 m. Inocento IV bulės žymėjo karaliaus Mindaugo ir Lietuvos Karalystės priėmimą į Apaštališkosios Sostinės globą, o antroji paskyrė Kulmo vyskupą Henriką dalyvauti karūnuojant naująjį karalių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188741
+

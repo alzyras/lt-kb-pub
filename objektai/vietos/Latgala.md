@@ -38,37 +38,6 @@ historical_names: []
 
 Štumdorfo taika Lietuvai ir Lenkijai grąžino tik Latgalą, o didžioji Livonijos dalis su Ryga liko Švedijai. Senovės tyrinėtojai Uždauguvį skirstė taip: kraštas Soletsa prie jūros, pats šiauriausias; pakrante nusitęsusi žemė iki Aa upės žiočių — Idumea; Valmieros apylinkė se — Toloma; rytinėje dalyje — tikroji Latgala1.
 
-## Teiginiai
-
-<a id="claim-t-02535"></a>
-- t-001
-  teiginys: "Štumdorfo taika Lietuvai ir Lenkijai grąžino tik Latgalą, o didžioji Livonijos dalis su Ryga liko Švedijai."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "priklause -> Švedija: 0.88"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Ryga: llm_allowed_candidate, place"
-  ryšio_targeto_parinkimas: "Švedija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Ryga liko Švedijai."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  semantiniai_rysiai: "Ryga priklausė Švedija (0.88); Latgala priklausė Lietuva (0.82); Latgala priklausė Lenkija (0.82)"
-  pagrindžia:
-    - c-02773
-
-<a id="claim-t-197888"></a>
-- t-002
-  teiginys: "Senovės tyrinėtojai Uždauguvį skirstė taip: kraštas Soletsa prie jūros, pats šiauriausias; pakrante nusitęsusi žemė iki Aa upės žiočių — Idumea; Valmieros apylinkė se — Toloma; rytinėje dalyje — tikroji Latgala1."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-179381
-
 ## Citatos
 
 - id: c-02773
@@ -87,8 +56,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-02535
 
 - id: c-179381
   autorius: "Teodoras Narbutas"
@@ -111,5 +80,60 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-196643
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 290"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 290."
+  citata_originali: |
+    Sis
+    pavadinimas kilęs iš latviškų žodžių Liatwin gals, Lie­
+    tuvos galas. Šios lietuvių tautos valdos yra iškovotos iš
+    lyvių, todėl vadinamos Livonija labai seniai ir gerokai
+    anksčiau negu IX amžiuje, nes rusų kronikos pačiais se­
+    niausiais laikais ten jau randa lietuvių giminės genčių.
+    Senovės tyrinėtojai Uždauguvį skirstė taip: kraštas So-
+    letsa prie jūros, pats šiauriausias; pakrante nusitęsusi
+    žemė iki Aa upės žiočių — Idumea; Valmieros apylinkė­
+    se — Toloma; rytinėje dalyje — tikroji Latgala1.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-214465"></a>
+- t-001
+  teiginys: "Senovės tyrinėtojai Uždauguvį skirstė taip: kraštas Soletsa prie jūros, pats šiauriausias; pakrante nusitęsusi žemė iki Aa upės žiočių — Idumea; Valmieros apylinkė se — Toloma; rytinėje dalyje — tikroji Latgala1."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-196643
+
+<a id="claim-t-02535"></a>
+- t-02535
+  teiginys: "Štumdorfo taika Lietuvai ir Lenkijai grąžino tik Latgalą, o didžioji Livonijos dalis su Ryga liko Švedijai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "priklause -> Švedija: 0.88"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Ryga: llm_allowed_candidate, place"
+  ryšio_targeto_parinkimas: "Švedija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata tiesiogiai sako, kad Ryga liko Švedijai."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Ryga priklausė Švedija (0.88); Latgala priklausė Lietuva (0.82); Latgala priklausė Lenkija (0.82)"
+  pagrindžia:
+    - c-02773
+

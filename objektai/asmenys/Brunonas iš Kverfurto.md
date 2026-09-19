@@ -42,56 +42,6 @@ canonical_biography: "Dusburgietis teigia, kad 224 Burggrafas Burchardas iš Mag
 
 Dusburgietis teigia, kad 224 Burggrafas Burchardas iš Magdeburgo, kilęs iš tos pačios giminės kaip ir Brunonas iŠ Kverfurfo (mir.
 
-## Teiginiai
-
-<a id="claim-t-60256"></a>
-- t-001
-  teiginys: "Brunonas iš Kverfurto mirė 1009 m. ir buvo vienas pirmųjų misionierių, veikusių prūsų žemėse."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Brunonas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Brunonas iš Kverfurto: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Brunonas: mention_match, person, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Brunonas iš Kverfurto\" parinktas kaip owner_note_path. Targetas \"Brunonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1009 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, faktinis ir tiesiogiai paremtas citata."
-  pagrindžia:
-    - c-60888
-
-<a id="claim-t-205571"></a>
-- t-002
-  teiginys: "Brunonas, kilęs iš Kverfurto."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-188153
-
-<a id="claim-t-205574"></a>
-- t-003
-  teiginys: "Brunonas, kaip piOpiežiaus legatas ir šiaurės tautų apaštalas, dviejų be nediktinų ordino vienuolių — Jono ir Benedikto lydimas, be to, dar su šešiolika kitų asmenų krikščionių, kurie sudarė jo svitą, nuvyko į Kijevą."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  temporaliniai_duomenys: "kelionės data: 1008 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Susklandintas sakinys, aiškiai nurodant 1008 metus, kelionę į Kijevą ir palydovus. Popiežiaus legato bei šiaurės tautų apaštalo titulai palikti Narbuto atribucijoje."
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-188128
-
 ## Citatos
 
 - id: c-60888
@@ -109,8 +59,6 @@ Dusburgietis teigia, kad 224 Burggrafas Burchardas iš Magdeburgo, kilęs iš to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-188128
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -129,8 +77,8 @@ Dusburgietis teigia, kad 224 Burggrafas Burchardas iš Magdeburgo, kilęs iš to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-205574
 
 - id: c-188153
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -154,5 +102,54 @@ Dusburgietis teigia, kad 224 Burggrafas Burchardas iš Magdeburgo, kilęs iš to
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-205571
+
+## Teiginiai
+
+<a id="claim-t-223389"></a>
+- t-001
+  teiginys: "Brunonas iš Kverfurto mirė 1009 m. ir buvo vienas pirmųjų misionierių, veikusių prūsų žemėse."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Brunonas: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Brunonas iš Kverfurto: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Brunonas: mention_match, person, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Brunonas iš Kverfurto\" parinktas kaip owner_note_path. Targetas \"Brunonas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1009 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, faktinis ir tiesiogiai paremtas citata."
+
+<a id="claim-t-205571"></a>
+- t-205571
+  teiginys: "Brunonas, kilęs iš Kverfurto."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188153
+
+<a id="claim-t-205574"></a>
+- t-205574
+  teiginys: "Brunonas, kaip piOpiežiaus legatas ir šiaurės tautų apaštalas, dviejų be nediktinų ordino vienuolių — Jono ir Benedikto lydimas, be to, dar su šešiolika kitų asmenų krikščionių, kurie sudarė jo svitą, nuvyko į Kijevą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  temporaliniai_duomenys: "kelionės data: 1008 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Susklandintas sakinys, aiškiai nurodant 1008 metus, kelionę į Kijevą ir palydovus. Popiežiaus legato bei šiaurės tautų apaštalo titulai palikti Narbuto atribucijoje."
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188128
+

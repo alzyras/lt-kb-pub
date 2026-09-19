@@ -42,25 +42,6 @@ canonical_biography: "Jo pareigū­ nas Rumbaudas ir dar keli kiti bajorai (Galm
 
 Jo pareigū­ nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­ sigaila, Vasibutas) persikėlė per Nevėžį ir nuo Surviliškio — Kreke­ navos pradėjo užimti sukilusį kraštą.
 
-## Teiginiai
-
-<a id="claim-t-30231"></a>
-- t-001
-  teiginys: "Galminas su Rumbaudu, Getautu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "keliavo_i -> Nevėžis: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vasibutas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Nevėžis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vasibutas yra tarp išvardytų bajorų, kurie persikėlė per Nevėžį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Galminas keliavo į Nevėžis (0.82); Klausigaila keliavo į Nevėžis (0.82); Vasibutas keliavo į Nevėžis (0.82)"
-  pagrindžia:
-    - c-32723
-
 ## Citatos
 
 - id: c-32723
@@ -82,5 +63,25 @@ Jo pareigū­ nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-30231"></a>
+- t-001
+  teiginys: "Galminas su Rumbaudu, Getautu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "keliavo_i -> Nevėžis: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vasibutas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Nevėžis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vasibutas yra tarp išvardytų bajorų, kurie persikėlė per Nevėžį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Galminas keliavo į Nevėžis (0.82); Klausigaila keliavo į Nevėžis (0.82); Vasibutas keliavo į Nevėžis (0.82)"
+  pagrindžia:
+    - c-32723
+

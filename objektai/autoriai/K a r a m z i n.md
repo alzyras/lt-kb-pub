@@ -31,20 +31,6 @@ canonical_biography: "Išgirdę tą, gudai vokyčiams tuojau karę apskelbė ir 
 
 Išgirdę tą, gudai vokyčiams tuojau karę apskelbė ir tuojau su 12 000 karėjų ku- 1 K a r a m z i n , Istor.
 
-## Teiginiai
-
-<a id="claim-t-201427"></a>
-- t-001
-  teiginys: "Išgirdę tą, gudai vokyčiams tuojau karę apskelbė ir tuojau su 12 000 karėjų ku- 1 K a r a m z i n , Istor."
-  atnaujinta: "2026-07-16 14:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184777
-
 ## Citatos
 
 - id: c-184777
@@ -60,5 +46,20 @@ Išgirdę tą, gudai vokyčiams tuojau karę apskelbė ir tuojau su 12 000 karė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201427"></a>
+- t-001
+  teiginys: "Išgirdę tą, gudai vokyčiams tuojau karę apskelbė ir tuojau su 12 000 karėjų ku- 1 K a r a m z i n , Istor."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184777
+

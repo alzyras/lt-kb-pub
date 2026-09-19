@@ -79,9 +79,11 @@ Terminas vartojamas kalbant apie Kūčių valgį.
     nas, pasaldintas cukrumi ar medumi, į tą pieną pridėta „šližikų“ .
   citata_rodoma: "Toliau seka šaltas valgis: aguonų pie­\nnas, pasaldintas cukrumi ar medumi, į tą pieną pridėta „šližikų"
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 03:27"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

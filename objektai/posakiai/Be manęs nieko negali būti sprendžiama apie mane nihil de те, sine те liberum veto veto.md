@@ -26,63 +26,6 @@ media_all_json: |-
 
 Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto: visi savo laisvės pagrindu laikė šį dėsnį: „Be manęs nieko negali būti sprendžiama apie mane" (nihil de те, sine те). Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto: visada atsirasdavo, kas pasakydavo „veto", ir seimas turėdavo iširti. Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те liberum veto veto: jie sva- jojo net panaikinti liberum veto, bet kadangi tam pasi- priešino Rusų ir Prūsų atsto- vai, tai tuo tarpu veto buvo paliktas. Užtat buvo priimtas seimo darbų statutas.
 
-## Teiginiai
-
-<a id="claim-t-67258"></a>
-- t-001
-  teiginys: "Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas laisvės pagrindu ir siejamas su liberum veto teise."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67241
-
-<a id="claim-t-67259"></a>
-- t-002
-  teiginys: "Liberum veto reiškė laisvojo pasipriešinimo teisę, siejamą su principu „Be manęs nieko negali būti sprendžiama apie mane“."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67241
-
-<a id="claim-t-67261"></a>
-- t-003
-  teiginys: "Seime atsiradus atstovui, pasakiusiam „veto“, seimas turėdavo iširti."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67245
-
-<a id="claim-t-67263"></a>
-- t-004
-  teiginys: "Kardinalinių teisių įstatyme liberum veto buvo paliktas nepaliestas."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-67238
-
-<a id="claim-t-67264"></a>
-- t-005
-  teiginys: "Čartoriskiai siekė panaikinti liberum veto, bet pasipriešinus Rusų ir Prūsų atstovams veto buvo paliktas."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67239
-
-<a id="claim-t-67265"></a>
-- t-006
-  teiginys: "Liberum veto buvo paliktas kartu su karalių elekcija ir bajorijos teise neklausyti karaliaus, jei nevykdomi pacta conventa punktai."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67240
-
 ## Citatos
 
 - id: c-67238
@@ -106,7 +49,7 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-67239
@@ -129,7 +72,7 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-67240
@@ -153,7 +96,7 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
 
 - id: c-67241
@@ -175,7 +118,7 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -198,5 +141,63 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+## Teiginiai
+
+<a id="claim-t-67258"></a>
+- t-001
+  teiginys: "Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas laisvės pagrindu ir siejamas su liberum veto teise."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67241
+
+<a id="claim-t-67259"></a>
+- t-002
+  teiginys: "Liberum veto reiškė laisvojo pasipriešinimo teisę, siejamą su principu „Be manęs nieko negali būti sprendžiama apie mane“."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67241
+
+<a id="claim-t-67261"></a>
+- t-003
+  teiginys: "Seime atsiradus atstovui, pasakiusiam „veto“, seimas turėdavo iširti."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67245
+
+<a id="claim-t-67263"></a>
+- t-004
+  teiginys: "Kardinalinių teisių įstatyme liberum veto buvo paliktas nepaliestas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-67238
+
+<a id="claim-t-67264"></a>
+- t-005
+  teiginys: "Čartoriskiai siekė panaikinti liberum veto, bet pasipriešinus Rusų ir Prūsų atstovams veto buvo paliktas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67239
+
+<a id="claim-t-67265"></a>
+- t-006
+  teiginys: "Liberum veto buvo paliktas kartu su karalių elekcija ir bajorijos teise neklausyti karaliaus, jei nevykdomi pacta conventa punktai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67240
+

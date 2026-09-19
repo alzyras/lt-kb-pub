@@ -46,24 +46,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-204051"></a>
-- t-001
-  teiginys: "1492 m. Sofija Manvydaitė Radvilienė perleido tarnybinius bajorus kartu su dovanojamais dvarų kompleksais, o jų nepaklusnumą turėjo tramdyti jos vyras Mikalojus Radvila."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  temporaliniai_duomenys: "įvykio data: 1492 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išplėstas įvykio teisinis ir šeiminis kontekstas. Aiškiai susietas bajorų perleidimas su vyro autoritetu, išlaikant šaltinio formuluojamą sąlygą."
-  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
-  pagrindžia:
-    - c-186655
-
 ## Santrauka
 
 1492 m. Sofija Manvydaitė Radvilienė perleido tarnybinius bajorus kartu su dovanojamais dvarų kompleksais, o jų nepaklusnumą turėjo tramdyti jos vyras Mikalojus Radvila.
@@ -87,5 +69,24 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204051"></a>
+- t-001
+  teiginys: "1492 m. Sofija Manvydaitė Radvilienė perleido tarnybinius bajorus kartu su dovanojamais dvarų kompleksais, o jų nepaklusnumą turėjo tramdyti jos vyras Mikalojus Radvila."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1492 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išplėstas įvykio teisinis ir šeiminis kontekstas. Aiškiai susietas bajorų perleidimas su vyro autoritetu, išlaikant šaltinio formuluojamą sąlygą."
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186655
+

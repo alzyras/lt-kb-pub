@@ -62,3 +62,46 @@ canonical_biography: "1745 m. buvo pasamdytas projektuoti ir statyti Vitebsko un
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-190762
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 252"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 252."
+  citata_originali: |
+    1742, m. vasario mėn.
+    Vilniuje J. Fontana pasirašė sutartį su Vitebsko vaivadiene Tekle Oginskiene
+    Vitebske pastatyti bernardinams Šv. Antano bažnyčią''. Veikiausiai todėl, kad
+    numatė ar nuspėjo tolesnes veiklos perspektyvas šiame regione, dar tais pačiais
+    metais su savo šeima persikraustė į Vitebską". 1745 m. įis buvo pasamdytas
+    projektuoti ir statyti Vitebsko unitų Švč. Mergelės Marijos Dangun Ėmimo
+    ir šv. Juozapato katedrą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-208060"></a>
+- t-001
+  teiginys: "1745 m. buvo pasamdytas projektuoti ir statyti Vitebsko unitų Švč. Mergelės Marijos Dangun Ėmimo ir šv. Juozapato katedrą."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  temporaliniai_duomenys: "įvykio data: 1745 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Sakinys gramatiškai išbaigtas, turi aiškų subjektą ir veiksmą, o jo faktai tiesiogiai paremti citata."
+  pagrindžia:
+    - c-190762
+

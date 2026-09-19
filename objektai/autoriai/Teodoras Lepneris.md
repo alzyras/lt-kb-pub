@@ -31,20 +31,6 @@ canonical_biography: "Netrukus Teodoras Narbutas paskelbs ir vėlyvąją Lietuvo
 
 Netrukus Teodoras Narbutas paskelbs ir vėlyvąją Lietuvos metraščio redakciją — Bychovco kroniką, kuria Daukantas pasinaudoti nebespės.
 
-## Teiginiai
-
-<a id="claim-t-201432"></a>
-- t-001
-  teiginys: "Netrukus Teodoras Narbutas paskelbs ir vėlyvąją Lietuvos metraščio redakciją — Bychovco kroniką, kuria Daukantas pasinaudoti nebespės."
-  atnaujinta: "2026-07-16 14:32"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184782
-
 ## Citatos
 
 - id: c-184782
@@ -69,5 +55,20 @@ Netrukus Teodoras Narbutas paskelbs ir vėlyvąją Lietuvos metraščio redakcij
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201432"></a>
+- t-001
+  teiginys: "Netrukus Teodoras Narbutas paskelbs ir vėlyvąją Lietuvos metraščio redakciją — Bychovco kroniką, kuria Daukantas pasinaudoti nebespės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184782
+

@@ -45,18 +45,6 @@ Arimo ir jaučių šėrimo aprašas.
 
 Darbo sėkmę siejanti su sočiu gyvuliu formulė.
 
-## Teiginiai
-
-<a id="claim-t-195414"></a>
-- t-001
-  teiginys: "Artojai sakydavo, kad dirbti smagu tik tada, kai gyvulys sotus."
-  atnaujinta: "2026-07-12 02:45"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177835
-
 ## Citatos
 
 - id: c-177835
@@ -75,5 +63,18 @@ Darbo sėkmę siejanti su sočiu gyvuliu formulė.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-195414"></a>
+- t-001
+  teiginys: "Artojai sakydavo, kad dirbti smagu tik tada, kai gyvulys sotus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/07_extract_sayings_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177835
+

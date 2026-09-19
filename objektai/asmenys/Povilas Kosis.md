@@ -39,20 +39,6 @@ canonical_biography: "Štai 1544 m. Povilas Kosis už 40 grašių parsisamdė Jo
 
 Štai 1544 m. Povilas Kosis už 40 grašių parsisamdė Jonui Čičiniui privežti akmenų grindiniui.
 
-## Teiginiai
-
-<a id="claim-t-202198"></a>
-- t-001
-  teiginys: "Štai 1544 m. Povilas Kosis už 40 grašių parsisamdė Jonui Čičiniui privežti akmenų grindiniui."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185545
-
 ## Citatos
 
 - id: c-185545
@@ -68,5 +54,20 @@ canonical_biography: "Štai 1544 m. Povilas Kosis už 40 grašių parsisamdė Jo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202198"></a>
+- t-001
+  teiginys: "Štai 1544 m. Povilas Kosis už 40 grašių parsisamdė Jonui Čičiniui privežti akmenų grindiniui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185545
+

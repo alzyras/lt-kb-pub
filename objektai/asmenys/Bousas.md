@@ -42,34 +42,6 @@ canonical_biography: "Pasak vietos padavimo, Bousas buvo lietuvių didikas ir va
 
 Pasak vietos padavimo, Bousas buvo lietuvių didikas ir vadas, palaidotas kape su žirgu, kurtais, sakalu ir karine ginkluote. Mano kaimo, vadinamo Bouslaviškėmis (Bouslawiszki), že mėje yra kvadratinis kapas, 20 pėdų ilgio, be aiškaus sampilo, tik apmūrytas lauko akmenimis, lyg tai būtų kokio nors medi nio pastato pamūrijimas.
 
-## Teiginiai
-
-<a id="claim-t-190088"></a>
-- t-001
-  teiginys: "Pasak vietos padavimo, Bousas buvo lietuvių didikas ir vadas, palaidotas kape su žirgu, kurtais, sakalu ir karine ginkluote."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-  pagrindžia:
-    - c-172971
-
-<a id="claim-t-194699"></a>
-- t-002
-  teiginys: "Mano kaimo, vadinamo Bouslaviškėmis (Bouslawiszki), že mėje yra kvadratinis kapas, 20 pėdų ilgio, be aiškaus sampilo, tik apmūrytas lauko akmenimis, lyg tai būtų kokio nors medi nio pastato pamūrijimas."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
-  pagrindžia:
-    - c-177095
-
 ## Citatos
 
 - id: c-172971
@@ -91,8 +63,6 @@ Pasak vietos padavimo, Bousas buvo lietuvių didikas ir vadas, palaidotas kape s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-177095
   autorius: "Teodoras Narbutas"
@@ -114,5 +84,79 @@ Pasak vietos padavimo, Bousas buvo lietuvių didikas ir vadas, palaidotas kape s
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-198635
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 378"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 378."
+  citata_originali: |
+    Pasak vietos padavimo, tame kape
+    palaidotas kažkoks lietuvių didikas, vadas (Wada), vardu Bou-
+    sas (Bous); jis čia gulįs su žirgu, su kurtais ir sakalu bei visa
+    karine ginkluote. Sį kapą kaimiečiai lietuviškai vadina vado
+    Bouso kapinėmis (Kapinies Wade Boussa). Iš senų vietinių do­
+    kumentų aišku tik tiek, kad apie 1520 metus ta žemė priklau­
+    sė Bousevičių giminei; tuo laiku Boguslavas Bousevičius, Ro­
+    dūnios vėliavininkas, buvo tos žemės tėvonis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+- id: c-201109
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 378"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 378."
+  citata_originali: |
+    Pasitaiko taip pat ir akmeninių kaitų,
+    labai gražiai padirbtų iš titnago.
+    Mano kaimo, vadinamo Bouslaviškėmis (Bouslawiszki), že­
+    mėje yra kvadratinis kapas, 20 pėdų ilgio, be aiškaus sampilo,
+    tik apmūrytas lauko akmenimis, lyg tai būtų kokio nors medi­
+    nio pastato pamūrijimas. Pasak vietos padavimo, tame kape
+    palaidotas kažkoks lietuvių didikas, vadas (Wada), vardu Bou-
+    sas (Bous); jis čia gulįs su žirgu, su kurtais ir sakalu bei visa
+    karine ginkluote.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-217660"></a>
+- t-001
+  teiginys: "Pasak vietos padavimo, Bousas buvo lietuvių didikas ir vadas, palaidotas kape su žirgu, kurtais, sakalu ir karine ginkluote."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
+  pagrindžia:
+    - c-198635
+
+<a id="claim-t-217783"></a>
+- t-002
+  teiginys: "Mano kaimo, vadinamo Bouslaviškėmis (Bouslawiszki), že mėje yra kvadratinis kapas, 20 pėdų ilgio, be aiškaus sampilo, tik apmūrytas lauko akmenimis, lyg tai būtų kokio nors medi nio pastato pamūrijimas."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:27Z"
+  pagrindžia:
+    - c-201109
+

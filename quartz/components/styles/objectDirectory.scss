@@ -158,9 +158,9 @@
 .object-directory-kicker {
   margin: 0 0 0.75rem;
   color: var(--directory-red);
-  font-family: var(--codeFont);
+  font-family: var(--bodyFont);
   font-size: 0.7rem;
-  font-weight: 850;
+  font-weight: 600;
   letter-spacing: 0.12em;
   line-height: 1.2;
   text-transform: uppercase;
@@ -175,7 +175,7 @@
 .object-directory h1,
 .object-directory h2 {
   margin: 0;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: var(--font-editorial);
   font-weight: 500;
   letter-spacing: -0.025em;
 }
@@ -204,9 +204,9 @@
   display: inline-flex;
   align-items: center;
   gap: 0.65rem;
-  font-family: var(--codeFont);
+  font-family: var(--bodyFont);
   font-size: 0.75rem;
-  font-weight: 850;
+  font-weight: 600;
   letter-spacing: 0.07em;
   text-decoration: none;
   text-transform: uppercase;
@@ -214,7 +214,7 @@
 .object-directory-primary {
   padding: 0.75rem 1rem;
   background: var(--directory-red);
-  color: #fff !important;
+  color: var(--light) !important;
 }
 .object-directory-primary:hover,
 .object-directory-primary:focus-visible {
@@ -246,9 +246,9 @@
 }
 .object-directory-stats dt {
   color: rgba(255, 255, 255, 0.68);
-  font-family: var(--codeFont);
-  font-size: 0.65rem;
-  font-weight: 800;
+  font-family: var(--bodyFont);
+  font-size: 0.75rem;
+  font-weight: 600;
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
@@ -337,14 +337,14 @@
 }
 .object-directory-card-index {
   color: var(--directory-red);
-  font-family: var(--codeFont);
-  font-size: 0.66rem;
-  font-weight: 850;
+  font-family: var(--bodyFont);
+  font-size: 0.75rem;
+  font-weight: 600;
   letter-spacing: 0.08em;
 }
 .object-directory-card strong {
   color: var(--directory-purple);
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: var(--font-editorial);
   font-size: clamp(1.35rem, 2.4vw, 2rem);
   font-weight: 550;
   line-height: 0.98;
@@ -361,9 +361,9 @@
   align-items: center;
   margin-top: auto;
   color: var(--directory-red);
-  font-family: var(--codeFont);
-  font-size: 0.68rem;
-  font-weight: 850;
+  font-family: var(--bodyFont);
+  font-size: 0.75rem;
+  font-weight: 600;
   letter-spacing: 0.05em;
   text-transform: uppercase;
 }

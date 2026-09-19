@@ -48,46 +48,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-204052"></a>
-- t-001
-  teiginys: "XV a. antroje pusėje sąvoka ius feodali Lietuvos diduomenės dokumentacijoje žymėjo didikų ir jų bajorų santykius."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
-  pagrindžia:
-    - c-186656
-
-<a id="claim-t-204053"></a>
-- t-002
-  teiginys: "Didikams tarnaujančių bajorų grupei už tarnybą buvo atlyginama suteikiant žemės valdą."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
-  pagrindžia:
-    - c-186657
-
-<a id="claim-t-204054"></a>
-- t-003
-  teiginys: "Pirmojo Lietuvos Statuto terminai feudum ir vassallus apibūdino didikų bei bajorų, o ne valdovo ir bajorų santykius."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  pagrindžia:
-    - c-186658
-
 ## Santrauka
 
 XV a. antroje pusėje sąvoka ius feodali Lietuvos diduomenės dokumentacijoje žymėjo didikų ir jų bajorų santykius. Didikams tarnaujančių bajorų grupei už tarnybą buvo atlyginama suteikiant žemės valdą. Pirmojo Lietuvos Statuto terminai feudum ir vassallus apibūdino didikų bei bajorų, o ne valdovo ir bajorų santykius.
@@ -132,7 +92,7 @@ XV a. antroje pusėje sąvoka ius feodali Lietuvos diduomenės dokumentacijoje �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-186657
@@ -153,7 +113,7 @@ XV a. antroje pusėje sąvoka ius feodali Lietuvos diduomenės dokumentacijoje �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-186658
@@ -174,5 +134,46 @@ XV a. antroje pusėje sąvoka ius feodali Lietuvos diduomenės dokumentacijoje �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
+
+## Teiginiai
+
+<a id="claim-t-204052"></a>
+- t-001
+  teiginys: "XV a. antroje pusėje sąvoka ius feodali Lietuvos diduomenės dokumentacijoje žymėjo didikų ir jų bajorų santykius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186656
+
+<a id="claim-t-204053"></a>
+- t-002
+  teiginys: "Didikams tarnaujančių bajorų grupei už tarnybą buvo atlyginama suteikiant žemės valdą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186657
+
+<a id="claim-t-204054"></a>
+- t-003
+  teiginys: "Pirmojo Lietuvos Statuto terminai feudum ir vassallus apibūdino didikų bei bajorų, o ne valdovo ir bajorų santykius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  pagrindžia:
+    - c-186658
+

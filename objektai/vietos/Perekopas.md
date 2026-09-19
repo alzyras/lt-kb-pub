@@ -52,10 +52,22 @@ historical_names: []
 
 ## Teiginiai
 
+<a id="claim-t-210753"></a>
+- t-210753
+  teiginys: "Apie 1429 m. Perekopo chanu buvo Devlei-Berdi."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193079
+
 <a id="claim-t-98771"></a>
-- t-001
+- t-98771
   teiginys: "1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Chadži Girėjus: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -72,9 +84,9 @@ historical_names: []
     - c-92960
 
 <a id="claim-t-98772"></a>
-- t-002
+- t-98772
   teiginys: "Perekopu vadinosi Krime atsiradusio Perekopo chanato sostinės pilis."
-  atnaujinta: "2026-06-13 18:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Krimas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -90,9 +102,9 @@ historical_names: []
     - c-92962
 
 <a id="claim-t-183071"></a>
-- t-003
+- t-183071
   teiginys: "Krime susikūrė Perekopo chanatas, kurio sostinės pilis buvo vadinama Perekopu."
-  atnaujinta: "2026-06-13 18:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -133,8 +145,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-98771
 
 - id: c-92962
   redaktorius: "A. Šapoka"
@@ -154,8 +166,8 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-98772
 
 - id: c-166462
   redaktorius: "A. Šapoka"
@@ -175,5 +187,23 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-183071
+
+- id: c-193079
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 261"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 261."
+  citata_originali: |
+    Perekopo (Krymo) chanu apie 1429 m. buvo Vytauto staty­
+    tinis Devlei-Berdi.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210753
+

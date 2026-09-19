@@ -39,20 +39,6 @@ canonical_biography: "Be to, tuo pačiu metu valdovai dar kartą keitė miškų 
 
 Be to, tuo pačiu metu valdovai dar kartą keitė miškų ūkio tvarkymą, atsirado naujlĮ verslovininklĮ· 1603 m. Kauno ir kitos girios buvo išnuomotos 4 metams Jonušui Eperjašui ir Krišpinui Kiršenšteinui, ill sutartys su valdovu buvo tęsiamos.
 
-## Teiginiai
-
-<a id="claim-t-202189"></a>
-- t-001
-  teiginys: "Be to, tuo pačiu metu valdovai dar kartą keitė miškų ūkio tvarkymą, atsirado naujlĮ verslovininklĮ· 1603 m. Kauno ir kitos girios buvo išnuomotos 4 metams Jonušui Eperjašui ir Krišpinui Kiršenšteinui, ill sutartys su valdovu buvo tęsiamos."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185536
-
 ## Citatos
 
 - id: c-185536
@@ -71,5 +57,20 @@ Be to, tuo pačiu metu valdovai dar kartą keitė miškų ūkio tvarkymą, atsir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202189"></a>
+- t-001
+  teiginys: "Be to, tuo pačiu metu valdovai dar kartą keitė miškų ūkio tvarkymą, atsirado naujlĮ verslovininklĮ· 1603 m. Kauno ir kitos girios buvo išnuomotos 4 metams Jonušui Eperjašui ir Krišpinui Kiršenšteinui, ill sutartys su valdovu buvo tęsiamos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185536
+

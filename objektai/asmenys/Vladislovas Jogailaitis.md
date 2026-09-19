@@ -48,25 +48,6 @@ canonical_biography: "Čekijos karalius Vladislovas Jogailaitis iškovojo Vengri
 
 ## Teiginiai
 
-<a id="claim-t-40515"></a>
-- t-001
-  teiginys: "Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Čekija: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Vladislovas Jogailaitis (Lenkijos karalius, XV a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Čekija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Vladislovas aiškiai vadinamas Čekijos karaliumi."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Vladislovas Jogailaitis (Lenkijos karalius, XV a.) valdė Čekija (0.82); Vladislovas Jogailaitis (Lenkijos karalius, XV a.) valdė Vengrija (0.78)"
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  pagrindžia:
-    - c-44564
-    - c-167157
-
 <a id="claim-t-40516"></a>
 - t-002
   teiginys: "Lenkijos karalius Vladislovas Jogailaitis suteikė Žygimantui Kęstutaičiui prašytą pagalbą prieš žygį į Trakus."
@@ -86,10 +67,29 @@ canonical_biography: "Čekijos karalius Vladislovas Jogailaitis iškovojo Vengri
   pagrindžia:
     - c-44563
 
+<a id="claim-t-40515"></a>
+- t-40515
+  teiginys: "Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Čekija: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Vladislovas Jogailaitis (Lenkijos karalius, XV a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Čekija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Vladislovas aiškiai vadinamas Čekijos karaliumi."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Vladislovas Jogailaitis (Lenkijos karalius, XV a.) valdė Čekija (0.82); Vladislovas Jogailaitis (Lenkijos karalius, XV a.) valdė Vengrija (0.78)"
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
+  pagrindžia:
+    - c-44564
+    - c-167157
+
 <a id="claim-t-40517"></a>
-- t-003
+- t-40517
   teiginys: "1435 m. gruodžio 31 d. Vladislovas Jogailaitis su Žygimantu Kęstutaičiu ir Ordino magistru Rusdorfu sudarė Bresto taiką."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "sudare_sutarti_su -> Rusdorfas: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -107,9 +107,9 @@ canonical_biography: "Čekijos karalius Vladislovas Jogailaitis iškovojo Vengri
     - c-44565
 
 <a id="claim-t-184859"></a>
-- t-004
+- t-184859
   teiginys: "Vladislovo pastangomis lenkai, vengrai, čekai, lietuviai ir valachai sudarė tarpusavio gynybos sutartis prieš karą su turkais."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -126,9 +126,9 @@ canonical_biography: "Čekijos karalius Vladislovas Jogailaitis iškovojo Vengri
     - c-168220
 
 <a id="claim-t-184861"></a>
-- t-005
+- t-184861
   teiginys: "Į valdovų susitikimą karalius Vladislovas ir jo duktė Ona atvažiavo važiuoti."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -143,11 +143,12 @@ canonical_biography: "Čekijos karalius Vladislovas Jogailaitis iškovojo Vengri
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
   pagrindžia:
     - c-168222
+    - c-178806
 
 <a id="claim-t-196629"></a>
-- t-006
+- t-196629
   teiginys: "Kojelavičiaus pasakojime Vladislovo tėvas piktinosi ir, puoselėdamas kerštą sūnui Vladislovui, skatino Joną pradėti karą."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -230,11 +231,12 @@ canonical_biography: "Čekijos karalius Vladislovas Jogailaitis iškovojo Vengri
     68 PABAISKO (UKMERGĖS) MUSIS 1435 m. rugsėjo 1 d.
   citata_rodoma: "Lietuvos didysis kunigaikštis Žygi-\nmantas Kęstutaitis, sukaupęs „kiek galėjo\ndidžiausias lietuvių jėgas“, gavęs prašytos\npagalbos iš Lenkijos karaliaus Vladislovo\nJogailaičio, ėjo į Trakus. Tolesniam žygiui\n\n68 PABAISKO (UKMERGĖS) MUSIS 1435 m."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-44564
@@ -275,8 +277,8 @@ canonical_biography: "Čekijos karalius Vladislovas Jogailaitis iškovojo Vengri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-40515
 
 - id: c-44565
   sudarytojas: "Karolis Zikaras"
@@ -301,8 +303,8 @@ canonical_biography: "Čekijos karalius Vladislovas Jogailaitis iškovojo Vengri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-40517
 
 - id: c-167157
   sudarytojas: "Karolis Zikaras"
@@ -344,8 +346,8 @@ canonical_biography: "Čekijos karalius Vladislovas Jogailaitis iškovojo Vengri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-40515
 
 - id: c-168220
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -368,8 +370,8 @@ canonical_biography: "Čekijos karalius Vladislovas Jogailaitis iškovojo Vengri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-184859
 
 - id: c-168222
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -397,8 +399,8 @@ canonical_biography: "Čekijos karalius Vladislovas Jogailaitis iškovojo Vengri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-184861
 
 - id: c-178806
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -420,5 +422,7 @@ canonical_biography: "Čekijos karalius Vladislovas Jogailaitis iškovojo Vengri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-184861
+    - t-196629
+

@@ -45,10 +45,22 @@ Jonas Albertas, vadintas Olbrachtu, buvo trečiasis Kazimiero Jogailaičio sūnu
 
 ## Teiginiai
 
-<a id="claim-t-194091"></a>
-- t-001
+<a id="claim-t-218252"></a>
+- t-002
+  teiginys: "Narbutas nurodo, kad Jono Alberto laikais Jonas iš Kurozvenkų buvo Lietuvos pinigų kalyklos prižiūrėtojas."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-201147
+
+<a id="claim-t-212070"></a>
+- t-212070
   teiginys: "Jonas Albertas, vadintas Olbrachtu, buvo trečiasis Kazimiero Jogailaičio sūnus ir gimė 1459 m. gruodžio 27 d. Krokuvoje."
-  atnaujinta: "2026-07-12 22:45"
+  atnaujinta: "2026-09-12 19:43"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -56,7 +68,7 @@ Jonas Albertas, vadintas Olbrachtu, buvo trečiasis Kazimiero Jogailaičio sūnu
   šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
   vertinimo_atnaujinta: "2026-07-12T19:45:40Z"
   pagrindžia:
-    - c-176704
+    - c-193585
 
 ## Citatos
 
@@ -83,5 +95,56 @@ Jonas Albertas, vadintas Olbrachtu, buvo trečiasis Kazimiero Jogailaičio sūnu
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+- id: c-193585
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 304"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 304."
+  citata_originali: |
+    8 Kazimiero Jogallaičio trečiasis sūnus Jonas Albertas, vadin­
+    tas Olbrachtu. buvo vyresnis už brolį Aleksandra dviem metais:
+    gimė I459.XI1.27 Krokuvoje. Tėvui mirštant, po nesėkmingos kovos
+    su
+    broliu
+    Vladislovu
+    dėl
+    Vengrijos
+    sosto
+    (1490—1492)
+    buvo
+    Liubline.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212070
+
+- id: c-201147
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 245-246"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 245-246."
+  citata_originali: |
+    Bajoras Jo­
+    24
+    Kojalavičiaus** rankraštinis Lietuvos bajorų herbynas. Iš jo
+    turiu kai kurias ištraukas; visas buvo Poricko bibliotekoje.
+    246
+
+    nas iš Kurozvenkų, kilimo iš Didžiosios Lenkijos, pinigų ka­
+    lyklos Lietuvoje prižiūrėtojas Jono Alberto laikais, 1503 me­
+    tais gavo iš karaliaus Aleksandro leidimą kaldinti Gardine len­
+    kiškus pinigus
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+

@@ -44,44 +44,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-66488"></a>
-- t-001
-  teiginys: "Muravjovo laikais buvo uždarytos 32 su sukilimu sietos bažnyčios, 52 koplyčios ir apie 20 vienuolynų."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-66705
-
-<a id="claim-t-66489"></a>
-- t-002
-  teiginys: "Muravjovo laikais buvo uždrausta statyti naujas ir remontuoti senas bažnyčias, rengti procesijas ir viešai sakyti pamokslus."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-66703
-
-<a id="claim-t-66490"></a>
-- t-003
-  teiginys: "Muravjovo laikais Žemaičių vyskupui su įstaigomis buvo įsakyta persikelti iš Varnių į Kauną."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-66706
-
-<a id="claim-t-66492"></a>
-- t-004
-  teiginys: "Muravjovo laikais Lietuvos kaimuose ir pakelėse kryžius buvo uždrausta statyti be leidimo."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-66707
-
 ## Citatos
 
 - id: c-66703
@@ -104,7 +66,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-66705
@@ -126,7 +88,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-66706
@@ -146,7 +108,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-66707
@@ -166,5 +128,44 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+## Teiginiai
+
+<a id="claim-t-66488"></a>
+- t-001
+  teiginys: "Muravjovo laikais buvo uždarytos 32 su sukilimu sietos bažnyčios, 52 koplyčios ir apie 20 vienuolynų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-66705
+
+<a id="claim-t-66489"></a>
+- t-002
+  teiginys: "Muravjovo laikais buvo uždrausta statyti naujas ir remontuoti senas bažnyčias, rengti procesijas ir viešai sakyti pamokslus."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-66703
+
+<a id="claim-t-66490"></a>
+- t-003
+  teiginys: "Muravjovo laikais Žemaičių vyskupui su įstaigomis buvo įsakyta persikelti iš Varnių į Kauną."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-66706
+
+<a id="claim-t-66492"></a>
+- t-004
+  teiginys: "Muravjovo laikais Lietuvos kaimuose ir pakelėse kryžius buvo uždrausta statyti be leidimo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-66707
+

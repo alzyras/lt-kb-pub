@@ -48,21 +48,6 @@ historical_names: []
 
 1211 m. lietuviai, susivieniję su jotvingiais, puolė Turijsko pilį ir nukariavo Komovo apylinkes.
 
-## Teiginiai
-
-<a id="claim-t-205873"></a>
-- t-001
-  teiginys: "1211 m. lietuviai, susivieniję su jotvingiais, puolė Turijsko pilį ir nukariavo Komovo apylinkes."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
-  pagrindžia:
-    - c-188488
-
 ## Citatos
 
 - id: c-188488
@@ -84,5 +69,21 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205873"></a>
+- t-001
+  teiginys: "1211 m. lietuviai, susivieniję su jotvingiais, puolė Turijsko pilį ir nukariavo Komovo apylinkes."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:32Z"
+  pagrindžia:
+    - c-188488
+

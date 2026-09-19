@@ -39,20 +39,6 @@ canonical_biography: "1565 m. Kauno muitininkai ir mokesčių rinkikai žydai sk
 
 1565 m. Kauno muitininkai ir mokesčių rinkikai žydai skundė Kauno klebono Jurgio Albinuso valdinius, kad šie užpuolę muitinę.
 
-## Teiginiai
-
-<a id="claim-t-202141"></a>
-- t-001
-  teiginys: "1565 m. Kauno muitininkai ir mokesčių rinkikai žydai skundė Kauno klebono Jurgio Albinuso valdinius, kad šie užpuolę muitinę."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185488
-
 ## Citatos
 
 - id: c-185488
@@ -68,5 +54,20 @@ canonical_biography: "1565 m. Kauno muitininkai ir mokesčių rinkikai žydai sk
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202141"></a>
+- t-001
+  teiginys: "1565 m. Kauno muitininkai ir mokesčių rinkikai žydai skundė Kauno klebono Jurgio Albinuso valdinius, kad šie užpuolę muitinę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185488
+

@@ -35,10 +35,24 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
 
 ## Teiginiai
 
+<a id="claim-t-207939"></a>
+- t-207939
+  teiginys: "1588 m. Lietuvos Statuto teksto analize."
+  atnaujinta: "2026-09-08 15:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 02-kiaupiene-mes-lietuva-ldk-bajorija"
+  temporaliniai_duomenys: "įvykio data: 1588 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-190408
+
 <a id="claim-t-67448"></a>
-- t-001
+- t-67448
   teiginys: "Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešinosi lenkų bandymams gauti vietą Lietuvoje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
@@ -46,36 +60,36 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
     - c-67348
 
 <a id="claim-t-67449"></a>
-- t-002
+- t-67449
   teiginys: "Alberto Goštauto vadovaujamas Lietuvos Statutas iki 1529 m. buvo baigtas ir Zigmanto II patvirtintas."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-67347
 
 <a id="claim-t-67451"></a>
-- t-003
+- t-67451
   teiginys: "Antroji Lietuvos Statuto laida buvo naujai perredaguota."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-67350
 
 <a id="claim-t-67453"></a>
-- t-004
+- t-67453
   teiginys: "Į Lietuvos Statutą buvo įtraukti nuostatai, kad Lietuvos urėdais negali būti skiriami svetimšaliai."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-67345
 
 <a id="claim-t-196356"></a>
-- t-005
+- t-196356
   teiginys: "Kojelavičiaus pasakojime Lietuvos Statutas kartu su unijos aktais sankcionavo Ukrainos prijungimą prie Lenkijos ir pripažino karalių bei bendrą seimą suverenu."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -106,8 +120,8 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-67453
 
 - id: c-67347
   redaktorius: "A. Šapoka"
@@ -129,8 +143,8 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-67449
 
 - id: c-67348
   redaktorius: "A. Šapoka"
@@ -151,8 +165,8 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-67448
 
 - id: c-67350
   redaktorius: "A. Šapoka"
@@ -171,8 +185,8 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-67451
 
 - id: c-178646
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -199,5 +213,25 @@ Lietuviai nepanaikino lenkams priešingų Lietuvos Statuto nuostatų ir priešin
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-196356
+
+- id: c-190408
+  autorius: "Jūratė Kiaupienė"
+  šaltinis: "„Mes, Lietuva.“ LDK bajorija XVI a."
+  puslapiai: "PDF 125"
+  indeksas: "Jūratė Kiaupienė, „Mes, Lietuva.“ LDK bajorija XVI a., PDF 125."
+  citata_originali: |
+    Istoriografijoje šią problemą plačiai yra aptaręs I. Lappo. Pasirėmęs 1588 m. Lietu-
+    vos Statuto teksto analize, I. Lappo rašo, kad žodis „valstybės" (панства) galėjo reikšti
+    abi valstybes, sujungtas Liublino unijos saitais, todėl galima daryti išvadą, kad 1588 m.
+  citata_rodoma: "1588 m. Lietu-\nvos Statuto teksto analize"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:22"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-207939
+

@@ -27,17 +27,6 @@ media_all_json: |-
 
 Lazauskas ra­ šo: „Sunku bus laikyti mokytojum tasai, kurs nepasistengs su šia nauja kropštaus švietimo srities darbininko dovana susipažinti”.
 
-## Teiginiai
-
-<a id="claim-t-95949"></a>
-- t-001
-  teiginys: "Mokytojas J. Lazauskas „Mokyklos ir Gyvenimo“ 2-ajame numeryje rašė, kad sunku laikyti mokytoju tą, kuris nesusipažins su nauja kruopštaus švietimo darbuotojo dovana."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-37143
-
 ## Citatos
 
 - id: c-37143
@@ -55,5 +44,17 @@ Lazauskas ra­ šo: „Sunku bus laikyti mokytojum tasai, kurs nepasistengs su �
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-95949"></a>
+- t-001
+  teiginys: "Mokytojas J. Lazauskas „Mokyklos ir Gyvenimo“ 2-ajame numeryje rašė, kad sunku laikyti mokytoju tą, kuris nesusipažins su nauja kruopštaus švietimo darbuotojo dovana."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-37143
+

@@ -33,43 +33,6 @@ media_all_json: |-
 
 Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos laikraštis). Kituose Gazeta Warszawska spausdintuose straipsniuo­ se istorikas detaliai aprašė Vilniaus Archeologinės komisijos veiklą, lenkų literatūros problemas, nemažai dėmesio skyrė istorijos mokslo padėčiai lenkiškos kultūros centruose - Var­ šuvoje, Vilniuje.
 
-## Teiginiai
-
-<a id="claim-t-193049"></a>
-- t-001
-  teiginys: "„Gazeta Warszawska“ spausdintuose straipsniuose M. Balińskis aprašė Vilniaus archeologinės komisijos veiklą ir lenkų literatūros problemas."
-  atnaujinta: "2026-07-26 17:49"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata."
-  susije_objektai: "mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vilniaus archeologijos komisija|Vilniaus archeologijos komisija]]; mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Krokuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-175817
-
-<a id="claim-t-193050"></a>
-- t-002
-  teiginys: "„Gazeta Warszawska“ buvo svarbi M. Balinskio publicistinės literatūros dalis."
-  atnaujinta: "2026-07-26 17:49"
-  sprendimo_priezastis: "auto"
-  sudarymo_pagrindimas: "Pradinis teiginys negrabiai suformuluotas; citata palaiko glaustesnį enciklopedinį sakinį."
-  susije_objektai: "mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-175818
-
-<a id="claim-t-194677"></a>
-- t-003
-  teiginys: "Narbutas teigia, kad yra žmogus Dievo siųstas iš dangaus, Jo lietuviškoje krūtinėje šventoji ugnis liepsnoja, - 8 Gazeta Warszawska."
-  atnaujinta: "2026-07-19 17:58"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "saltinio_teiginys"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-177074
-
 ## Citatos
 
 - id: c-175817
@@ -93,8 +56,9 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+    - t-002
 
 - id: c-175818
   autorius: "Michał Baliński"
@@ -117,7 +81,8 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
+    - t-001
     - t-002
 
 - id: c-177074
@@ -136,5 +101,30 @@ Balinskio publicistinės literatūros dalis yra Gazeta Warszawska (Varšuvos lai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+
+## Teiginiai
+
+<a id="claim-t-193049"></a>
+- t-001
+  teiginys: "„Gazeta Warszawska“ spausdintuose straipsniuose M. Balińskis aprašė Vilniaus archeologinės komisijos veiklą ir lenkų literatūros problemas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata."
+  susije_objektai: "mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vilniaus archeologijos komisija|Vilniaus archeologijos komisija]]; mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Krokuva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-175817
+    - c-175818
+
+<a id="claim-t-193050"></a>
+- t-002
+  teiginys: "„Gazeta Warszawska“ buvo svarbi M. Balinskio publicistinės literatūros dalis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  sudarymo_pagrindimas: "Pradinis teiginys negrabiai suformuluotas; citata palaiko glaustesnį enciklopedinį sakinį."
+  susije_objektai: "mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-175817
+    - c-175818
+

@@ -38,18 +38,6 @@ A. R. Niemio tekstas, minimas leidinyje „Taukomies“ 1926-1927 m.
 
 A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 
-## Teiginiai
-
-<a id="claim-t-195235"></a>
-- t-001
-  teiginys: "A. R. Niemio „Lietuvių tautos atgimimas“ paskelbta „Taukomies“ 1926-1927 m."
-  atnaujinta: "2026-07-11 22:44"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177601
-
 ## Citatos
 
 - id: c-177601
@@ -68,5 +56,18 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-195235"></a>
+- t-001
+  teiginys: "A. R. Niemio „Lietuvių tautos atgimimas“ paskelbta „Taukomies“ 1926-1927 m."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177601
+

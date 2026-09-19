@@ -38,28 +38,6 @@ tags:
 
 A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
 
-## Teiginiai
-
-<a id="claim-t-195231"></a>
-- t-001
-  teiginys: "1920 m. A. R. Niemio „Medžiaga Lietuvos mokyklų reformai“ išleista Kaune."
-  atnaujinta: "2026-07-11 22:44"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177597
-
-<a id="claim-t-195232"></a>
-- t-002
-  teiginys: "Šio leidinio vokiška santrauka paskelbta Tilžėje, „Litauische Warte“."
-  atnaujinta: "2026-07-11 22:44"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
-  pagrindžia:
-    - c-177598
-
 ## Citatos
 
 - id: c-177597
@@ -76,7 +54,7 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177598
@@ -93,5 +71,28 @@ A. Sabaliausko straipsnyje „A. a. prof. A. R. Niemi“.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-195231"></a>
+- t-001
+  teiginys: "1920 m. A. R. Niemio „Medžiaga Lietuvos mokyklų reformai“ išleista Kaune."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177597
+
+<a id="claim-t-195232"></a>
+- t-002
+  teiginys: "Šio leidinio vokiška santrauka paskelbta Tilžėje, „Litauische Warte“."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/01_extract_sources_notes.md"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
+  pagrindžia:
+    - c-177598
+

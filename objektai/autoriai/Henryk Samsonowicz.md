@@ -55,3 +55,45 @@ Henryk Samsonowicz teigė, kad Abiejų Tautų Respublika davė Europai duoną, t
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-190306
+  autorius: "Alfredas Bumblauskas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštija ir jos tradicija"
+  puslapiai: "PDF 160-162"
+  indeksas: "Alfredas Bumblauskas, Lietuvos Didžioji Kunigaikštija ir jos tradicija, PDF 160-162."
+  citata_originali: |
+    Tačiau svarbiausias Liublino unijos kompromiso rezulta-
+    tas – Abiejų Tautų Respublika, kuri egzistavo dar du amžius. Ir ne tik egzistavo, o, Hen-
+    ryko Samsonowicziaus teigimu, davė Europai duoną, toleranciją, bajoriškąją demokratiją,
+    baroko meną ir konstituciją.
+
+
+
+    IV
+    Abiejų Tautų Respublikoje ir Baroko Europoje
+  citata_rodoma: "svarbiausias Liublino unijos kompromiso rezulta-\ntas – Abiejų Tautų Respublika, kuri egzistavo dar du amžius. Ir ne tik egzistavo, o, Hen-\nryko Samsonowicziaus teigimu, davė Europai duoną, toleranciją, bajoriškąją demokratiją, \nbaroko meną ir konstituciją.\n\n\n\nIV\nAb"
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-207689"></a>
+- t-001
+  teiginys: "Henryk Samsonowicz teigė, kad Abiejų Tautų Respublika davė Europai duoną, toleranciją, bajoriškąją demokratiją, baroko meną ir konstituciją."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: 01-bumblauskas-ldk-ir-jos-tradicija"
+  pagrindžia:
+    - c-190306
+

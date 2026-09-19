@@ -43,10 +43,34 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 
 ## Teiginiai
 
+<a id="claim-t-212539"></a>
+- t-212539
+  teiginys: "Vėliau Rusnės upė suskilo į daugelį šakų ir liko žemiau Rusnės salos."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195319
+
+<a id="claim-t-214175"></a>
+- t-214175
+  teiginys: "Rusnės upė buvo dešinioji Nemuno vaga nuo Rusnės salos."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195671
+
 <a id="claim-t-32520"></a>
-- t-001
+- t-32520
   teiginys: "Nustačius sieną, Nemunas, Rusnė ir Klaipėda buvo palikti Ordinui trijų mylių atstumu nuo Nemuno ir marių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Kryžiuočių ordinas: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -60,50 +84,70 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   pagrindžia:
     - c-34030
 
-<a id="claim-t-188828"></a>
-- t-002
-  teiginys: "Narbutas aiškino, kad lietuvių protėviai Rusnę, dešiniąją Nemuno atšaką, pagal religines apeigas pavertė penktąja šventąja upe."
-  atnaujinta: "2026-07-12 22:33"
+<a id="claim-t-201102"></a>
+- t-201102
+  teiginys: "Rasi kartagionys nuo savo žinyčios dievui, Kronas vadinamam, Rusnėj įkurtos, ir pačią upę Nemuną nuo tos žinyčios Kro nu vadino."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Šventoji: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rusnė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Šventoji: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusnė\" parinktas kaip owner_note_path. Targetas \"Šventoji\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
   pagrindžia:
-    - c-171717
+    - c-184452
 
-<a id="claim-t-192748"></a>
-- t-003
-  teiginys: "Narbutas manė, kad seniausia lietuvių gyvenvietė buvo prie dešiniosios Nemuno vagos dalies, vadintos Ruse, Rusne arba Rusnia."
-  atnaujinta: "2026-07-12 22:34"
+<a id="claim-t-201103"></a>
+- t-201103
+  teiginys: "Nuo to gi gal lemti, jog ta pasaka galėjo bū ti pradžioj yna, bet paskui yra pertaisyta nuo kokio noris zokanyko gudo arba vokyčio 15 ar 16 amžiuj, kaipogi daugioj vietoj pati pasaka sau prieštarauja, bylodama, jog pirmąją žinyčią Rusnėj viešpats Bratenis."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Baltija: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Rusnė: owner_note_path, place, gap=0"
-  ryšio_targeto_parinkimas: "Baltija: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Rusnė\" parinktas kaip owner_note_path. Targetas \"Baltija\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184453
+
+<a id="claim-t-201104"></a>
+- t-201104
+  teiginys: "Yra minavo j ama, jog buvusios žinyčios Rusnėj, Palangoj, Dzievaltave ir Panemunėj, bet viena Vil niaus žinyčia tėra aiškiai aprašyta, kurią tuojau re gėsim. Visų senoji vienok žinyčia, rodos, Rusnėj buvu si."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184454
+
+<a id="claim-t-205382"></a>
+- t-205382
+  teiginys: "Pasak Narbuto, Erdvilo valdymo metais Kaune ir Rusnėje suklestėjo prekyba javais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
   pagrindžia:
-    - c-175518
+    - c-187984
 
-<a id="claim-t-192749"></a>
-- t-004
+<a id="claim-t-206573"></a>
+- t-206573
+  teiginys: "Narbutas rašo, kad kryžiuočiai nesutiko grąžinti Lietuvai užimtų žemių, tikriausiai ir Nemuno dešinėje buvusios Rusnės dalies."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189188
+
+<a id="claim-t-213591"></a>
+- t-213591
   teiginys: "Narbutas rašo, kad prie Sancinės dešinioji Nemuno vaga buvo vadinama Russ, Rusnytė, Rusna arba Rusnia."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -118,68 +162,16 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   semantiniai_rysiai: "Rusnė priklausė Nemunas (0.70)"
   vertinimo_atnaujinta: "2026-07-06T03:41:45Z"
-  pagrindžia:
-    - c-175519
 
-<a id="claim-t-201102"></a>
-- t-005
-  teiginys: "Rasi kartagionys nuo savo žinyčios dievui, Kronas vadinamam, Rusnėj įkurtos, ir pačią upę Nemuną nuo tos žinyčios Kro nu vadino."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184452
-
-<a id="claim-t-201103"></a>
-- t-006
-  teiginys: "Nuo to gi gal lemti, jog ta pasaka galėjo bū ti pradžioj yna, bet paskui yra pertaisyta nuo kokio noris zokanyko gudo arba vokyčio 15 ar 16 amžiuj, kaipogi daugioj vietoj pati pasaka sau prieštarauja, bylodama, jog pirmąją žinyčią Rusnėj viešpats Bratenis."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184453
-
-<a id="claim-t-201104"></a>
-- t-007
-  teiginys: "Yra minavo j ama, jog buvusios žinyčios Rusnėj, Palangoj, Dzievaltave ir Panemunėj, bet viena Vil niaus žinyčia tėra aiškiai aprašyta, kurią tuojau re gėsim. Visų senoji vienok žinyčia, rodos, Rusnėj buvu si."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184454
-
-<a id="claim-t-205382"></a>
-- t-008
-  teiginys: "Pasak Narbuto, Erdvilo valdymo metais Kaune ir Rusnėje suklestėjo prekyba javais."
-  atnaujinta: "2026-08-11 18:54"
+<a id="claim-t-214273"></a>
+- t-214273
+  teiginys: "Prie Sancinės jis pirmiausia dalijasi į dvi vagas; dešinioji va dinama mitiniu vardu Russ, dabar Rusnytė, Rusna, Rusnia pagal įvairų tarimą lietuvių, vokiečių ir slavų kalbo mis."
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-187984
-
-<a id="claim-t-206573"></a>
-- t-009
-  teiginys: "Narbutas rašo, kad kryžiuočiai nesutiko grąžinti Lietuvai užimtų žemių, tikriausiai ir Nemuno dešinėje buvusios Rusnės dalies."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189188
 
 ## Reikšmingi paminėjimai
 - c-002
@@ -248,8 +240,8 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-32520
 
 - id: c-171717
   autorius: "Teodoras Narbutas"
@@ -272,8 +264,6 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 - id: c-175518
   autorius: "Teodoras Narbutas"
@@ -302,8 +292,6 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-175519
   autorius: "Teodoras Narbutas"
@@ -327,8 +315,6 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
 
 - id: c-184452
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -351,8 +337,8 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-201102
 
 - id: c-184453
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -384,8 +370,8 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-201103
 
 - id: c-184454
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -409,8 +395,8 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-201104
 
 - id: c-187984
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -430,8 +416,8 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
+  pagrindžia:
+    - t-205382
 
 - id: c-189188
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -448,5 +434,72 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
+  pagrindžia:
+    - t-206573
+
+- id: c-195319
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 185"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 185."
+  citata_originali: |
+    patvinę marių vandenys užliejo naujus plotus nuo Kar­
+    vaičių ligi Klaipėdos, o suskilusi į daugelį šakų Rusnės
+    upė liko žemiau Rusnės salos
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212539
+
+- id: c-195671
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 180"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 180."
+  citata_originali: |
+    Mano nuomone, Rus­
+    nės upė, arba dešinioji Nemuno vaga, nuo Rusnės salos,
+    kur yra to paties pavadinimo teritorinis vienetas, suko į
+    dešinę
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214175
+
+- id: c-196281
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 214."
+  citata_originali: |
+    Tun-
+    manas savo tyrimais rodo, jog, kai lietuvių tautos tėvai
+    atsikėlė prie Baltijos jūros ir ėmė prie jos plėstis, tuojau
+    užėmė Sembą ir gintaro kasyklas2. Tačiau visų seniausia
+    jų gyvenvietė turėtų būti prie Nemuno vagos dešinės da­
+    lies, ligi šiol vadinamos Ruse arba slaviškai Rusne,
+    Rusnia.
+    *  *  *
+    VI skyrius
+    A P I E  R U S I Ą  IR R U S U  S*
+    219
+    Mūsų teiginys, kad senovės Lietuvos Rusios kraštas
+    egzistavo prie Nemuno žemupio1 * 3, — ¡panašiai vadinama ša­
+    ka, arba turi lietuvišką religinį Ros ės vardą, — kai kam
+    gali pasirodyti nauja suregzta išmone, kuri mažai susiju­
+    si su nagrinėjamu dalyku.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+

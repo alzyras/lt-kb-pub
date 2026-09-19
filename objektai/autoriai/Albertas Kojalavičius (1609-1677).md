@@ -44,20 +44,6 @@ canonical_biography: "Albertas Kojaiavičius (1609-1677) jėzuitu tapo 1627 m., 
 
 Albertas Kojaiavičius (1609-1677) jėzuitu tapo 1627 m., 1629-1632 m. studijavo filosofiją Nesvyžiaus kolegijoje, 1634-1638 m. - teologiją Vilniaus universitete, 1641 m. tapo šio universiteto filosofijos profesoriumi, 1645 m. - teologijos daktaru, 1653- 1655.
 
-## Teiginiai
-
-<a id="claim-t-202221"></a>
-- t-001
-  teiginys: "Albertas Kojaiavičius (1609-1677) jėzuitu tapo 1627 m., 1629-1632 m. studijavo filosofiją Nesvyžiaus kolegijoje, 1634-1638 m. - teologiją Vilniaus universitete, 1641 m. tapo šio universiteto filosofijos profesoriumi, 1645 m. - teologijos daktaru, 1653- 1655."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185568
-
 ## Citatos
 
 - id: c-185568
@@ -78,5 +64,20 @@ Albertas Kojaiavičius (1609-1677) jėzuitu tapo 1627 m., 1629-1632 m. studijavo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-202221"></a>
+- t-001
+  teiginys: "Albertas Kojaiavičius (1609-1677) jėzuitu tapo 1627 m., 1629-1632 m. studijavo filosofiją Nesvyžiaus kolegijoje, 1634-1638 m. - teologiją Vilniaus universitete, 1641 m. tapo šio universiteto filosofijos profesoriumi, 1645 m. - teologijos daktaru, 1653- 1655."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185568
+

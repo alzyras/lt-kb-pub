@@ -42,10 +42,23 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
 
 ## Teiginiai
 
+<a id="claim-t-211119"></a>
+- t-211119
+  teiginys: "1502 m. birželį Mengli-Girėjaus vadovaujami Krymo totoriai sumušė Aukso ordą."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
+  pagrindžia:
+    - c-194136
+
 <a id="claim-t-71638"></a>
-- t-001
+- t-71638
   teiginys: "Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikęs chanas Devletberdi."
-  atnaujinta: "2026-06-13 17:24"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Krymas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -59,9 +72,9 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
     - c-70192
 
 <a id="claim-t-71639"></a>
-- t-002
+- t-71639
   teiginys: "1427 m. pabaigoje Vytauto remiamas Machmetas pavaldė Pavolgio, Juodmarių pakraščio ir Krymo totorius."
-  atnaujinta: "2026-05-31 10:32"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Krymas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -77,9 +90,9 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
     - c-36807
 
 <a id="claim-t-71640"></a>
-- t-003
+- t-71640
   teiginys: "Po pergalės ties Prostkais samdiniai totoriai dėl konflikto su lietuviais dėl belaisvių pasitraukė iš Lietuvos pajėgų."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "puole -> Lietuviai: 0.74"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -98,9 +111,9 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
     - c-42714
 
 <a id="claim-t-71641"></a>
-- t-004
+- t-71641
   teiginys: "1427 m. pabaigoje Vytauto palaikomas Machmetas galutinai įsigalėjo tarp Pavolgio, Juodmarių pakraščio ir Krymo totorių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Krymas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -117,9 +130,9 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
     - c-36807
 
 <a id="claim-t-71642"></a>
-- t-005
+- t-71642
   teiginys: "Lietuvos pajėgas sudarė apie 10 tūkst. lietuvių ir 2 tūkst. Krymo totorių samdinių."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_sajungininkas_su -> Lietuviai: 0.65"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -134,9 +147,9 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
     - c-42713
 
 <a id="claim-t-71643"></a>
-- t-006
+- t-71643
   teiginys: "Šiauriau Prostkų per upę besikeliantiems totoriams sulaikyti G. Valdekas pasiuntė B. Radvilos kavaleriją."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Radvilos: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -151,9 +164,9 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
     - c-70190
 
 <a id="claim-t-184487"></a>
-- t-007
+- t-184487
   teiginys: "Krymo skitai netikėtai įsiveržė Dyklaukiais, apiplėšė dideles apygardas ir išsivežė grobį, kai lietuviai neturėjo sutelktos kariuomenės."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -189,9 +202,9 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-004
+  pagrindžia:
+    - t-71639
+    - t-71641
 
 - id: c-42713
   sudarytojas: "Karolis Zikaras"
@@ -210,8 +223,8 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-71642
 
 - id: c-42714
   sudarytojas: "Karolis Zikaras"
@@ -227,8 +240,8 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-71640
 
 - id: c-70190
   sudarytojas: "Karolis Zikaras"
@@ -248,8 +261,8 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-71643
 
 - id: c-70192
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -270,8 +283,8 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-71638
 
 - id: c-167848
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -294,8 +307,26 @@ Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikę
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-184487
+
+- id: c-194136
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 321"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 321."
+  citata_originali: |
+    Mengli-Girėjaus vadovaujami Krymo totoriai sumušė Aukso
+    ordą 1502 m. birželio mėn. apie 10 d- nenustatytoje vietoje, | piet­
+    ryčius nuo Kijevo, Vorkslos upės ruože.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-211119
 
 ## Ryšiai
 - Krymo totoriai puolė [[objektai/vietos/Rusija]]

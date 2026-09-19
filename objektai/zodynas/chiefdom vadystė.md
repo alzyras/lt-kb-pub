@@ -71,9 +71,9 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
     - c-16540
 
 <a id="claim-t-13544"></a>
-- t-002
+- t-13544
   teiginys: "Netimero valdžios paveldimumas šaltinyje laikomas požymiu, kad Lietuva buvo pasiekusi bent vadystės stadiją."
-  atnaujinta: "2026-05-31 11:59"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "keliavo_i -> Lietuva: 0.95"
   ryšio_patikimumo_lygis: "aukstas"
@@ -88,9 +88,9 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
     - c-16540
 
 <a id="claim-t-26668"></a>
-- t-003
+- t-26668
   teiginys: "Netimero valdžios paveldimumo principas rodytų, kad Lietuva buvo pasiekusi bent vadystės, arba chiefdom'o, stadiją."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Europa: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -119,13 +119,14 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
     tų, kad Lietuva buvo pasiekusi bent jau chiefdom’o (vadystės) stadiją.
   citata_rodoma: "Netimero valdžios paveldimumo principo buvimas rody-\ntų, kad Lietuva buvo pasiekusi bent jau chiefdom’o (vadystės) stadiją."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
-    - t-002
+    - t-13544
 
 - id: c-73292
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -145,5 +146,6 @@ Vartojama ankstyvosios Lietuvos politinės organizacijos aptarime.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-26668
+

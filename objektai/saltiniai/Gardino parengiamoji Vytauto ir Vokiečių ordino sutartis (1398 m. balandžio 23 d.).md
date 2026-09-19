@@ -38,34 +38,6 @@ Gardino parengiamojoje sutartyje numatyta, kad joje dalyvaujančiose šalyse vis
 
 Gardino parengiamojoje sutartyje numatyta, kad joje dalyvaujančiose šalyse visų luomų žmonių prekyba bus nevaržoma ir proteguojama, o naujų muitų nebus, išskyrus senuosius. Teodoras Narbutas nurodo, kad Gardino parengiamojoje sutartyje numatytas didžiojo kunigaikščio ir didžiojo magistro suvažiavimas Salyno saloje per šv. Mykolo dieną, dalyvaujant Ordino vyresniesiems ir Lietuvos didikams.
 
-## Teiginiai
-
-<a id="claim-t-207031"></a>
-- t-001
-  teiginys: "Gardino parengiamojoje sutartyje numatyta, kad joje dalyvaujančiose šalyse visų luomų žmonių prekyba bus nevaržoma ir proteguojama, o naujų muitų nebus, išskyrus senuosius."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189646
-
-<a id="claim-t-207032"></a>
-- t-002
-  teiginys: "Teodoras Narbutas nurodo, kad Gardino parengiamojoje sutartyje numatytas didžiojo kunigaikščio ir didžiojo magistro suvažiavimas Salyno saloje per šv. Mykolo dieną, dalyvaujant Ordino vyresniesiems ir Lietuvos didikams."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189647
-
 ## Citatos
 
 - id: c-189646
@@ -86,7 +58,7 @@ Gardino parengiamojoje sutartyje numatyta, kad joje dalyvaujančiose šalyse vis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189647
@@ -107,5 +79,34 @@ Gardino parengiamojoje sutartyje numatyta, kad joje dalyvaujančiose šalyse vis
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-207031"></a>
+- t-001
+  teiginys: "Gardino parengiamojoje sutartyje numatyta, kad joje dalyvaujančiose šalyse visų luomų žmonių prekyba bus nevaržoma ir proteguojama, o naujų muitų nebus, išskyrus senuosius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189646
+
+<a id="claim-t-207032"></a>
+- t-002
+  teiginys: "Teodoras Narbutas nurodo, kad Gardino parengiamojoje sutartyje numatytas didžiojo kunigaikščio ir didžiojo magistro suvažiavimas Salyno saloje per šv. Mykolo dieną, dalyvaujant Ordino vyresniesiems ir Lietuvos didikams."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189647
+

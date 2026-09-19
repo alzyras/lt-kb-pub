@@ -39,58 +39,6 @@ canonical_biography: "Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronik
 
 Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronikos pavadinimas. Jam priklausiusioje Mogiliovcų dvaro bibliotekoje prieš 1830 m. buvo aptiktas šios kronikos rankraštis, o pats Bychovcas vėliau perdavė jį per Vincentą Janovskį Teodorui Narbutui.
 
-## Teiginiai
-
-<a id="claim-t-186501"></a>
-- t-001
-  teiginys: "Aleksandras Bychovcas buvo Gardino gubernijos Volkovysko apskrities teisėjas, pagal kurį XIX a. praminta Bychovco kronika."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "susije_su -> Gardinas: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Aleksandras Bychovcas (volkovysko apskrities teisėjas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Gardinas: mention_match, place, gap=27"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Aleksandras Bychovcas (volkovysko apskrities teisėjas)\" parinktas kaip owner_note_path. Targetas \"Gardinas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-06-16T21:06:50Z"
-  pagrindžia:
-    - c-169840
-
-<a id="claim-t-186502"></a>
-- t-002
-  teiginys: "Aleksandrui Bychovcui priklausiusioje Mogiliovcų dvaro bibliotekoje prieš 1830 m. buvo aptiktas Bychovco kronikos rankraštis."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  ryšio_patikimumas: "priklause -> Mogiliovcai: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Bychovco kronikos rankraštis: llm_allowed_candidate, thing"
-  ryšio_targeto_parinkimas: "Mogiliovcai: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo rankraščio buvimą Mogiliovcų dvaro bibliotekoje, todėl vietinė priklausomybė pagrįsta."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  semantiniai_rysiai: "Bychovco kronikos rankraštis priklausė Mogiliovcai (0.72)"
-  temporaliniai_duomenys: "įvykio data: po 1446 m.; įvykio data: 1446 m.; įvykio data: 1506 m.; įvykio data: 1830 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys aiškus, gramatinis ir paremtas citata."
-  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
-  pagrindžia:
-    - c-169841
-
-<a id="claim-t-186503"></a>
-- t-003
-  teiginys: "Teodoro Narbuto prašomas Aleksandras Bychovcas perdavė rankraštį Vincentui Janovskiui, kad šis persiųstų jį Narbutui."
-  atnaujinta: "2026-07-12 22:30"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  pagrindžia:
-    - c-169839
-
 ## Reikšmingi paminėjimai
 - c-001
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
@@ -158,8 +106,6 @@ Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronikos pavadinimas. Jam pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
 
 - id: c-169840
   autorius: "Anoniminis metraštininkas"
@@ -176,8 +122,6 @@ Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronikos pavadinimas. Jam pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-169841
   autorius: "Anoniminis metraštininkas"
@@ -194,8 +138,29 @@ Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronikos pavadinimas. Jam pr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/daiktai/Bychovco kronikos rankraštis]]
+
+## Teiginiai
+
+<a id="claim-t-210412"></a>
+- t-001
+  teiginys: "Aleksandrui Bychovcui priklausiusioje Mogiliovcų dvaro bibliotekoje prieš 1830 m. buvo aptiktas Bychovco kronikos rankraštis."
+  atnaujinta: "2026-09-13 18:12"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  ryšio_patikimumas: "priklause -> Mogiliovcai: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Bychovco kronikos rankraštis: llm_allowed_candidate, thing"
+  ryšio_targeto_parinkimas: "Mogiliovcai: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo rankraščio buvimą Mogiliovcų dvaro bibliotekoje, todėl vietinė priklausomybė pagrįsta."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  semantiniai_rysiai: "Bychovco kronikos rankraštis priklausė Mogiliovcai (0.72)"
+  temporaliniai_duomenys: "įvykio data: po 1446 m.; įvykio data: 1446 m.; įvykio data: 1506 m.; įvykio data: 1830 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys aiškus, gramatinis ir paremtas citata."
+  vertinimo_atnaujinta: "2026-06-16T16:17:40Z"
+

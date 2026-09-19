@@ -42,21 +42,6 @@ historical_names: []
 
 Pirmoji bažnyčia, į kurią buvo grąžintos lietuviškosios pamaldos, buvo Veisėjų.
 
-## Teiginiai
-
-<a id="claim-t-193281"></a>
-- t-001
-  teiginys: "Pirmoji bažnyčia, į kurią buvo grąžintos lietuviškosios pamaldos, buvo Veisėjų."
-  atnaujinta: "2026-07-06 12:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
-  pagrindžia:
-    - c-176010
-
 ## Citatos
 
 - id: c-176010
@@ -75,5 +60,21 @@ Pirmoji bažnyčia, į kurią buvo grąžintos lietuviškosios pamaldos, buvo Ve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-193281"></a>
+- t-001
+  teiginys: "Pirmoji bažnyčia, į kurią buvo grąžintos lietuviškosios pamaldos, buvo Veisėjų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:33Z"
+  pagrindžia:
+    - c-176010
+

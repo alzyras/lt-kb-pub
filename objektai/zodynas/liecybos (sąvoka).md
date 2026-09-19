@@ -29,20 +29,6 @@ media_all_json: |-
 
 Tas visas dovenas ir liecybas patvirtino dar Kristijonui pats popiežius.
 
-## Teiginiai
-
-<a id="claim-t-201210"></a>
-- t-001
-  teiginys: "Tas visas dovenas ir liecybas patvirtino dar Kristijonui pats popiežius."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184560
-
 ## Citatos
 
 - id: c-184560
@@ -62,5 +48,20 @@ Tas visas dovenas ir liecybas patvirtino dar Kristijonui pats popiežius.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201210"></a>
+- t-001
+  teiginys: "Tas visas dovenas ir liecybas patvirtino dar Kristijonui pats popiežius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184560
+

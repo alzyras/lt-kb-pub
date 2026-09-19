@@ -47,10 +47,23 @@ canonical_biography: "Čia dar reikia paminėti ir lietuviškų kalendorių leid
 
 ## Teiginiai
 
+<a id="claim-t-209412"></a>
+- t-209412
+  teiginys: "Lauryno Ivinskio lietuviški kalendoriai, tuo metu pažįstami liaudžiai, reikšmingai prisidėjo prie blaivybės idėjų propagavimo."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:26Z"
+  pagrindžia:
+    - c-192052
+
 <a id="claim-t-113486"></a>
-- t-001
+- t-113486
   teiginys: "Laurynas Ivinskis buvo žemaičių bajoras ir lietuviškų kalendorių leidėjas, gyvenęs 1808–1881 m."
-  atnaujinta: "2026-06-13 18:29"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -66,9 +79,9 @@ canonical_biography: "Čia dar reikia paminėti ir lietuviškų kalendorių leid
     - c-104710
 
 <a id="claim-t-113487"></a>
-- t-002
+- t-113487
   teiginys: "M. Balinskis Gazeta Warszawska straipsniuose supažindino skaitytojus su Lauryno Ivinskio kalendoriais."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Aleksandras Balinskis: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -102,8 +115,8 @@ canonical_biography: "Čia dar reikia paminėti ir lietuviškų kalendorių leid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-113486
 
 - id: c-104711
   autorius: "Michał Baliński"
@@ -125,5 +138,29 @@ canonical_biography: "Čia dar reikia paminėti ir lietuviškų kalendorių leid
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-113487
+
+- id: c-192052
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 81"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 81."
+  citata_originali: |
+    Gyvai, palyginti gryna lietuvių kalba parašytos J.S. Dovydaičio
+    knygelės buvo plačiai skaitomos ir nemažai prisidėjo prie blaivybės
+    propagandos ir liaudies švietimo.
+    Ne mažiau svarbus ir L. Ivinskio įnašas į blaivybės idėjų
+    propagavimą. Jo lietuviški kalendoriai tuo metu jau buvo pažįstami
+    liaudžiai, todėl ir juose skelbiamų idėjų, poveikis nemažas.
+  citata_rodoma: "Ne mažiau svarbus ir L. Ivinskio įnašas į blaivybės idėjų \npropagavimą. Jo lietuviški kalendoriai tuo metu jau buvo pažįstami \nliaudžiai, todėl ir juose skelbiamų idėjų, poveikis nemažas."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-209412
+

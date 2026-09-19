@@ -35,28 +35,6 @@ media_all_json: |-
 
 Jozefo Grabinskio Jėgerių batalionas, LDK kariuomenės artileristai prasidėjus sukilimui Vilniuje (2004 m.
 
-## Teiginiai
-
-<a id="claim-t-40903"></a>
-- t-001
-  teiginys: "Jozefo Grabinskio Jėgerių batalionas priklausė Vilnių nuo rusų puolimo gynusiai gen. mjr. Jono Mejeno divizijai."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "gyne -> Vilnius: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Jozefo Grabinskio Jėgerių batalionas: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Batalionas buvo divizijos, gynusios Vilnių, sudėtyje, todėl ryšys su Vilniaus gynyba tiesiogiai paremtas citata."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Jozefo Grabinskio Jėgerių batalionas gynė Vilnius (0.72)"
-  temporaliniai_duomenys: "priklausymo laikotarpis: 1794 m.; priklausymo laikotarpis: 2004 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jozefo Grabinskio Jėgerių batalionas priklausė Vilnius“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
-  pagrindžia:
-    - c-44754
-
 ## Citatos
 
 - id: c-44754
@@ -82,5 +60,28 @@ Jozefo Grabinskio Jėgerių batalionas, LDK kariuomenės artileristai prasidėju
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-40903"></a>
+- t-001
+  teiginys: "Jozefo Grabinskio Jėgerių batalionas priklausė Vilnių nuo rusų puolimo gynusiai gen. mjr. Jono Mejeno divizijai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "gyne -> Vilnius: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Jozefo Grabinskio Jėgerių batalionas: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Vilnius: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Batalionas buvo divizijos, gynusios Vilnių, sudėtyje, todėl ryšys su Vilniaus gynyba tiesiogiai paremtas citata."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Jozefo Grabinskio Jėgerių batalionas gynė Vilnius (0.72)"
+  temporaliniai_duomenys: "priklausymo laikotarpis: 1794 m.; priklausymo laikotarpis: 2004 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Jozefo Grabinskio Jėgerių batalionas priklausė Vilnius“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata."
+  pagrindžia:
+    - c-44754
+

@@ -34,24 +34,6 @@ canonical_biography: "Kaip nuo seno įprasta, de­ šimtinę mokės šie parapij
 
 Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai: Jonas Stančikavičius, Stanislovas Milinavičius, Stanislovas Piotrasavičius, Motiejus su broliu Kasparu JanušeVičiai, Aleksandras Baltramiejevičius, našlė Felicija Osčiluvna, Povilas.
 
-## Teiginiai
-
-<a id="claim-t-87749"></a>
-- t-001
-  teiginys: "Kasparas Januševičius su broliu Motiejumi buvo tarp parapijoje gyvenusių bajorų, privalėjusių mokėti dešimtinę."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_brolis -> Motiejus: 0.95"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kasparas Januševičius: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Motiejus: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Formuluotė tiesiogiai nurodo, kad Kasparas buvo Motiejaus brolis."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-83728
-
 ## Citatos
 
 - id: c-83728
@@ -83,5 +65,24 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-87749"></a>
+- t-001
+  teiginys: "Kasparas Januševičius su broliu Motiejumi buvo tarp parapijoje gyvenusių bajorų, privalėjusių mokėti dešimtinę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_brolis -> Motiejus: 0.95"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kasparas Januševičius: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Motiejus: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Formuluotė tiesiogiai nurodo, kad Kasparas buvo Motiejaus brolis."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-83728
+

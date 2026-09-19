@@ -46,22 +46,6 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
 
 ## Teiginiai
 
-<a id="claim-t-55069"></a>
-- t-001
-  teiginys: "Bursa buvo skirta sunkios padėties studentams, turintiems tikslą pabaigti studijas."
-  atnaujinta: "2026-05-31 12:00"
-  sprendimo_priezastis: "gap::groups"
-  ryšio_patikimumas: "susije_su -> bursa: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Valerijono Bursos studentų bendrija: owner_note_path, group, gap=0"
-  ryšio_targeto_parinkimas: "bursa: mention_match, thing, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijono Bursos studentų bendrija\" parinktas kaip owner_note_path. Targetas \"bursa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  pagrindžia:
-    - c-55889
-
 <a id="claim-t-55070"></a>
 - t-002
   teiginys: "Valerijono Bursos studentų bendrijoje galėjo gyventi studentai nepriklausomai nuo tautybės."
@@ -78,10 +62,26 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
   pagrindžia:
     - c-55890
 
+<a id="claim-t-55069"></a>
+- t-55069
+  teiginys: "Bursa buvo skirta sunkios padėties studentams, turintiems tikslą pabaigti studijas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "gap::groups"
+  ryšio_patikimumas: "susije_su -> bursa: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Valerijono Bursos studentų bendrija: owner_note_path, group, gap=0"
+  ryšio_targeto_parinkimas: "bursa: mention_match, thing, gap=0"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Valerijono Bursos studentų bendrija\" parinktas kaip owner_note_path. Targetas \"bursa\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  pagrindžia:
+    - c-55889
+
 <a id="claim-t-55071"></a>
-- t-003
+- t-55071
   teiginys: "Studentų bendrijoje turėjo būti prefektas arba senjoras, prižiūrintis pamaldumo, garbingumo ir broliškos santarvės laikymąsi."
-  atnaujinta: "2026-05-31 12:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "gap::groups"
   ryšio_patikimumas: "susije_su -> Namas: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -95,9 +95,9 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
     - c-55890
 
 <a id="claim-t-55072"></a>
-- t-004
+- t-55072
   teiginys: "Dokumento autoriai studentų bendriją ir minėtą namą norėjo pavadinti Valerijono Bursa."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "gap::groups"
   ryšio_patikimumas: "susije_su -> Namas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -111,9 +111,9 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
     - c-55891
 
 <a id="claim-t-55073"></a>
-- t-005
+- t-55073
   teiginys: "Namų ir rūsio nuomos pajamos turėjo būti skiriamos Bursos studentų būtinoms reikmėms."
-  atnaujinta: "2026-05-31 12:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "gap::groups"
   ryšio_patikimumas: "susije_su -> Valerijono Bursa: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -127,9 +127,9 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
     - c-55891
 
 <a id="claim-t-81661"></a>
-- t-006
+- t-81661
   teiginys: "Valerijono Bursa buvo skirta laisvam studentų gyvenimui, nepriklausomai nuo jų tautybės."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "gap::groups"
   ryšio_patikimumas: "susije_su -> Valerijono Bursa: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -177,8 +177,8 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-55069
 
 - id: c-55890
   autorius: "Michał Baliński"
@@ -217,13 +217,14 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
     kitos to paties mūsų siuvėjo Tomo namo pusės nuo seno
     tuščiame sklype panašiai savo lėšomis pastatėme.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
-    - t-003
+    - t-55071
 
 - id: c-55891
   autorius: "Michał Baliński"
@@ -246,9 +247,9 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
-    - t-005
+  pagrindžia:
+    - t-55072
+    - t-55073
 
 - id: c-78239
   autorius: "Michał Baliński"
@@ -297,5 +298,6 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-81661
+

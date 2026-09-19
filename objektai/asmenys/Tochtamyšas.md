@@ -43,171 +43,6 @@ canonical_biography: "Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas 
 
 Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo atsisakyti nuo Rusijos ir Vytautui dar suteikti pagalbos. Pas Vytautą buvo atbėgęs baisaus Tamerlano išvytas iš savo valstybės totorių chanas Tochtamyšas.
 
-## Teiginiai
-
-<a id="claim-t-51184"></a>
-- t-001
-  teiginys: "Tochtamyšas buvo Saladino tėvas; po Tochtamyšo mirties Saladinas prisiglaudė pas Vytautą."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Tochtamyšas: 0.99"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Saladinas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Tochtamyšas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Citata tiesiogiai patvirtina Saladino ir Tochtamyšo tėvo-sūnaus ryšį."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Saladinas buvo sūnus Tochtamyšas (0.99)"
-  temporaliniai_duomenys: "įvykio data: 1409 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Kontekstinis fragmentas perrašytas į pilną citata paremtą sakinį apie Tochtamyšą."
-  pagrindžia:
-    - c-36521
-
-<a id="claim-t-51185"></a>
-- t-002
-  teiginys: "Po Tochtamyšo mirties jo vyriausias sūnus Saladinas buvo prisiglaudęs pas Vytautą."
-  atnaujinta: "2026-06-01 14:44"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "buvo_sunus -> Tochtamyšas: 0.99"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Saladinas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Tochtamyšas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Saladinas buvo Tochtamyšo sūnus."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Saladinas buvo sūnus Tochtamyšas (0.99)"
-  temporaliniai_duomenys: "įvykio data: 1409 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  pagrindžia:
-    - c-36521
-
-<a id="claim-t-184841"></a>
-- t-003
-  teiginys: "Tochtamyšas, negalėdamas įveikti Kerim Berdžio, su svarbiausiais savo šalininkais pabėgo pas Vytautą."
-  atnaujinta: "2026-07-26 17:49"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Viena: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tochtamyšas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Viena: mention_match, place"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tochtamyšas\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-168202
-
-<a id="claim-t-184842"></a>
-- t-004
-  teiginys: "Tochtamyšas Vilniuje buvo Vytauto priimtas, gavo paramos pažadą ir buvo paskelbtas Užvolgio skitų chanu."
-  atnaujinta: "2026-07-19 18:48"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Vilnius: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Tochtamyšas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Vilnius: mention_match, place, gap=12"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tochtamyšas\" parinktas kaip owner_note_path. Targetas \"Vilnius\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  vertinimo_atnaujinta: "2026-06-14T07:25:28Z"
-  pagrindžia:
-    - c-168203
-
-<a id="claim-t-184843"></a>
-- t-005
-  teiginys: "Kerim Berdis mūšyje išsklaidė Tochtamyšo dalinius ir nužudė savo brolį Tochtamyšą."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "puole -> Tochtamyšas: 0.97"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kerim Berdis: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Tochtamyšas: llm_allowed_candidate, person"
-  ryšio_paaiskinimas: "Kerim Berdis mūšyje išsklaidė Tochtamyšo dalinius ir nužudė patį Tochtamyšą."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  semantiniai_rysiai: "Kerim Berdis puolė Tochtamyšas (0.97); Tochtamyšas buvo brolis Kerim Berdis (0.90)"
-  pagrindžia:
-    - c-168204
-
-<a id="claim-t-206403"></a>
-- t-006
-  teiginys: "Timūrui Kutlukui ir Edigėjui nugalėjus Tochtamyšą, Tochtamyšas su žmonomis ir dviem sūnumis pabėgo į Kijevą, iš kur Skirgaila jį išsiuntė į Lietuvą."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
-  pagrindžia:
-    - c-189018
-
-<a id="claim-t-206404"></a>
-- t-007
-  teiginys: "Tochtamyšo skriaudas ir totorių žygius į Podolę Narbutas nurodo kaip priežastį, dėl kurios Vytautas pasiuntė Algirdo vadovaujamą kariauną su pabėgėliu chanu."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
-  pagrindžia:
-    - c-189019
-
-<a id="claim-t-206405"></a>
-- t-008
-  teiginys: "Tochtamyšas išsivedė nelaisvėn paimtus totorius, subūrė gausų dvariškių būrį ir samdinių kariuomenę, o grįžęs į Lietuvą gavo Lydą su apylinkėmis."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
-  pagrindžia:
-    - c-189020
-
-<a id="claim-t-206406"></a>
-- t-009
-  teiginys: "Narbutas aprašo, kad prasidėjus visuotinei suirutei Tochtamyšas su savaisiais pirmas spruko anapus upės, paskui Tochtamyšą traukė kryžiuočiai ir Sčiukovskis."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
-  pagrindžia:
-    - c-189021
-
-<a id="claim-t-206407"></a>
-- t-010
-  teiginys: "Narbutas po Vorsklos mūšio Tochtamyšą vaizduoja tarsi savo tautos nelaimių kaltininką, kurį Vytautas dėl nepastovaus būdo ir bailumo mūšyje paniekino bei apleido."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
-  pagrindžia:
-    - c-189022
-
 ## Citatos
 
 - id: c-36521
@@ -229,7 +64,7 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
 
@@ -255,7 +90,7 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-168203
@@ -281,8 +116,6 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
 
 - id: c-168204
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -309,8 +142,9 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-003
+    - t-004
 
 - id: c-189018
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -330,8 +164,8 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-005
 
 - id: c-189019
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -349,8 +183,8 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
+  pagrindžia:
+    - t-006
 
 - id: c-189020
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -367,8 +201,8 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
+  pagrindžia:
+    - t-007
 
 - id: c-189021
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -383,8 +217,8 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-009
+  pagrindžia:
+    - t-008
 
 - id: c-189022
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -416,10 +250,179 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-010
+  pagrindžia:
+    - t-009
+
+- id: c-189017
+  šaltinis: "Lietuvių tautos istorija, t. 5"
+  puslapiai: "PDF 448"
+  indeksas: "Lietuvių tautos istorija, t. 5, PDF 448."
+  citata_originali: |
+    Tai
+    buvo Tochtamyšas. Kad susidarytume ryškesnį lietuvių santy­
+    kių su totoriais vaizdą, turime iš jų istorijos, nors ir labai m a­
+    žai težinom os, p ateik ti m um s reik alin g ą inform aciją.
+    Tochtamyšas, Čingischano šeštosios kartos palikuonis, žmo­
+    gus išmintingas, pasigviešęs valdžios ir klastingas politikas, iš
+    dalinio kunigaikščio, valdžiusio kažkokį ulusą, norėjo tapti
+    aukščiausiuoju chanu kipčiakų, arba Aukso ordos, įkurtos Ba­
+    tu, vadovaujančios mažesniesiems cariukams ir visoms Rusio­
+    je užkariautoms žemėms.
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Saladinas]]
 - Broliai: [[objektai/asmenys/Kerim Berdis]]
 - Puolė Tochtamyšą: [[objektai/asmenys/Kerim Berdis]]
+
+## Teiginiai
+
+<a id="claim-t-51184"></a>
+- t-001
+  teiginys: "Tochtamyšas buvo Saladino tėvas; po Tochtamyšo mirties Saladinas prisiglaudė pas Vytautą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Tochtamyšas: 0.99"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Saladinas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Tochtamyšas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Citata tiesiogiai patvirtina Saladino ir Tochtamyšo tėvo-sūnaus ryšį."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Saladinas buvo sūnus Tochtamyšas (0.99)"
+  temporaliniai_duomenys: "įvykio data: 1409 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Kontekstinis fragmentas perrašytas į pilną citata paremtą sakinį apie Tochtamyšą."
+  pagrindžia:
+    - c-36521
+
+<a id="claim-t-51185"></a>
+- t-002
+  teiginys: "Po Tochtamyšo mirties jo vyriausias sūnus Saladinas buvo prisiglaudęs pas Vytautą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "buvo_sunus -> Tochtamyšas: 0.99"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Saladinas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Tochtamyšas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Tekstas tiesiogiai nurodo, kad Saladinas buvo Tochtamyšo sūnus."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Saladinas buvo sūnus Tochtamyšas (0.99)"
+  temporaliniai_duomenys: "įvykio data: 1409 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  pagrindžia:
+    - c-36521
+
+<a id="claim-t-184841"></a>
+- t-003
+  teiginys: "Tochtamyšas, negalėdamas įveikti Kerim Berdžio, su svarbiausiais savo šalininkais pabėgo pas Vytautą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "susije_su -> Viena: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Tochtamyšas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Viena: mention_match, place"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Tochtamyšas\" parinktas kaip owner_note_path. Targetas \"Viena\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-168202
+    - c-168204
+
+<a id="claim-t-184843"></a>
+- t-004
+  teiginys: "Kerim Berdis mūšyje išsklaidė Tochtamyšo dalinius ir nužudė savo brolį Tochtamyšą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  ryšio_patikimumas: "puole -> Tochtamyšas: 0.97"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kerim Berdis: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Tochtamyšas: llm_allowed_candidate, person"
+  ryšio_paaiskinimas: "Kerim Berdis mūšyje išsklaidė Tochtamyšo dalinius ir nužudė patį Tochtamyšą."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  semantiniai_rysiai: "Kerim Berdis puolė Tochtamyšas (0.97); Tochtamyšas buvo brolis Kerim Berdis (0.90)"
+  pagrindžia:
+    - c-168204
+
+<a id="claim-t-206403"></a>
+- t-005
+  teiginys: "Timūrui Kutlukui ir Edigėjui nugalėjus Tochtamyšą, Tochtamyšas su žmonomis ir dviem sūnumis pabėgo į Kijevą, iš kur Skirgaila jį išsiuntė į Lietuvą."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189018
+
+<a id="claim-t-206404"></a>
+- t-006
+  teiginys: "Tochtamyšo skriaudas ir totorių žygius į Podolę Narbutas nurodo kaip priežastį, dėl kurios Vytautas pasiuntė Algirdo vadovaujamą kariauną su pabėgėliu chanu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189019
+
+<a id="claim-t-206405"></a>
+- t-007
+  teiginys: "Tochtamyšas išsivedė nelaisvėn paimtus totorius, subūrė gausų dvariškių būrį ir samdinių kariuomenę, o grįžęs į Lietuvą gavo Lydą su apylinkėmis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189020
+
+<a id="claim-t-206406"></a>
+- t-008
+  teiginys: "Narbutas aprašo, kad prasidėjus visuotinei suirutei Tochtamyšas su savaisiais pirmas spruko anapus upės, paskui Tochtamyšą traukė kryžiuočiai ir Sčiukovskis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189021
+
+<a id="claim-t-206407"></a>
+- t-009
+  teiginys: "Narbutas po Vorsklos mūšio Tochtamyšą vaizduoja tarsi savo tautos nelaimių kaltininką, kurį Vytautas dėl nepastovaus būdo ir bailumo mūšyje paniekino bei apleido."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189022
+

@@ -27,21 +27,6 @@ media_all_json: |-
 
 Narbutas Laukpatį (Laukpatimą) apibūdino kaip žemdirbių dievaitį, kuriam melstasi einant arti ar sėti.
 
-## Teiginiai
-
-<a id="claim-t-189308"></a>
-- t-001
-  teiginys: "Narbutas Laukpatį (Laukpatimą) apibūdino kaip žemdirbių dievaitį, kuriam melstasi einant arti ar sėti."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-172195
-
 ## Citatos
 
 - id: c-172195
@@ -60,5 +45,39 @@ Narbutas Laukpatį (Laukpatimą) apibūdino kaip žemdirbių dievaitį, kuriam m
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-200079
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 159"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 159."
+  citata_originali: |
+    Laukpatis (.Laukpatimas)
+    Žemdirbių dievaitis, kuriam buvo meldžiamasi einant dir­
+    vos arti, taip pat sėti.
+    Šis vardas lietuviškai reiškė laukų viešpatį, todėl jo buvo
+    globojamos ariamos žemės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-217974"></a>
+- t-001
+  teiginys: "Narbutas Laukpatį (Laukpatimą) apibūdino kaip žemdirbių dievaitį, kuriam melstasi einant arti ar sėti."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-200079
+

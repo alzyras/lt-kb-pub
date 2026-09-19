@@ -51,3 +51,42 @@ Józef Massalski do Ignacego Massalskiego, 01 0 1 1 7 5 6 , Slonim.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-190630
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 36"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 36."
+  citata_originali: |
+    Lietuvos mokslų akademijos Vrublcvskių bibliotekos Rankraščių skyrius (Отдел рукописей
+    Библиотеки Литонской Ака,\см1111 наук им. Врублсвских, далее - L M A V B R S ) , f. 139,
+    Ь. 1711, Józef Massalski do Ignacego Massalskiego, 01 0 1 1 7 5 6 , Slonim, p. 116; Амдрэй М а ц у к ,
+    Унутрыпал1тычиая с1туацыя
+    Вял1к1М киястве AiroycKiM у сярэдз1нс X V I I I ст. у сувяз!
+  citata_rodoma: "Józef Massalski do Ignacego Massalskiego, 01 0 1 1 7 5 6 , Slonim"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-208045"></a>
+- t-001
+  teiginys: "Józef Massalski do Ignacego Massalskiego, 01 0 1 1 7 5 6 , Slonim."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190630
+

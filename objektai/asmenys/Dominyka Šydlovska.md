@@ -43,24 +43,6 @@ canonical_biography: "1743 m. Dominykos Šydlovskos namą prie Šv. Kazimiero ba
 
 1743 m. Dominyka Šydlovska skunde nurodė, kad Marcelijus Baikovskis su ginkluotais pagalbininkais užpuolė jos namą prie Šv. Kazimiero bažnyčios, grasino jos tėvui Jonui ir jį sumušė.
 
-## Teiginiai
-
-<a id="claim-t-203907"></a>
-- t-001
-  teiginys: "1743 m. Dominyka Šydlovska skunde nurodė, kad Marcelijus Baikovskis su ginkluotais pagalbininkais užpuolė jos namą prie Šv. Kazimiero bažnyčios, grasino jos tėvui Jonui ir jį sumušė."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
-  temporaliniai_duomenys: "įvykio data: 1743 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išplėstas skunde aprašytas smurtas ir aiškiai įvardytas Dominykos tėvas. Atribucija išlaikyta, nes aplinkybės pateiktos jos skunde."
-  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
-  pagrindžia:
-    - c-186511
-
 ## Citatos
 
 - id: c-186511
@@ -79,5 +61,24 @@ canonical_biography: "1743 m. Dominykos Šydlovskos namą prie Šv. Kazimiero ba
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203907"></a>
+- t-001
+  teiginys: "1743 m. Dominyka Šydlovska skunde nurodė, kad Marcelijus Baikovskis su ginkluotais pagalbininkais užpuolė jos namą prie Šv. Kazimiero bažnyčios, grasino jos tėvui Jonui ir jį sumušė."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-65528-Namu-uzpuolimai-XVIII-a-Vilniuje"
+  temporaliniai_duomenys: "įvykio data: 1743 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išplėstas skunde aprašytas smurtas ir aiškiai įvardytas Dominykos tėvas. Atribucija išlaikyta, nes aplinkybės pateiktos jos skunde."
+  vertinimo_atnaujinta: "2026-07-30T22:17:00Z"
+  pagrindžia:
+    - c-186511
+

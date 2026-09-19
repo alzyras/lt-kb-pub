@@ -36,10 +36,22 @@ Stanislovas paskelbė, kad kautynės lems jo padėtį, ir su savo kariais stojo 
 
 ## Teiginiai
 
+<a id="claim-t-210991"></a>
+- t-210991
+  teiginys: "Stanislovas vedė Riazanės kunigaikščio Ivano dukterį Olgą ir tapo Riazanės didžiuoju kunigaikščiu."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  pagrindžia:
+    - c-193685
+
 <a id="claim-t-186017"></a>
-- t-001
+- t-186017
   teiginys: "Stanislovas paskelbė, kad kautynės lems jo padėtį, ir su savo kariais stojo pirmosiose rikiuotės eilėse."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -56,9 +68,9 @@ Stanislovas paskelbė, kad kautynės lems jo padėtį, ir su savo kariais stojo 
     - c-169378
 
 <a id="claim-t-186018"></a>
-- t-002
+- t-186018
   teiginys: "Stanislovas pabėgo į Riazanę, kur neturėjo nei kariuomenės, nei valdžios ir atsisakė vilčių."
-  atnaujinta: "2026-07-12 22:28"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -75,9 +87,9 @@ Stanislovas paskelbė, kad kautynės lems jo padėtį, ir su savo kariais stojo 
     - c-169379
 
 <a id="claim-t-196593"></a>
-- t-003
+- t-196593
   teiginys: "Stanislovas, paskelbęs kautynes lemiančiomis jo padėtį, paliko kitus rezerve ir su savo kariais stojo pirmosiose rikiuotės eilėse."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -88,9 +100,9 @@ Stanislovas paskelbė, kad kautynės lems jo padėtį, ir su savo kariais stojo 
     - c-169378
 
 <a id="claim-t-196594"></a>
-- t-004
+- t-196594
   teiginys: "Kojelavičiaus pasakojime Stanislovas, kijeviečiams atstūmus lietuvius nuo sienų, gėdingai pabėgo į Riazanę ir neteko vilčių."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -132,9 +144,9 @@ Stanislovas paskelbė, kad kautynės lems jo padėtį, ir su savo kariais stojo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
-    - t-003
+  pagrindžia:
+    - t-186017
+    - t-196593
 
 - id: c-169379
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -156,6 +168,25 @@ Stanislovas paskelbė, kad kautynės lems jo padėtį, ir su savo kariais stojo 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
-    - t-004
+  pagrindžia:
+    - t-186018
+    - t-196594
+
+- id: c-193685
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 65"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 65."
+  citata_originali: |
+    Ir kunigaikštis Stanislovas persikėlė pas jį, vedė jo
+    dukterį ir po jo mirties tapo Riazanės didžiuoju ku­
+    nigaikščiu
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 19:43"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-210991
+

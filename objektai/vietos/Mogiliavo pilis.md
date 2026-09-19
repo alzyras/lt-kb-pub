@@ -36,25 +36,6 @@ historical_names: []
 
 366 ## Puslapis 383 IV KNYGA vadintųsi, nuo seno prie minėtos Mogiliavo pilies kokiu nors būdu dabar esančiais ir priklausančiais bei ateityje kokios nors žmogiškos veiklos ar proto dėka galinčiais atsirasti ir didėti į plotį, ilgį ir aplinkui, žiūrint, kaip.
 
-## Teiginiai
-
-<a id="claim-t-86089"></a>
-- t-001
-  teiginys: "Prie Mogiliavo pilies buvusios dvaro žemės buvo skirtos karalienei Elenai valdyti iki gyvos galvos."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Mogiliavo pilis: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Mogiliavo pilis: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Citata nurodo, kad prie Mogiliavo pilies esančios žemės skirtos Elenai valdyti iki gyvos galvos."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
-  semantiniai_rysiai: "Elena (vyskupas, XV–XVI a.) valdė Mogiliavo pilis (0.82)"
-  pagrindžia:
-    - c-82068
-
 ## Citatos
 
 - id: c-82068
@@ -84,5 +65,25 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-86089"></a>
+- t-001
+  teiginys: "Prie Mogiliavo pilies buvusios dvaro žemės buvo skirtos karalienei Elenai valdyti iki gyvos galvos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Mogiliavo pilis: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Elena (vyskupas, XV–XVI a.): llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Mogiliavo pilis: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Citata nurodo, kad prie Mogiliavo pilies esančios žemės skirtos Elenai valdyti iki gyvos galvos."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Michał Baliński"
+  semantiniai_rysiai: "Elena (vyskupas, XV–XVI a.) valdė Mogiliavo pilis (0.82)"
+  pagrindžia:
+    - c-82068
+

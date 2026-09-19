@@ -63,3 +63,45 @@ Jurgis Ciapinskis buvo Lietuvos pijorų provincijos sekretorius.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   statusas: verified
+
+## Citatos
+
+- id: c-190753
+  autorius: "sudarytojas nenurodytas"
+  šaltinis: "Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių"
+  puslapiai: "PDF 234"
+  indeksas: "sudarytojas nenurodytas, Lietuvos Didžioji Kunigaikštystė: tarp tradicijų ir naujovių, PDF 234."
+  citata_originali: |
+    Remda­
+    miesi S. Konarskio Ordinationes Visitationis Apostolicae, Lietuvos pijorai parengė
+    savo mokymo nuostatus Methodus docendipro Scholis Piis provinciae Litvaniae,
+    kurie buvo išleisti Vilniaus pijorų spaustuvėje 1761 m. Šie nuostatai iš esmės
+    buvo S. Konarskio darbo adaptacija, t. y. ketvirtosios dalies santrauka, pritaikyta
+    Lietuvos provincijos reikmėms". Adaptaciją atliko provincijos sekretorius pijoras
+    Jurgis Ciapinskis {Georgius Czapiński, 1718-1768) kartu su Kasparu Tžeškovskiu
+    {Caspar Trzeszczkowski), Lietuvos pijorų provincijos prepozitu.
+  citata_rodoma: "Adaptaciją atliko provincijos sekretorius pijoras \nJurgis Ciapinskis {Georgius Czapiński, 1718-1768) kartu su Kasparu Tžeškovskiu \n{Caspar Trzeszczkowski), Lietuvos pijorų provincijos prepozitu"
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Teiginiai
+
+<a id="claim-t-208004"></a>
+- t-001
+  teiginys: "Jurgis Ciapinskis buvo Lietuvos pijorų provincijos sekretorius."
+  atnaujinta: "2026-09-13 15:29"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: 03-ldk-tarp-tradiciju-ir-naujoviu"
+  pagrindžia:
+    - c-190753
+

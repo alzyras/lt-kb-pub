@@ -39,21 +39,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-205466"></a>
-- t-001
-  teiginys: "Jeigu pasitaikydavo svečias, kuris, įėjęs į namus, gerais žodžiais pasveikinda vo, o svarbiausia, žinojo, kokiu vardu pavadinti šeiminin ką, tai būdavo laikomas laimės nešėju, dievų tiems na mams siųstu."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
-  pagrindžia:
-    - c-187785
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Jeigu pasitaikydavo svečias, kuris, įėjęs į namus, gerais žodžiais pasveikinda vo, o svarbiausia, žinojo, kokiu vardu pavadinti šeiminin ką, tai būdavo laikomas laimės nešėju, dievų tiems na mams siųstu.'
@@ -95,5 +80,21 @@ Jeigu pasitaikydavo svečias, kuris, įėjęs į namus, gerais žodžiais pasvei
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205466"></a>
+- t-001
+  teiginys: "Jeigu pasitaikydavo svečias, kuris, įėjęs į namus, gerais žodžiais pasveikinda vo, o svarbiausia, žinojo, kokiu vardu pavadinti šeiminin ką, tai būdavo laikomas laimės nešėju, dievų tiems na mams siųstu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:38Z"
+  pagrindžia:
+    - c-187785
+

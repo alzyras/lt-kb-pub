@@ -41,23 +41,6 @@ canonical_biography: "Vincentas Janovskis buvo teisėjas, per kurį 1834 m. vasa
 
 Vincentas Janovskis buvo teisėjas, per kurį 1834 m. vasario 4 d. Bychovco kronikos rankraštis iš Aleksandro Bychovco perėjo Teodorui Narbutui.
 
-## Teiginiai
-
-<a id="claim-t-198240"></a>
-- t-001
-  teiginys: "Aleksandro Bychovco perduotą Bychovco kronikos rankraštį Vincentas Janovskis 1834 m. vasario 4 d. persiuntė Teodorui Narbutui į Saurus."
-  atnaujinta: "2026-08-06 20:25"
-  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
-  teiginio_tipas: "faktas"
-  sudarymo_pagrindimas: "Teiginys tiksliai perteikia citatoje nurodytą veiksmą."
-  temporaliniai_duomenys: "įvykio data: 1834 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą veiksmą."
-  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
-  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
-  pagrindžia:
-    - c-180057
-
 ## Citatos
 
 - id: c-180057
@@ -77,5 +60,19 @@ Vincentas Janovskis buvo teisėjas, per kurį 1834 m. vasario 4 d. Bychovco kron
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+## Teiginiai
+
+<a id="claim-t-211863"></a>
+- t-001
+  teiginys: "Aleksandro Bychovco perduotą Bychovco kronikos rankraštį Vincentas Janovskis 1834 m. vasario 4 d. persiuntė Teodorui Narbutui į Saurus."
+  atnaujinta: "2026-09-12 19:43"
+  sprendimo_priezastis: "final::darbas/prompts/03_extraction/03_extract_people_notes.md"
+  teiginio_tipas: "faktas"
+  sudarymo_pagrindimas: "Teiginys tiksliai perteikia citatoje nurodytą veiksmą."
+  temporaliniai_duomenys: "įvykio data: 1834 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys tiksliai perteikia citatoje nurodytą veiksmą."
+  šaltinio_profilis: "žanras: kronika; perspektyva: neutrali_arba_neaiski; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Lietuvos metraštis"
+  vertinimo_atnaujinta: "2026-07-28T11:17:01Z"
+

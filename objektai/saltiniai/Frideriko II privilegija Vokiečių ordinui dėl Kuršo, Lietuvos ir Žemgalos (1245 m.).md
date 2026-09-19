@@ -79,9 +79,11 @@ Teodoro Narbuto pateiktoje Frideriko II privilegijoje Vokiečių ordinui žadama
     pasižadėtų.
   citata_rodoma: "To magistro val­\ndžią patvirtinome, kad į žemes, anksčiau paminėtas, gali \nsu visomis pajėgomis ir pastangomis įsiveržti, dovanoda­\nmi ir patvirtindami tam magistrui bei jo įpėdiniams ir \nordinui amžinai [valdyti] visas žemes, kurias Kuršo, Lie­\ntuvos ir -Zemgalos srityse, Dievo padedamas, jis paims \nveiksmu ir privaloma imperijos teise, kalnuose, lygumose, \nmiškuose, upėse ir jūroje, kad jas laisvas nuo visokios \nvergijos ir apmokestinimo jie laikytų ir atleistų nuo prie­\nvolių, ir kad niekam nuo tada nebūtų priklausomos, vien \ntik mums ir mūsų paveldėtojams Romos valdovams \npasižadėtų."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-12 08:57"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+

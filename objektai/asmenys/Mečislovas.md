@@ -37,10 +37,59 @@ Mečislovas, Boleslovo Narsiojo tėvas, anot Narbuto, valdė nuo 964 iki 999 met
 
 ## Teiginiai
 
-<a id="claim-t-192596"></a>
-- t-001
+<a id="claim-t-215598"></a>
+- t-215598
+  teiginys: "Prieš keliolika metų, rašydamas leidiniui „Tygodnik Wilenski“ pastabas dėl Muratorio pateiktų žinių apie karaliaus Boleslovo Narsiojo tėvo Mečislovo laikų Lenki jos sienas (tai jau minėjome . 222), aptikau Prūsijos pa vadinimo aiškinimą, kurį reikia."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194389
+
+<a id="claim-t-201014"></a>
+- t-201014
+  teiginys: "Pasakoja, jog Vladimiras, norėdamas atsiženklinti karėmis, būk kariavęs su Mečislovu, lenkų vieš pačiu, kuriam atėmęs piles Červenę, Peremyšlį Raus vuosiuose Guduose."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184364
+
+<a id="claim-t-205166"></a>
+- t-205166
+  teiginys: "Mečislovas, šito nepaisyda mas ir neatsižvelgdamas į tai, kad šalis apsupta įniršusių kaimynų ir net pačioje šalyje yra grupuočių, nusistačiusių prieš jį ir prieš gražų visų sutarimą, pasidavė lepūniškam ištižimui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
+  pagrindžia:
+    - c-188119
+
+<a id="claim-t-212458"></a>
+- t-212458
+  teiginys: "Mečislovas buvo Boleslovo Narsiojo tėvas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-194384
+
+<a id="claim-t-215361"></a>
+- t-215361
   teiginys: "Mečislovas, Boleslovo Narsiojo tėvas, anot Narbuto, valdė nuo 964 iki 999 metų."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -55,32 +104,7 @@ Mečislovas, Boleslovo Narsiojo tėvas, anot Narbuto, valdė nuo 964 iki 999 met
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
   vertinimo_atnaujinta: "2026-07-06T03:41:44Z"
   pagrindžia:
-    - c-175367
-
-<a id="claim-t-201014"></a>
-- t-002
-  teiginys: "Pasakoja, jog Vladimiras, norėdamas atsiženklinti karėmis, būk kariavęs su Mečislovu, lenkų vieš pačiu, kuriam atėmęs piles Červenę, Peremyšlį Raus vuosiuose Guduose."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184364
-
-<a id="claim-t-205166"></a>
-- t-003
-  teiginys: "Mečislovas, šito nepaisyda mas ir neatsižvelgdamas į tai, kad šalis apsupta įniršusių kaimynų ir net pačioje šalyje yra grupuočių, nusistačiusių prieš jį ir prieš gražų visų sutarimą, pasidavė lepūniškam ištižimui."
-  atnaujinta: "2026-08-11 18:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-07T20:35:36Z"
-  pagrindžia:
-    - c-188119
+    - c-194384
 
 ## Citatos
 
@@ -102,8 +126,6 @@ Mečislovas, Boleslovo Narsiojo tėvas, anot Narbuto, valdė nuo 964 iki 999 met
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-184364
   šaltinis: "Daukantas, Istorija žemaitiška, t.1, 1995"
@@ -130,8 +152,8 @@ Mečislovas, Boleslovo Narsiojo tėvas, anot Narbuto, valdė nuo 964 iki 999 met
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-201014
 
 - id: c-188119
   šaltinis: "Lietuvių tautos istorija, t. 3"
@@ -156,5 +178,49 @@ Mečislovas, Boleslovo Narsiojo tėvas, anot Narbuto, valdė nuo 964 iki 999 met
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-205166
+
+- id: c-194384
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 216"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 216."
+  citata_originali: |
+    222
+    Tai paminėję, pereikime prie rašytinių liudijimų, ku­
+    rie įrodo, jog Nemuno žemupyje iš tikrųjų buvęs Rusia
+    vadinamas kraštas. Muratoris išsaugojo donaeiją apašta­
+    liškajam sostui; ją sudarė lenkų kunigaikštis, pasivadinęs
+    Misica. Tai buvo Boleslovo Narsiojo tėvas Mečislovas,
+    valdęs nuo 964 iki 999 metų.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212458
+    - t-215361
+
+- id: c-194389
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 260"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 260."
+  citata_originali: |
+    Prieš keliolika metų, rašydamas leidiniui „Tygodnik
+    Wilenski“ pastabas dėl Muratorio pateiktų žinių apie
+    karaliaus Boleslovo Narsiojo tėvo Mečislovo laikų Lenki­
+    jos sienas (tai jau minėjome § 222), aptikau Prūsijos pa­
+    vadinimo aiškinimą, kurį reikia panagrinėti.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-215598
+

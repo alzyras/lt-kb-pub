@@ -37,21 +37,6 @@ Teodoras Narbutas pasakoja, kad Vladislovas Lokietka, norėdamas įtikti popiež
 
 Teodoras Narbutas pasakoja, kad Vladislovas Lokietka, norėdamas įtikti popiežiui ir tariamai atkeršyti už Pšemislo mirtį, sumanė pulti Brandenburgo markgrafystę.
 
-## Teiginiai
-
-<a id="claim-t-205844"></a>
-- t-001
-  teiginys: "Teodoras Narbutas pasakoja, kad Vladislovas Lokietka, norėdamas įtikti popiežiui ir tariamai atkeršyti už Pšemislo mirtį, sumanė pulti Brandenburgo markgrafystę."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
-  pagrindžia:
-    - c-188459
-
 ## Citatos
 
 - id: c-188459
@@ -75,5 +60,21 @@ Teodoras Narbutas pasakoja, kad Vladislovas Lokietka, norėdamas įtikti popiež
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-205844"></a>
+- t-001
+  teiginys: "Teodoras Narbutas pasakoja, kad Vladislovas Lokietka, norėdamas įtikti popiežiui ir tariamai atkeršyti už Pšemislo mirtį, sumanė pulti Brandenburgo markgrafystę."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:31Z"
+  pagrindžia:
+    - c-188459
+

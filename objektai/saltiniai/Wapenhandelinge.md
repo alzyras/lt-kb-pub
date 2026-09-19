@@ -32,20 +32,6 @@ media_all_json: |-
 
 Wapenhandelinge, 1607 (pirmasis leidimas).
 
-## Teiginiai
-
-<a id="claim-t-39940"></a>
-- t-001
-  teiginys: "Jacobo de Gheyno „Wapenhandelinge“ pirmasis leidimas pasirodė 1607 m."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  temporaliniai_duomenys: "įvykio data: 1607 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata nurodo autorių, pavadinimą ir pirmojo leidimo metus."
-  pagrindžia:
-    - c-41744
-
 ## Citatos
 
 - id: c-41744
@@ -66,5 +52,20 @@ Wapenhandelinge, 1607 (pirmasis leidimas).
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-39940"></a>
+- t-001
+  teiginys: "Jacobo de Gheyno „Wapenhandelinge“ pirmasis leidimas pasirodė 1607 m."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  temporaliniai_duomenys: "įvykio data: 1607 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata nurodo autorių, pavadinimą ir pirmojo leidimo metus."
+  pagrindžia:
+    - c-41744
+

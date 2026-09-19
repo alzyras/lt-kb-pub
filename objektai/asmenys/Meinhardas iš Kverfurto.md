@@ -43,34 +43,6 @@ Teodoras Narbutas rašo, kad Meinhardas iš Kverfurto, Prūsijos magistras, gyve
 
 Teodoras Narbutas rašo, kad Meinhardas iš Kverfurto, Prūsijos magistras, gyvenimo pabaigoje rūpinosi šalies vidaus tvarka bei ūkio struktūra ir nesusidūrė su Lietuva. Meinhardas iš Kverfurto surengė karinį žygį prieš neįvardytą priešininką ir pats jam vadovavo.
 
-## Teiginiai
-
-<a id="claim-t-206096"></a>
-- t-001
-  teiginys: "Teodoras Narbutas rašo, kad Meinhardas iš Kverfurto, Prūsijos magistras, gyvenimo pabaigoje rūpinosi šalies vidaus tvarka bei ūkio struktūra ir nesusidūrė su Lietuva."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
-  pagrindžia:
-    - c-188711
-
-<a id="claim-t-206097"></a>
-- t-002
-  teiginys: "Meinhardas iš Kverfurto surengė karinį žygį prieš neįvardytą priešininką ir pats jam vadovavo."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
-  pagrindžia:
-    - c-188712
-
 ## Citatos
 
 - id: c-188711
@@ -92,7 +64,7 @@ Teodoras Narbutas rašo, kad Meinhardas iš Kverfurto, Prūsijos magistras, gyve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-188712
@@ -116,5 +88,34 @@ Teodoras Narbutas rašo, kad Meinhardas iš Kverfurto, Prūsijos magistras, gyve
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-206096"></a>
+- t-001
+  teiginys: "Teodoras Narbutas rašo, kad Meinhardas iš Kverfurto, Prūsijos magistras, gyvenimo pabaigoje rūpinosi šalies vidaus tvarka bei ūkio struktūra ir nesusidūrė su Lietuva."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188711
+
+<a id="claim-t-206097"></a>
+- t-002
+  teiginys: "Meinhardas iš Kverfurto surengė karinį žygį prieš neįvardytą priešininką ir pats jam vadovavo."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:27Z"
+  pagrindžia:
+    - c-188712
+

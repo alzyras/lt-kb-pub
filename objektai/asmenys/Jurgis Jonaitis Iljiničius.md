@@ -35,21 +35,6 @@ canonical_biography: "Mitka Vnučkaitis bajoras dokumentų klastojimas teismo sp
 
 1522 m. valdovo maršalka Jurgis Jonaitis Iljiničius nurodomas bajoro Mitkos Vnučkaičio dokumentų klastojimo bylos įraše, kuriame mirties bausmė pakeista laisvės atėmimu.
 
-## Teiginiai
-
-<a id="claim-t-203991"></a>
-- t-001
-  teiginys: "1522 m. valdovo maršalka Jurgis Jonaitis Iljiničius nurodomas bajoro Mitkos Vnučkaičio dokumentų klastojimo bylos įraše, kuriame mirties bausmė pakeista laisvės atėmimu."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
-  vertinimo_atnaujinta: "2026-07-30T23:44:51Z"
-  pagrindžia:
-    - c-186595
-
 ## Citatos
 
 - id: c-186595
@@ -80,5 +65,21 @@ canonical_biography: "Mitka Vnučkaitis bajoras dokumentų klastojimas teismo sp
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-203991"></a>
+- t-001
+  teiginys: "1522 m. valdovo maršalka Jurgis Jonaitis Iljiničius nurodomas bajoro Mitkos Vnučkaičio dokumentų klastojimo bylos įraše, kuriame mirties bausmė pakeista laisvės atėmimu."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-67929-Mirties-bausmes-vykdymas-valdovo-isdavikams"
+  vertinimo_atnaujinta: "2026-07-30T23:44:51Z"
+  pagrindžia:
+    - c-186595
+

@@ -33,20 +33,6 @@ Trys broliai Petkevičiai tarnavo Vilniaus vaivadai Aleknai Sudimantaičiui.
 
 Trys broliai Petkevičiai tarnavo Vilniaus vaivadai Aleknai Sudimantaičiui.
 
-## Teiginiai
-
-<a id="claim-t-204042"></a>
-- t-001
-  teiginys: "Trys broliai Petkevičiai tarnavo Vilniaus vaivadai Aleknai Sudimantaičiui."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  pagrindžia:
-    - c-186646
-
 ## Citatos
 
 - id: c-186646
@@ -63,5 +49,20 @@ Trys broliai Petkevičiai tarnavo Vilniaus vaivadai Aleknai Sudimantaičiui.
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204042"></a>
+- t-001
+  teiginys: "Trys broliai Petkevičiai tarnavo Vilniaus vaivadai Aleknai Sudimantaičiui."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  pagrindžia:
+    - c-186646
+

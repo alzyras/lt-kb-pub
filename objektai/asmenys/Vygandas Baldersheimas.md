@@ -43,33 +43,6 @@ Insterburgo valdytojas Vygandas Baldersheimas vadovavo kryžiuočių žygiui į 
 
 Insterburgo valdytojas Vygandas Baldersheimas vadovavo kryžiuočių žygiui į Dirsūniškį, kur jo daliniai sudegino pilį ir nuniokojo apylinkes. 1375 m. Vygandas Baldersheimas su iš Sambijos sutelktais ginkluotais žmonėmis puolė Vaiguvos valsčių.
 
-## Teiginiai
-
-<a id="claim-t-206967"></a>
-- t-001
-  teiginys: "Insterburgo valdytojas Vygandas Baldersheimas vadovavo kryžiuočių žygiui į Dirsūniškį, kur jo daliniai sudegino pilį ir nuniokojo apylinkes."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
-  pagrindžia:
-    - c-189582
-
-<a id="claim-t-206968"></a>
-- t-002
-  teiginys: "1375 m. Vygandas Baldersheimas su iš Sambijos sutelktais ginkluotais žmonėmis puolė Vaiguvos valsčių."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  pagrindžia:
-    - c-189583
-
 ## Citatos
 
 - id: c-189582
@@ -89,7 +62,7 @@ Insterburgo valdytojas Vygandas Baldersheimas vadovavo kryžiuočių žygiui į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189583
@@ -108,5 +81,33 @@ Insterburgo valdytojas Vygandas Baldersheimas vadovavo kryžiuočių žygiui į 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-206967"></a>
+- t-001
+  teiginys: "Insterburgo valdytojas Vygandas Baldersheimas vadovavo kryžiuočių žygiui į Dirsūniškį, kur jo daliniai sudegino pilį ir nuniokojo apylinkes."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189582
+
+<a id="claim-t-206968"></a>
+- t-002
+  teiginys: "1375 m. Vygandas Baldersheimas su iš Sambijos sutelktais ginkluotais žmonėmis puolė Vaiguvos valsčių."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-189583
+

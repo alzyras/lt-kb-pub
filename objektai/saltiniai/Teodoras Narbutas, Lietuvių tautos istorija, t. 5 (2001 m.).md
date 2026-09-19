@@ -23,19 +23,6 @@ media_all_json: |-
 
 - Teodoras Narbutas, Lietuvių tautos istorija, t. 5 (2001 m.)
 
-## Teiginiai
-
-<a id="claim-t-206129"></a>
-- t-001
-  teiginys: "Penktosios „Lietuvių tautos istorijos“ dalies aprašomasis laikotarpis apima laiką nuo Gedimino mirties iki XIV a. pabaigos."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "source_intake"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-188744
-
 ## Citatos
 
 - id: c-188744
@@ -56,5 +43,19 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206129"></a>
+- t-001
+  teiginys: "Penktosios „Lietuvių tautos istorijos“ dalies aprašomasis laikotarpis apima laiką nuo Gedimino mirties iki XIV a. pabaigos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "source_intake"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-188744
+

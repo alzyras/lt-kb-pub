@@ -33,55 +33,6 @@ media_all_json: |-
 
 Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalikams pačios pavojingosios buvo protestantų mokyklos. Tik 1660 m. Lietuvos protestantų rūpesčiu Anglijoje buvo išspausdinta didelė dalis lietuviškai išverstos Biblijos.
 
-## Teiginiai
-
-<a id="claim-t-01459"></a>
-- t-001
-  teiginys: "Protestantų mokyklos katalikams buvo laikomos pavojingiausiomis."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-01696
-
-<a id="claim-t-182919"></a>
-- t-002
-  teiginys: "Protestantų mokyklas steigė protestantų didikai, o kai kur ir miestiečiai."
-  atnaujinta: "2026-06-13 18:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-166322
-
-<a id="claim-t-193125"></a>
-- t-003
-  teiginys: "Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais."
-  atnaujinta: "2026-07-06 12:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-175884
-
-<a id="claim-t-193126"></a>
-- t-004
-  teiginys: "Todėl vėlesniaisiais laikais lietuviškų protestantiškųjų knygų spausdinimas ėjo labai lėtai; dažniausiai būdavo išleidžiamos tik naujos minėtų knygų laidos."
-  atnaujinta: "2026-07-06 12:54"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-175885
-
 ## Citatos
 
 - id: c-01696
@@ -100,7 +51,7 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-166322
@@ -121,7 +72,7 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-175884
@@ -139,7 +90,7 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-175885
@@ -159,5 +110,55 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
+
+## Teiginiai
+
+<a id="claim-t-01459"></a>
+- t-001
+  teiginys: "Protestantų mokyklos katalikams buvo laikomos pavojingiausiomis."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-01696
+
+<a id="claim-t-182919"></a>
+- t-002
+  teiginys: "Protestantų mokyklas steigė protestantų didikai, o kai kur ir miestiečiai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-166322
+
+<a id="claim-t-193125"></a>
+- t-003
+  teiginys: "Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-175884
+
+<a id="claim-t-193126"></a>
+- t-004
+  teiginys: "Todėl vėlesniaisiais laikais lietuviškų protestantiškųjų knygų spausdinimas ėjo labai lėtai; dažniausiai būdavo išleidžiamos tik naujos minėtų knygų laidos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-175885
+

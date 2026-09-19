@@ -48,19 +48,32 @@ Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi p
 
 ## Teiginiai
 
+<a id="claim-t-206397"></a>
+- t-004
+  teiginys: "Narbutas vaizduoja Dorpato vyskupą Teodorą, baimindamąsi dėl galimo arkivyskupijos nusavinimo, aktyviai rėmusį dvasininkiją ir besikreipusį pagalbos į švedus."
+  atnaujinta: "2026-08-16 22:50"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
+  pagrindžia:
+    - c-189012
+
 <a id="claim-t-79202"></a>
-- t-001
+- t-79202
   teiginys: "Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi pasibaigė Kalitos dinastija."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
   pagrindžia:
     - c-76275
 
 <a id="claim-t-79203"></a>
-- t-002
+- t-79203
   teiginys: "1330-1331 m. šaltiniai mini Gedimino brolį Teodorą kaip Lietuvos valdovo vietininką Kijeve."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "buvo_brolis -> Gediminas: 0.99"
   ryšio_patikimumo_lygis: "aukstas"
@@ -78,9 +91,9 @@ Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi p
     - c-76272
 
 <a id="claim-t-196600"></a>
-- t-003
+- t-196600
   teiginys: "Algirdas Podolę atidavė Karijoto sūnums Aleksandrui, Konstantinui, Teodorui ir Jurgiui, iš kurių buvo sulaukęs pagalbos kare su totoriais."
-  atnaujinta: "2026-07-13 01:00"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -89,19 +102,6 @@ Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi p
   vertinimo_atnaujinta: "2026-07-12T22:01:00Z"
   pagrindžia:
     - c-178789
-
-<a id="claim-t-206397"></a>
-- t-004
-  teiginys: "Narbutas vaizduoja Dorpato vyskupą Teodorą, baimindamąsi dėl galimo arkivyskupijos nusavinimo, aktyviai rėmusį dvasininkiją ir besikreipusį pagalbos į švedus."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:07Z"
-  pagrindžia:
-    - c-189012
 
 ## Citatos
 
@@ -126,8 +126,8 @@ Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-79203
 
 - id: c-76275
   redaktorius: "A. Šapoka"
@@ -146,8 +146,8 @@ Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-79202
 
 - id: c-178789
   autorius: "Albertas Vijūkas-Kojelavičius"
@@ -172,8 +172,8 @@ Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-196600
 
 - id: c-189012
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -188,11 +188,12 @@ Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi p
     kurią pasirašė Vilniaus vyskupas Andrius, taip pat pirmieji Lie­
     tuvos didikai.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-08-16 22:50"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 ## Ryšiai

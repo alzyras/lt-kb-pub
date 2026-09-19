@@ -27,21 +27,6 @@ media_all_json: |-
 
 Narbutas Mėnulį aiškina kaip vyriškos giminės vardu grindžiamą dievą, nakties karalių ir laiko tarpsnių valdovą, antrą po Saulės. Vėliau, pertvarkant mitologiją, Mėnesio garbinimo dalis perėjo deivei Laimai, kurią šiuo požiūriu dievino vadindami Lėlės (Lela) ir Mėnulės (Menula) vardais.
 
-## Teiginiai
-
-<a id="claim-t-194689"></a>
-- t-001
-  teiginys: "Vėliau, pertvarkant mitologiją, Mėnesio garbinimo dalis perėjo deivei Laimai, kurią šiuo požiūriu dievino vadindami Lėlės (Lela) ir Mėnulės (Menula) vardais."
-  atnaujinta: "2026-07-12 22:33"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
-  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
-  pagrindžia:
-    - c-177086
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Narbutas Mėnulį aiškina kaip vyriškos giminės vardu grindžiamą dievą, nakties karalių ir laiko tarpsnių valdovą, antrą po Saulės.'
@@ -89,5 +74,42 @@ Narbutas Mėnulį aiškina kaip vyriškos giminės vardu grindžiamą dievą, na
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+
+- id: c-200118
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 187"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 187."
+  citata_originali: |
+    Vėliau, pertvarkant mitologiją, Mėnesio garbinimo dalis
+    perėjo deivei Laimai, kurią šiuo požiūriu dievino vadindami
+    Lėlės (Lela) ir Mėnulės (Menula) vardais.
+    Vyskupo Petro rankraštyje yra tokia užuomina apie lietu­
+    vių tikėjimo suasmenintus reikšmingiausius dangaus kūnus:
+    „Tarp tos prigimties dievų po Saulės pirmą vietą pripažįsta
+    Mėnuliui, kuriam paprastai nusilenkia kaip deivei Lelia Me-
+    nelia. Jis valdė naktį ir todėl matavo laiką“.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-219518"></a>
+- t-001
+  teiginys: "Vėliau, pertvarkant mitologiją, Mėnesio garbinimo dalis perėjo deivei Laimai, kurią šiuo požiūriu dievino vadindami Lėlės (Lela) ir Mėnulės (Menula) vardais."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  vertinimo_atnaujinta: "2026-07-02T15:18:29Z"
+  pagrindžia:
+    - c-200118
+

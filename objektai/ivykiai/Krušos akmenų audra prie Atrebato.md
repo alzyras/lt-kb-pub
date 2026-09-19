@@ -42,18 +42,6 @@ Nenurodyta
 
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-62345"></a>
-- t-001
-  teiginys: "Liepos mėnesį prie Atrebato kilusi smarki audra krušos akmenimis visiškai išmušė pasėlius, vynuogynus ir miškelius."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-62917
-
 ## Citatos
 
 - id: c-62917
@@ -73,5 +61,14 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+## Teiginiai
+
+<a id="claim-t-223654"></a>
+- t-001
+  teiginys: "Liepos mėnesį prie Atrebato kilusi smarki audra krušos akmenimis visiškai išmušė pasėlius, vynuogynus ir miškelius."
+  atnaujinta: "2026-09-13 18:13"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+

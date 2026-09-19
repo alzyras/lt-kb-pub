@@ -60,22 +60,6 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-12289"></a>
-- t-001
-  teiginys: "Horodlės unijos punktu 47 lietuviams bajorams buvo suteikti 47 lenkų bajorų herbai."
-  atnaujinta: "2026-07-19 16:33"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Herbai: owner_note_path, thing, gap=0"
-  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=39"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Herbai\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-14303
-
 <a id="claim-t-12290"></a>
 - t-002
   teiginys: "Turintieji tą patį herbą buvo laikomi giminėmis, jiems leistos abipusės vedybos, o tai suartino abiejų valstybių aukštąjį luomą."
@@ -92,10 +76,26 @@ Nenurodyta
   pagrindžia:
     - c-14304
 
+<a id="claim-t-12289"></a>
+- t-12289
+  teiginys: "Horodlės unijos punktu 47 lietuviams bajorams buvo suteikti 47 lenkų bajorų herbai."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bajorai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Herbai: owner_note_path, thing, gap=0"
+  ryšio_targeto_parinkimas: "Bajorai: mention_match, group, gap=39"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Herbai\" parinktas kaip owner_note_path. Targetas \"Bajorai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-14303
+
 <a id="claim-t-12291"></a>
-- t-003
+- t-12291
   teiginys: "Vytauto laikais Lietuvos bajorija gavo herbus ir per juos įgijo luomo savygarbos."
-  atnaujinta: "2026-06-13 17:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lietuvos bajorija: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -110,9 +110,9 @@ Nenurodyta
     - c-21398
 
 <a id="claim-t-12292"></a>
-- t-004
+- t-12292
   teiginys: "1413 m. privilegija teises suteikė tik katalikams, kurie turėjo herbus arba clenodia."
-  atnaujinta: "2026-05-31 12:01"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lenkai: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -128,9 +128,9 @@ Nenurodyta
     - c-14307
 
 <a id="claim-t-92960"></a>
-- t-005
+- t-92960
   teiginys: "Lietuvos istorikai teigė, kad lenkai herbus pasisavino iš čekų, o šie juos perėmė iš romėnų."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Romėnai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -144,9 +144,9 @@ Nenurodyta
     - c-21394
 
 <a id="claim-t-92961"></a>
-- t-006
+- t-92961
   teiginys: "Horodlės unijoje 47 pirmaeilinės Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems herbus."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Bajorai: 0.78"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -161,9 +161,9 @@ Nenurodyta
     - c-88394
 
 <a id="claim-t-92962"></a>
-- t-007
+- t-92962
   teiginys: "Herbyne „Stemmata Polonica“ užfiksuotas XVI a. vidurio LDK herbas Vytis."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Herbas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -180,9 +180,9 @@ Nenurodyta
     - c-21396
 
 <a id="claim-t-92963"></a>
-- t-008
+- t-92963
   teiginys: "Gedimino stulpai ir Jogailos kryžius XVI a. viduryje buvo pavaizduoti herbyno „Stemmata Polonica“ egzemplioriuje, saugomame Paryžiuje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Paryžius: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -196,9 +196,9 @@ Nenurodyta
     - c-21397
 
 <a id="claim-t-92964"></a>
-- t-009
+- t-92964
   teiginys: "LDK herbas Vytis XVI a. viduryje buvo pavaizduotas herbyno „Stemmata Polonica“ egzemplioriuje, saugomame Paryžiuje."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Herbas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -215,9 +215,9 @@ Nenurodyta
     - c-21396
 
 <a id="claim-t-92965"></a>
-- t-010
+- t-92965
   teiginys: "Lenkai didžiuodamiesi pabrėždavo, kad Lietuvos bajorijai davė savo herbus."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lenkai: 0.82"
   ryšio_patikimumo_lygis: "aukstas"
@@ -232,9 +232,9 @@ Nenurodyta
     - c-21395
 
 <a id="claim-t-92966"></a>
-- t-011
+- t-92966
   teiginys: "Vytauto laikais Lietuvos bajorija gavo europietiško nobiliteto pažymius - herbus ir palengva virto atskiru luomu."
-  atnaujinta: "2026-07-10 10:39"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "priklause -> Lietuvos bajorija: 0.86"
   ryšio_patikimumo_lygis: "aukstas"
@@ -266,8 +266,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-12289
 
 - id: c-14304
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -284,11 +284,12 @@ Nenurodyta
     ko Lietuva ir neteko savo tautiškos aristokratijos. Šis unijos
     punktas ir bus buvęs vienas iš žalingiausių mūsų kraštui.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-14306
@@ -313,6 +314,7 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+
 - id: c-14307
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
   redaktorius: "P. Šležas"
@@ -330,8 +332,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-004
+  pagrindžia:
+    - t-12292
 
 - id: c-21394
   redaktorius: "A. Šapoka"
@@ -354,8 +356,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-005
+  pagrindžia:
+    - t-92960
 
 - id: c-21395
   redaktorius: "A. Šapoka"
@@ -377,8 +379,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-010
+  pagrindžia:
+    - t-92965
 
 - id: c-21396
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -415,9 +417,9 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-007
-    - t-009
+  pagrindžia:
+    - t-92962
+    - t-92964
 
 - id: c-21397
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -441,8 +443,8 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-008
+  pagrindžia:
+    - t-92963
 
 - id: c-21398
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -468,9 +470,9 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
-    - t-011
+  pagrindžia:
+    - t-12291
+    - t-92966
 
 - id: c-88394
   autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
@@ -494,5 +496,6 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-006
+  pagrindžia:
+    - t-92961
+

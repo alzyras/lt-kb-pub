@@ -65,3 +65,30 @@ Nenurodyta
 ## Santrauka
 
 Nenurodyta
+
+## Citatos
+
+- id: c-187891
+  šaltinis: "Lietuvių tautos istorija, t. 3"
+  puslapiai: "PDF 359"
+  indeksas: "Lietuvių tautos istorija, t. 3, PDF 359."
+  citata_originali: |
+    Apsuptieji netikėtai ati­
+    darė slaptus pylimo vartus, pro kuriuos išritino didžiulį
+    vežimą, pilną degalų, ir uždegę paleido bokšto link, be
+    to, dar po juo buvo primetę daugybę sausų, greit įsilieps-
+    nojančių, žagarų. Apsupusieji vis dėlto įstengė užgesinę
+    ir vežimą, ir žagarus išgelbėti bokštą. Kas naktį abiejose
+    pusėse, kad priešas neturėtų ramaus poilsio, buvo kelia­
+    mas pašėlęs triukšmas: latviai be perstojo kardais trankė
+    skydus, vokiečiai mušė savo liutaurus, dūdavo trimitais,
+    o rusinai klykė tvirtovėje ir lietuvių papročiu pūtė di­
+    džiulius ragus.
+  citata_rodoma: "Kas naktį abiejose \npusėse, kad priešas neturėtų ramaus poilsio, buvo kelia­\nmas pašėlęs triukšmas: latviai be perstojo kardais trankė \nskydus, vokiečiai mušė savo liutaurus, dūdavo trimitais, \no rusinai klykė tvirtovėje ir lietuvių papročiu pūtė di­\ndžiulius ragus."
+  statusas: verified
+  atnaujinta: "2026-09-08 15:24"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+

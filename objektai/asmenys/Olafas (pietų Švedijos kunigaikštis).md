@@ -44,27 +44,6 @@ canonical_biography: "Adalberto misija Prūsijoje (997), Norvegijos valdovo Olaf
 
 Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies christianizacija (997), Islandijos Altingo priimtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengrijos soste šv.
 
-## Teiginiai
-
-<a id="claim-t-19181"></a>
-- t-001
-  teiginys: "Pietų Švedijos kunigaikštis Olafas buvo pakrikštytas 1008 m."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Adalbertas: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Olafas (pietų Švedijos kunigaikštis): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Adalbertas: mention_match, person"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Olafas (pietų Švedijos kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Adalbertas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  temporaliniai_duomenys: "valdymo laikotarpis: 1008 m."
-  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Olafas (pietų Švedijos kunigaikštis) buvo valdovas Švedija“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Citata palaiko aiškų teiginį apie Olafo krikštą."
-  pagrindžia:
-    - c-21926
-
 ## Citatos
 
 - id: c-21926
@@ -86,5 +65,27 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-19181"></a>
+- t-001
+  teiginys: "Pietų Švedijos kunigaikštis Olafas buvo pakrikštytas 1008 m."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Adalbertas: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Olafas (pietų Švedijos kunigaikštis): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Adalbertas: mention_match, person"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Olafas (pietų Švedijos kunigaikštis)\" parinktas kaip owner_note_path. Targetas \"Adalbertas\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  temporaliniai_duomenys: "valdymo laikotarpis: 1008 m."
+  temporalinis_paaiskinimas: "Ši data taikoma santykiui „Olafas (pietų Švedijos kunigaikštis) buvo valdovas Švedija“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Citata palaiko aiškų teiginį apie Olafo krikštą."
+  pagrindžia:
+    - c-21926
+

@@ -42,20 +42,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-201940"></a>
-- t-001
-  teiginys: "O štai 1613 m. seime priimta konstitucija apie ginklakalius mūsų miestuose Vilniuje ir Kaune: Respublikai labai rūpi tiek jvairūs karinę amunicijq gaminantys amatininkai, tiek ne mažiau ir ginklakaliai, dėl kurių miestai privalo nipintis, nes tiems reikalams."
-  atnaujinta: "2026-07-19 10:19"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-185287
-
 ## Citatos
 
 - id: c-185287
@@ -78,5 +64,20 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201940"></a>
+- t-001
+  teiginys: "O štai 1613 m. seime priimta konstitucija apie ginklakalius mūsų miestuose Vilniuje ir Kaune: Respublikai labai rūpi tiek jvairūs karinę amunicijq gaminantys amatininkai, tiek ne mažiau ir ginklakaliai, dėl kurių miestai privalo nipintis, nes tiems reikalams."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-185287
+

@@ -27,26 +27,6 @@ media_all_json: |-
 
 Tuo metu pasauly geriausiai klestėjo Bizantijos imperija: ji turėjo didžiuosius prekybos centrus ir buvo turtingiausia. Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolatinį upių susisiekimą su Bizantija.
 
-## Teiginiai
-
-<a id="claim-t-01290"></a>
-- t-001
-  teiginys: "Bizantijos imperiją su skandinavais siejo nuolatinis upių susisiekimas."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "prekiavo_su -> Bizantija: 0.72"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Skandinavai: llm_allowed_candidate, group"
-  ryšio_targeto_parinkimas: "Bizantija: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Nuolatinis susisiekimas su prekybos centrais Bizantijoje palaiko prekybinio ryšio interpretaciją, nors pats žodis „prekyba“ šioje sakinio dalyje nėra pakartotas."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  semantiniai_rysiai: "Skandinavai prekiavo su Bizantija (0.72)"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-01527
-
 ## Citatos
 
 - id: c-01527
@@ -68,5 +48,26 @@ Tuo metu pasauly geriausiai klestėjo Bizantijos imperija: ji turėjo didžiuosi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-01290"></a>
+- t-001
+  teiginys: "Bizantijos imperiją su skandinavais siejo nuolatinis upių susisiekimas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "prekiavo_su -> Bizantija: 0.72"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Skandinavai: llm_allowed_candidate, group"
+  ryšio_targeto_parinkimas: "Bizantija: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Nuolatinis susisiekimas su prekybos centrais Bizantijoje palaiko prekybinio ryšio interpretaciją, nors pats žodis „prekyba“ šioje sakinio dalyje nėra pakartotas."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  semantiniai_rysiai: "Skandinavai prekiavo su Bizantija (0.72)"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-01527
+

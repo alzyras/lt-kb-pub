@@ -34,17 +34,6 @@ canonical_biography: "Dusburgietis teigia, kad po to veržliai ir žiauriai užg
 
 Dusburgietis teigia, kad po to veržliai ir žiauriai užgriuvo kito vasalo, riterio, vardu Cipelis, pilį448 ir, nukovęs ar paėmęs į nelaisvę visus ten gyvenusius žmones, abi pilis pavertė pelenais.
 
-## Teiginiai
-
-<a id="claim-t-60258"></a>
-- t-001
-  teiginys: "Cipelis buvo riteris ir vasalas, kurio pilis buvo užpulta, o jos gyventojai nukauti arba paimti į nelaisvę."
-  atnaujinta: "2026-07-12 22:31"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  pagrindžia:
-    - c-60890
-
 ## Citatos
 
 - id: c-60890
@@ -63,5 +52,13 @@ Dusburgietis teigia, kad po to veržliai ir žiauriai užgriuvo kito vasalo, rit
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+## Teiginiai
+
+<a id="claim-t-223026"></a>
+- t-001
+  teiginys: "Cipelis buvo riteris ir vasalas, kurio pilis buvo užpulta, o jos gyventojai nukauti arba paimti į nelaisvę."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+

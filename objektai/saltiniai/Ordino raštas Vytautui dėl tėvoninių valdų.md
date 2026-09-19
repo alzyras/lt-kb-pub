@@ -34,34 +34,6 @@ Ordino rašte Vytautui ordinas įsipareigojo padėti atsiimti tėvo valstybę ir
 
 Ordino rašte Vytautui ordinas įsipareigojo padėti atsiimti tėvo valstybę ir ginti ją nuo „bet kokio neteisėto smurto“ bei „Kristaus priešų“. Ordino rašte numatyta, kad po bevaikio Vytauto mirties jo valstybę paveldėtų ordinas, tačiau į krikščioniškąjį tikėjimą atsivertęs brolis Žygimantas paveldėtų Vytauto valstybę tokiomis pat teisėmis, prievolėmis ir įsipareigojimais.
 
-## Teiginiai
-
-<a id="claim-t-207060"></a>
-- t-001
-  teiginys: "Pasak T. Narbuto cituojamame Ordino rašte Vytautui ordinas įsipareigojo padėti atsiimti tėvo valstybę ir ginti ją nuo „bet kokio neteisėto smurto“ bei „Kristaus priešų“."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T23:56:59Z"
-  pagrindžia:
-    - c-189675
-
-<a id="claim-t-207061"></a>
-- t-002
-  teiginys: "Ordino rašte numatyta, kad po bevaikio Vytauto mirties jo valstybę paveldėtų ordinas, tačiau į krikščioniškąjį tikėjimą atsivertęs brolis Žygimantas paveldėtų Vytauto valstybę tokiomis pat teisėmis, prievolėmis ir įsipareigojimais."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
-  pagrindžia:
-    - c-189676
-
 ## Citatos
 
 - id: c-189675
@@ -85,7 +57,7 @@ Ordino rašte Vytautui ordinas įsipareigojo padėti atsiimti tėvo valstybę ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-189676
@@ -110,5 +82,34 @@ Ordino rašte Vytautui ordinas įsipareigojo padėti atsiimti tėvo valstybę ir
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-207060"></a>
+- t-001
+  teiginys: "Pasak T. Narbuto cituojamame Ordino rašte Vytautui ordinas įsipareigojo padėti atsiimti tėvo valstybę ir ginti ją nuo „bet kokio neteisėto smurto“ bei „Kristaus priešų“."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T23:56:59Z"
+  pagrindžia:
+    - c-189675
+
+<a id="claim-t-207061"></a>
+- t-002
+  teiginys: "Ordino rašte numatyta, kad po bevaikio Vytauto mirties jo valstybę paveldėtų ordinas, tačiau į krikščioniškąjį tikėjimą atsivertęs brolis Žygimantas paveldėtų Vytauto valstybę tokiomis pat teisėmis, prievolėmis ir įsipareigojimais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:10Z"
+  pagrindžia:
+    - c-189676
+

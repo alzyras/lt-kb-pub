@@ -50,10 +50,34 @@ Teodoras Narbutas aprašo, kad Paštuvos ir Gaižuvos valsčiuose susibūrusi ka
 
 ## Teiginiai
 
+<a id="claim-t-221447"></a>
+- t-221447
+  teiginys: "1316 metų žiemą Ordino kariuomenė netikėtai įsiveržė į Paštuvos valsčių, jį nusiaubė ir penkis šimtus žmonių paėmė į nelaisvę arba nukovė."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-204814
+
+<a id="claim-t-224135"></a>
+- t-224135
+  teiginys: "1294 m. Ragainės broliai su sembais įsiveržė į Paštuvos valsčių ir jį nusiaubė gaisrais."
+  atnaujinta: "2026-09-13 11:42"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  pagrindžia:
+    - c-203458
+
 <a id="claim-t-206619"></a>
-- t-001
+- t-206619
   teiginys: "Teodoras Narbutas aprašo, kad Paštuvos ir Gaižuvos valsčiuose susibūrusi kariauna su grobiu, įskaitant vaikus ir jaunas moteris, netrukdoma nužygiavo prie savo sienų."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -64,9 +88,9 @@ Teodoras Narbutas aprašo, kad Paštuvos ir Gaižuvos valsčiuose susibūrusi ka
     - c-189234
 
 <a id="claim-t-206620"></a>
-- t-002
+- t-206620
   teiginys: "Teodoras Narbutas rašo, kad Paštuvos vadas Girdavas, apimtas nepaaiškintos baimės, su dalimi įgulos paliko patikėtas pozicijas."
-  atnaujinta: "2026-08-16 22:50"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -92,8 +116,8 @@ Teodoras Narbutas aprašo, kad Paštuvos ir Gaižuvos valsčiuose susibūrusi ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+  pagrindžia:
+    - t-206619
 
 - id: c-189235
   šaltinis: "Lietuvių tautos istorija, t. 5"
@@ -114,5 +138,44 @@ Teodoras Narbutas aprašo, kad Paštuvos ir Gaižuvos valsčiuose susibūrusi ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+  pagrindžia:
+    - t-206620
+
+- id: c-203458
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 185"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 185."
+  citata_originali: |
+    1294 viešpaties metų žiemą magistras, rūpindamasis tikinčiųjų gerove, ketino su
+    savo kariuomene įsiveržti į Ariogalos valsčių, bet leidosi atkalbamas. Tada jis padalijo
+    savo kariuomenę į dvi dalis, ir Ragainės broliai su sembais įsibrovė į Paštuvos valsčių, o
+    kita dalis patraukė į Gaižuvos valsčių; baisiai nusiaubę abu valsčius gaisrais, nužudę bei
+    paėmę į nelaisvę 100 žmonių, sugrįžo su dideliu grobiu namo.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-224135
+
+- id: c-204814
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 211"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 211."
+  citata_originali: |
+    1316 viešpaties metais, žiemą, brolis Henrikas, maršalas, su daugybe raitelių netikėtai
+    įsiveržė į Paštuvos valsčių ir jį nusiaubė, degindamas bei plėšdamas, o penkis šimtus
+    žmonių paėmė į nelaisvę ar nukovė.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-13 11:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-221447
+

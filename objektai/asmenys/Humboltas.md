@@ -34,21 +34,6 @@ canonical_biography: "Pasak Narbuto, Humboltas aiškino, kad tropikų augalija s
 
 Pasak Narbuto, Humboltas aiškino, kad tropikų augalija senovės Šiaurėje vėso dėl ten buvusios išsiskyrusios šilumos.
 
-## Teiginiai
-
-<a id="claim-t-191499"></a>
-- t-001
-  teiginys: "Pasak Narbuto, Humboltas aiškino, kad tropikų augalija senovės Šiaurėje vėso dėl ten buvusios išsiskyrusios šilumos."
-  atnaujinta: "2026-07-12 22:34"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
-  pagrindžia:
-    - c-174381
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Pasak Narbuto, Humboltas aiškino, kad tropikų augalija senovės Šiaurėje vėso dėl ten buvusios išsiskyrusios šilumos.'
@@ -95,5 +80,17 @@ Pasak Narbuto, Humboltas aiškino, kad tropikų augalija senovės Šiaurėje vė
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
+
+## Teiginiai
+
+<a id="claim-t-215521"></a>
+- t-001
+  teiginys: "Pasak Narbuto, Humboltas aiškino, kad tropikų augalija senovės Šiaurėje vėso dėl ten buvusios išsiskyrusios šilumos."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
+

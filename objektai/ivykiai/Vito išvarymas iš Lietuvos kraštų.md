@@ -42,21 +42,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206001"></a>
-- t-001
-  teiginys: "Apie 1264 m., po Mindaugo mirties, Vitas išvyko į Lietuvos kraštus, tikriausiai į savo Liubčios bažnyčią."
-  atnaujinta: "2026-08-12 08:57"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
-  pagrindžia:
-    - c-188616
-
 ## Santrauka
 
 Apie 1264 m., po Mindaugo mirties, Vitas išvyko į Lietuvos kraštus, tikriausiai į savo Liubčios bažnyčią.
@@ -84,5 +69,21 @@ Apie 1264 m., po Mindaugo mirties, Vitas išvyko į Lietuvos kraštus, tikriausi
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206001"></a>
+- t-001
+  teiginys: "Apie 1264 m., po Mindaugo mirties, Vitas išvyko į Lietuvos kraštus, tikriausiai į savo Liubčios bažnyčią."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T03:00:30Z"
+  pagrindžia:
+    - c-188616
+

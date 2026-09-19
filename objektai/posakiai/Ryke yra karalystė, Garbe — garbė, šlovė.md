@@ -69,3 +69,4 @@ Senovės prūsų vietovardžių aiškinimas, kuriame pati formulė pateikiama ka
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+

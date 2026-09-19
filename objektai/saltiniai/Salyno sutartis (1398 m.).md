@@ -36,69 +36,6 @@ media_all_json: |-
 
 1398 m. buvo padarytas laikinis susitarimas, o kiek vėliau įvyko iškilmingas Vytauto ir magistro susitikimas, kurio metu buvo pasirašyta taikos sutartis. Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo palikta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo Salyno tiesiog į Šešupę, ir kairysis Šešupės krantas). Taigi ir Salyno sutartis buvo sudaryta jo paties autoritetu: Jogaila ten nė žodžiu neminimas.
 
-## Teiginiai
-
-<a id="claim-t-67534"></a>
-- t-001
-  teiginys: "1398 m. Salyne Vytautas ir Ordino magistras pasirašė taikos sutartį, nuo pasirašymo vietos vadinamą Salyno sutartimi."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67405
-
-<a id="claim-t-67535"></a>
-- t-002
-  teiginys: "Salyno sutartyje buvo minimi tik nelaisvieji valstiečiai, todėl Vytautas teigė, kad laisvieji galėjo kilnotis kur tinkami."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67406
-
-<a id="claim-t-67536"></a>
-- t-003
-  teiginys: "Salyno sutartis buvo sudaryta Vytauto autoritetu, o Jogaila joje nebuvo minimas."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67404
-
-<a id="claim-t-67539"></a>
-- t-004
-  teiginys: "Salyno sutartimi Vytautas sutiko Ordinui užleisti Žemaičius iki Nevėžio ir šiaurinę Suvalkų krašto dalį."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-67403
-
-<a id="claim-t-201501"></a>
-- t-005
-  teiginys: "Svarbi Lietuvos ir Vokiečių ordino santykiams Salyno sutartis sudaryta 1398 m. Nemuno saloje netoli Kauno."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  pagrindžia:
-    - c-184848
-
-<a id="claim-t-201502"></a>
-- t-006
-  teiginys: "Žemaičių ir Vokiečių ordino sutartyje buvo leidimas žemaičiams prekiauti Ordino valstybės pasienio miestuose."
-  atnaujinta: "2026-07-19 10:18"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
-  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
-  pagrindžia:
-    - c-184849
-
 ## Citatos
 
 - id: c-67403
@@ -120,7 +57,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-004
 
 - id: c-67404
@@ -144,7 +81,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-003
 
 - id: c-67405
@@ -163,7 +100,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-67406
@@ -183,7 +120,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
 
 - id: c-184848
@@ -200,7 +137,7 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-005
 
 - id: c-184849
@@ -216,5 +153,69 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-006
+
+## Teiginiai
+
+<a id="claim-t-67534"></a>
+- t-001
+  teiginys: "1398 m. Salyne Vytautas ir Ordino magistras pasirašė taikos sutartį, nuo pasirašymo vietos vadinamą Salyno sutartimi."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67405
+
+<a id="claim-t-67535"></a>
+- t-002
+  teiginys: "Salyno sutartyje buvo minimi tik nelaisvieji valstiečiai, todėl Vytautas teigė, kad laisvieji galėjo kilnotis kur tinkami."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67406
+
+<a id="claim-t-67536"></a>
+- t-003
+  teiginys: "Salyno sutartis buvo sudaryta Vytauto autoritetu, o Jogaila joje nebuvo minimas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67404
+
+<a id="claim-t-67539"></a>
+- t-004
+  teiginys: "Salyno sutartimi Vytautas sutiko Ordinui užleisti Žemaičius iki Nevėžio ir šiaurinę Suvalkų krašto dalį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-67403
+
+<a id="claim-t-201501"></a>
+- t-005
+  teiginys: "Svarbi Lietuvos ir Vokiečių ordino santykiams Salyno sutartis sudaryta 1398 m. Nemuno saloje netoli Kauno."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  pagrindžia:
+    - c-184848
+
+<a id="claim-t-201502"></a>
+- t-006
+  teiginys: "Žemaičių ir Vokiečių ordino sutartyje buvo leidimas žemaičiams prekiauti Ordino valstybės pasienio miestuose."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Zigmantas Kiaupa"
+  vertinimo_atnaujinta: "2026-06-13T15:13:32Z"
+  pagrindžia:
+    - c-184849
+

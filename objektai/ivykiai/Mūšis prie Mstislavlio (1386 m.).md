@@ -40,21 +40,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-206831"></a>
-- t-001
-  teiginys: "1386 m. kovo 18 d. iš Smolensko sugrįžusi kariuomenė apsupo Mstislavlį, o po dešimties puolimo dienų prie miesto pasirodė Skirgaila, Kaributas, Lengvenis ir Vytautas."
-  atnaujinta: "2026-08-16 22:50"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
-  pagrindžia:
-    - c-189446
-
 ## Santrauka
 
 1386 m. kovo 18 d. iš Smolensko sugrįžusi kariuomenė apsupo Mstislavlį, o po dešimties puolimo dienų prie miesto pasirodė Skirgaila, Kaributas, Lengvenis ir Vytautas.
@@ -79,5 +64,21 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-206831"></a>
+- t-001
+  teiginys: "1386 m. kovo 18 d. iš Smolensko sugrįžusi kariuomenė apsupo Mstislavlį, o po dešimties puolimo dienų prie miesto pasirodė Skirgaila, Kaributas, Lengvenis ir Vytautas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  vertinimo_atnaujinta: "2026-08-12T22:29:09Z"
+  pagrindžia:
+    - c-189446
+

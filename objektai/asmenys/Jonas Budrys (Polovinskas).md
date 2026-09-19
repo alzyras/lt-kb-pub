@@ -34,24 +34,6 @@ canonical_biography: "Galvanauskas ir ruošiamo žygio vadas, žvalgybos karinin
 
 Galvanauskas ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polovinskas) nustebo, jog kadriniai Lietuvos kariuomenės karininkai, kovoję prieš lenkus, bermontininkus ir bolševikus, nenoriai rašėsi į Klaipėdos žygį, nes...
 
-## Teiginiai
-
-<a id="claim-t-26447"></a>
-- t-001
-  teiginys: "Žvalgybos karininkas Jonas Budrys (Polovinskas) buvo ruošiamo Klaipėdos žygio vadas."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Bermontininkai: 0.83"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Jonas Budrys (Polovinskas): owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Bermontininkai: mention_match, group"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Budrys (Polovinskas)\" parinktas kaip owner_note_path. Targetas \"Bermontininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
-  pagrindžia:
-    - c-26672
-
 ## Citatos
 
 - id: c-26672
@@ -71,5 +53,24 @@ Galvanauskas ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polo
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-26447"></a>
+- t-001
+  teiginys: "Žvalgybos karininkas Jonas Budrys (Polovinskas) buvo ruošiamo Klaipėdos žygio vadas."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Bermontininkai: 0.83"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "Jonas Budrys (Polovinskas): owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Bermontininkai: mention_match, group"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Jonas Budrys (Polovinskas)\" parinktas kaip owner_note_path. Targetas \"Bermontininkai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality."
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-26672
+

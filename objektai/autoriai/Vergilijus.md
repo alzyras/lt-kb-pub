@@ -36,10 +36,34 @@ Narbutas Vergilijų vadina išradingu pasakojant apie šventuosius miškus ir En
 
 ## Teiginiai
 
-<a id="claim-t-190342"></a>
-- t-001
+<a id="claim-t-214512"></a>
+- t-214512
+  teiginys: "Vergilijus rašo, kad jis sruvena prie pra garo vartų, po lauro giraites, per kurias plaukia Eridanas, vaikštinėja palaimintųjų šešėliai."
+  atnaujinta: "2026-09-12 23:40"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
+  pagrindžia:
+    - c-195422
+
+<a id="claim-t-216249"></a>
+- t-216249
+  teiginys: "Šioje srityje buvo išradingas Vergilijus."
+  atnaujinta: "2026-09-12 23:46"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
+  pagrindžia:
+    - c-198428
+
+<a id="claim-t-219093"></a>
+- t-219093
   teiginys: "Narbutas Vergilijų vadina išradingu pasakojant apie šventuosius miškus ir Enėjo laivus iš Kibelei skirtų Idos kalno medžių."
-  atnaujinta: "2026-07-12 22:33"
+  atnaujinta: "2026-09-12 23:46"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -54,12 +78,12 @@ Narbutas Vergilijų vadina išradingu pasakojant apie šventuosius miškus ir En
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-173225
+    - c-200539
 
-<a id="claim-t-194676"></a>
-- t-002
+<a id="claim-t-217441"></a>
+- t-217441
   teiginys: "Vergilijus praneša, kad Enėjo laikais virš karstų supildavo kalnus."
-  atnaujinta: "2026-07-26 17:49"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -67,7 +91,8 @@ Narbutas Vergilijų vadina išradingu pasakojant apie šventuosius miškus ir En
   šaltinio_profilis: "žanras: istoriografija; perspektyva: romantine_istoriografine; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Narbutas"
   vertinimo_atnaujinta: "2026-07-02T15:18:28Z"
   pagrindžia:
-    - c-177073
+    - c-198574
+    - c-200539
 
 ## Citatos
 
@@ -88,8 +113,6 @@ Narbutas Vergilijų vadina išradingu pasakojant apie šventuosius miškus ir En
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-177073
   autorius: "Teodoras Narbutas"
@@ -110,5 +133,82 @@ Narbutas Vergilijų vadina išradingu pasakojant apie šventuosius miškus ir En
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-195422
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 331"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 331."
+  citata_originali: |
+    Vergilijus rašo, kad jis sruvena prie pra­
+    garo vartų, po lauro giraites, per kurias plaukia Erida-
+    nas, vaikštinėja palaimintųjų šešėliai.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-214512
+
+- id: c-198428
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 232"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 232."
+  citata_originali: |
+    Šioje srityje buvo išradingas Vergilijus. Kai, žlugus Trojai,
+    liūdna būtinybė privertė Enėją palikti tėvynę, jam teko statyti
+    laivus iš Idos kalno medžių, paskirtų Kibelei. Dėl tokio neti­
+    kėto reikalo deivė ne tik leidžia, bet ir prašo Jupiterio, kad tie
+    laivai nebūtų pavaldūs vėjų ir įsisiautėjusių jūros bangų šėl­
+    smui.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-216249
+
+- id: c-198574
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 371"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 371."
+  citata_originali: |
+    Vergilijus praneša, kad
+    Enėjo laikais virš karstų supildavo kalnus.
+  statusas: verified
+  atnaujinta: "2026-09-12 23:45"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217441
+
+- id: c-200539
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 232"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 232."
+  citata_originali: |
+    Eri-
+    sichtono istorija, Dodonės ir Delfų šventieji miškai buvo gar­
+    sus Antikos laikais.
+    Šioje srityje buvo išradingas Vergilijus. Kai, žlugus Trojai,
+    liūdna būtinybė privertė Enėją palikti tėvynę, jam teko statyti
+    laivus iš Idos kalno medžių, paskirtų Kibelei.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:45"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-217441
+    - t-219093
+

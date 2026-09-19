@@ -55,9 +55,9 @@ Mikalojaus Daukšos „Postilės“ pratarmėje ši formulė tėvų žemę, papr
     - c-26738
 
 <a id="claim-t-26899"></a>
-- t-002
+- t-26899
   teiginys: "Posakis „Kurgi, sakau, pasaulyje yra tauta...“ pateiktas 1599 m. Mikalojaus Daukšos „Postilės“ pratarmėje, raginant kurti raštiją lietuvių kalba."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -74,9 +74,9 @@ Mikalojaus Daukšos „Postilės“ pratarmėje ši formulė tėvų žemę, papr
     - c-26738
 
 <a id="claim-t-67311"></a>
-- t-003
+- t-67311
   teiginys: "Posakiu „Kurgi, sakau, pasaulyje yra tauta...“ Mikalojus Daukša pabrėžė tėvų žemę, papročius ir kalbą kaip savus tautos dalykus."
-  atnaujinta: "2026-06-13 17:10"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Mikalojus Daukša: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -111,11 +111,13 @@ Mikalojaus Daukšos „Postilės“ pratarmėje ši formulė tėvų žemę, papr
     M. Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia
     kalba sukurti oficialųjį kultūros modelį.
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-10 10:39"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
-    - t-002
-    - t-003
+    - t-26899
+    - t-67311
+

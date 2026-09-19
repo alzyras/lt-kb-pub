@@ -42,26 +42,6 @@ historical_names: []
 
 Čia jie gavo iš Konrado žemių su Niešavos pi- laite, o patys pasista- tė Fogelzango pilį. žemių su Niešavos pi- laite, o patys pasista- tė Fogelzango pilį.
 
-## Teiginiai
-
-<a id="claim-t-72890"></a>
-- t-001
-  teiginys: "1230 m. pirmieji ordino atstovai Prūsų pasienyje pasistatė Fogelzango pilį."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-71239
-
-<a id="claim-t-72892"></a>
-- t-002
-  teiginys: "Pirmieji ordino atstovai Prūsų pasienyje gavo Konrado žemių su Niešavos pilaite ir pasistatė Fogelzango pilį."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
-  pagrindžia:
-    - c-71239
-
 ## Citatos
 
 - id: c-71239
@@ -85,6 +65,27 @@ historical_names: []
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
     - t-002
+
+## Teiginiai
+
+<a id="claim-t-72890"></a>
+- t-001
+  teiginys: "1230 m. pirmieji ordino atstovai Prūsų pasienyje pasistatė Fogelzango pilį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-71239
+
+<a id="claim-t-72892"></a>
+- t-002
+  teiginys: "Pirmieji ordino atstovai Prūsų pasienyje gavo Konrado žemių su Niešavos pilaite ir pasistatė Fogelzango pilį."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: A. Šapoka (red.)"
+  pagrindžia:
+    - c-71239
+

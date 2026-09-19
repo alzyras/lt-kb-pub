@@ -75,9 +75,9 @@ Ona šiame pasakojime pirmiausia pasirodo kaip Petrui artima mergina, o vėliau 
     - c-177972
 
 <a id="claim-t-195555"></a>
-- t-003
+- t-195555
   teiginys: "Petras prieš Užgavėnes vedė Oną."
-  atnaujinta: "2026-07-12 06:38"
+  atnaujinta: "2026-09-13 22:14"
   sprendimo_priezastis: "gap::people"
   teiginio_tipas: "faktas"
   šaltinio_profilis: "šališkumas: unknown; atribucija: optional"
@@ -98,11 +98,12 @@ Ona šiame pasakojime pirmiausia pasirodo kaip Petrui artima mergina, o vėliau 
     Petras.
   citata_rodoma: "Mat, viena mergaičių vadinosi Uršulė, antra — Ona, o vyras — Petras."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
 
 - id: c-177971
@@ -118,8 +119,8 @@ Ona šiame pasakojime pirmiausia pasirodo kaip Petrui artima mergina, o vėliau 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-003
+  pagrindžia:
+    - t-195555
 
 - id: c-177972
   autorius: "M. Katkus"
@@ -138,9 +139,11 @@ Ona šiame pasakojime pirmiausia pasirodo kaip Petrui artima mergina, o vėliau 
     Oną.
   citata_rodoma: "Petras nesidaiijo su broliu žemės, nes jam prikaišiojo, kam vedęs vargingą Oną."
   statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-07-12 06:38"
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-002
+

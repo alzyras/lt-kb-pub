@@ -38,20 +38,6 @@ historical_names: []
 
 Ir taip Turaidos apygardą paturėjo Albertas sau, o antrapus upės Gaujos kraštą, vadinamą Sakalą, gavo kalavijonys.
 
-## Teiginiai
-
-<a id="claim-t-201151"></a>
-- t-001
-  teiginys: "Ir taip Turaidos apygardą paturėjo Albertas sau, o antrapus upės Gaujos kraštą, vadinamą Sakalą, gavo kalavijonys."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184501
-
 ## Citatos
 
 - id: c-184501
@@ -71,5 +57,20 @@ Ir taip Turaidos apygardą paturėjo Albertas sau, o antrapus upės Gaujos kraš
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201151"></a>
+- t-001
+  teiginys: "Ir taip Turaidos apygardą paturėjo Albertas sau, o antrapus upės Gaujos kraštą, vadinamą Sakalą, gavo kalavijonys."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184501
+

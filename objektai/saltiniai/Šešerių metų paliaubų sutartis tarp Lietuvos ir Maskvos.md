@@ -27,39 +27,6 @@ media_all_json: |-
 
 Lietuva ir Maskva vargais negalais sutarė dėl šešerių metų paliaubų, kurios Lietuvai buvo sudarytos prastomis sąlygomis. Vis dėl to jo, Ivano, širdis neatsisakanti taikos, jeigu Alek sandras neatmesiąs teisingų taikos sąlygų ir neatidė liodamas išleisiąs į Maskvą atsakingesnius pasiunti nius, kurie ir susitartų dėl taikos.
 
-## Teiginiai
-
-<a id="claim-t-186348"></a>
-- t-001
-  teiginys: "Lietuva ir Maskva vargais negalais sutarė dėl šešerių metų paliaubų, kurios Lietuvai buvo sudarytos prastomis sąlygomis."
-  atnaujinta: "2026-07-12 22:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Šešerių metų paliaubų sutartis tarp Lietuvos ir Maskvos: owner_note_path, source, gap=0"
-  ryšio_targeto_parinkimas: "Lietuva: mention_match, place, gap=0"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Šešerių metų paliaubų sutartis tarp Lietuvos ir Maskvos\" parinktas kaip owner_note_path. Targetas \"Lietuva\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169709
-
-<a id="claim-t-196362"></a>
-- t-002
-  teiginys: "Vis dėl to jo, Ivano, širdis neatsisakanti taikos, jeigu Alek sandras neatmesiąs teisingų taikos sąlygų ir neatidė liodamas išleisiąs į Maskvą atsakingesnius pasiunti nius, kurie ir susitartų dėl taikos."
-  atnaujinta: "2026-07-13 01:28"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
-  pagrindžia:
-    - c-169709
-
 ## Reikšmingi paminėjimai
 - c-001
   santrauka: 'Lietuva ir Maskva vargais negalais sutarė dėl šešerių metų paliaubų, kurios Lietuvai buvo sudarytos prastomis sąlygomis.'
@@ -123,6 +90,20 @@ Lietuva ir Maskva vargais negalais sutarė dėl šešerių metų paliaubų, kuri
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
-    - t-002
+
+## Teiginiai
+
+<a id="claim-t-196362"></a>
+- t-001
+  teiginys: "Vis dėl to jo, Ivano, širdis neatsisakanti taikos, jeigu Alek sandras neatmesiąs teisingų taikos sąlygų ir neatidė liodamas išleisiąs į Maskvą atsakingesnius pasiunti nius, kurie ir susitartų dėl taikos."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Albertas Vijūkas-Kojelavičius"
+  pagrindžia:
+    - c-169709
+

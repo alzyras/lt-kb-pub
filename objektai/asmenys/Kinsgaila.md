@@ -34,25 +34,6 @@ canonical_biography: "Kiti vadai buvo maršalas Čupurna, per Žemaičių sukili
 
 Kiti vadai buvo maršalas Čupurna, per Žemaičių sukilimą pagarsėjęs Rumbaudas, Kauno seniūnas Sungaila, Ukmergės — Kinsgaila ir kt.
 
-## Teiginiai
-
-<a id="claim-t-30330"></a>
-- t-001
-  teiginys: "Kinsgaila buvo Ukmergės seniūnas ir vienas iš sąjungininkų pusės vadų."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Ukmergė: 0.64"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Kinsgaila: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Ukmergė: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Kinsgaila nurodytas kaip Ukmergės seniūnas, todėl galima sieti su vietos administravimu."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Kinsgaila valdė Ukmergė (0.64)"
-  pagrindžia:
-    - c-32771
-
 ## Citatos
 
 - id: c-32771
@@ -76,5 +57,25 @@ Kiti vadai buvo maršalas Čupurna, per Žemaičių sukilimą pagarsėjęs Rumba
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-30330"></a>
+- t-001
+  teiginys: "Kinsgaila buvo Ukmergės seniūnas ir vienas iš sąjungininkų pusės vadų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Ukmergė: 0.64"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Kinsgaila: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Ukmergė: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Kinsgaila nurodytas kaip Ukmergės seniūnas, todėl galima sieti su vietos administravimu."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Kinsgaila valdė Ukmergė (0.64)"
+  pagrindžia:
+    - c-32771
+

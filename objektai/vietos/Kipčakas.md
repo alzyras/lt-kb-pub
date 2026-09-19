@@ -42,28 +42,6 @@ historical_names: []
 
 Pagaliau valdovų kaitaliojimasis pa­ sibaigė 1424 met., kai Kipčako sostan Vytauto pagalba atsisėdo Didysis Machmetas, kuris išsilaikė net iki 1437 ar 1438 metų, nors Timur Kotlogo ainiai jį pašalinti visaip dar vis stengėsi.
 
-## Teiginiai
-
-<a id="claim-t-34193"></a>
-- t-001
-  teiginys: "1424 m. Vytauto padedamas Didysis Machmetas užėmė Kipčako sostą ir išsilaikė jame iki 1437 ar 1438 metų."
-  atnaujinta: "2026-07-10 10:39"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "valde -> Kipčakas: 0.82"
-  ryšio_patikimumo_lygis: "aukstas"
-  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
-  ryšio_sprendimo_taisykle: "llm_validated_relation"
-  ryšio_subjekto_parinkimas: "Didysis Machmetas: llm_allowed_candidate, person"
-  ryšio_targeto_parinkimas: "Kipčakas: llm_allowed_candidate, place"
-  ryšio_paaiskinimas: "Atsisėdimas į Kipčako sostą tiesiogiai rodo Didžiojo Machmeto valdžią Kipčake."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  semantiniai_rysiai: "Didysis Machmetas valdė Kipčakas (0.82)"
-  temporaliniai_duomenys: "įvykio data: 1424 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Ilgas teiginys sutrumpintas ir pašalintos OCR klaidos."
-  pagrindžia:
-    - c-35418
-
 ## Citatos
 
 - id: c-35418
@@ -83,5 +61,28 @@ Pagaliau valdovų kaitaliojimasis pa­ sibaigė 1424 met., kai Kipčako sostan V
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-34193"></a>
+- t-001
+  teiginys: "1424 m. Vytauto padedamas Didysis Machmetas užėmė Kipčako sostą ir išsilaikė jame iki 1437 ar 1438 metų."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "valde -> Kipčakas: 0.82"
+  ryšio_patikimumo_lygis: "aukstas"
+  ryšio_patikimumo_priezastys: "llm_structured_decision; deterministic_validation_passed"
+  ryšio_sprendimo_taisykle: "llm_validated_relation"
+  ryšio_subjekto_parinkimas: "Didysis Machmetas: llm_allowed_candidate, person"
+  ryšio_targeto_parinkimas: "Kipčakas: llm_allowed_candidate, place"
+  ryšio_paaiskinimas: "Atsisėdimas į Kipčako sostą tiesiogiai rodo Didžiojo Machmeto valdžią Kipčake."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  semantiniai_rysiai: "Didysis Machmetas valdė Kipčakas (0.82)"
+  temporaliniai_duomenys: "įvykio data: 1424 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Ilgas teiginys sutrumpintas ir pašalintos OCR klaidos."
+  pagrindžia:
+    - c-35418
+

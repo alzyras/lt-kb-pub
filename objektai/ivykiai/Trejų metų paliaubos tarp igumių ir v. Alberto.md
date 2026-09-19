@@ -36,20 +36,6 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-201347"></a>
-- t-001
-  teiginys: "Tokioms nelaimoms spaudžiant igumius, Mstisla vas, kunigaikštis Naugardo, įėjo nuo antros pusės su 15 000 kareivių vokyčiams padėti netikėlių ka riauti, kursai, nuteriojęs kraštą igumių, kurio voky čiai nebuvo prigavę, apgulė pilį Varbolę, nuo ku rios įgulės."
-  atnaujinta: "2026-07-16 14:31"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
-  pagrindžia:
-    - c-184697
-
 ## Citatos
 
 - id: c-184697
@@ -71,5 +57,20 @@ Nenurodyta
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-201347"></a>
+- t-001
+  teiginys: "Tokioms nelaimoms spaudžiant igumius, Mstisla vas, kunigaikštis Naugardo, įėjo nuo antros pusės su 15 000 kareivių vokyčiams padėti netikėlių ka riauti, kursai, nuteriojęs kraštą igumių, kurio voky čiai nebuvo prigavę, apgulė pilį Varbolę, nuo ku rios įgulės."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Daukantas"
+  pagrindžia:
+    - c-184697
+

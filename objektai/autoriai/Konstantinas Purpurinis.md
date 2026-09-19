@@ -36,30 +36,22 @@ Pasak Konstantino Purpurinio, pečenegai buvo pasidaliję į dvi puses, kurių k
 
 ## Teiginiai
 
-<a id="claim-t-191584"></a>
-- t-001
-  teiginys: "Pasak Konstantino Purpurinio, pečenegai buvo pasidaliję į dvi puses, kurių kiekvieną sudarė keturios ordos."
-  atnaujinta: "2026-07-12 22:34"
+<a id="claim-t-212457"></a>
+- t-212457
+  teiginys: "Konstantinas Purpurinis aprašė pečenegų pasidalijimą į dvi puses, kurių kiekvieną sudarė keturios ordos."
+  atnaujinta: "2026-09-12 23:40"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  ryšio_patikimumas: "susije_su -> Pečenegai: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "Konstantinas Purpurinis: owner_note_path, author, gap=0"
-  ryšio_targeto_parinkimas: "Pečenegai: mention_match, group, gap=24"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"Konstantinas Purpurinis\" parinktas kaip owner_note_path. Targetas \"Pečenegai\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Teodoras Narbutas"
-  vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-174466
+    - c-194514
 
-<a id="claim-t-191585"></a>
-- t-002
+<a id="claim-t-212394"></a>
+- t-212394
   teiginys: "Pasak Purpurinio, Charoboe ordos sostinė buvo Belotzebo miestas, slaviškai vadintas Belaja Cerkove."
-  atnaujinta: "2026-07-12 22:34"
+  atnaujinta: "2026-09-13 18:12"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -75,7 +67,7 @@ Pasak Konstantino Purpurinio, pečenegai buvo pasidaliję į dvi puses, kurių k
   semantiniai_rysiai: "Padneprė priklausė Pečenegai (0.80)"
   vertinimo_atnaujinta: "2026-07-04T14:37:44Z"
   pagrindžia:
-    - c-174467
+    - c-194928
 
 ## Citatos
 
@@ -97,8 +89,6 @@ Pasak Konstantino Purpurinio, pečenegai buvo pasidaliję į dvi puses, kurių k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-001
 
 - id: c-174467
   autorius: "Teodoras Narbutas"
@@ -118,5 +108,46 @@ Pasak Konstantino Purpurinio, pečenegai buvo pasidaliję į dvi puses, kurių k
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
-    - t-002
+
+- id: c-194514
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 105"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 105."
+  citata_originali: |
+    Anot anuometinio istoriko Kons­
+    tantino Purpurinio*, jie buvo pasidaliję į dvi puses (po-
+    towy), kurių kiekvieną sudarė keturios ordos; orda dali­
+    josi į penkias apskritis, arba pavietus.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212457
+
+- id: c-194928
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 107"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 107."
+  citata_originali: |
+    100
+    Geografija. Viena dešiniojoje Dnepro pakrantėje gy­
+    venusi pečenegų orda Charoboe turėjo dalį Padneprės
+    žemių tarp Dnepro ir Bugo aukštupio; jos sostinė, pasak
+    Purpurinio, buvo Belotzebo miestas, o slaviškai Belaja
+    Cerkovė1. Tad nuo X iki XII amžiaus antrojo dešimtme­
+    čio šiai ordai priklausė kraštas prie Rosés upės.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-12 23:39"
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-212394
+

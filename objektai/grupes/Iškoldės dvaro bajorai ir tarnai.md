@@ -37,24 +37,6 @@ media_all_json: |-
 
 1471 m. Mikalojaus Nemiraičio dokumente Iškoldės dvaro bajorai ir tarnai įvardyti kaip tarnaujantys ex iure feodali, o per karinius šaukimus ir žygius savo lėšomis sudarantys du dalinius.
 
-## Teiginiai
-
-<a id="claim-t-204039"></a>
-- t-001
-  teiginys: "1471 m. Mikalojaus Nemiraičio dokumente Iškoldės dvaro bajorai ir tarnai įvardyti kaip tarnaujantys ex iure feodali, o per karinius šaukimus ir žygius savo lėšomis sudarantys du dalinius."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  temporaliniai_duomenys: "įvykio data: 1471 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Pridėtos šaltinyje nurodytos karinės prievolės ir dviejų dalinių sudarymas. Originali lotyniška formuluotė palikta nepakeista."
-  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
-  pagrindžia:
-    - c-186643
-
 ## Citatos
 
 - id: c-186643
@@ -97,5 +79,24 @@ media_all_json: |-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204039"></a>
+- t-001
+  teiginys: "1471 m. Mikalojaus Nemiraičio dokumente Iškoldės dvaro bajorai ir tarnai įvardyti kaip tarnaujantys ex iure feodali, o per karinius šaukimus ir žygius savo lėšomis sudarantys du dalinius."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  temporaliniai_duomenys: "įvykio data: 1471 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Pridėtos šaltinyje nurodytos karinės prievolės ir dviejų dalinių sudarymas. Originali lotyniška formuluotė palikta nepakeista."
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186643
+

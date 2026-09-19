@@ -39,21 +39,6 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
-## Teiginiai
-
-<a id="claim-t-204065"></a>
-- t-001
-  teiginys: "Lietuvos diduomenė ilgainiui ėmė kompensuoti feodaline teise tarnaujančių pavaldinių trūkumą mažiau formalizuotais, žemės valdomis neatsilyginamais tarnybiniais ir klientiniais ryšiais."
-  atnaujinta: "2026-08-07 10:39"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
-  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
-  pagrindžia:
-    - c-186669
-
 ## Santrauka
 
 Lietuvos diduomenė ilgainiui ėmė kompensuoti feodaline teise tarnaujančių pavaldinių trūkumą mažiau formalizuotais, žemės valdomis neatsilyginamais tarnybiniais ir klientiniais ryšiais.
@@ -77,5 +62,21 @@ Lietuvos diduomenė ilgainiui ėmė kompensuoti feodaline teise tarnaujančių p
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindzia:
+  pagrindžia:
     - t-001
+
+## Teiginiai
+
+<a id="claim-t-204065"></a>
+- t-001
+  teiginys: "Lietuvos diduomenė ilgainiui ėmė kompensuoti feodaline teise tarnaujančių pavaldinių trūkumą mažiau formalizuotais, žemės valdomis neatsilyginamais tarnybiniais ir klientiniais ryšiais."
+  atnaujinta: "2026-09-13 22:14"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Lituanistika-64400-Feodalines-teises-apraiskos-LDK"
+  vertinimo_atnaujinta: "2026-07-31T01:03:08Z"
+  pagrindžia:
+    - c-186669
+
