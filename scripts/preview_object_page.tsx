@@ -163,6 +163,23 @@ const scripts = [
   `globalThis.__ltkbGraphVisualRegistry = ${JSON.stringify(graphVisualRegistry)};`,
   ...new Set(components.flatMap((component) => component.afterDOMLoaded || [])),
 ].join("\n")
+function previewBody(props: any, body: any) {
+  return renderToString(
+    <div id="quartz-root" class="page">
+      <div id="quartz-body">
+        <div class="left sidebar" />
+        <div class="center">
+          <div class="page-header">
+            <header>{components[3](props)}</header>
+            <div class="popover-hint" />
+          </div>
+          {body}
+        </div>
+        <div class="right sidebar" />
+      </div>
+    </div>,
+  )
+}
 const server = http.createServer(async (req, res) => {
   const url = new URL(req.url || "/", "http://localhost")
   if (url.pathname === "/static/graph-data/topology.json") {
@@ -221,7 +238,7 @@ const server = http.createServer(async (req, res) => {
     res.setHeader("Content-Type", "text/html; charset=utf-8")
     res.setHeader("Cache-Control", "no-store")
     return res.end(
-      `<!doctype html><html lang="lt"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${route}</title><style>${css}</style><script>window.addCleanup=()=>{};</script></head><body data-slug="${route}/index">${renderToString(components[3](props) as any)}${renderToString(body as any)}<script type="module">${scripts}\n${spa}</script></body></html>`,
+      `<!doctype html><html lang="lt"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${route}</title><style>${css}</style><script>window.addCleanup=()=>{};</script></head><body data-slug="${route}/index">${previewBody(props, body)}<script type="module">${scripts}\n${spa}</script></body></html>`,
     )
   }
   if (route === slug || route.startsWith(`${slug}/`)) {
@@ -268,12 +285,15 @@ const server = http.createServer(async (req, res) => {
     res.setHeader("Content-Type", "text/html; charset=utf-8")
     res.setHeader("Cache-Control", "no-store")
     return res.end(
-      `<!doctype html><html lang="lt"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${String(fm.title).replaceAll("<", "&lt;")}</title><style>${css}</style><script>window.addCleanup=()=>{};</script></head><body data-slug="${route}">${renderToString(components[3](props) as any)}${renderToString(Component(props) as any)}<script type="module">${scripts}\n${spa}</script></body></html>`,
+      `<!doctype html><html lang="lt"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${String(fm.title).replaceAll("<", "&lt;")}</title><style>${css}</style><script>window.addCleanup=()=>{};</script></head><body data-slug="${route}">${previewBody(props, Component(props))}<script type="module">${scripts}\n${spa}</script></body></html>`,
     )
   }
   if (url.pathname.startsWith("/static/"))
     return handler(req, res, { public: path.join(root, "quartz"), cleanUrls: true })
-  await handler(req, res, { public: path.join(root, "public"), cleanUrls: true })
+  await handler(req, res, {
+    public: process.env.OBJECT_PREVIEW_PUBLIC_ROOT || path.join(root, "public"),
+    cleanUrls: true,
+  })
 })
 server.listen(Number(process.env.PORT || 8090), "127.0.0.1", () =>
   console.log(`Object preview: http://127.0.0.1:${process.env.PORT || 8090}/${slug}`),

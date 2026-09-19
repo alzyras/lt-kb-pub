@@ -45,6 +45,24 @@ canonical_biography: "1775–1818 m. Jokūbas Šimkevičius buvo „Veikalo apie
 
 1818 m. Lietuvoje išleisto „Veikalo apie girtavimą“ autorius buvo Jokūbas Šimkevičius (1775–1818).
 
+## Teiginiai
+
+<a id="claim-t-209294"></a>
+- t-001
+  teiginys: "1818 m. Lietuvoje išleisto „Veikalo apie girtavimą“ autorius buvo Jokūbas Šimkevičius (1775–1818)."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  temporaliniai_duomenys: "įvykio data: 1818 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Gyvenimo datos susietos su aiškiu autoriaus vaidmeniu ir leidinio išleidimo aplinkybėmis, neperimant šaltinio vertinamųjų apibūdinimų."
+  vertinimo_atnaujinta: "2026-09-02T01:53:26Z"
+  pagrindžia:
+    - c-192028
+
 ## Citatos
 
 - id: c-192028
@@ -68,28 +86,8 @@ canonical_biography: "1775–1818 m. Jokūbas Šimkevičius buvo „Veikalo apie
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-209294"></a>
-- t-001
-  teiginys: "1818 m. Lietuvoje išleisto „Veikalo apie girtavimą“ autorius buvo Jokūbas Šimkevičius (1775–1818)."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  temporaliniai_duomenys: "įvykio data: 1818 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Gyvenimo datos susietos su aiškiu autoriaus vaidmeniu ir leidinio išleidimo aplinkybėmis, neperimant šaltinio vertinamųjų apibūdinimų."
-  vertinimo_atnaujinta: "2026-09-02T01:53:26Z"
-  pagrindžia:
-    - c-192028
-

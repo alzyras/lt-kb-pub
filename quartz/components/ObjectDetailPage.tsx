@@ -716,35 +716,32 @@ const ObjectDetailPage: QuartzComponent = (props) => {
       )}
       <section class="object-detail-overview" id="apzvalga" data-object-panel="apzvalga">
         {!wikiPublished && (
-          <>
-            <div class="object-section-heading">
-              <p>Mūsų šaltiniai</p>
-              <h2>Mūsų santrauka</h2>
-            </div>
-            <div class="object-detail-summary-with-portrait">
-              <div>
-                {summary ? (
+          <div class="object-detail-summary-with-portrait">
+            <div>
+              {summary ? (
+                <>
                   <p class="object-detail-summary">{summary}</p>
-                ) : (
-                  <p class="object-detail-summary object-detail-summary-pending">
-                    {fallbackMessage}
+                  <p class="object-detail-paragraph-source">
+                    Šaltinis: <a href="https://lietuvosistorija.eu">lietuvosistorija.eu</a>
                   </p>
-                )}
-              </div>
-              {summaryPortrait && (
-                <a class="object-detail-summary-portrait" href={galleryHref}>
-                  <img
-                    src={summaryPortrait}
-                    alt={displayCaption(hero!)}
-                    width={hero?.width || undefined}
-                    height={hero?.height || undefined}
-                    decoding="async"
-                  />
-                  <span>Žiūrėti galerijoje</span>
-                </a>
+                </>
+              ) : (
+                <p class="object-detail-summary object-detail-summary-pending">{fallbackMessage}</p>
               )}
             </div>
-          </>
+            {summaryPortrait && (
+              <a class="object-detail-summary-portrait" href={galleryHref}>
+                <img
+                  src={summaryPortrait}
+                  alt={displayCaption(hero!)}
+                  width={hero?.width || undefined}
+                  height={hero?.height || undefined}
+                  decoding="async"
+                />
+                <span>Žiūrėti galerijoje</span>
+              </a>
+            )}
+          </div>
         )}
         {view.featuredQuote && (
           <figure class="object-detail-featured-quote">

@@ -86,7 +86,10 @@ function structuredData(exhibition: ExhibitionManifest, pageUrl: string): string
     url: pageUrl,
     name: exhibition.title,
     description: exhibition.description,
-    primaryImageOfPage: mediaImageUrl(exhibition.hero) || undefined,
+    ...(exhibition.exhibitionId.startsWith("valancius-")
+      ? { author: { "@type": "Organization", name: "Lietuvos istorijos žinių lobynas" } }
+      : {}),
+    primaryImageOfPage: new URL(mediaImageUrl(exhibition.hero), pageUrl).toString(),
     mainEntity: {
       "@type": "ItemList",
       numberOfItems: items.length,
@@ -95,7 +98,7 @@ function structuredData(exhibition: ExhibitionManifest, pageUrl: string): string
         position: index + 1,
         name: item.titleLt,
         url: new URL(mediaDetailUrl(item.media), pageUrl).toString(),
-        image: mediaImageUrl(item.media) || undefined,
+        image: new URL(mediaImageUrl(item.media), pageUrl).toString(),
       })),
     },
   })
@@ -187,8 +190,7 @@ export const ExhibitionPages: QuartzEmitterPlugin = () => {
         "Kuruotos Lietuvos istorijos parodos, jungiančios vaizdus, teiginius ir pirminius šaltinius.",
         {
           exhibitions_index_json: JSON.stringify(exhibitions.map(publicExhibition)),
-          media_primary_thumb_url:
-            exhibitions[0] ? mediaImageUrl(exhibitions[0].hero) : "",
+          media_primary_thumb_url: exhibitions[0] ? mediaImageUrl(exhibitions[0].hero) : "",
         },
       )
 
@@ -198,6 +200,8 @@ export const ExhibitionPages: QuartzEmitterPlugin = () => {
         const pageUrl = absolutePageUrl(cfg.baseUrl, exhibition.slug)
         yield* emit(slug, exhibition.title, exhibition.description, {
           exhibition_page: true,
+          seo_title: exhibition.seo_title,
+          noindex: exhibition.noindex,
           exhibition_manifest_json: JSON.stringify(publicManifest),
           media_primary_thumb_url: mediaImageUrl(exhibition.hero),
           media_primary_width: exhibition.hero.width,

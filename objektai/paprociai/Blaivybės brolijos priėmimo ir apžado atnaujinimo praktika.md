@@ -39,6 +39,20 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-208821"></a>
+- t-001
+  teiginys: "Blaivybės brolijos nariai privalo visą amžių negerti degtinės, romo ir arako, raginti kitus žmones stoti į broliją, kas šventadienį kalbėti šv. Bernardo maldą ir per Grabnyčias atnaujinti blaivybės apžadą."
+  atnaujinta: "2026-09-13 13:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  pagrindžia:
+    - c-191441
+
 ## Santrauka
 
 Blaivybės brolijos nariai privalo visą amžių negerti degtinės, romo ir arako, raginti kitus žmones stoti į broliją, kas šventadienį kalbėti šv. Bernardo maldą ir per Grabnyčias atnaujinti blaivybės apžadą.
@@ -67,24 +81,9 @@ Blaivybės brolijos nariai privalo visą amžių negerti degtinės, romo ir arak
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-208821"></a>
-- t-001
-  teiginys: "Blaivybės brolijos nariai privalo visą amžių negerti degtinės, romo ir arako, raginti kitus žmones stoti į broliją, kas šventadienį kalbėti šv. Bernardo maldą ir per Grabnyčias atnaujinti blaivybės apžadą."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  pagrindžia:
-    - c-191441
 

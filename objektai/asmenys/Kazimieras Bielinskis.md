@@ -47,6 +47,24 @@ canonical_biography: "Kun. Kazimieras Bielinskis 1877 m. balandžio 7 d. įvardy
 
 1877 m. balandžio 7 d. Telšių apskrities Salantų klebonas kunigas Kazimieras Bielinskis rašė vyskupystės administratoriui sufraganui Beresnevičiui apie tvirtai įsišaknijusią blaivybę parapijoje.
 
+## Teiginiai
+
+<a id="claim-t-209416"></a>
+- t-001
+  teiginys: "1877 m. balandžio 7 d. Telšių apskrities Salantų klebonas kunigas Kazimieras Bielinskis rašė vyskupystės administratoriui sufraganui Beresnevičiui apie tvirtai įsišaknijusią blaivybę parapijoje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  temporaliniai_duomenys: "įvykio data: 1877 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Bendras įvardijimas pakeistas konkrečiu veiksmu, data, pareigomis, adresatu ir pranešimo turiniu. Visi elementai paimti iš citatos."
+  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
+  pagrindžia:
+    - c-192042
+
 ## Citatos
 
 - id: c-192042
@@ -66,28 +84,8 @@ canonical_biography: "Kun. Kazimieras Bielinskis 1877 m. balandžio 7 d. įvardy
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-209416"></a>
-- t-001
-  teiginys: "1877 m. balandžio 7 d. Telšių apskrities Salantų klebonas kunigas Kazimieras Bielinskis rašė vyskupystės administratoriui sufraganui Beresnevičiui apie tvirtai įsišaknijusią blaivybę parapijoje."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  temporaliniai_duomenys: "įvykio data: 1877 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Bendras įvardijimas pakeistas konkrečiu veiksmu, data, pareigomis, adresatu ir pranešimo turiniu. Visi elementai paimti iš citatos."
-  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
-  pagrindžia:
-    - c-192042
-

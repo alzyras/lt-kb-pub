@@ -329,7 +329,7 @@ async function renderNodePanel(
       const response = await fetch(relativePageUrl(node.id))
       const html = await response.text()
       const doc = new DOMParser().parseFromString(html, "text/html")
-      const article = doc.querySelector("article.popover-hint, article")
+      const article = doc.querySelector(".object-detail-page, article.popover-hint, article")
       panel.innerHTML = `${panelControls(state)}<div class="graph-explorer-page-content">${article?.innerHTML ?? "Puslapio nepavyko įkelti."}</div>`
       bindPanelControls(panel, setPanel)
     } catch {
@@ -346,12 +346,11 @@ async function renderNodePanel(
     <p class="graph-count-explanation">Tiesioginiai ryšiai jungia pasirinktą objektą su jo kaimynais. Subgrafo ryšiai apima ir ekrane rodomų kaimynų tarpusavio ryšius. Skaičiai pateikti kaip aktyvūs / visi.</p>
     ${activeFilterSummary(state, topology)}
     ${details?.summary ? `<p class="graph-explorer-summary">${escapeHtml(details.summary)}</p>` : ""}
-    <div class="graph-explorer-actions"><a href="${relativePageUrl(node.id)}">Atidaryti</a></div>
+    <div class="graph-explorer-actions"><a href="${relativePageUrl(node.id)}">Atidaryti objektą</a><a href="${relativePageUrl(node.id).replace(/\/$/u, "")}/irodymai">Visi ${node.claimCount} teiginiai</a><a href="${relativePageUrl(node.id).replace(/\/$/u, "")}/rysiai">Visi ryšiai</a></div>
     ${relationBreakdown(node, graph, topology, state)}
     ${
       details?.topClaims?.length
-        ? `<h3>Teiginiai</h3><ol>${details.topClaims
-            .slice(0, 3)
+        ? `<h3>Atrinkti teiginiai</h3><ol>${details.topClaims
             .map((claim) => `<li>${escapeHtml(claim.text)}</li>`)
             .join("")}</ol>`
         : ""
@@ -1072,6 +1071,9 @@ async function setup(root: HTMLElement) {
     status.textContent = "Ruošiamas žemėlapis…"
     await ensureLayers()
     const graph = buildVisibleGraph(topology, allEdges, state, selectedSourceIds())
+    root.dataset.renderedNodes = String(graph.nodes.length)
+    root.dataset.renderedRelations = String(graph.edges.length)
+    root.dataset.directRelations = String(summarizeFocusedGraph(graph).directEdges)
     await layoutGraph(graph, worker)
     if (token !== renderToken) return
 

@@ -15,6 +15,20 @@ cssclasses:
 
 ## Publikacijos
 
+<a class="article-card article-card--valancius-imperija" href="/straipsniai/motiejus-valancius-ir-rusijos-imperija/">
+  <span class="article-card-kicker">Motiejaus Valančiaus ciklas · Redakcinė peržiūra</span>
+  <strong>Valančius ir Rusijos imperija</strong>
+  <span>Viešas lojalumas, 1863 metų laiškų redagavimas ir veikimas valdžios nustatytose ribose.</span>
+  <em>Skaityti straipsnį →</em>
+</a>
+
+<a class="article-card article-card--valancius-kasdienybe" href="/straipsniai/kaip-valancius-keite-kasdienybe/">
+  <span class="article-card-kicker">Motiejaus Valančiaus ciklas · Redakcinė peržiūra</span>
+  <strong>Kai kaimas atsisakė degtinės</strong>
+  <span>Karčema, dvaro pajamos ir blaivybės pažadas: ką Valančiaus sąjūdis pakeitė žmonių gyvenime?</span>
+  <em>Skaityti straipsnį →</em>
+</a>
+
 <a class="article-card article-card--vilnius" href="/straipsniai/viena-diena-xviii-a-vilniuje">
   <span class="article-card-kicker">XVIII a. Vilnius · Miesto kasdienybė</span>
   <strong>Viena diena XVIII a. Vilniuje</strong>

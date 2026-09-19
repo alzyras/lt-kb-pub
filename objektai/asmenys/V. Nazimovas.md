@@ -36,10 +36,27 @@ Nazimovas balandžio pabaigoje įsakė gen.
 
 ## Teiginiai
 
+<a id="claim-t-40489"></a>
+- t-001
+  teiginys: "Šiaurės Vakarų krašto generalgubernatorius V. Nazimovas balandžio pabaigoje įsakė I. Ganeckiui žygiuoti į Ukmergės apskritį ir sunaikinti sukilėlius."
+  atnaujinta: "2026-07-10 10:39"
+  sprendimo_priezastis: "auto"
+  ryšio_patikimumas: "susije_su -> Ukmergė: 0.85"
+  ryšio_patikimumo_lygis: "vidutinis"
+  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
+  ryšio_sprendimo_taisykle: "rule_plain_mention"
+  ryšio_subjekto_parinkimas: "V. Nazimovas: owner_note_path, person, gap=0"
+  ryšio_targeto_parinkimas: "Ukmergė: mention_match, place, gap=98"
+  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"V. Nazimovas\" parinktas kaip owner_note_path. Targetas \"Ukmergė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
+  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
+  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
+  pagrindžia:
+    - c-44550
+
 <a id="claim-t-208501"></a>
 - t-208501
   teiginys: "Motiejus Valančius rašte Vilniaus generalgubernatoriui V. Nazimovui įrodinėjo laikraščio būtinumą ir minėjo latvišką periodinę spaudą liaudžiai."
-  atnaujinta: "2026-09-13 15:29"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -52,7 +69,7 @@ Nazimovas balandžio pabaigoje įsakė gen.
 <a id="claim-t-208527"></a>
 - t-208527
   teiginys: "1860 m. rugsėjo 1 d. ministrų tarybos posėdyje generalgubernatorius V. Nazimovas siūlė Kauno gubernijos finansinę padėtį gerinti apmokestinant pagamintos, o ne parduotos degtinės kiekį."
-  atnaujinta: "2026-09-13 15:29"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -65,7 +82,7 @@ Nazimovas balandžio pabaigoje įsakė gen.
 <a id="claim-t-208528"></a>
 - t-208528
   teiginys: "1858 m. gruodžio 31 d. generalgubernatorius V. Nazimovas reikalavo, kad vyskupas Motiejus Valančius pasiteisintų dėl brošiūros „Apej brostwą blaiwistes arba nusiturieima“, konfiskavo 75 000 jos egzempliorių ir įsakė grąžinti dar 2 500."
-  atnaujinta: "2026-09-13 15:29"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -78,7 +95,7 @@ Nazimovas balandžio pabaigoje įsakė gen.
 <a id="claim-t-208529"></a>
 - t-208529
   teiginys: "1861 m. birželio 9 d. vyskupas Motiejus Valančius persiuntė V. Nazimovui Lietuvos valstiečių iš Kepalų dvaro prašymą, kuriame jie skundėsi užvaizdų žiaurumu, moterų bei dukterų niekinimu ir dragūnų vykdomu moterų bei mergaičių prievartavimu."
-  atnaujinta: "2026-09-13 15:29"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -91,7 +108,7 @@ Nazimovas balandžio pabaigoje įsakė gen.
 <a id="claim-t-209314"></a>
 - t-209314
   teiginys: "1860 m. pavasarį V. Nazimovas pareikalavo, kad vyskupas Motiejus Valančius pateiktų blaivybės judėjimo statistiką."
-  atnaujinta: "2026-09-13 15:29"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -107,7 +124,7 @@ Nazimovas balandžio pabaigoje įsakė gen.
 <a id="claim-t-209469"></a>
 - t-209469
   teiginys: "Beje, ir pirmasis Valančiaus laiškas dėl 1863 m. suki limo pradžios taip pat buvo atsakas į Vilniaus generalgubernatoriaus Vladimiro Nazimovo įsikišimą."
-  atnaujinta: "2026-09-13 15:29"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -118,23 +135,6 @@ Nazimovas balandžio pabaigoje įsakė gen.
   vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
   pagrindžia:
     - c-192089
-
-<a id="claim-t-40489"></a>
-- t-40489
-  teiginys: "Šiaurės Vakarų krašto generalgubernatorius V. Nazimovas balandžio pabaigoje įsakė I. Ganeckiui žygiuoti į Ukmergės apskritį ir sunaikinti sukilėlius."
-  atnaujinta: "2026-09-13 22:14"
-  sprendimo_priezastis: "auto"
-  ryšio_patikimumas: "susije_su -> Ukmergė: 0.85"
-  ryšio_patikimumo_lygis: "vidutinis"
-  ryšio_patikimumo_priezastys: "owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality"
-  ryšio_sprendimo_taisykle: "rule_plain_mention"
-  ryšio_subjekto_parinkimas: "V. Nazimovas: owner_note_path, person, gap=0"
-  ryšio_targeto_parinkimas: "Ukmergė: mention_match, place, gap=98"
-  ryšio_paaiskinimas: "Ryšys sukurtas taisykle \"rule_plain_mention\". Subjektas \"V. Nazimovas\" parinktas kaip owner_note_path. Targetas \"Ukmergė\" parinktas kaip mention_match aplink predikatą \"mention\". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality."
-  šaltinio_profilis: "žanras: kronika; perspektyva: kryziuociu_ordino; šališkumas: very_high; atribucija: required_for_interpretation; atribucijos vardas: Dusburgietis"
-  vertinimo_atnaujinta: "2026-06-14T07:59:12Z"
-  pagrindžia:
-    - c-44550
 
 ## Citatos
 
@@ -160,7 +160,7 @@ Nazimovas balandžio pabaigoje įsakė gen.
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-40489
+    - t-001
 
 - id: c-191121
   autorius: "Aleksandravičius, Egidijus"
@@ -182,7 +182,6 @@ Nazimovas balandžio pabaigoje įsakė gen.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -203,7 +202,6 @@ Nazimovas balandžio pabaigoje įsakė gen.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -226,7 +224,6 @@ Nazimovas balandžio pabaigoje įsakė gen.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -248,7 +245,6 @@ Nazimovas balandžio pabaigoje įsakė gen.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -296,7 +292,6 @@ Nazimovas balandžio pabaigoje įsakė gen.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -318,7 +313,6 @@ Nazimovas balandžio pabaigoje įsakė gen.
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

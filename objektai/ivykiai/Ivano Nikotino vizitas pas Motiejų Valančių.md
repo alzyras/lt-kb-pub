@@ -42,6 +42,20 @@ Nenurodyta
 ## Rezultatas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-209543"></a>
+- t-001
+  teiginys: "1863 m. rugpjūčio 24 d. pas Valančių atvyko M. Muravjovo pasiųstas ypatingų įpareigojimų valdininkas Ivanas Nikotinas."
+  atnaujinta: "2026-09-13 13:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
+  pagrindžia:
+    - c-192163
+
 ## Santrauka
 
 1863 m. rugpjūčio 24 d. pas Valančių atvyko M. Muravjovo pasiųstas ypatingų įpareigojimų valdininkas Ivanas Nikotinas.
@@ -60,26 +74,10 @@ Nenurodyta
     Nikotinas.
   citata_rodoma: "VIII. 24 pas Valančių atvyko M.Muravjovo pa­\nsiųstas ypatingų įpareigojimų valdininkas Ivanas \nNikotinas."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-209543"></a>
-- t-001
-  teiginys: "1863 m. rugpjūčio 24 d. pas Valančių atvyko M. Muravjovo pasiųstas ypatingų įpareigojimų valdininkas Ivanas Nikotinas."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
-  pagrindžia:
-    - c-192163
 

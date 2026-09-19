@@ -12,6 +12,7 @@ import {
 } from "./citationFilter"
 import { mediaImageUrl, type MediaEntry } from "./objectMedia"
 import { createUniqueSlugMap, type FilePath } from "./path"
+import { objectClaimHref, objectDetailEvidenceFromFile } from "./objectDetail"
 
 export type ExhibitionClaimRef = {
   claimId: `t-${number}`
@@ -64,6 +65,9 @@ export type ExhibitionSection = {
 }
 
 export type ExhibitionManifest = {
+  noindex?: boolean
+  seo_title?: string
+  relatedContent?: { title: string; href: string }[]
   exhibitionId: string
   slug: string
   legacySlugs?: string[]
@@ -101,6 +105,7 @@ type ExhibitionsSource = {
 }
 
 type ClaimRegistryEntry = {
+  filePath: string
   claim: EvidenceEntry
   citations: Map<string, EvidenceEntry>
   pageTitle: string
@@ -178,7 +183,7 @@ function loadClaimRegistry(): Map<string, ClaimRegistryEntry> {
       if (!claim.id.startsWith("t-")) continue
       const globalId = claim.fields.get("global_id")?.trim() || anchoredGlobalIds.get(claim.id)
       if (!globalId?.startsWith("t-") || registry.has(globalId)) continue
-      registry.set(globalId, { claim, citations, pageTitle, urlPath })
+      registry.set(globalId, { claim, citations, pageTitle, urlPath, filePath })
     }
   }
   return registry
@@ -230,7 +235,11 @@ function resolveClaim(
     text,
     quote,
     sourceTitle,
-    url: `${entry.urlPath}#claim-${ref.claimId}`,
+    url: objectClaimHref(
+      entry.urlPath.replace(/^\//, ""),
+      objectDetailEvidenceFromFile(entry.filePath),
+      ref.claimId,
+    ),
   }
 }
 
@@ -309,15 +318,27 @@ function resolveExhibition(
   return exhibition
 }
 
+const exhibitionSourcePaths = [
+  "quartz/static/exhibitionsSource.json",
+  "quartz/static/exhibitionSupplements.json",
+  "quartz/static/exhibitionStateSymbols.json",
+  "quartz/static/exhibitionAuthoritySeals.json",
+  "quartz/static/exhibitionValancius.json",
+]
+
+/** Cheap route discovery for Markdown transforms, without resolving the corpus. */
+export function loadExhibitionSlugs(): Set<string> {
+  return new Set(
+    exhibitionSourcePaths
+      .flatMap((path) => sourcePayload(resolve(process.cwd(), path)))
+      .flatMap((source) => [source.slug, ...(source.legacySlugs ?? [])]),
+  )
+}
+
 export function loadExhibitions(): ExhibitionManifest[] {
   const mediaById = loadMediaCatalog()
   const claimsById = loadClaimRegistry()
-  const sourcePaths = [
-    "quartz/static/exhibitionsSource.json",
-    "quartz/static/exhibitionSupplements.json",
-    "quartz/static/exhibitionStateSymbols.json",
-    "quartz/static/exhibitionAuthoritySeals.json",
-  ].map((path) => resolve(process.cwd(), path))
+  const sourcePaths = exhibitionSourcePaths.map((path) => resolve(process.cwd(), path))
   const exhibitions = sourcePaths
     .flatMap((path) => sourcePayload(path))
     .map((source) => resolveExhibition(source, mediaById, claimsById))
@@ -385,13 +406,8 @@ export function loadExhibitions(): ExhibitionManifest[] {
 /** Catalogue metadata needs no resolved claim bodies; those are checked on the exhibition page. */
 export function loadExhibitionCatalog() {
   const media = loadMediaCatalog()
-  return [
-    "exhibitionsSource.json",
-    "exhibitionSupplements.json",
-    "exhibitionStateSymbols.json",
-    "exhibitionAuthoritySeals.json",
-  ]
-    .flatMap((name) => sourcePayload(resolve("quartz/static", name)))
+  return exhibitionSourcePaths
+    .flatMap((name) => sourcePayload(resolve(process.cwd(), name)))
     .map((source) => ({
       slug: source.slug,
       title: source.title,

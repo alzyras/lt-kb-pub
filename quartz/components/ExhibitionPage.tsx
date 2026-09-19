@@ -20,6 +20,7 @@ import viewerStyle from "./styles/objectMediaGallery.scss"
 import { EditorialCatalog, editorialCatalogStyle } from "./EditorialCatalog"
 // @ts-ignore
 import script from "./scripts/exhibition.inline"
+import { RelatedContent } from "./ContentCycle"
 
 function parseManifest(value: unknown): ExhibitionManifest | undefined {
   try {
@@ -195,7 +196,15 @@ function Exhibit({
           alt={cleanText(media.caption) || item.titleLt}
           width={media.width || undefined}
           height={media.height || undefined}
-          loading={index < 6 ? "eager" : "lazy"}
+          loading={
+            exhibitionId.startsWith("valancius-")
+              ? index === 0
+                ? "eager"
+                : "lazy"
+              : index < 6
+                ? "eager"
+                : "lazy"
+          }
           decoding="async"
           sizes="(max-width: 800px) calc(100vw - 2rem), 58vw"
         />
@@ -326,6 +335,11 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
           <h1>{exhibition.title}</h1>
           <p class="exhibition-subtitle">{exhibition.subtitle}</p>
           <p class="exhibition-intro">{exhibition.description}</p>
+          {exhibition.exhibitionId.startsWith("valancius-") && (
+            <p class="exhibition-proof-note">
+              Parengė Lietuvos istorijos žinių lobynas · redakcinė peržiūra
+            </p>
+          )}
           <p class="exhibition-proof-note">
             Kiekvienas faktinis teiginys turi nuorodą į šaltinį. Vaizdo interpretacijos pažymėtos
             kaip parodos pasakojimas.
@@ -426,6 +440,17 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
           </section>
         )
       })}
+      {exhibition.relatedContent?.length ? (
+        <RelatedContent
+          links={exhibition.relatedContent}
+          currentSlug={exhibition.slug}
+          label={
+            exhibition.exhibitionId.startsWith("valancius-")
+              ? "Motiejaus Valančiaus ciklas"
+              : "Susiję kūriniai"
+          }
+        />
+      ) : null}
       <footer class="exhibition-footer">
         <a href="/parodos">
           <ArrowLeft size={16} /> Visos parodos

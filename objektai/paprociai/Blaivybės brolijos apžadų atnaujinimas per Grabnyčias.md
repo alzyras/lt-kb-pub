@@ -39,6 +39,21 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-208834"></a>
+- t-001
+  teiginys: "Per Grabnyčias, vasario 2 d., Blaivybės brolijos nariai turėjo atnaujinti blaivybės apžadą prieš Švč. M. Marijos altorių arba paveikslą."
+  atnaujinta: "2026-09-13 13:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
+  pagrindžia:
+    - c-191454
+
 ## Santrauka
 
 Per Grabnyčias, vasario 2 d., Blaivybės brolijos nariai turėjo atnaujinti blaivybės apžadą prieš Švč. M. Marijos altorių arba paveikslą.
@@ -64,25 +79,9 @@ Per Grabnyčias, vasario 2 d., Blaivybės brolijos nariai turėjo atnaujinti bla
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-208834"></a>
-- t-001
-  teiginys: "Per Grabnyčias, vasario 2 d., Blaivybės brolijos nariai turėjo atnaujinti blaivybės apžadą prieš Švč. M. Marijos altorių arba paveikslą."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
-  pagrindžia:
-    - c-191454
 

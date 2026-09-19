@@ -4,6 +4,7 @@ import { objectDetailEvidenceFromFile, type ObjectDetailEvidence } from "../util
 import {
   objectRelationGroups,
   objectRelationInputs,
+  PAGE_LINKS_GROUP_LABEL,
   type ObjectRelationGroup,
   type ObjectRelationTarget,
 } from "../util/objectRelations"
@@ -24,6 +25,7 @@ export type ObjectRelationGroupItem = {
   id: string
   label: string
   targets: ObjectRelationTarget[]
+  kind: "relation" | "page-links"
 }
 
 export function objectRelationGroupItems(
@@ -37,13 +39,23 @@ export function objectRelationGroupItems(
     id: `${index + 1}:${group.label}`,
     label: group.label,
     targets: group.targets,
+    kind: group.label === PAGE_LINKS_GROUP_LABEL ? "page-links" : "relation",
   }))
 }
 
 export function RelationGroupCard({ group }: { group: ObjectRelationGroupItem }) {
+  const pageLinks = group.kind === "page-links"
   return (
-    <article class="object-relation-group" data-relation-group-id={group.id}>
-      <h3 class="object-relation-group-predicate">{group.label.replace(/\s*\([^)]*\)/g, "")}:</h3>
+    <article
+      class={`object-relation-group${pageLinks ? " object-relation-page-links-group" : ""}`}
+      data-relation-group-id={group.id}
+      data-relation-group-kind={group.kind}
+    >
+      <div class="object-relation-group-heading">
+        <h3 class="object-relation-group-predicate">
+          {pageLinks ? "Puslapių nuorodos" : group.label.replace(/\s*\([^)]*\)/g, "")}:
+        </h3>
+      </div>
       <div class="object-relation-group-targets">
         {group.targets.map((target, index) => (
           <span class="object-relation-group-target">
@@ -164,7 +176,10 @@ ObjectRelationsPage.css = `${style}
 .object-relations-count { color: var(--gray); font-size: .9rem; }
 .object-relations-list { display: grid; gap: .35rem; }
 .object-relation-group { display: grid; grid-template-columns: minmax(13rem, .35fr) minmax(0, 1fr); gap: .35rem 1rem; align-items: baseline; padding: .85rem 1rem; border: 1px solid var(--object-rule); background: var(--object-wash); }
+.object-relation-group-heading { min-width: 0; }
+.object-relation-page-links-group { margin-top: 1.35rem; border-top: 3px solid var(--secondary); background: color-mix(in srgb, var(--secondary) 5%, var(--object-wash)); }
 .object-relation-group-predicate { margin: 0; color: var(--gray); font: 800 .76rem var(--codeFont); letter-spacing: .04em; text-transform: uppercase; }
+.object-relation-page-links-group .object-relation-group-predicate { color: var(--secondary); }
 .object-relation-group-targets { line-height: 1.55; }
 .object-relation-group-target a { font-weight: 800; }
 .object-relations-pagination { display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 1rem; margin-top: 1.4rem; }

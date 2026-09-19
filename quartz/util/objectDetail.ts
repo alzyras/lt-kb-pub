@@ -112,12 +112,16 @@ export function relationsFromMarkdown(
     // Some legacy authored pages use ordinary Markdown links in the
     // relations list.  Keep those local object links in the same projection
     // as wikilinks so a valid relation is not silently dropped.
-    for (const link of line.matchAll(/\]\((\/objektai\/[^)#]+)(?:#[^)]*)?\)/gu)) {
-      let target = link[1]
+    for (const link of line.matchAll(/\[([^\]]+)\]\((\/objektai\/[^)#]+)(?:#[^)]*)?\)/gu)) {
+      let target = link[2]
       try {
         target = decodeURIComponent(target)
       } catch {}
-      targets.push({ index: link.index ?? 0, target: target.replace(/^\//u, ""), display: "" })
+      targets.push({
+        index: link.index ?? 0,
+        target: target.replace(/^\//u, ""),
+        display: clean(link[1]),
+      })
     }
     if (targets.length === 0) continue
     targets.sort((left, right) => left.index - right.index)
@@ -270,7 +274,7 @@ export function objectEvidenceClaimItems(
 ): ObjectEvidenceClaimItem[] {
   const claimNumber = (id: string) => Number(id.match(/\d+/u)?.[0] ?? Number.MAX_SAFE_INTEGER)
   // Preserve a stable, comprehensible global-claim order (`t-001`, `t-002`, …)
-  // instead of the relevance ranking used for selecting overview cards. A
+  // instead of the relevance ranking used for selecting overview cards.
   // Missing citation links are shown explicitly by the card, not silently
   // removed from the complete claim stream.
   return [...evidence.claims]

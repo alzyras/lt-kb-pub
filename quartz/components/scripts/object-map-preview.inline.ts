@@ -146,8 +146,6 @@ import { objectMapPreviewNeighbours } from "../../util/objectMapPreview"
     return styles.getPropertyValue(property).trim() || fallback
   }
 
-  const objectMapPreviewMinConfidence = 0.5
-
   function objectMapTopologyIndex(
     topology: NonNullable<ObjectMapPreviewRuntime["loadGraphTopology"]> extends () => Promise<
       infer T
@@ -170,7 +168,7 @@ import { objectMapPreviewNeighbours } from "../../util/objectMapPreview"
     const links: ObjectMapPreviewLink[] = []
     for (const edge of topology.edges ?? []) {
       const relation = topology.relationKinds?.[edge.kind]
-      if (!relation?.defaultOn || Number(edge.confidence) < objectMapPreviewMinConfidence) continue
+      if (relation?.defaultOn === false) continue
       const targetSlug =
         edge.from === focus.slug ? edge.to : edge.to === focus.slug ? edge.from : ""
       if (!targetSlug || !objectMapPreviewAllowed(targetSlug)) continue
@@ -235,12 +233,14 @@ import { objectMapPreviewNeighbours } from "../../util/objectMapPreview"
       focus?: ObjectMapPreviewNode
       neighbours?: ObjectMapPreviewLink[]
       neighbourCount?: number
+      relationCount?: number
     }
     if (!shard.focus?.slug) throw new Error("Object graph shard is missing its focus node")
     const focus = {
       ...shard.focus,
       links: shard.neighbours ?? [],
       totalNeighbourCount: Number(shard.neighbourCount ?? 0),
+      totalRelationCount: Number(shard.relationCount ?? shard.neighbours?.length ?? 0),
     }
     const index: Record<string, ObjectMapPreviewNode> = { [String(focus.slug)]: focus }
     for (const link of focus.links ?? []) {
@@ -435,12 +435,8 @@ import { objectMapPreviewNeighbours } from "../../util/objectMapPreview"
       const target = nodeById.get(targetSlug)
       if (!source || !target) return
       const evidenceCount = Math.max(0, Number(link.evidenceCount) || 0)
-      const confidence = Math.max(0, Math.min(1, Number(link.confidence) || 0.34))
-      if (
-        link.defaultOn === false ||
-        (link.defaultOn !== true && confidence < objectMapPreviewMinConfidence)
-      )
-        return
+      const confidence = Math.max(0, Math.min(1, Number(link.confidence ?? 0.34)))
+      if (link.defaultOn === false) return
       links.push({
         source,
         target,

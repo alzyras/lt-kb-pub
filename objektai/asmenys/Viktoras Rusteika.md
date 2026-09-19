@@ -35,6 +35,20 @@ Valančius pasiuntė Obelių dekaną ir Rokiškio kleboną Viktorą Rusteiką i�
 
 Valančius pasiuntė Obelių dekaną ir Rokiškio kleboną Viktorą Rusteiką ištirti padėties Skapiškyje.
 
+## Teiginiai
+
+<a id="claim-t-209575"></a>
+- t-001
+  teiginys: "Valančius pasiuntė Obelių dekaną ir Rokiškio kleboną Viktorą Rusteiką ištirti padėties Skapiškyje."
+  atnaujinta: "2026-09-13 13:26"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
+  pagrindžia:
+    - c-192195
+
 ## Citatos
 
 - id: c-192195
@@ -51,24 +65,9 @@ Valančius pasiuntė Obelių dekaną ir Rokiškio kleboną Viktorą Rusteiką i�
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-209575"></a>
-- t-001
-  teiginys: "Valančius pasiuntė Obelių dekaną ir Rokiškio kleboną Viktorą Rusteiką ištirti padėties Skapiškyje."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
-  pagrindžia:
-    - c-192195
 

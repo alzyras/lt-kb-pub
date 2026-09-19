@@ -43,6 +43,23 @@ V. Nazimovas 1859 m. pabaigoje vidaus reikalų ministrui išdėstė nuomonę, ka
 
 V. Nazimovas 1859 m. pabaigoje vidaus reikalų ministrui išdėstė nuomonę, kad blaivybės plėtra turėtų skatinti ieškoti kitų pajamų šaltinių, neparemtų liaudies silpninimu ir tvirkinimu.
 
+## Teiginiai
+
+<a id="claim-t-209281"></a>
+- t-001
+  teiginys: "V. Nazimovas 1859 m. pabaigoje vidaus reikalų ministrui išdėstė nuomonę, kad blaivybės plėtra turėtų skatinti ieškoti kitų pajamų šaltinių, neparemtų liaudies silpninimu ir tvirkinimu."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  temporaliniai_duomenys: "įvykio data: 1859 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškiai įvardija V. Nazimovą, datą, adresatą ir jo nuomonės turinį. Vertinamoji formuluotė palikta kaip autoriaus nuomonė."
+  pagrindžia:
+    - c-191995
+
 ## Citatos
 
 - id: c-191995
@@ -62,27 +79,8 @@ V. Nazimovas 1859 m. pabaigoje vidaus reikalų ministrui išdėstė nuomonę, ka
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
-
-## Teiginiai
-
-<a id="claim-t-209281"></a>
-- t-001
-  teiginys: "V. Nazimovas 1859 m. pabaigoje vidaus reikalų ministrui išdėstė nuomonę, kad blaivybės plėtra turėtų skatinti ieškoti kitų pajamų šaltinių, neparemtų liaudies silpninimu ir tvirkinimu."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  temporaliniai_duomenys: "įvykio data: 1859 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas, aiškiai įvardija V. Nazimovą, datą, adresatą ir jo nuomonės turinį. Vertinamoji formuluotė palikta kaip autoriaus nuomonė."
-  pagrindžia:
-    - c-191995
-

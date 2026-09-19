@@ -39,6 +39,21 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-208829"></a>
+- t-001
+  teiginys: "Sužinojęs, kad vieša atgaila praktikuojama Rietavo bažnyčioje, vyskupas Motiejus Valančius 1855 m. sausio 8 d. raštu Nr. 34 Rietavo klebonui įsakė neskirti viešų atgailų."
+  atnaujinta: "2026-09-13 13:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
+  pagrindžia:
+    - c-191449
+
 ## Santrauka
 
 Kai kuriose bažnyčiose buvo praktikuojama vieša atgaila. Sužinojęs, kad vieša atgaila praktikuojama Rietavo bažnyčioje, vyskupas Motiejus Valančius 1855 m. sausio 8 d. raštu Nr. 34 Rietavo klebonui įsakė neskirti viešų atgailų.
@@ -59,14 +74,11 @@ Kai kuriose bažnyčiose buvo praktikuojama vieša atgaila. Sužinojęs, kad vie
     paslaptimi, vyskupas uždraudė.
   citata_rodoma: "Anuo metu kai kuriose bažnyčiose buvo praktikuoja­\nma vieša atgaila. Šį paprotį, nesuderinamą su išpažinties \npaslaptimi, vyskupas uždraudė."
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 - id: c-191449
   autorius: "Puzaras, Petras"
@@ -81,39 +93,10 @@ Kai kuriose bažnyčiose buvo praktikuojama vieša atgaila. Sužinojęs, kad vie
     509 Gruzdžių klebonui vysk. rašė, kad klebonai viešų
     atgailų neturį teisės skirti6 7.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
-## Teiginiai
-
-<a id="claim-t-208828"></a>
-- t-001
-  teiginys: "Kai kuriose bažnyčiose buvo praktikuojama vieša atgaila."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  pagrindžia:
-    - c-191448
-
-<a id="claim-t-208829"></a>
-- t-002
-  teiginys: "Sužinojęs, kad vieša atgaila praktikuojama Rietavo bažnyčioje, vyskupas Motiejus Valančius 1855 m. sausio 8 d. raštu Nr. 34 Rietavo klebonui įsakė neskirti viešų atgailų."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
-  pagrindžia:
-    - c-191449
+    - t-001
 

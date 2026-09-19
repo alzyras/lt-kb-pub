@@ -50,6 +50,54 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
 
 ## Teiginiai
 
+<a id="claim-t-193688"></a>
+- t-001
+  teiginys: "Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo europietiškos katalikiškos civilizacijos šalininkas."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-176357
+
+<a id="claim-t-193689"></a>
+- t-002
+  teiginys: "Valančius niekur nepasisakė prieš caro valdžią, pagarbiai bendravo su jos atstovais, tačiau kietai ir atkakliai gynė Katalikų bažnyčios interesus."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-176358
+
+<a id="claim-t-193690"></a>
+- t-003
+  teiginys: "Valančiaus pastangomis buvo įdiegta nuostata mokytis skaityti ir rašyti gimtąja kalba."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-176359
+
+<a id="claim-t-193691"></a>
+- t-004
+  teiginys: "Valančius, perpratęs valdžios kėslus, per kunigus paskleidė mintį, kad skaityti tokias valdžios brukamas knygas katalikui yra nuodėmė."
+  atnaujinta: "2026-07-06 12:55"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  pagrindžia:
+    - c-176360
+
 <a id="claim-t-200891"></a>
 - t-005
   teiginys: "1849 m. Žemaičių vyskupu paskirtas Motiejus Valančius Kauno vyskupystėje rado lenkų kalbą vyraujant bažnyčių pamoksluose ir giesmėse."
@@ -73,587 +121,10 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   pagrindžia:
     - c-184234
 
-<a id="claim-t-208475"></a>
-- t-208475
-  teiginys: "Valančius turėjo daug mažiau kunigų negu jų reikėjo."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
-  pagrindžia:
-    - c-191095
-
-<a id="claim-t-208476"></a>
-- t-208476
-  teiginys: "Motiejus Valančius pradėjo valdyti vyskupiją dar baudžiavos laikais."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191096
-
-<a id="claim-t-208477"></a>
-- t-208477
-  teiginys: "Petras Puzaras rašo, kad vyskupas M. Valančius negalėjo pataikauti turtingiesiems, nes regėjo jų neteisingumą ir ištvirkimą."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191097
-
-<a id="claim-t-208478"></a>
-- t-208478
-  teiginys: "Petras Puzaras daro išvadą, kad vyskupas M. Valančius, matyt, buvo įtakingas pamokslininkas."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191098
-
-<a id="claim-t-208479"></a>
-- t-208479
-  teiginys: "Petras Puzaras teigia, kad vyskupas M. Valančius, atsižvelgdamas į menką tikinčiųjų religinį sąmoningumą, labiau vertino katekizmo aiškinimą nei pamokslus."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191099
-
-<a id="claim-t-208480"></a>
-- t-208480
-  teiginys: "Dėl civilinės valdžios reikalavimų Motiejus Valančius pateikė lenkiškų pamokslų cenzorių sąrašą, o lietuviškų pamokslų knygą parengti pavedė Otonui Praniauskui."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191100
-
-<a id="claim-t-208481"></a>
-- t-208481
-  teiginys: "Matydamas prastą vyskupijos bažnyčių būklę, Motiejus Valančius organizavo naujų bažnyčių statybą ir pats vadovavo šiam darbui."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191101
-
-<a id="claim-t-208482"></a>
-- t-208482
-  teiginys: "Motiejus Valančius rūpinosi bažnyčių statyba ir Kuršo gubernijoje."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
-  pagrindžia:
-    - c-191102
-
-<a id="claim-t-208483"></a>
-- t-208483
-  teiginys: "I. Holovinskio patariamas, Motiejus Valančius nuosekliai rinko ir rėmė jaunąją kunigų kartą, daugiausia buvusius savo mokinius."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191103
-
-<a id="claim-t-208484"></a>
-- t-208484
-  teiginys: "Motiejus Valančius rūpinosi, kad vyskupija turėtų savo architektą."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191104
-
-<a id="claim-t-208485"></a>
-- t-208485
-  teiginys: "Motiejus Valančius ragino statyti tik mūrines bažnyčias."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191105
-
-<a id="claim-t-208486"></a>
-- t-208486
-  teiginys: "Motiejaus Valančiaus rūpesčiu Žemaičių vyskupijoje buvo pastatytos 49 naujos bažnyčios."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191106
-
-<a id="claim-t-208487"></a>
-- t-208487
-  teiginys: "Motiejus Valančius iki mirties gynė Bažnyčios liturginius nuostatus."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191107
-
-<a id="claim-t-208489"></a>
-- t-208489
-  teiginys: "Motiejus Valančius reikalavo, kad jam pavaldūs kunigai būtų stropūs ir geri nuodėmklausiai, todėl įpareigojo dekanus per metines vizitacijas juos egzaminuoti apie rezervuotas nuodėmes."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191109
-
-<a id="claim-t-208490"></a>
-- t-208490
-  teiginys: "Motiejus Valančius ypač stropiai lankė parapijas."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191110
-
-<a id="claim-t-208491"></a>
-- t-208491
-  teiginys: "Savo dienoraščio pastabose Motiejus Valančius aprašė pirmuosius blaivybės brolijų žingsnius Žemaičių vyskupystėje ir nuo 1856 m. domėjosi jų veikla Lenkijos Karalystėje."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  temporaliniai_duomenys: "įvykio data: po 1856 m.; įvykio data: 1856 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Aiškiai nurodyti dienoraštis, aprašytas procesas ir domėjimosi laikotarpis. OCR klaidos pašalintos, o šaltinio teiginys nepapildytas."
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191111
-
-<a id="claim-t-208492"></a>
-- t-208492
-  teiginys: "1864 m. dėl caro valdžios draudimo lankyti parapijas Motiejus Valančius aplankė tik Kauną, Nemakščius, Raseinius, Girkalnį ir Čekiškę."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  temporaliniai_duomenys: "įvykio data: 1864 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Išskleistas žodis „tais“ konkrečia data ir sutvarkyti vietovardžiai. Išlaikytas valdžios draudimo kontekstas."
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191112
-
-<a id="claim-t-208494"></a>
-- t-208494
-  teiginys: "Motiejus Valančius iškovojo leidimą į seminariją priimti progimnaziją, t. y. keturias gimnazijos klases, baigusius asmenis."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191114
-
-<a id="claim-t-208495"></a>
-- t-208495
-  teiginys: "Organizuodamas kunigų švietimą, Motiejus Valančius daug dėmesio skyrė ir jų dvasiniam gyvenimui."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191115
-
-<a id="claim-t-208496"></a>
-- t-208496
-  teiginys: "Motiejus Valančius rūpinosi, kad kunigai atliktų metines rekolekcijas."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  pagrindžia:
-    - c-191116
-
-<a id="claim-t-208497"></a>
-- t-208497
-  teiginys: "1864 m. rugsėjo 14 d. aplinkraščiu Motiejus Valančius nurodė kunigams atlikti rekolekcijas ir tais atvejais, kai dėl valdžios draudimo jie negalėjo į jas susirinkti."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191117
-
-<a id="claim-t-208499"></a>
-- t-208499
-  teiginys: "Valančius susirūpino kunigų invalidų likimu."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  pagrindžia:
-    - c-191119
-
-<a id="claim-t-208500"></a>
-- t-208500
-  teiginys: "Vyskupas Motiejus Valančius vienoje knygoje atpasakoja 67 svarbiausius Senojo Testamento istorijos įvykius."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191120
-
-<a id="claim-t-208502"></a>
-- t-208502
-  teiginys: "Antrojoje knygos „Žiwataj Szwęntuju“ dalyje vyskupas Motiejus Valančius aprašo 68 šventųjų gyvenimus."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191122
-
-<a id="claim-t-208503"></a>
-- t-208503
-  teiginys: "Vysk. M. Valančius pats rašė religinio turinio knygas ir skatino kunigus jas kurti."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  pagrindžia:
-    - c-191123
-
-<a id="claim-t-208504"></a>
-- t-208504
-  teiginys: "Motiejus Valančius suorganizavo slaptą katalikiškos lietuviškos literatūros leidimą Prūsijoje ir jos gabenimą į Lietuvą, taip pradėdamas knygnešystę."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191124
-
-<a id="claim-t-208505"></a>
-- t-208505
-  teiginys: "Petras Puzaras Valančių vaizduoja kaip negalėjusį abejingai žiūrėti į geriančius savo ganomuosius ir dėl to suorganizavusį visą vyskupiją apimančią blaivybės akciją."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191125
-
-<a id="claim-t-208506"></a>
-- t-208506
-  teiginys: "Grįždamas iš Kauno, vyskupas Motiejus Valančius aplankė Skirsnemunę ir Jurbarką, kur skatino blaivybę."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191126
-
-<a id="claim-t-208507"></a>
-- t-208507
-  teiginys: "Valančiui vadovaujant blaivybės sąjūdis greitai apėmė visą vyskupiją."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  pagrindžia:
-    - c-191127
-
-<a id="claim-t-208508"></a>
-- t-208508
-  teiginys: "Valančius parašė 13 pastoracinių blaivybės laiškų."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  pagrindžia:
-    - c-191128
-
-<a id="claim-t-208509"></a>
-- t-208509
-  teiginys: "1862 m. gruodžio 14 d. vyskupas Motiejus Valančius parašė antrąjį blaivybės laišką dvarininkams."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191129
-
-<a id="claim-t-208511"></a>
-- t-208511
-  teiginys: "Motiejus Valančius, esant galimybei, blaivybės reikalu prašydavo pagalbos ir iš oficialių valdžios pareigūnų."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191131
-
-<a id="claim-t-208512"></a>
-- t-208512
-  teiginys: "Motiejus Valančius draudė naudoti prievartą blaivybei skleisti ir dėl to išsiuntė kunigams du aplinkraščius."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191132
-
-<a id="claim-t-208514"></a>
-- t-208514
-  teiginys: "Kai civilinės valdžios įstaigos užstodavo piktintoją, vyskupas M. Valančius kreipdavosi į aukštesnę valdžią."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191134
-
-<a id="claim-t-208515"></a>
-- t-208515
-  teiginys: "Petras Puzaras pabrėžia, kad vyskupas M. Valančius ypatingą dėmesį skyrė mergaičių doriniam auklėjimui."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191135
-
-<a id="claim-t-208516"></a>
-- t-208516
-  teiginys: "Valančius savo namuose turėdavo maišus miltų, kuriuos dalydavo neturtingiesiems."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  pagrindžia:
-    - c-191136
-
-<a id="claim-t-208518"></a>
-- t-208518
-  teiginys: "Susitikęs su vaikais, vyskupas Motiejus Valančius mokė juos darbštumo, švaros ir pamaldumo."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191138
-
-<a id="claim-t-208519"></a>
-- t-208519
-  teiginys: "Valančius ypač rūpinosi našlaičiais."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  pagrindžia:
-    - c-191139
-
-<a id="claim-t-209258"></a>
-- t-209258
-  teiginys: "1860 m. rudenį Motiejus Valančius dalyvavo Vilniuje surengtame Aleksandro II iškilmingame priėmime."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  temporaliniai_duomenys: "įvykio data: 1860 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Inicialas pakeistas pilnu vardu, o vieta įtraukta į aiškesnę sakinio struktūrą. Išlaikytas šaltinyje nurodytas dalyvavimas priėmime."
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191972
-
-<a id="claim-t-209264"></a>
-- t-209264
-  teiginys: "XIX a. viduryje Motiejus Valančius buvo blaivybės brolijų organizatorius."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
-  pagrindžia:
-    - c-191926
-
-<a id="claim-t-209266"></a>
-- t-209266
-  teiginys: "1860 m. Rusijos vyriausybė atmetė finansų ministro A. Kniaževičiaus pasiūlymą iškelti iš diecezijos blaivybės judėjimo organizatorių vyskupą Motiejų Valančių."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  temporaliniai_duomenys: "įvykio data: 1860 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys susietas su konkrečiu 1860 m. sprendimu ir Valančiaus vaidmeniu. Išlaikyta šaltinyje pateikta vyriausybės pozicija, jos neperfrazuojant kaip platesnio vertinimo."
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191877
-
-<a id="claim-t-209324"></a>
-- t-209324
-  teiginys: "Vizitacijos metu vyskupas Motiejus Valančius aplankė rytines ir centrines Žemaičių vyskupystės parapijas ir į knygas įrašė prisiekusius nebegerti degtinės žmones."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191958
-
-<a id="claim-t-209337"></a>
-- t-209337
-  teiginys: "Motiejaus Valančiaus veiklumas blaivybės labui Žemaičių vyskupijoje, autoriaus cituojamu vertinimu, išplėtė judėjimo ribas ir pritraukė milijoninę minią."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191897
-
-<a id="claim-t-209369"></a>
-- t-209369
-  teiginys: "Istoriografijoje blaivybės judėjimas, Motiejaus Valančiaus akcija Žemaičių vyskupijoje ir blaivybės brolijos nebuvo laikomi labiau apleistomis temomis."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
-  pagrindžia:
-    - c-191884
-
 <a id="claim-t-209383"></a>
-- t-209383
+- t-006
   teiginys: "Motiejus Valančius rašte Vilniaus generalgubernatoriui V. Nazimovui įrodinėjo laikraščio būtinumą ir minėjo latvišką periodinę spaudą liaudžiai."
-  atnaujinta: "2026-09-13 15:29"
+  atnaujinta: "2026-09-13 13:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -664,9 +135,9 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
     - c-192050
 
 <a id="claim-t-209423"></a>
-- t-209423
+- t-007
   teiginys: "1860 m. pavasarį Vilniaus generalgubernatorius V. Nazimovas pareikalavo, kad vyskupas Motiejus Valančius pateiktų blaivybės judėjimo statistiką."
-  atnaujinta: "2026-09-13 15:29"
+  atnaujinta: "2026-09-13 13:24"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -679,10 +150,599 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   pagrindžia:
     - c-192039
 
+<a id="claim-t-209465"></a>
+- t-008
+  teiginys: "1863-09-06 Valančius išsiuntė galutinį laiško tekstą lietuvių kalba ir jo vertimą į rusų kalbą, patvirtintą J. Dovydaičio."
+  atnaujinta: "2026-09-13 13:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
+  pagrindžia:
+    - c-192085
+
+<a id="claim-t-208492"></a>
+- t-208492
+  teiginys: "1864 m. dėl caro valdžios draudimo lankyti parapijas Motiejus Valančius aplankė tik Kauną, Nemakščius, Raseinius, Girkalnį ir Čekiškę."
+  atnaujinta: "2026-09-13 13:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  temporaliniai_duomenys: "įvykio data: 1864 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Išskleistas žodis „tais“ konkrečia data ir sutvarkyti vietovardžiai. Išlaikytas valdžios draudimo kontekstas."
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191112
+
+<a id="claim-t-208497"></a>
+- t-208497
+  teiginys: "1864 m. rugsėjo 14 d. aplinkraščiu Motiejus Valančius nurodė kunigams atlikti rekolekcijas ir tais atvejais, kai dėl valdžios draudimo jie negalėjo į jas susirinkti."
+  atnaujinta: "2026-09-13 13:22"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191117
+
+<a id="claim-t-208512"></a>
+- t-208512
+  teiginys: "Motiejus Valančius draudė naudoti prievartą blaivybei skleisti ir dėl to išsiuntė kunigams du aplinkraščius."
+  atnaujinta: "2026-09-13 13:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191132
+
+<a id="claim-t-209258"></a>
+- t-209258
+  teiginys: "1860 m. rudenį Motiejus Valančius dalyvavo Vilniuje surengtame Aleksandro II iškilmingame priėmime."
+  atnaujinta: "2026-09-13 13:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  temporaliniai_duomenys: "įvykio data: 1860 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Inicialas pakeistas pilnu vardu, o vieta įtraukta į aiškesnę sakinio struktūrą. Išlaikytas šaltinyje nurodytas dalyvavimas priėmime."
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191972
+
+<a id="claim-t-209266"></a>
+- t-209266
+  teiginys: "1860 m. Rusijos vyriausybė atmetė finansų ministro A. Kniaževičiaus pasiūlymą iškelti iš diecezijos blaivybės judėjimo organizatorių vyskupą Motiejų Valančių."
+  atnaujinta: "2026-09-13 13:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  temporaliniai_duomenys: "įvykio data: 1860 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys susietas su konkrečiu 1860 m. sprendimu ir Valančiaus vaidmeniu. Išlaikyta šaltinyje pateikta vyriausybės pozicija, jos neperfrazuojant kaip platesnio vertinimo."
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191877
+
+<a id="claim-t-208475"></a>
+- t-208475
+  teiginys: "Valančius turėjo daug mažiau kunigų negu jų reikėjo."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
+  pagrindžia:
+    - c-191095
+
+<a id="claim-t-208476"></a>
+- t-208476
+  teiginys: "Motiejus Valančius pradėjo valdyti vyskupiją dar baudžiavos laikais."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191096
+
+<a id="claim-t-208477"></a>
+- t-208477
+  teiginys: "Petras Puzaras rašo, kad vyskupas M. Valančius negalėjo pataikauti turtingiesiems, nes regėjo jų neteisingumą ir ištvirkimą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191097
+
+<a id="claim-t-208478"></a>
+- t-208478
+  teiginys: "Petras Puzaras daro išvadą, kad vyskupas M. Valančius, matyt, buvo įtakingas pamokslininkas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191098
+
+<a id="claim-t-208479"></a>
+- t-208479
+  teiginys: "Petras Puzaras teigia, kad vyskupas M. Valančius, atsižvelgdamas į menką tikinčiųjų religinį sąmoningumą, labiau vertino katekizmo aiškinimą nei pamokslus."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191099
+
+<a id="claim-t-208480"></a>
+- t-208480
+  teiginys: "Dėl civilinės valdžios reikalavimų Motiejus Valančius pateikė lenkiškų pamokslų cenzorių sąrašą, o lietuviškų pamokslų knygą parengti pavedė Otonui Praniauskui."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191100
+
+<a id="claim-t-208481"></a>
+- t-208481
+  teiginys: "Matydamas prastą vyskupijos bažnyčių būklę, Motiejus Valančius organizavo naujų bažnyčių statybą ir pats vadovavo šiam darbui."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191101
+
+<a id="claim-t-208482"></a>
+- t-208482
+  teiginys: "Motiejus Valančius rūpinosi bažnyčių statyba ir Kuršo gubernijoje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
+  pagrindžia:
+    - c-191102
+
+<a id="claim-t-208483"></a>
+- t-208483
+  teiginys: "I. Holovinskio patariamas, Motiejus Valančius nuosekliai rinko ir rėmė jaunąją kunigų kartą, daugiausia buvusius savo mokinius."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191103
+
+<a id="claim-t-208484"></a>
+- t-208484
+  teiginys: "Motiejus Valančius rūpinosi, kad vyskupija turėtų savo architektą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191104
+
+<a id="claim-t-208485"></a>
+- t-208485
+  teiginys: "Motiejus Valančius ragino statyti tik mūrines bažnyčias."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191105
+
+<a id="claim-t-208486"></a>
+- t-208486
+  teiginys: "Motiejaus Valančiaus rūpesčiu Žemaičių vyskupijoje buvo pastatytos 49 naujos bažnyčios."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191106
+
+<a id="claim-t-208487"></a>
+- t-208487
+  teiginys: "Motiejus Valančius iki mirties gynė Bažnyčios liturginius nuostatus."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191107
+
+<a id="claim-t-208489"></a>
+- t-208489
+  teiginys: "Motiejus Valančius reikalavo, kad jam pavaldūs kunigai būtų stropūs ir geri nuodėmklausiai, todėl įpareigojo dekanus per metines vizitacijas juos egzaminuoti apie rezervuotas nuodėmes."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191109
+
+<a id="claim-t-208490"></a>
+- t-208490
+  teiginys: "Motiejus Valančius ypač stropiai lankė parapijas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191110
+
+<a id="claim-t-208491"></a>
+- t-208491
+  teiginys: "Savo dienoraščio pastabose Motiejus Valančius aprašė pirmuosius blaivybės brolijų žingsnius Žemaičių vyskupystėje ir nuo 1856 m. domėjosi jų veikla Lenkijos Karalystėje."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  temporaliniai_duomenys: "įvykio data: po 1856 m.; įvykio data: 1856 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Aiškiai nurodyti dienoraštis, aprašytas procesas ir domėjimosi laikotarpis. OCR klaidos pašalintos, o šaltinio teiginys nepapildytas."
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191111
+
+<a id="claim-t-208494"></a>
+- t-208494
+  teiginys: "Motiejus Valančius iškovojo leidimą į seminariją priimti progimnaziją, t. y. keturias gimnazijos klases, baigusius asmenis."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191114
+
+<a id="claim-t-208495"></a>
+- t-208495
+  teiginys: "Organizuodamas kunigų švietimą, Motiejus Valančius daug dėmesio skyrė ir jų dvasiniam gyvenimui."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191115
+
+<a id="claim-t-208496"></a>
+- t-208496
+  teiginys: "Motiejus Valančius rūpinosi, kad kunigai atliktų metines rekolekcijas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  pagrindžia:
+    - c-191116
+
+<a id="claim-t-208499"></a>
+- t-208499
+  teiginys: "Valančius susirūpino kunigų invalidų likimu."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  pagrindžia:
+    - c-191119
+
+<a id="claim-t-208500"></a>
+- t-208500
+  teiginys: "Vyskupas Motiejus Valančius vienoje knygoje atpasakoja 67 svarbiausius Senojo Testamento istorijos įvykius."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191120
+
+<a id="claim-t-208502"></a>
+- t-208502
+  teiginys: "Antrojoje knygos „Žiwataj Szwęntuju“ dalyje vyskupas Motiejus Valančius aprašo 68 šventųjų gyvenimus."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191122
+
+<a id="claim-t-208503"></a>
+- t-208503
+  teiginys: "Vysk. M. Valančius pats rašė religinio turinio knygas ir skatino kunigus jas kurti."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  pagrindžia:
+    - c-191123
+
+<a id="claim-t-208504"></a>
+- t-208504
+  teiginys: "Motiejus Valančius suorganizavo slaptą katalikiškos lietuviškos literatūros leidimą Prūsijoje ir jos gabenimą į Lietuvą, taip pradėdamas knygnešystę."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191124
+
+<a id="claim-t-208505"></a>
+- t-208505
+  teiginys: "Petras Puzaras Valančių vaizduoja kaip negalėjusį abejingai žiūrėti į geriančius savo ganomuosius ir dėl to suorganizavusį visą vyskupiją apimančią blaivybės akciją."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191125
+
+<a id="claim-t-208506"></a>
+- t-208506
+  teiginys: "Grįždamas iš Kauno, vyskupas Motiejus Valančius aplankė Skirsnemunę ir Jurbarką, kur skatino blaivybę."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191126
+
+<a id="claim-t-208507"></a>
+- t-208507
+  teiginys: "Valančiui vadovaujant blaivybės sąjūdis greitai apėmė visą vyskupiją."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  pagrindžia:
+    - c-191127
+
+<a id="claim-t-208508"></a>
+- t-208508
+  teiginys: "Valančius parašė 13 pastoracinių blaivybės laiškų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  pagrindžia:
+    - c-191128
+
+<a id="claim-t-208509"></a>
+- t-208509
+  teiginys: "1862 m. gruodžio 14 d. vyskupas Motiejus Valančius parašė antrąjį blaivybės laišką dvarininkams."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191129
+
+<a id="claim-t-208511"></a>
+- t-208511
+  teiginys: "Motiejus Valančius, esant galimybei, blaivybės reikalu prašydavo pagalbos ir iš oficialių valdžios pareigūnų."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191131
+
+<a id="claim-t-208514"></a>
+- t-208514
+  teiginys: "Kai civilinės valdžios įstaigos užstodavo piktintoją, vyskupas M. Valančius kreipdavosi į aukštesnę valdžią."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191134
+
+<a id="claim-t-208515"></a>
+- t-208515
+  teiginys: "Petras Puzaras pabrėžia, kad vyskupas M. Valančius ypatingą dėmesį skyrė mergaičių doriniam auklėjimui."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191135
+
+<a id="claim-t-208516"></a>
+- t-208516
+  teiginys: "Valančius savo namuose turėdavo maišus miltų, kuriuos dalydavo neturtingiesiems."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  pagrindžia:
+    - c-191136
+
+<a id="claim-t-208518"></a>
+- t-208518
+  teiginys: "Susitikęs su vaikais, vyskupas Motiejus Valančius mokė juos darbštumo, švaros ir pamaldumo."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191138
+
+<a id="claim-t-208519"></a>
+- t-208519
+  teiginys: "Valančius ypač rūpinosi našlaičiais."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  pagrindžia:
+    - c-191139
+
+<a id="claim-t-209264"></a>
+- t-209264
+  teiginys: "XIX a. viduryje Motiejus Valančius buvo blaivybės brolijų organizatorius."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
+  pagrindžia:
+    - c-191926
+
+<a id="claim-t-209324"></a>
+- t-209324
+  teiginys: "Vizitacijos metu vyskupas Motiejus Valančius aplankė rytines ir centrines Žemaičių vyskupystės parapijas ir į knygas įrašė prisiekusius nebegerti degtinės žmones."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191958
+
+<a id="claim-t-209337"></a>
+- t-209337
+  teiginys: "Motiejaus Valančiaus veiklumas blaivybės labui Žemaičių vyskupijoje, autoriaus cituojamu vertinimu, išplėtė judėjimo ribas ir pritraukė milijoninę minią."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191897
+
+<a id="claim-t-209369"></a>
+- t-209369
+  teiginys: "Istoriografijoje blaivybės judėjimas, Motiejaus Valančiaus akcija Žemaičių vyskupijoje ir blaivybės brolijos nebuvo laikomi labiau apleistomis temomis."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
+  pagrindžia:
+    - c-191884
+
 <a id="claim-t-209461"></a>
 - t-209461
   teiginys: "Lietuviškus ganytojiškus laiškus jis pasirašinėjo „Motiejus Wiskupas“."
-  atnaujinta: "2026-09-13 15:29"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -695,7 +755,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
 <a id="claim-t-209462"></a>
 - t-209462
   teiginys: "Valančius gavo popiežiaus bulę dėl paskyrimo Žemaičių vyskupu ir rengė specialų ganytojišką laišką katalikams."
-  atnaujinta: "2026-09-13 15:29"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -708,7 +768,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
 <a id="claim-t-209463"></a>
 - t-209463
   teiginys: "Valančius peradresavo ganytojišką laišką Skapiškio ir Kamajų parapijoms Kulių, Vainuto ir Veliuonos parapijoms."
-  atnaujinta: "2026-09-13 15:29"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -721,7 +781,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
 <a id="claim-t-209464"></a>
 - t-209464
   teiginys: "Motiejus Valančauskis, Žemaičių vyskupas, su savo ranka."
-  atnaujinta: "2026-09-13 15:29"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -731,22 +791,10 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   pagrindžia:
     - c-192084
 
-<a id="claim-t-209465"></a>
-- t-209465
-  teiginys: "1863-09-06 Valančius išsiuntė galutinį laiško tekstą lietuvių kalba ir jo vertimą į rusų kalbą, patvirtintą J. Dovydaičio."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
-  pagrindžia:
-    - c-192085
-
 <a id="claim-t-209466"></a>
 - t-209466
   teiginys: "Kaune Motiejus vyskupas 1867 m. kovo 8 dienoj."
-  atnaujinta: "2026-09-13 15:29"
+  atnaujinta: "2026-09-13 21:47"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
@@ -757,53 +805,137 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   pagrindžia:
     - c-192086
 
-<a id="claim-t-193688"></a>
-- t-193688
-  teiginys: "Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejotinai buvo europietiškos katalikiškos civilizacijos šalininkas."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-225839"></a>
+- t-225839
+  teiginys: "Egidijaus Aleksandravičiaus cituojamame laiške Vilniaus generalgubernatoriui V. Nazimovui Motiejus Valančius teigė, kad pirmųjų blaivybę priėmusių pasienio parapijų žmonių šeimose sumažėjo nesantaikos, o muštynes ir barnius pakeitė ramybė."
+  atnaujinta: "2026-09-14 12:16"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
   pagrindžia:
-    - c-176357
+    - c-206363
 
-<a id="claim-t-193689"></a>
-- t-193689
-  teiginys: "Valančius niekur nepasisakė prieš caro valdžią, pagarbiai bendravo su jos atstovais, tačiau kietai ir atkakliai gynė Katalikų bažnyčios interesus."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-225840"></a>
+- t-225840
+  teiginys: "Egidijus Aleksandravičius pažymi, kad Motiejus Valančius administracijai rašytuose laiškuose taktiniais sumetimais didino blaivybės judėjimo sėkmę, o 1858 m. pabaigos laiškuose kunigams ragino toliau skelbti blaivybę, nes dar buvo geriančių degtinę."
+  atnaujinta: "2026-09-14 12:16"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
   pagrindžia:
-    - c-176358
+    - c-206364
 
-<a id="claim-t-193690"></a>
-- t-193690
-  teiginys: "Valančiaus pastangomis buvo įdiegta nuostata mokytis skaityti ir rašyti gimtąja kalba."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-225841"></a>
+- t-225841
+  teiginys: "Egidijaus Aleksandravičiaus cituojamas Jokūbas Šimkevičius valstiečių girtavimą aiškino skurdu, pažeminimu, nelaisve ir sunkiais darbais: svaiginimasis esą trumpam padedąs užmiršti nedalią."
+  atnaujinta: "2026-09-14 12:16"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
   pagrindžia:
-    - c-176359
+    - c-206365
 
-<a id="claim-t-193691"></a>
-- t-193691
-  teiginys: "Valančius, perpratęs valdžios kėslus, per kunigus paskleidė mintį, kad skaityti tokias valdžios brukamas knygas katalikui yra nuodėmė."
-  atnaujinta: "2026-09-13 22:14"
+<a id="claim-t-225842"></a>
+- t-225842
+  teiginys: "Egidijus Aleksandravičius degtinės ir alaus gamybą sieja su dvaro pramone, naudojusia palivarkų žaliavas ir realizavusia produkciją savo valdų ribose, ribotų žemės ūkio produktų rinkos ryšių sąlygomis."
+  atnaujinta: "2026-09-14 12:16"
   sprendimo_priezastis: "auto"
   teiginio_tipas: "faktas"
   patikimumo_lygis: "vidutinis"
   patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
   pagrindžia:
-    - c-176360
+    - c-206366
+
+<a id="claim-t-225843"></a>
+- t-225843
+  teiginys: "Egidijus Aleksandravičius perspėja, kad užfiksuotų prievartinio degtinės pardavimo baudžiauninkams atvejų ir satyrų negalima laikyti visuotinę praktiką įrodančia taisykle."
+  atnaujinta: "2026-09-14 12:16"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  pagrindžia:
+    - c-206367
+
+<a id="claim-t-225844"></a>
+- t-225844
+  teiginys: "Egidijus Aleksandravičius aprašo Vėžaičių savininko E. Volmerio taikytą prievartinį blaivinimą: valstiečiams nustatytą grįžimo laiką ir reikalavimą atsiskaityti dėl negėrimo; dėl žmogaus orumą žeminančių priemonių į dvarininką kreipėsi Motiejus Valančius."
+  atnaujinta: "2026-09-14 12:16"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  pagrindžia:
+    - c-206368
+
+<a id="claim-t-225845"></a>
+- t-225845
+  teiginys: "Petras Puzaras pateikia Kauno gubernijos dvarininkų degtinės gamybos duomenis: 1859 m. – 552 643 kibirai, 1860 m. – 129 194 kibirai."
+  atnaujinta: "2026-09-14 12:16"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  pagrindžia:
+    - c-206369
+
+<a id="claim-t-225846"></a>
+- t-225846
+  teiginys: "Petras Puzaras, aprašydamas Motiejaus Valančiaus laikų Žemaičių vyskupiją, mini degtinės vartojimą per krikštynas, vestuves, laidotuves, atlaidus, kryžių ir namų šventinimą."
+  atnaujinta: "2026-09-14 12:16"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  pagrindžia:
+    - c-206370
+
+<a id="claim-t-225847"></a>
+- t-225847
+  teiginys: "Egidijus Aleksandravičius nurodo, kad degtinės mokesčio atpirkėjai, už pastovias įmokas iždui varžytinėmis įsigiję teisę rinkti akcizą, buvo suinteresuoti didinti svaigalų vartojimą ir plėsti prekybos tinklą."
+  atnaujinta: "2026-09-14 12:16"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  pagrindžia:
+    - c-206371
+
+<a id="claim-t-225848"></a>
+- t-225848
+  teiginys: "Petras Puzaras aprašo priėmimo į Blaivybės broliją tvarką: stojantysis tą pačią dieną atlieka išpažintį ir priima Komuniją, kunigas prie Švč. Mergelės Marijos altoriaus priima jo apžadą, apšlaksto naujus narius švęstu vandeniu ir sako pamokslą."
+  atnaujinta: "2026-09-14 12:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  pagrindžia:
+    - c-206372
+
+<a id="claim-t-225849"></a>
+- t-225849
+  teiginys: "Petro Puzaro pateiktose Blaivybės brolijos taisyklėse klebonas apžado nesilaikantį narį turi du kartus įspėti, o nepasitaisiusį pašalinti iš brolijos; pašalintas žmogus vis tiek privalo laikytis Dievui duoto apžado."
+  atnaujinta: "2026-09-14 12:30"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  pagrindžia:
+    - c-206373
 
 ## Citatos
 
@@ -826,7 +958,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-193688
+    - t-001
 
 - id: c-176358
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -851,7 +983,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-193689
+    - t-002
 
 - id: c-176359
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -873,7 +1005,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-193690
+    - t-003
 
 - id: c-176360
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -891,7 +1023,7 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-193691
+    - t-004
 
 - id: c-184234
   autorius: "Jonas Basanavičius; V. Gintautas (vertė)"
@@ -1297,7 +1429,6 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1383,7 +1514,6 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1641,7 +1771,6 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1782,7 +1911,6 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1899,7 +2027,6 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -1922,12 +2049,11 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-209423
+    - t-007
 
 - id: c-192050
   autorius: "Aleksandravičius, Egidijus"
@@ -1949,12 +2075,11 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-209383
+    - t-006
 
 - id: c-192081
   autorius: "Merkys, Vytautas; Vanagienė, Birutė"
@@ -2053,12 +2178,11 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-209465
+    - t-008
 
 - id: c-192086
   autorius: "Merkys, Vytautas; Vanagienė, Birutė"
@@ -2080,4 +2204,339 @@ Valančius – praktiško mąstymo ir politiškai išmintingas žmogus, neabejot
   patikimumo_saltinis: ai
   pagrindžia:
     - t-209466
+
+- id: c-206363
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 64-65"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 64-65."
+  citata_originali: |
+    štai kaip M. Valančius rašė apie
+    16Pirraojj vyskupo blaivybės gromata j j Dovydaitis J. S. Šiaulėniškis Senelis, p. 286.
+    17Gieczys K. Bractwa trzezfrosd, s. 25.
+    65
+
+    blaivybės brolijas Vilniaus generalgubernatoriui V. Nazimovui,
+    praslinkus keturiems mėnesiams nuo pirmųjų iš jų įsikūrimo: "Prieš
+    keletą mėnesių dvi trys parapijos, esančios prie Lenkijos Karalystės
+    sienos, sekdamos anos Nemuno pusės pavyzdžiu, vien pamokslų apie
+    blogas
+    girtuokliavimo
+    pasekmes
+    dėka
+    staiga
+    nustojo
+    gerti
+    svaiginamuosius gėrimus, išskyrus gal keletą asmenų. Nepraėjo nė
+    mėnuo, o didžiulės permainos, įvykusios tų žmonių papročiuose ir
+    charakteryje, nustebino visus sveikai mąstančius. Išnyko įvairūs
+    nelaimingi atsitikimai, muštynės ir barniai - neišvengiami girtavimo
+    palydovai. Nesantaika ir nesklandumai šeimoje tapo retenybe. Tyluma
+    ir ramybė įsiviešpatavo. Sumažėjo visokiausių nelaimių, pasireiškė
+    darbingumas ir polinkis prie visko, kas gera, taipgi nesuskaitomos
+    geros išdavos privertė tūkstančius žmonių, išvaduotų iš girtybės,
+    šlovinti Dievą už palaimingą mintį visiškai susilaikyti nuo svaiginamų­
+    jų gėrimų /.../. Grįždamas į Varnius po maloningo caro apsilankymo,
+    savo akimis regėjau daugelio susilaikiusių nuo degtinės palaimą ir
+    girdėjau daug džiaugsmingų pasakojimų apie pačias geriausias
+    blaivybės pasekmes. Pavyzdys, duodamas kartu su tokiais labdaringais
+    vaisiais^ paveikė kaimynus parapijiečius, kurių prašymai, o kai kuriose
+    vietose net reikalavimai, privertė jų sielų ganytojus paskelbti
+    susilaikymą nuo svaiginamųjų gėrimų, ir, keistas dalykas, visur užteko
+    keleto žodžių, o seniau patys karščiausi tų pačių pamokslininkų
+    žodžiai likdavo be atgarsio..."18. Iš šio ir daugelio kitų oficialių
+    korespondencijų administracijai, kaip ir iš memorialo carui aiškėja, kad
+    M. Valančius sąmoningai padidino liaudies iniciatyvumą, parodė, kad
+    kai kur patys parapijiečiai privertė kunigus iš ambonų skelbti blaivybę.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-14 12:08"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225839
+
+- id: c-206364
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 65-66"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 65-66."
+  citata_originali: |
+    Kitas dalykas, vyskupas gerokai padidino ir realią blaivybės judėjimo
+    sėkmę. Anot tyrinėtojų, taip buvo elgiamasi taktiniais sumetimais,
+    siekiant sudaryti Rusijos imperijos vyriausybei įspūdį, esą tai visuotinis
+    reiškinys, privertęs dvasininkiją prisidėti prie blaivybės judėjimo. Tai
+    liudija ir kiti šaltiniai, išaiškinti K. Giečio. Turima omenyje M.
+    Valančiaus laiškai artimiems bendražygiams (A. Dobševičiui, Šiluvos
+    infulotui), rašyti tuo pačiu metu, kaip ir korespondencija V. Nazimovui.
+    Tuose laiškuose, rašytuose Žemaičių kunigams 1858 m. pačioje
+    18Čit. iš ten pat, p. 26-27.
+    66
+
+    pabaigoje vis raginama skelbti blaivystę, nes dar yra geriančių
+    degtinę19.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-14 12:00"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225840
+
+- id: c-206365
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 23"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 23."
+  citata_originali: |
+    Kitas, gal net dar baisesnis dalykas - tai tautos apačių
+    "nuosmukis". J. Šimkevičius atskleidžia prošvaistės nematančio
+    valstiečio situaciją, kada vienintelė užuobėga nuo neteisybės - karčema,
+    kurioje ir veši dar didesnė apgaulė. "Antra vertus, slegiantis skurdas,
+    nemalonus iš visų pusių paniekinimas, sunkios nelaisvės ir darbų našta
+    ir iš niekur neprasiskverbiantis vilties, kad galima gyventi geriau,
+    spindulėlis verčia nelaimingąjį srėbti jausmus ir pojūčius slopinantį
+    svaiginamąjį gėrimą, kuris, akimirkai susukdamas galvą, padeda
+    užmiršti savo nedalią, bejėgiškumą, liūdesį ir artėjančias bėdas. Iš čia
+    kilo pasakiškas padavimas apie Letos vandenį, leidžiantį pamiršti ir
+    liūdesį, ir džiaugsmus"13.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-14 12:00"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225841
+
+- id: c-206366
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 48"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 48."
+  citata_originali: |
+    O juk pačios
+    svarbiausios propinacijos prielaidos išplaukia iš feodalinio, natūralaus
+    ūkio struktūros. Dėl labai ribotų žemės ūkio produktų rinkos ryšių
+    nebuvo galima grūdus vartoti kitaip. Ta prasme degtinės, alaus
+    darymas, kaip ir plytų bei miltų gamyba, priklausė dvaro pramonei,
+    kurj ir žaliavas ėmė iš dvaro palivarkų, ir produkciją realizavo savo
+    valdų ribose (bent legaliai).
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-14 12:00"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225842
+
+- id: c-206367
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 48"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 48."
+  citata_originali: |
+    Svarbu pažymėti ir tai, kad istorinėje literatūroje stereotipiškai
+    kartojami
+    teiginiai
+    apie
+    prievartinį
+    degtinės
+    pardavinėjimą
+    baudžiauninkams nėra visiškai pagrįsti. Jie turi pagrindo tiek, kiek
+    dėsnis grindžiamas išimtimi, t.y. prievarta parduodamos degtinės faktų
+    anuo metu užfiksuota, tačiau neretai tai galėjo būti susiję su satyrinės
+    kalbos ypatybėmis, Imant Už gryną pinigą viską, kas satyrose rašyta,
+    nesunku atsidurti panašioje padėtyje, kuri suformavo realaus
+    Triųbočių" ar "Kontubernijos" egzistavimo mitą.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-14 12:00"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225843
+
+- id: c-206368
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 84-85"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 84-85."
+  citata_originali: |
+    Pirmuosius ir karščiausius blaivybės akcijos rėmėjus dvarinin­
+    kus mini pats M. Valančius. Tai visų pirma 1. Oginskis, vienas
+    didžiausių ir įtakingiausių Kauno gubernijos turtuolių. Nuo pat 1858
+    m. rudens jis prisidėjo prie blaivybės šalininkų. Savo dvare J. Oginskis
+    uždarė visus bravorus ir karčemas, kurios iki tol davė iki 100 tūkst.
+    rublių pajamų. Dar daugiau, jis prašė M. Valančiaus atsiųsti tūkstantį
+    50Kurjer Wilenski. 1859, N. 6.
+    5*Tan pat.
+    ^Gieczys K. Bractwa trzczwosri, s. 162.
+    85
+
+    egzempliorių, Blaivybės brolijos įstatų, kad galėtų išplatinti'tarp savo
+    valstiečių53.
+    Antroje vietoje vyskupas paminėjo tris brolius grafus Huten-
+    Čapskius: Adolfą - Juzefavo ir Beržėnų (Šiaulių apskritis) savininką,
+    Kalnoberžę (Kauno apskritis) valdžiusį Edvardą ir Kėdainių savininką
+    Marijoną. Jie uždarė savo dvaruose bravorus ir karčemas, taip pat ir
+    saviems baudžiauninkams įsakė negerti degtinės. Kai kuriais atvejais
+    valstiečių blaivinimas įgavo net prievartinį pobūdį. Antai E. Volmeris-
+    Vėžaičių savininkas ne tik prisakė saviems valstiečiams nevartoti
+    degtinės bet netgi griebėsi represinių blaivinimo priemonių - įvedė tam
+    tikrą tvarkaraštį dvaro žmonėms: kada valstietis turi grįžti namo
+    vasaros metu, kada žiemą. Be to, didesni girtuokliai turį prisistatyti
+    vakarais po darbų pas poną ir kone raportuoti apie tai, kad neėmė į
+    burną degtinės. Šis netipiškas atvejis, privertęs patį vyskupą kreiptis į
+    Vėžaičių šeimininką dėl žmogaus orumą žeminančių priemonių54,
+    rodė, kad net blaivinimas kartais gali būti feodalinis.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-14 12:08"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225844
+
+- id: c-206369
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 135"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 135."
+  citata_originali: |
+    Dvarininkai į blaivybės sąjūdį reagavo skirtingai. Mat
+    jiems, turintiems degtinės monopolį, blaivybės klausimas
+    buvo kartu ekonominė problema. Blaivybės paplitimas
+    liaudyje privertė dvarininkus mažinti degtinės gamybą,
+    uždarinėti „bravorus" ir smukles. 1850 m. Kauno guber­
+    nijos dvarininkai pagamino 1 033 534 kibirus degtinės,
+    1859 m, — 552 643 (gamyba sumažėjo 46,5 proc.), o
+    1860 m. — jau tik 129 194 kibirus degtinės (gamyba su­
+    mažėjo, palyginti su 1858 m., 87,5 proc.). Be to, ši deg­
+    tinė buvo gaminama jau ne pardavimui, bet tik gaminti
+    „brogai", kuria buvo šeriami gyvuliai, neužderėjus tais
+    metais pašarinėms žolėms4 5.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-14 12:03"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225845
+
+- id: c-206370
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 124"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 124."
+  citata_originali: |
+    paplitęs girtavimas. Jis buvo pavergęs vyrus, moteris,
+    net vaikus. Be degtinės neapsieidavo per krikštynas, ves­
+    tuves, laidotuves, atlaidus, šventinant kryžius ir namus
+    ir t. t. 1 Kun. J. Ulickas (gim. 1867 m.) rašo, kad per jo
+    motinos krikštynas buvo išgerta 20 gorčių degtinės, t. y.
+    56 litrai2.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-14 12:03"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225846
+
+- id: c-206371
+  autorius: "Aleksandravičius, Egidijus"
+  šaltinis: "Blaivybė Lietuvoje XIX amžiuje"
+  puslapiai: "PDF 94-95"
+  indeksas: "Aleksandravičius, Egidijus, Blaivybė Lietuvoje XIX amžiuje, PDF 94-95."
+  citata_originali: |
+    Paskutiniaisiais ikireforminiais metais ištuštėjęs Rusijos
+    imperijos iždas buvo perdėm priklausomas nuo svaigalų mokesčių.
+    Suma, kurią valstybei
+    mokėjo degtinės
+    mokesčio atpirkėjai,
+    varžytinėmis įsigiję teisę rinkti akcizą, 1859 m. pasiekė milžinišką dydį
+    - 127 764 488 rublių 32 kapeikas ir sudarė 40 % visų iždo pajamų71.
+    Tuo tarpu 1819 m. įplaukos už degtinės akcizą sudarė 16,1&38 m. 23
+    69ČcrnySevj>kis N. Žalinga dorybė / / Blaivybė, 1986, p. 76.
+    70Добролюбов H. А. Народное дело. Распространение обществ трезвости / /
+    Собрание сочинений в 3-х томах. М., 1952, т. 2, с. 249.
+    71Нрыжов И. История кабаков в России. - Рстсрбург, 1863, с. 286.
+    V. Fiodorovas nurodo kiek kitokią sumą - 106101131 rub., bet tai irgi sudarė 38% valstybės
+    pajamų. - Федоров В. А. Крестьянское трезвенное движение, c. 110.
+
+    nuošimčius viso valstybės pelno72. Valstybės ekonominė politika, kaip
+    k visas .atsilikęs feodalinis ūkis, tiesiogiai skatino girtavimą. Tačiau
+    pažangesni valdininkai jau Sestajame dešimtmetyje suvokė, kad tokia
+    politika veda į pražūtį. Pralaimėjimas Kryme tai dar sykį įrodė. Be
+    abejo, aukštiesiems sluoksniams buvo žinoma reguliariai nedideliu
+    tiražu spausdinama svaigalą pardavinėjimo ir akcizo didėjimo
+    statistika. Tačiau apie milžiniškus degtinės atpirkėją pelnus buvo
+    galima tik įtarti. Anot J. Pryžovo, žinomo XIX a. degtinės gamybos
+    raidos tyrinėtojo, tuo metu imperijoje buvo 216 atpirkėją, o kiekvieno
+    iš ją pajamos iš akcizo siekė apie 3 milijonus rublią kasmet. Taigi
+    saujelės verslininką (daugiausia žydą tautybės) pelnai keleriopai viršijo
+    Rusijos iždo įplaukas . Mokėdami pastovias sumas į iždą, atpirkėjai
+    tiesiogiai buvo suinteresuoti didinti svaigalą vartojimą, plėsti prekybos
+    tinklą.
+  citata_rodoma: "Mokėdami pastovias sumas į iždą, atpirkėjai tiesiogiai buvo suinteresuoti didinti svaigalą vartojimą, plėsti prekybos tinklą."
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-14 12:03"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225847
+
+- id: c-206372
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 127"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 127."
+  citata_originali: |
+    Į broliją gali priimti kiekvienas kunigas kas dieną. Įsi­
+    rašydamas į broliją, stojantysis tą pačią dieną privalo
+    atlikti išpažintį ir priimti šv. Komuniją. Įrašęs į blaivi­
+    ninkų knygą, kunigas, apsivilkęs kamžą ir užsidėjęs stu­
+    lą, prie Švč. M. Marijos altoriaus priima stojančiojo į
+    broliją apžadą negerti degtinės, romo ir arako (saldžios
+    degtinės). Brošiūroje yra šio pasižadėjimo formulė. Po
+    to kunigas naujus brolijos narius apšlaksto švęstu vande­
+    niu ir pasako pamokslą ‘.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-14 12:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225848
+
+- id: c-206373
+  autorius: "Puzaras, Petras"
+  šaltinis: "Vyskupo Motiejaus Valančiaus pastoracinė veikla"
+  puslapiai: "PDF 127"
+  indeksas: "Puzaras, Petras, Vyskupo Motiejaus Valančiaus pastoracinė veikla, PDF 127."
+  citata_originali: |
+    Narį,
+    nebesilaikantį apžado, klebonas privalo du kartus įspėti,
+    o jei jis nepasitaiso, išmesti iš brolijos. Išmestasis nors
+    ir netenka visų privilegijų, bet privalo laikytis Dievui
+    duoto blaivybės apžado 2.
+  statusas: verified
+  pagrindimo_rezimas: "ai_supported_context"
+  atnaujinta: "2026-09-14 12:28"
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-225849
 

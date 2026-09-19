@@ -59,6 +59,46 @@ Narbutas Vetustį apibūdino kaip Rietavo miestelio fetišą ir aiškino jo reik
   patikimumo_saltinis: ai
   statusas: verified
 
+## Teiginiai
+
+<a id="claim-t-208597"></a>
+- t-001
+  teiginys: "Vyskupas Motiejus Valančius paskyrė Kulių parapijos vikarą kunigą Kazimierą Skrodzkį Kulių klebonu, o netrukus patikėjo jam Rietavo dekanato dekano pareigas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:50Z"
+  pagrindžia:
+    - c-191217
+
+<a id="claim-t-208599"></a>
+- t-002
+  teiginys: "Kunigaikštis Ireniejus Oginskis iš Rietavo 1858 m. gruodžio 4 d. laiške vyskupui Motiejui Valančiui padėkojo už blaivybės skelbimą, pareiškė jam pritariąs ir nurodė dėl to patiriąs daugiau kaip 10 000 rublių metinį nuostolį."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:50Z"
+  pagrindžia:
+    - c-191219
+
+<a id="claim-t-209479"></a>
+- t-003
+  teiginys: "Rietavo dekanatas minimas kaip Kulių ir Vainuto parapijų kontekstas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
+  pagrindžia:
+    - c-192099
+
 ## Citatos
 
 - id: c-191217
@@ -78,7 +118,6 @@ Narbutas Vetustį apibūdino kaip Rietavo miestelio fetišą ir aiškino jo reik
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -98,7 +137,6 @@ Narbutas Vetustį apibūdino kaip Rietavo miestelio fetišą ir aiškino jo reik
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -120,50 +158,9 @@ Narbutas Vetustį apibūdino kaip Rietavo miestelio fetišą ir aiškino jo reik
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-
-## Teiginiai
-
-<a id="claim-t-208597"></a>
-- t-001
-  teiginys: "Vyskupas Motiejus Valančius paskyrė Kulių parapijos vikarą kunigą Kazimierą Skrodzkį Kulių klebonu, o netrukus patikėjo jam Rietavo dekanato dekano pareigas."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:50Z"
-  pagrindžia:
-    - c-191217
-
-<a id="claim-t-208599"></a>
-- t-002
-  teiginys: "Kunigaikštis Ireniejus Oginskis iš Rietavo 1858 m. gruodžio 4 d. laiške vyskupui Motiejui Valančiui padėkojo už blaivybės skelbimą, pareiškė jam pritariąs ir nurodė dėl to patiriąs daugiau kaip 10 000 rublių metinį nuostolį."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:50Z"
-  pagrindžia:
-    - c-191219
-
-<a id="claim-t-209479"></a>
-- t-003
-  teiginys: "Rietavo dekanatas minimas kaip Kulių ir Vainuto parapijų kontekstas."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: medium; atribucija: required_for_interpretation; atribucijos vardas: Motiejus Valancius - Ganytojiski laiskai"
-  pagrindžia:
-    - c-192099
 

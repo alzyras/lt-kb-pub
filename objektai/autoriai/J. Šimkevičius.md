@@ -35,6 +35,47 @@ J. Šimkevičius į savo knygą įdėjo Ernesto Augusto ediktą; Egidijus Aleksa
 
 J. Šimkevičius į savo knygą įdėjo Ernesto Augusto ediktą; Egidijus Aleksandravičius šį pasirinkimą vertino kaip tikriausiai neatsitiktinį. J. Šimkevičius siūlė miestuose, miesteliuose ir palivarkuose tobulinti alaus gamybą vietoj degtinės, kad kaimiečiai mažiau gertų, būtų sveikesni ir turtingesni. XIX a. antrajame dešimtmetyje J. Šimkevičius aprašė kunigo Legovičiaus išblaivintus parapijiečius, kuriuos aplinkiniai dvarininkai esą varžėsi samdyti.
 
+## Teiginiai
+
+<a id="claim-t-209250"></a>
+- t-001
+  teiginys: "J. Šimkevičius siūlė miestuose, miesteliuose ir palivarkuose tobulinti alaus gamybą vietoj degtinės, kad kaimiečiai mažiau gertų, būtų sveikesni ir turtingesni."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:26Z"
+  pagrindžia:
+    - c-191933
+
+<a id="claim-t-209311"></a>
+- t-002
+  teiginys: "J. Šimkevičius į savo knygą įdėjo Ernesto Augusto ediktą; Egidijus Aleksandravičius šį pasirinkimą vertino kaip tikriausiai neatsitiktinį."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:26Z"
+  pagrindžia:
+    - c-191985
+
+<a id="claim-t-209341"></a>
+- t-003
+  teiginys: "XIX a. antrajame dešimtmetyje J. Šimkevičius aprašė kunigo Legovičiaus išblaivintus parapijiečius, kuriuos aplinkiniai dvarininkai esą varžėsi samdyti."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:26Z"
+  pagrindžia:
+    - c-191952
+
 ## Citatos
 
 - id: c-191933
@@ -50,11 +91,10 @@ J. Šimkevičius į savo knygą įdėjo Ernesto Augusto ediktą; Egidijus Aleksa
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-001
 
 - id: c-191952
@@ -79,11 +119,10 @@ J. Šimkevičius į savo knygą įdėjo Ernesto Augusto ediktą; Egidijus Aleksa
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-003
 
 - id: c-191985
@@ -97,51 +136,8 @@ J. Šimkevičius į savo knygą įdėjo Ernesto Augusto ediktą; Egidijus Aleksa
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
+  pagrindzia:
     - t-002
-
-## Teiginiai
-
-<a id="claim-t-209250"></a>
-- t-001
-  teiginys: "J. Šimkevičius siūlė miestuose, miesteliuose ir palivarkuose tobulinti alaus gamybą vietoj degtinės, kad kaimiečiai mažiau gertų, būtų sveikesni ir turtingesni."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  vertinimo_atnaujinta: "2026-09-02T01:53:26Z"
-  pagrindžia:
-    - c-191933
-
-<a id="claim-t-209311"></a>
-- t-002
-  teiginys: "J. Šimkevičius į savo knygą įdėjo Ernesto Augusto ediktą; Egidijus Aleksandravičius šį pasirinkimą vertino kaip tikriausiai neatsitiktinį."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  vertinimo_atnaujinta: "2026-09-02T01:53:26Z"
-  pagrindžia:
-    - c-191985
-
-<a id="claim-t-209341"></a>
-- t-003
-  teiginys: "XIX a. antrajame dešimtmetyje J. Šimkevičius aprašė kunigo Legovičiaus išblaivintus parapijiečius, kuriuos aplinkiniai dvarininkai esą varžėsi samdyti."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  vertinimo_atnaujinta: "2026-09-02T01:53:26Z"
-  pagrindžia:
-    - c-191952
-

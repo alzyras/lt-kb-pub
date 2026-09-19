@@ -46,77 +46,10 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
 
 ## Teiginiai
 
-<a id="claim-t-208472"></a>
-- t-208472
-  teiginys: "Generalgubernatorius M. Muravjovas privertė vyskupą perkelti Adakavo kleboną į M. Muravjovo pageidautą parapiją."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191092
-
-<a id="claim-t-209319"></a>
-- t-209319
-  teiginys: "M. Muravjovas suformavo kaimų savisaugos sistemą."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-191906
-
-<a id="claim-t-209321"></a>
-- t-209321
-  teiginys: "1864 m. M. Muravjovo įsakymu blaivybės brolijos buvo uždarytos."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  temporaliniai_duomenys: "įvykio data: 1864 m."
-  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai pagrįstas šaltinio nurodymu apie 1864 m. M. Muravjovo įsakymu uždarytas blaivybės brolijas."
-  pagrindžia:
-    - c-191876
-
-<a id="claim-t-209360"></a>
-- t-209360
-  teiginys: "Sukilimo Lietuvoje įkarštyje, Egidijaus Aleksandravičiaus apibūdinimu, M. Muravjovas tapo visagaliu Lietuvos administratoriumi."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
-  pagrindžia:
-    - c-191993
-
-<a id="claim-t-209432"></a>
-- t-209432
-  teiginys: "M. Muravjovas paskelbė įsaką, uždraudusį blaivybės brolijas."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
-  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
-  pagrindžia:
-    - c-192022
-
 <a id="claim-t-78022"></a>
-- t-78022
+- t-001
   teiginys: "1864 m. M. Muravjovo nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu, o draudimas galiojo iki 1904 m. pavasario."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuviai: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -134,9 +67,9 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
     - c-75336
 
 <a id="claim-t-78023"></a>
-- t-78023
+- t-002
   teiginys: "Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas gavo caro įgaliojimus ir ėmėsi demonstratyvaus žiaurumo bei teroro priemonių."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Michailas Muravjovas: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -154,9 +87,9 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
     - c-25100
 
 <a id="claim-t-78024"></a>
-- t-78024
+- t-003
   teiginys: "XIX a. M. Muravjovo Koriko laikais Lietuvoje nukentėjo perpus mažiau kunigų nei stalinizmo metais."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Lietuva: 0.85"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -170,9 +103,9 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
     - c-75337
 
 <a id="claim-t-78025"></a>
-- t-78025
+- t-004
   teiginys: "Vilniaus generalgubernatorius M. Muravjovas rusinimo politikai vykdyti pasikvietė Ivaną Kornilovą."
-  atnaujinta: "2026-09-13 22:14"
+  atnaujinta: "2026-07-10 10:39"
   sprendimo_priezastis: "auto"
   ryšio_patikimumas: "susije_su -> Vilnius: 0.83"
   ryšio_patikimumo_lygis: "vidutinis"
@@ -184,6 +117,73 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: kryziuociu_ordino; šališkumas: high; atribucija: required_for_interpretation; atribucijos vardas: Alfonsas Eidintas"
   pagrindžia:
     - c-75338
+
+<a id="claim-t-208472"></a>
+- t-208472
+  teiginys: "Generalgubernatorius M. Muravjovas privertė vyskupą perkelti Adakavo kleboną į M. Muravjovo pageidautą parapiją."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191092
+
+<a id="claim-t-209319"></a>
+- t-209319
+  teiginys: "M. Muravjovas suformavo kaimų savisaugos sistemą."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-191906
+
+<a id="claim-t-209321"></a>
+- t-209321
+  teiginys: "1864 m. M. Muravjovo įsakymu blaivybės brolijos buvo uždarytos."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  temporaliniai_duomenys: "įvykio data: 1864 m."
+  temporalinis_paaiskinimas: "Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Teiginys yra gramatiškas ir tiesiogiai pagrįstas šaltinio nurodymu apie 1864 m. M. Muravjovo įsakymu uždarytas blaivybės brolijas."
+  pagrindžia:
+    - c-191876
+
+<a id="claim-t-209360"></a>
+- t-209360
+  teiginys: "Sukilimo Lietuvoje įkarštyje, Egidijaus Aleksandravičiaus apibūdinimu, M. Muravjovas tapo visagaliu Lietuvos administratoriumi."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T01:53:25Z"
+  pagrindžia:
+    - c-191993
+
+<a id="claim-t-209432"></a>
+- t-209432
+  teiginys: "M. Muravjovas paskelbė įsaką, uždraudusį blaivybės brolijas."
+  atnaujinta: "2026-09-13 21:47"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Egidijus Aleksandravicius - Blaivybe Lietuvoje XIX amziuje"
+  vertinimo_atnaujinta: "2026-09-02T11:31:43Z"
+  pagrindžia:
+    - c-192022
 
 ## Citatos
 
@@ -209,7 +209,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-78023
+    - t-002
 
 - id: c-75336
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -228,7 +228,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-78022
+    - t-001
 
 - id: c-75337
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -252,7 +252,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-78024
+    - t-003
 
 - id: c-75338
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
@@ -275,7 +275,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-78025
+    - t-004
 
 - id: c-191092
   autorius: "Puzaras, Petras"
@@ -293,7 +293,6 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -318,7 +317,6 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -341,7 +339,6 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -365,7 +362,6 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
@@ -386,7 +382,6 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   statusas: verified
   pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai

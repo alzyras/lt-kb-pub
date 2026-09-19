@@ -46,6 +46,24 @@ Nenurodyta
 ## Kontekstas
 Nenurodyta
 
+## Teiginiai
+
+<a id="claim-t-208814"></a>
+- t-001
+  teiginys: "Po 1863 m. sukilimo, valdžiai uždraudus kunigams susirinkti į vieną vietą, vyskupas Motiejus Valančius nurodė rekolekcijas atlikti pavieniui, o nuo 1865 m. jas sutrumpino iki trijų dienų."
+  atnaujinta: "2026-09-13 13:24"
+  sprendimo_priezastis: "auto"
+  teiginio_tipas: "faktas"
+  patikimumo_lygis: "vidutinis"
+  patikimumo_saltinis: "ai"
+  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
+  temporaliniai_duomenys: "įvykio data: po 1863 m.; įvykio data: 1863 m.; įvykio data: po 1865 m.; įvykio data: 1865 m."
+  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
+  temporalinis_llm_pakomentavimas: "Patikslinti sprendimo subjektas, aplinkybės ir datos. „Liepta“ pakeista tikslesne šaltinio veiksmo formuluote."
+  vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
+  pagrindžia:
+    - c-191434
+
 ## Santrauka
 
 Rekolekcijos buvo viena iš dvasinio gyvenimo atsinaujinimo ir pažangos priemonių; jos buvo praktikuojamos parapijose, vienuolynuose ir kunigų seminarijose. Po 1863 m. sukilimo, valdžiai uždraudus kunigams susirinkti į vieną vietą, vyskupas Motiejus Valančius nurodė rekolekcijas atlikti pavieniui, o nuo 1865 m. jas sutrumpino iki trijų dienų.
@@ -65,14 +83,11 @@ Rekolekcijos buvo viena iš dvasinio gyvenimo atsinaujinimo ir pažangos priemon
     kunigai atliktų metines rekolekcijas. Tai patvirtiną daug
     išlikusių dokumentų.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
 
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 - id: c-191434
   autorius: "Puzaras, Petras"
@@ -87,43 +102,10 @@ Rekolekcijos buvo viena iš dvasinio gyvenimo atsinaujinimo ir pažangos priemon
     nuo 1865 m. pasunkėjus sąlygoms, ganytojas sutrumpino
     rekolekcijas iki trijų dienų4.
   statusas: verified
-  pagrindimo_rezimas: "ai_supported_context"
   atnaujinta: "2026-09-08 15:24"
-
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
-
-## Teiginiai
-
-<a id="claim-t-208812"></a>
-- t-001
-  teiginys: "Rekolekcijos buvo viena iš dvasinio gyvenimo atsinaujinimo ir pažangos priemonių; jos buvo praktikuojamos parapijose, vienuolynuose ir kunigų seminarijose."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
-  pagrindžia:
-    - c-191432
-
-<a id="claim-t-208814"></a>
-- t-002
-  teiginys: "Po 1863 m. sukilimo, valdžiai uždraudus kunigams susirinkti į vieną vietą, vyskupas Motiejus Valančius nurodė rekolekcijas atlikti pavieniui, o nuo 1865 m. jas sutrumpino iki trijų dienų."
-  atnaujinta: "2026-09-13 15:29"
-  sprendimo_priezastis: "auto"
-  teiginio_tipas: "faktas"
-  patikimumo_lygis: "vidutinis"
-  patikimumo_saltinis: "ai"
-  šaltinio_profilis: "žanras: istorinis_tekstas; perspektyva: istoriografine; šališkumas: low; atribucija: optional; atribucijos vardas: Petras Puzaras - Vyskupo Motiejaus Valanciaus pastoracine veikla"
-  temporaliniai_duomenys: "įvykio data: po 1863 m.; įvykio data: 1863 m.; įvykio data: po 1865 m.; įvykio data: 1865 m."
-  temporalinis_paaiskinimas: "Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui."
-  temporalinis_llm_pakomentavimas: "Patikslinti sprendimo subjektas, aplinkybės ir datos. „Liepta“ pakeista tikslesne šaltinio veiksmo formuluote."
-  vertinimo_atnaujinta: "2026-09-02T11:31:45Z"
-  pagrindžia:
-    - c-191434
+    - t-001
 

@@ -28,7 +28,7 @@ import {
   mediaImageUrl,
   objectGallerySlug,
 } from "../../util/objectMedia"
-import { loadExhibitions } from "../../util/exhibitions"
+import { loadExhibitions, type ExhibitionManifest } from "../../util/exhibitions"
 import { isPoorSeoPage } from "../../util/seo"
 import {
   isObjectDetailSlug,
@@ -37,6 +37,33 @@ import {
 } from "../../util/objectDetail"
 
 export type ContentIndexMap = Map<FullSlug, ContentDetails>
+
+export function exhibitionContentEntry(exhibition: ExhibitionManifest): ContentDetails {
+  const slug = exhibition.slug as FullSlug
+  return {
+    slug,
+    filePath: `${slug}.md` as FilePath,
+    title: exhibition.title,
+    description: exhibition.description,
+    summary: exhibition.subtitle,
+    itemType: "paroda",
+    tags: ["parodos"],
+    links: (exhibition.relatedContent ?? []).map(
+      (link) => link.href.replace(/^\/|\/$/g, "") as SimpleSlug,
+    ),
+    content: [
+      exhibition.subtitle,
+      ...exhibition.sections.flatMap((section) => [
+        section.title,
+        section.lead,
+        ...section.items.flatMap((item) => [item.titleLt, item.descriptionLt]),
+      ]),
+    ].join("\n\n"),
+    date: entryModifiedDate(exhibition.updatedAt),
+    modifiedDate: entryModifiedDate(exhibition.updatedAt),
+    noindex: exhibition.noindex,
+  }
+}
 export type SitemapExtraEntry = {
   slug: FullSlug
   modifiedDate?: Date
@@ -614,7 +641,7 @@ export function gallerySitemapEntries(files: MediaCatalogFile[]): SitemapExtraEn
       imageUrls: url ? [url] : [],
     })
   }
-  const exhibitions = loadExhibitions()
+  const exhibitions = loadExhibitions().filter((exhibition) => !exhibition.noindex)
   if (exhibitions.length) {
     entries.push({
       slug: "parodos" as FullSlug,
@@ -648,6 +675,7 @@ export function generateSiteMap(
     const lastmod = lastmodDate ? `\n    <lastmod>${lastmodDate.toISOString()}</lastmod>` : ""
     const images = imageUrls
       .slice(0, 1000)
+      .map((url) => (/^https?:\/\//.test(url) ? url : new URL(url, `https://${base}`).toString()))
       .map(
         (url) =>
           `\n    <image:image>\n      <image:loc>${escapeHTML(url)}</image:loc>\n    </image:image>`,
@@ -667,7 +695,9 @@ export function generateSiteMap(
       .map(([slug, content]) => ({
         slug: simplifySlug(slug),
         modifiedDate: content.modifiedDate,
-        imageUrls: [] as string[],
+        imageUrls:
+          extraEntries.find((entry) => simplifySlug(entry.slug) === simplifySlug(slug))
+            ?.imageUrls ?? [],
       })),
     ...extraEntries.map((entry) => ({ ...entry, slug: simplifySlug(entry.slug) })),
     ...["objektai", "temos", "laikotarpiai", "straipsniai", "parodos"].map((slug) => ({
@@ -824,6 +854,12 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
             noindex,
           })
         }
+      }
+
+      // Exhibitions are emitted from DB manifests, not Markdown. Include their
+      // actual narrative in the same search/RSS pipeline as authored articles.
+      for (const exhibition of loadExhibitions()) {
+        linkIndex.set(exhibition.slug as FullSlug, exhibitionContentEntry(exhibition))
       }
 
       if (opts?.enableSiteMap) {
