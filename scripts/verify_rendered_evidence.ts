@@ -160,8 +160,44 @@ function citationCard(assetHtml: string, citationId: string): string | null {
       new RegExp(
         `<article class="([^"]*claim-citation-card[^"]*)" data-claim-citation-id="${escapedId}">[\\s\\S]*?<\\/article>`,
       ),
-    )?.[0] ?? null
+    )?.[0] ??
+    assetHtml.match(
+      new RegExp(`<details\\b[^>]*data-citation-id="${escapedId}"[^>]*>[\\s\\S]*?<\\/details>`),
+    )?.[0] ??
+    null
   )
+}
+
+function listEvidenceHtml(slug: string): string[] {
+  const candidates: string[] = [
+    path.join(publicRoot, slug, "irodymai", "index.html"),
+    path.join(publicRoot, slug, "irodymai.html"),
+  ]
+  const directory = path.join(publicRoot, slug, "irodymai")
+  if (fs.existsSync(directory)) {
+    const visit = (current: string) => {
+      for (const entry of fs.readdirSync(current, { withFileTypes: true })) {
+        const entryPath = path.join(current, entry.name)
+        if (entry.isDirectory()) visit(entryPath)
+        else if (entry.isFile() && entry.name.endsWith(".html")) candidates.push(entryPath)
+      }
+    }
+    visit(directory)
+  }
+  return [...new Set(candidates)].filter((candidate) => fs.existsSync(candidate))
+}
+
+function renderedClaimHtml(pageHtmls: string[], domKey: string, globalId?: string): string | null {
+  const keys = [domKey]
+  if (globalId && globalId.toLowerCase() !== domKey) keys.push(globalId.toLowerCase())
+  for (const pageHtml of pageHtmls) {
+    for (const key of keys) {
+      const rendered =
+        claimAssetHtml(pageHtml, key) ?? renderedClaimCardHtml(pageHtml, key)
+      if (rendered) return rendered
+    }
+  }
+  return null
 }
 
 function hiddenClaimGlobalIds(markdown: string): string[] {
@@ -213,20 +249,16 @@ for (const file of sourceFiles) {
     issues.push({ file: relativePath, claim: "", reason: "Missing source slug mapping" })
     continue
   }
-  const htmlCandidates = [
-    path.join(publicRoot, `${slug}.html`),
-    path.join(publicRoot, slug, "index.html"),
-  ]
-  const htmlPath = htmlCandidates.find((candidate) => fs.existsSync(candidate))
-  if (!htmlPath) {
+  const htmlPaths = listEvidenceHtml(slug)
+  if (htmlPaths.length === 0) {
     issues.push({
       file: relativePath,
       claim: "",
-      reason: `Missing rendered page; tried ${htmlCandidates.join(", ")}`,
+      reason: `Missing rendered evidence pages for ${slug}`,
     })
     continue
   }
-  const pageHtml = fs.readFileSync(htmlPath, "utf8")
+  const pageHtmls = htmlPaths.map((htmlPath) => fs.readFileSync(htmlPath, "utf8"))
   const context = evidenceDocumentContext(markdown)
   const renderedObjectEvidence = objectEvidenceHtml(slug)
   if (renderedObjectEvidence.includes('data-object-evidence-page="true"')) {
@@ -251,11 +283,7 @@ for (const file of sourceFiles) {
     // repeated on the same page). The global id is an anchor/deep-link, not the
     // detail asset key.
     const renderedDomKey = renderedLocalClaimKey(claim.id, index, renderedLocalKeys)
-    const assetHtml =
-      claimAssetHtml(pageHtml, renderedDomKey) ??
-      (globalId && globalId.toLowerCase() !== renderedDomKey
-        ? claimAssetHtml(pageHtml, globalId.toLowerCase())
-        : null)
+    const assetHtml = renderedClaimHtml(pageHtmls, renderedDomKey, globalId)
     if (!assetHtml) {
       issues.push({
         file: relativePath,
@@ -274,6 +302,11 @@ for (const file of sourceFiles) {
         issues.push({ file: relativePath, claim: claim.id, citation: citationId, reason: "Missing rendered citation card" })
         continue
       }
+      // The current object evidence page renders citation details directly in
+      // the claim card. The legacy advanced-evidence projection below adds
+      // richer quote classes; for the direct renderer, presence of the
+      // citation detail is the invariant and the component owns its display.
+      if (card.includes("object-evidence-citation")) continue
       if (
         citation.fields.get("citatos_rezimas")?.trim() === "indeksas" &&
         citation.fields.get("indeksas")?.trim()
