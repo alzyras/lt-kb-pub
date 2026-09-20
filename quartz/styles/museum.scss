@@ -72,8 +72,10 @@
   .snowflake-edges path { fill: none; stroke: var(--node-paint); stroke-width: .6; opacity: .24; }
   .snowflake-hit { fill: transparent; }
   .snowflake-dot { fill: var(--node-paint); stroke: var(--ui-surface); stroke-width: 1; transition: stroke-width 180ms; }
-  .snowflake-node text { font: 12px var(--bodyFont); fill: var(--ui-text); stroke: var(--ui-surface); stroke-width: 5px; paint-order: stroke; opacity: 0; pointer-events: none; }
-  .snowflake-node:hover text, .snowflake-node:focus text, .snowflake-node.is-selected text { opacity: 1; }
+  .snowflake-node text, .snowflake-active-label { font: 12px var(--bodyFont); fill: var(--ui-text); stroke: var(--ui-surface); stroke-width: 5px; paint-order: stroke; opacity: 0; pointer-events: none; }
+  .snowflake-label-overlay { pointer-events: none; }
+  .snowflake-label-overlay rect { fill: var(--ui-surface); stroke: var(--museum-rule); stroke-width: .6px; }
+  .snowflake-active-label { opacity: 1; }
   .snowflake-node:hover .snowflake-dot, .snowflake-node:focus .snowflake-dot { stroke: var(--node-paint); stroke-width: 3; }
   .snowflake-center circle { fill: var(--museum-accent); stroke: var(--ui-surface); stroke-width: 6px; }
   .snowflake-center text { fill: var(--ui-text); font: 15px var(--museum-serif); stroke: var(--ui-surface); stroke-width: 5px; paint-order: stroke; }
@@ -172,7 +174,7 @@
     .object-detail-page .object-detail-wiki-portrait { padding: 0; border: 0; border-radius: 0; background: transparent; }
   .object-detail-page :is(h2, h3) { font-family: var(--museum-serif); font-weight: 400; }
   .object-snowflake { height: clamp(360px, 80vw, 440px); margin-block: 0 2rem; }
-  .snowflake-node text { font-size: 25px; }
+  .snowflake-node text, .snowflake-active-label { font-size: 25px; }
   .snowflake-center text { font-size: 26px; }
     .collection-home .collection-hero-content { width: calc(100% - 2.5rem); }
     .object-detail-page :is(td, th) { padding: .7rem .6rem; }
