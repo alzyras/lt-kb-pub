@@ -340,8 +340,9 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
             </p>
           )}
           <p class="exhibition-proof-note">
-            Kiekvienas faktinis teiginys turi nuorodą į šaltinį. Vaizdo interpretacijos pažymėtos
-            kaip parodos pasakojimas.
+            {exhibition.exhibitionId.startsWith("valancius-")
+              ? "Eksponatų aprašymus papildo katalogų nuorodos ir istorinių šaltinių ištraukos."
+              : "Kiekvienas faktinis teiginys turi nuorodą į šaltinį. Vaizdo interpretacijos pažymėtos kaip parodos pasakojimas."}
           </p>
           <div class="exhibition-reading-key" aria-label="Kaip skaityti parodą">
             <span class="is-narrative">Parodos pasakojimas</span>

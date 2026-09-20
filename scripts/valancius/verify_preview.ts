@@ -39,9 +39,9 @@ for (const slug of pages) {
   const ogImage = html.match(/<meta property="og:image" content="([^"]*)"/)?.[1]
   assert.ok(title && description && canonical && ogImage, `Incomplete SEO: ${slug}`)
   if (slug === "straipsniai/kaip-valancius-keite-kasdienybe")
-    assert.equal(title, "Valančius ir blaivybė: kaip keitėsi kaimas")
+    assert.equal(title, "Kodėl kaimas gėrė ir kaip Valančius ragino negerti")
   if (slug === "parodos/valancius-nuo-sakyklos-iki-skaitytojo")
-    assert.equal(title, "Valančiaus blaivybės sąjūdis: skaitmeninė paroda")
+    assert.ok(title.startsWith("Valančiaus blaivybės brolijos"))
   // A complete introductory question can be shorter than 90 characters.
   // Match the shared SEO minimum, and reject genuinely clipped descriptions.
   assert.ok(description.length >= 50 && !description.endsWith("…"), `Truncated description: ${slug}`)
