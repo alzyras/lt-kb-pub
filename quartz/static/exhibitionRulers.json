@@ -1,7 +1,7 @@
 {
   "exhibitions": [
     {
-      "description": "Septyni valstybingumo šimtmečiai, 33 valdovų istorijos. Nuo ankstyvosios Lietuvos kūrimosi ir dinastinių kovų iki renkamos Respublikos monarchijos, Apšvietos reformų ir 1795 metų. Atvaizdai, valdymo datos ir pasakojimai kviečia pažinti žmones, kurių sprendimai keitė valstybę.",
+      "description": "33 valdovų istorijos nuo Lietuvos karalystės iki Respublikos padalijimų. Nuo ankstyvosios Lietuvos kūrimosi ir dinastinių kovų iki renkamos Respublikos monarchijos, Apšvietos reformų ir 1795 metų. Atvaizdai, valdymo datos ir pasakojimai kviečia pažinti žmones, kurių sprendimai keitė valstybę.",
       "exhibitionId": "ex-lietuvos-ir-atr-valdovai",
       "hero": {
         "attribution": "Marcello Bacciarelli · Public domain",
@@ -2696,7 +2696,7 @@
       "slug": "parodos/lietuvos-ir-atr-valdovai",
       "status": "draft",
       "subtitle": "Nuo Mindaugo iki Stanislovo Augusto Poniatovskio",
-      "title": "Lietuvos ir ATR valdovai",
+      "title": "LDK ir ATR valdovai",
       "updatedAt": "2026-09-20T21:55:32.990632+03:00"
     }
   ],

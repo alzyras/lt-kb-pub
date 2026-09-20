@@ -67,12 +67,14 @@
   .object-snowflake svg { display: block; width: 100%; height: 100%; overflow: visible; transform-origin: center; }
   .object-snowflake[data-depth-motion] .snowflake-scene { opacity: var(--snowflake-opacity, 1); transform: translateY(var(--snowflake-shift, 0px)) scale(var(--snowflake-scale, 1)); }
   .object-snowflake:is(:has(.snowflake-node:hover), :focus-within) .snowflake-scene { opacity: 1; }
-  .snowflake-edges path { fill: none; stroke: var(--node-color, var(--museum-muted)); stroke-width: .6; opacity: .24; }
+  .snowflake-node, .snowflake-edges path { --node-paint: var(--node-color, var(--museum-muted)); }
+  :root[saved-theme="dark"] :is(.snowflake-node, .snowflake-edges path) { --node-paint: color-mix(in srgb, var(--node-color, var(--museum-muted)) 70%, #fff); }
+  .snowflake-edges path { fill: none; stroke: var(--node-paint); stroke-width: .6; opacity: .24; }
   .snowflake-hit { fill: transparent; }
-  .snowflake-dot { fill: var(--node-color); stroke: var(--ui-surface); stroke-width: 1; transition: stroke-width 180ms; }
+  .snowflake-dot { fill: var(--node-paint); stroke: var(--ui-surface); stroke-width: 1; transition: stroke-width 180ms; }
   .snowflake-node text { font: 12px var(--bodyFont); fill: var(--ui-text); stroke: var(--ui-surface); stroke-width: 5px; paint-order: stroke; opacity: 0; pointer-events: none; }
   .snowflake-node:hover text, .snowflake-node:focus text, .snowflake-node.is-selected text { opacity: 1; }
-  .snowflake-node:hover .snowflake-dot, .snowflake-node:focus .snowflake-dot { stroke: var(--node-color); stroke-width: 3; }
+  .snowflake-node:hover .snowflake-dot, .snowflake-node:focus .snowflake-dot { stroke: var(--node-paint); stroke-width: 3; }
   .snowflake-center circle { fill: var(--museum-accent); stroke: var(--ui-surface); stroke-width: 6px; }
   .snowflake-center text { fill: var(--ui-text); font: 15px var(--museum-serif); stroke: var(--ui-surface); stroke-width: 5px; paint-order: stroke; }
   .museum-section { transition: opacity 400ms ease, transform 400ms ease; }
