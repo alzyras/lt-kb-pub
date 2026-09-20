@@ -124,10 +124,13 @@ function verifyObjectEvidence(
     const nextClaim = renderedClaimStarts.find((start) => start > claimStart)
     const claimHtml = evidenceHtml.slice(claimStart, nextClaim ?? evidenceHtml.length)
     const refs = claim.lists.get("pagrindžia") ?? claim.lists.get("pagrindzia") ?? []
-    for (const rawRef of refs) {
-      const citationId = normalizeEvidenceId(rawRef)
-      const citation = citationById.get(citationId)
-      if (!citation) continue
+    const referencedCitations = refs
+      .map((ref) => citationById.get(normalizeEvidenceId(ref)))
+      .filter((citation): citation is EvidenceEntry => citation !== undefined)
+    // ObjectEvidencePage consolidates identical source/page/quote records.
+    // Keep checking every distinct quotation, including its support status.
+    for (const citation of uniqueCitations(referencedCitations)) {
+      const citationId = citation.id
       const citationMatch = claimHtml.match(
         new RegExp(`data-citation-id=["']${citationId.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}['"]`, "iu"),
       )
