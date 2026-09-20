@@ -92,7 +92,7 @@
         "https://upload.wikimedia.org/wikipedia/commons/0/00/Stanis%C5%82aw_August_Poniatowski_coronation_robes.jpg"
       ],
       "layout": "chronological",
-      "noindex": true,
+      "noindex": false,
       "schemaVersion": "ltkb-exhibition/v1",
       "sections": [
         {
@@ -2694,10 +2694,10 @@
         }
       ],
       "slug": "parodos/lietuvos-ir-atr-valdovai",
-      "status": "draft",
+      "status": "published",
       "subtitle": "Nuo Mindaugo iki Stanislovo Augusto Poniatovskio",
       "title": "LDK ir ATR valdovai",
-      "updatedAt": "2026-09-20T21:55:32.990632+03:00"
+      "updatedAt": "2026-09-20T20:33:38Z"
     }
   ],
   "schemaVersion": "ltkb-exhibition/v1"

@@ -1,7 +1,8 @@
 # Muziejinė peržiūra ir turinio atnaujinimas
 
-Ši šaka skirta vietinei peržiūrai. Valdovų paroda lieka backend juodraštis;
-publikuojama `main` šaka nekeičiama.
+Muziejinė versija peržiūrėta vietoje; 2026-09-20 vartotojas patvirtino publikavimą.
+Valdovų paroda backend pažymėta `published`, `noindex` išjungtas.
+Svetainė leidžiama per patikrintą `main` ir GitHub Pages procesą.
 
 ## Vienas valdovų registras
 
