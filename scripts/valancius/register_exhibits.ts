@@ -25,7 +25,7 @@ const register = Object.values(curation).flatMap((exhibition: any) =>
         asset,
         width: media.width,
         height: media.height,
-        reviewStatus: item.hold ? "publication-hold" : "reviewed-for-preview",
+        reviewStatus: item.hold ? "publication-hold" : exhibition.status === "published" ? "approved-for-publication" : "reviewed-for-preview",
       }
     }),
   ),

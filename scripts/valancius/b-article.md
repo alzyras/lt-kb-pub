@@ -3,10 +3,10 @@ title: "Kodėl kaimas gėrė ir kaip Valančius ragino negerti"
 seo_title: "Kodėl kaimas gėrė ir kaip Valančius ragino negerti"
 description: "Kodėl kaime gerta, kam degtinė nešė pajamas ir ką pakeitė Valančiaus blaivybės sąjūdis? Žmonių pažadai, dvarų interesai ir imperijos sprendimai."
 tipas: straipsnis
-statusas: peržiūrai
-noindex: true
+statusas: paskelbta
+noindex: false
 autorius: "Lietuvos istorijos žinių lobynas"
-date: 2026-09-13
+date: 2026-09-20
 sukurta: "2026-09-13"
 atnaujinta: "2026-09-20"
 tags: [Motiejus-Valančius, XIX-amžius, blaivybė, karčemos, dvarai]
@@ -19,11 +19,11 @@ relatedContent:
   - {title: "Valančiaus blaivybės brolijos · paroda", href: "/parodos/valancius-nuo-sakyklos-iki-skaitytojo/"}
 ---
 
-<p class="puota-kicker">Ilgasis skaitymas · XIX amžius · redakcinė peržiūra</p>
+<p class="puota-kicker">Ilgasis skaitymas · XIX amžius</p>
 
 <p class="puota-dek">„Tyluma ir ramybė įsiviešpatavo.“ Taip Motiejus Valančius laiške Vilniaus generalgubernatoriui Vladimirui Nazimovui apibūdino blaivybę priėmusių parapijų permainą. Pasak vyskupo, nyko muštynės, barniai, nesantaika šeimose. Tačiau ramybė namuose kai kam reiškė nerimą dėl pajamų. Kas atsitinka, kai žmogus atsisako gėrimo, iš kurio uždirba dvaras, prekiautojas ir valstybė?</p>
 
-<p class="puota-evidence-note">Parengė Lietuvos istorijos žinių lobynas · atnaujinta 2026-09-20 · peržiūros juodraštis.</p>
+<p class="puota-evidence-note">Parengė Lietuvos istorijos žinių lobynas · atnaujinta 2026-09-20.</p>
 
 <p>Apie 17 min. skaitymo. Istorinius vaizdus ir dokumentus rasite parodoje <a href="/parodos/valancius-nuo-sakyklos-iki-skaitytojo/">„Valančiaus blaivybės brolijos“</a>.</p>
 

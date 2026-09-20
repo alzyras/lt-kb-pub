@@ -1,6 +1,8 @@
 {
   "A": {
     "slug": "valancius-laiskai-imperijos-seselyje",
+    "status": "published",
+    "noindex": false,
     "title": "Valančiaus laiškai ir draudžiamos knygos",
     "seo_title": "Valančiaus laiškai ir draudžiamos knygos",
     "subtitle": "Vyskupo laiškai, knygos ir portretai iš XIX amžiaus",
@@ -144,6 +146,8 @@
   },
   "B": {
     "slug": "valancius-nuo-sakyklos-iki-skaitytojo",
+    "status": "published",
+    "noindex": false,
     "title": "Valančiaus blaivybės brolijos",
     "seo_title": "Valančiaus blaivybės brolijos",
     "subtitle": "Kaip buvo raginama negerti ir ką reiškė blaivybės pažadas",

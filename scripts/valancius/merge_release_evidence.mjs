@@ -51,7 +51,7 @@ for (const note of notes) {
   if(merged.size!==a.claimMap.size) output=output.replace(/^object_page_claim_count:.*$/m,`object_page_claim_count: '${merged.size}'`)
   fs.writeFileSync(note,output)
   manifest.files[note]={...manifest.files[note],rendered_hash:hash(output),projection_mode:'authored_object_page',evidence_export_hash:hash(incoming),evidence_export_content_hash:source.files[note].content_hash,evidence_base_hash:hash(current)}
-  receipt.notes.push({note,retainedClaims:a.claimMap.size,reviewedClaims:b.claimMap.size,publishedClaims:merged.size,retainedCitations:a.quoteMap.size,publishedCitations:quotes.size})
+  receipt.notes.push({note,retainedClaimIds:[...a.claimMap.keys()],retainedCitationIds:[...a.quoteMap.keys()],retainedClaims:a.claimMap.size,reviewedClaims:b.claimMap.size,publishedClaims:merged.size,retainedCitations:a.quoteMap.size,publishedCitations:quotes.size})
 }
 fs.writeFileSync('public-projection-manifest.json',JSON.stringify(manifest,null,2)+'\n')
 fs.writeFileSync('scripts/valancius/review/release-evidence-merge.json',JSON.stringify(receipt,null,2)+'\n')

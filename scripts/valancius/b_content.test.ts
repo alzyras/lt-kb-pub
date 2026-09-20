@@ -7,10 +7,10 @@ const curation = JSON.parse(read("scripts/valancius/curation.json"))
 const before = JSON.parse(read("scripts/valancius/archive/b-before-2026-09-14/curation.json"))
 const article = matter(read("straipsniai/kaip-valancius-keite-kasdienybe.md"))
 
-test("B keeps its URL, draft state, authorship and distinct social image", () => {
+test("B keeps its URL, approved publication state, authorship and distinct social image", () => {
   assert.equal(article.data.title,"Kodėl kaimas gėrė ir kaip Valančius ragino negerti")
   assert.equal(article.data.seo_title,"Kodėl kaimas gėrė ir kaip Valančius ragino negerti")
-  assert.equal(article.data.noindex,true)
+  assert.equal(article.data.noindex,false)
   assert.equal(article.data.autorius,"Lietuvos istorijos žinių lobynas")
   assert.match(article.data.media_primary_thumb_url,/vinkus-vitkauskas/)
   assert.equal(curation.B.hero,"brostwa")
@@ -52,7 +52,7 @@ test("withdrawn media are preserved while B navigation uses new titles", () => {
   assert.ok(old.every((i:any)=>catalog.some((e:any)=>e.mediaId===i.mediaId)))
   const exported=JSON.parse(read("quartz/static/exhibitionValancius.json")).exhibitions
   for(const e of exported){
-    assert.equal(e.status,'draft');assert.equal(e.noindex,true)
+    assert.equal(e.status,'published');assert.equal(e.noindex,false)
     assert.equal(e.relatedContent.length,4)
     assert.ok(e.relatedContent.some((l:any)=>l.title==='Valančiaus blaivybės brolijos · paroda'))
   }

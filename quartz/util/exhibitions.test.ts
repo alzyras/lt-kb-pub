@@ -60,11 +60,11 @@ describe("exhibition manifest", () => {
   )
   const authoritySeals = exhibitions.find((entry) => entry.exhibitionId === "valdzia-vaske")
 
-  test("Valančius drafts retain SEO, four cycle links and compact documentary structure", () => {
+  test("Published Valančius exhibitions retain SEO, four cycle links and compact documentary structure", () => {
     const cycle = exhibitions.filter((entry) => entry.exhibitionId.startsWith("valancius-"))
     assert.equal(cycle.length, 2)
     for (const exhibition of cycle) {
-      assert.ok(exhibition.noindex)
+      assert.equal(exhibition.noindex, false)
       assert.ok(exhibition.seo_title)
       assert.equal(exhibition.relatedContent?.length, 4)
       assert.ok(exhibition.relatedContent?.some((link) => link.href === `/${exhibition.slug}/`))

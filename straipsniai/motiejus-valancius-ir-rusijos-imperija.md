@@ -7,10 +7,10 @@ media_primary_width: 463
 media_primary_height: 600
 media_social_alt: "Vyskupo portretas, 1854"
 tipas: straipsnis
-statusas: peržiūrai
-noindex: true
+statusas: paskelbta
+noindex: false
 autorius: "Lietuvos istorijos žinių lobynas"
-date: 2026-09-13
+date: 2026-09-20
 sukurta: "2026-09-13"
 atnaujinta: "2026-09-20"
 tags: [Motiejus-Valančius, XIX-amžius, Rusijos-imperija, spaudos-draudimas]
@@ -23,11 +23,11 @@ relatedContent:
   - {title: "Valančiaus blaivybės brolijos · paroda", href: "/parodos/valancius-nuo-sakyklos-iki-skaitytojo/"}
 ---
 
-<p class="puota-kicker">Ilgasis skaitymas · XIX amžius · redakcinė peržiūra</p>
+<p class="puota-kicker">Ilgasis skaitymas · XIX amžius</p>
 
 <p class="puota-dek">1863 metais caro valdžia reikalavo, kad Motiejus Valančius paragintų sukilėlius pasiduoti. Vyskupas pasirašė viešai skelbiamą laišką, bet jo tekstą keitė ir pareigūnai. Vėliau tas pats Valančius organizavo draudžiamų lietuviškų knygų leidimą ir gabenimą. Kaip jis sprendė, kada tartis su valdžia, kada prisitaikyti, o kada veikti slapta?</p>
 
-<p class="puota-evidence-note">Parengė Lietuvos istorijos žinių lobynas · atnaujinta 2026-09-20 · peržiūros juodraštis.</p>
+<p class="puota-evidence-note">Parengė Lietuvos istorijos žinių lobynas · atnaujinta 2026-09-20.</p>
 
 <p>Apie 13 min. skaitymo. Laiškus ir atvaizdus apžiūrėkite parodoje <a href="/parodos/valancius-laiskai-imperijos-seselyje/">„Valančiaus laiškai ir draudžiamos knygos“</a>.</p>
 
@@ -155,4 +155,4 @@ Apie kitą jo veiklą — raginimą negerti, blaivybės pažadą ir dėl sumaž�
 - Aleksandravičius, Egidijus. *Blaivybė Lietuvoje XIX amžiuje*. Naudotos dalys apie administracijos reakciją į blaivybės judėjimą ir lietuviškos periodinės spaudos sumanymą.
 - Merkys, Vytautas. *Motiejus Valančius: tarp katalikiškojo universalizmo ir tautiškumo*. Vilnius: Mintis, 1999. Istoriografinis problemos pagrindas; konkrečių šiame straipsnyje aptartų epizodų įrodymai pateikiami atskirai.
 
-<p class="puota-evidence-note">Metodikos pastaba. Senasis žodis <em>gromata</em> reiškia laišką ar raštą. Citatose paliekama šaltinio kalba; straipsnio paaiškinimas nėra pažodinė XIX a. teksto citata. Ši peržiūros versija dar nepaskelbta.</p>
+<p class="puota-evidence-note">Metodikos pastaba. Senasis žodis <em>gromata</em> reiškia laišką ar raštą. Citatose paliekama šaltinio kalba; straipsnio paaiškinimas nėra pažodinė XIX a. teksto citata.</p>

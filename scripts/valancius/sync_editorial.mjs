@@ -16,6 +16,8 @@ for (const source of Object.values(curated)) {
   const exhibition = exported.exhibitions.find(e => e.exhibitionId === source.slug)
   if (!exhibition) throw new Error(`Missing exported exhibition ${source.slug}`)
   for (const field of ['title', 'seo_title', 'subtitle', 'description']) exhibition[field] = source[field]
+  exhibition.status = source.status || 'draft'
+  exhibition.noindex = source.noindex ?? true
   exhibition.relatedContent = links
   exhibition.updatedAt = article.data.atnaujinta
   for (const section of source.sections) {

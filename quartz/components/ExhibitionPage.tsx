@@ -336,7 +336,8 @@ function ExhibitionDetail({ exhibition }: { exhibition: ExhibitionManifest }) {
           <p class="exhibition-intro">{exhibition.description}</p>
           {exhibition.exhibitionId.startsWith("valancius-") && (
             <p class="exhibition-proof-note">
-              Parengė Lietuvos istorijos žinių lobynas · redakcinė peržiūra
+              Parengė Lietuvos istorijos žinių lobynas
+              {exhibition.noindex && " · redakcinė peržiūra"}
             </p>
           )}
           <p class="exhibition-proof-note">

@@ -13,23 +13,24 @@ const b = 'straipsniai/kaip-valancius-keite-kasdienybe.md'
 const curation = json('scripts/valancius/curation.json')
 const exhibitions = json('quartz/static/exhibitionValancius.json').exhibitions
 
-test('all four edited titles retain distinct URLs, dates and draft metadata', () => {
+test('all four approved titles retain distinct URLs, dates and publication metadata', () => {
   for (const [file,title] of [[a,'Valančius ir caro valdžia'],[b,'Kodėl kaimas gėrė ir kaip Valančius ragino negerti']]) {
     const {data} = matter(read(file))
     assert.equal(data.title,title)
     assert.equal(data.seo_title,title)
-    assert.equal(data.noindex,true)
-    assert.equal(data.statusas,'peržiūrai')
+    assert.equal(data.noindex,false)
+    assert.equal(data.statusas,'paskelbta')
     assert.equal(data.atnaujinta,'2026-09-20')
     assert.equal(data.sukurta,'2026-09-13')
+    assert.equal(new Date(data.date).toISOString().slice(0,10),'2026-09-20')
     assert.equal(data.relatedContent.length,4)
     assert.ok(seoTitle({title,seoTitle:title}, 'Lietuvos istorija',' – Lietuvos istorija').startsWith(title))
   }
   assert.equal(curation.A.title,'Valančiaus laiškai ir draudžiamos knygos')
   assert.equal(curation.B.title,'Valančiaus blaivybės brolijos')
   for (const e of exhibitions) {
-    assert.equal(e.noindex,true)
-    assert.equal(e.status,'draft')
+    assert.equal(e.noindex,false)
+    assert.equal(e.status,'published')
     assert.deepEqual(e.relatedContent,matter(read(b)).data.relatedContent)
   }
 })

@@ -14,7 +14,7 @@ import { syncBuiltinESMExports } from "node:module"
 const root = fileURLToPath(new URL("../../", import.meta.url))
 if (
   process.platform !== "darwin" ||
-  path.basename(root.replace(/\/$/, "")) !== "lt-kb-pub-valancius"
+  !["lt-kb-pub-valancius", "lt-kb-pub-valancius-release"].includes(path.basename(root.replace(/\/$/, "")))
 ) {
   throw new Error("This compression aid is restricted to the isolated macOS Valančius preview")
 }

@@ -24,7 +24,7 @@
     "asset": "/static/media/valancius/motiejus-valancius-noel-portretas-1854.jpg",
     "width": 463,
     "height": 600,
-    "reviewStatus": "reviewed-for-preview"
+    "reviewStatus": "approved-for-publication"
   },
   {
     "key": "taurage",
@@ -52,7 +52,7 @@
     "asset": "/static/media/valancius/valancius-laiskas-taurages-klebonui-1852.jpg",
     "width": 1200,
     "height": 1347,
-    "reviewStatus": "reviewed-for-preview"
+    "reviewStatus": "approved-for-publication"
   },
   {
     "key": "fragmentas",
@@ -80,7 +80,7 @@
     "asset": "/static/media/valancius/valancius-laisko-fragmentas-1862.jpg",
     "width": 1200,
     "height": 978,
-    "reviewStatus": "reviewed-for-preview"
+    "reviewStatus": "approved-for-publication"
   },
   {
     "key": "kirilikos-knyga",
@@ -108,7 +108,7 @@
     "asset": "/static/media/valancius/evangelios-kirilika-vilnius-1865.jpg",
     "width": 1240,
     "height": 920,
-    "reviewStatus": "reviewed-for-preview"
+    "reviewStatus": "approved-for-publication"
   },
   {
     "key": "foto1867",
@@ -135,7 +135,7 @@
     "asset": "/static/media/valancius/motiejus-valancius-bucher-fotografija-1867.jpg",
     "width": 1736,
     "height": 2792,
-    "reviewStatus": "reviewed-for-preview"
+    "reviewStatus": "approved-for-publication"
   },
   {
     "key": "tomasevicius",
@@ -163,7 +163,7 @@
     "asset": "/static/media/valancius/valancius-laiskas-tomaseviciui-1870.jpg",
     "width": 1200,
     "height": 1509,
-    "reviewStatus": "reviewed-for-preview"
+    "reviewStatus": "approved-for-publication"
   },
   {
     "key": "dienorastis",
@@ -191,7 +191,7 @@
     "asset": "/static/media/valancius/valancius-pamietnik-domowy-rankrastis-1873.jpg",
     "width": 1200,
     "height": 1505,
-    "reviewStatus": "reviewed-for-preview"
+    "reviewStatus": "approved-for-publication"
   },
   {
     "key": "albumas1898",
@@ -218,7 +218,7 @@
     "asset": "/static/media/valancius/valancius-lietuviszkas-albumas-1898.jpg",
     "width": 4464,
     "height": 5927,
-    "reviewStatus": "reviewed-for-preview"
+    "reviewStatus": "approved-for-publication"
   },
   {
     "key": "karcemos-paveikslas",
@@ -246,7 +246,7 @@
     "asset": "/static/media/valancius/smuglevicius-valstieciai-karcemoje-iki-1807.jpg",
     "width": 4000,
     "height": 3068,
-    "reviewStatus": "reviewed-for-preview"
+    "reviewStatus": "approved-for-publication"
   },
   {
     "key": "smilgiu-rastas",
@@ -274,7 +274,7 @@
     "asset": "/static/media/valancius/panevezio-pranesimas-smilgiu-karcema-1864.jpg",
     "width": 1200,
     "height": 1891,
-    "reviewStatus": "reviewed-for-preview"
+    "reviewStatus": "approved-for-publication"
   },
   {
     "key": "knyga1849",
@@ -302,7 +302,7 @@
     "asset": "/static/media/valancius/blaivybes-knygele-latviu-kalba-peterburgas-1849.jpg",
     "width": 1073,
     "height": 1935,
-    "reviewStatus": "reviewed-for-preview"
+    "reviewStatus": "approved-for-publication"
   },
   {
     "key": "portretas1857",
@@ -329,7 +329,7 @@
     "asset": "/static/media/valancius/motiejus-valancius-lafosse-portretas-1857.jpg",
     "width": 433,
     "height": 600,
-    "reviewStatus": "reviewed-for-preview"
+    "reviewStatus": "approved-for-publication"
   },
   {
     "key": "brostwa",
@@ -357,7 +357,7 @@
     "asset": "/static/media/valancius/valancius-apej-brostwa-blaivistes-1861.jpg",
     "width": 1200,
     "height": 2097,
-    "reviewStatus": "reviewed-for-preview"
+    "reviewStatus": "approved-for-publication"
   },
   {
     "key": "medzio-raizinys",
@@ -384,7 +384,7 @@
     "asset": "/static/media/valancius/vinkus-vitkauskas-blaivybes-medzio-raizinys-1861.jpg",
     "width": 637,
     "height": 800,
-    "reviewStatus": "reviewed-for-preview"
+    "reviewStatus": "approved-for-publication"
   },
   {
     "key": "oginskis",
@@ -413,7 +413,7 @@
     "asset": "/static/media/valancius/irenejus-kleopas-oginskis-kaniewski-portretas-1845.jpg",
     "width": 723,
     "height": 900,
-    "reviewStatus": "reviewed-for-preview"
+    "reviewStatus": "approved-for-publication"
   },
   {
     "key": "medalis",
@@ -440,6 +440,6 @@
     "asset": "/static/media/valancius/blaivybes-medalis-po-1889.jpg",
     "width": 598,
     "height": 800,
-    "reviewStatus": "reviewed-for-preview"
+    "reviewStatus": "approved-for-publication"
   }
 ]
