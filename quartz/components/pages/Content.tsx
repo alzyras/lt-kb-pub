@@ -3,10 +3,17 @@ import type { Root } from "hast"
 import { toString } from "hast-util-to-string"
 import { htmlToJsx } from "../../util/jsx"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "../types"
+import { CollectionDetail, collectionStyle } from "../CollectionPage"
+import { PageList } from "../PageList"
+import { concatenateResources } from "../../util/resources"
 
-const Content: QuartzComponent = ({ fileData, tree }: QuartzComponentProps) => {
+const Content: QuartzComponent = (props: QuartzComponentProps) => {
+  const { fileData, tree } = props
   if (fileData.slug === "index") {
     return null
+  }
+  if (["tema", "laikotarpis"].includes(String(fileData.frontmatter?.tipas))) {
+    return <CollectionDetail {...props} />
   }
 
   // The shared page header already renders the title. Avoid a second H1 when
@@ -32,5 +39,7 @@ const Content: QuartzComponent = ({ fileData, tree }: QuartzComponentProps) => {
     .join(" ")
   return <article class={classString}>{content}</article>
 }
+Content.css = concatenateResources(PageList.css, collectionStyle)
+Content.afterDOMLoaded = PageList.afterDOMLoaded
 
 export default (() => Content) satisfies QuartzComponentConstructor

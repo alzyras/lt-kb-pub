@@ -1,0 +1,419 @@
+// Scoped collection system: no changes to evidence, editorial or object-detail layouts.
+body .page > #quartz-body:has(.collection-page) {
+  .page-header > .popover-hint {
+    display: none;
+  }
+  > footer,
+  > .center > footer {
+    grid-column: 1;
+    width: 100%;
+    box-sizing: border-box;
+  }
+}
+.bm-list-page.collection-page {
+  --collection-line: var(--ui-border, #e1deda);
+  width: min(100% - 4rem, 1160px);
+  padding: 2rem 0 5rem;
+  color: var(--ui-text, #242124);
+  font-family: var(--bodyFont);
+  * {
+    box-sizing: border-box;
+  }
+  [hidden] {
+    display: none !important;
+  }
+  a:focus-visible,
+  button:focus-visible,
+  input:focus-visible,
+  select:focus-visible {
+    outline: 2px solid var(--bm-purple);
+    outline-offset: 4px;
+  }
+  .collection-intro {
+    display: block;
+    margin: 0;
+    padding: 1rem 0 2rem;
+    border: 0;
+  }
+  .collection-eyebrow {
+    margin: 0 0 1rem;
+    color: var(--bm-purple);
+    font: 600 0.73rem/1.5 var(--bodyFont);
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+  .collection-intro h1 {
+    margin: 0 0 1rem;
+    color: var(--ui-text);
+    font: 600 clamp(2.6rem, 5.4vw, 4.5rem)/1.06 var(--headerFont);
+    letter-spacing: -0.045em;
+  }
+  .collection-description {
+    max-width: 43rem;
+    margin: 0 0 1.2rem;
+    color: var(--ui-muted);
+    font: 400 1.08rem/1.65 var(--bodyFont);
+  }
+  .collection-count {
+    font: 500 0.82rem/1.5 var(--bodyFont);
+    color: var(--ui-muted);
+  }
+  .collection-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.3rem;
+    margin: 0 0 1.7rem;
+    padding: 0.8rem 0;
+    border-block: 1px solid var(--collection-line);
+  }
+  .collection-nav a {
+    padding: 0.5rem 0.7rem;
+    border-radius: 4px;
+    color: var(--ui-muted);
+    background: transparent;
+    font: 500 0.82rem/1.4 var(--bodyFont);
+    text-decoration: none;
+    white-space: nowrap;
+  }
+  .collection-nav a:hover,
+  .collection-nav a[aria-current="page"] {
+    color: var(--bm-purple);
+    background: color-mix(in srgb, var(--bm-purple) 7%, transparent);
+  }
+  .collection-neighbours {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    margin: 0 0 1.5rem;
+    font-size: 0.85rem;
+  }
+  .collection-neighbours a {
+    color: var(--ui-muted);
+  }
+  .object-list-controls {
+    display: grid;
+    grid-template-columns: minmax(14rem, 1.7fr) minmax(9rem, 1fr) minmax(10rem, 1fr);
+    gap: 1rem;
+    border: 0;
+    background: transparent;
+    padding: 0;
+    margin: 0 0 1rem;
+  }
+  .object-list-control-group {
+    min-width: 0;
+  }
+  .object-list-control-group label {
+    margin-bottom: 0.4rem;
+    font: 600 0.77rem/1.4 var(--bodyFont);
+    color: var(--ui-muted);
+    text-transform: none;
+    letter-spacing: 0;
+  }
+  .object-list-control-group input,
+  .object-list-control-group select {
+    width: 100%;
+    min-width: 0;
+    height: 44px;
+    padding: 0.6rem 0.8rem;
+    border: 1px solid var(--collection-line);
+    border-radius: 5px;
+    background: var(--ui-surface);
+    color: var(--ui-text);
+    font: 400 0.9rem/1.3 var(--bodyFont);
+  }
+  .object-list-summary {
+    grid-column: 1 / 3;
+    align-self: center;
+    font: 400 0.82rem/1.5 var(--bodyFont);
+    letter-spacing: 0;
+    text-transform: none;
+    color: var(--ui-muted);
+  }
+  .object-list-pagination {
+    grid-column: 3;
+    justify-self: end;
+    gap: 0.5rem;
+  }
+  .object-list-pagination a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 38px;
+    min-height: 38px;
+    padding: 0.35rem;
+    border: 1px solid var(--collection-line);
+    border-radius: 4px;
+    color: var(--ui-text);
+    font-size: 1rem;
+  }
+  .object-list-pagination span {
+    min-width: 3rem;
+    text-align: center;
+    font: 500 0.8rem/1.4 var(--bodyFont);
+  }
+  .object-list-active-filters {
+    grid-column: 1 / -1;
+    margin: 0;
+  }
+  .object-list-active-filters button,
+  .object-list-tag-pill {
+    font: 500 0.78rem/1.4 var(--bodyFont);
+    border-radius: 4px;
+    padding: 0.45rem 0.6rem;
+  }
+  .period-filter-controls {
+    margin: 0 0 1.5rem;
+    padding: 1rem 1.2rem;
+    border: 1px solid var(--collection-line);
+    border-radius: 6px;
+    background: color-mix(in srgb, var(--ui-muted) 3%, var(--ui-surface));
+  }
+  .period-filter-label,
+  .period-filter-range-label {
+    font: 500 0.83rem/1.4 var(--bodyFont);
+    color: var(--ui-muted);
+  }
+  .period-filter-header {
+    margin: 0;
+  }
+  .period-filter-slider {
+    margin: 0.7rem 0;
+    --period-thumb-size: 18px;
+  }
+  .period-filter-range {
+    background: var(--bm-purple);
+    height: 3px;
+  }
+  .period-filter-track {
+    height: 3px;
+  }
+  .period-filter-slider input[type="range"]::-webkit-slider-thumb {
+    width: 18px;
+    height: 18px;
+    background: var(--bm-purple);
+    border: 2px solid var(--ui-surface);
+    box-shadow: 0 0 0 1px var(--collection-line);
+  }
+  .period-filter-slider input[type="range"]::-moz-range-thumb {
+    width: 16px;
+    height: 16px;
+    background: var(--bm-purple);
+    border: 2px solid var(--ui-surface);
+  }
+  .period-filter-footer {
+    justify-content: flex-end;
+    gap: 1rem;
+  }
+  .period-filter-summary {
+    display: none;
+  }
+  .period-filter-unknown {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    font: 400 0.8rem/1.5 var(--bodyFont);
+  }
+  .period-filter-unknown input {
+    accent-color: var(--bm-purple);
+    width: 16px;
+    height: 16px;
+    margin: 0;
+  }
+  ul.section-ul {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.8rem;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    list-style: none;
+  }
+  li.section-li {
+    margin: 0;
+    border: 0;
+    min-width: 0;
+  }
+  li.section-li > .section {
+    height: 100%;
+    min-height: 0;
+    padding: 1.25rem;
+    border: 1px solid var(--collection-line);
+    border-radius: 6px;
+    background: var(--ui-surface);
+  }
+  li.section-li > .section::before {
+    display: none;
+  }
+  li.section-li > .section:hover {
+    border-color: color-mix(in srgb, var(--bm-purple) 40%, var(--collection-line));
+    background: var(--ui-surface);
+  }
+  li.section-li .listing-card-body {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    gap: 0.65rem;
+    padding: 0;
+  }
+  li.section-li .listing-card-meta-row {
+    gap: 0.5rem;
+  }
+  li.section-li .type-chip,
+  li.section-li .period-chip {
+    border: 0;
+    background: transparent;
+    padding: 0;
+    color: var(--ui-muted);
+    font: 500 0.73rem/1.4 var(--bodyFont);
+    letter-spacing: 0;
+    text-transform: none;
+  }
+  li.section-li .type-chip {
+    color: var(--bm-purple);
+  }
+  li.section-li .meta-box {
+    min-height: 0;
+    min-width: 0;
+    padding: 0;
+    gap: 0.5rem;
+  }
+  li.section-li .title-row {
+    margin: 0;
+  }
+  li.section-li .title-row a {
+    color: var(--ui-text);
+    font: 600 1.2rem/1.3 var(--headerFont);
+    letter-spacing: -0.015em;
+    overflow-wrap: anywhere;
+    text-decoration: none;
+  }
+  li.section-li .title-row a::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+  }
+  li.section-li .title-row a:hover {
+    color: var(--bm-purple);
+  }
+  li.section-li .inline-tags {
+    gap: 0.4rem;
+    margin: 0;
+  }
+  li.section-li .inline-tags a,
+  li.section-li .period-chip {
+    position: relative;
+    z-index: 1;
+  }
+  li.section-li .inline-tags a {
+    font: 400 0.73rem/1.4 var(--bodyFont);
+    letter-spacing: 0;
+    text-transform: none;
+    border: 0;
+    border-radius: 3px;
+    padding: 0.15rem 0.4rem;
+    background: color-mix(in srgb, var(--bm-purple) 5%, transparent);
+    color: var(--ui-muted);
+  }
+  li.section-li .listing-evidence-meta {
+    margin: auto 0 0;
+    padding-top: 0.4rem;
+    text-align: left;
+    align-self: start;
+    min-width: 0;
+    font: 400 0.76rem/1.5 var(--bodyFont);
+    letter-spacing: 0;
+    text-transform: none;
+    color: var(--ui-muted);
+  }
+  .collection-empty {
+    padding: 2rem;
+    border: 1px dashed var(--collection-line);
+    border-radius: 6px;
+    text-align: center;
+    color: var(--ui-muted);
+  }
+  .collection-period-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1rem;
+  }
+  a.collection-period-card {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 1.5rem;
+    border: 1px solid var(--collection-line);
+    border-top: 3px solid var(--bm-purple);
+    border-radius: 4px;
+    background: var(--ui-surface);
+    text-decoration: none;
+    color: var(--ui-muted);
+  }
+  .collection-period-card:hover {
+    background: color-mix(in srgb, var(--bm-purple) 4%, var(--ui-surface));
+  }
+  .collection-period-years {
+    font: 500 0.8rem/1.4 var(--bodyFont);
+    font-variant-numeric: tabular-nums;
+    color: var(--bm-purple);
+  }
+  .collection-period-card h2 {
+    margin: 0;
+    color: var(--ui-text);
+    font: 600 1.55rem/1.2 var(--headerFont);
+    letter-spacing: -0.03em;
+  }
+  .collection-period-card > span:last-child {
+    margin-top: auto;
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.8rem;
+  }
+  .theme-catalog-grid {
+    gap: 1rem;
+  }
+  a.theme-catalog-card {
+    border-color: var(--collection-line);
+    border-radius: 6px;
+    padding: 1.4rem;
+    gap: 0.7rem;
+  }
+  .theme-catalog-card strong {
+    font: 600 1.25rem/1.25 var(--headerFont);
+    color: var(--ui-text);
+  }
+  @media (max-width: 700px) {
+    width: calc(100% - 2rem);
+    padding-top: 1rem;
+    .collection-nav {
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      padding-bottom: 0.8rem;
+    }
+    .object-list-controls {
+      grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    }
+    .object-list-query-control {
+      grid-column: 1 / -1;
+    }
+    .object-list-summary {
+      grid-column: 1;
+    }
+    .object-list-pagination {
+      grid-column: 2;
+    }
+    ul.section-ul,
+    .collection-period-grid {
+      grid-template-columns: 1fr;
+    }
+    .collection-period-grid {
+      gap: 0.75rem;
+    }
+    li.section-li > .section {
+      padding: 1.1rem;
+    }
+    .period-filter-controls {
+      padding: 0.9rem;
+    }
+  }
+}

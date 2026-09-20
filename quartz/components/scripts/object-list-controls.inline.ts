@@ -170,6 +170,16 @@ function createEntry(slug: string, entry: ContentMetaDetails, index: number): HT
 }
 
 async function hydrateEntries(control: HTMLElement) {
+  const embedded = rootFor(control).querySelector<HTMLScriptElement>("[data-collection-index]")
+  if (embedded) {
+    const entries = JSON.parse(embedded.textContent ?? "[]") as ContentMetaDetails[]
+    virtualEntries.set(
+      control,
+      entries.map((entry) => [entry.slug, entry]),
+    )
+    control.dataset.objectListHydrated = "true"
+    return
+  }
   const load = objectListWindow.loadContentMeta
   const prefix = control.dataset.objectListPrefix?.replace(/\/$/, "")
   const list = rootFor(control).querySelector<HTMLUListElement>(
@@ -247,8 +257,9 @@ function renderVirtualPage(control: HTMLElement, virtual: Array<[string, Content
   const tags = selectedTags(control)
   const settings = readSettingsState()
   const currentParams = urlParams()
-  const from = Number(currentParams.get("from") ?? "0")
-  const to = Number(currentParams.get("to") ?? "2000")
+  const from = Number(currentParams.get("from") ?? "-Infinity")
+  const to = Number(currentParams.get("to") ?? "Infinity")
+  const type = control.querySelector<HTMLSelectElement>("[data-object-list-type]")?.value ?? ""
   const includeUnknown = currentParams.get("unknown") !== "0"
   const mode =
     control.querySelector<HTMLSelectElement>("[data-object-list-sort]")?.value ?? "claims-desc"
@@ -263,6 +274,7 @@ function renderVirtualPage(control: HTMLElement, virtual: Array<[string, Content
           : includeUnknown
       return (
         hasQuery &&
+        (!type || entry.itemType === type) &&
         hasTags &&
         hasPeriod &&
         Number(entry.claimCount ?? 0) >= settings.minClaimCount &&
@@ -281,11 +293,13 @@ function renderVirtualPage(control: HTMLElement, virtual: Array<[string, Content
   list?.replaceChildren(
     ...visible.map(([slug, entry], index) => createEntry(slug, entry, start + index)),
   )
+  const empty = rootFor(control).querySelector<HTMLElement>("[data-object-list-empty]")
+  if (empty) empty.hidden = filtered.length > 0
   const summary = control.querySelector<HTMLElement>("[data-object-list-summary]")
   const first = filtered.length ? start + 1 : 0
   const last = Math.min(start + PAGE_SIZE, filtered.length)
   if (summary)
-    summary.textContent = `${first}–${last} iš ${filtered.length.toLocaleString("lt-LT")} įrašų`
+    summary.textContent = `${first}–${last} iš ${filtered.length.toLocaleString("lt-LT")}${filtered.length < virtual.length ? ` · kolekcijoje ${virtual.length.toLocaleString("lt-LT")}` : ""}`
   const empty = rootFor(control).querySelector<HTMLElement>("[data-object-list-empty]")
   if (empty) empty.hidden = filtered.length > 0
   const periodSummary = rootFor(control).querySelector<HTMLElement>("[data-period-summary]")
@@ -343,7 +357,10 @@ function paginate(control: HTMLElement) {
 }
 
 function removeFilter(control: HTMLElement, key: string) {
-  if (key === "q") {
+  if (key === "type") {
+    const select = control.querySelector<HTMLSelectElement>("[data-object-list-type]")
+    if (select) select.value = ""
+  } else if (key === "q") {
     const input = control.querySelector<HTMLInputElement>("[data-object-list-query]")
     if (input) input.value = ""
   } else if (key === "sort") {
@@ -380,6 +397,8 @@ function renderActiveFilters(control: HTMLElement) {
   const query =
     control.querySelector<HTMLInputElement>("[data-object-list-query]")?.value.trim() ?? ""
   const sort = control.querySelector<HTMLSelectElement>("[data-object-list-sort]")
+  const type = control.querySelector<HTMLSelectElement>("[data-object-list-type]")
+  if (type?.value) active.push(["type", type.selectedOptions[0]?.textContent ?? type.value])
   if (query) active.push(["q", `Paieška: ${query}`])
   if (sort?.value && sort.value !== "claims-desc")
     active.push(["sort", `Rikiavimas: ${sort.selectedOptions[0]?.textContent ?? sort.value}`])
@@ -423,6 +442,8 @@ function applyFilters(control: HTMLElement, writeUrl = false) {
       const mode =
         control.querySelector<HTMLSelectElement>("[data-object-list-sort]")?.value ?? "claims-desc"
       mode === "claims-desc" ? value.delete("sort") : value.set("sort", mode)
+      const type = control.querySelector<HTMLSelectElement>("[data-object-list-type]")?.value
+      type ? value.set("type", type) : value.delete("type")
       value.delete("page")
     })
   renderActiveFilters(control)
@@ -461,6 +482,8 @@ function init() {
           control.querySelector<HTMLButtonElement>("[data-object-list-reset]")?.click()
           query?.focus()
         })
+      const typeSelect = control.querySelector<HTMLSelectElement>("[data-object-list-type]")
+      if (typeSelect) typeSelect.value = url.get("type") ?? ""
       if (query) query.value = url.get("q") ?? ""
       if (sort) sort.value = url.get("sort") ?? "claims-desc"
       ;(url.get("tags") ?? "")
@@ -469,6 +492,7 @@ function init() {
         .forEach((tag) => addTagPill(control, tag, false))
       query?.addEventListener("input", () => applyFilters(control, true))
       sort?.addEventListener("change", () => applyFilters(control, true))
+      typeSelect?.addEventListener("change", () => applyFilters(control, true))
       tagSelect?.addEventListener("change", () => {
         addTagPill(control, tagSelect.value)
         tagSelect.value = ""
@@ -478,6 +502,7 @@ function init() {
         ?.addEventListener("click", () => {
           if (query) query.value = ""
           if (sort) sort.value = "claims-desc"
+          if (typeSelect) typeSelect.value = ""
           control.querySelector<HTMLElement>("[data-object-list-tag-pills]")?.replaceChildren()
           updateUrl((value) => {
             ;["from", "to", "unknown", "page"].forEach((key) => value.delete(key))
@@ -499,7 +524,12 @@ function init() {
         .querySelectorAll<HTMLAnchorElement>("[data-object-list-pagination] a")
         .forEach((link) =>
           link.addEventListener("click", (event) => {
-            if (link.getAttribute("aria-disabled") === "true") event.preventDefault()
+            if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return
+            event.preventDefault()
+            if (link.getAttribute("aria-disabled") === "true") return
+            history.pushState({}, "", link.href)
+            applyFilters(control)
+            control.scrollIntoView({ block: "start" })
           }),
         )
       applyFilters(control)
@@ -516,6 +546,29 @@ void loadSourceCatalog().then((catalog) => {
   objectListWindow.applyObjectListPagination?.()
 })
 document.addEventListener("nav", init)
+window.addEventListener("popstate", () => {
+  document
+    .querySelectorAll<HTMLElement>('[data-object-list-controls="true"]')
+    .forEach((control) => {
+      const params = urlParams()
+      for (const [selector, key, fallback] of [
+        ["query", "q", ""],
+        ["sort", "sort", "claims-desc"],
+        ["type", "type", ""],
+      ]) {
+        const input = control.querySelector<HTMLInputElement | HTMLSelectElement>(
+          `[data-object-list-${selector}]`,
+        )
+        if (input) input.value = params.get(key) ?? fallback
+      }
+      control.querySelector("[data-object-list-tag-pills]")?.replaceChildren()
+      ;(params.get("tags") ?? "")
+        .split(",")
+        .filter(Boolean)
+        .forEach((tag) => addTagPill(control, tag, false))
+      applyFilters(control)
+    })
+})
 document.addEventListener("periodfilterchange", () => {
   document
     .querySelectorAll<HTMLElement>('[data-object-list-controls="true"]')

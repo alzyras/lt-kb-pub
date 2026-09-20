@@ -142,7 +142,10 @@ function isObjectRoot(slug: string | undefined): boolean {
 
 function isObjectTypeList(slug: string | undefined): boolean {
   const current = (slug ?? "").replace(/\/index$/, "")
-  return current.startsWith("objektai/") && current.split("/").length === 2
+  return (
+    (current.startsWith("objektai/") && current.split("/").length === 2) ||
+    /^(laikotarpiai|temos)\//.test(current)
+  )
 }
 
 function isObjectPage(page: QuartzPluginData, tipas = normalizedType(page.frontmatter?.tipas)) {
@@ -223,7 +226,7 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
   const sorter =
     sort ??
     (isObjectRoot(fileData.slug) ? objectFolderSorter : byDateAndAlphabeticalFolderFirst(cfg))
-  let list = allFiles.sort(sorter)
+  let list = [...allFiles].sort(sorter)
   if (limit) {
     list = list.slice(0, limit)
   }
@@ -273,6 +276,23 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
       })
     : []
   const groupedByType = shouldGroupByType(fileData.slug)
+  const types = [...new Set(prepared.map(({ page }) => normalizedType(page.frontmatter?.tipas)))]
+  // Self-contained membership: filtering must not depend on a second network
+  // request, infer membership from a folder prefix, or see only the first 50.
+  const collectionIndex = showObjectListControls
+    ? prepared.map(({ page, range }) => ({
+        slug: page.slug,
+        title: page.frontmatter?.title ?? page.frontmatter?.pavadinimas ?? "",
+        tags: page.frontmatter?.tags ?? [],
+        itemType: normalizedType(page.frontmatter?.tipas),
+        dateStart: range?.start,
+        dateEnd: range?.end,
+        citationFilterable: isObjectPage(page),
+        claimCount: claimCountForPage(page),
+        quoteCount: citationMetadataForPage(page).quoteCount,
+        citationSourceIds: citationMetadataForPage(page).sourceIds,
+      }))
+    : []
   const groups = groupedByType
     ? [
         ...prepared
@@ -392,6 +412,15 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
   return (
     <>
       {showObjectListControls && (
+        <script
+          type="application/json"
+          data-collection-index
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(collectionIndex).replace(/</g, "\\u003c"),
+          }}
+        />
+      )}
+      {showObjectListControls && (
         <div
           class="object-list-controls"
           data-object-list-controls="true"
@@ -420,9 +449,9 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
           </div>
           {objectListTagOptions.length > 0 && (
             <div class="object-list-control-group object-list-tag-control">
-              <label for="object-list-tag-select">Žyma</label>
+              <label for="object-list-tag-select">Temos ir žymos</label>
               <select id="object-list-tag-select" data-object-list-tag-select="">
-                <option value="">Visos žymos</option>
+                <option value="">Visos temos</option>
                 {objectListTagOptions.map((tag) => (
                   <option value={tag}>{tag}</option>
                 ))}
@@ -430,13 +459,27 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
               <div class="object-list-tag-pills" data-object-list-tag-pills="" />
             </div>
           )}
-          <span
-            class="object-list-summary"
-            data-object-list-summary=""
-            aria-live="polite"
-            aria-atomic="true"
-          >
-            Rodoma 0 iš 0
+          {types.length > 1 && (
+            <div class="object-list-control-group">
+              <label for="object-list-type">Objekto tipas</label>
+              <select id="object-list-type" data-object-list-type>
+                <option value="">Visi tipai</option>
+                {types.map((type) => (
+                  <option value={type}>
+                    {typeLabels[type] ?? type} (
+                    {
+                      prepared.filter(
+                        ({ page }) => normalizedType(page.frontmatter?.tipas) === type,
+                      ).length
+                    }
+                    )
+                  </option>
+                ))}
+              </select>
+            </div>
+          )}
+          <span class="object-list-summary" data-object-list-summary="">
+            {prepared.length.toLocaleString("lt-LT")} įrašų
           </span>
           <nav
             class="object-list-pagination"
@@ -522,6 +565,11 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
           >
             {(showObjectListControls ? items.slice(0, 50) : items).map(renderItem)}
           </ul>
+          {showObjectListControls && items.length > 50 && (
+            <noscript>
+              <ul class="section-ul">{items.slice(50).map(renderItem)}</ul>
+            </noscript>
+          )}
         </section>
       ))}
       {showObjectListControls && (

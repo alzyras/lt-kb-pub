@@ -13,6 +13,7 @@ import Gallery from "../quartz/components/ObjectMediaGallery"
 import Header from "../quartz/components/LIHeader"
 import GraphExplorer from "../quartz/components/GraphExplorer"
 import FolderContent from "../quartz/components/pages/FolderContent"
+import Content from "../quartz/components/pages/Content"
 import { EditorialCatalog, editorialCatalogStyle } from "../quartz/components/EditorialCatalog"
 import { loadObjectTopology } from "../quartz/util/objectGraph"
 import { graphVisualRegistry } from "../quartz/util/graphVisualRegistry"
@@ -83,7 +84,9 @@ for (const node of topology.nodes) {
   files.push({
     slug: slugifyFilePath(`${node.slug}.md` as any),
     filePath: fs.existsSync(notePath) ? notePath : undefined,
-    frontmatter: { title: node.title, tipas: node.type },
+    frontmatter: fs.existsSync(notePath)
+      ? { ...matter(fs.readFileSync(notePath, "utf8")).data, title: node.title, tipas: node.type }
+      : { title: node.title, tipas: node.type },
   })
 }
 for (const name of fs.readdirSync(path.join(root, "straipsniai"))) {
@@ -112,6 +115,18 @@ for (const name of paths) {
     })
 }
 const entries = objectMediaSet(fm as any).all
+for (const folder of ["laikotarpiai", "temos"]) {
+  for (const name of fs.readdirSync(path.join(root, folder))) {
+    if (!name.endsWith(".md")) continue
+    const fp = path.join(root, folder, name)
+    files.push({
+      slug: slugifyFilePath(`${folder}/${name}` as any),
+      filePath: fp,
+      frontmatter: matter(fs.readFileSync(fp, "utf8")).data,
+    })
+  }
+}
+for (const entry of files) entry.frontmatter.title ||= entry.frontmatter.pavadinimas || entry.slug
 const displayItems = objectEvidenceClaimItems(evidence)
 const sources = new Map(
   objectBibliography(files, evidence).flatMap((row) =>
@@ -152,6 +167,7 @@ const components = [
   Relations(),
   GraphExplorer(),
   FolderContent(),
+  Content(),
 ]
 const css = joinStyles(
   config.configuration.theme,
@@ -209,11 +225,13 @@ const server = http.createServer(async (req, res) => {
   }
   const route = decodeURIComponent(url.pathname).replace(/^\/|\/$/g, "")
   if (
-    ["zemelapis", "straipsniai", "parodos", "objektai"].includes(route) ||
-    /^objektai\/[^/]+$/u.test(route)
+    ["zemelapis", "straipsniai", "parodos", "objektai", "laikotarpiai", "temos"].includes(route) ||
+    /^(objektai|laikotarpiai|temos)\/[^/]+$/u.test(route)
   ) {
     const props: any = {
-      fileData: { slug: `${route}/index`, frontmatter: { title: route } },
+      fileData: files.find(
+        (file) => file.slug === route && ["tema", "laikotarpis"].includes(file.frontmatter?.tipas),
+      ) ?? { slug: `${route}/index`, frontmatter: { title: route } },
       allFiles: files,
       cfg: config.configuration,
       ctx: { cfg: config },
@@ -233,7 +251,11 @@ const server = http.createServer(async (req, res) => {
           }))}
         />
       ) : (
-        (route === "zemelapis" ? components[5] : components[6])(props)
+        (route === "zemelapis"
+          ? components[5]
+          : /^(laikotarpiai|temos)\//.test(route)
+            ? components[7]
+            : components[6])(props)
       )
     res.setHeader("Content-Type", "text/html; charset=utf-8")
     res.setHeader("Cache-Control", "no-store")

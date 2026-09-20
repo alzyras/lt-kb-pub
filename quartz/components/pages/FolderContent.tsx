@@ -4,7 +4,6 @@ import style from "../styles/listPage.scss"
 import { PageList, SortFn } from "../PageList"
 import { Root } from "hast"
 import { htmlToJsx } from "../../util/jsx"
-import { i18n } from "../../i18n"
 import { QuartzPluginData } from "../../plugins/vfile"
 import { ComponentChildren } from "preact"
 import { concatenateResources } from "../../util/resources"
@@ -15,6 +14,8 @@ import ObjectDirectory from "../ObjectDirectory"
 import objectDirectoryStyle from "../styles/objectDirectory.scss"
 import { ArticleCatalog, editorialCatalogStyle } from "../EditorialCatalog"
 import { objectCountLabel, objectTypes } from "../../util/objectTypes"
+import { CollectionIntro, CollectionNav, PeriodDirectory, collectionStyle } from "../CollectionPage"
+import { collectionCategories } from "../../util/collections"
 
 const ObjectDirectoryComponent = ObjectDirectory()
 
@@ -30,15 +31,6 @@ interface FolderContentOptions {
 const defaultOptions: FolderContentOptions = {
   showFolderCount: true,
   showSubfolders: true,
-}
-
-function folderLabel(slug: string | undefined, fallback: string): string {
-  const value = String(slug ?? "").replace(/\/index$/, "")
-  if (value === "objektai") return "Objektų indeksas"
-  if (value === "temos") return "Temų indeksas"
-  if (value === "laikotarpiai") return "Laikotarpių indeksas"
-  if (value.startsWith("objektai/")) return "Objektų tipas"
-  return fallback
 }
 
 function folderTitle(slug: string | undefined, fallback: string): string {
@@ -66,7 +58,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
   const options: FolderContentOptions = { ...defaultOptions, ...opts }
 
   const FolderContent: QuartzComponent = (props: QuartzComponentProps) => {
-    const { tree, fileData, allFiles, cfg } = props
+    const { tree, fileData, allFiles } = props
     if (String(fileData.slug ?? "").replace(/\/index$/, "") === "straipsniai")
       return <ArticleCatalog {...props} />
 
@@ -75,6 +67,9 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     // the folder trie having an `index` child node.
     if (String(fileData.slug ?? "").replace(/\/index$/, "") === "objektai") {
       return <ObjectDirectoryComponent {...props} />
+    }
+    if (String(fileData.slug ?? "").replace(/\/index$/, "") === "laikotarpiai") {
+      return <PeriodDirectory {...props} />
     }
 
     const trie = (props.ctx.trie ??= trieFromAllFiles(allFiles))
@@ -154,75 +149,18 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     ) as ComponentChildren
     const rawTitle = String(fileData.frontmatter?.title ?? folder.displayName)
     const title = folderTitle(fileData.slug, rawTitle)
-    const folderType = folderLabel(fileData.slug, title)
-    const folderCount = uniquePagesInFolder.length.toLocaleString("lt-LT")
-    const collection = objectTypes.find(
-      (type) => `objektai/${type.folder}` === String(fileData.slug).replace(/\/index$/, ""),
-    )
-
-    if (collection) {
-      return (
-        <main
-          class="popover-hint bm-list-page bm-folder-page object-type-catalog"
-          data-catalog-type={collection.type}
-        >
-          <header class="object-catalog-intro">
-            <div>
-              <p class="object-catalog-eyebrow">Lietuvos istorijos kolekcija</p>
-              <div class="object-catalog-title">
-                <h1>{collection.title}</h1>
-                <span class="object-catalog-count">
-                  {folderCount}
-                  <span> {objectCountLabel(uniquePagesInFolder.length, "entries")}</span>
-                </span>
-              </div>
-              <p class="object-catalog-description">{collection.description}</p>
-            </div>
-            <a
-              class="object-catalog-back"
-              href={resolveRelative(fileData.slug!, "objektai/index" as FullSlug)}
-            >
-              Visa kolekcija <span aria-hidden="true">↗</span>
-            </a>
-          </header>
-          <nav class="object-catalog-types" aria-label="Objektų tipai">
-            {objectTypes.map((type) => (
-              <a
-                href={resolveRelative(fileData.slug!, `objektai/${type.folder}/index` as FullSlug)}
-                aria-current={type.type === collection.type ? "page" : undefined}
-              >
-                {type.title}
-              </a>
-            ))}
-          </nav>
-          {(tree as Root).children.length > 0 && <article class={classes}>{content}</article>}
-          <div class="page-listing">
-            <PageList {...listProps} />
-          </div>
-        </main>
-      )
-    }
 
     if (String(fileData.slug ?? "").replace(/\/index$/, "") === "temos") {
       const themes = themeEntries(allFiles)
       return (
-        <div class="popover-hint bm-list-page bm-folder-page theme-catalog-page">
-          <section class="bm-list-intro" aria-label="Puslapio santrauka">
-            <div>
-              <p>Temų indeksas</p>
-              <h1>Temos</h1>
-            </div>
-            <dl>
-              <div>
-                <dt>Temos</dt>
-                <dd>{themes.length.toLocaleString("lt-LT")}</dd>
-              </div>
-            </dl>
-          </section>
-          <p class="theme-catalog-lead">
-            Lietuvos praeitis per žmones, vietas ir idėjas. Pasirinkite temą ir atraskite su ja
-            susijusius objektus.
-          </p>
+        <div class="popover-hint bm-list-page collection-page theme-catalog-page">
+          <CollectionIntro
+            title="Temos"
+            label="Istorijos gijos"
+            description="Atraskite istoriją per bendras temas: nuo kasdienio gyvenimo iki valstybės ir kultūros."
+            count={themes.length}
+          />
+          <CollectionNav {...props} />
           <div class="theme-catalog-grid">
             {themes.map((theme) => (
               <a class="theme-catalog-card" href={resolveRelative(fileData.slug!, theme.slug)}>
@@ -238,28 +176,20 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     }
 
     return (
-      <div class="popover-hint bm-list-page bm-folder-page">
-        <section class="bm-list-intro" aria-label="Puslapio santrauka">
-          <div>
-            <p>{folderType}</p>
-            <h1>{title}</h1>
-          </div>
-          <dl>
-            <div>
-              <dt>Įrašai</dt>
-              <dd>{folderCount}</dd>
-            </div>
-          </dl>
-        </section>
+      <div class="popover-hint bm-list-page bm-folder-page collection-page">
+        <CollectionIntro
+          title={title}
+          label="Lietuvos istorijos žinynas"
+          description={
+            collectionCategories.find(
+              ([route]) => `objektai/${route}` === String(fileData.slug).replace(/\/index$/, ""),
+            )?.[2] ?? "Tyrinėkite susijusią medžiagą ir jos šaltinius."
+          }
+          count={uniquePagesInFolder.length}
+        />
+        <CollectionNav {...props} />
         <article class={classes}>{content}</article>
         <div class="page-listing">
-          {options.showFolderCount && (
-            <p>
-              {i18n(cfg.locale).pages.folderContent.itemsUnderFolder({
-                count: uniquePagesInFolder.length,
-              })}
-            </p>
-          )}
           <div>
             <PageList {...listProps} />
           </div>
@@ -273,6 +203,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     PageList.css,
     objectDirectoryStyle,
     editorialCatalogStyle,
+    collectionStyle,
     `
 .theme-catalog-lead { max-width: 48rem; margin: 1rem 0 1.5rem; color: var(--darkgray); }
 .theme-catalog-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); gap: 0.85rem; }
